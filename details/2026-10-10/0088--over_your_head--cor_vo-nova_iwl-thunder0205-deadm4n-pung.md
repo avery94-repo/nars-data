@@ -32,17 +32,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | No-Mercynaries | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.95 | 1.14 | 1.00 | 1.09 | 0.00 | 0.00 | -61.6 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-09-02 | Team Factor | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.14 | 1.00 | 1.07 | 0.28 | 1.07 | +3.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl, smove |
 | 2026-08-28 | PerfectSymphony | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.91 | 1.12 | 1.00 | 1.02 | 0.00 | 0.00 | -55.5 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
-| 2026-08-27 | UltimateDarklordWizardz | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.44 | 1.35 | +35.9 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
+| 2026-08-27 | UltimateDarklordWizardz | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.44 | 1.35 | +35.9 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-26 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.12 | 1.00 | 1.00 | 0.00 | 0.00 | -1.9 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
-| 2026-08-25 | KODEX | W |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.32 | 1.33 | +45.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
+| 2026-08-25 | KODEX | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.32 | 1.33 | +45.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-21 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.86 | 1.12 | 1.00 | 0.97 | 0.00 | 0.00 | -55.7 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
-| 2026-08-20 | 4fun | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.63 | 1.28 | +138.7 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
+| 2026-08-20 | 4fun | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.63 | 1.28 | +138.7 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-19 | Skyline | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.85 | 1.12 | 1.00 | 0.95 | 0.47 | 0.95 | +65.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
-| 2026-08-18 | EMPIRE | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.00 | 0.00 | -43.7 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
+| 2026-08-18 | EMPIRE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.00 | 0.00 | -43.7 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-14 | Team Xtreme | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.12 | 1.00 | 0.91 | 0.00 | 0.00 | -26.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
-| 2026-08-12 | GuangdongTigers | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.80 | 1.50 | 1.00 | 1.20 | 0.00 | 0.00 | -277.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
+| 2026-08-12 | GuangdongTigers | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.50 | 1.00 | 1.20 | 0.00 | 0.00 | -277.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-12 | Moose | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.12 | 1.00 | 0.90 | 0.14 | 0.90 | +121.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
-| 2026-08-11 | HeadShot Esports | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.27 | 1.19 | +0.8 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
+| 2026-08-11 | HeadShot Esports | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.27 | 1.19 | +0.8 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-07 | WeatherTheStorm | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.77 | 1.12 | 1.00 | 0.86 | 0.11 | 0.86 | +89.5 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-05 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.12 | 1.00 | 0.85 | 0.00 | 0.00 | -77.6 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-07-31 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.12 | 1.00 | 0.81 | 0.00 | 0.00 | -140.2 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, smove |

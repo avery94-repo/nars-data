@@ -32,28 +32,28 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | SportsBetExpert | L | 1-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.56 | 1.00 | 1.56 | 0.00 | 0.00 | -3.9 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-09-10 | Conscious Gaming | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 1.00 | 1.41 | 1.00 | 1.41 | 0.40 | 1.41 | +0.2 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-09-09 | Houston Spartans | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.41 | 1.00 | 1.39 | 0.25 | 1.39 | +0.1 | CRADDOCK, Feral, Maxuel, carn, chante |
-| 2026-09-06 | Overtake Sector | L | 1-2 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -50.1 | Maxuel, carn, chante, nilsje, tatm |
-| 2026-09-06 | Overtake Sector | W |  | NSTLGA League S2 | RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 1.27 | 1.55 | +48.4 | Maxuel, carn, chante, nilsje, tatm |
-| 2026-09-06 | Beyond Limits | W |  | NSTLGA League S2 | RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 1.25 | 0.00 | +47.8 | Maxuel, carn, chante, nilsje, tatm |
-| 2026-09-06 | FarmVille | W |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 1.45 | 1.55 | +37.6 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-09-06 | FarmVille | W | 1-0 | NSTLGA League S2 | RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.54 | 1.45 | 0.00 | +64.6 | Maxuel, carn, chante, nilsje, tatm |
-| 2026-09-05 | LAG | L | 0-1 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -17.1 | Feral, Maxuel, carn, chante, tatm |
+| 2026-09-06 | Overtake Sector | L | 1-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -50.1 | Maxuel, carn, chante, nilsje, tatm |
+| 2026-09-06 | Overtake Sector | W |  | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 1.27 | 1.55 | +48.4 | Maxuel, carn, chante, nilsje, tatm |
+| 2026-09-06 | Beyond Limits | W |  | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 1.25 | 0.00 | +47.8 | Maxuel, carn, chante, nilsje, tatm |
+| 2026-09-06 | FarmVille | W |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 1.45 | 1.55 | +37.6 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-09-06 | FarmVille | W | 1-0 | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.54 | 1.45 | 0.00 | +64.6 | Maxuel, carn, chante, nilsje, tatm |
+| 2026-09-05 | LAG | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -17.1 | Feral, Maxuel, carn, chante, tatm |
 | 2026-09-04 | Beyond Limits | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.49 | 1.21 | 1.49 | +48.8 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-09-04 | F5 | W | 1-0 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.75 | 1.53 | +119.6 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-09-03 | Overtake Sector | L |  | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A | B | faceit-tournament | 0.95 | 1.59 | 1.00 | 1.51 | 0.00 | 0.00 | -37.5 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-09-03 | GuangdongTigers | W | 2-0 | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A | B | faceit-tournament | 0.95 | 1.59 | 1.00 | 1.51 | 0.90 | 1.51 | +10.5 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-09-04 | F5 | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.75 | 1.53 | +119.6 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-09-03 | Overtake Sector | L |  | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.95 | 1.59 | 1.00 | 1.51 | 0.00 | 0.00 | -37.5 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-09-03 | GuangdongTigers | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.95 | 1.59 | 1.00 | 1.51 | 0.90 | 1.51 | +10.5 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-09-03 | FRZ Unit | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 0.91 | 1.48 | +13.0 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-09-02 | Overtake Sector | L | 0-2 | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 0.00 | 0.00 | -55.1 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-09-01 | Zomblers | W | 2-0 | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 1.41 | 1.50 | +74.4 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-09-02 | Overtake Sector | L | 0-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 0.00 | 0.00 | -55.1 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-09-01 | Zomblers | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 1.41 | 1.50 | +74.4 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-08-25 | KODEX | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.31 | 1.30 | +3.5 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-08-24 | SPUUKY TO ECL | W |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.28 | 1.33 | +0.1 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-08-24 | FRZ Unit | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -96.9 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-08-23 | Phantom Sense | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.62 | 0.00 | +2.3 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-08-24 | SPUUKY TO ECL | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.28 | 1.33 | +0.1 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-08-24 | FRZ Unit | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -96.9 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-08-23 | Phantom Sense | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.62 | 0.00 | +2.3 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-08-21 | 5Fellas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.46 | 1.00 | 1.26 | 0.27 | 1.26 | +74.2 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-08-20 | Tractors | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.41 | 1.28 | +0.0 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-08-20 | Tractors | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.41 | 1.28 | +0.0 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-08-19 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.18 | 1.24 | +4.4 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-08-18 | NineFly Esports | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.00 | 0.00 | -200.4 | Maxuel, arush, carn, chante, tatm |
-| 2026-08-13 | babaG | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.81 | 1.21 | +65.5 | Maxuel, arush, carn, chante, tatm |
+| 2026-08-18 | NineFly Esports | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.00 | 0.00 | -200.4 | Maxuel, arush, carn, chante, tatm |
+| 2026-08-13 | babaG | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.81 | 1.21 | +65.5 | Maxuel, arush, carn, chante, tatm |
 | 2026-08-09 | STALLOONS BALLOONS | W | 2-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.78 | 1.24 | 1.00 | 0.97 | 0.15 | 0.97 | +0.1 | Maxuel, arush, carn, chante, tatm |
 | 2026-08-09 | PerfectSymphony | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.78 | 1.24 | 1.00 | 0.97 | 0.29 | 0.97 | +0.5 | Maxuel, arush, carn, chante, tatm |
 | 2026-08-09 | The Sweepers | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.78 | 1.24 | 1.00 | 0.97 | 0.18 | 0.97 | +0.0 | Maxuel, arush, carn, chante, tatm |

@@ -31,17 +31,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Third Prime | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.41 | 1.00 | 1.40 | 0.00 | 0.00 | -59.6 | Lukasz, Timbis12, cIoudy, depend, shiraz |
 | 2026-09-07 | UltimateDarklordWizardz | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.38 | 0.45 | 1.38 | +29.8 | Lukasz, Timbis12, cIoudy, depend, shiraz |
 | 2026-09-03 | Team Factor | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.41 | 1.00 | 1.34 | 0.35 | 1.34 | +1.4 | Lukasz, Timbis12, cIoudy, depend, shiraz |
-| 2026-08-26 | FRZ Unit | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.34 | 0.83 | 1.34 | +63.1 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
+| 2026-08-26 | FRZ Unit | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.34 | 0.83 | 1.34 | +63.1 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
 | 2026-08-25 | Tricksters | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.11 | 1.30 | +1.5 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
-| 2026-08-23 | DETONATE | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -2.5 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
-| 2026-08-20 | SPUUKY TO ECL | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.27 | 1.28 | +13.6 | Lukasz, Timbis12, depend, gosha111, shiraz |
-| 2026-08-20 | NineFly Esports | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.48 | 1.28 | +88.9 | Lukasz, Timbis12, depend, gosha111, shiraz |
+| 2026-08-23 | DETONATE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -2.5 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
+| 2026-08-20 | SPUUKY TO ECL | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.27 | 1.28 | +13.6 | Lukasz, Timbis12, depend, gosha111, shiraz |
+| 2026-08-20 | NineFly Esports | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.48 | 1.28 | +88.9 | Lukasz, Timbis12, depend, gosha111, shiraz |
 | 2026-08-15 | F5 | L | 0-2 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.83 | 1.51 | 1.00 | 1.25 | 0.00 | 0.00 | -0.9 | 9be36b62, Lukasz, depend, gosha111, shiraz |
 | 2026-08-15 | Skyline | W | 2-0 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.83 | 1.51 | 1.00 | 1.24 | 0.62 | 1.24 | +90.0 | 9be36b62, Lukasz, depend, gosha111, shiraz |
 | 2026-08-15 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.46 | 1.00 | 1.20 | 0.00 | 0.00 | -16.9 | Lukasz, Timbis12, depend, gosha111, shiraz |
 | 2026-08-12 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.17 | 0.00 | 0.00 | -15.9 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
-| 2026-08-11 | babaG | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.00 | 0.00 | -2.7 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
-| 2026-08-11 | Tractors | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.38 | 1.19 | +0.5 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
+| 2026-08-11 | babaG | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.00 | 0.00 | -2.7 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
+| 2026-08-11 | Tractors | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.38 | 1.19 | +0.5 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
 | 2026-08-07 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.46 | 1.00 | 1.12 | 0.00 | 0.00 | -2.1 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
 | 2026-08-05 | Blitzkrieg | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.10 | 0.22 | 1.10 | +105.7 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
 | 2026-08-04 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.09 | 0.00 | 0.00 | -1.9 | Lukasz, Timbis12, depend, gosha111, shiraz |

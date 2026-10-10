@@ -30,11 +30,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | HigherEducation | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.05 | 1.00 | 1.02 | 0.08 | 1.02 | +209.8 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
 | 2026-09-04 | Pixel Peek | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.05 | 1.00 | 1.00 | 0.07 | 1.00 | +88.8 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
 | 2026-09-02 | Ascend | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.05 | 1.00 | 0.99 | 0.00 | 0.00 | -194.0 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
-| 2026-08-26 | Without a Roof | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.34 | 0.00 | 0.00 | -0.0 | Kobey, Muzic, Trottah, fl3mington, ptreena |
-| 2026-08-24 | Holly Molly | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -16.8 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
-| 2026-08-24 | Third Prime | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -3.2 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
-| 2026-08-23 | Overtake Sector | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.87 | 1.50 | 1.00 | 1.31 | 0.00 | 0.00 | -0.0 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
-| 2026-08-18 | Tacos Tiramisu and Lies | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.00 | 0.00 | -0.3 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
-| 2026-08-11 | Conscious Gaming | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.00 | 0.00 | -15.5 | Kobey, Muzic, Trottah, fl3mington, ptreena |
+| 2026-08-26 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.34 | 0.00 | 0.00 | -0.0 | Kobey, Muzic, Trottah, fl3mington, ptreena |
+| 2026-08-24 | Holly Molly | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -16.8 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
+| 2026-08-24 | Third Prime | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -3.2 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
+| 2026-08-23 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.87 | 1.50 | 1.00 | 1.31 | 0.00 | 0.00 | -0.0 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
+| 2026-08-18 | Tacos Tiramisu and Lies | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.00 | 0.00 | -0.3 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
+| 2026-08-11 | Conscious Gaming | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.00 | 0.00 | -15.5 | Kobey, Muzic, Trottah, fl3mington, ptreena |
 
 _Snapshot 2026-10-10 | NARS v2 | CC BY-SA 4.0_

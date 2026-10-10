@@ -31,14 +31,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | F5 | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.37 | 0.00 | 0.00 | -81.7 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-09-06 | Asoka | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.08 | 1.00 | 1.05 | 0.00 | 0.00 | -63.0 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-09-04 | teamington | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.08 | 1.00 | 1.03 | 0.21 | 1.03 | +12.9 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
-| 2026-08-30 | Club 333 | L |  | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.93 | 1.28 | 1.00 | 1.18 | 0.00 | 0.00 | -1.6 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
-| 2026-08-27 | Omen | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -144.9 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
+| 2026-08-30 | Club 333 | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.93 | 1.28 | 1.00 | 1.18 | 0.00 | 0.00 | -1.6 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
+| 2026-08-27 | Omen | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -144.9 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-26 | Asoka | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.33 | 0.94 | +64.7 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
-| 2026-08-20 | Desi Boyz | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -41.3 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
-| 2026-08-20 | Locally Hated | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -155.8 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
+| 2026-08-20 | Desi Boyz | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -41.3 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
+| 2026-08-20 | Locally Hated | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -155.8 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-19 | Team Skyline | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.89 | 0.33 | 0.89 | +127.3 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-14 | Another Victim | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.05 | 1.00 | 0.86 | 0.00 | 0.00 | -35.6 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
-| 2026-08-13 | Bad JuJu | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.20 | 1.03 | +0.1 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
+| 2026-08-13 | Bad JuJu | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.20 | 1.03 | +0.1 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-12 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.00 | 0.00 | -106.0 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-07 | SAFIR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.12 | 0.81 | +138.9 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-05 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.10 | 0.00 | +32.5 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |

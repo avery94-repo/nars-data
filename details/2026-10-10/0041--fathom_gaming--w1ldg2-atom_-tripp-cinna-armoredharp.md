@@ -33,19 +33,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | EMPIRE | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.41 | 1.00 | 1.38 | 0.00 | 0.00 | -2.5 | ArmoredHarp, Cinna, atom_, no1nx, tripp |
 | 2026-09-07 | Ritz Enjoyers | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.38 | 0.38 | 1.38 | +19.2 | ArmoredHarp, Cinna, W1LDG2, atom_, no1nx |
 | 2026-09-03 | Zomblers | L | 1-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 0.00 | 0.00 | -3.4 | ArmoredHarp, COIN, Cinna, atom_, tripp |
-| 2026-08-27 | Swole Patrol | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -151.6 | ArmoredHarp, Cinna, atom_, tripp, xtios |
-| 2026-08-27 | Beyond Limits | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -24.8 | ArmoredHarp, Cinna, atom_, tripp, xtios |
-| 2026-08-27 | Afterimage | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.38 | 1.15 | +18.8 | ArmoredHarp, Cinna, atom_, tripp, xtios |
+| 2026-08-27 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -151.6 | ArmoredHarp, Cinna, atom_, tripp, xtios |
+| 2026-08-27 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -24.8 | ArmoredHarp, Cinna, atom_, tripp, xtios |
+| 2026-08-27 | Afterimage | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.38 | 1.15 | +18.8 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-26 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.31 | 0.28 | 1.31 | +2.3 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-25 | dice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.47 | 1.30 | +94.6 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-25 | Beneath Reality | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.21 | 1.30 | +10.9 | ArmoredHarp, Cinna, atom_, tripp, xtios |
-| 2026-08-20 | Knox Esports | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.13 | 1.09 | +0.4 | ArmoredHarp, Cinna, atom_, tripp, xtios |
-| 2026-08-20 | Firstwave | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.34 | 1.09 | +12.4 | ArmoredHarp, Cinna, atom_, tripp, xtios |
+| 2026-08-20 | Knox Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.13 | 1.09 | +0.4 | ArmoredHarp, Cinna, atom_, tripp, xtios |
+| 2026-08-20 | Firstwave | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.34 | 1.09 | +12.4 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-18 | GuangdongTigers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.46 | 1.00 | 1.23 | 0.73 | 1.23 | +37.8 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-18 | Playing for fun | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.46 | 1.00 | 1.23 | 0.00 | 0.00 | -123.8 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-17 | Third Prime | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.46 | 1.00 | 1.22 | 0.61 | 1.22 | +148.0 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-14 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -199.9 | ArmoredHarp, Cinna, atom_, tripp, xtios |
-| 2026-08-13 | Shimmer | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -570.9 | ArmoredHarp, Cinna, atom_, tripp, xtios |
+| 2026-08-13 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -570.9 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-07 | Clockwork | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.46 | 1.00 | 1.12 | 0.58 | 1.12 | +0.7 | ArmoredHarp, COIN, Cinna, atom_, tripp |
 | 2026-07-15 | 5Fellas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.46 | 1.00 | 0.90 | 0.20 | 0.90 | +175.6 | Cinna, Timbis12, W1LDG2, atom_, tripp |
 | 2026-06-19 | dice | L | 0-2 | ESEA Season 57: North American Finals | C | liquipedia | 0.44 | 1.47 | 1.00 | 0.65 | 0.00 | 0.00 | -198.1 | ArmoredHarp, Cinna, Timbis, W1LD, atom |

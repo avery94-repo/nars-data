@@ -30,13 +30,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Blitzkrieg | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.91 | 1.46 | 1.00 | 1.33 | 0.00 | 0.00 | -64.7 | LUKE4k, brett, nicotine, s3rum_, xrs0 |
 | 2026-08-26 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.31 | 0.00 | 0.00 | -76.7 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-08-25 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.00 | 0.00 | -92.8 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
-| 2026-08-25 | Team Skyline | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -94.4 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
+| 2026-08-25 | Team Skyline | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -94.4 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-08-24 | Beneath Reality | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.46 | 1.00 | 1.29 | 0.21 | 1.29 | +2.8 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
-| 2026-08-24 | Zomblers | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -31.0 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
-| 2026-08-20 | Redliners | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.42 | 1.28 | +2.6 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
+| 2026-08-24 | Zomblers | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -31.0 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
+| 2026-08-20 | Redliners | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.42 | 1.28 | +2.6 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-08-19 | Holly Molly | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.38 | 1.24 | +2.7 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
-| 2026-08-18 | Another Victim | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.37 | 1.26 | +162.7 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
-| 2026-08-13 | FarmVille | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -79.0 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
+| 2026-08-18 | Another Victim | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.37 | 1.26 | +162.7 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
+| 2026-08-13 | FarmVille | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -79.0 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-08-08 | DETONATE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.46 | 1.00 | 1.13 | 0.00 | 0.00 | -20.3 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-08-05 | Third Prime | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.10 | 0.00 | 0.00 | -146.0 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-07-31 | EMPIRE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.46 | 1.00 | 1.06 | 0.93 | 1.06 | +182.9 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |

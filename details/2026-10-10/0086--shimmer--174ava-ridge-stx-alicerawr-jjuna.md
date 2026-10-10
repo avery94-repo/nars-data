@@ -28,19 +28,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-20 | Belladonna | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.10 | 1.00 | +0.0 | Ridge, Stx, a7f5f493, alicerawr, jjuna |
 | 2026-09-20 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.20 | 1.00 | +0.8 | Ridge, Stx, a7f5f493, alicerawr, jjuna |
 | 2026-09-20 | Koi Pond | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.19 | 0.00 | +6.8 | Ridge, Stx, a7f5f493, alicerawr, jjuna |
-| 2026-09-02 | Clockwork | L |  | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.00 | 0.00 | -40.0 | Ridge, Serendipity, Stx, alicerawr, jjuna |
-| 2026-09-02 | Wanted Goons | L | 0-2 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.00 | 0.00 | -16.7 | Ridge, Stx, alicerawr, jjuna, kevin |
-| 2026-08-31 | Afterimage | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.93 | 1.28 | 1.00 | 1.19 | 0.39 | 1.19 | +53.7 | Ridge, Stx, alicerawr, kevin, mira |
-| 2026-08-27 | Knox Esports | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.13 | 1.15 | +0.8 | 174AVA, Ridge, Stx, alicerawr, jjuna |
-| 2026-08-24 | Beyond Limits | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.13 | 0.00 | 0.00 | -16.1 | 174AVA, Ridge, Stx, alicerawr, jjuna |
-| 2026-08-20 | Firstwave | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.34 | 1.09 | +16.6 | 174AVA, Ridge, Stx, alicerawr, jjuna |
+| 2026-09-02 | Clockwork | L |  | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.00 | 0.00 | -40.0 | Ridge, Serendipity, Stx, alicerawr, jjuna |
+| 2026-09-02 | Wanted Goons | L | 0-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.00 | 0.00 | -16.7 | Ridge, Stx, alicerawr, jjuna, kevin |
+| 2026-08-31 | Afterimage | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.93 | 1.28 | 1.00 | 1.19 | 0.39 | 1.19 | +53.7 | Ridge, Stx, alicerawr, kevin, mira |
+| 2026-08-27 | Knox Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.13 | 1.15 | +0.8 | 174AVA, Ridge, Stx, alicerawr, jjuna |
+| 2026-08-24 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.13 | 0.00 | 0.00 | -16.1 | 174AVA, Ridge, Stx, alicerawr, jjuna |
+| 2026-08-20 | Firstwave | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.34 | 1.09 | +16.6 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-08-19 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.10 | 1.24 | +0.2 | 174AVA, Ridge, Stx, alicerawr, jjuna |
-| 2026-08-17 | Swole Patrol | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.83 | 1.28 | 1.00 | 1.07 | 0.18 | 1.07 | +63.1 | Ridge, Serendipity, Stx, alicerawr, jjuna |
+| 2026-08-17 | Swole Patrol | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.28 | 1.00 | 1.07 | 0.18 | 1.07 | +63.1 | Ridge, Serendipity, Stx, alicerawr, jjuna |
 | 2026-08-16 | Koi Pond | W | 1-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.83 | 1.00 | 1.00 | 0.83 | 0.16 | 0.83 | +97.6 | 174AVA, Ridge, Stx, jjuna, mira |
 | 2026-08-16 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.83 | 1.00 | 1.00 | 0.83 | 0.17 | 0.00 | +4.0 | 174AVA, Ridge, Stx, jjuna, mira |
 | 2026-08-16 | Axial | W | 1-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.83 | 1.00 | 1.00 | 0.83 | 0.17 | 0.83 | +62.2 | 174AVA, Ridge, Stx, jjuna, mira |
 | 2026-08-13 | Elation | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.18 | 0.00 | 0.00 | -406.7 | 174AVA, Ridge, Stx, alicerawr, jjuna |
-| 2026-08-13 | Fathom Gaming | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.63 | 1.03 | +441.0 | 174AVA, Ridge, Stx, alicerawr, jjuna |
+| 2026-08-13 | Fathom Gaming | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.63 | 1.03 | +441.0 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-08-12 | Memeories | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.17 | 0.00 | 0.00 | -99.7 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-08-11 | KODEX | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.16 | 0.00 | 0.00 | -100.9 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-08-06 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.46 | 1.00 | 1.11 | 0.00 | 0.00 | -4.4 | 174AVA, Ridge, Stx, alicerawr, jjuna |

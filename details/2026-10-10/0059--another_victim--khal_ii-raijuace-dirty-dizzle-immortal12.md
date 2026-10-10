@@ -31,16 +31,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | FLOW STATE | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.08 | 1.00 | 1.06 | 0.40 | 1.06 | +47.0 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-09-06 | Afterimage | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.08 | 1.00 | 1.05 | 0.35 | 0.00 | +16.4 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-09-04 | Chopped | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.08 | 1.00 | 1.03 | 0.18 | 1.03 | +5.2 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
-| 2026-08-27 | Redliners | W |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.44 | 1.35 | +9.2 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
+| 2026-08-27 | Redliners | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.44 | 1.35 | +9.2 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-26 | Locally Hated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.00 | 0.00 | -99.3 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
-| 2026-08-25 | Zomblers | L |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -17.0 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
+| 2026-08-25 | Zomblers | L |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -17.0 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-21 | jork buds | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.05 | 1.00 | 0.90 | 0.07 | 0.90 | +44.1 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-19 | 3G | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.89 | 0.00 | 0.00 | -177.9 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
-| 2026-08-18 | dice | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.00 | 0.00 | -159.6 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
+| 2026-08-18 | dice | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.00 | 0.00 | -159.6 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-14 | Aura | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.05 | 1.00 | 0.86 | 0.26 | 0.86 | +35.7 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
-| 2026-08-13 | Team Skyline | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -151.8 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
+| 2026-08-13 | Team Skyline | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -151.8 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-12 | absolute cinema | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.13 | 0.84 | +15.0 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
-| 2026-08-11 | FarmVille | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.80 | 1.50 | 1.00 | 1.20 | 1.13 | 1.20 | +45.7 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
+| 2026-08-11 | FarmVille | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.50 | 1.00 | 1.20 | 1.13 | 1.20 | +45.7 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-07 | noname | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.14 | 0.81 | +139.0 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-07-31 | Lops Bakery | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.05 | 1.00 | 0.76 | 0.15 | 0.76 | +10.5 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-07-29 | Team Skyline | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.71 | 1.05 | 1.00 | 0.74 | 0.27 | 0.74 | +173.3 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |

@@ -34,8 +34,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-20 | Without a Roof | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.57 | 1.00 | 1.57 | 1.57 | 1.57 | +126.0 | 1dvrk, Zucar, brennan, fuzenko, sasha |
 | 2026-09-17 | babaG | L | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.57 | 1.00 | 1.57 | 0.00 | 0.00 | -62.4 | 1dvrk, Zucar, brennan, fuzenko, sasha |
 | 2026-09-15 | Addice | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.57 | 1.00 | 1.57 | 0.51 | 1.57 | +1.2 | 1dvrk, Zucar, brennan, fuzenko, sasha |
-| 2026-09-11 | Marsborne | L |  | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -9.9 | 1dvrk, Zucar, brennan, fuzenko, sasha |
-| 2026-09-11 | LAG | L | 0-2 | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -2.8 | 1dvrk, Zucar, brennan, fuzenko, sasha |
+| 2026-09-11 | Marsborne | L |  | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -9.9 | 1dvrk, Zucar, brennan, fuzenko, sasha |
+| 2026-09-11 | LAG | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -2.8 | 1dvrk, Zucar, brennan, fuzenko, sasha |
 | 2026-09-06 | NuTorious | W | 2-1 | NSTLGA League Season 2 | C | liquipedia | 0.97 | 1.59 | 1.00 | 1.54 | 1.07 | 1.54 | +34.2 | Zucar, fuzenko, grape, sasha, spud |
 | 2026-09-04 | FarmVille | L | 0-1 | NSTLGA League Season 2 | C | liquipedia | 0.96 | 1.59 | 1.00 | 1.53 | 0.00 | 0.00 | -33.5 | Zucar, fuzenko, grape, sasha, spud |
 | 2026-08-30 | FOR FUN | L | 1-2 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.58 | 1.00 | 1.46 | 0.00 | 0.00 | -59.2 | H0NeST, Zucar, dvrk, grape, sasha |

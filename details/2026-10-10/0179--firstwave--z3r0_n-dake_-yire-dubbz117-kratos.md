@@ -34,10 +34,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | SneezeSports | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.95 | 1.01 | 1.00 | 0.96 | 0.00 | 0.00 | -37.2 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-09-02 | We Play Naked | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.01 | 1.00 | 0.95 | 0.18 | 0.00 | +18.4 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-08-28 | SneezeSports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.91 | 1.01 | 1.00 | 0.91 | 0.00 | 0.00 | -62.6 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
-| 2026-08-20 | Shimmer | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -16.4 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
-| 2026-08-20 | Fathom Gaming | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -11.9 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
-| 2026-08-13 | Swole Patrol | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -112.4 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
-| 2026-08-13 | Beyond Limits | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.84 | 1.03 | +239.4 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
+| 2026-08-20 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -16.4 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
+| 2026-08-20 | Fathom Gaming | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -11.9 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
+| 2026-08-13 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -112.4 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
+| 2026-08-13 | Beyond Limits | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.84 | 1.03 | +239.4 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-08-12 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.00 | 0.00 | -8.4 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-08-07 | Lawyers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.77 | 1.01 | 1.00 | 0.77 | 0.00 | 0.00 | -153.5 | Dubbz117, Kratos, Yire, based, z3r0_N |
 | 2026-08-05 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -14.1 | Dubbz117, Kratos, Yire, based, z3r0_N |

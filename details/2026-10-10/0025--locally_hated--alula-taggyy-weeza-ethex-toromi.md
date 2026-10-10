@@ -37,15 +37,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-05 | ASCEND | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.41 | 1.00 | 1.36 | 0.44 | 1.36 | +1.3 | alula, ethex, taggyy, toromi, weeza |
 | 2026-09-03 | SAFIR | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.08 | 1.00 | 1.03 | 0.15 | 1.03 | +3.1 | alula, ethex, taggyy, toromi, weeza |
 | 2026-08-28 | noname | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.95 | 0.17 | 0.95 | +95.0 | alula, ethex, taggyy, toromi, weeza |
-| 2026-08-28 | Omen | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.91 | 1.28 | 1.00 | 1.16 | 0.00 | 0.00 | -109.1 | alula, ethex, taggyy, thewhiteKING, weeza |
-| 2026-08-27 | Desi Boyz | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -8.6 | alula, ethex, taggyy, toromi, weeza |
+| 2026-08-28 | Omen | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.91 | 1.28 | 1.00 | 1.16 | 0.00 | 0.00 | -109.1 | alula, ethex, taggyy, thewhiteKING, weeza |
+| 2026-08-27 | Desi Boyz | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -8.6 | alula, ethex, taggyy, toromi, weeza |
 | 2026-08-26 | Another Victim | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.27 | 0.00 | +104.2 | alula, ethex, taggyy, toromi, weeza |
 | 2026-08-21 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.05 | 1.00 | 0.90 | 0.11 | 0.90 | +5.7 | ethex, taggyy, thewhiteKING, toromi, weeza |
-| 2026-08-20 | Bad JuJu | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.21 | 1.09 | +1.6 | ethex, taggyy, thewhiteKING, toromi, weeza |
-| 2026-08-20 | Aura | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.33 | 1.09 | +158.5 | ethex, taggyy, thewhiteKING, toromi, weeza |
+| 2026-08-20 | Bad JuJu | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.21 | 1.09 | +1.6 | ethex, taggyy, thewhiteKING, toromi, weeza |
+| 2026-08-20 | Aura | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.33 | 1.09 | +158.5 | ethex, taggyy, thewhiteKING, toromi, weeza |
 | 2026-08-19 | Carbon | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.89 | 0.22 | 0.89 | +4.0 | ethex, taggyy, thewhiteKING, toromi, weeza |
 | 2026-08-14 | Ritz Enjoyers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.05 | 1.00 | 0.86 | 0.24 | 0.86 | +65.1 | alula, ethex, taggyy, toromi, weeza |
-| 2026-08-13 | Club 333 | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -0.0 | alula, ethex, taggyy, toromi, weeza |
+| 2026-08-13 | Club 333 | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -0.0 | alula, ethex, taggyy, toromi, weeza |
 | 2026-08-07 | Team Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.00 | 0.00 | -35.9 | alula, ethex, taggyy, toromi, weeza |
 | 2026-08-05 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.00 | 0.00 | -75.5 | alula, ethex, taggyy, toromi, weeza |
 | 2026-07-29 | freaky five | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.71 | 1.05 | 1.00 | 0.74 | 0.28 | 0.74 | +0.7 | alula, ethex, taggyy, toromi, weeza |

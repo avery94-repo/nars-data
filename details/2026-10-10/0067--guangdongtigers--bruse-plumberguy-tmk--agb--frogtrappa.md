@@ -31,21 +31,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-09 | Carbon | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.41 | 1.00 | 1.39 | 0.35 | 1.39 | +2.0 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-09-08 | Memeories | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.41 | 1.00 | 1.38 | 0.66 | 1.38 | +4.1 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-09-07 | O Fire | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.38 | 0.28 | 1.38 | +0.8 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
-| 2026-09-03 | DETONATE | L | 0-2 | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A | B | faceit-tournament | 0.95 | 1.59 | 1.00 | 1.51 | 0.00 | 0.00 | -10.5 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
-| 2026-09-02 | Zomblers | W | 2-1 | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 1.41 | 1.50 | +93.3 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
-| 2026-09-02 | Overtake Sector | W | 1-2 | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 1.24 | 1.50 | +134.8 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
+| 2026-09-03 | DETONATE | L | 0-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.95 | 1.59 | 1.00 | 1.51 | 0.00 | 0.00 | -10.5 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
+| 2026-09-02 | Zomblers | W | 2-1 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 1.41 | 1.50 | +93.3 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
+| 2026-09-02 | Overtake Sector | W | 1-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 1.24 | 1.50 | +134.8 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-08-28 | Brahmas | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.91 | 1.46 | 1.00 | 1.33 | 0.00 | 0.00 | -91.2 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-08-25 | barry pickers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.21 | 1.30 | +2.1 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-08-25 | Addice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.00 | 0.00 | -163.9 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
-| 2026-08-25 | 4fun | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.65 | 1.33 | +119.1 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
-| 2026-08-24 | KODEX | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.32 | 1.32 | +178.8 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
-| 2026-08-24 | EMPIRE | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -5.0 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
+| 2026-08-25 | 4fun | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.65 | 1.33 | +119.1 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
+| 2026-08-24 | KODEX | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.32 | 1.32 | +178.8 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
+| 2026-08-24 | EMPIRE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -5.0 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-08-21 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.46 | 1.00 | 1.26 | 0.47 | 1.26 | +86.8 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
-| 2026-08-20 | HeadShot Esports | W |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.28 | 1.28 | +3.2 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
+| 2026-08-20 | HeadShot Esports | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.28 | 1.28 | +3.2 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-08-18 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.46 | 1.00 | 1.23 | 0.00 | 0.00 | -38.2 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
 | 2026-08-14 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.10 | 1.19 | +1.7 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
-| 2026-08-12 | Over Your Head | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.80 | 1.50 | 1.00 | 1.20 | 0.25 | 1.20 | +267.8 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
-| 2026-08-07 | UltimateDarklordWizardz | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.77 | 1.50 | 1.00 | 1.15 | 0.37 | 1.15 | +260.3 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
+| 2026-08-12 | Over Your Head | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.50 | 1.00 | 1.20 | 0.25 | 1.20 | +267.8 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
+| 2026-08-07 | UltimateDarklordWizardz | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.50 | 1.00 | 1.15 | 0.37 | 1.15 | +260.3 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
 | 2026-08-07 | Room Temp IQs | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.46 | 1.00 | 1.12 | 0.00 | 0.00 | -154.6 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
 | 2026-08-05 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.10 | 0.17 | 1.10 | +129.3 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
 | 2026-07-29 | Omen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.46 | 1.00 | 1.04 | 0.00 | 0.00 | -0.0 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |

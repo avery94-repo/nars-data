@@ -35,12 +35,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | Locally Hated | L |  | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 1.00 | 1.52 | 1.00 | 1.52 | 0.00 | 0.00 | -34.4 | Crisp, Dropcs, HUNCHO, REKMEISTERxD, jared |
 | 2026-09-10 | ANTIVALUE | L |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.59 | 0.00 | 0.00 | -30.0 | core 3/5 |
 | 2026-09-09 | Marsborne | L |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.58 | 0.00 | 0.00 | -0.7 | core 3/5 |
-| 2026-09-06 | Wanted Goons | W |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 1.32 | 1.56 | +39.9 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-09-06 | F5 | W |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.76 | 1.55 | +43.3 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-09-05 | Villainous | L |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -21.4 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-09-05 | Clockwork | L | 0-1 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -60.6 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-09-06 | Wanted Goons | W |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 1.32 | 1.56 | +39.9 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-09-06 | F5 | W |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.76 | 1.55 | +43.3 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-09-05 | Villainous | L |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -21.4 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-09-05 | Clockwork | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -60.6 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-09-05 | VILLAINOUS | L |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -33.9 | core 3/5 |
-| 2026-09-04 | Desi Boyz | L | 0-1 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -32.4 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-09-04 | Desi Boyz | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -32.4 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-09-04 | Axial | L |  | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -72.0 | core 3/5 |
 | 2026-09-03 | DESI BOYZ | L |  | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.52 | 0.00 | 0.00 | -38.4 | core 3/5 |
 | 2026-08-30 | OVERTAKE SECTOR | L |  | VRS-tracked 2026-08 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 0.00 | 0.00 | -58.2 | core 3/5 |

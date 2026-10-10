@@ -31,15 +31,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-03 | Desi Boyz | L | 1-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 0.00 | 0.00 | -0.7 | -Ayz-, T1M3, noiro, pierson, xue |
 | 2026-09-02 | NineFly Esports | L | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.41 | 1.00 | 1.33 | 0.00 | 0.00 | -98.6 | -Ayz-, T1M3, noiro, pierson, xue |
 | 2026-09-01 | Tacos Tiramisu and Lies | W | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.41 | 1.00 | 1.32 | 0.48 | 1.32 | +58.8 | -Ayz-, T1M3, noiro, pierson, xue |
-| 2026-08-27 | HeadShot Esports | W |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.30 | 1.35 | +0.2 | -Ayz-, T1M3, noiro, pierson, xue |
-| 2026-08-25 | GuangdongTigers | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -119.6 | -Ayz-, T1M3, noiro, pierson, xue |
-| 2026-08-24 | EMPIRE | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -75.3 | -Ayz-, T1M3, noiro, pierson, xue |
+| 2026-08-27 | HeadShot Esports | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.30 | 1.35 | +0.2 | -Ayz-, T1M3, noiro, pierson, xue |
+| 2026-08-25 | GuangdongTigers | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -119.6 | -Ayz-, T1M3, noiro, pierson, xue |
+| 2026-08-24 | EMPIRE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -75.3 | -Ayz-, T1M3, noiro, pierson, xue |
 | 2026-08-21 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.46 | 1.00 | 1.26 | 0.30 | 1.26 | +1.3 | -Ayz-, T1M3, noiro, pierson, xue |
-| 2026-08-20 | Over Your Head | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -144.3 | -Ayz-, T1M3, noiro, pierson, xue |
-| 2026-08-20 | UltimateDarklordWizardz | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.41 | 1.28 | +0.3 | -Ayz-, T1M3, noiro, pierson, xue |
+| 2026-08-20 | Over Your Head | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -144.3 | -Ayz-, T1M3, noiro, pierson, xue |
+| 2026-08-20 | UltimateDarklordWizardz | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.41 | 1.28 | +0.3 | -Ayz-, T1M3, noiro, pierson, xue |
 | 2026-08-19 | Will Snaked Us | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.14 | 1.24 | +0.1 | -Ayz-, T1M3, noiro, pierson, xue |
 | 2026-08-12 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.17 | 0.00 | 0.00 | -221.2 | -Ayz-, T1M3, noiro, pierson, xue |
-| 2026-08-11 | KODEX | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.28 | 1.19 | +2.0 | -Ayz-, T1M3, noiro, pierson, xue |
+| 2026-08-11 | KODEX | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.28 | 1.19 | +2.0 | -Ayz-, T1M3, noiro, pierson, xue |
 | 2026-08-07 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.46 | 1.00 | 1.12 | 0.00 | 0.00 | -99.8 | -Ayz-, T1M3, noiro, pierson, xue |
 | 2026-08-05 | Brahmas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.10 | 0.35 | 1.10 | +172.8 | -Ayz-, T1M3, noiro, pierson, xue |
 | 2026-07-22 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.46 | 1.00 | 0.97 | 0.00 | 0.00 | -149.3 | -Ayz-, SeRCEra, T1M3, noiro, xue |

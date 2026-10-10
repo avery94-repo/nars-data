@@ -28,14 +28,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-15 | 1001 Fragrance | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | +79.7 | Adeft-, KillerSway, LevelDown, NIWIH, Toast |
 | 2026-09-12 | WaterDrinkers | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.19 | 1.00 | +88.6 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-09-04 | Graveyard Shift | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -4.8 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
-| 2026-08-27 | Desi Boyz | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
+| 2026-08-27 | Desi Boyz | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-27 | StayAtHomeDads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.16 | 0.90 | +57.5 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-26 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -118.4 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
-| 2026-08-25 | Omen | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.73 | 1.14 | +164.6 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
-| 2026-08-20 | Locally Hated | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -1.6 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
+| 2026-08-25 | Omen | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.73 | 1.14 | +164.6 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
+| 2026-08-20 | Locally Hated | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -1.6 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-18 | BigThree | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.14 | 0.84 | +97.5 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
-| 2026-08-14 | Club 333 | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.04 | 0.00 | 0.00 | -0.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
-| 2026-08-13 | Aura | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -0.1 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
+| 2026-08-14 | Club 333 | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.04 | 0.00 | 0.00 | -0.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
+| 2026-08-13 | Aura | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -0.1 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-12 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.10 | 0.80 | +53.9 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-06 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.14 | 0.76 | +65.5 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-05 | Tryzub Gaming | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -133.6 | Adeft-, LevelDown, NIWIH, Toast, mooseM |

@@ -26,16 +26,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-05 | Marsborne | L | 0-2 | PGL Masters Bucharest 2026: North American Open Qualifier #1 | C | liquipedia | 0.96 | 1.59 | 1.00 | 1.53 | 0.00 | 0.00 | -0.0 | Balto, Eclipse, Hawkins, Reese, RustyVibe |
 | 2026-09-04 | XDXD | W | 1-0 | PGL Masters Bucharest 2026: North American Open Qualifier #1 | C | liquipedia | 0.95 | 1.59 | 1.00 | 1.52 | 1.14 | 0.00 | +177.4 | Balto, Eclipse, Hawkins, Reese, RustyVibe |
-| 2026-08-27 | Memeories | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.4 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
-| 2026-08-27 | Playing for fun | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.0 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
-| 2026-08-27 | 3G | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.0 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
+| 2026-08-27 | Memeories | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.4 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
+| 2026-08-27 | Playing for fun | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.0 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
+| 2026-08-27 | 3G | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.0 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-26 | DEATHxGAMERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.06 | 0.00 | +96.7 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-21 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.05 | 1.00 | 0.90 | 0.18 | 0.90 | +110.3 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
-| 2026-08-20 | makeSHIFT | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -0.0 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
-| 2026-08-20 | Wanted Goons | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -0.0 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
+| 2026-08-20 | makeSHIFT | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -0.0 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
+| 2026-08-20 | Wanted Goons | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -0.0 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-19 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.89 | 0.00 | 0.00 | -104.6 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-14 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.05 | 1.00 | 0.86 | 0.12 | 0.86 | +18.4 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
-| 2026-08-13 | Sleepless_Gaming | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -14.3 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
+| 2026-08-13 | Sleepless_Gaming | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -14.3 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-07 | Old Dads Banging | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.00 | 0.00 | -140.0 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-06 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.05 | 1.00 | 0.80 | 0.15 | 0.80 | +164.7 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-07-31 | In Our Prime | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.05 | 1.00 | 0.76 | 0.00 | 0.00 | -126.6 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |

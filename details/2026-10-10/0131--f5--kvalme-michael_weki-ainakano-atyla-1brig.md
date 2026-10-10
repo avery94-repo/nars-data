@@ -35,12 +35,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | FlyQuest RED | L | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.41 | 1.00 | 1.38 | 0.00 | 0.00 | -32.1 | Michael_Weki, SeRCEra, ainakano, atyla, kvalme |
 | 2026-09-07 | Aura | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.37 | 0.41 | 1.37 | +82.7 | Michael_Weki, SeRCEra, ainakano, atyla, kvalme |
 | 2026-09-05 | Demolition | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.41 | 1.00 | 1.36 | 0.33 | 1.36 | +29.8 | Michael_Weki, SeRCEra, ainakano, atyla, kvalme |
-| 2026-08-23 | Chuck E Cheese | L |  | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.00 | 0.00 | -145.4 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
-| 2026-08-23 | Elusive | L |  | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.00 | 0.00 | -110.2 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
-| 2026-08-23 | Olympus | L |  | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.00 | 0.00 | -4.1 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
-| 2026-08-23 | freaky five | L |  | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.00 | 0.00 | -201.8 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
-| 2026-08-19 | Clockwork | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.08 | 0.56 | 1.08 | +0.2 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
-| 2026-08-08 | Epochal Esports | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.77 | 1.28 | 1.00 | 0.99 | 0.25 | 0.99 | +0.0 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
+| 2026-08-23 | Chuck E Cheese | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.00 | 0.00 | -145.4 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
+| 2026-08-23 | Elusive | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.00 | 0.00 | -110.2 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
+| 2026-08-23 | Olympus | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.00 | 0.00 | -4.1 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
+| 2026-08-23 | freaky five | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.00 | 0.00 | -201.8 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
+| 2026-08-19 | Clockwork | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.08 | 0.56 | 1.08 | +0.2 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
+| 2026-08-08 | Epochal Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.77 | 1.28 | 1.00 | 0.99 | 0.25 | 0.99 | +0.0 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
 | 2026-08-03 | F5 | L | 1-2 | SoFlo Slam 2 | C | faceit-tournament | 0.74 | 1.18 | 1.00 | 0.88 | 0.00 | 0.00 | -150.0 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
 | 2026-08-01 | Tacos Tiramisu and Lies | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.73 | 1.18 | 1.00 | 0.87 | 0.31 | 0.87 | +105.6 | 1bright, Michael_Weki, ainakano, atyla, kvalme |
 | 2026-08-01 | Asoka | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.73 | 1.18 | 1.00 | 0.87 | 0.31 | 0.87 | +33.1 | 1bright, Michael_Weki, ainakano, atyla, kvalme |

@@ -32,16 +32,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-03 | UltimateDarklordWizardz | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.41 | 1.00 | 1.34 | 0.43 | 1.34 | +19.1 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
 | 2026-08-28 | Brahmas | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.91 | 1.46 | 1.00 | 1.33 | 0.00 | 0.00 | -24.1 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
 | 2026-08-28 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.91 | 1.46 | 1.00 | 1.33 | 0.32 | 0.00 | +1.0 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
-| 2026-08-27 | Conscious Gaming | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.38 | 1.35 | +153.1 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
-| 2026-08-25 | Tacos Tiramisu and Lies | W |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.48 | 1.33 | +106.9 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
-| 2026-08-24 | FlockMunchers | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.24 | 1.32 | +3.1 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
+| 2026-08-27 | Conscious Gaming | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.38 | 1.35 | +153.1 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
+| 2026-08-25 | Tacos Tiramisu and Lies | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.48 | 1.33 | +106.9 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
+| 2026-08-24 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.24 | 1.32 | +3.1 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
 | 2026-08-21 | Will Snaked Us | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.46 | 1.00 | 1.26 | 0.15 | 1.26 | +8.5 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
-| 2026-08-20 | Overtake Sector | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -0.0 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
+| 2026-08-20 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -0.0 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
 | 2026-08-19 | Memeories | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.00 | 0.00 | -209.9 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
 | 2026-08-17 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.46 | 1.00 | 1.22 | 0.00 | 0.00 | -131.7 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
 | 2026-08-14 | F5 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -72.3 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
-| 2026-08-13 | Without a Roof | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -110.4 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
-| 2026-08-12 | Holly Molly | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.80 | 1.50 | 1.00 | 1.20 | 0.37 | 1.20 | +1.2 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
+| 2026-08-13 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -110.4 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
+| 2026-08-12 | Holly Molly | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.50 | 1.00 | 1.20 | 0.37 | 1.20 | +1.2 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
 | 2026-08-10 | regain | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.15 | 0.00 | 0.00 | -26.1 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
 | 2026-08-07 | Omen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.46 | 1.00 | 1.12 | 0.72 | 1.12 | +108.9 | Kranoli-, LittleBEER, Willie, glorinsz, roca |
 | 2026-08-06 | firesale | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.46 | 1.00 | 1.11 | 0.19 | 1.11 | +2.1 | Kranoli-, LittleBEER, Willie, glorinsz, roca |

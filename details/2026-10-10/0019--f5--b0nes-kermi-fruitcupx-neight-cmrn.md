@@ -30,10 +30,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-16 | Slimy Boogermen | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.56 | 1.00 | 1.56 | 0.49 | 0.00 | +27.0 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-09-15 | Third Prime | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.57 | 1.00 | 1.57 | 0.79 | 0.00 | +34.8 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-09-12 | LAG | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.56 | 1.00 | 1.56 | 0.00 | 0.00 | -2.0 | Fruitcupx, b0nes, cmrn, kermi, neight |
-| 2026-09-06 | Clockwork | W |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.81 | 1.56 | +2.8 | Fruitcupx, b0nes, cmrn, kermi, neight |
-| 2026-09-06 | Chicken Coop | L |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -45.9 | Fruitcupx, b0nes, cmrn, kermi, neight |
-| 2026-09-05 | Beyond Limits | L | 0-1 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -91.0 | Fruitcupx, b0nes, cmrn, kermi, neight |
-| 2026-09-04 | DETONATE | L | 0-1 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -127.1 | Fruitcupx, b0nes, cmrn, kermi, neight |
+| 2026-09-06 | Clockwork | W |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.81 | 1.56 | +2.8 | Fruitcupx, b0nes, cmrn, kermi, neight |
+| 2026-09-06 | Chicken Coop | L |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -45.9 | Fruitcupx, b0nes, cmrn, kermi, neight |
+| 2026-09-05 | Beyond Limits | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -91.0 | Fruitcupx, b0nes, cmrn, kermi, neight |
+| 2026-09-04 | DETONATE | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -127.1 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-09-03 | FlyQuest RED | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 1.03 | 1.48 | +3.4 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-08-29 | Club 333 | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.91 | 1.46 | 1.00 | 1.34 | 0.93 | 1.34 | +119.7 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-08-26 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.31 | 0.41 | 1.31 | +8.5 | Fruitcupx, b0nes, cmrn, kermi, neight |

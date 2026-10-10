@@ -38,21 +38,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Beyond Limits | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.41 | 1.00 | 1.40 | 1.14 | 1.40 | +118.3 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-09-09 | dice | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.41 | 1.00 | 1.39 | 0.00 | 0.00 | -192.0 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-09-06 | Tractors | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.37 | 0.44 | 1.37 | +0.0 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
-| 2026-09-03 | Desi Boyz | L | 0-2 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group B | B | faceit-tournament | 0.95 | 1.52 | 1.00 | 1.44 | 0.00 | 0.00 | -53.7 | Bizarre666, Sanzh1k33, k6rdon, relan, tarturb0b |
-| 2026-09-02 | Sleepless_Gaming | W | 2-0 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.43 | 0.00 | +0.3 | Bizarre666, Sanzh1k33, k6rdon, relan, tarturb0b |
-| 2026-09-02 | Desi Boyz | W | 1-2 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.73 | 0.00 | +67.3 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
+| 2026-09-03 | Desi Boyz | L | 0-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.95 | 1.52 | 1.00 | 1.44 | 0.00 | 0.00 | -53.7 | Bizarre666, Sanzh1k33, k6rdon, relan, tarturb0b |
+| 2026-09-02 | Sleepless_Gaming | W | 2-0 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.43 | 0.00 | +0.3 | Bizarre666, Sanzh1k33, k6rdon, relan, tarturb0b |
+| 2026-09-02 | Desi Boyz | W | 1-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.73 | 0.00 | +67.3 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-30 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.93 | 1.46 | 1.00 | 1.36 | 0.00 | 0.00 | -3.2 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-30 | Overtake Sector | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.92 | 1.46 | 1.00 | 1.35 | 0.00 | 0.00 | -70.7 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
-| 2026-08-27 | Clockwork | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.60 | 0.00 | +0.3 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
-| 2026-08-27 | freaky five | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.44 | 1.15 | +0.1 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
+| 2026-08-27 | Clockwork | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.60 | 0.00 | +0.3 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
+| 2026-08-27 | freaky five | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.44 | 1.15 | +0.1 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-27 | LAG | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.46 | 1.00 | 1.32 | 0.00 | 0.00 | -50.9 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
-| 2026-08-25 | Chuck E Cheese | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.28 | 1.14 | +0.0 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
-| 2026-08-23 | F5 | W |  | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.65 | 1.12 | +4.0 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
-| 2026-08-20 | Epochal Esports | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.27 | 1.09 | +0.0 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
+| 2026-08-25 | Chuck E Cheese | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.28 | 1.14 | +0.0 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
+| 2026-08-23 | F5 | W |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.65 | 1.12 | +4.0 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
+| 2026-08-20 | Epochal Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.27 | 1.09 | +0.0 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-19 | firesale | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.21 | 1.24 | +0.1 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-19 | Desi Boyz | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.63 | 1.24 | +109.4 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-18 | EMPIRE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.46 | 1.00 | 1.23 | 1.09 | 0.00 | +67.4 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
-| 2026-08-13 | Elusive | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.45 | 1.03 | +50.6 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
+| 2026-08-13 | Elusive | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.45 | 1.03 | +50.6 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-12 | NZ Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.17 | 0.20 | 0.00 | +103.7 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-11 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.16 | 0.17 | 1.16 | +2.0 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-06 | Smokepoint | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.46 | 1.00 | 1.11 | 0.28 | 1.11 | +19.9 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |

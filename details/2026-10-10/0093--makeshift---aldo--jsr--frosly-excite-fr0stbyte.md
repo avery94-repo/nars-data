@@ -33,12 +33,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-03 | ReGen | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.11 | 0.99 | +14.6 | -aldo-, excite, fr0stbyte, frosly, jsr- |
 | 2026-09-02 | No Namers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.05 | 0.98 | +1.1 | -aldo-, excite, fr0stbyte, frosly, jsr- |
 | 2026-08-30 | UNREAL NIGHTMARE | L | 1-2 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.58 | 1.00 | 1.46 | 0.00 | 0.00 | -21.5 | aldo, excite, fr0stbyte, frosly, jsr |
-| 2026-08-27 | Wanted Goons | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -34.8 | -aldo-, excite, fr0stbyte, frosly, jsr- |
-| 2026-08-25 | 3G | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.00 | 0.00 | -82.8 | -aldo-, excite, fr0stbyte, frosly, jsr- |
-| 2026-08-22 | Sleepless_Gaming | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.87 | 1.28 | 1.00 | 1.11 | 0.00 | 0.00 | -143.6 | -aldo-, excite, fr0stbyte, frosly, jsr- |
-| 2026-08-20 | The Homies | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.23 | 1.09 | +0.0 | -aldo-, excite, fr0stbyte, frosly, jsr- |
-| 2026-08-13 | Memeories | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.49 | 1.03 | +62.9 | -aldo-, Jumble, excite, fr0stbyte, jsr- |
-| 2026-08-12 | Playing for fun | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.80 | 1.28 | 1.00 | 1.02 | 0.39 | 1.02 | +515.8 | -aldo-, argy, fr0stbyte, frosly, jsr- |
+| 2026-08-27 | Wanted Goons | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -34.8 | -aldo-, excite, fr0stbyte, frosly, jsr- |
+| 2026-08-25 | 3G | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.00 | 0.00 | -82.8 | -aldo-, excite, fr0stbyte, frosly, jsr- |
+| 2026-08-22 | Sleepless_Gaming | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.87 | 1.28 | 1.00 | 1.11 | 0.00 | 0.00 | -143.6 | -aldo-, excite, fr0stbyte, frosly, jsr- |
+| 2026-08-20 | The Homies | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.23 | 1.09 | +0.0 | -aldo-, excite, fr0stbyte, frosly, jsr- |
+| 2026-08-13 | Memeories | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.49 | 1.03 | +62.9 | -aldo-, Jumble, excite, fr0stbyte, jsr- |
+| 2026-08-12 | Playing for fun | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.80 | 1.28 | 1.00 | 1.02 | 0.39 | 1.02 | +515.8 | -aldo-, argy, fr0stbyte, frosly, jsr- |
 | 2026-07-14 | Afterimage | L |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.61 | 1.38 | 1.00 | 0.84 | 0.00 | 0.00 | -28.1 | -aldo-, excite, fr0stbyte, frosly, jsr- |
 | 2026-06-12 | Armored Talent | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -163.9 | -aldo-, Chkemi, M0nroe_, fr0stbyte, jsr- |
 | 2026-06-10 | Retired Aimers | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.01 | 0.38 | +114.6 | -aldo-, Chkemi, M0nroe_, fr0stbyte, jsr- |

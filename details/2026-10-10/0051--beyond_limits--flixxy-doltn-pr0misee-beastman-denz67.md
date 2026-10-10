@@ -31,33 +31,33 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | Omen | L | 1-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.56 | 1.00 | 1.56 | 0.00 | 0.00 | -117.3 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-10 | Olympus | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.41 | 1.00 | 1.40 | 0.00 | 0.00 | -108.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-08 | dice | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.41 | 1.00 | 1.38 | 0.50 | 1.38 | +0.5 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-09-07 | FarmVille | L | 1-2 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -49.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-09-07 | FarmVille | L | 1-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -49.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-06 | Iowa Stormboar | L | 0-2 | NSTLGA League Season 2 | C | liquipedia | 0.97 | 1.59 | 1.00 | 1.55 | 0.00 | 0.00 | -58.0 | Beastman, Pr0mise, denz, doltn, flixxy |
-| 2026-09-06 | DETONATE | L |  | NSTLGA League S2 | RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -50.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-09-06 | DETONATE | L |  | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -50.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-06 | Tractors | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.37 | 0.44 | 1.37 | +0.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-09-06 | Without a Roof | W |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 1.55 | 1.55 | +58.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-09-05 | Without a Roof | W | 1-0 | NSTLGA League S2 | RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.54 | 1.54 | 0.00 | +85.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-09-05 | F5 | W | 1-0 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.75 | 0.00 | +85.6 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-09-06 | Without a Roof | W |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 1.55 | 1.55 | +58.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-09-05 | Without a Roof | W | 1-0 | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.54 | 1.54 | 0.00 | +85.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-09-05 | F5 | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.75 | 0.00 | +85.6 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-05 | NuTorious | W | 1-0 | NSTLGA League Season 2 | C | liquipedia | 0.96 | 1.59 | 1.00 | 1.53 | 1.06 | 1.53 | +26.0 | Beastman, Pr0mise, denz, doltn, flixxy |
 | 2026-09-04 | DETONATE | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.49 | 0.00 | 0.00 | -48.6 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-04 | DETONATE | L | 0-2 | ESEA Season 58: Advanced Division - North America | C | liquipedia | 0.95 | 1.57 | 1.00 | 1.50 | 0.00 | 0.00 | -75.3 | Beastman, Pr0mise, denz, doltn, flixxy |
-| 2026-09-04 | LAG | L | 0-1 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -16.1 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-09-03 | Desi Boyz | W |  | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group B | B | faceit-tournament | 0.95 | 1.52 | 1.00 | 1.44 | 0.74 | 1.44 | +52.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-09-04 | LAG | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -16.1 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-09-03 | Desi Boyz | W |  | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.95 | 1.52 | 1.00 | 1.44 | 0.74 | 1.44 | +52.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-03 | Memeories | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 0.71 | 1.48 | +0.1 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-03 | CELESTIAL ESPORTS | W | 2-0 | ESEA Season 58: Advanced Division - North America | C | liquipedia | 0.95 | 1.57 | 1.00 | 1.49 | 1.12 | 0.00 | +39.1 | Beastman, Pr0mise, denz, doltn, flixxy |
-| 2026-09-02 | Desi Boyz | L | 2-1 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.00 | 0.00 | -47.8 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-09-02 | Sleepless_Gaming | W | 2-0 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.43 | 0.00 | +0.2 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-09-02 | Desi Boyz | L | 2-1 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.00 | 0.00 | -47.8 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-09-02 | Sleepless_Gaming | W | 2-0 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.43 | 0.00 | +0.2 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-08-28 | Holy Squid Empire | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.91 | 1.46 | 1.00 | 1.33 | 0.37 | 1.33 | +42.8 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-08-27 | Fathom Gaming | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.70 | 0.00 | +25.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-08-27 | Fathom Gaming | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.70 | 0.00 | +25.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-08-26 | Brahmas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.31 | 0.41 | 1.31 | +16.5 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-08-25 | SparkExchange io | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.37 | 1.30 | +83.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-08-24 | Swole Patrol | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.13 | 0.19 | 1.13 | +7.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-08-24 | Shimmer | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.13 | 0.40 | 1.13 | +16.1 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-08-24 | Swole Patrol | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.13 | 0.19 | 1.13 | +7.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-08-24 | Shimmer | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.13 | 0.40 | 1.13 | +16.1 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-08-19 | F5 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.00 | 0.00 | -45.5 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-08-18 | Afterimage | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.84 | 1.28 | 1.00 | 1.08 | 0.36 | 1.08 | +3.8 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-08-18 | Afterimage | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.28 | 1.00 | 1.08 | 0.36 | 1.08 | +3.8 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-08-14 | Fathom Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.73 | 1.19 | +181.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-08-13 | Knox Esports | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.12 | 1.03 | +0.2 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-08-13 | Firstwave | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -246.4 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-08-13 | Knox Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.12 | 1.03 | +0.2 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-08-13 | Firstwave | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -246.4 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-08-11 | FlyQuest RED | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.16 | 0.81 | 0.00 | +51.2 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-08-05 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.10 | 0.27 | 1.10 | +5.5 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-07-31 | Memeories | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.46 | 1.00 | 1.06 | 0.00 | 0.00 | -343.2 | Beastman, Pr0misee, denz67, doltn, flixxy |

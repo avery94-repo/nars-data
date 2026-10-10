@@ -34,16 +34,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | BucketJonsBoys | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.08 | 1.00 | 1.03 | 0.43 | 1.03 | +1.8 | 1Freaky, SarkasM, borb_, leae, swifty |
 | 2026-08-27 | 3G | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.95 | 0.00 | 0.00 | -141.3 | 1Freaky, SarkasM, borb_, leae, swifty |
 | 2026-08-26 | absolute cinema | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.14 | 0.94 | +50.9 | 1Freaky, SarkasM, borb_, leae, swifty |
-| 2026-08-25 | dice | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.48 | 1.33 | +90.2 | 1Freaky, SarkasM, borb_, leae, swifty |
-| 2026-08-23 | FarmVille | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.87 | 1.50 | 1.00 | 1.31 | 0.00 | 0.00 | -50.1 | 1Freaky, SarkasM, borb_, leae, swifty |
+| 2026-08-25 | dice | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.48 | 1.33 | +90.2 | 1Freaky, SarkasM, borb_, leae, swifty |
+| 2026-08-23 | FarmVille | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.87 | 1.50 | 1.00 | 1.31 | 0.00 | 0.00 | -50.1 | 1Freaky, SarkasM, borb_, leae, swifty |
 | 2026-08-21 | Asoka | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.05 | 1.00 | 0.90 | 0.32 | 0.90 | +59.4 | 1Freaky, SarkasM, borb_, leae, swifty |
-| 2026-08-20 | Zomblers | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -35.4 | 1Freaky, SarkasM, borb_, leae, swifty |
+| 2026-08-20 | Zomblers | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -35.4 | 1Freaky, SarkasM, borb_, leae, swifty |
 | 2026-08-19 | Aura | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.89 | 0.00 | 0.00 | -126.7 | 1Freaky, SarkasM, borb_, leae, swifty |
 | 2026-08-15 | Villainous | L | 0-2 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.83 | 1.51 | 1.00 | 1.25 | 0.00 | 0.00 | -71.1 | 1Freaky, SarkasM, borb_, leae, swifty |
 | 2026-08-15 | Storm Surge | W | 2-0 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.83 | 1.51 | 1.00 | 1.24 | 0.27 | 1.24 | +0.9 | 1Freaky, SarkasM, borb_, leae, swifty |
 | 2026-08-14 | noname | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.05 | 1.00 | 0.86 | 0.15 | 0.86 | +102.6 | 1Freaky, Redman_-, SarkasM, leae, swifty |
-| 2026-08-13 | Redliners | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.39 | 1.21 | +0.7 | 1Freaky, Redman_-, SarkasM, leae, swifty |
-| 2026-08-13 | Another Victim | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.35 | 1.21 | +129.3 | 1Freaky, Redman_-, SarkasM, leae, swifty |
+| 2026-08-13 | Redliners | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.39 | 1.21 | +0.7 | 1Freaky, Redman_-, SarkasM, leae, swifty |
+| 2026-08-13 | Another Victim | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.35 | 1.21 | +129.3 | 1Freaky, Redman_-, SarkasM, leae, swifty |
 | 2026-08-12 | SAFIR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.12 | 0.84 | +79.9 | 1Freaky, Redman_-, SarkasM, leae, swifty |
 | 2026-08-07 | Locally Hated | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.36 | 0.00 | +35.8 | 1Freaky, Redman_-, SarkasM, leae, swifty |
 | 2026-08-05 | team_Yuvertington | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.07 | 0.79 | +7.5 | 1Freaky, Redman_-, SarkasM, leae, swifty |

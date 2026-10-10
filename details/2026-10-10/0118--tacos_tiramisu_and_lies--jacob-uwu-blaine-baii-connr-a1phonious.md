@@ -32,16 +32,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Benadryl Abusers | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.01 | 1.00 | 0.95 | 0.16 | 0.95 | +0.2 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-09-01 | 4fun | L | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.41 | 1.00 | 1.32 | 0.00 | 0.00 | -58.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-28 | Phantom Reign | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.91 | 1.01 | 1.00 | 0.91 | 0.12 | 0.91 | +4.9 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-27 | Holly Molly | L |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.00 | 0.00 | -139.5 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-27 | Without a Roof | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.00 | 0.00 | -1.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-27 | Holly Molly | L |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.00 | 0.00 | -139.5 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-27 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.00 | 0.00 | -1.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-26 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.89 | 1.01 | 1.00 | 0.90 | 0.17 | 0.90 | +23.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-25 | Third Prime | L |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -102.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-25 | Third Prime | L |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -102.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-21 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.86 | 1.01 | 1.00 | 0.87 | 0.10 | 0.87 | +3.9 | A1phonious, BaII, Connr, jacob-uwu, raymer |
 | 2026-08-19 | Aphotic eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.85 | 1.01 | 1.00 | 0.85 | 0.16 | 0.85 | +11.5 | A1phonious, BaII, Connr, jacob-uwu, raymer |
-| 2026-08-18 | FlockMunchers | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.23 | 1.26 | +0.5 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-18 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.23 | 1.26 | +0.5 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-14 | Team Auspex | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.01 | 1.00 | 0.82 | 0.10 | 0.82 | +72.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-13 | Conscious Gaming | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.34 | 1.21 | +93.8 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-13 | Overtake Sector | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -0.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-13 | Conscious Gaming | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.34 | 1.21 | +93.8 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-13 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -0.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-12 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.10 | 0.81 | +68.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-11 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -222.8 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-05 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.24 | 0.76 | +14.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |

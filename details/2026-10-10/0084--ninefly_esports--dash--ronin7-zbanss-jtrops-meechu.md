@@ -29,15 +29,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-30 | Elusive | L | 0-2 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.58 | 1.00 | 1.46 | 0.00 | 0.00 | -11.3 | DacS, JTrops, brooks, dash, zBanss |
 | 2026-08-29 | DETONATE | L | 0-1 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.58 | 1.00 | 1.46 | 0.00 | 0.00 | -6.1 | DacS, JTrops, brooks, dash, zBanss |
 | 2026-08-27 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.46 | 1.00 | 1.32 | 0.22 | 1.32 | +124.0 | Griffin, JTrops, brooks, dash-, zBanss |
-| 2026-08-25 | babaG | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -1.1 | Griffin, JTrops, brooks, dash-, zBanss |
-| 2026-08-25 | Tractors | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.43 | 1.33 | +7.7 | Griffin, JTrops, brooks, dash-, zBanss |
+| 2026-08-25 | babaG | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -1.1 | Griffin, JTrops, brooks, dash-, zBanss |
+| 2026-08-25 | Tractors | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.43 | 1.33 | +7.7 | Griffin, JTrops, brooks, dash-, zBanss |
 | 2026-08-21 | GuangdongTigers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.46 | 1.00 | 1.26 | 0.00 | 0.00 | -88.8 | Griffin, JTrops, brooks, dash-, zBanss |
-| 2026-08-20 | Phantom Sense | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -88.3 | Griffin, JTrops, brooks, dash-, zBanss |
-| 2026-08-18 | DETONATE | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.97 | 1.26 | +196.5 | Griffin, JTrops, brooks, dash-, zBanss |
+| 2026-08-20 | Phantom Sense | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -88.3 | Griffin, JTrops, brooks, dash-, zBanss |
+| 2026-08-18 | DETONATE | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.97 | 1.26 | +196.5 | Griffin, JTrops, brooks, dash-, zBanss |
 | 2026-08-14 | Clockwork | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.62 | 1.19 | +88.2 | Griffin, JTrops, brooks, dash-, zBanss |
-| 2026-08-13 | FRZ Unit | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -8.6 | Griffin, JTrops, brooks, dash-, zBanss |
+| 2026-08-13 | FRZ Unit | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -8.6 | Griffin, JTrops, brooks, dash-, zBanss |
 | 2026-08-12 | firesale | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.17 | 0.00 | 0.00 | -88.7 | Griffin, JTrops, brooks, dash-, zBanss |
-| 2026-08-10 | SPUUKY TO ECL | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.18 | 0.25 | 1.18 | +209.9 | Griffin, JTrops, brooks, dash-, zBanss |
+| 2026-08-10 | SPUUKY TO ECL | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.18 | 0.25 | 1.18 | +209.9 | Griffin, JTrops, brooks, dash-, zBanss |
 | 2026-08-05 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.10 | 0.00 | 0.00 | -9.7 | -Nks, JTrops, brooks, dash-, zBanss |
 | 2026-07-31 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.46 | 1.00 | 1.06 | 0.00 | 0.00 | -0.0 | -Nks, JTrops, brooks, dash-, zBanss |
 | 2026-07-29 | barry pickers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.46 | 1.00 | 1.04 | 0.00 | 0.00 | -205.6 | -Nks, JTrops, brooks, dash-, zBanss |

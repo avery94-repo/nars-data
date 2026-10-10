@@ -29,15 +29,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | DESPAIR | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.97 | 1.14 | 1.00 | 1.10 | 0.00 | 0.00 | -12.3 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-09-02 | 5Frag Gaming | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.14 | 1.00 | 1.07 | 0.00 | 0.00 | -41.8 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-28 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.91 | 1.12 | 1.00 | 1.02 | 0.19 | 1.02 | +100.2 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-08-25 | Olympus | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.00 | 0.00 | -0.0 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-08-23 | F5 | W |  | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.65 | 1.12 | +145.4 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-08-25 | Olympus | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.00 | 0.00 | -0.0 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-08-23 | F5 | W |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.65 | 1.12 | +145.4 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-21 | Diamond Mental | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.86 | 1.12 | 1.00 | 0.97 | 0.00 | 0.00 | -60.3 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-08-20 | Elusive | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -3.1 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-08-20 | Elusive | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -3.1 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-19 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.85 | 1.12 | 1.00 | 0.95 | 0.17 | 0.95 | +159.3 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-08-18 | Epochal Esports | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.84 | 1.28 | 1.00 | 1.08 | 0.00 | 0.00 | -59.4 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-08-18 | Epochal Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.28 | 1.00 | 1.08 | 0.00 | 0.00 | -59.4 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-14 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.12 | 1.00 | 0.91 | 0.00 | 0.00 | -7.8 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-08-13 | Clockwork | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -119.6 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-08-13 | freaky five | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -148.6 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-08-13 | Clockwork | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -119.6 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-08-13 | freaky five | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -148.6 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-12 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.12 | 1.00 | 0.90 | 0.00 | 0.00 | -101.5 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-05 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.12 | 1.00 | 0.85 | 0.11 | 0.85 | +96.1 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-07-31 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.12 | 1.00 | 0.81 | 0.00 | 0.00 | -243.4 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |

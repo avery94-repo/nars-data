@@ -39,16 +39,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | KODEX ESPORTS | W | 2-0 | PGL Masters Bucharest 2026: North American Open Qualifier #2 | C | liquipedia | 0.97 | 1.59 | 1.00 | 1.54 | 1.16 | 0.00 | +42.5 | Dodge, gamble, picky, runi, yuush1 |
 | 2026-09-06 | ODIN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.05 | 1.00 | 1.01 | 0.11 | 1.01 | +0.3 | -Dodge-, -runi, gamble, picky, yuush1 |
 | 2026-09-04 | Furio Reloaded | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.05 | 1.00 | 1.00 | 0.05 | 1.00 | +0.0 | -Dodge-, -runi, gamble, picky, yuush1 |
-| 2026-09-03 | FarmVille | L | 1-2 | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group B | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.52 | 0.00 | 0.00 | -24.8 | -Dodge-, -runi, gamble, picky, yuush1 |
-| 2026-09-02 | EMPIRE | W | 2-0 | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group B | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 1.33 | 1.51 | +65.9 | -Dodge-, -runi, gamble, picky, yuush1 |
-| 2026-09-02 | FarmVille | L | 0-2 | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group B | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.50 | 0.00 | 0.00 | -61.0 | -Dodge-, -runi, gamble, picky, yuush1 |
+| 2026-09-03 | FarmVille | L | 1-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.52 | 0.00 | 0.00 | -24.8 | -Dodge-, -runi, gamble, picky, yuush1 |
+| 2026-09-02 | EMPIRE | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 1.33 | 1.51 | +65.9 | -Dodge-, -runi, gamble, picky, yuush1 |
+| 2026-09-02 | FarmVille | L | 0-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.50 | 0.00 | 0.00 | -61.0 | -Dodge-, -runi, gamble, picky, yuush1 |
 | 2026-09-02 | TERM DOM RT | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.05 | 1.00 | 0.99 | 0.05 | 0.99 | +0.0 | -Dodge-, -runi, gamble, picky, yuush1 |
-| 2026-08-26 | SPUUKY TO ECL | W |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.34 | 0.28 | 1.34 | +0.2 | -Dodge-, -runi, gamble, picky, yuush1 |
-| 2026-08-25 | NineFly Esports | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.50 | 1.33 | +1.2 | -Dodge-, -runi, gamble, picky, yuush1 |
-| 2026-08-20 | Tractors | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.41 | 1.28 | +0.0 | -Dodge-, -runi, gamble, picky, yuush1 |
-| 2026-08-18 | FRZ Unit | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.78 | 1.26 | +18.4 | -Dodge-, -runi, gamble, picky, yuush1 |
-| 2026-08-13 | DETONATE | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -64.9 | -Dodge-, -runi, gamble, picky, yuush1 |
-| 2026-08-11 | Phantom Sense | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.56 | 1.19 | +2.1 | -Dodge-, -runi, gamble, picky, yuush1 |
+| 2026-08-26 | SPUUKY TO ECL | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.34 | 0.28 | 1.34 | +0.2 | -Dodge-, -runi, gamble, picky, yuush1 |
+| 2026-08-25 | NineFly Esports | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.50 | 1.33 | +1.2 | -Dodge-, -runi, gamble, picky, yuush1 |
+| 2026-08-20 | Tractors | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.41 | 1.28 | +0.0 | -Dodge-, -runi, gamble, picky, yuush1 |
+| 2026-08-18 | FRZ Unit | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.78 | 1.26 | +18.4 | -Dodge-, -runi, gamble, picky, yuush1 |
+| 2026-08-13 | DETONATE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -64.9 | -Dodge-, -runi, gamble, picky, yuush1 |
+| 2026-08-11 | Phantom Sense | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.56 | 1.19 | +2.1 | -Dodge-, -runi, gamble, picky, yuush1 |
 | 2026-07-14 | Quality | W |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.61 | 1.38 | 1.00 | 0.84 | 0.10 | 0.84 | +152.6 | -runi, henry-, picky, shonk, yuush1 |
 | 2026-07-14 | X3 Esports | W |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.61 | 1.38 | 1.00 | 0.84 | 0.04 | 0.84 | +0.2 | -runi, henry-, picky, shonk, yuush1 |
 

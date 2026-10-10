@@ -37,14 +37,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | 4fun | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.41 | 1.00 | 1.35 | 0.00 | 0.00 | -97.0 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-09-03 | Marsborne | L | 1-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 0.00 | 0.00 | -0.1 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-08-28 | Will Snaked Us | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.91 | 1.46 | 1.00 | 1.33 | 0.15 | 1.33 | +1.0 | cbass, fArt, seffuh, weine, z0mb1e |
-| 2026-08-28 | Locally Hated | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.91 | 1.28 | 1.00 | 1.16 | 0.52 | 1.16 | +111.6 | cbass, fArt, seffuh, weine, z0mb1e |
-| 2026-08-27 | Aura | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.35 | 1.15 | +152.5 | cbass, fArt, seffuh, weine, z0mb1e |
-| 2026-08-25 | Bad JuJu | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.00 | 0.00 | -163.3 | 0113ba2c, 5067f1e3, fArt, seffuh, z0mb1e |
+| 2026-08-28 | Locally Hated | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.91 | 1.28 | 1.00 | 1.16 | 0.52 | 1.16 | +111.6 | cbass, fArt, seffuh, weine, z0mb1e |
+| 2026-08-27 | Aura | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.35 | 1.15 | +152.5 | cbass, fArt, seffuh, weine, z0mb1e |
+| 2026-08-25 | Bad JuJu | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.00 | 0.00 | -163.3 | 0113ba2c, 5067f1e3, fArt, seffuh, z0mb1e |
 | 2026-08-21 | Blitzkrieg | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.46 | 1.00 | 1.26 | 0.00 | 0.00 | -123.7 | cbass, fArt, seffuh, weine, z0mb1e |
-| 2026-08-20 | Club 333 | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -0.1 | cbass, fArt, seffuh, weine, z0mb1e |
+| 2026-08-20 | Club 333 | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -0.1 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-08-19 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.00 | 0.00 | -90.2 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-08-14 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.13 | 1.19 | +4.4 | cbass, fArt, seffuh, weine, z0mb1e |
-| 2026-08-10 | Desi Boyz | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.79 | 1.28 | 1.00 | 1.01 | 0.00 | 0.00 | -77.8 | cbass, fArt, seffuh, weine, z0mb1e |
+| 2026-08-10 | Desi Boyz | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.79 | 1.28 | 1.00 | 1.01 | 0.00 | 0.00 | -77.8 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-08-07 | Third Prime | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.46 | 1.00 | 1.12 | 0.00 | 0.00 | -109.9 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-07-31 | FlyQuest RED | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.46 | 1.00 | 1.06 | 0.73 | 1.06 | +22.4 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-07-29 | GuangdongTigers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.46 | 1.00 | 1.04 | 0.61 | 1.04 | +0.0 | cbass, fArt, seffuh, weine, z0mb1e |

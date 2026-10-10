@@ -44,30 +44,30 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | NXG Esports | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.41 | 1.00 | 1.40 | 0.30 | 1.40 | +0.0 | Feb, Johan, Magic_KS, hibui, relt |
 | 2026-09-09 | deez | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.41 | 1.00 | 1.39 | 0.18 | 1.39 | +0.1 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-09-07 | Addice | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.37 | 0.45 | 1.37 | +0.3 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-09-06 | Chicken Coop | L |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -40.4 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-09-06 | Without a Roof | L | 0-2 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -27.2 | Feb, Fraq, Magic_KS, hibui, twigsbn |
-| 2026-09-06 | Desi Boyz | L |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -25.6 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-09-05 | Desi Boyz | L | 0-1 | NSTLGA League S2 | RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -34.0 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-09-06 | Chicken Coop | L |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -40.4 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-09-06 | Without a Roof | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -27.2 | Feb, Fraq, Magic_KS, hibui, twigsbn |
+| 2026-09-06 | Desi Boyz | L |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -25.6 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-09-05 | Desi Boyz | L | 0-1 | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -34.0 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-09-05 | DESI BOYZ | L | 0-1 | NSTLGA League Season 2 | C | liquipedia | 0.97 | 1.59 | 1.00 | 1.54 | 0.00 | 0.00 | -47.1 | Johan, Magic, febreeze, hibui, killerPandas |
 | 2026-09-05 | Iowa Stormboar | L | 0-1 | NSTLGA League Season 2 | C | liquipedia | 0.96 | 1.59 | 1.00 | 1.53 | 0.00 | 0.00 | -95.4 | Johan, Magic, febreeze, hibui, killerPandas |
 | 2026-09-04 | OVERTAKE SECTOR | W | 2-0 | ESEA Season 58: Advanced Division - North America | C | liquipedia | 0.95 | 1.57 | 1.00 | 1.50 | 1.45 | 0.00 | +58.4 | Johan, Magic, febreeze, hibui, killerPandas |
-| 2026-09-04 | Villainous | W | 1-0 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.78 | 0.00 | +97.6 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-09-03 | Clockwork | W |  | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group A | B | faceit-tournament | 0.95 | 1.35 | 1.00 | 1.28 | 0.66 | 1.28 | +1.4 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-09-02 | Club 333 | W | 2-0 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.88 | 0.00 | +242.7 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-09-02 | Shimmer | W | 2-0 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.45 | 1.27 | +16.6 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-09-04 | Villainous | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.78 | 0.00 | +97.6 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-09-03 | Clockwork | W |  | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.95 | 1.35 | 1.00 | 1.28 | 0.66 | 1.28 | +1.4 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-09-02 | Club 333 | W | 2-0 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.88 | 0.00 | +242.7 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-09-02 | Shimmer | W | 2-0 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.45 | 1.27 | +16.6 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-08-30 | FOR FUN | L | 0-2 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.93 | 1.58 | 1.00 | 1.47 | 0.00 | 0.00 | -35.2 | Johan, Magic, febreeze, hibui, killerPandas |
 | 2026-08-30 | NuTorious | W | 1-0 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.58 | 1.00 | 1.46 | 1.01 | 1.46 | +34.0 | Johan, Magic, febreeze, hibui, killerPandas |
 | 2026-08-29 | KODEX ESPORTS | W | 1-0 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.58 | 1.00 | 1.46 | 1.09 | 0.00 | +78.0 | Johan, Magic, febreeze, hibui, killerPandas |
-| 2026-08-27 | Playing for fun | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.44 | 1.15 | +43.0 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-08-27 | makeSHIFT | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.33 | 1.15 | +35.0 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-08-27 | Playing for fun | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.44 | 1.15 | +43.0 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-08-27 | makeSHIFT | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.33 | 1.15 | +35.0 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-08-26 | Memeories | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.31 | 0.00 | 0.00 | -161.9 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-08-25 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.26 | 1.30 | +61.8 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-08-25 | 3G | W |  | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.21 | 1.14 | +40.7 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-08-20 | The Homies | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.23 | 1.09 | +0.0 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-08-25 | 3G | W |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.21 | 1.14 | +40.7 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-08-20 | The Homies | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.23 | 1.09 | +0.0 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-08-19 | KODEX | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.00 | 0.00 | -106.6 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-08-14 | FlyQuest RED | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -122.7 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-08-13 | Sleepless_Gaming | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.31 | 1.03 | +0.0 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-08-13 | Memeories | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.49 | 1.03 | +4.4 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-08-13 | Sleepless_Gaming | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.31 | 1.03 | +0.0 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-08-13 | Memeories | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.49 | 1.03 | +4.4 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-07-31 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.46 | 1.00 | 1.06 | 0.00 | 0.00 | -129.1 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-06-26 | MY LIFE BE LIKE | W | 2-0 | CROSSFIRE Season 5 | C | liquipedia | 0.49 | 1.58 | 1.00 | 0.77 | 0.58 | 0.00 | +93.5 | Johan, Magic, febreeze, hibui, killerPandas |
 | 2026-06-14 | Olympus | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.41 | 1.52 | 1.00 | 0.62 | 0.00 | 0.00 | -57.8 | Johan, Magic_KS, hibui, killerPandas, relt |

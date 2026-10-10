@@ -28,17 +28,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | Locally Hated | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.38 | 0.00 | 0.00 | -17.9 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-09-06 | Another Victim | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.08 | 1.00 | 1.05 | 0.00 | 0.00 | -16.4 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-09-04 | Lops Bakery | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.08 | 1.00 | 1.03 | 0.21 | 1.03 | +92.3 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-08-31 | Shimmer | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.93 | 1.28 | 1.00 | 1.19 | 0.00 | 0.00 | -53.4 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-08-31 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.93 | 1.28 | 1.00 | 1.19 | 0.00 | 0.00 | -53.4 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-28 | freaky five | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.95 | 0.00 | 0.00 | -95.4 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-08-27 | Fathom Gaming | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -18.9 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-08-27 | Fathom Gaming | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -18.9 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-26 | ARTYK GAMING | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.19 | 0.94 | +102.8 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-21 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.05 | 1.00 | 0.90 | 0.14 | 0.90 | +80.2 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-08-20 | Swole Patrol | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -156.4 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-08-20 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -156.4 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-19 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.89 | 0.11 | 0.89 | +107.3 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-08-18 | Beyond Limits | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.84 | 1.28 | 1.00 | 1.08 | 0.00 | 0.00 | -4.5 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-08-18 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.28 | 1.00 | 1.08 | 0.00 | 0.00 | -4.5 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-14 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.05 | 1.00 | 0.86 | 0.06 | 0.86 | +13.7 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-12 | team_Yuvertington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.00 | 0.00 | -166.2 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-08-11 | Knox Esports | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.79 | 1.28 | 1.00 | 1.02 | 0.12 | 1.02 | +1.9 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-08-11 | Knox Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.79 | 1.28 | 1.00 | 1.02 | 0.12 | 1.02 | +1.9 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-07 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.10 | 0.81 | +37.2 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-05 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.00 | 0.00 | -137.8 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-07-31 | the pug jug | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.05 | 1.00 | 0.76 | 0.10 | 0.76 | +125.2 | ApolloZ, C0br4, Kapoya, XM06, kkyle |

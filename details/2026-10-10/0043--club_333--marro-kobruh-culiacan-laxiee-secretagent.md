@@ -29,22 +29,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-13 | Omen | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.56 | 1.00 | 1.56 | 0.00 | 0.00 | -111.9 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
 | 2026-09-05 | SportsBetExpert | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.96 | 1.56 | 1.00 | 1.50 | 0.00 | 0.00 | -0.4 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
 | 2026-09-03 | Slimy Boogermen | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 0.47 | 1.48 | +51.8 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
-| 2026-09-03 | Clockwork | W | 1-0 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group A | B | faceit-tournament | 0.95 | 1.35 | 1.00 | 1.28 | 0.66 | 0.00 | +27.1 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
-| 2026-09-02 | Wanted Goons | L | 0-2 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.00 | 0.00 | -316.6 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
-| 2026-09-02 | Clockwork | W | 2-0 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.66 | 0.00 | +1.1 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
+| 2026-09-03 | Clockwork | W | 1-0 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.95 | 1.35 | 1.00 | 1.28 | 0.66 | 0.00 | +27.1 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
+| 2026-09-02 | Wanted Goons | L | 0-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.00 | 0.00 | -316.6 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
+| 2026-09-02 | Clockwork | W | 2-0 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.35 | 1.00 | 1.27 | 0.66 | 0.00 | +1.1 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
 | 2026-09-01 | ASCEND | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.41 | 1.00 | 1.32 | 0.42 | 1.32 | +0.2 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
 | 2026-08-30 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.93 | 1.46 | 1.00 | 1.36 | 0.00 | 0.00 | -63.5 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
-| 2026-08-30 | Aura | W |  | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.93 | 1.28 | 1.00 | 1.18 | 0.36 | 1.18 | +1.6 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
+| 2026-08-30 | Aura | W |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.93 | 1.28 | 1.00 | 1.18 | 0.36 | 1.18 | +1.6 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
 | 2026-08-29 | F5 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.91 | 1.46 | 1.00 | 1.34 | 0.00 | 0.00 | -125.8 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
 | 2026-08-28 | Brahmas | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.91 | 1.46 | 1.00 | 1.33 | 0.00 | 0.00 | -194.0 | CULIACAN, Marro, SecretAgent, kobruh, mason |
-| 2026-08-22 | Desi Boyz | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.87 | 1.28 | 1.00 | 1.11 | 0.57 | 0.00 | +4.8 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-22 | Desi Boyz | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.87 | 1.28 | 1.00 | 1.11 | 0.57 | 0.00 | +4.8 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
 | 2026-08-21 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.46 | 1.00 | 1.26 | 1.20 | 1.26 | +14.0 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
-| 2026-08-20 | Omen | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.70 | 1.09 | +0.1 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-20 | Omen | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.70 | 1.09 | +0.1 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
 | 2026-08-20 | LAG | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.25 | 0.00 | 0.00 | -124.3 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
 | 2026-08-19 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.00 | 0.00 | -243.2 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
-| 2026-08-14 | Bad JuJu | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.04 | 0.20 | 1.04 | +0.0 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-14 | Bad JuJu | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.04 | 0.20 | 1.04 | +0.0 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
 | 2026-08-14 | Elusive | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.52 | 1.19 | +0.0 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
-| 2026-08-13 | Locally Hated | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.46 | 1.03 | +0.0 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-08-13 | Locally Hated | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.46 | 1.03 | +0.0 | CULIACAN, Marro, SecretAgent, kobruh, mason |
 | 2026-08-13 | Marsborne | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.18 | 1.18 | 1.18 | +37.7 | CULIACAN, Marro, SecretAgent, kobruh, mason |
 | 2026-08-07 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.46 | 1.00 | 1.12 | 0.93 | 1.12 | +181.5 | CULIACAN, Marro, SecretAgent, kobruh, mason |
 | 2026-08-05 | Desi Boyz | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.10 | 0.56 | 1.10 | +1.5 | CULIACAN, Marro, SecretAgent, kobruh, mason |

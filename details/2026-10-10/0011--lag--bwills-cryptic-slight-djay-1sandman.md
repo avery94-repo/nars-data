@@ -33,17 +33,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-18 | SportsBetExpert | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.56 | 1.00 | 1.56 | 0.00 | 0.00 | -1.7 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-15 | 4fun | W |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.57 | 1.00 | 1.57 | 0.77 | 1.57 | +0.9 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-15 | Overtake Sector | L | 1-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.57 | 1.00 | 1.57 | 0.00 | 0.00 | -54.0 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-09-13 | Without a Roof | L | 1-2 | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -74.9 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-09-12 | Overtake Sector | L | 2-1 | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -82.8 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-09-13 | Without a Roof | L | 1-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -74.9 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-09-12 | Overtake Sector | L | 2-1 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -82.8 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-12 | F5 | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.56 | 1.00 | 1.56 | 0.76 | 1.56 | +2.0 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-09-11 | Without a Roof | W | 1-2 | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 1.60 | +45.2 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-09-11 | regain | W | 2-0 | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.52 | 0.00 | +2.6 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-09-11 | Without a Roof | W | 1-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 1.60 | +45.2 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-09-11 | regain | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.52 | 0.00 | +2.6 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-09 | EMPIRE | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.99 | 1.56 | 1.00 | 1.54 | 1.36 | 1.54 | +7.6 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-09-06 | SportsBetExpert | L |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -25.0 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-09-06 | Desi Boyz | W | 2-1 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.80 | 0.00 | +28.1 | 1Sandman, SLIGHT, bwills, djay, xaler |
-| 2026-09-06 | Marsborne | L | 0-2 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -46.1 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-09-05 | DETONATE | W | 1-0 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 1.18 | 0.00 | +16.9 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-09-04 | Beyond Limits | W | 1-0 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 1.23 | 1.53 | +15.5 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-09-06 | SportsBetExpert | L |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -25.0 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-09-06 | Desi Boyz | W | 2-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.80 | 0.00 | +28.1 | 1Sandman, SLIGHT, bwills, djay, xaler |
+| 2026-09-06 | Marsborne | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -46.1 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-09-05 | DETONATE | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 1.18 | 0.00 | +16.9 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-09-04 | Beyond Limits | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 1.23 | 1.53 | +15.5 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-03 | Smokepoint | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 0.38 | 1.48 | +0.1 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-08-27 | SparkExchange io | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.46 | 1.00 | 1.32 | 0.37 | 0.00 | +0.8 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-08-27 | Olympus | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.46 | 1.00 | 1.32 | 0.88 | 0.00 | +51.3 | 1Sandman, Cryptic, SLIGHT, bwills, djay |

@@ -29,14 +29,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | Without a Roof | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.38 | 0.00 | 0.00 | -0.1 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
 | 2026-09-02 | FRZ Unit | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.41 | 1.00 | 1.33 | 0.00 | 0.00 | -34.4 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-09-01 | freaky five | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.41 | 1.00 | 1.32 | 0.50 | 1.32 | +44.0 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-08-27 | Tacos Tiramisu and Lies | W |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.49 | 1.35 | +140.3 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
-| 2026-08-25 | Without a Roof | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -0.0 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-08-24 | FlockMunchers | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.24 | 1.32 | +17.0 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
+| 2026-08-27 | Tacos Tiramisu and Lies | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.49 | 1.35 | +140.3 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
+| 2026-08-25 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -0.0 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-08-24 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.24 | 1.32 | +17.0 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
 | 2026-08-19 | dice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 0.00 | 0.00 | -2.7 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-08-18 | Conscious Gaming | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.00 | 0.00 | -21.8 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-08-18 | Conscious Gaming | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.50 | 1.00 | 1.26 | 0.00 | 0.00 | -21.8 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-14 | barry pickers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.20 | 1.19 | +22.6 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-08-13 | Overtake Sector | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -0.0 | Calvin-, FlashET, Larryw1k, omoo, sveetea |
-| 2026-08-12 | Third Prime | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.80 | 1.50 | 1.00 | 1.20 | 0.00 | 0.00 | -0.9 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-08-13 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -0.0 | Calvin-, FlashET, Larryw1k, omoo, sveetea |
+| 2026-08-12 | Third Prime | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.50 | 1.00 | 1.20 | 0.00 | 0.00 | -0.9 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-12 | Clockwork | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.17 | 0.61 | 1.17 | +343.1 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-07 | Memeories | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.46 | 1.00 | 1.12 | 0.00 | 0.00 | -21.0 | FlashET, Larryw1k, emblem, sveetea, terrk1s |
 | 2026-08-05 | NXG Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.10 | 0.00 | 0.00 | -94.4 | FlashET, Larryw1k, emblem, omoo, sveetea |

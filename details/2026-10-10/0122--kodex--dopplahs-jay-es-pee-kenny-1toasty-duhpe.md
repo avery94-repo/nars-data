@@ -26,19 +26,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-03 | Playing for fun | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 0.00 | 0.00 | -19.7 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-28 | Brahmas | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.91 | 1.46 | 1.00 | 1.33 | 0.00 | 0.00 | -0.9 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
-| 2026-08-27 | HeadShot Esports | W |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.30 | 1.35 | +1.6 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
+| 2026-08-27 | HeadShot Esports | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.30 | 1.35 | +1.6 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-25 | MishMash | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.12 | 0.00 | +38.3 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
-| 2026-08-25 | Over Your Head | L |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -46.8 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
+| 2026-08-25 | Over Your Head | L |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -46.8 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-25 | DETONATE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.00 | 0.00 | -3.5 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
-| 2026-08-24 | GuangdongTigers | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -161.0 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
-| 2026-08-20 | UltimateDarklordWizardz | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -134.9 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
+| 2026-08-24 | GuangdongTigers | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -161.0 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
+| 2026-08-20 | UltimateDarklordWizardz | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -134.9 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-19 | Wanted Goons | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.46 | 1.00 | 1.24 | 1.06 | 1.24 | +110.1 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-14 | SparkExchange io | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -77.3 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-13 | FRZ Unit | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.18 | 0.73 | 1.18 | +166.9 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-12 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.17 | 0.00 | 0.00 | -6.6 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
-| 2026-08-11 | 4fun | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.00 | 0.00 | -2.3 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
+| 2026-08-11 | 4fun | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.19 | 0.00 | 0.00 | -2.3 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-11 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.16 | 0.42 | 1.16 | +102.4 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
-| 2026-08-08 | EMPIRE | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.77 | 1.50 | 1.00 | 1.16 | 0.00 | 0.00 | -21.5 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
+| 2026-08-08 | EMPIRE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.50 | 1.00 | 1.16 | 0.00 | 0.00 | -21.5 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-07-29 | Memeories | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.46 | 1.00 | 1.04 | 0.49 | 1.04 | +5.7 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-07-24 | Olympus | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.46 | 1.00 | 0.99 | 0.66 | 0.99 | +435.1 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-07-23 | Phantom Sense | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.46 | 1.00 | 0.98 | 0.00 | 0.00 | -284.2 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |

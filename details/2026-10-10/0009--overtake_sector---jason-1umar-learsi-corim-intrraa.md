@@ -34,35 +34,35 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-18 | F5 | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.57 | 1.00 | 1.57 | 0.91 | 1.57 | +0.0 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-09-15 | LAG | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.57 | 1.00 | 1.57 | 1.14 | 1.57 | +53.4 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-09-13 | Brahmas | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.56 | 1.00 | 1.56 | 0.49 | 1.56 | +5.5 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-09-12 | LAG | W | 1-2 | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.16 | 0.00 | +83.8 | -jason, 1umar, c3e1b3cd, corim, intrraa |
-| 2026-09-12 | FarmVille | W | 2-0 | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.50 | 1.60 | +25.2 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-09-12 | LAG | W | 1-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.16 | 0.00 | +83.8 | -jason, 1umar, c3e1b3cd, corim, intrraa |
+| 2026-09-12 | FarmVille | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.50 | 1.60 | +25.2 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-09-11 | Playing for fun | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.56 | 1.00 | 1.56 | 0.60 | 1.56 | +2.4 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-09-10 | moggers | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.41 | 1.00 | 1.40 | 0.23 | 1.40 | +0.0 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-09-09 | babaG | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.41 | 1.00 | 1.39 | 0.00 | 0.00 | -127.0 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-09-07 | Team Skyline | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.37 | 0.50 | 1.37 | +1.9 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-09-06 | Villainous | W |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.80 | 0.00 | +11.6 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-09-06 | DETONATE | W | 2-1 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 1.19 | 0.00 | +50.1 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-09-06 | DETONATE | L |  | NSTLGA League S2 | RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -48.8 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-09-06 | Desi Boyz | W |  | NSTLGA League S2 | RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.79 | 1.55 | +66.3 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-09-06 | Clockwork | W |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.80 | 0.00 | +0.2 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-09-06 | Clockwork | W | 1-0 | NSTLGA League S2 | RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.54 | 0.80 | 0.00 | +0.2 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-09-06 | Villainous | W |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.80 | 0.00 | +11.6 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-09-06 | DETONATE | W | 2-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 1.19 | 0.00 | +50.1 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-09-06 | DETONATE | L |  | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -48.8 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-09-06 | Desi Boyz | W |  | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.79 | 1.55 | +66.3 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-09-06 | Clockwork | W |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.80 | 0.00 | +0.2 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-09-06 | Clockwork | W | 1-0 | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.54 | 0.80 | 0.00 | +0.2 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-09-05 | FlyQuest RED | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.96 | 1.56 | 1.00 | 1.50 | 1.04 | 1.50 | +2.6 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-09-05 | Villainous | W | 1-0 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.79 | 0.00 | +62.0 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-09-03 | DETONATE | W |  | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A | B | faceit-tournament | 0.95 | 1.59 | 1.00 | 1.51 | 1.16 | 0.00 | +37.8 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-09-02 | DETONATE | W | 2-0 | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 1.15 | 0.00 | +56.1 | -jason, 1umar, c3e1b3cd, corim, intrraa |
-| 2026-09-02 | GuangdongTigers | L | 2-1 | NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 0.00 | 0.00 | -126.1 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-09-05 | Villainous | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.79 | 0.00 | +62.0 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-09-03 | DETONATE | W |  | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.95 | 1.59 | 1.00 | 1.51 | 1.16 | 0.00 | +37.8 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-09-02 | DETONATE | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 1.15 | 0.00 | +56.1 | -jason, 1umar, c3e1b3cd, corim, intrraa |
+| 2026-09-02 | GuangdongTigers | L | 2-1 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 0.00 | 0.00 | -126.1 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-08-30 | Olympus | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.92 | 1.46 | 1.00 | 1.35 | 0.90 | 1.35 | +69.8 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-08-27 | Conscious Gaming | L |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.00 | 0.00 | -120.4 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-08-27 | Conscious Gaming | L |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.00 | 0.00 | -120.4 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-08-26 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.31 | 0.00 | 0.00 | -7.0 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-08-25 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.00 | 0.00 | -126.1 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-08-24 | LAG | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.46 | 1.00 | 1.29 | 0.00 | 0.00 | -102.5 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-08-23 | FlockMunchers | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.87 | 1.50 | 1.00 | 1.31 | 0.24 | 1.31 | +0.0 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-08-20 | Third Prime | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.64 | 1.28 | +0.0 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-08-20 | Without a Roof | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 1.28 | 1.28 | +64.9 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-08-23 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.87 | 1.50 | 1.00 | 1.31 | 0.24 | 1.31 | +0.0 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-08-20 | Third Prime | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.64 | 1.28 | +0.0 | -jason, 1umar, corim, intrraa, learsi |
+| 2026-08-20 | Without a Roof | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 1.28 | 1.28 | +64.9 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-08-17 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.46 | 1.00 | 1.22 | 0.00 | 0.00 | -158.7 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-08-15 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.46 | 1.00 | 1.20 | 1.14 | 1.20 | +61.8 | -jason, 1umar, intrraa, learsi, sacrificeee |
-| 2026-08-13 | Holly Molly | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.37 | 1.21 | +0.0 | -jason, 1umar, intrraa, learsi, sacrificeee |
-| 2026-08-13 | Tacos Tiramisu and Lies | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.44 | 1.21 | +0.0 | -jason, 1umar, intrraa, learsi, sacrificeee |
+| 2026-08-13 | Holly Molly | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.37 | 1.21 | +0.0 | -jason, 1umar, intrraa, learsi, sacrificeee |
+| 2026-08-13 | Tacos Tiramisu and Lies | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.44 | 1.21 | +0.0 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-08-07 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.46 | 1.00 | 1.12 | 0.00 | 0.00 | -190.7 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-07-17 | Beyond Limits | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.63 | 1.46 | 1.00 | 0.92 | 0.74 | 0.92 | +0.0 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-07-15 | skebob | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.46 | 1.00 | 0.90 | 0.06 | 0.90 | +0.0 | -jason, 1umar, intrraa, learsi, sacrificeee |

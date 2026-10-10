@@ -32,15 +32,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Into TheVoid | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.16 | 0.94 | +10.2 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-08-29 | Skyline | L | 0-2 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.58 | 1.00 | 1.46 | 0.00 | 0.00 | -122.6 | 0hio, Albatr0ssS, Dingrz, FlagZ, ZynRG |
 | 2026-08-29 | SportsBetExpert | L | 0-1 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.58 | 1.00 | 1.46 | 0.00 | 0.00 | -0.0 | 0hio, Albatr0ssS, Dingrz, FlagZ, ZynRG |
-| 2026-08-27 | Another Victim | L |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.00 | 0.00 | -9.3 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
+| 2026-08-27 | Another Victim | L |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.00 | 0.00 | -9.3 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-08-26 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -13.5 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-08-26 | WinOut | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -23.8 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
-| 2026-08-24 | FarmVille | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -0.4 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
+| 2026-08-24 | FarmVille | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.50 | 1.00 | 1.32 | 0.00 | 0.00 | -0.4 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-08-21 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.11 | 0.86 | +44.3 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
-| 2026-08-20 | dice | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -2.6 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
+| 2026-08-20 | dice | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -2.6 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-08-19 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.10 | 0.85 | +57.3 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
-| 2026-08-13 | Team Skyline | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -0.6 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
-| 2026-08-13 | Zomblers | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -0.4 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
+| 2026-08-13 | Team Skyline | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -0.6 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
+| 2026-08-13 | Zomblers | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.50 | 1.00 | 1.21 | 0.00 | 0.00 | -0.4 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-08-12 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.15 | 0.80 | +29.4 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-08-12 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.11 | 0.80 | +27.6 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-08-07 | Tryzub Gaming | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.10 | 0.77 | +69.3 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |

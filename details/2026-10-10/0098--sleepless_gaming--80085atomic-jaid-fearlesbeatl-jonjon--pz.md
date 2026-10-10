@@ -26,17 +26,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-09 | FarmVille | W | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.41 | 1.00 | 1.39 | 1.31 | 1.39 | +158.5 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-09-07 | BucketJonsBoys | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.41 | 1.00 | 1.37 | 0.00 | 0.00 | -100.1 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
-| 2026-09-02 | Olympus | L | 0-2 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.00 | 0.00 | -0.3 | 80085atomic, 89b4e16e, FearlesBeatl, Jaid, jonjon- |
+| 2026-09-02 | Olympus | L | 0-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.00 | 0.00 | -0.3 | 80085atomic, 89b4e16e, FearlesBeatl, Jaid, jonjon- |
 | 2026-09-02 | Elusive | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.41 | 1.00 | 1.33 | 0.58 | 1.33 | +103.8 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
-| 2026-09-02 | Beyond Limits | L | 0-2 | NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.00 | 0.00 | -0.2 | 80085atomic, 89b4e16e, FearlesBeatl, Jaid, jonjon- |
-| 2026-08-27 | Memeories | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.55 | 1.15 | +127.6 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
-| 2026-08-27 | Playing for fun | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -5.7 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
-| 2026-08-22 | makeSHIFT | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.87 | 1.28 | 1.00 | 1.11 | 0.32 | 1.11 | +145.6 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
+| 2026-09-02 | Beyond Limits | L | 0-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.94 | 1.52 | 1.00 | 1.43 | 0.00 | 0.00 | -0.2 | 80085atomic, 89b4e16e, FearlesBeatl, Jaid, jonjon- |
+| 2026-08-27 | Memeories | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.55 | 1.15 | +127.6 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
+| 2026-08-27 | Playing for fun | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -5.7 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
+| 2026-08-22 | makeSHIFT | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.87 | 1.28 | 1.00 | 1.11 | 0.32 | 1.11 | +145.6 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-08-21 | Tricksters | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.46 | 1.00 | 1.26 | 0.00 | 0.00 | -112.6 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
-| 2026-08-18 | 3G | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.84 | 1.28 | 1.00 | 1.08 | 0.20 | 1.08 | +137.7 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
+| 2026-08-18 | 3G | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.28 | 1.00 | 1.08 | 0.20 | 1.08 | +137.7 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-08-14 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.10 | 1.19 | +81.9 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
-| 2026-08-13 | Wanted Goons | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -0.0 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
-| 2026-08-13 | The Homies | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.22 | 1.03 | +13.9 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
+| 2026-08-13 | Wanted Goons | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -0.0 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
+| 2026-08-13 | The Homies | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.22 | 1.03 | +13.9 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-08-12 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.17 | 0.10 | 1.17 | +196.9 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-08-06 | Addice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.46 | 1.00 | 1.11 | 0.00 | 0.00 | -8.5 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-07-31 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.46 | 1.00 | 1.06 | 0.00 | 0.00 | -0.2 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |

@@ -25,16 +25,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-18 | LAG | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.56 | 1.00 | 1.56 | 1.13 | 0.00 | +1.7 | Infinite, Peeping, consti, motm, shane |
-| 2026-09-14 | Without a Roof | W |  | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 0.00 | +5.8 | Infinite, Peeping, consti, motm, shane |
-| 2026-09-14 | Without a Roof | W | 3-2 | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 1.60 | +7.1 | Infinite, Peeping, consti, motm, shane |
-| 2026-09-13 | Without a Roof | W | 2-0 | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 0.00 | +3.8 | Infinite, Peeping, consti, motm, shane |
+| 2026-09-14 | Without a Roof | W |  | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 0.00 | +5.8 | Infinite, Peeping, consti, motm, shane |
+| 2026-09-14 | Without a Roof | W | 3-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 1.60 | +7.1 | Infinite, Peeping, consti, motm, shane |
+| 2026-09-13 | Without a Roof | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 0.00 | +3.8 | Infinite, Peeping, consti, motm, shane |
 | 2026-09-12 | DETONATE | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.56 | 1.00 | 1.56 | 1.20 | 0.00 | +4.0 | Infinite, Peeping, consti, motm, shane |
-| 2026-09-11 | FarmVille | W | 2-0 | NSTLGA League S2 | Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.50 | 1.60 | +0.2 | Infinite, Peeping, consti, motm, shane |
-| 2026-09-06 | LAG | W |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 1.13 | 0.00 | +24.8 | Infinite, Peeping, consti, motm, shane |
-| 2026-09-06 | Marsborne | W |  | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 1.55 | 1.55 | +83.0 | Infinite, Peeping, consti, motm, shane |
+| 2026-09-11 | FarmVille | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.50 | 1.60 | +0.2 | Infinite, Peeping, consti, motm, shane |
+| 2026-09-06 | LAG | W |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 1.13 | 0.00 | +24.8 | Infinite, Peeping, consti, motm, shane |
+| 2026-09-06 | Marsborne | W |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 1.55 | 1.55 | +83.0 | Infinite, Peeping, consti, motm, shane |
 | 2026-09-05 | Club 333 | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.96 | 1.56 | 1.00 | 1.50 | 1.04 | 1.50 | +0.3 | Infinite, Peeping, consti, motm, shane |
-| 2026-09-04 | Desi Boyz | W | 1-0 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.78 | 1.54 | +5.4 | Infinite, Peeping, consti, motm, shane |
-| 2026-09-04 | Clockwork | W | 1-0 | NSTLGA League S2 | Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.79 | 1.53 | +0.0 | Infinite, Peeping, consti, motm, shane |
+| 2026-09-04 | Desi Boyz | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.78 | 1.54 | +5.4 | Infinite, Peeping, consti, motm, shane |
+| 2026-09-04 | Clockwork | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.53 | 0.79 | 1.53 | +0.0 | Infinite, Peeping, consti, motm, shane |
 | 2026-09-03 | 5Fellas | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 0.32 | 1.48 | +0.1 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-30 | FOR FUN | W | 2-1 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.93 | 1.58 | 1.00 | 1.47 | 1.10 | 0.00 | +0.8 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-29 | Redliners | W | 1-0 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.58 | 1.00 | 1.46 | 0.47 | 1.46 | +0.0 | Infinite, Peeping, consti, motm, shane |

@@ -30,17 +30,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | redtyfguhoj | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.11 | 0.95 | +56.3 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
 | 2026-09-02 | Opera | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -1.2 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
 | 2026-08-28 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.00 | 0.00 | -63.8 | -b1rdman, 3r0, BanFlash, CIoudWalker, direkiller |
-| 2026-08-27 | Elusive | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.1 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |
+| 2026-08-27 | Elusive | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.1 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |
 | 2026-08-26 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.12 | 0.89 | +84.9 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
-| 2026-08-25 | Clockwork | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.00 | 0.00 | -0.7 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |
+| 2026-08-25 | Clockwork | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.00 | 0.00 | -0.7 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |
 | 2026-08-21 | Bald | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -18.3 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
-| 2026-08-20 | freaky five | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -63.5 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
-| 2026-08-20 | Olympus | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -0.0 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
+| 2026-08-20 | freaky five | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -63.5 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
+| 2026-08-20 | Olympus | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.00 | 0.00 | -0.0 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
 | 2026-08-19 | Lara-Zulia Highway | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.00 | 0.00 | -89.6 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
-| 2026-08-18 | Chuck E Cheese | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.84 | 1.28 | 1.00 | 1.08 | 0.26 | 1.08 | +59.8 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
+| 2026-08-18 | Chuck E Cheese | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.28 | 1.00 | 1.08 | 0.26 | 1.08 | +59.8 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
 | 2026-08-14 | on disability | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.04 | 0.81 | +106.5 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
 | 2026-08-12 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.05 | 0.80 | +7.0 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |
-| 2026-08-08 | F5 | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.77 | 1.28 | 1.00 | 0.99 | 0.00 | 0.00 | -0.0 | 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
+| 2026-08-08 | F5 | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.77 | 1.28 | 1.00 | 0.99 | 0.00 | 0.00 | -0.0 | 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
 | 2026-08-07 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.09 | 0.77 | +93.6 | 3r0, BanFlash, CIoudWalker, Ceai, DonkeyDork, direkiller |
 | 2026-08-05 | BigThree | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.13 | 0.75 | +251.9 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |
 | 2026-07-31 | Native | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -37.2 | 3r0, BanFlash, Ceai, DonkeyDork, direkiller |

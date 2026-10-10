@@ -25,17 +25,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-04 | Abusement Park | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.08 | 1.00 | 1.03 | 0.00 | 0.00 | -24.0 | Hig, Sosah, flounders, milkyy, zvenix666 |
-| 2026-08-26 | babaG | L |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.34 | 0.00 | 0.00 | -0.3 | Hig, Sosah, flounders, milkyy, zvenix666 |
+| 2026-08-26 | babaG | L |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.34 | 0.00 | 0.00 | -0.3 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-26 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.12 | 0.94 | +47.8 | Hig, Sosah, flounders, milkyy, zvenix666 |
-| 2026-08-24 | DETONATE | L |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -0.1 | Hig, Sosah, flounders, milkyy, zvenix666 |
-| 2026-08-24 | Tractors | L |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -237.7 | Hig, Sosah, flounders, milkyy, zvenix666 |
+| 2026-08-24 | DETONATE | L |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -0.1 | Hig, Sosah, flounders, milkyy, zvenix666 |
+| 2026-08-24 | Tractors | L |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.50 | 1.00 | 1.33 | 0.00 | 0.00 | -237.7 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-24 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.05 | 1.00 | 0.93 | 0.11 | 0.93 | +80.5 | Hig, Sosah, flounders, milkyy, zvenix666 |
-| 2026-08-20 | Phantom Sense | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -13.7 | Hig, Sosah, flounders, milkyy, zvenix666 |
-| 2026-08-20 | FRZ Unit | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -12.3 | Hig, Sosah, flounders, milkyy, zvenix666 |
+| 2026-08-20 | Phantom Sense | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -13.7 | Hig, Sosah, flounders, milkyy, zvenix666 |
+| 2026-08-20 | FRZ Unit | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -12.3 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-19 | the pug jug | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.89 | 0.12 | 0.00 | +86.0 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-17 | Carbon | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.05 | 1.00 | 0.88 | 0.22 | 0.88 | +58.3 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-12 | ORCA | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.00 | 0.00 | -108.3 | Hig, Sosah, flounders, taggy, zvenix666 |
-| 2026-08-10 | NineFly Esports | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.18 | 0.00 | 0.00 | -201.8 | Hig, Sosah, flounders, milkyy, zvenix666 |
+| 2026-08-10 | NineFly Esports | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.50 | 1.00 | 1.18 | 0.00 | 0.00 | -201.8 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-07 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.07 | 0.81 | +84.2 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-05 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.00 | 0.00 | -162.1 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-07-31 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.05 | 1.00 | 0.76 | 0.00 | 0.00 | -215.6 | Hig, Sosah, flounders, milkyy, zvenix666 |

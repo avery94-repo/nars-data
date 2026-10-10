@@ -31,17 +31,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Ritz Enjoyers | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.08 | 1.00 | 1.02 | 0.00 | 0.00 | -71.1 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-09-01 | Holly Molly | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.41 | 1.00 | 1.32 | 0.00 | 0.00 | -43.3 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-08-28 | Afterimage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.95 | 0.32 | 0.95 | +97.5 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
-| 2026-08-27 | Olympus | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.1 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
+| 2026-08-27 | Olympus | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.28 | 1.00 | 1.15 | 0.00 | 0.00 | -0.1 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-08-27 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.95 | 0.00 | 0.00 | -48.9 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-08-26 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.00 | 0.00 | -59.1 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
-| 2026-08-26 | Clockwork | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.00 | 0.00 | -71.3 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
+| 2026-08-26 | Clockwork | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.28 | 1.00 | 1.14 | 0.00 | 0.00 | -71.3 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-08-25 | Salsas Money Crew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.05 | 1.00 | 0.93 | 0.12 | 0.93 | +23.9 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
-| 2026-08-23 | F5 | W |  | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.65 | 0.00 | +208.6 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
-| 2026-08-20 | Epochal Esports | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.27 | 1.09 | +63.1 | Costerfunk, J4kenator, Yakub, Yuanfen, khvostov |
+| 2026-08-23 | F5 | W |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.28 | 1.00 | 1.12 | 0.65 | 0.00 | +208.6 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
+| 2026-08-20 | Epochal Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.28 | 1.00 | 1.09 | 0.27 | 1.09 | +63.1 | Costerfunk, J4kenator, Yakub, Yuanfen, khvostov |
 | 2026-08-19 | Texas JV Orange | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.89 | 0.11 | 0.89 | +97.6 | Costerfunk, J4kenator, Yakub, Yuanfen, khvostov |
 | 2026-08-15 | F5 | L | 1-2 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.83 | 1.51 | 1.00 | 1.24 | 0.00 | 0.00 | -0.0 | Costerfunk, J4kenator, Yuanfen, ciisco-, khvostov |
-| 2026-08-13 | Elusive | L | 0-1 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -0.5 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
-| 2026-08-13 | Chuck E Cheese | W | 1-0 | NSTLGA League | Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.25 | 1.03 | +152.8 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
+| 2026-08-13 | Elusive | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.00 | 0.00 | -0.5 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
+| 2026-08-13 | Chuck E Cheese | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.28 | 1.00 | 1.03 | 0.25 | 1.03 | +152.8 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-08-12 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.12 | 0.84 | +114.1 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-08-10 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.05 | 1.00 | 0.83 | 0.27 | 0.83 | +140.2 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-07-31 | Solace | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.05 | 1.00 | 0.76 | 0.00 | 0.00 | -157.4 | Costerfunk, J4kenator, Yakub, Yuanfen, ciisco-, khvostov |

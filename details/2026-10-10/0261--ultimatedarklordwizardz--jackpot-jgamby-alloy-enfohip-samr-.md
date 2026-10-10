@@ -34,16 +34,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-03 | Third Prime | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.41 | 1.00 | 1.34 | 0.00 | 0.00 | -18.8 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-09-02 | It Doesnt Matter | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.01 | 1.00 | 0.95 | 0.16 | 0.95 | +0.3 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-28 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.91 | 1.01 | 1.00 | 0.91 | 0.11 | 0.91 | +64.0 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-08-27 | HeadShot Esports | W |  | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.30 | 1.35 | +2.8 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-08-27 | Over Your Head | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.00 | 0.00 | -36.0 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-08-27 | HeadShot Esports | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.30 | 1.35 | +2.8 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-08-27 | Over Your Head | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.50 | 1.00 | 1.35 | 0.00 | 0.00 | -36.0 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-26 | Lawyers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.89 | 1.01 | 1.00 | 0.90 | 0.18 | 0.90 | +48.1 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-21 | Duality Alternate Flow | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.86 | 1.01 | 1.00 | 0.87 | 0.15 | 0.87 | +1.9 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-08-20 | KODEX | W | 1-0 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.31 | 1.28 | +135.9 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-08-20 | 4fun | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -0.4 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-08-20 | KODEX | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.31 | 1.28 | +135.9 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-08-20 | 4fun | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.50 | 1.00 | 1.28 | 0.00 | 0.00 | -0.4 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-19 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.85 | 1.01 | 1.00 | 0.85 | 0.11 | 0.85 | +84.9 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-12 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.00 | 0.00 | -83.1 | ALDEN_, JGamby, Jackpot, alloy, enfohip |
-| 2026-08-07 | EMPIRE | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.77 | 1.50 | 1.00 | 1.15 | 0.00 | 0.00 | -2.7 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-08-07 | GuangdongTigers | L | 0-1 | NSTLGA League | Ruby Conference | B | faceit-tournament | 0.77 | 1.50 | 1.00 | 1.15 | 0.00 | 0.00 | -243.2 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-08-07 | EMPIRE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.50 | 1.00 | 1.15 | 0.00 | 0.00 | -2.7 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-08-07 | GuangdongTigers | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.50 | 1.00 | 1.15 | 0.00 | 0.00 | -243.2 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-07 | DIMINISH | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.77 | 1.01 | 1.00 | 0.77 | 0.10 | 0.77 | +42.0 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-05 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.13 | 0.76 | +13.8 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-07-29 | SneezeSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.71 | 1.01 | 1.00 | 0.71 | 0.09 | 0.71 | +212.0 | JGamby, Jackpot, alloy, enfohip, samR- |
