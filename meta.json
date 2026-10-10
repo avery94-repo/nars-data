@@ -1,10 +1,10 @@
 {
  "schema_version": 1,
- "snapshot": "2026-10-10T20:14:19.089217+00:00",
- "exported_at": "2026-10-10T20:14:22Z",
+ "snapshot": "2026-10-10T20:19:05.323792+00:00",
+ "exported_at": "2026-10-10T20:19:08Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
- "matches_qualifying": 6191,
+ "matches_qualifying": 6192,
  "teams_ranked": 515,
  "teams_provisional": 501,
  "sources": {
