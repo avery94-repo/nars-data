@@ -8195,17 +8195,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "1-256b3bd2-bb7c-4be4-a8d1-7a9ad460520d",
-  "date": "2026-09-08",
-  "competition": "S58 NA Open9-10 East - Playoffs A",
-  "team_a": "Fourth Quarter",
-  "team_b": "Trap Castle",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
   "match_id": "1-272ee699-612a-46a7-91b7-f1956ac652e3",
   "date": "2026-09-08",
   "competition": "S58 NA Main Central - Playoffs A",
@@ -9577,17 +9566,6 @@
   "team_b": "Cultivate",
   "winner": "a",
   "score": "2-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-4074610f-97e6-47e0-8714-0d68e2895eff",
-  "date": "2026-09-06",
-  "competition": "S58 NA Open9-10 East - Playoffs C",
-  "team_a": "Ctrl Alt Elite",
-  "team_b": "GodFather Gamin",
-  "winner": "a",
-  "score": "2-1",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -11403,17 +11381,6 @@
   "team_b": "49th Parallel",
   "winner": "a",
   "score": "2-1",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-1a637b78-fd56-4cad-8fec-e715aff0d299",
-  "date": "2026-09-04",
-  "competition": "S58 NA Open9-10 East - Playoffs A",
-  "team_a": "Fourth Quarter",
-  "team_b": "Kodaks Lettuce",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -67578,17 +67545,6 @@
   "competition": "S57 NA Intermediate Central - Regular Season",
   "team_a": "Schadenfreude",
   "team_b": "Midwest Farmers",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-19231058-29aa-4b2f-8264-3fd111817f59",
-  "date": "2026-04-15",
-  "competition": "S57 NA Intermediate Central - Regular Season",
-  "team_a": "the pug jug",
-  "team_b": "Shaq Diesel",
   "winner": "a",
   "score": "1-0",
   "tier": "C",
