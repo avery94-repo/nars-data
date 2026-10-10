@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
  "snapshot": "2026-10-10T16:33:20.642862+00:00",
- "exported_at": "2026-10-10T19:42:12Z",
+ "exported_at": "2026-10-10T19:42:59Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
  "matches_qualifying": 6185,
@@ -10,7 +10,7 @@
  "sources": {
   "liquipedia": {
    "file_mtime": "2026-10-10T16:33:01Z",
-   "matches_in_window": 665
+   "matches_in_window": 1029
   },
   "hltv": {
    "file_mtime": "2026-10-08T09:08:54Z",
