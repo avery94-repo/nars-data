@@ -13,6 +13,8 @@ after every recompute.
 | `matches.json` | Recent matches (rolling 180 days) |
 | `teams.json` | Team ID to name/match-count map |
 | `meta.json` | Snapshot time, engine version, per-source freshness |
+| `details/<date>/` | Per-team detail files for each snapshot date, VRS-style: `rank--team--roster.md` with rating, roster, and recent matches |
+
 
 ## Schema
 
