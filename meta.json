@@ -1,20 +1,20 @@
 {
  "schema_version": 2,
- "snapshot": "2026-10-10T21:13:35.186207+00:00",
- "exported_at": "2026-10-10T21:13:44Z",
+ "snapshot": "2026-10-10T21:18:25.276221+00:00",
+ "exported_at": "2026-10-10T21:18:34Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
- "matches_qualifying": 6191,
- "matches_exported": 6190,
+ "matches_qualifying": 6194,
+ "matches_exported": 6193,
  "matches_by_source": {
-  "faceit-tournament": 5450,
+  "faceit-tournament": 5453,
   "liquipedia": 506,
   "hltv": 13,
   "vrs": 221
  },
  "teams_ranked": 543,
  "teams_provisional": 535,
- "bridge_offset": 1383.0,
+ "bridge_offset": 1368.0,
  "sources": {
   "faceit_league": {
    "note": "ESEA league via nightly ingest pipeline"
