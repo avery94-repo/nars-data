@@ -1,16 +1,16 @@
 {
  "schema_version": 1,
- "snapshot": "2026-10-10T16:33:20.642862+00:00",
- "exported_at": "2026-10-10T19:42:59Z",
+ "snapshot": "2026-10-10T19:44:24.648239+00:00",
+ "exported_at": "2026-10-10T19:44:32Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
- "matches_qualifying": 6185,
- "teams_ranked": 514,
- "teams_provisional": 503,
+ "matches_qualifying": 6189,
+ "teams_ranked": 515,
+ "teams_provisional": 501,
  "sources": {
   "liquipedia": {
    "file_mtime": "2026-10-10T16:33:01Z",
-   "matches_in_window": 1029
+   "matches_in_window": 506
   },
   "hltv": {
    "file_mtime": "2026-10-08T09:08:54Z",
