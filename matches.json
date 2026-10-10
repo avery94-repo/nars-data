@@ -847,17 +847,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:e7425d209e",
-  "date": "2026-10-09",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
-  "team_a": "VILLAINOUS",
-  "team_b": "ex-reign above",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:86d2083ce6",
   "date": "2026-10-09",
   "competition": "ESL Challenger League Season 52: North America - Cup #3",
@@ -865,17 +854,6 @@
   "team_b": "Wanted Goons",
   "winner": "b",
   "score": "1-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:d041d9e3d9",
-  "date": "2026-10-09",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
-  "team_a": "CLUB 333",
-  "team_b": "overknight",
-  "winner": "a",
-  "score": "2-0",
   "tier": "B",
   "source": "liquipedia"
  },
@@ -968,17 +946,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:611fab5c2d",
-  "date": "2026-10-08",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
-  "team_a": "ex-reign above",
-  "team_b": "overtake",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:6e552d3a5e",
   "date": "2026-10-08",
   "competition": "ESL Challenger League Season 52: North America - Cup #3",
@@ -1008,17 +975,6 @@
   "team_b": "CLUB 333",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:23bd6bdce8",
-  "date": "2026-10-08",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
-  "team_a": "overknight",
-  "team_b": "DESI BOYZ",
-  "winner": "b",
-  "score": "1-2",
   "tier": "B",
   "source": "liquipedia"
  },
@@ -1925,17 +1881,6 @@
   "source": "hltv"
  },
  {
-  "match_id": "lp:fox-legacy-cup-1:d4e5d570cb",
-  "date": "2026-10-04",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "nice try",
-  "team_b": "SAW",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "hltv:2398732",
   "date": "2026-10-04",
   "competition": "ESL Pro League Season 24",
@@ -1967,28 +1912,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:e68f386324",
-  "date": "2026-10-03",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "LAZER CATS",
-  "team_b": "nice try",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:387e6caa4f",
-  "date": "2026-10-03",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "SAW",
-  "team_b": "aimclub.ro",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-2fa28706-ee8b-4335-8dd9-e4969b52e565",
@@ -2101,209 +2024,11 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:journey-2026-autumn:d9db18c3dc",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "npg",
-  "team_b": "anteiku",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:65994f64d4",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "SINNERS",
-  "team_b": "anteiku",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:991a1964c1",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "SINNERS",
-  "team_b": "npg",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:896129eaac",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "LILMIX",
-  "team_b": "anteiku",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:fcbae315ae",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "npg",
-  "team_b": "LILMIX",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:789a5476b5",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "HAVU",
-  "team_b": "xept",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:f9df3cc06e",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "SANGAL",
-  "team_b": "xept",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:744758da83",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "FOKUS",
-  "team_b": "matrix.ua",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:8d138884ce",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "9INE",
-  "team_b": "matrix.ua",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:3193d658db",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "matrix.ua",
-  "team_b": "EAC EXTRA",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:77eec6ec67",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "JOHNNY SPEEDS",
-  "team_b": "matrix.ua",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:74a3d77f8e",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "BC.GAME",
-  "team_b": "glitch agency",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:3bb43f6ea4",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "SASHI",
-  "team_b": "prestige.dk",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:7bc9d60dcb",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "BC.GAME",
-  "team_b": "prestige.dk",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:journey-2026-autumn:1e30b60dd1",
   "date": "2026-10-02",
   "competition": "Journey Autumn 2026",
   "team_a": "Voca",
-  "team_b": "glitch agency",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:4ffcdd9e1d",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "SASHI",
-  "team_b": "glitch agency",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:61735887a7",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "BASEMENT BOYS",
-  "team_b": "prestige.dk",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:52c041414a",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "prestige.dk",
-  "team_b": "glitch agency",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:journey-2026-autumn:9182756cd6",
-  "date": "2026-10-02",
-  "competition": "Journey Autumn 2026",
-  "team_a": "BASEMENT BOYS",
-  "team_b": "glitch agency",
+  "team_b": "GLITCH AGENCY",
   "winner": "a",
   "score": "1-0",
   "tier": "B",
@@ -2314,28 +2039,17 @@
   "date": "2026-10-02",
   "competition": "Journey Autumn 2026",
   "team_a": "Voca",
-  "team_b": "prestige.dk",
+  "team_b": "PRESTIGE.DK",
   "winner": "a",
   "score": "1-0",
   "tier": "B",
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:fox-legacy-cup-1:6f579cb64b",
-  "date": "2026-10-02",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "PURE",
-  "team_b": "nice try",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:fox-legacy-cup-1:804875455b",
   "date": "2026-10-02",
   "competition": "FOX Legacy Cup #1",
-  "team_a": "nice try",
+  "team_a": "NICE TRY",
   "team_b": "Wildcard",
   "winner": "a",
   "score": "2-1",
@@ -2361,116 +2075,6 @@
   "team_b": "Without a Roof",
   "winner": "b",
   "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:c2925f82b3",
-  "date": "2026-10-01",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "aimclub.ro",
-  "team_b": "FALCONS FORCE",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:c1aca12237",
-  "date": "2026-10-01",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "NEXT UP",
-  "team_b": "aimclub.ro",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:d0bcd88fd0",
-  "date": "2026-10-01",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "PURE",
-  "team_b": "aimclub.ro",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:e0767bfc3f",
-  "date": "2026-10-01",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "SAW",
-  "team_b": "nice try",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:38f9431ced",
-  "date": "2026-10-01",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "LAZER CATS",
-  "team_b": "flame hard",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:0896c3a935",
-  "date": "2026-10-01",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "flame hard",
-  "team_b": "nice try",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:1c27eace64",
-  "date": "2026-10-01",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "LAZER CATS",
-  "team_b": "nice try",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:e95b3b17b1",
-  "date": "2026-10-01",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "flame hard",
-  "team_b": "SINQU",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:bd35263bfd",
-  "date": "2026-10-01",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "nice try",
-  "team_b": "SINQU",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:fox-legacy-cup-1:e11752df98",
-  "date": "2026-10-01",
-  "competition": "FOX Legacy Cup #1",
-  "team_a": "SAW",
-  "team_b": "flame hard",
-  "winner": "a",
-  "score": "1-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -2508,17 +2112,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:esea-season-58-finals-europe:316c05ced0",
-  "date": "2026-09-29",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "FIRE FLUX",
-  "team_b": "navi jr",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:b04bb47cd1",
   "date": "2026-09-28",
   "competition": "ESL Challenger League Season 52: North America - Cup #2",
@@ -2527,17 +2120,6 @@
   "winner": "b",
   "score": "0-2",
   "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:254d1f1e00",
-  "date": "2026-09-28",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "navi jr",
-  "team_b": "chaos enforcers",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -2687,66 +2269,11 @@
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:cce11c3044",
   "date": "2026-09-27",
   "competition": "ESL Challenger League Season 52: North America - Cup #2",
-  "team_a": "overtake",
+  "team_a": "OVERTAKE",
   "team_b": "FarmVille",
   "winner": "b",
   "score": "0-2",
   "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:leon-bet-masters-season-1:8ac540d218",
-  "date": "2026-09-27",
-  "competition": "Leon.bet Masters Season 1",
-  "team_a": "INFINITE",
-  "team_b": "Flux",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:leon-bet-masters-season-1:a2b76e8d01",
-  "date": "2026-09-27",
-  "competition": "Leon.bet Masters Season 1",
-  "team_a": "rebels gaming",
-  "team_b": "SAW",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:leon-bet-masters-season-1:1de27e1835",
-  "date": "2026-09-27",
-  "competition": "Leon.bet Masters Season 1",
-  "team_a": "Flux",
-  "team_b": "SAW",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:leon-bet-masters-season-1:10bfa2665a",
-  "date": "2026-09-27",
-  "competition": "Leon.bet Masters Season 1",
-  "team_a": "INFINITE",
-  "team_b": "rebels gaming",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:2907abab50",
-  "date": "2026-09-27",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "partizan",
-  "team_b": "chaos enforcers",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -2860,35 +2387,13 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:leon-bet-masters-season-1:967aafd335",
-  "date": "2026-09-26",
-  "competition": "Leon.bet Masters Season 1",
-  "team_a": "Flux",
-  "team_b": "largadosypelados",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esea-season-58-finals-north-america:362f51cb96",
   "date": "2026-09-26",
   "competition": "ESEA Season 58: North American Finals",
   "team_a": "Marsborne",
-  "team_b": "qcclan",
+  "team_b": "QCCLAN",
   "winner": "a",
   "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:1342e810b1",
-  "date": "2026-09-26",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "YOUNG TIGERES",
-  "team_b": "spirit green",
-  "winner": "a",
-  "score": "2-1",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -3080,33 +2585,11 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:leon-bet-masters-season-1:1834330e87",
-  "date": "2026-09-25",
-  "competition": "Leon.bet Masters Season 1",
-  "team_a": "SAW",
-  "team_b": "nice try",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:leon-bet-masters-season-1:45e1ab129f",
-  "date": "2026-09-25",
-  "competition": "Leon.bet Masters Season 1",
-  "team_a": "INFINITE",
-  "team_b": "nice try",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:crossfire-season-6:20472898cd",
   "date": "2026-09-25",
   "competition": "CROSSFIRE Season 6",
   "team_a": "Iowa Stormboar",
-  "team_b": "dice",
+  "team_b": "ADDICE INC",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -3116,7 +2599,7 @@
   "match_id": "lp:esea-season-58-finals-north-america:5e69b26435",
   "date": "2026-09-25",
   "competition": "ESEA Season 58: North American Finals",
-  "team_a": "qcclan",
+  "team_a": "QCCLAN",
   "team_b": "Sharp",
   "winner": "a",
   "score": "1-0",
@@ -3138,7 +2621,7 @@
   "match_id": "lp:esea-season-58-finals-north-america:3b49d4b093",
   "date": "2026-09-25",
   "competition": "ESEA Season 58: North American Finals",
-  "team_a": "my life be like",
+  "team_a": "MY LIFE BE LIKE",
   "team_b": "feet67",
   "winner": "a",
   "score": "2-0",
@@ -3153,28 +2636,6 @@
   "team_b": "babaG",
   "winner": "b",
   "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:439dac863a",
-  "date": "2026-09-25",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "spirit green",
-  "team_b": "BAKS",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:e3e6f306b2",
-  "date": "2026-09-25",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "FIRE FLUX",
-  "team_b": "al ahli",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -3199,17 +2660,6 @@
   "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
- },
- {
-  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:016e9c4753",
-  "date": "2026-09-24",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
-  "team_a": "VILLAINOUS",
-  "team_b": "overtake",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "B",
-  "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:58a1eced17",
@@ -3237,7 +2687,7 @@
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:470157bebf",
   "date": "2026-09-24",
   "competition": "ESL Challenger League Season 52: North America - Cup #2",
-  "team_a": "marca registrada",
+  "team_a": "MARCA REGISTRADA",
   "team_b": "NuTorious",
   "winner": "b",
   "score": "1-2",
@@ -3253,50 +2703,6 @@
   "winner": "a",
   "score": "2-0",
   "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:leon-bet-masters-season-1:280aa5c60a",
-  "date": "2026-09-24",
-  "competition": "Leon.bet Masters Season 1",
-  "team_a": "largadosypelados",
-  "team_b": "rebels gaming",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:leon-bet-masters-season-1:1c7838df80",
-  "date": "2026-09-24",
-  "competition": "Leon.bet Masters Season 1",
-  "team_a": "BASEMENT BOYS",
-  "team_b": "rebels gaming",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:leon-bet-masters-season-1:f1d8f8e486",
-  "date": "2026-09-24",
-  "competition": "Leon.bet Masters Season 1",
-  "team_a": "BASEMENT BOYS",
-  "team_b": "largadosypelados",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:0e00c18c00",
-  "date": "2026-09-24",
-  "competition": "United21 Season 55",
-  "team_a": "TELETUBISIE",
-  "team_b": "oldmix",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -3336,44 +2742,11 @@
   "match_id": "lp:esea-season-58-finals-north-america:02ffd6dfe2",
   "date": "2026-09-24",
   "competition": "ESEA Season 58: North American Finals",
-  "team_a": "abg esports",
+  "team_a": "ABG ESPORTS",
   "team_b": "babaG",
   "winner": "b",
   "score": "0-2",
   "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:f0f8bba90e",
-  "date": "2026-09-24",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "YOUNG TIGERES",
-  "team_b": "aurora yb",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:4e3924d7d6",
-  "date": "2026-09-24",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "al ahli",
-  "team_b": "coinstep united",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:93ebd6224f",
-  "date": "2026-09-23",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
-  "team_a": "UNREAL NIGHTMARE",
-  "team_b": "overtake",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
   "source": "liquipedia"
  },
  {
@@ -3410,50 +2783,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:esea-season-58-finals-europe:998e15a926",
-  "date": "2026-09-23",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "forfeit-exe",
-  "team_b": "aurora yb",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:1a3b76ba27",
-  "date": "2026-09-23",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "gelo",
-  "team_b": "FAZE UP NEXT",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:200ca02cdd",
-  "date": "2026-09-23",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "ic prospect",
-  "team_b": "coinstep united",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:61351a98f6",
-  "date": "2026-09-23",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "fever squad",
-  "team_b": "chaos enforcers",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-02a376bd-3cec-4d0d-b29f-3dde4d2b7159",
   "date": "2026-09-22",
   "competition": "CROSSFIRE Season 6 - Playoffs",
@@ -3476,17 +2805,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:united21-season-55:1c6b76887c",
-  "date": "2026-09-22",
-  "competition": "United21 Season 55",
-  "team_a": "EAC EXTRA",
-  "team_b": "oldmix",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:crossfire-season-6:8798482a76",
   "date": "2026-09-22",
   "competition": "CROSSFIRE Season 6",
@@ -3494,61 +2812,6 @@
   "team_b": "Zomblers",
   "winner": "b",
   "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:crossfire-season-6:71460b40d8",
-  "date": "2026-09-22",
-  "competition": "CROSSFIRE Season 6",
-  "team_a": "dice",
-  "team_b": "my life be like",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:11cd4e268f",
-  "date": "2026-09-22",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "aurora yb",
-  "team_b": "megakich",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:9f471309b7",
-  "date": "2026-09-22",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "FAZE UP NEXT",
-  "team_b": "cucu media",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:66303c7d1f",
-  "date": "2026-09-22",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "coinstep united",
-  "team_b": "monument esport",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-finals-europe:a57c24539f",
-  "date": "2026-09-22",
-  "competition": "ESEA Season 58: European Finals",
-  "team_a": "chaos enforcers",
-  "team_b": "cuban cigar",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -3663,39 +2926,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:united21-season-55:4f1fe049ae",
-  "date": "2026-09-21",
-  "competition": "United21 Season 55",
-  "team_a": "oldmix",
-  "team_b": "ic prospect",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-main-north-america:54d023e9f2",
-  "date": "2026-09-21",
-  "competition": "ESEA Season 58: Main Division - North America",
-  "team_a": "my life be like",
-  "team_b": "mas paspas",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-main-north-america:83c59410c7",
-  "date": "2026-09-21",
-  "competition": "ESEA Season 58: Main Division - North America",
-  "team_a": "qcclan",
-  "team_b": "icons of vanity",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:crossfire-season-6:936faceee7",
   "date": "2026-09-21",
   "competition": "CROSSFIRE Season 6",
@@ -3711,20 +2941,9 @@
   "date": "2026-09-21",
   "competition": "CROSSFIRE Season 6",
   "team_a": "NuTorious",
-  "team_b": "arctic ace esports",
+  "team_b": "ARCTIC ACE ESPORTS",
   "winner": "a",
   "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:crossfire-season-6:b86f74d305",
-  "date": "2026-09-21",
-  "competition": "CROSSFIRE Season 6",
-  "team_a": "bucketjonboys",
-  "team_b": "dice",
-  "winner": "b",
-  "score": "1-2",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -3960,43 +3179,10 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:united21-season-55:fc0d7fa44f",
-  "date": "2026-09-20",
-  "competition": "United21 Season 55",
-  "team_a": "prestige.dk",
-  "team_b": "oldmix",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:c565b43a25",
-  "date": "2026-09-20",
-  "competition": "United21 Season 55",
-  "team_a": "ic prospect",
-  "team_b": "Passion",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-main-north-america:81f4062afa",
-  "date": "2026-09-20",
-  "competition": "ESEA Season 58: Main Division - North America",
-  "team_a": "hairy scary bandits",
-  "team_b": "mas paspas",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esea-season-58-main-north-america:270e00be6d",
   "date": "2026-09-20",
   "competition": "ESEA Season 58: Main Division - North America",
-  "team_a": "icons of vanity",
+  "team_a": "ICONS OF VANITY",
   "team_b": "Old Meta",
   "winner": "a",
   "score": "2-0",
@@ -4004,54 +3190,10 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:esea-season-58-entry-europe:4307c0cbb5",
-  "date": "2026-09-20",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "aurora yb",
-  "team_b": "oxingame",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:0bef39944e",
-  "date": "2026-09-20",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "coinstep united",
-  "team_b": "borealis",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:f370cbf2c7",
-  "date": "2026-09-20",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "FAZE UP NEXT",
-  "team_b": "prz",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:28152ccefc",
-  "date": "2026-09-20",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "chaos enforcers",
-  "team_b": "gatorian",
-  "winner": "b",
-  "score": "2-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:crossfire-season-6:08e258df97",
   "date": "2026-09-20",
   "competition": "CROSSFIRE Season 6",
-  "team_a": "my life be like",
+  "team_a": "MY LIFE BE LIKE",
   "team_b": "Beyond Limits",
   "winner": "a",
   "score": "2-1",
@@ -4178,72 +3320,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:united21-season-55:bccf584348",
-  "date": "2026-09-19",
-  "competition": "United21 Season 55",
-  "team_a": "ic prospect",
-  "team_b": "EAC EXTRA",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:6e8e75c19a",
-  "date": "2026-09-19",
-  "competition": "United21 Season 55",
-  "team_a": "prestige.dk",
-  "team_b": "TELETUBISIE",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:f710def7b4",
-  "date": "2026-09-19",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "Costco Family",
-  "team_b": "borealis",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:7554bc225c",
-  "date": "2026-09-19",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "gatorian",
-  "team_b": "MAI TAI",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:601aa0ad3f",
-  "date": "2026-09-19",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "largadosypelados",
-  "team_b": "SAW YOUNGSTERS",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:ecfecc9feb",
-  "date": "2026-09-19",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "GENONE",
-  "team_b": "esport berg",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-14f30748-7e61-4b10-8c69-ddd300efcaa5",
@@ -4477,145 +3553,13 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:united21-season-55:9332b7330d",
-  "date": "2026-09-18",
-  "competition": "United21 Season 55",
-  "team_a": "ef academy",
-  "team_b": "oldmix",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:cd7a0d726b",
-  "date": "2026-09-18",
-  "competition": "United21 Season 55",
-  "team_a": "Passion",
-  "team_b": "ence prospects",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esea-season-58-main-north-america:ec43f8d809",
   "date": "2026-09-18",
   "competition": "ESEA Season 58: Main Division - North America",
-  "team_a": "my life be like",
+  "team_a": "MY LIFE BE LIKE",
   "team_b": "Skyline",
   "winner": "b",
   "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:56b5545c14",
-  "date": "2026-09-18",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "oxingame",
-  "team_b": "uol frox",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:93f11ba58c",
-  "date": "2026-09-18",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "gold beasts",
-  "team_b": "borealis",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:6b33dfc8aa",
-  "date": "2026-09-18",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "4z",
-  "team_b": "prz",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:5e483be615",
-  "date": "2026-09-18",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "GENONE",
-  "team_b": "giant pandas",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:2cc120c90b",
-  "date": "2026-09-18",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "giant pandas",
-  "team_b": "REVENIX",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:06848fe56c",
-  "date": "2026-09-18",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "largadosypelados",
-  "team_b": "gothboiclique.ua",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:a7c3db5195",
-  "date": "2026-09-18",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "esport berg",
-  "team_b": "famalicao",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:0aa05d3b5f",
-  "date": "2026-09-18",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "largadosypelados",
-  "team_b": "esport berg",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:8293148e23",
-  "date": "2026-09-18",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "gothboiclique.ua",
-  "team_b": "famalicao",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:ebc02e9d4b",
-  "date": "2026-09-18",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "esport berg",
-  "team_b": "famalicao",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -4972,32 +3916,10 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:united21-season-55:1e418b620f",
-  "date": "2026-09-17",
-  "competition": "United21 Season 55",
-  "team_a": "Passion",
-  "team_b": "prestige.dk",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:35d09f0957",
-  "date": "2026-09-17",
-  "competition": "United21 Season 55",
-  "team_a": "ence prospects",
-  "team_b": "TELETUBISIE",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esea-season-58-intermediate-north-america:a406e7f144",
   "date": "2026-09-17",
   "competition": "ESEA Season 58: Intermediate Division - North America",
-  "team_a": "ball",
+  "team_a": "DUMBO",
   "team_b": "The Unction",
   "winner": "a",
   "score": "2-0",
@@ -5008,65 +3930,10 @@
   "match_id": "lp:esea-season-58-intermediate-north-america:e9f86a73f0",
   "date": "2026-09-17",
   "competition": "ESEA Season 58: Intermediate Division - North America",
-  "team_a": "abg esports",
+  "team_a": "ABG ESPORTS",
   "team_b": "Firstwave",
   "winner": "a",
   "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:09c41e6e3c",
-  "date": "2026-09-17",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "nice try",
-  "team_b": "FAZE UP NEXT",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:e9aaf2985a",
-  "date": "2026-09-17",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "maybe.ua",
-  "team_b": "rebels gaming",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:a7ad988c03",
-  "date": "2026-09-17",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "wimok",
-  "team_b": "maybe.ua",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:circuito-retake-season-12:6ee381199a",
-  "date": "2026-09-17",
-  "competition": "Circuito Retake Season 12",
-  "team_a": "rebels gaming",
-  "team_b": "maybe.ua",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:crossfire-season-6:b16baa9afa",
-  "date": "2026-09-17",
-  "competition": "CROSSFIRE Season 6",
-  "team_a": "my life be like",
-  "team_b": "DETONATE",
-  "winner": "b",
-  "score": "0-2",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -5192,28 +4059,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:united21-season-55:937862c580",
-  "date": "2026-09-16",
-  "competition": "United21 Season 55",
-  "team_a": "ic prospect",
-  "team_b": "ef academy",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:7e99325be9",
-  "date": "2026-09-16",
-  "competition": "United21 Season 55",
-  "team_a": "EAC EXTRA",
-  "team_b": "oldmix",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esea-season-58-open10-north-america:33ffe50749",
   "date": "2026-09-16",
   "competition": "ESEA Season 58: Open10 Division - North America",
@@ -5228,21 +4073,10 @@
   "match_id": "lp:esea-season-58-main-north-america:6e9cbd3dc0",
   "date": "2026-09-16",
   "competition": "ESEA Season 58: Main Division - North America",
-  "team_a": "qcclan",
+  "team_a": "QCCLAN",
   "team_b": "MASTER ONE",
   "winner": "b",
   "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:crossfire-season-6:0a2a251fca",
-  "date": "2026-09-16",
-  "competition": "CROSSFIRE Season 6",
-  "team_a": "OLYMPUS",
-  "team_b": "bucketjonboys",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -5251,7 +4085,7 @@
   "date": "2026-09-16",
   "competition": "CROSSFIRE Season 6",
   "team_a": "Marsborne",
-  "team_b": "kodex esports",
+  "team_b": "KODEX ESPORTS",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -5621,17 +4455,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:united21-season-55:ac210d5c33",
-  "date": "2026-09-15",
-  "competition": "United21 Season 55",
-  "team_a": "gatorian",
-  "team_b": "ef academy",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esea-season-58-advanced-north-america:ed90c8ed7c",
   "date": "2026-09-15",
   "competition": "ESEA Season 58: Advanced Division - North America",
@@ -5845,18 +4668,7 @@
   "date": "2026-09-14",
   "competition": "United21 Season 55",
   "team_a": "ASCEND",
-  "team_b": "ence prospects",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:548d8d5a66",
-  "date": "2026-09-14",
-  "competition": "United21 Season 55",
-  "team_a": "INFURITY",
-  "team_b": "prestige.dk",
+  "team_b": "ENCE PROSPECTS",
   "winner": "b",
   "score": "0-2",
   "tier": "C",
@@ -5971,39 +4783,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:united21-season-55:33f7e587b3",
-  "date": "2026-09-13",
-  "competition": "United21 Season 55",
-  "team_a": "gatorian",
-  "team_b": "TELETUBISIE",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:0d054d85c3",
-  "date": "2026-09-13",
-  "competition": "United21 Season 55",
-  "team_a": "elite klan",
-  "team_b": "ef academy",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:9b7f1f0f29",
-  "date": "2026-09-13",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "chaos enforcers",
-  "team_b": "gatorian",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "lp:esea-season-58-advanced-north-america:31b418c800",
@@ -6787,50 +5566,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:united21-season-55:ef6cf4fbaa",
-  "date": "2026-09-11",
-  "competition": "United21 Season 55",
-  "team_a": "INFURITY",
-  "team_b": "oldmix",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:b3fea5859f",
-  "date": "2026-09-11",
-  "competition": "United21 Season 55",
-  "team_a": "ctrl esports",
-  "team_b": "prestige.dk",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:bc1a362211",
-  "date": "2026-09-11",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "bangaranga",
-  "team_b": "aurora yb",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:05d0a0484a",
-  "date": "2026-09-11",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "Costco Family",
-  "team_b": "coinstep united",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esea-season-58-advanced-north-america:3188d6c053",
   "date": "2026-09-11",
   "competition": "ESEA Season 58: Advanced Division - North America",
@@ -6849,17 +5584,6 @@
   "team_b": "Fathom Gaming",
   "winner": "a",
   "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-advanced-north-america:fd841cb1b2",
-  "date": "2026-09-11",
-  "competition": "ESEA Season 58: Advanced Division - North America",
-  "team_a": "Holy Squid Empire",
-  "team_b": "celestial esports",
-  "winner": "a",
-  "score": "2-1",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -7616,18 +6340,7 @@
   "date": "2026-09-10",
   "competition": "United21 Season 55",
   "team_a": "ASCEND",
-  "team_b": "ic prospect",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:822ef6b7b3",
-  "date": "2026-09-10",
-  "competition": "United21 Season 55",
-  "team_a": "sinqu rehti",
-  "team_b": "ence prospects",
+  "team_b": "IC PROSPECT",
   "winner": "b",
   "score": "0-2",
   "tier": "C",
@@ -7637,21 +6350,10 @@
   "match_id": "lp:esea-season-58-intermediate-north-america:1ef1f04eb9",
   "date": "2026-09-10",
   "competition": "ESEA Season 58: Intermediate Division - North America",
-  "team_a": "House Platypus",
+  "team_a": "HOUSE PLATYPUS ESPORTS CLUB",
   "team_b": "Sharp",
   "winner": "b",
   "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-entry-europe:35d386804d",
-  "date": "2026-09-10",
-  "competition": "ESEA Season 58: Entry Division - Europe",
-  "team_a": "FAZE UP NEXT",
-  "team_b": "uncnation",
-  "winner": "a",
-  "score": "2-1",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -8074,28 +6776,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:united21-season-55:5bb3f17358",
-  "date": "2026-09-09",
-  "competition": "United21 Season 55",
-  "team_a": "gatorian",
-  "team_b": "elite klan",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:83f327b33d",
-  "date": "2026-09-09",
-  "competition": "United21 Season 55",
-  "team_a": "TELETUBISIE",
-  "team_b": "ef academy",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-0563bf92-87d6-4f23-af27-06dacc406a17",
   "date": "2026-09-08",
   "competition": "S58 NA Main Central - Playoffs B",
@@ -8191,6 +6871,17 @@
   "team_b": "Team Zhao",
   "winner": "b",
   "score": "0-2",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-256b3bd2-bb7c-4be4-a8d1-7a9ad460520d",
+  "date": "2026-09-08",
+  "competition": "S58 NA Open9-10 East - Playoffs A",
+  "team_a": "Fourth Quarter",
+  "team_b": "Trap Castle",
+  "winner": "b",
+  "score": "1-2",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -9243,7 +7934,7 @@
   "match_id": "lp:pgl-2026-masters-north-america-open-2:9a43ae1e92",
   "date": "2026-09-07",
   "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #2",
-  "team_a": "KODEX",
+  "team_a": "KODEX ESPORTS",
   "team_b": "babaG",
   "winner": "b",
   "score": "0-2",
@@ -9255,53 +7946,9 @@
   "date": "2026-09-07",
   "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #2",
   "team_a": "Zomblers",
-  "team_b": "Memeories",
+  "team_b": "CELESTIAL ESPORTS",
   "winner": "b",
   "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:pgl-2026-masters-north-america-open-2:adf084a972",
-  "date": "2026-09-07",
-  "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #2",
-  "team_a": "UNREAL NIGHTMARE",
-  "team_b": "antivalue",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:pgl-2026-masters-north-america-open-2:f9955c9de4",
-  "date": "2026-09-07",
-  "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #2",
-  "team_a": "Memeories",
-  "team_b": "antivalue",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:c4a3f81962",
-  "date": "2026-09-07",
-  "competition": "United21 Season 55",
-  "team_a": "ctrl esports",
-  "team_b": "INFURITY",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:ca47af0d18",
-  "date": "2026-09-07",
-  "competition": "United21 Season 55",
-  "team_a": "oldmix",
-  "team_b": "prestige.dk",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -9566,6 +8213,17 @@
   "team_b": "Cultivate",
   "winner": "a",
   "score": "2-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-4074610f-97e6-47e0-8714-0d68e2895eff",
+  "date": "2026-09-06",
+  "competition": "S58 NA Open9-10 East - Playoffs C",
+  "team_a": "Ctrl Alt Elite",
+  "team_b": "GodFather Gamin",
+  "winner": "a",
+  "score": "2-1",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -10805,21 +9463,10 @@
   "match_id": "lp:united21-season-55:c8853008f5",
   "date": "2026-09-06",
   "competition": "United21 Season 55",
-  "team_a": "sinqu rehti",
+  "team_a": "SINQU REHTI",
   "team_b": "ASCEND",
   "winner": "b",
   "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-55:4803706150",
-  "date": "2026-09-06",
-  "competition": "United21 Season 55",
-  "team_a": "ic prospect",
-  "team_b": "ence prospects",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -11143,33 +9790,11 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:pgl-2026-masters-north-america-open-1:1563e1c9bb",
-  "date": "2026-09-05",
-  "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #1",
-  "team_a": "VILLAINOUS",
-  "team_b": "incognito.us",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:pgl-2026-masters-north-america-open-1:7f7754f398",
-  "date": "2026-09-05",
-  "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #1",
-  "team_a": "EMPIRE",
-  "team_b": "UNREAL NIGHTMARE",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:pgl-2026-masters-north-america-open-1:7844469ca2",
   "date": "2026-09-05",
   "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #1",
   "team_a": "Without a Roof",
-  "team_b": "Memeories",
+  "team_b": "CELESTIAL ESPORTS",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -11180,7 +9805,7 @@
   "date": "2026-09-05",
   "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #1",
   "team_a": "Marsborne",
-  "team_b": "incognito.us",
+  "team_b": "INCOGNITO.US",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -11190,7 +9815,7 @@
   "match_id": "lp:pgl-2026-masters-north-america-open-1:8c8e5d61ef",
   "date": "2026-09-05",
   "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #1",
-  "team_a": "EMPIRE",
+  "team_a": "EMPIRE.US",
   "team_b": "Without a Roof",
   "winner": "b",
   "score": "1-2",
@@ -11216,17 +9841,6 @@
   "team_b": "NZ Gaming",
   "winner": "a",
   "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-58-advanced-north-america:68a21b53a7",
-  "date": "2026-09-05",
-  "competition": "ESEA Season 58: Advanced Division - North America",
-  "team_a": "atlantis esports",
-  "team_b": "SparkExchange io",
-  "winner": "b",
-  "score": "0-2",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -11381,6 +9995,17 @@
   "team_b": "49th Parallel",
   "winner": "a",
   "score": "2-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-1a637b78-fd56-4cad-8fec-e715aff0d299",
+  "date": "2026-09-04",
+  "competition": "S58 NA Open9-10 East - Playoffs A",
+  "team_a": "Fourth Quarter",
+  "team_b": "Kodaks Lettuce",
+  "winner": "a",
+  "score": "2-0",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -13159,41 +11784,8 @@
   "match_id": "lp:pgl-2026-masters-north-america-open-1:7a6642603f",
   "date": "2026-09-04",
   "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #1",
-  "team_a": "xdxd",
+  "team_a": "XDXD",
   "team_b": "The Homies",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:pgl-2026-masters-north-america-open-1:20471d4191",
-  "date": "2026-09-04",
-  "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #1",
-  "team_a": "VILLAINOUS",
-  "team_b": "iris.us",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:pgl-2026-masters-north-america-open-1:9680fa5113",
-  "date": "2026-09-04",
-  "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #1",
-  "team_a": "northforge",
-  "team_b": "incognito.us",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:pgl-2026-masters-north-america-open-1:7d8181f1d0",
-  "date": "2026-09-04",
-  "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #1",
-  "team_a": "Locally Hated",
-  "team_b": "EMPIRE",
   "winner": "b",
   "score": "0-1",
   "tier": "C",
@@ -13215,7 +11807,7 @@
   "date": "2026-09-04",
   "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #1",
   "team_a": "Without a Roof",
-  "team_b": "Excommunicado",
+  "team_b": "EXCOM",
   "winner": "a",
   "score": "1-0",
   "tier": "C",
@@ -13797,7 +12389,7 @@
   "match_id": "lp:esea-season-58-advanced-north-america:627bf98116",
   "date": "2026-09-03",
   "competition": "ESEA Season 58: Advanced Division - North America",
-  "team_a": "Holy Squid Empire",
+  "team_a": "THE HOLY SQUID EMPIRE",
   "team_b": "NZ Gaming",
   "winner": "a",
   "score": "2-0",
@@ -13805,21 +12397,10 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:esea-season-58-advanced-north-america:daeaa4269f",
-  "date": "2026-09-03",
-  "competition": "ESEA Season 58: Advanced Division - North America",
-  "team_a": "DESI BOYZ",
-  "team_b": "atlantis esports",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esea-season-58-advanced-north-america:c33b9bad78",
   "date": "2026-09-03",
   "competition": "ESEA Season 58: Advanced Division - North America",
-  "team_a": "kodex esports",
+  "team_a": "KODEX ESPORTS",
   "team_b": "Playing for fun",
   "winner": "b",
   "score": "0-2",
@@ -13830,7 +12411,7 @@
   "match_id": "lp:esea-season-58-advanced-north-america:b69b2320ed",
   "date": "2026-09-03",
   "competition": "ESEA Season 58: Advanced Division - North America",
-  "team_a": "celestial esports",
+  "team_a": "CELESTIAL ESPORTS",
   "team_b": "Beyond Limits",
   "winner": "b",
   "score": "0-2",
@@ -16181,17 +14762,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:united21-season-54:21b1b89f52",
-  "date": "2026-09-02",
-  "competition": "United21 Season 54",
-  "team_a": "qub",
-  "team_b": "EAC EXTRA",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-3a8864e9-9630-4219-9fa9-6c957662d4e8",
   "date": "2026-09-01",
   "competition": "S58 NA Open9-10 East - Playoffs B",
@@ -16278,17 +14848,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:united21-season-54:1688209bd6",
-  "date": "2026-09-01",
-  "competition": "United21 Season 54",
-  "team_a": "TELETUBISIE",
-  "team_b": "qub",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-eda6fbe2-a2e3-4374-bbb0-4e5b18a72091",
@@ -16423,17 +14982,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:frag-2026-st-louis:2b1b99b3a8",
-  "date": "2026-08-30",
-  "competition": "FRAG Midwest: St. Louis 2026",
-  "team_a": "KODEX",
-  "team_b": "White Lotus",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:frag-2026-st-louis:1d20022f2c",
   "date": "2026-08-30",
   "competition": "FRAG Midwest: St. Louis 2026",
@@ -16467,17 +15015,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:frag-2026-st-louis:e7e9729b7e",
-  "date": "2026-08-30",
-  "competition": "FRAG Midwest: St. Louis 2026",
-  "team_a": "Playing for fun",
-  "team_b": "KODEX",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:frag-2026-st-louis:21a2b2cd00",
   "date": "2026-08-30",
   "competition": "FRAG Midwest: St. Louis 2026",
@@ -16493,7 +15030,7 @@
   "date": "2026-08-30",
   "competition": "FRAG Midwest: St. Louis 2026",
   "team_a": "regain",
-  "team_b": "Playing for fun",
+  "team_b": "FOR FUN",
   "winner": "b",
   "score": "1-2",
   "tier": "C",
@@ -16504,7 +15041,7 @@
   "date": "2026-08-30",
   "competition": "FRAG Midwest: St. Louis 2026",
   "team_a": "Wanted Goons",
-  "team_b": "Playing for fun",
+  "team_b": "FOR FUN",
   "winner": "b",
   "score": "0-2",
   "tier": "C",
@@ -16514,21 +15051,10 @@
   "match_id": "lp:frag-2026-st-louis:a5757b2128",
   "date": "2026-08-30",
   "competition": "FRAG Midwest: St. Louis 2026",
-  "team_a": "Playing for fun",
+  "team_a": "FOR FUN",
   "team_b": "SportsBetExpert",
   "winner": "b",
   "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-54:4d5bc09b6f",
-  "date": "2026-08-30",
-  "competition": "United21 Season 54",
-  "team_a": "EAC EXTRA",
-  "team_b": "qub",
-  "winner": "b",
-  "score": "0-2",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -16614,7 +15140,7 @@
   "date": "2026-08-29",
   "competition": "FRAG Midwest: St. Louis 2026",
   "team_a": "Wanted Goons",
-  "team_b": "KODEX",
+  "team_b": "KODEX ESPORTS",
   "winner": "a",
   "score": "1-0",
   "tier": "C",
@@ -16624,7 +15150,7 @@
   "match_id": "lp:frag-2026-st-louis:6c981fd868",
   "date": "2026-08-29",
   "competition": "FRAG Midwest: St. Louis 2026",
-  "team_a": "White Lotus",
+  "team_a": "LOTUS",
   "team_b": "NuTorious",
   "winner": "b",
   "score": "0-1",
@@ -16654,17 +15180,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:frag-2026-st-louis:c5ca9bea82",
-  "date": "2026-08-29",
-  "competition": "FRAG Midwest: St. Louis 2026",
-  "team_a": "UNREAL NIGHTMARE",
-  "team_b": "Playing for fun",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:frag-2026-st-louis:2e1ebbd208",
   "date": "2026-08-29",
   "competition": "FRAG Midwest: St. Louis 2026",
@@ -16684,17 +15199,6 @@
   "winner": "a",
   "score": "2-1",
   "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-54:ce2c6a8764",
-  "date": "2026-08-29",
-  "competition": "United21 Season 54",
-  "team_a": "B8 ACADEMY",
-  "team_b": "ex-sangal alters",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -17941,17 +16445,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:united21-season-54:9e18e91185",
-  "date": "2026-08-28",
-  "competition": "United21 Season 54",
-  "team_a": "qub",
-  "team_b": "PHANTOM ACADEMY",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-04e05e28-a61d-4db3-9d05-fb17d5c3bc97",
   "date": "2026-08-27",
   "competition": "S58 NA Intermediate A - Regular Season",
@@ -18411,17 +16904,6 @@
   "winner": "a",
   "score": "2-0",
   "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-54:df5d721c9c",
-  "date": "2026-08-27",
-  "competition": "United21 Season 54",
-  "team_a": "ex-sangal alters",
-  "team_b": "INFURITY",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -19855,17 +18337,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:united21-season-54:f85587987b",
-  "date": "2026-08-26",
-  "competition": "United21 Season 54",
-  "team_a": "ex-sangal alters",
-  "team_b": "Passion",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-0d592f45-e224-44ec-a0c7-7de0097caa74",
   "date": "2026-08-25",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -20174,28 +18645,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:united21-season-54:9ba79f2e62",
-  "date": "2026-08-25",
-  "competition": "United21 Season 54",
-  "team_a": "lph gaming",
-  "team_b": "qub",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-54:3e8eb6feff",
-  "date": "2026-08-25",
-  "competition": "United21 Season 54",
-  "team_a": "rethink",
-  "team_b": "FAZE UP NEXT",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-12e342a3-799e-409a-8167-af205cce4ba6",
   "date": "2026-08-24",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -20372,17 +18821,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:united21-season-54:b01e05003e",
-  "date": "2026-08-24",
-  "competition": "United21 Season 54",
-  "team_a": "ence prospects",
-  "team_b": "TELETUBISIE",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-e0f8fc56-e2c8-4320-8d29-e02832477136",
   "date": "2026-08-23",
   "competition": "NSTLGA League | Ruby Conference",
@@ -20460,17 +18898,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:united21-season-54:e337173604",
-  "date": "2026-08-23",
-  "competition": "United21 Season 54",
-  "team_a": "ex-sangal alters",
-  "team_b": "EAC EXTRA",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-70c58025-b92e-4b41-95f9-0db7384bf7d0",
   "date": "2026-08-22",
   "competition": "NSTLGA League | Sapphire Conference",
@@ -20491,28 +18918,6 @@
   "score": "0-1",
   "tier": "B",
   "source": "faceit-tournament"
- },
- {
-  "match_id": "lp:united21-season-54:d69062f613",
-  "date": "2026-08-22",
-  "competition": "United21 Season 54",
-  "team_a": "rethink",
-  "team_b": "INFURITY",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-54:d7d290101b",
-  "date": "2026-08-22",
-  "competition": "United21 Season 54",
-  "team_a": "FAZE UP NEXT",
-  "team_b": "ic prospect",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-00054008-fe55-4066-b6ac-359bdfdcf691",
@@ -21791,28 +20196,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "lp:united21-season-54:50e04a0445",
-  "date": "2026-08-21",
-  "competition": "United21 Season 54",
-  "team_a": "lph gaming",
-  "team_b": "B8 ACADEMY",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-54:1e082cdf55",
-  "date": "2026-08-21",
-  "competition": "United21 Season 54",
-  "team_a": "qub",
-  "team_b": "ef academy",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-01e500f5-97f4-4626-a723-4bd8491c2d05",
   "date": "2026-08-20",
   "competition": "S58 NA Intermediate A - Regular Season",
@@ -22229,39 +20612,6 @@
   "score": "1-0",
   "tier": "B",
   "source": "faceit-tournament"
- },
- {
-  "match_id": "lp:united21-season-54:17647f4208",
-  "date": "2026-08-20",
-  "competition": "United21 Season 54",
-  "team_a": "ic prospect",
-  "team_b": "INFURITY",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-54:94734e7945",
-  "date": "2026-08-20",
-  "competition": "United21 Season 54",
-  "team_a": "ALLIANCE",
-  "team_b": "ence prospects",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:2f495889df",
-  "date": "2026-08-20",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "inox",
-  "team_b": "vitality academy",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-00ec517f-14b4-4fe8-a765-5932745223b8",
@@ -23661,28 +22011,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:united21-season-54:1f608e610b",
-  "date": "2026-08-19",
-  "competition": "United21 Season 54",
-  "team_a": "EAC EXTRA",
-  "team_b": "Passion",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:62815899fa",
-  "date": "2026-08-19",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "ic prospect",
-  "team_b": "vitality academy",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-1ba29bc6-de7e-4cca-88e7-5e03b0878276",
   "date": "2026-08-18",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -23914,39 +22242,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:united21-season-54:4ccf0817a6",
-  "date": "2026-08-18",
-  "competition": "United21 Season 54",
-  "team_a": "FAZE UP NEXT",
-  "team_b": "rethink",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:cb85dc8dc3",
-  "date": "2026-08-18",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "ic prospect",
-  "team_b": "inox",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:9d56ddfe38",
-  "date": "2026-08-18",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "vitality academy",
-  "team_b": "wopa",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-0625d6ef-6b68-4473-a92b-8315ba8c0bb2",
   "date": "2026-08-17",
   "competition": "S58 NA Main A - Regular Season",
@@ -24022,28 +22317,6 @@
   "score": "1-0",
   "tier": "B",
   "source": "faceit-tournament"
- },
- {
-  "match_id": "lp:united21-season-54:06519de326",
-  "date": "2026-08-17",
-  "competition": "United21 Season 54",
-  "team_a": "qub",
-  "team_b": "lph gaming",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-54:99ec413587",
-  "date": "2026-08-17",
-  "competition": "United21 Season 54",
-  "team_a": "B8 ACADEMY",
-  "team_b": "ef academy",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-2ecbc874-3dae-4c5c-9661-3fdd5bd69aee",
@@ -24178,28 +22451,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:european-pro-league-regular-season-6:bf44a44255",
-  "date": "2026-08-16",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "wopa",
-  "team_b": "ic prospect",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:37471782d7",
-  "date": "2026-08-16",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "inox",
-  "team_b": "vitality academy",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-1f043752-5307-496b-86dc-ed404a31eea5",
   "date": "2026-08-15",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -24319,17 +22570,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:united21-season-53:b1b6ddfea5",
-  "date": "2026-08-15",
-  "competition": "United21 Season 53",
-  "team_a": "wopa",
-  "team_b": "TELETUBISIE",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-058112ae-134b-46a0-8822-dd43abc6a05e",
@@ -25575,28 +23815,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:esports-world-cup-2026:f665dce168",
-  "date": "2026-08-14",
-  "competition": "Esports World Cup 2026",
-  "team_a": "CashApp100toPBPClumForFFW",
-  "team_b": "PARIVISION",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "S",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:e1a85ad2d8",
-  "date": "2026-08-14",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "vitality academy",
-  "team_b": "FAZE UP NEXT",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-11952df9-b2fc-48f2-beb9-d903e5b09f90",
   "date": "2026-08-13",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -26024,17 +24242,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:united21-season-53:3cf07efa7f",
-  "date": "2026-08-13",
-  "competition": "United21 Season 53",
-  "team_a": "wopa",
-  "team_b": "INFURITY",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-02fdad94-af86-4d3f-b11e-b7d67f07fc5c",
@@ -27401,39 +25608,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:esports-world-cup-2026:b77eb89fce",
-  "date": "2026-08-12",
-  "competition": "Esports World Cup 2026",
-  "team_a": "Vitality",
-  "team_b": "CashApp100toPBPClumForFFW",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "S",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:9c484ffbfa",
-  "date": "2026-08-12",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "INFURITY",
-  "team_b": "ic prospect",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:bd9b078526",
-  "date": "2026-08-12",
-  "competition": "United21 Season 53",
-  "team_a": "TELETUBISIE",
-  "team_b": "vpp",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-0a288758-35ee-4526-8826-a1662f248f3d",
   "date": "2026-08-11",
   "competition": "S58 NA Main B - Regular Season",
@@ -27599,28 +25773,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:european-pro-league-regular-season-6:52e36ff758",
-  "date": "2026-08-11",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "ic prospect",
-  "team_b": "ence prospects",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:aa0006291a",
-  "date": "2026-08-11",
-  "competition": "United21 Season 53",
-  "team_a": "FIRE FLUX",
-  "team_b": "wopa",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-5564244c-730e-4c3a-8141-daaa38357785",
   "date": "2026-08-10",
   "competition": "S58 NA Main A - Regular Season",
@@ -27674,17 +25826,6 @@
   "score": "0-1",
   "tier": "B",
   "source": "faceit-tournament"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:05db7e44aa",
-  "date": "2026-08-10",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "ef academy",
-  "team_b": "vitality academy",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-9871c0ee-ab0f-49ed-a427-3da4d0124550",
@@ -27808,72 +25949,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:uesf-ukrainian-championship-2026-stage-3:3b0a5d0992",
-  "date": "2026-08-09",
-  "competition": "UESF Ukrainian Championship 2026: Stage 3",
-  "team_a": "anteiku",
-  "team_b": "lfo ukraine",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:uesf-ukrainian-championship-2026-stage-3:b835ec4eba",
-  "date": "2026-08-09",
-  "competition": "UESF Ukrainian Championship 2026: Stage 3",
-  "team_a": "winstonblue",
-  "team_b": "B8 ACADEMY",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:uesf-ukrainian-championship-2026-stage-3:c3951bc990",
-  "date": "2026-08-09",
-  "competition": "UESF Ukrainian Championship 2026: Stage 3",
-  "team_a": "lfo ukraine",
-  "team_b": "B8 ACADEMY",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:32261f9621",
-  "date": "2026-08-09",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "INFURITY",
-  "team_b": "inox",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-30:8896809efd",
-  "date": "2026-08-09",
-  "competition": "Exort Series #30",
-  "team_a": "cybershoke prospects",
-  "team_b": "INFURITY",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-30:518a4e04aa",
-  "date": "2026-08-09",
-  "competition": "Exort Series #30",
-  "team_a": "DONSTU",
-  "team_b": "cybershoke prospects",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-d3a1e688-a696-4ce5-b407-9004128d3496",
   "date": "2026-08-08",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -27962,90 +26037,13 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:uesf-ukrainian-championship-2026-stage-3:3afa9f59c5",
-  "date": "2026-08-08",
-  "competition": "UESF Ukrainian Championship 2026: Stage 3",
-  "team_a": "fever squad",
-  "team_b": "anteiku",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:uesf-ukrainian-championship-2026-stage-3:351b1aa8e0",
   "date": "2026-08-08",
   "competition": "UESF Ukrainian Championship 2026: Stage 3",
   "team_a": "EMPIRE",
-  "team_b": "winstonblue",
+  "team_b": "WINSTONBLUE",
   "winner": "b",
   "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:uesf-ukrainian-championship-2026-stage-3:c160151adf",
-  "date": "2026-08-08",
-  "competition": "UESF Ukrainian Championship 2026: Stage 3",
-  "team_a": "ic prospect",
-  "team_b": "B8 ACADEMY",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:2bf3d5c85e",
-  "date": "2026-08-08",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "Passion",
-  "team_b": "sinqu rehti",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:b4ecf51e73",
-  "date": "2026-08-08",
-  "competition": "United21 Season 53",
-  "team_a": "vpp",
-  "team_b": "wopa",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-30:c59e568ee1",
-  "date": "2026-08-08",
-  "competition": "Exort Series #30",
-  "team_a": "EX-RUBY",
-  "team_b": "eclot phoenix",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-30:aaa0b32f97",
-  "date": "2026-08-08",
-  "competition": "Exort Series #30",
-  "team_a": "DONSTU",
-  "team_b": "partizan",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-30:60d58a6bc9",
-  "date": "2026-08-08",
-  "competition": "Exort Series #30",
-  "team_a": "cybershoke prospects",
-  "team_b": "maybe.ua",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -29326,72 +27324,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:european-pro-league-regular-season-6:5aa89da0ab",
-  "date": "2026-08-07",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "3dmax academy",
-  "team_b": "B8 ACADEMY",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:8ec35bce52",
-  "date": "2026-08-07",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "FAZE UP NEXT",
-  "team_b": "wopa",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:c26fd5e967",
-  "date": "2026-08-07",
-  "competition": "United21 Season 53",
-  "team_a": "wopa",
-  "team_b": "ic prospect",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:cd822783b3",
-  "date": "2026-08-07",
-  "competition": "United21 Season 53",
-  "team_a": "eclot phoenix",
-  "team_b": "PHANTOM ACADEMY",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-30:bbb23e80ae",
-  "date": "2026-08-07",
-  "competition": "Exort Series #30",
-  "team_a": "csgopositive",
-  "team_b": "partizan",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-30:fcb9502622",
-  "date": "2026-08-07",
-  "competition": "Exort Series #30",
-  "team_a": "INFURITY",
-  "team_b": "375",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-024ed59c-f681-4b88-9ebc-e37f5143b739",
   "date": "2026-08-06",
   "competition": "S58 NA Intermediate A - Regular Season",
@@ -29500,28 +27432,6 @@
   "score": "1-0",
   "tier": "B",
   "source": "faceit-league"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:4504d90897",
-  "date": "2026-08-06",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "ef academy",
-  "team_b": "EAC EXTRA",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:4994de70c2",
-  "date": "2026-08-06",
-  "competition": "United21 Season 53",
-  "team_a": "wraith pcific",
-  "team_b": "TELETUBISIE",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-063b44f5-13ae-4741-8ffa-79bc5d552a3b",
@@ -30932,69 +28842,14 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:stake-pulse-beat-i:6c180a687c",
-  "date": "2026-08-05",
-  "competition": "Stake Pulse Beat I",
-  "team_a": "JOHNNY SPEEDS",
-  "team_b": "apogee",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:stake-pulse-beat-i:3b61418802",
   "date": "2026-08-05",
   "competition": "Stake Pulse Beat I",
-  "team_a": "apogee",
+  "team_a": "APOGEE",
   "team_b": "Liquid",
   "winner": "a",
   "score": "2-1",
   "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:2d316776c3",
-  "date": "2026-08-05",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "INFURITY",
-  "team_b": "ic prospect",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:526dbe89f1",
-  "date": "2026-08-05",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "inox",
-  "team_b": "ence prospects",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:0a2cbabec6",
-  "date": "2026-08-05",
-  "competition": "United21 Season 53",
-  "team_a": "eclot phoenix",
-  "team_b": "FAZE UP NEXT",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:6f595fe8cc",
-  "date": "2026-08-05",
-  "competition": "United21 Season 53",
-  "team_a": "PHANTOM ACADEMY",
-  "team_b": "vitality academy",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -31075,61 +28930,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:stake-pulse-beat-i:b171189e17",
-  "date": "2026-08-04",
-  "competition": "Stake Pulse Beat I",
-  "team_a": "ACEND",
-  "team_b": "apogee",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:f8737ec80a",
-  "date": "2026-08-04",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "B8 ACADEMY",
-  "team_b": "wopa",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:8ea6588a2d",
-  "date": "2026-08-04",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "Passion",
-  "team_b": "PHANTOM ACADEMY",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:1d2dee9ba1",
-  "date": "2026-08-04",
-  "competition": "United21 Season 53",
-  "team_a": "INFURITY",
-  "team_b": "wopa",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:d957a282bc",
-  "date": "2026-08-04",
-  "competition": "United21 Season 53",
-  "team_a": "ence prospects",
-  "team_b": "ic prospect",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-6436ec25-a59a-4ed8-8783-f3c98a230d85",
   "date": "2026-08-03",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -31161,39 +28961,6 @@
   "score": "1-2",
   "tier": "C",
   "source": "faceit-tournament"
- },
- {
-  "match_id": "lp:european-pro-league-regular-season-6:a3078ed45d",
-  "date": "2026-08-03",
-  "competition": "European Pro League Regular Season 6",
-  "team_a": "FAZE UP NEXT",
-  "team_b": "3dmax academy",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:9d5c10b927",
-  "date": "2026-08-03",
-  "competition": "United21 Season 53",
-  "team_a": "ef academy",
-  "team_b": "vpp",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:12c7177921",
-  "date": "2026-08-03",
-  "competition": "United21 Season 53",
-  "team_a": "EAC EXTRA",
-  "team_b": "Passion",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-98005ea9-8a4c-491c-88da-55cfd88fd6f8",
@@ -31249,17 +29016,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:united21-season-53:a7e22cc0d0",
-  "date": "2026-08-02",
-  "competition": "United21 Season 53",
-  "team_a": "wraith pcific",
-  "team_b": "FIRE FLUX",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-65e12a19-d06a-451d-92d9-98397b8e9a1a",
@@ -31442,32 +29198,10 @@
   "date": "2026-08-01",
   "competition": "Stake Pulse Beat I",
   "team_a": "Liquid",
-  "team_b": "apogee",
+  "team_b": "APOGEE",
   "winner": "a",
   "score": "2-1",
   "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:623a5a3aae",
-  "date": "2026-08-01",
-  "competition": "United21 Season 53",
-  "team_a": "ic prospect",
-  "team_b": "wopa",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:ed4610c200",
-  "date": "2026-08-01",
-  "competition": "United21 Season 53",
-  "team_a": "FAZE UP NEXT",
-  "team_b": "vitality academy",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -32692,28 +30426,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:stake-pulse-beat-i:f50632e77c",
-  "date": "2026-07-31",
-  "competition": "Stake Pulse Beat I",
-  "team_a": "HOTU",
-  "team_b": "xclan",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:273bc4e00f",
-  "date": "2026-07-31",
-  "competition": "United21 Season 53",
-  "team_a": "INFURITY",
-  "team_b": "ence prospects",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-0f84f2bf-5950-48df-b730-87028e53c654",
   "date": "2026-07-30",
   "competition": "S58 NA Intermediate B - Regular Season",
@@ -32866,28 +30578,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:united21-season-53:a9cd549ccb",
-  "date": "2026-07-30",
-  "competition": "United21 Season 53",
-  "team_a": "EAC EXTRA",
-  "team_b": "ef academy",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:790709fa84",
-  "date": "2026-07-30",
-  "competition": "United21 Season 53",
-  "team_a": "vpp",
-  "team_b": "Passion",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-0023b70e-d417-465a-8598-c39423cb00cd",
@@ -34307,28 +31997,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:united21-season-53:cad976f92d",
-  "date": "2026-07-29",
-  "competition": "United21 Season 53",
-  "team_a": "TELETUBISIE",
-  "team_b": "wraith pcific",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-53:2cc13b5658",
-  "date": "2026-07-29",
-  "competition": "United21 Season 53",
-  "team_a": "sangal alters",
-  "team_b": "FIRE FLUX",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-2de6a0ff-2665-4928-9fe1-aaa65a2b129d",
@@ -37455,39 +35123,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:exort-series-29:4ec841a0f0",
-  "date": "2026-07-19",
-  "competition": "Exort Series #29",
-  "team_a": "cybershoke prospects",
-  "team_b": "FIRE FLUX",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-29:6b34791455",
-  "date": "2026-07-19",
-  "competition": "Exort Series #29",
-  "team_a": "DONSTU",
-  "team_b": "arch esports",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-29:1eec59f3ba",
-  "date": "2026-07-19",
-  "competition": "Exort Series #29",
-  "team_a": "cybershoke prospects",
-  "team_b": "DONSTU",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-0655972f-2d8e-4ab3-aa58-294f24779df6",
   "date": "2026-07-18",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -37541,39 +35176,6 @@
   "score": "1-0",
   "tier": "C",
   "source": "faceit-tournament"
- },
- {
-  "match_id": "lp:exort-series-29:dfbfc72498",
-  "date": "2026-07-18",
-  "competition": "Exort Series #29",
-  "team_a": "cybershoke prospects",
-  "team_b": "375",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-29:26d55ef65c",
-  "date": "2026-07-18",
-  "competition": "Exort Series #29",
-  "team_a": "FIRE FLUX",
-  "team_b": "maybe.ua",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-29:d0eda39995",
-  "date": "2026-07-18",
-  "competition": "Exort Series #29",
-  "team_a": "DONSTU",
-  "team_b": "basement bobs",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-0322259d-0e5b-4e67-9ef2-a6928f063873",
@@ -38764,61 +36366,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:stake-ranked-episode-3:f7876259e9",
-  "date": "2026-07-17",
-  "competition": "Stake Ranked Episode 3",
-  "team_a": "gentle mates",
-  "team_b": "3DMAX",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-52:67665d8ffb",
-  "date": "2026-07-17",
-  "competition": "United21 Season 52",
-  "team_a": "LEO",
-  "team_b": "ex-mana",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-29:b10c039760",
-  "date": "2026-07-17",
-  "competition": "Exort Series #29",
-  "team_a": "kaganat",
-  "team_b": "375",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-29:cbb8f6c542",
-  "date": "2026-07-17",
-  "competition": "Exort Series #29",
-  "team_a": "lph gaming",
-  "team_b": "maybe.ua",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:exort-series-29:8a94f8c700",
-  "date": "2026-07-17",
-  "competition": "Exort Series #29",
-  "team_a": "basement bobs",
-  "team_b": "csgopositive",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-136cfd9c-e122-425d-a426-f1a90ac473ef",
   "date": "2026-07-16",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -38976,7 +36523,7 @@
   "match_id": "lp:esports-nations-cup-2026-north-america-united-states:83d6f14e60",
   "date": "2026-07-16",
   "competition": "Esports Nations Cup 2026: American Qualifier",
-  "team_a": "stars and stripes",
+  "team_a": "STARS AND STRIPES",
   "team_b": "Without a Roof",
   "winner": "b",
   "score": "1-2",
@@ -40264,32 +37811,10 @@
   "date": "2026-07-15",
   "competition": "Stake Ranked Episode 3",
   "team_a": "Wildcard",
-  "team_b": "gentle mates",
+  "team_b": "GENTLE MATES",
   "winner": "b",
   "score": "0-2",
   "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-52:d19e857383",
-  "date": "2026-07-15",
-  "competition": "United21 Season 52",
-  "team_a": "ex-mana",
-  "team_b": "FAZE UP NEXT",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-52:422dcbb61e",
-  "date": "2026-07-15",
-  "competition": "United21 Season 52",
-  "team_a": "ic prospect",
-  "team_b": "MISA",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -40425,17 +37950,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "lp:united21-season-52:5d1318b2d3",
-  "date": "2026-07-14",
-  "competition": "United21 Season 52",
-  "team_a": "ic prospect",
-  "team_b": "LEO",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "vrs-2026-10-05-nrg-2026-07-12-sportsbetexpert-W",
   "date": "2026-07-12",
   "competition": "VRS-tracked 2026-07",
@@ -40472,7 +37986,7 @@
   "match_id": "lp:frag-2026-windsor:6038292237",
   "date": "2026-07-12",
   "competition": "FRAG St. Clair 2026",
-  "team_a": "eh-team",
+  "team_a": "EH-TEAM",
   "team_b": "dice",
   "winner": "a",
   "score": "2-0",
@@ -40480,35 +37994,13 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:frag-2026-windsor:98f4a02687",
-  "date": "2026-07-12",
-  "competition": "FRAG St. Clair 2026",
-  "team_a": "Another Victim",
-  "team_b": "seoul",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:frag-2026-windsor:bbd0348307",
   "date": "2026-07-12",
   "competition": "FRAG St. Clair 2026",
-  "team_a": "Playing for fun",
+  "team_a": "FOR FUN",
   "team_b": "Skyline",
   "winner": "a",
   "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-windsor:11dd255d57",
-  "date": "2026-07-12",
-  "competition": "FRAG St. Clair 2026",
-  "team_a": "fidelio",
-  "team_b": "Memeories",
-  "winner": "b",
-  "score": "1-2",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -40517,7 +38009,7 @@
   "date": "2026-07-12",
   "competition": "FRAG St. Clair 2026",
   "team_a": "NRG",
-  "team_b": "eh-team",
+  "team_b": "EH-TEAM",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -40528,7 +38020,7 @@
   "date": "2026-07-12",
   "competition": "FRAG St. Clair 2026",
   "team_a": "NuTorious",
-  "team_b": "seoul",
+  "team_b": "SEOUL",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -40539,18 +38031,7 @@
   "date": "2026-07-12",
   "competition": "FRAG St. Clair 2026",
   "team_a": "SportsBetExpert",
-  "team_b": "Playing for fun",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-windsor:559be9480e",
-  "date": "2026-07-12",
-  "competition": "FRAG St. Clair 2026",
-  "team_a": "VILLAINOUS",
-  "team_b": "Memeories",
+  "team_b": "FOR FUN",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -40601,28 +38082,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:united21-season-52:28c95a0fba",
-  "date": "2026-07-10",
-  "competition": "United21 Season 52",
-  "team_a": "LEO",
-  "team_b": "prestige academy",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-52:e2bf36d192",
-  "date": "2026-07-10",
-  "competition": "United21 Season 52",
-  "team_a": "Passion",
-  "team_b": "ESUBA",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:crossfire-season-5:1174ef355d",
   "date": "2026-07-10",
   "competition": "CROSSFIRE Season 5",
@@ -40667,61 +38126,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:united21-season-52:5aeae83c0e",
-  "date": "2026-07-08",
-  "competition": "United21 Season 52",
-  "team_a": "vitality academy",
-  "team_b": "ic prospect",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-52:debec50d25",
-  "date": "2026-07-07",
-  "competition": "United21 Season 52",
-  "team_a": "INFURITY",
-  "team_b": "ex-mana",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-52:e65bfdedf9",
-  "date": "2026-07-06",
-  "competition": "United21 Season 52",
-  "team_a": "lph gaming",
-  "team_b": "Passion",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-52:79e0a0268c",
-  "date": "2026-07-05",
-  "competition": "United21 Season 52",
-  "team_a": "ic prospect",
-  "team_b": "PURE",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:united21-season-52:c7e50e38ee",
-  "date": "2026-07-03",
-  "competition": "United21 Season 52",
-  "team_a": "ex-mana",
-  "team_b": "MISA",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:crossfire-season-5:ba9e796f2e",
   "date": "2026-07-03",
   "competition": "CROSSFIRE Season 5",
@@ -40755,44 +38159,11 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:super-draculan-season-1:0874a00e82",
-  "date": "2026-06-28",
-  "competition": "Super DraculaN Season 1",
-  "team_a": "sharks",
-  "team_b": "echo",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:super-draculan-season-1:acf9408116",
-  "date": "2026-06-27",
-  "competition": "Super DraculaN Season 1",
-  "team_a": "echo",
-  "team_b": "ACEND",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:ferjee-rainhas-do-clutch-2026:bebc8e5ab0",
-  "date": "2026-06-26",
-  "competition": "Rainhas do Clutch 2026",
-  "team_a": "atrix",
-  "team_b": "clutchain female",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:crossfire-season-5:f349d8ceac",
   "date": "2026-06-26",
   "competition": "CROSSFIRE Season 5",
   "team_a": "Wanted Goons",
-  "team_b": "my life be like",
+  "team_b": "MY LIFE BE LIKE",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -40802,55 +38173,11 @@
   "match_id": "lp:crossfire-season-5:090dc4c376",
   "date": "2026-06-26",
   "competition": "CROSSFIRE Season 5",
-  "team_a": "revel",
+  "team_a": "REVEL",
   "team_b": "Beyond Limits",
   "winner": "b",
   "score": "0-2",
   "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:crossfire-season-5:ca6ab0b3b7",
-  "date": "2026-06-26",
-  "competition": "CROSSFIRE Season 5",
-  "team_a": "VILLAINOUS",
-  "team_b": "celestial esports",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:super-draculan-season-1:26b3876bfb",
-  "date": "2026-06-25",
-  "competition": "Super DraculaN Season 1",
-  "team_a": "ACEND",
-  "team_b": "sharks",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:super-draculan-season-1:e355124ac2",
-  "date": "2026-06-25",
-  "competition": "Super DraculaN Season 1",
-  "team_a": "echo",
-  "team_b": "WALCZAKI",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:super-draculan-season-1:85a963ebd6",
-  "date": "2026-06-25",
-  "competition": "Super DraculaN Season 1",
-  "team_a": "apogee",
-  "team_b": "INFINITE",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
   "source": "liquipedia"
  },
  {
@@ -40869,32 +38196,10 @@
   "date": "2026-06-25",
   "competition": "CROSSFIRE Season 5",
   "team_a": "Festina Lente",
-  "team_b": "NineFly Esports",
+  "team_b": "NINEFLY",
   "winner": "a",
   "score": "2-1",
   "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:super-draculan-season-1:57371da502",
-  "date": "2026-06-24",
-  "competition": "Super DraculaN Season 1",
-  "team_a": "FOKUS",
-  "team_b": "echo",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:super-draculan-season-1:6f2974bf3f",
-  "date": "2026-06-24",
-  "competition": "Super DraculaN Season 1",
-  "team_a": "OG",
-  "team_b": "apogee",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "B",
   "source": "liquipedia"
  },
  {
@@ -40909,17 +38214,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:super-draculan-season-1:386daf6994",
-  "date": "2026-06-23",
-  "competition": "Super DraculaN Season 1",
-  "team_a": "apogee",
-  "team_b": "echo",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
   "match_id": "vrs-2026-10-05-chicken coop-2026-06-21-club 333-W",
   "date": "2026-06-21",
   "competition": "VRS-tracked 2026-06",
@@ -40929,28 +38223,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:intel-extreme-masters-2026-cologne:e42435f13a",
-  "date": "2026-06-21",
-  "competition": "Intel Extreme Masters Cologne Major 2026",
-  "team_a": "germany",
-  "team_b": "poland",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "S",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:brace-for-impact-cash-cup-2026-europe-june:a6fb3ad422",
-  "date": "2026-06-21",
-  "competition": "Brace For Impact Cash Cup: Europe June 2026",
-  "team_a": "let her cook",
-  "team_b": "borntolose",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "vrs-2026-10-05-chicken coop-2026-06-20-overtake sector-W",
@@ -40967,21 +38239,10 @@
   "match_id": "lp:brace-for-impact-cash-cup-2026-europe-june:26aaa29b95",
   "date": "2026-06-20",
   "competition": "Brace For Impact Cash Cup: Europe June 2026",
-  "team_a": "let her cook",
+  "team_a": "LET HER COOK",
   "team_b": "Aura",
   "winner": "a",
   "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:brace-for-impact-cash-cup-2026-europe-june:12cb8d9986",
-  "date": "2026-06-20",
-  "competition": "Brace For Impact Cash Cup: Europe June 2026",
-  "team_a": "soul's heart esport",
-  "team_b": "borntolose",
-  "winner": "b",
-  "score": "1-2",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -40990,7 +38251,7 @@
   "date": "2026-06-20",
   "competition": "Brace For Impact Cash Cup: Europe June 2026",
   "team_a": "Aura",
-  "team_b": "soul's heart esport",
+  "team_b": "SOUL'S HEART ESPORT",
   "winner": "b",
   "score": "0-2",
   "tier": "C",
@@ -41004,28 +38265,6 @@
   "team_b": "Playing for fun",
   "winner": "a",
   "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:cc83ac1e65",
-  "date": "2026-06-20",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "QUAZAR",
-  "team_b": "rethink",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:a3c277bc15",
-  "date": "2026-06-20",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "FIRE FLUX",
-  "team_b": "wrotberry",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -41063,44 +38302,11 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:esea-season-57-finals-north-america:0f06515246",
-  "date": "2026-06-19",
-  "competition": "ESEA Season 57: North American Finals",
-  "team_a": "DETONATE",
-  "team_b": "academy 4 gifted children",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esea-season-57-finals-north-america:e5ac69cf61",
   "date": "2026-06-19",
   "competition": "ESEA Season 57: North American Finals",
   "team_a": "Slimy Boogermen",
   "team_b": "Playing for fun",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:bc93a2bcc9",
-  "date": "2026-06-19",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "rethink",
-  "team_b": "BAKS",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:9a426bed75",
-  "date": "2026-06-19",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "arch esports",
-  "team_b": "wrotberry",
   "winner": "b",
   "score": "0-2",
   "tier": "C",
@@ -41132,7 +38338,7 @@
   "match_id": "lp:esea-season-57-finals-north-america:a72d3c152a",
   "date": "2026-06-18",
   "competition": "ESEA Season 57: North American Finals",
-  "team_a": "academy 4 gifted children",
+  "team_a": "ACADEMY 4 GIFTED CHILDREN",
   "team_b": "Festina Lente",
   "winner": "a",
   "score": "2-1",
@@ -41147,116 +38353,6 @@
   "team_b": "Playing for fun",
   "winner": "b",
   "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:4023552a27",
-  "date": "2026-06-18",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "hermine",
-  "team_b": "snitko esports",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:afabb03b23",
-  "date": "2026-06-18",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "ic academy",
-  "team_b": "BAKS",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:2673288e13",
-  "date": "2026-06-17",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "snitko esports",
-  "team_b": "unknowns.ru",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:74744483fe",
-  "date": "2026-06-17",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "pensioners",
-  "team_b": "BAKS",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:e4fc22bf79",
-  "date": "2026-06-17",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "BANDA CHUYA",
-  "team_b": "weclear",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:4991a4487d",
-  "date": "2026-06-17",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "sangal alters",
-  "team_b": "wrotberry",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:6b2a41d576",
-  "date": "2026-06-16",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "unknowns.ru",
-  "team_b": "arthrose peek",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:ff1920efc1",
-  "date": "2026-06-16",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "BAKS",
-  "team_b": "diamonds",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:5f12718a50",
-  "date": "2026-06-16",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "weclear",
-  "team_b": "de verdwaalde honden",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-finals-europe:805cae206c",
-  "date": "2026-06-16",
-  "competition": "ESEA Season 57: European Finals",
-  "team_a": "wrotberry",
-  "team_b": "Spectrum",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -41305,17 +38401,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "lp:esea-season-57-main-north-america:300836c232",
-  "date": "2026-06-15",
-  "competition": "ESEA Season 57: Main Division - North America",
-  "team_a": "DETONATE",
-  "team_b": "noctus esports",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-b4fea701-7921-4573-b515-549a3102be56",
   "date": "2026-06-14",
   "competition": "S57 NA Advanced Central - Playoffs",
@@ -41336,28 +38421,6 @@
   "score": "0-2",
   "tier": "A",
   "source": "faceit-league"
- },
- {
-  "match_id": "lp:esea-season-57-open10-europe:1c150cf708",
-  "date": "2026-06-14",
-  "competition": "ESEA Season 57: Open10 Division - Europe",
-  "team_a": "arthrose peek",
-  "team_b": "vrotix junior",
-  "winner": "a",
-  "score": "3-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-open10-europe:8d9e387df7",
-  "date": "2026-06-14",
-  "competition": "ESEA Season 57: Open10 Division - Europe",
-  "team_a": "intotheoven67",
-  "team_b": "de verdwaalde honden",
-  "winner": "b",
-  "score": "0-3",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "lp:nstlga-league-season-1:454a96163a",
@@ -41429,19 +38492,8 @@
   "match_id": "lp:esea-season-57-main-north-america:883f04cba0",
   "date": "2026-06-13",
   "competition": "ESEA Season 57: Main Division - North America",
-  "team_a": "noctus esports",
+  "team_a": "NOCTUS ESPORTS",
   "team_b": "Elation",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-open-asia:7c2fdf626a",
-  "date": "2026-06-13",
-  "competition": "ESEA Season 57: Open Division - Asia",
-  "team_a": "XDM",
-  "team_b": "mongolz academy",
   "winner": "a",
   "score": "2-1",
   "tier": "C",
@@ -41477,50 +38529,6 @@
   "team_b": "CLUB 333",
   "winner": "a",
   "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32:549cd81b70",
-  "date": "2026-06-13",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "MASONIC",
-  "team_b": "struggletony",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32:58f011768c",
-  "date": "2026-06-13",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "wopa",
-  "team_b": "MASONIC",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32:784e3493a7",
-  "date": "2026-06-13",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "WASHED",
-  "team_b": "MASQUERADE",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32:44250c9927",
-  "date": "2026-06-13",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "wopa",
-  "team_b": "MASQUERADE",
-  "winner": "a",
-  "score": "2-1",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -41712,94 +38720,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:dust2-dk-ligaen-season-32:d1ae0b95f6",
-  "date": "2026-06-12",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "WASHED",
-  "team_b": "invicta.dk",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32:803450c5a1",
-  "date": "2026-06-12",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "SASHI ACADEMY",
-  "team_b": "wopa",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32:a3d4d58f84",
-  "date": "2026-06-12",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "WASHED",
-  "team_b": "wopa",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32:d65c338dea",
-  "date": "2026-06-12",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "invicta.dk",
-  "team_b": "SASHI ACADEMY",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32:ef371441d7",
-  "date": "2026-06-12",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "xi esport",
-  "team_b": "MASQUERADE",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32:734c884448",
-  "date": "2026-06-12",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "struggletony",
-  "team_b": "MASONIC",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32:adbaf1996c",
-  "date": "2026-06-12",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "MASQUERADE",
-  "team_b": "MASONIC",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32:b84910077e",
-  "date": "2026-06-12",
-  "competition": "Dust2.dk Ligaen Season 32",
-  "team_a": "xi esport",
-  "team_b": "struggletony",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-0b15bad5-7bcb-4683-816f-7fc1619c6b52",
   "date": "2026-06-11",
   "competition": "S57 NA Open9-10 Central - Playoffs A",
@@ -41881,7 +38801,7 @@
   "date": "2026-06-11",
   "competition": "ESEA Season 57: Intermediate Division - North America",
   "team_a": "Nomadic Tactics",
-  "team_b": "tentoesdown",
+  "team_b": "TENTOESDOWN",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -41903,7 +38823,7 @@
   "date": "2026-06-11",
   "competition": "ESEA Season 57: Advanced Division - North America",
   "team_a": "F5",
-  "team_b": "revel",
+  "team_b": "REVEL",
   "winner": "a",
   "score": "2-1",
   "tier": "C",
@@ -42108,21 +39028,10 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "lp:esea-season-57-open-asia:cb9194541a",
-  "date": "2026-06-10",
-  "competition": "ESEA Season 57: Open Division - Asia",
-  "team_a": "patsan",
-  "team_b": "mongolz academy",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:esea-season-57-advanced-north-america:64c9f16772",
   "date": "2026-06-10",
   "competition": "ESEA Season 57: Advanced Division - North America",
-  "team_a": "elixir",
+  "team_a": "ELIXIR",
   "team_b": "Omen",
   "winner": "b",
   "score": "0-2",
@@ -42342,7 +39251,7 @@
   "match_id": "lp:esea-season-57-intermediate-north-america:ef9e0b2126",
   "date": "2026-06-09",
   "competition": "ESEA Season 57: Intermediate Division - North America",
-  "team_a": "tentoesdown",
+  "team_a": "TENTOESDOWN",
   "team_b": "US Navy Esports",
   "winner": "a",
   "score": "2-0",
@@ -42354,7 +39263,7 @@
   "date": "2026-06-09",
   "competition": "ESEA Season 57: Advanced Division - North America",
   "team_a": "EMPIRE",
-  "team_b": "elisir esports",
+  "team_b": "ELISIR ESPORTS",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -42387,20 +39296,9 @@
   "date": "2026-06-09",
   "competition": "ESEA Season 57: Advanced Division - North America",
   "team_a": "Surge",
-  "team_b": "revel",
+  "team_b": "REVEL",
   "winner": "b",
   "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:cc2237de48",
-  "date": "2026-06-09",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "invicta.dk",
-  "team_b": "l.820",
-  "winner": "a",
-  "score": "2-1",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -42471,28 +39369,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:esea-season-57-open-asia:3df98354fe",
-  "date": "2026-06-08",
-  "competition": "ESEA Season 57: Open Division - Asia",
-  "team_a": "mongolz academy",
-  "team_b": "oasis gaming",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:nstlga-league-season-1:dfcf462565",
-  "date": "2026-06-08",
-  "competition": "NSTLGA League Season 1",
-  "team_a": "OVERTAKE SECTOR",
-  "team_b": "my life be like",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:nstlga-league-season-1:824197fe9b",
   "date": "2026-06-08",
   "competition": "NSTLGA League Season 1",
@@ -42500,17 +39376,6 @@
   "team_b": "DETONATE",
   "winner": "b",
   "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:54e921f06d",
-  "date": "2026-06-08",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "MASONIC",
-  "team_b": "aab bulls",
-  "winner": "a",
-  "score": "2-1",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -42634,17 +39499,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:nstlga-league-season-1:2329de10b5",
-  "date": "2026-06-07",
-  "competition": "NSTLGA League Season 1",
-  "team_a": "my life be like",
-  "team_b": "OLYMPUS",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "lp:nstlga-league-season-1:90508b50c8",
@@ -42812,44 +39666,11 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:esea-season-57-open-asia:1b6f763822",
-  "date": "2026-06-06",
-  "competition": "ESEA Season 57: Open Division - Asia",
-  "team_a": "mongolz academy",
-  "team_b": "zevs",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-open-asia:5219294559",
-  "date": "2026-06-06",
-  "competition": "ESEA Season 57: Open Division - Asia",
-  "team_a": "hikari",
-  "team_b": "oasis gaming",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-open-asia:5424e76526",
-  "date": "2026-06-06",
-  "competition": "ESEA Season 57: Open Division - Asia",
-  "team_a": "modun esports",
-  "team_b": "Trinity",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:nstlga-league-season-1:3bc4851275",
   "date": "2026-06-06",
   "competition": "NSTLGA League Season 1",
   "team_a": "Marsborne",
-  "team_b": "my life be like",
+  "team_b": "MY LIFE BE LIKE",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -42926,7 +39747,7 @@
   "date": "2026-06-06",
   "competition": "NSTLGA League Season 1",
   "team_a": "F5",
-  "team_b": "it's a secret",
+  "team_b": "IT'S A SECRET",
   "winner": "a",
   "score": "2-1",
   "tier": "C",
@@ -43662,7 +40483,7 @@
   "match_id": "lp:esea-season-57-open10-north-america:33607d0515",
   "date": "2026-06-04",
   "competition": "ESEA Season 57: Open10 Division - North America",
-  "team_a": "it's a secret",
+  "team_a": "IT'S A SECRET",
   "team_b": "Playing for fun",
   "winner": "b",
   "score": "1-2",
@@ -43673,7 +40494,7 @@
   "match_id": "lp:esea-season-57-advanced-north-america:c207846e07",
   "date": "2026-06-04",
   "competition": "ESEA Season 57: Advanced Division - North America",
-  "team_a": "elixir",
+  "team_a": "ELIXIR",
   "team_b": "Brahmas",
   "winner": "b",
   "score": "0-2",
@@ -43708,17 +40529,6 @@
   "competition": "ESEA Season 57: Advanced Division - North America",
   "team_a": "raisedbypixels",
   "team_b": "Surge",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:64f6a3a90a",
-  "date": "2026-06-04",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "MASQUERADE",
-  "team_b": "SG - Eclipse",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -44784,32 +41594,10 @@
   "match_id": "lp:esea-season-57-intermediate-north-america:57f36ad9c0",
   "date": "2026-06-02",
   "competition": "ESEA Season 57: Intermediate Division - North America",
-  "team_a": "academy 4 gifted children",
+  "team_a": "ACADEMY 4 GIFTED CHILDREN",
   "team_b": "Absent Minded",
   "winner": "a",
   "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-open-asia:7b3f6be56a",
-  "date": "2026-06-02",
-  "competition": "ESEA Season 57: Open Division - Asia",
-  "team_a": "mongolz academy",
-  "team_b": "XDM",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-open-asia:9970b4107f",
-  "date": "2026-06-02",
-  "competition": "ESEA Season 57: Open Division - Asia",
-  "team_a": "bibimbap",
-  "team_b": "patsan",
-  "winner": "b",
-  "score": "0-2",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -44818,7 +41606,7 @@
   "date": "2026-06-02",
   "competition": "ESEA Season 57: Advanced Division - North America",
   "team_a": "FlyQuest RED",
-  "team_b": "elisir esports",
+  "team_b": "ELISIR ESPORTS",
   "winner": "a",
   "score": "2-1",
   "tier": "C",
@@ -44922,28 +41710,6 @@
   "score": "2-1",
   "tier": "C",
   "source": "faceit-league"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:7631ee1c2d",
-  "date": "2026-06-01",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "MASONIC",
-  "team_b": "wopa",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:50f95b8863",
-  "date": "2026-06-01",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "FORTRESS",
-  "team_b": "l.820",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-01ccefcc-98dd-4ff8-9643-9596383f378f",
@@ -45617,28 +42383,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:lan-ets-2026:6394d8b2bb",
-  "date": "2026-05-31",
-  "competition": "Lan ETS 2026",
-  "team_a": "DOFUS",
-  "team_b": "pouletrouge",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:lan-ets-2026:5c19e6efd7",
-  "date": "2026-05-31",
-  "competition": "Lan ETS 2026",
-  "team_a": "pouletrouge",
-  "team_b": "Team Xtreme",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-0cd3792a-7f4c-4919-8e18-bc555e3597be",
   "date": "2026-05-30",
   "competition": "S57 NA Open1-8 Central - Playoffs",
@@ -45697,7 +42441,7 @@
   "match_id": "lp:frag-2026-philadelphia:50798bc1cb",
   "date": "2026-05-30",
   "competition": "FRAG TAP Reloaded 2026",
-  "team_a": "NineFly Esports",
+  "team_a": "NINEFLY",
   "team_b": "NXG Esports",
   "winner": "b",
   "score": "1-2",
@@ -45764,7 +42508,7 @@
   "date": "2026-05-30",
   "competition": "FRAG TAP Reloaded 2026",
   "team_a": "Wanted Goons",
-  "team_b": "NineFly Esports",
+  "team_b": "NINEFLY",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -47199,28 +43943,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:a9bc1142b2",
-  "date": "2026-05-28",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "struggletony",
-  "team_b": "aab bulls",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:e05b69c95c",
-  "date": "2026-05-28",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "MASQUERADE",
-  "team_b": "linx legacy",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-0013033b-5842-4a7d-bbe2-4e656c2ac1ae",
@@ -49181,28 +45903,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:14a8ce2676",
-  "date": "2026-05-25",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "SASHI ACADEMY",
-  "team_b": "invicta.dk",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:3f4b0e7482",
-  "date": "2026-05-25",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "SG - Eclipse",
-  "team_b": "evo novo",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-514a8a4b-5ed0-4881-a6d9-1cb78db2f86f",
   "date": "2026-05-24",
   "competition": "S57 NA Main Central - Regular Season",
@@ -49225,22 +45925,11 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:bc-game-masters-championship-2:c497f3b94d",
-  "date": "2026-05-24",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "FOKUS",
-  "team_b": "ic esports",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:got-your-6-gaming:bf2598c8ef",
   "date": "2026-05-24",
   "competition": "Got Your 6 Gaming",
   "team_a": "Marsborne",
-  "team_b": "it's a secret",
+  "team_b": "IT'S A SECRET",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -49269,33 +45958,11 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:got-your-6-gaming:6c4e60927c",
-  "date": "2026-05-24",
-  "competition": "Got Your 6 Gaming",
-  "team_a": "oatzu's mammaries",
-  "team_b": "Aether",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:got-your-6-gaming:ffd8de0cc9",
-  "date": "2026-05-24",
-  "competition": "Got Your 6 Gaming",
-  "team_a": "OVERTAKE SECTOR",
-  "team_b": "Aether",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:got-your-6-gaming:022cf81474",
   "date": "2026-05-24",
   "competition": "Got Your 6 Gaming",
   "team_a": "SportsBetExpert",
-  "team_b": "Aether",
+  "team_b": "EX-TEAM AETHER",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -49355,50 +46022,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:7a47c3a3fc",
-  "date": "2026-05-23",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "sharks",
-  "team_b": "FOKUS",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:52fb05258b",
-  "date": "2026-05-23",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "sharks",
-  "team_b": "ic esports",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:0a6aeab22b",
-  "date": "2026-05-23",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "ACEND",
-  "team_b": "apogee",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:925a33efb7",
-  "date": "2026-05-23",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "ic esports",
-  "team_b": "ACEND",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "B",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-013112e5-3fa8-4fb9-a73c-f9a8c8c428fb",
@@ -50556,90 +47179,13 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:bc-game-masters-championship-2:46b5fbc8ca",
-  "date": "2026-05-22",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "INFINITE",
-  "team_b": "rebels gaming",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:f9a40454ad",
-  "date": "2026-05-22",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "OG",
-  "team_b": "ic esports",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
   "match_id": "lp:bc-game-masters-championship-2:e3eeea79b7",
   "date": "2026-05-22",
   "competition": "BC.Game Masters Championship #2",
   "team_a": "Wildcard",
-  "team_b": "ic esports",
+  "team_b": "IC ESPORTS",
   "winner": "a",
   "score": "2-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:9fde9a856c",
-  "date": "2026-05-22",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "ACEND",
-  "team_b": "gaimin",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:52d62fa685",
-  "date": "2026-05-22",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "sharks",
-  "team_b": "apogee",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:307e6697ca",
-  "date": "2026-05-22",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "rebels gaming",
-  "team_b": "FOKUS",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:ea7951fbf3",
-  "date": "2026-05-22",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "ic esports",
-  "team_b": "gaimin",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:9374eaa961",
-  "date": "2026-05-22",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "apogee",
-  "team_b": "rebels gaming",
-  "winner": "a",
-  "score": "2-0",
   "tier": "B",
   "source": "liquipedia"
  },
@@ -51059,138 +47605,6 @@
   "winner": "a",
   "score": "2-1",
   "tier": "S",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:59db92ae2d",
-  "date": "2026-05-21",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "ic esports",
-  "team_b": "HAVU",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:ec711afc03",
-  "date": "2026-05-21",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "ic esports",
-  "team_b": "ACEND",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:74c69e0874",
-  "date": "2026-05-21",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "KOLESIE",
-  "team_b": "ic esports",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:b30b7086df",
-  "date": "2026-05-21",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "INFINITE",
-  "team_b": "ic esports",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:94100f4240",
-  "date": "2026-05-21",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "apogee",
-  "team_b": "rebels gaming",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:3a7a5b932b",
-  "date": "2026-05-21",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "METIZPORT",
-  "team_b": "rebels gaming",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:2313781089",
-  "date": "2026-05-21",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "apogee",
-  "team_b": "OG",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:cb5d422f01",
-  "date": "2026-05-21",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "OG",
-  "team_b": "rebels gaming",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:bc-game-masters-championship-2:c8571ea4b1",
-  "date": "2026-05-21",
-  "competition": "BC.Game Masters Championship #2",
-  "team_a": "apogee",
-  "team_b": "METIZPORT",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:6f9c2cb361",
-  "date": "2026-05-21",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "FORTRESS",
-  "team_b": "aab bulls",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:5d8deb6698",
-  "date": "2026-05-21",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "linx legacy",
-  "team_b": "flod",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:a834a8c9e9",
-  "date": "2026-05-21",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "evo novo",
-  "team_b": "WAZABI",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -52569,17 +48983,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:94eb855903",
-  "date": "2026-05-20",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "wopa",
-  "team_b": "SG - Eclipse",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-043fa3b9-c480-4fbe-a859-554573ac613b",
   "date": "2026-05-19",
   "competition": "S57 NA Advanced Central - Regular Season",
@@ -52910,39 +49313,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:32e946b2e7",
-  "date": "2026-05-18",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "xi esport",
-  "team_b": "struggletony",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:4c9c045669",
-  "date": "2026-05-18",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "MASONIC",
-  "team_b": "l.820",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:115f1296fc",
-  "date": "2026-05-18",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "MASQUERADE",
-  "team_b": "INVICTA",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-c42d6b50-523d-499b-8802-22fde093804f",
   "date": "2026-05-16",
   "competition": "S57 NA Intermediate Central - Regular Season",
@@ -52952,17 +49322,6 @@
   "score": "0-1",
   "tier": "C",
   "source": "faceit-league"
- },
- {
-  "match_id": "lp:saudi-eleague-2026:bd28b35047",
-  "date": "2026-05-16",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "stallions",
-  "team_b": "al ahli esports",
-  "winner": "a",
-  "score": "3-0",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-03fca7dd-b141-4603-a474-d79c1952dfac",
@@ -54032,28 +50391,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "lp:saudi-eleague-2026:b31543afa5",
-  "date": "2026-05-15",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "alula",
-  "team_b": "al ahli esports",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:saudi-eleague-2026:e0ddd37a1d",
-  "date": "2026-05-15",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "rafha esports",
-  "team_b": "al ahli esports",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-02d5e69a-6c68-4d92-ab4d-700639ed99e3",
   "date": "2026-05-14",
   "competition": "S57 NA Main Central - Regular Season",
@@ -54404,28 +50741,6 @@
   "score": "0-1",
   "tier": "C",
   "source": "faceit-league"
- },
- {
-  "match_id": "lp:saudi-eleague-2026:fd7d427a1e",
-  "date": "2026-05-14",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "stallions",
-  "team_b": "rafha esports",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:saudi-eleague-2026:e7e1ce2fb0",
-  "date": "2026-05-14",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "alula",
-  "team_b": "Kitzune Division",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-0040bb2d-d89b-4ad0-a77a-944820c6a7bc",
@@ -55682,83 +51997,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:saudi-eleague-2026:4fd11aa2e4",
-  "date": "2026-05-13",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "Kitzune Division",
-  "team_b": "al ahli esports",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:saudi-eleague-2026:b06bedb8b7",
-  "date": "2026-05-13",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "rafha esports",
-  "team_b": "albjadyah",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:saudi-eleague-2026:96d0958a7a",
-  "date": "2026-05-13",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "alula",
-  "team_b": "Team Lions",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:saudi-eleague-2026:845854ce4c",
-  "date": "2026-05-13",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "stallions",
-  "team_b": "al ahli esports",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:saudi-eleague-2026:7d7952c99e",
-  "date": "2026-05-13",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "rafha esports",
-  "team_b": "alula",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:saudi-eleague-2026:c26bb0cb39",
-  "date": "2026-05-13",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "spire",
-  "team_b": "Kitzune Division",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:saudi-eleague-2026:69e00bd608",
-  "date": "2026-05-13",
-  "competition": "Saudi eLeague 2026",
-  "team_a": "albjadyah",
-  "team_b": "Team Lions",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-045373df-649c-490a-9903-883c00a677d4",
   "date": "2026-05-12",
   "competition": "S57 NA Advanced Central - Regular Season",
@@ -56076,50 +52314,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:4c43d22777",
-  "date": "2026-05-11",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "linx legacy",
-  "team_b": "l.820",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:c1dddb14b3",
-  "date": "2026-05-11",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "wopa",
-  "team_b": "flod",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:1e837a9259",
-  "date": "2026-05-11",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "WAZABI",
-  "team_b": "SG - Eclipse",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:8b34a431a9",
-  "date": "2026-05-11",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "invicta.dk",
-  "team_b": "evo novo",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "1-286659e8-b503-4951-bd52-282ca9a6c4d5",
@@ -59136,50 +55330,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:f84502cce3",
-  "date": "2026-05-04",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "MASONIC",
-  "team_b": "struggletony",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:56e0fcc898",
-  "date": "2026-05-04",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "MASQUERADE",
-  "team_b": "washed",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:198f6c94ba",
-  "date": "2026-05-04",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "xi esport",
-  "team_b": "FORTRESS",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:011cd1a41f",
-  "date": "2026-05-04",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "SASHI ACADEMY",
-  "team_b": "aab bulls",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "vrs-2026-10-05-m80-2026-05-03-wildcard-W",
   "date": "2026-05-03",
   "competition": "VRS-tracked 2026-05",
@@ -59282,7 +55432,7 @@
   "match_id": "lp:thunderpick-world-championship-2026-north-america:9710ef9775",
   "date": "2026-05-02",
   "competition": "Thunderpick World Championship 2026: North American Series",
-  "team_a": "Iowa Stormboar",
+  "team_a": "INCONTROL",
   "team_b": "Zomblers",
   "winner": "b",
   "score": "0-2",
@@ -62183,17 +58333,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "lp:thunderpick-world-championship-2026-north-america:b4d2a8cc36",
-  "date": "2026-04-29",
-  "competition": "Thunderpick World Championship 2026: North American Series",
-  "team_a": "INCOGNITO",
-  "team_b": "Iowa Stormboar",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-0e389b1f-a4d8-466c-8042-8e4cb9f857c9",
   "date": "2026-04-28",
   "competition": "S57 NA Main Central - Regular Season",
@@ -62406,7 +58545,7 @@
   "match_id": "lp:thunderpick-world-championship-2026-north-america:474aa1c491",
   "date": "2026-04-28",
   "competition": "Thunderpick World Championship 2026: North American Series",
-  "team_a": "Iowa Stormboar",
+  "team_a": "INCONTROL",
   "team_b": "girl kissers",
   "winner": "a",
   "score": "2-0",
@@ -62557,50 +58696,6 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:06648cea3e",
-  "date": "2026-04-27",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "WAZABI",
-  "team_b": "aab bulls",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:5392fde3de",
-  "date": "2026-04-27",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "FORTRESS",
-  "team_b": "flod",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:9618375195",
-  "date": "2026-04-27",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "SASHI ACADEMY",
-  "team_b": "evo novo",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:08b38cbc3b",
-  "date": "2026-04-27",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "MASQUERADE",
-  "team_b": "l.820",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
   "match_id": "vrs-2026-10-05-chicken coop-2026-04-26-nutorious-W",
   "date": "2026-04-26",
   "competition": "VRS-tracked 2026-04",
@@ -62660,7 +58755,7 @@
   "date": "2026-04-26",
   "competition": "Thunderpick World Championship 2026: North American Series",
   "team_a": "FarmVille",
-  "team_b": "overknight",
+  "team_b": "OVERKNIGHT",
   "winner": "a",
   "score": "1-0",
   "tier": "B",
@@ -65761,7 +61856,7 @@
   "match_id": "lp:esv-latam-series-2026:f12f8ab29e",
   "date": "2026-04-22",
   "competition": "ESV Latam Series 2026",
-  "team_a": "overknight",
+  "team_a": "OVERKNIGHT",
   "team_b": "MASTER ONE",
   "winner": "a",
   "score": "2-0",
@@ -65773,20 +61868,9 @@
   "date": "2026-04-22",
   "competition": "ESV Latam Series 2026",
   "team_a": "ARTYK GAMING",
-  "team_b": "fusion esports",
+  "team_b": "FUSION ESPORTS",
   "winner": "b",
   "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:fb95ea77c0",
-  "date": "2026-04-22",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "xi esport",
-  "team_b": "SG - Eclipse",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -65849,7 +61933,7 @@
   "match_id": "lp:esv-latam-series-2026:913167a683",
   "date": "2026-04-21",
   "competition": "ESV Latam Series 2026",
-  "team_a": "fusion esports",
+  "team_a": "FUSION ESPORTS",
   "team_b": "SquishysAngels",
   "winner": "a",
   "score": "2-0",
@@ -65916,31 +62000,9 @@
   "date": "2026-04-20",
   "competition": "ESV Latam Series 2026",
   "team_a": "MASTER ONE",
-  "team_b": "ricepeek",
+  "team_b": "RICEPEEK",
   "winner": "a",
   "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:c8ca631730",
-  "date": "2026-04-20",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "wopa",
-  "team_b": "WASHED",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:dust2-dk-ligaen-season-32-online-stage:975cf851ad",
-  "date": "2026-04-20",
-  "competition": "Dust2.dk Ligaen Season 32: Online Stage",
-  "team_a": "linx legacy",
-  "team_b": "struggletony",
-  "winner": "b",
-  "score": "0-2",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -68640,17 +64702,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "lp:intel-extreme-masters-2026-rio:2c485872aa",
-  "date": "2026-04-15",
-  "competition": "Intel Extreme Masters Rio 2026",
-  "team_a": "Spirit",
-  "team_b": "red canids",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "S",
-  "source": "liquipedia"
- },
- {
   "match_id": "1-0d4871f9-0ed4-4afd-b7ca-1ec81226bee4",
   "date": "2026-04-14",
   "competition": "S57 NA Advanced Central - Regular Season",
@@ -68935,28 +64986,6 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "lp:intel-extreme-masters-2026-rio:6a61edc831",
-  "date": "2026-04-14",
-  "competition": "Intel Extreme Masters Rio 2026",
-  "team_a": "red canids",
-  "team_b": "gentle mates",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "S",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esv-latam-series-2026:bc435ec3b4",
-  "date": "2026-04-14",
-  "competition": "ESV Latam Series 2026",
-  "team_a": "overknight",
-  "team_b": "fusion esports",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "liquipedia"
  },
  {
   "match_id": "lp:esv-latam-series-2026:7853b7a1b7",
