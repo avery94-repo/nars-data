@@ -10,7 +10,7 @@ after every recompute.
 |---|---|
 | `rankings.json` | Top 100 teams: rank, rating, RD, matches, wins, seed factor |
 | `ratings.json` | All ranked teams (full detail) |
-| `matches.json` | Recent matches (rolling 90 days) |
+| `matches.json` | Recent matches (rolling 180 days) |
 | `teams.json` | Team ID to name/match-count map |
 | `meta.json` | Snapshot time, engine version, per-source freshness |
 
