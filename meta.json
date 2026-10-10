@@ -1,0 +1,28 @@
+{
+ "schema_version": 1,
+ "snapshot": "2026-10-10T16:33:20.642862+00:00",
+ "exported_at": "2026-10-10T19:41:44Z",
+ "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
+ "window_days": 180,
+ "matches_qualifying": 6185,
+ "teams_ranked": 514,
+ "teams_provisional": 503,
+ "sources": {
+  "liquipedia": {
+   "file_mtime": "2026-10-10T16:33:01Z",
+   "matches_in_window": 665
+  },
+  "hltv": {
+   "file_mtime": "2026-10-08T09:08:54Z",
+   "note": "parse.bot feed; degraded since 2026-10-09"
+  },
+  "faceit": {
+   "note": "via nightly ingest pipeline"
+  },
+  "vrs": {
+   "file_mtime": "2026-10-07T17:33:26Z"
+  }
+ },
+ "attribution": "Liquipedia data: CC BY-SA 3.0 (https://liquipedia.net)",
+ "license": "CC BY-SA 4.0"
+}
