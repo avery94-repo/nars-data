@@ -3,15 +3,15 @@ Team Name: Halcyon
 Roster: cronchy, crackington, ghettobird, gp777, CCHWM_Zim
 NARS Rank: 429 of 508
 
-Final Rating: 1005.2
-Seeded Start: 1141.0
+Final Rating: 1005.1
+Seeded Start: 1140.9
 H2H Adjustment: -135.8
 
-Final Rating (1005.2) = Seeded Start (1141.0) + H2H Adjustment (-135.8)
+Final Rating (1005.1) = Seeded Start (1140.9) + H2H Adjustment (-135.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.029 x 1400 = 1141.0
+                = 1100 + 0.029 x 1400 = 1140.9
 
 seed_factor 0.029 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.043)
 

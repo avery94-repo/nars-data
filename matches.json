@@ -73,7 +73,7 @@
   "team_b": "NRG",
   "winner": "b",
   "score": "1-2",
-  "tier": "B",
+  "tier": "A",
   "source": "hltv"
  },
  {
@@ -95,7 +95,7 @@
   "team_b": "Without a Roof",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "A",
   "source": "hltv"
  },
  {
@@ -106,7 +106,7 @@
   "team_b": "Wildcard",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
+  "tier": "A",
   "source": "hltv"
  },
  {
@@ -117,7 +117,7 @@
   "team_b": "Without a Roof",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
+  "tier": "A",
   "source": "hltv"
  },
  {
@@ -154,26 +154,158 @@
   "source": "liquipedia"
  },
  {
-  "match_id": "hltv:2399399",
+  "match_id": "lp:frag-2026-syracuse-2:5f1c1f27cf",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Marsborne",
+  "team_b": "Without a Roof",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:a152b2584a",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "SportsBetExpert",
+  "team_b": "HOLY CANNOLI",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:0a0d9dbc06",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Unreal Nightmare",
+  "team_b": "Fathom Gaming",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:47fac1557c",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Elusive",
+  "team_b": "LAST DANCE",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:87bc5daf63",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "DENDELE",
+  "team_b": "Marsborne",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:9ffc1f991b",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "NRG",
+  "team_b": "Unreal Nightmare",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:ee47969a9a",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Wildcard",
+  "team_b": "LAST DANCE",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:4ddeaf112e",
   "date": "2026-10-10",
   "competition": "FRAG University 2026",
   "team_a": "NRG",
   "team_b": "Wildcard",
   "winner": "b",
-  "score": "12-16",
-  "tier": "B",
-  "source": "hltv"
+  "score": "0-1",
+  "tier": "A",
+  "source": "liquipedia"
  },
  {
-  "match_id": "hltv:2399401",
+  "match_id": "lp:frag-2026-syracuse-2:04b5ca3876",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "DENDELE",
+  "team_b": "Wildcard",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:c81c953940",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "SportsBetExpert",
+  "team_b": "Fathom Gaming",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:ccbc5aa28f",
   "date": "2026-10-10",
   "competition": "FRAG University 2026",
   "team_a": "Marsborne",
+  "team_b": "Elusive",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:55c633365b",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Without a Roof",
+  "team_b": "Unreal Nightmare",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:6f7c257202",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "SportsBetExpert",
+  "team_b": "Marsborne",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:dce776ef97",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "NRG",
   "team_b": "SportsBetExpert",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
-  "source": "hltv"
+  "winner": "a",
+  "score": "2-1",
+  "tier": "A",
+  "source": "liquipedia"
  },
  {
   "match_id": "hltv:2399394",
@@ -183,7 +315,7 @@
   "team_b": "Last Dance US",
   "winner": "a",
   "score": "2-1",
-  "tier": "B",
+  "tier": "A",
   "source": "hltv"
  },
  {
@@ -194,18 +326,7 @@
   "team_b": "SportsBetExpert",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
-  "source": "hltv"
- },
- {
-  "match_id": "hltv:2399397",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "Elusive",
-  "team_b": "Marsborne",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "B",
+  "tier": "A",
   "source": "hltv"
  },
  {
@@ -216,7 +337,7 @@
   "team_b": "SportsBetExpert",
   "winner": "a",
   "score": "16-14",
-  "tier": "B",
+  "tier": "A",
   "source": "hltv"
  },
  {
@@ -227,29 +348,7 @@
   "team_b": "Last Dance US",
   "winner": "a",
   "score": "13-5",
-  "tier": "B",
-  "source": "hltv"
- },
- {
-  "match_id": "hltv:2399392",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "NRG",
-  "team_b": "Unreal Nightmare",
-  "winner": "a",
-  "score": "13-6",
-  "tier": "B",
-  "source": "hltv"
- },
- {
-  "match_id": "hltv:2399390",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "DENDELE",
-  "team_b": "Marsborne",
-  "winner": "a",
-  "score": "13-2",
-  "tier": "B",
+  "tier": "A",
   "source": "hltv"
  },
  {
@@ -282,17 +381,6 @@
   "team_b": "KZG",
   "winner": "a",
   "score": "16-14",
-  "tier": "B",
-  "source": "hltv"
- },
- {
-  "match_id": "manual:frag-university-2026-marsborne-vs-war",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "Marsborne",
-  "team_b": "Without a Roof",
-  "winner": "a",
-  "score": "1-0",
   "tier": "B",
   "source": "hltv"
  },
@@ -7128,17 +7216,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "1-256b3bd2-bb7c-4be4-a8d1-7a9ad460520d",
-  "date": "2026-09-08",
-  "competition": "S58 NA Open9-10 East - Playoffs A",
-  "team_a": "Fourth Quarter",
-  "team_b": "Trap Castle",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
   "match_id": "1-272ee699-612a-46a7-91b7-f1956ac652e3",
   "date": "2026-09-08",
   "competition": "S58 NA Main Central - Playoffs A",
@@ -10259,17 +10336,6 @@
   "team_b": "49th Parallel",
   "winner": "a",
   "score": "2-1",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-1a637b78-fd56-4cad-8fec-e715aff0d299",
-  "date": "2026-09-04",
-  "competition": "S58 NA Open9-10 East - Playoffs A",
-  "team_a": "Fourth Quarter",
-  "team_b": "Kodaks Lettuce",
-  "winner": "a",
-  "score": "2-0",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -34105,17 +34171,6 @@
   "competition": "S58 NA Main A - Regular Season",
   "team_a": "Hack-A-Shaq",
   "team_b": "After Peak",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-139fa71e-dc08-41e0-9403-01ffdee1aecb",
-  "date": "2026-07-22",
-  "competition": "S58 NA Intermediate B - Regular Season",
-  "team_a": "D1NK Esports",
-  "team_b": "The Third Eye",
   "winner": "a",
   "score": "1-0",
   "tier": "C",
@@ -63871,6 +63926,17 @@
   "competition": "S57 NA Intermediate Central - Regular Season",
   "team_a": "Schadenfreude",
   "team_b": "Midwest Farmers",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-19231058-29aa-4b2f-8264-3fd111817f59",
+  "date": "2026-04-15",
+  "competition": "S57 NA Intermediate Central - Regular Season",
+  "team_a": "the pug jug",
+  "team_b": "Shaq Diesel",
   "winner": "a",
   "score": "1-0",
   "tier": "C",

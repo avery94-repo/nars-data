@@ -4,14 +4,14 @@ Roster: PenguinSWAGX, ZManFan, SupaDuperCam, CJP, Spunki
 NARS Rank: 339 of 508
 
 Final Rating: 1214.9
-Seeded Start: 1192.2
-H2H Adjustment: +22.7
+Seeded Start: 1192.1
+H2H Adjustment: +22.8
 
-Final Rating (1214.9) = Seeded Start (1192.2) + H2H Adjustment (+22.7)
+Final Rating (1214.9) = Seeded Start (1192.1) + H2H Adjustment (+22.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.066 x 1400 = 1192.2
+                = 1100 + 0.066 x 1400 = 1192.1
 
 seed_factor 0.066 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.008) + 0.25 x Opponent Network (0.172)
 
@@ -24,12 +24,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | OnThaGear | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.01 | 0.00 | 0.00 | -129.7 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
-| 2026-09-06 | MgaEngot | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.00 | 0.05 | 1.00 | +115.7 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
+| 2026-09-08 | OnThaGear | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.00 | 0.00 | -129.7 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
+| 2026-09-06 | MgaEngot | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.00 | 0.05 | 1.00 | +115.8 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
 | 2026-09-04 | No Excuses | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -150.8 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
-| 2026-09-02 | Junior Varsity Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.97 | 0.05 | 0.97 | +135.4 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
-| 2026-06-10 | dont do drugs kids | L | 0-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.00 | -252.6 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
-| 2026-06-03 | Boomhogs 2 | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.02 | 0.33 | +129.5 | CJP, Matthewpops, PenguinSWAGX, Spunki, ZManFan |
-| 2026-05-27 | Code Oblivion | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.01 | 0.29 | +175.2 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
+| 2026-09-02 | Junior Varsity Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.05 | 0.98 | +135.4 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
+| 2026-06-10 | dont do drugs kids | L | 0-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.00 | -252.7 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
+| 2026-06-03 | Boomhogs 2 | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.02 | 0.33 | +129.6 | CJP, Matthewpops, PenguinSWAGX, Spunki, ZManFan |
+| 2026-05-27 | Code Oblivion | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +175.3 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_
