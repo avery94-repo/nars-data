@@ -2062,7 +2062,7 @@
   "competition": "CROSSFIRE Season 6 - Playoffs",
   "team_a": "LAG",
   "team_b": "Villainous",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -2766,7 +2766,7 @@
   "competition": "CROSSFIRE Season 6 - Playoffs",
   "team_a": "Addice",
   "team_b": "Locally Hated",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -2854,7 +2854,7 @@
   "competition": "CROSSFIRE Season 6 - Playoffs",
   "team_a": "F5",
   "team_b": "Omen",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -3778,7 +3778,7 @@
   "competition": "CROSSFIRE Season 6 - Playoffs",
   "team_a": "regain",
   "team_b": "babaG",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -3811,7 +3811,7 @@
   "competition": "CROSSFIRE Season 6 - Playoffs",
   "team_a": "Beyond Limits",
   "team_b": "Third Prime",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -4526,7 +4526,7 @@
   "competition": "Playoff - CROSSFIRE Season 6",
   "team_a": "babaG",
   "team_b": "FlyQuest RED",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -4559,7 +4559,7 @@
   "competition": "Playoff - CROSSFIRE Season 6",
   "team_a": "F5",
   "team_b": "4fun",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -5065,7 +5065,7 @@
   "competition": "NSTLGA League S2 | Stage 3 Playoffs",
   "team_a": "LAG",
   "team_b": "Overtake Sector",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -5395,7 +5395,7 @@
   "competition": "NSTLGA League S2 | Stage 3 Playoffs",
   "team_a": "LAG",
   "team_b": "Without a Roof",
-  "winner": "a",
+  "winner": "b",
   "score": "1-2",
   "tier": "B",
   "source": "faceit-tournament"
@@ -6671,7 +6671,7 @@
   "competition": "Group Stage - CROSSFIRE Season 6",
   "team_a": "UltimateDarklordWizardz",
   "team_b": "Team Factor",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -6682,7 +6682,7 @@
   "competition": "Group Stage - CROSSFIRE Season 6",
   "team_a": "Sleepless_Gaming",
   "team_b": "FarmVille",
-  "winner": "a",
+  "winner": "b",
   "score": "1-2",
   "tier": "B",
   "source": "faceit-tournament"
@@ -7529,7 +7529,7 @@
   "competition": "Group Stage - CROSSFIRE Season 6",
   "team_a": "Aura",
   "team_b": "Demolition",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -7573,7 +7573,7 @@
   "competition": "Group Stage - CROSSFIRE Season 6",
   "team_a": "F5",
   "team_b": "FlyQuest RED",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -8191,6 +8191,17 @@
   "team_b": "Cultivate",
   "winner": "a",
   "score": "2-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-4074610f-97e6-47e0-8714-0d68e2895eff",
+  "date": "2026-09-06",
+  "competition": "S58 NA Open9-10 East - Playoffs C",
+  "team_a": "Ctrl Alt Elite",
+  "team_b": "GodFather Gamin",
+  "winner": "a",
+  "score": "2-1",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -9641,7 +9652,7 @@
   "competition": "Group Stage - CROSSFIRE Season 6",
   "team_a": "deez",
   "team_b": "NXG Esports",
-  "winner": "a",
+  "winner": "b",
   "score": "1-2",
   "tier": "B",
   "source": "faceit-tournament"
@@ -14558,7 +14569,7 @@
   "competition": "Group Stage - CROSSFIRE Season 6",
   "team_a": "4fun",
   "team_b": "NineFly Esports",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -14635,7 +14646,7 @@
   "competition": "NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A",
   "team_a": "Overtake Sector",
   "team_b": "GuangdongTigers",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -14657,7 +14668,7 @@
   "competition": "NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group B",
   "team_a": "Olympus",
   "team_b": "Desi Boyz",
-  "winner": "a",
+  "winner": "b",
   "score": "1-2",
   "tier": "B",
   "source": "faceit-tournament"
@@ -14679,7 +14690,7 @@
   "competition": "NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group B",
   "team_a": "Beyond Limits",
   "team_b": "Desi Boyz",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
@@ -14778,7 +14789,7 @@
   "competition": "Group Stage - CROSSFIRE Season 6",
   "team_a": "4fun",
   "team_b": "Tacos Tiramisu and Lies",
-  "winner": "a",
+  "winner": "b",
   "score": "1-2",
   "tier": "B",
   "source": "faceit-tournament"
@@ -14800,7 +14811,7 @@
   "competition": "Group Stage - CROSSFIRE Season 6",
   "team_a": "Carbon",
   "team_b": "Memeories",
-  "winner": "a",
+  "winner": "b",
   "score": "1-2",
   "tier": "B",
   "source": "faceit-tournament"
@@ -22357,7 +22368,7 @@
   "competition": "True North X CounterStrat Summer Clash Series",
   "team_a": "Villainous",
   "team_b": "F5",
-  "winner": "a",
+  "winner": "b",
   "score": "1-2",
   "tier": "C",
   "source": "faceit-tournament"
@@ -28957,7 +28968,7 @@
   "competition": "SoFlo Slam 2",
   "team_a": "Houston Spartans",
   "team_b": "Tacos Tiramisu and Lies",
-  "winner": "b",
+  "winner": "a",
   "score": "2-1",
   "tier": "C",
   "source": "faceit-tournament"
@@ -31949,21 +31960,10 @@
   "competition": "StarSeries S20 - Closed Qualifier NA",
   "team_a": "Chicken Coop",
   "team_b": "SportsBetExpert",
-  "winner": "a",
+  "winner": "b",
   "score": "1-2",
   "tier": "C",
   "source": "faceit-tournament"
- },
- {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-07-29-sportsbetexpert-L",
-  "date": "2026-07-29",
-  "competition": "VRS-tracked 2026-07",
-  "team_a": "Chicken Coop",
-  "team_b": "SportsBetExpert",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
  },
  {
   "match_id": "vrs-2026-10-05-nrg-2026-07-29-marsborne-W",
@@ -33830,17 +33830,6 @@
   "competition": "S58 NA Main A - Regular Season",
   "team_a": "Hack-A-Shaq",
   "team_b": "After Peak",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-139fa71e-dc08-41e0-9403-01ffdee1aecb",
-  "date": "2026-07-22",
-  "competition": "S58 NA Intermediate B - Regular Season",
-  "team_a": "D1NK Esports",
-  "team_b": "The Third Eye",
   "winner": "a",
   "score": "1-0",
   "tier": "C",

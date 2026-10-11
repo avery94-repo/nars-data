@@ -3,17 +3,17 @@ Team Name: juked
 Roster: DETER-, -ems-, DARKQ-1, msGee, BR8
 NARS Rank: 305 of 507
 
-Final Rating: 1286.0
-Seeded Start: 1303.4
-H2H Adjustment: -17.4
+Final Rating: 1282.6
+Seeded Start: 1300.4
+H2H Adjustment: -17.8
 
-Final Rating (1286.0) = Seeded Start (1303.4) + H2H Adjustment (-17.4)
+Final Rating (1282.6) = Seeded Start (1300.4) + H2H Adjustment (-17.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.145 x 1400 = 1303.4
+                = 1100 + 0.143 x 1400 = 1300.4
 
-seed_factor 0.145 = 0.25 x Tier Exposure (0.123) + 0.50 x Quality Wins (0.055) + 0.25 x Opponent Network (0.347)
+seed_factor 0.143 = 0.25 x Tier Exposure (0.122) + 0.50 x Quality Wins (0.054) + 0.25 x Opponent Network (0.342)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,31 +24,31 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-07 | SAFIR | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.08 | 1.00 | 1.05 | 0.00 | 0.00 | -21.6 | -ems-, BR8, DARKQ-1, Juant0n1o, msGee |
-| 2026-09-02 | No Leaders Please | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.08 | 1.00 | 1.01 | 0.00 | 0.00 | -15.9 | -ems-, BR8, DARKQ-1, DETER-, msGee |
-| 2026-08-28 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.95 | 0.12 | 0.95 | +116.4 | -ems-, BR8, DARKQ-1, DETER-, msGee |
-| 2026-08-26 | SPUUKY TO ECL | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.00 | 0.00 | -47.0 | -ems-, BR8, DARKQ-1, DETER-, msGee |
-| 2026-08-21 | Carbon | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.05 | 1.00 | 0.90 | 0.00 | 0.00 | -83.4 | -ems-, BR8, DARKQ-1, DETER-, msGee |
-| 2026-08-19 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.89 | 0.00 | 0.00 | -115.2 | -ems-, BR8, DARKQ-1, DETER-, msGee |
-| 2026-08-13 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.05 | 1.00 | 0.85 | 0.35 | 0.85 | +135.5 | -ems-, BR8, DARKQ-1, DETER-, msGee |
-| 2026-08-12 | the pug jug | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.12 | 0.84 | +205.9 | -ems-, BR8, DARKQ-1, DETER-, msGee |
-| 2026-08-07 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.80 | 0.00 | 0.00 | -74.0 | -ems-, DARKQ-1, DETER-, Juant0n1o, msGee |
-| 2026-08-05 | Disorderly Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.11 | 0.79 | +183.4 | -ems-, DARKQ-1, DETER-, Juant0n1o, msGee |
-| 2026-07-31 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.05 | 1.00 | 0.75 | 0.05 | 0.75 | +111.7 | -ems-, DARKQ-1, DETER-, Juant0n1o, msGee |
-| 2026-07-29 | 3G | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.71 | 1.05 | 1.00 | 0.74 | 0.14 | 0.74 | +338.1 | -ems-, BR8, DARKQ-1, DETER-, msGee |
-| 2026-07-24 | teamington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.05 | 1.00 | 0.71 | 0.00 | 0.00 | -0.0 | -ems-, BR8, DARKQ-1, DETER-, msGee |
-| 2026-07-22 | team_Yuvertington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.05 | 1.00 | 0.69 | 0.00 | 0.00 | -0.0 | -ems-, BR8, DARKQ-1, DETER-, msGee |
-| 2026-07-17 | wealth reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.63 | 1.05 | 1.00 | 0.66 | 0.00 | 0.00 | -198.3 | -ems-, BR8, DARKQ-1, DETER-, msGee |
-| 2026-05-22 | Salsas Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.15 | 1.00 | 0.29 | 0.00 | 0.00 | -16.8 | -ems-, BR8, DARKQ-1, DETER-, Juant0n1o |
+| 2026-09-07 | SAFIR | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.07 | 1.00 | 1.04 | 0.00 | 0.00 | -21.7 | -ems-, BR8, DARKQ-1, Juant0n1o, msGee |
+| 2026-09-02 | No Leaders Please | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.07 | 1.00 | 1.00 | 0.00 | 0.00 | -15.7 | -ems-, BR8, DARKQ-1, DETER-, msGee |
+| 2026-08-28 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.91 | 1.04 | 1.00 | 0.94 | 0.12 | 0.94 | +116.5 | -ems-, BR8, DARKQ-1, DETER-, msGee |
+| 2026-08-26 | SPUUKY TO ECL | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.04 | 1.00 | 0.93 | 0.00 | 0.00 | -47.1 | -ems-, BR8, DARKQ-1, DETER-, msGee |
+| 2026-08-21 | Carbon | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.04 | 1.00 | 0.89 | 0.00 | 0.00 | -84.6 | -ems-, BR8, DARKQ-1, DETER-, msGee |
+| 2026-08-19 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.04 | 1.00 | 0.88 | 0.00 | 0.00 | -115.1 | -ems-, BR8, DARKQ-1, DETER-, msGee |
+| 2026-08-13 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.04 | 1.00 | 0.84 | 0.35 | 0.84 | +135.6 | -ems-, BR8, DARKQ-1, DETER-, msGee |
+| 2026-08-12 | the pug jug | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.11 | 0.83 | +205.9 | -ems-, BR8, DARKQ-1, DETER-, msGee |
+| 2026-08-07 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.04 | 1.00 | 0.80 | 0.00 | 0.00 | -74.2 | -ems-, DARKQ-1, DETER-, Juant0n1o, msGee |
+| 2026-08-05 | Disorderly Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.11 | 0.78 | +183.3 | -ems-, DARKQ-1, DETER-, Juant0n1o, msGee |
+| 2026-07-31 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.04 | 1.00 | 0.75 | 0.05 | 0.75 | +111.6 | -ems-, DARKQ-1, DETER-, Juant0n1o, msGee |
+| 2026-07-29 | 3G | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.71 | 1.04 | 1.00 | 0.73 | 0.13 | 0.73 | +338.0 | -ems-, BR8, DARKQ-1, DETER-, msGee |
+| 2026-07-24 | teamington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.00 | 0.00 | -0.0 | -ems-, BR8, DARKQ-1, DETER-, msGee |
+| 2026-07-22 | team_Yuvertington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.69 | 0.00 | 0.00 | -0.0 | -ems-, BR8, DARKQ-1, DETER-, msGee |
+| 2026-07-17 | wealth reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.63 | 1.04 | 1.00 | 0.65 | 0.00 | 0.00 | -198.1 | -ems-, BR8, DARKQ-1, DETER-, msGee |
+| 2026-05-22 | Salsas Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.15 | 1.00 | 0.29 | 0.00 | 0.00 | -16.7 | -ems-, BR8, DARKQ-1, DETER-, Juant0n1o |
 | 2026-05-20 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.15 | 1.00 | 0.27 | 0.00 | 0.00 | -1.5 | -ems-, BR8, DARKQ-1, DETER-, Juant0n1o |
-| 2026-05-15 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.00 | 0.00 | -180.3 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
+| 2026-05-15 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.00 | 0.00 | -180.9 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
 | 2026-05-08 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -138.9 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
-| 2026-05-06 | Texas JV Orange | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -264.6 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
-| 2026-05-01 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.02 | 0.13 | +339.5 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
+| 2026-05-06 | Texas JV Orange | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -264.4 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
+| 2026-05-01 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.02 | 0.13 | +339.9 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
 | 2026-04-29 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -356.0 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
-| 2026-04-24 | wealth reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.15 | 1.00 | 0.08 | 0.01 | 0.08 | +125.9 | -ems-, DARKQ-1, DETER-, Juant0n1o, woRrom |
-| 2026-04-22 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.06 | +225.7 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
-| 2026-04-17 | HUMA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.00 | -6.9 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
-| 2026-04-15 | NADIYA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.15 | 1.00 | 0.01 | 0.00 | 0.00 | -278.8 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
+| 2026-04-24 | wealth reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.15 | 1.00 | 0.07 | 0.01 | 0.07 | +124.9 | -ems-, DARKQ-1, DETER-, Juant0n1o, woRrom |
+| 2026-04-22 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.06 | +226.3 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
+| 2026-04-17 | HUMA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.00 | -7.0 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
+| 2026-04-15 | NADIYA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.15 | 1.00 | 0.01 | 0.00 | 0.00 | -277.8 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

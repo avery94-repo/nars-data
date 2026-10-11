@@ -3,15 +3,15 @@ Team Name: we get it back
 Roster: shabuki, steviano, Gr0ot, Gettooled, sK1PP-
 NARS Rank: 493 of 507
 
-Final Rating: 614.2
-Seeded Start: 1112.1
-H2H Adjustment: -497.9 (capped at +-300, raw -498.0)
+Final Rating: 612.0
+Seeded Start: 1112.0
+H2H Adjustment: -500.0
 
-Final Rating (614.2) = Seeded Start (1112.1) + H2H Adjustment (-497.9)
+Final Rating (612.0) = Seeded Start (1112.0) + H2H Adjustment (-500.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.009 x 1400 = 1112.1
+                = 1100 + 0.009 x 1400 = 1112.0
 
 seed_factor 0.009 = 0.25 x Tier Exposure (0.016) + 0.50 x Quality Wins (0.001) + 0.25 x Opponent Network (0.017)
 
@@ -24,16 +24,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | ORCA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.15 | 1.00 | 0.29 | 0.00 | 0.00 | -10.8 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-20 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.15 | 1.00 | 0.27 | 0.00 | 0.00 | -171.6 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
-| 2026-05-14 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.01 | 0.23 | +270.4 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-14 | Salsas Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -281.7 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-08 | Aura | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -12.6 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-22 | ORCA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.15 | 1.00 | 0.29 | 0.00 | 0.00 | -10.7 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-20 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.15 | 1.00 | 0.27 | 0.00 | 0.00 | -171.1 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
+| 2026-05-14 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.01 | 0.23 | +269.5 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-14 | Salsas Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -281.8 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-08 | Aura | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -12.4 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-05-06 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -145.1 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
-| 2026-05-01 | Tecnowar | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -77.8 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-01 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -104.5 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-04-22 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -211.5 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-04-17 | Secret Sisters | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +389.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-04-15 | Bird Lickers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.15 | 1.00 | 0.01 | 0.00 | 0.00 | -141.8 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-01 | Tecnowar | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -78.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-01 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -103.5 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-04-22 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -210.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-04-17 | Secret Sisters | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +389.1 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-04-15 | Bird Lickers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.15 | 1.00 | 0.01 | 0.00 | 0.00 | -145.6 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_
