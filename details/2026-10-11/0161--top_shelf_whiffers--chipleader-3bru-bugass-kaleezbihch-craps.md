@@ -4,14 +4,14 @@ Roster: ChipLeader, 3bru, bugass, Kaleezbihch, craps
 NARS Rank: 161 of 508
 
 Final Rating: 1584.4
-Seeded Start: 1325.5
-H2H Adjustment: +258.9
+Seeded Start: 1325.4
+H2H Adjustment: +259.0
 
-Final Rating (1584.4) = Seeded Start (1325.5) + H2H Adjustment (+258.9)
+Final Rating (1584.4) = Seeded Start (1325.4) + H2H Adjustment (+259.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.161 x 1400 = 1325.5
+                = 1100 + 0.161 x 1400 = 1325.4
 
 seed_factor 0.161 = 0.25 x Tier Exposure (0.146) + 0.50 x Quality Wins (0.031) + 0.25 x Opponent Network (0.437)
 

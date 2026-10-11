@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-19 | AscendentEsport | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +62.5 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-18 | Fourth Quarter | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.05 | 1.00 | +95.6 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-10 | No Future Lifes Over | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -94.0 | JetL, KIYAN, Primal-_-, arik, syth |
-| 2026-09-08 | VARTOVIK | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.11 | 0.98 | +139.3 | JetL, KIYAN, Primal-_-, arik, syth |
+| 2026-09-08 | VARTOVIK | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.11 | 0.98 | +139.4 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-04 | TELETUBEASTS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.10 | 0.95 | +117.3 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-02 | Boys N The Boat | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +86.6 | JetL, KIYAN, Primal-_-, arik, syth |
 

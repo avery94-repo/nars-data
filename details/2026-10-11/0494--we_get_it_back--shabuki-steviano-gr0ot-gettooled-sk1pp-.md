@@ -3,11 +3,11 @@ Team Name: we get it back
 Roster: shabuki, steviano, Gr0ot, Gettooled, sK1PP-
 NARS Rank: 494 of 508
 
-Final Rating: 609.8
+Final Rating: 609.6
 Seeded Start: 1111.9
-H2H Adjustment: -502.1 (capped at +-300, raw -502.0)
+H2H Adjustment: -502.3 (capped at +-300, raw -502.2)
 
-Final Rating (609.8) = Seeded Start (1111.9) + H2H Adjustment (-502.1)
+Final Rating (609.6) = Seeded Start (1111.9) + H2H Adjustment (-502.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,15 +25,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | ORCA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.14 | 1.00 | 0.29 | 0.00 | 0.00 | -10.7 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-20 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.14 | 1.00 | 0.27 | 0.00 | 0.00 | -171.2 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
-| 2026-05-14 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.14 | 1.00 | 0.23 | 0.01 | 0.23 | +269.9 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-14 | Salsas Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.14 | 1.00 | 0.23 | 0.00 | 0.00 | -282.1 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-20 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.14 | 1.00 | 0.27 | 0.00 | 0.00 | -171.3 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
+| 2026-05-14 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.14 | 1.00 | 0.23 | 0.01 | 0.23 | +270.0 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-14 | Salsas Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.14 | 1.00 | 0.23 | 0.00 | 0.00 | -282.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-05-08 | Aura | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.14 | 1.00 | 0.18 | 0.00 | 0.00 | -12.4 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-06 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.14 | 1.00 | 0.16 | 0.00 | 0.00 | -145.4 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
+| 2026-05-06 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.14 | 1.00 | 0.16 | 0.00 | 0.00 | -145.5 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
 | 2026-05-01 | Tecnowar | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.14 | 1.00 | 0.13 | 0.00 | 0.00 | -79.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-01 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.14 | 1.00 | 0.13 | 0.00 | 0.00 | -103.1 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-01 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.14 | 1.00 | 0.13 | 0.00 | 0.00 | -103.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-04-22 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.14 | 1.00 | 0.06 | 0.00 | 0.00 | -209.8 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-04-17 | Secret Sisters | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.02 | 0.00 | 0.02 | +389.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-04-15 | Bird Lickers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.14 | 1.00 | 0.01 | 0.00 | 0.00 | -147.1 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-04-15 | Bird Lickers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.14 | 1.00 | 0.01 | 0.00 | 0.00 | -147.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

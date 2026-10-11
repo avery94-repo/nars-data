@@ -3,11 +3,11 @@ Team Name: Sable
 Roster: Grimm-_, ROWDY-----, being, xReeCe, Packy
 NARS Rank: 398 of 508
 
-Final Rating: 1090.3
+Final Rating: 1090.2
 Seeded Start: 1165.8
-H2H Adjustment: -75.5
+H2H Adjustment: -75.6
 
-Final Rating (1090.3) = Seeded Start (1165.8) + H2H Adjustment (-75.5)
+Final Rating (1090.2) = Seeded Start (1165.8) + H2H Adjustment (-75.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | TELETUBEASTS | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -101.3 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-09-06 | Kitzune Division | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.05 | 0.96 | +78.6 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-09-04 | RAZED | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -123.2 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
-| 2026-06-12 | Team mysterious | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -151.5 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
+| 2026-06-12 | Team mysterious | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -151.6 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-06-03 | Skidmark Squintz | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.02 | 0.33 | +189.2 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-05-29 | BigThree | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -152.6 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-05-27 | gimme noggin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +185.3 | Grimm-_, Packy, ROWDY-----, being, xReeCe |

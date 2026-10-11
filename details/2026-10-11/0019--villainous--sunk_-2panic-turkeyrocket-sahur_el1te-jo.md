@@ -48,14 +48,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.43 | 1.00 | 1.01 | 0.00 | 0.00 | -189.5 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-07-24 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.43 | 1.00 | 0.96 | 0.00 | 0.00 | -138.2 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-07-22 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.43 | 1.00 | 0.94 | 0.89 | 0.94 | +119.4 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-07-17 | 5Fellas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.43 | 1.00 | 0.89 | 0.19 | 0.89 | +31.2 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-06-09 | Brahmas | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.37 | 1.47 | 1.00 | 0.55 | 0.17 | 0.55 | +327.0 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-06-04 | Beyond Limits | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.34 | 1.47 | 1.00 | 0.50 | 0.40 | 0.50 | +197.3 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-07-17 | 5Fellas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.43 | 1.00 | 0.89 | 0.19 | 0.89 | +31.1 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-06-09 | Brahmas | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.37 | 1.47 | 1.00 | 0.55 | 0.17 | 0.55 | +327.1 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-06-04 | Beyond Limits | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.34 | 1.47 | 1.00 | 0.50 | 0.40 | 0.50 | +197.4 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-05-21 | GuangdongTigers | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.31 | 1.00 | 0.32 | 0.19 | 0.32 | +68.9 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-05-19 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.31 | 1.00 | 0.30 | 0.00 | 0.00 | -114.3 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-05-14 | Club 333 | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.31 | 1.00 | 0.26 | 0.00 | 0.00 | -168.3 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
+| 2026-05-14 | Club 333 | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.31 | 1.00 | 0.26 | 0.00 | 0.00 | -168.4 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-05-12 | Wanted Goons | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.31 | 1.00 | 0.24 | 0.00 | 0.00 | -201.6 | 2Panic, SAHUR_EL1TE, Sunk_, carbs, turkeyrocket |
-| 2026-05-07 | Iowa Stormboar | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.15 | 1.31 | 1.00 | 0.20 | 0.16 | 0.20 | +248.7 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
+| 2026-05-07 | Iowa Stormboar | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.15 | 1.31 | 1.00 | 0.20 | 0.15 | 0.20 | +248.7 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-05-05 | F5 | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.31 | 1.00 | 0.18 | 0.10 | 0.18 | +183.1 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-04-30 | skebob | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.31 | 1.00 | 0.14 | 0.01 | 0.14 | +0.0 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-04-28 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.31 | 1.00 | 0.12 | 0.00 | 0.12 | +0.0 | SAHUR_EL1TE, Sunk_, carbs, recar, turkeyrocket |

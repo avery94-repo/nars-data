@@ -3,11 +3,11 @@ Team Name: brb grinding minecraft
 Roster: phiLm9yne, OJISBAE, 1ferda, mineman97, riizzy
 NARS Rank: 239 of 508
 
-Final Rating: 1431.1
+Final Rating: 1431.0
 Seeded Start: 1249.2
-H2H Adjustment: +181.9
+H2H Adjustment: +181.8
 
-Final Rating (1431.1) = Seeded Start (1249.2) + H2H Adjustment (+181.9)
+Final Rating (1431.0) = Seeded Start (1249.2) + H2H Adjustment (+181.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

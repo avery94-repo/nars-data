@@ -5,7 +5,7 @@ NARS Rank: 50 of 508
 
 Final Rating: 1954.5
 Seeded Start: 1462.5
-H2H Adjustment: +492.0 (capped at +-300, raw +491.9)
+H2H Adjustment: +492.0
 
 Final Rating (1954.5) = Seeded Start (1462.5) + H2H Adjustment (+492.0)
 
@@ -32,9 +32,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | JoblessBums | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.03 | 1.00 | 1.01 | 0.06 | 1.01 | +20.4 | Cooper, JASONR, Pol0, ayjin, freakazoid |
 | 2026-09-06 | 55TH ST | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.03 | 1.00 | 1.00 | 0.11 | 1.00 | +12.3 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-08-29 | Knox Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.91 | 1.20 | 1.00 | 1.10 | 0.12 | 1.10 | +0.4 | JASONR, Pol0, ayjin, d06b03e4, fenom |
-| 2026-08-27 | Fathom Gaming | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.20 | 1.00 | 1.08 | 0.72 | 1.08 | +170.1 | JASONR, Pol0, ayjin, fenom, freakazoid |
+| 2026-08-27 | Fathom Gaming | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.20 | 1.00 | 1.08 | 0.72 | 1.08 | +170.2 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-08-24 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.06 | 0.00 | 0.00 | -5.1 | JASONR, Pol0, ayjin, fenom, freakazoid |
-| 2026-08-20 | Afterimage | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.33 | 1.02 | +150.8 | JASONR, Pol0, ayjin, fenom, freakazoid |
+| 2026-08-20 | Afterimage | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.33 | 1.02 | +150.9 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-08-17 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 1.00 | 0.00 | 0.00 | -60.4 | Cooper, JASONR, Pol0, fenom, freakazoid |
 | 2026-08-13 | Firstwave | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.80 | 1.20 | 1.00 | 0.97 | 0.30 | 0.97 | +130.1 | Cooper, JASONR, Pol0, fenom, freakazoid |
 

@@ -4,14 +4,14 @@ Roster: SKiiYii, -pen, Ajikanfan43, Salmon180, sA_
 NARS Rank: 250 of 508
 
 Final Rating: 1412.6
-Seeded Start: 1219.3
-H2H Adjustment: +193.3
+Seeded Start: 1219.2
+H2H Adjustment: +193.4
 
-Final Rating (1412.6) = Seeded Start (1219.3) + H2H Adjustment (+193.3)
+Final Rating (1412.6) = Seeded Start (1219.2) + H2H Adjustment (+193.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.085 x 1400 = 1219.3
+                = 1100 + 0.085 x 1400 = 1219.2
 
 seed_factor 0.085 = 0.25 x Tier Exposure (0.109) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.197)
 

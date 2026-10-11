@@ -3,15 +3,15 @@ Team Name: ball
 Roster: Tar1us666, 0K1N-, Lukcy-Ice, uro, RaZ3M
 NARS Rank: 75 of 508
 
-Final Rating: 1849.3
-Seeded Start: 1470.7
+Final Rating: 1849.2
+Seeded Start: 1470.6
 H2H Adjustment: +378.6
 
-Final Rating (1849.3) = Seeded Start (1470.7) + H2H Adjustment (+378.6)
+Final Rating (1849.2) = Seeded Start (1470.6) + H2H Adjustment (+378.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.265 x 1400 = 1470.7
+                = 1100 + 0.265 x 1400 = 1470.6
 
 seed_factor 0.265 = 0.25 x Tier Exposure (0.194) + 0.50 x Quality Wins (0.103) + 0.25 x Opponent Network (0.659)
 
@@ -24,12 +24,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Shadow Wizard Money Gang | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.36 | 1.00 | 1.36 | 0.22 | 1.36 | +26.6 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
+| 2026-10-09 | Shadow Wizard Money Gang | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.36 | 1.00 | 1.36 | 0.22 | 1.36 | +26.7 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-09-18 | MommySports | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | +41.0 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-09-17 | Bad JuJu | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.19 | 1.00 | +35.7 | 0K1N-, Lukcy-Ice, RaZ3M, SlothCrash, uro |
 | 2026-09-15 | Redliners | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.32 | 1.00 | +43.2 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
-| 2026-09-12 | Lara-Zulia Highway | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.18 | 1.00 | +46.5 | 0K1N-, Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
-| 2026-09-10 | WinOut | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.12 | 0.99 | +100.7 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
+| 2026-09-12 | Lara-Zulia Highway | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.18 | 1.00 | +46.6 | 0K1N-, Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
+| 2026-09-10 | WinOut | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.12 | 0.99 | +100.8 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-09-04 | Opera | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.11 | 0.95 | +95.4 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-09-02 | redtyfguhoj | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.11 | 0.94 | +22.5 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-28 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -49.4 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
@@ -41,9 +41,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Opera | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -63.5 | Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
 | 2026-08-05 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -75.2 | Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
 | 2026-07-29 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.09 | 0.70 | +81.6 | KobeSucker67, Lukcy-Ice, RaZ3M, SlothCrash, uro |
-| 2026-07-29 | Lara-Zulia Highway | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.12 | 0.00 | +189.3 | 0K1N-, Lukcy-Ice, RaZ3M, uro, yx_x |
+| 2026-07-29 | Lara-Zulia Highway | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.12 | 0.00 | +189.5 | 0K1N-, Lukcy-Ice, RaZ3M, uro, yx_x |
 | 2026-07-24 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.13 | 0.67 | +24.4 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
-| 2026-07-22 | StayAtHomeDads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -156.4 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
+| 2026-07-22 | StayAtHomeDads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -156.8 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-07-17 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.03 | 0.62 | +261.0 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-07-15 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.09 | 0.61 | +1.5 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-06-02 | rondon | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.03 | 1.00 | 0.34 | 0.00 | 0.00 | -277.7 | Lukcy-Ice, RaZ3M, Tar1us666, uro, yx_x |

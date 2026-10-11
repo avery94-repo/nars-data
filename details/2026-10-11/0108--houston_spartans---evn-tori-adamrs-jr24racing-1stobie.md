@@ -4,14 +4,14 @@ Roster: -evN, Tori, AdamRS, jr24racing, 1stobie
 NARS Rank: 108 of 508
 
 Final Rating: 1734.2
-Seeded Start: 1369.4
-H2H Adjustment: +364.8
+Seeded Start: 1369.3
+H2H Adjustment: +364.9 (capped at +-300, raw +364.8)
 
-Final Rating (1734.2) = Seeded Start (1369.4) + H2H Adjustment (+364.8)
+Final Rating (1734.2) = Seeded Start (1369.3) + H2H Adjustment (+364.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.192 x 1400 = 1369.4
+                = 1100 + 0.192 x 1400 = 1369.3
 
 seed_factor 0.192 = 0.25 x Tier Exposure (0.174) + 0.50 x Quality Wins (0.065) + 0.25 x Opponent Network (0.465)
 
@@ -31,8 +31,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-05 | DEFEAT | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.13 | 0.99 | +1.3 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-04 | pnks pretty princesses | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.05 | 0.98 | +0.8 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-02 | 5_gamers_wrong_game | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.05 | 0.97 | +0.1 | -evN, 1stobie, AdamRS, Tori, jr24racing |
-| 2026-09-01 | Conscious Gaming | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.34 | 1.00 | 1.25 | 0.34 | 1.25 | +266.1 | -evN, 1stobie, AdamRS, Tori, jr24racing |
-| 2026-08-02 | Tacos Tiramisu and Lies | W | 2-1 | SoFlo Slam 2 | C | faceit-tournament | 0.74 | 1.20 | 1.00 | 0.88 | 0.31 | 0.88 | +237.1 | -evN, 1stobie, AdamRS, Tori, jr24racing |
+| 2026-09-01 | Conscious Gaming | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.34 | 1.00 | 1.25 | 0.34 | 1.25 | +266.2 | -evN, 1stobie, AdamRS, Tori, jr24racing |
+| 2026-08-02 | Tacos Tiramisu and Lies | W | 2-1 | SoFlo Slam 2 | C | faceit-tournament | 0.74 | 1.20 | 1.00 | 0.88 | 0.31 | 0.88 | +237.2 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-08-01 | F5 | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.87 | 0.00 | 0.00 | -1.5 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-08-01 | Team Astryx | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.87 | 0.09 | 0.87 | +183.1 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 

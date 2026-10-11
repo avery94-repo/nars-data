@@ -28,8 +28,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Bad Jawn | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -231.1 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-12 | Passion | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -144.3 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-10 | RAZED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.07 | 0.99 | +119.9 | BoomService, Marukami, Tills, aero, noggen |
-| 2026-09-08 | T Shirt Material | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +100.3 | BoomService, Marukami, Tills, aero, noggen |
-| 2026-09-06 | Symbiose | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.05 | 0.96 | +97.2 | Marukami, Tills, aero, noggen, s4bre |
+| 2026-09-08 | T Shirt Material | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +100.4 | BoomService, Marukami, Tills, aero, noggen |
+| 2026-09-06 | Symbiose | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.05 | 0.96 | +97.3 | Marukami, Tills, aero, noggen, s4bre |
 | 2026-09-04 | fiveB | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -123.7 | BoomService, Marukami, Tills, aero, noggen, signifcnt |
 | 2026-09-02 | Duality Gaming | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.06 | 0.94 | +57.1 | BoomService, Marukami, Tills, aero, signifcnt |
 

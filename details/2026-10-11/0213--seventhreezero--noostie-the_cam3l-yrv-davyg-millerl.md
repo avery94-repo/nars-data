@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +175.4 | DavyG, JCIV, MillerL, YRV, noostie |
-| 2026-09-12 | COGNITIVE | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.12 | 1.00 | 1.12 | 0.00 | 0.00 | -114.5 | DavyG, MillerL, The_Cam3l, YRV, santanamolly |
-| 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.99 | 1.12 | 1.00 | 1.11 | 0.13 | 1.11 | +94.6 | DavyG, EndMeThx, JCIV, MillerL, YRV |
-| 2026-09-06 | RH Help Desk | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.12 | 1.00 | 1.08 | 0.00 | 0.00 | -145.0 | DavyG, EndMeThx, MillerL, The_Cam3l, YRV |
+| 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +175.5 | DavyG, JCIV, MillerL, YRV, noostie |
+| 2026-09-12 | COGNITIVE | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.12 | 1.00 | 1.12 | 0.00 | 0.00 | -114.6 | DavyG, MillerL, The_Cam3l, YRV, santanamolly |
+| 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.99 | 1.12 | 1.00 | 1.11 | 0.13 | 1.11 | +94.7 | DavyG, EndMeThx, JCIV, MillerL, YRV |
+| 2026-09-06 | RH Help Desk | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.12 | 1.00 | 1.08 | 0.00 | 0.00 | -145.1 | DavyG, EndMeThx, MillerL, The_Cam3l, YRV |
 | 2026-09-04 | No pain No aim | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.12 | 1.00 | 1.06 | 0.06 | 1.06 | +85.5 | DavyG, EndMeThx, JCIV, The_Cam3l, YRV |
 | 2026-09-02 | Zero Remorse | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.12 | 1.00 | 1.05 | 0.06 | 1.05 | +126.4 | JCIV, MillerL, The_Cam3l, YRV, noostie |
 

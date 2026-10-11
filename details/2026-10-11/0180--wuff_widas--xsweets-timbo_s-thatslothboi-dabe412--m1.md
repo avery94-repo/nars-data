@@ -1,17 +1,17 @@
 ### Roster Details
 Team Name: Wuff Widas
 Roster: xSweets, Timbo_S, ThatSlothBoi, Dabe412, -M1as-
-NARS Rank: 181 of 508
+NARS Rank: 180 of 508
 
 Final Rating: 1545.3
-Seeded Start: 1330.8
-H2H Adjustment: +214.5
+Seeded Start: 1330.7
+H2H Adjustment: +214.6
 
-Final Rating (1545.3) = Seeded Start (1330.8) + H2H Adjustment (+214.5)
+Final Rating (1545.3) = Seeded Start (1330.7) + H2H Adjustment (+214.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.165 x 1400 = 1330.8
+                = 1100 + 0.165 x 1400 = 1330.7
 
 seed_factor 0.165 = 0.25 x Tier Exposure (0.143) + 0.50 x Quality Wins (0.042) + 0.25 x Opponent Network (0.432)
 
@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | FlatEarthers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +108.8 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-08-09 | STALLOONS BALLOONS | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.78 | 1.23 | 1.00 | 0.96 | 0.00 | 0.00 | -224.0 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-08-09 | Carbon | W |  | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.78 | 1.23 | 1.00 | 0.96 | 0.23 | 0.96 | +78.5 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-08-09 | ARES GAMING | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.78 | 1.23 | 1.00 | 0.96 | 0.10 | 0.96 | +70.1 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-08-09 | ARES GAMING | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.78 | 1.23 | 1.00 | 0.96 | 0.10 | 0.96 | +70.2 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-07-26 | Omen | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -0.1 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-07-25 | Strafe | W |  | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.68 | 1.02 | 1.00 | 0.70 | 0.15 | 0.70 | +1.0 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 

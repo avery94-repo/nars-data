@@ -3,11 +3,11 @@ Team Name: ReGen
 Roster: Sosa_-, Kally, Brensylvania, JootyBIG, Iceman67
 NARS Rank: 415 of 508
 
-Final Rating: 1046.9
+Final Rating: 1046.7
 Seeded Start: 1192.6
-H2H Adjustment: -145.7
+H2H Adjustment: -145.9
 
-Final Rating (1046.9) = Seeded Start (1192.6) + H2H Adjustment (-145.7)
+Final Rating (1046.7) = Seeded Start (1192.6) + H2H Adjustment (-145.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Team mysterious | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -243.4 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
+| 2026-10-09 | Team mysterious | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -243.6 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
 | 2026-10-07 | Passion | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -147.6 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
 | 2026-09-08 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.03 | 1.00 | 1.01 | 0.06 | 1.01 | +29.7 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
 | 2026-09-03 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -14.9 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |

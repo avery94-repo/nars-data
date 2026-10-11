@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-30 | FOR FUN | L | 1-2 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.57 | 1.00 | 1.44 | 0.00 | 0.00 | -54.5 | H0NeST, Zucar, dvrk, grape, sasha |
 | 2026-08-30 | Skyline | W | 2-1 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.57 | 1.00 | 1.44 | 0.71 | 1.44 | +0.6 | H0NeST, Zucar, dvrk, grape, sasha |
 | 2026-08-29 | Elusive | W | 1-0 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.57 | 1.00 | 1.44 | 0.73 | 1.44 | +34.9 | H0NeST, Zucar, dvrk, grape, sasha |
-| 2026-08-24 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.43 | 1.00 | 1.26 | 0.00 | 0.00 | -105.2 | 1dvrk, H0NeST, Zucar, brennan, sasha |
+| 2026-08-24 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.43 | 1.00 | 1.26 | 0.00 | 0.00 | -105.3 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-21 | Chicken Coop | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.43 | 1.00 | 1.23 | 0.00 | 0.00 | -101.6 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-21 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.43 | 1.00 | 1.23 | 0.00 | 0.00 | -12.2 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-19 | LAG | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.43 | 1.00 | 1.21 | 0.00 | 0.00 | -81.8 | 1dvrk, H0NeST, Zucar, brennan, sasha |
@@ -57,13 +57,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.43 | 1.00 | 0.94 | 0.00 | 0.00 | -125.8 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-07-17 | skebob | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.43 | 1.00 | 0.89 | 0.06 | 0.89 | +0.1 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-07-15 | Beyond Limits | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.43 | 1.00 | 0.87 | 0.70 | 0.87 | +2.3 | 1dvrk, H0NeST, Zucar, brennan, sasha |
-| 2026-07-10 | CLUB 333 | W | 2-1 | CROSSFIRE Season 5 | C | liquipedia | 0.58 | 1.57 | 1.00 | 0.91 | 0.67 | 0.00 | +64.0 | H0NeST, Zucar, dvrk, grape, sasha |
+| 2026-07-10 | CLUB 333 | W | 2-1 | CROSSFIRE Season 5 | C | liquipedia | 0.58 | 1.57 | 1.00 | 0.91 | 0.67 | 0.00 | +63.9 | H0NeST, Zucar, dvrk, grape, sasha |
 | 2026-07-10 | Voca | L |  | VRS-tracked 2026-07 | A | vrs | 0.58 | 1.60 | 1.00 | 0.92 | 0.00 | 0.00 | -180.7 | core 3/5 |
-| 2026-07-09 | Marsborne | W | 2-1 | BLAST Open Fall 2026: North American Qualifier | B | liquipedia | 0.58 | 1.60 | 1.00 | 0.92 | 0.92 | 0.92 | +239.5 | H0NeST, Zucar, dvrk, grape, sasha |
+| 2026-07-09 | Marsborne | W | 2-1 | BLAST Open Fall 2026: North American Qualifier | B | liquipedia | 0.58 | 1.60 | 1.00 | 0.92 | 0.92 | 0.92 | +239.6 | H0NeST, Zucar, dvrk, grape, sasha |
 | 2026-07-03 | raisedbypixels | W | 2-0 | CROSSFIRE Season 5 | C | liquipedia | 0.53 | 1.57 | 1.00 | 0.83 | 0.10 | 0.83 | +129.4 | H0NeST, Zucar, dvrk, grape, sasha |
-| 2026-06-25 | Third Prime | W | 2-0 | CROSSFIRE Season 5 | C | liquipedia | 0.48 | 1.57 | 1.00 | 0.75 | 0.36 | 0.00 | +131.4 | H0NeST, Zucar, dvrk, grape, sasha |
-| 2026-06-08 | DETONATE | L | 1-2 | NSTLGA League Season 1 | C | liquipedia | 0.36 | 1.58 | 1.00 | 0.58 | 0.00 | 0.00 | -375.9 | Zucar, dvrk, fuzenko, grape, sasha |
-| 2026-06-06 | Festina Lente | W | 2-0 | NSTLGA League Season 1 | C | liquipedia | 0.35 | 1.58 | 1.00 | 0.56 | 0.07 | 0.56 | +0.2 | Zucar, dvrk, fuzenko, grape, sasha |
-| 2026-04-29 | Chicken Coop | W |  | VRS-tracked 2026-04 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.16 | 0.00 | +221.8 | core 3/5 |
+| 2026-06-25 | Third Prime | W | 2-0 | CROSSFIRE Season 5 | C | liquipedia | 0.48 | 1.57 | 1.00 | 0.75 | 0.36 | 0.00 | +131.5 | H0NeST, Zucar, dvrk, grape, sasha |
+| 2026-06-08 | DETONATE | L | 1-2 | NSTLGA League Season 1 | C | liquipedia | 0.36 | 1.58 | 1.00 | 0.58 | 0.00 | 0.00 | -376.0 | Zucar, dvrk, fuzenko, grape, sasha |
+| 2026-06-06 | Festina Lente | W | 2-0 | NSTLGA League Season 1 | C | liquipedia | 0.35 | 1.58 | 1.00 | 0.55 | 0.07 | 0.55 | +0.2 | Zucar, dvrk, fuzenko, grape, sasha |
+| 2026-04-29 | Chicken Coop | W |  | VRS-tracked 2026-04 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.16 | 0.00 | +221.9 | core 3/5 |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

@@ -4,14 +4,14 @@ Roster: Astrophysiic, kevinw0w, Skips, raayyy, Pewster
 NARS Rank: 363 of 508
 
 Final Rating: 1165.2
-Seeded Start: 1197.6
-H2H Adjustment: -32.4
+Seeded Start: 1197.5
+H2H Adjustment: -32.3
 
-Final Rating (1165.2) = Seeded Start (1197.6) + H2H Adjustment (-32.4)
+Final Rating (1165.2) = Seeded Start (1197.5) + H2H Adjustment (-32.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.070 x 1400 = 1197.6
+                = 1100 + 0.070 x 1400 = 1197.5
 
 seed_factor 0.070 = 0.25 x Tier Exposure (0.114) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.143)
 

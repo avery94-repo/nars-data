@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-16 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.43 | 1.00 | 0.88 | 0.00 | 0.00 | -360.8 | Usotsuki, caron, pxnk, skittle-, xtios |
+| 2026-07-16 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.43 | 1.00 | 0.88 | 0.00 | 0.00 | -360.9 | Usotsuki, caron, pxnk, skittle-, xtios |
 | 2026-07-15 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.43 | 1.00 | 0.87 | 0.12 | 0.87 | +420.9 | Usotsuki, caron, pxnk, skittle-, xtios |
-| 2026-05-21 | Smokepoint | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.31 | 1.00 | 0.32 | 0.08 | 0.32 | +305.7 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-05-21 | Smokepoint | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.31 | 1.00 | 0.32 | 0.08 | 0.32 | +305.8 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-14 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.31 | 1.00 | 0.26 | 0.00 | 0.00 | -36.0 | Usotsuki, caron, j1v, pxnk, skittle-, xtios |
-| 2026-05-12 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.31 | 1.00 | 0.24 | 0.00 | 0.00 | -55.5 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-05-12 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.31 | 1.00 | 0.24 | 0.00 | 0.00 | -55.6 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-06 | Beneath Reality | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.31 | 1.00 | 0.19 | 0.00 | 0.00 | -171.8 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-05 | Memeories | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.31 | 1.00 | 0.18 | 0.00 | 0.00 | -173.3 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-04-30 | LAG | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.31 | 1.00 | 0.14 | 0.00 | 0.00 | -19.2 | caron, j1v, pxnk, skittle-, xtios |

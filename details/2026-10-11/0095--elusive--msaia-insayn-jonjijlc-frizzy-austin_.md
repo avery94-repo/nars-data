@@ -26,9 +26,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-10 | Marsborne | L | 0-2 | FRAG University 2026 | A | liquipedia | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -0.0 | Austin, FRIZZY, Jonji, LittleBEER, Treehen |
 | 2026-10-10 | LAST DANCE | L | 0-1 | FRAG University 2026 | A | liquipedia | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -11.3 | Austin, FRIZZY, Jonji, LittleBEER, Treehen |
-| 2026-10-07 | FlyQuest RED | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.36 | 1.00 | 1.36 | 0.93 | 1.36 | +82.7 | FRIZZY, JonjiJLC, LittleBEER, Treehen, austin_ |
-| 2026-09-02 | Sleepless_Gaming | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.34 | 1.00 | 1.26 | 0.00 | 0.00 | -108.6 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-09-02 | BucketJonsBoys | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.34 | 1.00 | 1.26 | 0.00 | 0.00 | -151.4 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
+| 2026-10-07 | FlyQuest RED | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.36 | 1.00 | 1.36 | 0.92 | 1.36 | +82.7 | FRIZZY, JonjiJLC, LittleBEER, Treehen, austin_ |
+| 2026-09-02 | Sleepless_Gaming | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.34 | 1.00 | 1.26 | 0.00 | 0.00 | -108.7 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
+| 2026-09-02 | BucketJonsBoys | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.34 | 1.00 | 1.26 | 0.00 | 0.00 | -151.5 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-09-02 | FarmVille | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.34 | 1.00 | 1.26 | 0.00 | 0.00 | -19.6 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-30 | NineFly Esports | W | 2-0 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.57 | 1.00 | 1.44 | 0.52 | 1.44 | +10.9 | Austin, BiBiAhn, FRIZZY, Redman, Treehen |
 | 2026-08-29 | regain | L | 0-1 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.57 | 1.00 | 1.44 | 0.00 | 0.00 | -34.8 | Austin, BiBiAhn, FRIZZY, Redman, Treehen |
@@ -38,10 +38,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-27 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.43 | 1.00 | 1.28 | 0.00 | 0.00 | -9.5 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-26 | Marsborne | L | 0-2 | ESL Challenger League Season 52: North America - Cup #1 | B | liquipedia | 0.89 | 1.58 | 1.00 | 1.41 | 0.00 | 0.00 | -0.1 | Austin, FRIZZY, Jonji, Msaia, sayN |
 | 2026-08-26 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.43 | 1.00 | 1.27 | 0.47 | 1.27 | +56.6 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-08-24 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.43 | 1.00 | 1.26 | 1.18 | 1.26 | +108.5 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
+| 2026-08-24 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.43 | 1.00 | 1.26 | 1.18 | 1.26 | +108.6 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-23 | F5 | W |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.60 | 1.05 | +109.0 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-08-20 | Chuck E Cheese | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.25 | 1.02 | +2.8 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-08-20 | Clockwork | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -287.5 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
+| 2026-08-20 | Chuck E Cheese | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.24 | 1.02 | +2.8 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
+| 2026-08-20 | Clockwork | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -287.6 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-19 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.43 | 1.00 | 1.21 | 0.00 | 0.00 | -0.3 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-18 | LAG | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.43 | 1.00 | 1.20 | 0.00 | 0.00 | -14.5 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-17 | FRZ Unit | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.43 | 1.00 | 1.19 | 0.71 | 1.19 | +60.4 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |

@@ -3,11 +3,11 @@ Team Name: Brobies
 Roster: BIGJ0E, Guildenstern, Pocket-l-, ZAQQ, WiggSplitter
 NARS Rank: 331 of 508
 
-Final Rating: 1229.1
+Final Rating: 1229.0
 Seeded Start: 1188.8
-H2H Adjustment: +40.3
+H2H Adjustment: +40.2
 
-Final Rating (1229.1) = Seeded Start (1188.8) + H2H Adjustment (+40.3)
+Final Rating (1229.0) = Seeded Start (1188.8) + H2H Adjustment (+40.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

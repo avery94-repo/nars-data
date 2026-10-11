@@ -4,14 +4,14 @@ Roster: FaNg, stew, autimatic, c3rq, Brehze
 NARS Rank: 7 of 508
 
 Final Rating: 2671.6
-Seeded Start: 2385.2
-H2H Adjustment: +286.4
+Seeded Start: 2385.1
+H2H Adjustment: +286.5
 
-Final Rating (2671.6) = Seeded Start (2385.2) + H2H Adjustment (+286.4)
+Final Rating (2671.6) = Seeded Start (2385.1) + H2H Adjustment (+286.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.918 x 1400 = 2385.2
+                = 1100 + 0.918 x 1400 = 2385.1
 
 seed_factor 0.918 = 0.25 x Tier Exposure (1.000) + 0.50 x Quality Wins (0.836) + 0.25 x Opponent Network (1.000)
 
@@ -19,13 +19,12 @@ seed_factor 0.918 = 0.25 x Tier Exposure (1.000) + 0.50 x Quality Wins (0.836) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Matches (56 qualifying)
+#### Matches (55 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-11 | Imperial | L | 0-2 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -63.3 | core 3/5 |
-| 2026-10-11 | Unreal Nightmare | W | 2-0 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 0.80 | 0.00 | +0.1 | core 3/5 |
+| 2026-10-10 | Imperial | L | 0-2 | FRAG University 2026 | A | liquipedia | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -63.2 | Brehze, CeRq, FaNg, Stewie2K, autimatic |
 | 2026-10-10 | Unreal Nightmare | W | 2-0 | FRAG University 2026 | A | liquipedia | 1.00 | 1.60 | 1.00 | 1.60 | 0.80 | 0.00 | +0.1 | Brehze, CeRq, FaNg, Stewie2K, autimatic |
 | 2026-10-10 | Marsborne | L | 0-1 | FRAG University 2026 | A | liquipedia | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -46.0 | Brehze, CeRq, FaNg, Stewie2K, autimatic |
 | 2026-10-10 | Last Dance US | W | 2-1 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 1.20 | 0.00 | +0.4 | core 3/5 |
@@ -46,8 +45,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-15 | Beyond Limits | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 1.24 | 1.55 | +0.6 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-14 | SportsBetExpert | L |  | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -10.4 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-14 | SportsBetExpert | L | 2-3 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -15.3 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-09-13 | LAG | W | 2-1 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.01 | 0.00 | +58.6 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-09-13 | SportsBetExpert | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -12.1 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-13 | LAG | W | 2-1 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.01 | 0.00 | +58.7 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-13 | SportsBetExpert | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -12.0 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-11 | LAG | W | 2-1 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.01 | 0.00 | +73.2 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-11 | Voca | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -55.5 | core 3/5 |
 | 2026-09-10 | Marsborne | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.59 | 1.59 | 1.59 | +153.6 | Brehze, FaNg, autimatic, c3rq, stew |
@@ -68,7 +67,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-03 | FarmVille | W |  | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.95 | 1.59 | 1.00 | 1.51 | 1.41 | 1.51 | +13.3 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-03 | freaky five | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.34 | 1.00 | 1.27 | 0.47 | 1.27 | +0.0 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-02 | FarmVille | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 1.39 | 0.00 | +46.6 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-09-02 | EMPIRE | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 1.29 | 1.50 | +28.5 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-02 | EMPIRE | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.49 | 1.29 | 1.49 | +28.5 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-08-29 | Skyline | W | 1-0 | FRAG Midwest: St. Louis 2026 | C | liquipedia | 0.92 | 1.57 | 1.00 | 1.44 | 0.71 | 1.44 | +0.0 | Brehze, CeRq, FaNg, Stewie2K, autimatic |
 | 2026-08-27 | Tacos Tiramisu and Lies | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.90 | 1.47 | 1.00 | 1.32 | 0.47 | 1.32 | +0.8 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-08-26 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.89 | 1.47 | 1.00 | 1.31 | 0.23 | 1.31 | +0.0 | Brehze, FaNg, autimatic, c3rq, stew |
@@ -76,9 +75,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-20 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.47 | 1.00 | 1.25 | 0.00 | 0.00 | -69.5 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-08-18 | Conscious Gaming | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.47 | 1.00 | 1.23 | 0.34 | 1.23 | +0.9 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-08-13 | Third Prime | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.47 | 1.00 | 1.18 | 0.57 | 1.18 | +95.3 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-07-16 | Voca | L | 1-2 | Esports Nations Cup 2026: American Qualifier | C | liquipedia | 0.62 | 1.60 | 1.00 | 1.00 | 0.00 | 0.00 | -63.3 | Brehze, Sandman, Skadoodle, Stewie2K, autimatic |
-| 2026-07-16 | STARS AND STRIPES | W | 2-1 | Esports Nations Cup 2026: American Qualifier | C | liquipedia | 0.62 | 1.60 | 1.00 | 1.00 | 0.75 | 0.00 | +53.2 | Brehze, Sandman, Skadoodle, Stewie2K, autimatic |
-| 2026-07-14 | STFDYSAB | W |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.61 | 1.32 | 1.00 | 0.81 | 0.15 | 0.81 | +83.4 | 1Sandman, Brehze, autimatic, skadoodle, stew |
+| 2026-07-16 | Voca | L | 1-2 | Esports Nations Cup 2026: American Qualifier | C | liquipedia | 0.62 | 1.60 | 1.00 | 1.00 | 0.00 | 0.00 | -63.4 | Brehze, Sandman, Skadoodle, Stewie2K, autimatic |
+| 2026-07-16 | STARS AND STRIPES | W | 2-1 | Esports Nations Cup 2026: American Qualifier | C | liquipedia | 0.62 | 1.60 | 1.00 | 1.00 | 0.75 | 0.00 | +53.1 | Brehze, Sandman, Skadoodle, Stewie2K, autimatic |
+| 2026-07-14 | STFDYSAB | W |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.61 | 1.32 | 1.00 | 0.81 | 0.15 | 0.81 | +83.5 | 1Sandman, Brehze, autimatic, skadoodle, stew |
 | 2026-07-14 | WonderBreadBoys | W |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.61 | 1.32 | 1.00 | 0.81 | 0.04 | 0.81 | +0.0 | 1Sandman, Brehze, autimatic, skadoodle, stew |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

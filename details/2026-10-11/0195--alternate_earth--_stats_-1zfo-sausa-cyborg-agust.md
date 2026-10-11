@@ -5,7 +5,7 @@ NARS Rank: 195 of 508
 
 Final Rating: 1517.5
 Seeded Start: 1216.8
-H2H Adjustment: +300.7 (capped at +-300, raw +300.6)
+H2H Adjustment: +300.7
 
 Final Rating (1517.5) = Seeded Start (1216.8) + H2H Adjustment (+300.7)
 
@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | VARTOVIK | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +116.2 | 1zfo, Agust, Sausa, _STATS_, cyborg |
 | 2026-09-15 | ODIN | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -59.6 | 1zfo, Agust, Sausa, cyborg, praze- |
-| 2026-09-08 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.03 | 1.00 | 1.01 | 0.00 | 0.00 | -82.1 | 1zfo, Agust, Sausa, _STATS_, cyborg |
+| 2026-09-08 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.03 | 1.00 | 1.01 | 0.00 | 0.00 | -82.2 | 1zfo, Agust, Sausa, _STATS_, cyborg |
 | 2026-09-06 | Double Poop Cheeseburger | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.03 | 1.00 | 1.00 | 0.06 | 1.00 | +116.8 | 1zfo, Agust, Sausa, Sevv, cyborg |
 | 2026-09-04 | Chuds | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.05 | 0.98 | +209.4 | 1zfo, Agust, Sausa, _STATS_, cyborg |
 

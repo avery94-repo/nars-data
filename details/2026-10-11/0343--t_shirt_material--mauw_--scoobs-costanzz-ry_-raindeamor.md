@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | Bottom Fraggers Anonymous | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.05 | 0.97 | +91.6 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
 | 2026-09-04 | pew pew | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -124.0 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
 | 2026-09-02 | GOD SPEED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +140.8 | -scoobs, CoStanzz, Mauw_, Raindeamor, Ry_ |
-| 2026-06-12 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -38.3 | CoStanzz, Mauw_, Raindeamor, Ry_, mylesG_ |
+| 2026-06-12 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -38.2 | CoStanzz, Mauw_, Raindeamor, Ry_, mylesG_ |
 | 2026-06-03 | It Doesnt Matter | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -187.2 | -Kibe-, CoStanzz, Mauw_, Raindeamor, Ry_ |
 | 2026-05-27 | DEFEAT | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.04 | 0.28 | +242.3 | -Kibe-, CoStanzz, Mauw_, Raindeamor, Ry_ |
 

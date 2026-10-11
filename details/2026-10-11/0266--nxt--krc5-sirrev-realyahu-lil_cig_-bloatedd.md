@@ -4,14 +4,14 @@ Roster: kRc5, SirRev, realYahu, Lil_Cig_, Bloatedd
 NARS Rank: 266 of 508
 
 Final Rating: 1384.1
-Seeded Start: 1189.3
-H2H Adjustment: +194.8
+Seeded Start: 1189.2
+H2H Adjustment: +194.9
 
-Final Rating (1384.1) = Seeded Start (1189.3) + H2H Adjustment (+194.8)
+Final Rating (1384.1) = Seeded Start (1189.2) + H2H Adjustment (+194.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.064 x 1400 = 1189.3
+                = 1100 + 0.064 x 1400 = 1189.2
 
 seed_factor 0.064 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.010) + 0.25 x Opponent Network (0.164)
 

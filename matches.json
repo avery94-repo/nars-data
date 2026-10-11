@@ -66,17 +66,6 @@
   "source": "hltv"
  },
  {
-  "match_id": "hltv:2399404",
-  "date": "2026-10-11",
-  "competition": "FRAG University 2026",
-  "team_a": "SportsBetExpert",
-  "team_b": "NRG",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "A",
-  "source": "hltv"
- },
- {
   "match_id": "hltv:2399244",
   "date": "2026-10-11",
   "competition": "ANZC Locals Brisbane 2026 Season 2",
@@ -85,39 +74,6 @@
   "winner": "a",
   "score": "13-7",
   "tier": "B",
-  "source": "hltv"
- },
- {
-  "match_id": "hltv:2399403",
-  "date": "2026-10-11",
-  "competition": "FRAG University 2026",
-  "team_a": "Imperial",
-  "team_b": "Without a Roof",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "A",
-  "source": "hltv"
- },
- {
-  "match_id": "hltv:2399402",
-  "date": "2026-10-11",
-  "competition": "FRAG University 2026",
-  "team_a": "DENDELE",
-  "team_b": "Wildcard",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "A",
-  "source": "hltv"
- },
- {
-  "match_id": "hltv:2399400",
-  "date": "2026-10-11",
-  "competition": "FRAG University 2026",
-  "team_a": "Unreal Nightmare",
-  "team_b": "Without a Roof",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "A",
   "source": "hltv"
  },
  {
@@ -308,6 +264,28 @@
   "source": "liquipedia"
  },
  {
+  "match_id": "lp:frag-2026-syracuse-2:8e62026dbc",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Imperial",
+  "team_b": "SportsBetExpert",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:frag-2026-syracuse-2:a59a4c47a7",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Imperial",
+  "team_b": "Without a Roof",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "A",
+  "source": "liquipedia"
+ },
+ {
   "match_id": "hltv:2399394",
   "date": "2026-10-10",
   "competition": "FRAG University 2026",
@@ -326,17 +304,6 @@
   "team_b": "SportsBetExpert",
   "winner": "b",
   "score": "0-2",
-  "tier": "A",
-  "source": "hltv"
- },
- {
-  "match_id": "hltv:2399391",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "Imperial",
-  "team_b": "SportsBetExpert",
-  "winner": "a",
-  "score": "16-14",
   "tier": "A",
   "source": "hltv"
  },
@@ -8565,17 +8532,6 @@
   "team_b": "Cultivate",
   "winner": "a",
   "score": "2-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-4074610f-97e6-47e0-8714-0d68e2895eff",
-  "date": "2026-09-06",
-  "competition": "S58 NA Open9-10 East - Playoffs C",
-  "team_a": "Ctrl Alt Elite",
-  "team_b": "GodFather Gamin",
-  "winner": "a",
-  "score": "2-1",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -63959,17 +63915,6 @@
   "competition": "S57 NA Intermediate Central - Regular Season",
   "team_a": "Schadenfreude",
   "team_b": "Midwest Farmers",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-19231058-29aa-4b2f-8264-3fd111817f59",
-  "date": "2026-04-15",
-  "competition": "S57 NA Intermediate Central - Regular Season",
-  "team_a": "the pug jug",
-  "team_b": "Shaq Diesel",
   "winner": "a",
   "score": "1-0",
   "tier": "C",

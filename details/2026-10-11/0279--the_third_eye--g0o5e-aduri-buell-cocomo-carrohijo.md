@@ -3,11 +3,11 @@ Team Name: The Third Eye
 Roster: G0o5e, Aduri, Buell, cocomo, CarroHijo
 NARS Rank: 279 of 508
 
-Final Rating: 1345.7
+Final Rating: 1345.9
 Seeded Start: 1164.3
-H2H Adjustment: +181.4
+H2H Adjustment: +181.6
 
-Final Rating (1345.7) = Seeded Start (1164.3) + H2H Adjustment (+181.4)
+Final Rating (1345.9) = Seeded Start (1164.3) + H2H Adjustment (+181.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-24 | Aphotic eSports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.01 | 1.00 | 0.68 | 0.00 | 0.00 | -122.8 | Aduri, Buell, CarroHijo, G0o5e, OGYodaa |
+| 2026-07-24 | Aphotic eSports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.01 | 1.00 | 0.68 | 0.00 | 0.00 | -122.7 | Aduri, Buell, CarroHijo, G0o5e, OGYodaa |
 | 2026-07-22 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.00 | 0.00 | -141.5 | CarroHijo, G0o5e, OGYodaa, Trickett, iced00 |
 | 2026-07-15 | Toe to head | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.61 | 0.08 | 0.61 | +1.1 | Aduri, Buell, CarroHijo, G0o5e, OGYodaa |
 | 2026-06-10 | GodFather Gamin | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.03 | 0.38 | +144.9 | Buell, CarroHijo, G0o5e, cocomo, iced00 |

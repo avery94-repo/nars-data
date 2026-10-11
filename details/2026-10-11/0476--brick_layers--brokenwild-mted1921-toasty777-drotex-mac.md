@@ -3,11 +3,11 @@ Team Name: Brick Layers
 Roster: BrokenWild, mted1921, Toasty777, Drotex, macchiata
 NARS Rank: 476 of 508
 
-Final Rating: 803.1
+Final Rating: 802.7
 Seeded Start: 1106.5
-H2H Adjustment: -303.4
+H2H Adjustment: -303.8
 
-Final Rating (803.1) = Seeded Start (1106.5) + H2H Adjustment (-303.4)
+Final Rating (802.7) = Seeded Start (1106.5) + H2H Adjustment (-303.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,13 +25,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-20 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -210.7 | BrokenWild, Drotex, Famweboolin, macchiata, mted1921 |
-| 2026-05-15 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -13.5 | BrokenWild, Drotex, Tad_s, Toasty777, mted1921 |
+| 2026-05-15 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -13.7 | BrokenWild, Drotex, Tad_s, Toasty777, mted1921 |
 | 2026-05-08 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -10.2 | BrokenWild, Drotex, Famweboolin, Toasty777, mted1921 |
-| 2026-05-06 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -153.3 | BrokenWild, Drotex, Famweboolin, Toasty777, macchiata |
-| 2026-05-01 | jork buds | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -0.8 | -extraa, BrokenWild, Drotex, Toasty777, mted1921 |
+| 2026-05-06 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -153.4 | BrokenWild, Drotex, Famweboolin, Toasty777, macchiata |
+| 2026-05-01 | jork buds | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -0.9 | -extraa, BrokenWild, Drotex, Toasty777, mted1921 |
 | 2026-04-24 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -406.0 | BrokenWild, Drotex, Toasty777, macchiata, mted1921 |
 | 2026-04-22 | The Ohio Meat Wagon | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.01 | 0.05 | +267.8 | BrokenWild, Drotex, Famweboolin, macchiata, mted1921 |
 | 2026-04-17 | Nomadic Tactics | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +438.6 | BrokenWild, Drotex, Toasty777, macchiata, mted1921 |
-| 2026-04-15 | MINDTRIP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -215.1 | BrokenWild, Drotex, Famweboolin, macchiata, mted1921 |
+| 2026-04-15 | MINDTRIP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -215.2 | BrokenWild, Drotex, Famweboolin, macchiata, mted1921 |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

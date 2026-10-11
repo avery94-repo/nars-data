@@ -3,11 +3,11 @@ Team Name: Boomhogs 2
 Roster: r-a-t, Casany, Zeafling, seegreen, -yesmar
 NARS Rank: 417 of 508
 
-Final Rating: 1036.7
+Final Rating: 1036.8
 Seeded Start: 1157.5
-H2H Adjustment: -120.8
+H2H Adjustment: -120.7
 
-Final Rating (1036.7) = Seeded Start (1157.5) + H2H Adjustment (-120.8)
+Final Rating (1036.8) = Seeded Start (1157.5) + H2H Adjustment (-120.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,9 +24,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-06 | APEX | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.03 | 1.00 | 1.00 | 0.00 | 0.00 | -82.5 | -yesmar, Casany, Zeafling, r-a-t, seegreen |
-| 2026-09-04 | GOYPEEKING | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -122.9 | -yesmar, Casany, Zeafling, r-a-t, seegreen |
-| 2026-09-02 | Deviant | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.05 | 0.97 | +186.0 | -yesmar, Casany, Zeafling, r-a-t, seegreen |
+| 2026-09-06 | APEX | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.03 | 1.00 | 1.00 | 0.00 | 0.00 | -82.2 | -yesmar, Casany, Zeafling, r-a-t, seegreen |
+| 2026-09-04 | GOYPEEKING | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -123.0 | -yesmar, Casany, Zeafling, r-a-t, seegreen |
+| 2026-09-02 | Deviant | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.05 | 0.97 | +186.1 | -yesmar, Casany, Zeafling, r-a-t, seegreen |
 | 2026-06-03 | The Carver Senior Center | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -128.3 | Casany, Grogn, Zeafling, r-a-t, seegreen |
 | 2026-06-02 | MSU MAROON | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.01 | 0.32 | +245.5 | Casany, Grogn, Zeafling, r-a-t, seegreen |
 | 2026-05-27 | FAT CHUDS BRO | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -218.8 | Casany, NotStruggle, Zeafling, r-a-t, seegreen |

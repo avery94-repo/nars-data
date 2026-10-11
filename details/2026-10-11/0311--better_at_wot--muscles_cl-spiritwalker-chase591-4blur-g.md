@@ -26,11 +26,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | 99 Thieves | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.03 | 1.00 | 1.01 | 0.00 | 0.00 | -34.0 | 4blur, Brizzy_, Chase591, Gater, Muscles_CL |
 | 2026-09-06 | Ascend | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.03 | 1.00 | 1.00 | 0.05 | 1.00 | +128.4 | 4blur, Brizzy_, Chase591, Gater, Muscles_CL |
-| 2026-09-04 | counter strokin | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.07 | 0.98 | +104.8 | 4blur, Chase591, Gater, Sil, Spiritwalker |
+| 2026-09-04 | counter strokin | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.07 | 0.98 | +104.7 | 4blur, Chase591, Gater, Sil, Spiritwalker |
 | 2026-09-02 | Double Poop Cheeseburger | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.00 | 0.00 | -213.5 | 4blur, Brizzy_, Chase591, Gater, Spiritwalker |
 | 2026-06-12 | MommySports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -178.2 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
-| 2026-06-10 | Seven ate Nine | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.01 | 0.38 | +147.1 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
-| 2026-06-03 | BAN ANCIENT | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.01 | 0.33 | +182.4 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
+| 2026-06-10 | Seven ate Nine | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.01 | 0.38 | +147.2 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
+| 2026-06-03 | BAN ANCIENT | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.01 | 0.33 | +182.5 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
 | 2026-05-31 | Silly Kitties | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +169.5 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
 | 2026-05-27 | Geass Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -238.3 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
 

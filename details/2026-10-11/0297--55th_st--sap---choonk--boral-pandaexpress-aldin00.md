@@ -3,15 +3,15 @@ Team Name: 55TH ST
 Roster: Sap--, choonk-, boral, PandaExpress, aldin00
 NARS Rank: 297 of 508
 
-Final Rating: 1303.2
-Seeded Start: 1246.7
+Final Rating: 1303.1
+Seeded Start: 1246.6
 H2H Adjustment: +56.5
 
-Final Rating (1303.2) = Seeded Start (1246.7) + H2H Adjustment (+56.5)
+Final Rating (1303.1) = Seeded Start (1246.6) + H2H Adjustment (+56.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.105 x 1400 = 1246.7
+                = 1100 + 0.105 x 1400 = 1246.6
 
 seed_factor 0.105 = 0.25 x Tier Exposure (0.109) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.265)
 

@@ -26,9 +26,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-16 | Over 30 | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -95.3 | Pufflezao, kbk1337, pprpl_pngn, sebzy, st3viray |
 | 2026-09-11 | Beam Tinky | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +63.9 | Pufflezao, Rubix, kbk1337, sebzy, st3viray |
-| 2026-09-09 | BD Lamron | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.07 | 0.99 | +115.8 | Pufflezao, Rubix, kbk1337, sebzy, st3viray |
+| 2026-09-09 | BD Lamron | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +115.8 | Pufflezao, Rubix, kbk1337, sebzy, st3viray |
 | 2026-09-04 | The Old Folks | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.06 | 0.95 | +93.6 | Pufflezao, Rubix, kbk1337, pprpl_pngn, sebzy, st3viray |
 | 2026-09-02 | Escalate Academy | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +60.8 | Pufflezao, kbk1337, pprpl_pngn, sebzy, st3viray |
-| 2026-05-27 | Silver Foxes | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +160.2 | DangoCSGO, Pufflezao, kbk1337, sebzy, st3viray |
+| 2026-05-27 | Silver Foxes | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +160.3 | DangoCSGO, Pufflezao, kbk1337, sebzy, st3viray |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

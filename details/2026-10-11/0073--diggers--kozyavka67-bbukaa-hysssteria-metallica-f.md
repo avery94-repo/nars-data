@@ -5,7 +5,7 @@ NARS Rank: 73 of 508
 
 Final Rating: 1853.3
 Seeded Start: 1471.2
-H2H Adjustment: +382.1
+H2H Adjustment: +382.1 (capped at +-300, raw +382.2)
 
 Final Rating (1853.3) = Seeded Start (1471.2) + H2H Adjustment (+382.1)
 
@@ -28,19 +28,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.43 | 1.00 | 1.29 | 0.00 | 0.00 | -58.3 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
 | 2026-08-27 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.43 | 1.00 | 1.28 | 0.30 | 1.28 | +3.2 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
 | 2026-08-26 | dice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.43 | 1.00 | 1.27 | 0.45 | 0.00 | +76.7 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
-| 2026-08-25 | Wanted Goons | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.43 | 1.00 | 1.26 | 0.00 | 0.00 | -54.7 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
+| 2026-08-25 | Wanted Goons | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.43 | 1.00 | 1.27 | 0.00 | 0.00 | -54.7 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
 | 2026-08-20 | Blitzkrieg | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.43 | 1.00 | 1.22 | 0.00 | 0.00 | -190.1 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
 | 2026-08-13 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.43 | 1.00 | 1.15 | 0.00 | 0.00 | -40.5 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
 | 2026-08-12 | 4fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.43 | 1.00 | 1.14 | 0.54 | 1.14 | +217.1 | PRO_stitutk4, bbukaa, hysssteria, kozyavka67, metallica |
 | 2026-08-05 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.43 | 1.00 | 1.07 | 0.09 | 1.07 | +0.6 | fuzenko, hysssteria, jertva_sisek, kozyavka67, metallica |
-| 2026-07-31 | 5Fellas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.43 | 1.00 | 1.03 | 0.22 | 1.03 | +230.0 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
+| 2026-07-31 | 5Fellas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.43 | 1.00 | 1.03 | 0.22 | 1.03 | +230.1 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
 | 2026-07-29 | Holly Molly | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.43 | 1.00 | 1.01 | 0.30 | 1.01 | +136.8 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
 | 2026-07-24 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.43 | 1.00 | 0.96 | 0.00 | 0.00 | -102.3 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
 | 2026-07-22 | SparkExchange io | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.43 | 1.00 | 0.94 | 0.00 | 0.00 | -214.4 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
-| 2026-07-17 | Holy Squid Empire | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.43 | 1.00 | 0.89 | 0.00 | 0.00 | -329.7 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
-| 2026-06-19 | OVERTAKE SECTOR | L | 1-2 | ESEA Season 57: North American Finals | C | liquipedia | 0.44 | 1.43 | 1.00 | 0.62 | 0.00 | 0.00 | -131.0 | H0NeST, Termina, fuzenko, metallica, v1bes |
-| 2026-06-18 | YHTR | W | 2-0 | ESEA Season 57: North American Finals | C | liquipedia | 0.43 | 1.43 | 1.00 | 0.61 | 0.17 | 0.61 | +255.9 | H0NeST, Termina, fuzenko, metallica, v1bes |
-| 2026-06-04 | Road2Kato2034 | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.34 | 1.03 | 1.00 | 0.35 | 0.01 | 0.35 | +54.0 | H0NeST, fuzenko, hysssteria, kozyavka67, metallica |
+| 2026-07-17 | Holy Squid Empire | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.43 | 1.00 | 0.89 | 0.00 | 0.00 | -329.8 | bbukaa, fuzenko, hysssteria, kozyavka67, metallica |
+| 2026-06-19 | OVERTAKE SECTOR | L | 1-2 | ESEA Season 57: North American Finals | C | liquipedia | 0.44 | 1.43 | 1.00 | 0.62 | 0.00 | 0.00 | -131.1 | H0NeST, Termina, fuzenko, metallica, v1bes |
+| 2026-06-18 | YHTR | W | 2-0 | ESEA Season 57: North American Finals | C | liquipedia | 0.43 | 1.43 | 1.00 | 0.61 | 0.17 | 0.61 | +256.0 | H0NeST, Termina, fuzenko, metallica, v1bes |
+| 2026-06-04 | Road2Kato2034 | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.34 | 1.03 | 1.00 | 0.35 | 0.01 | 0.35 | +54.1 | H0NeST, fuzenko, hysssteria, kozyavka67, metallica |
 | 2026-06-02 | dice | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.03 | 1.00 | 0.34 | 0.12 | 0.34 | +85.5 | H0NeST, fuzenko, hysssteria, metallica, u6ah |
 | 2026-05-31 | FoxtrotAlphaGolfSierra | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.31 | 1.03 | 1.00 | 0.32 | 0.01 | 0.32 | +134.0 | H0NeST, fuzenko, kozyavka67, metallica, u6ah |
 | 2026-05-29 | Sharp | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.09 | 0.31 | +308.7 | H0NeST, fuzenko, hysssteria, kozyavka67, metallica |

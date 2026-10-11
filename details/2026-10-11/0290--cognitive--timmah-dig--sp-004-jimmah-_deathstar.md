@@ -24,8 +24,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Kodaks Lettuce | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +280.8 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |
-| 2026-10-07 | BANISHED LEGION | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -421.7 | JIMMAH, SP-004, TIMMAH, Tuxce, diG- |
+| 2026-10-09 | Kodaks Lettuce | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +281.0 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |
+| 2026-10-07 | BANISHED LEGION | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -421.9 | JIMMAH, SP-004, TIMMAH, Tuxce, diG- |
 | 2026-09-27 | MONEY HUNGRY | L | 0-0 | NA Revival | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -0.6 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |
 | 2026-09-27 | HiveMind | W | 1-0 | NA Revival | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | +131.6 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |
 | 2026-09-15 | Biggie Cheese Fan Club | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.12 | 1.00 | 1.12 | 0.00 | 0.00 | -95.4 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |

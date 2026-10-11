@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: Casual Mature Gamers
 Roster: -larry, -fakez, Panda1__, OSKAVELIw0w-, armali
-NARS Rank: 234 of 508
+NARS Rank: 232 of 508
 
 Final Rating: 1439.1
 Seeded Start: 1247.5

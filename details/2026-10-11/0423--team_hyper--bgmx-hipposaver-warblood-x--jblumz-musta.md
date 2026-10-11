@@ -3,11 +3,11 @@ Team Name: Team Hyper
 Roster: bgmx, hipposaver, warBlood-x-, jblumz, Mustang_TV
 NARS Rank: 423 of 508
 
-Final Rating: 1023.9
+Final Rating: 1023.8
 Seeded Start: 1192.7
-H2H Adjustment: -168.8
+H2H Adjustment: -168.9
 
-Final Rating (1023.9) = Seeded Start (1192.7) + H2H Adjustment (-168.8)
+Final Rating (1023.8) = Seeded Start (1192.7) + H2H Adjustment (-168.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,11 +26,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | GuangdongTigers | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.36 | 1.00 | 1.36 | 0.00 | 0.00 | -0.1 | Mustang_TV, bgmx, hipposaver, warBlood-x-, xpEEzY |
 | 2026-10-07 | Diggers | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.36 | 1.00 | 1.36 | 0.00 | 0.00 | -0.5 | Mustang_TV, bgmx, hipposaver, intox_, warBlood-x- |
-| 2026-08-25 | FRZ Unit | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.43 | 1.00 | 1.26 | 0.00 | 0.00 | -0.0 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
+| 2026-08-25 | FRZ Unit | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.43 | 1.00 | 1.27 | 0.00 | 0.00 | -0.0 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
 | 2026-08-14 | Addice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.43 | 1.00 | 1.16 | 0.00 | 0.00 | -52.9 | Mustang_TV, hipposaver, intox_, jblumz, xpEEzY |
-| 2026-08-12 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.43 | 1.00 | 1.14 | 0.09 | 1.14 | +229.4 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
+| 2026-08-12 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.43 | 1.00 | 1.14 | 0.09 | 1.14 | +229.5 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
 | 2026-08-07 | SOLA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.43 | 1.00 | 1.09 | 0.00 | 0.00 | -51.1 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
-| 2026-08-05 | GuangdongTigers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.43 | 1.00 | 1.07 | 0.00 | 0.00 | -141.4 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
+| 2026-08-05 | GuangdongTigers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.43 | 1.00 | 1.07 | 0.00 | 0.00 | -141.5 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
 | 2026-07-29 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.43 | 1.00 | 1.01 | 0.00 | 0.00 | -0.5 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
 | 2026-07-22 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.43 | 1.00 | 0.94 | 0.00 | 0.00 | -0.3 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
 | 2026-07-17 | Will Snaked Us | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.43 | 1.00 | 0.89 | 0.00 | 0.00 | -0.4 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
@@ -41,6 +41,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-04-29 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.31 | 1.00 | 0.13 | 0.00 | 0.00 | -34.9 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
 | 2026-04-23 | MishMash | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.31 | 1.00 | 0.08 | 0.00 | 0.00 | -12.8 | Mustang_TV, bgmx, hipposaver, jblumz, waterfallez |
 | 2026-04-21 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.31 | 1.00 | 0.06 | 0.00 | 0.00 | -7.5 | bgmx, hipposaver, jblumz, warBlood-x-, waterfallez |
-| 2026-04-16 | Memeories | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.31 | 1.00 | 0.02 | 0.00 | 0.00 | -10.5 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
+| 2026-04-16 | Memeories | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.31 | 1.00 | 0.01 | 0.00 | 0.00 | -10.5 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

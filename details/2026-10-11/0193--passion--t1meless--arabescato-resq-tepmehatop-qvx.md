@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Native | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.13 | 1.00 | +0.1 | Arabescato, T1meless-, TEPMEHATOP, executexd, resQ |
 | 2026-10-07 | ReGen | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +149.6 | Arabescato, T1meless-, executexd, janiim, resQ |
 | 2026-09-15 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -118.0 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
-| 2026-09-12 | Team Zhao | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +148.0 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
+| 2026-09-12 | Team Zhao | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +148.1 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
 | 2026-09-06 | VARTOVIK | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -104.9 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
 | 2026-09-04 | Feudal Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.05 | 0.95 | +198.6 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
 

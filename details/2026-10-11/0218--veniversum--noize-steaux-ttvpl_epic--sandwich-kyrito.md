@@ -4,14 +4,14 @@ Roster: noize, Steaux, ttvPL_Epic, -sandwich, kyritosan
 NARS Rank: 218 of 508
 
 Final Rating: 1470.6
-Seeded Start: 1249.0
-H2H Adjustment: +221.6
+Seeded Start: 1248.9
+H2H Adjustment: +221.7
 
-Final Rating (1470.6) = Seeded Start (1249.0) + H2H Adjustment (+221.6)
+Final Rating (1470.6) = Seeded Start (1248.9) + H2H Adjustment (+221.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.106 x 1400 = 1249.0
+                = 1100 + 0.106 x 1400 = 1248.9
 
 seed_factor 0.106 = 0.25 x Tier Exposure (0.109) + 0.50 x Quality Wins (0.026) + 0.25 x Opponent Network (0.264)
 

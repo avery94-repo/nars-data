@@ -3,11 +3,11 @@ Team Name: Eightball
 Roster: dabgoblin, maples19, Ant2steppa, Kanapez, andrew-OwO
 NARS Rank: 263 of 508
 
-Final Rating: 1387.5
+Final Rating: 1387.4
 Seeded Start: 1244.1
-H2H Adjustment: +143.4
+H2H Adjustment: +143.3
 
-Final Rating (1387.5) = Seeded Start (1244.1) + H2H Adjustment (+143.4)
+Final Rating (1387.4) = Seeded Start (1244.1) + H2H Adjustment (+143.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-07 | Dead Pixel | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.13 | 1.00 | +13.2 | Kanapez, andrew-OwO, dabgoblin, diamondtest, maples19 |
+| 2026-10-07 | Dead Pixel | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.13 | 1.00 | +13.1 | Kanapez, andrew-OwO, dabgoblin, diamondtest, maples19 |
 | 2026-09-15 | JoblessBums | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -61.9 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
 | 2026-09-12 | CLUE IN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +85.6 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
 | 2026-09-06 | fast8 | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.03 | 1.00 | 1.00 | 0.00 | 0.00 | -142.1 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |

@@ -4,14 +4,14 @@ Roster: DestructoDog, Payru, Teo_-, SlikNinjaZ, Spence
 NARS Rank: 375 of 508
 
 Final Rating: 1142.0
-Seeded Start: 1222.7
-H2H Adjustment: -80.7
+Seeded Start: 1222.6
+H2H Adjustment: -80.6
 
-Final Rating (1142.0) = Seeded Start (1222.7) + H2H Adjustment (-80.7)
+Final Rating (1142.0) = Seeded Start (1222.6) + H2H Adjustment (-80.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.088 x 1400 = 1222.7
+                = 1100 + 0.088 x 1400 = 1222.6
 
 seed_factor 0.088 = 0.25 x Tier Exposure (0.113) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.214)
 

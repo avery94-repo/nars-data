@@ -4,16 +4,16 @@ Roster: 123bye, okc-lover, inertia, PrimeJeet, sleuth
 NARS Rank: 81 of 508
 
 Final Rating: 1821.2
-Seeded Start: 1465.5
-H2H Adjustment: +355.7
+Seeded Start: 1465.4
+H2H Adjustment: +355.8
 
-Final Rating (1821.2) = Seeded Start (1465.5) + H2H Adjustment (+355.7)
+Final Rating (1821.2) = Seeded Start (1465.4) + H2H Adjustment (+355.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.261 x 1400 = 1465.5
+                = 1100 + 0.261 x 1400 = 1465.4
 
-seed_factor 0.261 = 0.25 x Tier Exposure (0.277) + 0.50 x Quality Wins (0.083) + 0.25 x Opponent Network (0.602)
+seed_factor 0.261 = 0.25 x Tier Exposure (0.277) + 0.50 x Quality Wins (0.083) + 0.25 x Opponent Network (0.601)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -33,10 +33,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | 716 BangerZ | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.10 | 0.90 | +0.0 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |
 | 2026-08-26 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.11 | 0.89 | +0.1 | 123bye, PrimeJeet, pungsy, redtext, sleuth |
 | 2026-08-21 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.10 | 0.86 | +106.6 | 123bye, inertia, okc-lover, redtext, sleuth |
-| 2026-08-19 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.10 | 0.84 | +38.6 | 123bye, inertia, okc-lover, pungsy, sleuth |
-| 2026-08-16 | Graveyard Shift | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.10 | 0.83 | +127.4 | 123bye, PrimeJeet, inertia, my_dearest, okc-lover |
+| 2026-08-19 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.10 | 0.84 | +38.5 | 123bye, inertia, okc-lover, pungsy, sleuth |
+| 2026-08-16 | Graveyard Shift | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.10 | 0.83 | +127.5 | 123bye, PrimeJeet, inertia, my_dearest, okc-lover |
 | 2026-08-16 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.10 | 0.00 | +62.0 | 123bye, PrimeJeet, my_dearest, okc-lover, sleuth |
-| 2026-08-16 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.10 | 0.00 | +46.8 | 123bye, PrimeJeet, my_dearest, okc-lover, sleuth |
+| 2026-08-16 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.10 | 0.00 | +46.9 | 123bye, PrimeJeet, my_dearest, okc-lover, sleuth |
 | 2026-08-16 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.15 | 0.83 | +64.2 | 123bye, inertia, my_dearest, okc-lover, sleuth |
 | 2026-08-12 | Opera | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -92.7 | PrimeJeet, altar, inertia, my_dearest, okc-lover |
 | 2026-07-29 | Bad JuJu | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.13 | 0.70 | +11.4 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |

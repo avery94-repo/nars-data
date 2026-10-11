@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: Los Pollos Hermanos
 Roster: dieloooon, BeetlePiimp, RamxRanch, SuperButt, cawfee
-NARS Rank: 152 of 508
+NARS Rank: 151 of 508
 
 Final Rating: 1603.4
 Seeded Start: 1228.9

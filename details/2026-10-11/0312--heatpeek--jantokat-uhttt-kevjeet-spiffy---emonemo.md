@@ -27,9 +27,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Rogue Dungeon | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -169.8 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
 | 2026-09-02 | Smile Team Six | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +75.1 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
 | 2026-07-26 | Tractors | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -138.7 | EMOnEMO, Jantokat, Slimm_, Uhttt, spartanbooby |
-| 2026-06-05 | We Wont Implode This Time | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -207.6 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
+| 2026-06-05 | We Wont Implode This Time | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -207.7 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 | 2026-06-03 | The Peninsula | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.02 | 0.33 | +167.1 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
-| 2026-05-29 | Rabu Bozhi | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +182.4 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
+| 2026-05-29 | Rabu Bozhi | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +182.5 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 | 2026-05-27 | Team Unknown | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +178.1 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

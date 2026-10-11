@@ -4,14 +4,14 @@ Roster: Polkan, THADCATSLE, fdoud, Taysak, Katashi01
 NARS Rank: 76 of 508
 
 Final Rating: 1844.7
-Seeded Start: 1365.0
-H2H Adjustment: +479.7 (capped at +-300, raw +479.8)
+Seeded Start: 1364.9
+H2H Adjustment: +479.8
 
-Final Rating (1844.7) = Seeded Start (1365.0) + H2H Adjustment (+479.7)
+Final Rating (1844.7) = Seeded Start (1364.9) + H2H Adjustment (+479.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.189 x 1400 = 1365.0
+                = 1100 + 0.189 x 1400 = 1364.9
 
 seed_factor 0.189 = 0.25 x Tier Exposure (0.192) + 0.50 x Quality Wins (0.053) + 0.25 x Opponent Network (0.458)
 
@@ -30,8 +30,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-21 | fih hou | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +45.1 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
 | 2026-09-16 | Trap Castle | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.05 | 1.00 | +62.7 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
 | 2026-09-10 | fih hou | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.11 | 0.00 | +93.6 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
-| 2026-09-08 | PogSquad | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.11 | 0.98 | +88.0 | IceyKL, Polkan, THADCATSLE, Taysak, fdoud |
+| 2026-09-08 | PogSquad | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.11 | 0.98 | +88.1 | IceyKL, Polkan, THADCATSLE, Taysak, fdoud |
 | 2026-09-05 | LOOKING FOR ORG | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.05 | 0.96 | +163.4 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
-| 2026-09-02 | Outer Haven | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +75.4 | IceyKL, Polkan, THADCATSLE, Taysak, fdoud |
+| 2026-09-02 | Outer Haven | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +75.5 | IceyKL, Polkan, THADCATSLE, Taysak, fdoud |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

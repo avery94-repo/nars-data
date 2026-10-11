@@ -3,15 +3,15 @@ Team Name: N w G
 Roster: cHEEturr, chaotic-, KIRE, krayvok, sLi
 NARS Rank: 298 of 508
 
-Final Rating: 1299.3
-Seeded Start: 1132.4
+Final Rating: 1299.2
+Seeded Start: 1132.3
 H2H Adjustment: +166.9
 
-Final Rating (1299.3) = Seeded Start (1132.4) + H2H Adjustment (+166.9)
+Final Rating (1299.2) = Seeded Start (1132.3) + H2H Adjustment (+166.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.023 x 1400 = 1132.4
+                = 1100 + 0.023 x 1400 = 1132.3
 
 seed_factor 0.023 = 0.25 x Tier Exposure (0.015) + 0.50 x Quality Wins (0.007) + 0.25 x Opponent Network (0.064)
 
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.14 | 1.00 | 0.29 | 0.02 | 0.29 | +266.5 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
-| 2026-05-20 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.14 | 1.00 | 0.27 | 0.00 | 0.00 | -133.8 | KIRE, cHEEturr, chaotic-, daylily, sLi |
+| 2026-05-22 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.14 | 1.00 | 0.29 | 0.02 | 0.29 | +266.6 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
+| 2026-05-20 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.14 | 1.00 | 0.27 | 0.00 | 0.00 | -133.9 | KIRE, cHEEturr, chaotic-, daylily, sLi |
 | 2026-05-15 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.14 | 1.00 | 0.23 | 0.03 | 0.23 | +180.6 | ChinGoo, KIRE, chaotic-, krayvok, sLi |
-| 2026-05-14 | No-Mercynaries | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.14 | 1.00 | 0.23 | 0.00 | 0.00 | -291.3 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
-| 2026-05-08 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.14 | 1.00 | 0.18 | 0.03 | 0.18 | +374.5 | KIRE, cHEEturr, chaotic-, daylily, sLi |
+| 2026-05-14 | No-Mercynaries | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.14 | 1.00 | 0.23 | 0.00 | 0.00 | -291.4 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
+| 2026-05-08 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.14 | 1.00 | 0.18 | 0.03 | 0.18 | +374.6 | KIRE, cHEEturr, chaotic-, daylily, sLi |
 | 2026-05-07 | Ritz Enjoyers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.14 | 1.00 | 0.17 | 0.00 | 0.00 | -370.6 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
 | 2026-05-01 | Chuck E Cheese | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.14 | 1.00 | 0.13 | 0.03 | 0.13 | +32.1 | Jacob_-, KIRE, chaotic-, krayvok, sLi |
 | 2026-04-24 | Free Frugz | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.14 | 1.00 | 0.07 | 0.00 | 0.07 | +30.6 | ChinGoo, KIRE, cHEEturr, chaotic-, sLi |

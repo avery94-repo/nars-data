@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-17 | TOP SHELF WHIFFERS | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.12 | 1.00 | 1.12 | 0.00 | 0.00 | -77.6 | -flawless, itsXeris, liam202, loof-, zima222 |
-| 2026-09-15 | Samantha 4 | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.12 | 1.00 | 1.12 | 0.13 | 1.12 | +190.5 | -flawless, itsXeris, liam202, loof-, zima222 |
+| 2026-09-15 | Samantha 4 | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.12 | 1.00 | 1.12 | 0.13 | 1.12 | +190.6 | -flawless, itsXeris, liam202, loof-, zima222 |
 | 2026-09-08 | barry pickers | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.12 | 1.00 | 1.09 | 0.00 | 0.00 | -103.6 | -flawless, itsXeris, liam202, loof-, zima222 |
 | 2026-09-06 | HIGHPOINT | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.12 | 1.00 | 1.08 | 0.14 | 1.08 | +15.1 | -flawless, itsXeris, liam202, loof-, zima222 |
 | 2026-09-04 | STIM | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.12 | 1.00 | 1.06 | 0.14 | 1.06 | +120.4 | -flawless, Red_Champion, itsXeris, liam202, loof- |

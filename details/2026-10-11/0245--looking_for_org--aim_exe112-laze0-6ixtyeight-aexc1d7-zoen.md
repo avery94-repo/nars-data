@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-15 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -80.8 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
-| 2026-09-11 | Kodaks Lettuce | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +108.3 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
+| 2026-09-11 | Kodaks Lettuce | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +108.4 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
 | 2026-09-10 | MONARCH | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.11 | 0.99 | +51.9 | 6IXTYEIGHT, Aexc1d7, clrrrr, laze0, zoenn |
 | 2026-09-05 | No Future Lifes Over | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -156.5 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, flowzsq, laze0, zoenn |
 | 2026-09-04 | Tone Setters | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.07 | 0.95 | +144.6 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |

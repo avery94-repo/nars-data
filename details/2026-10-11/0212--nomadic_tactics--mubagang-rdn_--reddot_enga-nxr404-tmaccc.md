@@ -3,15 +3,15 @@ Team Name: Nomadic Tactics
 Roster: MuBaGanG, rdN_-, Reddot_ENGA, nxr404, tMACCCCC
 NARS Rank: 212 of 508
 
-Final Rating: 1477.4
-Seeded Start: 1368.9
-H2H Adjustment: +108.5
+Final Rating: 1477.3
+Seeded Start: 1368.7
+H2H Adjustment: +108.6
 
-Final Rating (1477.4) = Seeded Start (1368.9) + H2H Adjustment (+108.5)
+Final Rating (1477.3) = Seeded Start (1368.7) + H2H Adjustment (+108.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.192 x 1400 = 1368.9
+                = 1100 + 0.192 x 1400 = 1368.7
 
 seed_factor 0.192 = 0.25 x Tier Exposure (0.210) + 0.50 x Quality Wins (0.077) + 0.25 x Opponent Network (0.403)
 
@@ -28,33 +28,33 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.90 | 1.12 | 1.00 | 1.01 | 0.00 | 0.00 | -61.5 | 1000in1, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
 | 2026-08-26 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.12 | 1.00 | 1.00 | 0.00 | 0.00 | -89.3 | Archer1223, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
 | 2026-08-21 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.86 | 1.12 | 1.00 | 0.96 | 0.27 | 0.96 | +50.7 | Reddot_ENGA, ck1337-, nxr404, rdN_-, tMACCCCC |
-| 2026-08-19 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.12 | 1.00 | 0.95 | 0.00 | 0.00 | -149.9 | Reddot_ENGA, argy, ck1337-, nxr404, rdN_- |
+| 2026-08-19 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.12 | 1.00 | 0.94 | 0.00 | 0.00 | -150.0 | Reddot_ENGA, argy, ck1337-, nxr404, rdN_- |
 | 2026-08-14 | ALL IN | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.12 | 1.00 | 0.91 | 0.06 | 0.91 | +14.6 | Reddot_ENGA, argy, nxr404, rdN_-, tMACCCCC |
 | 2026-08-12 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.12 | 1.00 | 0.89 | 0.00 | 0.00 | -114.8 | 1000in1, Reddot_ENGA, ck1337-, rdN_-, tMACCCCC |
-| 2026-08-07 | Team Xtreme | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.12 | 1.00 | 0.86 | 0.00 | 0.00 | -165.6 | 1000in1, Reddot_ENGA, ck1337-, nxr404, rdN_- |
-| 2026-08-05 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.12 | 1.00 | 0.84 | 0.13 | 0.84 | +4.3 | Reddot_ENGA, ck1337-, nxr404, rdN_-, tMACCCCC |
+| 2026-08-07 | Team Xtreme | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.12 | 1.00 | 0.85 | 0.00 | 0.00 | -165.7 | 1000in1, Reddot_ENGA, ck1337-, nxr404, rdN_- |
+| 2026-08-05 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.12 | 1.00 | 0.84 | 0.13 | 0.84 | +4.4 | Reddot_ENGA, ck1337-, nxr404, rdN_-, tMACCCCC |
 | 2026-07-31 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.12 | 1.00 | 0.80 | 0.05 | 0.80 | +0.5 | 1000in1, Reddot_ENGA, ck1337-, nxr404, tMACCCCC |
 | 2026-07-24 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.67 | 1.12 | 1.00 | 0.75 | 0.00 | 0.00 | -329.6 | Reddot_ENGA, ck1337-, nxr404, rdN_-, tMACCCCC |
 | 2026-07-22 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.12 | 1.00 | 0.74 | 0.09 | 0.74 | +0.0 | Reddot_ENGA, ck1337-, nxr404, rdN_-, tMACCCCC |
 | 2026-07-15 | C0re Purple | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.12 | 1.00 | 0.68 | 0.08 | 0.68 | +0.0 | Reddot_ENGA, ck1337-, nxr404, rdN_-, tMACCCCC |
-| 2026-06-18 | Playing for fun | L | 0-2 | ESEA Season 57: North American Finals | C | liquipedia | 0.43 | 1.43 | 1.00 | 0.61 | 0.00 | 0.00 | -156.1 | MuBaGanG, Nxr, Reddot_ENGA, rdN, tMACCCCC |
+| 2026-06-18 | Playing for fun | L | 0-2 | ESEA Season 57: North American Finals | C | liquipedia | 0.43 | 1.43 | 1.00 | 0.61 | 0.00 | 0.00 | -156.3 | MuBaGanG, Nxr, Reddot_ENGA, rdN, tMACCCCC |
 | 2026-06-11 | SPUUKY TO ECL | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.08 | 0.00 | +72.1 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
 | 2026-06-11 | TENTOESDOWN | W | 2-0 | ESEA Season 57: Intermediate Division - North America | C | liquipedia | 0.38 | 1.42 | 1.00 | 0.55 | 0.41 | 0.00 | +89.7 | MuBaGanG, Nxr, Reddot_ENGA, rdN, tMACCCCC |
-| 2026-06-02 | 5Fellas | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -115.7 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
-| 2026-05-31 | Baja Blasters | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.31 | +136.2 | Archer1223, MuBaGanG, Reddot_ENGA, nxr404, rdN_- |
-| 2026-05-29 | the pug jug | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.04 | 0.30 | +104.9 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
+| 2026-06-02 | 5Fellas | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -115.9 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
+| 2026-05-31 | Baja Blasters | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.31 | +136.9 | Archer1223, MuBaGanG, Reddot_ENGA, nxr404, rdN_- |
+| 2026-05-29 | the pug jug | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.04 | 0.30 | +105.1 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
 | 2026-05-27 | Zenano | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +2.0 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
 | 2026-05-22 | 5Fellas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -147.1 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
-| 2026-05-20 | SPUUKY TO ECL | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.05 | 0.24 | +214.6 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
-| 2026-05-15 | MINDTRIP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.01 | 0.20 | +81.1 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
-| 2026-05-13 | Another Victim | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.05 | 0.19 | +182.8 | Archer1223, MuBaGanG, Reddot_ENGA, nxr404, tMACCCCC |
+| 2026-05-20 | SPUUKY TO ECL | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.05 | 0.24 | +214.9 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
+| 2026-05-15 | MINDTRIP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.01 | 0.20 | +80.3 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
+| 2026-05-13 | Another Victim | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.05 | 0.19 | +182.9 | Archer1223, MuBaGanG, Reddot_ENGA, nxr404, tMACCCCC |
 | 2026-05-08 | The Plague | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +267.9 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
 | 2026-05-06 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -227.5 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
-| 2026-05-01 | Friendly Fire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.01 | 0.11 | +252.2 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
+| 2026-05-01 | Friendly Fire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.01 | 0.11 | +252.3 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
 | 2026-04-29 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.02 | 0.10 | +3.2 | Archer1223, MuBaGanG, Reddot_ENGA, nxr404, tMACCCCC |
 | 2026-04-24 | Kushtaka | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.06 | +80.4 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
 | 2026-04-22 | Braindead | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +428.0 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
 | 2026-04-17 | Brick Layers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -438.6 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
-| 2026-04-15 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +197.8 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
+| 2026-04-15 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +197.9 | MuBaGanG, Reddot_ENGA, nxr404, rdN_-, tMACCCCC |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

@@ -4,14 +4,14 @@ Roster: CoolComs, man327, FxRE, CAJUN--, Pose1doNN
 NARS Rank: 14 of 508
 
 Final Rating: 2355.3
-Seeded Start: 2266.1
-H2H Adjustment: +89.2
+Seeded Start: 2266.0
+H2H Adjustment: +89.3
 
-Final Rating (2355.3) = Seeded Start (2266.1) + H2H Adjustment (+89.2)
+Final Rating (2355.3) = Seeded Start (2266.0) + H2H Adjustment (+89.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.833 x 1400 = 2266.1
+                = 1100 + 0.833 x 1400 = 2266.0
 
 seed_factor 0.833 = 0.25 x Tier Exposure (0.930) + 0.50 x Quality Wins (0.706) + 0.25 x Opponent Network (0.990)
 
@@ -43,7 +43,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | DESI BOYZ | L | 1-2 | ESEA Season 58: Advanced Division - North America | C | liquipedia | 1.00 | 1.56 | 1.00 | 1.56 | 0.00 | 0.00 | -17.1 | CAJUN, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-09-07 | CELESTIAL ESPORTS | L | 1-2 | PGL Masters Bucharest 2026: North American Open Qualifier #2 | C | liquipedia | 0.97 | 1.58 | 1.00 | 1.53 | 0.00 | 0.00 | -47.5 | CAJUN, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-09-05 | Playing for fun | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.96 | 1.54 | 1.00 | 1.48 | 0.55 | 1.48 | +13.8 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-09-03 | Fathom Gaming | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.54 | 1.00 | 1.46 | 0.97 | 1.46 | +4.1 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-09-03 | Fathom Gaming | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.94 | 1.54 | 1.00 | 1.46 | 0.97 | 1.46 | +4.1 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-09-02 | GuangdongTigers | L | 1-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 0.00 | 0.00 | -95.6 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-09-01 | DETONATE | L | 0-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.49 | 0.00 | 0.00 | -64.9 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-29 | Chicken Coop | L |  | VRS-tracked 2026-08 | A | vrs | 0.91 | 1.60 | 1.00 | 1.46 | 0.00 | 0.00 | -76.4 | core 3/5 |
@@ -51,10 +51,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | FarmVille | W | 2-0 | ESL Challenger League Season 52: North America - Cup #1 | B | liquipedia | 0.90 | 1.58 | 1.00 | 1.43 | 1.33 | 1.43 | +88.4 | CAJUN, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-27 | INCOGNITO | W | 2-0 | ESL Challenger League Season 52: North America - Cup #1 | B | liquipedia | 0.90 | 1.58 | 1.00 | 1.42 | 0.90 | 0.00 | +24.2 | CAJUN, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-26 | EMPIRE | L | 1-2 | ESL Challenger League Season 52: North America - Cup #1 | B | liquipedia | 0.89 | 1.58 | 1.00 | 1.41 | 0.00 | 0.00 | -104.9 | CAJUN, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-08-25 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.43 | 1.00 | 1.26 | 1.03 | 1.26 | +114.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-08-25 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.43 | 1.00 | 1.27 | 1.03 | 1.27 | +114.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-25 | Another Victim | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.47 | 1.00 | 1.30 | 0.37 | 0.00 | +17.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-08-24 | dice | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.47 | 1.00 | 1.29 | 0.46 | 1.29 | +30.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-08-21 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.43 | 1.00 | 1.23 | 0.00 | 0.00 | -91.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-08-24 | dice | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.47 | 1.00 | 1.29 | 0.45 | 1.29 | +30.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-08-21 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.43 | 1.00 | 1.23 | 0.00 | 0.00 | -91.8 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-20 | Team Skyline | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.47 | 1.00 | 1.25 | 0.44 | 1.25 | +35.1 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-19 | Club 333 | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.43 | 1.00 | 1.21 | 0.80 | 1.21 | +231.2 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-17 | FarmVille | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.47 | 1.00 | 1.22 | 0.00 | 0.00 | -104.4 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
@@ -65,11 +65,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.43 | 1.00 | 1.07 | 0.40 | 0.00 | +121.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-07-31 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.43 | 1.00 | 1.03 | 0.21 | 1.03 | +141.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, Sev |
 | 2026-07-29 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.43 | 1.00 | 1.01 | 0.32 | 1.01 | +1.2 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-07-17 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.43 | 1.00 | 0.89 | 0.32 | 0.89 | +16.8 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-07-17 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.43 | 1.00 | 0.89 | 0.32 | 0.89 | +16.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-07-15 | FRZ Unit | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.43 | 1.00 | 0.87 | 0.00 | 0.00 | -413.9 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-05-03 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.12 | 1.60 | 1.00 | 0.20 | 0.00 | 0.00 | -8.5 | core 3/5 |
-| 2026-05-02 | INCONTROL | W | 2-0 | Thunderpick World Championship 2026: North American Series | B | liquipedia | 0.12 | 1.53 | 1.00 | 0.19 | 0.14 | 0.00 | +306.8 | CAJUN, CoolComs, FxRE, Pose1doNN, Zoker |
-| 2026-05-02 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.12 | 1.60 | 1.00 | 0.19 | 0.00 | 0.00 | -51.5 | core 3/5 |
-| 2026-04-29 | Voca | L |  | VRS-tracked 2026-04 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.00 | 0.00 | -119.5 | core 3/5 |
+| 2026-05-02 | INCONTROL | W | 2-0 | Thunderpick World Championship 2026: North American Series | B | liquipedia | 0.12 | 1.53 | 1.00 | 0.19 | 0.14 | 0.00 | +307.0 | CAJUN, CoolComs, FxRE, Pose1doNN, Zoker |
+| 2026-05-02 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.12 | 1.60 | 1.00 | 0.19 | 0.00 | 0.00 | -51.6 | core 3/5 |
+| 2026-04-29 | Voca | L |  | VRS-tracked 2026-04 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.00 | 0.00 | -119.4 | core 3/5 |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

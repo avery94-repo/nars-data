@@ -3,11 +3,11 @@ Team Name: OnThaGear
 Roster: slimboyardee, d1mebrah, imsuperclpd, Bratty, esjay
 NARS Rank: 355 of 508
 
-Final Rating: 1181.8
+Final Rating: 1181.7
 Seeded Start: 1190.1
-H2H Adjustment: -8.3
+H2H Adjustment: -8.4
 
-Final Rating (1181.8) = Seeded Start (1190.1) + H2H Adjustment (-8.3)
+Final Rating (1181.7) = Seeded Start (1190.1) + H2H Adjustment (-8.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Green Grove Retirement | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -2.4 | -Muck, Bratty, d1mebrah, esjay, slimboyardee |
-| 2026-10-07 | ASCEND | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -128.2 | -Muck, Bratty, d1mebrah, esjay, slimboyardee |
+| 2026-10-07 | ASCEND | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -128.3 | -Muck, Bratty, d1mebrah, esjay, slimboyardee |
 | 2026-09-08 | The Carver Senior Center | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.03 | 1.00 | 1.01 | 0.08 | 1.01 | +130.9 | Bratty, d1mebrah, esjay, imsuperclpd, slimboyardee |
-| 2026-09-06 | Align Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.03 | 1.00 | 1.00 | 0.05 | 1.00 | +139.6 | Bratty, d1mebrah, esjay, imsuperclpd, slimboyardee |
+| 2026-09-06 | Align Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.03 | 1.00 | 1.00 | 0.05 | 1.00 | +139.7 | Bratty, d1mebrah, esjay, imsuperclpd, slimboyardee |
 | 2026-09-02 | Team Nyx | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.00 | 0.00 | -148.2 | Bratty, d1mebrah, esjay, imsuperclpd, slimboyardee |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_
