@@ -1,17 +1,17 @@
 ### Roster Details
 Team Name: pew pew
 Roster: R0cco, jaw, Hoppin, J13, 1HickMEISTER
-NARS Rank: 162 of 506
+NARS Rank: 162 of 505
 
-Final Rating: 1573.4
-Seeded Start: 1220.9
-H2H Adjustment: +352.5
+Final Rating: 1573.6
+Seeded Start: 1220.8
+H2H Adjustment: +352.8
 
-Final Rating (1573.4) = Seeded Start (1220.9) + H2H Adjustment (+352.5)
+Final Rating (1573.6) = Seeded Start (1220.8) + H2H Adjustment (+352.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.086 x 1400 = 1220.9
+                = 1100 + 0.086 x 1400 = 1220.8
 
 seed_factor 0.086 = 0.25 x Tier Exposure (0.053) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.253)
 
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | Trap Castle | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -122.2 | 1HickMEISTER, Fesh-, J13, R0cco, jaw |
+| 2026-09-10 | Trap Castle | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -122.1 | 1HickMEISTER, Fesh-, J13, R0cco, jaw |
 | 2026-09-08 | Vibe Check | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.05 | 0.98 | +96.3 | 1HickMEISTER, J13, R0cco, jaw, neighbor |
 | 2026-09-06 | fiveB | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.10 | 0.96 | +99.4 | Hoppin, J13, R0cco, jaw, neighbor |
 | 2026-09-04 | T Shirt Material | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.07 | 0.95 | +124.2 | Fesh-, Hoppin, J13, R0cco, neighbor |
-| 2026-09-02 | PPWesports | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.10 | 0.94 | +154.8 | 1HickMEISTER, Fesh-, J13, R0cco, neighbor |
+| 2026-09-02 | PPWesports | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.10 | 0.94 | +154.9 | 1HickMEISTER, Fesh-, J13, R0cco, neighbor |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

@@ -1,17 +1,17 @@
 ### Roster Details
 Team Name: MEET THE WALL
 Roster: maxie, Krumpa, _BrX, virulent, ReeeeeLaX-
-NARS Rank: 197 of 506
+NARS Rank: 197 of 505
 
-Final Rating: 1512.5
-Seeded Start: 1196.0
-H2H Adjustment: +316.5 (capped at +-300, raw +316.4)
+Final Rating: 1512.8
+Seeded Start: 1196.2
+H2H Adjustment: +316.6 (capped at +-300, raw +316.5)
 
-Final Rating (1512.5) = Seeded Start (1196.0) + H2H Adjustment (+316.5)
+Final Rating (1512.8) = Seeded Start (1196.2) + H2H Adjustment (+316.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.069 x 1400 = 1196.0
+                = 1100 + 0.069 x 1400 = 1196.2
 
 seed_factor 0.069 = 0.25 x Tier Exposure (0.056) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.197)
 
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-15 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -122.0 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
+| 2026-09-15 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -121.9 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
 | 2026-09-08 | FarmVille | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.00 | 0.00 | -0.1 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
 | 2026-09-07 | GOBLINS | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.07 | 1.01 | +165.7 | Krumpa, ReeeeeLaX-, _BrX, maxie, wAKKa |
 | 2026-09-04 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.05 | 0.99 | +130.9 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent, wAKKa |

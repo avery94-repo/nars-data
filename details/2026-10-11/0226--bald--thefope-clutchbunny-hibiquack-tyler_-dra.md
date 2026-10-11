@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: Bald
 Roster: TheFope, ClutchBunny, hibiquack, tyler_, Drawde
-NARS Rank: 226 of 506
+NARS Rank: 226 of 505
 
-Final Rating: 1457.6
+Final Rating: 1457.2
 Seeded Start: 1302.2
-H2H Adjustment: +155.4
+H2H Adjustment: +155.0
 
-Final Rating (1457.6) = Seeded Start (1302.2) + H2H Adjustment (+155.4)
+Final Rating (1457.2) = Seeded Start (1302.2) + H2H Adjustment (+155.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -28,16 +28,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | flat earth | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -1.9 | ClutchBunny, Drawde, Kwang_, capital2876, hibiquack |
 | 2026-09-04 | Armored Talent | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.26 | 0.95 | +58.3 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
 | 2026-09-02 | Lan Bears | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.13 | 0.00 | +20.2 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
-| 2026-08-21 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.21 | 0.86 | +20.0 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
+| 2026-08-21 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.21 | 0.86 | +20.1 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
 | 2026-08-19 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.11 | 0.84 | +39.8 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
-| 2026-08-16 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -48.2 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
-| 2026-08-14 | StayAtHomeDads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.15 | 0.81 | +57.4 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
-| 2026-08-12 | ball | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -88.9 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
-| 2026-08-07 | WinOut | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -43.1 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
-| 2026-07-31 | TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.04 | 0.72 | +154.6 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
-| 2026-07-29 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -105.9 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
-| 2026-07-24 | Opera | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.08 | 0.67 | +233.7 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
-| 2026-06-04 | BONK | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.34 | 1.04 | 1.00 | 0.35 | 0.00 | 0.00 | -232.0 | ClutchBunny, Drawde, TheFope, atsumori, hibiquack |
-| 2026-05-27 | Big Kahuna Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.04 | 1.00 | 0.30 | 0.02 | 0.30 | +153.9 | ClutchBunny, TheFope, atsumori, hibiquack, tyler_ |
+| 2026-08-16 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -48.3 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
+| 2026-08-14 | StayAtHomeDads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.15 | 0.81 | +57.3 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
+| 2026-08-12 | ball | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -89.0 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
+| 2026-08-07 | WinOut | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -43.3 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
+| 2026-07-31 | TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.04 | 0.72 | +154.5 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
+| 2026-07-29 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -106.0 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
+| 2026-07-24 | Opera | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.08 | 0.67 | +233.6 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
+| 2026-06-04 | BONK | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.34 | 1.05 | 1.00 | 0.35 | 0.00 | 0.00 | -231.8 | ClutchBunny, Drawde, TheFope, atsumori, hibiquack |
+| 2026-05-27 | Big Kahuna Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.30 | 0.02 | 0.30 | +153.9 | ClutchBunny, TheFope, atsumori, hibiquack, tyler_ |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

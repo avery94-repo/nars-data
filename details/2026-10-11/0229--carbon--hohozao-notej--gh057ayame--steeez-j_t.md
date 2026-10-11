@@ -1,0 +1,53 @@
+### Roster Details
+Team Name: Carbon
+Roster: hohozao, notej, -GH057ayame-, steeez, J_T
+NARS Rank: 229 of 505
+
+Final Rating: 1452.0
+Seeded Start: 1328.4
+H2H Adjustment: +123.6
+
+Final Rating (1452.0) = Seeded Start (1328.4) + H2H Adjustment (+123.6)
+
+#### Seeded Start
+Starting rating = 1100 + seed_factor x 1400
+                = 1100 + 0.163 x 1400 = 1328.4
+
+seed_factor 0.163 = 0.25 x Tier Exposure (0.241) + 0.50 x Quality Wins (0.049) + 0.25 x Opponent Network (0.314)
+
+- Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
+- Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
+- Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Matches (25 qualifying)
+Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
+
+| Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
+| :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
+| 2026-09-09 | GuangdongTigers | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.33 | 1.00 | 1.31 | 0.00 | 0.00 | -3.5 | J_T, Trucklover86, hohozao, notej, steeez |
+| 2026-09-07 | BONK | L | 0-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.03 | 1.00 | 1.00 | 0.00 | 0.00 | -143.5 | J_T, graphiteee, hohozao, notej, steeez |
+| 2026-09-04 | O Fire | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.27 | 0.25 | 1.27 | +186.4 | 4379f1da, J_T, hohozao, notej, steeez |
+| 2026-09-04 | absolute cinema | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -8.9 | J_T, graphiteee, hohozao, notej, steeez |
+| 2026-09-02 | Full White | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.96 | 0.13 | 0.96 | +44.8 | J_T, graphiteee, hohozao, notej, steeez |
+| 2026-09-01 | Memeories | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.33 | 1.00 | 1.24 | 0.00 | 0.00 | -16.4 | -GH057ayame-, J_T, hohozao, notej, steeez |
+| 2026-08-28 | ORCA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.90 | 1.02 | 1.00 | 0.92 | 0.16 | 0.92 | +61.2 | -GH057ayame-, J_T, hohozao, notej, steeez |
+| 2026-08-26 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.00 | 0.00 | -31.3 | -GH057ayame-, J_T, hohozao, notej, steeez |
+| 2026-08-21 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.87 | 0.10 | 0.87 | +95.6 | -GH057ayame-, J_T, hohozao, notej, steeez |
+| 2026-08-19 | my life be like | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.86 | 0.00 | 0.00 | -3.0 | -GH057ayame-, J_T, hohozao, notej, steeez |
+| 2026-08-17 | SPUUKY TO ECL | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -61.5 | -GH057ayame-, gTurrbo, hohozao, notej, steeez |
+| 2026-08-12 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.02 | 1.00 | 0.81 | 0.11 | 0.00 | +165.6 | -GH057ayame-, J_T, hohozao, notej, steeez |
+| 2026-08-09 | Wuff Widas | L |  | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.78 | 1.23 | 1.00 | 0.95 | 0.00 | 0.00 | -76.4 | -GH057ayame-, gTurrbo, hohozao, notej, steeez |
+| 2026-08-05 | Lops Bakery | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -3.4 | -GH057ayame-, gTurrbo, hohozao, notej, steeez |
+| 2026-07-31 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.02 | 1.00 | 0.73 | 0.00 | 0.00 | -0.3 | -GH057ayame-, gTurrbo, hohozao, notej, steeez |
+| 2026-07-29 | Wide Open | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.72 | 0.00 | 0.00 | -2.3 | -GH057ayame-, gTurrbo, notej, shige, steeez |
+| 2026-07-23 | team_Yuvertington | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.02 | 1.00 | 0.68 | 0.05 | 0.68 | +477.1 | -GH057ayame-, gTurrbo, notej, shige, steeez |
+| 2026-05-22 | BucketJonsBoys | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.15 | 1.00 | 0.29 | 0.00 | 0.00 | -2.3 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
+| 2026-05-21 | Kaos | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.15 | 1.00 | 0.28 | 0.00 | 0.00 | -30.2 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
+| 2026-05-21 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.15 | 1.00 | 0.28 | 0.00 | 0.00 | -1.3 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
+| 2026-05-08 | Afterimage | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -1.5 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
+| 2026-05-06 | Pro Lapse | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -135.0 | -GH057ayame-, J_T, graphiteee, notej, steeez |
+| 2026-04-27 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -0.0 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
+| 2026-04-24 | Courage | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.00 | -405.4 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
+| 2026-04-22 | The Homies | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.01 | 0.06 | +19.1 | -GH057ayame-, J_T, graphiteee, notej, steeez |
+
+_Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

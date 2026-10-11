@@ -1,17 +1,17 @@
 ### Roster Details
 Team Name: MONARCH
 Roster: Fraq, hotel, chr-1s, SnakeG9, 1Bash
-NARS Rank: 338 of 506
+NARS Rank: 338 of 505
 
-Final Rating: 1216.1
-Seeded Start: 1210.3
+Final Rating: 1216.0
+Seeded Start: 1210.2
 H2H Adjustment: +5.8
 
-Final Rating (1216.1) = Seeded Start (1210.3) + H2H Adjustment (+5.8)
+Final Rating (1216.0) = Seeded Start (1210.2) + H2H Adjustment (+5.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.079 x 1400 = 1210.3
+                = 1100 + 0.079 x 1400 = 1210.2
 
 seed_factor 0.079 = 0.25 x Tier Exposure (0.107) + 0.50 x Quality Wins (0.009) + 0.25 x Opponent Network (0.190)
 
@@ -25,10 +25,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-08 | APEX | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -91.4 | 1Bash, Fraq, SnakeG9, chr-1s, hotel |
-| 2026-09-10 | LOOKING FOR ORG | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -43.6 | -Jincks, 1Bash, Fraq, SnakeG9, chr-1s, hotel |
-| 2026-09-08 | Uncs United | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.05 | 0.98 | +29.5 | 1Bash, 43O4, Fraq, SnakeG9, chr-1s, hotel |
-| 2026-09-06 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.05 | 0.96 | +35.6 | -Jincks, 1Bash, Fraq, Neido, chr-1s |
+| 2026-09-10 | LOOKING FOR ORG | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -43.8 | -Jincks, 1Bash, Fraq, SnakeG9, chr-1s, hotel |
+| 2026-09-08 | Uncs United | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.05 | 0.98 | +29.6 | 1Bash, 43O4, Fraq, SnakeG9, chr-1s, hotel |
+| 2026-09-06 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.05 | 0.96 | +35.7 | -Jincks, 1Bash, Fraq, Neido, chr-1s |
 | 2026-09-04 | deez | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -69.2 | 1Bash, Fraq, Neido, SnakeG9, hotel |
-| 2026-09-02 | Ablert and Co | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +144.8 | 1Bash, 43O4, Fraq, SnakeG9, hotel |
+| 2026-09-02 | Ablert and Co | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +144.9 | 1Bash, 43O4, Fraq, SnakeG9, hotel |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

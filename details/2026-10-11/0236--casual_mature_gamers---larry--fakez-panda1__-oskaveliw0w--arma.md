@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: Casual Mature Gamers
 Roster: -larry, -fakez, Panda1__, OSKAVELIw0w-, armali
-NARS Rank: 236 of 506
+NARS Rank: 236 of 505
 
-Final Rating: 1439.7
+Final Rating: 1439.8
 Seeded Start: 1247.4
-H2H Adjustment: +192.3
+H2H Adjustment: +192.4
 
-Final Rating (1439.7) = Seeded Start (1247.4) + H2H Adjustment (+192.3)
+Final Rating (1439.8) = Seeded Start (1247.4) + H2H Adjustment (+192.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
