@@ -3,11 +3,11 @@ Team Name: Green Grove Retirement
 Roster: Messy, Corvinelli9, Striker_Sly, kstew_, TSQRD
 NARS Rank: 103 of 505
 
-Final Rating: 1740.6
+Final Rating: 1740.9
 Seeded Start: 1323.3
-H2H Adjustment: +417.3 (capped at +-300, raw +417.2)
+H2H Adjustment: +417.6
 
-Final Rating (1740.6) = Seeded Start (1323.3) + H2H Adjustment (+417.3)
+Final Rating (1740.9) = Seeded Start (1323.3) + H2H Adjustment (+417.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,8 +26,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | OnThaGear | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +2.7 | Corvinelli9, Messy, Striker_Sly, TSQRD, kstew_ |
 | 2026-09-20 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -36.1 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |
-| 2026-09-19 | ODIN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.11 | 1.03 | +59.7 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |
-| 2026-09-18 | CashApp100toPBPClumForFFW | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.06 | 1.03 | +68.6 | Corvinelli9, Messy, Striker_Sly, TSQRD, fuhlexer |
+| 2026-09-19 | ODIN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.11 | 1.03 | +59.8 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |
+| 2026-09-18 | CashApp100toPBPClumForFFW | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.06 | 1.03 | +68.8 | Corvinelli9, Messy, Striker_Sly, TSQRD, fuhlexer |
 | 2026-09-10 | Swole Patrol | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.99 | 1.03 | 1.00 | 1.02 | 0.00 | 0.00 | -41.5 | Messy, Striker_Sly, TSQRD, fuhlexer, kstew_ |
 | 2026-09-08 | Alternate Earth | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.03 | 1.00 | 1.01 | 0.11 | 1.01 | +80.8 | Corvinelli9, Messy, Striker_Sly, TSQRD, kstew_ |
 | 2026-09-06 | No Excuses | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.05 | 0.99 | +110.7 | Corvinelli9, Messy, TSQRD, intoxify, kstew_ |

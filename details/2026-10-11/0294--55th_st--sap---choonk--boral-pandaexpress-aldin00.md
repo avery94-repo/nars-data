@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | PogSquad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +155.2 | PandaExpress, Sap--, aldin00, boral, choonk- |
-| 2026-10-07 | Grandpa Berets | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -268.4 | PandaExpress, Sap--, aldin00, boral, choonk- |
-| 2026-09-12 | Team Nyx | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -116.3 | PandaExpress, Sap--, aldin00, boral, choonk- |
-| 2026-09-10 | 99 Thieves | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.99 | 1.03 | 1.00 | 1.02 | 0.16 | 1.02 | +53.9 | PandaExpress, Sap--, aldin00, boral, choonk- |
+| 2026-10-07 | Grandpa Berets | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -268.5 | PandaExpress, Sap--, aldin00, boral, choonk- |
+| 2026-09-12 | Team Nyx | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -116.4 | PandaExpress, Sap--, aldin00, boral, choonk- |
+| 2026-09-10 | 99 Thieves | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.99 | 1.03 | 1.00 | 1.02 | 0.16 | 1.02 | +54.0 | PandaExpress, Sap--, aldin00, boral, choonk- |
 | 2026-09-06 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.00 | 0.00 | -13.7 | Dill-, Sap--, aldin00, boral, choonk- |
 | 2026-09-04 | Perseverance | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.05 | 0.98 | +112.1 | PandaExpress, Sap--, aldin00, boral, choonk- |
 | 2026-09-02 | BDE | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.05 | 0.97 | +135.0 | PandaExpress, Sap--, aldin00, boral, choonk- |

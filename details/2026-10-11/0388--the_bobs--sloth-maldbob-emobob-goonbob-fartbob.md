@@ -3,15 +3,15 @@ Team Name: The Bobs
 Roster: sloth, maldbob, emobob, goonbob, fartbob
 NARS Rank: 388 of 505
 
-Final Rating: 1119.1
-Seeded Start: 1111.0
-H2H Adjustment: +8.1
+Final Rating: 1118.8
+Seeded Start: 1110.9
+H2H Adjustment: +7.9
 
-Final Rating (1119.1) = Seeded Start (1111.0) + H2H Adjustment (+8.1)
+Final Rating (1118.8) = Seeded Start (1110.9) + H2H Adjustment (+7.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.008 x 1400 = 1111.0
+                = 1100 + 0.008 x 1400 = 1110.9
 
 seed_factor 0.008 = 0.25 x Tier Exposure (0.015) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.011)
 
@@ -24,15 +24,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-21 | Resurgence | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.15 | 1.00 | 0.28 | 0.00 | 0.00 | -106.7 | emobob, fartbob, goonbob, maldbob, sloth |
-| 2026-05-20 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.15 | 1.00 | 0.27 | 0.00 | 0.00 | -6.8 | emobob, fartbob, goonbob, maldbob, neverhappi |
-| 2026-05-13 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.00 | 0.00 | -223.2 | emobob, fartbob, goonbob, maldbob, neverhappi |
-| 2026-05-06 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -147.3 | emobob, fartbob, goonbob, maldbob, sloth |
-| 2026-05-01 | Team Xtreme | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -25.4 | emobob, fartbob, goonbob, maldbob, sloth |
-| 2026-04-29 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -178.6 | emobob, fartbob, goonbob, maldbob, sloth |
-| 2026-04-27 | NXG Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.10 | 0.02 | 0.10 | +20.9 | Pollar, emobob, fartbob, goonbob, sloth |
-| 2026-04-22 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.02 | 0.06 | +356.3 | emobob, fartbob, goonbob, neverhappi, sloth |
-| 2026-04-17 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +324.6 | emobob, fartbob, goonbob, maldbob, sloth |
-| 2026-04-15 | MASTER ONE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.15 | 1.00 | 0.01 | 0.00 | 0.00 | -5.7 | Pollar, fartbob, goonbob, maldbob, sloth |
+| 2026-05-21 | Resurgence | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.14 | 1.00 | 0.28 | 0.00 | 0.00 | -107.1 | emobob, fartbob, goonbob, maldbob, sloth |
+| 2026-05-20 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.14 | 1.00 | 0.27 | 0.00 | 0.00 | -6.8 | emobob, fartbob, goonbob, maldbob, neverhappi |
+| 2026-05-13 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.14 | 1.00 | 0.22 | 0.00 | 0.00 | -222.7 | emobob, fartbob, goonbob, maldbob, neverhappi |
+| 2026-05-06 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.14 | 1.00 | 0.16 | 0.00 | 0.00 | -147.5 | emobob, fartbob, goonbob, maldbob, sloth |
+| 2026-05-01 | Team Xtreme | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.14 | 1.00 | 0.12 | 0.00 | 0.00 | -25.4 | emobob, fartbob, goonbob, maldbob, sloth |
+| 2026-04-29 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.14 | 1.00 | 0.11 | 0.00 | 0.00 | -178.8 | emobob, fartbob, goonbob, maldbob, sloth |
+| 2026-04-27 | NXG Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.14 | 1.00 | 0.09 | 0.02 | 0.09 | +20.8 | Pollar, emobob, fartbob, goonbob, sloth |
+| 2026-04-22 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.14 | 1.00 | 0.06 | 0.02 | 0.06 | +356.4 | emobob, fartbob, goonbob, neverhappi, sloth |
+| 2026-04-17 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.02 | 0.00 | 0.02 | +324.8 | emobob, fartbob, goonbob, maldbob, sloth |
+| 2026-04-15 | MASTER ONE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.14 | 1.00 | 0.01 | 0.00 | 0.00 | -5.7 | Pollar, fartbob, goonbob, maldbob, sloth |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

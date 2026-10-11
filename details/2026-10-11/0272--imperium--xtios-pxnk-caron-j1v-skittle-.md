@@ -3,15 +3,15 @@ Team Name: Imperium
 Roster: xtios, pxnk, caron, j1v, skittle-
 NARS Rank: 272 of 505
 
-Final Rating: 1366.2
-Seeded Start: 1164.4
-H2H Adjustment: +201.8
+Final Rating: 1366.4
+Seeded Start: 1164.0
+H2H Adjustment: +202.4
 
-Final Rating (1366.2) = Seeded Start (1164.4) + H2H Adjustment (+201.8)
+Final Rating (1366.4) = Seeded Start (1164.0) + H2H Adjustment (+202.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.046 x 1400 = 1164.4
+                = 1100 + 0.046 x 1400 = 1164.0
 
 seed_factor 0.046 = 0.25 x Tier Exposure (0.066) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.090)
 
@@ -24,18 +24,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-16 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.46 | 1.00 | 0.90 | 0.00 | 0.00 | -338.9 | Usotsuki, caron, pxnk, skittle-, xtios |
-| 2026-07-15 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.46 | 1.00 | 0.89 | 0.13 | 0.89 | +387.4 | Usotsuki, caron, pxnk, skittle-, xtios |
-| 2026-05-21 | Smokepoint | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.35 | 1.00 | 0.33 | 0.08 | 0.33 | +310.6 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-05-14 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.35 | 1.00 | 0.27 | 0.00 | 0.00 | -43.8 | Usotsuki, caron, j1v, pxnk, skittle-, xtios |
-| 2026-05-12 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -63.8 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-05-06 | Beneath Reality | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.19 | 0.00 | 0.00 | -171.1 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-05-05 | Memeories | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -173.9 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-04-30 | LAG | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.35 | 1.00 | 0.14 | 0.00 | 0.00 | -1.0 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-04-28 | Baatarz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.00 | -82.0 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-04-23 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.35 | 1.00 | 0.08 | 0.02 | 0.08 | +64.1 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-04-22 | Digital Show | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.35 | 1.00 | 0.07 | 0.00 | 0.07 | +392.0 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-04-20 | Olympus | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -0.4 | Usotsuki, caron, j1v, pxnk, skittle- |
-| 2026-04-16 | The Holy Squid Empire | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.35 | 1.00 | 0.01 | 0.00 | 0.00 | -77.3 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-07-16 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.45 | 1.00 | 0.89 | 0.00 | 0.00 | -339.0 | Usotsuki, caron, pxnk, skittle-, xtios |
+| 2026-07-15 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.45 | 1.00 | 0.89 | 0.13 | 0.89 | +387.7 | Usotsuki, caron, pxnk, skittle-, xtios |
+| 2026-05-21 | Smokepoint | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.36 | 1.00 | 0.33 | 0.08 | 0.33 | +311.5 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-05-14 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.36 | 1.00 | 0.27 | 0.00 | 0.00 | -43.9 | Usotsuki, caron, j1v, pxnk, skittle-, xtios |
+| 2026-05-12 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.36 | 1.00 | 0.25 | 0.00 | 0.00 | -64.1 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-05-06 | Beneath Reality | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.36 | 1.00 | 0.19 | 0.00 | 0.00 | -170.8 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-05-05 | Memeories | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.36 | 1.00 | 0.18 | 0.00 | 0.00 | -174.2 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-04-30 | LAG | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.36 | 1.00 | 0.14 | 0.00 | 0.00 | -1.1 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-04-28 | Baatarz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.36 | 1.00 | 0.12 | 0.00 | 0.00 | -82.0 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-04-23 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.36 | 1.00 | 0.08 | 0.01 | 0.08 | +64.5 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-04-22 | Digital Show | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.36 | 1.00 | 0.07 | 0.00 | 0.07 | +392.2 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-04-20 | Olympus | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.36 | 1.00 | 0.05 | 0.00 | 0.00 | -0.4 | Usotsuki, caron, j1v, pxnk, skittle- |
+| 2026-04-16 | The Holy Squid Empire | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.36 | 1.00 | 0.01 | 0.00 | 0.00 | -78.0 | caron, j1v, pxnk, skittle-, xtios |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

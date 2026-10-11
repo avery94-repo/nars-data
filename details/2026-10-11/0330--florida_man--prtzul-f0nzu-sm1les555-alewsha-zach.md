@@ -3,15 +3,15 @@ Team Name: Florida Man
 Roster: Prtzul, F0nzu, sM1les555, Alewsha, Zach
 NARS Rank: 330 of 505
 
-Final Rating: 1227.4
-Seeded Start: 1297.2
-H2H Adjustment: -69.8
+Final Rating: 1227.5
+Seeded Start: 1296.9
+H2H Adjustment: -69.4
 
-Final Rating (1227.4) = Seeded Start (1297.2) + H2H Adjustment (-69.8)
+Final Rating (1227.5) = Seeded Start (1296.9) + H2H Adjustment (-69.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.141 x 1400 = 1297.2
+                = 1100 + 0.141 x 1400 = 1296.9
 
 seed_factor 0.141 = 0.25 x Tier Exposure (0.143) + 0.50 x Quality Wins (0.039) + 0.25 x Opponent Network (0.342)
 
@@ -25,33 +25,33 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Lops Bakery | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.01 | 1.00 | 1.01 | 0.00 | 0.00 | -71.7 | Prtzul, Zach, blessa, dadjorts, sM1les555 |
-| 2026-10-07 | Read You Like a Kindle | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.01 | 1.00 | 1.01 | 0.00 | 0.00 | -28.4 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
-| 2026-08-28 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.90 | 1.14 | 1.00 | 1.03 | 0.14 | 1.03 | +91.5 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
-| 2026-08-26 | Pugging4Pumpkin | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.14 | 1.00 | 1.02 | 0.00 | 0.00 | -54.8 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
+| 2026-10-07 | Read You Like a Kindle | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.01 | 1.00 | 1.01 | 0.00 | 0.00 | -28.3 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
+| 2026-08-28 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.90 | 1.14 | 1.00 | 1.03 | 0.13 | 1.03 | +91.6 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
+| 2026-08-26 | Pugging4Pumpkin | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.14 | 1.00 | 1.02 | 0.00 | 0.00 | -55.0 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
 | 2026-08-21 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.86 | 1.14 | 1.00 | 0.98 | 0.00 | 0.00 | -37.6 | Alewsha, F0nzu, Prtzul, blessa, sM1les555 |
 | 2026-08-19 | C0re Purple | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.14 | 1.00 | 0.96 | 0.12 | 0.96 | +3.2 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
-| 2026-08-14 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.14 | 1.00 | 0.93 | 0.07 | 0.93 | +58.9 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
+| 2026-08-14 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.14 | 1.00 | 0.93 | 0.06 | 0.93 | +58.9 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
 | 2026-08-12 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.14 | 1.00 | 0.91 | 0.11 | 0.91 | +35.4 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
-| 2026-08-07 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.14 | 1.00 | 0.87 | 0.00 | 0.00 | -68.4 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
-| 2026-08-05 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.14 | 1.00 | 0.86 | 0.00 | 0.00 | -46.5 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
+| 2026-08-07 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.14 | 1.00 | 0.87 | 0.00 | 0.00 | -68.5 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
+| 2026-08-05 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.14 | 1.00 | 0.86 | 0.00 | 0.00 | -46.7 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
 | 2026-07-31 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.14 | 1.00 | 0.82 | 0.00 | 0.00 | -33.2 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
-| 2026-07-29 | Chuck E Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.14 | 1.00 | 0.80 | 0.00 | 0.00 | -122.5 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
-| 2026-07-17 | Malevolent EC | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.14 | 1.00 | 0.71 | 0.00 | 0.00 | -23.4 | Alewsha, F0nzu, Prtzul, Zach, blessa |
-| 2026-07-15 | Moose | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.14 | 1.00 | 0.70 | 0.00 | 0.00 | -28.0 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
-| 2026-06-07 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.09 | 0.36 | +179.6 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
-| 2026-06-03 | team_Yuvertington | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -160.0 | Alewsha, Prtzul, Zach, sM1les555, skrimp |
-| 2026-05-29 | Wide Swinging Wizards | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.02 | 0.30 | +298.8 | Alewsha, F0nzu, Prtzul, sM1les555, skrimp |
-| 2026-05-27 | Costco Family | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.05 | 0.28 | +326.6 | F0nzu, LukieD, Prtzul, sM1les555, skrimp |
-| 2026-05-22 | strawberry poptarts | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -52.9 | Alewsha, F0nzu, Kikiinn, LukieD, Prtzul |
-| 2026-05-14 | Bad Jawn | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -136.2 | Alewsha, Prtzul, Zach, sM1les555, skrimp |
-| 2026-05-13 | Feels MAIN Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -262.3 | Alewsha, LukieD, Prtzul, Zach, skrimp |
+| 2026-07-29 | Chuck E Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.14 | 1.00 | 0.80 | 0.00 | 0.00 | -122.8 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
+| 2026-07-17 | Malevolent EC | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.14 | 1.00 | 0.71 | 0.00 | 0.00 | -23.5 | Alewsha, F0nzu, Prtzul, Zach, blessa |
+| 2026-07-15 | Moose | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.14 | 1.00 | 0.70 | 0.00 | 0.00 | -28.3 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
+| 2026-06-07 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.09 | 0.36 | +179.7 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
+| 2026-06-03 | team_Yuvertington | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -160.4 | Alewsha, Prtzul, Zach, sM1les555, skrimp |
+| 2026-05-29 | Wide Swinging Wizards | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.02 | 0.30 | +298.9 | Alewsha, F0nzu, Prtzul, sM1les555, skrimp |
+| 2026-05-27 | Costco Family | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.05 | 0.28 | +326.5 | F0nzu, LukieD, Prtzul, sM1les555, skrimp |
+| 2026-05-22 | strawberry poptarts | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -54.7 | Alewsha, F0nzu, Kikiinn, LukieD, Prtzul |
+| 2026-05-14 | Bad Jawn | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -132.9 | Alewsha, Prtzul, Zach, sM1les555, skrimp |
+| 2026-05-13 | Feels MAIN Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -262.0 | Alewsha, LukieD, Prtzul, Zach, skrimp |
 | 2026-05-08 | CVC Retirement | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +9.0 | Alewsha, Kikiinn, LukieD, Prtzul, Zach |
-| 2026-05-06 | MakeYouSayLate | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.03 | 0.14 | +6.5 | F0nzu, LukieD, Prtzul, Zach, skrimp |
-| 2026-05-01 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.02 | 0.11 | +259.9 | F0nzu, JimmersTR, Prtzul, Zach, skrimp |
-| 2026-04-29 | team_Yuvertington | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -21.4 | Alewsha, LukieD, Prtzul, Zach, skrimp |
-| 2026-04-24 | Costco Family | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -210.2 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
-| 2026-04-22 | NATIONAL CS UNI | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.01 | 0.05 | +202.1 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
-| 2026-04-17 | Strafe Cru | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -426.4 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
-| 2026-04-15 | The Ohio Meat Wagon | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +242.4 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
+| 2026-05-06 | MakeYouSayLate | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.03 | 0.14 | +6.4 | F0nzu, LukieD, Prtzul, Zach, skrimp |
+| 2026-05-01 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.02 | 0.11 | +260.2 | F0nzu, JimmersTR, Prtzul, Zach, skrimp |
+| 2026-04-29 | team_Yuvertington | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -21.3 | Alewsha, LukieD, Prtzul, Zach, skrimp |
+| 2026-04-24 | Costco Family | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -210.4 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
+| 2026-04-22 | NATIONAL CS UNI | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.01 | 0.05 | +202.2 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
+| 2026-04-17 | Strafe Cru | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -426.5 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
+| 2026-04-15 | The Ohio Meat Wagon | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +242.5 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

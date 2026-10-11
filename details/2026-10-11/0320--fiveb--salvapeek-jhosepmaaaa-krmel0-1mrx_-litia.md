@@ -3,11 +3,11 @@ Team Name: fiveB
 Roster: salvapeek, JhosepmAAAA, KrMel0, 1mrx_, Litiag4
 NARS Rank: 320 of 505
 
-Final Rating: 1253.8
+Final Rating: 1253.6
 Seeded Start: 1187.4
-H2H Adjustment: +66.4
+H2H Adjustment: +66.2
 
-Final Rating (1253.8) = Seeded Start (1187.4) + H2H Adjustment (+66.4)
+Final Rating (1253.6) = Seeded Start (1187.4) + H2H Adjustment (+66.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,8 +25,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Fire Nation | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -6.3 | 4MoB, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
-| 2026-09-10 | TELETUBEASTS | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -94.9 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4 |
-| 2026-09-06 | pew pew | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -99.4 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
+| 2026-09-10 | TELETUBEASTS | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -95.1 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4 |
+| 2026-09-06 | pew pew | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -99.5 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
 | 2026-09-04 | Team Zhao | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.10 | 0.95 | +122.8 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4 |
 | 2026-09-02 | TeamFlashGaming | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +144.3 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
 

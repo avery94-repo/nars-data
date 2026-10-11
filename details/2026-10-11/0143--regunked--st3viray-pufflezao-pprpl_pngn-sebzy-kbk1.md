@@ -3,15 +3,15 @@ Team Name: regunked
 Roster: st3viray, Pufflezao, pprpl_pngn, sebzy, kbk1337
 NARS Rank: 143 of 505
 
-Final Rating: 1630.6
-Seeded Start: 1230.7
-H2H Adjustment: +399.9
+Final Rating: 1630.7
+Seeded Start: 1230.6
+H2H Adjustment: +400.1 (capped at +-300, raw +400.0)
 
-Final Rating (1630.6) = Seeded Start (1230.7) + H2H Adjustment (+399.9)
+Final Rating (1630.7) = Seeded Start (1230.6) + H2H Adjustment (+400.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.093 x 1400 = 1230.7
+                = 1100 + 0.093 x 1400 = 1230.6
 
 seed_factor 0.093 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.015) + 0.25 x Opponent Network (0.274)
 
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-16 | Over 30 | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -95.3 | Pufflezao, kbk1337, pprpl_pngn, sebzy, st3viray |
-| 2026-09-11 | Beam Tinky | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +63.9 | Pufflezao, Rubix, kbk1337, sebzy, st3viray |
-| 2026-09-09 | BD Lamron | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +115.9 | Pufflezao, Rubix, kbk1337, sebzy, st3viray |
-| 2026-09-04 | The Old Folks | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.06 | 0.95 | +93.6 | Pufflezao, Rubix, kbk1337, pprpl_pngn, sebzy, st3viray |
+| 2026-09-16 | Over 30 | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -95.4 | Pufflezao, kbk1337, pprpl_pngn, sebzy, st3viray |
+| 2026-09-11 | Beam Tinky | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +64.0 | Pufflezao, Rubix, kbk1337, sebzy, st3viray |
+| 2026-09-09 | BD Lamron | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +116.0 | Pufflezao, Rubix, kbk1337, sebzy, st3viray |
+| 2026-09-04 | The Old Folks | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.06 | 0.95 | +93.7 | Pufflezao, Rubix, kbk1337, pprpl_pngn, sebzy, st3viray |
 | 2026-09-02 | Escalate Academy | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +61.1 | Pufflezao, kbk1337, pprpl_pngn, sebzy, st3viray |
-| 2026-05-27 | Silver Foxes | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +160.6 | DangoCSGO, Pufflezao, kbk1337, sebzy, st3viray |
+| 2026-05-27 | Silver Foxes | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +160.7 | DangoCSGO, Pufflezao, kbk1337, sebzy, st3viray |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

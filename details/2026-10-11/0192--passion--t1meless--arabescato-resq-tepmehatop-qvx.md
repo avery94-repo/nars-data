@@ -3,11 +3,11 @@ Team Name: Passion
 Roster: T1meless-, Arabescato, resQ, TEPMEHATOP, qvxzxr
 NARS Rank: 192 of 505
 
-Final Rating: 1521.7
+Final Rating: 1521.3
 Seeded Start: 1245.7
-H2H Adjustment: +276.0
+H2H Adjustment: +275.6
 
-Final Rating (1521.7) = Seeded Start (1245.7) + H2H Adjustment (+276.0)
+Final Rating (1521.3) = Seeded Start (1245.7) + H2H Adjustment (+275.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Native | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.13 | 1.00 | +0.1 | Arabescato, T1meless-, TEPMEHATOP, executexd, resQ |
-| 2026-10-07 | ReGen | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +151.1 | Arabescato, T1meless-, executexd, janiim, resQ |
-| 2026-09-15 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -118.3 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
-| 2026-09-12 | Team Zhao | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +149.2 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
+| 2026-10-07 | ReGen | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +151.3 | Arabescato, T1meless-, executexd, janiim, resQ |
+| 2026-09-15 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -118.1 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
+| 2026-09-12 | Team Zhao | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +148.3 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
 | 2026-09-06 | VARTOVIK | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -105.0 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
 | 2026-09-04 | Feudal Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.05 | 0.95 | +198.9 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
 
