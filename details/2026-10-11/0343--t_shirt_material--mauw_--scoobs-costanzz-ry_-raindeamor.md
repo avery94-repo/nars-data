@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: T Shirt Material
 Roster: Mauw_, -scoobs, CoStanzz, Ry_, Raindeamor
-NARS Rank: 343 of 507
+NARS Rank: 343 of 508
 
-Final Rating: 1207.5
+Final Rating: 1207.4
 Seeded Start: 1182.6
-H2H Adjustment: +24.9
+H2H Adjustment: +24.8
 
-Final Rating (1207.5) = Seeded Start (1182.6) + H2H Adjustment (+24.9)
+Final Rating (1207.4) = Seeded Start (1182.6) + H2H Adjustment (+24.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,12 +24,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | Team Zhao | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -100.3 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
+| 2026-09-08 | Team Zhao | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -100.4 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
 | 2026-09-07 | Bottom Fraggers Anonymous | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.05 | 0.97 | +91.5 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
 | 2026-09-04 | pew pew | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -124.0 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
 | 2026-09-02 | GOD SPEED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +140.7 | -scoobs, CoStanzz, Mauw_, Raindeamor, Ry_ |
-| 2026-06-12 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -38.3 | CoStanzz, Mauw_, Raindeamor, Ry_, mylesG_ |
+| 2026-06-12 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -38.4 | CoStanzz, Mauw_, Raindeamor, Ry_, mylesG_ |
 | 2026-06-03 | It Doesnt Matter | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -187.3 | -Kibe-, CoStanzz, Mauw_, Raindeamor, Ry_ |
-| 2026-05-27 | DEFEAT | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.04 | 0.29 | +242.7 | -Kibe-, CoStanzz, Mauw_, Raindeamor, Ry_ |
+| 2026-05-27 | DEFEAT | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.04 | 0.28 | +242.5 | -Kibe-, CoStanzz, Mauw_, Raindeamor, Ry_ |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

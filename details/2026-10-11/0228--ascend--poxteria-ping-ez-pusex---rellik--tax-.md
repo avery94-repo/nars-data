@@ -1,19 +1,19 @@
 ### Roster Details
 Team Name: ASCEND
 Roster: Poxteria, PiNG-ez, pusEx-, -RelliK-, tax-
-NARS Rank: 228 of 507
+NARS Rank: 228 of 508
 
-Final Rating: 1451.1
-Seeded Start: 1394.5
-H2H Adjustment: +56.6
+Final Rating: 1450.1
+Seeded Start: 1392.3
+H2H Adjustment: +57.8
 
-Final Rating (1451.1) = Seeded Start (1394.5) + H2H Adjustment (+56.6)
+Final Rating (1450.1) = Seeded Start (1392.3) + H2H Adjustment (+57.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.210 x 1400 = 1394.5
+                = 1100 + 0.209 x 1400 = 1392.3
 
-seed_factor 0.210 = 0.25 x Tier Exposure (0.322) + 0.50 x Quality Wins (0.093) + 0.25 x Opponent Network (0.333)
+seed_factor 0.209 = 0.25 x Tier Exposure (0.319) + 0.50 x Quality Wins (0.091) + 0.25 x Opponent Network (0.333)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,19 +24,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-07 | OnThaGear | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +126.6 | Irneso, Poxteria, pusEx-, tax-, trustythedoe |
+| 2026-10-07 | OnThaGear | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +126.9 | Irneso, Poxteria, pusEx-, tax-, trustythedoe |
 | 2026-10-02 | Tryzub Gaming | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | +13.7 | Irneso, Poxteria, pusEx-, tax-, trustythedoe |
-| 2026-09-26 | SwagMonkeyHats | L |  | SOFLO SLAM 3 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -121.4 | Irneso, Poxteria, pusEx-, tax-, trustythedoe |
-| 2026-09-14 | ENCE PROSPECTS | L | 0-2 | United21 Season 55 | C | liquipedia | 1.00 | 1.56 | 1.00 | 1.56 | 0.00 | 0.00 | -3.6 | Av3ntura, ER1CK, GOYO007, KaonGod, Shed0Z, fix, kr0wa, m0t11-, padorro |
-| 2026-09-10 | IC PROSPECT | L | 0-2 | United21 Season 55 | C | liquipedia | 0.99 | 1.56 | 1.00 | 1.55 | 0.00 | 0.00 | -3.7 | Av3ntura, ER1CK, GOYO007, KaonGod, Shed0Z, fix, kr0wa, m0t11-, padorro |
-| 2026-09-10 | WhiteBoy Winter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.99 | 1.05 | 1.00 | 1.04 | 0.00 | 0.00 | -135.2 | -RelliK-, PiNG-ez, Poxteria, pusEx-, tax- |
-| 2026-09-09 | Afterimage | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.40 | 1.00 | 1.38 | 0.00 | 0.00 | -114.9 | -RelliK-, 5c4f1d9d, PiNG-ez, Poxteria, tax- |
-| 2026-09-08 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.05 | 1.00 | 1.03 | 0.06 | 1.03 | +12.5 | -RelliK-, PiNG-ez, Poxteria, pusEx-, tax- |
-| 2026-09-06 | SINQU REHTI | W | 2-1 | United21 Season 55 | C | liquipedia | 0.97 | 1.56 | 1.00 | 1.51 | 1.13 | 0.00 | +272.1 | Av3ntura, ER1CK, GOYO007, KaonGod, Shed0Z, fix, kr0wa, m0t11-, padorro |
-| 2026-09-06 | Against Odds | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.05 | 1.00 | 1.01 | 0.06 | 1.01 | +55.6 | -RelliK-, PiNG-ez, Poxteria, pusEx-, tax- |
-| 2026-09-05 | Locally Hated | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.40 | 1.00 | 1.34 | 0.00 | 0.00 | -1.0 | -RelliK-, PiNG-ez, Poxteria, kozume, tax- |
-| 2026-09-04 | GOBLINS | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.05 | 1.00 | 1.00 | 0.00 | 0.00 | -103.2 | Chick3n, PiNG-ez, Poxteria, pusEx-, tax- |
-| 2026-09-02 | OGNuggs | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.05 | 1.00 | 0.98 | 0.05 | 0.98 | +59.2 | -RelliK-, PiNG-ez, Poxteria, pusEx-, tax- |
-| 2026-09-01 | Club 333 | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.40 | 1.00 | 1.30 | 0.00 | 0.00 | -0.0 | -RelliK-, PiNG-ez, Poxteria, pusEx-, tax- |
+| 2026-09-26 | SwagMonkeyHats | L |  | SOFLO SLAM 3 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -121.8 | Irneso, Poxteria, pusEx-, tax-, trustythedoe |
+| 2026-09-14 | ENCE PROSPECTS | L | 0-2 | United21 Season 55 | C | liquipedia | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -3.6 | Av3ntura, ER1CK, GOYO007, KaonGod, Shed0Z, fix, kr0wa, m0t11-, padorro |
+| 2026-09-10 | IC PROSPECT | L | 0-2 | United21 Season 55 | C | liquipedia | 0.99 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -3.6 | Av3ntura, ER1CK, GOYO007, KaonGod, Shed0Z, fix, kr0wa, m0t11-, padorro |
+| 2026-09-10 | WhiteBoy Winter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.99 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -135.0 | -RelliK-, PiNG-ez, Poxteria, pusEx-, tax- |
+| 2026-09-09 | Afterimage | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.36 | 1.00 | 1.34 | 0.00 | 0.00 | -115.3 | -RelliK-, 5c4f1d9d, PiNG-ez, Poxteria, tax- |
+| 2026-09-08 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.06 | 1.02 | +12.6 | -RelliK-, PiNG-ez, Poxteria, pusEx-, tax- |
+| 2026-09-06 | SINQU REHTI | W | 2-1 | United21 Season 55 | C | liquipedia | 0.97 | 1.55 | 1.00 | 1.50 | 1.13 | 0.00 | +271.8 | Av3ntura, ER1CK, GOYO007, KaonGod, Shed0Z, fix, kr0wa, m0t11-, padorro |
+| 2026-09-06 | Against Odds | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 1.01 | 0.05 | 1.01 | +55.9 | -RelliK-, PiNG-ez, Poxteria, pusEx-, tax- |
+| 2026-09-05 | Locally Hated | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.36 | 1.00 | 1.31 | 0.00 | 0.00 | -1.0 | -RelliK-, PiNG-ez, Poxteria, kozume, tax- |
+| 2026-09-04 | GOBLINS | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -103.1 | Chick3n, PiNG-ez, Poxteria, pusEx-, tax- |
+| 2026-09-02 | OGNuggs | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.05 | 0.98 | +60.3 | -RelliK-, PiNG-ez, Poxteria, pusEx-, tax- |
+| 2026-09-01 | Club 333 | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.36 | 1.00 | 1.27 | 0.00 | 0.00 | -0.0 | -RelliK-, PiNG-ez, Poxteria, pusEx-, tax- |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

@@ -1,5 +1,126 @@
 [
  {
+  "match_id": "hltv:2399248",
+  "date": "2026-10-11",
+  "competition": "ANZC Locals Brisbane 2026 Season 2",
+  "team_a": "Ground Zero",
+  "team_b": "Abyssal",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399225",
+  "date": "2026-10-11",
+  "competition": "ESL Challenger League Season 52 North America Cup 3",
+  "team_a": "Zomblers",
+  "team_b": "Iowa Stormboar",
+  "winner": "a",
+  "score": "2-1",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399226",
+  "date": "2026-10-11",
+  "competition": "ESL Challenger League Season 52 North America Cup 3",
+  "team_a": "EMPIRE",
+  "team_b": "regain",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399246",
+  "date": "2026-10-11",
+  "competition": "ANZC Locals Brisbane 2026 Season 2",
+  "team_a": "Ground Zero",
+  "team_b": "FlyQuest",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399224",
+  "date": "2026-10-11",
+  "competition": "ESL Challenger League Season 52 North America Cup 3",
+  "team_a": "Overtake Sector",
+  "team_b": "Chicken Coop",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399227",
+  "date": "2026-10-11",
+  "competition": "ESL Challenger League Season 52 North America Cup 3",
+  "team_a": "Wanted Goons",
+  "team_b": "DETONATE",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399404",
+  "date": "2026-10-11",
+  "competition": "FRAG University 2026",
+  "team_a": "SportsBetExpert",
+  "team_b": "NRG",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399244",
+  "date": "2026-10-11",
+  "competition": "ANZC Locals Brisbane 2026 Season 2",
+  "team_a": "Ground Zero",
+  "team_b": "Abyssal",
+  "winner": "a",
+  "score": "13-7",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399403",
+  "date": "2026-10-11",
+  "competition": "FRAG University 2026",
+  "team_a": "Imperial",
+  "team_b": "Without a Roof",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399402",
+  "date": "2026-10-11",
+  "competition": "FRAG University 2026",
+  "team_a": "DENDELE",
+  "team_b": "Wildcard",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399400",
+  "date": "2026-10-11",
+  "competition": "FRAG University 2026",
+  "team_a": "Unreal Nightmare",
+  "team_b": "Without a Roof",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:c1c1178cab",
   "date": "2026-10-10",
   "competition": "ESL Challenger League Season 52: North America - Cup #3",
@@ -31,6 +152,149 @@
   "score": "1-2",
   "tier": "B",
   "source": "liquipedia"
+ },
+ {
+  "match_id": "hltv:2399399",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "NRG",
+  "team_b": "Wildcard",
+  "winner": "b",
+  "score": "12-16",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399401",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Marsborne",
+  "team_b": "SportsBetExpert",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399394",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Without a Roof",
+  "team_b": "Last Dance US",
+  "winner": "a",
+  "score": "2-1",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399396",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Fathom",
+  "team_b": "SportsBetExpert",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399397",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Elusive",
+  "team_b": "Marsborne",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399391",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Imperial",
+  "team_b": "SportsBetExpert",
+  "winner": "a",
+  "score": "16-14",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399393",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Wildcard",
+  "team_b": "Last Dance US",
+  "winner": "a",
+  "score": "13-5",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399392",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "NRG",
+  "team_b": "Unreal Nightmare",
+  "winner": "a",
+  "score": "13-6",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399390",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "DENDELE",
+  "team_b": "Marsborne",
+  "winner": "a",
+  "score": "13-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399377",
+  "date": "2026-10-10",
+  "competition": "MESA Pro Series Fall 2026",
+  "team_a": "THE HUNS",
+  "team_b": "Chinggis Warriors",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399236",
+  "date": "2026-10-10",
+  "competition": "ANZC Locals Brisbane 2026 Season 2",
+  "team_a": "BGNS Orange",
+  "team_b": "Ground Zero",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399235",
+  "date": "2026-10-10",
+  "competition": "ANZC Locals Brisbane 2026 Season 2",
+  "team_a": "Ground Zero",
+  "team_b": "KZG",
+  "winner": "a",
+  "score": "16-14",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "manual:frag-university-2026-marsborne-vs-war",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Marsborne",
+  "team_b": "Without a Roof",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "hltv"
  },
  {
   "match_id": "1-025b3dbf-8755-4a95-96ab-ec3af1364522",
@@ -337,6 +601,17 @@
   "team_b": "Olympus",
   "winner": "a",
   "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-73e3877a-5cb3-47a4-bc0a-a9359ee9a2b8",
+  "date": "2026-10-09",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "NZ Gaming",
+  "team_b": "F5",
+  "winner": "b",
+  "score": "0-1",
   "tier": "B",
   "source": "faceit-league"
  },
@@ -856,6 +1131,17 @@
   "score": "1-2",
   "tier": "B",
   "source": "liquipedia"
+ },
+ {
+  "match_id": "hltv:2399163",
+  "date": "2026-10-09",
+  "competition": "ESL Challenger League Season 52 Asia-Pacific Cup 3",
+  "team_a": "THE HUNS",
+  "team_b": "Alter Ego",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "B",
+  "source": "hltv"
  },
  {
   "match_id": "1-1b35554a-cf0b-4647-95c2-b4d912e4c23b",
@@ -2545,7 +2831,7 @@
   "date": "2026-09-25",
   "competition": "ESL Challenger League Season 52: North America - Cup #2",
   "team_a": "FarmVille",
-  "team_b": "UNREAL NIGHTMARE",
+  "team_b": "Unreal Nightmare",
   "winner": "a",
   "score": "2-0",
   "tier": "B",
@@ -8195,17 +8481,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "1-4074610f-97e6-47e0-8714-0d68e2895eff",
-  "date": "2026-09-06",
-  "competition": "S58 NA Open9-10 East - Playoffs C",
-  "team_a": "Ctrl Alt Elite",
-  "team_b": "GodFather Gamin",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
   "match_id": "1-40a1474f-4f66-4b09-9333-7c7875f851fd",
   "date": "2026-09-06",
   "competition": "S58 NA Open9-10 East - Playoffs C",
@@ -11785,7 +12060,7 @@
   "date": "2026-09-04",
   "competition": "PGL Masters Bucharest 2026: North American Open Qualifier #1",
   "team_a": "Smokepoint",
-  "team_b": "UNREAL NIGHTMARE",
+  "team_b": "Unreal Nightmare",
   "winner": "b",
   "score": "0-1",
   "tier": "C",
@@ -14985,7 +15260,7 @@
   "match_id": "lp:frag-2026-st-louis:63aa0f4279",
   "date": "2026-08-30",
   "competition": "FRAG Midwest: St. Louis 2026",
-  "team_a": "UNREAL NIGHTMARE",
+  "team_a": "Unreal Nightmare",
   "team_b": "makeSHIFT",
   "winner": "a",
   "score": "2-1",
@@ -15008,7 +15283,7 @@
   "date": "2026-08-30",
   "competition": "FRAG Midwest: St. Louis 2026",
   "team_a": "NuTorious",
-  "team_b": "UNREAL NIGHTMARE",
+  "team_b": "Unreal Nightmare",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -33836,6 +34111,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "1-139fa71e-dc08-41e0-9403-01ffdee1aecb",
+  "date": "2026-07-22",
+  "competition": "S58 NA Intermediate B - Regular Season",
+  "team_a": "D1NK Esports",
+  "team_b": "The Third Eye",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-174f8bc9-a53f-4149-a9ff-ea730a39b8ef",
   "date": "2026-07-22",
   "competition": "S58 NA Intermediate A - Regular Season",
@@ -40022,7 +40308,7 @@
   "date": "2026-06-05",
   "competition": "VRS-tracked 2026-06",
   "team_a": "Liquid",
-  "team_b": "FLYQUEST",
+  "team_b": "FlyQuest",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -41078,7 +41364,7 @@
   "date": "2026-06-03",
   "competition": "VRS-tracked 2026-06",
   "team_a": "NRG",
-  "team_b": "FLYQUEST",
+  "team_b": "FlyQuest",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -50281,17 +50567,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "1-eaeec104-5948-4bd6-85bf-32e185c5ad27",
-  "date": "2026-05-15",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "2THRiLL",
-  "team_b": "REPORT MASSIVE",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
   "match_id": "1-f2df1c9f-b7cb-478b-8332-caa52bccc8a4",
   "date": "2026-05-15",
   "competition": "S57 NA Intermediate Central - Regular Season",
@@ -58964,7 +59239,7 @@
   "date": "2026-04-25",
   "competition": "VRS-tracked 2026-04",
   "team_a": "Wildcard",
-  "team_b": "UNREAL NIGHTMARE",
+  "team_b": "Unreal Nightmare",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -64688,17 +64963,6 @@
   "winner": "b",
   "score": "0-1",
   "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-a8cd5c1f-f2f7-496f-b7c5-91784ba676d7",
-  "date": "2026-04-14",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "NZ Gaming",
-  "team_b": "LAG",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
   "source": "faceit-league"
  },
  {
