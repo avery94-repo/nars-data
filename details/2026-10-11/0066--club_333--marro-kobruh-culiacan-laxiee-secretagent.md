@@ -1,0 +1,86 @@
+### Roster Details
+Team Name: Club 333
+Roster: Marro, kobruh, CULIACAN, laxiee, SecretAgent
+NARS Rank: 66 of 506
+
+Final Rating: 1860.3
+Seeded Start: 2060.8
+H2H Adjustment: -200.5
+
+Final Rating (1860.3) = Seeded Start (2060.8) + H2H Adjustment (-200.5)
+
+#### Seeded Start
+Starting rating = 1100 + seed_factor x 1400
+                = 1100 + 0.686 x 1400 = 2060.8
+
+seed_factor 0.686 = 0.25 x Tier Exposure (0.825) + 0.50 x Quality Wins (0.561) + 0.25 x Opponent Network (0.798)
+
+- Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
+- Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
+- Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Matches (58 qualifying)
+Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
+
+| Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
+| :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
+| 2026-10-10 | DETONATE | L | 0-2 | ESL Challenger League Season 52: North America - Cup #3 | B | liquipedia | 1.00 | 1.57 | 1.00 | 1.57 | 0.00 | 0.00 | -170.4 | AMC, Marro, SecretAgent, b1, kobruh |
+| 2026-10-09 | OVERKNIGHT | W | 2-0 | ESL Challenger League Season 52: North America - Cup #3 | B | liquipedia | 1.00 | 1.57 | 1.00 | 1.57 | 1.18 | 0.00 | +105.6 | AMC, Marro, SecretAgent, b1, kobruh |
+| 2026-10-08 | Zomblers | W | 0-2 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.56 | 1.00 | 1.56 | 1.44 | 1.56 | +118.1 | core 3/5 |
+| 2026-10-08 | Zomblers | L | 0-2 | ESL Challenger League Season 52: North America - Cup #3 | B | liquipedia | 1.00 | 1.57 | 1.00 | 1.57 | 0.00 | 0.00 | -8.8 | AMC, Marro, SecretAgent, b1, kobruh |
+| 2026-09-25 | Iowa Stormboar | L | 0-2 | ESL Challenger League Season 52: North America - Cup #2 | B | liquipedia | 1.00 | 1.58 | 1.00 | 1.58 | 0.00 | 0.00 | -0.5 | Marro, Pol0, Pose1doNN, SecretAgent, kobruh |
+| 2026-09-18 | Fathom Gaming | L |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -107.3 | 15ad6af1, CULIACAN, Marro, SecretAgent, kobruh |
+| 2026-09-13 | Omen | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.54 | 1.00 | 1.54 | 0.00 | 0.00 | -92.1 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-09-05 | SportsBetExpert | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.96 | 1.54 | 1.00 | 1.48 | 0.00 | 0.00 | -0.2 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-09-03 | Slimy Boogermen | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.94 | 1.54 | 1.00 | 1.46 | 0.33 | 1.46 | +64.9 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-09-03 | Clockwork | W | 1-0 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.24 | 1.00 | 1.17 | 0.81 | 0.00 | +36.4 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
+| 2026-09-02 | Wanted Goons | L | 0-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.24 | 1.00 | 1.16 | 0.00 | 0.00 | -136.7 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
+| 2026-09-02 | Clockwork | W | 2-0 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.94 | 1.24 | 1.00 | 1.16 | 0.80 | 0.00 | +13.3 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
+| 2026-09-01 | ASCEND | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.33 | 1.00 | 1.24 | 0.39 | 1.24 | +2.8 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
+| 2026-08-30 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.92 | 1.43 | 1.00 | 1.32 | 0.00 | 0.00 | -28.7 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-30 | Aura | W |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.92 | 1.18 | 1.00 | 1.09 | 0.31 | 1.09 | +44.3 | 744c746c, CULIACAN, Marro, SecretAgent, kobruh |
+| 2026-08-29 | F5 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.91 | 1.43 | 1.00 | 1.31 | 0.00 | 0.00 | -18.7 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-28 | Brahmas | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.43 | 1.00 | 1.30 | 0.00 | 0.00 | -136.5 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-08-27 | Day Traders | L | 1-2 | ESL Challenger League Season 52: North America - Cup #1 | B | liquipedia | 0.90 | 1.57 | 1.00 | 1.41 | 0.00 | 0.00 | -302.5 | Marro, SecretAgent, b1, calamity, kobruh |
+| 2026-08-26 | FarmVille | L | 1-2 | ESL Challenger League Season 52: North America - Cup #1 | B | liquipedia | 0.89 | 1.57 | 1.00 | 1.40 | 0.00 | 0.00 | -231.9 | Marro, SecretAgent, b1, calamity, kobruh |
+| 2026-08-22 | Desi Boyz | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.86 | 1.18 | 1.00 | 1.02 | 0.60 | 0.00 | +4.1 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-21 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.43 | 1.00 | 1.23 | 1.16 | 1.23 | +11.3 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-20 | Omen | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.18 | 1.00 | 1.01 | 0.62 | 1.01 | +0.1 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-20 | LAG | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.43 | 1.00 | 1.22 | 0.00 | 0.00 | -120.9 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-19 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.43 | 1.00 | 1.21 | 0.00 | 0.00 | -194.4 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-14 | Bad JuJu | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.18 | 1.00 | 0.96 | 0.20 | 0.96 | +0.0 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-14 | Elusive | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.43 | 1.00 | 1.16 | 0.59 | 1.16 | +0.0 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
+| 2026-08-13 | my life be like | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.80 | 1.18 | 1.00 | 0.95 | 0.65 | 0.95 | +0.0 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-08-13 | Marsborne | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.43 | 1.00 | 1.15 | 1.15 | 1.15 | +55.1 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-08-07 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.43 | 1.00 | 1.10 | 0.89 | 1.10 | +169.0 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-08-05 | Desi Boyz | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.43 | 1.00 | 1.08 | 0.63 | 1.08 | +4.4 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-07-24 | Villainous | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.43 | 1.00 | 0.96 | 0.48 | 0.96 | +176.4 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-07-23 | Third Prime | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.43 | 1.00 | 0.95 | 0.54 | 0.95 | +13.3 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-07-22 | 4fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.43 | 1.00 | 0.94 | 0.52 | 0.94 | +217.6 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-07-17 | Cyclone Ninja | W |  | Esports Nations Cup 2026: North America Qualifier | C | faceit-tournament | 0.63 | 1.00 | 1.00 | 0.63 | 0.02 | 0.63 | +0.0 | CULIACAN, Marro, SecretAgent, a_m_c, ee41abee |
+| 2026-07-10 | regain | L | 1-2 | CROSSFIRE Season 5 | C | liquipedia | 0.58 | 1.55 | 1.00 | 0.90 | 0.00 | 0.00 | -116.0 | MarKE, Marro, SecretAgent, kobruh, mason |
+| 2026-06-30 | Beyond Limits | W | 2-1 | CROSSFIRE Season 5 | C | liquipedia | 0.51 | 1.55 | 1.00 | 0.79 | 0.58 | 0.79 | +0.2 | MarKE, Marro, SecretAgent, kobruh, mason |
+| 2026-06-26 | Olympus | W | 2-0 | CROSSFIRE Season 5 | C | liquipedia | 0.48 | 1.55 | 1.00 | 0.75 | 0.57 | 0.00 | +22.4 | MarKE, Marro, SecretAgent, kobruh, mason |
+| 2026-06-21 | Chicken Coop | L |  | VRS-tracked 2026-06 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.00 | 0.00 | -11.8 | core 3/5 |
+| 2026-06-20 | Playing for fun | W | 2-1 | ESEA Season 57: North American Finals | C | liquipedia | 0.44 | 1.45 | 1.00 | 0.65 | 0.23 | 0.65 | +152.9 | 4TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-06-15 | Olympus | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.41 | 1.49 | 1.00 | 0.61 | 0.47 | 0.61 | +165.1 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-06-13 | Iowa Stormboar | L | 0-2 | NSTLGA League Season 1 | C | liquipedia | 0.40 | 1.57 | 1.00 | 0.62 | 0.00 | 0.00 | -177.8 | 4TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-06-12 | Festina Lente | L | 0-2 | NSTLGA League Season 1 | C | liquipedia | 0.39 | 1.57 | 1.00 | 0.61 | 0.00 | 0.00 | -188.7 | 4TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-06-09 | Chicken Coop | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.37 | 1.49 | 1.00 | 0.55 | 0.00 | 0.00 | -67.3 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-06-08 | Chicken Coop | L |  | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.58 | 0.00 | 0.00 | -161.9 | core 3/5 |
+| 2026-06-07 | raisedbypixels | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.49 | 1.00 | 0.53 | 0.06 | 0.53 | +2.8 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-06-06 | VILLAINOUS | W | 2-0 | NSTLGA League Season 1 | C | liquipedia | 0.36 | 1.57 | 1.00 | 0.56 | 0.48 | 0.00 | +7.7 | 4TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-06-06 | Beyond Limits | W | 2-0 | NSTLGA League Season 1 | C | liquipedia | 0.35 | 1.57 | 1.00 | 0.55 | 0.40 | 0.00 | +0.1 | 4TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-06-04 | Desi Boyz | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.34 | 1.49 | 1.00 | 0.50 | 0.29 | 0.00 | +1.0 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-06-04 | DESI BOYZ | W | 2-0 | ESEA Season 57: Advanced Division - North America | C | liquipedia | 0.34 | 1.50 | 1.00 | 0.50 | 0.53 | 0.00 | +143.3 | 4TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-05-20 | Iowa Stormboar | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.32 | 1.00 | 0.31 | 0.25 | 0.31 | +0.3 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-05-19 | LAG | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.32 | 1.00 | 0.31 | 0.19 | 0.31 | +204.4 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-05-14 | Villainous | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.32 | 1.00 | 0.26 | 0.13 | 0.00 | +151.7 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-05-13 | Wanted Goons | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.19 | 1.32 | 1.00 | 0.25 | 0.00 | 0.00 | -142.5 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-05-12 | unreal nightmare | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.32 | 1.00 | 0.24 | 0.19 | 0.24 | +7.8 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-04-30 | F5 | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.32 | 1.00 | 0.14 | 0.13 | 0.14 | +1.0 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-04-28 | Digital Show | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.32 | 1.00 | 0.12 | 0.01 | 0.12 | +0.1 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-04-23 | Chicken Coop | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.32 | 1.00 | 0.08 | 0.08 | 0.08 | +313.9 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-04-16 | Clockwork | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.32 | 1.00 | 0.01 | 0.01 | 0.01 | +3.9 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+
+_Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_
