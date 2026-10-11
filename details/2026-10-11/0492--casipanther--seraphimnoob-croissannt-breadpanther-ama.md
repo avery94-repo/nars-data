@@ -3,17 +3,17 @@ Team Name: Casipanther
 Roster: Seraphimnoob, Croissannt, BreadPanther, Amat3rasucfa, PureWhite
 NARS Rank: 492 of 508
 
-Final Rating: 639.0
-Seeded Start: 1184.5
-H2H Adjustment: -545.5
+Final Rating: 639.1
+Seeded Start: 1184.7
+H2H Adjustment: -545.6
 
-Final Rating (639.0) = Seeded Start (1184.5) + H2H Adjustment (-545.5)
+Final Rating (639.1) = Seeded Start (1184.7) + H2H Adjustment (-545.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.060 x 1400 = 1184.5
+                = 1100 + 0.061 x 1400 = 1184.7
 
-seed_factor 0.060 = 0.25 x Tier Exposure (0.065) + 0.50 x Quality Wins (0.012) + 0.25 x Opponent Network (0.153)
+seed_factor 0.061 = 0.25 x Tier Exposure (0.064) + 0.50 x Quality Wins (0.012) + 0.25 x Opponent Network (0.154)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -29,12 +29,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -54.7 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, Seraphimnoob |
 | 2026-08-14 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -48.8 | Amat3rasucfa, BreadPanther, PureWhite, SleepyNooby, _OIOI_ |
 | 2026-08-12 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -7.0 | Amat3rasucfa, BreadPanther, Croissannt, SleepyNooby, ZhuA1 |
-| 2026-08-07 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -77.6 | BreadPanther, Croissannt, PureWhite, ZhuA1, _OIOI_ |
+| 2026-08-07 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -77.7 | BreadPanther, Croissannt, PureWhite, ZhuA1, _OIOI_ |
 | 2026-08-05 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.10 | 0.75 | +118.3 | BreadPanther, Croissannt, PureWhite, SleepyNooby, ZhuA1 |
 | 2026-07-31 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -21.1 | BreadPanther, Croissannt, PureWhite, SleepyNooby, ZhuA1 |
 | 2026-07-29 | Kennesaw State Gold 2025 | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -16.5 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, ZhuA1 |
 | 2026-07-24 | Team Deathgrip | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -308.6 | Amat3rasucfa, BreadPanther, PureWhite, SleepyNooby, ZhuA1 |
 | 2026-07-22 | Applebees | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.04 | 0.66 | +60.2 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, SleepyNooby |
-| 2026-05-27 | kirk peek | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.04 | 1.00 | 0.30 | 0.00 | 0.00 | -237.8 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, Seraphimnoob |
+| 2026-05-27 | kirk peek | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.03 | 1.00 | 0.29 | 0.00 | 0.00 | -237.9 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, Seraphimnoob |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

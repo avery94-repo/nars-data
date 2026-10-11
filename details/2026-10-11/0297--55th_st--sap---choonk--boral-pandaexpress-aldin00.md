@@ -3,17 +3,17 @@ Team Name: 55TH ST
 Roster: Sap--, choonk-, boral, PandaExpress, aldin00
 NARS Rank: 297 of 508
 
-Final Rating: 1303.4
-Seeded Start: 1246.8
-H2H Adjustment: +56.6
+Final Rating: 1303.2
+Seeded Start: 1246.7
+H2H Adjustment: +56.5
 
-Final Rating (1303.4) = Seeded Start (1246.8) + H2H Adjustment (+56.6)
+Final Rating (1303.2) = Seeded Start (1246.7) + H2H Adjustment (+56.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.105 x 1400 = 1246.8
+                = 1100 + 0.105 x 1400 = 1246.7
 
-seed_factor 0.105 = 0.25 x Tier Exposure (0.110) + 0.50 x Quality Wins (0.023) + 0.25 x Opponent Network (0.265)
+seed_factor 0.105 = 0.25 x Tier Exposure (0.109) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.265)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,12 +24,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | PogSquad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +155.0 | PandaExpress, Sap--, aldin00, boral, choonk- |
-| 2026-10-07 | Grandpa Berets | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -270.7 | PandaExpress, Sap--, aldin00, boral, choonk- |
-| 2026-09-12 | Team Nyx | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -116.7 | PandaExpress, Sap--, aldin00, boral, choonk- |
-| 2026-09-10 | 99 Thieves | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.99 | 1.04 | 1.00 | 1.03 | 0.16 | 1.03 | +54.1 | PandaExpress, Sap--, aldin00, boral, choonk- |
-| 2026-09-06 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.04 | 1.00 | 1.00 | 0.00 | 0.00 | -11.5 | Dill-, Sap--, aldin00, boral, choonk- |
-| 2026-09-04 | Perseverance | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.05 | 0.99 | +111.8 | PandaExpress, Sap--, aldin00, boral, choonk- |
-| 2026-09-02 | BDE | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.05 | 0.98 | +134.7 | PandaExpress, Sap--, aldin00, boral, choonk- |
+| 2026-10-09 | PogSquad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +155.2 | PandaExpress, Sap--, aldin00, boral, choonk- |
+| 2026-10-07 | Grandpa Berets | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -270.8 | PandaExpress, Sap--, aldin00, boral, choonk- |
+| 2026-09-12 | Team Nyx | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -116.7 | PandaExpress, Sap--, aldin00, boral, choonk- |
+| 2026-09-10 | 99 Thieves | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.99 | 1.03 | 1.00 | 1.03 | 0.16 | 1.03 | +54.1 | PandaExpress, Sap--, aldin00, boral, choonk- |
+| 2026-09-06 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.03 | 1.00 | 1.00 | 0.00 | 0.00 | -11.9 | Dill-, Sap--, aldin00, boral, choonk- |
+| 2026-09-04 | Perseverance | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.05 | 0.98 | +111.9 | PandaExpress, Sap--, aldin00, boral, choonk- |
+| 2026-09-02 | BDE | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.05 | 0.97 | +134.7 | PandaExpress, Sap--, aldin00, boral, choonk- |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

@@ -1419,6 +1419,17 @@
   "source": "hltv"
  },
  {
+  "match_id": "hltv:2399214",
+  "date": "2026-10-08",
+  "competition": "ESL Challenger League Season 52 North America Cup 3",
+  "team_a": "FarmVille",
+  "team_b": "Overtake Sector",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
   "match_id": "1-06df0f63-b0ce-40f7-b9d0-8f7280347128",
   "date": "2026-10-07",
   "competition": "S59 NA Main A - Regular Season",
@@ -8554,6 +8565,17 @@
   "team_b": "Cultivate",
   "winner": "a",
   "score": "2-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-4074610f-97e6-47e0-8714-0d68e2895eff",
+  "date": "2026-09-06",
+  "competition": "S58 NA Open9-10 East - Playoffs C",
+  "team_a": "Ctrl Alt Elite",
+  "team_b": "GodFather Gamin",
+  "winner": "a",
+  "score": "2-1",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -34171,6 +34193,17 @@
   "competition": "S58 NA Main A - Regular Season",
   "team_a": "Hack-A-Shaq",
   "team_b": "After Peak",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-139fa71e-dc08-41e0-9403-01ffdee1aecb",
+  "date": "2026-07-22",
+  "competition": "S58 NA Intermediate B - Regular Season",
+  "team_a": "D1NK Esports",
+  "team_b": "The Third Eye",
   "winner": "a",
   "score": "1-0",
   "tier": "C",
