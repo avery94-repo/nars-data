@@ -3,15 +3,15 @@ Team Name: Brobies
 Roster: BIGJ0E, Guildenstern, Pocket-l-, ZAQQ, WiggSplitter
 NARS Rank: 330 of 506
 
-Final Rating: 1228.3
-Seeded Start: 1188.5
+Final Rating: 1228.2
+Seeded Start: 1188.4
 H2H Adjustment: +39.8
 
-Final Rating (1228.3) = Seeded Start (1188.5) + H2H Adjustment (+39.8)
+Final Rating (1228.2) = Seeded Start (1188.4) + H2H Adjustment (+39.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.063 x 1400 = 1188.5
+                = 1100 + 0.063 x 1400 = 1188.4
 
 seed_factor 0.063 = 0.25 x Tier Exposure (0.107) + 0.50 x Quality Wins (0.010) + 0.25 x Opponent Network (0.125)
 
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | UncsStillGotIt | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -50.1 | Guildenstern, Pocket-l-, Swerv0, TheArtist, ZAQQ |
-| 2026-10-07 | VARTOVIK | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -57.8 | Guildenstern, PinkTM, Pocket-l-, Swerv0, ZAQQ |
-| 2026-09-10 | AscendentEsport | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -105.4 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
-| 2026-09-06 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -133.8 | BIGJ0E, Guildenstern, Tristy_, WiggSplitter, ZAQQ |
-| 2026-09-04 | Knox Esports | W | 1-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.10 | 0.95 | +32.7 | BIGJ0E, Guildenstern, TheArtist, WiggSplitter, ZAQQ |
-| 2026-09-02 | Unc Nerdy Boys | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +354.4 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
+| 2026-10-09 | UncsStillGotIt | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -50.2 | Guildenstern, Pocket-l-, Swerv0, TheArtist, ZAQQ |
+| 2026-10-07 | VARTOVIK | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -57.9 | Guildenstern, PinkTM, Pocket-l-, Swerv0, ZAQQ |
+| 2026-09-10 | AscendentEsport | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -105.5 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
+| 2026-09-06 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -133.7 | BIGJ0E, Guildenstern, Tristy_, WiggSplitter, ZAQQ |
+| 2026-09-04 | Knox Esports | W | 1-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.10 | 0.95 | +32.6 | BIGJ0E, Guildenstern, TheArtist, WiggSplitter, ZAQQ |
+| 2026-09-02 | Unc Nerdy Boys | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +354.5 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

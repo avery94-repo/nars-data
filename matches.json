@@ -1,5 +1,49 @@
 [
  {
+  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:4c0fe19503",
+  "date": "2026-10-11",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
+  "team_a": "Chicken Coop",
+  "team_b": "OVERTAKE SECTOR",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:845ba15b77",
+  "date": "2026-10-11",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Zomblers",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:788f0beff9",
+  "date": "2026-10-11",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
+  "team_a": "EMPIRE",
+  "team_b": "regain",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:0308884180",
+  "date": "2026-10-11",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
+  "team_a": "Wanted Goons",
+  "team_b": "DETONATE",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
   "match_id": "hltv:2399248",
   "date": "2026-10-11",
   "competition": "ANZC Locals Brisbane 2026 Season 2",
@@ -7,28 +51,6 @@
   "team_b": "Abyssal",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
-  "source": "hltv"
- },
- {
-  "match_id": "hltv:2399225",
-  "date": "2026-10-11",
-  "competition": "ESL Challenger League Season 52 North America Cup 3",
-  "team_a": "Zomblers",
-  "team_b": "Iowa Stormboar",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "B",
-  "source": "hltv"
- },
- {
-  "match_id": "hltv:2399226",
-  "date": "2026-10-11",
-  "competition": "ESL Challenger League Season 52 North America Cup 3",
-  "team_a": "EMPIRE",
-  "team_b": "regain",
-  "winner": "b",
-  "score": "1-2",
   "tier": "B",
   "source": "hltv"
  },
@@ -66,6 +88,17 @@
   "source": "hltv"
  },
  {
+  "match_id": "hltv:2399404",
+  "date": "2026-10-11",
+  "competition": "FRAG University 2026",
+  "team_a": "SportsBetExpert",
+  "team_b": "NRG",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
   "match_id": "hltv:2399244",
   "date": "2026-10-11",
   "competition": "ANZC Locals Brisbane 2026 Season 2",
@@ -77,235 +110,103 @@
   "source": "hltv"
  },
  {
-  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:c1c1178cab",
-  "date": "2026-10-10",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
-  "team_a": "Desi Boyz",
-  "team_b": "EMPIRE",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:e68d6e3995",
-  "date": "2026-10-10",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
-  "team_a": "regain",
-  "team_b": "VILLAINOUS",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:6a0817684c",
-  "date": "2026-10-10",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
-  "team_a": "FarmVille",
-  "team_b": "Wanted Goons",
-  "winner": "b",
-  "score": "1-2",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:30fe219341",
-  "date": "2026-10-10",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
-  "team_a": "DETONATE",
-  "team_b": "Club 333",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "B",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:5f1c1f27cf",
-  "date": "2026-10-10",
+  "match_id": "hltv:2399403",
+  "date": "2026-10-11",
   "competition": "FRAG University 2026",
-  "team_a": "Marsborne",
+  "team_a": "Imperial",
   "team_b": "Without a Roof",
   "winner": "a",
-  "score": "1-0",
+  "score": "2-0",
   "tier": "A",
-  "source": "liquipedia"
+  "source": "hltv"
  },
  {
-  "match_id": "lp:frag-2026-syracuse-2:a152b2584a",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "SportsBetExpert",
-  "team_b": "HOLY CANNOLI",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:0a0d9dbc06",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "unreal nightmare",
-  "team_b": "Fathom Gaming",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:47fac1557c",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "Elusive",
-  "team_b": "LAST DANCE",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:87bc5daf63",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "DENDELE",
-  "team_b": "Marsborne",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:9ffc1f991b",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "NRG",
-  "team_b": "unreal nightmare",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:ee47969a9a",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "Wildcard",
-  "team_b": "LAST DANCE",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:4ddeaf112e",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "NRG",
-  "team_b": "Wildcard",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:04b5ca3876",
-  "date": "2026-10-10",
+  "match_id": "hltv:2399402",
+  "date": "2026-10-11",
   "competition": "FRAG University 2026",
   "team_a": "DENDELE",
   "team_b": "Wildcard",
   "winner": "b",
   "score": "0-2",
   "tier": "A",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399400",
+  "date": "2026-10-11",
+  "competition": "FRAG University 2026",
+  "team_a": "Unreal Nightmare",
+  "team_b": "Without a Roof",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
+  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:c1c1178cab",
+  "date": "2026-10-10",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
+  "team_a": "Desi Boyz",
+  "team_b": "EMPIRE",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:frag-2026-syracuse-2:a365e8bf2a",
+  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:e68d6e3995",
   "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "unreal nightmare",
-  "team_b": "HOLY CANNOLI",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
+  "team_a": "regain",
+  "team_b": "VILLAINOUS",
   "winner": "a",
   "score": "2-0",
-  "tier": "A",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:frag-2026-syracuse-2:c81c953940",
+  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:6a0817684c",
   "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "SportsBetExpert",
-  "team_b": "Fathom Gaming",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
+  "team_a": "FarmVille",
+  "team_b": "Wanted Goons",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:30fe219341",
+  "date": "2026-10-10",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
+  "team_a": "DETONATE",
+  "team_b": "Club 333",
   "winner": "a",
   "score": "2-0",
-  "tier": "A",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
-  "match_id": "lp:frag-2026-syracuse-2:ccbc5aa28f",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "Marsborne",
-  "team_b": "Elusive",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:55c633365b",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "Without a Roof",
-  "team_b": "unreal nightmare",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:6f7c257202",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "SportsBetExpert",
-  "team_b": "Marsborne",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:dce776ef97",
+  "match_id": "hltv:2399399",
   "date": "2026-10-10",
   "competition": "FRAG University 2026",
   "team_a": "NRG",
-  "team_b": "SportsBetExpert",
-  "winner": "a",
-  "score": "2-1",
+  "team_b": "Wildcard",
+  "winner": "b",
+  "score": "12-16",
   "tier": "A",
-  "source": "liquipedia"
+  "source": "hltv"
  },
  {
-  "match_id": "lp:frag-2026-syracuse-2:8e62026dbc",
+  "match_id": "hltv:2399401",
   "date": "2026-10-10",
   "competition": "FRAG University 2026",
-  "team_a": "Imperial",
+  "team_a": "Marsborne",
   "team_b": "SportsBetExpert",
-  "winner": "a",
-  "score": "1-0",
+  "winner": "b",
+  "score": "0-2",
   "tier": "A",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:frag-2026-syracuse-2:a59a4c47a7",
-  "date": "2026-10-10",
-  "competition": "FRAG University 2026",
-  "team_a": "Imperial",
-  "team_b": "Without a Roof",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "A",
-  "source": "liquipedia"
+  "source": "hltv"
  },
  {
   "match_id": "hltv:2399394",
@@ -330,6 +231,28 @@
   "source": "hltv"
  },
  {
+  "match_id": "hltv:2399397",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Elusive",
+  "team_b": "Marsborne",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399391",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Imperial",
+  "team_b": "SportsBetExpert",
+  "winner": "a",
+  "score": "16-14",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
   "match_id": "hltv:2399393",
   "date": "2026-10-10",
   "competition": "FRAG University 2026",
@@ -337,6 +260,28 @@
   "team_b": "Last Dance US",
   "winner": "a",
   "score": "13-5",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399392",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "NRG",
+  "team_b": "Unreal Nightmare",
+  "winner": "a",
+  "score": "13-6",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399390",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "DENDELE",
+  "team_b": "Marsborne",
+  "winner": "a",
+  "score": "13-2",
   "tier": "A",
   "source": "hltv"
  },
@@ -371,6 +316,17 @@
   "winner": "a",
   "score": "16-14",
   "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "manual:frag-university-2026-marsborne-vs-war",
+  "date": "2026-10-10",
+  "competition": "FRAG University 2026",
+  "team_a": "Marsborne",
+  "team_b": "Without a Roof",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "A",
   "source": "hltv"
  },
  {
@@ -1168,56 +1124,56 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:d14cfbc95d",
   "date": "2026-10-09",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
   "team_a": "Chicken Coop",
   "team_b": "DETONATE",
   "winner": "a",
   "score": "2-1",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:614ec8fa32",
   "date": "2026-10-09",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
   "team_a": "regain",
   "team_b": "Iowa Stormboar",
   "winner": "b",
   "score": "1-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:372241be3d",
   "date": "2026-10-09",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
   "team_a": "Zomblers",
   "team_b": "Desi Boyz",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:86d2083ce6",
   "date": "2026-10-09",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
   "team_a": "Day Traders",
   "team_b": "Wanted Goons",
   "winner": "b",
   "score": "1-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:d041d9e3d9",
   "date": "2026-10-09",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
   "team_a": "Club 333",
   "team_b": "OVERKNIGHT",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -1300,67 +1256,67 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:20807d4749",
   "date": "2026-10-08",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
   "team_a": "EMPIRE",
   "team_b": "DETONATE",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:b74499841b",
   "date": "2026-10-08",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
   "team_a": "VILLAINOUS",
   "team_b": "FarmVille",
   "winner": "b",
   "score": "1-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:6e552d3a5e",
   "date": "2026-10-08",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
   "team_a": "regain",
   "team_b": "Day Traders",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:1f5affbc8e",
   "date": "2026-10-08",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
   "team_a": "Wanted Goons",
   "team_b": "Iowa Stormboar",
   "winner": "b",
   "score": "1-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:7835798226",
   "date": "2026-10-08",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
   "team_a": "Zomblers",
   "team_b": "Club 333",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-3:23bd6bdce8",
   "date": "2026-10-08",
-  "competition": "ESL Challenger League Season 52: North America - Cup #3",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#3",
   "team_a": "OVERKNIGHT",
   "team_b": "Desi Boyz",
   "winner": "b",
   "score": "1-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -2178,6 +2134,17 @@
   "source": "liquipedia"
  },
  {
+  "match_id": "lp:esl-pro-league-season-24:b2f924934d",
+  "date": "2026-10-07",
+  "competition": "ESL Pro League Season 24",
+  "team_a": "spirit",
+  "team_b": "M80",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "S",
+  "source": "liquipedia"
+ },
+ {
   "match_id": "hltv:2398330",
   "date": "2026-10-07",
   "competition": "CROSSFIRE Season 6",
@@ -2192,7 +2159,7 @@
   "match_id": "hltv:2398749",
   "date": "2026-10-07",
   "competition": "ESL Pro League Season 24",
-  "team_a": "Spirit",
+  "team_a": "spirit",
   "team_b": "M80",
   "winner": "b",
   "score": "2-0",
@@ -2211,7 +2178,7 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "hltv:2398746",
+  "match_id": "lp:esl-pro-league-season-24:49e36581b2",
   "date": "2026-10-06",
   "competition": "ESL Pro League Season 24",
   "team_a": "Legacy",
@@ -2219,7 +2186,7 @@
   "winner": "b",
   "score": "1-2",
   "tier": "S",
-  "source": "hltv"
+  "source": "liquipedia"
  },
  {
   "match_id": "1-f3d1b5e9-671e-415b-a4c5-30eef084f916",
@@ -2233,7 +2200,7 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "hltv:2398738",
+  "match_id": "lp:esl-pro-league-season-24:bc24c2b20f",
   "date": "2026-10-05",
   "competition": "ESL Pro League Season 24",
   "team_a": "M80",
@@ -2241,7 +2208,18 @@
   "winner": "a",
   "score": "2-1",
   "tier": "S",
-  "source": "hltv"
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:esl-pro-league-season-24:fccb46160e",
+  "date": "2026-10-04",
+  "competition": "ESL Pro League Season 24",
+  "team_a": "BETBOOM",
+  "team_b": "M80",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "S",
+  "source": "liquipedia"
  },
  {
   "match_id": "hltv:2398732",
@@ -2275,6 +2253,17 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
+ },
+ {
+  "match_id": "lp:esl-pro-league-season-24:d3c64adb36",
+  "date": "2026-10-03",
+  "competition": "ESL Pro League Season 24",
+  "team_a": "MOUZ",
+  "team_b": "M80",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "S",
+  "source": "liquipedia"
  },
  {
   "match_id": "1-2fa28706-ee8b-4335-8dd9-e4969b52e565",
@@ -2455,23 +2444,23 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:82e43c2603",
   "date": "2026-09-29",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "regain",
   "team_b": "Marsborne",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:b04bb47cd1",
   "date": "2026-09-28",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "FarmVille",
   "team_b": "Marsborne",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -2620,12 +2609,12 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:cce11c3044",
   "date": "2026-09-27",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "OVERTAKE SECTOR",
   "team_b": "FarmVille",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -2741,18 +2730,18 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:e0215a717d",
   "date": "2026-09-26",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "Iowa Stormboar",
   "team_b": "FarmVille",
   "winner": "b",
   "score": "1-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esea-season-58-finals-north-america:362f51cb96",
   "date": "2026-09-26",
-  "competition": "ESEA Season 58: North American Finals",
+  "competition": "ESEA Season 58: North&nbsp;American&nbsp;Finals",
   "team_a": "Marsborne",
   "team_b": "qcclan",
   "winner": "a",
@@ -2928,23 +2917,23 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:616e32297d",
   "date": "2026-09-25",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "Iowa Stormboar",
   "team_b": "Club 333",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:8573ec2a85",
   "date": "2026-09-25",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "FarmVille",
   "team_b": "unreal nightmare",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -2961,7 +2950,7 @@
  {
   "match_id": "lp:esea-season-58-finals-north-america:5e69b26435",
   "date": "2026-09-25",
-  "competition": "ESEA Season 58: North American Finals",
+  "competition": "ESEA Season 58: North&nbsp;American&nbsp;Finals",
   "team_a": "qcclan",
   "team_b": "Sharp",
   "winner": "a",
@@ -2972,7 +2961,7 @@
  {
   "match_id": "lp:esea-season-58-finals-north-america:5f8f3271be",
   "date": "2026-09-25",
-  "competition": "ESEA Season 58: North American Finals",
+  "competition": "ESEA Season 58: North&nbsp;American&nbsp;Finals",
   "team_a": "Skyline",
   "team_b": "Without a Roof",
   "winner": "b",
@@ -2983,7 +2972,7 @@
  {
   "match_id": "lp:esea-season-58-finals-north-america:3b49d4b093",
   "date": "2026-09-25",
-  "competition": "ESEA Season 58: North American Finals",
+  "competition": "ESEA Season 58: North&nbsp;American&nbsp;Finals",
   "team_a": "my life be like",
   "team_b": "feet67",
   "winner": "a",
@@ -2994,7 +2983,7 @@
  {
   "match_id": "lp:esea-season-58-finals-north-america:7b3b03f1e9",
   "date": "2026-09-25",
-  "competition": "ESEA Season 58: North American Finals",
+  "competition": "ESEA Season 58: North&nbsp;American&nbsp;Finals",
   "team_a": "MASTER ONE",
   "team_b": "babaG",
   "winner": "b",
@@ -3027,56 +3016,56 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:58a1eced17",
   "date": "2026-09-24",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "regain",
   "team_b": "FarmVille",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:db72e87c30",
   "date": "2026-09-24",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "Iowa Stormboar",
   "team_b": "Marsborne",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:8febe1baab",
   "date": "2026-09-24",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "Day Traders",
   "team_b": "unreal nightmare",
   "winner": "b",
   "score": "1-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:470157bebf",
   "date": "2026-09-24",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "OVERKNIGHT",
   "team_b": "F5",
   "winner": "b",
   "score": "1-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:fb3596a4ab",
   "date": "2026-09-24",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "Wanted Goons",
   "team_b": "FlyQuest RED",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -3093,7 +3082,7 @@
  {
   "match_id": "lp:esea-season-58-finals-north-america:0536ec2bd2",
   "date": "2026-09-24",
-  "competition": "ESEA Season 58: North American Finals",
+  "competition": "ESEA Season 58: North&nbsp;American&nbsp;Finals",
   "team_a": "Sharp",
   "team_b": "No Future Lifes Over",
   "winner": "a",
@@ -3104,7 +3093,7 @@
  {
   "match_id": "lp:esea-season-58-finals-north-america:e5425d1bd7",
   "date": "2026-09-24",
-  "competition": "ESEA Season 58: North American Finals",
+  "competition": "ESEA Season 58: North&nbsp;American&nbsp;Finals",
   "team_a": "flat earth",
   "team_b": "feet67",
   "winner": "b",
@@ -3115,7 +3104,7 @@
  {
   "match_id": "lp:esea-season-58-finals-north-america:02ffd6dfe2",
   "date": "2026-09-24",
-  "competition": "ESEA Season 58: North American Finals",
+  "competition": "ESEA Season 58: North&nbsp;American&nbsp;Finals",
   "team_a": "Lawyers",
   "team_b": "babaG",
   "winner": "b",
@@ -3126,45 +3115,45 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:93ebd6224f",
   "date": "2026-09-23",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "unreal nightmare",
   "team_b": "OVERTAKE SECTOR",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:d275522b17",
   "date": "2026-09-23",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "FarmVille",
   "team_b": "F5",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:c0008c6603",
   "date": "2026-09-23",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "Iowa Stormboar",
   "team_b": "Wanted Goons",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-2:9373263aa5",
   "date": "2026-09-23",
-  "competition": "ESL Challenger League Season 52: North America - Cup #2",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#2",
   "team_a": "FlyQuest RED",
   "team_b": "Marsborne",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -3313,7 +3302,7 @@
  {
   "match_id": "lp:esea-season-58-main-north-america:83c59410c7",
   "date": "2026-09-21",
-  "competition": "ESEA Season 58: Main Division - North America",
+  "competition": "ESEA Season 58: Main&nbsp;Division - North America",
   "team_a": "qcclan",
   "team_b": "ICONS OF VANITY",
   "winner": "a",
@@ -3566,7 +3555,7 @@
  {
   "match_id": "lp:esea-season-58-main-north-america:270e00be6d",
   "date": "2026-09-20",
-  "competition": "ESEA Season 58: Main Division - North America",
+  "competition": "ESEA Season 58: Main&nbsp;Division - North America",
   "team_a": "ICONS OF VANITY",
   "team_b": "Old Meta",
   "winner": "a",
@@ -3920,11 +3909,22 @@
   "date": "2026-09-18",
   "competition": "VRS-tracked 2026-09",
   "team_a": "NRG",
-  "team_b": "AURORA",
+  "team_b": "aurora",
   "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
+ },
+ {
+  "match_id": "lp:esea-season-58-intermediate-north-america:123fe56e26",
+  "date": "2026-09-18",
+  "competition": "ESEA Season 58: Intermediate&nbsp;Division - North&nbsp;America",
+  "team_a": "MommySports",
+  "team_b": "dumbo",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "C",
+  "source": "liquipedia"
  },
  {
   "match_id": "lp:crossfire-season-6:c944666ba6",
@@ -4268,6 +4268,17 @@
   "source": "vrs"
  },
  {
+  "match_id": "lp:esea-season-58-intermediate-north-america:a406e7f144",
+  "date": "2026-09-17",
+  "competition": "ESEA Season 58: Intermediate&nbsp;Division - North&nbsp;America",
+  "team_a": "dumbo",
+  "team_b": "Bad JuJu",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
   "match_id": "lp:crossfire-season-6:39f5c35013",
   "date": "2026-09-17",
   "competition": "CROSSFIRE Season 6",
@@ -4380,7 +4391,7 @@
  {
   "match_id": "lp:esea-season-58-open10-north-america:33ffe50749",
   "date": "2026-09-16",
-  "competition": "ESEA Season 58: Open10 Division - North America",
+  "competition": "ESEA Season 58: Open10&nbsp;Division - North&nbsp;America",
   "team_a": "Without a Roof",
   "team_b": "TOP SHELF WHIFFERS",
   "winner": "a",
@@ -5080,6 +5091,17 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
+ },
+ {
+  "match_id": "lp:esea-season-58-advanced-north-america:3fd86c93a2",
+  "date": "2026-09-13",
+  "competition": "ESEA Season 58: Advanced Division - North America",
+  "team_a": "Slimy Boogermen",
+  "team_b": "THE HOLY SQUID EMPIRE",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "C",
+  "source": "liquipedia"
  },
  {
   "match_id": "lp:esea-season-58-advanced-north-america:36dbb3a150",
@@ -5850,6 +5872,17 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
+ },
+ {
+  "match_id": "lp:esea-season-58-advanced-north-america:5608cf18cc",
+  "date": "2026-09-11",
+  "competition": "ESEA Season 58: Advanced Division - North America",
+  "team_a": "EMPIRE",
+  "team_b": "XIAOMA GAMING",
+  "winner": "a",
+  "score": "2-1",
+  "tier": "C",
+  "source": "liquipedia"
  },
  {
   "match_id": "lp:esea-season-58-advanced-north-america:e436ce01b5",
@@ -6635,11 +6668,22 @@
  {
   "match_id": "lp:esea-season-58-intermediate-north-america:1ef1f04eb9",
   "date": "2026-09-10",
-  "competition": "ESEA Season 58: Intermediate Division - North America",
+  "competition": "ESEA Season 58: Intermediate&nbsp;Division - North&nbsp;America",
   "team_a": "HOUSE PLATYPUS ESPORTS CLUB",
   "team_b": "Sharp",
   "winner": "b",
   "score": "0-2",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:esea-season-58-advanced-north-america:889e87bd82",
+  "date": "2026-09-10",
+  "competition": "ESEA Season 58: Advanced Division - North America",
+  "team_a": "Marsborne",
+  "team_b": "THE HOLY SQUID EMPIRE",
+  "winner": "a",
+  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -8521,6 +8565,17 @@
   "team_b": "Cultivate",
   "winner": "a",
   "score": "2-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-4074610f-97e6-47e0-8714-0d68e2895eff",
+  "date": "2026-09-06",
+  "competition": "S58 NA Open9-10 East - Playoffs C",
+  "team_a": "Bad Jawn",
+  "team_b": "GodFather Gamin",
+  "winner": "a",
+  "score": "2-1",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -12694,6 +12749,17 @@
   "source": "liquipedia"
  },
  {
+  "match_id": "lp:esea-season-58-advanced-north-america:21a46c0049",
+  "date": "2026-09-03",
+  "competition": "ESEA Season 58: Advanced Division - North America",
+  "team_a": "XIAOMA GAMING",
+  "team_b": "Brahmas",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
   "match_id": "1-0177a69a-da1b-48c3-832a-db1188513e28",
   "date": "2026-09-02",
   "competition": "S58 NA Open1-8 Central - Playoffs",
@@ -15217,7 +15283,7 @@
   "date": "2026-08-30",
   "competition": "VRS-tracked 2026-08",
   "team_a": "M80",
-  "team_b": "AURORA",
+  "team_b": "aurora",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -15468,12 +15534,12 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-1:50344f5cd4",
   "date": "2026-08-29",
-  "competition": "ESL Challenger League Season 52: North America - Cup #1",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#1",
   "team_a": "EMPIRE",
   "team_b": "Iowa Stormboar",
   "winner": "a",
   "score": "2-1",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -16689,34 +16755,34 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-1:fb32b6aa03",
   "date": "2026-08-28",
-  "competition": "ESL Challenger League Season 52: North America - Cup #1",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#1",
   "team_a": "EMPIRE",
   "team_b": "Day Traders",
   "winner": "a",
   "score": "2-1",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-1:048ce74752",
   "date": "2026-08-28",
-  "competition": "ESL Challenger League Season 52: North America - Cup #1",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#1",
   "team_a": "F5",
   "team_b": "Elusive",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-1:dc271dc0f6",
   "date": "2026-08-28",
-  "competition": "ESL Challenger League Season 52: North America - Cup #1",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#1",
   "team_a": "FarmVille",
   "team_b": "Zomblers",
   "winner": "b",
   "score": "0-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -17162,34 +17228,34 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-1:cf946cd0b7",
   "date": "2026-08-27",
-  "competition": "ESL Challenger League Season 52: North America - Cup #1",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#1",
   "team_a": "Marsborne",
   "team_b": "Iowa Stormboar",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-1:ad04bf6b19",
   "date": "2026-08-27",
-  "competition": "ESL Challenger League Season 52: North America - Cup #1",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#1",
   "team_a": "Day Traders",
   "team_b": "Club 333",
   "winner": "a",
   "score": "2-1",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-1:376f33daf1",
   "date": "2026-08-27",
-  "competition": "ESL Challenger League Season 52: North America - Cup #1",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#1",
   "team_a": "Zomblers",
   "team_b": "incognito",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -18572,7 +18638,7 @@
   "date": "2026-08-26",
   "competition": "VRS-tracked 2026-08",
   "team_a": "M80",
-  "team_b": "NATUS VINCERE",
+  "team_b": "natus vincere",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -18592,34 +18658,34 @@
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-1:0ed8a62130",
   "date": "2026-08-26",
-  "competition": "ESL Challenger League Season 52: North America - Cup #1",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#1",
   "team_a": "FarmVille",
   "team_b": "Club 333",
   "winner": "a",
   "score": "2-1",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-1:4a288f44cd",
   "date": "2026-08-26",
-  "competition": "ESL Challenger League Season 52: North America - Cup #1",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#1",
   "team_a": "Marsborne",
   "team_b": "Elusive",
   "winner": "a",
   "score": "2-0",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
   "match_id": "lp:esl-challenger-league-season-52-north-america-cup-1:a16f7c3279",
   "date": "2026-08-26",
-  "competition": "ESL Challenger League Season 52: North America - Cup #1",
+  "competition": "ESL Challenger League Season 52: North America - Cup&nbsp;#1",
   "team_a": "Zomblers",
   "team_b": "EMPIRE",
   "winner": "b",
   "score": "1-2",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -24523,7 +24589,7 @@
   "date": "2026-08-13",
   "competition": "VRS-tracked 2026-08",
   "team_a": "M80",
-  "team_b": "AURORA",
+  "team_b": "aurora",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -29135,7 +29201,7 @@
   "team_b": "Liquid",
   "winner": "a",
   "score": "2-1",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -29487,7 +29553,7 @@
   "team_b": "APOGEE",
   "winner": "a",
   "score": "2-1",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -30712,6 +30778,17 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "lp:cct-2026-europe-contenders-7:aa2922b3e0",
+  "date": "2026-07-31",
+  "competition": "CCT Europe 2026 Contenders #7",
+  "team_a": "SPIRIT ACADEMY",
+  "team_b": "Sleepers",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
   "match_id": "1-0f84f2bf-5950-48df-b730-87028e53c654",
   "date": "2026-07-30",
   "competition": "S58 NA Intermediate B - Regular Season",
@@ -30848,7 +30925,7 @@
   "date": "2026-07-30",
   "competition": "VRS-tracked 2026-07",
   "team_a": "Liquid",
-  "team_b": "Spirit",
+  "team_b": "spirit",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -30864,6 +30941,17 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
+ },
+ {
+  "match_id": "lp:cct-2026-europe-contenders-7:103070fc1d",
+  "date": "2026-07-30",
+  "competition": "CCT Europe 2026 Contenders #7",
+  "team_a": "Sleepers",
+  "team_b": "GRIBO4KI",
+  "winner": "a",
+  "score": "2-1",
+  "tier": "C",
+  "source": "liquipedia"
  },
  {
   "match_id": "1-0023b70e-d417-465a-8598-c39423cb00cd",
@@ -32373,6 +32461,17 @@
   "source": "vrs"
  },
  {
+  "match_id": "lp:cct-2026-europe-contenders-7:2f70ee8430",
+  "date": "2026-07-28",
+  "competition": "CCT Europe 2026 Contenders #7",
+  "team_a": "Sleepers",
+  "team_b": "A GREAT CHAOS",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
   "match_id": "1-d048fe83-3378-41ec-84e1-1e1a88ca2bc4",
   "date": "2026-07-27",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -32514,6 +32613,17 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
+ },
+ {
+  "match_id": "lp:cct-2026-europe-contenders-7:80ff3fb72b",
+  "date": "2026-07-26",
+  "competition": "CCT Europe 2026 Contenders #7",
+  "team_a": "AIMCLUB.RO",
+  "team_b": "Sleepers",
+  "winner": "a",
+  "score": "2-1",
+  "tier": "C",
+  "source": "liquipedia"
  },
  {
   "match_id": "1-099de00c-b6a4-4334-871b-aadf72399916",
@@ -34127,6 +34237,17 @@
   "competition": "S58 NA Main A - Regular Season",
   "team_a": "Hack-A-Shaq",
   "team_b": "After Peak",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-139fa71e-dc08-41e0-9403-01ffdee1aecb",
+  "date": "2026-07-22",
+  "competition": "S58 NA Intermediate B - Regular Season",
+  "team_a": "D1NK Esports",
+  "team_b": "The Third Eye",
   "winner": "a",
   "score": "1-0",
   "tier": "C",
@@ -38084,12 +38205,12 @@
  {
   "match_id": "lp:stake-ranked-episode-3:be4aa0416b",
   "date": "2026-07-15",
-  "competition": "Stake Ranked Episode 3",
+  "competition": "Stake Ranked Episode&nbsp;3",
   "team_a": "Wildcard",
   "team_b": "GENTLE MATES",
   "winner": "b",
   "score": "0-2",
-  "tier": "A",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -38467,6 +38588,17 @@
   "source": "liquipedia"
  },
  {
+  "match_id": "lp:cct-2026-south-america-series-3:cad0f372d9",
+  "date": "2026-06-28",
+  "competition": "CCT South America 2026 Series #3",
+  "team_a": "YAWARA",
+  "team_b": "Blitzkrieg",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "liquipedia"
+ },
+ {
   "match_id": "lp:crossfire-season-5:f349d8ceac",
   "date": "2026-06-26",
   "competition": "CROSSFIRE Season 5",
@@ -38590,7 +38722,7 @@
  {
   "match_id": "lp:esea-season-57-finals-north-america:615fd67633",
   "date": "2026-06-20",
-  "competition": "ESEA Season 57: North American Finals",
+  "competition": "ESEA Season 57: North&nbsp;American&nbsp;Finals",
   "team_a": "Club 333",
   "team_b": "Playing for fun",
   "winner": "a",
@@ -38612,7 +38744,7 @@
  {
   "match_id": "lp:esea-season-57-finals-north-america:6c85a15148",
   "date": "2026-06-19",
-  "competition": "ESEA Season 57: North American Finals",
+  "competition": "ESEA Season 57: North&nbsp;American&nbsp;Finals",
   "team_a": "Fathom Gaming",
   "team_b": "dice",
   "winner": "b",
@@ -38623,7 +38755,7 @@
  {
   "match_id": "lp:esea-season-57-finals-north-america:051488ddd5",
   "date": "2026-06-19",
-  "competition": "ESEA Season 57: North American Finals",
+  "competition": "ESEA Season 57: North&nbsp;American&nbsp;Finals",
   "team_a": "OVERTAKE SECTOR",
   "team_b": "Diggers",
   "winner": "a",
@@ -38634,7 +38766,7 @@
  {
   "match_id": "lp:esea-season-57-finals-north-america:0f06515246",
   "date": "2026-06-19",
-  "competition": "ESEA Season 57: North American Finals",
+  "competition": "ESEA Season 57: North&nbsp;American&nbsp;Finals",
   "team_a": "DETONATE",
   "team_b": "ACADEMY 4 GIFTED CHILDREN",
   "winner": "a",
@@ -38645,7 +38777,7 @@
  {
   "match_id": "lp:esea-season-57-finals-north-america:e5ac69cf61",
   "date": "2026-06-19",
-  "competition": "ESEA Season 57: North American Finals",
+  "competition": "ESEA Season 57: North&nbsp;American&nbsp;Finals",
   "team_a": "Slimy Boogermen",
   "team_b": "Playing for fun",
   "winner": "b",
@@ -38656,7 +38788,7 @@
  {
   "match_id": "lp:esea-season-57-finals-north-america:3002c15fe9",
   "date": "2026-06-18",
-  "competition": "ESEA Season 57: North American Finals",
+  "competition": "ESEA Season 57: North&nbsp;American&nbsp;Finals",
   "team_a": "5Fellas",
   "team_b": "dice",
   "winner": "b",
@@ -38667,7 +38799,7 @@
  {
   "match_id": "lp:esea-season-57-finals-north-america:5d72805f94",
   "date": "2026-06-18",
-  "competition": "ESEA Season 57: North American Finals",
+  "competition": "ESEA Season 57: North&nbsp;American&nbsp;Finals",
   "team_a": "YHTR",
   "team_b": "Diggers",
   "winner": "b",
@@ -38678,7 +38810,7 @@
  {
   "match_id": "lp:esea-season-57-finals-north-america:a72d3c152a",
   "date": "2026-06-18",
-  "competition": "ESEA Season 57: North American Finals",
+  "competition": "ESEA Season 57: North&nbsp;American&nbsp;Finals",
   "team_a": "ACADEMY 4 GIFTED CHILDREN",
   "team_b": "Festina Lente",
   "winner": "a",
@@ -38689,7 +38821,7 @@
  {
   "match_id": "lp:esea-season-57-finals-north-america:60139997fb",
   "date": "2026-06-18",
-  "competition": "ESEA Season 57: North American Finals",
+  "competition": "ESEA Season 57: North&nbsp;American&nbsp;Finals",
   "team_a": "Nomadic Tactics",
   "team_b": "Playing for fun",
   "winner": "b",
@@ -38744,7 +38876,7 @@
  {
   "match_id": "lp:esea-season-57-main-north-america:300836c232",
   "date": "2026-06-15",
-  "competition": "ESEA Season 57: Main Division - North America",
+  "competition": "ESEA Season 57: Main&nbsp;Division - North America",
   "team_a": "DETONATE",
   "team_b": "noctus esports",
   "winner": "a",
@@ -38797,6 +38929,17 @@
   "source": "liquipedia"
  },
  {
+  "match_id": "lp:esea-season-57-advanced-north-america:77d8620889",
+  "date": "2026-06-14",
+  "competition": "ESEA Season 57: Advanced Division - North America",
+  "team_a": "Omen",
+  "team_b": "xiaoma gaming",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
   "match_id": "1-84ca6e96-6b7a-434d-ab08-3a7c71180652",
   "date": "2026-06-13",
   "competition": "S57 NA Advanced Central - Playoffs",
@@ -38832,7 +38975,7 @@
  {
   "match_id": "lp:esea-season-57-main-north-america:883f04cba0",
   "date": "2026-06-13",
-  "competition": "ESEA Season 57: Main Division - North America",
+  "competition": "ESEA Season 57: Main&nbsp;Division - North America",
   "team_a": "noctus esports",
   "team_b": "Elation",
   "winner": "a",
@@ -39140,7 +39283,7 @@
  {
   "match_id": "lp:esea-season-57-intermediate-north-america:e0531861b7",
   "date": "2026-06-11",
-  "competition": "ESEA Season 57: Intermediate Division - North America",
+  "competition": "ESEA Season 57: Intermediate&nbsp;Division - North&nbsp;America",
   "team_a": "Nomadic Tactics",
   "team_b": "tentoesdown",
   "winner": "a",
@@ -39580,7 +39723,7 @@
  {
   "match_id": "lp:esea-season-57-intermediate-north-america:ef9e0b2126",
   "date": "2026-06-09",
-  "competition": "ESEA Season 57: Intermediate Division - North America",
+  "competition": "ESEA Season 57: Intermediate&nbsp;Division - North&nbsp;America",
   "team_a": "tentoesdown",
   "team_b": "US Navy Esports",
   "winner": "a",
@@ -39618,6 +39761,17 @@
   "team_b": "revel",
   "winner": "b",
   "score": "1-2",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:esea-season-57-advanced-north-america:d922438baf",
+  "date": "2026-06-09",
+  "competition": "ESEA Season 57: Advanced Division - North America",
+  "team_a": "xiaoma gaming",
+  "team_b": "Baatarz",
+  "winner": "a",
+  "score": "2-0",
   "tier": "C",
   "source": "liquipedia"
  },
@@ -40845,7 +40999,7 @@
  {
   "match_id": "lp:esea-season-57-open10-north-america:33607d0515",
   "date": "2026-06-04",
-  "competition": "ESEA Season 57: Open10 Division - North America",
+  "competition": "ESEA Season 57: Open10&nbsp;Division - North&nbsp;America",
   "team_a": "it's a secret",
   "team_b": "Playing for fun",
   "winner": "b",
@@ -40856,7 +41010,7 @@
  {
   "match_id": "lp:esea-season-57-main-north-america:f0e73ef7b7",
   "date": "2026-06-04",
-  "competition": "ESEA Season 57: Main Division - North America",
+  "competition": "ESEA Season 57: Main&nbsp;Division - North America",
   "team_a": "OVERTAKE SECTOR",
   "team_b": "DETONATE",
   "winner": "a",
@@ -40881,17 +41035,6 @@
   "competition": "ESEA Season 57: Advanced Division - North America",
   "team_a": "VILLAINOUS",
   "team_b": "Beyond Limits",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "liquipedia"
- },
- {
-  "match_id": "lp:esea-season-57-advanced-north-america:5e58d40043",
-  "date": "2026-06-04",
-  "competition": "ESEA Season 57: Advanced Division - North America",
-  "team_a": "Chicken Coop",
-  "team_b": "Olympus",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -41492,6 +41635,17 @@
   "source": "vrs"
  },
  {
+  "match_id": "lp:cct-2026-europe-series-3:ded44a4398",
+  "date": "2026-06-03",
+  "competition": "CCT Europe 2026 Series #3",
+  "team_a": "LOOKING FOR ORG",
+  "team_b": "PHANTOM",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "liquipedia"
+ },
+ {
   "match_id": "lp:esea-season-57-advanced-north-america:141cb1012b",
   "date": "2026-06-03",
   "competition": "ESEA Season 57: Advanced Division - North America",
@@ -41958,7 +42112,7 @@
   "date": "2026-06-02",
   "competition": "VRS-tracked 2026-06",
   "team_a": "NRG",
-  "team_b": "SINNERS",
+  "team_b": "sinners",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -41978,7 +42132,7 @@
  {
   "match_id": "lp:esea-season-57-intermediate-north-america:57f36ad9c0",
   "date": "2026-06-02",
-  "competition": "ESEA Season 57: Intermediate Division - North America",
+  "competition": "ESEA Season 57: Intermediate&nbsp;Division - North&nbsp;America",
   "team_a": "ACADEMY 4 GIFTED CHILDREN",
   "team_b": "Absent Minded",
   "winner": "a",
@@ -42826,7 +42980,7 @@
   "match_id": "lp:frag-2026-philadelphia:50798bc1cb",
   "date": "2026-05-30",
   "competition": "FRAG TAP Reloaded 2026",
-  "team_a": "NINEFLY",
+  "team_a": "NineFly Esports",
   "team_b": "NXG Esports",
   "winner": "b",
   "score": "1-2",
@@ -42893,7 +43047,7 @@
   "date": "2026-05-30",
   "competition": "FRAG TAP Reloaded 2026",
   "team_a": "Wanted Goons",
-  "team_b": "NINEFLY",
+  "team_b": "NineFly Esports",
   "winner": "a",
   "score": "2-0",
   "tier": "C",
@@ -47571,7 +47725,7 @@
   "team_b": "IC ESPORTS",
   "winner": "a",
   "score": "2-1",
-  "tier": "B",
+  "tier": "C",
   "source": "liquipedia"
  },
  {
@@ -49698,6 +49852,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "lp:cct-2026-south-america-series-2:c850e01c90",
+  "date": "2026-05-18",
+  "competition": "CCT South America 2026 Series #2",
+  "team_a": "VEXA",
+  "team_b": "Blitzkrieg",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "liquipedia"
+ },
+ {
   "match_id": "1-c42d6b50-523d-499b-8802-22fde093804f",
   "date": "2026-05-16",
   "competition": "S57 NA Intermediate Central - Regular Season",
@@ -51137,6 +51302,17 @@
   "score": "0-1",
   "tier": "C",
   "source": "faceit-league"
+ },
+ {
+  "match_id": "lp:cct-2026-south-america-series-2:9047f8598e",
+  "date": "2026-05-14",
+  "competition": "CCT South America 2026 Series #2",
+  "team_a": "DESPEDIDOS",
+  "team_b": "Blitzkrieg",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "liquipedia"
  },
  {
   "match_id": "1-0040bb2d-d89b-4ad0-a77a-944820c6a7bc",
@@ -52639,7 +52815,7 @@
   "date": "2026-05-12",
   "competition": "VRS-tracked 2026-05",
   "team_a": "NRG",
-  "team_b": "FAZE",
+  "team_b": "faze",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -52683,7 +52859,7 @@
   "date": "2026-05-11",
   "competition": "VRS-tracked 2026-05",
   "team_a": "Liquid",
-  "team_b": "ASTRALIS",
+  "team_b": "astralis",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -55828,7 +56004,7 @@
   "match_id": "lp:thunderpick-world-championship-2026-north-america:9710ef9775",
   "date": "2026-05-02",
   "competition": "Thunderpick World Championship 2026: North American Series",
-  "team_a": "Iowa Stormboar",
+  "team_a": "incontrol",
   "team_b": "Zomblers",
   "winner": "b",
   "score": "0-2",
@@ -58733,7 +58909,7 @@
   "date": "2026-04-29",
   "competition": "Thunderpick World Championship 2026: North American Series",
   "team_a": "INCOGNITO",
-  "team_b": "Iowa Stormboar",
+  "team_b": "incontrol",
   "winner": "b",
   "score": "0-2",
   "tier": "B",
@@ -58952,7 +59128,7 @@
   "match_id": "lp:thunderpick-world-championship-2026-north-america:474aa1c491",
   "date": "2026-04-28",
   "competition": "Thunderpick World Championship 2026: North American Series",
-  "team_a": "Iowa Stormboar",
+  "team_a": "incontrol",
   "team_b": "girl kissers",
   "winner": "a",
   "score": "2-0",
@@ -59166,6 +59342,28 @@
   "winner": "a",
   "score": "1-0",
   "tier": "B",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:chaponost-tournament-2026:6a67f8abe0",
+  "date": "2026-04-26",
+  "competition": "Chaponost Tournament 2026",
+  "team_a": "3G",
+  "team_b": "UBER HEADSHOT",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "C",
+  "source": "liquipedia"
+ },
+ {
+  "match_id": "lp:chaponost-tournament-2026:25e136952c",
+  "date": "2026-04-26",
+  "competition": "Chaponost Tournament 2026",
+  "team_a": "3G",
+  "team_b": "LAMBDA",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "C",
   "source": "liquipedia"
  },
  {

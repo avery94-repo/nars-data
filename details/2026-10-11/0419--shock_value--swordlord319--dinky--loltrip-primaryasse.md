@@ -3,15 +3,15 @@ Team Name: Shock Value
 Roster: Swordlord319, -dinky-, loltrip, PrimaryAsset, Blurted
 NARS Rank: 419 of 506
 
-Final Rating: 1035.3
-Seeded Start: 1110.1
+Final Rating: 1035.2
+Seeded Start: 1110.0
 H2H Adjustment: -74.8
 
-Final Rating (1035.3) = Seeded Start (1110.1) + H2H Adjustment (-74.8)
+Final Rating (1035.2) = Seeded Start (1110.0) + H2H Adjustment (-74.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.007 x 1400 = 1110.1
+                = 1100 + 0.007 x 1400 = 1110.0
 
 seed_factor 0.007 = 0.25 x Tier Exposure (0.013) + 0.50 x Quality Wins (0.001) + 0.25 x Opponent Network (0.014)
 
@@ -24,12 +24,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-20 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -261.5 | -dinky-, PrimaryAsset, Swordlord319, ainakano, loltrip |
-| 2026-05-08 | team_Yuvertington | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -141.4 | -dinky-, M1D, PrimaryAsset, Swordlord319, loltrip |
-| 2026-05-01 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -11.8 | Blurted, M1D, PrimaryAsset, Swordlord319, loltrip |
+| 2026-05-20 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -261.3 | -dinky-, PrimaryAsset, Swordlord319, ainakano, loltrip |
+| 2026-05-08 | team_Yuvertington | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -141.3 | -dinky-, M1D, PrimaryAsset, Swordlord319, loltrip |
+| 2026-05-01 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -11.7 | Blurted, M1D, PrimaryAsset, Swordlord319, loltrip |
 | 2026-04-29 | 91Mr_Liu | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +17.4 | -dinky-, Blurted, M1D, PrimaryAsset, Swordlord319 |
-| 2026-04-24 | Happy Feed | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.06 | +81.9 | -dinky-, Blurted, PrimaryAsset, Swordlord319, loltrip |
-| 2026-04-22 | Remnant | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.01 | 0.05 | +388.8 | -dinky-, Blurted, PrimaryAsset, Swordlord319, loltrip |
-| 2026-04-15 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -148.1 | -dinky-, Blurted, PrimaryAsset, Swordlord319, loltrip |
+| 2026-04-24 | Happy Feed | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.06 | +82.1 | -dinky-, Blurted, PrimaryAsset, Swordlord319, loltrip |
+| 2026-04-22 | Remnant | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.01 | 0.05 | +389.1 | -dinky-, Blurted, PrimaryAsset, Swordlord319, loltrip |
+| 2026-04-15 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -149.2 | -dinky-, Blurted, PrimaryAsset, Swordlord319, loltrip |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_

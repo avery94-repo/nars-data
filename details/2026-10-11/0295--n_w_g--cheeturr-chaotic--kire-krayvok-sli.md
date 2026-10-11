@@ -3,11 +3,11 @@ Team Name: N w G
 Roster: cHEEturr, chaotic-, KIRE, krayvok, sLi
 NARS Rank: 295 of 506
 
-Final Rating: 1301.8
+Final Rating: 1301.9
 Seeded Start: 1132.1
-H2H Adjustment: +169.7
+H2H Adjustment: +169.8
 
-Final Rating (1301.8) = Seeded Start (1132.1) + H2H Adjustment (+169.7)
+Final Rating (1301.9) = Seeded Start (1132.1) + H2H Adjustment (+169.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,16 +24,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.14 | 1.00 | 0.29 | 0.02 | 0.29 | +266.2 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
-| 2026-05-20 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.14 | 1.00 | 0.27 | 0.00 | 0.00 | -134.6 | KIRE, cHEEturr, chaotic-, daylily, sLi |
-| 2026-05-15 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.14 | 1.00 | 0.23 | 0.03 | 0.23 | +183.6 | ChinGoo, KIRE, chaotic-, krayvok, sLi |
-| 2026-05-14 | No-Mercynaries | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.14 | 1.00 | 0.22 | 0.00 | 0.00 | -288.0 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
-| 2026-05-08 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.14 | 1.00 | 0.18 | 0.03 | 0.18 | +374.0 | KIRE, cHEEturr, chaotic-, daylily, sLi |
-| 2026-05-07 | Ritz Enjoyers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.14 | 1.00 | 0.17 | 0.00 | 0.00 | -371.4 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
-| 2026-05-01 | Chuck E Cheese | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.14 | 1.00 | 0.13 | 0.03 | 0.13 | +31.4 | Jacob_-, KIRE, chaotic-, krayvok, sLi |
-| 2026-04-24 | Free Frugz | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.14 | 1.00 | 0.07 | 0.00 | 0.07 | +30.4 | ChinGoo, KIRE, cHEEturr, chaotic-, sLi |
-| 2026-04-22 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.14 | 1.00 | 0.06 | 0.00 | 0.06 | +214.9 | Ghostii, KIRE, cHEEturr, chaotic-, sLi |
-| 2026-04-17 | Alcatraz Swim Team | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.02 | 0.00 | 0.00 | -127.0 | KIRE, cHEEturr, chaotic-, krayvok, sLi |
-| 2026-04-15 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.14 | 1.00 | 0.01 | 0.00 | 0.00 | -9.8 | KIRE, cHEEturr, chaotic-, daylily, sLi |
+| 2026-05-22 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.14 | 1.00 | 0.29 | 0.02 | 0.29 | +266.3 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
+| 2026-05-20 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.14 | 1.00 | 0.27 | 0.00 | 0.00 | -135.2 | KIRE, cHEEturr, chaotic-, daylily, sLi |
+| 2026-05-15 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.14 | 1.00 | 0.23 | 0.03 | 0.23 | +183.3 | ChinGoo, KIRE, chaotic-, krayvok, sLi |
+| 2026-05-14 | No-Mercynaries | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.14 | 1.00 | 0.22 | 0.00 | 0.00 | -289.4 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
+| 2026-05-08 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.14 | 1.00 | 0.18 | 0.03 | 0.18 | +376.5 | KIRE, cHEEturr, chaotic-, daylily, sLi |
+| 2026-05-07 | Ritz Enjoyers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.14 | 1.00 | 0.17 | 0.00 | 0.00 | -371.5 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
+| 2026-05-01 | Chuck E Cheese | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.14 | 1.00 | 0.13 | 0.03 | 0.13 | +31.2 | Jacob_-, KIRE, chaotic-, krayvok, sLi |
+| 2026-04-24 | Free Frugz | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.14 | 1.00 | 0.07 | 0.00 | 0.07 | +30.3 | ChinGoo, KIRE, cHEEturr, chaotic-, sLi |
+| 2026-04-22 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.14 | 1.00 | 0.06 | 0.00 | 0.06 | +215.5 | Ghostii, KIRE, cHEEturr, chaotic-, sLi |
+| 2026-04-17 | Alcatraz Swim Team | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.02 | 0.00 | 0.00 | -132.2 | KIRE, cHEEturr, chaotic-, krayvok, sLi |
+| 2026-04-15 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.14 | 1.00 | 0.00 | 0.00 | 0.00 | -4.9 | KIRE, cHEEturr, chaotic-, daylily, sLi |
 
 _Snapshot 2026-10-11 | NARS v2 | CC BY-SA 4.0_
