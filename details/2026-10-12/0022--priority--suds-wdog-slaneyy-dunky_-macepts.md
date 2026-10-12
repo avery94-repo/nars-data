@@ -4,16 +4,16 @@ Roster: suds, wdog, slaneyy, Dunky_, macepts
 NARS Rank: 22 of 503
 
 Final Rating: 2078.5
-Seeded Start: 1161.2
-H2H Adjustment: +917.3
+Seeded Start: 1160.9
+H2H Adjustment: +917.6
 
-Final Rating (2078.5) = Seeded Start (1161.2) + H2H Adjustment (+917.3)
+Final Rating (2078.5) = Seeded Start (1160.9) + H2H Adjustment (+917.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.044 x 1400 = 1161.2
+                = 1100 + 0.044 x 1400 = 1160.9
 
-seed_factor 0.044 = 0.25 x Tier Exposure (0.043) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.099)
+seed_factor 0.044 = 0.25 x Tier Exposure (0.043) + 0.50 x Quality Wins (0.016) + 0.25 x Opponent Network (0.099)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,20 +24,20 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-09 | NXG Esports | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.36 | 1.28 | 1.00 | 0.47 | 0.00 | 0.00 | -195.3 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-06-02 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.28 | 1.00 | 0.41 | 0.00 | 0.00 | -171.5 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-06-09 | NXG Esports | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.36 | 1.28 | 1.00 | 0.47 | 0.00 | 0.00 | -195.4 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-06-02 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.28 | 1.00 | 0.41 | 0.00 | 0.00 | -171.8 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-06-01 | Crimson Vortex | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.28 | 1.00 | 0.40 | 0.07 | 0.00 | +68.0 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-05-29 | Tall Ocean Rats | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.28 | 1.00 | 0.37 | 0.03 | 0.37 | +14.3 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-05-22 | squirt squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.04 | 0.28 | +191.8 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-05-20 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -154.8 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-05-15 | Slimy Boogermen | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.05 | 0.23 | +264.7 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-05-13 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -18.5 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-05-08 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.18 | 0.03 | 0.18 | +205.1 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-05-06 | Team Xtreme | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -281.2 | Dunky_, icetray, macepts, slaneyy, suds, wdog |
-| 2026-05-01 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.03 | 0.12 | +159.3 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-04-29 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +238.0 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-04-24 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.16 | 1.00 | 0.07 | 0.02 | 0.07 | +224.9 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-05-22 | butt | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.04 | 0.28 | +192.1 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-05-20 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -155.1 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-05-15 | Slimy Boogermen | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.05 | 0.23 | +265.1 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-05-13 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.00 | -18.5 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-05-08 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.18 | 0.03 | 0.18 | +205.2 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-05-06 | Automatic HQ | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -281.5 | Dunky_, icetray, macepts, slaneyy, suds, wdog |
+| 2026-05-01 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.02 | 0.12 | +159.3 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-04-29 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +238.2 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-04-24 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.16 | 1.00 | 0.07 | 0.01 | 0.07 | +225.0 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-04-23 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.01 | 0.06 | +66.6 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-04-17 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.01 | +305.9 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-04-17 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.01 | +306.0 | Dunky_, macepts, slaneyy, suds, wdog |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

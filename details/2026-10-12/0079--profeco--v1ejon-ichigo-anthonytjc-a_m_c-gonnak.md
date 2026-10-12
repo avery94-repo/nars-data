@@ -3,15 +3,15 @@ Team Name: PROFECO
 Roster: V1ejon, Ichigo, AnthonyTJC, a_m_c, Gonnak
 NARS Rank: 79 of 503
 
-Final Rating: 1788.7
-Seeded Start: 1133.3
-H2H Adjustment: +655.4
+Final Rating: 1788.9
+Seeded Start: 1133.1
+H2H Adjustment: +655.8 (capped at +-300, raw +655.7)
 
-Final Rating (1788.7) = Seeded Start (1133.3) + H2H Adjustment (+655.4)
+Final Rating (1788.9) = Seeded Start (1133.1) + H2H Adjustment (+655.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.024 x 1400 = 1133.3
+                = 1100 + 0.024 x 1400 = 1133.1
 
 seed_factor 0.024 = 0.25 x Tier Exposure (0.016) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.066)
 
@@ -24,12 +24,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Bird Squishers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.04 | 0.28 | +239.4 | AnthonyTJC, CULIACAN, Flack--, Ichigo, Nivek1ngg, V1ejon |
-| 2026-05-20 | VOID ALUNE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.00 | 0.27 | +199.2 | AnthonyTJC, Ichigo, Kai206, V1ejon, a_m_c |
-| 2026-05-13 | Kloncz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.00 | -223.5 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
-| 2026-05-08 | ORCA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.18 | 0.03 | 0.18 | +318.9 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
-| 2026-05-06 | Salsas Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.02 | 0.16 | +173.6 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
-| 2026-04-29 | GOOZPEEK | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -360.3 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
+| 2026-05-22 | Bird Squishers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.04 | 0.28 | +239.7 | AnthonyTJC, CULIACAN, Flack--, Ichigo, Nivek1ngg, V1ejon |
+| 2026-05-20 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.00 | 0.27 | +199.2 | AnthonyTJC, Ichigo, Kai206, V1ejon, a_m_c |
+| 2026-05-13 | the dragon warrior scroll | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.00 | -223.6 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
+| 2026-05-08 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.18 | 0.03 | 0.18 | +319.1 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
+| 2026-05-06 | Salsas Mazzin Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.02 | 0.16 | +173.6 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
+| 2026-04-29 | GOOZPEEK | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -360.4 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
 | 2026-04-22 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.00 | 0.05 | +14.7 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
 | 2026-04-17 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.01 | +293.4 | AnthonyTJC, Flack--, Ichigo, V1ejon, a_m_c |
 

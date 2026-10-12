@@ -3,15 +3,15 @@ Team Name: 773Revival
 Roster: JaZo, SepehrS, assyrianMOT, SPERMY, NAKIB
 NARS Rank: 305 of 503
 
-Final Rating: 1284.0
-Seeded Start: 1258.1
-H2H Adjustment: +25.9
+Final Rating: 1282.7
+Seeded Start: 1257.8
+H2H Adjustment: +24.9
 
-Final Rating (1284.0) = Seeded Start (1258.1) + H2H Adjustment (+25.9)
+Final Rating (1282.7) = Seeded Start (1257.8) + H2H Adjustment (+24.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.113 x 1400 = 1258.1
+                = 1100 + 0.113 x 1400 = 1257.8
 
 seed_factor 0.113 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.031) + 0.25 x Opponent Network (0.315)
 
@@ -24,24 +24,24 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-26 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.18 | 1.00 | 1.05 | 0.00 | 0.00 | -97.0 | 1KoR, Banadoora, JaZo, SepehrS, assyrianMOT |
-| 2026-08-21 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.85 | 1.18 | 1.00 | 1.01 | 0.09 | 1.01 | +2.9 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
-| 2026-08-19 | Spellbound Sprayers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.18 | 1.00 | 0.99 | 0.09 | 0.99 | +28.3 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
-| 2026-08-14 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.18 | 1.00 | 0.95 | 0.00 | 0.00 | -79.6 | JaZo, NAKIB, SepehrS, assyrianMOT, jakeMOTM |
-| 2026-08-12 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.18 | 1.00 | 0.94 | 0.00 | 0.00 | -98.1 | JaZo, NAKIB, SepehrS, assyrianMOT, jakeMOTM |
-| 2026-08-07 | Malevolent EC | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.18 | 1.00 | 0.90 | 0.00 | 0.00 | -79.0 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
-| 2026-07-29 | ALL IN | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.18 | 1.00 | 0.83 | 0.06 | 0.83 | +156.5 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
-| 2026-07-24 | Team Xtreme | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.18 | 1.00 | 0.79 | 0.00 | 0.00 | -141.5 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
-| 2026-07-16 | MASTER ONE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.18 | 1.00 | 0.72 | 0.14 | 0.72 | +173.4 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
-| 2026-07-15 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.18 | 1.00 | 0.72 | 0.00 | 0.00 | -149.9 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
-| 2026-05-21 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -194.5 | JaZo, NAKIB, SPERMY, SepehrS, assyrianMOT |
+| 2026-08-26 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.18 | 1.00 | 1.05 | 0.00 | 0.00 | -96.8 | 1KoR, Banadoora, JaZo, SepehrS, assyrianMOT |
+| 2026-08-21 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.85 | 1.18 | 1.00 | 1.01 | 0.09 | 1.01 | +3.0 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
+| 2026-08-19 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.18 | 1.00 | 0.99 | 0.09 | 0.99 | +29.0 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
+| 2026-08-14 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.18 | 1.00 | 0.95 | 0.00 | 0.00 | -79.2 | JaZo, NAKIB, SepehrS, assyrianMOT, jakeMOTM |
+| 2026-08-12 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.18 | 1.00 | 0.94 | 0.00 | 0.00 | -97.6 | JaZo, NAKIB, SepehrS, assyrianMOT, jakeMOTM |
+| 2026-08-07 | Manx Recovery Program | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.18 | 1.00 | 0.90 | 0.00 | 0.00 | -78.2 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
+| 2026-07-29 | ALL IN | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.18 | 1.00 | 0.83 | 0.06 | 0.83 | +158.1 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
+| 2026-07-24 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.18 | 1.00 | 0.79 | 0.00 | 0.00 | -139.3 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
+| 2026-07-16 | MASTER ONE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.18 | 1.00 | 0.72 | 0.14 | 0.72 | +165.7 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
+| 2026-07-15 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.18 | 1.00 | 0.72 | 0.00 | 0.00 | -150.1 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
+| 2026-05-21 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -194.6 | JaZo, NAKIB, SPERMY, SepehrS, assyrianMOT |
 | 2026-05-20 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.00 | 0.27 | +2.1 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
-| 2026-05-15 | Sassy Sunshines | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.03 | 0.23 | +225.5 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
-| 2026-05-13 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.22 | 0.04 | 0.22 | +149.5 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
-| 2026-05-08 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.18 | 0.00 | 0.00 | -208.4 | Banadoora, JaZo, NAKIB, SPERMY, assyrianMOT |
-| 2026-05-06 | YHUBEPCAM | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -169.8 | JaZo, NAKIB, SPERMY, SepehrS, assyrianMOT |
+| 2026-05-15 | Sassy Sunshines | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.03 | 0.23 | +225.8 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
+| 2026-05-13 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.04 | 0.21 | +149.8 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
+| 2026-05-08 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.18 | 0.00 | 0.00 | -208.5 | Banadoora, JaZo, NAKIB, SPERMY, assyrianMOT |
+| 2026-05-06 | YHUBEPCAM | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -170.0 | JaZo, NAKIB, SPERMY, SepehrS, assyrianMOT |
 | 2026-05-01 | CNCS Last Hope | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.00 | 0.12 | +81.5 | 1KoR, JaZo, NAKIB, SPERMY, SepehrS |
-| 2026-04-30 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.02 | 0.11 | +221.4 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
-| 2026-04-22 | CLUE IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.00 | 0.05 | +202.6 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
+| 2026-04-30 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.02 | 0.11 | +221.5 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
+| 2026-04-22 | CLUE IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.00 | 0.05 | +202.7 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

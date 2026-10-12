@@ -3,15 +3,15 @@ Team Name: TELETUBEASTS
 Roster: unsnappy, joof, hdz_, MASOR, smokncatpiss
 NARS Rank: 308 of 503
 
-Final Rating: 1276.3
-Seeded Start: 1220.0
-H2H Adjustment: +56.3
+Final Rating: 1277.1
+Seeded Start: 1219.9
+H2H Adjustment: +57.2
 
-Final Rating (1276.3) = Seeded Start (1220.0) + H2H Adjustment (+56.3)
+Final Rating (1277.1) = Seeded Start (1219.9) + H2H Adjustment (+57.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.086 x 1400 = 1220.0
+                = 1100 + 0.086 x 1400 = 1219.9
 
 seed_factor 0.086 = 0.25 x Tier Exposure (0.114) + 0.50 x Quality Wins (0.015) + 0.25 x Opponent Network (0.200)
 
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-07 | UncsStillGotIt | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -99.7 | -CINDER, N3XT--, hdz_, smokncatpiss, unsnappy |
-| 2026-09-12 | AscendentEsport | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -69.8 | -CINDER, MASOR, eoN, hdz_, joof |
-| 2026-09-10 | fiveB | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.11 | 0.98 | +95.1 | -CINDER, MASOR, hdz_, smokncatpiss, unsnappy |
-| 2026-09-08 | Sable | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.07 | 0.97 | +105.4 | -CINDER, MASOR, hdz_, smokncatpiss, unsnappy |
+| 2026-10-07 | UncsStillGotIt | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -99.9 | -CINDER, N3XT--, hdz_, smokncatpiss, unsnappy |
+| 2026-09-12 | AscendentEsport | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -69.7 | -CINDER, MASOR, eoN, hdz_, joof |
+| 2026-09-10 | fiveB | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.11 | 0.98 | +94.8 | -CINDER, MASOR, hdz_, smokncatpiss, unsnappy |
+| 2026-09-08 | Sable | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.07 | 0.97 | +106.6 | -CINDER, MASOR, hdz_, smokncatpiss, unsnappy |
 | 2026-09-04 | fih hou | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -117.4 | MASOR, hdz_, joof, smokncatpiss, spooktm |
 | 2026-09-02 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.05 | 0.93 | +142.7 | MASOR, hdz_, joof, smokncatpiss, unsnappy |
 

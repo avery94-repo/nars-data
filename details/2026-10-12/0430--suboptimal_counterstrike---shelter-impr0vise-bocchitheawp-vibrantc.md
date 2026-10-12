@@ -3,11 +3,11 @@ Team Name: Suboptimal counterstrike
 Roster: -Shelter, impr0vise, BocchiTheAwp, vibrantcs, Feathers
 NARS Rank: 430 of 503
 
-Final Rating: 986.9
+Final Rating: 986.7
 Seeded Start: 1167.4
-H2H Adjustment: -180.5
+H2H Adjustment: -180.7
 
-Final Rating (986.9) = Seeded Start (1167.4) + H2H Adjustment (-180.5)
+Final Rating (986.7) = Seeded Start (1167.4) + H2H Adjustment (-180.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-20 | Belladonna | W | 0-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +85.1 | BocchiTheAwp, Feathers, Soul541, pizza-, vibrantcs |
+| 2026-09-20 | Belladonna | W | 0-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +85.0 | BocchiTheAwp, Feathers, Soul541, pizza-, vibrantcs |
 | 2026-09-20 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -0.2 | BocchiTheAwp, Feathers, Soul541, pizza-, vibrantcs |
-| 2026-09-20 | NYX | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -82.6 | BocchiTheAwp, Feathers, Soul541, pizza-, vibrantcs |
-| 2026-09-20 | Koi Pond | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -18.3 | BocchiTheAwp, Feathers, Soul541, pizza-, vibrantcs |
+| 2026-09-20 | NYX | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -82.7 | BocchiTheAwp, Feathers, Soul541, pizza-, vibrantcs |
+| 2026-09-20 | Koi Pond | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -18.2 | BocchiTheAwp, Feathers, Soul541, pizza-, vibrantcs |
 | 2026-09-02 | du bist gut genug | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -164.5 | -Shelter, BocchiTheAwp, Feathers, impr0vise, vibrantcs |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

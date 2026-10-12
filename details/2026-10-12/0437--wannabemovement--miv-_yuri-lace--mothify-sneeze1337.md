@@ -3,11 +3,11 @@ Team Name: WannaBeMovement
 Roster: Miv, _yuri, lace-, mothify, sneeze1337
 NARS Rank: 437 of 503
 
-Final Rating: 957.1
+Final Rating: 957.0
 Seeded Start: 1151.6
-H2H Adjustment: -194.5
+H2H Adjustment: -194.6
 
-Final Rating (957.1) = Seeded Start (1151.6) + H2H Adjustment (-194.5)
+Final Rating (957.0) = Seeded Start (1151.6) + H2H Adjustment (-194.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-06 | Team Nyx | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -56.1 | Ophion, barrett, lace-, mothify, sneeze1337 |
-| 2026-09-04 | BlueberryFuego | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.05 | 0.96 | +211.7 | Ophion, barrett, lace-, mothify, sneeze1337 |
-| 2026-09-02 | Align Esports | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -53.6 | Ophion, barrett, lace-, mothify, sneeze1337 |
-| 2026-06-04 | Boomer Shooters | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -143.7 | Miv, _yuri, lace-, mothify, sneeze1337 |
-| 2026-05-27 | Cojomo Academy Roster | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -152.8 | Miv, _yuri, lace-, mothify, sneeze1337 |
+| 2026-09-06 | Team Nyx | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -56.2 | Ophion, barrett, lace-, mothify, sneeze1337 |
+| 2026-09-04 | BlueberryFuego | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.05 | 0.96 | +211.8 | Ophion, barrett, lace-, mothify, sneeze1337 |
+| 2026-09-02 | Align Esports | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -53.5 | Ophion, barrett, lace-, mothify, sneeze1337 |
+| 2026-06-04 | Vexation Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -143.7 | Miv, _yuri, lace-, mothify, sneeze1337 |
+| 2026-05-27 | Cojomo Academy Roster | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -152.9 | Miv, _yuri, lace-, mothify, sneeze1337 |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

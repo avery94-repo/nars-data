@@ -3,15 +3,15 @@ Team Name: DownTown
 Roster: Johnnydown, Jakey777, Ripsi, hyun, Oathsworn
 NARS Rank: 400 of 503
 
-Final Rating: 1077.6
-Seeded Start: 1137.6
-H2H Adjustment: -60.0
+Final Rating: 1077.2
+Seeded Start: 1137.5
+H2H Adjustment: -60.3
 
-Final Rating (1077.6) = Seeded Start (1137.6) + H2H Adjustment (-60.0)
+Final Rating (1077.2) = Seeded Start (1137.5) + H2H Adjustment (-60.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.027 x 1400 = 1137.6
+                = 1100 + 0.027 x 1400 = 1137.5
 
 seed_factor 0.027 = 0.25 x Tier Exposure (0.031) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.063)
 
@@ -24,18 +24,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-31 | After Peak | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -147.1 | Jakey777, Johnnydown, Kermey, Oathsworn, Ripsi |
-| 2026-05-29 | Remnant | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.04 | 0.29 | +140.1 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-05-27 | Saltcrew | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -232.1 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-05-22 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -293.7 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-05-15 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.01 | 0.20 | +171.2 | Jakey777, Johnnydown, Kermey, Ripsi, hyun |
-| 2026-05-13 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.03 | 0.18 | +65.1 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-05-08 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.15 | 1.00 | 1.00 | 0.15 | 0.01 | 0.15 | +362.6 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-05-06 | Midwest Farmers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -112.7 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-05-01 | WaterDrinkers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -142.3 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-04-29 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.01 | 0.09 | +367.8 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-05-31 | After Peak | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -147.2 | Jakey777, Johnnydown, Kermey, Oathsworn, Ripsi |
+| 2026-05-29 | Remnant | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.04 | 0.29 | +140.3 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-05-27 | Saltcrew | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -232.2 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-05-22 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -294.2 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-05-15 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.01 | 0.20 | +171.5 | Jakey777, Johnnydown, Kermey, Ripsi, hyun |
+| 2026-05-13 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.03 | 0.18 | +65.0 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-05-08 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.15 | 1.00 | 1.00 | 0.15 | 0.01 | 0.15 | +362.9 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-05-06 | Midwest Farmers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -112.9 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-05-01 | WaterDrinkers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -142.5 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-04-29 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.01 | 0.09 | +368.0 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-04-24 | offBalance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -1.3 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-04-22 | The Plague | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -7.1 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-04-17 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.00 | -230.4 | Jakey777, Johnnydown, Kermey, Ripsi, hyun |
+| 2026-04-17 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.00 | -230.5 | Jakey777, Johnnydown, Kermey, Ripsi, hyun |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_
