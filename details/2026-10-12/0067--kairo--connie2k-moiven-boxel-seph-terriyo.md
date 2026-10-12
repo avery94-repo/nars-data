@@ -5,7 +5,7 @@ NARS Rank: 67 of 503
 
 Final Rating: 1830.6
 Seeded Start: 1456.5
-H2H Adjustment: +374.1 (capped at +-300, raw +374.0)
+H2H Adjustment: +374.1
 
 Final Rating (1830.6) = Seeded Start (1456.5) + H2H Adjustment (+374.1)
 
@@ -27,16 +27,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Saltcrew | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.20 | 0.00 | +13.3 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
 | 2026-09-19 | Hairy Scary Bandits | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -47.2 | Boxel, Connie2k, Seph, TERRIYO, ch0wt1me |
 | 2026-09-17 | Asoka | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.38 | 1.03 | +64.1 | Boxel, Connie2k, Seph, TERRIYO, ch0wt1me |
-| 2026-09-15 | absolute cinema | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.13 | 1.03 | +55.9 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
-| 2026-09-08 | Skyline | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.03 | 1.00 | 1.00 | 0.00 | 0.00 | -45.7 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
+| 2026-09-15 | absolute cinema | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.13 | 1.03 | +56.0 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
+| 2026-09-08 | Skyline | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.03 | 1.00 | 1.00 | 0.00 | 0.00 | -45.8 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
 | 2026-09-06 | Team Amplus | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.28 | 0.00 | +36.6 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
-| 2026-09-04 | Salsas Mazzin Crew | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.12 | 0.00 | +21.9 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
+| 2026-09-04 | Salsas Mazzin Crew | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.12 | 0.00 | +22.0 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
 | 2026-08-28 | Dude Picks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.90 | 1.02 | 1.00 | 0.91 | 0.19 | 0.91 | +54.4 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
 | 2026-08-26 | Meepins | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.13 | 0.90 | +8.4 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
 | 2026-08-21 | Team Amplus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.02 | 1.00 | 0.87 | 0.24 | 0.87 | +38.6 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
-| 2026-08-19 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -12.7 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
+| 2026-08-19 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -12.6 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
 | 2026-08-14 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.02 | 1.00 | 0.82 | 0.00 | 0.00 | -15.2 | Boxel, Connie2k, Moiven, Seph, ch0wt1me |
-| 2026-08-14 | butt | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.02 | 1.00 | 0.82 | 0.00 | 0.00 | -125.6 | Boxel, Connie2k, Moiven, Seph, ch0wt1me |
+| 2026-08-14 | butt | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.02 | 1.00 | 0.82 | 0.00 | 0.00 | -125.7 | Boxel, Connie2k, Moiven, Seph, ch0wt1me |
 | 2026-08-07 | Akatsuki | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.02 | 1.00 | 0.77 | 0.06 | 0.77 | +119.1 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
 | 2026-08-05 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -1.4 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
 | 2026-07-31 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.71 | 1.02 | 1.00 | 0.72 | 0.00 | 0.00 | -237.4 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
@@ -44,19 +44,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Salsas Mazzin Crew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.02 | 1.00 | 0.68 | 0.08 | 0.68 | +2.6 | Boxel, Connie2k, Moiven, TERRIYO, ch0wt1me |
 | 2026-07-22 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.13 | 0.66 | +21.7 | Boxel, Connie2k, Moiven, TERRIYO, ch0wt1me |
 | 2026-07-17 | Abusement Park | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.02 | 1.00 | 0.63 | 0.09 | 0.63 | +263.0 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
-| 2026-07-15 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.10 | 0.61 | +110.7 | Boxel, Connie2k, Seph, TERRIYO, kyr1e |
-| 2026-05-31 | Team Team Name | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.28 | 1.00 | 0.39 | 0.00 | 0.00 | -273.1 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
-| 2026-05-29 | Crimson Vortex | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.28 | 1.00 | 0.37 | 0.00 | 0.00 | -158.2 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
-| 2026-05-22 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -173.3 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
-| 2026-05-20 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.12 | 0.27 | +274.5 | -Solarr, Connie2k, Moiven, Seph, TERRIYO, kyr1e |
+| 2026-07-15 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.10 | 0.61 | +110.9 | Boxel, Connie2k, Seph, TERRIYO, kyr1e |
+| 2026-05-31 | Team Team Name | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.28 | 1.00 | 0.39 | 0.00 | 0.00 | -273.2 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
+| 2026-05-29 | Crimson Vortex | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.28 | 1.00 | 0.37 | 0.00 | 0.00 | -158.3 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
+| 2026-05-22 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -173.4 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
+| 2026-05-20 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.12 | 0.27 | +274.6 | -Solarr, Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-15 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.00 | 0.23 | +128.9 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-13 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.03 | 0.00 | +7.9 | -Solarr, Connie2k, Moiven, Seph, kyr1e |
 | 2026-05-08 | SAFIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.18 | 0.03 | 0.18 | +26.0 | -Solarr, Connie2k, Moiven, Seph, kyr1e |
-| 2026-05-06 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -408.7 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
+| 2026-05-06 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -408.8 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-01 | VOID ALUNE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.04 | 0.12 | +251.3 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
-| 2026-04-29 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +286.3 | Boxel, Connie2k, Moiven, Seph, kyr1e |
-| 2026-04-24 | ThirdSite | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.16 | 1.00 | 0.07 | 0.00 | 0.00 | -288.1 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
-| 2026-04-22 | noname | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.01 | 0.05 | +138.7 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
+| 2026-04-29 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +286.4 | Boxel, Connie2k, Moiven, Seph, kyr1e |
+| 2026-04-24 | ThirdSite | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.16 | 1.00 | 0.07 | 0.00 | 0.00 | -288.2 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
+| 2026-04-22 | noname | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.01 | 0.05 | +138.8 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-04-17 | Entertainment Cheese | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.01 | +231.9 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

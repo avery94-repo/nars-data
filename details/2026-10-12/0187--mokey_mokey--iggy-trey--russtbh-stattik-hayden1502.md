@@ -3,11 +3,11 @@ Team Name: mokey mokey
 Roster: iggy, trey-, russtbh, stattik, hayden1502
 NARS Rank: 187 of 503
 
-Final Rating: 1526.2
+Final Rating: 1526.4
 Seeded Start: 1228.1
-H2H Adjustment: +298.1
+H2H Adjustment: +298.3
 
-Final Rating (1526.2) = Seeded Start (1228.1) + H2H Adjustment (+298.1)
+Final Rating (1526.4) = Seeded Start (1228.1) + H2H Adjustment (+298.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,9 +24,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | Cortex Jellies | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.14 | 1.01 | +108.0 | hayden1502, iggy, russtbh, stattik, trey- |
+| 2026-09-10 | Cortex Jellies | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.14 | 1.01 | +108.1 | hayden1502, iggy, russtbh, stattik, trey- |
 | 2026-09-08 | Coop De Grace | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.06 | 0.99 | +76.3 | hayden1502, iggy, russtbh, stattik, trey- |
-| 2026-09-06 | Pocket Snatchers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.05 | 0.98 | +85.4 | USToaster, hayden1502, iggy, russtbh, stattik |
+| 2026-09-06 | Pocket Snatchers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.05 | 0.98 | +85.5 | USToaster, hayden1502, iggy, russtbh, stattik |
 | 2026-09-04 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -104.9 | hayden1502, iggy, russtbh, stattik, trey- |
 | 2026-09-02 | Trinity | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.05 | 0.95 | +133.3 | hayden1502, iggy, russtbh, stattik, trey- |
 

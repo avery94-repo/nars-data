@@ -3,11 +3,11 @@ Team Name: MadaNASCAR
 Roster: Dinn, -Garchomp-, Starfy, A-Z, c9gurg
 NARS Rank: 338 of 503
 
-Final Rating: 1228.5
+Final Rating: 1228.4
 Seeded Start: 1441.1
-H2H Adjustment: -212.6
+H2H Adjustment: -212.7
 
-Final Rating (1228.5) = Seeded Start (1441.1) + H2H Adjustment (-212.6)
+Final Rating (1228.4) = Seeded Start (1441.1) + H2H Adjustment (-212.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -36.5 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-08-14 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -39.6 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-08-12 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.16 | 0.79 | +21.1 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
-| 2026-08-07 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.15 | 0.76 | +87.9 | -Garchomp-, A-Z, Hymn_, Starfy, c9gurg |
+| 2026-08-07 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.15 | 0.76 | +88.0 | -Garchomp-, A-Z, Hymn_, Starfy, c9gurg |
 | 2026-08-05 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -18.1 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-31 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -119.3 | -Garchomp-, A-Z, Dinn, Hymn_, Starfy |
 | 2026-07-29 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.09 | 0.70 | +105.3 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.13 | 0.65 | +4.9 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-17 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.08 | 0.62 | +0.9 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-15 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.08 | 0.60 | +5.1 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
-| 2026-06-12 | ZoomNBoom | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.01 | 0.38 | +215.8 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
+| 2026-06-12 | ZoomNBoom | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.01 | 0.38 | +215.9 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
 | 2026-06-05 | Sound of Arthritis | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -171.2 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
 | 2026-05-27 | Slime Time | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +48.0 | A-Z, Dinn, GurvR6, c9gurg, rl4v |
 

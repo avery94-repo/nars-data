@@ -30,6 +30,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | No Future Lifes Over | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -95.2 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
 | 2026-09-06 | Line Steppers | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.11 | 0.96 | +115.8 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
 | 2026-09-04 | BANANA PASTE | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +147.1 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
-| 2026-09-02 | Kahoot Squad | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.11 | 0.93 | +25.9 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
+| 2026-09-02 | Kahoot Squad | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.11 | 0.93 | +25.8 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

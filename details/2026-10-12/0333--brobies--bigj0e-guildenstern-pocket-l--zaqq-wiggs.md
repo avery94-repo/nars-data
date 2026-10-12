@@ -29,6 +29,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | AscendentEsport | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -105.3 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
 | 2026-09-06 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -134.5 | BIGJ0E, Guildenstern, Tristy_, WiggSplitter, ZAQQ |
 | 2026-09-04 | Knox Esports | W | 1-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.11 | 0.94 | +33.0 | BIGJ0E, Guildenstern, TheArtist, WiggSplitter, ZAQQ |
-| 2026-09-02 | Will of Dih | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +354.5 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
+| 2026-09-02 | Will of Dih | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +354.6 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

@@ -26,8 +26,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-17 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -79.3 | Chaztric, WhoFramedMe, peloton_pete, reV-, wonderhead |
 | 2026-09-15 | OPOZIT | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.06 | 1.00 | +78.2 | Chaztric, WhoFramedMe, dscisiv, peloton_pete, wonderhead |
-| 2026-09-08 | pew pew | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -96.8 | Chaztric, WhoFramedMe, dscisiv, reV-, wonderhead |
-| 2026-09-06 | Brobies | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.11 | 0.96 | +130.4 | Chaztric, WhoFramedMe, dscisiv, peloton_pete, wonderhead |
+| 2026-09-08 | pew pew | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -96.9 | Chaztric, WhoFramedMe, dscisiv, reV-, wonderhead |
+| 2026-09-06 | Brobies | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.11 | 0.96 | +130.5 | Chaztric, WhoFramedMe, dscisiv, peloton_pete, wonderhead |
 | 2026-09-04 | NorEasters | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +128.4 | WhoFramedMe, dscisiv, peloton_pete, reV-, wonderhead |
 | 2026-09-02 | Team Forte | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.05 | 0.93 | +134.3 | Chaztric, WhoFramedMe, dscisiv, peloton_pete, reV-, wonderhead |
 

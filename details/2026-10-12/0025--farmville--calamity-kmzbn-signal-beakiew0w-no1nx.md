@@ -3,15 +3,15 @@ Team Name: FarmVille
 Roster: calamity, kmzbn, Signal, BeaKiew0w, no1nx
 NARS Rank: 25 of 503
 
-Final Rating: 2064.8
-Seeded Start: 2072.2
-H2H Adjustment: -7.4
+Final Rating: 2065.0
+Seeded Start: 2071.9
+H2H Adjustment: -6.9
 
-Final Rating (2064.8) = Seeded Start (2072.2) + H2H Adjustment (-7.4)
+Final Rating (2065.0) = Seeded Start (2071.9) + H2H Adjustment (-6.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.694 x 1400 = 2072.2
+                = 1100 + 0.694 x 1400 = 2071.9
 
 seed_factor 0.694 = 0.25 x Tier Exposure (0.904) + 0.50 x Quality Wins (0.471) + 0.25 x Opponent Network (0.931)
 
@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-14 | Celestial Esports | W |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.54 | 1.00 | 1.54 | 0.75 | 1.54 | +0.4 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-14 | Celestial Esports | W | 2-0 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 1.00 | 1.43 | 1.00 | 1.43 | 0.69 | 0.00 | +0.6 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-12 | feet67 | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.06 | 1.02 | +3.3 | BeaKiew0w, Signal, browNNNNN-, kmzbn, no1nx, sava9e |
-| 2026-09-12 | Overtake Sector | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -45.9 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
+| 2026-09-12 | Overtake Sector | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.59 | 0.00 | 0.00 | -46.0 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-11 | SportsBetExpert | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.99 | 1.60 | 1.00 | 1.58 | 0.00 | 0.00 | -0.8 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-10 | makeSHIFT | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.19 | 1.01 | +1.4 | BeaKiew0w, LiLScoop_, Signal, kmzbn, sava9e |
 | 2026-09-09 | counterstrike Team | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.31 | 1.00 | 1.28 | 0.39 | 1.28 | +0.3 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
@@ -48,15 +48,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-03 | babaG | W | 2-1 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.94 | 1.58 | 1.00 | 1.48 | 0.74 | 1.48 | +23.5 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-03 | BucketJonsBoys | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.31 | 1.00 | 1.23 | 0.52 | 1.23 | +0.8 | BeaKiew0w, Signal, kmzbn, slugy, z0rka- |
 | 2026-09-02 | Without a Roof | L | 0-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.93 | 1.58 | 1.00 | 1.47 | 0.00 | 0.00 | -54.5 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
-| 2026-09-02 | babaG | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.93 | 1.58 | 1.00 | 1.47 | 0.73 | 0.00 | +55.3 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
-| 2026-09-02 | Elusive | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.31 | 1.00 | 1.22 | 0.46 | 1.22 | +48.0 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
+| 2026-09-02 | babaG | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.93 | 1.58 | 1.00 | 1.47 | 0.73 | 0.00 | +55.2 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
+| 2026-09-02 | Elusive | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.31 | 1.00 | 1.22 | 0.46 | 1.22 | +48.5 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
 | 2026-09-02 | STAGE-IV | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.05 | 0.95 | +0.0 | BeaKiew0w, Signal, kmzbn, no1nx, sava9e |
 | 2026-08-26 | Voca | L |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.41 | 0.00 | 0.00 | -6.4 | core 3/5 |
 | 2026-08-24 | Rejects | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.87 | 1.42 | 1.00 | 1.23 | 0.32 | 1.23 | +1.1 | BeaKiew0w, Signal, kmzbn, no1nx, z0rka- |
 | 2026-08-23 | Skyline | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.42 | 1.00 | 1.22 | 0.60 | 1.22 | +19.4 | BeaKiew0w, Signal, kmzbn, no1nx, z0rka- |
 | 2026-08-17 | Zomblers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.42 | 1.00 | 1.17 | 0.89 | 1.17 | +92.6 | BeaKiew0w, Signal, kmzbn, no1nx, z0rka- |
 | 2026-08-13 | dice | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.42 | 1.00 | 1.13 | 0.32 | 1.13 | +54.9 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
-| 2026-08-11 | Hairy Scary Bandits | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.42 | 1.00 | 1.12 | 0.00 | 0.00 | -54.2 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
+| 2026-08-11 | Hairy Scary Bandits | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.42 | 1.00 | 1.12 | 0.00 | 0.00 | -54.0 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
 | 2026-05-01 | Wildcard | L |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.17 | 0.00 | 0.00 | -0.4 | core 3/5 |
 | 2026-04-29 | Wildcard | L |  | VRS-tracked 2026-04 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.00 | 0.00 | -2.5 | core 3/5 |
 

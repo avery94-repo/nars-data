@@ -3,11 +3,11 @@ Team Name: RAZED
 Roster: ruggi33, Noah___, Vipum, _Hoba, jR-NASTY
 NARS Rank: 297 of 503
 
-Final Rating: 1292.7
+Final Rating: 1292.6
 Seeded Start: 1202.3
-H2H Adjustment: +90.4
+H2H Adjustment: +90.3
 
-Final Rating (1292.7) = Seeded Start (1202.3) + H2H Adjustment (+90.4)
+Final Rating (1292.6) = Seeded Start (1202.3) + H2H Adjustment (+90.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,13 +26,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-10 | Team Zhao | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -137.2 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
 | 2026-09-04 | Sable | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +108.4 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
-| 2026-09-02 | Uncs United | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.05 | 0.93 | +160.8 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
-| 2026-05-22 | 2THRiLL | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -297.8 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
+| 2026-09-02 | Uncs United | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.05 | 0.93 | +160.9 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
+| 2026-05-22 | 2THRiLL | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -297.9 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-20 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.04 | 0.27 | +155.4 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-15 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.00 | 0.23 | +4.7 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
-| 2026-05-08 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.18 | 0.01 | 0.18 | +209.7 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
-| 2026-05-06 | wealth reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +293.2 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
-| 2026-05-01 | Aers Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.00 | 0.00 | -387.4 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
+| 2026-05-08 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.18 | 0.01 | 0.18 | +209.8 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
+| 2026-05-06 | wealth reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +293.3 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
+| 2026-05-01 | Aers Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.00 | 0.00 | -387.5 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-04-30 | Temple of Swing | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.02 | 0.11 | +393.6 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-04-24 | CLUE IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.16 | 1.00 | 0.07 | 0.00 | 0.00 | -248.8 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-04-22 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.00 | 0.00 | -164.2 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |

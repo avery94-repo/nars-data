@@ -3,11 +3,11 @@ Team Name: GoopT
 Roster: Teeler, Mcberd, fubard, Veggie-, B00LIGAN
 NARS Rank: 447 of 503
 
-Final Rating: 912.8
+Final Rating: 912.6
 Seeded Start: 1270.6
-H2H Adjustment: -357.8 (capped at +-300, raw -357.9)
+H2H Adjustment: -358.0
 
-Final Rating (912.8) = Seeded Start (1270.6) + H2H Adjustment (-357.8)
+Final Rating (912.6) = Seeded Start (1270.6) + H2H Adjustment (-358.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,26 +24,26 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-07 | Cream Team | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -20.3 | B00LIGAN, Mcberd, Veggie-, Xirtify, fubard |
+| 2026-10-07 | Cream Team | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -20.2 | B00LIGAN, Mcberd, Veggie-, Xirtify, fubard |
 | 2026-08-28 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.12 | 0.90 | +76.6 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-08-26 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -46.7 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-08-21 | redtyfguhoj | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.00 | 0.00 | -10.4 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-08-19 | Conduit eSports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -71.7 | B00LIGAN, Mcberd, Teeler, anthonyy, fubard |
-| 2026-08-14 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.05 | 0.80 | +47.0 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
+| 2026-08-14 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.05 | 0.80 | +47.1 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-08-12 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.11 | 0.79 | +35.1 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
-| 2026-08-07 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.05 | 0.76 | +95.9 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
+| 2026-08-07 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.05 | 0.76 | +96.0 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-08-05 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -29.2 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-31 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -121.1 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
-| 2026-07-29 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.18 | 0.70 | +384.8 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
+| 2026-07-29 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.18 | 0.70 | +384.9 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-24 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -6.3 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-17 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -0.0 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-15 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -5.2 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
-| 2026-05-22 | Mace Lindu Ruff Rebound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -307.4 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
-| 2026-05-20 | Gambling and Young | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.23 | +124.2 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
-| 2026-05-13 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.18 | +169.2 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
-| 2026-05-08 | Kennesaw State Gold 2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.15 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -40.8 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
+| 2026-05-22 | Mace Lindu Ruff Rebound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -307.7 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
+| 2026-05-20 | Gambling and Young | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.23 | +124.3 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
+| 2026-05-13 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.18 | +169.3 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
+| 2026-05-08 | Kennesaw State Gold 2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.15 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -41.1 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
 | 2026-05-06 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -160.9 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
-| 2026-04-29 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -145.1 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
+| 2026-04-29 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -145.2 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
 | 2026-04-24 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -9.7 | B00LIGAN, Mcberd, fubard, rozay, tantruM |
 | 2026-04-22 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -316.0 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
 

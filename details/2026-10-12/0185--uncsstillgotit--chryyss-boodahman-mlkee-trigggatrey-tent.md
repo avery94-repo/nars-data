@@ -4,14 +4,14 @@ Roster: chryyss, boodahman, MlKEE, Trigggatrey, Tentoh
 NARS Rank: 185 of 503
 
 Final Rating: 1533.0
-Seeded Start: 1263.1
-H2H Adjustment: +269.9
+Seeded Start: 1263.2
+H2H Adjustment: +269.8
 
-Final Rating (1533.0) = Seeded Start (1263.1) + H2H Adjustment (+269.9)
+Final Rating (1533.0) = Seeded Start (1263.2) + H2H Adjustment (+269.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.117 x 1400 = 1263.1
+                = 1100 + 0.117 x 1400 = 1263.2
 
 seed_factor 0.117 = 0.25 x Tier Exposure (0.119) + 0.50 x Quality Wins (0.031) + 0.25 x Opponent Network (0.285)
 

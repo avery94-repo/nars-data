@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | NKBasketWeavers | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -132.4 | Neeks, Octane-iwnl, purdiB, shok--__--, w0nderr |
 | 2026-06-10 | Box Boys | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -228.6 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
 | 2026-06-04 | WannaBeMovement | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.02 | 0.33 | +141.8 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
-| 2026-05-29 | HigherEducation | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -191.4 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
+| 2026-05-29 | HigherEducation | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -191.5 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
 | 2026-05-26 | Cache Bandits | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +195.7 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

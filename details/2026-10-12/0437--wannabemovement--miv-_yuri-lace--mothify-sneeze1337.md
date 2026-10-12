@@ -4,14 +4,14 @@ Roster: Miv, _yuri, lace-, mothify, sneeze1337
 NARS Rank: 437 of 503
 
 Final Rating: 957.0
-Seeded Start: 1151.6
-H2H Adjustment: -194.6
+Seeded Start: 1151.5
+H2H Adjustment: -194.5
 
-Final Rating (957.0) = Seeded Start (1151.6) + H2H Adjustment (-194.6)
+Final Rating (957.0) = Seeded Start (1151.5) + H2H Adjustment (-194.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.037 x 1400 = 1151.6
+                = 1100 + 0.037 x 1400 = 1151.5
 
 seed_factor 0.037 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.067)
 

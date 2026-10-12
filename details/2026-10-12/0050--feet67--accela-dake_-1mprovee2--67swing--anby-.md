@@ -3,11 +3,11 @@ Team Name: feet67
 Roster: accela, dake_, 1mprovee2, -67swing, -anby-
 NARS Rank: 50 of 503
 
-Final Rating: 1908.2
+Final Rating: 1908.4
 Seeded Start: 1329.3
-H2H Adjustment: +578.9
+H2H Adjustment: +579.1
 
-Final Rating (1908.2) = Seeded Start (1329.3) + H2H Adjustment (+578.9)
+Final Rating (1908.4) = Seeded Start (1329.3) + H2H Adjustment (+579.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-21 | FarmVille | W | 3-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.92 | 1.02 | +71.9 | -67swing, -anby-, 1mprovee2, accela, dake_, ev2 |
 | 2026-09-20 | makeSHIFT | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.19 | 1.02 | +75.1 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-12 | FarmVille | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -3.1 | -67swing, -anby-, 1mprovee2, accela, dake_ |
-| 2026-09-10 | The Kerbins | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.12 | 1.01 | +110.1 | -67swing, -anby-, 1mprovee2, accela, dake_ |
+| 2026-09-10 | The Kerbins | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.12 | 1.01 | +110.3 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-06 | ClanAgain | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.11 | 0.98 | +97.9 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-03 | brb grinding minecraft | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.11 | 0.96 | +126.0 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-02 | Booty | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.05 | 0.95 | +101.1 | -67swing, -anby-, 1mprovee2, accela, dake_ |

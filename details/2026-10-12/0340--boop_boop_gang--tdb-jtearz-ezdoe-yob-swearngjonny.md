@@ -3,15 +3,15 @@ Team Name: Boop Boop Gang
 Roster: tdb, Jtearz, ezdoe, yob, SWEARNGJONNY
 NARS Rank: 340 of 503
 
-Final Rating: 1216.7
-Seeded Start: 1189.1
+Final Rating: 1216.6
+Seeded Start: 1189.0
 H2H Adjustment: +27.6
 
-Final Rating (1216.7) = Seeded Start (1189.1) + H2H Adjustment (+27.6)
+Final Rating (1216.6) = Seeded Start (1189.0) + H2H Adjustment (+27.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.064 x 1400 = 1189.1
+                = 1100 + 0.064 x 1400 = 1189.0
 
 seed_factor 0.064 = 0.25 x Tier Exposure (0.136) + 0.50 x Quality Wins (0.007) + 0.25 x Opponent Network (0.105)
 
@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | APEX | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.00 | 0.00 | -86.6 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, yob |
 | 2026-09-06 | Team GREAT | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -120.3 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, tdb |
 | 2026-09-02 | GameBangers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.05 | 0.95 | +109.6 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
-| 2026-06-12 | dont do drugs kids | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.00 | -141.8 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, tdb |
+| 2026-06-12 | dont do drugs kids | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.00 | -141.9 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, tdb |
 | 2026-06-05 | ABG Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -180.3 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
 | 2026-05-29 | DadDick Esports | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.05 | 0.29 | +274.2 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
 | 2026-05-27 | Diablo | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +176.9 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |

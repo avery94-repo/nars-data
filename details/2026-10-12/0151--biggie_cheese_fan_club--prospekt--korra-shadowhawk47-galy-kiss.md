@@ -3,15 +3,15 @@ Team Name: Biggie Cheese Fan Club
 Roster: prospekt-, korra, SHADOWHAWK47, galy, kiss
 NARS Rank: 151 of 503
 
-Final Rating: 1602.1
-Seeded Start: 1348.0
+Final Rating: 1602.2
+Seeded Start: 1348.1
 H2H Adjustment: +254.1
 
-Final Rating (1602.1) = Seeded Start (1348.0) + H2H Adjustment (+254.1)
+Final Rating (1602.2) = Seeded Start (1348.1) + H2H Adjustment (+254.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.177 x 1400 = 1348.0
+                = 1100 + 0.177 x 1400 = 1348.1
 
 seed_factor 0.177 = 0.25 x Tier Exposure (0.182) + 0.50 x Quality Wins (0.046) + 0.25 x Opponent Network (0.435)
 

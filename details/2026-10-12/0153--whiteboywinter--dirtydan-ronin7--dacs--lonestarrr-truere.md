@@ -3,11 +3,11 @@ Team Name: WhiteBoyWinter
 Roster: dirtydan, ronin7, -DacS-, LoneStarrr, TrueRedux
 NARS Rank: 153 of 503
 
-Final Rating: 1594.8
+Final Rating: 1594.9
 Seeded Start: 1316.1
-H2H Adjustment: +278.7
+H2H Adjustment: +278.8
 
-Final Rating (1594.8) = Seeded Start (1316.1) + H2H Adjustment (+278.7)
+Final Rating (1594.9) = Seeded Start (1316.1) + H2H Adjustment (+278.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | ClanAgain | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +77.2 | LightPat, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-10 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.25 | 1.01 | +96.1 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-06 | Afterimage | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -133.5 | -DacS-, dirtydan, kDuffy, kryph, ronin7 |
-| 2026-09-04 | WhiteWASHED | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.05 | 0.96 | +108.6 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
+| 2026-09-04 | WhiteWASHED | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.05 | 0.96 | +108.7 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-02 | Bone Smokers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.05 | 0.95 | +110.2 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

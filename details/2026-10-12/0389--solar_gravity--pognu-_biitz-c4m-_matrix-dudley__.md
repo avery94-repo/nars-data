@@ -3,11 +3,11 @@ Team Name: Solar Gravity
 Roster: Pognu, _bIitz, C4M, _Matrix, Dudley__
 NARS Rank: 389 of 503
 
-Final Rating: 1106.6
+Final Rating: 1106.5
 Seeded Start: 1265.5
-H2H Adjustment: -158.9
+H2H Adjustment: -159.0
 
-Final Rating (1106.6) = Seeded Start (1265.5) + H2H Adjustment (-158.9)
+Final Rating (1106.5) = Seeded Start (1265.5) + H2H Adjustment (-159.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,9 +29,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | wealth reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.02 | 1.00 | 0.87 | 0.00 | 0.00 | -83.5 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-08-19 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.07 | 0.85 | +66.1 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-08-14 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.02 | 1.00 | 0.82 | 0.05 | 0.82 | +14.7 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
-| 2026-08-12 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.80 | 0.11 | 0.80 | +215.6 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
+| 2026-08-12 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.80 | 0.11 | 0.80 | +215.7 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-08-07 | Schadenfreude | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.02 | 1.00 | 0.77 | 0.00 | 0.00 | -34.5 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
-| 2026-08-05 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.05 | 0.76 | +78.7 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
+| 2026-08-05 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.05 | 0.76 | +78.8 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-07-31 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.71 | 1.02 | 1.00 | 0.72 | 0.00 | 0.00 | -0.3 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-07-29 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -0.6 | C4M, Dudley__, Virifucx, _Matrix, _bIitz |
 | 2026-07-28 | Quality | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -0.0 | C4M, Dudley__, Virifucx, _Matrix, _bIitz |
@@ -40,9 +40,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.09 | 0.61 | +412.5 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-05-22 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.31 | 1.00 | 0.32 | 0.00 | 0.00 | -2.9 | C4M, Dudley__, Pognu, Virifucx, _Matrix |
 | 2026-05-21 | Addice | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.31 | 1.00 | 0.31 | 0.00 | 0.00 | -0.7 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
-| 2026-05-20 | girl kissers | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.31 | 1.00 | 0.30 | 0.00 | 0.00 | -370.1 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
+| 2026-05-20 | girl kissers | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.31 | 1.00 | 0.30 | 0.00 | 0.00 | -370.2 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-05-14 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.19 | 1.31 | 1.00 | 0.25 | 0.00 | 0.00 | -1.9 | Dudley__, Pognu, Virifucx, _Matrix, _bIitz |
-| 2026-05-06 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.31 | 1.00 | 0.18 | 0.04 | 0.18 | +313.2 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
+| 2026-05-06 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.31 | 1.00 | 0.18 | 0.04 | 0.18 | +313.4 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-05-01 | Team Hyper | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.31 | 1.00 | 0.14 | 0.00 | 0.00 | -31.9 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-04-28 | counterstrike Team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.31 | 1.00 | 0.11 | 0.00 | 0.00 | -116.4 | C4M, Dudley__, Virifucx, _Matrix, _bIitz |
 | 2026-04-27 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.31 | 1.00 | 0.10 | 0.00 | 0.00 | -0.0 | C4M, Dudley__, Virifucx, _Matrix, _bIitz |

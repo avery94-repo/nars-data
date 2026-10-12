@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Ablert and Co | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -124.2 | --lenny, Keokefef, Rodeo, Savages, talx_ |
 | 2026-09-02 | deez | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -114.8 | Gxldy, Keokefef, Rodeo, glizzy, talx_ |
 | 2026-06-03 | makeSHIFT | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -29.6 | Keokefef, Rodeo, glizzy, luffo, talx_ |
-| 2026-05-29 | Internet Coffee | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.29 | +184.4 | Keokefef, Rodeo, glizzy, luffo, talx_ |
-| 2026-05-27 | retirement home | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -208.1 | Gxldy, Keokefef, Rodeo, glizzy, talx_ |
+| 2026-05-29 | Internet Coffee | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.29 | +184.5 | Keokefef, Rodeo, glizzy, luffo, talx_ |
+| 2026-05-27 | retirement home | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -208.2 | Gxldy, Keokefef, Rodeo, glizzy, talx_ |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

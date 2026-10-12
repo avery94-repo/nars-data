@@ -3,15 +3,15 @@ Team Name: Over 30
 Roster: san1ty_st, givy, Fluq, joshgc, Bismu
 NARS Rank: 84 of 503
 
-Final Rating: 1780.9
-Seeded Start: 1253.1
-H2H Adjustment: +527.8
+Final Rating: 1781.0
+Seeded Start: 1253.2
+H2H Adjustment: +527.8 (capped at +-300, raw +527.9)
 
-Final Rating (1780.9) = Seeded Start (1253.1) + H2H Adjustment (+527.8)
+Final Rating (1781.0) = Seeded Start (1253.2) + H2H Adjustment (+527.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.109 x 1400 = 1253.1
+                = 1100 + 0.109 x 1400 = 1253.2
 
 seed_factor 0.109 = 0.25 x Tier Exposure (0.057) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.340)
 

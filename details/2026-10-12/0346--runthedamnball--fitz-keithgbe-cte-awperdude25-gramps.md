@@ -3,15 +3,15 @@ Team Name: RunTheDamnBall
 Roster: Fitz, KeithGBE, cte, AwperDude25, gramps
 NARS Rank: 346 of 503
 
-Final Rating: 1201.8
-Seeded Start: 1294.2
-H2H Adjustment: -92.4
+Final Rating: 1202.1
+Seeded Start: 1294.1
+H2H Adjustment: -92.0
 
-Final Rating (1201.8) = Seeded Start (1294.2) + H2H Adjustment (-92.4)
+Final Rating (1202.1) = Seeded Start (1294.1) + H2H Adjustment (-92.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.139 x 1400 = 1294.2
+                = 1100 + 0.139 x 1400 = 1294.1
 
 seed_factor 0.139 = 0.25 x Tier Exposure (0.192) + 0.50 x Quality Wins (0.040) + 0.25 x Opponent Network (0.284)
 
@@ -24,28 +24,28 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | GOOZPEEK | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -54.7 | Fitz, blahckhammer, cte, garfieldlj, gramps |
-| 2026-10-07 | Kevin James Fan Club | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -33.0 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-10-09 | GOOZPEEK | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -55.1 | Fitz, blahckhammer, cte, garfieldlj, gramps |
+| 2026-10-07 | Kevin James Fan Club | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -32.2 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-09-03 | 1001 Fragrance | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -7.7 | AwperDude25, KeithGBE, __png, cte, gramps |
 | 2026-08-27 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -62.1 | AwperDude25, Fitz, KeithGBE, __png, cte |
-| 2026-08-21 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.06 | 0.85 | +78.4 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-08-21 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.06 | 0.85 | +78.5 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-08-19 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.16 | 0.84 | +75.7 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-08-14 | Bald | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -58.1 | AwperDude25, Fitz, KeithGBE, __png, gramps |
 | 2026-08-12 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -140.9 | AwperDude25, Fitz, KeithGBE, cte, gramps |
-| 2026-08-07 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -89.6 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-08-07 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -89.7 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-08-05 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -140.7 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-07-24 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -54.9 | AwperDude25, Fitz, KeithGBE, cte, gramps |
-| 2026-07-22 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.13 | 0.65 | +154.3 | AwperDude25, Fitz, KeithGBE, cte, gramps |
-| 2026-07-17 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.08 | 0.62 | +303.3 | AwperDude25, Fitz, KeithGBE, cte, gramps |
-| 2026-07-15 | Goyim Gladiators | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.11 | 0.60 | +409.2 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-07-22 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.13 | 0.65 | +154.4 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-07-17 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.08 | 0.62 | +303.5 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-07-15 | Goyim Gladiators | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.11 | 0.60 | +409.3 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-05-27 | Akatsuki | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -0.5 | AwperDude25, Fitz, KeithGBE, blahckhammer, cte |
 | 2026-05-22 | WaterDrinkers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -306.4 | AwperDude25, Fitz, KeithGBE, blahckhammer, cte |
-| 2026-05-20 | Feels MAIN Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.00 | -320.9 | AwperDude25, Fitz, KeithGBE, blahckhammer, cte |
+| 2026-05-20 | Feels MAIN Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.00 | -321.0 | AwperDude25, Fitz, KeithGBE, blahckhammer, cte |
 | 2026-05-13 | AURA Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.04 | 0.18 | +4.8 | AwperDude25, Fitz, KeithGBE, cte, gramps |
-| 2026-05-08 | We Play Naked | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.15 | 1.00 | 1.00 | 0.15 | 0.03 | 0.15 | +205.3 | AwperDude25, Fitz, KeithGBE, blahckhammer, gramps |
-| 2026-05-06 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -240.6 | AwperDude25, Fitz, KeithGBE, cte, gramps |
-| 2026-05-01 | Bad Jawn | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +405.7 | AwperDude25, Fitz, KeithGBE, cte, gramps |
-| 2026-04-29 | SuperSoakerClub | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -328.8 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-05-08 | We Play Naked | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.15 | 1.00 | 1.00 | 0.15 | 0.03 | 0.15 | +205.6 | AwperDude25, Fitz, KeithGBE, blahckhammer, gramps |
+| 2026-05-06 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -240.3 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-05-01 | Bad Jawn | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +404.9 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-04-29 | SuperSoakerClub | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -328.9 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-04-24 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.06 | +14.1 | Fitz, KeithGBE, blahckhammer, cte, gramps |
 | 2026-04-22 | GoopT | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.01 | 0.04 | +316.0 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-04-17 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.00 | -220.4 | AwperDude25, Fitz, KeithGBE, cte, gramps |

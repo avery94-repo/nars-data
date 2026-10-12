@@ -3,11 +3,11 @@ Team Name: Big Kahuna Gaming
 Roster: Siege_03, -chb, spiderW, r0f, Thane0s
 NARS Rank: 435 of 503
 
-Final Rating: 967.1
+Final Rating: 966.9
 Seeded Start: 1160.4
-H2H Adjustment: -193.3
+H2H Adjustment: -193.5
 
-Final Rating (967.1) = Seeded Start (1160.4) + H2H Adjustment (-193.3)
+Final Rating (966.9) = Seeded Start (1160.4) + H2H Adjustment (-193.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-05 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -105.4 | -chb, Siege_03, nolarb, r0f, spiderW |
+| 2026-08-05 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -105.5 | -chb, Siege_03, nolarb, r0f, spiderW |
 | 2026-07-31 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.05 | 0.71 | +14.4 | -chb, Siege_03, Thane0s, nolarb, spiderW |
 | 2026-07-24 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.09 | 0.66 | +242.0 | -chb, Gumberoo, Thane0s, r0f, spiderW |
 | 2026-07-22 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -4.5 | -chb, Siege_03, Thane0s, r0f, spiderW |

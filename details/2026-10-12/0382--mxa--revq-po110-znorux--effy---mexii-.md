@@ -3,11 +3,11 @@ Team Name: MXA
 Roster: Revq, po110, Znorux, -effy-, -Mexii-
 NARS Rank: 382 of 503
 
-Final Rating: 1122.7
+Final Rating: 1122.6
 Seeded Start: 1120.2
-H2H Adjustment: +2.5
+H2H Adjustment: +2.4
 
-Final Rating (1122.7) = Seeded Start (1120.2) + H2H Adjustment (+2.5)
+Final Rating (1122.6) = Seeded Start (1120.2) + H2H Adjustment (+2.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,11 +26,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -6.3 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-20 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -196.3 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-05-13 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.00 | -297.8 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-05-12 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.03 | 0.21 | +221.0 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-05-01 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.01 | 0.12 | +80.8 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-04-29 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.02 | 0.11 | +230.2 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-05-13 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.00 | -297.9 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-05-12 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.03 | 0.21 | +221.1 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-05-01 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.01 | 0.12 | +80.7 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-04-29 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.02 | 0.11 | +230.3 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-04-24 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.16 | 1.00 | 0.07 | 0.00 | 0.07 | +160.1 | -Mexii-, -effy-, 1Tenshi, Znorux, po110 |
-| 2026-04-23 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -189.2 | -Mexii-, -effy-, 1Tenshi, Znorux, po110 |
+| 2026-04-23 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -189.3 | -Mexii-, -effy-, 1Tenshi, Znorux, po110 |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

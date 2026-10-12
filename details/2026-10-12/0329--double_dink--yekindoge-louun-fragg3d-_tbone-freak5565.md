@@ -3,11 +3,11 @@ Team Name: Double Dink
 Roster: YEKINDOGE, Louun, Fragg3d, _tbone, Freak5565
 NARS Rank: 329 of 503
 
-Final Rating: 1240.2
+Final Rating: 1240.1
 Seeded Start: 1228.5
-H2H Adjustment: +11.7
+H2H Adjustment: +11.6
 
-Final Rating (1240.2) = Seeded Start (1228.5) + H2H Adjustment (+11.7)
+Final Rating (1240.1) = Seeded Start (1228.5) + H2H Adjustment (+11.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | Muncle | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.14 | 1.00 | +5.3 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
 | 2026-09-10 | deluxe | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.10 | 1.00 | 1.08 | 0.00 | 0.00 | -59.4 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
-| 2026-09-08 | Heavens Gate | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.10 | 1.00 | 1.07 | 0.06 | 1.07 | +125.9 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
+| 2026-09-08 | Heavens Gate | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.10 | 1.00 | 1.06 | 0.06 | 1.06 | +126.0 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
 | 2026-09-06 | Zero Remorse | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.10 | 1.00 | 1.05 | 0.06 | 1.05 | +114.2 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
 | 2026-09-04 | house | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.10 | 1.00 | 1.04 | 0.00 | 0.00 | -174.3 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
 

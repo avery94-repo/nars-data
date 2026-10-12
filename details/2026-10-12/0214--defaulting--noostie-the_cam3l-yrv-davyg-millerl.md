@@ -3,11 +3,11 @@ Team Name: Defaulting
 Roster: noostie, The_Cam3l, YRV, DavyG, MillerL
 NARS Rank: 214 of 503
 
-Final Rating: 1474.8
+Final Rating: 1474.9
 Seeded Start: 1257.9
-H2H Adjustment: +216.9
+H2H Adjustment: +217.0
 
-Final Rating (1474.8) = Seeded Start (1257.9) + H2H Adjustment (+216.9)
+Final Rating (1474.9) = Seeded Start (1257.9) + H2H Adjustment (+217.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | +172.5 | DavyG, JCIV, MillerL, YRV, noostie |
+| 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | +172.6 | DavyG, JCIV, MillerL, YRV, noostie |
 | 2026-09-12 | COGNITIVE | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.10 | 1.00 | 1.09 | 0.00 | 0.00 | -114.4 | DavyG, MillerL, The_Cam3l, YRV, santanamolly |
 | 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.10 | 1.00 | 1.08 | 0.13 | 1.08 | +94.9 | DavyG, EndMeThx, JCIV, MillerL, YRV |
 | 2026-09-06 | RH Help Desk | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.10 | 1.00 | 1.05 | 0.00 | 0.00 | -145.4 | DavyG, EndMeThx, MillerL, The_Cam3l, YRV |

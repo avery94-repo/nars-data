@@ -7777,17 +7777,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "1-4074610f-97e6-47e0-8714-0d68e2895eff",
-  "date": "2026-09-06",
-  "competition": "S58 NA Open9-10 East - Playoffs C",
-  "team_a": "Bad Jawn",
-  "team_b": "GodFather Gaming",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
   "match_id": "1-40a1474f-4f66-4b09-9333-7c7875f851fd",
   "date": "2026-09-06",
   "competition": "S58 NA Open9-10 East - Playoffs C",
@@ -32873,6 +32862,17 @@
   "competition": "S58 NA Main A - Regular Season",
   "team_a": "Hack-A-Shaq",
   "team_b": "After Peak",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-139fa71e-dc08-41e0-9403-01ffdee1aecb",
+  "date": "2026-07-22",
+  "competition": "S58 NA Intermediate B - Regular Season",
+  "team_a": "D1NK Esports",
+  "team_b": "The Third Eye",
   "winner": "a",
   "score": "1-0",
   "tier": "C",

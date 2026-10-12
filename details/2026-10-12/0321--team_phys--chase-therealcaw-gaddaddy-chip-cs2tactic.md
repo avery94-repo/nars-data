@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-04 | Trinity | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.05 | 0.96 | +90.1 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
+| 2026-09-04 | Trinity | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.05 | 0.96 | +90.2 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
 | 2026-09-03 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -187.0 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
 | 2026-06-03 | Head Trauma | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -182.3 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
 | 2026-05-29 | Midnight Club Esports | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.29 | +180.4 | CS2Tactics, Chase, Chip, Isbop, TheRealCaw |

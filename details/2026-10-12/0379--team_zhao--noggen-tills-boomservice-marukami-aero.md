@@ -3,11 +3,11 @@ Team Name: Team Zhao
 Roster: noggen, Tills, BoomService, Marukami, aero
 NARS Rank: 379 of 503
 
-Final Rating: 1133.4
+Final Rating: 1132.9
 Seeded Start: 1244.3
-H2H Adjustment: -110.9
+H2H Adjustment: -111.4
 
-Final Rating (1133.4) = Seeded Start (1244.3) + H2H Adjustment (-110.9)
+Final Rating (1132.9) = Seeded Start (1244.3) + H2H Adjustment (-111.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,8 +24,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Mud Wizards | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -131.3 | BoomService, Marukami, Tills, aero, noggen |
-| 2026-10-07 | Bad Jawn | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -91.3 | BoomService, Marukami, Tills, aero, noggen |
+| 2026-10-09 | Mud Wizards | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -130.9 | BoomService, Marukami, Tills, aero, noggen |
+| 2026-10-07 | Bad Jawn | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -92.3 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-12 | KIS | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -146.7 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-10 | RAZED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +129.6 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-08 | T Shirt Material | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.07 | 0.97 | +100.9 | BoomService, Marukami, Tills, aero, noggen |

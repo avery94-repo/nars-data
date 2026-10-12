@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-18 | fih hou | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -66.9 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
-| 2026-09-17 | Vibe Check | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.06 | 1.00 | +79.6 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
+| 2026-09-17 | Vibe Check | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.06 | 1.00 | +79.7 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
 | 2026-09-15 | KIS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +88.5 | 1Cyrix, Gonzo_, Seb, _MD_, sniperclub01 |
 | 2026-09-08 | Trap Castle | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -99.6 | 1Cyrix, FurDaddy, Perree, _MD_, sniperclub01 |
 | 2026-09-06 | LAF | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.13 | 0.96 | +61.1 | 1Cyrix, DJF, FurDaddy, _MD_, sniperclub01 |

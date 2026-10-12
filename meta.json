@@ -1,7 +1,7 @@
 {
  "schema_version": 2,
- "snapshot": "2026-10-12T11:46:51.327095+00:00",
- "exported_at": "2026-10-12T11:50:10Z",
+ "snapshot": "2026-10-12T12:43:47.655418+00:00",
+ "exported_at": "2026-10-12T12:44:02Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
  "matches_qualifying": 5576,

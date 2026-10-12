@@ -3,11 +3,11 @@ Team Name: Gambling and Young
 Roster: Shadowbladex, Tspencer1, Andooby, k4rmaa_, ObMmM
 NARS Rank: 473 of 503
 
-Final Rating: 795.2
+Final Rating: 795.0
 Seeded Start: 1118.1
-H2H Adjustment: -322.9
+H2H Adjustment: -323.1
 
-Final Rating (795.2) = Seeded Start (1118.1) + H2H Adjustment (-322.9)
+Final Rating (795.0) = Seeded Start (1118.1) + H2H Adjustment (-323.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,11 +25,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +312.0 | Andooby, ObMmM, Tspencer1, danwill77, k4rmaa_ |
-| 2026-05-20 | GoopT | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.00 | -123.0 | Andooby, ObMmM, Shadowbladex, Tspencer1, k4rmaa_ |
+| 2026-05-20 | GoopT | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.00 | -123.1 | Andooby, ObMmM, Shadowbladex, Tspencer1, k4rmaa_ |
 | 2026-05-15 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.20 | +151.7 | Andooby, ObMmM, Shadowbladex, Tspencer1, danwill77 |
-| 2026-05-13 | Dapper North | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -342.2 | Andooby, ObMmM, Shadowbladex, Tatankalanka, danwill77 |
+| 2026-05-13 | Dapper North | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -342.3 | Andooby, ObMmM, Shadowbladex, Tatankalanka, danwill77 |
 | 2026-05-08 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.15 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -18.0 | Andooby, Shadowbladex, Tatankalanka, Tspencer1, k4rmaa_ |
-| 2026-05-06 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -6.2 | ObMmM, Shadowbladex, Tatankalanka, Tspencer1, k4rmaa_ |
+| 2026-05-06 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -6.3 | ObMmM, Shadowbladex, Tatankalanka, Tspencer1, k4rmaa_ |
 | 2026-05-01 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -141.8 | Andooby, ObMmM, Shadowbladex, danwill77, k4rmaa_ |
 | 2026-04-29 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -314.9 | Andooby, ObMmM, Shadowbladex, danwill77, k4rmaa_ |
 | 2026-04-24 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.06 | +47.0 | Andooby, ObMmM, Shadowbladex, Tspencer1, k4rmaa_ |

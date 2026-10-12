@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-09 | gunked | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -115.5 | EX-, eammon, hlly, patrick-, user00001 |
 | 2026-09-04 | The Coop | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +96.5 | EX-, eammon, hlly, patrick-, user00001 |
 | 2026-09-03 | Team Vyron | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +68.7 | 4FFX, EX-, hlly, patrick-, user00001 |
-| 2026-05-30 | 69 | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -174.0 | EX-, eammon, hlly, patrick-, user00001 |
+| 2026-05-30 | 69 | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -174.1 | EX-, eammon, hlly, patrick-, user00001 |
 | 2026-05-28 | awesomenauts | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +185.3 | EX-, eammon, hlly, patrick-, user00001 |
 | 2026-05-27 | Rainbow Wizards Squad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +176.4 | EX-, eammon, hlly, patrick-, user00001 |
 

@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | ItAintOverYet | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -290.7 | Gloomy17, LazerRadical, Shlepp, TheRealTalo, xxriotpro |
+| 2026-10-09 | ItAintOverYet | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -290.8 | Gloomy17, LazerRadical, Shlepp, TheRealTalo, xxriotpro |
 | 2026-10-08 | FourStrokeGang | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.14 | 1.00 | +0.8 | Gloomy17, LazerRadical, Shlepp, TheRealTalo, xxriotpro |
 | 2026-09-10 | Comeback Bandits | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.11 | 1.01 | +97.6 | Shlepp, TheRealTalo, ZePh, skittle-, xxriotpro |
 | 2026-09-03 | Coop De Grace | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.05 | 0.96 | +171.1 | Shlepp, TheRealTalo, Wo0o0o, skittle-, xxriotpro |

@@ -3,15 +3,15 @@ Team Name: SquishysAngels
 Roster: 1Clutch-, GummySir, -solacE-, Char, El_RETRO
 NARS Rank: 149 of 503
 
-Final Rating: 1605.5
-Seeded Start: 1153.4
+Final Rating: 1605.4
+Seeded Start: 1153.3
 H2H Adjustment: +452.1
 
-Final Rating (1605.5) = Seeded Start (1153.4) + H2H Adjustment (+452.1)
+Final Rating (1605.4) = Seeded Start (1153.3) + H2H Adjustment (+452.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.038 x 1400 = 1153.4
+                = 1100 + 0.038 x 1400 = 1153.3
 
 seed_factor 0.038 = 0.25 x Tier Exposure (0.038) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.081)
 
@@ -24,19 +24,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-31 | Hadouken | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.28 | 1.00 | 0.39 | 0.00 | 0.00 | -286.9 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir, y3ji |
+| 2026-05-31 | Hadouken | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.28 | 1.00 | 0.39 | 0.00 | 0.00 | -287.1 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir, y3ji |
 | 2026-05-29 | DETONATE | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.28 | 1.00 | 0.37 | 0.00 | 0.00 | -9.5 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
 | 2026-05-27 | Storm Surge | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.28 | 1.00 | 0.35 | 0.08 | 0.00 | +127.1 | -solacE-, Char, El_RETRO, GummySir, y3ji |
 | 2026-05-22 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.05 | 0.28 | +17.1 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
-| 2026-05-20 | DUI | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.00 | 0.27 | +307.3 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
-| 2026-05-15 | Shaboing Boing Bandits | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.05 | 0.23 | +360.9 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
-| 2026-05-15 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.00 | 0.00 | -226.7 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
+| 2026-05-20 | DUI | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.00 | 0.27 | +307.4 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
+| 2026-05-15 | Shaboing Boing Bandits | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.05 | 0.23 | +361.0 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
+| 2026-05-15 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.00 | 0.00 | -226.8 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
 | 2026-05-13 | Storm Surge | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.05 | 0.21 | +169.4 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
-| 2026-05-08 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.18 | 0.00 | 0.00 | -0.4 | 1Clutch-, Char, El_RETRO, solflame, y3ji |
-| 2026-05-06 | Zealous | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -330.8 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
-| 2026-04-29 | Sedated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.02 | 0.11 | +84.5 | 1Clutch-, Char, El_RETRO, GummySir, nanners |
-| 2026-04-24 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.16 | 1.00 | 0.07 | 0.01 | 0.07 | +387.9 | 1Clutch-, Char, El_RETRO, GummySir, nanners |
+| 2026-05-08 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.18 | 0.00 | 0.00 | -0.3 | 1Clutch-, Char, El_RETRO, solflame, y3ji |
+| 2026-05-06 | Zealous | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -331.0 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
+| 2026-04-29 | Sedated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.02 | 0.11 | +84.6 | 1Clutch-, Char, El_RETRO, GummySir, nanners |
+| 2026-04-24 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.16 | 1.00 | 0.07 | 0.01 | 0.07 | +388.0 | 1Clutch-, Char, El_RETRO, GummySir, nanners |
 | 2026-04-22 | qcclan | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.00 | 0.00 | -9.8 | 1Clutch-, Char, El_RETRO, GummySir, nanners |
-| 2026-04-17 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.00 | -137.9 | 1Clutch-, Char, El_RETRO, GummySir, nanners |
+| 2026-04-17 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.00 | -138.0 | 1Clutch-, Char, El_RETRO, GummySir, nanners |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_
