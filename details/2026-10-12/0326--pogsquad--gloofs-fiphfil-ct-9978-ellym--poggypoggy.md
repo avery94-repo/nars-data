@@ -3,15 +3,15 @@ Team Name: PogSquad
 Roster: Gloofs, Fiphfil, CT-9978, EllyM-, PoggyPoggy1
 NARS Rank: 326 of 503
 
-Final Rating: 1243.4
-Seeded Start: 1249.2
-H2H Adjustment: -5.8
+Final Rating: 1243.2
+Seeded Start: 1249.1
+H2H Adjustment: -5.9
 
-Final Rating (1243.4) = Seeded Start (1249.2) + H2H Adjustment (-5.8)
+Final Rating (1243.2) = Seeded Start (1249.1) + H2H Adjustment (-5.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.107 x 1400 = 1249.2
+                = 1100 + 0.107 x 1400 = 1249.1
 
 seed_factor 0.107 = 0.25 x Tier Exposure (0.114) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.265)
 
@@ -24,12 +24,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | 55TH ST | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -151.4 | EllyM-, Fiphfil, Gloofs, PoggyPoggy1, nattyD |
+| 2026-10-09 | 55TH ST | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -151.6 | EllyM-, Fiphfil, Gloofs, PoggyPoggy1, nattyD |
 | 2026-10-07 | Thrash | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +1.1 | EllyM-, Fiphfil, Gloofs, PoggyPoggy1, nattyD |
-| 2026-09-15 | AscendentEsport | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -49.0 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
-| 2026-09-08 | No Future Lifes Over | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -95.2 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
-| 2026-09-06 | Line Steppers | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.11 | 0.96 | +115.8 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
-| 2026-09-04 | BANANA PASTE | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +147.1 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
-| 2026-09-02 | Kahoot Squad | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.11 | 0.93 | +25.8 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
+| 2026-09-15 | AscendentEsport | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -49.1 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
+| 2026-09-08 | No Future Lifes Over | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -95.3 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
+| 2026-09-06 | Line Steppers | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.11 | 0.95 | +116.0 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
+| 2026-09-04 | BANANA PASTE | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +147.3 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
+| 2026-09-02 | Kahoot Squad | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.11 | 0.93 | +25.6 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

@@ -3,17 +3,17 @@ Team Name: Zealous
 Roster: borb_, leae, terrk1s, _-JAKEY-_, YaboDuulio
 NARS Rank: 35 of 503
 
-Final Rating: 2001.3
-Seeded Start: 1169.8
-H2H Adjustment: +831.5
+Final Rating: 2003.6
+Seeded Start: 1169.0
+H2H Adjustment: +834.6
 
-Final Rating (2001.3) = Seeded Start (1169.8) + H2H Adjustment (+831.5)
+Final Rating (2003.6) = Seeded Start (1169.0) + H2H Adjustment (+834.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.050 x 1400 = 1169.8
+                = 1100 + 0.049 x 1400 = 1169.0
 
-seed_factor 0.050 = 0.25 x Tier Exposure (0.042) + 0.50 x Quality Wins (0.029) + 0.25 x Opponent Network (0.099)
+seed_factor 0.049 = 0.25 x Tier Exposure (0.042) + 0.50 x Quality Wins (0.029) + 0.25 x Opponent Network (0.098)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -25,17 +25,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-09 | Elation | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.36 | 1.28 | 1.00 | 0.46 | 0.00 | 0.00 | -99.2 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-06-02 | Squeegee | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.28 | 1.00 | 0.41 | 0.00 | 0.00 | -106.6 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-05-31 | Fathom Gaming | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.28 | 1.00 | 0.39 | 0.19 | 0.39 | +302.1 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-05-29 | WhalersOnDaMoon | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.28 | 1.00 | 0.37 | 0.08 | 0.00 | +172.8 | MoonWithaU, YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-05-21 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -168.8 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-05-20 | WhalersOnDaMoon | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.06 | 0.27 | +79.0 | Eesti, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-05-15 | SquadUp | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.08 | 0.23 | +22.8 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-05-13 | Squeegee | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.02 | 0.21 | +262.0 | MoonWithaU, YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-05-06 | SquishysAngels | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +329.4 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-05-01 | GeneticDiff | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.00 | 0.00 | -373.1 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-04-29 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.01 | 0.11 | +14.7 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-04-23 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.01 | 0.06 | +7.9 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-04-17 | Conscious Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.01 | +388.5 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-06-02 | Squeegee | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.28 | 1.00 | 0.40 | 0.00 | 0.00 | -106.7 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-05-31 | Fathom Gaming | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.28 | 1.00 | 0.39 | 0.19 | 0.39 | +302.8 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-05-29 | WhalersOnDaMoon | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.28 | 1.00 | 0.37 | 0.08 | 0.00 | +173.8 | MoonWithaU, YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-05-21 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -168.3 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-05-20 | WhalersOnDaMoon | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.27 | 0.06 | 0.27 | +77.4 | Eesti, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-05-15 | SquadUp | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.16 | 1.00 | 0.23 | 0.07 | 0.23 | +23.7 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-05-13 | Squeegee | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.02 | 0.21 | +263.4 | MoonWithaU, YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-05-06 | SquishysAngels | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +330.1 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-05-01 | GeneticDiff | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.00 | 0.00 | -373.4 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-04-29 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.10 | 0.01 | 0.10 | +14.7 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-04-23 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.01 | 0.06 | +7.7 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-04-17 | Conscious Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.01 | +388.6 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

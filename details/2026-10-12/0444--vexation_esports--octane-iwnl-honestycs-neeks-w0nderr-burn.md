@@ -3,17 +3,17 @@ Team Name: Vexation Esports
 Roster: Octane-iwnl, HonestyCS, Neeks, w0nderr, BurneyProMod
 NARS Rank: 444 of 503
 
-Final Rating: 927.1
-Seeded Start: 1142.1
-H2H Adjustment: -215.0
+Final Rating: 926.6
+Seeded Start: 1141.9
+H2H Adjustment: -215.3
 
-Final Rating (927.1) = Seeded Start (1142.1) + H2H Adjustment (-215.0)
+Final Rating (926.6) = Seeded Start (1141.9) + H2H Adjustment (-215.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.030 x 1400 = 1142.1
+                = 1100 + 0.030 x 1400 = 1141.9
 
-seed_factor 0.030 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.042)
+seed_factor 0.030 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.041)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-02 | NKBasketWeavers | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -132.4 | Neeks, Octane-iwnl, purdiB, shok--__--, w0nderr |
-| 2026-06-10 | Box Boys | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -228.6 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
-| 2026-06-04 | WannaBeMovement | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.02 | 0.33 | +141.8 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
-| 2026-05-29 | HigherEducation | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -191.5 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
-| 2026-05-26 | Cache Bandits | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +195.7 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
+| 2026-06-10 | Real Ones | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -229.0 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
+| 2026-06-04 | WannaBeMovement | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.02 | 0.33 | +141.9 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
+| 2026-05-29 | HigherEducation | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -191.8 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
+| 2026-05-26 | Dust II Bandits | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +195.9 | BurneyProMod, EF_Big, HonestyCS, Neeks, Octane-iwnl |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_

@@ -3,15 +3,15 @@ Team Name: BD Lamron
 Roster: eammon, patrick-, hlly, EX-, user00001
 NARS Rank: 240 of 503
 
-Final Rating: 1427.2
-Seeded Start: 1189.9
-H2H Adjustment: +237.3
+Final Rating: 1427.1
+Seeded Start: 1189.6
+H2H Adjustment: +237.5
 
-Final Rating (1427.2) = Seeded Start (1189.9) + H2H Adjustment (+237.3)
+Final Rating (1427.1) = Seeded Start (1189.6) + H2H Adjustment (+237.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.064 x 1400 = 1189.9
+                = 1100 + 0.064 x 1400 = 1189.6
 
 seed_factor 0.064 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.008) + 0.25 x Opponent Network (0.169)
 
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-09 | gunked | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -115.5 | EX-, eammon, hlly, patrick-, user00001 |
-| 2026-09-04 | The Coop | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +96.5 | EX-, eammon, hlly, patrick-, user00001 |
-| 2026-09-03 | Team Vyron | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +68.7 | 4FFX, EX-, hlly, patrick-, user00001 |
-| 2026-05-30 | 69 | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -174.1 | EX-, eammon, hlly, patrick-, user00001 |
-| 2026-05-28 | awesomenauts | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +185.3 | EX-, eammon, hlly, patrick-, user00001 |
-| 2026-05-27 | Rainbow Wizards Squad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +176.4 | EX-, eammon, hlly, patrick-, user00001 |
+| 2026-09-09 | gunked | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -115.7 | EX-, eammon, hlly, patrick-, user00001 |
+| 2026-09-04 | The Coop | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +96.6 | EX-, eammon, hlly, patrick-, user00001 |
+| 2026-09-03 | Team Vyron | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.05 | 0.94 | +68.8 | 4FFX, EX-, hlly, patrick-, user00001 |
+| 2026-05-30 | 69 | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -174.4 | EX-, eammon, hlly, patrick-, user00001 |
+| 2026-05-28 | awesomenauts | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +185.6 | EX-, eammon, hlly, patrick-, user00001 |
+| 2026-05-27 | Rainbow Wizards Squad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +176.6 | EX-, eammon, hlly, patrick-, user00001 |
 
 _Snapshot 2026-10-12 | NARS v2 | CC BY-SA 4.0_
