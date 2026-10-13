@@ -2794,17 +2794,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-marsborne-2026-09-25-regain-L",
-  "date": "2026-09-25",
-  "competition": "VRS-tracked 2026-09",
-  "team_a": "Marsborne",
-  "team_b": "regain",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-marsborne-2026-09-25-sharp-W",
   "date": "2026-09-25",
   "competition": "VRS-tracked 2026-09",
@@ -9548,17 +9537,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "1-c5133125-bc2d-46a6-8cd3-239f22a8c600",
-  "date": "2026-09-06",
-  "competition": "NSTLGA League S2 | RD3 1-1 Games",
-  "team_a": "DETONATE",
-  "team_b": "Overtake Sector",
-  "winner": "a",
-  "score": "",
-  "tier": "B",
-  "source": "faceit-tournament"
- },
- {
   "match_id": "1-535c6108-2489-4a88-96a8-afb90629eeac",
   "date": "2026-09-06",
   "competition": "NSTLGA League S2 | RD3 1-1 Games",
@@ -9751,17 +9729,6 @@
   "competition": "VRS-tracked 2026-09",
   "team_a": "Iowa Stormboar",
   "team_b": "Beyond Limits",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-overtake sector-2026-09-06-detonate-W",
-  "date": "2026-09-06",
-  "competition": "VRS-tracked 2026-09",
-  "team_a": "Overtake Sector",
-  "team_b": "DETONATE",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -12082,7 +12049,7 @@
   "date": "2026-09-04",
   "competition": "VRS-tracked 2026-09",
   "team_a": "Marsborne",
-  "team_b": "INCOGNITO",
+  "team_b": "Incognito",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -12137,7 +12104,7 @@
   "date": "2026-09-04",
   "competition": "VRS-tracked 2026-09",
   "team_a": "Villainous",
-  "team_b": "INCOGNITO",
+  "team_b": "Incognito",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -18869,7 +18836,7 @@
   "date": "2026-08-26",
   "competition": "VRS-tracked 2026-08",
   "team_a": "Zomblers",
-  "team_b": "INCOGNITO",
+  "team_b": "Incognito",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -19166,7 +19133,7 @@
   "date": "2026-08-25",
   "competition": "VRS-tracked 2026-08",
   "team_a": "Chicken Coop",
-  "team_b": "INCOGNITO",
+  "team_b": "Incognito",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -37150,7 +37117,7 @@
   "match_id": "lp:esports-nations-cup-2026-north-america-united-states:83d6f14e60",
   "date": "2026-07-16",
   "competition": "Esports Nations Cup 2026: American Qualifier",
-  "team_a": "STARS AND STRIPES",
+  "team_a": "stars and stripes",
   "team_b": "Without a Roof",
   "winner": "b",
   "score": "1-2",
@@ -55796,7 +55763,7 @@
   "date": "2026-05-02",
   "competition": "VRS-tracked 2026-05",
   "team_a": "M80",
-  "team_b": "INCOGNITO",
+  "team_b": "Incognito",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -57420,6 +57387,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-incognito-2026-04-30-girl kissers-W",
+  "date": "2026-04-30",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Incognito",
+  "team_b": "girl kissers",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-regain-2026-04-30-farmville-W",
   "date": "2026-04-30",
   "competition": "VRS-tracked 2026-04",
@@ -58960,11 +58938,22 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-insane players-2026-04-28-girl kissers-L",
+  "date": "2026-04-28",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "insane players",
+  "team_b": "girl kissers",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-iowa stormboar-2026-04-28-incognito-W",
   "date": "2026-04-28",
   "competition": "VRS-tracked 2026-04",
   "team_a": "Iowa Stormboar",
-  "team_b": "INCOGNITO",
+  "team_b": "Incognito",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -59118,7 +59107,7 @@
   "date": "2026-04-27",
   "competition": "VRS-tracked 2026-04",
   "team_a": "Marsborne",
-  "team_b": "INSANE PLAYERS",
+  "team_b": "insane players",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -59213,23 +59202,34 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-farmville-2026-04-26-insane players-W",
-  "date": "2026-04-26",
-  "competition": "VRS-tracked 2026-04",
-  "team_a": "FarmVille",
-  "team_b": "INSANE PLAYERS",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-farmville-2026-04-26-overknight-W",
   "date": "2026-04-26",
   "competition": "VRS-tracked 2026-04",
   "team_a": "FarmVille",
   "team_b": "OVERKNIGHT",
   "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-insane players-2026-04-26-farmville-L",
+  "date": "2026-04-26",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "insane players",
+  "team_b": "FarmVille",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-insane players-2026-04-26-incognito-L",
+  "date": "2026-04-26",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "insane players",
+  "team_b": "Incognito",
+  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -62568,6 +62568,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-insane players-2026-04-19-club 333-W",
+  "date": "2026-04-19",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "insane players",
+  "team_b": "Club 333",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-regain-2026-04-19-claymakers-W",
   "date": "2026-04-19",
   "competition": "VRS-tracked 2026-04",
@@ -63771,7 +63782,7 @@
   "date": "2026-04-17",
   "competition": "VRS-tracked 2026-04",
   "team_a": "Zomblers",
-  "team_b": "INSANE PLAYERS",
+  "team_b": "insane players",
   "winner": "b",
   "score": "",
   "tier": "A",
