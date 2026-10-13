@@ -5,7 +5,7 @@ NARS Rank: 495 of 507
 
 Final Rating: 553.9
 Seeded Start: 1137.7
-H2H Adjustment: -583.8 (capped at +-300, raw -583.7)
+H2H Adjustment: -583.8
 
 Final Rating (553.9) = Seeded Start (1137.7) + H2H Adjustment (-583.8)
 
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Evil Space Wizards | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.83 | 1.16 | 1.00 | 0.96 | 0.00 | 0.00 | -30.4 | ChiefKoz2, Jaggrr, Jermaine, droot, nalem- |
 | 2026-08-12 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.91 | 0.00 | 0.00 | -105.4 | ChiefKoz2, Jaggrr, Jermaine, droot, nalem- |
 | 2026-08-07 | Cadillac F1 eSports Team | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.16 | 1.00 | 0.87 | 0.00 | 0.00 | -109.9 | ChiefKoz2, Jaggrr, dammahom, droot, nalem- |
-| 2026-08-05 | Lynnsanity | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -141.6 | ChiefKoz2, Jaggrr, dammahom, droot, nalem- |
+| 2026-08-05 | Lynnsanity | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -141.7 | ChiefKoz2, Jaggrr, dammahom, droot, nalem- |
 | 2026-07-31 | Diamond Mental | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.82 | 0.00 | 0.00 | -96.8 | ChiefKoz2, Jaggrr, dammahom, droot, nalem- |
 | 2026-07-29 | Pugging4Pumpkin | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.16 | 1.00 | 0.80 | 0.00 | 0.00 | -36.5 | ChiefKoz2, Jaggrr, dammahom, droot, nalem- |
 | 2026-07-24 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.16 | 1.00 | 0.76 | 0.00 | 0.00 | -10.2 | Jaggrr, Jermaine, dammahom, droot, nalem- |

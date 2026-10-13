@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -170.3 | Jpp, Justhoohaa, Sinxysinxy, skywayz, squidah |
 | 2026-05-15 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -17.4 | Justhoohaa, Sinxysinxy, Swathey, megHA, squidah |
 | 2026-05-13 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -0.4 | Dankner, Justhoohaa, Sinxysinxy, megHA, squidah |
-| 2026-05-08 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -269.2 | Justhoohaa, Sinxysinxy, megHA, skywayz, squidah |
+| 2026-05-08 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -269.3 | Justhoohaa, Sinxysinxy, megHA, skywayz, squidah |
 | 2026-05-06 | Friendly Fire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +143.0 | Justhoohaa, Sinxysinxy, megHA, skywayz, squidah |
 | 2026-05-01 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +85.1 | Justhoohaa, Sinxysinxy, megHA, skywayz, squidah |
 | 2026-04-29 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.08 | +166.3 | Justhoohaa, Sinxysinxy, Swathey, megHA, squidah |

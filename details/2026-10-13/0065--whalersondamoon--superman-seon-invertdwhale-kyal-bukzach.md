@@ -13,7 +13,7 @@ Final Rating (1826.2) = Seeded Start (1424.3) + H2H Adjustment (+401.9)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.232 x 1400 = 1424.3
 
-seed_factor 0.232 = 0.25 x Tier Exposure (0.135) + 0.50 x Quality Wins (0.073) + 0.25 x Opponent Network (0.647)
+seed_factor 0.232 = 0.25 x Tier Exposure (0.135) + 0.50 x Quality Wins (0.072) + 0.25 x Opponent Network (0.647)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -47,7 +47,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-27 | SAFIR | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.03 | 0.34 | +39.0 | BukZacH, Invertdwhale, Superman, devyn, seon |
 | 2026-05-22 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.27 | +187.0 | BukZacH, Invertdwhale, Katalyst---, Superman, seon |
 | 2026-05-20 | Zealous | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -94.1 | BukZacH, Invertdwhale, Superman, hossmarkboss, seon |
-| 2026-05-15 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -257.9 | BukZacH, Invertdwhale, Superman, devyn, seon |
+| 2026-05-15 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -258.0 | BukZacH, Invertdwhale, Superman, devyn, seon |
 | 2026-05-13 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -163.0 | BukZacH, Invertdwhale, Superman, devyn, seon |
 | 2026-05-08 | SquishysAngels | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.16 | +0.2 | BukZacH, Invertdwhale, Superman, devyn, seon |
 | 2026-05-06 | crescent | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +175.6 | BukZacH, Invertdwhale, Superman, devyn, seon |

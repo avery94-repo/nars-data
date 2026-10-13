@@ -13,7 +13,7 @@ Final Rating (689.6) = Seeded Start (1222.9) + H2H Adjustment (-533.3)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.088 x 1400 = 1222.9
 
-seed_factor 0.088 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.013) + 0.25 x Opponent Network (0.243)
+seed_factor 0.088 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.013) + 0.25 x Opponent Network (0.242)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | 55TH ST | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +312.8 | FaKtor, MoocHjr, cique_, kGAULT, pinekone |
 | 2026-08-28 | HUMA | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.01 | 1.00 | 0.90 | 0.00 | 0.00 | -66.3 | MoocHjr, cique_, kGAULT, pinekone, zEtti |
 | 2026-08-26 | After Peak | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.00 | 0.00 | -131.3 | MoocHjr, cique_, kGAULT, pinekone, zEtti |
-| 2026-08-19 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.03 | 0.84 | +110.2 | MoocHjr, bleek, cique_, pinekone, zEtti |
+| 2026-08-19 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.03 | 0.84 | +110.3 | MoocHjr, bleek, cique_, pinekone, zEtti |
 | 2026-08-14 | Sleepers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -25.0 | bleek, cique_, kGAULT, pinekone, zEtti |
 | 2026-08-12 | Baja Blasters | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -21.1 | MoocHjr, bleek, cique_, pinekone, zEtti |
 | 2026-08-10 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.01 | 1.00 | 0.78 | 0.00 | 0.00 | -0.3 | Sh0ts, cique_, kGAULT, pinekone, zEtti |
@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Bird Lickers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.00 | 0.00 | -424.7 | Sh0ts, cique_, kGAULT, pinekone, zEtti |
 | 2026-05-29 | MakeYouSayLate | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.03 | 0.28 | +155.6 | MoocHjr, Sh0ts, cique_, pinekone, zEtti |
 | 2026-05-27 | High T Low E | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +34.9 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
-| 2026-05-20 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.02 | 0.22 | +305.6 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
+| 2026-05-20 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.02 | 0.22 | +305.7 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
 | 2026-05-15 | Hack-A-Shaq | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -206.8 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
 | 2026-05-13 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -181.0 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
 | 2026-05-08 | CounterStreakrs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.14 | +274.9 | MoocHjr, bojanglez, cique_, pinekone, zEtti |

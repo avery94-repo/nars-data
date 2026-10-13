@@ -3,11 +3,11 @@ Team Name: puggin4seb
 Roster: BentIie, estrojin, soogyum, zr0, acekr
 NARS Rank: 419 of 507
 
-Final Rating: 1005.5
+Final Rating: 1005.4
 Seeded Start: 1270.0
-H2H Adjustment: -264.5
+H2H Adjustment: -264.6
 
-Final Rating (1005.5) = Seeded Start (1270.0) + H2H Adjustment (-264.5)
+Final Rating (1005.4) = Seeded Start (1270.0) + H2H Adjustment (-264.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Tractors | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.00 | 0.00 | -53.4 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-08-21 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.04 | 0.85 | +50.1 | BentIie, MOD8sf, acekr, estrojin, zr0 |
 | 2026-08-19 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.03 | 0.84 | +126.1 | BentIie, acekr, estrojin, soogyum, zr0 |
-| 2026-08-14 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.00 | 0.00 | -105.2 | MOD8sf, acekr, estrojin, soogyum, zr0 |
+| 2026-08-14 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -105.2 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-08-12 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -65.9 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-08-07 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -28.4 | BentIie, MOD8sf, acekr, estrojin, zr0 |
 | 2026-08-05 | REPORT MASSIVE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -55.6 | BentIie, MOD8sf, acekr, estrojin, zr0 |

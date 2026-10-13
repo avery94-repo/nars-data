@@ -3,11 +3,11 @@ Team Name: pew pew
 Roster: R0cco, jaw, Hoppin, J13, 1HickMEISTER
 NARS Rank: 144 of 507
 
-Final Rating: 1595.8
+Final Rating: 1595.9
 Seeded Start: 1206.5
-H2H Adjustment: +389.3 (capped at +-300, raw +389.4)
+H2H Adjustment: +389.4
 
-Final Rating (1595.8) = Seeded Start (1206.5) + H2H Adjustment (+389.3)
+Final Rating (1595.9) = Seeded Start (1206.5) + H2H Adjustment (+389.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

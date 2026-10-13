@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.01 | 0.27 | +331.9 | GOOOOOOOOOOF, Xevikan, Yunniie, _n8, frankfurda |
-| 2026-05-20 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.02 | 0.26 | +270.4 | GOOOOOOOOOOF, Xevikan, Yunniie, _n8, frankfurda |
+| 2026-05-20 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.02 | 0.26 | +270.5 | GOOOOOOOOOOF, Xevikan, Yunniie, _n8, frankfurda |
 | 2026-05-15 | Solace | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -234.8 | GOOOOOOOOOOF, Xevikan, Yunniie, _n8, frankfurda |
 | 2026-05-08 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -0.7 | CloudCS, Xevikan, Yunniie, _n8, frankfurda |
 | 2026-05-06 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -276.7 | KyIar, Stro_-, Yunniie, _n8, frankfurda |

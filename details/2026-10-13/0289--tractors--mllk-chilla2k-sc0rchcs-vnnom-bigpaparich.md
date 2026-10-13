@@ -32,12 +32,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.01 | 1.00 | 0.90 | 0.00 | 0.00 | -53.2 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-26 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.07 | 0.89 | +54.6 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-25 | NineFly Esports | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.87 | 1.45 | 1.00 | 1.26 | 0.00 | 0.00 | -7.1 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
-| 2026-08-24 | TenToesDown | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.87 | 1.45 | 1.00 | 1.26 | 0.16 | 1.26 | +232.1 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
+| 2026-08-24 | TenToesDown | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.87 | 1.45 | 1.00 | 1.26 | 0.16 | 1.26 | +232.2 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-20 | babaG | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -0.0 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-20 | DETONATE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -0.0 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-19 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.00 | 0.00 | -53.1 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-18 | FRZ Unit | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -0.0 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
-| 2026-08-14 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.00 | 0.00 | -21.2 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
+| 2026-08-14 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -21.2 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-11 | Phantom Sense | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.45 | 1.00 | 1.12 | 0.00 | 0.00 | -0.4 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-10 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.01 | 1.00 | 0.78 | 0.00 | 0.00 | -137.0 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-07 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.03 | 0.76 | +76.1 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |

@@ -43,8 +43,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.00 | 0.00 | -3.3 | 23k, c4ble, gray_hat, lefrankjames, m4nny |
 | 2026-07-15 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.05 | 0.60 | +437.3 | 23k, c4ble, gray_hat, lefrankjames, m4nny |
 | 2026-05-21 | TEMPR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -158.8 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
-| 2026-05-20 | FUELED BY HATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -270.2 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
-| 2026-05-15 | HUMA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -359.5 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
+| 2026-05-20 | FUELED BY HATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -270.3 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
+| 2026-05-15 | HUMA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -359.6 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
 | 2026-05-13 | gooshedd | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.01 | 0.20 | +154.1 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
 | 2026-05-08 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +352.1 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
 | 2026-05-06 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -12.7 | 23k, Marijuana, c4ble, lefrankjames, m4nny |

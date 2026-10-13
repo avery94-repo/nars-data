@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | FarmVille | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.40 | 1.40 | 1.40 | +2.8 | core 3/5 |
 | 2026-08-25 | New Legends | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.89 | 0.00 | +0.0 | core 3/5 |
 | 2026-08-02 | NRG | L |  | VRS-tracked 2026-08 | A | vrs | 0.71 | 1.60 | 1.00 | 1.14 | 0.00 | 0.00 | -116.8 | core 3/5 |
-| 2026-08-01 | NRG | W |  | VRS-tracked 2026-08 | A | vrs | 0.71 | 1.60 | 1.00 | 1.13 | 0.69 | 1.13 | +112.5 | core 3/5 |
+| 2026-08-01 | NRG | W |  | VRS-tracked 2026-08 | A | vrs | 0.71 | 1.60 | 1.00 | 1.13 | 0.69 | 1.13 | +112.6 | core 3/5 |
 | 2026-07-30 | SportsBetExpert | W |  | VRS-tracked 2026-07 | A | vrs | 0.69 | 1.60 | 1.00 | 1.11 | 1.00 | 1.11 | +11.5 | core 3/5 |
 | 2026-07-28 | regain | W |  | VRS-tracked 2026-07 | A | vrs | 0.68 | 1.60 | 1.00 | 1.09 | 0.86 | 0.00 | +17.0 | core 3/5 |
 | 2026-07-16 | Without a Roof | W | 2-1 | Esports Nations Cup 2026: American Qualifier | C | liquipedia | 0.61 | 1.60 | 1.00 | 0.97 | 0.97 | 0.00 | +40.0 | Momo, junior, mason, nosraC, snav |
@@ -53,10 +53,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-09 | NuTorious | W |  | VRS-tracked 2026-07 | A | vrs | 0.55 | 1.60 | 1.00 | 0.89 | 0.80 | 0.89 | +0.2 | core 3/5 |
 | 2026-05-28 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.27 | 1.60 | 1.00 | 0.44 | 0.00 | 0.00 | -193.0 | core 3/5 |
 | 2026-05-27 | Chicken Coop | W |  | VRS-tracked 2026-05 | A | vrs | 0.27 | 1.60 | 1.00 | 0.43 | 0.38 | 0.00 | +7.1 | core 3/5 |
-| 2026-05-03 | Wildcard | W |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.17 | 0.11 | 0.17 | +101.8 | core 3/5 |
+| 2026-05-03 | Wildcard | W |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.17 | 0.11 | 0.17 | +101.7 | core 3/5 |
 | 2026-05-02 | Zomblers | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.14 | 0.00 | +292.1 | core 3/5 |
 | 2026-05-01 | Wildcard | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -201.1 | core 3/5 |
-| 2026-04-29 | Zomblers | W |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.11 | 0.13 | +327.4 | core 3/5 |
+| 2026-04-29 | Zomblers | W |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.11 | 0.13 | +327.5 | core 3/5 |
 | 2026-04-27 | Chicken Coop | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.10 | 0.11 | +173.2 | core 3/5 |
 | 2026-04-26 | New Legends | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.06 | 0.10 | +50.2 | core 3/5 |
 | 2026-04-25 | Marsborne | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.08 | 0.09 | +408.7 | core 3/5 |

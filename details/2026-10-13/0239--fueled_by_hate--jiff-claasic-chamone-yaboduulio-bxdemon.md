@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | It Doesnt Matter | W | 1-0 | S59 NA Main B - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +8.8 | CHAMONE, Swifter, YaboDuulio, claasic, wreqqs |
+| 2026-10-09 | It Doesnt Matter | W | 1-0 | S59 NA Main B - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +8.7 | CHAMONE, Swifter, YaboDuulio, claasic, wreqqs |
 | 2026-09-11 | North Forge | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.34 | 1.00 | 1.32 | 0.00 | 0.00 | -0.3 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
 | 2026-09-09 | UltimateDarklordWizardz | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.34 | 1.00 | 1.30 | 0.00 | 0.00 | -22.8 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
 | 2026-09-08 | F1lthy Puggers | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.20 | 1.00 | 1.15 | 0.00 | 0.00 | -57.7 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +381.6 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
 | 2026-07-15 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -142.7 | CHAMONE, Jiff, Swifter, YaboDuulio, bxdEMON, claasic |
 | 2026-05-22 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -231.2 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
-| 2026-05-20 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.03 | 0.26 | +269.5 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
+| 2026-05-20 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.03 | 0.26 | +269.6 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-15 | Storm Surge | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -278.4 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-13 | Sedated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -192.3 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-06 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +68.0 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |

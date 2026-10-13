@@ -29,6 +29,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | Nebraska Fishing Supply | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.03 | 0.98 | +83.3 | Qooky-, Silveraa, Tbonelul, c0w__b0y, xdBlakeeee |
 | 2026-09-09 | FORTIS | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.03 | 0.97 | +83.2 | Qooky-, Silveraa, Tbonelul, c0w__b0y, xdBlakeeee |
 | 2026-09-04 | Calm Cocktails | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.04 | 0.94 | +84.6 | --Zen-, Qooky-, Tbonelul, c0w__b0y, xdBlakeeee |
-| 2026-09-02 | LetsWinGaming | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.04 | 0.92 | +276.8 | Qooky-, Silveraa, Tbonelul, c0w__b0y, xdBlakeeee |
+| 2026-09-02 | LetsWinGaming | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.04 | 0.92 | +276.9 | Qooky-, Silveraa, Tbonelul, c0w__b0y, xdBlakeeee |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

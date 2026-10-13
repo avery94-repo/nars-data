@@ -46,7 +46,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.46 | 1.00 | 0.96 | 0.00 | 0.00 | -0.5 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-07-22 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.46 | 1.00 | 0.94 | 0.00 | 0.00 | -3.6 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-07-21 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.46 | 1.00 | 0.93 | 0.10 | 0.93 | +16.9 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
-| 2026-06-09 | Axial | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.53 | 0.00 | 0.00 | -190.9 | Fawx, Shakezullah, bibiahn, emy, horsegirlxx, vanessa |
+| 2026-06-09 | Axial | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.53 | 0.00 | 0.00 | -191.0 | Fawx, Shakezullah, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-06-04 | Wanted Goons | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.48 | 0.00 | 0.00 | -127.6 | Fawx, Shakezullah, bibiahn, emy, vanessa |
 | 2026-06-02 | Elisir Esports | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.31 | 1.50 | 1.00 | 0.46 | 0.01 | 0.46 | +29.8 | Fawx, Shakezullah, bibiahn, emy, vanessa |
 | 2026-05-21 | NZ Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.03 | 0.31 | +1.1 | Fawx, bibiahn, emy, horsegirlxx, vanessa |

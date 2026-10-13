@@ -43,9 +43,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-16 | Top One Percent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.04 | 0.70 | +72.2 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-07-15 | STFDYSAB | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.08 | 0.69 | +447.4 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-05-22 | qcclan | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.03 | 0.27 | +306.3 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
-| 2026-05-20 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -233.5 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
+| 2026-05-20 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -233.6 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-05-15 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.02 | 0.22 | +130.8 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
-| 2026-05-13 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -138.1 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
+| 2026-05-13 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -138.2 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-05-08 | Asoka | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -22.4 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-05-06 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -136.7 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-05-01 | James Bond Bois | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +246.0 | 1phant0m, Copes-, Zazu, chnce, spooky77 |

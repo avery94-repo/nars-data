@@ -36,9 +36,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Exnitas | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.16 | 1.00 | 0.76 | 0.00 | 0.00 | -0.7 | -abc666, L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337 |
 | 2026-07-22 | DingTone | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -308.9 | -abc666, L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337, krasiy4un |
 | 2026-07-15 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -2.5 | -abc666, L1Gh7n1nG1, SharinganXD, dek1ing, krasiy4un |
-| 2026-05-20 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.26 | +290.0 | -abc666, SharinganXD, dek1ing, ihor_1337, krasiy4un |
+| 2026-05-20 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.26 | +290.1 | -abc666, SharinganXD, dek1ing, ihor_1337, krasiy4un |
 | 2026-05-15 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -160.4 | -abc666, 4Ekat1L0, SharinganXD, dek1ing, krasiy4un |
-| 2026-05-08 | Read You Like a Kindle | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -352.5 | 4Ekat1L0, SharinganXD, dek1ing, ihor_1337, krasiy4un |
+| 2026-05-08 | Read You Like a Kindle | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -352.6 | 4Ekat1L0, SharinganXD, dek1ing, ihor_1337, krasiy4un |
 | 2026-05-06 | Kahoot Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +327.5 | CR7MENTAL7T, SharinganXD, dek1ing, ihor_1337, krasiy4un |
 | 2026-05-01 | 2THRiLL | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -28.4 | -abc666, 4Ekat1L0, SharinganXD, dek1ing, krasiy4un |
 | 2026-04-29 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -3.2 | CR7MENTAL7T, SharinganXD, dek1ing, ihor_1337, krasiy4un |

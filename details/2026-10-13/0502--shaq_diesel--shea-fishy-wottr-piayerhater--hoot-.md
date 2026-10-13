@@ -3,11 +3,11 @@ Team Name: Shaq Diesel
 Roster: shea, Fishy, Wottr, PIayerhater, -HooT-
 NARS Rank: 502 of 507
 
-Final Rating: 493.6
+Final Rating: 493.5
 Seeded Start: 1157.6
-H2H Adjustment: -664.0 (capped at +-300, raw -664.1)
+H2H Adjustment: -664.1
 
-Final Rating (493.6) = Seeded Start (1157.6) + H2H Adjustment (-664.0)
+Final Rating (493.5) = Seeded Start (1157.6) + H2H Adjustment (-664.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -113.4 | Conzor, Fishy, PIayerhater, PhilLesh-, shea |
 | 2026-07-15 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -5.7 | -HooT-, Conzor, PIayerhater, Wottr, shea |
 | 2026-05-22 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -34.5 | -HooT-, Conzor, PIayerhater, Wottr, mook |
-| 2026-05-15 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -251.5 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |
+| 2026-05-15 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -251.6 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |
 | 2026-05-14 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -74.8 | -HooT-, Conzor, Fishy, PIayerhater, Wottr |
 | 2026-05-08 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -112.6 | -HooT-, Conzor, Fishy, PIayerhater, PhilLesh- |
 | 2026-05-06 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +77.1 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |

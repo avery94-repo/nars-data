@@ -3,11 +3,11 @@ Team Name: Order Zero
 Roster: F0ur-, luck257, YodeR_8, Zander01, Josw1ck
 NARS Rank: 172 of 507
 
-Final Rating: 1531.7
+Final Rating: 1531.8
 Seeded Start: 1129.3
-H2H Adjustment: +402.4
+H2H Adjustment: +402.5
 
-Final Rating (1531.7) = Seeded Start (1129.3) + H2H Adjustment (+402.4)
+Final Rating (1531.8) = Seeded Start (1129.3) + H2H Adjustment (+402.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

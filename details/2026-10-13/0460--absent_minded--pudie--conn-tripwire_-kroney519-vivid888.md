@@ -50,10 +50,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.01 | 0.18 | +289.1 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-05-08 | The Agarthans | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -390.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-05-06 | AURA Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.02 | 0.13 | +186.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-05-01 | Counter Legends | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +403.3 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-05-01 | Counter Legends | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +403.4 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-04-29 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -1.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-04-24 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -347.8 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-04-22 | Top One Percent | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -254.3 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-04-22 | Top One Percent | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -254.4 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-04-17 | US Navy Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +229.8 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

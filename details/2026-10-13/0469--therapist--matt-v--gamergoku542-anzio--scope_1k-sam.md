@@ -3,11 +3,11 @@ Team Name: Therapist
 Roster: Matt-V-, gamergoku542, Anzio, -SCOPE_1K, SamueI
 NARS Rank: 469 of 507
 
-Final Rating: 813.2
+Final Rating: 813.1
 Seeded Start: 1123.8
-H2H Adjustment: -310.6
+H2H Adjustment: -310.7 (capped at +-300, raw -310.6)
 
-Final Rating (813.2) = Seeded Start (1123.8) + H2H Adjustment (-310.6)
+Final Rating (813.1) = Seeded Start (1123.8) + H2H Adjustment (-310.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

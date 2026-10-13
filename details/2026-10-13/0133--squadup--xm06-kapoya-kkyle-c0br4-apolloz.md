@@ -32,11 +32,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.01 | 1.00 | 0.90 | 0.00 | 0.00 | -95.5 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-27 | Fathom Gaming | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.23 | 1.00 | 1.09 | 0.00 | 0.00 | -16.7 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-26 | DKR Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.10 | 0.89 | +97.1 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-08-21 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.08 | 0.85 | +70.0 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-08-20 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.23 | 1.00 | 1.03 | 0.00 | 0.00 | -182.0 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-08-21 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.08 | 0.85 | +70.1 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-08-20 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.23 | 1.00 | 1.03 | 0.00 | 0.00 | -182.1 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-19 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.06 | 0.84 | +121.2 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-08-18 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.82 | 1.23 | 1.00 | 1.01 | 0.00 | 0.00 | -5.9 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-08-14 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.03 | 0.81 | +10.5 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-08-18 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.82 | 1.23 | 1.00 | 1.01 | 0.00 | 0.00 | -5.8 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-08-14 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.03 | 0.80 | +10.5 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-12 | Qinorhwat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -156.1 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-11 | Knox Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.23 | 1.00 | 0.96 | 0.07 | 0.96 | +2.6 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-07 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.06 | 0.76 | +46.4 | ApolloZ, C0br4, Kapoya, XM06, kkyle |

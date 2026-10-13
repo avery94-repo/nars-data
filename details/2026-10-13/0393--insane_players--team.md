@@ -3,11 +3,11 @@ Team Name: insane players
 Roster: (unknown)
 NARS Rank: 393 of 507
 
-Final Rating: 1067.7
+Final Rating: 1067.6
 Seeded Start: 1106.9
-H2H Adjustment: -39.2
+H2H Adjustment: -39.3
 
-Final Rating (1067.7) = Seeded Start (1106.9) + H2H Adjustment (-39.2)
+Final Rating (1067.6) = Seeded Start (1106.9) + H2H Adjustment (-39.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

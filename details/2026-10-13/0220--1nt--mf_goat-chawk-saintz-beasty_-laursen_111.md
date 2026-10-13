@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | The Skins | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.16 | 1.00 | 1.03 | 0.00 | 0.00 | -120.9 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-08-26 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -90.1 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-08-21 | crescent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.98 | 0.10 | 0.98 | +50.5 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
-| 2026-08-19 | DESPAIR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.83 | 1.16 | 1.00 | 0.96 | 0.13 | 0.96 | +88.3 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
+| 2026-08-19 | DESPAIR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.83 | 1.16 | 1.00 | 0.96 | 0.13 | 0.96 | +88.4 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-08-14 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.16 | 1.00 | 0.93 | 0.00 | 0.00 | -143.7 | Chawk, LAURSEN_111, Saintz, mf_goat, mikey_xx |
 | 2026-08-12 | Manx Recovery Program | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.91 | 0.08 | 0.91 | +99.1 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-08-07 | ALL IN | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.16 | 1.00 | 0.87 | 0.04 | 0.87 | +177.5 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -12.2 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-05-22 | goofball gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -18.3 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |
 | 2026-05-20 | Aers Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -352.1 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |
-| 2026-05-15 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.22 | +203.1 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |
+| 2026-05-15 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.22 | +203.2 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |
 | 2026-05-13 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.01 | 0.20 | +140.1 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |
 | 2026-05-07 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -89.6 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |
 | 2026-05-06 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -163.5 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |

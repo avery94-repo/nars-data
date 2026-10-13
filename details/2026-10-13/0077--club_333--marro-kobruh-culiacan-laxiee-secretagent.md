@@ -51,8 +51,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | AURA Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.80 | 1.23 | 1.00 | 0.98 | 0.13 | 0.98 | +0.0 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
 | 2026-08-14 | Elusive | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.16 | 0.55 | 1.16 | +0.0 | CULIACAN, Marro, SecretAgent, calamity, kobruh |
 | 2026-08-13 | Locally Hated | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.79 | 1.23 | 1.00 | 0.97 | 0.27 | 0.97 | +0.0 | CULIACAN, Marro, SecretAgent, kobruh, mason |
-| 2026-08-13 | Marsborne | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.15 | 1.11 | 1.15 | +63.8 | CULIACAN, Marro, SecretAgent, kobruh, mason |
-| 2026-08-07 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.09 | 1.09 | 1.09 | +0.4 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-08-13 | Marsborne | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.15 | 1.11 | 1.15 | +63.7 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-08-07 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.09 | 1.09 | 1.09 | +0.3 | CULIACAN, Marro, SecretAgent, kobruh, mason |
 | 2026-08-05 | Desi Boyz | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.46 | 1.00 | 1.07 | 0.91 | 1.07 | +1.7 | CULIACAN, Marro, SecretAgent, kobruh, mason |
 | 2026-07-24 | Villainous | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.46 | 1.00 | 0.96 | 0.83 | 0.96 | +146.9 | CULIACAN, Marro, SecretAgent, kobruh, mason |
 | 2026-07-23 | North Forge | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.46 | 1.00 | 0.95 | 0.27 | 0.95 | +6.2 | CULIACAN, Marro, SecretAgent, kobruh, mason |

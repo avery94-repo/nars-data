@@ -3,11 +3,11 @@ Team Name: GoopT
 Roster: Teeler, Mcberd, fubard, Veggie-, B00LIGAN
 NARS Rank: 453 of 507
 
-Final Rating: 884.4
+Final Rating: 884.3
 Seeded Start: 1237.0
-H2H Adjustment: -352.6 (capped at +-300, raw -352.7)
+H2H Adjustment: -352.7
 
-Final Rating (884.4) = Seeded Start (1237.0) + H2H Adjustment (-352.6)
+Final Rating (884.3) = Seeded Start (1237.0) + H2H Adjustment (-352.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

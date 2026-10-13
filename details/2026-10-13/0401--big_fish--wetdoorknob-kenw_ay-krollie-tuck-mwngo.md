@@ -4,14 +4,14 @@ Roster: WetDoorknob, Kenw_ay, Krollie, Tuck, mwngo
 NARS Rank: 401 of 507
 
 Final Rating: 1050.4
-Seeded Start: 1278.2
-H2H Adjustment: -227.8
+Seeded Start: 1278.1
+H2H Adjustment: -227.7
 
-Final Rating (1050.4) = Seeded Start (1278.2) + H2H Adjustment (-227.8)
+Final Rating (1050.4) = Seeded Start (1278.1) + H2H Adjustment (-227.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.127 x 1400 = 1278.2
+                = 1100 + 0.127 x 1400 = 1278.1
 
 seed_factor 0.127 = 0.25 x Tier Exposure (0.110) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.331)
 
@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -10.9 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-07-31 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -81.6 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-07-29 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -203.9 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
-| 2026-07-24 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -197.4 | Krollie, Tuck, WetDoorknob, mwngo, spy_ |
+| 2026-07-24 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -197.5 | Krollie, Tuck, WetDoorknob, mwngo, spy_ |
 | 2026-07-22 | ABG Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.08 | 0.64 | +297.6 | Kenw_ay, Krollie, Tuck, mwngo, spy_ |
 | 2026-07-17 | VeryBigDoogoos | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.03 | 0.61 | +293.6 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-07-15 | Aetheris | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +245.6 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |

@@ -4,14 +4,14 @@ Roster: BREADW1NNER, Billyk, swagmasta, -mikey213, ItsOcahhs
 NARS Rank: 258 of 507
 
 Final Rating: 1365.1
-Seeded Start: 1317.8
-H2H Adjustment: +47.3
+Seeded Start: 1317.7
+H2H Adjustment: +47.4
 
-Final Rating (1365.1) = Seeded Start (1317.8) + H2H Adjustment (+47.3)
+Final Rating (1365.1) = Seeded Start (1317.7) + H2H Adjustment (+47.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.156 x 1400 = 1317.8
+                = 1100 + 0.156 x 1400 = 1317.7
 
 seed_factor 0.156 = 0.25 x Tier Exposure (0.117) + 0.50 x Quality Wins (0.035) + 0.25 x Opponent Network (0.435)
 
@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-27 | EZ2025 | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -323.6 | -mikey213, BREADW1NNER, ItsOcahhs, nyuuXD, swagmasta |
 | 2026-05-22 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +8.4 | -mikey213, BREADW1NNER, Billyk, ItsOcahhs, swagmasta |
 | 2026-05-20 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.22 | +360.4 | -mikey213, BREADW1NNER, Billyk, ItsOcahhs, swagmasta |
-| 2026-05-15 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -120.0 | -mikey213, BREADW1NNER, ItsOcahhs, nyuuXD, swagmasta |
+| 2026-05-15 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -119.9 | -mikey213, BREADW1NNER, ItsOcahhs, nyuuXD, swagmasta |
 | 2026-05-13 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -2.3 | -mikey213, BREADW1NNER, Billyk, ItsOcahhs, swagmasta |
 | 2026-05-08 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -329.7 | -mikey213, BREADW1NNER, ItsOcahhs, nyuuXD, swagmasta |
 | 2026-05-06 | Mach 10 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +41.5 | -mikey213, BREADW1NNER, Billyk, ItsOcahhs, swagmasta |

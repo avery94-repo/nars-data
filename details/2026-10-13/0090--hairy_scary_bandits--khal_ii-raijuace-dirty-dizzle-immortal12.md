@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Wolves | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.13 | 0.80 | +15.7 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-13 | Skyline | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.45 | 1.00 | 1.14 | 0.00 | 0.00 | -134.7 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-12 | absolute cinema | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.09 | 0.79 | +5.2 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
-| 2026-08-11 | FarmVille | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.45 | 1.00 | 1.13 | 1.13 | 1.13 | +144.4 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
+| 2026-08-11 | FarmVille | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.45 | 1.00 | 1.13 | 1.13 | 1.13 | +144.3 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-07 | noname | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.08 | 0.76 | +145.3 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-07-31 | Dude Picks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.09 | 0.71 | +13.9 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-07-29 | Skyline | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.24 | 0.70 | +145.3 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
@@ -49,7 +49,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Asoka | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.14 | 0.65 | +171.5 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-07-17 | No Leaders Please | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.07 | 0.62 | +13.9 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-07-15 | mas paspas | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.11 | 0.60 | +134.3 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
-| 2026-06-04 | Abusement Park | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -205.3 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
+| 2026-06-04 | Abusement Park | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -205.4 | Dirty-Dizzle, Immortal123, RaijuACE, Shamshoon, khaL_II |
 | 2026-06-02 | Top One Percent | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.02 | 0.31 | +172.6 | Dirty-Dizzle, RaijuACE, Shamshoon, YabaBaba, khaL_II |
 | 2026-05-27 | Real Hustle Club | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -49.6 | Dirty-Dizzle, RaijuACE, Shamshoon, YabaBaba, khaL_II |
 | 2026-05-22 | Midwest Farmers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.03 | 0.24 | +3.2 | Dirty-Dizzle, RaijuACE, Shamshoon, YabaBaba, khaL_II |

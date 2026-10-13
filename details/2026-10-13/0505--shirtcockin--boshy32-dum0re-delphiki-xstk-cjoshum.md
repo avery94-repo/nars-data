@@ -3,11 +3,11 @@ Team Name: shirtcockin
 Roster: boshy32, DUM0RE, delphiki, xstk, Cjoshum
 NARS Rank: 505 of 507
 
-Final Rating: 382.6
+Final Rating: 382.5
 Seeded Start: 1117.3
-H2H Adjustment: -734.7
+H2H Adjustment: -734.8
 
-Final Rating (382.6) = Seeded Start (1117.3) + H2H Adjustment (-734.7)
+Final Rating (382.5) = Seeded Start (1117.3) + H2H Adjustment (-734.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-14 | we get it back | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.00 | -320.5 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
 | 2026-05-13 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -77.6 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
 | 2026-05-08 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -222.5 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
-| 2026-05-01 | puggin4seb | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.01 | 0.11 | +277.4 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
+| 2026-05-01 | puggin4seb | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.01 | 0.11 | +277.5 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
 | 2026-04-29 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -111.2 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
 | 2026-04-24 | F1lthy Puggers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -77.5 | Cjoshum, buckshott, delphiki, oberon, xstk |
 | 2026-04-22 | ASYCS KITTENS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -8.3 | Cjoshum, Jesperere, delphiki, ventake, xstk |

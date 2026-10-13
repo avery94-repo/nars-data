@@ -27,15 +27,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Team Amplus | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -118.8 | -Kino-, Bradyy, Kolar, ghost_solder, oculus |
 | 2026-09-10 | Salsas Mazzin Crew | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.02 | 1.00 | 0.99 | 0.00 | 0.00 | -48.7 | -Kino-, Kolar, Rybreadd, ghost_solder, oculus, wiggless |
 | 2026-09-06 | The Burger People | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.02 | 1.00 | 0.97 | 0.00 | 0.00 | -76.9 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
-| 2026-09-04 | mas paspas | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.02 | 1.00 | 0.95 | 0.17 | 0.95 | +155.1 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
+| 2026-09-04 | mas paspas | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.02 | 1.00 | 0.95 | 0.17 | 0.95 | +155.2 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-09-02 | UnitedStatesArmy Esports | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.07 | 0.94 | +79.5 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-08-28 | teamington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.01 | 1.00 | 0.90 | 0.00 | 0.00 | -68.0 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-08-26 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.00 | 0.00 | -44.7 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-08-21 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.03 | 0.85 | +15.4 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-08-19 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.07 | 0.84 | +138.7 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
-| 2026-08-14 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.00 | 0.00 | -6.8 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
+| 2026-08-14 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -6.8 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-08-12 | Bird Lickers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -169.7 | -Kino-, Kolar, Rybreadd, ghost_solder, wiggless |
-| 2026-08-07 | Dude Picks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.09 | 0.76 | +158.2 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
+| 2026-08-07 | Dude Picks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.09 | 0.76 | +158.3 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-08-05 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -123.3 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-07-31 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.03 | 0.71 | +0.4 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-07-29 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.04 | 0.70 | +68.4 | -Kino-, Kolar, ghost_solder, oculus, wiggless |

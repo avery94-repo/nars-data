@@ -3,11 +3,11 @@ Team Name: Northern District
 Roster: WaltJr, Deaaaan, KenT5, McNash, PayneC
 NARS Rank: 109 of 507
 
-Final Rating: 1682.2
+Final Rating: 1682.3
 Seeded Start: 1132.9
-H2H Adjustment: +549.3 (capped at +-300, raw +549.4)
+H2H Adjustment: +549.4
 
-Final Rating (1682.2) = Seeded Start (1132.9) + H2H Adjustment (+549.3)
+Final Rating (1682.3) = Seeded Start (1132.9) + H2H Adjustment (+549.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

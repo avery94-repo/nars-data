@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | MakeYouSayLate | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +291.5 | SpaceBeard, bigpete-, chrisstiancs, flairrCS, taIIy |
+| 2026-10-09 | MakeYouSayLate | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +291.6 | SpaceBeard, bigpete-, chrisstiancs, flairrCS, taIIy |
 | 2026-10-07 | Temple of Swing | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -354.7 | SpaceBeard, bigpete-, chrisstiancs, flairrCS, taIIy |
 | 2026-09-02 | Saltcrew | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.00 | 0.00 | -75.8 | -Adi--, SpaceBeard, chrisstiancs, fatdork15, taIIy |
 | 2026-08-28 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.01 | 1.00 | 0.90 | 0.00 | 0.00 | -21.3 | -Adi--, SpaceBeard, chrisstiancs, fatdork15, taIIy |

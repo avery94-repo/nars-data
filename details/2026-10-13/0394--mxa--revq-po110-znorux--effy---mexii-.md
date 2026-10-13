@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -10.0 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-20 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -207.2 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-13 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -303.9 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-05-12 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.16 | 1.00 | 0.20 | 0.02 | 0.20 | +222.2 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-05-12 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.16 | 1.00 | 0.19 | 0.02 | 0.19 | +222.2 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-08 | Kahoot Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +6.5 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-01 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +63.9 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-04-29 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +226.4 | -Mexii-, -effy-, Revq, Znorux, po110 |

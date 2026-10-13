@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-21 | Over 30 | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.03 | 1.00 | +95.1 | RJR, Volk, Ziggy98, bennyboy1, mROD- |
 | 2026-09-18 | Los Pollos Hermanos | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +90.0 | -jez-, RJR, Volk, Ziggy98, mROD- |
 | 2026-09-16 | Lesotho Space Force | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.03 | 1.00 | +109.9 | -jez-, RJR, Volk, Ziggy98, mROD- |
-| 2026-09-09 | Core 5 | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.04 | 0.97 | +85.3 | RJR, Volk, Ziggy98, bennyboy1, mROD- |
+| 2026-09-09 | Core 5 | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.04 | 0.97 | +85.4 | RJR, Volk, Ziggy98, bennyboy1, mROD- |
 | 2026-09-05 | Cheese Gummy Clusters | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +146.0 | -Cookiee-, -jez-, RJR, Volk, mROD- |
 | 2026-09-02 | Chud Esports | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.04 | 0.92 | +34.6 | -jez-, RJR, Volk, Ziggy98, mROD- |
 

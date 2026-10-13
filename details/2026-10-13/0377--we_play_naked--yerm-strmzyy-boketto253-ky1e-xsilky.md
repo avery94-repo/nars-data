@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-06 | The Ohio Meat Wagon | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -26.3 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-07-31 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -5.2 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-07-29 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -0.4 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
-| 2026-07-25 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -178.9 | 0MANA, Boketto253, Ky1e, strmzyy, yerm |
+| 2026-07-25 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -179.0 | 0MANA, Boketto253, Ky1e, strmzyy, yerm |
 | 2026-07-17 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.05 | 0.61 | +259.1 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-07-15 | walkthemdown | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +250.8 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-05-31 | Aetheris | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -37.6 | 0MANA, Boketto253, strmzyy, xSilky, yerm |

@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.03 | 0.70 | +14.2 | -chb, Siege_03, Thane0s, nolarb, spiderW |
 | 2026-07-24 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.06 | 0.66 | +241.8 | -chb, Gumberoo, Thane0s, r0f, spiderW |
 | 2026-07-22 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -4.0 | -chb, Siege_03, Thane0s, r0f, spiderW |
-| 2026-07-17 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -55.9 | -chb, Siege_03, Thane0s, r0f, spiderW |
+| 2026-07-17 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -56.0 | -chb, Siege_03, Thane0s, r0f, spiderW |
 | 2026-07-15 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -132.5 | -chb, Siege_03, Thane0s, r0f, spiderW |
 | 2026-05-31 | DUMBO | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.31 | 0.00 | 0.00 | -11.2 | -chb, Siege_03, Thane0s, r0f, spiderW |
 | 2026-05-27 | Bald | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.27 | 1.05 | 1.00 | 0.28 | 0.00 | 0.00 | -163.3 | -chb, Siege_03, Thane0s, r0f, spiderW |

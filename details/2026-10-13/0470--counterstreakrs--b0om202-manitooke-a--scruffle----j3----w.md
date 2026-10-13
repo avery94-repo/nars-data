@@ -3,11 +3,11 @@ Team Name: CounterStreakrs
 Roster: B0oM202, MANITOOKE-A-, Scruffle, ---J3---, WiCKeD--1
 NARS Rank: 470 of 507
 
-Final Rating: 811.1
+Final Rating: 811.0
 Seeded Start: 1120.7
-H2H Adjustment: -309.6
+H2H Adjustment: -309.7
 
-Final Rating (811.1) = Seeded Start (1120.7) + H2H Adjustment (-309.6)
+Final Rating (811.0) = Seeded Start (1120.7) + H2H Adjustment (-309.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

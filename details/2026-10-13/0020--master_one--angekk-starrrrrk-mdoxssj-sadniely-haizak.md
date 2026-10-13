@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.11 | 0.86 | +192.2 | -TAYLOR, SADNIELy, StaRRRRRk, angekk, haizakz921 |
 | 2026-07-31 | Sassy Sunshines | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.82 | 0.07 | 0.82 | +29.4 | -TAYLOR, StaRRRRRk, angekk, haizakz921, mdoxSSJ |
 | 2026-07-29 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.16 | 1.00 | 0.80 | 0.08 | 0.80 | +65.2 | SADNIELy, StaRRRRRk, angekk, haizakz921, mdoxSSJ |
-| 2026-07-24 | Tall Ocean Rats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.16 | 1.00 | 0.76 | 0.04 | 0.76 | +273.1 | SADNIELy, StaRRRRRk, angekk, haizakz921, mdoxSSJ |
+| 2026-07-24 | Tall Ocean Rats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.16 | 1.00 | 0.76 | 0.04 | 0.76 | +273.2 | SADNIELy, StaRRRRRk, angekk, haizakz921, mdoxSSJ |
 | 2026-07-22 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -211.5 | SADNIELy, StaRRRRRk, angekk, haizakz921, mdoxSSJ |
 | 2026-07-17 | EXODIA | W | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.61 | 1.45 | 1.00 | 0.89 | 0.51 | 0.89 | +247.6 | SADNIELy, StaRRRRRk, angekk, haizakz921, mdoxSSJ |
 | 2026-07-16 | 773Revival | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -169.3 | SADNIELy, StaRRRRRk, angekk, haizakz921, mdoxSSJ |
@@ -46,7 +46,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Down To Frag | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.03 | 0.00 | +399.0 | SADNIELy, StaRRRRRk, angekk, haizakz921, mdoxSSJ |
 | 2026-05-20 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -345.5 | SADNIELy, StaRRRRRk, angekk, haizakz921, mdoxSSJ |
 | 2026-05-13 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -295.9 | SADNIELy, StaRRRRRk, SungSuho, angekk, haizakz921, mdoxSSJ |
-| 2026-05-08 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.02 | 0.16 | +340.1 | SADNIELy, StaRRRRRk, angekk, haizakz921, mdoxSSJ |
+| 2026-05-08 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.02 | 0.16 | +340.2 | SADNIELy, StaRRRRRk, angekk, haizakz921, mdoxSSJ |
 | 2026-05-06 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -424.6 | SADNIELy, StaRRRRRk, SungSuho, angekk, haizakz921 |
 | 2026-05-01 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.01 | 0.11 | +4.0 | SADNIELy, StaRRRRRk, SungSuho, angekk, haizakz921 |
 | 2026-04-29 | Old Meta | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.00 | +3.0 | SADNIELy, StaRRRRRk, SungSuho, angekk, haizakz921 |

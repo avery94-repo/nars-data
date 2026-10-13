@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-13 | Celestial Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.79 | 1.23 | 1.00 | 0.97 | 0.29 | 0.97 | +55.8 | -aldo-, Jumble, excite, fr0stbyte, jsr- |
 | 2026-08-12 | Playing for fun | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.23 | 1.00 | 0.96 | 0.16 | 0.96 | +521.2 | -aldo-, argy, fr0stbyte, frosly, jsr- |
 | 2026-07-14 | SquadUp | L |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.76 | 0.00 | 0.00 | -52.0 | -aldo-, excite, fr0stbyte, frosly, jsr- |
-| 2026-06-12 | Armored Talent | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.00 | -237.1 | -aldo-, Chkemi, M0nroe_, fr0stbyte, jsr- |
+| 2026-06-12 | Armored Talent | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.00 | -237.2 | -aldo-, Chkemi, M0nroe_, fr0stbyte, jsr- |
 | 2026-06-10 | Retired Aimers | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.36 | +148.7 | -aldo-, Chkemi, M0nroe_, fr0stbyte, jsr- |
 | 2026-06-03 | Octane | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.01 | 0.32 | +29.4 | -aldo-, Griffin, brooks, fr0stbyte, jsr- |
 | 2026-05-30 | LAG Gaming | L |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.00 | 0.00 | -0.0 | core 3/5 |

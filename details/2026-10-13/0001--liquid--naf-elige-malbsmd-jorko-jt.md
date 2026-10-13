@@ -25,8 +25,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-13 | BBL | W | 2-1 | Stake Pulse Beat III | B | hltv | 1.00 | 1.60 | 1.10 | 1.60 | 2.64 | 0.00 | +41.5 | core 3/5 |
-| 2026-10-13 | JiJieHao | W | 2-0 | Stake Pulse Beat III | B | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 2.40 | 0.00 | +39.4 | core 3/5 |
-| 2026-10-13 | 100 Thieves | L | 1-2 | Stake Pulse Beat III | B | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -79.2 | core 3/5 |
+| 2026-10-13 | JiJieHao | W | 2-0 | Stake Pulse Beat III | B | hltv | 1.00 | 1.60 | 1.10 | 1.60 | 2.64 | 0.00 | +39.4 | core 3/5 |
+| 2026-10-13 | 100 Thieves | L | 1-2 | Stake Pulse Beat III | B | hltv | 1.00 | 1.60 | 1.10 | 1.60 | 0.00 | 0.00 | -79.2 | core 3/5 |
 | 2026-09-27 | Wildcard | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.98 | 1.60 | +28.6 | core 3/5 |
 | 2026-09-26 | M80 | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.98 | 0.00 | +41.7 | core 3/5 |
 | 2026-09-25 | Chicken Coop | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.43 | 1.60 | +0.0 | core 3/5 |
@@ -38,8 +38,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-18 | INNER CIRCLE | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -43.8 | core 3/5 |
 | 2026-09-12 | NRG | W |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.58 | 0.96 | 1.58 | +149.0 | core 3/5 |
 | 2026-09-12 | Voca | W |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.58 | 0.93 | 1.58 | +47.9 | core 3/5 |
-| 2026-09-11 | NRG | L |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -125.8 | core 3/5 |
-| 2026-09-10 | Marsborne | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 1.51 | 1.56 | +29.0 | core 3/5 |
+| 2026-09-11 | NRG | L |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -125.7 | core 3/5 |
+| 2026-09-10 | Marsborne | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 1.51 | 1.56 | +29.1 | core 3/5 |
 | 2026-09-09 | ANTIVALUE | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 1.16 | 0.00 | +0.1 | core 3/5 |
 | 2026-08-09 | 1WIN | L |  | VRS-tracked 2026-08 | A | vrs | 0.76 | 1.60 | 1.00 | 1.22 | 0.00 | 0.00 | -157.6 | core 3/5 |
 | 2026-08-08 | METIZPORT | W |  | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.21 | 1.81 | 0.00 | +12.5 | core 3/5 |
@@ -58,7 +58,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-02 | BETBOOM | L |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.00 | 0.00 | -45.0 | core 3/5 |
 | 2026-06-02 | BIG | W |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.02 | 0.49 | +0.0 | core 3/5 |
 | 2026-05-21 | THE MONGOLZ | L |  | VRS-tracked 2026-05 | A | vrs | 0.23 | 1.60 | 1.00 | 0.36 | 0.00 | 0.00 | -425.4 | core 3/5 |
-| 2026-05-20 | 3DMAX | W |  | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.35 | 0.53 | 0.00 | +551.1 | core 3/5 |
+| 2026-05-20 | 3DMAX | W |  | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.35 | 0.53 | 0.00 | +551.2 | core 3/5 |
 | 2026-05-13 | GAMERLEGION | L |  | VRS-tracked 2026-05 | A | vrs | 0.17 | 1.60 | 1.00 | 0.28 | 0.00 | 0.00 | -66.5 | core 3/5 |
 | 2026-05-12 | M80 | W |  | VRS-tracked 2026-05 | A | vrs | 0.17 | 1.60 | 1.00 | 0.27 | 0.16 | 0.27 | +422.4 | core 3/5 |
 | 2026-05-11 | ASTRALIS | L |  | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.00 | 0.00 | -3.0 | core 3/5 |

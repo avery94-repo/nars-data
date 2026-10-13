@@ -3,11 +3,11 @@ Team Name: Aspyre
 Roster: aaronsfury, vow, ChwE_, xSpeedy, celery
 NARS Rank: 202 of 507
 
-Final Rating: 1485.7
+Final Rating: 1485.6
 Seeded Start: 1305.1
-H2H Adjustment: +180.6
+H2H Adjustment: +180.5
 
-Final Rating (1485.7) = Seeded Start (1305.1) + H2H Adjustment (+180.6)
+Final Rating (1485.6) = Seeded Start (1305.1) + H2H Adjustment (+180.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

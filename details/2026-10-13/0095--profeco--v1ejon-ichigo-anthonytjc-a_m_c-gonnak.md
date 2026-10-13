@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Bird Squishers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.02 | 0.27 | +243.5 | AnthonyTJC, CULIACAN, Flack--, Ichigo, Nivek1ngg, V1ejon |
 | 2026-05-20 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.26 | +210.2 | AnthonyTJC, Ichigo, Kai206, V1ejon, a_m_c |
 | 2026-05-13 | the dragon warrior scroll | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -250.7 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
-| 2026-05-08 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.02 | 0.16 | +315.3 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
+| 2026-05-08 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.02 | 0.16 | +315.4 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
 | 2026-05-06 | Salsas Mazzin Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +168.1 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
 | 2026-04-29 | GOOZPEEK | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -370.2 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
 | 2026-04-22 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.04 | +14.3 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |

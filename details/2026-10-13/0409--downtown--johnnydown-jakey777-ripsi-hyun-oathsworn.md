@@ -3,11 +3,11 @@ Team Name: DownTown
 Roster: Johnnydown, Jakey777, Ripsi, hyun, Oathsworn
 NARS Rank: 409 of 507
 
-Final Rating: 1037.5
+Final Rating: 1037.4
 Seeded Start: 1128.8
-H2H Adjustment: -91.3
+H2H Adjustment: -91.4
 
-Final Rating (1037.5) = Seeded Start (1128.8) + H2H Adjustment (-91.3)
+Final Rating (1037.4) = Seeded Start (1128.8) + H2H Adjustment (-91.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -36,6 +36,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-04-29 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.08 | +366.0 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-04-24 | offBalance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -2.0 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-04-22 | The Plague | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -7.9 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-04-17 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -232.6 | Jakey777, Johnnydown, Kermey, Ripsi, hyun |
+| 2026-04-17 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -232.7 | Jakey777, Johnnydown, Kermey, Ripsi, hyun |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

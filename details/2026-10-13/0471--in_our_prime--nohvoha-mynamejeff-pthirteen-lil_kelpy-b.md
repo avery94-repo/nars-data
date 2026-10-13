@@ -4,14 +4,14 @@ Roster: NohVoha, MyNameJeff, PThirteen, Lil_Kelpy, BigBardo
 NARS Rank: 471 of 507
 
 Final Rating: 809.9
-Seeded Start: 1226.5
-H2H Adjustment: -416.6 (capped at +-300, raw -416.5)
+Seeded Start: 1226.4
+H2H Adjustment: -416.5 (capped at +-300, raw -416.6)
 
-Final Rating (809.9) = Seeded Start (1226.5) + H2H Adjustment (-416.6)
+Final Rating (809.9) = Seeded Start (1226.4) + H2H Adjustment (-416.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.090 x 1400 = 1226.5
+                = 1100 + 0.090 x 1400 = 1226.4
 
 seed_factor 0.090 = 0.25 x Tier Exposure (0.051) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.267)
 

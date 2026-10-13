@@ -3,11 +3,11 @@ Team Name: feet67
 Roster: accela, dake_, 1mprovee2, -67swing, -anby-
 NARS Rank: 59 of 507
 
-Final Rating: 1854.5
+Final Rating: 1854.6
 Seeded Start: 1310.5
-H2H Adjustment: +544.0
+H2H Adjustment: +544.1 (capped at +-300, raw +544.0)
 
-Final Rating (1854.5) = Seeded Start (1310.5) + H2H Adjustment (+544.0)
+Final Rating (1854.6) = Seeded Start (1310.5) + H2H Adjustment (+544.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

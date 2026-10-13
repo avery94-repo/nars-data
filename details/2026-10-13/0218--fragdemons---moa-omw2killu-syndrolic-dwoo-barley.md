@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Dude Picks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -224.6 | -MOA, Ryner, barley, omw2killu, syndrolic |
 | 2026-05-20 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.03 | 0.26 | +250.0 | -MOA, Dwoo, barley, omw2killu, syndrolic |
 | 2026-05-15 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.22 | +13.9 | -MOA, Dwoo, barley, omw2killu, syndrolic |
-| 2026-05-15 | SquishysAngels | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.22 | +210.8 | -MOA, Dwoo, barley, omw2killu, syndrolic |
+| 2026-05-15 | SquishysAngels | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.22 | +210.9 | -MOA, Dwoo, barley, omw2killu, syndrolic |
 | 2026-05-13 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.20 | +9.2 | -MOA, Dwoo, Ryner, omw2killu, syndrolic |
 | 2026-05-08 | Texas Orange | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +412.7 | -MOA, Dwoo, barley, omw2killu, syndrolic |
 | 2026-05-06 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -7.6 | -MOA, Dwoo, Ryner, barley, omw2killu, syndrolic |

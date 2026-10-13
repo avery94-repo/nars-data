@@ -38,6 +38,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.03 | 0.66 | +142.5 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-07-22 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.05 | 0.65 | +56.3 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-07-17 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.00 | 0.00 | -40.7 | chubbzz, f0rp-, jamflow, kplax, neyloc |
-| 2026-07-15 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.00 | 0.00 | -116.4 | chubbzz, f0rp-, jamflow, kplax, neyloc |
+| 2026-07-15 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.00 | 0.00 | -116.5 | chubbzz, f0rp-, jamflow, kplax, neyloc |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

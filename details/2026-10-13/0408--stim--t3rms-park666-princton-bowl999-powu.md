@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | Sodium | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.07 | 0.00 | 0.00 | -117.7 | Bowl999, H8R, T3RMS, park666, powu |
+| 2026-09-08 | Sodium | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.07 | 0.00 | 0.00 | -117.8 | Bowl999, H8R, T3RMS, park666, powu |
 | 2026-09-07 | Washed | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.04 | 1.06 | +229.7 | Bowl999, H8R, T3RMS, park666, powu |
 | 2026-09-04 | Gloobers | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.00 | 0.00 | -122.3 | Bowl999, Princton, T3RMS, park666, powu |
 | 2026-09-02 | Cause and Effect Gaming | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.14 | 1.02 | +233.4 | Bowl999, Princton, T3RMS, park666, powu |

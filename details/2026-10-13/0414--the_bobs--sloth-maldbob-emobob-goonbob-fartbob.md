@@ -3,11 +3,11 @@ Team Name: The Bobs
 Roster: sloth, maldbob, emobob, goonbob, fartbob
 NARS Rank: 414 of 507
 
-Final Rating: 1027.9
+Final Rating: 1027.8
 Seeded Start: 1106.8
-H2H Adjustment: -78.9
+H2H Adjustment: -79.0
 
-Final Rating (1027.9) = Seeded Start (1106.8) + H2H Adjustment (-78.9)
+Final Rating (1027.8) = Seeded Start (1106.8) + H2H Adjustment (-79.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

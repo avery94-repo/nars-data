@@ -39,11 +39,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.07 | 0.69 | +199.2 | --DaDDyP, HS-poppins, ShiferSF, holdengroin, tRu-E- |
 | 2026-07-22 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -229.8 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |
 | 2026-07-17 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -2.7 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |
-| 2026-07-15 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -194.1 | --DaDDyP, ShiferSF, Wilky, is_o, tRu-E- |
+| 2026-07-15 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -194.2 | --DaDDyP, ShiferSF, Wilky, is_o, tRu-E- |
 | 2026-06-05 | In Our Prime | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -159.3 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
 | 2026-05-31 | FourStrokeGang | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.02 | 0.30 | +172.3 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |
 | 2026-05-29 | Grandpa Berets | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -152.7 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
-| 2026-05-27 | Therapist | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +335.3 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
+| 2026-05-27 | Therapist | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +335.4 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
 | 2026-05-21 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.00 | -189.6 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
 | 2026-05-13 | Power of Friendship | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.18 | +169.5 | --DaDDyP, 1000-Denials, GIARCYZZZARC, HS-poppins, tRu-E- |
 | 2026-05-12 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.02 | 0.00 | +193.9 | --DaDDyP, 1000-Denials, GIARCYZZZARC, ShiferSF, tRu-E- |

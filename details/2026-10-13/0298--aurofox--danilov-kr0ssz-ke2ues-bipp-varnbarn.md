@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -187.7 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-08 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +222.2 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-06 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.15 | +69.5 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
-| 2026-05-01 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.01 | 0.11 | +429.1 | Kr0ssz, _Morph, danilov, ke2ues, varnbarn |
+| 2026-05-01 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.01 | 0.11 | +429.2 | Kr0ssz, _Morph, danilov, ke2ues, varnbarn |
 | 2026-04-29 | iNSTINCT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -410.7 | Bipp, Kr0ssz, danilov, ke2ues, varnbarn |
 | 2026-04-24 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.06 | +422.8 | Bipp, Kr0ssz, danilov, ke2ues, varnbarn |
 | 2026-04-22 | juked | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -193.0 | Kr0ssz, _Morph, danilov, ke2ues, varnbarn |

@@ -33,9 +33,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Real Hustle Club | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.08 | 0.94 | +12.1 | -Gio25k, Yope, chowdskin, ghosty-, raypeekedyou |
 | 2026-08-26 | ThirdSite | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.21 | 0.89 | +61.2 | -Gio25k, Yope, chowdskin, ghosty-, raypeekedyou |
 | 2026-08-19 | butt | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.00 | 0.00 | -98.1 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
-| 2026-08-14 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.09 | 0.81 | +6.7 | -Gio25k, Yope, chowdskin, ghosty-, raypeekedyou |
+| 2026-08-14 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.09 | 0.80 | +6.7 | -Gio25k, Yope, chowdskin, ghosty-, raypeekedyou |
 | 2026-08-12 | teamington | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.10 | 0.79 | +73.3 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
-| 2026-08-07 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -204.5 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
+| 2026-08-07 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -204.6 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-08-05 | SquadUp | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.15 | 0.74 | +154.5 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-31 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.00 | 0.00 | -145.0 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-29 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.00 | 0.00 | -27.7 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
@@ -43,7 +43,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.07 | 0.65 | +135.2 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-17 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.02 | 0.62 | +0.1 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-15 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.03 | 0.60 | +186.9 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
-| 2026-05-31 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.00 | 0.00 | -99.7 | -Gio25k, Yope, b4m, ghosty-, miso |
+| 2026-05-31 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.00 | 0.00 | -99.8 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-05-27 | Crimson Vortex | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.00 | 0.00 | -30.5 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-05-22 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.06 | 0.27 | +214.8 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-05-20 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -192.3 | -Gio25k, Yope, b4m, ghosty-, miso |

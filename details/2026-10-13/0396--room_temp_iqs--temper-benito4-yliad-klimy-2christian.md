@@ -3,11 +3,11 @@ Team Name: Room Temp IQs
 Roster: TeMPeR, Benito4, yLiaD, klimy, 2christian
 NARS Rank: 396 of 507
 
-Final Rating: 1066.7
+Final Rating: 1066.6
 Seeded Start: 1217.2
-H2H Adjustment: -150.5
+H2H Adjustment: -150.6
 
-Final Rating (1066.7) = Seeded Start (1217.2) + H2H Adjustment (-150.5)
+Final Rating (1066.6) = Seeded Start (1217.2) + H2H Adjustment (-150.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

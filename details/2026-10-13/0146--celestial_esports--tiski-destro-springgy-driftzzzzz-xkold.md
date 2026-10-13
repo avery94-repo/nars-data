@@ -50,12 +50,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.46 | 1.00 | 1.01 | 0.00 | 0.00 | -20.0 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-07-17 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.46 | 1.00 | 0.89 | 0.00 | 0.00 | -255.0 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-07-15 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.46 | 1.00 | 0.87 | 0.00 | 0.00 | -22.1 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
-| 2026-05-25 | Phantom Sense | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.26 | 1.35 | 1.00 | 0.34 | 0.12 | 0.34 | +234.5 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
+| 2026-05-25 | Phantom Sense | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.26 | 1.35 | 1.00 | 0.34 | 0.12 | 0.34 | +234.6 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-05-22 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.35 | 1.00 | 0.32 | 0.00 | 0.00 | -11.4 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-05-12 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -263.6 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-05-07 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.01 | 0.18 | +5.0 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-05-05 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.01 | 0.16 | +94.9 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
-| 2026-04-30 | girl kissers | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.12 | +162.3 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
+| 2026-04-30 | girl kissers | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.12 | +162.4 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-04-29 | Holly Molly | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.02 | 0.00 | +234.5 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-04-23 | House Platypus ESC | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.06 | 0.00 | 0.00 | -167.7 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-04-23 | NZ Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.06 | 0.00 | 0.00 | -353.3 | Destro, Driftzzzzz, Tiski, fatguy, xKold |

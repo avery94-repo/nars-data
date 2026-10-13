@@ -4,14 +4,14 @@ Roster: Pluto101, Momo, taqi, shooterR-, mason
 NARS Rank: 11 of 507
 
 Final Rating: 2341.7
-Seeded Start: 2317.1
-H2H Adjustment: +24.6
+Seeded Start: 2317.0
+H2H Adjustment: +24.7
 
-Final Rating (2341.7) = Seeded Start (2317.1) + H2H Adjustment (+24.6)
+Final Rating (2341.7) = Seeded Start (2317.0) + H2H Adjustment (+24.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.869 x 1400 = 2317.1
+                = 1100 + 0.869 x 1400 = 2317.0
 
 seed_factor 0.869 = 0.25 x Tier Exposure (0.847) + 0.50 x Quality Wins (0.863) + 0.25 x Opponent Network (0.904)
 

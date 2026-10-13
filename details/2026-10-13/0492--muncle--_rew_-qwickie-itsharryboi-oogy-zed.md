@@ -3,11 +3,11 @@ Team Name: Muncle
 Roster: _REW_, Qwickie, ItsHarryBoi, Oogy, zed
 NARS Rank: 492 of 507
 
-Final Rating: 622.6
+Final Rating: 622.5
 Seeded Start: 1218.1
-H2H Adjustment: -595.5 (capped at +-300, raw -595.6)
+H2H Adjustment: -595.6
 
-Final Rating (622.6) = Seeded Start (1218.1) + H2H Adjustment (-595.5)
+Final Rating (622.5) = Seeded Start (1218.1) + H2H Adjustment (-595.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.04 | 0.22 | +342.2 | DJDeeJayDJ, ItsHarryBoi, Oogy, _REW_, zed |
 | 2026-05-15 | AURA Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -252.3 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, _REW_ |
 | 2026-05-13 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.02 | 0.18 | +6.9 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
-| 2026-05-08 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +427.8 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
+| 2026-05-08 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +427.9 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 | 2026-05-06 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -38.6 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 | 2026-05-01 | NATIONAL CS UNI | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -249.1 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 | 2026-04-29 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -74.1 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, _REW_ |

@@ -3,11 +3,11 @@ Team Name: GOMI dot CLUB
 Roster: KiDxHeart, patitas, slorpepe, timsta, DOZILLA
 NARS Rank: 493 of 507
 
-Final Rating: 592.8
+Final Rating: 592.7
 Seeded Start: 1177.2
-H2H Adjustment: -584.4
+H2H Adjustment: -584.5
 
-Final Rating (592.8) = Seeded Start (1177.2) + H2H Adjustment (-584.4)
+Final Rating (592.7) = Seeded Start (1177.2) + H2H Adjustment (-584.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

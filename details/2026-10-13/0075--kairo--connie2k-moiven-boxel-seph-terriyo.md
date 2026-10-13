@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Salsas Mazzin Crew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.05 | 0.66 | +2.6 | Boxel, Connie2k, Moiven, TERRIYO, ch0wt1me |
 | 2026-07-22 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.08 | 0.65 | +20.5 | Boxel, Connie2k, Moiven, TERRIYO, ch0wt1me |
 | 2026-07-17 | Abusement Park | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.05 | 0.62 | +266.6 | Boxel, Connie2k, Moiven, Seph, TERRIYO |
-| 2026-07-15 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.06 | 0.60 | +116.4 | Boxel, Connie2k, Seph, TERRIYO, kyr1e |
+| 2026-07-15 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.06 | 0.60 | +116.5 | Boxel, Connie2k, Seph, TERRIYO, kyr1e |
 | 2026-05-31 | Team Team Name | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.00 | 0.00 | -279.1 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-29 | Crimson Vortex | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.27 | 1.00 | 0.36 | 0.00 | 0.00 | -151.2 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-22 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -178.8 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |

@@ -45,7 +45,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-13 | LAG Gaming | W | 2-1 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 1.00 | 1.60 | 1.00 | 1.60 | 1.56 | 0.00 | +28.9 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-13 | SportsBetExpert | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.99 | 1.60 | 1.00 | 1.59 | 0.00 | 0.00 | -23.5 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-12 | SportsBetExpert | L |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.58 | 0.00 | 0.00 | -31.6 | core 3/5 |
-| 2026-09-11 | LAG Gaming | W | 2-1 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.99 | 1.60 | 1.00 | 1.58 | 1.54 | 0.00 | +31.8 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-11 | LAG Gaming | W | 2-1 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.99 | 1.60 | 1.00 | 1.58 | 1.54 | 0.00 | +31.9 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-11 | Voca | L |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -51.5 | core 3/5 |
 | 2026-09-11 | Marsborne | W |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 1.52 | 0.00 | +71.5 | core 3/5 |
 | 2026-09-10 | Marsborne | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.98 | 1.60 | 1.00 | 1.57 | 1.52 | 1.57 | +181.7 | Brehze, FaNg, autimatic, c3rq, stew |

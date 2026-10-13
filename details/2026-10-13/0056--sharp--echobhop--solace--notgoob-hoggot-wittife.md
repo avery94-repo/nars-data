@@ -4,14 +4,14 @@ Roster: EchoBHOP, -solacE-, NotGoob, hoggot, Wittifer
 NARS Rank: 56 of 507
 
 Final Rating: 1865.2
-Seeded Start: 1398.1
-H2H Adjustment: +467.1
+Seeded Start: 1398.0
+H2H Adjustment: +467.2
 
-Final Rating (1865.2) = Seeded Start (1398.1) + H2H Adjustment (+467.1)
+Final Rating (1865.2) = Seeded Start (1398.0) + H2H Adjustment (+467.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.213 x 1400 = 1398.1
+                = 1100 + 0.213 x 1400 = 1398.0
 
 seed_factor 0.213 = 0.25 x Tier Exposure (0.132) + 0.50 x Quality Wins (0.079) + 0.25 x Opponent Network (0.562)
 
@@ -40,9 +40,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -105.4 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
 | 2026-07-31 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.08 | 0.70 | +5.4 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
 | 2026-07-29 | The Ohio Meat Wagon | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.06 | 0.69 | +176.6 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
-| 2026-07-24 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.03 | 0.66 | +293.1 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-07-24 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.03 | 0.66 | +293.2 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
 | 2026-07-22 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.11 | 0.00 | +6.6 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
-| 2026-07-17 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.02 | 0.61 | +31.6 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-07-17 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.02 | 0.61 | +31.5 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
 | 2026-07-15 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +5.7 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
 | 2026-06-02 | COORSTHEOREM | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.31 | 1.05 | 1.00 | 0.33 | 0.00 | 0.00 | -237.8 | EchoBHOP, Grabblololo, Wittifer, hoggot, mizery |
 | 2026-05-29 | Diggers | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.30 | 0.00 | 0.00 | -289.0 | EchoBHOP, Grabblololo, Wittifer, hoggot, mizery |

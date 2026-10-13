@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-31 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.00 | 0.00 | -1.6 | Adrelic, Chicxen, Hawpa_, Raginwalri, spiiiddoni- |
-| 2026-07-29 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.00 | 0.00 | -163.3 | Adrelic, Chicxen, Hawpa_, Raginwalri, spiiiddoni- |
+| 2026-07-29 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.00 | 0.00 | -163.4 | Adrelic, Chicxen, Hawpa_, Raginwalri, spiiiddoni- |
 | 2026-07-28 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.01 | 1.00 | 0.69 | 0.03 | 0.69 | +0.0 | Adrelic, Chicxen, Hawpa_, Raginwalri, spiiiddoni- |
 | 2026-07-24 | Texas Orange | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.05 | 0.66 | +18.9 | Adrelic, Chicxen, Hawpa_, Raginwalri, spiiiddoni- |
 | 2026-07-17 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.03 | 0.62 | +14.5 | Adrelic, Hawpa_, JK_, Raginwalri, spiiiddoni- |
@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Akatsuki | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.01 | 0.22 | +112.1 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |
 | 2026-05-15 | The Plague | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +17.4 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |
 | 2026-05-13 | Oath | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.18 | +382.0 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |
-| 2026-05-08 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -327.5 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |
+| 2026-05-08 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -327.6 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |
 | 2026-05-06 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -165.3 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |
 | 2026-05-05 | TenToesDown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.00 | 1.00 | 0.12 | 0.02 | 0.12 | +142.1 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |
 | 2026-05-01 | Top One Percent | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +221.3 | Adrelic, JK_, Raginwalri, Ryougi, spiiiddoni- |

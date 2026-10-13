@@ -30,13 +30,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.00 | 0.00 | -104.8 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-08-21 | Meepins | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.07 | 0.85 | +102.5 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-08-19 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.00 | 0.00 | -114.4 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
-| 2026-08-14 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.06 | 0.81 | +103.4 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
+| 2026-08-14 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.06 | 0.80 | +103.4 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-08-11 | Salsas Mazzin Crew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.78 | 0.00 | 0.00 | -126.9 | KennyT, KiasDaLlama, Moosezera, SethP, unsightly |
 | 2026-08-07 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.10 | 0.76 | +182.3 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-08-05 | teamington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -28.6 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-07-31 | Texas Orange | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.00 | 0.00 | -83.9 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-07-29 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.03 | 0.70 | +21.9 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
-| 2026-07-24 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.04 | 0.66 | +234.5 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
+| 2026-07-24 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.04 | 0.66 | +234.6 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-07-22 | Tractors | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.00 | 0.00 | -137.8 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-07-17 | mas paspas | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.11 | 0.62 | +339.1 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-07-15 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.00 | 0.00 | -20.8 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
@@ -45,7 +45,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-06 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -330.8 | KennyT, KiasDaLlama, SethP, Taps1_, reverbz |
 | 2026-05-06 | Sassy Sunshines | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +344.8 | KennyT, KiasDaLlama, SethP, Taps1_, reverbz |
 | 2026-04-30 | 027fam | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.10 | 0.00 | 0.00 | -72.4 | KennyT, KiasDaLlama, Moosezera, SethP, reverbz |
-| 2026-04-29 | Locally Hated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -225.6 | EScottyy, KennyT, KiasDaLlama, SethP, reverbz |
+| 2026-04-29 | Locally Hated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -225.7 | EScottyy, KennyT, KiasDaLlama, SethP, reverbz |
 | 2026-04-23 | Wolves | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.01 | 0.05 | +13.9 | EScottyy, KennyT, KiasDaLlama, SethP, reverbz |
 | 2026-04-22 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.04 | +2.2 | EScottyy, KennyT, KiasDaLlama, SethP, reverbz |
 | 2026-04-17 | 1NT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.16 | 1.00 | 0.00 | 0.00 | 0.00 | +283.7 | Bankey_21, EScottyy, KennyT, SethP, reverbz |

@@ -3,11 +3,11 @@ Team Name: 37U Passion
 Roster: GRITMAXXER, stepback003, BingusKing, CarelessDoug, -yanno-
 NARS Rank: 491 of 507
 
-Final Rating: 623.1
+Final Rating: 623.0
 Seeded Start: 1192.3
-H2H Adjustment: -569.2
+H2H Adjustment: -569.3 (capped at +-300, raw -569.2)
 
-Final Rating (623.1) = Seeded Start (1192.3) + H2H Adjustment (-569.2)
+Final Rating (623.0) = Seeded Start (1192.3) + H2H Adjustment (-569.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.07 | 0.80 | +161.1 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
 | 2026-08-12 | Team Deathgrip | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -102.0 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
 | 2026-08-07 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -100.1 | -yanno-, CarelessDoug, GRITMAXXER, Magooga, stepback003 |
-| 2026-08-05 | AML | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -121.7 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
+| 2026-08-05 | AML | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -121.8 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
 | 2026-07-31 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +317.0 | BingusKing, CarelessDoug, GRITMAXXER, Magooga, stepback003 |
 | 2026-07-29 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -91.5 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
 | 2026-07-24 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -0.2 | -yanno-, CarelessDoug, GRITMAXXER, Magooga, stepback003 |

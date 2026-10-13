@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -28.9 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-05-20 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.02 | 0.26 | +81.7 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-05-19 | CLUE IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.25 | 0.00 | 0.00 | -177.4 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
-| 2026-05-13 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.02 | 0.20 | +330.6 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
+| 2026-05-13 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.02 | 0.20 | +330.7 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-05-08 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +204.2 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-04-30 | UnitedStatesArmy Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.10 | 0.00 | 0.00 | -291.5 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, mav9, monstar-- |
 | 2026-04-29 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.09 | +408.4 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, monstar-- |

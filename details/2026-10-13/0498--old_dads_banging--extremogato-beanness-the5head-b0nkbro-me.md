@@ -4,14 +4,14 @@ Roster: Extremogato, beanNess, The5Head, B0nkBro, meola
 NARS Rank: 498 of 507
 
 Final Rating: 547.5
-Seeded Start: 1180.7
-H2H Adjustment: -633.2 (capped at +-300, raw -633.1)
+Seeded Start: 1180.6
+H2H Adjustment: -633.1
 
-Final Rating (547.5) = Seeded Start (1180.7) + H2H Adjustment (-633.2)
+Final Rating (547.5) = Seeded Start (1180.6) + H2H Adjustment (-633.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.058 x 1400 = 1180.7
+                = 1100 + 0.058 x 1400 = 1180.6
 
 seed_factor 0.058 = 0.25 x Tier Exposure (0.041) + 0.50 x Quality Wins (0.012) + 0.25 x Opponent Network (0.165)
 

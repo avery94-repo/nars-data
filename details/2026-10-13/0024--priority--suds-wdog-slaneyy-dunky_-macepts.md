@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-09 | NXG Esports | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.36 | 1.27 | 1.00 | 0.45 | 0.00 | 0.00 | -207.9 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-06-02 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.27 | 1.00 | 0.39 | 0.00 | 0.00 | -170.4 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-06-02 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.27 | 1.00 | 0.39 | 0.00 | 0.00 | -170.5 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-06-01 | Crimson Vortex | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.38 | 0.04 | 0.00 | +57.8 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-05-29 | Tall Ocean Rats | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.27 | 1.00 | 0.36 | 0.02 | 0.36 | +10.3 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-05-22 | butt | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.02 | 0.27 | +192.1 | Dunky_, macepts, slaneyy, suds, wdog |

@@ -1,7 +1,7 @@
 {
  "schema_version": 2,
- "snapshot": "2026-10-13T18:52:24.226361+00:00",
- "exported_at": "2026-10-13T18:52:33Z",
+ "snapshot": "2026-10-13T19:01:40.334238+00:00",
+ "exported_at": "2026-10-13T19:01:49Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
  "matches_qualifying": 5802,
@@ -27,7 +27,7 @@
    "file_mtime": "2026-10-12T07:02:16Z"
   },
   "hltv": {
-   "file_mtime": "2026-10-13T18:52:03Z",
+   "file_mtime": "2026-10-13T19:01:40Z",
    "note": "parse.bot feed; degraded since 2026-10-09"
   },
   "vrs": {

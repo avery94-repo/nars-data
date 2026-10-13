@@ -4,16 +4,16 @@ Roster: olkp666, Yonys1337-, GrapeM3n, INFIDEI, gojoo
 NARS Rank: 67 of 507
 
 Final Rating: 1821.1
-Seeded Start: 1312.1
-H2H Adjustment: +509.0
+Seeded Start: 1312.0
+H2H Adjustment: +509.1
 
-Final Rating (1821.1) = Seeded Start (1312.1) + H2H Adjustment (+509.0)
+Final Rating (1821.1) = Seeded Start (1312.0) + H2H Adjustment (+509.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.151 x 1400 = 1312.1
+                = 1100 + 0.151 x 1400 = 1312.0
 
-seed_factor 0.151 = 0.25 x Tier Exposure (0.106) + 0.50 x Quality Wins (0.077) + 0.25 x Opponent Network (0.347)
+seed_factor 0.151 = 0.25 x Tier Exposure (0.106) + 0.50 x Quality Wins (0.077) + 0.25 x Opponent Network (0.346)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

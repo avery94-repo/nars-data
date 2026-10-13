@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | The Ohio Meat Wagon | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.08 | 0.92 | +40.7 | 2RACECAR, Dwizzy, EleMentL, Stang_, mykey, slat- |
 | 2026-08-26 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -43.1 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-08-21 | Mach 5 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +47.9 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
-| 2026-08-19 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.11 | 0.83 | +118.1 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
+| 2026-08-19 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.11 | 0.83 | +118.2 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-08-14 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -150.3 | 2RACECAR, Dwizzy, EleMentL, mykey, slat- |
 | 2026-08-12 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.08 | 0.78 | +7.7 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-08-07 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.11 | 0.00 | +126.9 | 2RACECAR, EleMentL, Stang_, mykey, slat- |

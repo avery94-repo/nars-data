@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: DUI
 Roster: -syN-_-, deeLN, LaiNN-, Aim-_, RoLLo
-NARS Rank: 251 of 507
+NARS Rank: 250 of 507
 
 Final Rating: 1380.9
 Seeded Start: 1126.4

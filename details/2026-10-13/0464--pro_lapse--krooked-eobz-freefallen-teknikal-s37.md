@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.00 | 0.00 | -49.3 | Krooked, S37, eobz, freefallen, teknikal |
 | 2026-08-21 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.00 | 0.00 | -75.5 | Krooked, S37, eobz, freefallen, teknikal |
 | 2026-08-19 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.07 | 0.84 | +101.8 | Krooked, S37, eobz, freefallen, teknikal |
-| 2026-08-14 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.06 | 0.81 | +44.2 | Krooked, S37, eobz, freefallen, teknikal |
+| 2026-08-14 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.06 | 0.80 | +44.2 | Krooked, S37, eobz, freefallen, teknikal |
 | 2026-08-07 | Tractors | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -75.9 | Krooked, S37, eobz, freefallen, teknikal |
 | 2026-08-05 | Hack-A-Shaq | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -5.6 | Krooked, S37, eobz, freefallen, teknikal |
 | 2026-07-31 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.00 | 0.00 | -3.4 | Krooked, S37, diatomic_, freefallen, teknikal |
@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Kaos | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -78.4 | BAU3R, Krooked, diatomic_, eobz, teknikal |
 | 2026-05-20 | BucketJonsBoys | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -226.1 | BAU3R, Krooked, diatomic_, eobz, teknikal |
 | 2026-05-15 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -222.9 | BAU3R, Krooked, S37, eobz, teknikal |
-| 2026-05-13 | Second Nature | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.01 | 0.20 | +382.1 | BAU3R, Krooked, S37, diatomic_, teknikal |
+| 2026-05-13 | Second Nature | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.01 | 0.20 | +382.2 | BAU3R, Krooked, S37, diatomic_, teknikal |
 | 2026-05-08 | Conscious Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -253.7 | BAU3R, Krooked, S37, freefallen, teknikal |
 | 2026-05-06 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.02 | 0.15 | +171.4 | BAU3R, Krooked, S37, eobz, teknikal |
 | 2026-05-01 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -76.1 | BAU3R, Krooked, S37, eobz, teknikal |

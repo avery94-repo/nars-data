@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.06 | 0.84 | +79.5 | El-Nain, FourmiDubz, Koni_-, kismaah, zoopreme |
 | 2026-08-13 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.01 | 1.00 | 0.80 | 0.09 | 0.80 | +113.1 | El-Nain, FourmiDubz, Kentai, Koni_-, zoopreme |
 | 2026-08-12 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -53.2 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |
-| 2026-08-05 | Bird Lickers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -234.6 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |
+| 2026-08-05 | Bird Lickers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -234.7 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |
 | 2026-07-31 | Team Amplus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.12 | 0.71 | +112.6 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |
 | 2026-07-29 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.05 | 0.70 | +219.3 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |
 | 2026-07-24 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.00 | 0.00 | -362.7 | El-Nain, FourmiDubz, Kentai, Koni_-, zoopreme |

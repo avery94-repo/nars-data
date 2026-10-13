@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: the dragon warrior scroll
 Roster: OJISBAE, Late, yarushima, texture, riizzy
-NARS Rank: 250 of 507
+NARS Rank: 251 of 507
 
-Final Rating: 1381.0
+Final Rating: 1380.9
 Seeded Start: 1146.0
-H2H Adjustment: +235.0
+H2H Adjustment: +234.9
 
-Final Rating (1381.0) = Seeded Start (1146.0) + H2H Adjustment (+235.0)
+Final Rating (1380.9) = Seeded Start (1146.0) + H2H Adjustment (+234.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-31 | Team Amplus | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.00 | 0.00 | -174.1 | Late, OJISBAE, riizzy, texture, yarushima |
+| 2026-05-31 | Team Amplus | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.00 | 0.00 | -174.2 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-29 | BUCK NASTY | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.27 | 1.00 | 0.36 | 0.00 | 0.00 | -192.5 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-27 | Shaboing Boing Bandits | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.05 | 0.34 | +158.7 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-22 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -251.4 | Late, OJISBAE, riizzy, texture, yarushima |

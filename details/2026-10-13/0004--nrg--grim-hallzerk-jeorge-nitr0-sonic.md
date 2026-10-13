@@ -49,9 +49,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-12 | EH | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.92 | 0.69 | 0.00 | +23.9 | core 3/5 |
 | 2026-07-12 | NuTorious | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.92 | 0.82 | 0.92 | +0.8 | core 3/5 |
 | 2026-07-12 | SportsBetExpert | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.92 | 0.83 | 0.92 | +113.0 | core 3/5 |
-| 2026-06-05 | BIG | L |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.52 | 0.00 | 0.00 | -258.4 | core 3/5 |
-| 2026-06-04 | M80 | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.51 | 0.00 | 0.00 | -117.1 | core 3/5 |
-| 2026-06-03 | FlyQuest | W |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.50 | 0.69 | 0.00 | +248.9 | core 3/5 |
+| 2026-06-05 | BIG | L |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.52 | 0.00 | 0.00 | -258.5 | core 3/5 |
+| 2026-06-04 | M80 | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.51 | 0.00 | 0.00 | -117.2 | core 3/5 |
+| 2026-06-03 | FlyQuest | W |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.50 | 0.69 | 0.00 | +249.0 | core 3/5 |
 | 2026-06-02 | GAMERLEGION | L |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.00 | 0.00 | -2.7 | core 3/5 |
 | 2026-06-02 | SINNERS | W |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.74 | 0.00 | +646.8 | core 3/5 |
 | 2026-05-20 | MOUZ | L |  | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.35 | 0.00 | 0.00 | -0.3 | core 3/5 |

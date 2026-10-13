@@ -3,11 +3,11 @@ Team Name: Another Day in Paradise
 Roster: spearMONSTER, 1Hue-, fkmup, 1Sanityy, Kajuin
 NARS Rank: 472 of 507
 
-Final Rating: 799.7
+Final Rating: 799.6
 Seeded Start: 1105.8
-H2H Adjustment: -306.1
+H2H Adjustment: -306.2
 
-Final Rating (799.7) = Seeded Start (1105.8) + H2H Adjustment (-306.1)
+Final Rating (799.6) = Seeded Start (1105.8) + H2H Adjustment (-306.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

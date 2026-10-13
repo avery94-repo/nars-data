@@ -34,8 +34,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.00 | 0.00 | -109.1 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
 | 2026-08-19 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.07 | 0.84 | +37.4 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
 | 2026-08-11 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.78 | 0.06 | 0.78 | +128.1 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
-| 2026-08-07 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.04 | 0.76 | +217.5 | 1Mazz, DAVEY, ScoobyMoose, salsa_-, tawa |
-| 2026-08-05 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -148.0 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
+| 2026-08-07 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.04 | 0.76 | +217.6 | 1Mazz, DAVEY, ScoobyMoose, salsa_-, tawa |
+| 2026-08-05 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -148.1 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
 | 2026-07-30 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.70 | 0.00 | 0.00 | -1.7 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
 | 2026-07-24 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.00 | 0.00 | -2.5 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
 | 2026-07-17 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.05 | 0.62 | +58.2 | DAVEY, ScoobyMoose, rock, salsa_-, tawa |

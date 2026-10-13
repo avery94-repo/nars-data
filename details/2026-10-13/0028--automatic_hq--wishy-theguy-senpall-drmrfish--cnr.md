@@ -53,7 +53,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -287.0 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-13 | Bills | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.20 | +156.8 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-08 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -93.6 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
-| 2026-05-06 | Priority | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.15 | +298.6 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
+| 2026-05-06 | Priority | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.15 | +298.7 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-01 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +32.7 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-04-24 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.06 | +250.2 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-04-22 | grogu | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.04 | +10.5 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |

@@ -5,7 +5,7 @@ NARS Rank: 490 of 507
 
 Final Rating: 625.3
 Seeded Start: 1171.1
-H2H Adjustment: -545.8 (capped at +-300, raw -545.7)
+H2H Adjustment: -545.8
 
 Final Rating (625.3) = Seeded Start (1171.1) + H2H Adjustment (-545.8)
 

@@ -4,14 +4,14 @@ Roster: othelloo, HENBOOGA, millie, dr3xd, uncouth
 NARS Rank: 431 of 507
 
 Final Rating: 970.2
-Seeded Start: 1183.1
-H2H Adjustment: -212.9
+Seeded Start: 1183.0
+H2H Adjustment: -212.8
 
-Final Rating (970.2) = Seeded Start (1183.1) + H2H Adjustment (-212.9)
+Final Rating (970.2) = Seeded Start (1183.0) + H2H Adjustment (-212.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.059 x 1400 = 1183.1
+                = 1100 + 0.059 x 1400 = 1183.0
 
 seed_factor 0.059 = 0.25 x Tier Exposure (0.038) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.177)
 
@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Distinguished Ducks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.00 | 0.00 | -45.2 | HENBOOGA, dr3xd, gnilia, millie, othelloo |
 | 2026-08-14 | Wealth Reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.00 | 0.00 | -107.6 | HENBOOGA, cortado, gnilia, millie, othelloo |
 | 2026-08-12 | BucketJonsBoys | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -24.7 | HENBOOGA, cortado, gnilia, millie, othelloo |
-| 2026-08-07 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -194.1 | HENBOOGA, cortado, gnilia, millie, othelloo |
+| 2026-08-07 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -194.2 | HENBOOGA, cortado, gnilia, millie, othelloo |
 | 2026-08-05 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.06 | 0.74 | +55.9 | HENBOOGA, cortado, gnilia, millie, othelloo |
 | 2026-07-31 | Hack-A-Shaq | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.00 | 0.00 | -176.4 | HENBOOGA, cortado, gnilia, millie, othelloo |
 | 2026-07-29 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.00 | 0.00 | -123.8 | 1noonzee, HENBOOGA, cortado, othelloo, uncouth |

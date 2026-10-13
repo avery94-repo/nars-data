@@ -3,11 +3,11 @@ Team Name: penazoid
 Roster: Plat, viper14bite, donkazoid, Justic11, lizzaarrd
 NARS Rank: 228 of 507
 
-Final Rating: 1426.6
+Final Rating: 1426.5
 Seeded Start: 1417.6
-H2H Adjustment: +9.0
+H2H Adjustment: +8.9
 
-Final Rating (1426.6) = Seeded Start (1417.6) + H2H Adjustment (+9.0)
+Final Rating (1426.5) = Seeded Start (1417.6) + H2H Adjustment (+8.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -47,7 +47,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-21 | Over Your Head | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -78.4 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-16 | ASYCS KITTENS | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -54.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-05-22 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.04 | 0.27 | +228.4 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-05-20 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -257.1 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-05-20 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -257.2 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-05-15 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.01 | 0.22 | +159.6 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-05-13 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -199.0 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-05-08 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +251.9 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |

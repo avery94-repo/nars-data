@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | crescent | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.20 | 1.00 | 1.15 | 0.00 | 0.00 | -109.0 | Dogman123123, ajoyfulpig, awakend-, dirtydrg, jOHN_ |
+| 2026-09-08 | crescent | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.20 | 1.00 | 1.15 | 0.00 | 0.00 | -109.1 | Dogman123123, ajoyfulpig, awakend-, dirtydrg, jOHN_ |
 | 2026-09-06 | SwagMonkeyHats | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.95 | 1.20 | 1.00 | 1.13 | 0.19 | 1.13 | +38.0 | Dogman123123, ajoyfulpig, awakend-, dirtydrg, jOHN_ |
 | 2026-09-04 | bubibabu | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.20 | 1.00 | 1.12 | 0.00 | 0.00 | -45.9 | Dogman123123, ajoyfulpig, awakend-, dirtydrg, jOHN_ |
 | 2026-09-02 | strawberry poptarts | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.20 | 1.00 | 1.10 | 0.10 | 1.10 | +49.9 | Dogman123123, DoubleJays, ajoyfulpig, awakend-, dirtydrg, jOHN_ |
@@ -56,7 +56,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-06 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.13 | +3.1 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-05-01 | In Our Prime | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +321.2 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-04-29 | strawberry poptarts | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.00 | +340.2 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, rh0b |
-| 2026-04-24 | High-Tech Performance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +292.5 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
+| 2026-04-24 | High-Tech Performance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +292.6 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-04-22 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -260.6 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-04-17 | Les Ptis Jus | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -281.9 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 

@@ -4,14 +4,14 @@ Roster: Jamiee07, KyeGo02, BotGoop, Ouija, diimaaa
 NARS Rank: 309 of 507
 
 Final Rating: 1251.9
-Seeded Start: 1289.5
-H2H Adjustment: -37.6
+Seeded Start: 1289.4
+H2H Adjustment: -37.5
 
-Final Rating (1251.9) = Seeded Start (1289.5) + H2H Adjustment (-37.6)
+Final Rating (1251.9) = Seeded Start (1289.4) + H2H Adjustment (-37.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.135 x 1400 = 1289.5
+                = 1100 + 0.135 x 1400 = 1289.4
 
 seed_factor 0.135 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.032) + 0.25 x Opponent Network (0.403)
 
@@ -42,6 +42,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Big Kahuna Gaming | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.02 | 0.61 | +55.9 | Jamiee07, KyeGo02, M4NUP, Ouija, hierro |
 | 2026-06-02 | HiveMind | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.31 | 1.05 | 1.00 | 0.33 | 0.00 | 0.00 | -179.4 | Jamiee07, KyeGo02, Ouija, diimaaa, y0uxx666 |
 | 2026-05-31 | flat earth | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.31 | 0.04 | 0.31 | +269.2 | Jamiee07, KyeGo02, Ouija, diimaaa, y0uxx666 |
-| 2026-05-27 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.27 | 1.05 | 1.00 | 0.28 | 0.00 | 0.00 | -265.8 | Jamiee07, KyeGo02, Ouija, diimaaa, hierro |
+| 2026-05-27 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.27 | 1.05 | 1.00 | 0.28 | 0.00 | 0.00 | -265.9 | Jamiee07, KyeGo02, Ouija, diimaaa, hierro |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

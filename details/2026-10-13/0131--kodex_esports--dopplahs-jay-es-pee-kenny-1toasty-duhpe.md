@@ -35,17 +35,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-20 | UltimateDarklordWizardz | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -123.5 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-19 | Wanted Goons | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.46 | 1.00 | 1.21 | 1.21 | 1.21 | +84.0 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-14 | Xiaoma Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.16 | 0.00 | 0.00 | -87.7 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
-| 2026-08-13 | FRZ Unit | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.15 | 0.81 | 1.15 | +151.0 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
+| 2026-08-13 | FRZ Unit | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.15 | 0.81 | 1.15 | +151.1 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-12 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.46 | 1.00 | 1.14 | 0.00 | 0.00 | -7.7 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-11 | academy 4 gifted children | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.45 | 1.00 | 1.12 | 0.00 | 0.00 | -6.6 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-11 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.46 | 1.00 | 1.13 | 0.42 | 1.13 | +141.8 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-08-08 | EMPIRE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.76 | 1.45 | 1.00 | 1.09 | 0.00 | 0.00 | -31.0 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-07-29 | Celestial Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.46 | 1.00 | 1.01 | 0.30 | 1.01 | +20.0 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
-| 2026-07-24 | Olympus | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.46 | 1.00 | 0.96 | 0.62 | 0.96 | +416.7 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
+| 2026-07-24 | Olympus | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.46 | 1.00 | 0.96 | 0.62 | 0.96 | +416.8 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-07-23 | Phantom Sense | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.46 | 1.00 | 0.95 | 0.00 | 0.00 | -284.9 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-07-18 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.46 | 1.00 | 0.90 | 0.06 | 0.90 | +526.9 | 1TOASTY, JAY-ES-PEE, dopplahs, duhpe, kenny |
 | 2026-05-14 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -1.2 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |
-| 2026-05-12 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -305.4 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |
+| 2026-05-12 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -305.5 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |
 | 2026-05-07 | skebob | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -216.3 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |
 | 2026-05-05 | House Platypus ESC | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.01 | 0.16 | +362.5 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |
 | 2026-05-01 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.35 | 1.00 | 0.13 | 0.00 | 0.00 | -402.8 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |

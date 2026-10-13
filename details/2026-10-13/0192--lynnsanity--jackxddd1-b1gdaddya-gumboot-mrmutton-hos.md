@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.16 | 1.00 | 0.71 | 0.06 | 0.71 | +44.9 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-07-16 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -338.0 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-05-22 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -219.6 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
-| 2026-05-20 | Old Meta | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.04 | 0.26 | +257.2 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
+| 2026-05-20 | Old Meta | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.04 | 0.26 | +257.3 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
 | 2026-05-15 | the dragon warrior scroll | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -3.7 | CSGO-VETERAN, Gumboot, MrMutton, Trenstn, hostage1337 |
 | 2026-05-13 | Texas Orange | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -390.2 | CSGO-VETERAN, Gumboot, MrMutton, Trenstn, hostage1337 |
 | 2026-05-08 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +2.4 | B1gDaddyA, CSGO-VETERAN, Gumboot, MrMutton, hostage1337 |

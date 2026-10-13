@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | The Sweepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -134.1 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-05-27 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -281.7 | GetGunked, Ghosterize, Tokar, cowboy-, sveninaden |
 | 2026-05-22 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +205.7 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
-| 2026-05-15 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -187.5 | -Rasta-, Ghosterize, Tokar, _Dank-, sveninaden |
+| 2026-05-15 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -187.6 | -Rasta-, Ghosterize, Tokar, _Dank-, sveninaden |
 | 2026-05-13 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -259.1 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
 | 2026-05-08 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.02 | 0.14 | +4.4 | -Rasta-, GetGunked, Tokar, _Dank-, sveninaden |
 | 2026-05-06 | RunTheDamnBall | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +243.1 | -Rasta-, GetGunked, Tokar, _Dank-, sveninaden |

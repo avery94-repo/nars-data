@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Lynnsanity | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -184.4 | Boyller, Killj0y, SugarPea, TAAKY0N, spiiiddoni- |
 | 2026-09-06 | DESPAIR | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.95 | 1.20 | 1.00 | 1.13 | 0.00 | 0.00 | -11.9 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-09-02 | 5Frag Gaming | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.20 | 1.00 | 1.10 | 0.00 | 0.00 | -36.6 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-08-28 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.16 | 1.00 | 1.03 | 0.12 | 1.03 | +103.8 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-08-28 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.16 | 1.00 | 1.03 | 0.12 | 1.03 | +103.9 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-25 | Olympus | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.87 | 1.23 | 1.00 | 1.07 | 0.00 | 0.00 | -0.0 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-23 | F5 Esports | W |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.86 | 1.23 | 1.00 | 1.06 | 0.27 | 1.06 | +140.6 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-21 | Diamond Mental | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.98 | 0.00 | 0.00 | -59.3 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |

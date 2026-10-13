@@ -3,11 +3,11 @@ Team Name: Mace Lindu Ruff Rebound
 Roster: huskmane, zed0K, k-o-L, Karrato, _bad
 NARS Rank: 420 of 507
 
-Final Rating: 1004.4
+Final Rating: 1004.3
 Seeded Start: 1214.3
-H2H Adjustment: -209.9
+H2H Adjustment: -210.0
 
-Final Rating (1004.4) = Seeded Start (1214.3) + H2H Adjustment (-209.9)
+Final Rating (1004.3) = Seeded Start (1214.3) + H2H Adjustment (-210.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | GoopT | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +329.1 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
 | 2026-05-20 | AURA Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -4.5 | CripserOG, Karrato, _bad, k-o-L, zed0K |
 | 2026-05-15 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -60.6 | CripserOG, Karrato, _bad, k-o-L, zed0K |
-| 2026-05-13 | SwagMonkeyHats | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -335.5 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
+| 2026-05-13 | SwagMonkeyHats | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -335.6 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
 | 2026-05-06 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -36.3 | Karrato, _bad, huskmane, k-o-L, zed0K |
 | 2026-05-01 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -308.1 | Karrato, Vulcanium, _bad, k-o-L, zed0K |
 | 2026-04-29 | Ninjas In Boxer | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.08 | +265.0 | Vulcanium, _bad, huskmane, k-o-L, zed0K |

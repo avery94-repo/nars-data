@@ -41,13 +41,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.04 | 0.69 | +161.3 | DanieIH, LandonW, LollypopTV, SteadFast, dycfghvjuczx |
 | 2026-06-06 | Crimson Vortex | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.34 | 1.27 | 1.00 | 0.42 | 0.00 | 0.00 | -5.7 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-06-04 | BUCK NASTY | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.27 | 1.00 | 0.41 | 0.01 | 0.41 | +336.1 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
-| 2026-05-27 | Locally Hated | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.00 | 0.00 | -230.7 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
+| 2026-05-27 | Locally Hated | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.00 | 0.00 | -230.8 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-05-22 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.27 | +10.0 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-05-20 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.02 | 0.26 | +56.3 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-05-15 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -43.1 | DanieIH, LandonW, LollypopTV, Sithiss, dycfghvjuczx |
 | 2026-05-13 | Locally Hated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -320.7 | DanieIH, LandonW, LollypopTV, Sithiss, dycfghvjuczx |
-| 2026-05-08 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -7.9 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
-| 2026-05-06 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.15 | +325.4 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
+| 2026-05-08 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -8.0 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
+| 2026-05-06 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.15 | +325.5 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-05-01 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +76.0 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-04-29 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +46.1 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-04-24 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.01 | 0.06 | +388.8 | DanieIH, LollypopTV, Sithiss, SteadFast, dycfghvjuczx |

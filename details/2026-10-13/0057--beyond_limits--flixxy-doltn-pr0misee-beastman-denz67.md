@@ -4,14 +4,14 @@ Roster: flixxy, doltn, Pr0misee, Beastman, denz67
 NARS Rank: 57 of 507
 
 Final Rating: 1864.8
-Seeded Start: 2099.4
-H2H Adjustment: -234.6
+Seeded Start: 2099.3
+H2H Adjustment: -234.5
 
-Final Rating (1864.8) = Seeded Start (2099.4) + H2H Adjustment (-234.6)
+Final Rating (1864.8) = Seeded Start (2099.3) + H2H Adjustment (-234.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.714 x 1400 = 2099.4
+                = 1100 + 0.714 x 1400 = 2099.3
 
 seed_factor 0.714 = 0.25 x Tier Exposure (0.657) + 0.50 x Quality Wins (0.660) + 0.25 x Opponent Network (0.879)
 
@@ -72,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.30 | +177.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-05-19 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.03 | 0.29 | +250.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-05-19 | Shimmer | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -285.1 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-05-08 | House Platypus ESC | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.19 | 0.00 | 0.00 | -427.8 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-05-08 | House Platypus ESC | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.19 | 0.00 | 0.00 | -427.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-05-07 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.03 | 0.18 | +194.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-05-05 | raisedbypixels | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -400.3 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-05-01 | FlyQuest RED | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.13 | 0.06 | 0.13 | +119.2 | Beastman, Pr0misee, denz67, doltn, flixxy |

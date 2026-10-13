@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.00 | 0.00 | -9.3 | D00R, Hydra, NEXTDAYAIR-, hustler, shohei |
 | 2026-08-21 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.00 | 0.00 | -103.0 | D00R, Hydra, br00d, hustler, shohei |
 | 2026-08-19 | Wide Swinging Wizards | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.04 | 0.84 | +87.7 | D00R, Hydra, NEXTDAYAIR-, hustler, shohei |
-| 2026-08-14 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.04 | 0.81 | +104.8 | D00R, Hydra, br00d, hustler, shohei |
+| 2026-08-14 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.04 | 0.80 | +104.8 | D00R, Hydra, br00d, hustler, shohei |
 | 2026-08-12 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -4.7 | D00R, Hydra, NEXTDAYAIR-, hustler, shohei |
 | 2026-08-07 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -97.0 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
 | 2026-07-31 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.05 | 0.71 | +0.1 | D00R, Gerrard4K, Hydra, br00d, hustler |

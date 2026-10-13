@@ -4,14 +4,14 @@ Roster: L33TG4M3R_, WhiteShadew, Zynxx, Cynxz, pierson
 NARS Rank: 23 of 507
 
 Final Rating: 2101.1
-Seeded Start: 1278.7
-H2H Adjustment: +822.4 (capped at +-300, raw +822.5)
+Seeded Start: 1278.6
+H2H Adjustment: +822.5
 
-Final Rating (2101.1) = Seeded Start (1278.7) + H2H Adjustment (+822.4)
+Final Rating (2101.1) = Seeded Start (1278.6) + H2H Adjustment (+822.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.128 x 1400 = 1278.7
+                = 1100 + 0.128 x 1400 = 1278.6
 
 seed_factor 0.128 = 0.25 x Tier Exposure (0.040) + 0.50 x Quality Wins (0.041) + 0.25 x Opponent Network (0.389)
 

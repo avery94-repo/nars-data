@@ -3,11 +3,11 @@ Team Name: three11
 Roster: ahacks, muscles, lakini, okc-lover, excite
 NARS Rank: 412 of 507
 
-Final Rating: 1029.6
+Final Rating: 1029.5
 Seeded Start: 1110.1
-H2H Adjustment: -80.5
+H2H Adjustment: -80.6
 
-Final Rating (1029.6) = Seeded Start (1110.1) + H2H Adjustment (-80.5)
+Final Rating (1029.5) = Seeded Start (1110.1) + H2H Adjustment (-80.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Old Meta | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -244.2 | ahacks, excite, lakini, muscles, okc-lover |
 | 2026-05-20 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -51.3 | ahacks, excite, lakini, muscles, okc-lover |
 | 2026-05-15 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -136.4 | ahacks, excite, lakini, muscles, okc-lover |
-| 2026-05-13 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -47.4 | ahacks, excite, lakini, muscles, okc-lover |
+| 2026-05-13 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -47.3 | ahacks, excite, lakini, muscles, okc-lover |
 | 2026-05-06 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -322.4 | ahacks, excite, lakini, muscles, okc-lover |
 | 2026-04-30 | DESPAIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.10 | 0.01 | 0.10 | +41.2 | excite, lakini, muscles, okc-lover, sideSWIPE_- |
 | 2026-04-29 | Resurgence | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +388.6 | ahacks, lakini, muscles, okc-lover, vinin |

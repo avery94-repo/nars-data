@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-11 | Hairy Scary Bandits | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.45 | 1.00 | 1.13 | 0.00 | 0.00 | -149.8 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
 | 2026-05-01 | Wildcard | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -17.8 | core 3/5 |
 | 2026-04-30 | regain | L |  | VRS-tracked 2026-04 | A | vrs | 0.09 | 1.59 | 1.00 | 0.14 | 0.00 | 0.00 | -8.0 | core 3/5 |
-| 2026-04-30 | Shimmer | W |  | VRS-tracked 2026-04 | A | vrs | 0.09 | 1.59 | 1.00 | 0.14 | 0.05 | 0.14 | +260.4 | core 3/5 |
+| 2026-04-30 | Shimmer | W |  | VRS-tracked 2026-04 | A | vrs | 0.09 | 1.59 | 1.00 | 0.14 | 0.05 | 0.14 | +260.5 | core 3/5 |
 | 2026-04-29 | Wildcard | L |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.00 | 0.00 | -1.9 | core 3/5 |
 | 2026-04-28 | EX-AETHER | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.12 | 0.00 | 0.00 | -536.9 | core 3/5 |
 | 2026-04-27 | Reign Above | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.08 | 0.00 | +18.9 | core 3/5 |

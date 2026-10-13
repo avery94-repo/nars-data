@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | No pain No aim | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.00 | 0.00 | -18.1 | -CraM-, -jakk, sleepykt, the-Supreme, toldman |
 | 2026-09-03 | house | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -9.1 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
 | 2026-05-08 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -168.0 | -jakk, 5eb, Bernurd, sleepykt, toldman |
-| 2026-05-08 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -326.0 | -jakk, 5eb, Bernurd, sleepykt, toldman |
+| 2026-05-08 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -326.1 | -jakk, 5eb, Bernurd, sleepykt, toldman |
 | 2026-05-01 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -88.4 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
 | 2026-04-28 | Remnant | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.08 | +287.7 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
 | 2026-04-17 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -150.2 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |

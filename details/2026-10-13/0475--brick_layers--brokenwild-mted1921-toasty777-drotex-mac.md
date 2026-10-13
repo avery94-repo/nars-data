@@ -3,11 +3,11 @@ Team Name: Brick Layers
 Roster: BrokenWild, mted1921, Toasty777, Drotex, macchiata
 NARS Rank: 475 of 507
 
-Final Rating: 784.4
+Final Rating: 784.3
 Seeded Start: 1103.7
-H2H Adjustment: -319.3
+H2H Adjustment: -319.4
 
-Final Rating (784.4) = Seeded Start (1103.7) + H2H Adjustment (-319.3)
+Final Rating (784.3) = Seeded Start (1103.7) + H2H Adjustment (-319.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-20 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -229.0 | BrokenWild, Drotex, Famweboolin, macchiata, mted1921 |
+| 2026-05-20 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -229.1 | BrokenWild, Drotex, Famweboolin, macchiata, mted1921 |
 | 2026-05-15 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -7.1 | BrokenWild, Drotex, Tad_s, Toasty777, mted1921 |
 | 2026-05-08 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -27.0 | BrokenWild, Drotex, Famweboolin, Toasty777, mted1921 |
 | 2026-05-06 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -203.2 | BrokenWild, Drotex, Famweboolin, Toasty777, macchiata |

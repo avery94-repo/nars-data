@@ -4,14 +4,14 @@ Roster: 174AVA, Ridge, Stx, alicerawr, jjuna
 NARS Rank: 110 of 507
 
 Final Rating: 1673.5
-Seeded Start: 1567.8
-H2H Adjustment: +105.7
+Seeded Start: 1567.7
+H2H Adjustment: +105.8
 
-Final Rating (1673.5) = Seeded Start (1567.8) + H2H Adjustment (+105.7)
+Final Rating (1673.5) = Seeded Start (1567.7) + H2H Adjustment (+105.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.334 x 1400 = 1567.8
+                = 1100 + 0.334 x 1400 = 1567.7
 
 seed_factor 0.334 = 0.25 x Tier Exposure (0.375) + 0.50 x Quality Wins (0.145) + 0.25 x Opponent Network (0.671)
 
@@ -58,10 +58,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | Asian Invasion | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.31 | +26.4 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
 | 2026-05-20 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.03 | 0.30 | +1.1 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
 | 2026-05-19 | Beyond Limits | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.19 | 0.29 | +278.9 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
-| 2026-05-12 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -97.3 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
+| 2026-05-12 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -97.4 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
 | 2026-05-07 | North Forge | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -3.0 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
 | 2026-05-06 | GRIT | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -433.3 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
-| 2026-05-05 | Elisir Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.16 | +127.3 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
+| 2026-05-05 | Elisir Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.16 | +127.4 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
 | 2026-04-30 | FarmVille | L |  | VRS-tracked 2026-04 | A | vrs | 0.09 | 1.59 | 1.00 | 0.14 | 0.00 | 0.00 | -269.1 | core 3/5 |
 | 2026-04-29 | OVERKNIGHT | W |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.10 | 0.00 | +636.8 | core 3/5 |
 | 2026-04-27 | EX-AETHER | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.00 | 0.00 | -11.6 | core 3/5 |

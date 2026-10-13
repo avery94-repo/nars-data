@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -110.8 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
 | 2026-05-19 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -10.2 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
 | 2026-05-15 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -161.8 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
-| 2026-05-08 | HammerHeads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +53.6 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
+| 2026-05-08 | HammerHeads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +53.5 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
 | 2026-05-01 | Brick Layers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +6.8 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg, syfen |
 | 2026-04-29 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.08 | +212.0 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
 | 2026-04-24 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.01 | 0.05 | +260.8 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |

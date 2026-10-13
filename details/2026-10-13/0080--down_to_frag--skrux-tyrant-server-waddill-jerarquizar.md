@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-27 | 5Frag Gaming | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.00 | 0.00 | -17.9 | Jerarquizar, _aim, server, skrux, tyrant |
 | 2026-05-22 | MASTER ONE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -386.2 | Jerarquizar, _aim, server, skrux, tyrant |
 | 2026-05-15 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.01 | 0.22 | +225.4 | Jerarquizar, _aim, server, skrux, tyrant |
-| 2026-05-14 | N w G | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.21 | +307.1 | Jerarquizar, _aim, server, skrux, tyrant |
+| 2026-05-14 | N w G | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.21 | +307.2 | Jerarquizar, _aim, server, skrux, tyrant |
 | 2026-05-08 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -271.1 | Jerarquizar, _aim, server, skrux, tyrant |
 | 2026-05-06 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -174.7 | Jerarquizar, _aim, server, skrux, tyrant |
 | 2026-05-01 | Over Your Head | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.01 | 0.11 | +401.0 | Injure-, Jerarquizar, server, skrux, tyrant |

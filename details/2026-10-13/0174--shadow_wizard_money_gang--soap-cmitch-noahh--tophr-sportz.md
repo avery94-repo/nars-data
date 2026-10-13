@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Aspyre | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.46 | 1.00 | 1.21 | 0.12 | 1.21 | +131.7 | CMitch, Noahh-, Tophr, sportz, torii |
 | 2026-08-14 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.16 | 0.14 | 1.16 | +55.3 | CMitch, Noahh-, Tophr, soap, sportz |
 | 2026-08-14 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.16 | 0.17 | 1.16 | +127.6 | Noahh-, Tophr, soap, sportz, torii |
-| 2026-08-05 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.46 | 1.00 | 1.07 | 0.08 | 1.07 | +174.5 | CMitch, Noahh-, Tophr, soap, sportz |
+| 2026-08-05 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.46 | 1.00 | 1.07 | 0.08 | 1.07 | +174.5 | CMitch, Noahh-, Tophr, soap, sportz |
 | 2026-07-30 | counterstrike Team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.46 | 1.00 | 1.02 | 0.19 | 1.02 | +153.4 | -Tech, Tophr, soap, sportz, torii |
 | 2026-07-29 | GRIT | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.46 | 1.00 | 1.01 | 0.00 | 0.00 | -261.8 | -Tech, CMitch, Noahh-, Tophr, soap, sportz |
 | 2026-07-22 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.46 | 1.00 | 0.94 | 0.00 | 0.00 | -3.4 | CMitch, Noahh-, Tophr, soap, torii |
@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.03 | 0.00 | +16.1 | -Tech, CMitch, Tophr, soap, sportz |
 | 2026-05-19 | Phantom Sense | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -336.4 | CMitch, Noahh-, Tophr, soap, sportz |
 | 2026-05-14 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.01 | 0.24 | +1.7 | -Tech, CMitch, Noahh-, soap, sportz |
-| 2026-05-13 | NineFly Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.04 | 0.24 | +239.2 | -Tech, Noahh-, Tophr, soap, sportz |
+| 2026-05-13 | NineFly Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.04 | 0.24 | +239.3 | -Tech, Noahh-, Tophr, soap, sportz |
 | 2026-05-07 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.04 | 0.18 | +338.3 | -Jonesy, CMitch, Noahh-, soap, sportz |
 | 2026-05-06 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -251.8 | -Tech, CMitch, Tophr, soap, sportz |
 | 2026-04-30 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.01 | 0.12 | +65.2 | -Jonesy, -Tech, Noahh-, Tophr, sportz |

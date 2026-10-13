@@ -3,17 +3,17 @@ Team Name: Playing for fun
 Roster: ptr, Wolffe, Trucklover86, Spongey, adreNaline
 NARS Rank: 64 of 507
 
-Final Rating: 1829.1
+Final Rating: 1829.2
 Seeded Start: 1571.1
-H2H Adjustment: +258.0
+H2H Adjustment: +258.1
 
-Final Rating (1829.1) = Seeded Start (1571.1) + H2H Adjustment (+258.0)
+Final Rating (1829.2) = Seeded Start (1571.1) + H2H Adjustment (+258.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.337 x 1400 = 1571.1
+                = 1100 + 0.336 x 1400 = 1571.1
 
-seed_factor 0.337 = 0.25 x Tier Exposure (0.171) + 0.50 x Quality Wins (0.230) + 0.25 x Opponent Network (0.715)
+seed_factor 0.336 = 0.25 x Tier Exposure (0.171) + 0.50 x Quality Wins (0.230) + 0.25 x Opponent Network (0.715)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -46,7 +46,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | EMPIRE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.46 | 1.00 | 0.89 | 0.74 | 0.89 | +156.4 | Spongey, Trucklover86, Wolffe, adreNaline, ptr |
 | 2026-07-15 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.46 | 1.00 | 0.87 | 0.09 | 0.87 | +0.2 | Spongey, Trucklover86, Wolffe, adreNaline, ptr |
 | 2026-06-19 | Club 333 | L |  | VRS-tracked 2026-06 | A | vrs | 0.42 | 1.60 | 1.00 | 0.67 | 0.00 | 0.00 | -70.3 | core 3/5 |
-| 2026-06-04 | Its a Secret | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.34 | 0.00 | 0.34 | +175.7 | Spongey, Trucklover86, Wolffe, adreNaline, ptr |
+| 2026-06-04 | Its a Secret | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.34 | 0.00 | 0.34 | +175.8 | Spongey, Trucklover86, Wolffe, adreNaline, ptr |
 | 2026-06-02 | Festina Lente | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.31 | 1.05 | 1.00 | 0.33 | 0.04 | 0.33 | +240.2 | Spongey, Wolffe, adreNaline, hyza, ptr |
 | 2026-05-29 | VARTA | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.30 | 0.00 | 0.30 | +93.0 | Spongey, Wolffe, adreNaline, hyza, ptr |
 

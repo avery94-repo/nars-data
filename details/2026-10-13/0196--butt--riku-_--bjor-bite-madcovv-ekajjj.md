@@ -42,9 +42,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | VOID ALUNE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.27 | 1.00 | 0.36 | 0.00 | 0.00 | -228.1 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-22 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -195.7 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-19 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.25 | 0.00 | 0.00 | -33.8 | bite, bjor, ekajjj, madcovv, riku-_- |
-| 2026-05-12 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.16 | 1.00 | 0.20 | 0.02 | 0.20 | +8.3 | bite, bjor, ekajjj, madcovv, riku-_- |
+| 2026-05-12 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.16 | 1.00 | 0.19 | 0.02 | 0.19 | +8.3 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-08 | The Skins | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.02 | 0.16 | +178.2 | bite, bjor, ekajjj, madcovv, riku-_- |
-| 2026-05-06 | BUCK NASTY | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.15 | +272.1 | bite, bjor, ekajjj, madcovv, riku-_- |
+| 2026-05-06 | BUCK NASTY | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.15 | +272.2 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-04-29 | Team Team Name | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +313.9 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-04-24 | SAFIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.01 | 0.06 | +221.3 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-04-22 | Storm Surge | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -340.5 | bite, bjor, madcovv, pterodactyls, riku-_- |

@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Beyond Limits | W |  | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.52 | 1.00 | 0.00 | +46.8 | core 3/5 |
 | 2026-09-05 | SportsBetExpert | L |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -22.0 | core 3/5 |
 | 2026-09-04 | Wanted Goons | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.50 | 1.50 | 1.50 | +36.7 | core 3/5 |
-| 2026-09-03 | Overtake Sector | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.48 | 1.48 | 0.00 | +86.4 | core 3/5 |
+| 2026-09-03 | Overtake Sector | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.48 | 1.48 | 0.00 | +86.5 | core 3/5 |
 | 2026-08-28 | EMPIRE | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 0.00 | 0.00 | -67.5 | core 3/5 |
 | 2026-08-27 | Villainous | W |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.41 | 1.22 | 1.41 | +56.1 | core 3/5 |
 | 2026-08-26 | Marsborne | L |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.40 | 0.00 | 0.00 | -2.2 | core 3/5 |
@@ -47,13 +47,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | LAG Gaming | L |  | VRS-tracked 2026-07 | A | vrs | 0.69 | 1.60 | 1.00 | 1.10 | 0.00 | 0.00 | -120.4 | core 3/5 |
 | 2026-07-28 | NRG | L |  | VRS-tracked 2026-07 | A | vrs | 0.68 | 1.60 | 1.00 | 1.09 | 0.00 | 0.00 | -78.0 | core 3/5 |
 | 2026-06-14 | Festina Lente | W |  | VRS-tracked 2026-06 | A | vrs | 0.39 | 1.60 | 1.00 | 0.62 | 0.08 | 0.62 | +102.8 | core 3/5 |
-| 2026-06-14 | Marsborne | L |  | VRS-tracked 2026-06 | A | vrs | 0.39 | 1.60 | 1.00 | 0.62 | 0.00 | 0.00 | -58.0 | core 3/5 |
+| 2026-06-14 | Marsborne | L |  | VRS-tracked 2026-06 | A | vrs | 0.39 | 1.60 | 1.00 | 0.62 | 0.00 | 0.00 | -58.1 | core 3/5 |
 | 2026-06-13 | DETONATE | W |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.61 | 0.61 | +197.1 | core 3/5 |
 | 2026-06-13 | Overtake Sector | W |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.61 | 0.61 | +134.5 | core 3/5 |
 | 2026-06-12 | Club 333 | W |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.47 | 0.60 | +204.6 | core 3/5 |
 | 2026-06-11 | DETONATE | L |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.00 | 0.00 | -20.5 | core 3/5 |
 | 2026-06-09 | Beyond Limits | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.53 | 0.35 | 0.53 | +199.8 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
-| 2026-06-02 | Desi Boyz | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.31 | 1.50 | 1.00 | 0.46 | 0.00 | 0.00 | -129.5 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
+| 2026-06-02 | Desi Boyz | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.31 | 1.50 | 1.00 | 0.46 | 0.00 | 0.00 | -129.6 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
 | 2026-05-26 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.26 | 1.60 | 1.00 | 0.42 | 0.00 | 0.00 | -0.0 | core 3/5 |
 | 2026-05-22 | Celestial Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.35 | 1.00 | 0.32 | 0.09 | 0.32 | +11.7 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
 | 2026-05-20 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.03 | 0.30 | +5.1 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |

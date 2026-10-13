@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.82 | 0.00 | 0.00 | -108.4 | ScooterPeek, aphasia, coley, dytram, skrimp |
 | 2026-07-29 | crescent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.16 | 1.00 | 0.80 | 0.08 | 0.00 | +101.6 | ScooterPeek, aphasia, coley, dytram, skrimp |
 | 2026-07-24 | Feels MAIN Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.16 | 1.00 | 0.76 | 0.07 | 0.76 | +166.8 | ScooterPeek, aphasia, coley, dytram, skrimp |
-| 2026-07-22 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +16.0 | ScooterPeek, aphasia, coley, dytram, skrimp |
+| 2026-07-22 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +16.1 | ScooterPeek, aphasia, coley, dytram, skrimp |
 | 2026-07-17 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.16 | 1.00 | 0.71 | 0.06 | 0.71 | +0.5 | ScooterPeek, aphasia, coley, dytram, skrimp |
 | 2026-07-15 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.03 | 0.69 | +158.0 | ScooterPeek, aphasia, coley, dytram, skrimp |
 | 2026-05-29 | 027fam | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.27 | 1.00 | 0.36 | 0.00 | 0.00 | -294.4 | ScooterPeek, aphasia, coley, dytram, mang0 |

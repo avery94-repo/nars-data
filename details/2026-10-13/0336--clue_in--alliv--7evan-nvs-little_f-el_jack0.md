@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -22.6 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
 | 2026-05-22 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -354.9 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
 | 2026-05-19 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.25 | 0.00 | 0.25 | +180.3 | Little_F, Slove, alliV-, el_jack0, xner |
-| 2026-05-06 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.02 | 0.15 | +300.6 | 7eVaN, Little_F, alliV-, el_jack0, xner |
+| 2026-05-06 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.02 | 0.15 | +300.7 | 7eVaN, Little_F, alliV-, el_jack0, xner |
 | 2026-04-29 | DingTone | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -209.6 | 7eVaN, Little_F, Slove, alliV-, el_jack0 |
 | 2026-04-24 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.06 | +241.6 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
 | 2026-04-22 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -208.7 | 7eVaN, Little_F, Osodank, Slove, alliV- |

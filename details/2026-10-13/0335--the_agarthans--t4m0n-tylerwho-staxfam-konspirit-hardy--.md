@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-07 | MINDTRIP | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -120.7 | -PHANTOM-, konspirit, staxfam, t4m0n, tylerwho |
-| 2026-06-05 | Duality Zero | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.01 | 0.33 | +194.1 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
+| 2026-06-05 | Duality Zero | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.01 | 0.33 | +194.2 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-05-27 | After Peak | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -116.6 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-05-22 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -247.6 | -PHANTOM-, hardy--, staxfam, t4m0n, tylerwho |
 | 2026-05-20 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.22 | +256.7 | -PHANTOM-, hardy--, staxfam, t4m0n, tylerwho |

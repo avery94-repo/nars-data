@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-20 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -252.8 | -dinky-, PrimaryAsset, Swordlord319, bongcIoud, loltrip |
-| 2026-05-08 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -180.2 | -dinky-, M1D, PrimaryAsset, Swordlord319, loltrip |
+| 2026-05-08 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -180.3 | -dinky-, M1D, PrimaryAsset, Swordlord319, loltrip |
 | 2026-05-01 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -10.9 | Blurted, M1D, PrimaryAsset, Swordlord319, loltrip |
 | 2026-04-29 | 91AshLiu | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.08 | +3.6 | -dinky-, Blurted, M1D, PrimaryAsset, Swordlord319 |
 | 2026-04-24 | Happy Feed | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +9.4 | -dinky-, Blurted, PrimaryAsset, Swordlord319, loltrip |

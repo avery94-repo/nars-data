@@ -26,8 +26,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.35 | 1.00 | 0.32 | 0.00 | 0.00 | -172.5 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
 | 2026-05-21 | House Platypus ESC | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.02 | 0.31 | +134.3 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
-| 2026-05-20 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -182.5 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
-| 2026-05-19 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.03 | 0.29 | +441.1 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
+| 2026-05-20 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -182.6 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
+| 2026-05-19 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.03 | 0.29 | +441.2 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
 | 2026-05-13 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -1.9 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
 | 2026-05-07 | Aspyre | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -27.3 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
 | 2026-05-01 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.35 | 1.00 | 0.13 | 0.00 | 0.00 | -183.6 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |

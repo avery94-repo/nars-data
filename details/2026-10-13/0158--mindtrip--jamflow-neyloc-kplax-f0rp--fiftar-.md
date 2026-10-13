@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -141.9 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-05-20 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -10.5 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-05-15 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -60.4 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
-| 2026-05-13 | HammerHeads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.01 | 0.18 | +143.1 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
+| 2026-05-13 | HammerHeads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.01 | 0.18 | +143.2 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-05-08 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -148.0 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-05-06 | Top One Percent | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +143.8 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-05-01 | Baja Blasters | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +435.5 | FiftaR-, f0rp-, jamflow, kplax, neyloc |

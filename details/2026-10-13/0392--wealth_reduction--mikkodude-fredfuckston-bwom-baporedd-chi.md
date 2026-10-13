@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.03 | 0.81 | +107.6 | ChiefTiger, Ka-o, MikkoDude, baporedd, bwom |
 | 2026-08-12 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -5.0 | ChiefTiger, Ka-o, MikkoDude, baporedd, bwom |
 | 2026-08-05 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -89.3 | ChiefTiger, alexpappas, baporedd, bwom, fredfuckston |
-| 2026-07-31 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.04 | 0.71 | +278.0 | POOFYz, alexpappas, baporedd, bwom, fredfuckston |
+| 2026-07-31 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.04 | 0.71 | +278.1 | POOFYz, alexpappas, baporedd, bwom, fredfuckston |
 | 2026-07-29 | Resurgence | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.00 | 0.00 | -1.7 | POOFYz, alexpappas, baporedd, bwom, fredfuckston |
 | 2026-07-22 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.00 | 0.00 | -131.7 | MikkoDude, POOFYz, baporedd, bwom, fredfuckston |
 | 2026-07-17 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.05 | 0.62 | +201.5 | ChiefTiger, MikkoDude, baporedd, bwom, fredfuckston |

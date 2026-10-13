@@ -5,7 +5,7 @@ NARS Rank: 494 of 507
 
 Final Rating: 563.0
 Seeded Start: 1108.5
-H2H Adjustment: -545.5
+H2H Adjustment: -545.5 (capped at +-300, raw -545.6)
 
 Final Rating (563.0) = Seeded Start (1108.5) + H2H Adjustment (-545.5)
 
@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -2.4 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-05-06 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -190.7 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
 | 2026-05-01 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -66.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-01 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -113.7 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-01 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -113.7 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-04-22 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -357.1 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-04-17 | PASSION | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.16 | 1.00 | 0.00 | 0.00 | 0.00 | +327.4 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 

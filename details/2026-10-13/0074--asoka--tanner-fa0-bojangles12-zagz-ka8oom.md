@@ -55,13 +55,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-01 | Tall Ocean Rats | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.38 | 0.02 | 0.38 | +365.1 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
 | 2026-05-27 | DKR Esports | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.00 | 0.00 | -19.5 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
 | 2026-05-22 | GeneticDiff | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -224.4 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
-| 2026-05-20 | 5Frag Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -354.6 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
+| 2026-05-20 | 5Frag Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -354.7 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-05-15 | YHUBEPCAM | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.02 | 0.22 | +421.2 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-05-13 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -320.8 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-05-08 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.02 | 0.16 | +22.4 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-05-06 | SAFIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +253.3 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-05-01 | GOOZPEEK | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -348.5 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
-| 2026-04-29 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.10 | 0.01 | 0.10 | +437.4 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
+| 2026-04-29 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +437.4 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-04-24 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -0.1 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-04-22 | The Bobs | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -319.9 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-04-17 | Team Team Name | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.16 | 1.00 | 0.00 | 0.00 | 0.00 | +190.8 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |

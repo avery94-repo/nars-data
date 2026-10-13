@@ -38,12 +38,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -137.1 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-08-05 | Kairo | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.09 | 0.74 | +1.1 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-31 | Quality | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.05 | 0.71 | +1.6 | Char, PeaseCentral, S1eep, Swatt-, lckr |
-| 2026-07-29 | GeneticDiff | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.09 | 0.70 | +27.5 | Char, PeaseCentral, S1eep, Swatt-, lckr |
+| 2026-07-29 | GeneticDiff | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.09 | 0.70 | +27.4 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-24 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.07 | 0.66 | +0.6 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-22 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.05 | 0.65 | +0.0 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-17 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.03 | 0.62 | +0.5 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-15 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.03 | 0.60 | +0.4 | Char, PeaseCentral, S1eep, Swatt-, lckr |
-| 2026-05-20 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.03 | 0.26 | +269.1 | Nomad, S1eep, Swatt-, ikwards, lckr |
+| 2026-05-20 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.03 | 0.26 | +269.2 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-15 | Pugging4Pumpkin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.02 | 0.22 | +43.1 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-13 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.20 | +47.3 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-08 | 2THRiLL | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.16 | +0.6 | Nomad, S1eep, Swatt-, ikwards, lckr |

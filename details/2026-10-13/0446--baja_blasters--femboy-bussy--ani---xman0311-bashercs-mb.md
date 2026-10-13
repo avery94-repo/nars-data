@@ -3,11 +3,11 @@ Team Name: Baja Blasters
 Roster: femboy-bussy, -Ani--, Xman0311, BasherCS, mbyy_
 NARS Rank: 446 of 507
 
-Final Rating: 910.2
+Final Rating: 910.1
 Seeded Start: 1254.0
-H2H Adjustment: -343.8 (capped at +-300, raw -343.9)
+H2H Adjustment: -343.9
 
-Final Rating (910.2) = Seeded Start (1254.0) + H2H Adjustment (-343.8)
+Final Rating (910.1) = Seeded Start (1254.0) + H2H Adjustment (-343.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.06 | 0.85 | +99.8 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-08-19 | Solar Gravity | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.00 | 0.00 | -66.0 | -Ani--, Knfe-, Xman0311, femboy-bussy, mbyy_ |
 | 2026-08-14 | Distinguished Ducks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -69.9 | -Ani--, BasherCS, Knfe-, femboy-bussy, mbyy_ |
-| 2026-08-12 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.07 | 0.79 | +20.8 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
+| 2026-08-12 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.07 | 0.79 | +20.9 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-08-07 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.07 | 0.76 | +95.4 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-08-05 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.06 | 0.74 | +5.4 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-07-31 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.00 | 0.00 | -7.9 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |

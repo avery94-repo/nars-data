@@ -44,6 +44,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | NOVAIR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -392.5 | Feez-, _Tweekz_, c0da, ma1N, wpn_Blur |
 | 2026-04-29 | Akatsuki | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -212.8 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
 | 2026-04-23 | Real Hustle Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +403.2 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
-| 2026-04-22 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -19.3 | Feez-, _Tweekz_, c0da, ma1N, wpn_Blur |
+| 2026-04-22 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -19.4 | Feez-, _Tweekz_, c0da, ma1N, wpn_Blur |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

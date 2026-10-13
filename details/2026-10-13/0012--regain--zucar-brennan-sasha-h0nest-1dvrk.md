@@ -54,7 +54,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-18 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.46 | 1.00 | 1.21 | 0.00 | 0.00 | -17.9 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-15 | Overtake Sector | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.17 | 0.00 | 0.00 | -148.5 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-10 | North Forge | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.46 | 1.00 | 1.12 | 0.32 | 1.12 | +30.0 | 1dvrk, H0NeST, Zucar, brennan, sasha |
-| 2026-08-05 | NuTorious | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.46 | 1.00 | 1.07 | 0.96 | 1.07 | +70.5 | 1dvrk, H0NeST, Zucar, brennan, sasha |
+| 2026-08-05 | NuTorious | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.46 | 1.00 | 1.07 | 0.96 | 1.07 | +70.6 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-01 | Marsborne | L | 0-2 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.71 | 1.60 | 1.00 | 1.13 | 0.00 | 0.00 | -51.9 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-07-31 | Chicken Coop | W | 2-0 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.70 | 1.60 | 1.00 | 1.12 | 1.01 | 1.12 | +11.5 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-07-31 | Marsborne | L |  | VRS-tracked 2026-07 | A | vrs | 0.70 | 1.60 | 1.00 | 1.12 | 0.00 | 0.00 | -54.6 | core 3/5 |

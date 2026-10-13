@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-09 | Omen Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.34 | 1.00 | 1.30 | 0.00 | 0.00 | -45.9 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-09-08 | UltimateDarklordWizardz | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.19 | 0.96 | +39.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-09-04 | walkthemdown | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +9.3 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-09-03 | NineFly Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.34 | 1.00 | 1.24 | 0.00 | 0.00 | -76.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-09-03 | NineFly Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.34 | 1.00 | 1.24 | 0.00 | 0.00 | -76.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-09-02 | Benadryl Abusers | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.10 | 0.92 | +0.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-09-01 | academy 4 gifted children | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.34 | 1.00 | 1.23 | 0.37 | 1.23 | +75.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-28 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.07 | 0.89 | +6.5 | A1phonious, BaII, Blaine, Connr, jacob-uwu |

@@ -3,11 +3,11 @@ Team Name: Alcatraz Swim Team
 Roster: vincii-, july-, jablo, MisfitMason, reamer
 NARS Rank: 488 of 507
 
-Final Rating: 645.7
+Final Rating: 645.6
 Seeded Start: 1106.1
-H2H Adjustment: -460.4
+H2H Adjustment: -460.5 (capped at +-300, raw -460.4)
 
-Final Rating (645.7) = Seeded Start (1106.1) + H2H Adjustment (-460.4)
+Final Rating (645.6) = Seeded Start (1106.1) + H2H Adjustment (-460.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | GeneticDiff | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -4.2 | -Verse-, jablo, july-, reamer, vincii- |
 | 2026-05-08 | Team Team Name | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -52.2 | MisfitMason, jablo, july-, reamer, vincii- |
 | 2026-05-06 | ThirdSite | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -17.1 | MisfitMason, jablo, july-, reamer, vincii- |
-| 2026-05-01 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -190.4 | MisfitMason, jablo, july-, reamer, vincii- |
+| 2026-05-01 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -190.5 | MisfitMason, jablo, july-, reamer, vincii- |
 | 2026-04-29 | Kahoot Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +216.4 | MisfitMason, jablo, july-, reamer, vincii- |
 | 2026-04-22 | absolute cinema | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -351.9 | MisfitMason, jablo, july-, reamer, vincii- |
 | 2026-04-17 | N w G | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.16 | 1.00 | 0.00 | 0.00 | 0.00 | +244.7 | MisfitMason, jablo, july-, reamer, vincii- |

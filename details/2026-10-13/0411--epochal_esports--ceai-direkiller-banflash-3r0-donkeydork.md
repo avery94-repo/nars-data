@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Torii | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -36.1 | -b1rdman, 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
 | 2026-09-04 | redtyfguhoj | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +58.1 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
 | 2026-09-02 | QUPMANACS | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -1.1 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
-| 2026-08-28 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -62.3 | -b1rdman, 3r0, BanFlash, CIoudWalker, direkiller |
+| 2026-08-28 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -62.4 | -b1rdman, 3r0, BanFlash, CIoudWalker, direkiller |
 | 2026-08-27 | Elusive | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.23 | 1.00 | 1.09 | 0.00 | 0.00 | -0.0 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |
 | 2026-08-26 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +87.8 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
 | 2026-08-25 | Axial | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.87 | 1.23 | 1.00 | 1.07 | 0.00 | 0.00 | -1.5 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |

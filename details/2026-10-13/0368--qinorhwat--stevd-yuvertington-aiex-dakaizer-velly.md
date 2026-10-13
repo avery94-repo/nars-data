@@ -38,14 +38,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.05 | 0.65 | +0.0 | Dakaizer, StevD, Velly, Yuvertington, aIex |
 | 2026-07-17 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.07 | 0.62 | +13.8 | StevD, Velly, Yuvertington, Zuvey, aIex |
 | 2026-07-15 | The Homies | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.08 | 0.60 | +6.3 | Dakaizer, StevD, Velly, Yuvertington, aIex |
-| 2026-06-03 | Florida Man | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.00 | +158.2 | BANYE, StevD, Velly, Yuvertington, aIex |
+| 2026-06-03 | Florida Man | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.00 | +158.3 | BANYE, StevD, Velly, Yuvertington, aIex |
 | 2026-05-29 | Aetheris | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +19.1 | BANYE, StevD, Velly, Yuvertington, aIex |
 | 2026-05-27 | Dynasty | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.02 | 0.27 | +305.6 | Dakaizer, StevD, Velly, Yuvertington, aIex |
-| 2026-05-22 | Hack-A-Shaq | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -42.9 | BANYE, StevD, Velly, Yuvertington, aIex |
+| 2026-05-22 | Hack-A-Shaq | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -42.8 | BANYE, StevD, Velly, Yuvertington, aIex |
 | 2026-05-20 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -217.3 | BANYE, Dakaizer, Velly, Yuvertington, aIex |
 | 2026-05-15 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -283.0 | BANYE, StevD, Velly, Yuvertington, aIex |
 | 2026-05-08 | Shock Value | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.14 | +177.5 | BANYE, StevD, Velly, Yuvertington, Zuvey |
-| 2026-05-06 | The Sweepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.02 | 0.13 | +230.6 | BANYE, Dakaizer, StevD, Velly, Yuvertington |
+| 2026-05-06 | The Sweepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +230.6 | BANYE, Dakaizer, StevD, Velly, Yuvertington |
 | 2026-05-01 | Relativity | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -196.1 | BANYE, Dakaizer, StevD, Velly, Yuvertington |
 | 2026-04-29 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.08 | +80.1 | BANYE, Dakaizer, StevD, Velly, Yuvertington |
 | 2026-04-23 | US Navy Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +376.3 | BANYE, StevD, Velly, Yuvertington, aIex |

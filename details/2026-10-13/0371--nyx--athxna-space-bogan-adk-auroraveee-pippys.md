@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-20 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -2.5 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-09-20 | Belladonna | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +131.6 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-08-28 | puggin4seb | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.01 | 1.00 | 0.90 | 0.00 | 0.00 | -76.3 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
-| 2026-08-26 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.04 | 0.89 | +49.1 | AuroraVeee, Bouchyy, PippySippy, adk, athxna |
+| 2026-08-26 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.04 | 0.89 | +49.2 | AuroraVeee, Bouchyy, PippySippy, adk, athxna |
 | 2026-08-21 | The Homies | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.00 | 0.00 | -120.1 | AuroraVeee, Bouchyy, PippySippy, Space-Bogan, adk |
 | 2026-08-19 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.04 | 0.84 | +105.4 | AuroraVeee, PippySippy, Space-Bogan, athxna, odbreezy |
 | 2026-08-16 | Axial | L | 0-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -25.0 | AuroraVeee, Bouchyy, PippySippy, Space-Bogan, c99ca2e4 |
@@ -44,11 +44,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.00 | 0.00 | -17.3 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-07-22 | Wide Swinging Wizards | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.03 | 0.65 | +240.3 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-07-19 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -0.0 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
-| 2026-07-19 | Empressive | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.03 | 0.62 | +185.1 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
+| 2026-07-19 | Empressive | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.03 | 0.62 | +185.2 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
 | 2026-07-19 | Koi Pond | L | 0-1 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -16.5 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
 | 2026-07-18 | THE GUILD | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.01 | 1.00 | 0.62 | 0.00 | 0.00 | -42.0 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-07-17 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.05 | 0.62 | +340.2 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
-| 2026-05-19 | dead team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -0.6 | AuroraVeee, Bouchyy, PippySippy, Space-Bogan, adk |
+| 2026-05-19 | dead team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -0.6 | AuroraVeee, Bouchyy, PippySippy, Space-Bogan, adk |
 | 2026-05-06 | Solar Gravity | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -299.2 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-05-05 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -14.5 | AuroraVeee, Bouchyy, PippySippy, Space-Bogan, adk |
 | 2026-04-30 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.00 | -65.1 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |

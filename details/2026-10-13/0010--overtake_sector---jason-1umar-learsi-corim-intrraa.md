@@ -76,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-23 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.45 | 1.00 | 1.24 | 0.14 | 1.24 | +0.0 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-08-20 | North Forge | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.45 | 1.00 | 1.21 | 0.35 | 1.21 | +1.7 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-08-20 | Without a Roof | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.45 | 1.00 | 1.21 | 1.21 | 1.21 | +129.8 | -jason, 1umar, corim, intrraa, learsi |
-| 2026-08-17 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -21.5 | -jason, 1umar, intrraa, learsi, sacrificeee |
+| 2026-08-17 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -21.5 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-08-15 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.17 | 0.92 | 1.17 | +144.1 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-08-13 | Holly Molly | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.45 | 1.00 | 1.14 | 0.22 | 1.14 | +3.3 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-08-13 | Tacos Tiramisu and Lies | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.45 | 1.00 | 1.14 | 0.25 | 1.14 | +13.3 | -jason, 1umar, intrraa, learsi, sacrificeee |
@@ -92,14 +92,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-13 | Iowa Stormboar | L |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.00 | 0.00 | -138.4 | core 3/5 |
 | 2026-06-12 | Marsborne | L |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.00 | 0.00 | -98.6 | core 3/5 |
 | 2026-06-11 | Wanted Goons | W |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.59 | 0.59 | +27.8 | core 3/5 |
-| 2026-06-04 | DETONATE | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.27 | 1.00 | 0.41 | 0.41 | 0.41 | +375.2 | -jason, 1umar, intrraa, learsi, sacrificeee |
+| 2026-06-04 | DETONATE | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.27 | 1.00 | 0.41 | 0.41 | 0.41 | +375.3 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-05-29 | Locally Hated | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.27 | 1.00 | 0.36 | 0.10 | 0.36 | +53.2 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-05-24 | Marsborne | L |  | VRS-tracked 2026-05 | A | vrs | 0.25 | 1.60 | 1.00 | 0.40 | 0.00 | 0.00 | -463.2 | core 3/5 |
 | 2026-05-24 | EX-AETHER | L |  | VRS-tracked 2026-05 | A | vrs | 0.25 | 1.60 | 1.00 | 0.40 | 0.00 | 0.00 | -383.0 | core 3/5 |
 | 2026-05-22 | DETONATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.27 | 0.00 | +199.6 | -jason, 1umar, intrraa, learsi, sacrificeee |
-| 2026-05-19 | butt | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.25 | 0.02 | 0.25 | +33.9 | -jason, 1umar, intrraa, learsi, sacrificeee |
+| 2026-05-19 | butt | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.25 | 0.02 | 0.25 | +34.0 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-05-13 | Priority | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.01 | 0.20 | +14.0 | -jason, 1umar, intrraa, learsi, sacrificeee |
-| 2026-05-08 | Automatic HQ | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.02 | 0.16 | +94.0 | -jason, FATASS_DONK, intrraa, learsi, sacrificeee |
+| 2026-05-08 | Automatic HQ | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.02 | 0.16 | +94.1 | -jason, FATASS_DONK, intrraa, learsi, sacrificeee |
 | 2026-05-06 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +12.9 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-05-01 | Dude Picks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.01 | 0.11 | +0.2 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-04-29 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +4.6 | -jason, 1umar, intrraa, learsi, sacrificeee |

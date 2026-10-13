@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.10 | 0.89 | +44.2 | -HuNTeR-, -copey, LaRoLdInHo, den1s, dyragu |
 | 2026-08-21 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.07 | 0.85 | +41.1 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-08-19 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.04 | 0.84 | +68.7 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
-| 2026-08-14 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.00 | 0.00 | -220.2 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
+| 2026-08-14 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -220.3 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-08-07 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -144.1 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-08-05 | mas paspas | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.13 | 0.74 | +101.1 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-31 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.05 | 0.71 | +1.2 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |

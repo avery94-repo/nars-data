@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -62.8 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-19 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.10 | 0.83 | +58.8 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-13 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.09 | 0.79 | +74.9 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
-| 2026-08-12 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +206.0 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
+| 2026-08-12 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +206.1 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-07 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -85.6 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-07-31 | dogwater | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.07 | 0.70 | +38.4 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-07-29 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.05 | 0.69 | +16.2 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |

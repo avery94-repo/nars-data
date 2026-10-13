@@ -32,15 +32,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-24 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.01 | 1.00 | 0.87 | 0.06 | 0.87 | +89.2 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-20 | Phantom Sense | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -7.0 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-20 | FRZ Unit | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -15.6 | Hig, Sosah, flounders, milkyy, zvenix666 |
-| 2026-08-19 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.07 | 0.00 | +81.1 | Hig, Sosah, flounders, milkyy, zvenix666 |
+| 2026-08-19 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.07 | 0.00 | +81.2 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-17 | enigma | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.01 | 1.00 | 0.83 | 0.13 | 0.83 | +66.3 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-12 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -104.5 | Hig, Sosah, flounders, taggy, zvenix666 |
 | 2026-08-10 | NineFly Esports | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.45 | 1.00 | 1.11 | 0.00 | 0.00 | -177.3 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-07 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.04 | 0.76 | +98.8 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-08-05 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -230.0 | Hig, Sosah, flounders, milkyy, zvenix666 |
-| 2026-07-31 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.00 | 0.00 | -191.6 | Hig, Sosah, flounders, milkyy, zvenix666 |
+| 2026-07-31 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.00 | 0.00 | -191.7 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-07-29 | SquadUp | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.14 | 0.70 | +72.3 | Hig, Sosah, flounders, milkyy, zvenix666 |
-| 2026-07-24 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.00 | 0.00 | -279.7 | -Nik, Hig, Sosah, flounders, zvenix666 |
+| 2026-07-24 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.00 | 0.00 | -279.8 | -Nik, Hig, Sosah, flounders, zvenix666 |
 | 2026-07-22 | Akatsuki | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.03 | 0.00 | +20.0 | -Nik, Hig, Sosah, flounders, zvenix666 |
 | 2026-07-17 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.05 | 0.62 | +0.2 | Hig, Sosah, flounders, milkyy, zvenix666 |
 | 2026-07-15 | Sedated | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.07 | 0.60 | +0.1 | Hig, Sosah, flounders, milkyy, zvenix666 |
@@ -54,7 +54,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-19 | Akatsuki | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.01 | 0.22 | +10.5 | Sosah, disk777, flounders, milkyy, zvenix666 |
 | 2026-05-18 | STFDYSAB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.03 | 0.21 | +27.8 | Sosah, disk777, flounders, milkyy, zvenix666 |
 | 2026-05-16 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.02 | 0.20 | +115.8 | Sosah, disk777, flounders, milkyy, zvenix666 |
-| 2026-05-08 | MINDTRIP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.14 | +147.7 | Sosah, disk777, flounders, milkyy, zvenix666 |
+| 2026-05-08 | MINDTRIP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.14 | +147.8 | Sosah, disk777, flounders, milkyy, zvenix666 |
 | 2026-05-06 | academy 4 gifted children | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.04 | 0.13 | +347.4 | Sosah, disk777, flounders, milkyy, zvenix666 |
 | 2026-05-05 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.00 | 1.00 | 0.12 | 0.00 | 0.00 | -141.5 | Sosah, disk777, flounders, milkyy, zvenix666 |
 | 2026-05-01 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -98.8 | Sosah, disk777, flounders, milkyy, zvenix666 |

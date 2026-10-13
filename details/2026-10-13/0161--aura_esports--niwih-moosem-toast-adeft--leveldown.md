@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-27 | Desi Boyz | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.23 | 1.00 | 1.09 | 0.00 | 0.00 | -0.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-27 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +60.7 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-26 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -114.5 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
-| 2026-08-25 | Omen Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.87 | 1.23 | 1.00 | 1.07 | 0.37 | 1.07 | +146.7 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
+| 2026-08-25 | Omen Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.87 | 1.23 | 1.00 | 1.07 | 0.37 | 1.07 | +146.8 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-20 | Locally Hated | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.23 | 1.00 | 1.03 | 0.00 | 0.00 | -2.9 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-18 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.09 | 0.82 | +87.4 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-14 | Club 333 | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.80 | 1.23 | 1.00 | 0.98 | 0.00 | 0.00 | -0.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |

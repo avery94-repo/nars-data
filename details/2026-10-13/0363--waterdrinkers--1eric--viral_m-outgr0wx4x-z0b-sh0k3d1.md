@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-09 | Dynasty | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.08 | 0.97 | +41.8 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-09-06 | QUPMANACS | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.07 | 0.95 | +90.6 | ItsKickz, OuTGr0Wx4x, Sh0k3d1, Z0b, viral_m |
 | 2026-09-04 | Goyim Gladiators | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.10 | 0.94 | +18.4 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
-| 2026-09-02 | Torii | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -76.1 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
+| 2026-09-02 | Torii | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -76.2 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-08-28 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.14 | 0.89 | +63.7 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-08-21 | Moniseum | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +72.9 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-08-12 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -20.4 | 1eric-, Sh0k3d1, Z0b, lazogod, viral_m |
@@ -49,7 +49,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | NOVAIR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -281.7 | 1eric-, OuTGr0Wx4x, Tobogo, Z0b, viral_m |
 | 2026-05-08 | Relativity | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -11.7 | ItsKickz, OuTGr0Wx4x, Tobogo, Z0b, viral_m |
 | 2026-05-06 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -273.9 | 1eric-, ItsKickz, OuTGr0Wx4x, Z0b, viral_m |
-| 2026-05-01 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +157.7 | ItsKickz, OuTGr0Wx4x, Z0b, extt-, viral_m |
+| 2026-05-01 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +157.8 | ItsKickz, OuTGr0Wx4x, Z0b, extt-, viral_m |
 | 2026-04-29 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.08 | +1.3 | 1eric-, ItsKickz, OuTGr0Wx4x, Z0b, viral_m |
 | 2026-04-24 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +291.0 | 1eric-, ItsKickz, OuTGr0Wx4x, Z0b, viral_m |
 | 2026-04-22 | offBalance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -233.2 | 1eric-, ItsKickz, OuTGr0Wx4x, Z0b, viral_m |

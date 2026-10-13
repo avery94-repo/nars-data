@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-15 | AURA Esports | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -83.2 | -Tuna-, ITakeRoidss, Lieth, framedHERO, tdoy |
 | 2026-09-09 | MommySports | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -98.1 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
-| 2026-09-06 | The Vicious Kitties | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.07 | 0.95 | +98.3 | -Sora-, -Tuna-, beast9, framedHERO, tdoy |
+| 2026-09-06 | The Vicious Kitties | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.07 | 0.95 | +98.4 | -Sora-, -Tuna-, beast9, framedHERO, tdoy |
 | 2026-09-03 | RunTheDamnBall | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.11 | 0.93 | +7.8 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
 | 2026-09-02 | GoonAssOldheads | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.11 | 0.92 | +1.8 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-28 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.11 | 0.89 | +49.7 | Coco-, Lieth, SillyBoy23, framedHERO, tdoy |

@@ -65,7 +65,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-29 | Desi Boyz | W |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 1.21 | 0.00 | +49.4 | core 3/5 |
 | 2026-08-29 | DETONATE | W |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 1.43 | 0.00 | +1.4 | core 3/5 |
 | 2026-08-27 | Xiaoma Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.46 | 1.00 | 1.29 | 0.23 | 0.00 | +1.7 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-08-27 | Olympus | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.46 | 1.00 | 1.29 | 0.84 | 0.00 | +65.4 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-08-27 | Olympus | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.46 | 1.00 | 1.29 | 0.83 | 0.00 | +65.4 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-08-26 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.46 | 1.00 | 1.28 | 0.00 | 0.00 | -137.2 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-08-24 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.46 | 1.00 | 1.26 | 1.26 | 1.26 | +22.2 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-08-21 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.46 | 1.00 | 1.23 | 0.00 | 0.00 | -58.4 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
@@ -90,7 +90,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-04 | Xiaoma Gaming | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.48 | 0.09 | 0.00 | +73.9 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-05-30 | absolute cinema | W |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.05 | 0.46 | +0.0 | core 3/5 |
 | 2026-05-30 | makeSHIFT | W |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.07 | 0.46 | +0.0 | core 3/5 |
-| 2026-05-30 | Marsborne | L |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.00 | 0.00 | -338.8 | core 3/5 |
+| 2026-05-30 | Marsborne | L |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.00 | 0.00 | -338.9 | core 3/5 |
 | 2026-05-30 | Wanted Goons | W |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.46 | 0.00 | +191.4 | core 3/5 |
 | 2026-05-30 | SportsBetExpert | L |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.00 | 0.00 | -208.2 | core 3/5 |
 | 2026-05-21 | Wanted Goons | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.31 | 0.31 | +340.8 | 1Sandman, Cryptic, consti, djay, kmrn |
@@ -102,7 +102,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-04-30 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.12 | +0.6 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-04-29 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.01 | 0.11 | +0.1 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-04-25 | EMPIRE | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.07 | 0.00 | +237.0 | core 3/5 |
-| 2026-04-25 | FISHER COLLEGE | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -576.7 | core 3/5 |
+| 2026-04-25 | FISHER COLLEGE | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -576.8 | core 3/5 |
 | 2026-04-25 | NRG | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -37.0 | core 3/5 |
 | 2026-04-22 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.01 | 0.05 | +0.0 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-04-21 | eefsports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.35 | 1.00 | 0.04 | 0.00 | 0.04 | +0.0 | 1Sandman, Cryptic, consti, djay, kmrn |

@@ -3,11 +3,11 @@ Team Name: No Future Lifes Over
 Roster: Polkan, THADCATSLE, fdoud, Taysak, Katashi01
 NARS Rank: 51 of 507
 
-Final Rating: 1881.6
+Final Rating: 1881.7
 Seeded Start: 1305.2
-H2H Adjustment: +576.4 (capped at +-300, raw +576.5)
+H2H Adjustment: +576.5
 
-Final Rating (1881.6) = Seeded Start (1305.2) + H2H Adjustment (+576.4)
+Final Rating (1881.7) = Seeded Start (1305.2) + H2H Adjustment (+576.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -16.0 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
 | 2026-05-08 | Lan Bears | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -1.1 | Phil-, RSama, Tony_Ravioli, iCanSquirt, xdchet |
 | 2026-04-30 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -338.5 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
-| 2026-04-29 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -425.0 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
+| 2026-04-29 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -425.1 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
 | 2026-04-24 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +181.0 | Phil-, RSama, Tony_Ravioli, iCanSquirt, xdchet |
 | 2026-04-22 | Onsite has Oil | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +65.9 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
 | 2026-04-17 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +302.5 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |

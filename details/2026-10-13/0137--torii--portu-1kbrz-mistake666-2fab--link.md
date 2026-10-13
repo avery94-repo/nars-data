@@ -4,14 +4,14 @@ Roster: portu, 1KBRZ, MiStAkE666, 2fab, -linK
 NARS Rank: 137 of 507
 
 Final Rating: 1621.2
-Seeded Start: 1377.9
-H2H Adjustment: +243.3
+Seeded Start: 1377.8
+H2H Adjustment: +243.4
 
-Final Rating (1621.2) = Seeded Start (1377.9) + H2H Adjustment (+243.3)
+Final Rating (1621.2) = Seeded Start (1377.8) + H2H Adjustment (+243.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.198 x 1400 = 1377.9
+                = 1100 + 0.198 x 1400 = 1377.8
 
 seed_factor 0.198 = 0.25 x Tier Exposure (0.112) + 0.50 x Quality Wins (0.064) + 0.25 x Opponent Network (0.553)
 
@@ -25,8 +25,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Midwest Farmers | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +70.5 | -linK, 1KBRZ, 2fab, os-, portu |
-| 2026-09-12 | DUMBO | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -48.7 | -linK, 1KBRZ, 2fab, Tirlexx, portu, tracyyyyyyyy |
-| 2026-09-10 | The Vicious Kitties | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +95.1 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
+| 2026-09-12 | DUMBO | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -48.8 | -linK, 1KBRZ, 2fab, Tirlexx, portu, tracyyyyyyyy |
+| 2026-09-10 | The Vicious Kitties | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +95.2 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
 | 2026-09-08 | Void | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.07 | 0.96 | +122.7 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
 | 2026-09-06 | Epochal Esports | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.15 | 0.00 | +36.2 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
 | 2026-09-04 | Rejects | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -36.7 | -linK, 1KBRZ, 2fab, MiStAkE666, portu |
@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -164.8 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
 | 2026-07-29 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -104.0 | -linK, 1KBRZ, 2fab, portu, tracyyyyyyyy |
 | 2026-07-29 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -191.9 | -linK, 1KBRZ, 2fab, portu, tracyyyyyyyy |
-| 2026-07-22 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.11 | 0.64 | +165.2 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
+| 2026-07-22 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.11 | 0.64 | +165.3 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
 | 2026-07-22 | NATIONAL CS UNI | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.06 | 0.64 | +233.8 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
 | 2026-07-15 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +65.5 | -linK, 1KBRZ, 2fab, hotzzinho_-, portu |
 | 2026-06-04 | bubibabu | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.34 | 0.00 | 0.00 | -71.6 | -linK, 1KBRZ, 2fab, MiStAkE666, portu |

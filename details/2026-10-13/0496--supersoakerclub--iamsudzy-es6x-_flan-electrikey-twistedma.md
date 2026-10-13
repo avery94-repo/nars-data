@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -40.9 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-05-08 | NATIONAL CS UNI | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -226.0 | Es6x, IamSudzy, TwistedMango, _flan, warpN |
 | 2026-05-06 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -161.0 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
-| 2026-05-01 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -267.3 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-01 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -267.4 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-04-29 | RunTheDamnBall | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.08 | +322.0 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-04-24 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +208.2 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-04-22 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -11.0 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |

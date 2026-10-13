@@ -3,11 +3,11 @@ Team Name: It Doesnt Matter
 Roster: xiph0s, Newmarket, Moxie2, asushi, Shittyfaceit
 NARS Rank: 447 of 507
 
-Final Rating: 901.7
+Final Rating: 901.6
 Seeded Start: 1273.6
-H2H Adjustment: -371.9 (capped at +-300, raw -372.0)
+H2H Adjustment: -372.0
 
-Final Rating (901.7) = Seeded Start (1273.6) + H2H Adjustment (-371.9)
+Final Rating (901.6) = Seeded Start (1273.6) + H2H Adjustment (-372.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

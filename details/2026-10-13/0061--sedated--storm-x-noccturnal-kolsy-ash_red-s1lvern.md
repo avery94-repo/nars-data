@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | noname | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.10 | 0.89 | +113.0 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
 | 2026-08-25 | makeSHIFT | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.87 | 1.23 | 1.00 | 1.07 | 0.16 | 1.07 | +88.6 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
 | 2026-08-25 | Wanted Goons | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.87 | 1.23 | 1.00 | 1.07 | 0.00 | 0.00 | -73.8 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
-| 2026-08-20 | Celestial Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.23 | 1.00 | 1.03 | 0.31 | 1.03 | +168.1 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
+| 2026-08-20 | Celestial Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.23 | 1.00 | 1.03 | 0.31 | 1.03 | +168.2 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
 | 2026-08-19 | Hairy Scary Bandits | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.15 | 0.84 | +176.3 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
 | 2026-08-18 | counterstrike Team | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.82 | 1.23 | 1.00 | 1.01 | 0.00 | 0.00 | -127.0 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
 | 2026-08-14 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -6.7 | Kolsy, Noccturnal, Storm-X, dogg_-, s1lverNA |
@@ -45,7 +45,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.00 | 0.00 | -342.8 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
 | 2026-07-27 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.01 | 1.00 | 0.68 | 0.05 | 0.68 | +46.8 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
 | 2026-07-22 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.03 | 0.65 | +13.7 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
-| 2026-07-17 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.03 | 0.62 | +151.0 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
+| 2026-07-17 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.03 | 0.62 | +151.1 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
 | 2026-07-15 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.00 | 0.00 | -0.1 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
 | 2026-05-15 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -280.4 | Cody, Kolsy, Noccturnal, s1lverNA, shii666 |
 | 2026-05-13 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.03 | 0.20 | +194.5 | Cody, Kolsy, Noccturnal, s1lverNA, shii666 |

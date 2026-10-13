@@ -4,14 +4,14 @@ Roster: -CLL-, fersher, hoogs, Heartless-OH, ryzoh
 NARS Rank: 156 of 507
 
 Final Rating: 1559.8
-Seeded Start: 1138.9
-H2H Adjustment: +420.9 (capped at +-300, raw +421.0)
+Seeded Start: 1138.8
+H2H Adjustment: +421.0 (capped at +-300, raw +420.9)
 
-Final Rating (1559.8) = Seeded Start (1138.9) + H2H Adjustment (+420.9)
+Final Rating (1559.8) = Seeded Start (1138.8) + H2H Adjustment (+421.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.028 x 1400 = 1138.9
+                = 1100 + 0.028 x 1400 = 1138.8
 
 seed_factor 0.028 = 0.25 x Tier Exposure (0.024) + 0.50 x Quality Wins (0.008) + 0.25 x Opponent Network (0.071)
 
@@ -27,11 +27,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-04 | Pugging4Pumpkin | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.27 | 1.00 | 0.41 | 0.00 | 0.00 | -338.5 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 | 2026-05-31 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.00 | 0.00 | -8.2 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 | 2026-05-29 | the dragon warrior scroll | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.27 | 1.00 | 0.36 | 0.01 | 0.36 | +197.8 | -CLL-, Heartless-OH, Limbs, fersher, ryzoh |
-| 2026-05-22 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.08 | 0.27 | +299.8 | -CLL-, Heartless-OH, Limbs, hoogs, ryzoh |
+| 2026-05-22 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.08 | 0.27 | +299.9 | -CLL-, Heartless-OH, Limbs, hoogs, ryzoh |
 | 2026-05-20 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -191.3 | -CLL-, Heartless-OH, Limbs, hoogs, ryzoh |
 | 2026-05-15 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.02 | 0.22 | +9.5 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 | 2026-05-08 | Bills | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -34.5 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
-| 2026-05-06 | butt | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -267.1 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
+| 2026-05-06 | butt | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -267.2 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 | 2026-05-01 | Evil Reunion | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.01 | 0.11 | +367.3 | -CLL-, Limbs, fersher, hoogs, ryzoh |
 | 2026-04-29 | qcclan | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +171.3 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 | 2026-04-24 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -199.1 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |

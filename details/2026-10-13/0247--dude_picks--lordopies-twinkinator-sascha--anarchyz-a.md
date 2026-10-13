@@ -45,9 +45,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.03 | 0.62 | +0.0 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-15 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.02 | 0.60 | +55.3 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-06-02 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.27 | 1.00 | 0.39 | 0.00 | 0.00 | -122.5 | -Anarchyz, AGN, LordOPies, rise, sascha |
-| 2026-05-31 | DKR Esports | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.04 | 0.37 | +165.9 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-05-31 | DKR Esports | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.04 | 0.37 | +166.0 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-27 | Tall Ocean Rats | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.00 | 0.00 | -195.0 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-05-22 | FRAGDEMONS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.27 | +221.1 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-05-22 | FRAGDEMONS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.27 | +221.2 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-20 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -234.5 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-15 | Tall Ocean Rats | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.01 | 0.22 | +332.8 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-15 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -160.4 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
@@ -55,7 +55,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-06 | DKR Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -316.7 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-01 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -0.2 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-04-30 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.10 | 0.00 | 0.00 | -142.6 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-04-29 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +283.9 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-04-29 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +284.0 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-04-28 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -18.8 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

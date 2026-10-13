@@ -5,7 +5,7 @@ NARS Rank: 473 of 507
 
 Final Rating: 785.3
 Seeded Start: 1221.8
-H2H Adjustment: -436.5
+H2H Adjustment: -436.5 (capped at +-300, raw -436.6)
 
 Final Rating (785.3) = Seeded Start (1221.8) + H2H Adjustment (-436.5)
 
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +56.7 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-08-14 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -121.1 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-08-12 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -106.8 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
-| 2026-08-05 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.03 | 0.74 | +117.4 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-08-05 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.03 | 0.74 | +117.5 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-29 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -176.8 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-26 | mas paspas | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.67 | 1.07 | 1.00 | 0.71 | 0.00 | 0.00 | -9.8 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-26 | Cause and Effect Gaming | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.67 | 1.07 | 1.00 | 0.71 | 0.09 | 0.71 | +332.4 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |

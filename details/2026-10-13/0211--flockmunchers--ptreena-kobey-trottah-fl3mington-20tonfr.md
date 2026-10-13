@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Adria eSports | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +132.5 | 20tonfragger, Kobey, Muzic, fl3mington, ptreena |
 | 2026-09-08 | Chuds | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.03 | 0.98 | +88.4 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
 | 2026-09-06 | HigherEducation | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.02 | 1.00 | 0.97 | 0.05 | 0.97 | +217.3 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
-| 2026-09-04 | Pixel Peek | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.04 | 0.96 | +90.6 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
+| 2026-09-04 | Pixel Peek | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.04 | 0.96 | +90.7 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
 | 2026-09-02 | Crab Rangooners | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.00 | 0.00 | -187.5 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
 | 2026-08-26 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.45 | 1.00 | 1.27 | 0.00 | 0.00 | -0.0 | Kobey, Muzic, Trottah, fl3mington, ptreena |
 | 2026-08-24 | Holly Molly | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.45 | 1.00 | 1.25 | 0.00 | 0.00 | -15.6 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |

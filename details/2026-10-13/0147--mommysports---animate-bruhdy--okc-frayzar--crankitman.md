@@ -4,14 +4,14 @@ Roster: -animate, bruhdy-, okc, Frayzar-, CrankItMan
 NARS Rank: 147 of 507
 
 Final Rating: 1580.1
-Seeded Start: 1319.0
-H2H Adjustment: +261.1
+Seeded Start: 1318.9
+H2H Adjustment: +261.2
 
-Final Rating (1580.1) = Seeded Start (1319.0) + H2H Adjustment (+261.1)
+Final Rating (1580.1) = Seeded Start (1318.9) + H2H Adjustment (+261.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.156 x 1400 = 1319.0
+                = 1100 + 0.156 x 1400 = 1318.9
 
 seed_factor 0.156 = 0.25 x Tier Exposure (0.079) + 0.50 x Quality Wins (0.040) + 0.25 x Opponent Network (0.467)
 
@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | flat earth | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -6.3 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-09-09 | 1001 Fragrance | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.07 | 0.97 | +99.9 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-09-04 | MadaNASCAR | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.14 | 0.94 | +59.2 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
-| 2026-08-27 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.11 | 0.88 | +119.1 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
+| 2026-08-27 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.11 | 0.88 | +119.2 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-08-19 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -55.5 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-08-16 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -62.8 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-08-14 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -140.3 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |

@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.06 | 0.64 | +62.1 | A1den, Omnic, XentriQ, bubs-, kenNjii |
 | 2026-07-20 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.00 | 0.00 | -71.4 | A1den, Omnic, XentriQ, bubs-, kenNjii |
 | 2026-07-15 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -242.0 | -DavidTK-, Omnic, XentriQ, forMula_, kenNjii |
-| 2026-05-22 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.01 | 0.24 | +316.3 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
+| 2026-05-22 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.01 | 0.24 | +316.4 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 | 2026-05-15 | de_throne | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -100.9 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 | 2026-05-13 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -29.9 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 | 2026-05-08 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.02 | 0.14 | +370.9 | Omnic, XentriQ, bubs-, forMula_, kenNjii |

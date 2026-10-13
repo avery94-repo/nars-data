@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Elisir Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.01 | 0.30 | +220.6 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-19 | Wanted Goons | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -0.3 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-15 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.19 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -335.6 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-05-14 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -80.6 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-05-14 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -80.7 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-13 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.21 | 0.24 | +137.1 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-12 | Omen Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.08 | 0.23 | +28.2 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-08 | FRZ Unit | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.19 | 0.13 | 0.00 | +234.9 | 1Ellis, BuellcR, PLx2, k2-, merkn |

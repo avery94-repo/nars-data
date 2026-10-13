@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-14 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.02 | 0.18 | +144.1 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-13 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -155.0 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-08 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +15.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-05-06 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.02 | 0.13 | +141.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-05-06 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.02 | 0.13 | +141.5 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-01 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -407.2 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-04-29 | monitor off | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.08 | +86.9 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-04-24 | Ninjas In Boxer | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.01 | 0.05 | +271.2 | Cmp922, KDNK, pcaL, superv1llain, williamL |

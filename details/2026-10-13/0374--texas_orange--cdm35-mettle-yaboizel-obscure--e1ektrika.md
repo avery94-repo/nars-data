@@ -38,8 +38,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Locally Hated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.00 | 0.00 | -216.8 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 | 2026-07-17 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.05 | 0.62 | +26.0 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 | 2026-07-15 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.12 | 0.60 | +353.5 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
-| 2026-05-15 | VOID ALUNE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -146.8 | D3vante, YaBoiZel, _miIkman_, cdm35, obscure- |
-| 2026-05-13 | Lynnsanity | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.02 | 0.20 | +394.7 | METTLE, YaBoiZel, cdm35, midjeans, obscure- |
+| 2026-05-15 | VOID ALUNE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -146.9 | D3vante, YaBoiZel, _miIkman_, cdm35, obscure- |
+| 2026-05-13 | Lynnsanity | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.02 | 0.20 | +394.8 | METTLE, YaBoiZel, cdm35, midjeans, obscure- |
 | 2026-05-08 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -411.6 | E1EKTRIKA, METTLE, YaBoiZel, _miIkman_, cdm35 |
 | 2026-05-06 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +301.8 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 | 2026-04-29 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +235.1 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |

@@ -55,7 +55,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | 5Frag Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -244.0 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
 | 2026-05-08 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -231.3 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
 | 2026-05-06 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.15 | +16.9 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
-| 2026-04-29 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -442.1 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
+| 2026-04-29 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -442.2 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
 | 2026-04-24 | Kairo | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.01 | 0.06 | +297.4 | Costerfunk, J4kenator, Vitalityy_, Yuanfen, ciisco- |
 | 2026-04-22 | Old Meta | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.01 | 0.04 | +32.6 | Costerfunk, J4kenator, Vitalityy_, Yuanfen, ciisco- |
 | 2026-04-17 | Texas Orange | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.16 | 1.00 | 0.00 | 0.00 | 0.00 | +160.1 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |

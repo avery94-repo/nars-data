@@ -38,13 +38,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.16 | 1.00 | 0.71 | 0.00 | 0.00 | -5.4 | Cole---, Outlier, Ultracarrick, j4son, kaz |
 | 2026-07-15 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -260.9 | Cole---, JConnR, Outlier, Ultracarrick, kaz |
 | 2026-05-22 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.01 | 0.27 | +160.9 | Cole---, JConnR, Outlier, j4son, rcmeo |
-| 2026-05-20 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -199.3 | Cole---, JConnR, Outlier, j4son, rcmeo |
+| 2026-05-20 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -199.4 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-14 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.02 | 0.21 | +306.6 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-13 | Pro Lapse | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -380.9 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-08 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.04 | 0.16 | +225.5 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-06 | 2THRiLL | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.15 | +274.2 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-05 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.16 | 1.00 | 0.14 | 0.00 | 0.00 | -270.9 | Cole---, JConnR, Outlier, j4son, rcmeo |
-| 2026-05-01 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +113.7 | Cole---, JConnR, Outlier, j4son, rcmeo |
+| 2026-05-01 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +113.7 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-04-22 | UnitedStatesArmy Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.04 | +260.3 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-04-17 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.16 | 1.00 | 0.00 | 0.00 | 0.00 | -185.4 | Cole---, MoneyMike27, Outlier, j4son, rcmeo |
 

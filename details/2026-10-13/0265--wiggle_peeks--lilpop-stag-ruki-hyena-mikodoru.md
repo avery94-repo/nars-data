@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.04 | 0.89 | +106.9 | Mikodoru, hyena, lilpop, ruki, stag |
 | 2026-08-21 | Schadenfreude | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.00 | 0.00 | -104.5 | ChickenKing2, Mikodoru, air_switch, hyena, ruki |
 | 2026-08-19 | Wealth Reduction | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.03 | 0.84 | +80.1 | ChickenKing2, hyena, lilpop, ruki, stag |
-| 2026-08-14 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.03 | 0.81 | +12.5 | Mikodoru, hyena, lilpop, ruki, stag |
+| 2026-08-14 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.03 | 0.80 | +12.5 | Mikodoru, hyena, lilpop, ruki, stag |
 | 2026-08-12 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.04 | 0.79 | +65.9 | Mikodoru, hyena, lilpop, ruki, stag |
 | 2026-08-07 | BucketJonsBoys | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -3.4 | Mikodoru, air_switch, breb-, hyena, stag |
 | 2026-08-05 | Gregs New Cut | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -90.1 | Mikodoru, air_switch, hyena, lilpop, ruki |
@@ -40,10 +40,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | ThirdSite | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.15 | 0.66 | +159.8 | Mikodoru, hyena, lilpop, ruki, stag |
 | 2026-07-22 | Distinguished Ducks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.00 | 0.00 | -19.8 | Mikodoru, hyena, lilpop, ruki, stag |
 | 2026-07-17 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.03 | 0.62 | +4.0 | Mikodoru, breb-, hyena, lilpop, ruki |
-| 2026-07-15 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.00 | 0.00 | -22.4 | ChickenKing2, Mikodoru, hyena, lilpop, ruki |
+| 2026-07-15 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.00 | 0.00 | -22.5 | ChickenKing2, Mikodoru, hyena, lilpop, ruki |
 | 2026-05-22 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.03 | 0.27 | +248.1 | Mikodoru, hyena, lilpop, ruki, stag |
 | 2026-05-20 | goofball gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -47.9 | Mikodoru, hyena, lilpop, ruki, stag |
-| 2026-05-15 | Specter Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -415.8 | ChickenKing2, Mikodoru, doggy_style, hyena, stag |
+| 2026-05-15 | Specter Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -415.9 | ChickenKing2, Mikodoru, doggy_style, hyena, stag |
 | 2026-05-13 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.02 | 0.20 | +201.2 | ChickenKing2, Mikodoru, hyena, lilpop, stag |
 | 2026-05-06 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +269.6 | ChickenKing2, Mikodoru, lilpop, ruki, stag |
 | 2026-04-29 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -344.7 | ChickenKing2, Mikodoru, hyena, lilpop, stag |

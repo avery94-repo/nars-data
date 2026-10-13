@@ -26,16 +26,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-04 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -93.2 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
 | 2026-06-02 | in for Blood | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.31 | +14.6 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
-| 2026-05-28 | STFDYSAB | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -169.7 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
-| 2026-05-27 | YHTR | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.04 | 0.27 | +267.0 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
+| 2026-05-28 | STFDYSAB | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -169.8 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
+| 2026-05-27 | YHTR | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.04 | 0.27 | +267.1 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
 | 2026-05-22 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -237.5 | Conquest_--, Hymn_, PeaseCentral, Shoor1c, Starfy |
-| 2026-05-20 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.02 | 0.22 | +248.3 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
+| 2026-05-20 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.02 | 0.22 | +248.4 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
 | 2026-05-15 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -1.8 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
-| 2026-05-13 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -389.2 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
+| 2026-05-13 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -389.3 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
 | 2026-05-06 | Nomadic Tactics | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +274.6 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
 | 2026-04-29 | offBalance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.08 | +273.7 | Hymn_, PeaseCentral, Shoor1c, Starfy, vinicui1 |
 | 2026-04-24 | NOVAIR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +259.4 | Hymn_, PeaseCentral, Shoor1c, Starfy, vinicui1 |
 | 2026-04-23 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -168.5 | Hymn_, PeaseCentral, Shoor1c, Starfy, vinicui1 |
-| 2026-04-17 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +232.6 | Hymn_, PeaseCentral, Shoor1c, Starfy, vinicui1 |
+| 2026-04-17 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +232.7 | Hymn_, PeaseCentral, Shoor1c, Starfy, vinicui1 |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

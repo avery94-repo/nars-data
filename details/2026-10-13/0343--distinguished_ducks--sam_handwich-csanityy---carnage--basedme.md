@@ -27,8 +27,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | noname | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.02 | 1.00 | 0.97 | 0.00 | 0.00 | -0.4 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-09-02 | Dude Picks | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.00 | 0.00 | -5.9 | --Carnage-, BasedMeower, Thom888, cSanityy, smshunt |
 | 2026-08-28 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.01 | 1.00 | 0.90 | 0.00 | 0.00 | -28.9 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
-| 2026-08-26 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.00 | 0.00 | -53.0 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
-| 2026-08-21 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.04 | 0.85 | +65.7 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
+| 2026-08-26 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.00 | 0.00 | -53.1 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
+| 2026-08-21 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.04 | 0.85 | +65.8 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-08-19 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.03 | 0.84 | +45.4 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-08-14 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.04 | 0.80 | +70.0 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-08-12 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.04 | 0.79 | +112.0 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |

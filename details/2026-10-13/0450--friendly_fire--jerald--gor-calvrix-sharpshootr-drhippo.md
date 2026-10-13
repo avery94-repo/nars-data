@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-26 | Absent Minded | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -108.5 | -Gor, Calvrix, ImDonut, jerald, tozosi |
-| 2026-08-21 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.98 | 0.05 | 0.98 | +113.1 | -Gor, Calvrix, ImDonut, jerald, tozosi |
+| 2026-08-21 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.98 | 0.05 | 0.98 | +113.2 | -Gor, Calvrix, ImDonut, jerald, tozosi |
 | 2026-08-19 | Second Nature | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.83 | 1.16 | 1.00 | 0.96 | 0.00 | 0.00 | -91.4 | -Gor, Calvrix, ImDonut, jerald, tozosi |
 | 2026-08-14 | Diamond Mental | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.16 | 1.00 | 0.93 | 0.00 | 0.00 | -52.9 | -Gor, Calvrix, ImDonut, jerald, tozosi |
 | 2026-08-12 | Aers Money Crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.91 | 0.00 | 0.00 | -182.4 | -Gor, Calvrix, ImDonut, jerald, tozosi |
@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Temple of Swing | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -313.7 | -Gor, Calvrix, ImDonut, jerald, tozosi |
 | 2026-07-17 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.16 | 1.00 | 0.71 | 0.00 | 0.00 | -115.4 | -Gor, Calvrix, ImDonut, jerald, tozosi |
 | 2026-07-15 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -351.0 | -Gor, Calvrix, ImDonut, jerald, tozosi |
-| 2026-05-29 | academy 4 gifted children | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -260.4 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
+| 2026-05-29 | academy 4 gifted children | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -260.5 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
 | 2026-05-27 | RejexEsports | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.01 | 0.27 | +1.8 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
 | 2026-05-22 | Schadenfreude | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.01 | 0.24 | +99.1 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
 | 2026-05-20 | 91AshLiu | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.01 | 0.22 | +204.5 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |

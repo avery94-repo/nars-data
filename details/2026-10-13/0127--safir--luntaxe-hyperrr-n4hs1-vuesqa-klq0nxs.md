@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.07 | 0.89 | +34.4 | -Btu, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-08-21 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.00 | 0.00 | -93.4 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-08-19 | MINDTRIP | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.00 | 0.00 | -103.6 | -Btu, HypeRRR, Vuesqa, klq0nxS, luntaxE |
-| 2026-08-14 | DKR Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.00 | 0.00 | -61.1 | -Btu, HypeRRR, Vuesqa, klq0nxS, luntaxE |
+| 2026-08-14 | DKR Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -61.1 | -Btu, HypeRRR, Vuesqa, klq0nxS, luntaxE |
 | 2026-08-12 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -107.3 | -Btu, HypeRRR, Vuesqa, klq0nxS, luntaxE |
 | 2026-08-07 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.00 | 0.00 | -149.8 | -Btu, G3DITOR, HypeRRR, klq0nxS, luntaxE |
 | 2026-07-31 | GeneticDiff | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.09 | 0.71 | +155.2 | -Btu, HypeRRR, N4HS1, klq0nxS, luntaxE |
@@ -43,7 +43,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | FLOW STATE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.15 | 0.65 | +45.6 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-07-17 | Read You Like a Kindle | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.07 | 0.62 | +3.3 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-07-15 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.05 | 0.60 | +0.8 | G3DITOR, HypeRRR, Vuesqa, klq0nxS, luntaxE |
-| 2026-06-01 | Locally Hated | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.38 | 0.11 | 0.38 | +286.9 | HypeRRR, Jabbawockez-, N4HS1, Vuesqa, klq0nxS |
+| 2026-06-01 | Locally Hated | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.38 | 0.11 | 0.38 | +287.0 | HypeRRR, Jabbawockez-, N4HS1, Vuesqa, klq0nxS |
 | 2026-05-27 | WhalersOnDaMoon | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.00 | 0.00 | -38.9 | HypeRRR, N4HS1, Vuesqa, klq0nxS, luntaxE |
 | 2026-05-22 | CLUE IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.01 | 0.27 | +354.8 | HypeRRR, Sophist, Vuesqa, klq0nxS, luntaxE |
 | 2026-05-15 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -2.3 | HypeRRR, REOVA, Vuesqa, klq0nxS, luntaxE |

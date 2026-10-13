@@ -3,11 +3,11 @@ Team Name: CNCS Last Hope
 Roster: Filet-J-Fish, JaCkyG, _Project90, Cd666, AwY_E8
 NARS Rank: 84 of 507
 
-Final Rating: 1765.4
+Final Rating: 1765.5
 Seeded Start: 1114.2
-H2H Adjustment: +651.2
+H2H Adjustment: +651.3 (capped at +-300, raw +651.2)
 
-Final Rating (1765.4) = Seeded Start (1114.2) + H2H Adjustment (+651.2)
+Final Rating (1765.5) = Seeded Start (1114.2) + H2H Adjustment (+651.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

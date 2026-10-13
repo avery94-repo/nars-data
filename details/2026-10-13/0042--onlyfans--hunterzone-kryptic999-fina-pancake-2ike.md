@@ -5,7 +5,7 @@ NARS Rank: 42 of 507
 
 Final Rating: 1949.2
 Seeded Start: 1434.7
-H2H Adjustment: +514.5 (capped at +-300, raw +514.4)
+H2H Adjustment: +514.5
 
 Final Rating (1949.2) = Seeded Start (1434.7) + H2H Adjustment (+514.5)
 
@@ -39,13 +39,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.91 | 0.00 | 0.00 | -29.0 | 2ike, Hunterzone, Kryptic999, fina, pancake |
 | 2026-08-07 | Over Your Head | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.16 | 1.00 | 0.87 | 0.00 | 0.00 | -95.6 | 2ike, Hunterzone, Kryptic999, fina, pancake |
 | 2026-08-05 | Evil Reunion | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -131.7 | 2ike, Hunterzone, Kryptic999, fina, pancake |
-| 2026-07-31 | qcclan | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.82 | 0.08 | 0.82 | +179.8 | Hunterzone, Kryptic999, fina, icetray, pancake |
+| 2026-07-31 | qcclan | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.82 | 0.08 | 0.82 | +179.9 | Hunterzone, Kryptic999, fina, icetray, pancake |
 | 2026-07-29 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.16 | 1.00 | 0.80 | 0.00 | 0.00 | -103.4 | 2ike, Hunterzone, Kryptic999, fina, pancake |
 | 2026-07-24 | 5Frag Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.16 | 1.00 | 0.76 | 0.10 | 0.76 | +27.1 | 2ike, Hunterzone, Kryptic999, fina, icetray |
-| 2026-07-22 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.12 | 0.75 | +417.2 | 2ike, Hunterzone, Kryptic999, fina, icetray |
+| 2026-07-22 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.12 | 0.75 | +417.3 | 2ike, Hunterzone, Kryptic999, fina, icetray |
 | 2026-05-22 | Conscious Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -174.3 | Hunterzone, KYAL, Kryptic999, fina, pancake |
 | 2026-05-20 | DKR Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -333.2 | Hunterzone, KYAL, Kryptic999, fina, pancake |
-| 2026-05-15 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -385.0 | Hunterzone, KYAL, Kryptic999, fina, pancake |
+| 2026-05-15 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -385.1 | Hunterzone, KYAL, Kryptic999, fina, pancake |
 | 2026-05-13 | Shaboing Boing Bandits | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.03 | 0.00 | +265.2 | Hunterzone, KYAL, Kryptic999, fina, pancake |
 | 2026-05-08 | Bird Squishers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +0.7 | Hunterzone, KYAL, Kryptic999, fina, pancake |
 | 2026-05-06 | gooshedd | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +97.1 | Hunterzone, KYAL, Kryptic999, fina, pancake |

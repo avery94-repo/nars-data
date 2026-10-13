@@ -51,7 +51,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | ThirdSite | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.16 | 0.70 | +0.8 | alula, ethex, taggyy, toromi, weeza |
 | 2026-07-24 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.06 | 0.66 | +27.3 | alula, ethex, taggyy, toromi, weeza |
 | 2026-07-22 | Texas Orange | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.05 | 0.65 | +219.1 | alula, taggyy, thewhiteKING, toromi, weeza |
-| 2026-07-15 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.05 | 0.00 | +166.5 | alula, ethex, taggyy, toromi, weeza |
+| 2026-07-15 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.05 | 0.00 | +166.6 | alula, ethex, taggyy, toromi, weeza |
 | 2026-06-01 | SAFIR | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.38 | 0.00 | 0.00 | -296.9 | Marukami, alula, ethex, toromi, weeza |
 | 2026-05-29 | Overtake Sector | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.27 | 1.00 | 0.36 | 0.00 | 0.00 | -53.3 | Marukami, alula, ethex, toromi, weeza |
 | 2026-05-27 | Pugging4Pumpkin | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.03 | 0.34 | +227.7 | alula, ethex, taggyy, toromi, weeza |
@@ -62,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -170.7 | alula, ethex, taggyy, toromi, weeza |
 | 2026-05-01 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.01 | 0.11 | +0.6 | alula, ethex, taggyy, toromi, weeza |
 | 2026-04-29 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +225.3 | alula, ethex, taggyy, toromi, weeza |
-| 2026-04-24 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.06 | +165.6 | Marukami, ethex, taggyy, toromi, weeza |
+| 2026-04-24 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.06 | +165.7 | Marukami, ethex, taggyy, toromi, weeza |
 | 2026-04-22 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -305.0 | alula, ethex, taggyy, toromi, weeza |
 | 2026-04-17 | Wiggle Peeks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.16 | 1.00 | 0.00 | 0.00 | 0.00 | +41.3 | alula, ethex, taggyy, toromi, weeza |
 

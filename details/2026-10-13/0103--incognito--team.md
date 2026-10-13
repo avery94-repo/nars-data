@@ -5,7 +5,7 @@ NARS Rank: 103 of 507
 
 Final Rating: 1702.0
 Seeded Start: 1271.6
-H2H Adjustment: +430.4
+H2H Adjustment: +430.4 (capped at +-300, raw +430.5)
 
 Final Rating (1702.0) = Seeded Start (1271.6) + H2H Adjustment (+430.4)
 
@@ -31,6 +31,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-02 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.00 | 0.00 | -3.0 | core 3/5 |
 | 2026-04-30 | girl kissers | W |  | VRS-tracked 2026-04 | A | vrs | 0.09 | 1.59 | 1.00 | 0.14 | 0.00 | 0.14 | +75.7 | core 3/5 |
 | 2026-04-28 | Iowa Stormboar | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.12 | 0.00 | 0.00 | -166.1 | core 3/5 |
-| 2026-04-26 | insane players | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.10 | +439.6 | core 3/5 |
+| 2026-04-26 | insane players | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.10 | +439.7 | core 3/5 |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

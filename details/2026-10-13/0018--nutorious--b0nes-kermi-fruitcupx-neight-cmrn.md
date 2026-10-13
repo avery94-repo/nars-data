@@ -50,7 +50,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-29 | SportsBetExpert | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 0.00 | 0.00 | -6.7 | core 3/5 |
 | 2026-08-29 | Wanted Goons | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 0.00 | 0.00 | -84.7 | core 3/5 |
 | 2026-08-27 | Elusive | L |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.41 | 0.00 | 0.00 | -104.9 | core 3/5 |
-| 2026-08-26 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.46 | 1.00 | 1.28 | 0.23 | 1.28 | +5.8 | Fruitcupx, b0nes, cmrn, kermi, neight |
+| 2026-08-26 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.46 | 1.00 | 1.28 | 0.23 | 1.28 | +5.8 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-08-26 | Overtake Sector | L |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.40 | 0.00 | 0.00 | -81.6 | core 3/5 |
 | 2026-08-25 | DETONATE | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 1.39 | 1.39 | +34.7 | core 3/5 |
 | 2026-08-20 | FRZ Unit | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.46 | 1.00 | 1.22 | 0.85 | 1.22 | +0.7 | Fruitcupx, b0nes, cmrn, kermi, neight |
@@ -72,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-09 | Voca | L |  | VRS-tracked 2026-07 | A | vrs | 0.55 | 1.60 | 1.00 | 0.89 | 0.00 | 0.00 | -0.3 | core 3/5 |
 | 2026-06-13 | Wanted Goons | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.38 | 1.50 | 1.00 | 0.57 | 0.00 | 0.00 | -86.2 | Grimblee, Signal, b0nes, cmrn, kermi, neight |
 | 2026-06-12 | Wanted Goons | L |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.00 | 0.00 | -179.6 | core 3/5 |
-| 2026-06-11 | FRZ Unit | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.37 | 1.50 | 1.00 | 0.55 | 0.39 | 0.00 | +55.4 | Grimblee, Signal, b0nes, kermi, neight |
+| 2026-06-11 | FRZ Unit | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.37 | 1.50 | 1.00 | 0.55 | 0.39 | 0.00 | +55.3 | Grimblee, Signal, b0nes, kermi, neight |
 | 2026-06-11 | Marsborne | L |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.00 | 0.00 | -3.1 | core 3/5 |
 | 2026-06-09 | Desi Boyz | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.53 | 0.45 | 0.53 | +207.5 | Signal, b0nes, cmrn, kermi, neight |
 | 2026-06-03 | Beyond Limits | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.00 | 0.00 | -169.5 | Signal, b0nes, cmrn, kermi, neight |
@@ -82,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-30 | makeSHIFT | W |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.07 | 0.46 | +0.5 | core 3/5 |
 | 2026-05-30 | Reign Above | L |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.00 | 0.00 | -311.1 | core 3/5 |
 | 2026-05-21 | skebob | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.01 | 0.31 | +150.0 | Signal, b0nes, cmrn, kermi, neight |
-| 2026-05-20 | Baatarz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.01 | 0.30 | +234.2 | Signal, b0nes, cmrn, kermi, neight |
+| 2026-05-20 | Baatarz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.01 | 0.30 | +234.3 | Signal, b0nes, cmrn, kermi, neight |
 | 2026-05-19 | NineFly Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -232.0 | Signal, b0nes, cmrn, kermi, neight |
 | 2026-05-13 | Xiaoma Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -137.9 | Signal, b0nes, cmrn, kermi, neight |
 | 2026-05-12 | Shimmer | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.09 | 0.23 | +97.3 | Signal, b0nes, cmrn, kermi, neight |

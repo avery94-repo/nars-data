@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -26.5 | Zitrone_, hayter, sil_, solid37, tomjr88 |
 | 2026-08-07 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -105.5 | Zitrone_, hayter, sil_, solid37, tomjr88 |
 | 2026-08-05 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.03 | 0.74 | +12.3 | WOWITSMEHI, hayter, sil_, solid37, tomjr88 |
-| 2026-07-31 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +16.2 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
+| 2026-07-31 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +16.1 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-07-29 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -51.4 | Zitrone_, abnormal--, sil_, solid37, tomjr88 |
 | 2026-07-24 | Big Kahuna Gaming | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -257.4 | Zitrone_, abnormal--, hayter, sil_, solid37 |
 | 2026-07-17 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -16.1 | WOWITSMEHI, Zitrone_, hayter, sil_, solid37 |

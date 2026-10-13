@@ -43,16 +43,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.16 | 1.00 | 0.80 | 0.03 | 0.80 | +0.9 | -Red, Stu, deez_tyson, jorker, n0na |
 | 2026-07-24 | HammerHeads | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.16 | 1.00 | 0.76 | 0.04 | 0.76 | +264.7 | -Red, Stu, deez_tyson, jorker, n0na |
 | 2026-07-22 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -59.9 | -Red, Stu, deez_tyson, jorker, n0na |
-| 2026-07-17 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.16 | 1.00 | 0.71 | 0.00 | 0.00 | -219.2 | -Red, Stu, deez_tyson, jorker, n0na |
+| 2026-07-17 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.16 | 1.00 | 0.71 | 0.00 | 0.00 | -219.3 | -Red, Stu, deez_tyson, jorker, n0na |
 | 2026-07-15 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -158.8 | -Red, Stu, deez_tyson, jorker, n0na |
-| 2026-05-22 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -238.0 | -Red, Scrubian, Stu, deez_tyson, n0na |
+| 2026-05-22 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -238.1 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-20 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.01 | 0.26 | +319.7 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-15 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.02 | 0.22 | +6.2 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-13 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.02 | 0.00 | +256.1 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-08 | OnlyFans | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -0.7 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-06 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -26.7 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-01 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -281.4 | -Red, Scrubian, Stu, deez_tyson, n0na |
-| 2026-04-29 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -209.3 | -Red, Scrubian, Stu, deez_tyson, n0na |
+| 2026-04-29 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -209.4 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-04-24 | FRAGDEMONS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.06 | +249.1 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-04-22 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -292.9 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-04-17 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.16 | 1.00 | 0.00 | 0.00 | 0.00 | +157.2 | -Red, Scrubian, Stu, deez_tyson, n0na |

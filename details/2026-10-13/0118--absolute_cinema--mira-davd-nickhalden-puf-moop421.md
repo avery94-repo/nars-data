@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -6.0 | Moop421, NICKHALDEN, chevyus1, davd, puf |
 | 2026-08-07 | Qinorhwat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.04 | 0.76 | +2.9 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-08-05 | Locally Hated | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.21 | 0.74 | +69.6 | Moop421, NICKHALDEN, davd, mira, puf |
-| 2026-07-31 | TenToesDown | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.09 | 0.71 | +203.9 | Moop421, NICKHALDEN, davd, mira, puf |
+| 2026-07-31 | TenToesDown | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.09 | 0.71 | +204.0 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-07-29 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.01 | 1.00 | 0.70 | 0.05 | 0.70 | +126.6 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-07-24 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.08 | 0.66 | +159.2 | Moop421, NICKHALDEN, chevyus1, davd, mira |
 | 2026-07-22 | butt | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.00 | 0.00 | -3.5 | Moop421, NICKHALDEN, davd, mira, puf |

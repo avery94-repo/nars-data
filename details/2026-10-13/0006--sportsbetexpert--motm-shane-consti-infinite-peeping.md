@@ -52,7 +52,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-05 | Club 333 | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.94 | 1.56 | 1.00 | 1.47 | 1.14 | 1.47 | +0.8 | Infinite, Peeping, consti, motm, shane |
 | 2026-09-05 | Iowa Stormboar | W |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 1.02 | 1.51 | +22.0 | core 3/5 |
 | 2026-09-04 | Desi Boyz | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.50 | 1.27 | 1.50 | +19.7 | Infinite, Peeping, consti, motm, shane |
-| 2026-09-04 | Axial | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.49 | 0.81 | 1.49 | +0.0 | Infinite, Peeping, consti, motm, shane |
+| 2026-09-04 | Axial | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.93 | 1.60 | 1.00 | 1.49 | 0.81 | 1.49 | +0.0 | Infinite, Peeping, consti, motm, shane |
 | 2026-09-03 | Endless Esports | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.93 | 1.56 | 1.00 | 1.45 | 0.24 | 1.45 | +0.3 | Infinite, Peeping, consti, motm, shane |
 | 2026-09-03 | Axial | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.48 | 0.81 | 0.00 | +0.0 | core 3/5 |
 | 2026-08-30 | Desi Boyz | W |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 1.22 | 0.00 | +47.9 | core 3/5 |
@@ -61,10 +61,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-30 | Without a Roof | W |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 1.44 | 0.00 | +59.8 | core 3/5 |
 | 2026-08-29 | Elusive | W |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 0.68 | 1.43 | +1.1 | core 3/5 |
 | 2026-08-29 | NuTorious | W |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 1.28 | 1.43 | +6.2 | core 3/5 |
-| 2026-08-29 | Without a Roof | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 0.00 | 0.00 | -161.8 | core 3/5 |
+| 2026-08-29 | Without a Roof | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 0.00 | 0.00 | -161.9 | core 3/5 |
 | 2026-08-26 | LAG Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.46 | 1.00 | 1.28 | 1.25 | 1.28 | +148.2 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-21 | EMPIRE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.46 | 1.00 | 1.23 | 1.02 | 1.23 | +16.5 | Infinite, Peeping, consti, motm, shane |
-| 2026-08-17 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.46 | 1.00 | 1.19 | 1.19 | 1.19 | +21.1 | Infinite, Peeping, consti, motm, shane |
+| 2026-08-17 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.46 | 1.00 | 1.19 | 1.19 | 1.19 | +21.1 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-14 | Zomblers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.46 | 1.00 | 1.16 | 1.02 | 1.16 | +67.6 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-13 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.16 | 0.00 | 0.00 | -99.7 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-07 | FRZ Unit | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.46 | 1.00 | 1.09 | 0.00 | 0.00 | -258.5 | Infinite, Peeping, consti, motm, shane |
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-12 | NRG | L |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.92 | 0.00 | 0.00 | -115.0 | core 3/5 |
 | 2026-07-12 | Desi Boyz | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.92 | 0.78 | 0.00 | +8.5 | core 3/5 |
 | 2026-07-12 | Villainous | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.92 | 0.79 | 0.92 | +101.7 | core 3/5 |
-| 2026-05-31 | Marsborne | L |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.47 | 0.00 | 0.00 | -205.9 | core 3/5 |
+| 2026-05-31 | Marsborne | L |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.47 | 0.00 | 0.00 | -206.0 | core 3/5 |
 | 2026-05-31 | Reign Above | W |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.47 | 0.33 | 0.00 | +70.7 | core 3/5 |
 | 2026-05-30 | Chicken Coop | L |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.00 | 0.00 | -266.6 | core 3/5 |
 | 2026-05-30 | LAG Gaming | W |  | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.45 | 0.00 | +210.2 | core 3/5 |

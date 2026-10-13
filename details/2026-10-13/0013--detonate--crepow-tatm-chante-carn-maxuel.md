@@ -53,7 +53,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-03 | FRZ Unit | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.93 | 1.56 | 1.00 | 1.45 | 1.01 | 1.45 | +7.7 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-09-03 | NuTorious | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.48 | 1.33 | 0.00 | +57.2 | core 3/5 |
 | 2026-09-02 | Overtake Sector | L | 0-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 0.00 | 0.00 | -11.8 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-09-01 | Zomblers | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 1.28 | 1.47 | +82.5 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-09-01 | Zomblers | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 1.28 | 1.47 | +82.6 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-08-30 | SportsBetExpert | L |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 0.00 | 0.00 | -2.7 | core 3/5 |
 | 2026-08-29 | LAG Gaming | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 0.00 | 0.00 | -1.4 | core 3/5 |
 | 2026-08-29 | regain | W |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 1.12 | 1.43 | +60.1 | core 3/5 |

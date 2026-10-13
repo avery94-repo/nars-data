@@ -48,7 +48,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | Shock Value | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +11.0 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-04-29 | Relativity | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.08 | +320.9 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-04-24 | CounterStreakrs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +219.8 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
-| 2026-04-22 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +6.9 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
+| 2026-04-22 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +6.8 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-04-17 | Famas OP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +167.9 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

@@ -3,11 +3,11 @@ Team Name: CVC Retirement
 Roster: Carl1l1, Endadoor, do1phn, FRIGHT3N, DivineFPS
 NARS Rank: 480 of 507
 
-Final Rating: 735.5
+Final Rating: 735.4
 Seeded Start: 1111.9
-H2H Adjustment: -376.4
+H2H Adjustment: -376.5 (capped at +-300, raw -376.4)
 
-Final Rating (735.5) = Seeded Start (1111.9) + H2H Adjustment (-376.4)
+Final Rating (735.4) = Seeded Start (1111.9) + H2H Adjustment (-376.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | AML | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -285.6 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-05-13 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -56.0 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-05-08 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -3.0 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
-| 2026-05-06 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -290.4 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-05-06 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -290.5 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-04-29 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.08 | +273.3 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-04-24 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -247.4 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-04-22 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -8.1 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |

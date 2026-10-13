@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -141.2 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-05-20 | 1NT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.03 | 0.26 | +353.1 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-05-15 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -103.8 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
-| 2026-05-13 | iNSTINCT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -330.5 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
+| 2026-05-13 | iNSTINCT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -330.6 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-05-06 | The Homies | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.02 | 0.15 | +152.9 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-05-01 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +390.3 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-04-29 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.10 | 0.00 | 0.00 | -34.7 | -eckz, BiggyJ, ChrisXCross, FR0STBITE_, phwn |

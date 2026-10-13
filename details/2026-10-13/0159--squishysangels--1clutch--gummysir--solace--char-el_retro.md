@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-31 | Hadouken | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.00 | 0.00 | -295.8 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir, y3ji |
+| 2026-05-31 | Hadouken | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.00 | 0.00 | -295.9 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir, y3ji |
 | 2026-05-29 | DETONATE | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.27 | 1.00 | 0.36 | 0.00 | 0.00 | -5.8 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
 | 2026-05-27 | Storm Surge | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.05 | 0.00 | +129.9 | -solacE-, Char, El_RETRO, GummySir, y3ji |
 | 2026-05-22 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.03 | 0.27 | +19.4 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |

@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Texas Orange | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.00 | 0.00 | -72.6 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-08-21 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.00 | 0.00 | -15.4 | Squidees, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-08-19 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.00 | 0.00 | -12.4 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
-| 2026-08-14 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.00 | 0.00 | -10.5 | Squidees, Stay_Classy, WolffDaAwper, dcb, tamed |
+| 2026-08-14 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -10.5 | Squidees, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-08-12 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -32.2 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-08-07 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.01 | 1.00 | 0.76 | 0.06 | 0.76 | +94.5 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-08-05 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.08 | 0.74 | +89.6 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |

@@ -35,6 +35,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Team Bittle | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +52.7 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
 | 2026-06-03 | UGA CS2 | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.32 | +210.4 | Acrus, GOTRACE, HUNCHO, Tomshade, _Icey |
 | 2026-05-31 | Diablo | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +134.2 | Acrus, GoBrian02, HUNCHO, Tomshade, _Icey |
-| 2026-05-27 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -174.2 | Acrus, GoBrian02, HUNCHO, Tolerant201, Tomshade |
+| 2026-05-27 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -174.3 | Acrus, GoBrian02, HUNCHO, Tolerant201, Tomshade |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

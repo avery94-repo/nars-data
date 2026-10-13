@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | Bird Squishers | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.20 | 1.00 | 1.15 | 0.00 | 0.00 | -117.8 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
+| 2026-09-08 | Bird Squishers | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.20 | 1.00 | 1.15 | 0.00 | 0.00 | -117.9 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-09-04 | WhalersOnDaMoon | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.20 | 1.00 | 1.12 | 0.00 | 0.00 | -139.1 | -Ramen_, J3llyz, Rubley_, cubed, deso1ation |
 | 2026-08-26 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -41.8 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-08-19 | The Skins | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.83 | 1.16 | 1.00 | 0.96 | 0.10 | 0.96 | +118.1 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-24 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.16 | 1.00 | 0.29 | 0.00 | 0.29 | +0.1 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-22 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.02 | 0.27 | +225.1 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-20 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.01 | 0.26 | +279.7 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
-| 2026-05-15 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.04 | 0.22 | +277.0 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
+| 2026-05-15 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.04 | 0.22 | +277.1 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-13 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -187.7 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-08 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -35.8 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-06 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -186.4 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |

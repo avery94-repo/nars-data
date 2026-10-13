@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.98 | 0.12 | 0.98 | +31.9 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-08-19 | Backshot Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.83 | 1.16 | 1.00 | 0.96 | 0.00 | 0.00 | -88.4 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
 | 2026-08-14 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.16 | 1.00 | 0.93 | 0.00 | 0.00 | -50.8 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
-| 2026-08-12 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.91 | 0.15 | 0.91 | +117.4 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
+| 2026-08-12 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.91 | 0.15 | 0.91 | +117.5 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
 | 2026-08-05 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -93.5 | BobsBoosted, DevonJones, hoz, patwithapc, ryleyN |
 | 2026-07-31 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.82 | 0.00 | 0.00 | -100.5 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-07-29 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.16 | 1.00 | 0.80 | 0.07 | 0.80 | +222.0 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |

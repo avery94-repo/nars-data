@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | DadDick Esports | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -183.1 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-10-07 | MadaNASCAR | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.15 | 1.02 | +105.1 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
-| 2026-09-06 | Bird Lickers | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.02 | 1.00 | 0.97 | 0.00 | 0.00 | -89.1 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
+| 2026-09-06 | Bird Lickers | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.02 | 1.00 | 0.97 | 0.00 | 0.00 | -89.2 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-09-04 | Hairy Scary Bandits | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -6.5 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-09-02 | Solace | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.07 | 0.94 | +36.4 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-08-28 | No Leaders Please | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.01 | 1.00 | 0.90 | 0.10 | 0.90 | +105.7 | Casteeya, FullyLaced, Merle, _aido_, fatchud |

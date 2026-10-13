@@ -48,16 +48,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.82 | 0.00 | 0.00 | -141.0 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, smove |
 | 2026-07-28 | Crimson Vortex | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.08 | 0.79 | +62.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-07-24 | Conscious Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.16 | 1.00 | 0.76 | 0.13 | 0.76 | +91.9 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
-| 2026-07-23 | 5Frag Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.76 | 0.10 | 0.76 | +6.8 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
+| 2026-07-23 | 5Frag Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.10 | 0.75 | +6.8 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-07-22 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.12 | 0.75 | +439.7 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-07-21 | penazoid | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.09 | 0.00 | +78.3 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
-| 2026-05-22 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.01 | 0.27 | +128.9 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
+| 2026-05-22 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.01 | 0.27 | +129.0 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-05-21 | Shaboing Boing Bandits | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -224.7 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-05-15 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.02 | 0.22 | +306.0 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-05-08 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -122.7 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-05-01 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -398.0 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-04-29 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +234.9 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
-| 2026-04-24 | grogu | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.06 | +224.3 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
+| 2026-04-24 | grogu | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.06 | +224.4 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-04-22 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -0.0 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-04-17 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.16 | 1.00 | 0.00 | 0.00 | 0.00 | -377.7 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 

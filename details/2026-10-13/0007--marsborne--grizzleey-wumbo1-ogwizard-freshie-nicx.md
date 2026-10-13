@@ -100,12 +100,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-24 | SportsBetExpert | L |  | VRS-tracked 2026-05 | A | vrs | 0.25 | 1.60 | 1.00 | 0.40 | 0.00 | 0.00 | -32.1 | core 3/5 |
 | 2026-04-28 | Chicken Coop | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.12 | 0.00 | 0.00 | -209.3 | core 3/5 |
 | 2026-04-27 | insane players | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.00 | 0.11 | +137.9 | core 3/5 |
-| 2026-04-26 | FISHER COLLEGE | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.00 | -569.6 | core 3/5 |
+| 2026-04-26 | FISHER COLLEGE | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.00 | -569.7 | core 3/5 |
 | 2026-04-26 | PASSION UA | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.00 | -202.7 | core 3/5 |
 | 2026-04-26 | Reign Above | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.00 | -145.5 | core 3/5 |
-| 2026-04-25 | M80 | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.05 | 0.09 | +232.4 | core 3/5 |
+| 2026-04-25 | M80 | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.05 | 0.09 | +232.5 | core 3/5 |
 | 2026-04-25 | FRZ Unit | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.06 | 0.09 | +0.7 | core 3/5 |
-| 2026-04-25 | Voca | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -396.8 | core 3/5 |
+| 2026-04-25 | Voca | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -396.9 | core 3/5 |
 | 2026-04-25 | Voca | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.05 | 0.09 | +366.8 | core 3/5 |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

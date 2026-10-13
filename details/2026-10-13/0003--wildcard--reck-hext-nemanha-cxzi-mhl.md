@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-09 | HOTU | L |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -53.8 | core 3/5 |
 | 2026-08-15 | PAIN | L |  | VRS-tracked 2026-08 | A | vrs | 0.80 | 1.60 | 1.00 | 1.28 | 0.00 | 0.00 | -113.1 | core 3/5 |
 | 2026-08-12 | FURIA | L |  | VRS-tracked 2026-08 | A | vrs | 0.78 | 1.60 | 1.00 | 1.25 | 0.00 | 0.00 | -15.0 | core 3/5 |
-| 2026-07-26 | THE MONGOLZ | L |  | VRS-tracked 2026-07 | A | vrs | 0.67 | 1.60 | 1.00 | 1.07 | 0.00 | 0.00 | -202.3 | core 3/5 |
+| 2026-07-26 | THE MONGOLZ | L |  | VRS-tracked 2026-07 | A | vrs | 0.67 | 1.60 | 1.00 | 1.07 | 0.00 | 0.00 | -202.4 | core 3/5 |
 | 2026-07-21 | ALLIANCE | W |  | VRS-tracked 2026-07 | A | vrs | 0.63 | 1.60 | 1.00 | 1.02 | 1.52 | 0.00 | +364.8 | core 3/5 |
 | 2026-07-16 | K27 | L |  | VRS-tracked 2026-07 | A | vrs | 0.60 | 1.60 | 1.00 | 0.96 | 0.00 | 0.00 | -81.0 | core 3/5 |
 | 2026-07-15 | IBERIAN SOUL | L |  | VRS-tracked 2026-07 | A | vrs | 0.59 | 1.60 | 1.00 | 0.95 | 0.00 | 0.00 | -531.6 | core 3/5 |
@@ -50,7 +50,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-23 | ACEND | W |  | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.58 | 0.00 | +45.6 | core 3/5 |
 | 2026-05-23 | FOKUS | W |  | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.58 | 0.00 | +88.4 | core 3/5 |
 | 2026-05-22 | INNER CIRCLE | W |  | VRS-tracked 2026-05 | A | vrs | 0.23 | 1.60 | 1.00 | 0.38 | 0.56 | 0.00 | +619.7 | core 3/5 |
-| 2026-05-03 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.17 | 0.00 | 0.00 | -409.3 | core 3/5 |
+| 2026-05-03 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.17 | 0.00 | 0.00 | -409.4 | core 3/5 |
 | 2026-05-03 | EX-AETHER | W |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.17 | 0.14 | 0.00 | +54.0 | core 3/5 |
 | 2026-05-03 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.17 | 0.00 | 0.00 | -102.2 | core 3/5 |
 | 2026-05-01 | FarmVille | W |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.15 | 0.00 | +18.0 | core 3/5 |

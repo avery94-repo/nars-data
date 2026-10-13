@@ -5,7 +5,7 @@ NARS Rank: 37 of 507
 
 Final Rating: 1975.1
 Seeded Start: 1448.2
-H2H Adjustment: +526.9
+H2H Adjustment: +526.9 (capped at +-300, raw +527.0)
 
 Final Rating (1975.1) = Seeded Start (1448.2) + H2H Adjustment (+526.9)
 
@@ -34,11 +34,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.46 | 1.00 | 1.14 | 0.18 | 1.14 | +103.9 | DeSerT_PunK, Fortune_-, RoughFire, replacedcar, rpm |
 | 2026-08-06 | North Forge | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.46 | 1.00 | 1.08 | 0.00 | 0.00 | -2.4 | DeSerT_PunK, Fortune_-, RoughFire, SaberCat, replacedcar |
 | 2026-08-05 | FlyQuest RED | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.46 | 1.00 | 1.07 | 0.00 | 0.00 | -132.5 | DeSerT_PunK, Fortune_-, RoughFire, SaberCat, replacedcar |
-| 2026-07-30 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.46 | 1.00 | 1.02 | 0.07 | 1.02 | +147.8 | DeSerT_PunK, Fortune_-, RoughFire, SaberCat, replacedcar |
+| 2026-07-30 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.46 | 1.00 | 1.01 | 0.07 | 1.01 | +147.8 | DeSerT_PunK, Fortune_-, RoughFire, SaberCat, replacedcar |
 | 2026-07-17 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.46 | 1.00 | 0.89 | 0.57 | 0.89 | +246.0 | DeSerT_PunK, Fortune_-, RoughFire, SaberCat, replacedcar |
 | 2026-05-22 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.24 | 1.35 | 1.00 | 0.32 | 0.01 | 0.32 | +2.9 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
 | 2026-05-21 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.00 | -232.5 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
-| 2026-05-15 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.19 | 1.35 | 1.00 | 0.25 | 0.03 | 0.00 | +85.3 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
+| 2026-05-15 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.19 | 1.35 | 1.00 | 0.25 | 0.03 | 0.00 | +85.2 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
 | 2026-05-14 | Holy Squid Empire | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -8.8 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
 | 2026-05-13 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -6.6 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
 | 2026-05-13 | Iowa Stormboar | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.16 | 0.24 | +220.1 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |

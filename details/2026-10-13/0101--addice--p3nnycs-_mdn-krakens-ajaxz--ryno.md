@@ -46,7 +46,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.46 | 1.00 | 0.94 | 0.00 | 0.00 | -110.9 | AJaxz-, BATSPEED, KrakenS, Ryno, _mdn |
 | 2026-07-17 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.46 | 1.00 | 0.89 | 0.00 | 0.00 | -32.8 | 1hades, BATSPEED, KrakenS, Ryno, _mdn |
 | 2026-05-21 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.01 | 0.31 | +0.7 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
-| 2026-05-19 | Olympus | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.19 | 0.29 | +418.8 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
+| 2026-05-19 | Olympus | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.19 | 0.29 | +418.9 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-14 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -80.7 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-12 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -33.0 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-07 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -337.9 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |

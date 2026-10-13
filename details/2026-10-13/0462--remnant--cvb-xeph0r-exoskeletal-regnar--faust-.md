@@ -5,7 +5,7 @@ NARS Rank: 462 of 507
 
 Final Rating: 830.7
 Seeded Start: 1265.4
-H2H Adjustment: -434.7
+H2H Adjustment: -434.7 (capped at +-300, raw -434.8)
 
 Final Rating (830.7) = Seeded Start (1265.4) + H2H Adjustment (-434.7)
 
@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -134.3 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |
 | 2026-07-29 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -135.8 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |
 | 2026-07-24 | walkthemdown | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -297.9 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
-| 2026-07-22 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +248.2 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
+| 2026-07-22 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +248.3 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
 | 2026-07-17 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -76.7 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
 | 2026-07-15 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.07 | 0.60 | +395.0 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |
 | 2026-05-29 | DownTown | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -142.1 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |

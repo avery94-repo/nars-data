@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | FlyQuest RED | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.34 | 1.00 | 1.32 | 0.00 | 0.00 | -40.5 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-09-10 | BONK | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.02 | 1.00 | 0.99 | 0.08 | 0.99 | +49.3 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-09-08 | Demolition | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.34 | 1.00 | 1.29 | 0.19 | 1.29 | +12.6 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
-| 2026-09-07 | F5 Esports | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.34 | 1.00 | 1.28 | 0.00 | 0.00 | -96.8 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
+| 2026-09-07 | F5 Esports | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.34 | 1.00 | 1.28 | 0.00 | 0.00 | -96.9 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-09-06 | Asoka | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.02 | 1.00 | 0.97 | 0.00 | 0.00 | -58.7 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-09-04 | teamington | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.02 | 1.00 | 0.95 | 0.12 | 0.95 | +15.8 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-08-30 | Club 333 | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.91 | 1.23 | 1.00 | 1.12 | 0.00 | 0.00 | -18.5 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
@@ -48,7 +48,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.01 | 1.00 | 0.65 | 0.05 | 0.65 | +136.8 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-07-17 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.03 | 0.62 | +284.3 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-05-20 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -178.5 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
-| 2026-05-15 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -278.7 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
+| 2026-05-15 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -278.8 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-13 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.02 | 0.20 | +131.5 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-08 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.16 | +2.4 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-06 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +0.4 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |

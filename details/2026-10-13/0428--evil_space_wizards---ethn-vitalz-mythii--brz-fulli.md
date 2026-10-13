@@ -4,14 +4,14 @@ Roster: -ethn, Vitalz, mythii, -brz, fuLLi
 NARS Rank: 428 of 507
 
 Final Rating: 981.9
-Seeded Start: 1231.6
-H2H Adjustment: -249.7
+Seeded Start: 1231.5
+H2H Adjustment: -249.6
 
-Final Rating (981.9) = Seeded Start (1231.6) + H2H Adjustment (-249.7)
+Final Rating (981.9) = Seeded Start (1231.5) + H2H Adjustment (-249.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.094 x 1400 = 1231.6
+                = 1100 + 0.094 x 1400 = 1231.5
 
 seed_factor 0.094 = 0.25 x Tier Exposure (0.044) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.284)
 
@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-14 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.21 | +7.6 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-05-08 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.16 | +257.7 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-05-06 | Yogaball Frags | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -245.7 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-05-01 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -223.7 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-05-01 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -223.8 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-04-29 | YHUBEPCAM | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -240.6 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-04-24 | Kurrupted Mindz | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.06 | +172.9 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-04-22 | OnlyFans | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.04 | +434.8 | -brz, -ethn, Vitalz, fuLLi, mythii |

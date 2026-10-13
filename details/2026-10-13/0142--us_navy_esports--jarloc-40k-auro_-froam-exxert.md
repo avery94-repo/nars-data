@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.16 | 1.00 | 0.71 | 0.03 | 0.71 | +0.0 | 40k, Auro_, Exxert, incompetent, sherps |
 | 2026-06-09 | TenToesDown | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -158.0 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-06-06 | Quality | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.02 | 0.34 | +175.3 | 40k, Auro_, Exxert, Froam, jarloc |
-| 2026-06-04 | Oath | W | 1-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.01 | 0.32 | +92.8 | 40k, Auro_, Exxert, Froam, jarloc |
+| 2026-06-04 | Oath | W | 1-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.01 | 0.32 | +92.9 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-06-02 | Square1 | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.02 | 0.00 | +110.1 | 40k, Exxert, Froam, ILUVLATINAS, jarloc |
 | 2026-05-31 | Braindead | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.01 | 0.30 | +149.3 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-05-27 | HammerHeads | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -280.9 | 40k, Auro_, Exxert, Froam, jarloc |
@@ -45,7 +45,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | Akatsuki | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +159.8 | Auro_, Exxert, Froam, ILUVLATINAS, jarloc |
 | 2026-05-13 | Schadenfreude | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.01 | 0.18 | +0.4 | Auro_, Exxert, Froam, ILUVLATINAS, jarloc |
 | 2026-05-08 | Zenano | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.14 | +99.5 | 40k, Auro_, Exxert, Froam, jarloc |
-| 2026-05-06 | Full White | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +386.9 | 40k, Auro_, Exxert, Froam, jarloc |
+| 2026-05-06 | Full White | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +387.0 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-05-01 | Mach 10 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +37.2 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-04-29 | High T Low E | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.08 | +427.2 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-04-23 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -376.2 | 40k, Auro_, Exxert, Froam, jarloc |

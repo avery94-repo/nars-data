@@ -4,14 +4,14 @@ Roster: RMV1207, Enkae, Nabaki, coolgamer42, Spectur-
 NARS Rank: 70 of 507
 
 Final Rating: 1810.9
-Seeded Start: 1376.2
-H2H Adjustment: +434.7
+Seeded Start: 1376.1
+H2H Adjustment: +434.8
 
-Final Rating (1810.9) = Seeded Start (1376.2) + H2H Adjustment (+434.7)
+Final Rating (1810.9) = Seeded Start (1376.1) + H2H Adjustment (+434.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.197 x 1400 = 1376.2
+                = 1100 + 0.197 x 1400 = 1376.1
 
 seed_factor 0.197 = 0.25 x Tier Exposure (0.108) + 0.50 x Quality Wins (0.090) + 0.25 x Opponent Network (0.500)
 

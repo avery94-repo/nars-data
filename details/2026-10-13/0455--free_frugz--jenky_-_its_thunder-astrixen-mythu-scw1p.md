@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-01 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -198.8 | Astrixen, Jenky_, Mythu, _Its_Thunder, scw1pt |
+| 2026-05-01 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -198.9 | Astrixen, Jenky_, Mythu, _Its_Thunder, scw1pt |
 | 2026-04-29 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.09 | +252.6 | Astrixen, Jenky_, Mythu, _Its_Thunder, mawk1 |
 | 2026-04-24 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -48.9 | Astrixen, Jenky_, Mythu, _Its_Thunder, scw1pt |
 | 2026-04-22 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -13.4 | Astrixen, Jenky_, Mythu, _Its_Thunder, mawk1 |

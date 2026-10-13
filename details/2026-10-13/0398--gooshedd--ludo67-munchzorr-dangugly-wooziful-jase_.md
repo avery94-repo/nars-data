@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | SNOWPLOWERS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -321.2 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-05-13 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.20 | +152.0 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-05-13 | Read You Like a Kindle | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -155.6 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
-| 2026-05-08 | DingTone | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -357.4 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
+| 2026-05-08 | DingTone | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -357.5 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-05-06 | OnlyFans | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -97.3 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-04-29 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.09 | +176.5 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-04-24 | 19MPH | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.06 | +155.3 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |

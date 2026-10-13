@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Climbers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -423.1 | DOOR_1, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
 | 2026-07-15 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -455.4 | FobIa_aSalo, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
 | 2026-06-15 | Conduit eSports | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.40 | 1.00 | 1.00 | 0.40 | 0.00 | 0.00 | -131.8 | Danchesko, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
-| 2026-06-12 | Evade Gaming | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.38 | +156.3 | BITCOIN223, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
+| 2026-06-12 | Evade Gaming | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.38 | +156.4 | BITCOIN223, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
 | 2026-06-08 | We Wont Implode This Time | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.35 | 1.00 | 1.00 | 0.35 | 0.00 | 0.35 | +202.0 | Danchesko, Entityy, Lustikkk, _STRILOK_, v1tezzzzz, welldonskiy |
 | 2026-06-06 | RichMoneyAcademy | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.34 | +64.6 | ALEX_PLUS1, Danchesko, Lustikkk, _STRILOK_, v1tezzzzz |
 | 2026-05-30 | BD Lamron | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.01 | 0.29 | +225.8 | Danchesko, Entityy, Lustikkk, v1tezzzzz, welldonskiy |

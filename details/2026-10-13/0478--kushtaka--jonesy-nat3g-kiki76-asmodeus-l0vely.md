@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | AURA Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -44.7 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 | 2026-05-27 | de_throne | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -31.8 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 | 2026-05-22 | offBalance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -345.0 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
-| 2026-05-13 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.02 | 0.18 | +390.4 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
+| 2026-05-13 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.02 | 0.18 | +390.5 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 | 2026-05-08 | Aetheris | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -382.3 | JoNeSY, Kiki76, Suki_Noski, asmodeus, l0vely |
 | 2026-05-06 | Hack-A-Shaq | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +329.5 | JoNeSY, Kiki76, Suki_Noski, asmodeus, l0vely |
 | 2026-05-01 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -345.8 | JoNeSY, Nat3G, Suki_Noski, asmodeus, l0vely |

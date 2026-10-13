@@ -4,14 +4,14 @@ Roster: Gingjaa, glase_, Alo49, hunter-k, Intense
 NARS Rank: 169 of 507
 
 Final Rating: 1537.3
-Seeded Start: 1578.0
-H2H Adjustment: -40.7
+Seeded Start: 1577.9
+H2H Adjustment: -40.6
 
-Final Rating (1537.3) = Seeded Start (1578.0) + H2H Adjustment (-40.7)
+Final Rating (1537.3) = Seeded Start (1577.9) + H2H Adjustment (-40.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.341 x 1400 = 1578.0
+                = 1100 + 0.341 x 1400 = 1577.9
 
 seed_factor 0.341 = 0.25 x Tier Exposure (0.260) + 0.50 x Quality Wins (0.227) + 0.25 x Opponent Network (0.652)
 
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-16 | Olympus | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -0.2 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-09-14 | EMPIRE | W |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 1.29 | 1.55 | +66.1 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-09-12 | EMPIRE | W |  | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.47 | 1.00 | 1.46 | 1.21 | 0.00 | +78.3 | Alo49, Gingjaa, Intense, glase_, hunter-k |
-| 2026-09-10 | Read You Like a Kindle | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.02 | 1.00 | 0.99 | 0.00 | 0.00 | -79.7 | Alo49, Gingjaa, Intense, glase_, hunter-k |
+| 2026-09-10 | Read You Like a Kindle | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.02 | 1.00 | 0.99 | 0.00 | 0.00 | -79.8 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-09-07 | counterstrike Team | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.34 | 1.00 | 1.28 | 0.24 | 1.28 | +62.3 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-09-04 | Skyline | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -38.6 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-09-03 | FarmVille | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.34 | 1.00 | 1.24 | 0.00 | 0.00 | -0.4 | Alo49, Gingjaa, Intense, glase_, hunter-k |

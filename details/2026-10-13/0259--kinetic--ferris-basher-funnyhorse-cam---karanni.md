@@ -31,12 +31,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Kaos | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.16 | 1.00 | 1.03 | 0.08 | 1.03 | +47.2 | Basher, Funnyhorse, TheBanker, cam--, thanny |
 | 2026-08-26 | 5Frag Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -97.3 | Basher, Funnyhorse, Karanni, TheBanker, cam-- |
 | 2026-08-21 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.98 | 0.00 | 0.00 | -53.6 | Ferris, Funnyhorse, Karanni, TheBanker, cam-- |
-| 2026-08-19 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.83 | 1.16 | 1.00 | 0.96 | 0.00 | 0.00 | -163.7 | Ferris, Funnyhorse, Karanni, TheBanker, cam-- |
+| 2026-08-19 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.83 | 1.16 | 1.00 | 0.96 | 0.00 | 0.00 | -163.8 | Ferris, Funnyhorse, Karanni, TheBanker, cam-- |
 | 2026-08-12 | Crimson Vortex | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.91 | 0.00 | 0.00 | -111.1 | Basher, Funnyhorse, TheBanker, cam--, thanny |
 | 2026-08-05 | STFDYSAB | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.10 | 0.86 | +141.8 | Ferris, Funnyhorse, Karanni, cam--, thanny |
 | 2026-07-31 | F1lthy Puggers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.82 | 0.07 | 0.82 | +22.7 | Basher, Funnyhorse, Karanni, Salvare, cam-- |
 | 2026-07-29 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.16 | 1.00 | 0.80 | 0.00 | 0.00 | -10.0 | Basher, Funnyhorse, Karanni, TheBanker, cam-- |
-| 2026-07-24 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.16 | 1.00 | 0.76 | 0.00 | 0.00 | -395.1 | Basher, Funnyhorse, Karanni, cam--, thanny |
+| 2026-07-24 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.16 | 1.00 | 0.76 | 0.00 | 0.00 | -395.2 | Basher, Funnyhorse, Karanni, cam--, thanny |
 | 2026-07-23 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.76 | 0.07 | 0.76 | +0.6 | Basher, Funnyhorse, Karanni, TheBanker, cam-- |
 | 2026-07-17 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.16 | 1.00 | 0.71 | 0.12 | 0.71 | +134.6 | Basher, Funnyhorse, Karanni, TheBanker, cam-- |
 | 2026-07-15 | HammerHeads | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.04 | 0.69 | +192.6 | Ferris, Funnyhorse, Karanni, TheBanker, cam-- |
@@ -50,7 +50,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.01 | 0.18 | +174.6 | Basher, Ferris, Funnyhorse, Salvare, senplic |
 | 2026-05-08 | Brick Layers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.14 | +27.0 | Basher, Ferris, Funnyhorse, cam--, senplic |
 | 2026-05-06 | Braindead | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +402.9 | Basher, Ferris, Funnyhorse, cam--, senplic |
-| 2026-04-29 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -278.2 | Ferris, Funnyhorse, Salvare, cam--, senplic |
+| 2026-04-29 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -278.3 | Ferris, Funnyhorse, Salvare, cam--, senplic |
 | 2026-04-24 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +348.4 | Ferris, Funnyhorse, Salvare, cam--, senplic |
 | 2026-04-22 | TahMeow | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -358.4 | Basher, Ferris, Funnyhorse, Salvare, cam-- |
 

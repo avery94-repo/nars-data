@@ -4,16 +4,16 @@ Roster: BeZus, M3-, NotGoob, kitchN, BobbyCritz
 NARS Rank: 383 of 507
 
 Final Rating: 1096.1
-Seeded Start: 1304.0
-H2H Adjustment: -207.9
+Seeded Start: 1303.9
+H2H Adjustment: -207.8
 
-Final Rating (1096.1) = Seeded Start (1304.0) + H2H Adjustment (-207.9)
+Final Rating (1096.1) = Seeded Start (1303.9) + H2H Adjustment (-207.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.146 x 1400 = 1304.0
+                = 1100 + 0.146 x 1400 = 1303.9
 
-seed_factor 0.146 = 0.25 x Tier Exposure (0.127) + 0.50 x Quality Wins (0.030) + 0.25 x Opponent Network (0.397)
+seed_factor 0.146 = 0.25 x Tier Exposure (0.127) + 0.50 x Quality Wins (0.029) + 0.25 x Opponent Network (0.396)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -47,7 +47,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.14 | +178.5 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-06 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -418.6 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-01 | AURA Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +51.2 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
-| 2026-04-29 | THE WEST COAST GRINDERS | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.08 | +299.5 | BeZus, BobbyCritz, M3-, benGEEE, kitchN |
+| 2026-04-29 | THE WEST COAST GRINDERS | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.08 | +299.6 | BeZus, BobbyCritz, M3-, benGEEE, kitchN |
 | 2026-04-23 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +337.5 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-04-22 | Counter Legends | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -15.5 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-04-17 | put a shirt on | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -323.5 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |

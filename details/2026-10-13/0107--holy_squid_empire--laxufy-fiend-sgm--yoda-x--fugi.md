@@ -30,10 +30,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Marsborne | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.98 | 1.56 | 1.00 | 1.52 | 0.00 | 0.00 | -0.7 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
 | 2026-08-28 | Brahmas | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.00 | 0.00 | -48.5 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
 | 2026-08-28 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.46 | 1.00 | 1.30 | 0.00 | 0.00 | -29.5 | FUGI, Greatness-, SGM-, breadstick, yodA-X- |
-| 2026-08-26 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.46 | 1.00 | 1.28 | 0.21 | 1.28 | +114.2 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
-| 2026-08-13 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.15 | 0.17 | 1.15 | +17.4 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
+| 2026-08-26 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.46 | 1.00 | 1.28 | 0.21 | 1.28 | +114.3 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
+| 2026-08-13 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.46 | 1.00 | 1.15 | 0.17 | 1.15 | +17.5 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
 | 2026-07-17 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.46 | 1.00 | 0.89 | 0.09 | 0.89 | +346.5 | CdrClemens, FIEND, FUGI, SGM-, breadstick |
-| 2026-06-10 | Omen Esports | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.54 | 0.00 | 0.00 | -328.2 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
+| 2026-06-10 | Omen Esports | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.54 | 0.00 | 0.00 | -328.3 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
 | 2026-06-04 | Brahmas | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.48 | 0.00 | 0.00 | -202.6 | FUGI, Laxufy, SGM-, mason, xaler |
 | 2026-05-21 | Omen Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.11 | 0.31 | +168.7 | FIEND, Laxufy, SGM-, mason, yodA-X- |
 | 2026-05-14 | firesale | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.03 | 0.24 | +8.8 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |

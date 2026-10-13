@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-21 | After Peak | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.00 | 0.00 | -129.0 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
-| 2026-08-19 | SNOWPLOWERS | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.00 | 0.00 | -91.1 | ATTKR, DRUMMIE, Klein--, rabbi_mike, stalker |
+| 2026-08-19 | SNOWPLOWERS | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.00 | 0.00 | -91.2 | ATTKR, DRUMMIE, Klein--, rabbi_mike, stalker |
 | 2026-08-14 | Solar Gravity | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.00 | 0.00 | -15.9 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
 | 2026-08-12 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.00 | 0.00 | -15.0 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
 | 2026-08-05 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.06 | 0.74 | +225.4 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |

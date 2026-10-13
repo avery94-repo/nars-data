@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | NATIONAL CS UNI | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.06 | 0.75 | +62.5 | Copier, ElijahReborn, HowHowHowHow, SoFHunter, Sp1cy_NA |
 | 2026-08-05 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.13 | 0.74 | +175.1 | ElijahReborn, HowHowHowHow, Matsuno, SoFHunter, Sp1cy_NA |
 | 2026-07-31 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -10.4 | HowHowHowHow, Juiceyyyy, Matsuno, SoFHunter, Sp1cy_NA |
-| 2026-07-15 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -410.3 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
+| 2026-07-15 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -410.4 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
 | 2026-05-27 | The Jits | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.01 | 0.27 | +158.7 | ElijahReborn, HowHowHowHow, Juiceyyyy, ReverendX, SoFHunter, Sp1cy_NA |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

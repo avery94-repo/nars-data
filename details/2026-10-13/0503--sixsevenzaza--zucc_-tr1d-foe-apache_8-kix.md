@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Knight Owls | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -138.8 | Qacha, Tr1d, foe, kix, nysko- |
 | 2026-08-19 | Strafe | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -9.8 | HoodieMello, Qacha, Tr1d, foe, kix |
 | 2026-08-12 | NoPrac | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -1.9 | Apache_8, Tr1d, Zucc_, foe, kix |
-| 2026-08-07 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.03 | 0.75 | +90.7 | Apache_8, Tr1d, Zucc_, foe, kix |
+| 2026-08-07 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.03 | 0.75 | +90.8 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-08-05 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -46.1 | HoodieMello, Tr1d, Zucc_, foe, kix |
 | 2026-07-31 | Big Kahuna Gaming | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -14.2 | HoodieMello, Tr1d, Zucc_, foe, kix |
 | 2026-07-29 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -2.8 | HoodieMello, Tr1d, Zucc_, foe, kix |
@@ -37,12 +37,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -31.4 | Chuwxe, Tr1d, Zucc_, foe, kix |
 | 2026-07-15 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +439.0 | Chuwxe, Tr1d, Zucc_, foe, kix |
 | 2026-05-22 | dogwater | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -265.6 | Chuwxe, SoldACat4Ket, Tr1d, foe, kix |
-| 2026-05-20 | GOMI dot CLUB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -213.0 | Apache_8, Tr1d, Zucc_, foe, kix |
+| 2026-05-20 | GOMI dot CLUB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -213.1 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-05-15 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -16.1 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-05-13 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -19.4 | BooWh00, Tr1d, Zucc_, foe, kix |
 | 2026-05-06 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -168.8 | Apache_8, Tr1d, Zucc_, foe, kix |
-| 2026-05-01 | MakeYouSayLate | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +394.4 | Apache_8, Tr1d, Zucc_, foe, kix |
-| 2026-04-29 | CVC Retirement | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -273.0 | Apache_8, Tr1d, Zucc_, foe, kix |
+| 2026-05-01 | MakeYouSayLate | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +394.5 | Apache_8, Tr1d, Zucc_, foe, kix |
+| 2026-04-29 | CVC Retirement | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -273.1 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-04-24 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -62.1 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-04-22 | Akatsuki | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -266.3 | Apache_8, Tr1d, Zucc_, foe, kix |
 

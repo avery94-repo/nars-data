@@ -39,11 +39,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.01 | 1.00 | 0.66 | 0.05 | 0.66 | +0.0 | --toasty, Krels, Noahhh, SEAN, infave |
 | 2026-07-17 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.05 | 0.62 | +125.4 | --toasty, Krels, OJISBAE, SEAN, infave |
 | 2026-07-15 | ThirdSite | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.14 | 0.60 | +0.4 | --toasty, Krels, Noahhh, SEAN, phamzyy |
-| 2026-06-04 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.27 | 1.00 | 0.41 | 0.00 | 0.00 | -101.8 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
+| 2026-06-04 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.27 | 1.00 | 0.41 | 0.00 | 0.00 | -101.9 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
 | 2026-05-31 | Skyline | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.00 | 0.00 | -145.7 | Krels, SEAN, cafune, infave, phamzyy |
 | 2026-05-29 | 5Frag Gaming | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.27 | 1.00 | 0.36 | 0.05 | 0.36 | +32.0 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
-| 2026-05-20 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -257.6 | Krels, Noahhh, SEAN, cafune, infave |
-| 2026-05-19 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.25 | 0.02 | 0.25 | +224.5 | Krels, SEAN, cafune, infave, phamzyy |
+| 2026-05-20 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -257.7 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-19 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.25 | 0.02 | 0.25 | +224.6 | Krels, SEAN, cafune, infave, phamzyy |
 | 2026-05-15 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.02 | 0.22 | +301.9 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-13 | NXG Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -182.9 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-08 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +43.9 | Krels, Noahhh, SEAN, cafune, infave |

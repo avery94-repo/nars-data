@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -0.0 | BLACK_KIMCHI, Eternal-1, Randy1, Spr3ad, floorine9 |
 | 2026-05-22 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -9.6 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
 | 2026-05-15 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -280.4 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
-| 2026-05-13 | Specter Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.01 | 0.20 | +394.1 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
+| 2026-05-13 | Specter Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.01 | 0.20 | +394.2 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
 | 2026-05-06 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -0.4 | BenjiBeatsu, Eternal-1, Randy1, Spr3ad, j4b |
 | 2026-05-01 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -158.7 | Eternal-1, MyKeys, Randy1, Spr3ad, j4b |
 | 2026-04-29 | Texas Orange | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -234.9 | Eternal-1, MyKeys, Randy1, Spr3ad, j4b |

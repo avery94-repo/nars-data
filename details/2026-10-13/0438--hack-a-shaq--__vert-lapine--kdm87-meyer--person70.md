@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-28 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.01 | 1.00 | 0.90 | 0.00 | 0.00 | -59.7 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-08-26 | Wiggle Peeks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.00 | 0.00 | -109.1 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
-| 2026-08-21 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.00 | 0.00 | -140.2 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
+| 2026-08-21 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.00 | 0.00 | -140.3 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-08-19 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.00 | 0.00 | -68.3 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-08-14 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -72.8 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-08-12 | No Leaders Please | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.09 | 0.79 | +203.4 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | Grandpa Berets | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.02 | 0.00 | +209.8 | LaPine-, Meyer-, Person70, Traxs-, __Vert |
 | 2026-05-08 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +288.7 | Meyer-, Person70, Traxs-, __Vert, kdm87 |
 | 2026-05-06 | Kushtaka | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -329.3 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
-| 2026-05-01 | GOMI dot CLUB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -329.2 | LaPine-, Meyer-, Person70, Traxs-, __Vert |
+| 2026-05-01 | GOMI dot CLUB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -329.3 | LaPine-, Meyer-, Person70, Traxs-, __Vert |
 | 2026-04-29 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.08 | +434.2 | LaPine-, Meyer-, Person70, Traxs-, __Vert |
 | 2026-04-24 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -177.0 | LaPine-, Meyer-, Person70, Traxs-, __Vert |
 | 2026-04-22 | Duality Zero | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -286.2 | LaPine-, Meyer-, Person70, Traxs-, __Vert |

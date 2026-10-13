@@ -3,11 +3,11 @@ Team Name: Asian Invasion
 Roster: shlenny, 1stobie, dKim, Muppet, SwigglyP
 NARS Rank: 300 of 507
 
-Final Rating: 1264.9
+Final Rating: 1264.8
 Seeded Start: 1124.1
-H2H Adjustment: +140.8
+H2H Adjustment: +140.7
 
-Final Rating (1264.9) = Seeded Start (1124.1) + H2H Adjustment (+140.8)
+Final Rating (1264.8) = Seeded Start (1124.1) + H2H Adjustment (+140.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

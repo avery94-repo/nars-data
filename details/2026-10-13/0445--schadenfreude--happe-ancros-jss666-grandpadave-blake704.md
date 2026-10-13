@@ -39,14 +39,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Quality | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.00 | 0.00 | -13.5 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-07-15 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.01 | 1.00 | 0.60 | 0.00 | 0.00 | -0.4 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-05-31 | Emerald Isle | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -105.1 | Ancros, Doinks_s, GrandpaDave, RanglerGuy, blake704, jss666 |
-| 2026-05-27 | Square1 | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -281.3 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
+| 2026-05-27 | Square1 | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -281.4 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-05-22 | Friendly Fire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -99.1 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-05-20 | Wide Swinging Wizards | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.01 | 0.22 | +277.1 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-05-15 | RejexEsports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +372.6 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-05-13 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -0.4 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-05-08 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -335.0 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-05-06 | Brick Layers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.13 | +202.8 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
-| 2026-04-29 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -320.6 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
+| 2026-04-29 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -320.7 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-04-24 | HammerHeads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +323.1 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-04-22 | STFDYSAB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +260.6 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-04-17 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -197.9 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |

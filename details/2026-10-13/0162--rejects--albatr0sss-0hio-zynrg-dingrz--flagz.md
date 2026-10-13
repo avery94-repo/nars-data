@@ -49,7 +49,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +0.2 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-07-15 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +27.2 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-06-04 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.34 | 0.00 | 0.00 | -133.8 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
-| 2026-06-02 | Let It Crust | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.31 | 1.05 | 1.00 | 0.33 | 0.00 | 0.33 | +93.0 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
+| 2026-06-02 | Let It Crust | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.31 | 1.05 | 1.00 | 0.33 | 0.00 | 0.33 | +93.1 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
 | 2026-05-31 | QUPMANACS | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.31 | 0.02 | 0.31 | +161.8 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
 | 2026-05-29 | bubibabu | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.30 | 0.00 | 0.00 | -143.2 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
 

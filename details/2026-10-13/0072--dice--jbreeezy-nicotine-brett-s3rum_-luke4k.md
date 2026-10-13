@@ -41,11 +41,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | North Forge | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.46 | 1.00 | 1.07 | 0.00 | 0.00 | -102.8 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-07-31 | EMPIRE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.46 | 1.00 | 1.02 | 0.85 | 1.02 | +238.7 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-07-29 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.46 | 1.00 | 1.01 | 0.00 | 0.00 | -131.3 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
-| 2026-07-24 | Pug Palace | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.46 | 1.00 | 0.96 | 0.00 | 0.00 | -462.0 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
+| 2026-07-24 | Pug Palace | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.46 | 1.00 | 0.96 | 0.00 | 0.00 | -462.1 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-07-17 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.46 | 1.00 | 0.89 | 0.09 | 0.89 | +0.4 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-07-15 | Chicken Coop | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.46 | 1.00 | 0.87 | 0.78 | 0.87 | +497.8 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-06-19 | Chicken Coop | L |  | VRS-tracked 2026-06 | A | vrs | 0.42 | 1.60 | 1.00 | 0.67 | 0.00 | 0.00 | -0.0 | core 3/5 |
-| 2026-06-11 | BONK | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.37 | 1.05 | 1.00 | 0.39 | 0.03 | 0.39 | +258.5 | brett, jBREEEZY, nicotine, s3rum_, xrs0 |
+| 2026-06-11 | BONK | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.37 | 1.05 | 1.00 | 0.39 | 0.03 | 0.39 | +258.6 | brett, jBREEEZY, nicotine, s3rum_, xrs0 |
 | 2026-06-02 | Diggers | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.31 | 1.05 | 1.00 | 0.33 | 0.00 | 0.00 | -55.3 | brett, jBREEEZY, nicotine, s3rum_, xrs0 |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

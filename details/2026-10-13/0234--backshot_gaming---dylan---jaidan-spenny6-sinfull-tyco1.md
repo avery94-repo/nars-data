@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | Temple of Swing | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.01 | 0.16 | +2.2 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-05-06 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +337.5 | -Dylan--, Jaidan, Raspubot, spenny6, tyco1 |
 | 2026-05-01 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.11 | +398.2 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
-| 2026-04-29 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -300.5 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
+| 2026-04-29 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -300.6 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-04-24 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -177.4 | -Dylan--, BeerFade, Jaidan, Sinfull, tyco1 |
 | 2026-04-23 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.00 | 0.05 | +208.0 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-04-22 | Pro Lapse | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -96.8 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |

@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | Quality | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -2.4 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-27 | Les Ptis Jus | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.02 | 0.27 | +36.1 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-22 | High-Tech Performance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +7.1 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
-| 2026-05-21 | Spin da block | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.02 | 0.23 | +352.3 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
+| 2026-05-21 | Spin da block | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.02 | 0.23 | +352.4 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-20 | Costco Family | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.03 | 0.22 | +41.6 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-13 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -20.4 | Ant1d0te_cs, Scruffay, T0niK, Tribute-, Void-Swan |
 | 2026-05-08 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -37.4 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
@@ -47,7 +47,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -218.9 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-04-29 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -330.0 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-04-24 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | +241.7 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
-| 2026-04-22 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +254.3 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
+| 2026-04-22 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +254.4 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-04-17 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +227.5 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

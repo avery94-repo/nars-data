@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -2.1 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-05-22 | SNOWPLOWERS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.00 | -19.0 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-05-20 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -25.4 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
-| 2026-05-13 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.01 | 0.20 | +325.7 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
+| 2026-05-13 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.01 | 0.20 | +325.8 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-05-08 | The Homies | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -44.4 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-05-01 | Scrimless | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -197.5 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-04-29 | Free Frugz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.00 | 0.00 | -251.8 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |

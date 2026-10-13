@@ -3,11 +3,11 @@ Team Name: bubibabu
 Roster: Leapold, bbukaa, ivan2008, a1mb4t-_-, malfik
 NARS Rank: 44 of 507
 
-Final Rating: 1932.5
+Final Rating: 1932.6
 Seeded Start: 1342.8
-H2H Adjustment: +589.7
+H2H Adjustment: +589.8
 
-Final Rating (1932.5) = Seeded Start (1342.8) + H2H Adjustment (+589.7)
+Final Rating (1932.6) = Seeded Start (1342.8) + H2H Adjustment (+589.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

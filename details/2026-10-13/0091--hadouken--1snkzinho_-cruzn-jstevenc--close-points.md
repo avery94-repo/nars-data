@@ -5,7 +5,7 @@ NARS Rank: 91 of 507
 
 Final Rating: 1751.4
 Seeded Start: 1161.8
-H2H Adjustment: +589.6 (capped at +-300, raw +589.5)
+H2H Adjustment: +589.6
 
 Final Rating (1751.4) = Seeded Start (1161.8) + H2H Adjustment (+589.6)
 
@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-04 | Fathom Gaming | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.27 | 1.00 | 0.41 | 0.00 | 0.00 | -157.3 | -Close, 1snkzinho_, JStevenC, cruzN, points |
-| 2026-06-02 | Team Amplus | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.27 | 1.00 | 0.39 | 0.07 | 0.39 | +143.4 | -Close, 1snkzinho_, JStevenC, cruzN, points |
+| 2026-06-02 | Team Amplus | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.27 | 1.00 | 0.39 | 0.07 | 0.39 | +143.5 | -Close, 1snkzinho_, JStevenC, cruzN, points |
 | 2026-05-31 | SquishysAngels | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.27 | 1.00 | 0.37 | 0.01 | 0.37 | +291.5 | -Close, 1snkzinho_, JStevenC, StAgE-_, points |
 | 2026-05-27 | 027fam | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.00 | 0.00 | -345.7 | -Close, 1snkzinho_, JStevenC, StAgE-_, points |
 | 2026-05-22 | DUI | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.00 | 0.27 | +21.1 | -Close, 1snkzinho_, JStevenC, cruzN, points |

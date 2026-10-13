@@ -44,6 +44,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.07 | 0.61 | +2.7 | SalmO-, f0bless, fabiaN407, swilLy, xirtaM2 |
 | 2026-07-15 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -223.6 | SalmO-, f0bless, fabiaN407, xirtaM2, zig- |
 | 2026-06-05 | MadaNASCAR | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.05 | 0.00 | +174.7 | UltRaLeX, f0bless, fabiaN407, xirtaM2, zig- |
-| 2026-05-29 | Guangzhou Loong Lions | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +155.4 | UltRaLeX, f0bless, fabiaN407, xirtaM2, zig- |
+| 2026-05-29 | Guangzhou Loong Lions | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +155.5 | UltRaLeX, f0bless, fabiaN407, xirtaM2, zig- |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

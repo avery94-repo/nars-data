@@ -76,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-19 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -31.9 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-05-14 | Club 333 | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -152.0 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-05-12 | Wanted Goons | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -185.5 | 2Panic, SAHUR_EL1TE, Sunk_, carbs, turkeyrocket |
-| 2026-05-07 | Iowa Stormboar | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.12 | 0.18 | +340.5 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
+| 2026-05-07 | Iowa Stormboar | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.12 | 0.18 | +340.6 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-05-05 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.15 | 0.16 | +16.2 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-04-30 | skebob | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.01 | 0.12 | +1.7 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-04-28 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.10 | 0.00 | 0.10 | +0.1 | SAHUR_EL1TE, Sunk_, carbs, recar, turkeyrocket |

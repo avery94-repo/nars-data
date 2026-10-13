@@ -32,6 +32,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | Alternate Earth | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.07 | 0.98 | +81.4 | Corvinelli9, Messy, Striker_Sly, TSQRD, kstew_ |
 | 2026-09-06 | No Excuses | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.02 | 1.00 | 0.97 | 0.03 | 0.97 | +112.4 | Corvinelli9, Messy, TSQRD, intoxify, kstew_ |
 | 2026-09-04 | Align Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.03 | 0.96 | +71.6 | Corvinelli9, Messy, TSQRD, intoxify, kstew_ |
-| 2026-09-02 | BlueberryFuego | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.03 | 0.94 | +113.4 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |
+| 2026-09-02 | BlueberryFuego | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.03 | 0.94 | +113.5 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

@@ -39,11 +39,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-31 | Midwest Farmers | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.03 | 0.30 | +122.6 | -Joyce666-, A1Sh1, Karmua, me1zz, nixiankaide |
 | 2026-05-29 | Dynasty | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +271.9 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-05-27 | Aetheris | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -354.2 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
-| 2026-05-22 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -289.6 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
+| 2026-05-22 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -289.7 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-05-20 | Friendly Fire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -207.9 | A1Sh1, Karmua, me1zz, nixiankaide, s1nKr |
 | 2026-05-15 | in for Blood | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.02 | 0.19 | +61.6 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-05-13 | In Our Prime | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.01 | 0.18 | +177.0 | -Joyce666-, A1Sh1, me1zz, nixiankaide, s1nKr |
-| 2026-05-08 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +311.1 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
+| 2026-05-08 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +311.2 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-05-06 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.02 | 0.13 | +30.9 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-05-01 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +400.5 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-04-29 | Shock Value | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -3.6 | A1Sh1, Ash-1, Karmua, me1zz, s1nKr |

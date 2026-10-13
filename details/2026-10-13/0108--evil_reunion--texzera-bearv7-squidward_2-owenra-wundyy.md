@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.03 | 0.26 | +19.8 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
 | 2026-05-15 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.05 | 0.22 | +11.4 | Clum, Texzera, oweNra, squidward_2, wundyy |
 | 2026-05-14 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.21 | +299.5 | Clum, Texzera, oweNra, squidward_2, wundyy |
-| 2026-05-13 | VOID ALUNE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -355.4 | Clum, Texzera, oweNra, squidward_2, wundyy |
+| 2026-05-13 | VOID ALUNE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.00 | 0.00 | -355.5 | Clum, Texzera, oweNra, squidward_2, wundyy |
 | 2026-05-06 | Bills | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -30.5 | Clum, Texzera, oweNra, squidward_2, wundyy |
 | 2026-05-01 | BUCK NASTY | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -367.1 | Clum, Texzera, oweNra, squidward_2, wundyy |
 | 2026-04-29 | Slimy Boogermen | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.02 | 0.09 | +204.3 | Clum, Texzera, oweNra, squidward_2, wundyy |

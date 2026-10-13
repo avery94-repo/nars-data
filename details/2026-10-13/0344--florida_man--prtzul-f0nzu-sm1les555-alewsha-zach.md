@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.16 | 1.00 | 0.80 | 0.00 | 0.00 | -116.4 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
 | 2026-07-17 | Manx Recovery Program | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.16 | 1.00 | 0.71 | 0.00 | 0.00 | -19.2 | Alewsha, F0nzu, Prtzul, Zach, blessa |
 | 2026-07-15 | The Skins | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -38.5 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
-| 2026-06-07 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.05 | 0.34 | +182.5 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
+| 2026-06-07 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.05 | 0.34 | +182.6 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
 | 2026-06-03 | Qinorhwat | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -158.7 | Alewsha, Prtzul, Zach, sM1les555, skrimp |
 | 2026-05-29 | Wide Swinging Wizards | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +310.7 | Alewsha, F0nzu, Prtzul, sM1les555, skrimp |
 | 2026-05-27 | Costco Family | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.03 | 0.27 | +329.4 | F0nzu, LukieD, Prtzul, sM1les555, skrimp |
@@ -50,7 +50,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +243.2 | F0nzu, JimmersTR, Prtzul, Zach, skrimp |
 | 2026-04-29 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -80.1 | Alewsha, LukieD, Prtzul, Zach, skrimp |
 | 2026-04-24 | Costco Family | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -55.3 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
-| 2026-04-22 | NATIONAL CS UNI | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +256.6 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
+| 2026-04-22 | NATIONAL CS UNI | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +256.7 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
 | 2026-04-17 | High T Low E | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -302.5 | Alewsha, F0nzu, Prtzul, Zach, skrimp |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

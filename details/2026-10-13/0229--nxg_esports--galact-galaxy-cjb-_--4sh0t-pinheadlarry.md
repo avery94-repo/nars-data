@@ -50,7 +50,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -113.5 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-05-18 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.16 | 1.00 | 0.24 | 0.00 | 0.00 | -292.5 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-05-13 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.20 | 0.03 | 0.20 | +185.8 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
-| 2026-05-06 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +293.7 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
+| 2026-05-06 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.01 | 0.15 | +293.8 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-05-01 | qcclan | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.01 | 0.11 | +8.4 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-04-29 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.16 | 1.00 | 0.09 | 0.01 | 0.09 | +317.5 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-04-27 | The Bobs | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.16 | 1.00 | 0.08 | 0.00 | 0.00 | -16.0 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |

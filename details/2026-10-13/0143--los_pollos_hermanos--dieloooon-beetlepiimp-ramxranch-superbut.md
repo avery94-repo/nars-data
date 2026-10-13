@@ -3,11 +3,11 @@ Team Name: Los Pollos Hermanos
 Roster: dieloooon, BeetlePiimp, RamxRanch, SuperButt, cawfee
 NARS Rank: 143 of 507
 
-Final Rating: 1596.8
+Final Rating: 1596.9
 Seeded Start: 1212.4
-H2H Adjustment: +384.4
+H2H Adjustment: +384.5 (capped at +-300, raw +384.4)
 
-Final Rating (1596.8) = Seeded Start (1212.4) + H2H Adjustment (+384.4)
+Final Rating (1596.9) = Seeded Start (1212.4) + H2H Adjustment (+384.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

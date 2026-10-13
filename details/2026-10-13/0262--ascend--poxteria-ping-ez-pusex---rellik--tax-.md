@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: ASCEND
 Roster: Poxteria, PiNG-ez, pusEx-, -RelliK-, tax-
-NARS Rank: 263 of 507
+NARS Rank: 262 of 507
 
 Final Rating: 1359.2
 Seeded Start: 1275.9

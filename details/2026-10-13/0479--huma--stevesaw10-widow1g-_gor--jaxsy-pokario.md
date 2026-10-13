@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | In Our Prime | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.01 | 1.00 | 0.89 | 0.00 | 0.00 | -110.5 | FLa_FLa, Pokario, SteveSaw10, WIDOW1g, calan |
 | 2026-08-21 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.07 | 0.85 | +97.7 | JaXsy, SteveSaw10, WIDOW1g, _GOR-, calan |
 | 2026-08-20 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.04 | 0.85 | +157.9 | FLa_FLa, JaXsy, SteveSaw10, T0tid0ti, _GOR- |
-| 2026-08-14 | Pro Lapse | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.81 | 0.00 | 0.00 | -44.3 | 1nvert-, JaXsy, SteveSaw10, T0tid0ti, WIDOW1g |
+| 2026-08-14 | Pro Lapse | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.01 | 1.00 | 0.80 | 0.00 | 0.00 | -44.3 | 1nvert-, JaXsy, SteveSaw10, T0tid0ti, WIDOW1g |
 | 2026-08-12 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.01 | 1.00 | 0.79 | 0.07 | 0.79 | +229.3 | 1nvert-, FLa_FLa, JaXsy, SteveSaw10, _GOR- |
 | 2026-08-05 | Baja Blasters | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.01 | 1.00 | 0.74 | 0.00 | 0.00 | -5.3 | 7urroN, JaXsy, SteveSaw10, WIDOW1g, _GOR- |
 | 2026-07-31 | Meepins | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.01 | 1.00 | 0.71 | 0.00 | 0.00 | -0.1 | 7urroN, JaXsy, SteveSaw10, WIDOW1g, nkSitow |

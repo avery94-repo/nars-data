@@ -13,7 +13,7 @@ Final Rating (1149.9) = Seeded Start (1211.4) + H2H Adjustment (-61.5)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.080 x 1400 = 1211.4
 
-seed_factor 0.080 = 0.25 x Tier Exposure (0.081) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.210)
+seed_factor 0.080 = 0.25 x Tier Exposure (0.081) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.209)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +330.0 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
 | 2026-07-17 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.16 | 1.00 | 0.71 | 0.00 | 0.00 | -0.5 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
 | 2026-07-15 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -26.9 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
-| 2026-05-22 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.02 | 0.27 | +46.8 | HntR, P4uLy, Phatael, sosooooooo, theoldtimer |
+| 2026-05-22 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.27 | 0.02 | 0.27 | +46.7 | HntR, P4uLy, Phatael, sosooooooo, theoldtimer |
 | 2026-05-20 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.26 | +175.4 | HntR, P4uLy, Phatael, sosooooooo, theoldtimer |
 | 2026-05-15 | Entertainment Cheese | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -197.6 | HntR, P4uLy, Phatael, sosooooooo, theoldtimer |
 | 2026-05-08 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -2.2 | HntR, NauwZ, P4uLy, Phatael, theoldtimer |

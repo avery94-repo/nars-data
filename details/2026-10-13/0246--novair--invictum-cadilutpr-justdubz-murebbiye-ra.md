@@ -4,14 +4,14 @@ Roster: invictum, CadiLutPR, JustDubz, murebbiye, Raykon
 NARS Rank: 246 of 507
 
 Final Rating: 1384.7
-Seeded Start: 1316.6
-H2H Adjustment: +68.1
+Seeded Start: 1316.5
+H2H Adjustment: +68.2
 
-Final Rating (1384.7) = Seeded Start (1316.6) + H2H Adjustment (+68.1)
+Final Rating (1384.7) = Seeded Start (1316.5) + H2H Adjustment (+68.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.155 x 1400 = 1316.6
+                = 1100 + 0.155 x 1400 = 1316.5
 
 seed_factor 0.155 = 0.25 x Tier Exposure (0.083) + 0.50 x Quality Wins (0.039) + 0.25 x Opponent Network (0.458)
 
@@ -41,15 +41,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.02 | 0.61 | +7.2 | B1AZERj, CadiLutPR, MANITOOKE-A-, Raykon, murebbiye |
 | 2026-07-15 | Kushtaka | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +2.1 | B1AZERj, CadiLutPR, Raxsew, Raykon, murebbiye |
 | 2026-06-07 | Diamond Mental | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -233.9 | CadiLutPR, Egoist_z, Harfen, JustDubz, Raykon |
-| 2026-06-03 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.04 | 0.32 | +91.6 | CadiLutPR, Egoist_z, Harfen, JustDubz, Raxsew, invictum |
+| 2026-06-03 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.04 | 0.32 | +91.5 | CadiLutPR, Egoist_z, Harfen, JustDubz, Raxsew, invictum |
 | 2026-05-29 | Famas OP | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +173.4 | Egoist_z, Harfen, JustDubz, Raykon, invictum, murebbiye |
 | 2026-05-27 | Solbound | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.02 | 0.27 | +286.6 | CadiLutPR, Egoist_z, JustDubz, invictum, murebbiye |
-| 2026-05-20 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -225.1 | CadiLutPR, Harfen, Raykon, invictum, murebbiye |
+| 2026-05-20 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -225.2 | CadiLutPR, Harfen, Raykon, invictum, murebbiye |
 | 2026-05-13 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.02 | 0.18 | +277.0 | CadiLutPR, JustDubz, Raxsew, invictum, murebbiye |
 | 2026-05-08 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -150.7 | CadiLutPR, JustDubz, Raykon, invictum, murebbiye |
 | 2026-05-06 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -37.1 | CadiLutPR, JustDubz, Raykon, invictum, murebbiye |
 | 2026-05-01 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +392.2 | CadiLutPR, JustDubz, Raykon, invictum, murebbiye |
-| 2026-04-27 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.00 | 1.00 | 0.07 | 0.00 | 0.00 | -144.0 | CadiLutPR, JustDubz, Raykon, invictum, murebbiye |
+| 2026-04-27 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.00 | 1.00 | 0.07 | 0.00 | 0.00 | -144.1 | CadiLutPR, JustDubz, Raykon, invictum, murebbiye |
 | 2026-04-24 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -259.7 | CadiLutPR, JustDubz, Raykon, invictum, murebbiye |
 | 2026-04-22 | Les Ptis Jus | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -188.9 | JustDubz, Raxsew, Raykon, invictum, murebbiye |
 | 2026-04-17 | CVC Retirement | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +143.7 | CadiLutPR, JustDubz, Raykon, invictum, murebbiye |

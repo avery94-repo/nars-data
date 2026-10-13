@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | regain | W |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.12 | 0.00 | +196.8 | core 3/5 |
 | 2026-04-30 | FISHER COLLEGE | W |  | VRS-tracked 2026-04 | A | vrs | 0.09 | 1.59 | 1.00 | 0.14 | 0.12 | 0.00 | +226.5 | core 3/5 |
 | 2026-04-29 | Voca | L |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.00 | 0.00 | -330.1 | core 3/5 |
-| 2026-04-27 | regain | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.09 | 0.11 | +339.5 | core 3/5 |
+| 2026-04-27 | regain | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.09 | 0.11 | +339.6 | core 3/5 |
 | 2026-04-26 | BOSS | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.07 | 0.00 | +585.8 | core 3/5 |
 | 2026-04-23 | regain | L |  | VRS-tracked 2026-04 | A | vrs | 0.04 | 1.59 | 1.00 | 0.07 | 0.00 | 0.00 | -1.9 | core 3/5 |
 | 2026-04-17 | insane players | L |  | VRS-tracked 2026-04 | A | vrs | 0.00 | 1.59 | 1.00 | 0.00 | 0.00 | 0.00 | -464.9 | core 3/5 |

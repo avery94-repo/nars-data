@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -39.0 | Chefig, MrMyers, SoIaris, tristanNC, wKING |
 | 2026-08-07 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -61.9 | Chefig, MAced, SoIaris, taoish, tristanNC |
 | 2026-08-05 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +30.5 | Chefig, SoIaris, StaticBubble, tristanNC, wKING |
-| 2026-07-31 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -169.6 | MrMyers, StaticBubble, taoish, tristanNC, wKING |
+| 2026-07-31 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -169.7 | MrMyers, StaticBubble, taoish, tristanNC, wKING |
 | 2026-07-22 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -220.2 | Chefig, MrMyers, SoIaris, taoish, tristanNC |
 | 2026-07-17 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.07 | 0.61 | +121.0 | Chefig, MrMyers, StaticBubble, tristanNC, wKING |
 | 2026-07-15 | wabbit2 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +118.6 | Chefig, SoIaris, taoish, tristanNC, wKING |
@@ -47,7 +47,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +250.7 | MAced, MrMyers, SoIaris, taoish, wKING |
 | 2026-04-29 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -2.3 | MAced, MrMyers, taoish, tristanNC, wKING |
 | 2026-04-24 | Les Ptis Jus | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -0.1 | MAced, SoIaris, taoish, tristanNC, wKING |
-| 2026-04-22 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -256.6 | Chefig, MrMyers, SoIaris, taoish, tristanNC |
+| 2026-04-22 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -256.7 | Chefig, MrMyers, SoIaris, taoish, tristanNC |
 | 2026-04-17 | Hack-A-Shaq | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -257.6 | Chefig, MrMyers, SoIaris, taoish, wKING |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

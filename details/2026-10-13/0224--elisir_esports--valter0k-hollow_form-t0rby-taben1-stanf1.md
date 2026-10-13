@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-05 | Shimmer | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -127.4 | T0rby, Valter0k, hollow_form, stanf1x, tAben1 |
 | 2026-04-30 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.01 | 0.12 | +357.9 | S0ph3R, T0rby, Valter0k, hollow_form, tAben1 |
 | 2026-04-28 | Club 333 | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.10 | 0.00 | 0.00 | -0.1 | T0rby, Valter0k, hollow_form, stanf1x, tAben1 |
-| 2026-04-23 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.06 | 0.00 | 0.06 | +318.9 | S0ph3R, T0rby, Valter0k, stanf1x, tAben1 |
-| 2026-04-22 | Imperium | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -225.3 | T0rby, Valter0k, hollow_form, stanf1x, tAben1 |
+| 2026-04-23 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.06 | 0.00 | 0.06 | +319.0 | S0ph3R, T0rby, Valter0k, stanf1x, tAben1 |
+| 2026-04-22 | Imperium | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -225.4 | T0rby, Valter0k, hollow_form, stanf1x, tAben1 |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_
