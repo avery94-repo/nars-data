@@ -11,6 +11,28 @@
   "source": "hltv"
  },
  {
+  "match_id": "hltv:2399255",
+  "date": "2026-10-13",
+  "competition": "Stake Pulse Beat III",
+  "team_a": "Liquid",
+  "team_b": "JiJieHao",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399253",
+  "date": "2026-10-13",
+  "competition": "Stake Pulse Beat III",
+  "team_a": "100 Thieves",
+  "team_b": "Liquid",
+  "winner": "a",
+  "score": "2-1",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
   "match_id": "1-0ae846af-e93b-4151-8dcb-4846d0372769",
   "date": "2026-10-12",
   "competition": "S59 NA Advanced Central - Regular Season",
@@ -62,6 +84,28 @@
   "team_b": "regain",
   "winner": "a",
   "score": "2-1",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399231",
+  "date": "2026-10-12",
+  "competition": "ESL Challenger League Season 52 North America Cup 3",
+  "team_a": "Overtake Sector",
+  "team_b": "Iowa Stormboar",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399230",
+  "date": "2026-10-12",
+  "competition": "ESL Challenger League Season 52 North America Cup 3",
+  "team_a": "Chicken Coop",
+  "team_b": "Zomblers",
+  "winner": "a",
+  "score": "2-0",
   "tier": "B",
   "source": "hltv"
  },
@@ -2270,7 +2314,7 @@
   "date": "2026-10-02",
   "competition": "VRS-tracked 2026-10",
   "team_a": "Voca",
-  "team_b": "100 THIEVES",
+  "team_b": "100 Thieves",
   "winner": "b",
   "score": "",
   "tier": "A",

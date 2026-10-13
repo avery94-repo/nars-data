@@ -3,17 +3,17 @@
   "rank": 1,
   "team": "Liquid",
   "team_id": "pro:liquid",
-  "rating": 3143.9,
-  "rd": 166.0,
-  "matches": 36,
-  "wins": 23,
+  "rating": 3104.4,
+  "rd": 144.2,
+  "matches": 38,
+  "wins": 24,
   "seed_factor": 0.794
  },
  {
   "rank": 2,
   "team": "M80",
   "team_id": "pro:m80",
-  "rating": 3081.6,
+  "rating": 3081.7,
   "rd": 119.0,
   "matches": 50,
   "wins": 28,
@@ -23,18 +23,18 @@
   "rank": 3,
   "team": "Wildcard",
   "team_id": "pro:wildcard",
-  "rating": 2912.1,
+  "rating": 2912.3,
   "rd": 136.8,
   "matches": 39,
   "wins": 25,
-  "seed_factor": 0.689
+  "seed_factor": 0.688
  },
  {
   "rank": 4,
   "team": "NRG",
   "team_id": "pro:nrg",
-  "rating": 2837.8,
-  "rd": 108.3,
+  "rating": 2838.0,
+  "rd": 108.4,
   "matches": 37,
   "wins": 20,
   "seed_factor": 0.761
@@ -43,18 +43,18 @@
   "rank": 5,
   "team": "Voca",
   "team_id": "pro:voca",
-  "rating": 2798.2,
+  "rating": 2798.5,
   "rd": 110.5,
   "matches": 38,
   "wins": 26,
-  "seed_factor": 0.815
+  "seed_factor": 0.814
  },
  {
   "rank": 6,
   "team": "SportsBetExpert",
   "team_id": "1c6fdb1b-5d10-4c66-8d59-be8d6b70d781",
-  "rating": 2676.1,
-  "rd": 108.4,
+  "rating": 2677.6,
+  "rd": 108.5,
   "matches": 66,
   "wins": 51,
   "seed_factor": 0.968
@@ -63,8 +63,8 @@
   "rank": 7,
   "team": "Marsborne",
   "team_id": "8121d96b-2094-4bf7-970d-22765b8b4779",
-  "rating": 2618.9,
-  "rd": 155.8,
+  "rating": 2620.4,
+  "rd": 155.9,
   "matches": 83,
   "wins": 60,
   "seed_factor": 0.971
@@ -73,8 +73,8 @@
   "rank": 8,
   "team": "LAG Gaming",
   "team_id": "053839e3-d2ff-40a1-998b-cd6c5c1e9083",
-  "rating": 2514.6,
-  "rd": 117.2,
+  "rating": 2516.2,
+  "rd": 117.3,
   "matches": 82,
   "wins": 57,
   "seed_factor": 0.958
@@ -83,8 +83,8 @@
   "rank": 9,
   "team": "Without a Roof",
   "team_id": "e59c9c49-907d-43db-a6b9-ed0ee7bb21e6",
-  "rating": 2508.9,
-  "rd": 157.7,
+  "rating": 2510.3,
+  "rd": 157.8,
   "matches": 60,
   "wins": 43,
   "seed_factor": 0.969
@@ -93,138 +93,138 @@
   "rank": 10,
   "team": "Overtake Sector",
   "team_id": "7bd0482d-c2e4-4347-bb66-d3b958754486",
-  "rating": 2377.0,
-  "rd": 205.9,
+  "rating": 2377.9,
+  "rd": 206.2,
   "matches": 81,
   "wins": 56,
-  "seed_factor": 0.956
+  "seed_factor": 0.955
  },
  {
   "rank": 11,
   "team": "Desi Boyz",
   "team_id": "acb17a55-f9a7-44e7-ac2f-1da565da409a",
-  "rating": 2340.3,
-  "rd": 145.8,
+  "rating": 2341.7,
+  "rd": 146.0,
   "matches": 58,
   "wins": 35,
-  "seed_factor": 0.871
+  "seed_factor": 0.869
  },
  {
   "rank": 12,
   "team": "regain",
   "team_id": "3523360c-7235-452a-b9d9-e587e97ba4b5",
-  "rating": 2261.0,
-  "rd": 116.9,
+  "rating": 2262.9,
+  "rd": 116.5,
   "matches": 52,
   "wins": 28,
-  "seed_factor": 0.821
+  "seed_factor": 0.82
  },
  {
   "rank": 13,
   "team": "Detonate",
   "team_id": "15275e07-c906-4014-990a-0ed58dbf86d2",
-  "rating": 2254.8,
-  "rd": 133.1,
+  "rating": 2256.1,
+  "rd": 133.3,
   "matches": 73,
   "wins": 47,
-  "seed_factor": 0.92
+  "seed_factor": 0.919
  },
  {
   "rank": 14,
-  "team": "Zomblers",
-  "team_id": "e605128f-9bcb-4f30-b58c-a8d0af337870",
-  "rating": 2246.5,
-  "rd": 157.0,
-  "matches": 53,
-  "wins": 31,
-  "seed_factor": 0.778
+  "team": "Brahmas",
+  "team_id": "aa28a2c3-b16c-47a6-a286-3215b8f49732",
+  "rating": 2197.7,
+  "rd": 107.1,
+  "matches": 30,
+  "wins": 18,
+  "seed_factor": 0.355
  },
  {
   "rank": 15,
-  "team": "Brahmas",
-  "team_id": "aa28a2c3-b16c-47a6-a286-3215b8f49732",
-  "rating": 2195.9,
-  "rd": 106.7,
-  "matches": 30,
-  "wins": 18,
-  "seed_factor": 0.357
+  "team": "Zomblers",
+  "team_id": "e605128f-9bcb-4f30-b58c-a8d0af337870",
+  "rating": 2189.4,
+  "rd": 113.6,
+  "matches": 53,
+  "wins": 30,
+  "seed_factor": 0.777
  },
  {
   "rank": 16,
-  "team": "Iowa Stormboar",
-  "team_id": "7c162f95-c40c-425f-94d5-4dff61e3ac62",
-  "rating": 2192.1,
-  "rd": 109.7,
-  "matches": 49,
-  "wins": 26,
-  "seed_factor": 0.716
+  "team": "Old Meta",
+  "team_id": "bd187a72-461b-42be-bf9c-3f1a523f4c05",
+  "rating": 2176.8,
+  "rd": 187.6,
+  "matches": 27,
+  "wins": 19,
+  "seed_factor": 0.258
  },
  {
   "rank": 17,
-  "team": "Old Meta",
-  "team_id": "bd187a72-461b-42be-bf9c-3f1a523f4c05",
-  "rating": 2174.9,
-  "rd": 187.4,
-  "matches": 27,
-  "wins": 19,
-  "seed_factor": 0.259
+  "team": "FarmVille",
+  "team_id": "d62a3cb4-d998-4461-a8a6-a38189b8da15",
+  "rating": 2175.5,
+  "rd": 112.6,
+  "matches": 55,
+  "wins": 31,
+  "seed_factor": 0.872
  },
  {
   "rank": 18,
-  "team": "FarmVille",
-  "team_id": "d62a3cb4-d998-4461-a8a6-a38189b8da15",
-  "rating": 2174.0,
-  "rd": 112.5,
-  "matches": 55,
-  "wins": 31,
-  "seed_factor": 0.873
- },
- {
-  "rank": 19,
   "team": "NuTorious",
   "team_id": "6e30925c-b959-401b-a64b-571bd81da2f7",
-  "rating": 2173.9,
+  "rating": 2174.3,
   "rd": 290.9,
   "matches": 75,
   "wins": 37,
-  "seed_factor": 0.734
+  "seed_factor": 0.733
+ },
+ {
+  "rank": 19,
+  "team": "Villainous",
+  "team_id": "6ac763db-3c3e-412b-b9ff-dda0eac49648",
+  "rating": 2170.2,
+  "rd": 114.6,
+  "matches": 59,
+  "wins": 32,
+  "seed_factor": 0.788
  },
  {
   "rank": 20,
-  "team": "Villainous",
-  "team_id": "6ac763db-3c3e-412b-b9ff-dda0eac49648",
-  "rating": 2169.4,
-  "rd": 114.5,
-  "matches": 60,
-  "wins": 32,
-  "seed_factor": 0.789
- },
- {
-  "rank": 21,
   "team": "MASTER ONE",
   "team_id": "66814fcd-ae31-4091-b069-3efa89f43ca0",
-  "rating": 2158.4,
-  "rd": 142.7,
+  "rating": 2161.3,
+  "rd": 143.1,
   "matches": 28,
   "wins": 22,
   "seed_factor": 0.251
  },
  {
-  "rank": 22,
+  "rank": 21,
   "team": "qcclan",
   "team_id": "lp:qcclan",
-  "rating": 2148.0,
-  "rd": 152.8,
+  "rating": 2151.0,
+  "rd": 153.1,
   "matches": 29,
   "wins": 19,
   "seed_factor": 0.245
  },
  {
+  "rank": 22,
+  "team": "Iowa Stormboar",
+  "team_id": "7c162f95-c40c-425f-94d5-4dff61e3ac62",
+  "rating": 2122.1,
+  "rd": 116.4,
+  "matches": 50,
+  "wins": 26,
+  "seed_factor": 0.714
+ },
+ {
   "rank": 23,
   "team": "duck crew",
   "team_id": "6b0c4956-249e-41c2-96d7-276bba25f679",
-  "rating": 2099.0,
-  "rd": 205.0,
+  "rating": 2101.1,
+  "rd": 205.8,
   "matches": 18,
   "wins": 11,
   "seed_factor": 0.128
@@ -233,48 +233,48 @@
   "rank": 24,
   "team": "Priority",
   "team_id": "88d04d7f-191c-4e96-a24d-a2eae71f3dc1",
-  "rating": 2056.9,
-  "rd": 266.7,
+  "rating": 2057.6,
+  "rd": 268.5,
   "matches": 15,
   "wins": 10,
-  "seed_factor": 0.034
+  "seed_factor": 0.033
  },
  {
   "rank": 25,
   "team": "Festina Lente",
   "team_id": "25784501-fad3-4abf-b8f0-134dce338653",
-  "rating": 2054.8,
-  "rd": 239.7,
+  "rating": 2055.1,
+  "rd": 240.9,
   "matches": 10,
   "wins": 6,
-  "seed_factor": 0.108
+  "seed_factor": 0.106
  },
  {
   "rank": 26,
   "team": "Olympus",
   "team_id": "a128039e-1e53-4b66-bc8c-4d7a3c8853be",
-  "rating": 2049.3,
-  "rd": 228.0,
+  "rating": 2050.0,
+  "rd": 228.1,
   "matches": 61,
   "wins": 39,
-  "seed_factor": 0.735
+  "seed_factor": 0.734
  },
  {
   "rank": 27,
   "team": "raisedbypixels",
   "team_id": "49d5d975-eb5f-4003-95c9-3e267c278999",
   "rating": 2040.1,
-  "rd": 203.1,
+  "rd": 204.4,
   "matches": 15,
   "wins": 8,
-  "seed_factor": 0.099
+  "seed_factor": 0.097
  },
  {
   "rank": 28,
   "team": "Automatic HQ",
   "team_id": "cb3818d1-d419-4e5e-a553-9df4aed65ea0",
-  "rating": 2032.3,
-  "rd": 188.2,
+  "rating": 2034.2,
+  "rd": 188.4,
   "matches": 34,
   "wins": 25,
   "seed_factor": 0.245
@@ -283,168 +283,168 @@
   "rank": 29,
   "team": "YHUBEPCAM",
   "team_id": "2688b98a-ec92-47f1-8631-1f7437650a34",
-  "rating": 2019.1,
-  "rd": 227.6,
+  "rating": 2020.8,
+  "rd": 228.3,
   "matches": 25,
   "wins": 19,
-  "seed_factor": 0.185
+  "seed_factor": 0.184
  },
  {
   "rank": 30,
   "team": "babaG",
   "team_id": "1e8b7495-2e2e-45cd-8937-1a811032d596",
-  "rating": 2018.4,
-  "rd": 98.6,
+  "rating": 2019.0,
+  "rd": 98.9,
   "matches": 26,
   "wins": 18,
-  "seed_factor": 0.486
+  "seed_factor": 0.484
  },
  {
   "rank": 31,
   "team": "VOID ALUNE",
   "team_id": "b1afb56d-f8b7-4b0d-a940-d2280659d841",
-  "rating": 2008.3,
-  "rd": 346.8,
+  "rating": 2010.4,
+  "rd": 346.9,
   "matches": 39,
   "wins": 27,
-  "seed_factor": 0.27
+  "seed_factor": 0.269
  },
  {
   "rank": 32,
-  "team": "Slimy Boogermen",
-  "team_id": "7e55e4fe-6f1a-4002-9e92-b4bef0eb438b",
-  "rating": 2007.0,
-  "rd": 99.2,
-  "matches": 34,
-  "wins": 22,
-  "seed_factor": 0.359
+  "team": "Chicken Coop",
+  "team_id": "pro:chicken_coop",
+  "rating": 2007.5,
+  "rd": 113.7,
+  "matches": 66,
+  "wins": 39,
+  "seed_factor": 0.778
  },
  {
   "rank": 33,
-  "team": "EMPIRE",
-  "team_id": "0baf728d-ddf0-4773-8064-77e96285aabf",
-  "rating": 1991.5,
-  "rd": 163.7,
-  "matches": 59,
-  "wins": 33,
-  "seed_factor": 0.725
+  "team": "Slimy Boogermen",
+  "team_id": "7e55e4fe-6f1a-4002-9e92-b4bef0eb438b",
+  "rating": 2007.3,
+  "rd": 99.5,
+  "matches": 34,
+  "wins": 22,
+  "seed_factor": 0.357
  },
  {
   "rank": 34,
-  "team": "Holly Molly",
-  "team_id": "932eb89c-1db6-4529-9b9d-ff920477081d",
-  "rating": 1987.5,
-  "rd": 245.8,
-  "matches": 29,
-  "wins": 12,
-  "seed_factor": 0.277
+  "team": "EMPIRE",
+  "team_id": "0baf728d-ddf0-4773-8064-77e96285aabf",
+  "rating": 1991.6,
+  "rd": 163.8,
+  "matches": 59,
+  "wins": 33,
+  "seed_factor": 0.722
  },
  {
   "rank": 35,
+  "team": "Holly Molly",
+  "team_id": "932eb89c-1db6-4529-9b9d-ff920477081d",
+  "rating": 1988.8,
+  "rd": 246.1,
+  "matches": 29,
+  "wins": 12,
+  "seed_factor": 0.276
+ },
+ {
+  "rank": 36,
   "team": "Fathom Gaming",
   "team_id": "8946ac76-f2cf-4688-b2d6-0b7526d9db64",
   "rating": 1981.2,
   "rd": 299.0,
   "matches": 39,
   "wins": 27,
-  "seed_factor": 0.457
- },
- {
-  "rank": 36,
-  "team": "firesale",
-  "team_id": "51f1a64f-5150-4c40-9557-076a9320a156",
-  "rating": 1974.3,
-  "rd": 272.8,
-  "matches": 22,
-  "wins": 13,
-  "seed_factor": 0.25
+  "seed_factor": 0.456
  },
  {
   "rank": 37,
-  "team": "Wanted Goons",
-  "team_id": "7af80a64-d762-46c8-8e4c-73cb1a8c2919",
-  "rating": 1973.9,
-  "rd": 110.4,
-  "matches": 66,
-  "wins": 35,
-  "seed_factor": 0.803
+  "team": "firesale",
+  "team_id": "51f1a64f-5150-4c40-9557-076a9320a156",
+  "rating": 1975.1,
+  "rd": 273.0,
+  "matches": 22,
+  "wins": 13,
+  "seed_factor": 0.249
  },
  {
   "rank": 38,
-  "team": "ZETTA",
-  "team_id": "d36ca2d0-d8f0-4c1d-9c1c-5b28cc58e532",
-  "rating": 1969.9,
-  "rd": 195.1,
-  "matches": 16,
-  "wins": 5,
-  "seed_factor": 0.194
+  "team": "Wanted Goons",
+  "team_id": "7af80a64-d762-46c8-8e4c-73cb1a8c2919",
+  "rating": 1974.4,
+  "rd": 110.4,
+  "matches": 66,
+  "wins": 35,
+  "seed_factor": 0.802
  },
  {
   "rank": 39,
-  "team": "Zealous",
-  "team_id": "43262bdd-5a1f-4554-a288-80e9700a1a7a",
-  "rating": 1964.3,
-  "rd": 272.3,
-  "matches": 13,
-  "wins": 9,
-  "seed_factor": 0.037
+  "team": "ZETTA",
+  "team_id": "d36ca2d0-d8f0-4c1d-9c1c-5b28cc58e532",
+  "rating": 1970.0,
+  "rd": 195.2,
+  "matches": 16,
+  "wins": 5,
+  "seed_factor": 0.193
  },
  {
   "rank": 40,
+  "team": "Zealous",
+  "team_id": "43262bdd-5a1f-4554-a288-80e9700a1a7a",
+  "rating": 1966.9,
+  "rd": 274.0,
+  "matches": 13,
+  "wins": 9,
+  "seed_factor": 0.036
+ },
+ {
+  "rank": 41,
   "team": "Locally Hated",
   "team_id": "lp:my_life_be_like",
-  "rating": 1959.0,
-  "rd": 115.2,
+  "rating": 1959.9,
+  "rd": 115.5,
   "matches": 41,
   "wins": 27,
   "seed_factor": 0.412
  },
  {
-  "rank": 41,
-  "team": "Chicken Coop",
-  "team_id": "pro:chicken_coop",
-  "rating": 1952.5,
-  "rd": 116.4,
-  "matches": 65,
-  "wins": 38,
-  "seed_factor": 0.753
- },
- {
   "rank": 42,
   "team": "OnlyFans",
   "team_id": "4a21e366-941d-4ab3-9af6-116c6f35ce85",
-  "rating": 1947.4,
-  "rd": 140.6,
+  "rating": 1949.2,
+  "rd": 140.9,
   "matches": 30,
   "wins": 19,
-  "seed_factor": 0.24
+  "seed_factor": 0.239
  },
  {
   "rank": 43,
   "team": "North Forge",
   "team_id": "fb61b498-0b5d-482f-ae52-da4af6aa97e4",
-  "rating": 1944.7,
-  "rd": 118.2,
+  "rating": 1945.7,
+  "rd": 118.4,
   "matches": 39,
   "wins": 21,
-  "seed_factor": 0.359
+  "seed_factor": 0.357
  },
  {
   "rank": 44,
   "team": "bubibabu",
   "team_id": "5ae01ba2-47d0-4eda-a8ef-7c280c58dda7",
-  "rating": 1931.0,
-  "rd": 165.4,
+  "rating": 1932.5,
+  "rd": 165.7,
   "matches": 14,
   "wins": 10,
-  "seed_factor": 0.174
+  "seed_factor": 0.173
  },
  {
   "rank": 45,
   "team": "Swole Patrol",
   "team_id": "c2ee5f3e-09a6-4466-8876-a5a9533255e0",
-  "rating": 1918.3,
-  "rd": 341.5,
+  "rating": 1920.4,
+  "rd": 341.6,
   "matches": 14,
   "wins": 11,
   "seed_factor": 0.228
@@ -453,78 +453,78 @@
   "rank": 46,
   "team": "Xiaoma Gaming",
   "team_id": "2162ad25-cf27-45e0-ae1d-9ab0b70ef9c3",
-  "rating": 1917.9,
-  "rd": 163.8,
+  "rating": 1918.6,
+  "rd": 163.9,
   "matches": 25,
   "wins": 12,
-  "seed_factor": 0.215
+  "seed_factor": 0.213
  },
  {
   "rank": 47,
   "team": "FLOW STATE",
   "team_id": "52b90eea-0e55-42f7-a0d2-4567af691934",
-  "rating": 1905.8,
-  "rd": 195.6,
+  "rating": 1907.3,
+  "rd": 195.8,
   "matches": 31,
   "wins": 23,
-  "seed_factor": 0.256
+  "seed_factor": 0.255
  },
  {
   "rank": 48,
   "team": "Skyline",
   "team_id": "c7b45641-cc98-4377-88fa-09f3e577e997",
-  "rating": 1902.8,
-  "rd": 145.1,
+  "rating": 1904.4,
+  "rd": 145.6,
   "matches": 69,
   "wins": 40,
-  "seed_factor": 0.326
+  "seed_factor": 0.325
  },
  {
   "rank": 49,
-  "team": "Phantom Sense",
-  "team_id": "dbe7c555-3c1d-4ee0-912a-1dd2621efc9e",
-  "rating": 1889.7,
-  "rd": 116.4,
-  "matches": 34,
-  "wins": 15,
-  "seed_factor": 0.431
+  "team": "DESPAIR",
+  "team_id": "1fa454b8-385a-4c5d-b9c8-a666be19368b",
+  "rating": 1890.3,
+  "rd": 246.3,
+  "matches": 32,
+  "wins": 22,
+  "seed_factor": 0.245
  },
  {
   "rank": 50,
-  "team": "DESPAIR",
-  "team_id": "1fa454b8-385a-4c5d-b9c8-a666be19368b",
-  "rating": 1889.2,
-  "rd": 246.0,
-  "matches": 32,
-  "wins": 22,
-  "seed_factor": 0.246
+  "team": "Phantom Sense",
+  "team_id": "dbe7c555-3c1d-4ee0-912a-1dd2621efc9e",
+  "rating": 1890.2,
+  "rd": 116.5,
+  "matches": 34,
+  "wins": 15,
+  "seed_factor": 0.429
  },
  {
   "rank": 51,
-  "team": "TheMotherLovers",
-  "team_id": "803850b4-dfc0-469a-92bf-cdcd90f31200",
-  "rating": 1881.2,
-  "rd": 225.6,
-  "matches": 33,
-  "wins": 24,
-  "seed_factor": 0.222
+  "team": "No Future Lifes Over",
+  "team_id": "a0e42f29-d916-4b91-91d8-9b73bfdccec1",
+  "rating": 1881.6,
+  "rd": 250.1,
+  "matches": 8,
+  "wins": 8,
+  "seed_factor": 0.147
  },
  {
   "rank": 52,
-  "team": "No Future Lifes Over",
-  "team_id": "a0e42f29-d916-4b91-91d8-9b73bfdccec1",
-  "rating": 1880.1,
-  "rd": 249.9,
-  "matches": 8,
-  "wins": 8,
-  "seed_factor": 0.146
+  "team": "TheMotherLovers",
+  "team_id": "803850b4-dfc0-469a-92bf-cdcd90f31200",
+  "rating": 1881.3,
+  "rd": 225.9,
+  "matches": 33,
+  "wins": 24,
+  "seed_factor": 0.221
  },
  {
   "rank": 53,
   "team": "GG",
   "team_id": "464bcbbb-9bc0-4756-b42e-8e0322a40256",
-  "rating": 1879.2,
-  "rd": 280.3,
+  "rating": 1880.1,
+  "rd": 281.3,
   "matches": 6,
   "wins": 5,
   "seed_factor": 0.039
@@ -533,48 +533,48 @@
   "rank": 54,
   "team": "Omen Esports",
   "team_id": "380fbad8-5cb2-4a31-ab50-42c686034dce",
-  "rating": 1867.4,
-  "rd": 170.2,
+  "rating": 1867.8,
+  "rd": 170.3,
   "matches": 39,
   "wins": 22,
-  "seed_factor": 0.49
+  "seed_factor": 0.489
  },
  {
   "rank": 55,
-  "team": "Beyond Limits",
-  "team_id": "ad5e40f9-ec10-4e32-b005-9f74705a93c5",
-  "rating": 1864.8,
-  "rd": 102.1,
-  "matches": 55,
-  "wins": 34,
-  "seed_factor": 0.716
- },
- {
-  "rank": 56,
-  "team": "Sharp",
-  "team_id": "3129226c-42fc-48ac-9ce7-bf3c7191851b",
-  "rating": 1864.4,
-  "rd": 138.5,
-  "matches": 23,
-  "wins": 18,
-  "seed_factor": 0.214
- },
- {
-  "rank": 57,
   "team": "Bird Squishers",
   "team_id": "149cc46d-e87f-4ded-9dc7-b1571d8a3a97",
-  "rating": 1863.8,
-  "rd": 182.6,
+  "rating": 1866.0,
+  "rd": 183.1,
   "matches": 32,
   "wins": 19,
   "seed_factor": 0.238
  },
  {
+  "rank": 56,
+  "team": "Sharp",
+  "team_id": "3129226c-42fc-48ac-9ce7-bf3c7191851b",
+  "rating": 1865.2,
+  "rd": 138.7,
+  "matches": 23,
+  "wins": 18,
+  "seed_factor": 0.213
+ },
+ {
+  "rank": 57,
+  "team": "Beyond Limits",
+  "team_id": "ad5e40f9-ec10-4e32-b005-9f74705a93c5",
+  "rating": 1864.8,
+  "rd": 102.3,
+  "matches": 55,
+  "wins": 34,
+  "seed_factor": 0.714
+ },
+ {
   "rank": 58,
   "team": "Evade Gaming",
   "team_id": "6d0491f8-083e-49aa-b30b-0737b8a675f6",
-  "rating": 1860.5,
-  "rd": 254.2,
+  "rating": 1862.5,
+  "rd": 255.3,
   "matches": 6,
   "wins": 5,
   "seed_factor": 0.03
@@ -583,8 +583,8 @@
   "rank": 59,
   "team": "feet67",
   "team_id": "c3782764-92da-4a9e-b46b-8af05a0efa37",
-  "rating": 1853.0,
-  "rd": 97.6,
+  "rating": 1854.5,
+  "rd": 97.9,
   "matches": 7,
   "wins": 6,
   "seed_factor": 0.15
@@ -593,8 +593,8 @@
   "rank": 60,
   "team": "F5 Esports",
   "team_id": "a741797c-889f-4854-a502-351cf4d95d59",
-  "rating": 1844.3,
-  "rd": 142.7,
+  "rating": 1844.5,
+  "rd": 142.9,
   "matches": 19,
   "wins": 10,
   "seed_factor": 0.366
@@ -603,48 +603,48 @@
   "rank": 61,
   "team": "Sedated",
   "team_id": "a1c98555-07ac-44c2-b051-d231b2e6f8e3",
-  "rating": 1843.5,
-  "rd": 150.8,
+  "rating": 1844.4,
+  "rd": 151.2,
   "matches": 30,
   "wins": 18,
-  "seed_factor": 0.231
+  "seed_factor": 0.23
  },
  {
   "rank": 62,
   "team": "academy 4 gifted children",
   "team_id": "2c566d9d-2c30-4df9-82aa-37714163c1c1",
-  "rating": 1837.4,
-  "rd": 103.7,
+  "rating": 1837.5,
+  "rd": 104.0,
   "matches": 34,
   "wins": 21,
-  "seed_factor": 0.331
+  "seed_factor": 0.329
  },
  {
   "rank": 63,
   "team": "Endless Esports",
   "team_id": "f505d78c-61e6-4a0e-b1a4-5d8c0a02244a",
-  "rating": 1834.1,
-  "rd": 224.0,
+  "rating": 1834.0,
+  "rd": 224.1,
   "matches": 29,
   "wins": 21,
-  "seed_factor": 0.211
+  "seed_factor": 0.21
  },
  {
   "rank": 64,
   "team": "Playing for fun",
   "team_id": "5e2a401b-b78e-4913-a2ef-b4fa7dc09c90",
-  "rating": 1828.2,
-  "rd": 152.5,
+  "rating": 1829.1,
+  "rd": 153.0,
   "matches": 25,
   "wins": 14,
-  "seed_factor": 0.338
+  "seed_factor": 0.337
  },
  {
   "rank": 65,
   "team": "WhalersOnDaMoon",
   "team_id": "f742f888-082b-4bc6-9f52-0ab43c90af60",
-  "rating": 1824.5,
-  "rd": 203.9,
+  "rating": 1826.2,
+  "rd": 204.2,
   "matches": 32,
   "wins": 20,
   "seed_factor": 0.232
@@ -653,8 +653,8 @@
   "rank": 66,
   "team": "DUMBO",
   "team_id": "9f2e7c81-6564-418a-8cb1-0c3376350b3e",
-  "rating": 1821.9,
-  "rd": 154.8,
+  "rating": 1822.9,
+  "rd": 155.0,
   "matches": 25,
   "wins": 18,
   "seed_factor": 0.225
@@ -663,18 +663,18 @@
   "rank": 67,
   "team": "NZ Gaming",
   "team_id": "20f5644e-4b17-4dbd-b99b-e8f0003abdc2",
-  "rating": 1820.8,
+  "rating": 1821.1,
   "rd": 266.5,
   "matches": 15,
   "wins": 8,
-  "seed_factor": 0.153
+  "seed_factor": 0.151
  },
  {
   "rank": 68,
   "team": "Whiff City",
   "team_id": "77ed36f0-7eb8-4143-97d4-8bd046d5b295",
-  "rating": 1814.1,
-  "rd": 167.4,
+  "rating": 1815.6,
+  "rd": 167.6,
   "matches": 6,
   "wins": 6,
   "seed_factor": 0.11
@@ -683,48 +683,48 @@
   "rank": 69,
   "team": "flat earth",
   "team_id": "b510fcd3-6496-41cc-a0ae-e2aa6f8debea",
-  "rating": 1811.4,
-  "rd": 242.4,
+  "rating": 1812.5,
+  "rd": 242.7,
   "matches": 21,
   "wins": 17,
-  "seed_factor": 0.202
+  "seed_factor": 0.201
  },
  {
   "rank": 70,
   "team": "NineFlyeSports",
   "team_id": "ce4315ee-2445-4db3-be57-0229dd932bd2",
-  "rating": 1811.0,
-  "rd": 143.4,
+  "rating": 1810.9,
+  "rd": 143.9,
   "matches": 21,
   "wins": 9,
-  "seed_factor": 0.199
+  "seed_factor": 0.197
  },
  {
   "rank": 71,
   "team": "GeneticDiff",
   "team_id": "f140bc76-589c-4d5e-839a-eca960ddd1ab",
-  "rating": 1806.1,
-  "rd": 244.9,
+  "rating": 1806.3,
+  "rd": 245.1,
   "matches": 31,
   "wins": 19,
-  "seed_factor": 0.213
+  "seed_factor": 0.212
  },
  {
   "rank": 72,
   "team": "dice",
   "team_id": "dcfd64b9-7a2f-4c07-8c83-0545987c7d90",
-  "rating": 1800.9,
-  "rd": 179.6,
+  "rating": 1801.6,
+  "rd": 180.2,
   "matches": 23,
   "wins": 10,
-  "seed_factor": 0.327
+  "seed_factor": 0.325
  },
  {
   "rank": 73,
   "team": "mas paspas",
   "team_id": "69bc398b-569b-4db5-9fe4-1962be3ce006",
-  "rating": 1793.8,
-  "rd": 177.0,
+  "rating": 1794.7,
+  "rd": 177.1,
   "matches": 29,
   "wins": 22,
   "seed_factor": 0.248
@@ -733,8 +733,8 @@
   "rank": 74,
   "team": "Asoka",
   "team_id": "d34be1b4-bbd1-4076-9e5e-fadcdbc70f51",
-  "rating": 1793.4,
-  "rd": 278.1,
+  "rating": 1793.8,
+  "rd": 278.5,
   "matches": 41,
   "wins": 22,
   "seed_factor": 0.24
@@ -743,68 +743,68 @@
   "rank": 75,
   "team": "Kairo",
   "team_id": "ab8d6f20-2f29-4c68-a0c3-638b23d0f4e0",
-  "rating": 1792.5,
-  "rd": 283.8,
+  "rating": 1793.2,
+  "rd": 284.1,
   "matches": 34,
   "wins": 22,
-  "seed_factor": 0.2
+  "seed_factor": 0.199
  },
  {
   "rank": 76,
   "team": "Diggers",
   "team_id": "aef3a526-ddcf-4fa5-ac37-5d737e2eb159",
-  "rating": 1791.5,
-  "rd": 334.8,
+  "rating": 1791.9,
+  "rd": 334.9,
   "matches": 18,
   "wins": 11,
-  "seed_factor": 0.205
+  "seed_factor": 0.204
  },
  {
   "rank": 77,
   "team": "Club 333",
   "team_id": "2e54c309-0627-46c0-ab1a-77650a2b9a90",
-  "rating": 1790.6,
-  "rd": 158.1,
+  "rating": 1790.8,
+  "rd": 158.2,
   "matches": 59,
   "wins": 36,
-  "seed_factor": 0.676
+  "seed_factor": 0.674
  },
  {
   "rank": 78,
   "team": "EXODIA",
   "team_id": "d238f3f5-0fa1-4de0-b75c-f8dd3e9d662d",
-  "rating": 1786.1,
-  "rd": 191.9,
+  "rating": 1785.6,
+  "rd": 192.1,
   "matches": 33,
   "wins": 12,
-  "seed_factor": 0.404
+  "seed_factor": 0.402
  },
  {
   "rank": 79,
   "team": "Over Your Head",
   "team_id": "27774140-ea00-4c62-86d6-a2e0257e9703",
-  "rating": 1784.1,
-  "rd": 185.1,
+  "rating": 1785.1,
+  "rd": 185.5,
   "matches": 36,
   "wins": 21,
-  "seed_factor": 0.285
+  "seed_factor": 0.284
  },
  {
   "rank": 80,
   "team": "Down To Frag",
   "team_id": "468b5f66-b16f-4e18-8954-c0e60d99061e",
-  "rating": 1783.5,
-  "rd": 154.4,
+  "rating": 1784.1,
+  "rd": 154.9,
   "matches": 23,
   "wins": 12,
-  "seed_factor": 0.136
+  "seed_factor": 0.135
  },
  {
   "rank": 81,
   "team": "fih hou",
   "team_id": "24776169-c711-42e7-adc2-b447bb9abff4",
-  "rating": 1781.3,
-  "rd": 212.0,
+  "rating": 1782.2,
+  "rd": 212.2,
   "matches": 10,
   "wins": 8,
   "seed_factor": 0.158
@@ -813,8 +813,8 @@
   "rank": 82,
   "team": "Over 30",
   "team_id": "83327956-c278-4646-a15f-399e1d2359ff",
-  "rating": 1768.6,
-  "rd": 167.6,
+  "rating": 1769.9,
+  "rd": 167.8,
   "matches": 6,
   "wins": 5,
   "seed_factor": 0.094
@@ -823,98 +823,98 @@
   "rank": 83,
   "team": "makeSHIFT",
   "team_id": "baf6ffbe-7839-45d6-976b-e9246536b0b1",
-  "rating": 1767.3,
-  "rd": 144.0,
+  "rating": 1767.5,
+  "rd": 144.3,
   "matches": 21,
   "wins": 12,
-  "seed_factor": 0.208
+  "seed_factor": 0.207
  },
  {
   "rank": 84,
   "team": "CNCS Last Hope",
   "team_id": "183794bc-7763-43fe-8822-41e0df62698a",
-  "rating": 1763.2,
-  "rd": 321.2,
+  "rating": 1765.4,
+  "rd": 322.8,
   "matches": 7,
   "wins": 4,
-  "seed_factor": 0.011
+  "seed_factor": 0.01
  },
  {
   "rank": 85,
-  "team": "Sound of Arthritis",
-  "team_id": "4bf39b37-c10b-4208-a01c-fdee19c61a9d",
-  "rating": 1761.1,
-  "rd": 153.2,
-  "matches": 21,
-  "wins": 17,
-  "seed_factor": 0.177
- },
- {
-  "rank": 86,
   "team": "Orbit",
   "team_id": "8c0cf39f-c34a-43a6-bc31-37bcf40f70d8",
-  "rating": 1760.9,
-  "rd": 252.0,
+  "rating": 1762.8,
+  "rd": 253.1,
   "matches": 5,
   "wins": 4,
   "seed_factor": 0.023
+ },
+ {
+  "rank": 86,
+  "team": "Sound of Arthritis",
+  "team_id": "4bf39b37-c10b-4208-a01c-fdee19c61a9d",
+  "rating": 1761.0,
+  "rd": 153.7,
+  "matches": 21,
+  "wins": 17,
+  "seed_factor": 0.176
  },
  {
   "rank": 87,
   "team": "Elusive",
   "team_id": "f325c1ed-13d5-4f8c-b5e2-c53de50193c8",
   "rating": 1759.6,
-  "rd": 174.8,
+  "rd": 174.9,
   "matches": 28,
   "wins": 13,
-  "seed_factor": 0.49
+  "seed_factor": 0.488
  },
  {
   "rank": 88,
   "team": "Manx Recovery Program",
   "team_id": "c70ed272-986e-48d2-9605-95223a4a47a2",
-  "rating": 1754.5,
-  "rd": 149.1,
+  "rating": 1755.3,
+  "rd": 149.6,
   "matches": 27,
   "wins": 15,
-  "seed_factor": 0.177
+  "seed_factor": 0.176
  },
  {
   "rank": 89,
   "team": "FRZ Unit",
   "team_id": "lp:unreal_nightmare",
-  "rating": 1753.3,
-  "rd": 157.7,
+  "rating": 1753.4,
+  "rd": 157.8,
   "matches": 50,
   "wins": 21,
-  "seed_factor": 0.564
+  "seed_factor": 0.562
  },
  {
   "rank": 90,
   "team": "Hairy Scary Bandits",
   "team_id": "00f479bc-67d4-440d-8169-5fb62ee1d321",
-  "rating": 1751.1,
-  "rd": 235.9,
+  "rating": 1751.5,
+  "rd": 236.0,
   "matches": 36,
   "wins": 23,
-  "seed_factor": 0.277
+  "seed_factor": 0.276
  },
  {
   "rank": 91,
   "team": "Hadouken",
   "team_id": "70e8dba9-2502-4eb9-bf6b-3868aad46f83",
-  "rating": 1750.3,
-  "rd": 283.2,
+  "rating": 1751.4,
+  "rd": 285.0,
   "matches": 15,
   "wins": 10,
-  "seed_factor": 0.045
+  "seed_factor": 0.044
  },
  {
   "rank": 92,
   "team": "Fire Nation",
   "team_id": "fa1efee8-95a0-4cd8-83f4-971fb3f0d03d",
-  "rating": 1749.7,
-  "rd": 270.2,
+  "rating": 1750.3,
+  "rd": 270.5,
   "matches": 8,
   "wins": 7,
   "seed_factor": 0.147
@@ -923,18 +923,18 @@
   "rank": 93,
   "team": "Bills",
   "team_id": "4ac71bbf-917f-4a69-97d2-2c98153096c8",
-  "rating": 1748.7,
-  "rd": 268.9,
+  "rating": 1746.7,
+  "rd": 270.8,
   "matches": 12,
   "wins": 9,
-  "seed_factor": 0.037
+  "seed_factor": 0.035
  },
  {
   "rank": 94,
   "team": "Toomers",
   "team_id": "04d7c47d-deee-481a-93f3-a1bf7a7f11b4",
-  "rating": 1740.0,
-  "rd": 173.1,
+  "rating": 1741.0,
+  "rd": 173.4,
   "matches": 6,
   "wins": 5,
   "seed_factor": 0.093
@@ -943,38 +943,38 @@
   "rank": 95,
   "team": "PROFECO",
   "team_id": "e07a0387-4d3c-4480-a554-6676d42d8119",
-  "rating": 1737.5,
-  "rd": 310.2,
+  "rating": 1739.6,
+  "rd": 311.3,
   "matches": 8,
   "wins": 6,
-  "seed_factor": 0.019
+  "seed_factor": 0.018
  },
  {
   "rank": 96,
-  "team": "FlyQuest RED",
-  "team_id": "4ac11c02-1c6a-4b91-9ad7-2324cd776323",
-  "rating": 1732.8,
-  "rd": 178.1,
-  "matches": 36,
-  "wins": 17,
-  "seed_factor": 0.354
+  "team": "Crimson Vortex",
+  "team_id": "a98f9a0c-3cfa-47c8-ba91-2645285ef69a",
+  "rating": 1733.0,
+  "rd": 165.8,
+  "matches": 27,
+  "wins": 15,
+  "seed_factor": 0.15
  },
  {
   "rank": 97,
-  "team": "Crimson Vortex",
-  "team_id": "a98f9a0c-3cfa-47c8-ba91-2645285ef69a",
-  "rating": 1732.0,
-  "rd": 165.3,
-  "matches": 27,
-  "wins": 15,
-  "seed_factor": 0.151
+  "team": "FlyQuest RED",
+  "team_id": "4ac11c02-1c6a-4b91-9ad7-2324cd776323",
+  "rating": 1732.7,
+  "rd": 178.2,
+  "matches": 36,
+  "wins": 17,
+  "seed_factor": 0.353
  },
  {
   "rank": 98,
   "team": "Green Grove Retirement",
   "team_id": "80a83eb0-9e8a-4b41-9d88-c420f0bb746c",
-  "rating": 1728.2,
-  "rd": 236.0,
+  "rating": 1729.5,
+  "rd": 236.3,
   "matches": 9,
   "wins": 7,
   "seed_factor": 0.14
@@ -983,20 +983,20 @@
   "rank": 99,
   "team": "goofball gaming",
   "team_id": "bc2163da-b465-4ec7-b25b-a901c268e713",
-  "rating": 1719.9,
-  "rd": 152.0,
+  "rating": 1721.0,
+  "rd": 152.4,
   "matches": 29,
   "wins": 16,
-  "seed_factor": 0.205
+  "seed_factor": 0.204
  },
  {
   "rank": 100,
   "team": "Axial",
   "team_id": "d4de48f0-b65a-4843-82e3-1538f3eb4abe",
-  "rating": 1715.6,
-  "rd": 261.9,
+  "rating": 1716.3,
+  "rd": 262.0,
   "matches": 46,
   "wins": 18,
-  "seed_factor": 0.447
+  "seed_factor": 0.445
  }
 ]

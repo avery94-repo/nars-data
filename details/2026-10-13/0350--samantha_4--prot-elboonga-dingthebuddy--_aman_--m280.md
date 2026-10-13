@@ -3,15 +3,15 @@ Team Name: Samantha 4
 Roster: Prot, ElBoonga, DingTheBuddy, -_aman_-, m2803
 NARS Rank: 350 of 507
 
-Final Rating: 1177.1
-Seeded Start: 1258.6
-H2H Adjustment: -81.5
+Final Rating: 1177.2
+Seeded Start: 1258.4
+H2H Adjustment: -81.2
 
-Final Rating (1177.1) = Seeded Start (1258.6) + H2H Adjustment (-81.5)
+Final Rating (1177.2) = Seeded Start (1258.4) + H2H Adjustment (-81.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.113 x 1400 = 1258.6
+                = 1100 + 0.113 x 1400 = 1258.4
 
 seed_factor 0.113 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.345)
 
@@ -24,13 +24,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | WhiteBoyWinter | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -89.1 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
-| 2026-10-07 | Remnant | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +4.2 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
-| 2026-09-15 | Gloobers | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.11 | 1.00 | 1.11 | 0.00 | 0.00 | -160.6 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
-| 2026-09-12 | UncsStillGotIt | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.99 | 1.11 | 1.00 | 1.10 | 0.08 | 1.10 | +33.0 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
-| 2026-09-10 | muntos minions | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.09 | 0.04 | 1.09 | +99.0 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
-| 2026-09-08 | No pain No aim | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.04 | 1.07 | +86.6 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
-| 2026-09-06 | Purple Reign | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.06 | 0.04 | 1.06 | +142.8 | DingTheBuddy, ElBoonga, Prot, WALTUH, m2803 |
-| 2026-09-02 | Heavens Gate | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -197.4 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
+| 2026-10-09 | WhiteBoyWinter | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -88.9 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
+| 2026-10-07 | Remnant | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +4.1 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
+| 2026-09-15 | Gloobers | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.11 | 1.00 | 1.11 | 0.00 | 0.00 | -161.1 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
+| 2026-09-12 | UncsStillGotIt | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.99 | 1.11 | 1.00 | 1.10 | 0.08 | 1.10 | +33.2 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
+| 2026-09-10 | muntos minions | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.08 | 0.04 | 1.08 | +99.3 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
+| 2026-09-08 | No pain No aim | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.07 | 0.04 | 1.07 | +86.9 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
+| 2026-09-06 | Purple Reign | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.04 | 1.05 | +143.2 | DingTheBuddy, ElBoonga, Prot, WALTUH, m2803 |
+| 2026-09-02 | Heavens Gate | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.00 | 0.00 | -197.8 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_
