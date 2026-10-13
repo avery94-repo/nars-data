@@ -3,17 +3,17 @@ Team Name: Will of Dih
 Roster: LYSOLL17, Jianrui, renbeece, Meyer34, rockCS
 NARS Rank: 349 of 507
 
-Final Rating: 1178.1
-Seeded Start: 1190.6
-H2H Adjustment: -12.5
+Final Rating: 1178.3
+Seeded Start: 1191.2
+H2H Adjustment: -12.9
 
-Final Rating (1178.1) = Seeded Start (1190.6) + H2H Adjustment (-12.5)
+Final Rating (1178.3) = Seeded Start (1191.2) + H2H Adjustment (-12.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.065 x 1400 = 1190.6
+                = 1100 + 0.065 x 1400 = 1191.2
 
-seed_factor 0.065 = 0.25 x Tier Exposure (0.047) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.202)
+seed_factor 0.065 = 0.25 x Tier Exposure (0.047) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.203)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,15 +24,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | LAF | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -110.7 | Jianrui, LYSOLL17, Meyer34, Spartan6o6, rockCS |
-| 2026-09-09 | Monstars | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.03 | 0.97 | +97.8 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
-| 2026-09-07 | BANANA PASTE | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -173.1 | Jianrui, Meyer34, Spartan6o6, renbeece, rockCS |
+| 2026-09-10 | LAF | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -110.3 | Jianrui, LYSOLL17, Meyer34, Spartan6o6, rockCS |
+| 2026-09-09 | Monstars | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.03 | 0.97 | +97.4 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
+| 2026-09-07 | BANANA PASTE | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -172.5 | Jianrui, Meyer34, Spartan6o6, renbeece, rockCS |
 | 2026-09-04 | The Wizards | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +14.0 | Jianrui, Meyer34, Spartan6o6, renbeece, rockCS |
-| 2026-09-02 | Brobies | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -359.6 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
-| 2026-06-10 | Conduit eSports | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -148.8 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
-| 2026-06-05 | Cheek Clappers | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.33 | +144.4 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
-| 2026-06-03 | Greasy Grumps | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.01 | 0.32 | +171.9 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
-| 2026-05-29 | FriendlyFire | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +175.7 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
-| 2026-05-27 | Super Puggers | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +175.8 | Jianrui, Meyer34, ligmah, renbeece, rockCS |
+| 2026-09-02 | Brobies | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -358.9 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
+| 2026-06-10 | Conduit eSports | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -147.8 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
+| 2026-06-05 | Cheek Clappers | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.33 | +143.7 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
+| 2026-06-03 | Greasy Grumps | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.01 | 0.32 | +171.1 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
+| 2026-05-29 | FriendlyFire | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.29 | +175.0 | Jianrui, LYSOLL17, Meyer34, renbeece, rockCS |
+| 2026-05-27 | Super Puggers | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +175.3 | Jianrui, Meyer34, ligmah, renbeece, rockCS |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

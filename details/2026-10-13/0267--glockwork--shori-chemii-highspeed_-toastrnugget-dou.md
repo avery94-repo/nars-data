@@ -3,15 +3,15 @@ Team Name: Glockwork
 Roster: shori, chemii, Highspeed_, Toastrnugget, DoubleSb
 NARS Rank: 267 of 507
 
-Final Rating: 1352.7
-Seeded Start: 1184.3
-H2H Adjustment: +168.4
+Final Rating: 1352.4
+Seeded Start: 1184.6
+H2H Adjustment: +167.8
 
-Final Rating (1352.7) = Seeded Start (1184.3) + H2H Adjustment (+168.4)
+Final Rating (1352.4) = Seeded Start (1184.6) + H2H Adjustment (+167.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.060 x 1400 = 1184.3
+                = 1100 + 0.060 x 1400 = 1184.6
 
 seed_factor 0.060 = 0.25 x Tier Exposure (0.044) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.185)
 
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-11 | Lesotho Space Force | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -96.2 | Afhron, Highspeed_, Toastrnugget, chemii, shori |
-| 2026-09-09 | Team Neighbor | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.03 | 0.97 | +147.6 | Afhron, Highspeed_, Toastrnugget, chemii, shori |
-| 2026-09-06 | Cult Academy | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.04 | 0.95 | +131.3 | Afhron, Highspeed_, Toastrnugget, chemii, shori |
-| 2026-09-02 | Titan | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +223.6 | Afhron, Highspeed_, Toastrnugget, chemii, shori |
-| 2026-05-27 | The Not Unemployed | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -237.8 | Afhron, DoubleSb, Toastrnugget, chemii, shori |
+| 2026-09-11 | Lesotho Space Force | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -95.9 | Afhron, Highspeed_, Toastrnugget, chemii, shori |
+| 2026-09-09 | Team Neighbor | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.03 | 0.97 | +147.1 | Afhron, Highspeed_, Toastrnugget, chemii, shori |
+| 2026-09-06 | Cult Academy | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.04 | 0.95 | +130.9 | Afhron, Highspeed_, Toastrnugget, chemii, shori |
+| 2026-09-02 | Titan | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +223.0 | Afhron, Highspeed_, Toastrnugget, chemii, shori |
+| 2026-05-27 | The Not Unemployed | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -237.4 | Afhron, DoubleSb, Toastrnugget, chemii, shori |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_
