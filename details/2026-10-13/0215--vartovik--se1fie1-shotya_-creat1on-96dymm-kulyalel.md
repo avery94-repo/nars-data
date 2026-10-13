@@ -3,11 +3,11 @@ Team Name: VARTOVIK
 Roster: se1fie1, shotya_, creat1on, 96dymm, kulyalele
 NARS Rank: 215 of 503
 
-Final Rating: 1467.7
+Final Rating: 1468.2
 Seeded Start: 1278.4
-H2H Adjustment: +190.1
+H2H Adjustment: +189.8
 
-Final Rating (1467.7) = Seeded Start (1278.4) + H2H Adjustment (+190.1)
+Final Rating (1468.2) = Seeded Start (1278.4) + H2H Adjustment (+189.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,8 +25,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Alternate Earth | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -106.3 | 96dymm, Zaoro, creat1on, lighter999, shotya_ |
-| 2026-10-07 | Brobies | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +56.5 | 96dymm, lighter999, se1fie1, shotya_, t1redless |
-| 2026-09-17 | AscendentEsport | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -54.6 | -f1Z, 96dymm, Zaoro, se1fie1, shotya_ |
+| 2026-10-07 | Brobies | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +56.6 | 96dymm, lighter999, se1fie1, shotya_, t1redless |
+| 2026-09-17 | AscendentEsport | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -55.1 | -f1Z, 96dymm, Zaoro, se1fie1, shotya_ |
 | 2026-09-15 | deez | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.13 | 1.00 | +60.0 | -f1Z, 96dymm, Zaoro, se1fie1, shotya_ |
 | 2026-09-08 | fih hou | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -139.0 | -f1Z, 96dymm, Zaoro, kulyalele, se1fie1, shotya_ |
 | 2026-09-06 | KIS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.11 | 0.95 | +103.8 | -f1Z, 96dymm, Zaoro, kulyalele, se1fie1 |

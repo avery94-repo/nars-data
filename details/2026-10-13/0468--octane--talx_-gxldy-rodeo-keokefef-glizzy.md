@@ -3,11 +3,11 @@ Team Name: Octane
 Roster: talx_, Gxldy, Rodeo, Keokefef, glizzy
 NARS Rank: 468 of 503
 
-Final Rating: 838.6
+Final Rating: 839.3
 Seeded Start: 1132.3
 H2H Adjustment: -293.0
 
-Final Rating (838.6) = Seeded Start (1132.3) + H2H Adjustment (-293.0)
+Final Rating (839.3) = Seeded Start (1132.3) + H2H Adjustment (-293.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

@@ -3,11 +3,11 @@ Team Name: The Kerbins
 Roster: SKiiYii, -pen, Ajikanfan43, Salmon180, sA_
 NARS Rank: 246 of 503
 
-Final Rating: 1414.3
+Final Rating: 1414.0
 Seeded Start: 1222.6
 H2H Adjustment: +191.4
 
-Final Rating (1414.3) = Seeded Start (1222.6) + H2H Adjustment (+191.4)
+Final Rating (1414.0) = Seeded Start (1222.6) + H2H Adjustment (+191.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Defaulting | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -159.2 | -pen, Ajikanfan43, Salmon180, biel, sA_ |
+| 2026-10-09 | Defaulting | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -159.3 | -pen, Ajikanfan43, Salmon180, biel, sA_ |
 | 2026-09-18 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -44.7 | -pen, -reek, Ajikanfan43, SKiiYii, keek-, sA_ |
 | 2026-09-10 | feet67 | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.00 | 0.00 | -112.3 | -pen, Ajikanfan43, SKiiYii, Salmon180, sA_ |
-| 2026-09-08 | Drip or Drown | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.18 | 0.99 | +242.9 | -pen, Ajikanfan43, SKiiYii, Salmon180, keek-, sA_ |
+| 2026-09-08 | Drip or Drown | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.18 | 0.99 | +243.0 | -pen, Ajikanfan43, SKiiYii, Salmon180, keek-, sA_ |
 | 2026-09-04 | Team Canada CS2 | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.05 | 0.96 | +122.4 | -pen, Ajikanfan43, SKiiYii, Salmon180, keek-, sA_ |
 | 2026-09-02 | Against Odds | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.05 | 0.95 | +142.4 | -pen, Ajikanfan43, SKiiYii, Salmon180, sA_ |
 

@@ -3,11 +3,11 @@ Team Name: Toomers
 Roster: c0w__b0y, Qooky-, xdBlakeeee, Tbonelul, Silveraa
 NARS Rank: 94 of 503
 
-Final Rating: 1752.2
+Final Rating: 1751.5
 Seeded Start: 1251.3
 H2H Adjustment: +500.2 (capped at +-300, raw +500.1)
 
-Final Rating (1752.2) = Seeded Start (1251.3) + H2H Adjustment (+500.2)
+Final Rating (1751.5) = Seeded Start (1251.3) + H2H Adjustment (+500.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

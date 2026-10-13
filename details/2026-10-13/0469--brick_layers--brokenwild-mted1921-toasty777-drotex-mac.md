@@ -5,9 +5,9 @@ NARS Rank: 469 of 503
 
 Final Rating: 825.1
 Seeded Start: 1106.0
-H2H Adjustment: -276.7
+H2H Adjustment: -280.9
 
-Final Rating (825.1) = Seeded Start (1106.0) + H2H Adjustment (-276.7)
+Final Rating (825.1) = Seeded Start (1106.0) + H2H Adjustment (-280.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,8 +24,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-20 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.00 | -230.4 | BrokenWild, Drotex, Famweboolin, macchiata, mted1921 |
-| 2026-05-15 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -7.7 | BrokenWild, Drotex, Tad_s, Toasty777, mted1921 |
+| 2026-05-20 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.00 | -234.0 | BrokenWild, Drotex, Famweboolin, macchiata, mted1921 |
+| 2026-05-15 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -8.3 | BrokenWild, Drotex, Tad_s, Toasty777, mted1921 |
 | 2026-05-08 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.15 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -27.8 | BrokenWild, Drotex, Famweboolin, Toasty777, mted1921 |
 | 2026-05-06 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -191.6 | BrokenWild, Drotex, Famweboolin, Toasty777, macchiata |
 | 2026-05-01 | Akatsuki | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -5.5 | -extraa, BrokenWild, Drotex, Toasty777, mted1921 |

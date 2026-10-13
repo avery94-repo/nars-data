@@ -3,11 +3,11 @@ Team Name: GOBLINS
 Roster: egaK, Redman_-, 1icarus, Zaakaa, 1citron
 NARS Rank: 194 of 503
 
-Final Rating: 1511.8
+Final Rating: 1512.3
 Seeded Start: 1203.9
 H2H Adjustment: +308.4
 
-Final Rating (1511.8) = Seeded Start (1203.9) + H2H Adjustment (+308.4)
+Final Rating (1512.3) = Seeded Start (1203.9) + H2H Adjustment (+308.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

@@ -3,11 +3,11 @@ Team Name: Festina Lente
 Roster: gamble, JonjiJLC, Fruitcupx, FRIZZY, Maxuel
 NARS Rank: 28 of 503
 
-Final Rating: 2043.5
+Final Rating: 2042.1
 Seeded Start: 1144.1
 H2H Adjustment: +898.0
 
-Final Rating (2043.5) = Seeded Start (1144.1) + H2H Adjustment (+898.0)
+Final Rating (2042.1) = Seeded Start (1144.1) + H2H Adjustment (+898.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

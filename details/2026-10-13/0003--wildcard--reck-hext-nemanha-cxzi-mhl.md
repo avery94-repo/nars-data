@@ -5,9 +5,9 @@ NARS Rank: 3 of 503
 
 Final Rating: 2901.3
 Seeded Start: 2243.7
-H2H Adjustment: +657.5
+H2H Adjustment: +657.6
 
-Final Rating (2901.3) = Seeded Start (2243.7) + H2H Adjustment (+657.5)
+Final Rating (2901.3) = Seeded Start (2243.7) + H2H Adjustment (+657.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,9 +24,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-12 | DENDELE | L | 3-2 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.00 | 0.00 | -47.5 | core 3/5 |
+| 2026-10-12 | DENDELE | L | 3-2 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.00 | 0.00 | -47.6 | core 3/5 |
 | 2026-10-11 | DENDELE | W | 2-0 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 2.88 | 0.00 | +49.3 | core 3/5 |
-| 2026-10-10 | NRG | W | 16-12 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 1.92 | 0.00 | +64.2 | core 3/5 |
+| 2026-10-10 | NRG | W | 16-12 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 1.92 | 0.00 | +64.3 | core 3/5 |
 | 2026-10-10 | Last Dance US | W | 13-5 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 1.44 | 0.00 | +0.1 | core 3/5 |
 | 2026-10-03 | INFINITE | L |  | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -34.4 | core 3/5 |
 | 2026-10-03 | EAC | W |  | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.07 | 0.00 | +8.9 | core 3/5 |
@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-25 | Chicken Coop | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 1.60 | +0.0 | core 3/5 |
 | 2026-09-25 | NRG | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -30.1 | core 3/5 |
 | 2026-09-25 | Chicken Coop | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 0.00 | +0.0 | core 3/5 |
-| 2026-09-25 | NRG | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -23.2 | core 3/5 |
+| 2026-09-25 | NRG | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -23.1 | core 3/5 |
 | 2026-09-12 | BBL | L |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.59 | 0.00 | 0.00 | -100.7 | core 3/5 |
 | 2026-09-11 | NEMESIS | W |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.58 | 2.37 | 0.00 | +156.1 | core 3/5 |
 | 2026-09-10 | EYEBALLERS | W |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 2.35 | 0.00 | +241.7 | core 3/5 |
@@ -58,8 +58,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-03 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.18 | 0.00 | 0.00 | -221.8 | core 3/5 |
 | 2026-05-03 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.18 | 0.00 | 0.00 | -5.0 | core 3/5 |
 | 2026-05-03 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.18 | 0.00 | 0.00 | -28.6 | core 3/5 |
-| 2026-05-03 | EX-AETHER | W |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.18 | 0.15 | 0.00 | +169.6 | core 3/5 |
-| 2026-05-01 | Voca | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.15 | 0.16 | +133.4 | core 3/5 |
+| 2026-05-03 | EX-AETHER | W |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.18 | 0.15 | 0.00 | +169.5 | core 3/5 |
+| 2026-05-01 | Voca | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.15 | 0.16 | +133.3 | core 3/5 |
 | 2026-05-01 | Voca | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.15 | 0.00 | +15.1 | core 3/5 |
 | 2026-05-01 | FarmVille | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.14 | 0.16 | +0.5 | core 3/5 |
 | 2026-04-29 | FarmVille | W |  | VRS-tracked 2026-04 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.12 | 0.00 | +2.3 | core 3/5 |

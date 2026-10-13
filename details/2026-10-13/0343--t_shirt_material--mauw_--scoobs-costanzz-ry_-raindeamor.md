@@ -3,11 +3,11 @@ Team Name: T Shirt Material
 Roster: Mauw_, -scoobs, CoStanzz, Ry_, Raindeamor
 NARS Rank: 343 of 503
 
-Final Rating: 1209.1
+Final Rating: 1209.5
 Seeded Start: 1185.1
 H2H Adjustment: +24.4
 
-Final Rating (1209.1) = Seeded Start (1185.1) + H2H Adjustment (+24.4)
+Final Rating (1209.5) = Seeded Start (1185.1) + H2H Adjustment (+24.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

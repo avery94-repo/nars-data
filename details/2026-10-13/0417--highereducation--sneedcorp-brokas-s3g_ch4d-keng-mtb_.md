@@ -3,11 +3,11 @@ Team Name: HigherEducation
 Roster: SneedCorp, Brokas, S3G_CH4D, Keng, MtB_
 NARS Rank: 417 of 503
 
-Final Rating: 1032.7
+Final Rating: 1033.3
 Seeded Start: 1141.7
-H2H Adjustment: -108.5
+H2H Adjustment: -108.4
 
-Final Rating (1032.7) = Seeded Start (1141.7) + H2H Adjustment (-108.5)
+Final Rating (1033.3) = Seeded Start (1141.7) + H2H Adjustment (-108.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

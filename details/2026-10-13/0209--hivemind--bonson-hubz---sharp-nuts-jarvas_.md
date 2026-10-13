@@ -3,11 +3,11 @@ Team Name: HiveMind
 Roster: Bonson, Hubz-, -sharp, nuts, jaRvas_
 NARS Rank: 209 of 503
 
-Final Rating: 1478.4
+Final Rating: 1479.0
 Seeded Start: 1305.3
-H2H Adjustment: +173.5
+H2H Adjustment: +173.7
 
-Final Rating (1478.4) = Seeded Start (1305.3) + H2H Adjustment (+173.5)
+Final Rating (1479.0) = Seeded Start (1305.3) + H2H Adjustment (+173.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,14 +24,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-27 | COGNITIVE | L | 0-1 | NA Revival | C | faceit-tournament | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -161.1 | Bonson, Bwodee, Hubz-, jaRvas_, nuts |
+| 2026-09-27 | COGNITIVE | L | 0-1 | NA Revival | C | faceit-tournament | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -161.2 | Bonson, Bwodee, Hubz-, jaRvas_, nuts |
 | 2026-08-19 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.10 | 0.83 | +90.5 | -Verse-, Hubz-, b4m, jaRvas_, nuts |
 | 2026-08-14 | The Ohio Meat Wagon | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.11 | 0.80 | +66.6 | -Verse-, Hubz-, b4m, jaRvas_, nuts |
 | 2026-08-12 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -90.7 | -Verse-, Bonson, b4m, jaRvas_, nuts |
-| 2026-08-07 | walkthemdown | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -187.0 | -Verse-, Bonson, b4m, jaRvas_, nuts |
-| 2026-08-05 | Sharp | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.09 | 0.74 | +105.1 | -Verse-, Bonson, b4m, jaRvas_, nuts |
-| 2026-07-31 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -236.4 | -Verse-, Hubz-, b4m, jaRvas_, nuts |
-| 2026-07-29 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.14 | 0.69 | +0.3 | -Verse-, Bonson, b4m, jaRvas_, nuts |
+| 2026-08-07 | walkthemdown | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -186.7 | -Verse-, Bonson, b4m, jaRvas_, nuts |
+| 2026-08-05 | Sharp | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.09 | 0.74 | +105.0 | -Verse-, Bonson, b4m, jaRvas_, nuts |
+| 2026-07-31 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -236.3 | -Verse-, Hubz-, b4m, jaRvas_, nuts |
+| 2026-07-29 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.14 | 0.69 | +0.4 | -Verse-, Bonson, b4m, jaRvas_, nuts |
 | 2026-07-24 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.12 | 0.66 | +190.0 | -Verse-, Bonson, GUNTURI, jaRvas_, nuts |
 | 2026-07-22 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.08 | 0.65 | +235.5 | -Verse-, Bonson, Hubz-, jaRvas_, nuts |
 | 2026-07-15 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.06 | 0.60 | +153.9 | -Verse-, Hubz-, b4m, jaRvas_, nuts |

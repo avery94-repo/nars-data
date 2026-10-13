@@ -3,11 +3,11 @@ Team Name: Kushtaka
 Roster: JoNeSY, Nat3G, Kiki76, asmodeus, l0vely
 NARS Rank: 474 of 503
 
-Final Rating: 785.3
+Final Rating: 790.9
 Seeded Start: 1132.3
-H2H Adjustment: -342.2 (capped at +-300, raw -342.1)
+H2H Adjustment: -341.4 (capped at +-300, raw -341.3)
 
-Final Rating (785.3) = Seeded Start (1132.3) + H2H Adjustment (-342.2)
+Final Rating (790.9) = Seeded Start (1132.3) + H2H Adjustment (-341.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,10 +26,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-17 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -0.1 | Kiki76, MAINESTREAM, Nat3G, asmodeus, surreaI |
 | 2026-07-15 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -2.1 | Kiki76, MAINESTREAM, Nat3G, asmodeus, l0vely |
-| 2026-05-29 | AURA Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -43.8 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
-| 2026-05-27 | de_throne | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -33.9 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
-| 2026-05-22 | offBalance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -341.4 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
-| 2026-05-13 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.03 | 0.18 | +383.9 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
+| 2026-05-29 | AURA Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -44.0 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
+| 2026-05-27 | de_throne | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -33.3 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
+| 2026-05-22 | offBalance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -341.6 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
+| 2026-05-13 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.03 | 0.18 | +384.6 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 | 2026-05-08 | Aetheris | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.15 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -377.5 | JoNeSY, Kiki76, Suki_Noski, asmodeus, l0vely |
 | 2026-05-06 | Hack-A-Shaq | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.01 | 0.13 | +324.8 | JoNeSY, Kiki76, Suki_Noski, asmodeus, l0vely |
 | 2026-05-01 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -354.0 | JoNeSY, Nat3G, Suki_Noski, asmodeus, l0vely |

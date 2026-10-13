@@ -3,11 +3,11 @@ Team Name: Scrimless
 Roster: Ethan_G, h0NEYz, TheMayor, bird____, Artaxian
 NARS Rank: 503 of 503
 
-Final Rating: 284.1
+Final Rating: 274.0
 Seeded Start: 1108.7
-H2H Adjustment: -834.6
+H2H Adjustment: -834.7
 
-Final Rating (284.1) = Seeded Start (1108.7) + H2H Adjustment (-834.6)
+Final Rating (274.0) = Seeded Start (1108.7) + H2H Adjustment (-834.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Wealth Reduction | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -18.7 | Artaxian, TheMayor, Werydan1, bird____, h0NEYz |
-| 2026-05-20 | Courage | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -290.8 | Artaxian, TheMayor, Werydan1, bird____, h0NEYz |
-| 2026-05-14 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -5.4 | Artaxian, Ethan_G, TheMayor, bird____, h0NEYz |
-| 2026-05-13 | gooshedd | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.00 | -126.6 | Artaxian, TheMayor, aidanxi, bird____, h0NEYz |
-| 2026-05-08 | TEMPR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.17 | 0.00 | 0.00 | -111.3 | Artaxian, Ethan_G, TheMayor, bird____, h0NEYz |
+| 2026-05-22 | Wealth Reduction | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -17.8 | Artaxian, TheMayor, Werydan1, bird____, h0NEYz |
+| 2026-05-20 | Courage | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -290.0 | Artaxian, TheMayor, Werydan1, bird____, h0NEYz |
+| 2026-05-14 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -5.3 | Artaxian, Ethan_G, TheMayor, bird____, h0NEYz |
+| 2026-05-13 | gooshedd | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.00 | -128.5 | Artaxian, TheMayor, aidanxi, bird____, h0NEYz |
+| 2026-05-08 | TEMPR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.17 | 0.00 | 0.00 | -111.4 | Artaxian, Ethan_G, TheMayor, bird____, h0NEYz |
 | 2026-05-06 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -54.8 | Artaxian, Ethan_G, TheMayor, bird____, h0NEYz |
 | 2026-05-01 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.01 | 0.12 | +217.5 | Artaxian, Ethan_G, TheMayor, bird____, h0NEYz |
 | 2026-04-24 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -219.3 | Ethan_G, TheMayor, Werydan1, bird____, h0NEYz |

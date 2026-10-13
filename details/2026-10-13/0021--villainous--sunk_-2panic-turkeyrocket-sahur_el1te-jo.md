@@ -3,15 +3,15 @@ Team Name: Villainous
 Roster: Sunk_, 2Panic, turkeyrocket, SAHUR_EL1TE, Jolts
 NARS Rank: 21 of 503
 
-Final Rating: 2137.8
-Seeded Start: 1961.3
-H2H Adjustment: +174.2
+Final Rating: 2135.8
+Seeded Start: 1961.4
+H2H Adjustment: +174.4
 
-Final Rating (2137.8) = Seeded Start (1961.3) + H2H Adjustment (+174.2)
+Final Rating (2135.8) = Seeded Start (1961.4) + H2H Adjustment (+174.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.615 x 1400 = 1961.3
+                = 1100 + 0.615 x 1400 = 1961.4
 
 seed_factor 0.615 = 0.25 x Tier Exposure (0.526) + 0.50 x Quality Wins (0.534) + 0.25 x Opponent Network (0.866)
 
@@ -34,21 +34,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Overtake Sector | L |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -3.1 | 1bright, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-09-06 | FarmVille | L | 1-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -29.8 | 1bright, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-09-05 | Chicken Coop | W |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.52 | 1.52 | 0.00 | +26.6 | 1bright, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-09-05 | Overtake Sector | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -17.7 | 1bright, Jolts, SAHUR_EL1TE, Sunk_, relt |
+| 2026-09-05 | Overtake Sector | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -17.6 | 1bright, Jolts, SAHUR_EL1TE, Sunk_, relt |
 | 2026-09-04 | Wanted Goons | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.50 | 0.00 | 0.00 | -62.5 | 1bright, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-08-21 | Chicken Coop | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.44 | 1.00 | 1.22 | 1.22 | 1.22 | +44.2 | Jolts, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
-| 2026-08-19 | NZ Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.44 | 1.00 | 1.20 | 0.20 | 1.20 | +49.2 | Jolts, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
+| 2026-08-19 | NZ Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.44 | 1.00 | 1.20 | 0.20 | 1.20 | +49.3 | Jolts, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-08-18 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.44 | 1.00 | 1.19 | 0.00 | 0.00 | -158.0 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-08-16 | NuTorious | L | 1-2 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.82 | 1.47 | 1.00 | 1.20 | 0.00 | 0.00 | -122.3 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-08-15 | Skyline | W | 2-0 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.81 | 1.47 | 1.00 | 1.19 | 0.58 | 1.19 | +18.1 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-08-13 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.44 | 1.00 | 1.15 | 0.20 | 1.15 | +65.1 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-08-15 | Skyline | W | 2-0 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.81 | 1.47 | 1.00 | 1.19 | 0.58 | 1.19 | +17.9 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-08-13 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.44 | 1.00 | 1.15 | 0.20 | 1.15 | +65.2 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-08-12 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.44 | 1.00 | 1.14 | 0.27 | 1.14 | +0.8 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-08-07 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.44 | 1.00 | 1.09 | 0.69 | 1.09 | +6.6 | Jolts, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-07-31 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.44 | 1.00 | 1.02 | 0.26 | 1.02 | +0.1 | Jolts, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
-| 2026-07-29 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.44 | 1.00 | 1.00 | 0.00 | 0.00 | -222.7 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-07-24 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.44 | 1.00 | 0.95 | 0.00 | 0.00 | -137.3 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-07-22 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.44 | 1.00 | 0.93 | 0.55 | 0.93 | +29.1 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-07-17 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.44 | 1.00 | 0.89 | 0.17 | 0.89 | +151.4 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-07-29 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.44 | 1.00 | 1.00 | 0.00 | 0.00 | -222.8 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-07-24 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.44 | 1.00 | 0.95 | 0.00 | 0.00 | -137.2 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-07-22 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.44 | 1.00 | 0.93 | 0.55 | 0.93 | +29.0 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-07-17 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.44 | 1.00 | 0.89 | 0.17 | 0.89 | +151.8 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-06-09 | Brahmas | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.47 | 1.00 | 0.53 | 0.11 | 0.53 | +283.0 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-06-04 | Beyond Limits | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.33 | 1.47 | 1.00 | 0.48 | 0.33 | 0.48 | +230.6 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-05-21 | New Legends | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.31 | 1.00 | 0.31 | 0.18 | 0.31 | +72.6 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |

@@ -3,11 +3,11 @@ Team Name: Whiff City
 Roster: mROD-, Ziggy98, -jez-, BobbyJ, RJR
 NARS Rank: 66 of 503
 
-Final Rating: 1828.9
+Final Rating: 1827.9
 Seeded Start: 1277.4
-H2H Adjustment: +550.4
+H2H Adjustment: +550.5 (capped at +-300, raw +550.4)
 
-Final Rating (1828.9) = Seeded Start (1277.4) + H2H Adjustment (+550.4)
+Final Rating (1827.9) = Seeded Start (1277.4) + H2H Adjustment (+550.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

@@ -3,15 +3,15 @@ Team Name: raisedbypixels
 Roster: soulsurvivor, Interrobang, abp, atyla, 1bright
 NARS Rank: 24 of 503
 
-Final Rating: 2069.5
-Seeded Start: 1179.2
-H2H Adjustment: +890.7
+Final Rating: 2070.0
+Seeded Start: 1179.3
+H2H Adjustment: +890.7 (capped at +-300, raw +890.8)
 
-Final Rating (2069.5) = Seeded Start (1179.2) + H2H Adjustment (+890.7)
+Final Rating (2070.0) = Seeded Start (1179.3) + H2H Adjustment (+890.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.057 x 1400 = 1179.2
+                = 1100 + 0.057 x 1400 = 1179.3
 
 seed_factor 0.057 = 0.25 x Tier Exposure (0.046) + 0.50 x Quality Wins (0.038) + 0.25 x Opponent Network (0.103)
 
@@ -31,9 +31,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-14 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.19 | 1.31 | 1.00 | 0.24 | 0.00 | 0.00 | -223.5 | 1bright, Interrobang, abp, atyla, soulsurvivor |
 | 2026-05-12 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.31 | 1.00 | 0.23 | 0.04 | 0.23 | +32.1 | 1bright, Interrobang, abp, atyla, soulsurvivor |
 | 2026-05-05 | Beyond Limits | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.31 | 1.00 | 0.17 | 0.11 | 0.17 | +401.7 | 1bright, Interrobang, abp, atyla, soulsurvivor |
-| 2026-04-28 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.31 | 1.00 | 0.11 | 0.03 | 0.11 | +387.3 | Interrobang, abp, atyla, soulsurvivor, soulsurvivor |
+| 2026-04-28 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.31 | 1.00 | 0.11 | 0.03 | 0.11 | +387.4 | Interrobang, abp, atyla, soulsurvivor, soulsurvivor |
 | 2026-04-27 | girl kissers | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.31 | 1.00 | 0.10 | 0.00 | 0.10 | +63.4 | Interrobang, abp, atyla, soulsurvivor, soulsurvivor |
-| 2026-04-24 | Desi Boyz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.31 | 1.00 | 0.07 | 0.00 | 0.00 | -20.9 | 1bright, Interrobang, atyla, soulsurvivor, yawnnn |
+| 2026-04-24 | Desi Boyz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.31 | 1.00 | 0.07 | 0.00 | 0.00 | -20.8 | 1bright, Interrobang, atyla, soulsurvivor, yawnnn |
 | 2026-04-16 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.00 | 1.31 | 1.00 | 0.00 | 0.00 | 0.00 | -1.0 | 1bright, Interrobang, atyla, soulsurvivor, yawnnn |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

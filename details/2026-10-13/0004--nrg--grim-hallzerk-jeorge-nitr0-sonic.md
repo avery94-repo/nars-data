@@ -3,11 +3,11 @@ Team Name: NRG
 Roster: Grim, hallzerk, Jeorge, nitr0, Sonic
 NARS Rank: 4 of 503
 
-Final Rating: 2781.2
+Final Rating: 2781.1
 Seeded Start: 2384.4
-H2H Adjustment: +396.6
+H2H Adjustment: +396.7
 
-Final Rating (2781.2) = Seeded Start (2384.4) + H2H Adjustment (+396.6)
+Final Rating (2781.1) = Seeded Start (2384.4) + H2H Adjustment (+396.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-10 | Unreal Nightmare | W | 13-6 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.96 | 0.00 | +0.0 | core 3/5 |
 | 2026-09-26 | Wildcard | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -43.3 | core 3/5 |
 | 2026-09-26 | Wildcard | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -30.1 | core 3/5 |
-| 2026-09-25 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -45.0 | core 3/5 |
+| 2026-09-25 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -45.1 | core 3/5 |
 | 2026-09-25 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -32.3 | core 3/5 |
 | 2026-09-25 | Wildcard | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 1.60 | +29.8 | core 3/5 |
 | 2026-09-25 | Wildcard | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 0.00 | +23.1 | core 3/5 |
@@ -39,22 +39,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-17 | MOUZ | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.40 | 0.00 | +158.9 | core 3/5 |
 | 2026-09-12 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.59 | 0.00 | 0.00 | -160.1 | core 3/5 |
 | 2026-09-12 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.59 | 0.00 | 0.00 | -77.6 | core 3/5 |
-| 2026-09-11 | Liquid | W |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.58 | 1.58 | 1.58 | +134.9 | core 3/5 |
+| 2026-09-11 | Liquid | W |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.58 | 1.58 | 1.58 | +134.8 | core 3/5 |
 | 2026-09-11 | Liquid | W |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.58 | 1.58 | 0.00 | +44.5 | core 3/5 |
 | 2026-09-10 | Voca | W |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 1.51 | 1.57 | +141.1 | core 3/5 |
 | 2026-09-10 | Voca | W |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 1.51 | 0.00 | +44.4 | core 3/5 |
 | 2026-09-09 | Without a Roof | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 1.56 | 1.56 | +11.4 | core 3/5 |
-| 2026-08-09 | PHANTOM | L |  | VRS-tracked 2026-08 | A | vrs | 0.77 | 1.60 | 1.00 | 1.23 | 0.00 | 0.00 | -133.2 | core 3/5 |
-| 2026-08-08 | ACEND | W |  | VRS-tracked 2026-08 | A | vrs | 0.76 | 1.60 | 1.00 | 1.22 | 1.82 | 0.00 | +55.4 | core 3/5 |
+| 2026-08-09 | PHANTOM | L |  | VRS-tracked 2026-08 | A | vrs | 0.77 | 1.60 | 1.00 | 1.23 | 0.00 | 0.00 | -133.3 | core 3/5 |
+| 2026-08-08 | ACEND | W |  | VRS-tracked 2026-08 | A | vrs | 0.76 | 1.60 | 1.00 | 1.22 | 1.82 | 0.00 | +55.3 | core 3/5 |
 | 2026-08-07 | SPIRIT HU | W |  | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.21 | 0.66 | 0.00 | +0.0 | core 3/5 |
 | 2026-08-02 | Voca | W |  | VRS-tracked 2026-08 | A | vrs | 0.72 | 1.60 | 1.00 | 1.15 | 1.11 | 0.00 | +179.6 | core 3/5 |
 | 2026-08-02 | SportsBetExpert | W |  | VRS-tracked 2026-08 | A | vrs | 0.72 | 1.60 | 1.00 | 1.15 | 0.88 | 1.15 | +65.3 | core 3/5 |
 | 2026-08-02 | Voca | W |  | VRS-tracked 2026-08 | A | vrs | 0.72 | 1.60 | 1.00 | 1.15 | 1.11 | 0.00 | +75.3 | core 3/5 |
 | 2026-08-01 | Voca | L |  | VRS-tracked 2026-08 | A | vrs | 0.71 | 1.60 | 1.00 | 1.14 | 0.00 | 0.00 | -121.0 | core 3/5 |
 | 2026-08-01 | Voca | L |  | VRS-tracked 2026-08 | A | vrs | 0.71 | 1.60 | 1.00 | 1.14 | 0.00 | 0.00 | -34.3 | core 3/5 |
-| 2026-07-29 | Marsborne | W |  | VRS-tracked 2026-07 | A | vrs | 0.69 | 1.60 | 1.00 | 1.11 | 1.11 | 1.11 | +137.7 | core 3/5 |
+| 2026-07-29 | Marsborne | W |  | VRS-tracked 2026-07 | A | vrs | 0.69 | 1.60 | 1.00 | 1.11 | 1.11 | 1.11 | +138.0 | core 3/5 |
 | 2026-07-28 | Iowa Stormboar | W |  | VRS-tracked 2026-07 | A | vrs | 0.69 | 1.60 | 1.00 | 1.10 | 0.35 | 1.10 | +0.9 | core 3/5 |
-| 2026-07-12 | SportsBetExpert | W |  | VRS-tracked 2026-07 | A | vrs | 0.58 | 1.60 | 1.00 | 0.93 | 0.71 | 0.00 | +29.3 | core 3/5 |
+| 2026-07-12 | SportsBetExpert | W |  | VRS-tracked 2026-07 | A | vrs | 0.58 | 1.60 | 1.00 | 0.93 | 0.71 | 0.00 | +29.4 | core 3/5 |
 | 2026-07-12 | NUTORIOUS | W |  | VRS-tracked 2026-07 | A | vrs | 0.58 | 1.60 | 1.00 | 0.93 | 0.70 | 0.00 | +12.9 | core 3/5 |
 | 2026-07-12 | EH | W |  | VRS-tracked 2026-07 | A | vrs | 0.58 | 1.60 | 1.00 | 0.93 | 0.70 | 0.00 | +9.9 | core 3/5 |
 | 2026-06-05 | BIG | L |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.53 | 0.00 | 0.00 | -227.0 | core 3/5 |

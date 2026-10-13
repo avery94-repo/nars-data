@@ -3,11 +3,11 @@ Team Name: Boop Boop Gang
 Roster: tdb, Jtearz, ezdoe, yob, SWEARNGJONNY
 NARS Rank: 340 of 503
 
-Final Rating: 1215.2
+Final Rating: 1215.9
 Seeded Start: 1188.6
-H2H Adjustment: +27.2
+H2H Adjustment: +27.3
 
-Final Rating (1215.2) = Seeded Start (1188.6) + H2H Adjustment (+27.2)
+Final Rating (1215.9) = Seeded Start (1188.6) + H2H Adjustment (+27.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | Fire Nation | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -4.2 | Chrjs0, HalterN, Jtearz, SWEARNGJONNY, yob |
-| 2026-09-10 | APEX | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.00 | 0.00 | -86.7 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, yob |
+| 2026-09-10 | APEX | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.00 | 0.00 | -86.6 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, yob |
 | 2026-09-06 | Team GREAT | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.95 | 1.02 | 1.00 | 0.97 | 0.00 | 0.00 | -120.5 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, tdb |
 | 2026-09-02 | GameBangers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.05 | 0.95 | +109.9 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
 | 2026-06-12 | Praise Jame | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.00 | -141.8 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, tdb |

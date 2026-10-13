@@ -3,15 +3,15 @@ Team Name: LAG Gaming
 Roster: bwills, Cryptic, SLIGHT, djay, 1Sandman
 NARS Rank: 8 of 503
 
-Final Rating: 2458.7
-Seeded Start: 2168.6
-H2H Adjustment: +288.0
+Final Rating: 2457.1
+Seeded Start: 2168.8
+H2H Adjustment: +288.3
 
-Final Rating (2458.7) = Seeded Start (2168.6) + H2H Adjustment (+288.0)
+Final Rating (2457.1) = Seeded Start (2168.8) + H2H Adjustment (+288.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.763 x 1400 = 2168.6
+                = 1100 + 0.763 x 1400 = 2168.8
 
 seed_factor 0.763 = 0.25 x Tier Exposure (0.683) + 0.50 x Quality Wins (0.685) + 0.25 x Opponent Network (1.000)
 
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-29 | Villainous | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.54 | 1.00 | 1.54 | 0.81 | 1.54 | +6.6 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-25 | DETONATE | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.54 | 1.00 | 1.54 | 1.21 | 0.00 | +30.8 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-20 | FarmVille | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.54 | 1.00 | 1.54 | 1.39 | 1.54 | +14.3 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-09-19 | Olympus | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.55 | 1.00 | 1.55 | 1.05 | 1.55 | +24.1 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-09-19 | Olympus | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.55 | 1.00 | 1.55 | 1.05 | 1.55 | +24.2 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-18 | SportsBetExpert | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -1.7 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-15 | academy 4 gifted children | W |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.54 | 1.00 | 1.54 | 0.76 | 1.54 | +0.5 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-15 | Overtake Sector | L | 1-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.54 | 1.00 | 1.54 | 0.00 | 0.00 | -65.4 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
@@ -51,14 +51,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-24 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.44 | 1.00 | 1.25 | 1.07 | 1.25 | +93.3 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-08-21 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.44 | 1.00 | 1.22 | 0.00 | 0.00 | -47.5 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-08-20 | Club 333 | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.44 | 1.00 | 1.21 | 0.84 | 1.21 | +136.2 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-08-19 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.44 | 1.00 | 1.20 | 0.71 | 1.20 | +87.5 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-08-18 | Elusive | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.44 | 1.00 | 1.19 | 0.45 | 1.19 | +26.6 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-08-19 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.44 | 1.00 | 1.20 | 0.71 | 1.20 | +87.6 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-08-18 | Elusive | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.44 | 1.00 | 1.19 | 0.45 | 1.19 | +26.7 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-08-11 | NineFlyeSports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.44 | 1.00 | 1.13 | 0.20 | 0.00 | +0.8 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-08-07 | Desi Boyz | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.44 | 1.00 | 1.09 | 0.57 | 1.09 | +58.1 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-08-01 | SportsBetExpert | L | 1-2 | StarSeries S20 - Closed Qualifier NA1 | C | faceit-tournament | 0.71 | 1.60 | 1.00 | 1.14 | 0.00 | 0.00 | -74.6 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-07-28 | Marsborne | L | 0-2 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.69 | 1.60 | 1.00 | 1.11 | 0.00 | 0.00 | -248.9 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-08-07 | Desi Boyz | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.44 | 1.00 | 1.09 | 0.57 | 1.09 | +57.8 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-08-01 | SportsBetExpert | L | 1-2 | StarSeries S20 - Closed Qualifier NA1 | C | faceit-tournament | 0.71 | 1.60 | 1.00 | 1.14 | 0.00 | 0.00 | -74.8 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-07-28 | Marsborne | L | 0-2 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.69 | 1.60 | 1.00 | 1.11 | 0.00 | 0.00 | -249.2 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-07-28 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.44 | 1.00 | 0.99 | 0.63 | 0.99 | +3.4 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-07-27 | DETONATE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.44 | 1.00 | 0.98 | 0.77 | 0.98 | +310.2 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-07-27 | DETONATE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.44 | 1.00 | 0.98 | 0.77 | 0.98 | +310.9 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-07-24 | Omen Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.44 | 1.00 | 0.95 | 0.53 | 0.95 | +151.3 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-07-22 | FlyQuest RED | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.44 | 1.00 | 0.93 | 0.49 | 0.93 | +9.9 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-06-13 | Olympus | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.39 | 1.47 | 1.00 | 0.57 | 0.00 | 0.00 | -470.9 | 1Sandman, Cryptic, consti, djay, kmrn |

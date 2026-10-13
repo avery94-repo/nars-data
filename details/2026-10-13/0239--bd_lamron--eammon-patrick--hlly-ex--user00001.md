@@ -3,11 +3,11 @@ Team Name: BD Lamron
 Roster: eammon, patrick-, hlly, EX-, user00001
 NARS Rank: 239 of 503
 
-Final Rating: 1426.9
+Final Rating: 1427.1
 Seeded Start: 1189.4
 H2H Adjustment: +237.7
 
-Final Rating (1426.9) = Seeded Start (1189.4) + H2H Adjustment (+237.7)
+Final Rating (1427.1) = Seeded Start (1189.4) + H2H Adjustment (+237.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

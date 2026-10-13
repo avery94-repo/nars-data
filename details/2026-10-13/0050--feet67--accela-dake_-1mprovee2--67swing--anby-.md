@@ -3,11 +3,11 @@ Team Name: feet67
 Roster: accela, dake_, 1mprovee2, -67swing, -anby-
 NARS Rank: 50 of 503
 
-Final Rating: 1909.1
+Final Rating: 1908.0
 Seeded Start: 1326.9
-H2H Adjustment: +581.1 (capped at +-300, raw +581.0)
+H2H Adjustment: +581.1
 
-Final Rating (1909.1) = Seeded Start (1326.9) + H2H Adjustment (+581.1)
+Final Rating (1908.0) = Seeded Start (1326.9) + H2H Adjustment (+581.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-21 | FarmVille | W | 3-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.92 | 1.02 | +71.8 | -67swing, -anby-, 1mprovee2, accela, dake_, ev2 |
+| 2026-09-21 | FarmVille | W | 3-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.92 | 1.02 | +71.9 | -67swing, -anby-, 1mprovee2, accela, dake_, ev2 |
 | 2026-09-20 | makeSHIFT | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.19 | 1.02 | +74.9 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-12 | FarmVille | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.99 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -3.3 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-10 | The Kerbins | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.12 | 1.00 | +110.4 | -67swing, -anby-, 1mprovee2, accela, dake_ |

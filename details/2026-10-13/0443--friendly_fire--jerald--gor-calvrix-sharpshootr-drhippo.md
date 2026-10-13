@@ -3,11 +3,11 @@ Team Name: Friendly Fire
 Roster: jerald, -Gor, Calvrix, sharpshootr, DrHippo
 NARS Rank: 443 of 503
 
-Final Rating: 925.7
+Final Rating: 931.6
 Seeded Start: 1270.9
-H2H Adjustment: -339.9
+H2H Adjustment: -339.3
 
-Final Rating (925.7) = Seeded Start (1270.9) + H2H Adjustment (-339.9)
+Final Rating (931.6) = Seeded Start (1270.9) + H2H Adjustment (-339.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,24 +24,24 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-26 | Absent Minded | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.18 | 1.00 | 1.04 | 0.00 | 0.00 | -107.8 | -Gor, Calvrix, ImDonut, jerald, tozosi |
+| 2026-08-26 | Absent Minded | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.18 | 1.00 | 1.04 | 0.00 | 0.00 | -108.1 | -Gor, Calvrix, ImDonut, jerald, tozosi |
 | 2026-08-21 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.85 | 1.18 | 1.00 | 1.00 | 0.09 | 1.00 | +112.5 | -Gor, Calvrix, ImDonut, jerald, tozosi |
-| 2026-08-19 | Second Nature | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.83 | 1.18 | 1.00 | 0.99 | 0.00 | 0.00 | -91.2 | -Gor, Calvrix, ImDonut, jerald, tozosi |
-| 2026-08-14 | Diamond Mental | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.18 | 1.00 | 0.95 | 0.00 | 0.00 | -53.2 | -Gor, Calvrix, ImDonut, jerald, tozosi |
-| 2026-08-12 | Aers Money Crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.18 | 1.00 | 0.93 | 0.00 | 0.00 | -182.6 | -Gor, Calvrix, ImDonut, jerald, tozosi |
-| 2026-08-07 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.18 | 1.00 | 0.89 | 0.12 | 0.89 | +75.6 | Calvrix, DrHippo, ImDonut, jerald, tozosi |
-| 2026-08-05 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.18 | 1.00 | 0.88 | 0.06 | 0.88 | +0.8 | Calvrix, DrHippo, ImDonut, jerald, tozosi |
-| 2026-07-31 | Bird Squishers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.71 | 1.18 | 1.00 | 0.84 | 0.12 | 0.84 | +262.2 | Calvrix, DrHippo, ImDonut, jerald, tozosi |
-| 2026-07-29 | Kaos | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.18 | 1.00 | 0.82 | 0.00 | 0.00 | -49.9 | Calvrix, DrHippo, ImDonut, jerald, tozosi |
-| 2026-07-24 | FUELED BY HATE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.18 | 1.00 | 0.78 | 0.00 | 0.00 | -169.1 | -Gor, Calvrix, ImDonut, jerald, tozosi |
-| 2026-07-22 | Temple of Swing | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.18 | 1.00 | 0.77 | 0.00 | 0.00 | -314.9 | -Gor, Calvrix, ImDonut, jerald, tozosi |
-| 2026-07-17 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.18 | 1.00 | 0.73 | 0.00 | 0.00 | -114.0 | -Gor, Calvrix, ImDonut, jerald, tozosi |
-| 2026-07-15 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.18 | 1.00 | 0.71 | 0.00 | 0.00 | -350.2 | -Gor, Calvrix, ImDonut, jerald, tozosi |
-| 2026-05-29 | academy 4 gifted children | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -254.0 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
-| 2026-05-27 | RejexEsports | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.02 | 0.27 | +1.9 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
-| 2026-05-22 | Schadenfreude | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +100.1 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
-| 2026-05-20 | 91AshLiu | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.02 | 0.23 | +198.7 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
-| 2026-05-15 | Hairy Scary Bandits | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.06 | 0.19 | +165.2 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
+| 2026-08-19 | Second Nature | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.83 | 1.18 | 1.00 | 0.99 | 0.00 | 0.00 | -91.8 | -Gor, Calvrix, ImDonut, jerald, tozosi |
+| 2026-08-14 | Diamond Mental | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.18 | 1.00 | 0.95 | 0.00 | 0.00 | -52.8 | -Gor, Calvrix, ImDonut, jerald, tozosi |
+| 2026-08-12 | Aers Money Crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.18 | 1.00 | 0.93 | 0.00 | 0.00 | -181.0 | -Gor, Calvrix, ImDonut, jerald, tozosi |
+| 2026-08-07 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.18 | 1.00 | 0.89 | 0.12 | 0.89 | +75.9 | Calvrix, DrHippo, ImDonut, jerald, tozosi |
+| 2026-08-05 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.18 | 1.00 | 0.88 | 0.06 | 0.88 | +0.9 | Calvrix, DrHippo, ImDonut, jerald, tozosi |
+| 2026-07-31 | Bird Squishers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.71 | 1.18 | 1.00 | 0.84 | 0.12 | 0.84 | +260.4 | Calvrix, DrHippo, ImDonut, jerald, tozosi |
+| 2026-07-29 | Kaos | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.18 | 1.00 | 0.82 | 0.00 | 0.00 | -48.2 | Calvrix, DrHippo, ImDonut, jerald, tozosi |
+| 2026-07-24 | FUELED BY HATE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.18 | 1.00 | 0.78 | 0.00 | 0.00 | -175.1 | -Gor, Calvrix, ImDonut, jerald, tozosi |
+| 2026-07-22 | Temple of Swing | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.18 | 1.00 | 0.77 | 0.00 | 0.00 | -312.8 | -Gor, Calvrix, ImDonut, jerald, tozosi |
+| 2026-07-17 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.18 | 1.00 | 0.73 | 0.00 | 0.00 | -114.1 | -Gor, Calvrix, ImDonut, jerald, tozosi |
+| 2026-07-15 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.18 | 1.00 | 0.71 | 0.00 | 0.00 | -348.1 | -Gor, Calvrix, ImDonut, jerald, tozosi |
+| 2026-05-29 | academy 4 gifted children | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -255.5 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
+| 2026-05-27 | RejexEsports | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.02 | 0.27 | +1.8 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
+| 2026-05-22 | Schadenfreude | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +98.1 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
+| 2026-05-20 | 91AshLiu | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.02 | 0.23 | +200.4 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
+| 2026-05-15 | Hairy Scary Bandits | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.06 | 0.19 | +168.1 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
 | 2026-05-08 | YHTR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.15 | 1.00 | 1.00 | 0.15 | 0.04 | 0.15 | +391.1 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
 | 2026-05-06 | The Plague | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -146.1 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
 | 2026-05-01 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -202.3 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |

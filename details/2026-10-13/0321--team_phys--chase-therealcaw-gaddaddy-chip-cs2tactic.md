@@ -3,11 +3,11 @@ Team Name: Team Phys
 Roster: Chase, TheRealCaw, GadDaddy, Chip, CS2Tactics
 NARS Rank: 321 of 503
 
-Final Rating: 1251.6
+Final Rating: 1251.8
 Seeded Start: 1165.2
 H2H Adjustment: +86.6
 
-Final Rating (1251.6) = Seeded Start (1165.2) + H2H Adjustment (+86.6)
+Final Rating (1251.8) = Seeded Start (1165.2) + H2H Adjustment (+86.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

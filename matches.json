@@ -7271,6 +7271,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "1-3c2a1425-fd67-477e-a0a0-afa2fde2e108",
+  "date": "2026-09-07",
+  "competition": "S58 NA Open9-10 West - Playoffs",
+  "team_a": "Washed",
+  "team_b": "STIM",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-4b910a06-370f-47ad-9802-a12fd76ac60c",
   "date": "2026-09-07",
   "competition": "S58 NA Main Central - Playoffs B",
@@ -7784,6 +7795,17 @@
   "team_b": "Cultivate",
   "winner": "a",
   "score": "2-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-4074610f-97e6-47e0-8714-0d68e2895eff",
+  "date": "2026-09-06",
+  "competition": "S58 NA Open9-10 East - Playoffs C",
+  "team_a": "Bad Jawn",
+  "team_b": "GodFather Gaming",
+  "winner": "a",
+  "score": "2-1",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -13846,17 +13868,6 @@
   "winner": "a",
   "score": "2-1",
   "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-fce342a6-5862-47e2-9f94-62b5c946ecd5",
-  "date": "2026-09-02",
-  "competition": "S58 NA Open9-10 East - Playoffs A",
-  "team_a": "Kahoot Squad",
-  "team_b": "PogSquad",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "C",
   "source": "faceit-league"
  },
  {
@@ -48367,17 +48378,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "1-eaeec104-5948-4bd6-85bf-32e185c5ad27",
-  "date": "2026-05-15",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "2THRiLL",
-  "team_b": "REPORT MASSIVE",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
   "match_id": "1-f2df1c9f-b7cb-478b-8332-caa52bccc8a4",
   "date": "2026-05-15",
   "competition": "S57 NA Intermediate Central - Regular Season",
@@ -51414,6 +51414,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "1-d1bb4ad6-4905-4f08-83ae-8f8d4e756d7c",
+  "date": "2026-05-08",
+  "competition": "S57 NA Main Central - Regular Season",
+  "team_a": "Kahoot Squad",
+  "team_b": "MXA",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-d3734266-e476-4f0f-a5cd-a3842e96c3a5",
   "date": "2026-05-08",
   "competition": "S57 NA Intermediate Central - Regular Season",
@@ -54395,6 +54406,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "1-ba49adc7-bc69-4b59-9276-77893bd7d655",
+  "date": "2026-05-01",
+  "competition": "S57 NA Main Central - Regular Season",
+  "team_a": "Kahoot Squad",
+  "team_b": "grogu",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-bc20aad9-cc75-46ec-b3a1-81c35732f61c",
   "date": "2026-05-01",
   "competition": "S57 NA Main Central - Regular Season",
@@ -56023,6 +56045,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "1-cab5d7a3-507f-4f53-8e7e-fedb69e55f0f",
+  "date": "2026-04-29",
+  "competition": "S57 NA Main Central - Regular Season",
+  "team_a": "Kahoot Squad",
+  "team_b": "Alcatraz Swim Team",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-cc74ef9b-fa09-4c81-b2be-f9c6b175fd2a",
   "date": "2026-04-29",
   "competition": "S57 NA Main Central - Regular Season",
@@ -57596,6 +57629,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "1-9f9b1841-6726-4d02-b8a2-81d7160a8fcd",
+  "date": "2026-04-24",
+  "competition": "S57 NA Intermediate Central - Regular Season",
+  "team_a": "Power of Friendship",
+  "team_b": "Hairy Scary Bandits",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-a3324be2-a56d-48f0-9851-ba29e62c2a15",
   "date": "2026-04-24",
   "competition": "S57 NA Main Central - Regular Season",
@@ -57988,6 +58032,17 @@
   "team_b": "Baja Blasters",
   "winner": "b",
   "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-f6743c97-1cbc-429d-8253-a6f03e422ffe",
+  "date": "2026-04-24",
+  "competition": "S57 NA Main Central - Regular Season",
+  "team_a": "CNCS Last Hope",
+  "team_b": "Kahoot Squad",
+  "winner": "a",
+  "score": "1-0",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -59642,6 +59697,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "1-d3451257-98f3-4fa7-a08f-4e471c454a96",
+  "date": "2026-04-22",
+  "competition": "S57 NA Main Central - Regular Season",
+  "team_a": "Kahoot Squad",
+  "team_b": "Sedated",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-d4e81e33-9314-4e38-ba77-04263fedd5d4",
   "date": "2026-04-22",
   "competition": "S57 NA Intermediate Central - Regular Season",
@@ -60137,6 +60203,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "1-3207fcc0-cfdb-40c6-9880-d88b6a7f59eb",
+  "date": "2026-04-17",
+  "competition": "S57 NA Main Central - Regular Season",
+  "team_a": "James Bond Bois",
+  "team_b": "Kahoot Squad",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-3528991d-4418-43fb-bd90-87271fcee18c",
   "date": "2026-04-17",
   "competition": "S57 NA Intermediate Central - Regular Season",
@@ -60505,6 +60582,17 @@
   "competition": "S57 NA Main Central - Regular Season",
   "team_a": "Bird Squishers",
   "team_b": "Cadillac F1 eSports Team",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-809aa495-baf5-43f5-ab1e-7ff11cf1f636",
+  "date": "2026-04-17",
+  "competition": "S57 NA Intermediate Central - Regular Season",
+  "team_a": "Power of Friendship",
+  "team_b": "Grandpa Berets",
   "winner": "a",
   "score": "1-0",
   "tier": "C",

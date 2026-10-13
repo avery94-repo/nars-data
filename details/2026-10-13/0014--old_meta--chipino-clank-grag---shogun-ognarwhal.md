@@ -3,11 +3,11 @@ Team Name: Old Meta
 Roster: chipino, Clank, grag-, -Shogun, OGnarwhal
 NARS Rank: 14 of 503
 
-Final Rating: 2212.3
+Final Rating: 2215.1
 Seeded Start: 1556.0
-H2H Adjustment: +657.7
+H2H Adjustment: +659.1
 
-Final Rating (2212.3) = Seeded Start (1556.0) + H2H Adjustment (+657.7)
+Final Rating (2215.1) = Seeded Start (1556.0) + H2H Adjustment (+659.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,31 +24,31 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Automatic HQ | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.40 | 1.00 | 1.40 | 0.35 | 1.40 | +92.8 | -Shogun, 1KJS, OGnarwhal, grag-, mechro |
-| 2026-09-20 | Automatic HQ | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.22 | 1.00 | 1.22 | 0.00 | 0.00 | -71.4 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-09-19 | VOID ALUNE | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.22 | 1.00 | 1.22 | 0.40 | 1.22 | +48.4 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-09-12 | MASTER ONE | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.99 | 1.22 | 1.00 | 1.21 | 0.00 | 0.00 | -77.9 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-09-10 | WhalersOnDaMoon | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.98 | 1.22 | 1.00 | 1.20 | 0.27 | 1.20 | +15.0 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-09-08 | Manx Recovery Program | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.97 | 1.22 | 1.00 | 1.18 | 0.17 | 1.18 | +6.7 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-10-09 | Automatic HQ | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.40 | 1.00 | 1.40 | 0.35 | 1.40 | +92.5 | -Shogun, 1KJS, OGnarwhal, grag-, mechro |
+| 2026-09-20 | Automatic HQ | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.22 | 1.00 | 1.22 | 0.00 | 0.00 | -71.8 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-09-19 | VOID ALUNE | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.22 | 1.00 | 1.22 | 0.40 | 1.22 | +48.1 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-09-12 | MASTER ONE | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.99 | 1.22 | 1.00 | 1.21 | 0.00 | 0.00 | -78.4 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-09-10 | WhalersOnDaMoon | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.98 | 1.22 | 1.00 | 1.20 | 0.27 | 1.20 | +14.4 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-09-08 | Manx Recovery Program | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.97 | 1.22 | 1.00 | 1.18 | 0.17 | 1.18 | +6.5 | -Shogun, Clank, OGnarwhal, chipino, grag- |
 | 2026-09-04 | The Skins | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.22 | 1.00 | 1.15 | 0.19 | 1.15 | +0.5 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-08-28 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.18 | 1.00 | 1.06 | 0.00 | 0.00 | -135.9 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-08-26 | Over Your Head | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.18 | 1.00 | 1.04 | 0.23 | 1.04 | +2.4 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-08-21 | Skyline | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.85 | 1.18 | 1.00 | 1.00 | 0.49 | 1.00 | +4.3 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-08-20 | Conscious Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.18 | 1.00 | 1.00 | 0.29 | 1.00 | +4.1 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-08-05 | duck crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.18 | 1.00 | 0.88 | 0.06 | 0.00 | +78.6 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-07-31 | DESPAIR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.71 | 1.18 | 1.00 | 0.84 | 0.19 | 0.84 | +109.3 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-07-29 | US Navy Esports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.18 | 1.00 | 0.82 | 0.13 | 0.82 | +176.1 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-07-24 | Nomadic Tactics | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.18 | 1.00 | 0.78 | 0.13 | 0.78 | +323.9 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-07-22 | MASTER ONE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.18 | 1.00 | 0.77 | 0.15 | 0.77 | +206.0 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-07-15 | 1NT | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.18 | 1.00 | 0.71 | 0.14 | 0.71 | +11.5 | -Shogun, Clank, OGnarwhal, chipino, grag- |
-| 2026-05-22 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.28 | +242.4 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
-| 2026-05-20 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -266.4 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
-| 2026-05-15 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.23 | 0.03 | 0.23 | +3.8 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
-| 2026-05-13 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.03 | 0.21 | +19.0 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
+| 2026-08-28 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.18 | 1.00 | 1.06 | 0.00 | 0.00 | -136.1 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-08-26 | Over Your Head | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.18 | 1.00 | 1.04 | 0.23 | 1.04 | +2.3 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-08-21 | Skyline | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.85 | 1.18 | 1.00 | 1.00 | 0.49 | 1.00 | +4.1 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-08-20 | Conscious Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.18 | 1.00 | 1.00 | 0.29 | 1.00 | +3.9 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-08-05 | duck crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.18 | 1.00 | 0.88 | 0.06 | 0.00 | +77.5 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-07-31 | DESPAIR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.71 | 1.18 | 1.00 | 0.84 | 0.19 | 0.84 | +108.2 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-07-29 | US Navy Esports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.18 | 1.00 | 0.82 | 0.13 | 0.82 | +174.3 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-07-24 | Nomadic Tactics | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.18 | 1.00 | 0.78 | 0.13 | 0.78 | +324.5 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-07-22 | MASTER ONE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.18 | 1.00 | 0.77 | 0.15 | 0.77 | +213.4 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-07-15 | 1NT | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.18 | 1.00 | 0.71 | 0.14 | 0.71 | +10.9 | -Shogun, Clank, OGnarwhal, chipino, grag- |
+| 2026-05-22 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.28 | +243.2 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
+| 2026-05-20 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -266.5 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
+| 2026-05-15 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.23 | 0.03 | 0.23 | +4.1 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
+| 2026-05-13 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.03 | 0.21 | +19.1 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
 | 2026-05-09 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.16 | 1.00 | 0.19 | 0.00 | 0.19 | +1.9 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
-| 2026-05-01 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.01 | 0.12 | +261.2 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
+| 2026-05-01 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.01 | 0.12 | +261.1 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
 | 2026-04-29 | MASTER ONE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.10 | 0.00 | 0.00 | -4.6 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
-| 2026-04-24 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -93.1 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
+| 2026-04-24 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -93.0 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
 | 2026-04-22 | ThirdSite | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.00 | 0.00 | -45.1 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
 | 2026-04-17 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.00 | -255.8 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
 

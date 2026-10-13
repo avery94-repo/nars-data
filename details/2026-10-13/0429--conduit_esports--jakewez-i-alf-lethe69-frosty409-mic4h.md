@@ -3,15 +3,15 @@ Team Name: Conduit eSports
 Roster: JakeWez, i-alf, Lethe69, Frosty409, mic4h
 NARS Rank: 429 of 503
 
-Final Rating: 989.7
-Seeded Start: 1299.2
-H2H Adjustment: -308.1 (capped at +-300, raw -308.0)
+Final Rating: 990.8
+Seeded Start: 1299.1
+H2H Adjustment: -308.3
 
-Final Rating (989.7) = Seeded Start (1299.2) + H2H Adjustment (-308.1)
+Final Rating (990.8) = Seeded Start (1299.1) + H2H Adjustment (-308.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.142 x 1400 = 1299.2
+                = 1100 + 0.142 x 1400 = 1299.1
 
 seed_factor 0.142 = 0.25 x Tier Exposure (0.112) + 0.50 x Quality Wins (0.039) + 0.25 x Opponent Network (0.379)
 
@@ -27,15 +27,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | 69 | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.00 | 0.00 | -75.1 | Frosty409, JakeWez, Lethe69, i-alf, marpee- |
 | 2026-08-19 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.10 | 0.83 | +70.3 | Frosty409, JakeWez, Lethe69, i-alf, mic4h |
 | 2026-08-14 | redtyfguhoj | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -77.3 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
-| 2026-08-12 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -82.8 | Frosty409, ImminentG, JakeWez, i-alf, marpee- |
+| 2026-08-12 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -82.9 | Frosty409, ImminentG, JakeWez, i-alf, marpee- |
 | 2026-08-07 | on disability | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.04 | 0.75 | +185.7 | Frosty409, ImminentG, JakeWez, Lethe69, mic4h |
-| 2026-08-05 | Climbers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -140.3 | Frosty409, ImminentG, JakeWez, Lethe69, mic4h |
-| 2026-07-31 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -256.9 | Frosty409, ImminentG, JakeWez, i-alf, mic4h |
-| 2026-07-29 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.13 | 0.69 | +12.3 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
+| 2026-08-05 | Climbers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -140.5 | Frosty409, ImminentG, JakeWez, Lethe69, mic4h |
+| 2026-07-31 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -257.1 | Frosty409, ImminentG, JakeWez, i-alf, mic4h |
+| 2026-07-29 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.13 | 0.69 | +12.4 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
 | 2026-07-26 | mas paspas | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.67 | 1.08 | 1.00 | 0.73 | 0.00 | 0.00 | -150.0 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
 | 2026-07-25 | HeadShot Esports | W |  | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.67 | 1.08 | 1.00 | 0.73 | 0.17 | 0.73 | +57.0 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
 | 2026-07-22 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.09 | 0.65 | +5.8 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
-| 2026-07-17 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -386.6 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
+| 2026-07-17 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -386.4 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
 | 2026-07-15 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -417.3 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
 | 2026-06-15 | 69 | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.40 | 1.00 | 1.00 | 0.40 | 0.05 | 0.40 | +132.1 | BeanFlicker, JakeWez, Lethe69, i-alf, mic4h |
 | 2026-06-12 | Orbit | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.01 | 0.38 | +90.1 | Frosty409, JakeWez, Lethe69, i-alf, mic4h |

@@ -3,11 +3,11 @@ Team Name: Stubbys
 Roster: PenguinSWAGX, ZManFan, SupaDuperCam, CJP, Spunki
 NARS Rank: 341 of 503
 
-Final Rating: 1215.0
+Final Rating: 1215.6
 Seeded Start: 1193.5
 H2H Adjustment: +22.1
 
-Final Rating (1215.0) = Seeded Start (1193.5) + H2H Adjustment (+22.1)
+Final Rating (1215.6) = Seeded Start (1193.5) + H2H Adjustment (+22.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

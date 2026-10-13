@@ -3,11 +3,11 @@ Team Name: HeatPeek
 Roster: Jantokat, Uhttt, Kevjeet, Spiffy--, EMOnEMO
 NARS Rank: 310 of 503
 
-Final Rating: 1270.5
+Final Rating: 1271.2
 Seeded Start: 1187.2
-H2H Adjustment: +83.9
+H2H Adjustment: +84.0
 
-Final Rating (1270.5) = Seeded Start (1187.2) + H2H Adjustment (+83.9)
+Final Rating (1271.2) = Seeded Start (1187.2) + H2H Adjustment (+84.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,8 +25,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-04 | Rogue Dungeon | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -170.2 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
-| 2026-09-02 | Smile Team Six | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.05 | 0.93 | +75.4 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
-| 2026-07-26 | Tractors | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.67 | 1.08 | 1.00 | 0.73 | 0.00 | 0.00 | -140.2 | EMOnEMO, Jantokat, Slimmxd, Uhttt, spartanbooby |
+| 2026-09-02 | Smile Team Six | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.05 | 0.93 | +75.3 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
+| 2026-07-26 | Tractors | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.67 | 1.08 | 1.00 | 0.73 | 0.00 | 0.00 | -140.1 | EMOnEMO, Jantokat, Slimmxd, Uhttt, spartanbooby |
 | 2026-06-05 | We Wont Implode This Time | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -210.3 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 | 2026-06-03 | The Peninsula | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.02 | 0.32 | +168.3 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 | 2026-05-29 | YoungBlood | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.29 | +183.4 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |

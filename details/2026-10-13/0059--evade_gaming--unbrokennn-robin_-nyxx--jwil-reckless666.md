@@ -3,11 +3,11 @@ Team Name: Evade Gaming
 Roster: UnbrokeNNN, RoBiN_, nyxx-, Jwil, Reckless666
 NARS Rank: 59 of 503
 
-Final Rating: 1872.7
+Final Rating: 1866.5
 Seeded Start: 1148.6
 H2H Adjustment: +717.9 (capped at +-300, raw +717.8)
 
-Final Rating (1872.7) = Seeded Start (1148.6) + H2H Adjustment (+717.9)
+Final Rating (1866.5) = Seeded Start (1148.6) + H2H Adjustment (+717.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
