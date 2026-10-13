@@ -11,6 +11,28 @@
   "source": "hltv"
  },
  {
+  "match_id": "1-0ae846af-e93b-4151-8dcb-4846d0372769",
+  "date": "2026-10-12",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Phantom Sense",
+  "team_b": "KODEX ESPORTS",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-ea9ca009-90dc-49e4-b1ea-a005647af4fe",
+  "date": "2026-10-12",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "ABG Esports",
+  "team_b": "Endless Esports",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "hltv:2399229",
   "date": "2026-10-12",
   "competition": "ESL Challenger League Season 52 North America Cup 3",
@@ -42,6 +64,17 @@
   "score": "2-1",
   "tier": "B",
   "source": "hltv"
+ },
+ {
+  "match_id": "1-4e5915d7-8db4-49d5-911c-c17c3a6ec3e5",
+  "date": "2026-10-11",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Olympus",
+  "team_b": "Hairy Scary Bandits",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
  },
  {
   "match_id": "hltv:2399225",
@@ -124,7 +157,7 @@
   "match_id": "hltv:2399400",
   "date": "2026-10-11",
   "competition": "FRAG University 2026",
-  "team_a": "Unreal Nightmare",
+  "team_a": "FRZ Unit",
   "team_b": "Without a Roof",
   "winner": "b",
   "score": "0-2",
@@ -235,7 +268,7 @@
   "date": "2026-10-10",
   "competition": "FRAG University 2026",
   "team_a": "NRG",
-  "team_b": "Unreal Nightmare",
+  "team_b": "FRZ Unit",
   "winner": "a",
   "score": "13-6",
   "tier": "A",
@@ -2123,23 +2156,23 @@
   "source": "hltv"
  },
  {
-  "match_id": "vrs-2026-10-05-wildcard-2026-10-03-infinite-L",
-  "date": "2026-10-03",
-  "competition": "VRS-tracked 2026-10",
-  "team_a": "Wildcard",
-  "team_b": "INFINITE",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-wildcard-2026-10-03-eac-W",
   "date": "2026-10-03",
   "competition": "VRS-tracked 2026-10",
   "team_a": "Wildcard",
   "team_b": "EAC",
   "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wildcard-2026-10-03-infinite-L",
+  "date": "2026-10-03",
+  "competition": "VRS-tracked 2026-10",
+  "team_a": "Wildcard",
+  "team_b": "INFINITE",
+  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -2178,6 +2211,61 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-10-02-bbl-L",
+  "date": "2026-10-02",
+  "competition": "VRS-tracked 2026-10",
+  "team_a": "SportsBetExpert",
+  "team_b": "BBL",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-10-02-havu-W",
+  "date": "2026-10-02",
+  "competition": "VRS-tracked 2026-10",
+  "team_a": "SportsBetExpert",
+  "team_b": "HAVU",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-10-02-ninjas in pyjamas-L",
+  "date": "2026-10-02",
+  "competition": "VRS-tracked 2026-10",
+  "team_a": "SportsBetExpert",
+  "team_b": "NINJAS IN PYJAMAS",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-10-02-sangal-L",
+  "date": "2026-10-02",
+  "competition": "VRS-tracked 2026-10",
+  "team_a": "SportsBetExpert",
+  "team_b": "SANGAL",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-10-02-xept-W",
+  "date": "2026-10-02",
+  "competition": "VRS-tracked 2026-10",
+  "team_a": "SportsBetExpert",
+  "team_b": "XEPT",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-voca-2026-10-02-100 thieves-L",
   "date": "2026-10-02",
   "competition": "VRS-tracked 2026-10",
@@ -2189,22 +2277,11 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-10-02-prestige-W",
+  "match_id": "vrs-2026-10-05-voca-2026-10-02-basement boys-W",
   "date": "2026-10-02",
   "competition": "VRS-tracked 2026-10",
   "team_a": "Voca",
-  "team_b": "PRESTIGE",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-voca-2026-10-02-sashi-W",
-  "date": "2026-10-02",
-  "competition": "VRS-tracked 2026-10",
-  "team_a": "Voca",
-  "team_b": "SASHI",
+  "team_b": "BASEMENT BOYS",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -2233,11 +2310,22 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-10-02-basement boys-W",
+  "match_id": "vrs-2026-10-05-voca-2026-10-02-prestige-W",
   "date": "2026-10-02",
   "competition": "VRS-tracked 2026-10",
   "team_a": "Voca",
-  "team_b": "BASEMENT BOYS",
+  "team_b": "PRESTIGE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-voca-2026-10-02-sashi-W",
+  "date": "2026-10-02",
+  "competition": "VRS-tracked 2026-10",
+  "team_a": "Voca",
+  "team_b": "SASHI",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -2264,6 +2352,39 @@
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-09-29-marsborne-L",
+  "date": "2026-09-29",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "LAG Gaming",
+  "team_b": "Marsborne",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-28-regain-W",
+  "date": "2026-09-28",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "regain",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zetta-2026-09-28-mibr fe-L",
+  "date": "2026-09-28",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Zetta",
+  "team_b": "MIBR FE",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "1-20a8bd5c-4ec9-492d-ab6d-40a66e20f0e4",
@@ -2376,6 +2497,17 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-lag-2026-09-27-regain-W",
+  "date": "2026-09-27",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "LAG Gaming",
+  "team_b": "regain",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-liquid-2026-09-27-wildcard-W",
   "date": "2026-09-27",
   "competition": "VRS-tracked 2026-09",
@@ -2398,11 +2530,22 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-wildcard-2026-09-27-liquid-L",
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-27-farmville-W",
   "date": "2026-09-27",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Wildcard",
-  "team_b": "Liquid",
+  "team_a": "Marsborne",
+  "team_b": "FarmVille",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-27-without a roof-L",
+  "date": "2026-09-27",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "SportsBetExpert",
+  "team_b": "Without a Roof",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -2442,22 +2585,22 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-m80-2026-09-26-liquid-L",
-  "date": "2026-09-26",
-  "competition": "VRS-tracked 2026-09",
-  "team_a": "M80",
-  "team_b": "Liquid",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-m80-2026-09-26-voca-W",
   "date": "2026-09-26",
   "competition": "VRS-tracked 2026-09",
   "team_a": "M80",
   "team_b": "Voca",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-26-detonate-W",
+  "date": "2026-09-26",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "DETONATE",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -2475,12 +2618,23 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-09-26-m80-L",
+  "match_id": "vrs-2026-10-05-overtake sector-2026-09-26-farmville-L",
   "date": "2026-09-26",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Voca",
-  "team_b": "M80",
+  "team_a": "Overtake Sector",
+  "team_b": "FarmVille",
   "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-26-lag-W",
+  "date": "2026-09-26",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "SportsBetExpert",
+  "team_b": "LAG Gaming",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -2497,11 +2651,22 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-wildcard-2026-09-26-nrg-W",
+  "match_id": "vrs-2026-10-05-without a roof-2026-09-26-marsborne-W",
   "date": "2026-09-26",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Wildcard",
-  "team_b": "NRG",
+  "team_a": "Without a Roof",
+  "team_b": "Marsborne",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zetta-2026-09-26-your end-W",
+  "date": "2026-09-26",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Zetta",
+  "team_b": "YOUR END",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -2541,33 +2706,44 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-09-25-wildcard-L",
+  "match_id": "vrs-2026-10-05-detonate-2026-09-25-villainous-W",
   "date": "2026-09-25",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Chicken Coop",
-  "team_b": "Wildcard",
+  "team_a": "DETONATE",
+  "team_b": "Villainous",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-09-25-farmville-L",
+  "date": "2026-09-25",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Iowa Stormboar",
+  "team_b": "FarmVille",
   "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-09-25-liquid-L",
+  "match_id": "vrs-2026-10-05-lag-2026-09-25-babag-W",
   "date": "2026-09-25",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Chicken Coop",
-  "team_b": "Liquid",
-  "winner": "b",
+  "team_a": "LAG Gaming",
+  "team_b": "babaG",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-liquid-2026-09-25-nrg-W",
+  "match_id": "vrs-2026-10-05-lag-2026-09-25-overtake sector-W",
   "date": "2026-09-25",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Liquid",
-  "team_b": "NRG",
+  "team_a": "LAG Gaming",
+  "team_b": "Overtake Sector",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -2585,12 +2761,12 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-m80-2026-09-25-dendele-L",
+  "match_id": "vrs-2026-10-05-liquid-2026-09-25-nrg-W",
   "date": "2026-09-25",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "M80",
-  "team_b": "DENDELE",
-  "winner": "b",
+  "team_a": "Liquid",
+  "team_b": "NRG",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -2607,12 +2783,34 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-nrg-2026-09-25-liquid-L",
+  "match_id": "vrs-2026-10-05-m80-2026-09-25-dendele-L",
   "date": "2026-09-25",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "NRG",
-  "team_b": "Liquid",
+  "team_a": "M80",
+  "team_b": "DENDELE",
   "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-25-regain-L",
+  "date": "2026-09-25",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "regain",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-25-sharp-W",
+  "date": "2026-09-25",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "Sharp",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -2623,6 +2821,17 @@
   "competition": "VRS-tracked 2026-09",
   "team_a": "NRG",
   "team_b": "Wildcard",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-25-my life be like-W",
+  "date": "2026-09-25",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "SportsBetExpert",
+  "team_b": "MY LIFE BE LIKE",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -2662,12 +2871,12 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-wildcard-2026-09-25-nrg-L",
+  "match_id": "vrs-2026-10-05-without a roof-2026-09-25-desi boyz-W",
   "date": "2026-09-25",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Wildcard",
-  "team_b": "NRG",
-  "winner": "b",
+  "team_a": "Without a Roof",
+  "team_b": "Desi Boyz",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -2695,6 +2904,160 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-detonate-2026-09-24-wanted goons-W",
+  "date": "2026-09-24",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "DETONATE",
+  "team_b": "Wanted Goons",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-farmville-2026-09-24-unreal nightmare-W",
+  "date": "2026-09-24",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "FarmVille",
+  "team_b": "FRZ Unit",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-09-24-club 333-W",
+  "date": "2026-09-24",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Club 333",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-villainous-2026-09-24-nutorious-W",
+  "date": "2026-09-24",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Villainous",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zetta-2026-09-24-meia noite-L",
+  "date": "2026-09-24",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Zetta",
+  "team_b": "MEIA NOITE",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-club 333-2026-09-23-zomblers-W",
+  "date": "2026-09-23",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Club 333",
+  "team_b": "Zomblers",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-exodia-2026-09-23-yawara-L",
+  "date": "2026-09-23",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "EXODIA",
+  "team_b": "YAWARA",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-09-23-detonate-W",
+  "date": "2026-09-23",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "LAG Gaming",
+  "team_b": "DETONATE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-23-iowa stormboar-W",
+  "date": "2026-09-23",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "Iowa Stormboar",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-new legends-2026-09-23-unreal nightmare-L",
+  "date": "2026-09-23",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "New Legends",
+  "team_b": "FRZ Unit",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nutorious-2026-09-23-marca registrada-W",
+  "date": "2026-09-23",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "NuTorious",
+  "team_b": "OVERKNIGHT",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-09-23-villainous-W",
+  "date": "2026-09-23",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Overtake Sector",
+  "team_b": "Villainous",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-09-23-farmville-W",
+  "date": "2026-09-23",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "regain",
+  "team_b": "FarmVille",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wanted goons-2026-09-23-flyquest red-W",
+  "date": "2026-09-23",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Wanted Goons",
+  "team_b": "FlyQuest RED",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-02a376bd-3cec-4d0d-b29f-3dde4d2b7159",
   "date": "2026-09-22",
   "competition": "CROSSFIRE Season 6 - Playoffs",
@@ -2715,6 +3078,116 @@
   "score": "2-1",
   "tier": "B",
   "source": "faceit-tournament"
+ },
+ {
+  "match_id": "vrs-2026-10-05-detonate-2026-09-22-club 333-W",
+  "date": "2026-09-22",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "DETONATE",
+  "team_b": "Club 333",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-exodia-2026-09-22-galorys-L",
+  "date": "2026-09-22",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "EXODIA",
+  "team_b": "GALORYS",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-farmville-2026-09-22-nutorious-W",
+  "date": "2026-09-22",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "FarmVille",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-09-22-wanted goons-W",
+  "date": "2026-09-22",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Wanted Goons",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-09-22-zomblers-W",
+  "date": "2026-09-22",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "LAG Gaming",
+  "team_b": "Zomblers",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-22-flyquest red-W",
+  "date": "2026-09-22",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "FlyQuest RED",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-09-22-unreal nightmare-W",
+  "date": "2026-09-22",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Overtake Sector",
+  "team_b": "FRZ Unit",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-09-22-marca registrada-W",
+  "date": "2026-09-22",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "regain",
+  "team_b": "OVERKNIGHT",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-villainous-2026-09-22-new legends-W",
+  "date": "2026-09-22",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Villainous",
+  "team_b": "New Legends",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zetta-2026-09-22-bestia academy-L",
+  "date": "2026-09-22",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Zetta",
+  "team_b": "BESTIA ACADEMY",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "1-1fec7661-a9af-48b9-9497-4a389c98d0cc",
@@ -3344,12 +3817,23 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "vrs-2026-10-05-liquid-2026-09-18-bbl-L",
+  "match_id": "vrs-2026-10-05-desi boyz-2026-09-18-overtake sector-W",
   "date": "2026-09-18",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Liquid",
-  "team_b": "BBL",
-  "winner": "b",
+  "team_a": "Desi Boyz",
+  "team_b": "Overtake Sector",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-09-18-olympus-W",
+  "date": "2026-09-18",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "LAG Gaming",
+  "team_b": "Olympus",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -3366,22 +3850,22 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-liquid-2026-09-18-eyeballers-L",
+  "match_id": "vrs-2026-10-05-liquid-2026-09-18-bbl-L",
   "date": "2026-09-18",
   "competition": "VRS-tracked 2026-09",
   "team_a": "Liquid",
-  "team_b": "EYEBALLERS",
+  "team_b": "BBL",
   "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-liquid-2026-09-18-inner circle-L",
+  "match_id": "vrs-2026-10-05-liquid-2026-09-18-eyeballers-L",
   "date": "2026-09-18",
   "competition": "VRS-tracked 2026-09",
   "team_a": "Liquid",
-  "team_b": "INNER CIRCLE",
+  "team_b": "EYEBALLERS",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -3394,6 +3878,17 @@
   "team_a": "Liquid",
   "team_b": "INFINITE",
   "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-liquid-2026-09-18-inner circle-L",
+  "date": "2026-09-18",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Liquid",
+  "team_b": "INNER CIRCLE",
+  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -3674,6 +4169,17 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-m80-2026-09-17-gamerlegion-W",
+  "date": "2026-09-17",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "M80",
+  "team_b": "GAMERLEGION",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-m80-2026-09-17-luminosity-L",
   "date": "2026-09-17",
   "competition": "VRS-tracked 2026-09",
@@ -3696,17 +4202,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-m80-2026-09-17-gamerlegion-W",
-  "date": "2026-09-17",
-  "competition": "VRS-tracked 2026-09",
-  "team_a": "M80",
-  "team_b": "GAMERLEGION",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-m80-2026-09-17-ninjas in pyjamas-W",
   "date": "2026-09-17",
   "competition": "VRS-tracked 2026-09",
@@ -3723,6 +4218,17 @@
   "competition": "VRS-tracked 2026-09",
   "team_a": "NRG",
   "team_b": "MOUZ",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-17-lag-W",
+  "date": "2026-09-17",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "SportsBetExpert",
+  "team_b": "LAG Gaming",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -3826,6 +4332,17 @@
   "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-09-16-nutorious-W",
+  "date": "2026-09-16",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Overtake Sector",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "1-036ca679-a7fb-47ef-a8df-7def72729d5f",
@@ -4180,6 +4697,17 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-nutorious-2026-09-15-slimy boogermen-W",
+  "date": "2026-09-15",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "NuTorious",
+  "team_b": "Slimy Boogermen",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-90c05a0c-b228-4ae9-97ee-5f48bc032bc1",
   "date": "2026-09-14",
   "competition": "Playoff - CROSSFIRE Season 6",
@@ -4378,6 +4906,39 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-09-14-detonate-W",
+  "date": "2026-09-14",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Overtake Sector",
+  "team_b": "DETONATE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wanted goons-2026-09-14-olympus-L",
+  "date": "2026-09-14",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Wanted Goons",
+  "team_b": "Olympus",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zomblers-2026-09-14-omen-L",
+  "date": "2026-09-14",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Zomblers",
+  "team_b": "OMEN",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-5777fa56-15ca-449c-8143-6a85589a1ab9",
   "date": "2026-09-13",
   "competition": "S58 NA Advanced Central - Playoffs",
@@ -4455,22 +5016,22 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "vrs-2026-10-05-m80-2026-09-13-luminosity-W",
+  "match_id": "vrs-2026-10-05-m80-2026-09-13-iberian soul-W",
   "date": "2026-09-13",
   "competition": "VRS-tracked 2026-09",
   "team_a": "M80",
-  "team_b": "LUMINOSITY",
+  "team_b": "IBERIAN SOUL",
   "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-m80-2026-09-13-iberian soul-W",
+  "match_id": "vrs-2026-10-05-m80-2026-09-13-luminosity-W",
   "date": "2026-09-13",
   "competition": "VRS-tracked 2026-09",
   "team_a": "M80",
-  "team_b": "IBERIAN SOUL",
+  "team_b": "LUMINOSITY",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -4818,6 +5379,17 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-lag-2026-09-12-iowa stormboar-W",
+  "date": "2026-09-12",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "LAG Gaming",
+  "team_b": "Iowa Stormboar",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-liquid-2026-09-12-nrg-W",
   "date": "2026-09-12",
   "competition": "VRS-tracked 2026-09",
@@ -4851,23 +5423,34 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-nrg-2026-09-12-liquid-L",
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-12-desi boyz-W",
   "date": "2026-09-12",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "NRG",
-  "team_b": "Liquid",
+  "team_a": "Marsborne",
+  "team_b": "Desi Boyz",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-12-iowa stormboar-L",
+  "date": "2026-09-12",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "Iowa Stormboar",
   "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-09-12-liquid-L",
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-12-without a roof-W",
   "date": "2026-09-12",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Voca",
-  "team_b": "Liquid",
-  "winner": "b",
+  "team_a": "SportsBetExpert",
+  "team_b": "Without a Roof",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -5170,6 +5753,17 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-lag-2026-09-11-nutorious-W",
+  "date": "2026-09-11",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "LAG Gaming",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-liquid-2026-09-11-nrg-L",
   "date": "2026-09-11",
   "competition": "VRS-tracked 2026-09",
@@ -5192,22 +5786,33 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-nrg-2026-09-11-liquid-W",
+  "match_id": "vrs-2026-10-05-overtake sector-2026-09-11-farmville-W",
   "date": "2026-09-11",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "NRG",
-  "team_b": "Liquid",
+  "team_a": "Overtake Sector",
+  "team_b": "FarmVille",
   "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-09-11-without a roof-W",
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-11-detonate-W",
   "date": "2026-09-11",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Voca",
-  "team_b": "Without a Roof",
+  "team_a": "SportsBetExpert",
+  "team_b": "DETONATE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-11-iowa stormboar-W",
+  "date": "2026-09-11",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "SportsBetExpert",
+  "team_b": "Iowa Stormboar",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -5225,11 +5830,33 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-voca-2026-09-11-without a roof-W",
+  "date": "2026-09-11",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Voca",
+  "team_b": "Without a Roof",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-wildcard-2026-09-11-nemesis-W",
   "date": "2026-09-11",
   "competition": "VRS-tracked 2026-09",
   "team_a": "Wildcard",
   "team_b": "NEMESIS",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-without a roof-2026-09-11-marsborne-W",
+  "date": "2026-09-11",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Without a Roof",
+  "team_b": "Marsborne",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -5929,11 +6556,44 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-desi boyz-2026-09-10-zomblers-W",
+  "date": "2026-09-10",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Desi Boyz",
+  "team_b": "Zomblers",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-09-10-regain-W",
+  "date": "2026-09-10",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "LAG Gaming",
+  "team_b": "regain",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-liquid-2026-09-10-marsborne-W",
   "date": "2026-09-10",
   "competition": "VRS-tracked 2026-09",
   "team_a": "Liquid",
   "team_b": "Marsborne",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-10-olympus-W",
+  "date": "2026-09-10",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "Olympus",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -5951,12 +6611,12 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-09-10-nrg-L",
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-10-farmville-W",
   "date": "2026-09-10",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Voca",
-  "team_b": "NRG",
-  "winner": "b",
+  "team_a": "SportsBetExpert",
+  "team_b": "FarmVille",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -5967,6 +6627,17 @@
   "competition": "VRS-tracked 2026-09",
   "team_a": "Wildcard",
   "team_b": "EYEBALLERS",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-without a roof-2026-09-10-villainous-W",
+  "date": "2026-09-10",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Without a Roof",
+  "team_b": "Villainous",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -6314,12 +6985,12 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-09-09-marsborne-L",
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-09-09-overtake sector-W",
   "date": "2026-09-09",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Chicken Coop",
-  "team_b": "Marsborne",
-  "winner": "b",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Overtake Sector",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -6330,6 +7001,17 @@
   "competition": "VRS-tracked 2026-09",
   "team_a": "Liquid",
   "team_b": "ANTIVALUE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-09-chicken coop-W",
+  "date": "2026-09-09",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "Chicken Coop",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -6351,7 +7033,7 @@
   "date": "2026-09-09",
   "competition": "VRS-tracked 2026-09",
   "team_a": "Voca",
-  "team_b": "VILLAINOUS",
+  "team_b": "Villainous",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -9053,6 +9735,83 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-farmville-2026-09-06-beyond limits-W",
+  "date": "2026-09-06",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "FarmVille",
+  "team_b": "Beyond Limits",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-09-06-beyond limits-W",
+  "date": "2026-09-06",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Beyond Limits",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-09-06-detonate-W",
+  "date": "2026-09-06",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Overtake Sector",
+  "team_b": "DETONATE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-09-06-axial-W",
+  "date": "2026-09-06",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "regain",
+  "team_b": "Axial",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-09-06-detonate-W",
+  "date": "2026-09-06",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "regain",
+  "team_b": "DETONATE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-villainous-2026-09-06-babag-W",
+  "date": "2026-09-06",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Villainous",
+  "team_b": "babaG",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-without a roof-2026-09-06-desi boyz-W",
+  "date": "2026-09-06",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Without a Roof",
+  "team_b": "Desi Boyz",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-1705b4ef-8315-4a16-a259-5b405dbf7d31",
   "date": "2026-09-05",
   "competition": "S58 NA Open9-10 East - Playoffs A",
@@ -9328,12 +10087,56 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-09-05-villainous-L",
+  "match_id": "vrs-2026-10-05-farmville-2026-09-05-detonate-L",
   "date": "2026-09-05",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Chicken Coop",
-  "team_b": "VILLAINOUS",
+  "team_a": "FarmVille",
+  "team_b": "DETONATE",
   "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-09-05-marsborne-L",
+  "date": "2026-09-05",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "LAG Gaming",
+  "team_b": "Marsborne",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-09-05-axial-W",
+  "date": "2026-09-05",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Overtake Sector",
+  "team_b": "Axial",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-09-05-nutorious-W",
+  "date": "2026-09-05",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "regain",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-05-iowa stormboar-W",
+  "date": "2026-09-05",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "SportsBetExpert",
+  "team_b": "Iowa Stormboar",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -9445,6 +10248,17 @@
   "team_b": "49th Parallel",
   "winner": "a",
   "score": "2-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-189de113-15b9-48c3-8b01-7a67a599da8d",
+  "date": "2026-09-04",
+  "competition": "S58 NA Open9-10 East - Playoffs C",
+  "team_a": "Team NK",
+  "team_b": "Seven ate Nine",
+  "winner": "a",
+  "score": "2-0",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -11231,6 +12045,138 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-empire-2026-09-04-unreal nightmare-W",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "EMPIRE",
+  "team_b": "FRZ Unit",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-09-04-wanted goons-W",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Wanted Goons",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-09-04-detonate-W",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "LAG Gaming",
+  "team_b": "DETONATE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-04-incognito-W",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "INCOGNITO",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-04-the homies-W",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "The Homies",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nutorious-2026-09-04-beyond limits-L",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "NuTorious",
+  "team_b": "Beyond Limits",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-09-04-villainous-W",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Overtake Sector",
+  "team_b": "Villainous",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-09-04-farmville-L",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "regain",
+  "team_b": "FarmVille",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-villainous-2026-09-04-incognito-L",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Villainous",
+  "team_b": "INCOGNITO",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-without a roof-2026-09-04-celestial-W",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Without a Roof",
+  "team_b": "CELESTIAL",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-without a roof-2026-09-04-empire-W",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Without a Roof",
+  "team_b": "EMPIRE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-without a roof-2026-09-04-marsborne-L",
+  "date": "2026-09-04",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Without a Roof",
+  "team_b": "Marsborne",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-0a50703b-5e46-4b76-a727-7ba53712024b",
   "date": "2026-09-03",
   "competition": "S58 NA Advanced Central - Playoffs",
@@ -11759,12 +12705,89 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-09-03-desi boyz-L",
+  "match_id": "vrs-2026-10-05-desi boyz-2026-09-03-chicken coop-W",
   "date": "2026-09-03",
   "competition": "VRS-tracked 2026-09",
-  "team_a": "Chicken Coop",
-  "team_b": "Desi Boyz",
+  "team_a": "Desi Boyz",
+  "team_b": "Chicken Coop",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-detonate-2026-09-03-nutorious-W",
+  "date": "2026-09-03",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "DETONATE",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-09-03-overtake sector-W",
+  "date": "2026-09-03",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Overtake Sector",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-09-03-beyond limits-W",
+  "date": "2026-09-03",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "LAG Gaming",
+  "team_b": "Beyond Limits",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-09-03-farmville-W",
+  "date": "2026-09-03",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Marsborne",
+  "team_b": "FarmVille",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-03-axial-W",
+  "date": "2026-09-03",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "SportsBetExpert",
+  "team_b": "Axial",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-villainous-2026-09-03-wanted goons-L",
+  "date": "2026-09-03",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Villainous",
+  "team_b": "Wanted Goons",
   "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-without a roof-2026-09-03-regain-W",
+  "date": "2026-09-03",
+  "competition": "VRS-tracked 2026-09",
+  "team_a": "Without a Roof",
+  "team_b": "regain",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -14113,6 +15136,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "1-5ec53dea-dc39-4557-a76b-ba7482218209",
+  "date": "2026-09-01",
+  "competition": "S58 NA Open9-10 East - Playoffs C",
+  "team_a": "Swole Patrol",
+  "team_b": "Seven ate Nine",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-7d6c3e94-2531-4242-a28e-0d9dc4f5f3a6",
   "date": "2026-09-01",
   "competition": "NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A",
@@ -14201,6 +15235,39 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-exodia-2026-08-31-bestia academy-L",
+  "date": "2026-08-31",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "EXODIA",
+  "team_b": "BESTIA ACADEMY",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-08-31-overtake sector-W",
+  "date": "2026-08-31",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Marsborne",
+  "team_b": "Overtake Sector",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zetta-2026-08-31-damajuana-L",
+  "date": "2026-08-31",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Zetta",
+  "team_b": "DAMAJUANA",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-2edc6fc4-a021-4573-a9d5-b687901d5718",
   "date": "2026-08-30",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -14278,12 +15345,23 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-08-30-overtake sector-L",
+  "match_id": "vrs-2026-10-05-desi boyz-2026-08-30-regain-W",
   "date": "2026-08-30",
   "competition": "VRS-tracked 2026-08",
-  "team_a": "Chicken Coop",
-  "team_b": "OVERTAKE SECTOR",
-  "winner": "b",
+  "team_a": "Desi Boyz",
+  "team_b": "regain",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-desi boyz-2026-08-30-wanted goons-W",
+  "date": "2026-08-30",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Desi Boyz",
+  "team_b": "Wanted Goons",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -14300,12 +15378,78 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-08-30-chicken coop-W",
+  "date": "2026-08-30",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Overtake Sector",
+  "team_b": "Chicken Coop",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-08-30-desi boyz-W",
+  "date": "2026-08-30",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "SportsBetExpert",
+  "team_b": "Desi Boyz",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-08-30-detonate-W",
+  "date": "2026-08-30",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "SportsBetExpert",
+  "team_b": "DETONATE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-08-30-lag-L",
+  "date": "2026-08-30",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "SportsBetExpert",
+  "team_b": "LAG Gaming",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-08-30-without a roof-W",
+  "date": "2026-08-30",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "SportsBetExpert",
+  "team_b": "Without a Roof",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-voca-2026-08-30-marsborne-W",
   "date": "2026-08-30",
   "competition": "VRS-tracked 2026-08",
   "team_a": "Voca",
   "team_b": "Marsborne",
   "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-without a roof-2026-08-30-lag-L",
+  "date": "2026-08-30",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Without a Roof",
+  "team_b": "LAG Gaming",
+  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -14361,6 +15505,160 @@
   "team_a": "Chicken Coop",
   "team_b": "Zomblers",
   "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-desi boyz-2026-08-29-kodex-W",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Desi Boyz",
+  "team_b": "KODEX",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-exodia-2026-08-29-meia noite-L",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "EXODIA",
+  "team_b": "MEIA NOITE",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-08-29-desi boyz-W",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "LAG Gaming",
+  "team_b": "Desi Boyz",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-08-29-detonate-W",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "LAG Gaming",
+  "team_b": "DETONATE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nutorious-2026-08-29-unreal nightmare-W",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "NuTorious",
+  "team_b": "FRZ Unit",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-08-29-empire-W",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Overtake Sector",
+  "team_b": "EMPIRE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-08-29-detonate-L",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "regain",
+  "team_b": "DETONATE",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-08-29-skyline-W",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "regain",
+  "team_b": "Skyline",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-08-29-elusive-W",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "SportsBetExpert",
+  "team_b": "Elusive",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-08-29-nutorious-W",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "SportsBetExpert",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-08-29-without a roof-L",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "SportsBetExpert",
+  "team_b": "Without a Roof",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wanted goons-2026-08-29-nutorious-W",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Wanted Goons",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-without a roof-2026-08-29-wanted goons-W",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Without a Roof",
+  "team_b": "Wanted Goons",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zetta-2026-08-29-procyon-L",
+  "date": "2026-08-29",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Zetta",
+  "team_b": "PROCYON",
+  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -15543,11 +16841,22 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-08-28-marsborne-L",
+  "match_id": "vrs-2026-10-05-exodia-2026-08-28-gr\u00eamio-L",
   "date": "2026-08-28",
   "competition": "VRS-tracked 2026-08",
-  "team_a": "Chicken Coop",
-  "team_b": "Marsborne",
+  "team_a": "EXODIA",
+  "team_b": "GR\u00caMIO",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-08-28-empire-L",
+  "date": "2026-08-28",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Iowa Stormboar",
+  "team_b": "EMPIRE",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -15565,11 +16874,33 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-marsborne-2026-08-28-chicken coop-W",
+  "date": "2026-08-28",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Marsborne",
+  "team_b": "Chicken Coop",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-voca-2026-08-28-overtake sector-W",
   "date": "2026-08-28",
   "competition": "VRS-tracked 2026-08",
   "team_a": "Voca",
-  "team_b": "OVERTAKE SECTOR",
+  "team_b": "Overtake Sector",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zomblers-2026-08-28-elusive-W",
+  "date": "2026-08-28",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Zomblers",
+  "team_b": "Elusive",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -16014,6 +17345,50 @@
   "score": "0-1",
   "tier": "B",
   "source": "faceit-tournament"
+ },
+ {
+  "match_id": "vrs-2026-10-05-empire-2026-08-27-new legends-W",
+  "date": "2026-08-27",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "EMPIRE",
+  "team_b": "New Legends",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-farmville-2026-08-27-zomblers-L",
+  "date": "2026-08-27",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "FarmVille",
+  "team_b": "Zomblers",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-08-27-villainous-W",
+  "date": "2026-08-27",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Villainous",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nutorious-2026-08-27-elusive-L",
+  "date": "2026-08-27",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "NuTorious",
+  "team_b": "Elusive",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "1-020056d8-f571-45a0-a577-0cd4a02a186d",
@@ -17391,6 +18766,28 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-club 333-2026-08-26-new legends-L",
+  "date": "2026-08-26",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Club 333",
+  "team_b": "New Legends",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-detonate-2026-08-26-villainous-L",
+  "date": "2026-08-26",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "DETONATE",
+  "team_b": "Villainous",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-m80-2026-08-26-natus vincere-W",
   "date": "2026-08-26",
   "competition": "VRS-tracked 2026-08",
@@ -17402,11 +18799,77 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-marsborne-2026-08-26-iowa stormboar-W",
+  "date": "2026-08-26",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Marsborne",
+  "team_b": "Iowa Stormboar",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-08-26-nutorious-W",
+  "date": "2026-08-26",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Overtake Sector",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-shimmer-2026-08-26-elusive-L",
+  "date": "2026-08-26",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Shimmer",
+  "team_b": "Elusive",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-voca-2026-08-26-farmville-W",
   "date": "2026-08-26",
   "competition": "VRS-tracked 2026-08",
   "team_a": "Voca",
   "team_b": "FarmVille",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zetta-2026-08-26-bestia academy-L",
+  "date": "2026-08-26",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Zetta",
+  "team_b": "BESTIA ACADEMY",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zetta-2026-08-26-pugdesonesto-W",
+  "date": "2026-08-26",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Zetta",
+  "team_b": "PUGDESONESTO",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zomblers-2026-08-26-incognito-W",
+  "date": "2026-08-26",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Zomblers",
+  "team_b": "INCOGNITO",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -17710,11 +19173,88 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-detonate-2026-08-25-nutorious-L",
+  "date": "2026-08-25",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "DETONATE",
+  "team_b": "NuTorious",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-empire-2026-08-25-zomblers-W",
+  "date": "2026-08-25",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "EMPIRE",
+  "team_b": "Zomblers",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-exodia-2026-08-25-guara-W",
+  "date": "2026-08-25",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "EXODIA",
+  "team_b": "GUARA",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-farmville-2026-08-25-club 333-W",
+  "date": "2026-08-25",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "FarmVille",
+  "team_b": "Club 333",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-08-25-shimmer-W",
+  "date": "2026-08-25",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Shimmer",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-08-25-elusive-W",
+  "date": "2026-08-25",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Marsborne",
+  "team_b": "Elusive",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-08-25-villainous-W",
+  "date": "2026-08-25",
+  "competition": "VRS-tracked 2026-08",
+  "team_a": "Overtake Sector",
+  "team_b": "Villainous",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-voca-2026-08-25-new legends-W",
   "date": "2026-08-25",
   "competition": "VRS-tracked 2026-08",
   "team_a": "Voca",
-  "team_b": "Day Traders",
+  "team_b": "New Legends",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -28039,17 +29579,6 @@
   "source": "faceit-tournament"
  },
  {
-  "match_id": "vrs-2026-10-05-nrg-2026-08-02-voca-W",
-  "date": "2026-08-02",
-  "competition": "VRS-tracked 2026-08",
-  "team_a": "NRG",
-  "team_b": "Voca",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-nrg-2026-08-02-sportsbetexpert-W",
   "date": "2026-08-02",
   "competition": "VRS-tracked 2026-08",
@@ -28061,12 +29590,12 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-08-02-nrg-L",
+  "match_id": "vrs-2026-10-05-nrg-2026-08-02-voca-W",
   "date": "2026-08-02",
   "competition": "VRS-tracked 2026-08",
-  "team_a": "Voca",
-  "team_b": "NRG",
-  "winner": "b",
+  "team_a": "NRG",
+  "team_b": "Voca",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -28237,11 +29766,11 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-08-01-nrg-W",
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-08-01-marsborne-W",
   "date": "2026-08-01",
   "competition": "VRS-tracked 2026-08",
-  "team_a": "Voca",
-  "team_b": "NRG",
+  "team_a": "SportsBetExpert",
+  "team_b": "Marsborne",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -29469,6 +30998,28 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-marsborne-2026-07-31-regain-W",
+  "date": "2026-07-31",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "Marsborne",
+  "team_b": "regain",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-07-31-lag-W",
+  "date": "2026-07-31",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "SportsBetExpert",
+  "team_b": "LAG Gaming",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-0f84f2bf-5950-48df-b730-87028e53c654",
   "date": "2026-07-30",
   "competition": "S58 NA Intermediate B - Regular Season",
@@ -29590,17 +31141,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-07-30-regain-L",
-  "date": "2026-07-30",
-  "competition": "VRS-tracked 2026-07",
-  "team_a": "Chicken Coop",
-  "team_b": "regain",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-liquid-2026-07-30-spirit-L",
   "date": "2026-07-30",
   "competition": "VRS-tracked 2026-07",
@@ -29612,12 +31152,23 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-07-30-sportsbetexpert-W",
+  "match_id": "vrs-2026-10-05-regain-2026-07-30-chicken coop-W",
   "date": "2026-07-30",
   "competition": "VRS-tracked 2026-07",
-  "team_a": "Voca",
-  "team_b": "SportsBetExpert",
+  "team_a": "regain",
+  "team_b": "Chicken Coop",
   "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-07-30-voca-L",
+  "date": "2026-07-30",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "SportsBetExpert",
+  "team_b": "Voca",
+  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -31018,6 +32569,17 @@
   "score": "1-2",
   "tier": "C",
   "source": "faceit-tournament"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-07-29-iowa stormboar-W",
+  "date": "2026-07-29",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "LAG Gaming",
+  "team_b": "Iowa Stormboar",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "vrs-2026-10-05-nrg-2026-07-29-marsborne-W",
@@ -34100,6 +35662,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-exodia-2026-07-20-your end-L",
+  "date": "2026-07-20",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "EXODIA",
+  "team_b": "YOUR END",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-37b094d0-d981-401a-984d-40f83a9b9208",
   "date": "2026-07-19",
   "competition": "Brace For Impact: NA Women's Cash Cup July 2026",
@@ -35398,6 +36971,17 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-exodia-2026-07-17-vasco-W",
+  "date": "2026-07-17",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "EXODIA",
+  "team_b": "VASCO",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-136cfd9c-e122-425d-a426-f1a90ac473ef",
   "date": "2026-07-16",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -35539,6 +37123,17 @@
   "score": "1-0",
   "tier": "C",
   "source": "faceit-league"
+ },
+ {
+  "match_id": "vrs-2026-10-05-exodia-2026-07-16-pain academy-L",
+  "date": "2026-07-16",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "EXODIA",
+  "team_b": "PAIN ACADEMY",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "vrs-2026-10-05-wildcard-2026-07-16-k27-L",
@@ -36828,6 +38423,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-exodia-2026-07-15-meia noite-L",
+  "date": "2026-07-15",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "EXODIA",
+  "team_b": "MEIA NOITE",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-wildcard-2026-07-15-iberian soul-L",
   "date": "2026-07-15",
   "competition": "VRS-tracked 2026-07",
@@ -36971,6 +38577,28 @@
   "source": "faceit-tournament"
  },
  {
+  "match_id": "vrs-2026-10-05-nrg-2026-07-12-eh-W",
+  "date": "2026-07-12",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "NRG",
+  "team_b": "EH",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nrg-2026-07-12-nutorious-W",
+  "date": "2026-07-12",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "NRG",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-nrg-2026-07-12-sportsbetexpert-W",
   "date": "2026-07-12",
   "competition": "VRS-tracked 2026-07",
@@ -36982,22 +38610,55 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-nrg-2026-07-12-nutorious-W",
+  "match_id": "vrs-2026-10-05-nutorious-2026-07-12-seoul-W",
   "date": "2026-07-12",
   "competition": "VRS-tracked 2026-07",
-  "team_a": "NRG",
-  "team_b": "NUTORIOUS",
+  "team_a": "NuTorious",
+  "team_b": "SEOUL",
   "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-nrg-2026-07-12-eh-W",
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-07-12-desi boyz-W",
   "date": "2026-07-12",
   "competition": "VRS-tracked 2026-07",
-  "team_a": "NRG",
-  "team_b": "EH",
+  "team_a": "SportsBetExpert",
+  "team_b": "Desi Boyz",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-07-12-villainous-W",
+  "date": "2026-07-12",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "SportsBetExpert",
+  "team_b": "Villainous",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-villainous-2026-07-12-celestial-W",
+  "date": "2026-07-12",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "Villainous",
+  "team_b": "CELESTIAL",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-villainous-2026-07-12-nutorious-W",
+  "date": "2026-07-12",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "Villainous",
+  "team_b": "NuTorious",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -37015,22 +38676,11 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-07-11-m80-L",
-  "date": "2026-07-11",
-  "competition": "VRS-tracked 2026-07",
-  "team_a": "Voca",
-  "team_b": "M80",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-m80-2026-07-10-lag-W",
   "date": "2026-07-10",
   "competition": "VRS-tracked 2026-07",
   "team_a": "M80",
-  "team_b": "LAG",
+  "team_b": "LAG Gaming",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -37048,6 +38698,17 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-lag-2026-07-09-overtake sector-W",
+  "date": "2026-07-09",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "LAG Gaming",
+  "team_b": "Overtake Sector",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-m80-2026-07-09-winners-W",
   "date": "2026-07-09",
   "competition": "VRS-tracked 2026-07",
@@ -37059,11 +38720,176 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-marsborne-2026-07-09-regain-L",
+  "date": "2026-07-09",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "Marsborne",
+  "team_b": "regain",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-07-09-club 333-W",
+  "date": "2026-07-09",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "regain",
+  "team_b": "Club 333",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-voca-2026-07-09-nutorious-W",
   "date": "2026-07-09",
   "competition": "VRS-tracked 2026-07",
   "team_a": "Voca",
-  "team_b": "NUTORIOUS",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-07-07-raisedbypixels-W",
+  "date": "2026-07-07",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "Overtake Sector",
+  "team_b": "raisedbypixels",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-exodia-2026-07-03-alka-L",
+  "date": "2026-07-03",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "EXODIA",
+  "team_b": "ALKA",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-07-03-club 333-L",
+  "date": "2026-07-03",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "Overtake Sector",
+  "team_b": "Club 333",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-07-02-raisedbypixels-W",
+  "date": "2026-07-02",
+  "competition": "VRS-tracked 2026-07",
+  "team_a": "regain",
+  "team_b": "raisedbypixels",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-exodia-2026-06-30-vasco-W",
+  "date": "2026-06-30",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "EXODIA",
+  "team_b": "VASCO",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-06-30-wanted goons-W",
+  "date": "2026-06-30",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Overtake Sector",
+  "team_b": "Wanted Goons",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-club 333-2026-06-29-beyond limits-W",
+  "date": "2026-06-29",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Club 333",
+  "team_b": "Beyond Limits",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-exodia-2026-06-29-pain academy-L",
+  "date": "2026-06-29",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "EXODIA",
+  "team_b": "PAIN ACADEMY",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-festina lente-2026-06-29-raisedbypixels-L",
+  "date": "2026-06-29",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Festina Lente",
+  "team_b": "raisedbypixels",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-06-29-villainous-W",
+  "date": "2026-06-29",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "regain",
+  "team_b": "Villainous",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-exodia-2026-06-28-yawara-L",
+  "date": "2026-06-28",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "EXODIA",
+  "team_b": "YAWARA",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-shimmer-2026-06-26-mibr fe-L",
+  "date": "2026-06-26",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Shimmer",
+  "team_b": "MIBR FE",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-shimmer-2026-06-23-atrix-W",
+  "date": "2026-06-23",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Shimmer",
+  "team_b": "ATRIX",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -37081,12 +38907,23 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-06-20-overtake sector-W",
+  "match_id": "vrs-2026-10-05-overtake sector-2026-06-20-chicken coop-L",
   "date": "2026-06-20",
   "competition": "VRS-tracked 2026-06",
-  "team_a": "Chicken Coop",
-  "team_b": "OVERTAKE SECTOR",
-  "winner": "a",
+  "team_a": "Overtake Sector",
+  "team_b": "Chicken Coop",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-villainous-2026-06-20-club 333-L",
+  "date": "2026-06-20",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Villainous",
+  "team_b": "Club 333",
+  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -37097,6 +38934,39 @@
   "competition": "VRS-tracked 2026-06",
   "team_a": "Chicken Coop",
   "team_b": "dice",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-club 333-2026-06-19-playing for fun-W",
+  "date": "2026-06-19",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Club 333",
+  "team_b": "Playing for fun",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-detonate-2026-06-19-villainous-L",
+  "date": "2026-06-19",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "DETONATE",
+  "team_b": "Villainous",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-06-19-brahmas-W",
+  "date": "2026-06-19",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Overtake Sector",
+  "team_b": "Brahmas",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -37169,6 +39039,39 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-club 333-2026-06-14-olympus-W",
+  "date": "2026-06-14",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Club 333",
+  "team_b": "Olympus",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-06-14-festina lente-W",
+  "date": "2026-06-14",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Festina Lente",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-06-14-iowa stormboar-W",
+  "date": "2026-06-14",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Marsborne",
+  "team_b": "Iowa Stormboar",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-84ca6e96-6b7a-434d-ab08-3a7c71180652",
   "date": "2026-06-13",
   "competition": "S57 NA Advanced Central - Playoffs",
@@ -37200,6 +39103,61 @@
   "score": "1-2",
   "tier": "B",
   "source": "faceit-league"
+ },
+ {
+  "match_id": "vrs-2026-10-05-detonate-2026-06-13-wanted goons-W",
+  "date": "2026-06-13",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "DETONATE",
+  "team_b": "Wanted Goons",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-06-13-detonate-W",
+  "date": "2026-06-13",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Iowa Stormboar",
+  "team_b": "DETONATE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-06-13-overtake sector-W",
+  "date": "2026-06-13",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Overtake Sector",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-06-13-festina lente-W",
+  "date": "2026-06-13",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Marsborne",
+  "team_b": "Festina Lente",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wanted goons-2026-06-13-olympus-L",
+  "date": "2026-06-13",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Wanted Goons",
+  "team_b": "Olympus",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "1-20524d49-e8f3-4380-81b0-bbcd08da3c2e",
@@ -37356,6 +39314,72 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-detonate-2026-06-12-festina lente-L",
+  "date": "2026-06-12",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "DETONATE",
+  "team_b": "Festina Lente",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-06-12-club 333-W",
+  "date": "2026-06-12",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Club 333",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-06-12-olympus-L",
+  "date": "2026-06-12",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "LAG Gaming",
+  "team_b": "Olympus",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-06-12-overtake sector-W",
+  "date": "2026-06-12",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Marsborne",
+  "team_b": "Overtake Sector",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-raisedbypixels-2026-06-12-omen-L",
+  "date": "2026-06-12",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "raisedbypixels",
+  "team_b": "OMEN",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wanted goons-2026-06-12-nutorious-W",
+  "date": "2026-06-12",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Wanted Goons",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-0b15bad5-7bcb-4683-816f-7fc1619c6b52",
   "date": "2026-06-11",
   "competition": "S57 NA Open9-10 Central - Playoffs A",
@@ -37431,6 +39455,50 @@
   "score": "1-2",
   "tier": "B",
   "source": "faceit-league"
+ },
+ {
+  "match_id": "vrs-2026-10-05-festina lente-2026-06-11-club 333-W",
+  "date": "2026-06-11",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Festina Lente",
+  "team_b": "Club 333",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-06-11-detonate-L",
+  "date": "2026-06-11",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Iowa Stormboar",
+  "team_b": "DETONATE",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-06-11-nutorious-W",
+  "date": "2026-06-11",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Marsborne",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-06-11-wanted goons-W",
+  "date": "2026-06-11",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Overtake Sector",
+  "team_b": "Wanted Goons",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "1-017b33ce-abcb-40d5-b547-027845ac7a76",
@@ -37906,6 +39974,17 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-villainous-2026-06-08-brahmas-W",
+  "date": "2026-06-08",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Villainous",
+  "team_b": "Brahmas",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-0159985d-2614-4217-9622-36105d413af7",
   "date": "2026-06-07",
   "competition": "S57 NA Intermediate Central - Playoffs B",
@@ -38137,6 +40216,28 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-club 333-2026-06-06-raisedbypixels-W",
+  "date": "2026-06-06",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Club 333",
+  "team_b": "raisedbypixels",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-06-06-villainous-L",
+  "date": "2026-06-06",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "LAG Gaming",
+  "team_b": "Villainous",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-m80-2026-06-06-b8-W",
   "date": "2026-06-06",
   "competition": "VRS-tracked 2026-06",
@@ -38153,6 +40254,17 @@
   "competition": "VRS-tracked 2026-06",
   "team_a": "M80",
   "team_b": "G2",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wanted goons-2026-06-06-brahmas-L",
+  "date": "2026-06-06",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "Wanted Goons",
+  "team_b": "Brahmas",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -38869,17 +40981,6 @@
   "team_a": "M80",
   "team_b": "NRG",
   "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-nrg-2026-06-04-m80-L",
-  "date": "2026-06-04",
-  "competition": "VRS-tracked 2026-06",
-  "team_a": "NRG",
-  "team_b": "M80",
-  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -39908,23 +42009,23 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-nrg-2026-06-02-sinners-W",
-  "date": "2026-06-02",
-  "competition": "VRS-tracked 2026-06",
-  "team_a": "NRG",
-  "team_b": "SINNERS",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-nrg-2026-06-02-gamerlegion-L",
   "date": "2026-06-02",
   "competition": "VRS-tracked 2026-06",
   "team_a": "NRG",
   "team_b": "GAMERLEGION",
   "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nrg-2026-06-02-sinners-W",
+  "date": "2026-06-02",
+  "competition": "VRS-tracked 2026-06",
+  "team_a": "NRG",
+  "team_b": "SINNERS",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -40634,11 +42735,33 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-05-31-marsborne-W",
+  "match_id": "vrs-2026-10-05-marsborne-2026-05-31-chicken coop-L",
   "date": "2026-05-31",
   "competition": "VRS-tracked 2026-05",
-  "team_a": "Chicken Coop",
+  "team_a": "Marsborne",
+  "team_b": "Chicken Coop",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-05-31-marsborne-L",
+  "date": "2026-05-31",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "SportsBetExpert",
   "team_b": "Marsborne",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-05-31-reign above-W",
+  "date": "2026-05-31",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "SportsBetExpert",
+  "team_b": "Reign Above",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -40689,23 +42812,166 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-05-30-sportsbetexpert-W",
+  "match_id": "vrs-2026-10-05-chicken coop-2026-05-30-nutorious-W",
   "date": "2026-05-30",
   "competition": "VRS-tracked 2026-05",
   "team_a": "Chicken Coop",
-  "team_b": "SportsBetExpert",
+  "team_b": "NuTorious",
   "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-05-30-nutorious-W",
+  "match_id": "vrs-2026-10-05-lag-2026-05-30-absolute cinema-W",
   "date": "2026-05-30",
   "competition": "VRS-tracked 2026-05",
-  "team_a": "Chicken Coop",
-  "team_b": "NUTORIOUS",
+  "team_a": "LAG Gaming",
+  "team_b": "absolute cinema",
   "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-05-30-makeshift-W",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "LAG Gaming",
+  "team_b": "makeSHIFT",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-05-30-marsborne-L",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "LAG Gaming",
+  "team_b": "Marsborne",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-05-30-wanted goons-W",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "LAG Gaming",
+  "team_b": "Wanted Goons",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-05-30-reign above-W",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Marsborne",
+  "team_b": "Reign Above",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nutorious-2026-05-30-absolute cinema-W",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "NuTorious",
+  "team_b": "absolute cinema",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nutorious-2026-05-30-frz-W",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "NuTorious",
+  "team_b": "FRZ",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nutorious-2026-05-30-makeshift-W",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "NuTorious",
+  "team_b": "makeSHIFT",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nutorious-2026-05-30-reign above-L",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "NuTorious",
+  "team_b": "Reign Above",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-05-30-chicken coop-L",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "SportsBetExpert",
+  "team_b": "Chicken Coop",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-05-30-lag-W",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "SportsBetExpert",
+  "team_b": "LAG Gaming",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-05-30-nxg-W",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "SportsBetExpert",
+  "team_b": "NXG",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wanted goons-2026-05-30-ninefly-W",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Wanted Goons",
+  "team_b": "NINEFLY",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wanted goons-2026-05-30-reign above-L",
+  "date": "2026-05-30",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Wanted Goons",
+  "team_b": "Reign Above",
+  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -42097,17 +44363,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-05-28-m80-L",
-  "date": "2026-05-28",
-  "competition": "VRS-tracked 2026-05",
-  "team_a": "Voca",
-  "team_b": "M80",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "1-0013033b-5842-4a7d-bbe2-4e656c2ac1ae",
   "date": "2026-05-27",
   "competition": "S57 NA Open9-10 Central - Playoffs A",
@@ -43153,6 +45408,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "1-7e55aad1-d237-472b-b4d8-cb42b829b9b8",
+  "date": "2026-05-27",
+  "competition": "S57 NA Open1-8 Central - Playoffs",
+  "team_a": "Team Allstr",
+  "team_b": "Exploding Trees",
+  "winner": "a",
+  "score": "2-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-815e6678-e530-40ee-807a-c3c4417f2831",
   "date": "2026-05-27",
   "competition": "S57 NA Open1-8 Central - Playoffs",
@@ -43194,17 +45460,6 @@
   "winner": "a",
   "score": "2-0",
   "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-8d70a4e2-1455-4ea7-9c26-4bbfb922e122",
-  "date": "2026-05-27",
-  "competition": "S57 NA Open1-8 Central - Playoffs",
-  "team_a": "69",
-  "team_b": "Maniacs",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
   "source": "faceit-league"
  },
  {
@@ -44011,17 +46266,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-05-27-voca-L",
-  "date": "2026-05-27",
-  "competition": "VRS-tracked 2026-05",
-  "team_a": "Chicken Coop",
-  "team_b": "Voca",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-voca-2026-05-27-chicken coop-W",
   "date": "2026-05-27",
   "competition": "VRS-tracked 2026-05",
@@ -44077,6 +46321,50 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-marsborne-2026-05-24-overtake sector-W",
+  "date": "2026-05-24",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Marsborne",
+  "team_b": "Overtake Sector",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-overtake sector-2026-05-24-ex-aether-L",
+  "date": "2026-05-24",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Overtake Sector",
+  "team_b": "EX-AETHER",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-05-24-ex-aether-W",
+  "date": "2026-05-24",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "SportsBetExpert",
+  "team_b": "EX-AETHER",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-05-24-marsborne-W",
+  "date": "2026-05-24",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "SportsBetExpert",
+  "team_b": "Marsborne",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-wildcard-2026-05-24-fokus-W",
   "date": "2026-05-24",
   "competition": "VRS-tracked 2026-05",
@@ -44121,22 +46409,22 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "vrs-2026-10-05-wildcard-2026-05-23-fokus-W",
+  "match_id": "vrs-2026-10-05-wildcard-2026-05-23-acend-W",
   "date": "2026-05-23",
   "competition": "VRS-tracked 2026-05",
   "team_a": "Wildcard",
-  "team_b": "FOKUS",
+  "team_b": "ACEND",
   "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-wildcard-2026-05-23-acend-W",
+  "match_id": "vrs-2026-10-05-wildcard-2026-05-23-fokus-W",
   "date": "2026-05-23",
   "competition": "VRS-tracked 2026-05",
   "team_a": "Wildcard",
-  "team_b": "ACEND",
+  "team_b": "FOKUS",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -47388,6 +49676,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-exodia-2026-05-18-vexa-L",
+  "date": "2026-05-18",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "EXODIA",
+  "team_b": "VEXA",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-c42d6b50-523d-499b-8802-22fde093804f",
   "date": "2026-05-16",
   "competition": "S57 NA Intermediate Central - Regular Season",
@@ -47397,6 +49696,17 @@
   "score": "0-1",
   "tier": "C",
   "source": "faceit-league"
+ },
+ {
+  "match_id": "vrs-2026-10-05-exodia-2026-05-16-crashers-W",
+  "date": "2026-05-16",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "EXODIA",
+  "team_b": "CRASHERS",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "1-03fca7dd-b141-4603-a474-d79c1952dfac",
@@ -48816,6 +51126,17 @@
   "score": "0-1",
   "tier": "C",
   "source": "faceit-league"
+ },
+ {
+  "match_id": "vrs-2026-10-05-exodia-2026-05-14-ex-kr\u00fc-L",
+  "date": "2026-05-14",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "EXODIA",
+  "team_b": "EX-KR\u00dc",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "1-0040bb2d-d89b-4ad0-a77a-944820c6a7bc",
@@ -50292,23 +52613,23 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-exodia-2026-05-12-r2-L",
+  "date": "2026-05-12",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "EXODIA",
+  "team_b": "R2",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-liquid-2026-05-12-m80-W",
   "date": "2026-05-12",
   "competition": "VRS-tracked 2026-05",
   "team_a": "Liquid",
   "team_b": "M80",
   "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-m80-2026-05-12-liquid-L",
-  "date": "2026-05-12",
-  "competition": "VRS-tracked 2026-05",
-  "team_a": "M80",
-  "team_b": "Liquid",
-  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -53207,17 +55528,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "1-5de9a339-204a-4462-b22c-3e93bb2d4f08",
-  "date": "2026-05-05",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "eefsports",
-  "team_b": "NineFly Esports",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
   "match_id": "1-6260c910-0f59-4a22-81f4-f2508deb619b",
   "date": "2026-05-05",
   "competition": "S57 NA Advanced Central - Regular Season",
@@ -53405,6 +55715,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-zetta-2026-05-04-damajuana-L",
+  "date": "2026-05-04",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Zetta",
+  "team_b": "DAMAJUANA",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-m80-2026-05-03-wildcard-W",
   "date": "2026-05-03",
   "competition": "VRS-tracked 2026-05",
@@ -53427,23 +55748,12 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-05-03-wildcard-W",
-  "date": "2026-05-03",
-  "competition": "VRS-tracked 2026-05",
-  "team_a": "Voca",
-  "team_b": "Wildcard",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-wildcard-2026-05-03-m80-L",
+  "match_id": "vrs-2026-10-05-wildcard-2026-05-03-ex-aether-W",
   "date": "2026-05-03",
   "competition": "VRS-tracked 2026-05",
   "team_a": "Wildcard",
-  "team_b": "M80",
-  "winner": "b",
+  "team_b": "EX-AETHER",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -53460,17 +55770,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-wildcard-2026-05-03-ex-aether-W",
-  "date": "2026-05-03",
-  "competition": "VRS-tracked 2026-05",
-  "team_a": "Wildcard",
-  "team_b": "EX-AETHER",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "1-4b6b8e83-3073-4c56-884a-440c288d2c63",
   "date": "2026-05-02",
   "competition": "S57 NA Intermediate Central - Regular Season",
@@ -53480,6 +55779,17 @@
   "score": "1-0",
   "tier": "C",
   "source": "faceit-league"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-05-02-zomblers-L",
+  "date": "2026-05-02",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Zomblers",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "vrs-2026-10-05-m80-2026-05-02-incognito-W",
@@ -53499,6 +55809,17 @@
   "team_a": "Voca",
   "team_b": "Zomblers",
   "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zetta-2026-05-02-isurus-L",
+  "date": "2026-05-02",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Zetta",
+  "team_b": "ISURUS",
+  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -54692,12 +57013,23 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-05-01-wildcard-L",
+  "match_id": "vrs-2026-10-05-regain-2026-05-01-zomblers-L",
   "date": "2026-05-01",
   "competition": "VRS-tracked 2026-05",
-  "team_a": "Voca",
-  "team_b": "Wildcard",
+  "team_a": "regain",
+  "team_b": "Zomblers",
   "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wildcard-2026-05-01-farmville-W",
+  "date": "2026-05-01",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Wildcard",
+  "team_b": "FarmVille",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -54714,12 +57046,12 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-wildcard-2026-05-01-farmville-W",
+  "match_id": "vrs-2026-10-05-zetta-2026-05-01-uno mille-L",
   "date": "2026-05-01",
   "competition": "VRS-tracked 2026-05",
-  "team_a": "Wildcard",
-  "team_b": "FarmVille",
-  "winner": "a",
+  "team_a": "Zetta",
+  "team_b": "UNO MILLE",
+  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -55086,6 +57418,39 @@
   "score": "1-0",
   "tier": "C",
   "source": "faceit-league"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-04-30-farmville-W",
+  "date": "2026-04-30",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "regain",
+  "team_b": "FarmVille",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-shimmer-2026-04-30-farmville-L",
+  "date": "2026-04-30",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Shimmer",
+  "team_b": "FarmVille",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zomblers-2026-04-30-fisher college-W",
+  "date": "2026-04-30",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Zomblers",
+  "team_b": "FISHER COLLEGE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "1-0075f37d-eef5-4d89-8083-d1a2da6a72d2",
@@ -56342,12 +58707,23 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-04-29-regain-L",
+  "match_id": "vrs-2026-10-05-regain-2026-04-29-chicken coop-W",
   "date": "2026-04-29",
   "competition": "VRS-tracked 2026-04",
-  "team_a": "Chicken Coop",
-  "team_b": "regain",
-  "winner": "b",
+  "team_a": "regain",
+  "team_b": "Chicken Coop",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-shimmer-2026-04-29-overknight-W",
+  "date": "2026-04-29",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Shimmer",
+  "team_b": "OVERKNIGHT",
+  "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -56573,6 +58949,61 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-farmville-2026-04-28-ex-aether-L",
+  "date": "2026-04-28",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "FarmVille",
+  "team_b": "EX-AETHER",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-04-28-incognito-W",
+  "date": "2026-04-28",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Iowa Stormboar",
+  "team_b": "INCOGNITO",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nutorious-2026-04-28-reign above-L",
+  "date": "2026-04-28",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "NuTorious",
+  "team_b": "Reign Above",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-04-28-wanted goons-W",
+  "date": "2026-04-28",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "regain",
+  "team_b": "Wanted Goons",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zetta-2026-04-28-gamehunters-W",
+  "date": "2026-04-28",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Zetta",
+  "team_b": "GAMEHUNTERS",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-4239c137-b559-4304-9f8c-130495cddd99",
   "date": "2026-04-27",
   "competition": "S57 NA Advanced Central - Regular Season",
@@ -56661,22 +59092,66 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "vrs-2026-10-05-aether-2026-04-27-wildcard-L",
+  "match_id": "vrs-2026-10-05-farmville-2026-04-27-reign above-W",
   "date": "2026-04-27",
   "competition": "VRS-tracked 2026-04",
-  "team_a": "Aether",
-  "team_b": "Wildcard",
+  "team_a": "FarmVille",
+  "team_b": "Reign Above",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-04-27-girl kissers-W",
+  "date": "2026-04-27",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Iowa Stormboar",
+  "team_b": "girl kissers",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-04-27-insane players-W",
+  "date": "2026-04-27",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Marsborne",
+  "team_b": "INSANE PLAYERS",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nutorious-2026-04-27-new legends-W",
+  "date": "2026-04-27",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "NuTorious",
+  "team_b": "New Legends",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-04-27-zomblers-L",
+  "date": "2026-04-27",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "regain",
+  "team_b": "Zomblers",
   "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-04-27-voca-L",
+  "match_id": "vrs-2026-10-05-shimmer-2026-04-27-ex-aether-L",
   "date": "2026-04-27",
   "competition": "VRS-tracked 2026-04",
-  "team_a": "Chicken Coop",
-  "team_b": "Voca",
+  "team_a": "Shimmer",
+  "team_b": "EX-AETHER",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -56688,6 +59163,17 @@
   "competition": "VRS-tracked 2026-04",
   "team_a": "Voca",
   "team_b": "Chicken Coop",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wanted goons-2026-04-27-empire-W",
+  "date": "2026-04-27",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Wanted Goons",
+  "team_b": "EMPIRE",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -56709,7 +59195,84 @@
   "date": "2026-04-26",
   "competition": "VRS-tracked 2026-04",
   "team_a": "Chicken Coop",
-  "team_b": "NUTORIOUS",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-empire-2026-04-26-ex-aether-L",
+  "date": "2026-04-26",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "EMPIRE",
+  "team_b": "EX-AETHER",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-farmville-2026-04-26-insane players-W",
+  "date": "2026-04-26",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "FarmVille",
+  "team_b": "INSANE PLAYERS",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-farmville-2026-04-26-overknight-W",
+  "date": "2026-04-26",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "FarmVille",
+  "team_b": "OVERKNIGHT",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-04-26-fisher college-L",
+  "date": "2026-04-26",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Marsborne",
+  "team_b": "FISHER COLLEGE",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-04-26-passion ua-L",
+  "date": "2026-04-26",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Marsborne",
+  "team_b": "PASSION UA",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-marsborne-2026-04-26-reign above-L",
+  "date": "2026-04-26",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Marsborne",
+  "team_b": "Reign Above",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-04-26-fisher college-W",
+  "date": "2026-04-26",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "regain",
+  "team_b": "FISHER COLLEGE",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -56720,18 +59283,7 @@
   "date": "2026-04-26",
   "competition": "VRS-tracked 2026-04",
   "team_a": "Voca",
-  "team_b": "Day Traders",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-wildcard-2026-04-26-wanted goons-W",
-  "date": "2026-04-26",
-  "competition": "VRS-tracked 2026-04",
-  "team_a": "Wildcard",
-  "team_b": "Wanted Goons",
+  "team_b": "New Legends",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -56754,6 +59306,28 @@
   "competition": "VRS-tracked 2026-04",
   "team_a": "Wildcard",
   "team_b": "PASSION UA",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-wildcard-2026-04-26-wanted goons-W",
+  "date": "2026-04-26",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Wildcard",
+  "team_b": "Wanted Goons",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zomblers-2026-04-26-boss-W",
+  "date": "2026-04-26",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Zomblers",
+  "team_b": "BOSS",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -56804,28 +59378,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-04-25-wildcard-L",
-  "date": "2026-04-25",
-  "competition": "VRS-tracked 2026-04",
-  "team_a": "Chicken Coop",
-  "team_b": "Wildcard",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-04-25-iowa stormboar-W",
-  "date": "2026-04-25",
-  "competition": "VRS-tracked 2026-04",
-  "team_a": "Chicken Coop",
-  "team_b": "Iowa Stormboar",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-chicken coop-2026-04-25-it's a secret-W",
   "date": "2026-04-25",
   "competition": "VRS-tracked 2026-04",
@@ -56837,22 +59389,55 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-chicken coop-2026-04-25-iowa stormboar-L",
+  "match_id": "vrs-2026-10-05-empire-2026-04-25-kodex-W",
   "date": "2026-04-25",
   "competition": "VRS-tracked 2026-04",
-  "team_a": "Chicken Coop",
-  "team_b": "Iowa Stormboar",
+  "team_a": "EMPIRE",
+  "team_b": "KODEX",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-04-25-chicken coop-W",
+  "date": "2026-04-25",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Chicken Coop",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-iowa stormboar-2026-04-25-chicken coop-L",
+  "date": "2026-04-25",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Iowa Stormboar",
+  "team_b": "Chicken Coop",
   "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-m80-2026-04-25-marsborne-L",
+  "match_id": "vrs-2026-10-05-lag-2026-04-25-empire-W",
   "date": "2026-04-25",
   "competition": "VRS-tracked 2026-04",
-  "team_a": "M80",
-  "team_b": "Marsborne",
+  "team_a": "LAG Gaming",
+  "team_b": "EMPIRE",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-lag-2026-04-25-fisher college-L",
+  "date": "2026-04-25",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "LAG Gaming",
+  "team_b": "FISHER COLLEGE",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -56881,22 +59466,22 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-nrg-2026-04-25-passion ua-L",
+  "match_id": "vrs-2026-10-05-m80-2026-04-25-marsborne-L",
   "date": "2026-04-25",
   "competition": "VRS-tracked 2026-04",
-  "team_a": "NRG",
-  "team_b": "PASSION UA",
+  "team_a": "M80",
+  "team_b": "Marsborne",
   "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-nrg-2026-04-25-lag-W",
+  "match_id": "vrs-2026-10-05-marsborne-2026-04-25-unreal nightmare-W",
   "date": "2026-04-25",
   "competition": "VRS-tracked 2026-04",
-  "team_a": "NRG",
-  "team_b": "LAG",
+  "team_a": "Marsborne",
+  "team_b": "FRZ Unit",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -56914,22 +59499,33 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-04-25-marsborne-L",
+  "match_id": "vrs-2026-10-05-nrg-2026-04-25-lag-W",
   "date": "2026-04-25",
   "competition": "VRS-tracked 2026-04",
-  "team_a": "Voca",
-  "team_b": "Marsborne",
+  "team_a": "NRG",
+  "team_b": "LAG Gaming",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-nrg-2026-04-25-passion ua-L",
+  "date": "2026-04-25",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "NRG",
+  "team_b": "PASSION UA",
   "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-voca-2026-04-25-wildcard-L",
+  "match_id": "vrs-2026-10-05-villainous-2026-04-25-claymakers-L",
   "date": "2026-04-25",
   "competition": "VRS-tracked 2026-04",
-  "team_a": "Voca",
-  "team_b": "Wildcard",
+  "team_a": "Villainous",
+  "team_b": "CLAYMAKERS",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -56947,6 +59543,17 @@
   "source": "vrs"
  },
  {
+  "match_id": "vrs-2026-10-05-voca-2026-04-25-marsborne-L",
+  "date": "2026-04-25",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Voca",
+  "team_b": "Marsborne",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-wildcard-2026-04-25-chicken coop-W",
   "date": "2026-04-25",
   "competition": "VRS-tracked 2026-04",
@@ -56958,22 +59565,22 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-wildcard-2026-04-25-voca-W",
+  "match_id": "vrs-2026-10-05-wildcard-2026-04-25-unreal nightmare-W",
   "date": "2026-04-25",
   "competition": "VRS-tracked 2026-04",
   "team_a": "Wildcard",
-  "team_b": "Voca",
+  "team_b": "FRZ Unit",
   "winner": "a",
   "score": "",
   "tier": "A",
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-wildcard-2026-04-25-unreal nightmare-W",
+  "match_id": "vrs-2026-10-05-wildcard-2026-04-25-voca-W",
   "date": "2026-04-25",
   "competition": "VRS-tracked 2026-04",
   "team_a": "Wildcard",
-  "team_b": "Unreal Nightmare",
+  "team_b": "Voca",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -58498,6 +61105,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-regain-2026-04-23-zomblers-W",
+  "date": "2026-04-23",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "regain",
+  "team_b": "Zomblers",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-018364eb-a3c5-42f3-bd6f-aa172da41237",
   "date": "2026-04-22",
   "competition": "S57 NA Intermediate Central - Regular Season",
@@ -59950,6 +62568,28 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-regain-2026-04-19-claymakers-W",
+  "date": "2026-04-19",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "regain",
+  "team_b": "CLAYMAKERS",
+  "winner": "a",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-regain-2026-04-18-club 333-L",
+  "date": "2026-04-18",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "regain",
+  "team_b": "Club 333",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "1-01349454-600b-484c-a922-4b7c04735e74",
   "date": "2026-04-17",
   "competition": "S57 NA Main Central - Regular Season",
@@ -61125,5 +63765,16 @@
   "score": "0-1",
   "tier": "C",
   "source": "faceit-league"
+ },
+ {
+  "match_id": "vrs-2026-10-05-zomblers-2026-04-17-insane players-L",
+  "date": "2026-04-17",
+  "competition": "VRS-tracked 2026-04",
+  "team_a": "Zomblers",
+  "team_b": "INSANE PLAYERS",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  }
 ]

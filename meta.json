@@ -1,20 +1,20 @@
 {
  "schema_version": 2,
  "snapshot": "2026-10-13T00:00:00+00:00",
- "exported_at": "2026-10-13T16:18:17Z",
+ "exported_at": "2026-10-13T16:44:00Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
- "matches_qualifying": 5582,
- "matches_exported": 5557,
+ "matches_qualifying": 5799,
+ "matches_exported": 5798,
  "matches_by_source": {
   "hltv": 42,
-  "faceit-league": 4847,
+  "faceit-league": 4851,
   "faceit-tournament": 448,
-  "vrs": 217,
+  "vrs": 454,
   "liquipedia": 3
  },
- "teams_ranked": 503,
- "teams_provisional": 417,
+ "teams_ranked": 505,
+ "teams_provisional": 413,
  "bridge_offset": 1541.0,
  "sources": {
   "faceit_league": {
@@ -31,7 +31,7 @@
    "note": "parse.bot feed; degraded since 2026-10-09"
   },
   "vrs": {
-   "file_mtime": "2026-10-07T17:33:26Z",
+   "file_mtime": "2026-10-13T16:40:05Z",
    "note": "pro-team matches from Valve VRS repo"
   }
  },
