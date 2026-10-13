@@ -3,15 +3,15 @@ Team Name: 3 Feet Of Meat
 Roster: Destiny_Rs, requis, 907doobyyy, SchmidtyP, 6evan
 NARS Rank: 502 of 503
 
-Final Rating: 329.6
-Seeded Start: 1106.5
-H2H Adjustment: -776.9
+Final Rating: 329.0
+Seeded Start: 1106.7
+H2H Adjustment: -760.3 (capped at +-300, raw -760.4)
 
-Final Rating (329.6) = Seeded Start (1106.5) + H2H Adjustment (-776.9)
+Final Rating (329.0) = Seeded Start (1106.7) + H2H Adjustment (-760.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.005 x 1400 = 1106.5
+                = 1100 + 0.005 x 1400 = 1106.7
 
 seed_factor 0.005 = 0.25 x Tier Exposure (0.016) + 0.50 x Quality Wins (0.000) + 0.25 x Opponent Network (0.003)
 
@@ -24,14 +24,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Old Dads Banging | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -326.6 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
-| 2026-05-20 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -35.7 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
-| 2026-05-15 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.00 | -3.7 | 6evan, 907doobyyy, Destiny_Rs, Polarrberry, SchmidtyP |
-| 2026-05-13 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.00 | -8.6 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
-| 2026-05-09 | Old Meta | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.16 | 1.00 | 0.18 | 0.00 | 0.00 | -1.7 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
-| 2026-05-08 | Entertainment Cheese | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.17 | 0.00 | 0.00 | -293.9 | 6evan, 907doobyyy, SchmidtyP, Stinza, requis |
-| 2026-05-01 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -404.2 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
-| 2026-04-22 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.04 | +353.7 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
-| 2026-04-17 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.16 | 1.00 | 0.00 | 0.00 | 0.00 | -56.2 | 6evan, 907doobyyy, SchmidtyP, grizZLy08, requis |
+| 2026-05-22 | Old Dads Banging | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -323.8 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
+| 2026-05-20 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.16 | 1.00 | 0.26 | 0.00 | 0.00 | -41.3 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
+| 2026-05-15 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.23 | 0.00 | 0.00 | -4.7 | 6evan, 907doobyyy, Destiny_Rs, Polarrberry, SchmidtyP |
+| 2026-05-13 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.00 | -11.3 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
+| 2026-05-09 | Old Meta | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.16 | 1.00 | 0.19 | 0.00 | 0.00 | -1.9 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
+| 2026-05-08 | Entertainment Cheese | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.17 | 0.00 | 0.00 | -270.4 | 6evan, 907doobyyy, SchmidtyP, Stinza, requis |
+| 2026-05-01 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.00 | 0.00 | -404.1 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
+| 2026-04-22 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.00 | 0.05 | +353.1 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
+| 2026-04-17 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.00 | -56.0 | 6evan, 907doobyyy, SchmidtyP, grizZLy08, requis |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_

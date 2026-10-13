@@ -3,17 +3,17 @@ Team Name: Down To Frag
 Roster: skrux, tyrant, server, Waddill, Jerarquizar
 NARS Rank: 70 of 503
 
-Final Rating: 1822.3
-Seeded Start: 1343.2
-H2H Adjustment: +479.1
+Final Rating: 1821.3
+Seeded Start: 1345.0
+H2H Adjustment: +478.3
 
-Final Rating (1822.3) = Seeded Start (1343.2) + H2H Adjustment (+479.1)
+Final Rating (1821.3) = Seeded Start (1345.0) + H2H Adjustment (+478.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.174 x 1400 = 1343.2
+                = 1100 + 0.175 x 1400 = 1345.0
 
-seed_factor 0.174 = 0.25 x Tier Exposure (0.163) + 0.50 x Quality Wins (0.081) + 0.25 x Opponent Network (0.371)
+seed_factor 0.175 = 0.25 x Tier Exposure (0.164) + 0.50 x Quality Wins (0.080) + 0.25 x Opponent Network (0.375)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,28 +24,28 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-11 | OnlyFans | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.98 | 1.22 | 1.00 | 1.20 | 0.00 | 0.00 | -44.2 | HUNCHO, Jerarquizar, Waddill, server, skrux, tyrant |
-| 2026-09-06 | qcclan | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.95 | 1.22 | 1.00 | 1.16 | 0.00 | 0.00 | -62.2 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
-| 2026-09-04 | Over Your Head | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.22 | 1.00 | 1.14 | 0.25 | 0.00 | +65.9 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
-| 2026-08-28 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.18 | 1.00 | 1.05 | 0.00 | 0.00 | -54.1 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
-| 2026-08-26 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.18 | 1.00 | 1.04 | 0.00 | 0.00 | -62.5 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
-| 2026-08-07 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.18 | 1.00 | 0.89 | 0.00 | 0.00 | -119.2 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
-| 2026-08-05 | Team Team Name | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.18 | 1.00 | 0.87 | 0.14 | 0.87 | +58.6 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
-| 2026-07-31 | Skyline | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.18 | 1.00 | 0.83 | 0.40 | 0.83 | +120.7 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
-| 2026-07-29 | qcclan | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.18 | 1.00 | 0.81 | 0.14 | 0.81 | +217.2 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
+| 2026-09-11 | OnlyFans | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.99 | 1.22 | 1.00 | 1.20 | 0.00 | 0.00 | -44.0 | HUNCHO, Jerarquizar, Waddill, server, skrux, tyrant |
+| 2026-09-06 | qcclan | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.95 | 1.22 | 1.00 | 1.16 | 0.00 | 0.00 | -61.8 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
+| 2026-09-04 | Over Your Head | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.22 | 1.00 | 1.15 | 0.25 | 0.00 | +65.3 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
+| 2026-08-28 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.89 | 1.18 | 1.00 | 1.06 | 0.00 | 0.00 | -53.8 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
+| 2026-08-26 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.18 | 1.00 | 1.04 | 0.00 | 0.00 | -62.2 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
+| 2026-08-07 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.18 | 1.00 | 0.89 | 0.00 | 0.00 | -117.7 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
+| 2026-08-05 | Team Team Name | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.18 | 1.00 | 0.88 | 0.15 | 0.88 | +58.7 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
+| 2026-07-31 | Skyline | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.71 | 1.18 | 1.00 | 0.84 | 0.41 | 0.84 | +120.3 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
+| 2026-07-29 | qcclan | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.18 | 1.00 | 0.82 | 0.14 | 0.82 | +219.0 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
 | 2026-07-24 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.18 | 1.00 | 0.78 | 0.11 | 0.78 | +133.8 | HUNCHO, Jerarquizar, Waddill, server, skrux |
-| 2026-07-22 | 5Frag Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.18 | 1.00 | 0.76 | 0.17 | 0.76 | +353.8 | HUNCHO, Jerarquizar, Waddill, server, skrux |
-| 2026-07-15 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.18 | 1.00 | 0.70 | 0.05 | 0.70 | +1.5 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
-| 2026-05-27 | 5Frag Gaming | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.34 | 0.00 | 0.00 | -18.0 | Jerarquizar, _aim, server, skrux, tyrant |
-| 2026-05-22 | MASTER ONE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -378.2 | Jerarquizar, _aim, server, skrux, tyrant |
-| 2026-05-15 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.01 | 0.22 | +221.0 | Jerarquizar, _aim, server, skrux, tyrant |
-| 2026-05-14 | N w G | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.16 | 1.00 | 0.21 | 0.00 | 0.21 | +302.0 | Jerarquizar, _aim, server, skrux, tyrant |
-| 2026-05-08 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.16 | 1.00 | 0.17 | 0.00 | 0.00 | -273.8 | Jerarquizar, _aim, server, skrux, tyrant |
-| 2026-05-06 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.15 | 0.00 | 0.00 | -183.1 | Jerarquizar, _aim, server, skrux, tyrant |
-| 2026-05-01 | Over Your Head | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.11 | 0.02 | 0.11 | +398.0 | Injure-, Jerarquizar, server, skrux, tyrant |
-| 2026-04-30 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.10 | 0.00 | 0.00 | -404.0 | Injure-, Jerarquizar, server, skrux, tyrant |
-| 2026-04-24 | Resurgence | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -383.2 | Jerarquizar, _aim, server, skrux, tyrant |
-| 2026-04-22 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.02 | 0.04 | +324.2 | Jerarquizar, _aim, server, skrux, tyrant |
-| 2026-04-17 | Manx Recovery Program | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.16 | 1.00 | 0.00 | 0.00 | 0.00 | +264.9 | Jerarquizar, _aim, server, skrux, tyrant |
+| 2026-07-22 | 5Frag Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.18 | 1.00 | 0.77 | 0.17 | 0.77 | +355.4 | HUNCHO, Jerarquizar, Waddill, server, skrux |
+| 2026-07-15 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.18 | 1.00 | 0.71 | 0.05 | 0.71 | +1.5 | HUNCHO, Jerarquizar, Waddill, server, tyrant |
+| 2026-05-27 | 5Frag Gaming | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.27 | 1.00 | 0.35 | 0.00 | 0.00 | -17.1 | Jerarquizar, _aim, server, skrux, tyrant |
+| 2026-05-22 | MASTER ONE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.16 | 1.00 | 0.28 | 0.00 | 0.00 | -375.5 | Jerarquizar, _aim, server, skrux, tyrant |
+| 2026-05-15 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.23 | 0.02 | 0.23 | +227.2 | Jerarquizar, _aim, server, skrux, tyrant |
+| 2026-05-14 | N w G | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.16 | 1.00 | 0.22 | 0.00 | 0.22 | +313.8 | Jerarquizar, _aim, server, skrux, tyrant |
+| 2026-05-08 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.16 | 1.00 | 0.17 | 0.00 | 0.00 | -257.7 | Jerarquizar, _aim, server, skrux, tyrant |
+| 2026-05-06 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.16 | 1.00 | 0.16 | 0.00 | 0.00 | -198.3 | Jerarquizar, _aim, server, skrux, tyrant |
+| 2026-05-01 | Over Your Head | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.16 | 1.00 | 0.12 | 0.03 | 0.12 | +401.1 | Injure-, Jerarquizar, server, skrux, tyrant |
+| 2026-04-30 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.16 | 1.00 | 0.11 | 0.00 | 0.00 | -395.6 | Injure-, Jerarquizar, server, skrux, tyrant |
+| 2026-04-24 | Resurgence | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.16 | 1.00 | 0.06 | 0.00 | 0.00 | -420.7 | Jerarquizar, _aim, server, skrux, tyrant |
+| 2026-04-22 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.02 | 0.05 | +322.2 | Jerarquizar, _aim, server, skrux, tyrant |
+| 2026-04-17 | Manx Recovery Program | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.01 | +264.4 | Jerarquizar, _aim, server, skrux, tyrant |
 
 _Snapshot 2026-10-13 | NARS v2 | CC BY-SA 4.0_
