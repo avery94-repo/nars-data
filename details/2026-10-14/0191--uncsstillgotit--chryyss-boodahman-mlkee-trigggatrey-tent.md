@@ -3,11 +3,11 @@ Team Name: UncsStillGotIt
 Roster: chryyss, boodahman, MlKEE, Trigggatrey, Tentoh
 NARS Rank: 191 of 506
 
-Final Rating: 1499.2
+Final Rating: 1499.3
 Seeded Start: 1232.7
-H2H Adjustment: +266.5
+H2H Adjustment: +266.6
 
-Final Rating (1499.2) = Seeded Start (1232.7) + H2H Adjustment (+266.5)
+Final Rating (1499.3) = Seeded Start (1232.7) + H2H Adjustment (+266.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Brobies | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +49.3 | MlKEE, MonkeyGhost, Trigggatrey, boodahman, chryyss |
-| 2026-10-07 | TELETUBEASTS | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +91.6 | BSTAR_, CaptainKeyz, MlKEE, Trigggatrey, boodahman |
+| 2026-10-07 | TELETUBEASTS | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +91.7 | BSTAR_, CaptainKeyz, MlKEE, Trigggatrey, boodahman |
 | 2026-09-12 | Samantha 4 | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.09 | 0.00 | 0.00 | -29.7 | MlKEE, Tentoh, Trigggatrey, boodahman, chryyss |
-| 2026-09-10 | Cream Team | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.08 | 1.07 | +24.9 | MlKEE, MonkeyGhost, Tentoh, Trigggatrey, boodahman, swift- |
+| 2026-09-10 | Cream Team | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.08 | 1.07 | +25.0 | MlKEE, MonkeyGhost, Tentoh, Trigggatrey, boodahman, swift- |
 | 2026-09-06 | Without a Roof | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.00 | 0.00 | -0.0 | MlKEE, MonkeyGhost, Tentoh, Trigggatrey, boodahman |
 | 2026-09-04 | Guangzhou Loong Lions | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.09 | 1.03 | +130.4 | MlKEE, MonkeyGhost, Tentoh, Trigggatrey, boodahman, chryyss |
 

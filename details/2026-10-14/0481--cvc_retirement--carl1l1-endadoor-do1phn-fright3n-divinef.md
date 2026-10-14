@@ -3,15 +3,15 @@ Team Name: CVC Retirement
 Roster: Carl1l1, Endadoor, do1phn, FRIGHT3N, DivineFPS
 NARS Rank: 481 of 506
 
-Final Rating: 743.2
-Seeded Start: 1111.7
-H2H Adjustment: -368.5
+Final Rating: 742.4
+Seeded Start: 1111.6
+H2H Adjustment: -369.2
 
-Final Rating (743.2) = Seeded Start (1111.7) + H2H Adjustment (-368.5)
+Final Rating (742.4) = Seeded Start (1111.6) + H2H Adjustment (-369.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.008 x 1400 = 1111.7
+                = 1100 + 0.008 x 1400 = 1111.6
 
 seed_factor 0.008 = 0.25 x Tier Exposure (0.008) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.020)
 
@@ -24,13 +24,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.04 | 0.23 | +393.9 | --vita--, Carl1l1, DivineFPS, FRIGHT3N, do1phn |
-| 2026-05-15 | AML | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -281.9 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
-| 2026-05-13 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -109.1 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-05-22 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.04 | 0.23 | +395.0 | --vita--, Carl1l1, DivineFPS, FRIGHT3N, do1phn |
+| 2026-05-15 | AML | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -282.7 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-05-13 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -109.7 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-05-08 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -9.5 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
-| 2026-05-06 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.13 | 0.00 | 0.00 | -318.6 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
-| 2026-04-29 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +317.8 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
-| 2026-04-24 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -203.8 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
-| 2026-04-22 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -157.4 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-05-06 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -319.1 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-04-29 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +318.4 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-04-24 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -204.1 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-04-22 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -157.7 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

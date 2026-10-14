@@ -3,11 +3,11 @@ Team Name: For Fun Gamers
 Roster: turtillo, Props, -gABRIEL, boojerz, Yur_Mad
 NARS Rank: 169 of 506
 
-Final Rating: 1535.1
+Final Rating: 1535.3
 Seeded Start: 1210.2
-H2H Adjustment: +324.9 (capped at +-300, raw +324.8)
+H2H Adjustment: +325.1
 
-Final Rating (1535.1) = Seeded Start (1210.2) + H2H Adjustment (+324.9)
+Final Rating (1535.3) = Seeded Start (1210.2) + H2H Adjustment (+325.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,9 +26,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-17 | ODIN | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -66.4 | -gABRIEL, Props, Yur_Mad, boojerz, turtillo |
 | 2026-09-15 | Eightball | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +62.6 | -gABRIEL, Props, Yur_Mad, boojerz, turtillo |
-| 2026-09-08 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -24.4 | -gABRIEL, Props, boojerz, bryan, turtillo |
+| 2026-09-08 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -24.3 | -gABRIEL, Props, boojerz, bryan, turtillo |
 | 2026-09-06 | GOYPEEKING | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.08 | 0.96 | +96.1 | -gABRIEL, Props, Yur_Mad, bryan, turtillo |
 | 2026-09-04 | NKBasketWeavers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +120.3 | -gABRIEL, Props, Yur_Mad, boojerz, turtillo |
-| 2026-09-02 | Team Ascension | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.03 | 0.94 | +136.7 | -gABRIEL, Bmich, Props, boojerz, turtillo |
+| 2026-09-02 | Team Ascension | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.03 | 0.94 | +136.8 | -gABRIEL, Bmich, Props, boojerz, turtillo |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

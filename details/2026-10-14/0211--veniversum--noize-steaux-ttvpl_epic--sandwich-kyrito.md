@@ -3,11 +3,11 @@ Team Name: Veniversum
 Roster: noize, Steaux, ttvPL_Epic, -sandwich, kyritosan
 NARS Rank: 211 of 506
 
-Final Rating: 1459.3
+Final Rating: 1459.4
 Seeded Start: 1225.8
-H2H Adjustment: +233.5
+H2H Adjustment: +233.6
 
-Final Rating (1459.3) = Seeded Start (1225.8) + H2H Adjustment (+233.5)
+Final Rating (1459.4) = Seeded Start (1225.8) + H2H Adjustment (+233.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | NetanYAHOO | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.09 | 1.00 | +64.9 | -sandwich, K4rnage975, Steaux, kyritosan, ttvPL_Epic |
+| 2026-10-09 | NetanYAHOO | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.09 | 1.00 | +65.0 | -sandwich, K4rnage975, Steaux, kyritosan, ttvPL_Epic |
 | 2026-10-07 | monitor off | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +0.9 | K4rnage975, Steaux, TrapChuk, kyritosan, ttvPL_Epic |
 | 2026-09-17 | UsingCodefArt25atSCL | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -34.4 | -sandwich, Steaux, TrapChuk, kyritosan, ttvPL_Epic |
-| 2026-09-08 | fast8 | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -107.1 | Intrixer, Nuggetoni, Steaux, kyritosan, ttvPL_Epic |
-| 2026-09-06 | CLUE IN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.04 | 0.96 | +162.5 | -sandwich, Shuppet, Steaux, kyritosan, ttvPL_Epic |
+| 2026-09-08 | fast8 | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -107.2 | Intrixer, Nuggetoni, Steaux, kyritosan, ttvPL_Epic |
+| 2026-09-06 | CLUE IN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.04 | 0.96 | +162.6 | -sandwich, Shuppet, Steaux, kyritosan, ttvPL_Epic |
 | 2026-09-02 | Team Astryx | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.06 | 0.94 | +146.7 | -sandwich, Intrixer, Steaux, kyritosan, ttvPL_Epic |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

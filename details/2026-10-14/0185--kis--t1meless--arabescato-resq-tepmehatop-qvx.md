@@ -3,11 +3,11 @@ Team Name: KIS
 Roster: T1meless-, Arabescato, resQ, TEPMEHATOP, qvxzxr
 NARS Rank: 185 of 506
 
-Final Rating: 1506.4
+Final Rating: 1506.6
 Seeded Start: 1225.1
-H2H Adjustment: +281.3
+H2H Adjustment: +281.5
 
-Final Rating (1506.4) = Seeded Start (1225.1) + H2H Adjustment (+281.3)
+Final Rating (1506.6) = Seeded Start (1225.1) + H2H Adjustment (+281.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,10 +25,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Solbound | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +0.1 | Arabescato, T1meless-, TEPMEHATOP, executexd, resQ |
-| 2026-10-07 | ReGen | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +118.9 | Arabescato, T1meless-, executexd, janiim, resQ |
-| 2026-09-15 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -88.8 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
-| 2026-09-12 | Team Zhao | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +152.9 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
-| 2026-09-06 | VARTOVIK | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -107.0 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
-| 2026-09-04 | Eagles Nest | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +205.2 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
+| 2026-10-07 | ReGen | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +119.0 | Arabescato, T1meless-, executexd, janiim, resQ |
+| 2026-09-15 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -88.9 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
+| 2026-09-12 | Team Zhao | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +153.1 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
+| 2026-09-06 | VARTOVIK | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -107.1 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
+| 2026-09-04 | Eagles Nest | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +205.3 | Arabescato, T1meless-, TEPMEHATOP, qvxzxr, resQ |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

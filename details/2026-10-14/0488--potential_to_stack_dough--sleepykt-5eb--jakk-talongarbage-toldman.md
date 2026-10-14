@@ -3,15 +3,15 @@ Team Name: Potential to Stack Dough
 Roster: sleepykt, 5eb, -jakk, TalonGarbage, toldman
 NARS Rank: 488 of 506
 
-Final Rating: 686.8
-Seeded Start: 1116.5
-H2H Adjustment: -429.7
+Final Rating: 686.2
+Seeded Start: 1116.4
+H2H Adjustment: -430.2 (capped at +-300, raw -430.3)
 
-Final Rating (686.8) = Seeded Start (1116.5) + H2H Adjustment (-429.7)
+Final Rating (686.2) = Seeded Start (1116.4) + H2H Adjustment (-430.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.012 x 1400 = 1116.5
+                = 1100 + 0.012 x 1400 = 1116.4
 
 seed_factor 0.012 = 0.25 x Tier Exposure (0.042) + 0.50 x Quality Wins (0.000) + 0.25 x Opponent Network (0.005)
 
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-07 | No pain No aim | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.00 | 0.00 | -28.4 | -CraM-, -jakk, sleepykt, the-Supreme, toldman |
-| 2026-09-03 | house | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.00 | 0.00 | -14.9 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
-| 2026-05-08 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -161.1 | -jakk, 5eb, Bernurd, sleepykt, toldman |
-| 2026-05-08 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -365.9 | -jakk, 5eb, Bernurd, sleepykt, toldman |
+| 2026-09-07 | No pain No aim | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.00 | 0.00 | -28.3 | -CraM-, -jakk, sleepykt, the-Supreme, toldman |
+| 2026-09-03 | house | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.00 | 0.00 | -14.8 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
+| 2026-05-08 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -161.3 | -jakk, 5eb, Bernurd, sleepykt, toldman |
+| 2026-05-08 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -366.4 | -jakk, 5eb, Bernurd, sleepykt, toldman |
 | 2026-05-01 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -22.9 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
 | 2026-04-28 | Remnant | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.01 | 0.07 | +163.4 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
 

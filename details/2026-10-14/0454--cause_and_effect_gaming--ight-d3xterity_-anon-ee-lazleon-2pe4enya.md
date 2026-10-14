@@ -3,15 +3,15 @@ Team Name: Cause and Effect Gaming
 Roster: ight, d3xterity_, ANON-EE, LazLeoN, 2Pe4enya
 NARS Rank: 454 of 506
 
-Final Rating: 885.1
-Seeded Start: 1188.1
-H2H Adjustment: -303.0
+Final Rating: 884.7
+Seeded Start: 1188.0
+H2H Adjustment: -303.3 (capped at +-300, raw -303.2)
 
-Final Rating (885.1) = Seeded Start (1188.1) + H2H Adjustment (-303.0)
+Final Rating (884.7) = Seeded Start (1188.0) + H2H Adjustment (-303.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.063 x 1400 = 1188.1
+                = 1100 + 0.063 x 1400 = 1188.0
 
 seed_factor 0.063 = 0.25 x Tier Exposure (0.131) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.108)
 
@@ -25,10 +25,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-07 | LUMA | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.00 | 0.00 | -81.3 | 2Pe4enya, ANON-EE, LazLeoN, d3xterity_, ight |
-| 2026-09-02 | STIM | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.00 | 0.00 | -210.6 | 2Pe4enya, ANON-EE, LazLeoN, d3xterity_, ight |
-| 2026-08-30 | YHUBEPCAM | L | 0-1 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.90 | 1.18 | 1.00 | 1.06 | 0.00 | 0.00 | -0.8 | 2Pe4enya, LazLeoN, MustAcquit, d3xterity_, ight |
-| 2026-08-08 | antiGrav | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.06 | 0.94 | +192.6 | 2Pe4enya, LazLeoN, d3xterity_, e50d3be2, ight |
-| 2026-07-26 | AML | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -361.2 | 2Pe4enya, Deej, LazLeoN, d3xterity_, ight |
-| 2026-07-26 | IR PHOENIX | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.04 | 0.71 | +158.3 | 2Pe4enya, Deej, LazLeoN, d3xterity_, ight |
+| 2026-09-02 | STIM | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.00 | 0.00 | -211.0 | 2Pe4enya, ANON-EE, LazLeoN, d3xterity_, ight |
+| 2026-08-30 | YHUBEPCAM | L | 0-1 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.90 | 1.18 | 1.00 | 1.05 | 0.00 | 0.00 | -0.8 | 2Pe4enya, LazLeoN, MustAcquit, d3xterity_, ight |
+| 2026-08-08 | antiGrav | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.06 | 0.94 | +192.9 | 2Pe4enya, LazLeoN, d3xterity_, e50d3be2, ight |
+| 2026-07-26 | AML | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -361.4 | 2Pe4enya, Deej, LazLeoN, d3xterity_, ight |
+| 2026-07-26 | IR PHOENIX | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.04 | 0.70 | +158.4 | 2Pe4enya, Deej, LazLeoN, d3xterity_, ight |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -3,11 +3,11 @@ Team Name: Line Steppers
 Roster: QuackDaddy, tantruM, Kingruneorb, rozay, Garbagebag
 NARS Rank: 366 of 506
 
-Final Rating: 1139.0
+Final Rating: 1138.9
 Seeded Start: 1195.5
-H2H Adjustment: -56.5
+H2H Adjustment: -56.6
 
-Final Rating (1139.0) = Seeded Start (1195.5) + H2H Adjustment (-56.5)
+Final Rating (1138.9) = Seeded Start (1195.5) + H2H Adjustment (-56.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,8 +26,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | HIGHPOINT | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +117.3 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 | 2026-10-07 | Guangzhou Loong Lions | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -176.7 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
-| 2026-09-10 | Kodaks Lettuce | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -87.4 | Garbagebag, Khad42, Kingruneorb, QuackDaddy, rozay |
-| 2026-09-06 | PogSquad | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -120.0 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
+| 2026-09-10 | Kodaks Lettuce | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -87.5 | Garbagebag, Khad42, Kingruneorb, QuackDaddy, rozay |
+| 2026-09-06 | PogSquad | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -120.2 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 | 2026-09-04 | Elo Terrorists | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +69.4 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 | 2026-09-02 | Z-Blocked | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +141.0 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 
