@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.153 | 1313.7 | - |
 | +30 days | 0.134 | 1287.0 | -26.7 |
-| +60 days | 0.119 | 1266.9 | -46.9 |
+| +60 days | 0.119 | 1266.8 | -46.9 |
 | +90 days | 0.101 | 1241.1 | -72.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.040 vs 0.015 average, gap +0.025). Matching that average is worth about 0.0 seed points.
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Epochal Esports | 413 | 1036.1 | +9.2 | +131.8 |
-| Moniseum | 412 | 1036.4 | +9.5 | +122.3 |
-| Duality Zero | 411 | 1036.4 | +9.5 | +122.3 |
+| Epochal Esports | 413 | 1036.0 | +9.1 | +131.9 |
+| Duality Zero | 412 | 1036.3 | +9.4 | +122.3 |
+| Moniseum | 411 | 1036.4 | +9.5 | +122.3 |
 | STIM | 410 | 1036.9 | +10.0 | +122.4 |
-| Team Hyper | 409 | 1037.3 | +10.4 | +139.6 |
+| Team Hyper | 409 | 1037.3 | +10.4 | +139.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GoonAssOldheads | 258 | +342.9 | +228.0 | +23.3 |
-| Eightball | 253 | +348.7 | +247.1 | +22.9 |
-| drunk cigs dont count | 255 | +346.2 | +260.9 | +22.8 |
-| THE GUILD | 264 | +332.1 | +219.7 | +22.7 |
+| GoonAssOldheads | 258 | +342.9 | +228.1 | +23.3 |
+| Eightball | 253 | +348.7 | +247.1 | +23.0 |
+| drunk cigs dont count | 255 | +346.2 | +261.0 | +22.8 |
+| THE GUILD | 264 | +332.1 | +219.8 | +22.7 |
 | Kinetic | 260 | +337.3 | +254.0 | +22.4 |
-| DadDick Esports | 261 | +335.5 | +249.2 | +22.4 |
-| Wiggle Peeks | 265 | +329.9 | +235.6 | +22.3 |
-| ASCEND | 263 | +333.2 | +238.6 | +22.2 |
+| DadDick Esports | 261 | +335.5 | +249.3 | +22.4 |
+| Wiggle Peeks | 265 | +329.8 | +235.6 | +22.3 |
+| ASCEND | 263 | +333.1 | +238.6 | +22.2 |
 | PASSION | 269 | +322.5 | +241.5 | +21.7 |
-| N w G | 254 | +348.2 | +206.7 | +19.9 |
+| N w G | 254 | +348.3 | +206.8 | +19.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +424.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +424.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.6), 3 Feet Of Meat (+1.3), shirtcockin (+1.9).
 
@@ -83,25 +83,25 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Kennesaw State Gold 2025 | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -72.3 | --DaDDyP, -_Hitman, HS-poppins, holdengroin, tRu-E- |
 | 2026-08-26 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +53.6 | --DaDDyP, HS-poppins, ShiferSF, holdengroin, tRu-E- |
 | 2026-08-21 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +88.2 | --DaDDyP, HS-poppins, ShiferSF, holdengroin, tRu-E- |
-| 2026-08-19 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -77.3 | --DaDDyP, HS-poppins, ShiferSF, holdengroin, tRu-E- |
+| 2026-08-19 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -77.4 | --DaDDyP, HS-poppins, ShiferSF, holdengroin, tRu-E- |
 | 2026-08-14 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -8.8 | --DaDDyP, HS-poppins, ShiferSF, drewh529, tRu-E- |
 | 2026-08-12 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -27.1 | --DaDDyP, HS-poppins, ShiferSF, drewh529, tRu-E- |
 | 2026-08-07 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.03 | 0.74 | +97.3 | --DaDDyP, -_Hitman, Wilky, holdengroin, tRu-E- |
-| 2026-08-05 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.06 | 0.73 | +212.3 | --DaDDyP, HS-poppins, ShiferSF, holdengroin, tRu-E- |
-| 2026-07-31 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +112.2 | --DaDDyP, HS-poppins, ShiferSF, holdengroin, tRu-E- |
-| 2026-07-29 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.07 | 0.68 | +199.6 | --DaDDyP, HS-poppins, ShiferSF, holdengroin, tRu-E- |
-| 2026-07-22 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -223.4 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |
+| 2026-08-05 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.06 | 0.73 | +212.4 | --DaDDyP, HS-poppins, ShiferSF, holdengroin, tRu-E- |
+| 2026-07-31 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +112.3 | --DaDDyP, HS-poppins, ShiferSF, holdengroin, tRu-E- |
+| 2026-07-29 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.07 | 0.68 | +199.7 | --DaDDyP, HS-poppins, ShiferSF, holdengroin, tRu-E- |
+| 2026-07-22 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -223.5 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |
 | 2026-07-17 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -2.8 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |
 | 2026-07-15 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -205.2 | --DaDDyP, ShiferSF, Wilky, is_o, tRu-E- |
 | 2026-06-05 | In Our Prime | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -156.3 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
-| 2026-05-31 | FourStrokeGang | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.02 | 0.29 | +177.2 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |
-| 2026-05-29 | Grandpa Berets | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -155.3 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
-| 2026-05-27 | Therapist | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +343.4 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
-| 2026-05-21 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -176.8 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
+| 2026-05-31 | FourStrokeGang | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.02 | 0.29 | +177.3 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |
+| 2026-05-29 | Grandpa Berets | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -155.4 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
+| 2026-05-27 | Therapist | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +343.5 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
+| 2026-05-21 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -176.9 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
 | 2026-05-13 | Power of Friendship | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +166.6 | --DaDDyP, 1000-Denials, GIARCYZZZARC, HS-poppins, tRu-E- |
-| 2026-05-12 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.02 | 0.00 | +191.2 | --DaDDyP, 1000-Denials, GIARCYZZZARC, ShiferSF, tRu-E- |
+| 2026-05-12 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.02 | 0.00 | +191.3 | --DaDDyP, 1000-Denials, GIARCYZZZARC, ShiferSF, tRu-E- |
 | 2026-05-06 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -4.5 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
-| 2026-05-01 | SixSevenZaZa | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -361.5 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
+| 2026-05-01 | SixSevenZaZa | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -361.6 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
 | 2026-04-29 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +238.7 | --DaDDyP, -_Hitman, HS-poppins, ShiferSF, tRu-E- |
 | 2026-04-24 | de_throne | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -232.6 | --DaDDyP, -_Hitman, GIARCYZZZARC, HS-poppins, tRu-E- |
 | 2026-04-22 | Knight Owls | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -299.3 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |

@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Fortis Fortuna Adiuvat | 237 | 1406.3 | +0.4 | +72.0 |
-| BD Lamron | 236 | 1409.6 | +3.7 | +65.0 |
+| BD Lamron | 236 | 1409.6 | +3.7 | +65.1 |
 | YHTR | 235 | 1413.7 | +7.8 | +75.3 |
 | UnitedStatesArmy Esports | 234 | 1419.2 | +13.3 | +69.9 |
 | The Skins | 233 | 1419.7 | +13.8 | +66.3 |
@@ -50,19 +50,19 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Fire Nation | 90 | +343.8 | +122.5 | +12.2 |
-| Fathom Gaming | 91 | +339.4 | +119.7 | +12.2 |
-| Overtake Sector | 89 | +344.9 | +159.0 | +11.8 |
-| NineFlyeSports | 96 | +319.2 | +132.4 | +11.5 |
-| Elusive | 93 | +325.7 | +143.2 | +11.5 |
-| Green Grove Retirement | 94 | +322.7 | +127.3 | +11.5 |
-| PROFECO | 87 | +349.2 | +107.0 | +10.9 |
+| Fathom Gaming | 91 | +339.4 | +119.8 | +12.2 |
+| Overtake Sector | 89 | +345.0 | +159.1 | +11.8 |
+| NineFlyeSports | 96 | +319.2 | +132.5 | +11.5 |
+| Elusive | 93 | +325.7 | +143.3 | +11.5 |
+| Green Grove Retirement | 94 | +322.7 | +127.4 | +11.5 |
+| PROFECO | 87 | +349.3 | +107.1 | +10.9 |
 | FlyQuest RED | 97 | +314.8 | +137.6 | +10.8 |
 | Axial | 101 | +300.5 | +117.7 | +10.3 |
 | Addice | 102 | +296.6 | +137.9 | +10.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +200.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +200.4 points at current ratings.
 
-Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
 
 #### Matches (6 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

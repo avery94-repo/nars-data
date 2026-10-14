@@ -3,11 +3,11 @@ Team Name: Gregs New Cut
 Roster: tamed, Stay_Classy, dcb, WolffDaAwper, ScottyVolta
 NARS Rank: 384 of 506
 
-Final Rating: 1096.7
+Final Rating: 1096.6
 Seeded Start: 1221.0
-H2H Adjustment: -124.3
+H2H Adjustment: -124.4
 
-Final Rating (1096.7) = Seeded Start (1221.0) + H2H Adjustment (-124.3)
+Final Rating (1096.6) = Seeded Start (1221.0) + H2H Adjustment (-124.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,8 +25,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.086 | 1221.0 | - |
-| +30 days | 0.069 | 1197.1 | -24.0 |
-| +60 days | 0.059 | 1182.4 | -38.7 |
+| +30 days | 0.069 | 1197.1 | -23.9 |
+| +60 days | 0.059 | 1182.4 | -38.6 |
 | +90 days | 0.039 | 1154.3 | -66.7 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.267 vs 0.360 average, gap -0.093). Matching that average is worth about 32.5 seed points.
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Texas Orange | 383 | 1097.5 | +0.8 | +168.4 |
-| Costco Family | 382 | 1102.5 | +5.8 | +169.8 |
-| HammerHeads | 381 | 1102.7 | +6.0 | +164.2 |
-| We Play Naked | 380 | 1103.3 | +6.6 | +172.5 |
-| Goyim Gladiators | 379 | 1103.9 | +7.2 | +174.2 |
+| Texas Orange | 383 | 1097.5 | +0.9 | +168.4 |
+| Costco Family | 382 | 1102.5 | +5.9 | +169.8 |
+| HammerHeads | 381 | 1102.7 | +6.1 | +164.2 |
+| We Play Naked | 380 | 1103.2 | +6.6 | +172.5 |
+| Goyim Gladiators | 379 | 1103.9 | +7.3 | +174.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Cortex Jellies | 222 | +340.7 | +297.1 | +32.4 |
-| 1NT | 221 | +342.3 | +332.4 | +31.5 |
+| Cortex Jellies | 222 | +340.8 | +297.1 | +32.4 |
+| 1NT | 221 | +342.4 | +332.4 | +31.5 |
 | penazoid | 226 | +331.3 | +315.0 | +31.0 |
-| Binky | 220 | +342.6 | +361.3 | +30.8 |
-| UltimateDarklordWizardz | 227 | +330.4 | +347.0 | +30.0 |
-| YHTR | 235 | +317.0 | +332.0 | +28.9 |
-| FUELED BY HATE | 241 | +307.6 | +295.2 | +28.3 |
-| Fortis Fortuna Adiuvat | 237 | +309.6 | +314.8 | +28.3 |
-| brb grinding minecraft | 239 | +308.8 | +336.3 | +28.2 |
-| NXG Esports | 242 | +307.3 | +325.5 | +28.2 |
+| Binky | 220 | +342.7 | +361.3 | +30.8 |
+| UltimateDarklordWizardz | 227 | +330.5 | +347.0 | +30.0 |
+| YHTR | 235 | +317.1 | +332.0 | +28.9 |
+| FUELED BY HATE | 241 | +307.7 | +295.2 | +28.3 |
+| Fortis Fortuna Adiuvat | 237 | +309.7 | +314.8 | +28.3 |
+| brb grinding minecraft | 239 | +308.9 | +336.4 | +28.2 |
+| NXG Esports | 242 | +307.4 | +325.5 | +28.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -81,17 +81,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -11.9 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-08-14 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -10.7 | Squidees, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-08-12 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -33.3 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
-| 2026-08-07 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.06 | 0.76 | +91.6 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
+| 2026-08-07 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.06 | 0.76 | +91.7 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-08-05 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.08 | 0.74 | +91.0 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-07-31 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.03 | 0.71 | +57.9 | ScottyVolta, Squidees, Stay_Classy, dcb, tamed |
-| 2026-07-29 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.06 | 0.70 | +154.6 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
+| 2026-07-29 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.06 | 0.70 | +154.7 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-07-22 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -9.5 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-07-15 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -0.4 | ScottyVolta, Squidees, WolffDaAwper, dcb, tamed |
-| 2026-05-22 | Over Your Head | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -72.6 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
+| 2026-05-22 | Over Your Head | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -72.5 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-05-20 | Team Team Name | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -250.3 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
-| 2026-05-15 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -197.0 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
-| 2026-05-13 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -161.2 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
-| 2026-05-08 | 027fam | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -186.4 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
+| 2026-05-15 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -197.1 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
+| 2026-05-13 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -161.3 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
+| 2026-05-08 | 027fam | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -186.5 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-05-06 | VOID ALUNE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.03 | 0.14 | +173.1 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-05-01 | Storm Surge | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +279.9 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-04-30 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -30.5 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |

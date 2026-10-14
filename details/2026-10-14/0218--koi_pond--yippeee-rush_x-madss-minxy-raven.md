@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.178 | 1348.6 | - |
 | +30 days | 0.165 | 1331.0 | -17.6 |
-| +60 days | 0.154 | 1315.5 | -33.2 |
-| +90 days | 0.133 | 1285.8 | -62.8 |
+| +60 days | 0.154 | 1315.4 | -33.2 |
+| +90 days | 0.133 | 1285.8 | -62.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.062 vs 0.022 average, gap +0.040). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| VARTOVIK | 217 | 1449.9 | +3.9 | +143.4 |
-| GOYPEEKING | 216 | 1450.0 | +4.0 | +136.1 |
-| Defaulting | 215 | 1451.7 | +5.7 | +141.8 |
+| VARTOVIK | 217 | 1449.9 | +3.9 | +143.5 |
+| GOYPEEKING | 216 | 1450.0 | +4.0 | +136.2 |
+| Defaulting | 215 | 1451.7 | +5.7 | +141.9 |
 | HiveMind | 214 | 1456.6 | +10.6 | +141.4 |
-| Nomadic Tactics | 213 | 1456.6 | +10.6 | +132.6 |
+| Nomadic Tactics | 213 | 1456.6 | +10.6 | +132.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GeneticDiff | 70 | +346.9 | +264.7 | +25.0 |
-| Asoka | 74 | +337.3 | +246.9 | +24.7 |
-| Kairo | 79 | +332.9 | +242.7 | +24.4 |
-| fih hou | 73 | +339.7 | +274.9 | +24.3 |
-| firesale | 82 | +322.2 | +258.1 | +23.7 |
-| Club 333 | 76 | +336.2 | +297.2 | +23.6 |
-| CNCS Last Hope | 72 | +342.6 | +221.6 | +23.5 |
-| Diggers | 86 | +317.4 | +232.9 | +23.4 |
-| mas paspas | 75 | +336.9 | +285.6 | +23.0 |
-| Fire Nation | 90 | +303.7 | +238.1 | +21.7 |
+| GeneticDiff | 70 | +346.9 | +264.9 | +25.0 |
+| Asoka | 74 | +337.3 | +247.1 | +24.7 |
+| Kairo | 79 | +332.9 | +242.9 | +24.5 |
+| fih hou | 73 | +339.7 | +275.1 | +24.3 |
+| firesale | 82 | +322.2 | +258.3 | +23.7 |
+| Club 333 | 76 | +336.3 | +297.4 | +23.6 |
+| CNCS Last Hope | 72 | +342.7 | +221.8 | +23.5 |
+| Diggers | 86 | +317.4 | +233.0 | +23.5 |
+| mas paspas | 75 | +337.0 | +285.8 | +23.1 |
+| Fire Nation | 90 | +303.7 | +238.2 | +21.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +465.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +465.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -76,13 +76,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | drunk cigs dont count | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.00 | 0.00 | -56.5 | Minxy, Rush_X, madss, raven, yippeee |
 | 2026-09-08 | Team Canada CS2 | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +74.3 | Minxy, Rush_X, madss, raven, yippeee |
 | 2026-09-06 | Cultivate | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.03 | 0.98 | +69.2 | Minxy, Rush_X, madss, raven, yippeee |
-| 2026-09-04 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.00 | 0.00 | -148.8 | Minxy, Rush_X, madss, raven, yippeee |
+| 2026-09-04 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -148.8 | Minxy, Rush_X, madss, raven, yippeee |
 | 2026-09-02 | Voltaren Users | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +20.9 | Minxy, Rush_X, madss, raven, yippeee |
 | 2026-08-16 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -35.9 | Fawx, Minxy, Rush_X, Syn, raven |
 | 2026-08-16 | Axial | W | 1-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.80 | 1.00 | 1.00 | 0.80 | 0.43 | 0.80 | +51.8 | Fawx, Minxy, Rush_X, Syn, raven |
 | 2026-08-16 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.80 | 1.00 | 1.00 | 0.80 | 0.10 | 0.80 | +46.4 | Fawx, Minxy, Rush_X, Syn, raven |
 | 2026-07-19 | Empressive | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.03 | 0.62 | +8.4 | Minxy, Rush_X, eLane, raven, yippeee |
-| 2026-07-19 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -0.1 | Minxy, Rush_X, eLane, raven, yippeee |
+| 2026-07-19 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -0.1 | Minxy, Rush_X, eLane, raven, yippeee |
 | 2026-07-19 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.61 | 1.00 | 1.00 | 0.61 | 0.08 | 0.00 | +15.1 | Minxy, Rush_X, eLane, raven, yippeee |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

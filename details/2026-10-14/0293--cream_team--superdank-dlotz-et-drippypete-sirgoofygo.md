@@ -52,15 +52,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Team GREAT | 128 | +346.8 | +259.1 | +27.4 |
 | Torii | 129 | +345.6 | +288.1 | +26.7 |
 | 5Frag Gaming | 134 | +339.0 | +293.6 | +26.0 |
-| Kaos | 139 | +328.4 | +247.0 | +25.9 |
-| KODEX ESPORTS | 137 | +334.1 | +335.6 | +24.8 |
-| Team Amplus | 145 | +311.8 | +273.3 | +24.0 |
+| Kaos | 139 | +328.4 | +247.1 | +25.9 |
+| KODEX ESPORTS | 137 | +334.1 | +335.7 | +24.8 |
+| Team Amplus | 145 | +311.8 | +273.4 | +24.0 |
 | Kevin James Fan Club | 148 | +298.5 | +259.6 | +22.5 |
 | Biggie Cheese Fan Club | 151 | +294.2 | +236.9 | +22.1 |
-| WhiteBoyWinter | 155 | +284.3 | +244.6 | +20.6 |
-| Oath | 142 | +319.8 | +231.9 | +17.1 |
+| WhiteBoyWinter | 155 | +284.3 | +244.7 | +20.6 |
+| Oath | 142 | +319.8 | +232.0 | +17.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +509.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +509.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.3), SixSevenZaZa (+0.5).
 

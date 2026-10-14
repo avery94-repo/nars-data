@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.192 | 1368.7 | - |
-| +30 days | 0.165 | 1331.3 | -37.4 |
+| +30 days | 0.165 | 1331.2 | -37.4 |
 | +60 days | 0.145 | 1303.5 | -65.2 |
 | +90 days | 0.112 | 1257.0 | -111.7 |
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Kaos | 139 | 1610.8 | +2.4 | +148.1 |
-| SquadUp | 138 | 1613.8 | +5.4 | +145.7 |
-| KODEX ESPORTS | 137 | 1616.5 | +8.1 | +163.0 |
-| Wolves | 136 | 1616.5 | +8.1 | +151.8 |
-| counterstrike Team | 135 | 1617.5 | +9.1 | +150.5 |
+| Kaos | 139 | 1610.8 | +2.4 | +148.2 |
+| SquadUp | 138 | 1613.8 | +5.4 | +145.9 |
+| KODEX ESPORTS | 137 | 1616.5 | +8.1 | +163.1 |
+| Wolves | 136 | 1616.5 | +8.1 | +151.9 |
+| counterstrike Team | 135 | 1617.5 | +9.1 | +150.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Wanted Goons | 43 | +324.7 | +348.8 | +25.4 |
-| Swole Patrol | 45 | +305.9 | +240.5 | +24.5 |
-| Xiaoma Gaming | 46 | +303.0 | +311.2 | +23.4 |
-| FLOW STATE | 47 | +289.0 | +291.4 | +21.9 |
-| Zealous | 42 | +333.2 | +247.9 | +21.0 |
-| No Future Lifes Over | 50 | +278.7 | +265.4 | +20.5 |
-| DESPAIR | 49 | +280.3 | +265.9 | +20.4 |
-| Phantom Sense | 51 | +275.3 | +313.2 | +19.6 |
-| TheMotherLovers | 53 | +269.5 | +270.2 | +18.8 |
-| Locally Hated | 41 | +338.1 | +309.8 | +18.1 |
+| Wanted Goons | 43 | +324.7 | +349.1 | +25.4 |
+| Swole Patrol | 45 | +306.0 | +240.7 | +24.6 |
+| Xiaoma Gaming | 46 | +303.1 | +311.5 | +23.4 |
+| FLOW STATE | 47 | +289.0 | +291.6 | +21.9 |
+| Zealous | 42 | +333.3 | +248.2 | +21.0 |
+| No Future Lifes Over | 50 | +278.8 | +265.6 | +20.6 |
+| DESPAIR | 49 | +280.3 | +266.2 | +20.4 |
+| Phantom Sense | 51 | +275.4 | +313.4 | +19.7 |
+| TheMotherLovers | 53 | +269.6 | +270.4 | +18.8 |
+| Locally Hated | 41 | +338.2 | +310.0 | +18.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +541.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +542.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -82,19 +82,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | goofball gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.09 | 1.02 | +73.9 | Sham, bud, hoax, uni, xCaptain |
 | 2026-08-26 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.10 | 1.01 | +51.6 | Sham, bud, hoax, uni, xCaptain |
 | 2026-08-21 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -50.7 | Sham, bud, hoax, uni, xCaptain |
-| 2026-08-19 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.12 | 0.95 | +159.2 | MJB, Sham, bud, hoax, uni, xCaptain |
+| 2026-08-19 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.12 | 0.95 | +159.3 | MJB, Sham, bud, hoax, uni, xCaptain |
 | 2026-08-17 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.16 | 1.00 | 0.94 | 0.00 | 0.00 | -138.2 | Sham, bud, hoax, uni, xCaptain |
-| 2026-08-12 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.04 | 0.90 | +101.1 | Sham, bud, heatJESUS, hoax, uni |
+| 2026-08-12 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.04 | 0.90 | +101.2 | Sham, bud, heatJESUS, hoax, uni |
 | 2026-08-07 | NADIYA | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.04 | 0.86 | +21.5 | Sham, bud, hoax, uni, xCaptain |
 | 2026-08-05 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -142.4 | Sham, bud, hoax, uni, xCaptain |
 | 2026-07-30 | Manx Recovery Program | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.16 | 1.00 | 0.80 | 0.00 | 0.00 | -104.6 | Sham, bud, hoax, uni, xCaptain |
 | 2026-07-29 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -98.8 | Sham, bud, hoax, uni, xCaptain |
-| 2026-07-22 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.10 | 0.74 | +199.1 | Sham, bud, hoax, uni, xCaptain |
+| 2026-07-22 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.10 | 0.74 | +199.2 | Sham, bud, hoax, uni, xCaptain |
 | 2026-07-15 | Bird Squishers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.06 | 0.68 | +184.5 | Sham, bud, hoax, uni, xCaptain |
 | 2026-05-31 | NXG Esports | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -175.8 | Sham, bud, hoax, uni, xCaptain |
 | 2026-05-22 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +179.4 | Benjitora, Sham, bud, uni, xCaptain |
 | 2026-05-20 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -19.8 | Benjitora, Sham, bud, uni, xCaptain |
-| 2026-05-14 | Team Team Name | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.02 | 0.20 | +215.7 | Sham, bud, hoax, uni, xCaptain |
+| 2026-05-14 | Team Team Name | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.02 | 0.20 | +215.8 | Sham, bud, hoax, uni, xCaptain |
 | 2026-05-13 | DKR Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -315.4 | Sham, bud, hoax, uni, xCaptain |
 | 2026-05-08 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.02 | 0.15 | +86.7 | Benjitora, Sham, bud, hoax, xCaptain |
 | 2026-05-06 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -226.0 | Benjitora, Sham, bud, hoax, xCaptain |

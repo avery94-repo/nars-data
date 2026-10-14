@@ -3,11 +3,11 @@ Team Name: Swole Patrol
 Roster: JASONR, fenom, Pol0, freakazoid, Cooper
 NARS Rank: 45 of 506
 
-Final Rating: 1914.3
+Final Rating: 1914.4
 Seeded Start: 1417.3
-H2H Adjustment: +497.0
+H2H Adjustment: +497.1
 
-Final Rating (1914.3) = Seeded Start (1417.3) + H2H Adjustment (+497.0)
+Final Rating (1914.4) = Seeded Start (1417.3) + H2H Adjustment (+497.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.217 | 1403.5 | -13.8 |
 | +90 days | 0.207 | 1389.6 | -27.7 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.108 vs 0.295 average, gap -0.187). Matching that average is worth about 65.5 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.108 vs 0.295 average, gap -0.187). Matching that average is worth about 65.4 seed points.
 
 - Tier Exposure drivers: NSTLGA League | Sapphire Conference (2026-08-29) 1.07; S58 NA Open9-10 East - Playoffs C (2026-09-20) 1.02; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 - Quality Wins drivers: beat Fathom Gaming at NSTLGA League | Sapphire Conference (2026-08-27) 0.38; beat SquadUp at NSTLGA League | Sapphire Conference (2026-08-20) 0.20; beat Firstwave at NSTLGA League | Sapphire Conference (2026-08-13) 0.14
@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| bubibabu | 44 | 1928.6 | +14.3 | +171.6 |
-| Wanted Goons | 43 | 1933.1 | +18.8 | +182.1 |
-| Zealous | 42 | 1941.6 | +27.3 | +168.6 |
-| Locally Hated | 41 | 1946.5 | +32.2 | +183.6 |
-| OnlyFans | 40 | 1946.9 | +32.6 | +179.7 |
+| bubibabu | 44 | 1928.6 | +14.2 | +171.6 |
+| Wanted Goons | 43 | 1933.1 | +18.7 | +182.1 |
+| Zealous | 42 | 1941.7 | +27.3 | +168.6 |
+| Locally Hated | 41 | 1946.6 | +32.2 | +183.6 |
+| OnlyFans | 40 | 1947.0 | +32.6 | +179.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,16 +51,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | regain | 12 | +341.8 | +396.1 | +29.4 |
 | Brahmas | 14 | +293.1 | +281.6 | +26.0 |
-| Detonate | 13 | +332.4 | +349.1 | +22.8 |
-| Old Meta | 15 | +261.8 | +309.7 | +18.9 |
-| FarmVille | 16 | +253.3 | +329.6 | +16.7 |
-| NuTorious | 17 | +251.4 | +266.6 | +16.7 |
-| Villainous | 18 | +246.4 | +322.3 | +14.5 |
+| Detonate | 13 | +332.3 | +349.1 | +22.7 |
+| Old Meta | 15 | +261.8 | +309.8 | +18.9 |
+| FarmVille | 16 | +253.2 | +329.6 | +16.7 |
+| NuTorious | 17 | +251.3 | +266.6 | +16.7 |
+| Villainous | 18 | +246.3 | +322.3 | +14.5 |
 | MASTER ONE | 19 | +245.1 | +272.1 | +2.1 |
 | qcclan | 20 | +231.8 | +274.9 | +2.0 |
-| Iowa Stormboar | 21 | +201.5 | +292.1 | +0.5 |
+| Iowa Stormboar | 21 | +201.5 | +292.2 | +0.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +623.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +623.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): SuperSoakerClub (+0.0), we get it back (+0.0), RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0).
 
@@ -78,10 +78,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | 55TH ST | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.07 | 0.96 | +14.5 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-09-01 | Seven ate Nine | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.91 | 1.02 | 1.00 | 0.93 | 0.04 | 0.93 | +0.6 | Cooper, JASONR, Pol0, ayjin, fenom |
 | 2026-08-29 | Knox Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.20 | 1.00 | 1.07 | 0.07 | 1.07 | +0.5 | JASONR, Pol0, ayjin, d06b03e4, fenom |
-| 2026-08-27 | Fathom Gaming | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.38 | 1.05 | +173.3 | JASONR, Pol0, ayjin, fenom, freakazoid |
+| 2026-08-27 | Fathom Gaming | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.38 | 1.05 | +173.4 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-08-24 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.86 | 1.20 | 1.00 | 1.03 | 0.00 | 0.00 | -7.5 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-08-20 | SquadUp | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.20 | 0.99 | +163.5 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-08-17 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.20 | 1.00 | 0.97 | 0.00 | 0.00 | -57.3 | Cooper, JASONR, Pol0, fenom, freakazoid |
-| 2026-08-13 | Firstwave | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.14 | 0.94 | +121.5 | Cooper, JASONR, Pol0, fenom, freakazoid |
+| 2026-08-13 | Firstwave | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.14 | 0.94 | +121.6 | Cooper, JASONR, Pol0, fenom, freakazoid |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

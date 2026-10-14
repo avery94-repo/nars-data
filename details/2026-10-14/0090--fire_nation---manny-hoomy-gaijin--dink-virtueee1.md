@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.148 | 1307.1 | - |
 | +30 days | 0.153 | 1314.3 | +7.2 |
 | +60 days | 0.155 | 1317.7 | +10.6 |
-| +90 days | 0.160 | 1324.6 | +17.5 |
+| +90 days | 0.160 | 1324.7 | +17.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.030 vs 0.104 average, gap -0.074). Matching that average is worth about 51.8 seed points.
 
@@ -39,9 +39,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Overtake Sector | 89 | 1750.8 | +1.1 | +131.9 |
+| Overtake Sector | 89 | 1750.9 | +1.2 | +132.0 |
 | Manx Recovery Program | 88 | 1751.4 | +1.7 | +118.8 |
-| PROFECO | 87 | 1755.1 | +5.4 | +114.7 |
+| PROFECO | 87 | 1755.2 | +5.5 | +114.8 |
 | Diggers | 86 | 1763.4 | +13.7 | +121.8 |
 | makeSHIFT | 85 | 1764.1 | +14.4 | +127.5 |
 
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Olympus | 25 | +289.9 | +220.0 | +17.7 |
-| Automatic HQ | 27 | +281.1 | +228.8 | +16.3 |
-| VOID ALUNE | 29 | +258.1 | +173.8 | +12.8 |
-| Hairy Scary Bandits | 32 | +249.7 | +209.5 | +11.8 |
-| duck crew | 23 | +346.3 | +194.1 | +11.8 |
-| Chicken Coop | 33 | +248.5 | +237.6 | +11.5 |
+| Olympus | 25 | +290.0 | +220.0 | +17.7 |
+| Automatic HQ | 27 | +281.2 | +228.8 | +16.3 |
+| VOID ALUNE | 29 | +258.2 | +173.8 | +12.8 |
+| Hairy Scary Bandits | 32 | +249.7 | +209.6 | +11.8 |
+| duck crew | 23 | +346.4 | +194.2 | +11.8 |
+| Chicken Coop | 33 | +248.5 | +237.7 | +11.5 |
 | Festina Lente | 24 | +293.1 | +182.0 | +10.0 |
 | Holly Molly | 35 | +238.7 | +196.3 | +9.3 |
 | EMPIRE | 36 | +233.9 | +218.3 | +8.6 |
-| babaG | 28 | +259.0 | +222.5 | +7.4 |
+| babaG | 28 | +259.1 | +222.5 | +7.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +393.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +393.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0).
 
@@ -75,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-18 | The Kerbins | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +41.1 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-17 | Black Dragon Society | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +68.6 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-15 | MEET THE WALL | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.04 | 1.04 | +133.1 | -dink, -manny, Virtueee1, gaijin, hoomy |
-| 2026-09-04 | Koi Pond | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.12 | 0.97 | +160.6 | -dink, -manny, Virtueee1, gaijin, hoomy |
+| 2026-09-04 | Koi Pond | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.12 | 0.96 | +160.6 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-02 | One More Shot | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +111.0 | -dink, -manny, Virtueee1, gaijin, hoomy |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

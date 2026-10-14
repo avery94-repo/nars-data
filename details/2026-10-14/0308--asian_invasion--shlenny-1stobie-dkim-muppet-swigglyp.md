@@ -11,9 +11,9 @@ Final Rating (1250.7) = Seeded Start (1123.1) + H2H Adjustment (+127.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.017 x 1400 = 1123.1
+                = 1100 + 0.016 x 1400 = 1123.1
 
-seed_factor 0.017 = 0.25 x Tier Exposure (0.010) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.048)
+seed_factor 0.016 = 0.25 x Tier Exposure (0.010) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.048)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,8 +24,8 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.017 | 1123.1 | - |
-| +30 days | 0.000 | 1100.4 | -22.7 |
+| Now | 0.016 | 1123.1 | - |
+| +30 days | 0.000 | 1100.4 | -22.6 |
 | +60 days | 0.000 | 1100.0 | -23.1 |
 | +90 days | 0.000 | 1100.0 | -23.1 |
 
@@ -33,14 +33,14 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.048 vs 0.231 aver
 
 - Tier Exposure drivers: S57 NA Advanced Central - Regular Season (2026-05-21) 0.30
 - Quality Wins drivers: beat KODEX ESPORTS at S57 NA Advanced Central - Regular Season (2026-05-01) 0.02; beat NYX at S57 NA Advanced Central - Regular Season (2026-05-05) 0.02; beat Room Temp IQs at S57 NA Advanced Central - Regular Season (2026-05-12) 0.01
-- Opponent Network drivers: beat Imperium at S57 NA Advanced Central - Regular Season (2026-05-14) 0.24; beat Room Temp IQs at S57 NA Advanced Central - Regular Season (2026-05-12) 0.22; beat NYX at S57 NA Advanced Central - Regular Season (2026-05-05) 0.16
+- Opponent Network drivers: beat Imperium at S57 NA Advanced Central - Regular Season (2026-05-14) 0.24; beat Room Temp IQs at S57 NA Advanced Central - Regular Season (2026-05-12) 0.22; beat NYX at S57 NA Advanced Central - Regular Season (2026-05-05) 0.15
 
 Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Team Nyx | 307 | 1253.2 | +2.5 | +169.6 |
-| Anchors Anonymous | 306 | 1256.2 | +5.5 | +164.2 |
+| Anchors Anonymous | 306 | 1256.2 | +5.5 | +164.1 |
 | HeatPeek | 305 | 1258.6 | +7.9 | +164.8 |
 | Guangzhou Loong Lions | 304 | 1259.9 | +9.2 | +172.4 |
 | TELETUBEASTS | 303 | 1263.2 | +12.5 | +177.5 |
@@ -52,11 +52,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Team Amplus | 145 | +343.5 | +340.9 | +31.6 |
 | Biggie Cheese Fan Club | 151 | +325.9 | +295.3 | +30.7 |
 | Kevin James Fan Club | 148 | +330.2 | +323.6 | +30.7 |
-| WhiteBoyWinter | 155 | +316.0 | +304.9 | +29.3 |
+| WhiteBoyWinter | 155 | +316.0 | +304.8 | +29.3 |
 | offBalance | 165 | +291.6 | +297.1 | +25.6 |
-| Order Zero | 156 | +314.0 | +275.1 | +24.9 |
+| Order Zero | 156 | +314.1 | +275.1 | +24.9 |
 | Pug Palace | 167 | +285.1 | +300.2 | +24.2 |
-| BucketJonsBoys | 172 | +282.4 | +287.8 | +24.0 |
+| BucketJonsBoys | 172 | +282.3 | +287.8 | +24.0 |
 | Shaboing Boing Bandits | 173 | +279.9 | +309.8 | +23.2 |
 | Armored Talent | 174 | +279.1 | +316.0 | +22.9 |
 
@@ -66,7 +66,7 @@ Low value wins at current ratings (projected gain under 2.0 points): Scrimless (
 
 Seed inputs expiring within 90 days:
 - S57 NA Advanced Central - Regular Season vs KODEX ESPORTS (2026-05-01): expires in 13 days [Quality Wins 0.02, Opponent Network 0.12]
-- S57 NA Advanced Central - Regular Season vs NYX (2026-05-05): expires in 17 days [Quality Wins 0.02, Opponent Network 0.16]
+- S57 NA Advanced Central - Regular Season vs NYX (2026-05-05): expires in 17 days [Quality Wins 0.02, Opponent Network 0.15]
 - S57 NA Advanced Central - Regular Season vs Room Temp IQs (2026-05-12): expires in 24 days [Quality Wins 0.01, Opponent Network 0.22]
 - S57 NA Advanced Central - Regular Season vs Imperium (2026-05-14): expires in 26 days [Quality Wins 0.01, Opponent Network 0.24]
 - S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
@@ -78,10 +78,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-21 | Shimmer | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -23.7 | 1stobie, Muppet, ThugShakin, dKim, shlenny |
 | 2026-05-19 | Elisir Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -9.3 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
-| 2026-05-14 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.01 | 0.24 | +49.7 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
+| 2026-05-14 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.01 | 0.24 | +49.6 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-05-12 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.01 | 0.22 | +179.8 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-05-08 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -379.8 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
-| 2026-05-05 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.02 | 0.16 | +11.2 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
+| 2026-05-05 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.35 | 1.00 | 0.15 | 0.02 | 0.15 | +11.2 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-05-01 | KODEX ESPORTS | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.02 | 0.12 | +405.3 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-04-30 | counterstrike Team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -63.4 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-04-24 | SOLA | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.06 | 0.00 | 0.00 | -42.1 | 1stobie, Muppet, SwigglyP, dKim, shlenny |

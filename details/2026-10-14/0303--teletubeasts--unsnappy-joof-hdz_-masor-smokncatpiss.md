@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.068 | 1195.4 | - |
 | +30 days | 0.067 | 1193.7 | -1.8 |
 | +60 days | 0.066 | 1192.8 | -2.6 |
-| +90 days | 0.066 | 1191.7 | -3.7 |
+| +90 days | 0.065 | 1191.7 | -3.7 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.186 vs 0.296 average, gap -0.110). Matching that average is worth about 38.5 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | DingTone | 302 | 1263.8 | +0.6 | +82.0 |
-| NATIONAL CS UNI | 301 | 1266.1 | +2.9 | +80.7 |
-| RAZED | 300 | 1269.0 | +5.8 | +74.7 |
-| Diamond Mental | 299 | 1269.9 | +6.7 | +74.9 |
-| Mud Wizards | 298 | 1270.0 | +6.8 | +86.4 |
+| NATIONAL CS UNI | 301 | 1266.0 | +2.8 | +80.8 |
+| RAZED | 300 | 1269.0 | +5.8 | +74.8 |
+| Diamond Mental | 299 | 1269.9 | +6.7 | +75.0 |
+| Mud Wizards | 298 | 1270.0 | +6.8 | +86.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Kaos | 139 | +347.6 | +130.6 | +14.1 |
-| Team Amplus | 145 | +331.0 | +147.8 | +13.5 |
-| Kevin James Fan Club | 148 | +317.7 | +140.4 | +13.0 |
-| Biggie Cheese Fan Club | 151 | +313.4 | +126.5 | +12.7 |
-| WhiteBoyWinter | 155 | +303.5 | +132.1 | +12.2 |
+| Team Amplus | 145 | +331.0 | +147.9 | +13.5 |
+| Kevin James Fan Club | 148 | +317.7 | +140.5 | +13.0 |
+| Biggie Cheese Fan Club | 151 | +313.4 | +126.6 | +12.7 |
+| WhiteBoyWinter | 155 | +303.5 | +132.2 | +12.2 |
 | offBalance | 165 | +279.1 | +130.2 | +10.4 |
-| Order Zero | 156 | +301.5 | +117.1 | +10.0 |
+| Order Zero | 156 | +301.6 | +117.2 | +10.0 |
 | Pug Palace | 167 | +272.6 | +132.5 | +9.8 |
-| Oath | 142 | +339.0 | +122.0 | +9.6 |
-| BucketJonsBoys | 172 | +269.9 | +126.1 | +9.6 |
+| Oath | 142 | +339.0 | +122.1 | +9.6 |
+| BucketJonsBoys | 172 | +269.8 | +126.1 | +9.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +234.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +234.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 

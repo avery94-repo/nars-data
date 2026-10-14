@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.119 | 1267.0 | - |
-| +30 days | 0.103 | 1243.6 | -23.5 |
+| +30 days | 0.103 | 1243.5 | -23.4 |
 | +60 days | 0.089 | 1224.2 | -42.8 |
 | +90 days | 0.068 | 1194.8 | -72.2 |
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Koi Pond | 218 | 1446.0 | +2.9 | +141.2 |
-| VARTOVIK | 217 | 1449.9 | +6.8 | +150.7 |
-| GOYPEEKING | 216 | 1450.0 | +6.9 | +143.5 |
-| Defaulting | 215 | 1451.7 | +8.6 | +149.2 |
-| HiveMind | 214 | 1456.6 | +13.5 | +148.8 |
+| Koi Pond | 218 | 1446.0 | +2.9 | +141.3 |
+| VARTOVIK | 217 | 1449.9 | +6.8 | +150.8 |
+| GOYPEEKING | 216 | 1450.0 | +6.9 | +143.6 |
+| Defaulting | 215 | 1451.7 | +8.6 | +149.3 |
+| HiveMind | 214 | 1456.6 | +13.5 | +149.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GeneticDiff | 70 | +349.8 | +280.0 | +26.5 |
-| Asoka | 74 | +340.2 | +261.2 | +26.2 |
-| Kairo | 79 | +335.8 | +256.8 | +26.0 |
-| fih hou | 73 | +342.6 | +290.7 | +25.7 |
-| firesale | 82 | +325.1 | +272.8 | +25.2 |
-| CNCS Last Hope | 72 | +345.5 | +234.7 | +25.0 |
-| Diggers | 86 | +320.3 | +246.3 | +25.0 |
-| Club 333 | 76 | +339.1 | +314.1 | +25.0 |
-| mas paspas | 75 | +339.8 | +301.9 | +24.4 |
-| Fire Nation | 90 | +306.6 | +251.7 | +23.1 |
+| GeneticDiff | 70 | +349.8 | +280.2 | +26.5 |
+| Asoka | 74 | +340.2 | +261.5 | +26.3 |
+| Kairo | 79 | +335.8 | +257.1 | +26.0 |
+| fih hou | 73 | +342.6 | +291.0 | +25.7 |
+| firesale | 82 | +325.1 | +273.1 | +25.2 |
+| CNCS Last Hope | 72 | +345.6 | +235.0 | +25.0 |
+| Diggers | 86 | +320.3 | +246.6 | +25.0 |
+| Club 333 | 76 | +339.2 | +314.4 | +25.0 |
+| mas paspas | 75 | +339.9 | +302.1 | +24.4 |
+| Fire Nation | 90 | +306.6 | +251.9 | +23.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +496.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +497.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.09 | 0.79 | +59.8 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
 | 2026-08-12 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -88.5 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
 | 2026-08-07 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -43.2 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
-| 2026-07-31 | TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.03 | 0.70 | +156.8 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
+| 2026-07-31 | TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.03 | 0.70 | +156.9 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
 | 2026-07-29 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -105.2 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
 | 2026-07-24 | QUPMANACS | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +239.6 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
 | 2026-06-04 | BONK | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.00 | 0.00 | -237.0 | ClutchBunny, Drawde, TheFope, atsumori, hibiquack |

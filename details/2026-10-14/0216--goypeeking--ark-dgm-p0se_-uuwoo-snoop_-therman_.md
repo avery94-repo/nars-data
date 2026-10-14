@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.072 | 1200.7 | -7.2 |
 | +90 days | 0.073 | 1202.8 | -5.0 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.206 vs 0.303 average, gap -0.097). Matching that average is worth about 33.9 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.206 vs 0.303 average, gap -0.097). Matching that average is worth about 34.0 seed points.
 
 - Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
 - Quality Wins drivers: beat Zamgaa Anime Aimers at S59 NA Intermediate A - Regular Season (2026-10-09) 0.08; beat GodFather Gaming at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.04; beat Boomhogs 2 at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.04
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Defaulting | 215 | 1451.7 | +1.7 | +133.3 |
+| Defaulting | 215 | 1451.7 | +1.7 | +133.4 |
 | HiveMind | 214 | 1456.6 | +6.6 | +132.8 |
 | Nomadic Tactics | 213 | 1456.6 | +6.6 | +124.2 |
 | FlockMunchers | 212 | 1459.1 | +9.1 | +137.2 |
@@ -50,17 +50,17 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | GeneticDiff | 70 | +342.9 | +247.6 | +23.3 |
-| Asoka | 74 | +333.3 | +230.9 | +23.0 |
-| Kairo | 79 | +328.9 | +227.0 | +22.7 |
-| fih hou | 73 | +335.7 | +257.3 | +22.6 |
-| Club 333 | 76 | +332.2 | +278.3 | +22.0 |
-| firesale | 82 | +318.2 | +241.6 | +22.0 |
-| CNCS Last Hope | 72 | +338.6 | +207.1 | +21.8 |
-| Diggers | 86 | +313.4 | +217.8 | +21.7 |
-| mas paspas | 75 | +332.9 | +267.4 | +21.5 |
-| Fire Nation | 90 | +299.7 | +222.8 | +19.9 |
+| Asoka | 74 | +333.3 | +231.0 | +23.0 |
+| Kairo | 79 | +328.9 | +227.1 | +22.7 |
+| fih hou | 73 | +335.7 | +257.4 | +22.6 |
+| Club 333 | 76 | +332.3 | +278.4 | +22.0 |
+| firesale | 82 | +318.2 | +241.7 | +22.0 |
+| CNCS Last Hope | 72 | +338.7 | +207.1 | +21.8 |
+| Diggers | 86 | +313.4 | +217.9 | +21.7 |
+| mas paspas | 75 | +333.0 | +267.4 | +21.5 |
+| Fire Nation | 90 | +299.7 | +222.9 | +20.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +430.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +430.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -75,10 +75,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Zamgaa Anime Aimers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +145.8 | Therman_, efme, p0se_, snoop_, uuwoo |
 | 2026-09-06 | For Fun Gamers | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -96.2 | ARK-DGM, Therman_, p0se_, snoop_, uuwoo |
-| 2026-09-04 | Boomhogs 2 | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.04 | 0.95 | +125.4 | ARK-DGM, Therman_, p0se_, snoop_, uuwoo |
+| 2026-09-04 | Boomhogs 2 | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.04 | 0.95 | +125.5 | ARK-DGM, Therman_, p0se_, snoop_, uuwoo |
 | 2026-09-02 | GodFather Gaming | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.04 | 0.93 | +222.5 | ARK-DGM, Therman_, p0se_, snoop_, uuwoo |
 | 2026-06-10 | Pantry Platoon | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -113.7 | ARK-DGM, GiraffeMofo, Therman_, p0se_, uuwoo |
-| 2026-05-29 | RaveX Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -211.5 | ARK-DGM, GiraffeMofo, Therman_, p0se_, uuwoo |
-| 2026-05-27 | NA_Nook | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +169.9 | ARK-DGM, GiraffeMofo, Therman_, p0se_, uuwoo |
+| 2026-05-29 | RaveX Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -211.6 | ARK-DGM, GiraffeMofo, Therman_, p0se_, uuwoo |
+| 2026-05-27 | NA_Nook | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +170.0 | ARK-DGM, GiraffeMofo, Therman_, p0se_, uuwoo |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

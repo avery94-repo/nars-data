@@ -40,9 +40,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | COGNITIVE | 295 | 1279.1 | +0.8 | +168.3 |
-| Dynasty | 294 | 1279.9 | +1.6 | +165.4 |
+| Dynasty | 294 | 1279.9 | +1.6 | +165.3 |
 | Cream Team | 293 | 1282.4 | +4.1 | +167.1 |
-| Tractors | 292 | 1283.0 | +4.7 | +172.7 |
+| Tractors | 292 | 1283.0 | +4.7 | +172.6 |
 | SwagMonkeyHats | 291 | 1283.2 | +4.9 | +172.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -60,7 +60,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Oath | 142 | +323.9 | +278.9 | +20.9 |
 | gunked | 132 | +344.4 | +310.1 | +20.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.3), SixSevenZaZa (+0.6).
 
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-17 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -257.3 | Bluwiee, Cable___, FreeCharles, Huron, SiIky |
+| 2026-07-17 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -257.4 | Bluwiee, Cable___, FreeCharles, Huron, SiIky |
 | 2026-07-15 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -170.3 | Cable___, FreeCharles, Huron, SiIky, VaultBoi905 |
 | 2026-06-06 | fear2k | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.33 | +181.2 | BugEaterGuy, FreeCharles, Huron, SiIky, noize |
 | 2026-05-29 | AXEN | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +190.7 | BugEaterGuy, Cable___, Huron, ShiFTz-, SiIky, noize |

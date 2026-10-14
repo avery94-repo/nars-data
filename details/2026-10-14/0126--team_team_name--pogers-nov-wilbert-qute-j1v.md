@@ -5,7 +5,7 @@ NARS Rank: 126 of 506
 
 Final Rating: 1637.1
 Seeded Start: 1333.2
-H2H Adjustment: +303.9
+H2H Adjustment: +303.9 (capped at +-300, raw +304.0)
 
 Final Rating (1637.1) = Seeded Start (1333.2) + H2H Adjustment (+303.9)
 
@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.167 | 1333.2 | - |
-| +30 days | 0.134 | 1287.6 | -45.6 |
+| +30 days | 0.134 | 1287.5 | -45.6 |
 | +60 days | 0.107 | 1250.2 | -83.0 |
-| +90 days | 0.065 | 1191.3 | -141.9 |
+| +90 days | 0.065 | 1191.2 | -141.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.469 vs 0.522 average, gap -0.053). Matching that average is worth about 18.6 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Sassy Sunshines | 125 | 1637.7 | +0.6 | +154.6 |
-| absolute cinema | 124 | 1638.7 | +1.6 | +158.9 |
-| Void | 123 | 1638.9 | +1.8 | +153.7 |
-| The Burger People | 122 | 1642.3 | +5.2 | +161.2 |
-| F1lthy Puggers | 121 | 1643.8 | +6.7 | +154.7 |
+| Sassy Sunshines | 125 | 1637.8 | +0.7 | +154.7 |
+| absolute cinema | 124 | 1638.7 | +1.6 | +159.0 |
+| Void | 123 | 1638.8 | +1.7 | +153.8 |
+| The Burger People | 122 | 1642.3 | +5.2 | +161.3 |
+| F1lthy Puggers | 121 | 1643.8 | +6.7 | +154.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| unreal nightmare | 37 | +339.5 | +303.1 | +29.8 |
-| EMPIRE | 36 | +346.5 | +356.2 | +28.8 |
-| North Forge | 38 | +334.1 | +374.1 | +27.4 |
-| ZETTA | 39 | +332.9 | +313.6 | +24.4 |
-| Wanted Goons | 43 | +296.0 | +347.1 | +23.8 |
-| Swole Patrol | 45 | +277.2 | +244.3 | +21.2 |
-| Xiaoma Gaming | 46 | +274.3 | +310.4 | +20.3 |
-| Zealous | 42 | +304.5 | +252.6 | +18.9 |
-| FLOW STATE | 47 | +260.3 | +290.9 | +17.7 |
-| Locally Hated | 41 | +309.4 | +311.9 | +16.5 |
+| unreal nightmare | 37 | +339.5 | +303.3 | +29.8 |
+| EMPIRE | 36 | +346.5 | +356.5 | +28.8 |
+| North Forge | 38 | +334.1 | +374.4 | +27.4 |
+| ZETTA | 39 | +332.9 | +313.8 | +24.4 |
+| Wanted Goons | 43 | +296.0 | +347.4 | +23.8 |
+| Swole Patrol | 45 | +277.3 | +244.6 | +21.2 |
+| Xiaoma Gaming | 46 | +274.4 | +310.6 | +20.3 |
+| Zealous | 42 | +304.6 | +252.9 | +19.0 |
+| FLOW STATE | 47 | +260.3 | +291.1 | +17.7 |
+| Locally Hated | 41 | +309.5 | +312.1 | +16.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +582.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +583.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -82,27 +82,27 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | penazoid | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.12 | 0.97 | +37.5 | NOV, j1v, pogers, qute, wilbert |
 | 2026-08-19 | FUELED BY HATE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -123.6 | NOV, j1v, pogers, qute, wilbert |
 | 2026-08-14 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.09 | 0.92 | +59.9 | NOV, j1v, pogers, qute, wilbert |
-| 2026-08-12 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -51.2 | NOV, j1v, pogers, qute, wilbert |
+| 2026-08-12 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -51.3 | NOV, j1v, pogers, qute, wilbert |
 | 2026-08-07 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -66.7 | NOV, j1v, pogers, qute, wilbert |
 | 2026-08-05 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -59.5 | Brod1220, NOV, j1v, pogers, wilbert |
 | 2026-07-31 | US Navy Esports | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -146.4 | NOV, j1v, pogers, qute, wilbert |
-| 2026-07-29 | Manx Recovery Program | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.07 | 0.79 | +156.8 | NOV, j1v, pogers, qute, wilbert |
-| 2026-07-24 | Storm Surge | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.10 | 0.75 | +19.4 | NOV, j1v, pogers, qute, wilbert |
+| 2026-07-29 | Manx Recovery Program | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.07 | 0.79 | +156.9 | NOV, j1v, pogers, qute, wilbert |
+| 2026-07-24 | Storm Surge | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.10 | 0.75 | +19.3 | NOV, j1v, pogers, qute, wilbert |
 | 2026-07-22 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.06 | 0.74 | +62.3 | NOV, j1v, pogers, qute, wilbert |
 | 2026-07-17 | Kaos | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +12.8 | NOV, j1v, pogers, qute, wilbert |
 | 2026-07-15 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.04 | 0.68 | +361.2 | NOV, j1v, pogers, qute, wilbert |
 | 2026-06-03 | Asoka | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -161.1 | Brod1220, NOV, Nosom, qute, wilbert |
-| 2026-05-31 | Kairo | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.04 | 0.36 | +298.5 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-05-31 | Kairo | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.04 | 0.36 | +298.6 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-27 | VOID ALUNE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -9.1 | Brod1220, NOV, Nosom, qute, wilbert |
-| 2026-05-20 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +246.4 | Brod1220, NOV, Nosom, qute, wilbert |
-| 2026-05-20 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -24.1 | Brod1220, NOV, Nosom, qute, wilbert |
-| 2026-05-14 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -215.4 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-05-20 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +246.5 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-05-20 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -24.1 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-05-14 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -215.5 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-13 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -75.7 | Brod1220, NOV, Nosom, qute, wilbert |
-| 2026-05-08 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +45.2 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-05-08 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.15 | +45.2 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-06 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +198.3 | Brod1220, NOV, Nosom, qute, wilbert |
-| 2026-04-30 | 5Frag Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -292.9 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-04-30 | 5Frag Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -293.0 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-04-29 | butt | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -401.2 | Brod1220, NOV, Nosom, qute, wilbert |
-| 2026-04-24 | DESPAIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +163.6 | Brod1220, NOV, Nosom, qute, wilbert |
-| 2026-04-23 | SquadUp | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.01 | 0.04 | +266.4 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-04-24 | DESPAIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +163.7 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-04-23 | SquadUp | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.01 | 0.04 | +266.5 | Brod1220, NOV, Nosom, qute, wilbert |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

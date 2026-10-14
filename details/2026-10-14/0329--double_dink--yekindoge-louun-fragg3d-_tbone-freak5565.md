@@ -39,10 +39,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Goon Squad | 328 | 1222.0 | +1.4 | +150.3 |
-| PogSquad | 327 | 1222.5 | +1.9 | +161.1 |
+| Goon Squad | 328 | 1221.9 | +1.3 | +150.3 |
+| PogSquad | 327 | 1222.5 | +1.9 | +161.2 |
 | Transcended | 326 | 1223.3 | +2.7 | +156.0 |
-| innerFire | 325 | 1224.3 | +3.7 | +156.0 |
+| innerFire | 325 | 1224.2 | +3.6 | +156.0 |
 | Sultans of Swing | 324 | 1225.0 | +4.4 | +151.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,17 +50,17 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | WhiteBoyWinter | 155 | +346.1 | +292.9 | +29.8 |
-| offBalance | 165 | +321.7 | +286.7 | +27.5 |
-| BucketJonsBoys | 172 | +312.5 | +277.7 | +26.6 |
-| Pug Palace | 167 | +315.2 | +290.5 | +26.5 |
+| offBalance | 165 | +321.7 | +286.8 | +27.5 |
+| BucketJonsBoys | 172 | +312.4 | +277.7 | +26.6 |
+| Pug Palace | 167 | +315.2 | +290.6 | +26.5 |
 | Shaboing Boing Bandits | 173 | +310.0 | +301.2 | +25.9 |
-| Order Zero | 156 | +344.1 | +262.4 | +25.8 |
-| Firstwave | 175 | +306.4 | +276.4 | +25.8 |
+| Order Zero | 156 | +344.2 | +262.5 | +25.8 |
+| Firstwave | 175 | +306.4 | +276.5 | +25.8 |
 | Armored Talent | 174 | +309.2 | +307.9 | +25.6 |
 | APEX | 176 | +301.3 | +283.1 | +25.0 |
-| GOOZPEEK | 182 | +292.5 | +287.2 | +23.6 |
+| GOOZPEEK | 182 | +292.5 | +287.3 | +23.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +572.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +572.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.4), Courage (+0.5), SixSevenZaZa (+0.9).
 

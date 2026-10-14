@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| ABG Esports | 196 | +349.9 | +257.4 | +23.8 |
+| ABG Esports | 196 | +349.9 | +257.5 | +23.8 |
 | GRIT | 201 | +342.3 | +221.8 | +23.4 |
-| O Fire | 198 | +349.7 | +265.5 | +23.2 |
-| Bad Jawn | 200 | +343.3 | +261.1 | +23.0 |
+| O Fire | 198 | +349.7 | +265.6 | +23.2 |
+| Bad Jawn | 200 | +343.3 | +261.2 | +23.0 |
 | noname | 208 | +328.5 | +240.0 | +22.4 |
-| Kings Gambit | 210 | +323.1 | +241.2 | +22.0 |
-| AscendentEsport | 207 | +329.0 | +259.6 | +21.7 |
-| Veniversum | 211 | +320.6 | +255.4 | +21.5 |
-| FlockMunchers | 212 | +320.3 | +255.5 | +21.5 |
-| GOYPEEKING | 216 | +311.2 | +221.8 | +21.1 |
+| Kings Gambit | 210 | +323.1 | +241.3 | +22.0 |
+| AscendentEsport | 206 | +329.1 | +259.6 | +21.7 |
+| Veniversum | 211 | +320.6 | +255.5 | +21.5 |
+| FlockMunchers | 212 | +320.3 | +255.6 | +21.5 |
+| GOYPEEKING | 216 | +311.2 | +221.8 | +21.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +430.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +430.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.5), shirtcockin (+0.7), Courage (+0.8), SixSevenZaZa (+1.4).
 
@@ -71,7 +71,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | HIGHPOINT | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +117.3 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 | 2026-10-07 | Guangzhou Loong Lions | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -176.7 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
-| 2026-09-10 | Kodaks Lettuce | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -87.5 | Garbagebag, Khad42, Kingruneorb, QuackDaddy, rozay |
+| 2026-09-10 | Kodaks Lettuce | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -87.6 | Garbagebag, Khad42, Kingruneorb, QuackDaddy, rozay |
 | 2026-09-06 | PogSquad | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -120.2 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 | 2026-09-04 | Elo Terrorists | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +69.4 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 | 2026-09-02 | Z-Blocked | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +141.0 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |

@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Real Hustle Club | 256 | 1372.5 | +2.6 | +163.1 |
 | drunk cigs dont count | 255 | 1373.1 | +3.2 | +173.7 |
-| N w G | 254 | 1375.1 | +5.2 | +163.9 |
+| N w G | 254 | 1375.2 | +5.3 | +163.9 |
 | Eightball | 253 | 1375.6 | +5.7 | +172.8 |
 | Dude Picks | 252 | 1377.5 | +7.6 | +176.2 |
 
@@ -51,11 +51,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | Axial | 101 | +336.5 | +321.6 | +31.0 |
 | Addice | 102 | +332.6 | +368.8 | +29.5 |
-| New Legends | 103 | +325.4 | +372.7 | +28.6 |
+| New Legends | 103 | +325.5 | +372.7 | +28.6 |
 | Holy Squid Empire | 108 | +308.8 | +312.6 | +28.0 |
 | Black Dragon Society | 109 | +300.8 | +330.9 | +26.6 |
-| Hadouken | 100 | +339.9 | +284.9 | +25.8 |
-| Bills | 99 | +342.1 | +285.8 | +24.3 |
+| Hadouken | 100 | +339.9 | +285.0 | +25.8 |
+| Bills | 99 | +342.0 | +285.8 | +24.3 |
 | Read You Like a Kindle | 116 | +284.8 | +324.3 | +23.9 |
 | eefsports | 112 | +294.3 | +267.5 | +23.5 |
 | ODIN | 119 | +277.2 | +315.2 | +22.1 |
@@ -77,8 +77,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | Boof Gang | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -123.9 | Lil_Cig_, SirRev, bloatedrhino, kRc5, realYahu |
 | 2026-09-04 | Crashouts Anonymous | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +99.8 | Lil_Cig_, SirRev, bloatedrhino, kRc5, realYahu |
 | 2026-09-02 | ARES GAMING | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.06 | 0.92 | +37.5 | Lil_Cig_, SirRev, bloatedrhino, kRc5, realYahu |
-| 2026-06-03 | Evade Gaming | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -182.8 | Lil_Cig_, PUDZZ, bloatedrhino, kRc5, realYahu |
-| 2026-05-29 | Knight Shift | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +182.3 | Lil_Cig_, PUDZZ, bloatedrhino, kRc5, realYahu |
+| 2026-06-03 | Evade Gaming | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -182.9 | Lil_Cig_, PUDZZ, bloatedrhino, kRc5, realYahu |
+| 2026-05-29 | Knight Shift | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +182.4 | Lil_Cig_, PUDZZ, bloatedrhino, kRc5, realYahu |
 | 2026-05-27 | Intentionally | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +182.5 | Lil_Cig_, PUDZZ, bloatedrhino, kRc5, realYahu |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

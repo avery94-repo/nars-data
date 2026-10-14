@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.166 | 1332.5 | - |
-| +30 days | 0.142 | 1299.2 | -33.4 |
+| +30 days | 0.142 | 1299.2 | -33.3 |
 | +60 days | 0.124 | 1274.1 | -58.4 |
 | +90 days | 0.100 | 1240.5 | -92.0 |
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| GoonAssOldheads | 258 | 1369.8 | +4.0 | +163.1 |
-| Only Goys | 257 | 1369.9 | +4.1 | +157.4 |
-| Real Hustle Club | 256 | 1372.5 | +6.7 | +158.2 |
-| drunk cigs dont count | 255 | 1373.1 | +7.3 | +169.7 |
-| N w G | 254 | 1375.1 | +9.3 | +159.0 |
+| GoonAssOldheads | 258 | 1369.8 | +4.0 | +163.2 |
+| Only Goys | 257 | 1369.9 | +4.1 | +157.5 |
+| Real Hustle Club | 256 | 1372.5 | +6.7 | +158.3 |
+| drunk cigs dont count | 255 | 1373.1 | +7.3 | +169.8 |
+| N w G | 254 | 1375.2 | +9.4 | +159.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Axial | 101 | +340.6 | +310.4 | +30.1 |
-| Addice | 102 | +336.7 | +357.0 | +28.7 |
-| New Legends | 103 | +329.5 | +361.0 | +27.8 |
-| Holy Squid Empire | 108 | +312.9 | +302.2 | +27.4 |
-| Black Dragon Society | 109 | +304.9 | +320.5 | +26.1 |
-| Hadouken | 100 | +344.0 | +274.4 | +25.1 |
-| Read You Like a Kindle | 116 | +288.9 | +314.5 | +23.7 |
-| Bills | 99 | +346.2 | +275.2 | +23.6 |
-| eefsports | 112 | +298.4 | +258.0 | +23.1 |
-| ODIN | 119 | +281.3 | +305.6 | +22.0 |
+| Axial | 101 | +340.6 | +310.7 | +30.1 |
+| Addice | 102 | +336.7 | +357.2 | +28.7 |
+| New Legends | 103 | +329.6 | +361.3 | +27.8 |
+| Holy Squid Empire | 108 | +312.9 | +302.4 | +27.4 |
+| Black Dragon Society | 109 | +304.9 | +320.8 | +26.1 |
+| Hadouken | 100 | +344.0 | +274.6 | +25.1 |
+| Read You Like a Kindle | 116 | +288.9 | +314.7 | +23.7 |
+| Bills | 99 | +346.1 | +275.4 | +23.6 |
+| eefsports | 112 | +298.4 | +258.2 | +23.2 |
+| ODIN | 119 | +281.3 | +305.8 | +22.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +606.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +606.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -76,32 +76,32 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-06 | ABG Esports | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -37.9 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
-| 2026-09-04 | Team Auspex | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +155.1 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
+| 2026-09-04 | Team Auspex | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +155.2 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
 | 2026-09-02 | NoPrac | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.07 | 0.92 | +69.5 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
 | 2026-08-28 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +37.9 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
-| 2026-08-26 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.09 | 0.87 | +54.1 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
+| 2026-08-26 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.09 | 0.87 | +54.2 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
 | 2026-08-21 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.09 | 0.84 | +126.2 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
 | 2026-08-19 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -7.1 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
-| 2026-08-14 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -80.4 | Dagger, Grimmy, dontcaretaze, kenNjii, ryzzer |
+| 2026-08-14 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -80.5 | Dagger, Grimmy, dontcaretaze, kenNjii, ryzzer |
 | 2026-08-12 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +94.0 | Dagger, Grimmy, dontcaretaze, kenNjii, ryzzer |
-| 2026-08-09 | DETONATE | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -0.0 | Dagger, Grimmy, XentriQ, dontcaretaze, kenNjii |
+| 2026-08-09 | DETONATE | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.75 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -0.0 | Dagger, Grimmy, XentriQ, dontcaretaze, kenNjii |
 | 2026-08-07 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +112.0 | Dagger, Grimmy, dontcaretaze, kenNjii, ryzzer |
-| 2026-07-31 | Strafe | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -321.6 | Dagger, Grimmy, Ovad, dontcaretaze, ryzzer |
+| 2026-07-31 | Strafe | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -321.7 | Dagger, Grimmy, Ovad, dontcaretaze, ryzzer |
 | 2026-07-29 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.06 | 0.68 | +135.9 | Dagger, Grimmy, Ovad, dontcaretaze, ryzzer |
 | 2026-07-22 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -3.0 | Dagger, Grimmy, Ovad, dontcaretaze, ryzzer |
 | 2026-07-17 | Flow Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -275.0 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
 | 2026-06-05 | After Peak | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -203.6 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-31 | Ninjas In Boxer | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.03 | 0.29 | +129.7 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
-| 2026-05-29 | Solbound | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +135.1 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
-| 2026-05-27 | Famas OP | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -336.6 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
-| 2026-05-22 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +338.1 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
+| 2026-05-29 | Solbound | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +135.2 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
+| 2026-05-27 | Famas OP | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -336.7 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
+| 2026-05-22 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +338.2 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-20 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -12.3 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
-| 2026-05-15 | Duality Zero | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -341.8 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
+| 2026-05-15 | Duality Zero | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -341.9 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-13 | Exnitas | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +214.6 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-08 | in for Blood | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +343.1 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-06 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -218.4 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-01 | Les Ptis Jus | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -186.8 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
-| 2026-04-29 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -277.3 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
+| 2026-04-29 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -277.4 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-04-24 | In Our Prime | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +240.5 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-04-22 | RejexEsports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +149.5 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 

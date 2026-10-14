@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | MommySports | 147 | 1587.1 | +6.2 | +113.2 |
-| JPG | 146 | 1588.0 | +7.1 | +112.0 |
+| JPG | 146 | 1588.0 | +7.1 | +112.1 |
 | Team Amplus | 145 | 1594.2 | +13.3 | +117.4 |
 | pew pew | 144 | 1596.7 | +15.8 | +108.5 |
 | Los Pollos Hermanos | 143 | 1598.2 | +17.3 | +114.5 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Swole Patrol | 45 | +333.4 | +174.4 | +19.3 |
-| Xiaoma Gaming | 46 | +330.5 | +233.1 | +18.5 |
-| FLOW STATE | 47 | +316.5 | +218.2 | +18.0 |
-| No Future Lifes Over | 50 | +306.2 | +197.3 | +17.5 |
+| Swole Patrol | 45 | +333.5 | +174.5 | +19.3 |
+| Xiaoma Gaming | 46 | +330.6 | +233.2 | +18.5 |
+| FLOW STATE | 47 | +316.5 | +218.3 | +18.0 |
+| No Future Lifes Over | 50 | +306.3 | +197.3 | +17.5 |
 | DESPAIR | 49 | +307.8 | +197.6 | +17.3 |
-| Phantom Sense | 51 | +302.8 | +238.9 | +16.9 |
-| TheMotherLovers | 53 | +297.0 | +202.4 | +16.6 |
+| Phantom Sense | 51 | +302.9 | +239.0 | +16.9 |
+| TheMotherLovers | 53 | +297.1 | +202.4 | +16.6 |
 | Omen Esports | 57 | +276.9 | +211.3 | +14.0 |
-| GG | 52 | +300.5 | +166.7 | +12.6 |
+| GG | 52 | +300.6 | +166.8 | +12.6 |
 | bubibabu | 44 | +347.7 | +200.5 | +12.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +351.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +351.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -93,8 +93,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.06 | 0.60 | +8.2 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-07-15 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +15.9 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-06-07 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -128.2 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
-| 2026-05-29 | The Plague | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +192.4 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
-| 2026-05-22 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -300.2 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
+| 2026-05-29 | The Plague | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +192.5 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
+| 2026-05-22 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -300.3 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
 | 2026-05-20 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -231.9 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
 | 2026-05-08 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +344.7 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
 | 2026-05-06 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -283.9 | ADIL-, Billy, CH3A9, Muzic, SpartanShock |

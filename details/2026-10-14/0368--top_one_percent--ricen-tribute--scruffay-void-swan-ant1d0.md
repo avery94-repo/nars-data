@@ -53,14 +53,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Bad Jawn | 200 | +345.1 | +354.9 | +31.2 |
 | noname | 208 | +330.3 | +326.5 | +30.6 |
 | Kings Gambit | 210 | +324.9 | +327.5 | +30.0 |
-| AscendentEsport | 207 | +330.8 | +351.4 | +29.4 |
+| AscendentEsport | 206 | +330.9 | +351.4 | +29.4 |
 | Veniversum | 211 | +322.4 | +345.2 | +29.2 |
 | FlockMunchers | 212 | +322.1 | +345.3 | +29.1 |
 | GOYPEEKING | 216 | +313.0 | +302.0 | +29.0 |
-| Defaulting | 215 | +314.7 | +331.3 | +28.6 |
+| Defaulting | 215 | +314.7 | +331.4 | +28.6 |
 | VARTOVIK | 217 | +312.9 | +345.1 | +27.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.7), shirtcockin (+1.0), Courage (+1.2).
 
@@ -85,7 +85,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.05 | 0.86 | +63.4 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, stephhxx |
 | 2026-08-05 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -54.2 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, stephhxx |
 | 2026-07-31 | Storm Surge | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -132.3 | Ant1d0te_cs, Scruffay, Tribute-, ricen, stephhxx |
-| 2026-07-29 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -198.0 | Ant1d0te_cs, Scruffay, Tribute-, ricen, stephhxx |
+| 2026-07-29 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -198.1 | Ant1d0te_cs, Scruffay, Tribute-, ricen, stephhxx |
 | 2026-07-24 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.07 | 0.75 | +210.0 | Ant1d0te_cs, Tribute-, Void-Swan, ricen, stephhxx |
 | 2026-07-16 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -45.2 | Ant1d0te_cs, Scruffay, Tribute-, ricen, stephhxx |
 | 2026-07-15 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -0.2 | Ant1d0te_cs, Scruffay, Tribute-, ricen, stephhxx |
@@ -93,13 +93,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | Quality | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.00 | 0.00 | -2.4 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-27 | Les Ptis Jus | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.02 | 0.27 | +25.0 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-22 | High-Tech Performance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +13.4 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
-| 2026-05-21 | Spin da block | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +378.3 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
+| 2026-05-21 | Spin da block | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +378.4 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-20 | Costco Family | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +59.9 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-13 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -15.9 | Ant1d0te_cs, Scruffay, T0niK, Tribute-, Void-Swan |
 | 2026-05-08 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -27.1 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
-| 2026-05-06 | MINDTRIP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -95.0 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
+| 2026-05-06 | MINDTRIP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -94.9 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-01 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -199.3 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
-| 2026-04-29 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -279.1 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
+| 2026-04-29 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -279.2 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-04-24 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | +250.8 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-04-22 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +254.3 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 

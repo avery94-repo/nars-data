@@ -13,7 +13,7 @@ Final Rating (1559.4) = Seeded Start (1339.4) + H2H Adjustment (+220.0)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.171 x 1400 = 1339.4
 
-seed_factor 0.171 = 0.25 x Tier Exposure (0.080) + 0.50 x Quality Wins (0.043) + 0.25 x Opponent Network (0.519)
+seed_factor 0.171 = 0.25 x Tier Exposure (0.080) + 0.50 x Quality Wins (0.043) + 0.25 x Opponent Network (0.518)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Fourth Quarter | 157 | 1560.7 | +1.3 | +148.7 |
-| Order Zero | 156 | 1564.7 | +5.3 | +142.0 |
-| WhiteBoyWinter | 155 | 1566.7 | +7.3 | +149.1 |
-| ASYCS KITTENS | 154 | 1569.5 | +10.1 | +146.6 |
-| MINDTRIP | 153 | 1569.7 | +10.3 | +143.3 |
+| Fourth Quarter | 157 | 1560.8 | +1.4 | +148.8 |
+| Order Zero | 156 | 1564.8 | +5.4 | +142.1 |
+| WhiteBoyWinter | 155 | 1566.7 | +7.3 | +149.2 |
+| ASYCS KITTENS | 154 | 1569.5 | +10.1 | +146.7 |
+| MINDTRIP | 153 | 1569.7 | +10.3 | +143.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| FLOW STATE | 47 | +338.0 | +308.2 | +26.2 |
-| No Future Lifes Over | 50 | +327.7 | +279.1 | +26.1 |
-| DESPAIR | 49 | +329.3 | +279.6 | +25.9 |
-| TheMotherLovers | 53 | +318.5 | +285.6 | +25.1 |
-| Phantom Sense | 51 | +324.3 | +335.7 | +24.7 |
-| Omen Esports | 57 | +298.4 | +296.4 | +21.9 |
-| GG | 52 | +322.0 | +237.5 | +19.9 |
-| flat earth | 64 | +267.1 | +262.1 | +18.2 |
-| Endless Esports | 65 | +266.6 | +264.1 | +18.1 |
-| DUMBO | 63 | +267.7 | +286.7 | +17.6 |
+| FLOW STATE | 47 | +338.0 | +308.5 | +26.2 |
+| No Future Lifes Over | 50 | +327.8 | +279.4 | +26.1 |
+| DESPAIR | 49 | +329.3 | +279.9 | +25.9 |
+| TheMotherLovers | 53 | +318.6 | +285.8 | +25.1 |
+| Phantom Sense | 51 | +324.4 | +336.0 | +24.7 |
+| Omen Esports | 57 | +298.4 | +296.6 | +21.9 |
+| GG | 52 | +322.1 | +237.8 | +19.9 |
+| flat earth | 64 | +267.1 | +262.4 | +18.3 |
+| Endless Esports | 65 | +266.6 | +264.3 | +18.1 |
+| DUMBO | 63 | +267.7 | +287.0 | +17.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +522.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +523.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -75,13 +75,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | Wolves | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.03 | 1.00 | 1.00 | 0.00 | 0.00 | -53.3 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
+| 2026-09-10 | Wolves | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.03 | 1.00 | 1.00 | 0.00 | 0.00 | -53.4 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-09-08 | in for Blood | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.08 | 0.99 | +4.1 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-09-07 | enigma | W | 1-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.95 | 1.03 | 1.00 | 0.99 | 0.15 | 0.99 | +145.1 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-28 | Distinguished Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.08 | 0.90 | +31.3 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
-| 2026-08-26 | Chopped | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.10 | 0.89 | +84.4 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
+| 2026-08-26 | Chopped | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.10 | 0.89 | +84.5 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-21 | teamington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -83.3 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
-| 2026-08-19 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -140.0 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
+| 2026-08-19 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -140.1 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-14 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.04 | 0.81 | +71.2 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-12 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.03 | 0.79 | +33.2 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-07 | MINDTRIP | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -172.7 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
@@ -90,12 +90,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | DKR Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.08 | 0.70 | +113.2 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-07-24 | Real Hustle Club | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -129.2 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-07-22 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +96.8 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
-| 2026-07-17 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.03 | 0.61 | +115.6 | Anzio, Beyjounn, Gozat, GradienTz, Tribgob |
+| 2026-07-17 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.03 | 0.61 | +115.7 | Anzio, Beyjounn, Gozat, GradienTz, Tribgob |
 | 2026-07-15 | Meepins | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.05 | 0.60 | +195.6 | Anzio, Beyjounn, Gozat, GradienTz, Tribgob |
 | 2026-06-11 | dice | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.36 | 1.05 | 1.00 | 0.38 | 0.00 | 0.00 | -251.1 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |
 | 2026-06-09 | bubibabu | W | 1-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.35 | 1.05 | 1.00 | 0.37 | 0.03 | 0.37 | +140.8 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |
 | 2026-06-04 | Bald | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.02 | 0.33 | +228.6 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |
-| 2026-06-02 | Big Fish | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.04 | 0.32 | +149.3 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |
+| 2026-06-02 | Big Fish | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.04 | 0.32 | +149.4 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |
 | 2026-05-29 | GOBLINS | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.00 | 0.00 | -352.8 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |
 | 2026-05-27 | Team Auspex | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.05 | 1.00 | 0.28 | 0.02 | 0.28 | +214.4 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |
 

@@ -3,15 +3,15 @@ Team Name: Absent Minded
 Roster: Pudie, -coNN, tRIPwire_, Kroney519, ViviD888
 NARS Rank: 460 of 506
 
-Final Rating: 845.1
-Seeded Start: 1283.1
+Final Rating: 845.0
+Seeded Start: 1283.0
 H2H Adjustment: -438.0
 
-Final Rating (845.1) = Seeded Start (1283.1) + H2H Adjustment (-438.0)
+Final Rating (845.0) = Seeded Start (1283.0) + H2H Adjustment (-438.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.131 x 1400 = 1283.1
+                = 1100 + 0.131 x 1400 = 1283.0
 
 seed_factor 0.131 = 0.25 x Tier Exposure (0.093) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.382)
 
@@ -24,8 +24,8 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.131 | 1283.1 | - |
-| +30 days | 0.100 | 1240.7 | -42.4 |
+| Now | 0.131 | 1283.0 | - |
+| +30 days | 0.100 | 1240.6 | -42.4 |
 | +60 days | 0.083 | 1216.1 | -67.0 |
 | +90 days | 0.065 | 1190.8 | -92.2 |
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Puddle Pirates | 459 | 848.8 | +3.7 | +124.7 |
-| Thrash | 458 | 860.9 | +15.8 | +138.5 |
-| Cadillac F1 eSports Team | 457 | 863.1 | +18.0 | +133.0 |
-| onliners | 456 | 870.2 | +25.1 | +129.8 |
-| girl kissers | 455 | 883.6 | +38.5 | +133.1 |
+| Puddle Pirates | 459 | 848.7 | +3.7 | +124.7 |
+| Thrash | 458 | 860.8 | +15.8 | +138.5 |
+| Cadillac F1 eSports Team | 457 | 863.0 | +18.0 | +133.0 |
+| onliners | 456 | 870.1 | +25.1 | +129.9 |
+| girl kissers | 455 | 883.6 | +38.6 | +133.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Samantha 4 | 351 | +332.9 | +234.0 | +23.4 |
-| Florida Man | 345 | +341.1 | +272.1 | +23.1 |
-| RunTheDamnBall | 352 | +322.0 | +245.6 | +22.4 |
-| DeathMark E-Sports | 353 | +321.4 | +253.1 | +22.2 |
-| Comeback Bandits | 355 | +315.5 | +238.5 | +21.9 |
-| 99 Thieves | 354 | +317.2 | +237.8 | +21.8 |
-| RH Help Desk | 358 | +313.4 | +256.9 | +21.4 |
-| Macs Snacks | 359 | +308.8 | +223.9 | +21.4 |
-| Aers Money Crew | 360 | +308.1 | +230.4 | +21.2 |
-| MINDTRIP | 361 | +304.5 | +234.8 | +20.8 |
+| Samantha 4 | 351 | +333.0 | +234.0 | +23.4 |
+| Florida Man | 345 | +341.2 | +272.2 | +23.1 |
+| RunTheDamnBall | 352 | +322.1 | +245.6 | +22.4 |
+| DeathMark E-Sports | 353 | +321.5 | +253.2 | +22.2 |
+| Comeback Bandits | 355 | +315.6 | +238.6 | +21.9 |
+| 99 Thieves | 354 | +317.3 | +237.8 | +21.8 |
+| RH Help Desk | 358 | +313.5 | +257.0 | +21.4 |
+| Macs Snacks | 359 | +308.9 | +224.0 | +21.4 |
+| Aers Money Crew | 360 | +308.2 | +230.4 | +21.2 |
+| MINDTRIP | 361 | +304.5 | +234.9 | +20.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +441.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +441.6 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs AURA Esports (2026-05-06): expires in 18 days [Quality Wins 0.02]
@@ -83,12 +83,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Evil Space Wizards | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -62.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-08-19 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.05 | 0.95 | +122.4 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-08-14 | Aers Money Crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -75.3 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-08-12 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -118.4 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-08-12 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -118.5 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-08-07 | Macs Snacks | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -12.6 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-08-05 | NADIYA | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -201.2 | -coNN, Kroney519, ViviD888, YvnggDexx, tRIPwire_ |
+| 2026-08-05 | NADIYA | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -201.3 | -coNN, Kroney519, ViviD888, YvnggDexx, tRIPwire_ |
 | 2026-07-31 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -193.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-07-29 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.06 | 0.79 | +0.6 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-07-24 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.03 | 0.75 | +104.5 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-07-24 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.03 | 0.75 | +104.6 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-07-22 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -310.3 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-07-17 | The Skins | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -86.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-07-15 | Manx Recovery Program | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -348.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
@@ -97,13 +97,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-31 | TenToesDown | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.04 | 0.30 | +128.1 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-05-29 | HammerHeads | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.02 | 0.28 | +132.1 | -coNN, Hercccc, Kroney519, Pudie, ViviD888 |
 | 2026-05-27 | Braindead | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.01 | 0.27 | +23.7 | Hercccc, Kroney519, Pudie, ViviD888, YvnggDexx |
-| 2026-05-22 | MINDTRIP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +93.0 | Hercccc, Pudie, ViviD888, YvnggDexx, tRIPwire_ |
-| 2026-05-20 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +219.9 | Hercccc, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-05-15 | Solbound | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +220.1 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-05-13 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +317.0 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-05-08 | The Agarthans | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -391.6 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-05-06 | AURA Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +247.7 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-05-01 | Counter Legends | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +413.8 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-05-22 | MINDTRIP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +92.9 | Hercccc, Pudie, ViviD888, YvnggDexx, tRIPwire_ |
+| 2026-05-20 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +220.0 | Hercccc, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-05-15 | Solbound | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +220.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-05-13 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +317.1 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-05-08 | The Agarthans | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -391.7 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-05-06 | AURA Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +247.8 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-05-01 | Counter Legends | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +413.9 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-04-29 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -1.5 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-04-24 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -212.3 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-04-22 | Top One Percent | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -254.3 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |

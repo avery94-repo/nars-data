@@ -3,11 +3,11 @@ Team Name: teamington
 Roster: infave, cafune, Noahhh, SEAN, Krels
 NARS Rank: 192 of 506
 
-Final Rating: 1498.1
+Final Rating: 1498.0
 Seeded Start: 1368.8
-H2H Adjustment: +129.3
+H2H Adjustment: +129.2
 
-Final Rating (1498.1) = Seeded Start (1368.8) + H2H Adjustment (+129.3)
+Final Rating (1498.0) = Seeded Start (1368.8) + H2H Adjustment (+129.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| UncsStillGotIt | 191 | 1499.3 | +1.2 | +127.9 |
-| No Leaders Please | 190 | 1499.4 | +1.3 | +125.5 |
-| Lynnsanity | 189 | 1500.0 | +1.9 | +125.6 |
-| mokey mokey | 188 | 1503.7 | +5.6 | +115.2 |
-| Vibe Check | 187 | 1503.9 | +5.8 | +122.0 |
+| UncsStillGotIt | 191 | 1499.3 | +1.3 | +127.9 |
+| No Leaders Please | 190 | 1499.4 | +1.4 | +125.5 |
+| Lynnsanity | 189 | 1500.0 | +2.0 | +125.6 |
+| mokey mokey | 188 | 1503.7 | +5.7 | +115.2 |
+| Vibe Check | 187 | 1503.9 | +5.9 | +122.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +328.4 | +232.9 | +21.2 |
-| Endless Esports | 65 | +327.9 | +234.9 | +21.1 |
-| DUMBO | 63 | +329.0 | +258.6 | +20.2 |
-| NZ Gaming | 69 | +315.1 | +214.0 | +20.1 |
-| WhalersOnDaMoon | 66 | +323.7 | +238.1 | +20.0 |
-| GeneticDiff | 70 | +294.8 | +215.9 | +18.1 |
-| fih hou | 73 | +287.6 | +223.7 | +17.2 |
-| Asoka | 74 | +285.2 | +201.7 | +17.0 |
-| F5 Esports | 60 | +337.2 | +246.5 | +16.8 |
-| Club 333 | 76 | +284.1 | +240.8 | +16.7 |
+| flat earth | 64 | +328.5 | +232.9 | +21.2 |
+| Endless Esports | 65 | +328.0 | +235.0 | +21.1 |
+| DUMBO | 63 | +329.1 | +258.7 | +20.2 |
+| NZ Gaming | 69 | +315.2 | +214.1 | +20.1 |
+| WhalersOnDaMoon | 66 | +323.9 | +238.1 | +20.0 |
+| GeneticDiff | 70 | +294.9 | +215.9 | +18.1 |
+| fih hou | 73 | +287.7 | +223.7 | +17.2 |
+| Asoka | 74 | +285.3 | +201.7 | +17.0 |
+| F5 Esports | 60 | +337.3 | +246.5 | +16.8 |
+| Club 333 | 76 | +284.3 | +240.8 | +16.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +395.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +395.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -92,12 +92,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-04 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -104.5 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
 | 2026-05-31 | Skyline | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -140.0 | Krels, SEAN, cafune, infave, phamzyy |
 | 2026-05-29 | 5Frag Gaming | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.05 | 0.34 | +43.9 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
-| 2026-05-20 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -278.2 | Krels, Noahhh, SEAN, cafune, infave |
-| 2026-05-19 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.02 | 0.24 | +281.5 | Krels, SEAN, cafune, infave, phamzyy |
+| 2026-05-20 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -278.3 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-19 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.02 | 0.24 | +281.6 | Krels, SEAN, cafune, infave, phamzyy |
 | 2026-05-15 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +333.6 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-13 | NXG Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -185.6 | Krels, Noahhh, SEAN, cafune, infave |
-| 2026-05-08 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +50.4 | Krels, Noahhh, SEAN, cafune, infave |
-| 2026-05-06 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +107.4 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-08 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.01 | 0.15 | +50.4 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-06 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +107.5 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-01 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -173.7 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-04-29 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -1.7 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-04-28 | Dude Picks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.15 | 1.00 | 0.08 | 0.01 | 0.08 | +89.5 | Krels, Noahhh, SEAN, cafune, infave |

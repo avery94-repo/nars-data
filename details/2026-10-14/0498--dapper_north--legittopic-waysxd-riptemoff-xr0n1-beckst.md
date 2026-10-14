@@ -3,11 +3,11 @@ Team Name: Dapper North
 Roster: LEGITtopic, WaysXD, Riptemoff, xR0n1, Beckster
 NARS Rank: 498 of 506
 
-Final Rating: 553.4
+Final Rating: 553.2
 Seeded Start: 1106.8
-H2H Adjustment: -553.4
+H2H Adjustment: -553.6 (capped at +-300, raw -553.5)
 
-Final Rating (553.4) = Seeded Start (1106.8) + H2H Adjustment (-553.4)
+Final Rating (553.2) = Seeded Start (1106.8) + H2H Adjustment (-553.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Brothers United | 497 | 554.4 | +1.0 | +162.6 |
-| Solbound | 496 | 555.0 | +1.6 | +167.0 |
-| RejexEsports | 495 | 557.8 | +4.4 | +163.7 |
-| we get it back | 494 | 570.2 | +16.8 | +167.6 |
-| SuperSoakerClub | 493 | 581.6 | +28.2 | +171.3 |
+| Brothers United | 497 | 554.3 | +1.1 | +162.6 |
+| Solbound | 496 | 554.8 | +1.6 | +167.0 |
+| RejexEsports | 495 | 557.7 | +4.5 | +163.7 |
+| we get it back | 494 | 570.1 | +16.9 | +167.6 |
+| SuperSoakerClub | 493 | 581.4 | +28.2 | +171.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GoopT | 452 | +341.1 | +342.4 | +30.8 |
+| GoopT | 452 | +341.2 | +342.4 | +30.8 |
 | insane players | 453 | +336.3 | +283.6 | +29.8 |
-| girl kissers | 455 | +330.2 | +281.3 | +28.9 |
-| Cadillac F1 eSports Team | 457 | +309.7 | +292.1 | +28.3 |
-| Thrash | 458 | +307.5 | +319.0 | +27.9 |
-| onliners | 456 | +316.8 | +276.2 | +27.1 |
-| Absent Minded | 460 | +291.7 | +290.5 | +25.4 |
-| Remnant | 461 | +283.3 | +288.3 | +24.2 |
-| de_throne | 463 | +281.4 | +265.6 | +23.6 |
-| dogwater | 462 | +282.1 | +323.5 | +23.4 |
+| girl kissers | 455 | +330.4 | +281.3 | +29.0 |
+| Cadillac F1 eSports Team | 457 | +309.8 | +292.1 | +28.3 |
+| Thrash | 458 | +307.6 | +319.0 | +27.9 |
+| onliners | 456 | +316.9 | +276.2 | +27.1 |
+| Absent Minded | 460 | +291.8 | +290.6 | +25.4 |
+| Remnant | 461 | +283.4 | +288.3 | +24.2 |
+| de_throne | 463 | +281.5 | +265.6 | +23.6 |
+| dogwater | 462 | +282.3 | +323.5 | +23.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -72,10 +72,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Benadryl Abusers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -210.2 | Beckster, LEGITtopic, Riptemoff, WaysXD, c0nstrictor |
-| 2026-05-13 | Gambling and Young | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +378.4 | Beckster, LEGITtopic, Riptemoff, WaysXD, c0nstrictor |
+| 2026-05-13 | Gambling and Young | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +378.5 | Beckster, LEGITtopic, Riptemoff, WaysXD, c0nstrictor |
 | 2026-05-06 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -187.4 | Beckster, LEGITtopic, Riptemoff, WaysXD, c0nstrictor |
 | 2026-05-01 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -0.1 | Beckster, LEGITtopic, Riptemoff, WaysXD, xR0n1 |
-| 2026-04-29 | MakeYouSayLate | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -238.7 | Beckster, LEGITtopic, Riptemoff, WaysXD, xR0n1 |
+| 2026-04-29 | MakeYouSayLate | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -238.8 | Beckster, LEGITtopic, Riptemoff, WaysXD, xR0n1 |
 | 2026-04-24 | WaterDrinkers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -176.4 | Beckster, LEGITtopic, Riptemoff, WaysXD, xR0n1 |
 | 2026-04-22 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -119.1 | Beckster, LEGITtopic, WaysXD, canplayer, xR0n1 |
 

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.051 | 1172.0 | - |
 | +30 days | 0.051 | 1171.1 | -0.8 |
 | +60 days | 0.050 | 1170.7 | -1.3 |
-| +90 days | 0.050 | 1170.4 | -1.6 |
+| +90 days | 0.050 | 1170.4 | -1.5 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.127 vs 0.293 average, gap -0.166). Matching that average is worth about 58.1 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Temple of Swing | 362 | 1147.4 | +1.0 | +98.5 |
-| MINDTRIP | 361 | 1149.6 | +3.2 | +100.7 |
-| Aers Money Crew | 360 | 1153.2 | +6.8 | +100.1 |
+| MINDTRIP | 361 | 1149.5 | +3.1 | +100.7 |
+| Aers Money Crew | 360 | 1153.2 | +6.8 | +100.2 |
 | Macs Snacks | 359 | 1153.9 | +7.5 | +98.6 |
-| RH Help Desk | 358 | 1158.5 | +12.1 | +107.0 |
+| RH Help Desk | 358 | 1158.5 | +12.1 | +107.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| ClanAgain | 195 | +346.9 | +168.6 | +17.7 |
+| ClanAgain | 195 | +346.9 | +168.7 | +17.7 |
 | ABG Esports | 196 | +342.3 | +190.2 | +17.5 |
 | O Fire | 198 | +342.1 | +196.4 | +17.1 |
 | GRIT | 201 | +334.7 | +163.1 | +17.0 |
-| Bad Jawn | 200 | +335.7 | +193.2 | +16.9 |
+| Bad Jawn | 200 | +335.7 | +193.3 | +16.9 |
 | noname | 208 | +320.9 | +177.5 | +16.4 |
-| Kings Gambit | 210 | +315.5 | +178.6 | +16.0 |
-| AscendentEsport | 207 | +321.4 | +192.6 | +15.9 |
-| Veniversum | 211 | +313.0 | +189.7 | +15.7 |
-| FlockMunchers | 212 | +312.7 | +189.8 | +15.7 |
+| Kings Gambit | 210 | +315.5 | +178.7 | +16.0 |
+| AscendentEsport | 206 | +321.5 | +192.7 | +15.9 |
+| Veniversum | 211 | +313.0 | +189.8 | +15.7 |
+| FlockMunchers | 212 | +312.7 | +189.9 | +15.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +302.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +302.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+0.9).
 

@@ -3,11 +3,11 @@ Team Name: RejexEsports
 Roster: ChiefKoz2, Jaggrr, nalem-, FrogTheDog, Jermaine
 NARS Rank: 495 of 506
 
-Final Rating: 557.8
+Final Rating: 557.7
 Seeded Start: 1137.0
-H2H Adjustment: -579.2
+H2H Adjustment: -579.3
 
-Final Rating (557.8) = Seeded Start (1137.0) + H2H Adjustment (-579.2)
+Final Rating (557.7) = Seeded Start (1137.0) + H2H Adjustment (-579.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,23 +39,23 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| we get it back | 494 | 570.2 | +12.4 | +166.2 |
-| SuperSoakerClub | 493 | 581.6 | +23.8 | +169.8 |
-| GOMI dot CLUB | 492 | 605.1 | +47.3 | +177.5 |
-| Muncle | 491 | 633.2 | +75.4 | +192.4 |
-| 37U Passion | 490 | 637.4 | +79.6 | +188.3 |
+| we get it back | 494 | 570.1 | +12.4 | +166.2 |
+| SuperSoakerClub | 493 | 581.4 | +23.7 | +169.8 |
+| GOMI dot CLUB | 492 | 605.0 | +47.3 | +177.5 |
+| Muncle | 491 | 633.1 | +75.4 | +192.4 |
+| 37U Passion | 490 | 637.3 | +79.6 | +188.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Deathgrip | 448 | +346.3 | +300.0 | +32.9 |
+| Team Deathgrip | 448 | +346.4 | +300.0 | +32.9 |
 | GoopT | 452 | +336.7 | +339.9 | +30.5 |
-| insane players | 453 | +331.9 | +281.9 | +29.3 |
-| girl kissers | 455 | +325.8 | +279.6 | +28.4 |
-| Cadillac F1 eSports Team | 457 | +305.3 | +290.1 | +27.7 |
+| insane players | 453 | +331.8 | +281.9 | +29.3 |
+| girl kissers | 455 | +325.9 | +279.6 | +28.5 |
+| Cadillac F1 eSports Team | 457 | +305.3 | +290.2 | +27.7 |
 | Thrash | 458 | +303.1 | +316.6 | +27.2 |
-| onliners | 456 | +312.4 | +274.5 | +26.5 |
+| onliners | 456 | +312.4 | +274.5 | +26.6 |
 | Absent Minded | 460 | +287.3 | +288.5 | +24.6 |
 | Remnant | 461 | +278.9 | +286.2 | +23.3 |
 | de_throne | 463 | +277.0 | +263.8 | +22.7 |
@@ -78,23 +78,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Square1 | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -23.8 | ChiefKoz2, Jaggrr, Jermaine, droot, nalem- |
 | 2026-08-21 | Feels MAIN Man | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -12.5 | ChiefKoz2, Jaggrr, dammahom, droot, nalem- |
 | 2026-08-19 | Evil Space Wizards | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -31.3 | ChiefKoz2, Jaggrr, Jermaine, droot, nalem- |
-| 2026-08-12 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -110.1 | ChiefKoz2, Jaggrr, Jermaine, droot, nalem- |
+| 2026-08-12 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -110.2 | ChiefKoz2, Jaggrr, Jermaine, droot, nalem- |
 | 2026-08-07 | Cadillac F1 eSports Team | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -100.0 | ChiefKoz2, Jaggrr, dammahom, droot, nalem- |
 | 2026-08-05 | Lynnsanity | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -129.7 | ChiefKoz2, Jaggrr, dammahom, droot, nalem- |
 | 2026-07-31 | Diamond Mental | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -92.1 | ChiefKoz2, Jaggrr, dammahom, droot, nalem- |
 | 2026-07-29 | Pugging4Pumpkin | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -37.3 | ChiefKoz2, Jaggrr, dammahom, droot, nalem- |
-| 2026-07-24 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -8.0 | Jaggrr, Jermaine, dammahom, droot, nalem- |
+| 2026-07-24 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -7.9 | Jaggrr, Jermaine, dammahom, droot, nalem- |
 | 2026-07-22 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -4.8 | ChiefKoz2, Jaggrr, Jermaine, droot, nalem- |
 | 2026-07-15 | bubibabu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -152.3 | Jaggrr, Jermaine, dammahom, droot, nalem- |
-| 2026-05-31 | Kinetic | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.00 | 0.00 | -194.0 | ChiefKoz2, Jaggrr, Jermaine, m1k3y-, nalem- |
+| 2026-05-31 | Kinetic | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.00 | 0.00 | -194.1 | ChiefKoz2, Jaggrr, Jermaine, m1k3y-, nalem- |
 | 2026-05-27 | Friendly Fire | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -2.0 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-22 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.03 | 0.23 | +302.3 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
-| 2026-05-20 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -81.1 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
-| 2026-05-15 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -372.6 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
+| 2026-05-20 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -81.0 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
+| 2026-05-15 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -372.7 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-13 | Top One Percent | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +15.8 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-06 | NOVAIR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +27.5 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
-| 2026-05-01 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +328.0 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
-| 2026-04-29 | Abusement Park | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +252.5 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
+| 2026-05-01 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +328.1 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
+| 2026-04-29 | Abusement Park | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +252.6 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-04-24 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -4.3 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-04-22 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -149.5 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 

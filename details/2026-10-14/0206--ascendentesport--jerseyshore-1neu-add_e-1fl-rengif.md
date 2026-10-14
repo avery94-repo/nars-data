@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: AscendentEsport
 Roster: jerseyshore, 1neu, add_e, 1FL, rengif
-NARS Rank: 207 of 506
+NARS Rank: 206 of 506
 
-Final Rating: 1467.8
+Final Rating: 1467.9
 Seeded Start: 1299.4
-H2H Adjustment: +168.4
+H2H Adjustment: +168.5
 
-Final Rating (1467.8) = Seeded Start (1299.4) + H2H Adjustment (+168.4)
+Final Rating (1467.9) = Seeded Start (1299.4) + H2H Adjustment (+168.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.139 | 1294.6 | -4.8 |
 | +90 days | 0.137 | 1292.4 | -7.0 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.070 vs 0.122 average, gap -0.052). Matching that average is worth about 18.2 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.070 vs 0.130 average, gap -0.060). Matching that average is worth about 21.0 seed points.
 
 - Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Open9-10 East - Playoffs A (2026-09-15) 1.00
 - Quality Wins drivers: beat HeadShot Esports at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.13; beat PogSquad at S58 NA Open9-10 East - Playoffs A (2026-09-15) 0.07; beat VARTOVIK at S58 NA Open9-10 East - Playoffs A (2026-09-17) 0.07
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Squeegee | 206 | 1467.8 | +0.0 | +70.0 |
-| STFDYSAB | 205 | 1470.1 | +2.3 | +70.3 |
-| Aspyre | 204 | 1475.4 | +7.6 | +73.0 |
-| butt | 203 | 1476.2 | +8.4 | +71.8 |
-| ThirdSite | 202 | 1479.0 | +11.2 | +83.8 |
+| STFDYSAB | 205 | 1470.1 | +2.2 | +70.4 |
+| Aspyre | 204 | 1475.4 | +7.5 | +73.1 |
+| butt | 203 | 1476.2 | +8.3 | +71.8 |
+| ThirdSite | 202 | 1479.0 | +11.1 | +83.9 |
+| GRIT | 201 | 1481.1 | +13.2 | +75.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NZ Gaming | 69 | +345.4 | +134.3 | +13.3 |
-| GeneticDiff | 70 | +325.1 | +136.9 | +12.6 |
-| fih hou | 73 | +317.9 | +142.9 | +12.2 |
-| Asoka | 74 | +315.5 | +127.4 | +12.2 |
-| Club 333 | 76 | +314.4 | +155.6 | +12.0 |
-| Kairo | 79 | +311.1 | +125.2 | +12.0 |
-| mas paspas | 75 | +315.1 | +149.0 | +11.6 |
-| firesale | 82 | +300.4 | +134.3 | +11.6 |
-| CNCS Last Hope | 72 | +320.8 | +113.1 | +11.4 |
-| Diggers | 86 | +295.6 | +120.2 | +11.2 |
+| NZ Gaming | 69 | +345.3 | +134.4 | +13.3 |
+| GeneticDiff | 70 | +325.0 | +136.9 | +12.6 |
+| fih hou | 73 | +317.8 | +143.0 | +12.2 |
+| Asoka | 74 | +315.4 | +127.5 | +12.2 |
+| Club 333 | 76 | +314.4 | +155.7 | +12.0 |
+| Kairo | 79 | +311.0 | +125.3 | +12.0 |
+| mas paspas | 75 | +315.1 | +149.1 | +11.6 |
+| firesale | 82 | +300.3 | +134.4 | +11.6 |
+| CNCS Last Hope | 72 | +320.8 | +113.2 | +11.4 |
+| Diggers | 86 | +295.5 | +120.3 | +11.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +219.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +219.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -71,7 +71,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | Casual Mature Gamers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -129.5 | 1FL, 1neu, chefBAKER, rengif, viGiaaaMC |
 | 2026-09-19 | fih hou | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -55.6 | 1FL, 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |
-| 2026-09-17 | VARTOVIK | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +54.4 | 1FL, 1neu, chefBAKER, jerseyshore, pr1mopeek |
+| 2026-09-17 | VARTOVIK | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +54.5 | 1FL, 1neu, chefBAKER, jerseyshore, pr1mopeek |
 | 2026-09-15 | PogSquad | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +47.9 | 1neu, add_e, chefBAKER, pr1mopeek, rengif |
 | 2026-09-12 | TELETUBEASTS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +70.4 | 1neu, chefBAKER, jerseyshore, pr1mopeek, rengif |
 | 2026-09-10 | Brobies | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.07 | 0.97 | +107.0 | 1FL, 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |

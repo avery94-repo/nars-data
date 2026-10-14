@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| NXG Esports | 242 | 1404.0 | +9.2 | +145.4 |
-| FUELED BY HATE | 241 | 1404.3 | +9.5 | +139.5 |
-| enigma | 240 | 1405.4 | +10.6 | +137.7 |
-| brb grinding minecraft | 239 | 1405.5 | +10.7 | +147.5 |
-| Casual Mature Gamers | 238 | 1405.9 | +11.1 | +148.5 |
+| NXG Esports | 242 | 1404.0 | +9.2 | +145.5 |
+| FUELED BY HATE | 241 | 1404.3 | +9.5 | +139.6 |
+| enigma | 240 | 1405.4 | +10.6 | +137.8 |
+| brb grinding minecraft | 239 | 1405.5 | +10.7 | +147.6 |
+| Casual Mature Gamers | 238 | 1405.9 | +11.1 | +148.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Green Grove Retirement | 94 | +333.8 | +268.6 | +24.7 |
-| NineFlyeSports | 96 | +330.3 | +278.0 | +24.6 |
-| Elusive | 93 | +336.8 | +299.6 | +24.3 |
-| FlyQuest RED | 97 | +325.9 | +287.1 | +23.1 |
-| Axial | 101 | +311.6 | +248.1 | +22.7 |
-| Addice | 102 | +307.7 | +285.2 | +21.9 |
-| New Legends | 103 | +300.5 | +288.4 | +21.0 |
-| Holy Squid Empire | 108 | +283.9 | +241.7 | +19.3 |
-| Hadouken | 100 | +315.0 | +219.0 | +18.3 |
-| Black Dragon Society | 109 | +275.9 | +256.5 | +18.1 |
+| Green Grove Retirement | 94 | +333.8 | +268.8 | +24.7 |
+| NineFlyeSports | 96 | +330.3 | +278.2 | +24.6 |
+| Elusive | 93 | +336.8 | +299.8 | +24.3 |
+| FlyQuest RED | 97 | +325.9 | +287.4 | +23.1 |
+| Axial | 101 | +311.6 | +248.2 | +22.7 |
+| Addice | 102 | +307.7 | +285.4 | +21.9 |
+| New Legends | 103 | +300.6 | +288.7 | +21.0 |
+| Holy Squid Empire | 108 | +283.9 | +241.9 | +19.4 |
+| Hadouken | 100 | +315.0 | +219.2 | +18.3 |
+| Black Dragon Society | 109 | +275.9 | +256.7 | +18.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +478.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +478.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 

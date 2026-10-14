@@ -3,11 +3,11 @@ Team Name: MINDTRIP
 Roster: jamflow, neyloc, kplax, f0rp-, FiftaR-
 NARS Rank: 361 of 506
 
-Final Rating: 1149.6
+Final Rating: 1149.5
 Seeded Start: 1249.0
-H2H Adjustment: -99.4
+H2H Adjustment: -99.5
 
-Final Rating (1149.6) = Seeded Start (1249.0) + H2H Adjustment (-99.4)
+Final Rating (1149.5) = Seeded Start (1249.0) + H2H Adjustment (-99.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.106 | 1249.0 | - |
 | +30 days | 0.095 | 1232.6 | -16.4 |
 | +60 days | 0.081 | 1213.0 | -36.0 |
-| +90 days | 0.054 | 1175.5 | -73.5 |
+| +90 days | 0.054 | 1175.4 | -73.6 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.282 vs 0.329 average, gap -0.047). Matching that average is worth about 16.5 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Aers Money Crew | 360 | 1153.2 | +3.6 | +111.1 |
-| Macs Snacks | 359 | 1153.9 | +4.3 | +109.5 |
-| RH Help Desk | 358 | 1158.5 | +8.9 | +118.0 |
-| Kurrupted Mindz | 357 | 1159.7 | +10.1 | +104.9 |
-| katzwitgunz | 356 | 1159.8 | +10.2 | +105.0 |
+| Aers Money Crew | 360 | 1153.2 | +3.7 | +111.1 |
+| Macs Snacks | 359 | 1153.9 | +4.4 | +109.5 |
+| RH Help Desk | 358 | 1158.5 | +9.0 | +118.1 |
+| Kurrupted Mindz | 357 | 1159.7 | +10.2 | +105.0 |
+| katzwitgunz | 356 | 1159.8 | +10.3 | +105.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| ClanAgain | 195 | +343.7 | +189.9 | +19.9 |
-| teamington | 192 | +348.5 | +199.7 | +19.8 |
-| No Leaders Please | 190 | +349.8 | +217.3 | +19.7 |
-| ABG Esports | 196 | +339.1 | +213.6 | +19.6 |
-| UncsStillGotIt | 191 | +349.7 | +229.7 | +19.3 |
-| O Fire | 198 | +338.9 | +220.4 | +19.1 |
-| GRIT | 201 | +331.5 | +183.6 | +19.1 |
-| Bad Jawn | 200 | +332.5 | +216.8 | +18.9 |
-| noname | 208 | +317.7 | +199.2 | +18.2 |
-| Kings Gambit | 210 | +312.3 | +200.4 | +17.8 |
+| ClanAgain | 195 | +343.8 | +190.0 | +19.9 |
+| teamington | 192 | +348.5 | +199.8 | +19.8 |
+| No Leaders Please | 190 | +349.9 | +217.4 | +19.7 |
+| ABG Esports | 196 | +339.2 | +213.6 | +19.6 |
+| UncsStillGotIt | 191 | +349.8 | +229.7 | +19.4 |
+| O Fire | 198 | +339.0 | +220.5 | +19.1 |
+| GRIT | 201 | +331.6 | +183.7 | +19.1 |
+| Bad Jawn | 200 | +332.6 | +216.9 | +18.9 |
+| noname | 208 | +317.8 | +199.2 | +18.2 |
+| Kings Gambit | 210 | +312.4 | +200.4 | +17.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +348.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +348.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 
@@ -74,14 +74,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Fortis Fortuna Adiuvat | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.03 | 1.00 | 0.95 | 0.00 | 0.00 | -104.1 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-08-26 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -54.3 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-08-21 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -63.1 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
-| 2026-08-19 | SAFIR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.07 | 0.84 | +109.1 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
+| 2026-08-19 | SAFIR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.07 | 0.84 | +109.2 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-08-14 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -60.7 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-08-07 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.06 | 0.76 | +176.9 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-08-05 | Resurgence | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -96.4 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-07-31 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.05 | 0.71 | +9.3 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-07-29 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.08 | 0.70 | +112.5 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
-| 2026-07-24 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.03 | 0.66 | +147.5 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
-| 2026-07-22 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.06 | 0.65 | +67.0 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
+| 2026-07-24 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.03 | 0.66 | +147.6 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
+| 2026-07-22 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +67.0 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-07-17 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -34.3 | chubbzz, f0rp-, jamflow, kplax, neyloc |
 | 2026-07-15 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -143.0 | chubbzz, f0rp-, jamflow, kplax, neyloc |
 

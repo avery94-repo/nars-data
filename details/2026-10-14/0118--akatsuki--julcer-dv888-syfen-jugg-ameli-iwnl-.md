@@ -5,7 +5,7 @@ NARS Rank: 118 of 506
 
 Final Rating: 1647.6
 Seeded Start: 1306.8
-H2H Adjustment: +340.8
+H2H Adjustment: +340.8 (capped at +-300, raw +340.9)
 
 Final Rating (1647.6) = Seeded Start (1306.8) + H2H Adjustment (+340.8)
 
@@ -13,7 +13,7 @@ Final Rating (1647.6) = Seeded Start (1306.8) + H2H Adjustment (+340.8)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.148 x 1400 = 1306.8
 
-seed_factor 0.148 = 0.25 x Tier Exposure (0.050) + 0.50 x Quality Wins (0.041) + 0.25 x Opponent Network (0.459)
+seed_factor 0.148 = 0.25 x Tier Exposure (0.050) + 0.50 x Quality Wins (0.041) + 0.25 x Opponent Network (0.458)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.148 | 1306.8 | - |
 | +30 days | 0.123 | 1271.8 | -35.0 |
-| +60 days | 0.099 | 1238.5 | -68.3 |
-| +90 days | 0.061 | 1185.5 | -121.3 |
+| +60 days | 0.099 | 1238.4 | -68.3 |
+| +90 days | 0.061 | 1185.4 | -121.3 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.050 vs 0.119 average, gap -0.069). Matching that average is worth about 24.1 seed points.
 
@@ -42,7 +42,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Elation | 117 | 1652.7 | +5.1 | +163.9 |
 | Read You Like a Kindle | 116 | 1654.7 | +7.1 | +175.7 |
 | DKR Esports | 115 | 1655.5 | +7.9 | +166.1 |
-| The Vicious Kitties | 114 | 1656.6 | +9.0 | +168.3 |
+| The Vicious Kitties | 114 | 1656.6 | +9.0 | +168.2 |
 | Incognito | 113 | 1659.2 | +11.6 | +165.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -55,10 +55,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | North Forge | 38 | +323.6 | +391.6 | +28.4 |
 | ZETTA | 39 | +322.4 | +330.3 | +25.1 |
 | Wanted Goons | 43 | +285.5 | +361.7 | +23.8 |
-| Swole Patrol | 45 | +266.7 | +258.2 | +20.4 |
-| Xiaoma Gaming | 46 | +263.8 | +323.7 | +19.4 |
-| Zealous | 42 | +294.0 | +267.4 | +18.7 |
-| Slimy Boogermen | 34 | +349.8 | +338.3 | +16.8 |
+| Swole Patrol | 45 | +266.8 | +258.2 | +20.4 |
+| Xiaoma Gaming | 46 | +263.9 | +323.7 | +19.4 |
+| Zealous | 42 | +294.1 | +267.4 | +18.7 |
+| Slimy Boogermen | 34 | +349.8 | +338.2 | +16.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +639.9 points at current ratings.
 
@@ -89,10 +89,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -22.1 | JUlCER, ameli-iwnl-, dv888, jugg, syfen |
 | 2026-07-17 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +1.7 | JUlCER, ameli-iwnl-, dv888, jugg, syfen |
 | 2026-07-15 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.02 | 0.60 | +0.4 | JUlCER, ameli-iwnl-, dv888, jugg, syfen |
-| 2026-06-03 | de_throne | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.31 | +161.0 | JUlCER, ameli-iwnl-, dv888, jugg, syfen |
+| 2026-06-03 | de_throne | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.31 | +161.1 | JUlCER, ameli-iwnl-, dv888, jugg, syfen |
 | 2026-05-27 | RunTheDamnBall | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +1.3 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
 | 2026-05-22 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -5.0 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
-| 2026-05-20 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -162.1 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
+| 2026-05-20 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -162.2 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
 | 2026-05-19 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.21 | 1.01 | 1.00 | 0.21 | 0.00 | 0.00 | -17.2 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
 | 2026-05-15 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -203.1 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
 | 2026-05-08 | HammerHeads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +52.6 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |

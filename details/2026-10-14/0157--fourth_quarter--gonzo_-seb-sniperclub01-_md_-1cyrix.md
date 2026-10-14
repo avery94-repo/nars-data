@@ -3,11 +3,11 @@ Team Name: Fourth Quarter
 Roster: Gonzo_, Seb, sniperclub01, _MD_, 1Cyrix
 NARS Rank: 157 of 506
 
-Final Rating: 1560.7
+Final Rating: 1560.8
 Seeded Start: 1233.9
-H2H Adjustment: +326.8 (capped at +-300, raw +326.9)
+H2H Adjustment: +326.9
 
-Final Rating (1560.7) = Seeded Start (1233.9) + H2H Adjustment (+326.8)
+Final Rating (1560.8) = Seeded Start (1233.9) + H2H Adjustment (+326.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Order Zero | 156 | 1564.7 | +4.0 | +109.4 |
-| WhiteBoyWinter | 155 | 1566.7 | +6.0 | +116.4 |
-| ASYCS KITTENS | 154 | 1569.5 | +8.8 | +113.7 |
-| MINDTRIP | 153 | 1569.7 | +9.0 | +110.4 |
-| Celestial Esports | 152 | 1574.5 | +13.8 | +121.2 |
+| Order Zero | 156 | 1564.8 | +4.0 | +109.5 |
+| WhiteBoyWinter | 155 | 1566.7 | +5.9 | +116.5 |
+| ASYCS KITTENS | 154 | 1569.5 | +8.7 | +113.8 |
+| MINDTRIP | 153 | 1569.7 | +8.9 | +110.5 |
+| Celestial Esports | 152 | 1574.5 | +13.7 | +121.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| FLOW STATE | 47 | +336.7 | +235.5 | +20.0 |
-| No Future Lifes Over | 50 | +326.4 | +212.8 | +19.9 |
-| DESPAIR | 49 | +328.0 | +213.1 | +19.7 |
-| TheMotherLovers | 53 | +317.2 | +218.5 | +19.1 |
-| Phantom Sense | 51 | +323.0 | +258.6 | +19.0 |
-| Omen Esports | 57 | +297.1 | +228.5 | +16.8 |
-| GG | 52 | +320.7 | +179.5 | +14.9 |
-| flat earth | 64 | +265.8 | +202.2 | +13.9 |
-| Endless Esports | 65 | +265.3 | +203.8 | +13.8 |
-| DUMBO | 63 | +266.4 | +222.8 | +13.5 |
+| FLOW STATE | 47 | +336.6 | +235.8 | +20.0 |
+| No Future Lifes Over | 50 | +326.4 | +213.0 | +19.9 |
+| DESPAIR | 49 | +327.9 | +213.3 | +19.7 |
+| TheMotherLovers | 53 | +317.2 | +218.7 | +19.1 |
+| Phantom Sense | 51 | +323.0 | +258.8 | +19.0 |
+| Omen Esports | 57 | +297.0 | +228.7 | +16.8 |
+| GG | 52 | +320.7 | +179.7 | +15.0 |
+| flat earth | 64 | +265.7 | +202.4 | +13.9 |
+| Endless Esports | 65 | +265.2 | +204.0 | +13.8 |
+| DUMBO | 63 | +266.3 | +223.0 | +13.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +372.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +372.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 

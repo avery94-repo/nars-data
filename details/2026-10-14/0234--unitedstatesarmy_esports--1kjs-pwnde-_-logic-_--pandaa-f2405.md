@@ -4,14 +4,14 @@ Roster: 1KJS, PWNDe, _-LOGIC-_, -Pandaa, f2405
 NARS Rank: 234 of 506
 
 Final Rating: 1419.2
-Seeded Start: 1277.1
-H2H Adjustment: +142.1
+Seeded Start: 1277.0
+H2H Adjustment: +142.2
 
-Final Rating (1419.2) = Seeded Start (1277.1) + H2H Adjustment (+142.1)
+Final Rating (1419.2) = Seeded Start (1277.0) + H2H Adjustment (+142.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.126 x 1400 = 1277.1
+                = 1100 + 0.126 x 1400 = 1277.0
 
 seed_factor 0.126 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.035) + 0.25 x Opponent Network (0.361)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.126 | 1277.1 | - |
+| Now | 0.126 | 1277.0 | - |
 | +30 days | 0.105 | 1247.2 | -29.8 |
 | +60 days | 0.090 | 1225.6 | -51.4 |
-| +90 days | 0.061 | 1186.1 | -91.0 |
+| +90 days | 0.061 | 1186.0 | -91.0 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.035 vs 0.022 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -39,34 +39,34 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| The Skins | 233 | 1419.7 | +0.5 | +133.7 |
-| Backshot Gaming | 232 | 1420.2 | +1.0 | +133.8 |
-| skebob | 231 | 1420.7 | +1.5 | +134.0 |
-| walkthemdown | 230 | 1424.6 | +5.4 | +136.3 |
-| The Third Eye | 229 | 1425.5 | +6.3 | +135.2 |
+| The Skins | 233 | 1419.7 | +0.5 | +133.8 |
+| Backshot Gaming | 232 | 1420.2 | +1.0 | +134.0 |
+| skebob | 231 | 1420.7 | +1.5 | +134.1 |
+| walkthemdown | 230 | 1424.6 | +5.4 | +136.4 |
+| The Third Eye | 229 | 1425.5 | +6.3 | +135.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Diggers | 86 | +344.2 | +251.0 | +26.6 |
-| firesale | 82 | +349.0 | +278.8 | +26.4 |
-| Fire Nation | 90 | +330.5 | +257.0 | +25.1 |
-| Fathom Gaming | 91 | +326.1 | +251.4 | +25.0 |
-| Overtake Sector | 89 | +331.6 | +325.1 | +24.0 |
-| Green Grove Retirement | 94 | +309.4 | +263.2 | +23.0 |
-| Elusive | 93 | +312.4 | +292.4 | +22.9 |
-| NineFlyeSports | 96 | +305.9 | +271.8 | +22.9 |
-| PROFECO | 87 | +335.9 | +228.7 | +22.7 |
-| FlyQuest RED | 97 | +301.5 | +280.2 | +21.2 |
+| Diggers | 86 | +344.2 | +251.2 | +26.6 |
+| firesale | 82 | +349.0 | +279.0 | +26.4 |
+| Fire Nation | 90 | +330.5 | +257.2 | +25.1 |
+| Fathom Gaming | 91 | +326.1 | +251.7 | +25.0 |
+| Overtake Sector | 89 | +331.7 | +325.4 | +24.0 |
+| Green Grove Retirement | 94 | +309.4 | +263.4 | +23.0 |
+| Elusive | 93 | +312.4 | +292.6 | +22.9 |
+| NineFlyeSports | 96 | +305.9 | +272.1 | +22.9 |
+| PROFECO | 87 | +336.0 | +229.0 | +22.7 |
+| FlyQuest RED | 97 | +301.5 | +280.4 | +21.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +488.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +488.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs iNSTINCT (2026-04-30): expires in 12 days [Quality Wins 0.00, Opponent Network 0.09]
-- S57 NA Main Central - Regular Season vs Old Dads Banging (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.16]
+- S57 NA Main Central - Regular Season vs Old Dads Banging (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.15]
 - S57 NA Main Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.25]
 - S58 NA Main A - Regular Season vs Sleepers (2026-07-15): expires in 88 days [Quality Wins 0.03, Opponent Network 0.60]
 
@@ -90,11 +90,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -153.6 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-22 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -147.0 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-17 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -0.2 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
-| 2026-07-15 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.03 | 0.60 | +419.4 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
+| 2026-07-15 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.03 | 0.60 | +419.5 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-05-20 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -7.6 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
 | 2026-05-15 | ASYCS KITTENS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -128.0 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
 | 2026-05-13 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -367.8 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
-| 2026-05-08 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +10.3 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
+| 2026-05-08 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.01 | 0.15 | +10.2 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
 | 2026-04-30 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +253.2 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
 | 2026-04-23 | FUELED BY HATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -9.5 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
 | 2026-04-22 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -253.7 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |

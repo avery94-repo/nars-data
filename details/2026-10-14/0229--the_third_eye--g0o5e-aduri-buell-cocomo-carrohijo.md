@@ -41,8 +41,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | FRAGDEMONS | 228 | 1426.4 | +0.9 | +162.6 |
 | UltimateDarklordWizardz | 227 | 1427.1 | +1.6 | +172.9 |
-| penazoid | 226 | 1428.0 | +2.5 | +169.3 |
-| Elisir Esports | 225 | 1428.5 | +3.0 | +163.2 |
+| penazoid | 226 | 1427.9 | +2.4 | +169.3 |
+| Elisir Esports | 225 | 1428.4 | +2.9 | +163.2 |
 | TahMeow | 224 | 1429.4 | +3.9 | +163.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -53,8 +53,8 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | firesale | 82 | +342.7 | +339.5 | +32.0 |
 | Fire Nation | 90 | +324.2 | +313.1 | +30.2 |
 | Fathom Gaming | 91 | +319.8 | +306.4 | +30.0 |
-| Overtake Sector | 89 | +325.3 | +390.8 | +28.7 |
-| PROFECO | 87 | +329.6 | +281.0 | +27.4 |
+| Overtake Sector | 89 | +325.4 | +390.9 | +28.7 |
+| PROFECO | 87 | +329.7 | +281.1 | +27.5 |
 | Green Grove Retirement | 94 | +303.1 | +318.3 | +27.2 |
 | Elusive | 93 | +306.1 | +351.4 | +27.1 |
 | NineFlyeSports | 96 | +299.6 | +327.7 | +27.0 |
@@ -77,8 +77,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-24 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -175.1 | Aduri, Buell, CarroHijo, G0o5e, OGYodaa |
 | 2026-07-15 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +1.0 | Aduri, Buell, CarroHijo, G0o5e, OGYodaa |
-| 2026-06-10 | GodFather Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.02 | 0.36 | +144.7 | Buell, CarroHijo, G0o5e, cocomo, iced00 |
-| 2026-06-03 | Robert Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +245.4 | Buell, CarroHijo, G0o5e, cocomo, iced00 |
+| 2026-06-10 | GodFather Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.02 | 0.36 | +144.8 | Buell, CarroHijo, G0o5e, cocomo, iced00 |
+| 2026-06-03 | Robert Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +245.5 | Buell, CarroHijo, G0o5e, cocomo, iced00 |
 | 2026-05-29 | NetanYAHOO | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -207.0 | Aduri, Buell, CarroHijo, Shave, cocomo |
 | 2026-05-27 | COGNITIVE | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +265.1 | Aduri, Buell, CarroHijo, G0o5e, cocomo |
 

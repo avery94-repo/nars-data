@@ -3,11 +3,11 @@ Team Name: DownTown
 Roster: Johnnydown, Jakey777, Ripsi, hyun, Oathsworn
 NARS Rank: 404 of 506
 
-Final Rating: 1047.0
+Final Rating: 1046.8
 Seeded Start: 1128.1
-H2H Adjustment: -81.1
+H2H Adjustment: -81.3
 
-Final Rating (1047.0) = Seeded Start (1128.1) + H2H Adjustment (-81.1)
+Final Rating (1046.8) = Seeded Start (1128.1) + H2H Adjustment (-81.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| house | 403 | 1048.9 | +1.9 | +173.0 |
-| Big Fish | 402 | 1051.0 | +4.0 | +169.9 |
-| James Bond Bois | 401 | 1052.0 | +5.0 | +163.9 |
-| ReGen | 400 | 1052.9 | +5.9 | +170.7 |
-| Room Temp IQs | 399 | 1056.5 | +9.5 | +165.3 |
+| house | 403 | 1048.9 | +2.1 | +173.0 |
+| Big Fish | 402 | 1051.0 | +4.2 | +170.0 |
+| James Bond Bois | 401 | 1052.0 | +5.2 | +163.9 |
+| ReGen | 400 | 1052.9 | +6.1 | +170.7 |
+| Room Temp IQs | 399 | 1056.4 | +9.6 | +165.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| The Kerbins | 250 | +331.6 | +339.9 | +30.4 |
-| GoonAssOldheads | 258 | +322.8 | +305.8 | +30.2 |
-| Eightball | 253 | +328.6 | +329.5 | +29.9 |
-| Dude Picks | 252 | +330.5 | +355.9 | +29.8 |
-| 2THRiLL | 246 | +339.6 | +284.9 | +29.6 |
-| drunk cigs dont count | 255 | +326.1 | +345.8 | +29.6 |
-| THE GUILD | 264 | +312.0 | +294.7 | +28.9 |
-| Kinetic | 260 | +317.2 | +336.1 | +28.8 |
-| DadDick Esports | 261 | +315.4 | +330.2 | +28.7 |
-| Wiggle Peeks | 265 | +309.8 | +313.2 | +28.3 |
+| The Kerbins | 250 | +331.8 | +340.0 | +30.4 |
+| GoonAssOldheads | 258 | +323.0 | +305.9 | +30.2 |
+| Eightball | 253 | +328.8 | +329.5 | +29.9 |
+| Dude Picks | 252 | +330.7 | +355.9 | +29.8 |
+| 2THRiLL | 246 | +339.8 | +284.9 | +29.6 |
+| drunk cigs dont count | 255 | +326.3 | +345.9 | +29.6 |
+| THE GUILD | 264 | +312.2 | +294.7 | +28.9 |
+| Kinetic | 260 | +317.4 | +336.2 | +28.8 |
+| DadDick Esports | 261 | +315.6 | +330.3 | +28.7 |
+| Wiggle Peeks | 265 | +309.9 | +313.3 | +28.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -80,9 +80,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-31 | After Peak | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -158.4 | Jakey777, Johnnydown, Kermey, Oathsworn, Ripsi |
 | 2026-05-29 | Remnant | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +139.7 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-05-27 | Saltcrew | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -260.2 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-05-22 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -336.6 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-05-15 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +137.0 | Jakey777, Johnnydown, Kermey, Ripsi, hyun |
+| 2026-05-27 | Saltcrew | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -260.3 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-05-22 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -336.7 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-05-15 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +137.1 | Jakey777, Johnnydown, Kermey, Ripsi, hyun |
 | 2026-05-13 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +109.4 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-05-08 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +350.1 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-05-06 | Midwest Farmers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -11.8 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |

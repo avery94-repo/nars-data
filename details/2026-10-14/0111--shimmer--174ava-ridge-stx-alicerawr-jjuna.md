@@ -4,16 +4,16 @@ Roster: 174AVA, Ridge, Stx, alicerawr, jjuna
 NARS Rank: 111 of 506
 
 Final Rating: 1667.1
-Seeded Start: 1562.5
-H2H Adjustment: +104.6
+Seeded Start: 1562.4
+H2H Adjustment: +104.7
 
-Final Rating (1667.1) = Seeded Start (1562.5) + H2H Adjustment (+104.6)
+Final Rating (1667.1) = Seeded Start (1562.4) + H2H Adjustment (+104.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.330 x 1400 = 1562.5
+                = 1100 + 0.330 x 1400 = 1562.4
 
-seed_factor 0.330 = 0.25 x Tier Exposure (0.370) + 0.50 x Quality Wins (0.145) + 0.25 x Opponent Network (0.661)
+seed_factor 0.330 = 0.25 x Tier Exposure (0.369) + 0.50 x Quality Wins (0.145) + 0.25 x Opponent Network (0.661)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.330 | 1562.5 | - |
+| Now | 0.330 | 1562.4 | - |
 | +30 days | 0.289 | 1504.5 | -58.0 |
 | +60 days | 0.254 | 1455.5 | -107.0 |
 | +90 days | 0.216 | 1401.9 | -160.6 |
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Drip or Drown | 110 | 1669.0 | +1.9 | +154.9 |
-| Black Dragon Society | 109 | 1670.7 | +3.6 | +158.4 |
-| Holy Squid Empire | 108 | 1678.7 | +11.6 | +157.7 |
+| Drip or Drown | 110 | 1669.0 | +1.9 | +155.0 |
+| Black Dragon Society | 109 | 1670.7 | +3.6 | +158.5 |
+| Holy Squid Empire | 108 | 1678.7 | +11.6 | +157.8 |
 | Evil Reunion | 107 | 1683.5 | +16.4 | +153.1 |
-| Northern District | 106 | 1684.0 | +16.9 | +150.4 |
+| Northern District | 106 | 1684.1 | +17.0 | +150.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| VOID ALUNE | 29 | +340.7 | +252.9 | +28.8 |
-| Hairy Scary Bandits | 32 | +332.3 | +308.3 | +27.6 |
-| Holly Molly | 35 | +321.3 | +288.2 | +26.5 |
-| Chicken Coop | 33 | +331.1 | +353.7 | +26.0 |
-| unreal nightmare | 37 | +309.5 | +276.8 | +25.6 |
-| EMPIRE | 36 | +316.5 | +323.6 | +25.4 |
-| North Forge | 38 | +304.1 | +338.4 | +23.8 |
-| Priority | 30 | +337.6 | +251.9 | +20.8 |
-| ZETTA | 39 | +302.9 | +285.8 | +20.3 |
-| babaG | 28 | +341.6 | +328.2 | +19.8 |
+| VOID ALUNE | 29 | +340.8 | +253.1 | +28.8 |
+| Hairy Scary Bandits | 32 | +332.3 | +308.5 | +27.6 |
+| Holly Molly | 35 | +321.3 | +288.3 | +26.5 |
+| Chicken Coop | 33 | +331.1 | +353.9 | +26.1 |
+| unreal nightmare | 37 | +309.5 | +277.0 | +25.6 |
+| EMPIRE | 36 | +316.5 | +323.7 | +25.5 |
+| North Forge | 38 | +304.1 | +338.6 | +23.8 |
+| Priority | 30 | +337.7 | +252.1 | +20.9 |
+| ZETTA | 39 | +302.9 | +286.0 | +20.3 |
+| babaG | 28 | +341.7 | +328.3 | +19.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +548.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +548.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
 
@@ -83,42 +83,42 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-20 | Belladonna | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +0.1 | Ridge, Stx, a7f5f493, alicerawr, jjuna |
 | 2026-09-20 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.13 | 1.00 | +3.1 | Ridge, Stx, a7f5f493, alicerawr, jjuna |
 | 2026-09-20 | Koi Pond | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 0.00 | +35.2 | Ridge, Stx, a7f5f493, alicerawr, jjuna |
-| 2026-09-02 | Axial | L |  | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.09 | 1.00 | 1.00 | 0.00 | 0.00 | -60.1 | Ridge, Serendipity, Stx, alicerawr, jjuna |
+| 2026-09-02 | Axial | L | 0-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.09 | 1.00 | 1.00 | 0.00 | 0.00 | -60.1 | Ridge, Serendipity, Stx, alicerawr, jjuna |
 | 2026-09-02 | Wanted Goons | L | 0-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.09 | 1.00 | 1.00 | 0.00 | 0.00 | -18.7 | Ridge, Stx, alicerawr, jjuna, kevin |
-| 2026-08-31 | SquadUp | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.20 | 1.00 | 1.08 | 0.21 | 1.08 | +65.3 | Ridge, Stx, alicerawr, kevin, mira |
+| 2026-08-31 | SquadUp | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.20 | 1.00 | 1.08 | 0.21 | 1.08 | +65.4 | Ridge, Stx, alicerawr, kevin, mira |
 | 2026-08-27 | Knox Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.87 | 1.20 | 1.00 | 1.05 | 0.07 | 1.05 | +3.2 | 174AVA, Ridge, Stx, alicerawr, jjuna |
-| 2026-08-26 | Elusive | L |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.00 | 0.00 | -91.4 | core 3/5 |
-| 2026-08-25 | Iowa Stormboar | L |  | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.00 | 0.00 | -9.8 | core 3/5 |
-| 2026-08-24 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.03 | 0.00 | 0.00 | -17.0 | 174AVA, Ridge, Stx, alicerawr, jjuna |
+| 2026-08-26 | Elusive | L | 1-2 | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.00 | 0.00 | -91.4 | core 3/5 |
+| 2026-08-25 | Iowa Stormboar | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.00 | 0.00 | -9.8 | core 3/5 |
+| 2026-08-24 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -17.0 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-08-20 | Firstwave | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.15 | 0.99 | +14.2 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-08-19 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.06 | 1.19 | +0.4 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-08-17 | Swole Patrol | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.20 | 1.00 | 0.97 | 0.10 | 0.97 | +56.5 | Ridge, Serendipity, Stx, alicerawr, jjuna |
 | 2026-08-16 | Koi Pond | W | 1-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.80 | 1.00 | 1.00 | 0.80 | 0.10 | 0.80 | +36.0 | 174AVA, Ridge, Stx, jjuna, mira |
 | 2026-08-16 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.80 | 1.00 | 1.00 | 0.80 | 0.10 | 0.00 | +0.8 | 174AVA, Ridge, Stx, jjuna, mira |
 | 2026-08-16 | Axial | W | 1-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.80 | 1.00 | 1.00 | 0.80 | 0.43 | 0.80 | +16.4 | 174AVA, Ridge, Stx, jjuna, mira |
-| 2026-08-13 | Elation | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.14 | 0.00 | 0.00 | -488.9 | 174AVA, Ridge, Stx, alicerawr, jjuna |
+| 2026-08-13 | Elation | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.14 | 0.00 | 0.00 | -488.8 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-08-13 | Fathom Gaming | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.34 | 0.94 | +452.3 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-08-12 | Celestial Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.00 | 0.00 | -93.0 | 174AVA, Ridge, Stx, alicerawr, jjuna |
-| 2026-08-11 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.45 | 1.00 | 1.12 | 0.00 | 0.00 | -138.0 | 174AVA, Ridge, Stx, alicerawr, jjuna |
+| 2026-08-11 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.45 | 1.00 | 1.12 | 0.00 | 0.00 | -138.1 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-08-06 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.07 | 0.00 | 0.00 | -25.1 | 174AVA, Ridge, Stx, alicerawr, jjuna |
-| 2026-08-03 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.45 | 1.00 | 1.04 | 0.00 | 0.00 | -165.3 | 174AVA, Ridge, Stx, alicerawr, jjuna |
+| 2026-08-03 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.45 | 1.00 | 1.04 | 0.00 | 0.00 | -165.4 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-07-30 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.45 | 1.00 | 1.00 | 0.00 | 0.00 | -284.1 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-07-19 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.08 | 0.00 | +0.0 | 174AVA, Ridge, Stx, alicerawr, jjuna |
-| 2026-07-19 | Koi Pond | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.07 | 0.00 | +0.0 | 174AVA, Ridge, Stx, alicerawr, jjuna |
+| 2026-07-19 | Koi Pond | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.61 | 1.00 | 1.00 | 0.61 | 0.07 | 0.00 | +0.0 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-07-18 | Empressive | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.61 | 1.00 | 1.00 | 0.61 | 0.03 | 0.61 | +0.0 | 174AVA, Ridge, Stx, alicerawr, jjuna |
-| 2026-07-17 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.16 | 0.87 | +334.7 | 174AVA, Ridge, Stx, alicerawr, jjuna |
+| 2026-07-17 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.16 | 0.87 | +334.8 | 174AVA, Ridge, Stx, alicerawr, jjuna |
 | 2026-07-15 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.13 | 0.85 | +2.2 | 174AVA, Ridge, Stx, alicerawr, jjuna |
-| 2026-06-26 | MIBR FE | L |  | VRS-tracked 2026-06 | A | vrs | 0.46 | 1.60 | 1.00 | 0.74 | 0.00 | 0.00 | -194.5 | core 3/5 |
-| 2026-06-23 | ATRIX | W |  | VRS-tracked 2026-06 | A | vrs | 0.44 | 1.60 | 1.00 | 0.71 | 0.53 | 0.00 | +543.2 | core 3/5 |
+| 2026-06-26 | MIBR FE | L | 1-3 | VRS-tracked 2026-06 | A | vrs | 0.46 | 1.60 | 1.00 | 0.74 | 0.00 | 0.00 | -194.5 | core 3/5 |
+| 2026-06-23 | ATRIX | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.44 | 1.60 | 1.00 | 0.71 | 0.53 | 0.00 | +543.2 | core 3/5 |
 | 2026-05-21 | Asian Invasion | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.30 | +23.6 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
 | 2026-05-20 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.03 | 0.29 | +1.1 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
-| 2026-05-19 | Beyond Limits | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.18 | 0.28 | +280.8 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
-| 2026-05-12 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -102.8 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
+| 2026-05-19 | Beyond Limits | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.18 | 0.28 | +280.9 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
+| 2026-05-12 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -102.9 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
 | 2026-05-07 | North Forge | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -2.6 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
-| 2026-05-06 | GRIT | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -435.3 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
-| 2026-05-05 | Elisir Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.16 | +137.3 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
-| 2026-04-30 | FarmVille | L |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.00 | 0.00 | -273.8 | core 3/5 |
-| 2026-04-29 | OVERKNIGHT | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.12 | 0.09 | 0.00 | +639.9 | core 3/5 |
+| 2026-05-06 | GRIT | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -435.4 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
+| 2026-05-05 | Elisir Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.16 | +137.4 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
+| 2026-04-30 | FarmVille | L | 0-2 | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.00 | 0.00 | -273.8 | core 3/5 |
+| 2026-04-29 | OVERKNIGHT | W | 2-0 | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.12 | 0.09 | 0.00 | +639.9 | core 3/5 |
 | 2026-04-27 | EX-AETHER | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.00 | -11.3 | core 3/5 |
 | 2026-04-23 | Villainous | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -1.0 | 174AVA, Ridge, Serendipity, Stx, alicerawr |
 | 2026-04-22 | Omen Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.35 | 1.00 | 0.04 | 0.00 | 0.00 | -129.6 | 174AVA, Ridge, Serendipity, Stx, alicerawr |

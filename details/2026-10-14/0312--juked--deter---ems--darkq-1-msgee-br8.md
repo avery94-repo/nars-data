@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.114 | 1259.3 | - |
 | +30 days | 0.096 | 1234.7 | -24.6 |
 | +60 days | 0.083 | 1216.8 | -42.5 |
-| +90 days | 0.059 | 1183.0 | -76.4 |
+| +90 days | 0.059 | 1182.9 | -76.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.032 vs 0.024 average, gap +0.008). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Yogaball Frags | 311 | 1246.7 | +0.2 | +152.8 |
-| Mach 10 | 310 | 1246.7 | +0.2 | +152.8 |
-| FLying PiGs | 309 | 1250.4 | +3.9 | +154.4 |
-| Asian Invasion | 308 | 1250.7 | +4.2 | +154.0 |
-| Team Nyx | 307 | 1253.2 | +6.7 | +161.8 |
+| Yogaball Frags | 311 | 1246.7 | +0.2 | +153.0 |
+| Mach 10 | 310 | 1246.7 | +0.2 | +153.0 |
+| FLying PiGs | 309 | 1250.4 | +3.9 | +154.6 |
+| Asian Invasion | 308 | 1250.7 | +4.2 | +154.2 |
+| Team Nyx | 307 | 1253.2 | +6.7 | +161.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Amplus | 145 | +347.7 | +321.8 | +29.9 |
-| Biggie Cheese Fan Club | 151 | +330.1 | +278.2 | +29.2 |
-| Kevin James Fan Club | 148 | +334.4 | +305.5 | +29.2 |
-| WhiteBoyWinter | 155 | +320.2 | +287.7 | +28.0 |
-| offBalance | 165 | +295.8 | +280.9 | +24.7 |
-| Order Zero | 156 | +318.2 | +258.9 | +23.8 |
-| Pug Palace | 167 | +289.3 | +284.2 | +23.4 |
-| BucketJonsBoys | 172 | +286.6 | +272.1 | +23.3 |
-| Shaboing Boing Bandits | 173 | +284.1 | +293.7 | +22.6 |
-| Armored Talent | 174 | +283.3 | +299.8 | +22.4 |
+| Team Amplus | 145 | +347.7 | +322.1 | +29.9 |
+| Biggie Cheese Fan Club | 151 | +330.1 | +278.5 | +29.3 |
+| Kevin James Fan Club | 148 | +334.4 | +305.7 | +29.2 |
+| WhiteBoyWinter | 155 | +320.2 | +288.0 | +28.0 |
+| offBalance | 165 | +295.8 | +281.1 | +24.8 |
+| Order Zero | 156 | +318.3 | +259.2 | +23.8 |
+| Pug Palace | 167 | +289.3 | +284.4 | +23.5 |
+| BucketJonsBoys | 172 | +286.5 | +272.3 | +23.3 |
+| Shaboing Boing Bandits | 173 | +284.1 | +294.0 | +22.6 |
+| Armored Talent | 174 | +283.3 | +300.1 | +22.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +587.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +588.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
 
@@ -82,21 +82,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | enigma | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -89.6 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-08-19 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -130.0 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-08-13 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.80 | 0.21 | 0.80 | +121.3 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
-| 2026-08-12 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.07 | 0.79 | +205.9 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
-| 2026-08-07 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -96.6 | -ems-, DARKQ-1, DETER-, Juant0n1o, eyeMSG |
+| 2026-08-12 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.07 | 0.79 | +206.0 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
+| 2026-08-07 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -96.7 | -ems-, DARKQ-1, DETER-, Juant0n1o, eyeMSG |
 | 2026-08-05 | Distinguished Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +163.6 | -ems-, DARKQ-1, DETER-, Juant0n1o, eyeMSG |
 | 2026-07-31 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.03 | 0.71 | +99.8 | -ems-, DARKQ-1, DETER-, Juant0n1o, eyeMSG |
-| 2026-07-29 | Sedated | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.08 | 0.70 | +351.7 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
+| 2026-07-29 | Sedated | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.08 | 0.70 | +351.8 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-07-24 | teamington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -0.0 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-07-22 | Qinorhwat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -0.0 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-07-17 | Wealth Reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -213.4 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
-| 2026-05-22 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -47.0 | -ems-, BR8, DARKQ-1, DETER-, Juant0n1o |
+| 2026-05-22 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -46.9 | -ems-, BR8, DARKQ-1, DETER-, Juant0n1o |
 | 2026-05-20 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -2.6 | -ems-, BR8, DARKQ-1, DETER-, Juant0n1o |
 | 2026-05-15 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -266.2 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
-| 2026-05-08 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -73.2 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
+| 2026-05-08 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -73.2 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
 | 2026-05-06 | Texas Orange | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -304.3 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
-| 2026-05-01 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +378.9 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
-| 2026-04-29 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -437.2 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
+| 2026-05-01 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +379.0 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
+| 2026-04-29 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -437.3 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
 | 2026-04-24 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +137.8 | -ems-, DARKQ-1, DETER-, Juant0n1o, woRrom |
 | 2026-04-22 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +175.6 | -ems-, BR8, DARKQ-1, DETER-, woRrom |
 

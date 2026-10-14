@@ -33,7 +33,7 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.045 vs 0.291 aver
 
 - Tier Exposure drivers: S57 NA Main Central - Regular Season (2026-05-21) 0.25
 - Quality Wins drivers: beat Aers Money Crew at S57 NA Main Central - Regular Season (2026-05-13) 0.02; beat TEMPR at S57 NA Main Central - Regular Season (2026-05-20) 0.02; beat Wealth Reduction at S57 NA Main Central - Regular Season (2026-05-08) 0.01
-- Opponent Network drivers: beat TEMPR at S57 NA Main Central - Regular Season (2026-05-20) 0.25; beat Aers Money Crew at S57 NA Main Central - Regular Season (2026-05-13) 0.19; beat Wealth Reduction at S57 NA Main Central - Regular Season (2026-05-08) 0.16
+- Opponent Network drivers: beat TEMPR at S57 NA Main Central - Regular Season (2026-05-20) 0.25; beat Aers Money Crew at S57 NA Main Central - Regular Season (2026-05-13) 0.19; beat Wealth Reduction at S57 NA Main Central - Regular Season (2026-05-08) 0.15
 
 Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
@@ -42,7 +42,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | WaterDrinkers | 364 | 1146.1 | +0.2 | +170.8 |
 | OnThaGear | 363 | 1146.4 | +0.5 | +171.1 |
 | Temple of Swing | 362 | 1147.4 | +1.5 | +169.0 |
-| MINDTRIP | 361 | 1149.6 | +3.7 | +171.2 |
+| MINDTRIP | 361 | 1149.5 | +3.6 | +171.2 |
 | Aers Money Crew | 360 | 1153.2 | +7.3 | +171.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -56,17 +56,17 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Bad Jawn | 200 | +336.2 | +349.7 | +30.6 |
 | noname | 208 | +321.4 | +321.8 | +29.7 |
 | Kings Gambit | 210 | +316.0 | +322.7 | +29.0 |
-| AscendentEsport | 207 | +321.9 | +345.9 | +28.6 |
+| AscendentEsport | 206 | +322.0 | +345.9 | +28.6 |
 | Veniversum | 211 | +313.5 | +339.8 | +28.2 |
 | FlockMunchers | 212 | +313.2 | +339.9 | +28.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.7), shirtcockin (+0.9), Courage (+1.1), SixSevenZaZa (+1.9).
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs Aurofox (2026-04-29): expires in 11 days [Quality Wins 0.00, Opponent Network 0.09]
-- S57 NA Main Central - Regular Season vs Wealth Reduction (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.16]
+- S57 NA Main Central - Regular Season vs Wealth Reduction (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.15]
 - S57 NA Main Central - Regular Season vs Aers Money Crew (2026-05-13): expires in 25 days [Quality Wins 0.02, Opponent Network 0.19]
 - S57 NA Main Central - Regular Season vs TEMPR (2026-05-20): expires in 32 days [Quality Wins 0.02, Opponent Network 0.25]
 - S57 NA Main Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.25]
@@ -78,11 +78,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-21 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -29.4 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-05-20 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +35.2 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
-| 2026-05-19 | CLUE IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.00 | 0.00 | -182.2 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
+| 2026-05-19 | CLUE IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.00 | 0.00 | -182.3 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-05-13 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +314.2 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
-| 2026-05-08 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +191.2 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
+| 2026-05-08 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.01 | 0.15 | +191.2 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-04-30 | UnitedStatesArmy Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -251.5 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, mav9, monstar-- |
-| 2026-04-29 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +435.0 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, monstar-- |
+| 2026-04-29 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +435.1 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, monstar-- |
 | 2026-04-24 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -255.9 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-04-22 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -231.4 | HOLIDAY_, bERTMANE, codabravo, mav9, monstar-- |
 

@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.177 | 1347.2 | - |
-| +30 days | 0.158 | 1321.0 | -26.2 |
-| +60 days | 0.140 | 1296.1 | -51.1 |
-| +90 days | 0.109 | 1252.4 | -94.8 |
+| +30 days | 0.158 | 1320.9 | -26.2 |
+| +60 days | 0.140 | 1296.0 | -51.1 |
+| +90 days | 0.109 | 1252.3 | -94.8 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.077 vs 0.088 average, gap -0.011). Matching that average is worth about 3.9 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Rejects | 161 | 1553.6 | +4.6 | +134.2 |
-| TOP SHELF WHIFFERS | 160 | 1556.3 | +7.3 | +132.6 |
-| AURA Esports | 159 | 1558.1 | +9.1 | +131.7 |
-| BONK | 158 | 1559.4 | +10.4 | +126.5 |
-| Fourth Quarter | 157 | 1560.7 | +11.7 | +131.8 |
+| Rejects | 161 | 1553.6 | +4.6 | +134.3 |
+| TOP SHELF WHIFFERS | 160 | 1556.4 | +7.4 | +132.7 |
+| AURA Esports | 159 | 1558.1 | +9.1 | +131.8 |
+| BONK | 158 | 1559.4 | +10.4 | +126.6 |
+| Fourth Quarter | 157 | 1560.8 | +11.8 | +131.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| No Future Lifes Over | 50 | +338.1 | +241.1 | +22.9 |
-| FLOW STATE | 47 | +348.4 | +266.8 | +22.8 |
-| DESPAIR | 49 | +339.7 | +241.4 | +22.7 |
-| TheMotherLovers | 53 | +328.9 | +247.4 | +22.1 |
-| Phantom Sense | 51 | +334.7 | +292.7 | +21.7 |
-| Omen Esports | 57 | +308.8 | +258.6 | +19.8 |
-| GG | 52 | +332.4 | +203.7 | +17.6 |
-| flat earth | 64 | +277.5 | +228.7 | +17.2 |
-| Endless Esports | 65 | +277.0 | +230.5 | +17.1 |
-| DUMBO | 63 | +278.1 | +251.8 | +16.7 |
+| No Future Lifes Over | 50 | +338.2 | +241.3 | +22.9 |
+| FLOW STATE | 47 | +348.4 | +267.1 | +22.9 |
+| DESPAIR | 49 | +339.7 | +241.7 | +22.7 |
+| TheMotherLovers | 53 | +329.0 | +247.6 | +22.2 |
+| Phantom Sense | 51 | +334.8 | +293.0 | +21.7 |
+| Omen Esports | 57 | +308.8 | +258.8 | +19.8 |
+| GG | 52 | +332.5 | +203.9 | +17.6 |
+| flat earth | 64 | +277.5 | +228.9 | +17.3 |
+| Endless Esports | 65 | +277.0 | +230.7 | +17.1 |
+| DUMBO | 63 | +278.1 | +252.0 | +16.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +425.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +426.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -72,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-15 | AURA Esports | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -83.7 | -Tuna-, ITakeRoidss, Lieth, framedHERO, tdoy |
+| 2026-09-15 | AURA Esports | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -83.8 | -Tuna-, ITakeRoidss, Lieth, framedHERO, tdoy |
 | 2026-09-09 | MommySports | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -98.6 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
 | 2026-09-06 | The Vicious Kitties | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +98.4 | -Sora-, -Tuna-, beast9, framedHERO, tdoy |
 | 2026-09-03 | RunTheDamnBall | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.11 | 0.92 | +7.9 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -39.7 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-14 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +147.0 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-12 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -202.3 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
-| 2026-08-07 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.09 | 0.74 | +37.5 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
+| 2026-08-07 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.09 | 0.74 | +37.6 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-05 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.06 | 0.73 | +102.2 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-07-29 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -288.5 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-29 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -202.8 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
@@ -93,6 +93,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.02 | 0.59 | +170.3 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-06-05 | Armored Talent | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.06 | 0.32 | +127.0 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |
 | 2026-05-29 | Zamgaa Anime Aimers | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +159.3 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |
-| 2026-05-28 | GodFather Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.01 | 0.27 | +117.7 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |
+| 2026-05-28 | GodFather Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.01 | 0.27 | +117.8 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

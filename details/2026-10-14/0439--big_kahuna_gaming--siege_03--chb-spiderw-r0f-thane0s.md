@@ -41,23 +41,23 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | NADIYA | 438 | 933.2 | +1.4 | +162.7 |
 | WannaBeMovement | 437 | 936.9 | +5.1 | +163.9 |
-| Square1 | 436 | 940.4 | +8.6 | +165.0 |
-| Counter Legends | 435 | 941.5 | +9.7 | +165.3 |
-| The Bobs | 434 | 946.1 | +14.3 | +166.8 |
+| Square1 | 436 | 940.3 | +8.5 | +165.0 |
+| Counter Legends | 435 | 941.4 | +9.6 | +165.3 |
+| The Bobs | 434 | 946.0 | +14.2 | +166.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | COGNITIVE | 295 | +347.3 | +319.8 | +32.5 |
-| NATIONAL CS UNI | 301 | +334.3 | +318.2 | +31.3 |
+| NATIONAL CS UNI | 301 | +334.2 | +318.2 | +31.3 |
 | Mud Wizards | 298 | +338.2 | +351.4 | +30.7 |
-| DingTone | 302 | +332.0 | +327.1 | +30.4 |
+| DingTone | 302 | +332.0 | +327.0 | +30.4 |
 | Guangzhou Loong Lions | 304 | +328.1 | +317.3 | +30.2 |
 | Team Nyx | 307 | +321.4 | +311.6 | +29.9 |
-| TELETUBEASTS | 303 | +331.4 | +348.4 | +29.6 |
+| TELETUBEASTS | 303 | +331.4 | +348.3 | +29.6 |
 | fiveB | 318 | +306.7 | +304.6 | +28.0 |
-| Team TahMeow | 321 | +304.0 | +303.9 | +27.6 |
+| Team TahMeow | 321 | +303.9 | +303.9 | +27.6 |
 | University of Cincinnati | 296 | +346.5 | +287.5 | +26.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.

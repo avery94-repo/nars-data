@@ -4,14 +4,14 @@ Roster: Tiski, Destro, Springgy, Driftzzzzz, xKold
 NARS Rank: 152 of 506
 
 Final Rating: 1574.5
-Seeded Start: 1603.2
-H2H Adjustment: -28.7
+Seeded Start: 1603.1
+H2H Adjustment: -28.6
 
-Final Rating (1574.5) = Seeded Start (1603.2) + H2H Adjustment (-28.7)
+Final Rating (1574.5) = Seeded Start (1603.1) + H2H Adjustment (-28.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.359 x 1400 = 1603.2
+                = 1100 + 0.359 x 1400 = 1603.1
 
 seed_factor 0.359 = 0.25 x Tier Exposure (0.296) + 0.50 x Quality Wins (0.217) + 0.25 x Opponent Network (0.707)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.359 | 1603.2 | - |
+| Now | 0.359 | 1603.1 | - |
 | +30 days | 0.316 | 1542.6 | -60.6 |
-| +60 days | 0.285 | 1499.2 | -104.0 |
-| +90 days | 0.236 | 1429.8 | -173.4 |
+| +60 days | 0.285 | 1499.1 | -104.0 |
+| +90 days | 0.236 | 1429.7 | -173.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.217 vs 0.029 average, gap +0.188). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Biggie Cheese Fan Club | 151 | 1576.6 | +2.1 | +104.9 |
-| UsingCodefArt25atSCL | 150 | 1577.8 | +3.3 | +109.4 |
-| Appalachian Apes | 149 | 1577.9 | +3.4 | +106.7 |
-| Kevin James Fan Club | 148 | 1580.9 | +6.4 | +111.1 |
-| MommySports | 147 | 1587.1 | +12.6 | +112.0 |
+| Biggie Cheese Fan Club | 151 | 1576.6 | +2.1 | +105.0 |
+| UsingCodefArt25atSCL | 150 | 1577.8 | +3.3 | +109.5 |
+| Appalachian Apes | 149 | 1577.9 | +3.4 | +106.8 |
+| Kevin James Fan Club | 148 | 1580.9 | +6.4 | +111.2 |
+| MommySports | 147 | 1587.1 | +12.6 | +112.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Swole Patrol | 45 | +339.8 | +171.0 | +19.2 |
-| Xiaoma Gaming | 46 | +336.9 | +229.3 | +18.3 |
-| FLOW STATE | 47 | +322.9 | +214.6 | +17.9 |
-| No Future Lifes Over | 50 | +312.6 | +193.9 | +17.5 |
-| DESPAIR | 49 | +314.2 | +194.2 | +17.4 |
-| Phantom Sense | 51 | +309.2 | +235.5 | +16.9 |
-| TheMotherLovers | 53 | +303.4 | +199.1 | +16.7 |
-| Omen Esports | 57 | +283.3 | +208.2 | +14.3 |
-| GG | 52 | +306.9 | +163.6 | +12.8 |
-| Sharp | 54 | +293.3 | +202.3 | +11.2 |
+| Swole Patrol | 45 | +339.9 | +171.2 | +19.2 |
+| Xiaoma Gaming | 46 | +337.0 | +229.5 | +18.3 |
+| FLOW STATE | 47 | +322.9 | +214.9 | +17.9 |
+| No Future Lifes Over | 50 | +312.7 | +194.1 | +17.6 |
+| DESPAIR | 49 | +314.2 | +194.4 | +17.4 |
+| Phantom Sense | 51 | +309.3 | +235.7 | +16.9 |
+| TheMotherLovers | 53 | +303.5 | +199.3 | +16.8 |
+| Omen Esports | 57 | +283.3 | +208.4 | +14.3 |
+| GG | 52 | +307.0 | +163.8 | +12.8 |
+| Sharp | 54 | +293.3 | +202.5 | +11.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +340.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +340.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -73,10 +73,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-18 | Omen Esports | L | 1-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -2.6 | Destro, Tiski, fatguy, ryn, xKold |
-| 2026-09-14 | FarmVille | L |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -0.4 | Destro, Springgy, Tiski, ryn, xKold |
+| 2026-09-14 | FarmVille | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -0.4 | Destro, Springgy, Tiski, ryn, xKold |
 | 2026-09-14 | FarmVille | L | 0-2 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 1.00 | 1.46 | 1.00 | 1.45 | 0.00 | 0.00 | -0.4 | Destro, Springgy, Tiski, ryn, xKold |
 | 2026-09-11 | Holy Squid Empire | L | 1-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.98 | 1.55 | 1.00 | 1.52 | 0.00 | 0.00 | -17.4 | Destro, Springgy, Tiski, ryn, xKold |
-| 2026-09-08 | O Fire | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.16 | 1.28 | +13.4 | Destro, Springgy, Tiski, ryn, xKold |
+| 2026-09-08 | O Fire | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.16 | 1.28 | +13.4 | Destro, Springgy, Tiski, ryn, xKold |
 | 2026-09-08 | New Legends | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.27 | 0.00 | 0.00 | -22.4 | Destro, Springgy, Tiski, ryn, xKold |
 | 2026-09-03 | Beyond Limits | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.92 | 1.55 | 1.00 | 1.43 | 0.00 | 0.00 | -0.2 | Destro, Springgy, Tiski, ryn, xKold |
 | 2026-09-01 | enigma | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.91 | 1.33 | 1.00 | 1.21 | 0.19 | 1.21 | +23.8 | Destro, Springgy, Tiski, ryn, xKold |
@@ -84,27 +84,27 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-27 | counterstrike Team | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.00 | 0.00 | -111.3 | Destro, Springgy, Tiski, ryn, xKold |
 | 2026-08-26 | Wanted Goons | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 1.26 | 1.26 | +139.7 | Destro, Springgy, fatguy, ryn, xKold |
 | 2026-08-26 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.09 | 1.26 | +117.0 | Destro, Springgy, fatguy, ryn, xKold |
-| 2026-08-21 | firesale | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -116.4 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
+| 2026-08-21 | firesale | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -116.5 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-08-20 | Playing for fun | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -41.0 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-08-20 | Sedated | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -179.4 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-08-19 | North Forge | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.32 | 1.19 | +244.5 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
-| 2026-08-14 | Endless Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.00 | 0.00 | -9.0 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
+| 2026-08-14 | Endless Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.14 | 0.00 | 0.00 | -9.0 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-08-13 | makeSHIFT | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -60.6 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-08-13 | Wanted Goons | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -100.0 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-08-12 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.42 | 1.13 | +90.6 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-08-07 | Holly Molly | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.21 | 1.08 | +5.8 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-08-05 | Chicken Coop | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -4.0 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-07-31 | Beyond Limits | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.66 | 1.01 | +364.9 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
-| 2026-07-29 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -19.8 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
-| 2026-07-17 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -257.4 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
+| 2026-07-29 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -19.9 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
+| 2026-07-17 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -257.5 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-07-15 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -20.7 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
-| 2026-05-25 | Phantom Sense | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.25 | 1.35 | 1.00 | 0.34 | 0.11 | 0.34 | +242.4 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
-| 2026-05-22 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.00 | -9.9 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
-| 2026-05-12 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -258.4 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
+| 2026-05-25 | Phantom Sense | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.25 | 1.35 | 1.00 | 0.34 | 0.11 | 0.34 | +242.5 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
+| 2026-05-22 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.00 | -9.8 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
+| 2026-05-12 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -258.5 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-05-07 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.01 | 0.17 | +6.1 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
-| 2026-05-05 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.01 | 0.16 | +89.5 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
+| 2026-05-05 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.15 | 0.01 | 0.15 | +89.5 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-04-30 | girl kissers | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.11 | +146.3 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
-| 2026-04-29 | Holly Molly | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.10 | 0.02 | 0.00 | +237.1 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
+| 2026-04-29 | Holly Molly | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.10 | 0.02 | 0.00 | +237.2 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-04-23 | House Platypus ESC | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -166.3 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-04-23 | NZ Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -352.8 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 

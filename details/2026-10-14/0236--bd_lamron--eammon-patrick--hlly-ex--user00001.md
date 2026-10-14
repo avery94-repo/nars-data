@@ -25,11 +25,11 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.052 | 1173.0 | - |
-| +30 days | 0.042 | 1159.1 | -13.9 |
+| +30 days | 0.042 | 1159.0 | -13.9 |
 | +60 days | 0.038 | 1152.6 | -20.4 |
 | +90 days | 0.035 | 1149.4 | -23.5 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.156 vs 0.361 average, gap -0.205). Matching that average is worth about 71.8 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.156 vs 0.360 average, gap -0.204). Matching that average is worth about 71.4 seed points.
 
 - Tier Exposure drivers: S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.96; S57 NA Open1-8 Central - Playoffs (2026-05-30) 0.28
 - Quality Wins drivers: beat The Coop at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.03; beat Team Vyron at S58 NA Open1-8 Central - Playoffs (2026-09-03) 0.03; beat awesomenauts at S57 NA Open1-8 Central - Playoffs (2026-05-28) 0.01
@@ -51,10 +51,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | Fire Nation | 90 | +340.1 | +320.8 | +31.8 |
 | Fathom Gaming | 91 | +335.7 | +313.9 | +31.7 |
-| Overtake Sector | 89 | +341.2 | +403.1 | +29.8 |
+| Overtake Sector | 89 | +341.3 | +403.1 | +29.8 |
 | Green Grove Retirement | 94 | +319.0 | +327.0 | +29.3 |
 | NineFlyeSports | 96 | +315.5 | +337.1 | +29.1 |
-| PROFECO | 87 | +345.5 | +287.1 | +29.0 |
+| PROFECO | 87 | +345.6 | +287.1 | +29.0 |
 | Elusive | 93 | +322.0 | +362.1 | +28.9 |
 | FlyQuest RED | 97 | +311.1 | +346.8 | +27.1 |
 | Axial | 101 | +296.8 | +301.9 | +26.1 |
@@ -78,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | The Coop | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +100.8 | EX-, eammon, gorman, hlly, patrick- |
 | 2026-09-03 | Team Vyron | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +100.6 | 4FFX, EX-, gorman, hlly, patrick- |
 | 2026-05-30 | 69 | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -221.9 | EX-, eammon, gorman, hlly, patrick- |
-| 2026-05-28 | awesomenauts | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.01 | 0.27 | +188.1 | EX-, eammon, gorman, hlly, patrick- |
+| 2026-05-28 | awesomenauts | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.01 | 0.27 | +188.2 | EX-, eammon, gorman, hlly, patrick- |
 | 2026-05-27 | Rainbow Wizards Squad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +183.1 | EX-, eammon, gorman, hlly, patrick- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

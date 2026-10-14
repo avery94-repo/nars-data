@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.028 | 1139.5 | - |
-| +30 days | 0.011 | 1116.1 | -23.4 |
+| +30 days | 0.011 | 1116.0 | -23.4 |
 | +60 days | 0.000 | 1100.0 | -39.5 |
 | +90 days | 0.000 | 1100.0 | -39.5 |
 
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| BUCK NASTY | 177 | 1518.9 | +0.1 | +162.3 |
+| BUCK NASTY | 177 | 1518.8 | +0.0 | +162.3 |
 | APEX | 176 | 1521.9 | +3.1 | +170.7 |
 | Firstwave | 175 | 1527.0 | +8.2 | +171.0 |
 | Armored Talent | 174 | 1529.8 | +11.0 | +176.8 |
@@ -53,11 +53,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | flat earth | 64 | +307.7 | +325.4 | +28.2 |
 | Endless Esports | 65 | +307.2 | +327.8 | +28.1 |
 | DUMBO | 63 | +308.3 | +357.1 | +26.9 |
-| WhalersOnDaMoon | 66 | +303.0 | +331.0 | +26.4 |
+| WhalersOnDaMoon | 66 | +303.1 | +331.0 | +26.4 |
 | NZ Gaming | 69 | +294.4 | +300.3 | +26.1 |
-| Sharp | 54 | +349.0 | +359.2 | +23.9 |
-| Evade Gaming | 55 | +346.2 | +287.4 | +22.8 |
-| F5 Esports | 60 | +316.5 | +343.7 | +22.4 |
+| Sharp | 54 | +349.0 | +359.1 | +23.8 |
+| Evade Gaming | 55 | +346.3 | +287.4 | +22.8 |
+| F5 Esports | 60 | +316.5 | +343.6 | +22.3 |
 | GeneticDiff | 70 | +274.1 | +299.6 | +22.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.5 points at current ratings.
@@ -78,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-09 | Festina Lente | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.35 | 1.05 | 1.00 | 0.37 | 0.00 | 0.00 | -278.6 | AbbyDog, Friendle, Kyouki, bxxba, dred, froze |
 | 2026-06-06 | FLOW STATE | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.33 | 1.05 | 1.00 | 0.35 | 0.08 | 0.35 | +172.7 | Friendle, Kyouki, bxxba, dred, froze |
-| 2026-06-04 | HiveMind | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.03 | 0.33 | +201.6 | Friendle, Kyouki, Tboc13, dred, rovuh |
+| 2026-06-04 | HiveMind | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.03 | 0.33 | +201.7 | Friendle, Kyouki, Tboc13, dred, rovuh |
 | 2026-05-31 | Diggers | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.00 | 0.00 | -155.3 | Friendle, Kyouki, bxxba, dred, froze, rovuh |
 | 2026-05-29 | Firstwave | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.04 | 0.29 | +239.4 | AbbyDog, Friendle, Kyouki, dred, rovuh |
 | 2026-05-27 | Let It Crust | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.05 | 1.00 | 0.28 | 0.00 | 0.28 | +199.4 | Friendle, Kyouki, bxxba, dred, froze, rovuh |

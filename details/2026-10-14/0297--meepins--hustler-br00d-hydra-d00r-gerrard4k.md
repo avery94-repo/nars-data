@@ -3,17 +3,17 @@ Team Name: Meepins
 Roster: hustler, br00d, Hydra, D00R, Gerrard4K
 NARS Rank: 297 of 506
 
-Final Rating: 1271.2
+Final Rating: 1271.1
 Seeded Start: 1275.7
-H2H Adjustment: -4.5
+H2H Adjustment: -4.6
 
-Final Rating (1271.2) = Seeded Start (1275.7) + H2H Adjustment (-4.5)
+Final Rating (1271.1) = Seeded Start (1275.7) + H2H Adjustment (-4.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.126 x 1400 = 1275.7
+                = 1100 + 0.125 x 1400 = 1275.7
 
-seed_factor 0.126 = 0.25 x Tier Exposure (0.085) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.361)
+seed_factor 0.125 = 0.25 x Tier Exposure (0.085) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.361)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.126 | 1275.7 | - |
+| Now | 0.125 | 1275.7 | - |
 | +30 days | 0.096 | 1234.4 | -41.3 |
 | +60 days | 0.081 | 1213.7 | -62.0 |
 | +90 days | 0.059 | 1182.2 | -93.5 |
@@ -33,34 +33,34 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.085 vs 0.101 average
 
 - Tier Exposure drivers: S58 NA Main Central - Playoffs A (2026-09-08) 0.99; S58 NA Main A - Regular Season (2026-08-26) 0.89; S57 NA Intermediate Central - Playoffs A (2026-06-02) 0.31
 - Quality Wins drivers: beat Saltcrew at S58 NA Main Central - Playoffs A (2026-09-06) 0.12; beat Grandpa Berets at S58 NA Main A - Regular Season (2026-07-29) 0.06; beat After Peak at S58 NA Main A - Regular Season (2026-07-24) 0.06
-- Opponent Network drivers: beat Saltcrew at S58 NA Main Central - Playoffs A (2026-09-06) 0.98; beat Wide Swinging Wizards at S58 NA Main A - Regular Season (2026-08-19) 0.84; beat Braindead at S58 NA Main A - Regular Season (2026-08-14) 0.81
+- Opponent Network drivers: beat Saltcrew at S58 NA Main Central - Playoffs A (2026-09-06) 0.97; beat Wide Swinging Wizards at S58 NA Main A - Regular Season (2026-08-19) 0.84; beat Braindead at S58 NA Main A - Regular Season (2026-08-14) 0.81
 
 Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| University of Cincinnati | 296 | 1278.3 | +7.1 | +151.4 |
-| COGNITIVE | 295 | 1279.1 | +7.9 | +158.1 |
-| Dynasty | 294 | 1279.9 | +8.7 | +154.7 |
-| Cream Team | 293 | 1282.4 | +11.2 | +156.5 |
-| Tractors | 292 | 1283.0 | +11.8 | +163.0 |
+| University of Cincinnati | 296 | 1278.3 | +7.2 | +151.5 |
+| COGNITIVE | 295 | 1279.1 | +8.0 | +158.2 |
+| Dynasty | 294 | 1279.9 | +8.8 | +154.8 |
+| Cream Team | 293 | 1282.4 | +11.3 | +156.6 |
+| Tractors | 292 | 1283.0 | +11.9 | +163.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Kaos | 139 | +339.6 | +273.5 | +29.3 |
-| KODEX ESPORTS | 137 | +345.3 | +371.4 | +27.5 |
-| Team Amplus | 145 | +323.0 | +302.3 | +27.2 |
-| Kevin James Fan Club | 148 | +309.7 | +287.1 | +26.0 |
-| Biggie Cheese Fan Club | 151 | +305.4 | +262.1 | +25.6 |
-| WhiteBoyWinter | 155 | +295.5 | +270.5 | +24.1 |
-| offBalance | 165 | +271.1 | +263.7 | +19.9 |
-| Order Zero | 156 | +293.5 | +244.2 | +19.9 |
-| Oath | 142 | +331.0 | +256.9 | +19.8 |
-| Pug Palace | 167 | +264.6 | +266.4 | +18.4 |
+| Kaos | 139 | +339.7 | +273.7 | +29.3 |
+| KODEX ESPORTS | 137 | +345.4 | +371.7 | +27.5 |
+| Team Amplus | 145 | +323.1 | +302.6 | +27.2 |
+| Kevin James Fan Club | 148 | +309.8 | +287.3 | +26.0 |
+| Biggie Cheese Fan Club | 151 | +305.5 | +262.4 | +25.7 |
+| WhiteBoyWinter | 155 | +295.6 | +270.8 | +24.2 |
+| offBalance | 165 | +271.2 | +263.9 | +19.9 |
+| Order Zero | 156 | +293.7 | +244.4 | +19.9 |
+| Oath | 142 | +331.1 | +257.1 | +19.8 |
+| Pug Palace | 167 | +264.7 | +266.6 | +18.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +569.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +569.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.3), SixSevenZaZa (+0.6).
 
@@ -79,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | UnitedStatesArmy Esports | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.00 | 0.00 | -46.2 | D00R, NEXTDAYAIR-, br00d, hustler, shohei |
-| 2026-09-06 | Saltcrew | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.12 | 0.98 | +104.0 | D00R, NEXTDAYAIR-, br00d, hustler, shohei |
+| 2026-09-06 | Saltcrew | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.12 | 0.97 | +104.1 | D00R, NEXTDAYAIR-, br00d, hustler, shohei |
 | 2026-09-02 | The Burger People | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.03 | 1.00 | 0.95 | 0.00 | 0.00 | -39.7 | D00R, Hydra, NEXTDAYAIR-, hustler, shohei |
 | 2026-08-26 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -9.5 | D00R, Hydra, NEXTDAYAIR-, hustler, shohei |
 | 2026-08-21 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -101.4 | D00R, Hydra, br00d, hustler, shohei |
@@ -89,14 +89,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -93.0 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
 | 2026-07-31 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.05 | 0.71 | +0.2 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-07-29 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.06 | 0.70 | +6.6 | D00R, Gerrard4K, Hydra, br00d, hustler |
-| 2026-07-24 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.06 | 0.66 | +111.3 | D00R, Gerrard4K, Hydra, br00d, hustler |
+| 2026-07-24 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.06 | 0.66 | +111.4 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-07-22 | Les Ptis Jus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -150.8 | Gerrard4K, Hydra, NEXTDAYAIR-, br00d, hustler |
 | 2026-07-16 | butt | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -2.4 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
 | 2026-07-15 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -195.6 | D00R, Gerrard4K, Hydra, br00d, hustler |
-| 2026-06-02 | YHTR | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -137.8 | D00R, Gerrard4K, Hydra, br00d, hustler |
+| 2026-06-02 | YHTR | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -137.9 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-05-29 | TenToesDown | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.00 | 0.00 | -54.9 | D00R, Hydra, NEXTDAYAIR-, bertmas, hustler |
 | 2026-05-27 | in for Blood | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.02 | 0.27 | +129.6 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
-| 2026-05-22 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -300.6 | D00R, Hydra, bertmas, br00d, hustler |
+| 2026-05-22 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -300.7 | D00R, Hydra, bertmas, br00d, hustler |
 | 2026-05-19 | Square1 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.21 | 1.01 | 1.00 | 0.21 | 0.01 | 0.21 | +11.4 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-05-15 | YHTR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.03 | 0.18 | +11.7 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-05-13 | GoonAssOldheads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +2.3 | D00R, Gerrard4K, Hydra, br00d, hustler |

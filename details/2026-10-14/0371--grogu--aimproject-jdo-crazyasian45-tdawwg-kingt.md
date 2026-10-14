@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| STALLOONS BALLOONS | 370 | 1131.5 | +7.5 | +164.6 |
+| STALLOONS BALLOONS | 370 | 1131.5 | +7.5 | +164.7 |
 | We Just Pug | 369 | 1132.6 | +8.6 | +165.0 |
 | Top One Percent | 368 | 1137.0 | +13.0 | +166.4 |
 | Line Steppers | 367 | 1138.8 | +14.8 | +173.1 |
@@ -52,15 +52,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | noname | 208 | +343.3 | +333.2 | +31.8 |
 | Kings Gambit | 210 | +337.9 | +334.4 | +31.2 |
 | GOYPEEKING | 216 | +326.0 | +308.1 | +30.6 |
-| AscendentEsport | 207 | +343.8 | +359.2 | +30.4 |
+| AscendentEsport | 206 | +343.9 | +359.2 | +30.4 |
 | Veniversum | 211 | +335.4 | +353.0 | +30.4 |
 | FlockMunchers | 212 | +335.1 | +353.1 | +30.3 |
 | Defaulting | 215 | +327.7 | +338.7 | +30.0 |
-| VARTOVIK | 217 | +325.9 | +353.2 | +29.3 |
+| VARTOVIK | 217 | +325.9 | +353.3 | +29.3 |
 | Cortex Jellies | 222 | +313.4 | +285.8 | +29.2 |
 | 1NT | 221 | +315.0 | +318.2 | +28.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.8), shirtcockin (+1.1), Courage (+1.4).
 
@@ -75,11 +75,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -162.0 | aimproject, jdo, kaokao, kingtony, tdawwg |
-| 2026-05-20 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +294.8 | crazyasian45, jdo, kaokao, kingtony, tdawwg |
+| 2026-05-22 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -162.1 | aimproject, jdo, kaokao, kingtony, tdawwg |
+| 2026-05-20 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +294.9 | crazyasian45, jdo, kaokao, kingtony, tdawwg |
 | 2026-05-14 | goofball gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -325.6 | aimproject, crazyasian45, jdo, kingtony, tdawwg |
 | 2026-05-13 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +212.7 | aimproject, crazyasian45, jdo, kingtony, tdawwg |
-| 2026-05-08 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -74.9 | aimproject, jdo, kaokao, kingtony, tdawwg |
+| 2026-05-08 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -74.9 | aimproject, jdo, kaokao, kingtony, tdawwg |
 | 2026-05-06 | SquadUp | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -74.4 | aimproject, crazyasian45, jdo, kingtony, tdawwg |
 | 2026-04-28 | FRAGDEMONS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.15 | 1.00 | 0.08 | 0.00 | 0.08 | +209.3 | aimproject, crazyasian45, jdo, kingtony, tdawwg |
 | 2026-04-24 | Over Your Head | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -20.3 | aimproject, crazyasian45, jdo, kingtony, tdawwg |

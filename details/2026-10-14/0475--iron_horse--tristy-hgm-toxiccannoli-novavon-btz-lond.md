@@ -3,11 +3,11 @@ Team Name: Iron Horse
 Roster: TRISTY-HGM, ToxicCannoli, NoVaVoN, btz, London
 NARS Rank: 475 of 506
 
-Final Rating: 780.1
+Final Rating: 779.9
 Seeded Start: 1115.5
-H2H Adjustment: -335.4
+H2H Adjustment: -335.6 (capped at +-300, raw -335.5)
 
-Final Rating (780.1) = Seeded Start (1115.5) + H2H Adjustment (-335.4)
+Final Rating (779.9) = Seeded Start (1115.5) + H2H Adjustment (-335.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Another Day in Paradise | 474 | 780.3 | +0.2 | +162.3 |
-| AML | 473 | 793.6 | +13.5 | +167.5 |
-| Therapist | 472 | 797.4 | +17.3 | +167.8 |
-| CounterStreakrs | 471 | 808.3 | +28.2 | +171.2 |
-| In Our Prime | 470 | 811.1 | +31.0 | +172.2 |
+| Another Day in Paradise | 474 | 780.1 | +0.2 | +162.4 |
+| AML | 473 | 793.6 | +13.7 | +167.6 |
+| Therapist | 472 | 797.3 | +17.4 | +167.8 |
+| CounterStreakrs | 471 | 808.2 | +28.3 | +171.3 |
+| In Our Prime | 470 | 811.1 | +31.2 | +172.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Zhao | 373 | +336.3 | +352.1 | +30.5 |
-| Shadow Wizard Money Gang | 376 | +327.7 | +322.8 | +30.4 |
-| Zamgaa Anime Aimers | 378 | +324.0 | +304.6 | +30.4 |
-| Costco Family | 382 | +322.4 | +306.3 | +30.1 |
-| We Play Naked | 380 | +323.2 | +322.2 | +29.9 |
-| Goyim Gladiators | 379 | +323.8 | +334.0 | +29.7 |
-| Texas Orange | 383 | +317.4 | +306.5 | +29.5 |
-| Exnitas | 385 | +313.1 | +292.8 | +29.1 |
-| grogu | 371 | +343.9 | +286.5 | +27.7 |
-| Kahoot Squad | 388 | +302.5 | +294.6 | +27.5 |
+| Team Zhao | 373 | +336.5 | +352.2 | +30.5 |
+| Shadow Wizard Money Gang | 376 | +327.9 | +322.9 | +30.4 |
+| Zamgaa Anime Aimers | 378 | +324.1 | +304.7 | +30.4 |
+| Costco Family | 382 | +322.6 | +306.3 | +30.2 |
+| We Play Naked | 380 | +323.3 | +322.3 | +29.9 |
+| Goyim Gladiators | 379 | +324.0 | +334.0 | +29.7 |
+| Texas Orange | 383 | +317.6 | +306.6 | +29.5 |
+| Exnitas | 385 | +313.3 | +292.8 | +29.1 |
+| grogu | 371 | +344.1 | +286.5 | +27.7 |
+| Kahoot Squad | 388 | +302.7 | +294.6 | +27.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -74,15 +74,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-29 | FLying PiGs | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -175.9 | -DAMFIE, Lilkreutz, NoVaVoN, ToxicCannoli, btz |
+| 2026-05-29 | FLying PiGs | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -176.0 | -DAMFIE, Lilkreutz, NoVaVoN, ToxicCannoli, btz |
 | 2026-05-23 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.01 | 1.00 | 0.24 | 0.00 | 0.00 | -113.8 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
 | 2026-05-22 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -151.6 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
 | 2026-05-20 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -89.0 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-05-15 | TahMeow | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -304.0 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-05-13 | Bad Jawn | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +215.0 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-05-06 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +206.2 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-05-01 | Kevin James Fan Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -147.9 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-04-29 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +418.7 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-15 | TahMeow | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -304.1 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-13 | Bad Jawn | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +215.1 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-06 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +206.3 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-01 | Kevin James Fan Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -148.0 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-04-29 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +418.8 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
 | 2026-04-22 | FourStrokeGang | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -193.2 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

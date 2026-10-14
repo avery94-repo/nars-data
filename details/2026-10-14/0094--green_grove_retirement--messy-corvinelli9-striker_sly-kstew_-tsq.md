@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Elusive | 93 | 1731.6 | +3.0 | +107.3 |
-| Toomers | 92 | 1742.5 | +13.9 | +101.4 |
+| Elusive | 93 | 1731.6 | +3.0 | +107.4 |
+| Toomers | 92 | 1742.6 | +14.0 | +101.4 |
 | Fathom Gaming | 91 | 1745.3 | +16.7 | +101.1 |
 | Fire Nation | 90 | 1749.7 | +21.1 | +103.0 |
-| Overtake Sector | 89 | 1750.8 | +22.2 | +116.5 |
+| Overtake Sector | 89 | 1750.9 | +22.3 | +116.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Olympus | 25 | +311.0 | +182.2 | +15.9 |
-| Automatic HQ | 27 | +302.2 | +190.6 | +14.9 |
-| VOID ALUNE | 29 | +279.2 | +142.6 | +12.8 |
-| Hairy Scary Bandits | 32 | +270.8 | +175.1 | +12.4 |
+| Olympus | 25 | +311.1 | +182.3 | +15.9 |
+| Automatic HQ | 27 | +302.3 | +190.7 | +14.9 |
+| VOID ALUNE | 29 | +279.3 | +142.6 | +12.8 |
+| Hairy Scary Bandits | 32 | +270.8 | +175.2 | +12.4 |
 | Chicken Coop | 33 | +269.6 | +201.2 | +12.1 |
 | Holly Molly | 35 | +259.8 | +163.6 | +10.7 |
 | EMPIRE | 36 | +255.0 | +184.3 | +10.3 |
-| Festina Lente | 24 | +314.2 | +148.6 | +9.6 |
-| unreal nightmare | 37 | +248.0 | +157.1 | +9.2 |
+| Festina Lente | 24 | +314.2 | +148.7 | +9.6 |
+| unreal nightmare | 37 | +248.0 | +157.2 | +9.2 |
 | North Forge | 38 | +242.6 | +193.1 | +8.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +301.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +301.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0).
 
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-19 | ODIN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +57.9 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |
 | 2026-09-18 | UsingCodefArt25atSCL | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.04 | 1.02 | +71.5 | Corvinelli9, Messy, Striker_Sly, TSQRD, fuhlexer |
 | 2026-09-10 | Swole Patrol | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.00 | 0.00 | -41.9 | Messy, Striker_Sly, TSQRD, fuhlexer, kstew_ |
-| 2026-09-08 | Alternate Earth | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.07 | 0.98 | +81.8 | Corvinelli9, Messy, Striker_Sly, TSQRD, kstew_ |
+| 2026-09-08 | Alternate Earth | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.07 | 0.98 | +81.9 | Corvinelli9, Messy, Striker_Sly, TSQRD, kstew_ |
 | 2026-09-06 | No Excuses | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.03 | 0.96 | +113.0 | Corvinelli9, Messy, TSQRD, intoxify, kstew_ |
 | 2026-09-04 | Align Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +71.3 | Corvinelli9, Messy, TSQRD, intoxify, kstew_ |
 | 2026-09-02 | BlueberryFuego | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.03 | 0.93 | +113.6 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |

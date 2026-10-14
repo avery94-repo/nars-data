@@ -11,9 +11,9 @@ Final Rating (1104.5) = Seeded Start (1253.3) + H2H Adjustment (-148.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.110 x 1400 = 1253.3
+                = 1100 + 0.109 x 1400 = 1253.3
 
-seed_factor 0.110 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.315)
+seed_factor 0.109 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.315)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,12 +24,12 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.110 | 1253.3 | - |
+| Now | 0.109 | 1253.3 | - |
 | +30 days | 0.093 | 1230.2 | -23.1 |
-| +60 days | 0.077 | 1208.2 | -45.2 |
+| +60 days | 0.077 | 1208.1 | -45.2 |
 | +90 days | 0.054 | 1175.1 | -78.2 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.315 vs 0.350 average, gap -0.035). Matching that average is worth about 12.2 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.315 vs 0.349 average, gap -0.034). Matching that average is worth about 11.9 seed points.
 
 - Tier Exposure drivers: S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.93; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs A (2026-06-01) 0.31
 - Quality Wins drivers: beat Epochal Esports at S58 NA Intermediate A - Regular Season (2026-07-15) 0.09; beat GoonAssOldheads at S58 NA Intermediate A - Regular Season (2026-08-05) 0.09; beat GoopT at S58 NA Intermediate A - Regular Season (2026-08-21) 0.06
@@ -40,8 +40,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Shadow Wizard Money Gang | 376 | 1107.8 | +3.3 | +171.0 |
-| NYX | 375 | 1115.3 | +10.8 | +170.6 |
-| in for Blood | 374 | 1116.3 | +11.8 | +166.0 |
+| NYX | 375 | 1115.2 | +10.7 | +170.6 |
+| in for Blood | 374 | 1116.2 | +11.7 | +166.0 |
 | Team Zhao | 373 | 1116.4 | +11.9 | +177.4 |
 | Qinorhwat | 372 | 1120.5 | +16.0 | +167.3 |
 
@@ -55,7 +55,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | VARTOVIK | 217 | +345.4 | +365.4 | +30.9 |
 | 1NT | 221 | +334.5 | +328.4 | +30.9 |
 | Binky | 220 | +334.8 | +356.5 | +30.2 |
-| penazoid | 226 | +323.5 | +311.3 | +30.2 |
+| penazoid | 226 | +323.4 | +311.2 | +30.2 |
 | UltimateDarklordWizardz | 227 | +322.6 | +342.4 | +29.3 |
 | YHTR | 235 | +309.2 | +327.5 | +27.9 |
 | Fortis Fortuna Adiuvat | 237 | +301.8 | +310.8 | +27.2 |
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-04 | Epochal Esports | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -58.5 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka, sensh |
-| 2026-09-02 | DUMBO | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -23.5 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka, toshiiiro |
+| 2026-09-02 | DUMBO | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -23.6 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka, toshiiiro |
 | 2026-08-28 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -50.0 | Ketster, Tek, b1ess3d_, getrektyshka, sensh |
 | 2026-08-21 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +10.7 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 | 2026-08-19 | on disability | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.03 | 0.82 | +71.3 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |

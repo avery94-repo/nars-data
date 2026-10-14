@@ -3,11 +3,11 @@ Team Name: Kushtaka
 Roster: JoNeSY, Nat3G, Kiki76, asmodeus, l0vely
 NARS Rank: 478 of 506
 
-Final Rating: 757.6
+Final Rating: 757.5
 Seeded Start: 1121.3
-H2H Adjustment: -363.7
+H2H Adjustment: -363.8 (capped at +-300, raw -363.7)
 
-Final Rating (757.6) = Seeded Start (1121.3) + H2H Adjustment (-363.7)
+Final Rating (757.5) = Seeded Start (1121.3) + H2H Adjustment (-363.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.015 | 1121.3 | - |
 | +30 days | 0.005 | 1107.5 | -13.8 |
-| +60 days | 0.003 | 1104.0 | -17.3 |
+| +60 days | 0.003 | 1104.0 | -17.2 |
 | +90 days | 0.000 | 1100.1 | -21.2 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.019 vs 0.109 average, gap -0.090). Matching that average is worth about 31.5 seed points.
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Brick Layers | 477 | 764.2 | +6.6 | +164.4 |
-| Sleepers | 476 | 776.3 | +18.7 | +168.2 |
-| Iron Horse | 475 | 780.1 | +22.5 | +169.4 |
-| Another Day in Paradise | 474 | 780.3 | +22.7 | +169.5 |
-| AML | 473 | 793.6 | +36.0 | +174.9 |
+| Brick Layers | 477 | 764.1 | +6.6 | +164.4 |
+| Sleepers | 476 | 776.2 | +18.7 | +168.2 |
+| Iron Horse | 475 | 779.9 | +22.4 | +169.4 |
+| Another Day in Paradise | 474 | 780.1 | +22.6 | +169.5 |
+| AML | 473 | 793.6 | +36.1 | +174.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Zamgaa Anime Aimers | 378 | +346.5 | +314.9 | +32.6 |
-| Costco Family | 382 | +344.9 | +316.8 | +32.4 |
+| Costco Family | 382 | +345.0 | +316.8 | +32.4 |
 | We Play Naked | 380 | +345.7 | +333.9 | +32.0 |
-| Texas Orange | 383 | +339.9 | +317.2 | +31.9 |
-| Exnitas | 385 | +335.6 | +302.6 | +31.7 |
-| Goyim Gladiators | 379 | +346.3 | +346.5 | +31.6 |
-| Kahoot Squad | 388 | +325.0 | +304.9 | +30.5 |
-| Flow Esports | 387 | +326.0 | +319.6 | +29.9 |
+| Texas Orange | 383 | +340.0 | +317.2 | +31.9 |
+| Exnitas | 385 | +335.7 | +302.6 | +31.7 |
+| Goyim Gladiators | 379 | +346.4 | +346.5 | +31.6 |
+| Kahoot Squad | 388 | +325.1 | +305.0 | +30.5 |
+| Flow Esports | 387 | +326.1 | +319.6 | +29.9 |
 | MXA | 386 | +333.2 | +282.4 | +27.8 |
-| Benadryl Abusers | 396 | +303.6 | +299.2 | +27.2 |
+| Benadryl Abusers | 396 | +303.7 | +299.1 | +27.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -78,10 +78,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | AURA Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -34.2 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 | 2026-05-27 | de_throne | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -31.6 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 | 2026-05-22 | offBalance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -343.0 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
-| 2026-05-13 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +394.8 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
-| 2026-05-08 | Aetheris | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -375.4 | JoNeSY, Kiki76, Suki_Noski, asmodeus, l0vely |
-| 2026-05-06 | Hack-A-Shaq | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +299.2 | JoNeSY, Kiki76, Suki_Noski, asmodeus, l0vely |
-| 2026-05-01 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -230.7 | JoNeSY, Nat3G, Suki_Noski, asmodeus, l0vely |
+| 2026-05-13 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +394.9 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
+| 2026-05-08 | Aetheris | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -375.5 | JoNeSY, Kiki76, Suki_Noski, asmodeus, l0vely |
+| 2026-05-06 | Hack-A-Shaq | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +299.3 | JoNeSY, Kiki76, Suki_Noski, asmodeus, l0vely |
+| 2026-05-01 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -230.8 | JoNeSY, Nat3G, Suki_Noski, asmodeus, l0vely |
 | 2026-04-29 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -10.4 | JoNeSY, Nat3G, Suki_Noski, asmodeus, l0vely |
 | 2026-04-24 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -30.6 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 

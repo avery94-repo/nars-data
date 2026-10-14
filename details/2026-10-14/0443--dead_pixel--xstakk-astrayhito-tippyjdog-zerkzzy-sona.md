@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.089 | 1223.9 | - |
-| +30 days | 0.072 | 1201.1 | -22.9 |
+| +30 days | 0.072 | 1201.0 | -22.9 |
 | +60 days | 0.057 | 1179.2 | -44.7 |
 | +90 days | 0.042 | 1159.4 | -64.6 |
 
@@ -39,9 +39,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Hack-A-Shaq | 442 | 928.1 | +4.9 | +82.6 |
-| Emerald Isle | 441 | 928.2 | +5.0 | +82.6 |
-| After Hours | 440 | 931.5 | +8.3 | +83.1 |
+| Hack-A-Shaq | 442 | 928.0 | +4.8 | +82.6 |
+| Emerald Isle | 441 | 928.1 | +4.9 | +82.6 |
+| After Hours | 440 | 931.4 | +8.2 | +83.2 |
 | Big Kahuna Gaming | 439 | 931.8 | +8.6 | +83.2 |
 | NADIYA | 438 | 933.2 | +10.0 | +83.4 |
 
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NATIONAL CS UNI | 301 | +342.9 | +156.3 | +15.5 |
+| NATIONAL CS UNI | 301 | +342.8 | +156.4 | +15.6 |
 | Mud Wizards | 298 | +346.8 | +174.8 | +15.4 |
-| DingTone | 302 | +340.6 | +161.6 | +15.2 |
+| DingTone | 302 | +340.6 | +161.7 | +15.2 |
 | Guangzhou Loong Lions | 304 | +336.7 | +156.5 | +15.1 |
 | Team Nyx | 307 | +330.0 | +153.9 | +15.0 |
 | TELETUBEASTS | 303 | +340.0 | +173.9 | +14.9 |
 | fiveB | 318 | +315.3 | +151.3 | +14.3 |
-| Team TahMeow | 321 | +312.6 | +151.2 | +14.1 |
-| NetanYAHOO | 323 | +304.1 | +168.8 | +13.5 |
-| innerFire | 325 | +301.1 | +142.6 | +13.3 |
+| Team TahMeow | 321 | +312.5 | +151.2 | +14.1 |
+| NetanYAHOO | 323 | +304.1 | +168.9 | +13.5 |
+| innerFire | 325 | +301.0 | +142.7 | +13.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +263.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +263.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.0).
 
@@ -75,9 +75,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | The ESEA Clout Tokens | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -42.1 | AstrayHito, CharlesUU, LiamJOB, Zerkzzy, tippyjdog |
-| 2026-10-07 | Eightball | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -14.2 | CharlesUU, LiamJOB, Zerkzzy, tippyjdog, xstakk |
+| 2026-10-07 | Eightball | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -14.1 | CharlesUU, LiamJOB, Zerkzzy, tippyjdog, xstakk |
 | 2026-09-17 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -15.5 | AstrayHito, Doggzofwar, Zerkzzy, sonar, tippyjdog |
-| 2026-08-28 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -110.3 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
+| 2026-08-28 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -110.4 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
 | 2026-08-26 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -0.1 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
 | 2026-08-21 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -89.8 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
 | 2026-08-14 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -78.7 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
@@ -88,8 +88,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.03 | 0.68 | +72.1 | AstrayHito, CharlesUU, Zerkzzy, iCEcREAMkILL, sonar |
 | 2026-07-24 | Climbers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -174.0 | AstrayHito, Zerkzzy, gnuhc, iCEcREAMkILL, sonar |
 | 2026-07-22 | on disability | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -379.9 | AstrayHito, Doggzofwar, Zerkzzy, iCEcREAMkILL, sonar |
-| 2026-06-12 | Real Ones | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.37 | +229.2 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
-| 2026-06-05 | Aim to Loose | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -286.6 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
+| 2026-06-12 | Real Ones | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.37 | +229.3 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
+| 2026-06-05 | Aim to Loose | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -286.7 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
 | 2026-05-29 | Team Dainyko | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +171.8 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
 | 2026-05-27 | Brainsmash | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +163.9 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
 

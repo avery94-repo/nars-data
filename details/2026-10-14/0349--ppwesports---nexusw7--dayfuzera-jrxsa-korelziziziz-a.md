@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Will of Dih | 348 | 1181.1 | +1.4 | +56.2 |
-| Distinguished Ducks | 347 | 1184.6 | +4.9 | +56.4 |
-| The Jits | 346 | 1185.2 | +5.5 | +56.2 |
+| Distinguished Ducks | 347 | 1184.5 | +4.8 | +56.5 |
+| The Jits | 346 | 1185.2 | +5.5 | +56.3 |
 | Florida Man | 345 | 1186.2 | +6.5 | +67.2 |
-| Onsite has Oil | 344 | 1191.0 | +11.3 | +56.9 |
+| Onsite has Oil | 344 | 1191.0 | +11.3 | +57.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Firstwave | 175 | +347.3 | +103.8 | +10.6 |
-| APEX | 176 | +342.2 | +107.3 | +10.4 |
-| GOOZPEEK | 182 | +333.4 | +110.2 | +10.2 |
-| LAF | 183 | +331.6 | +104.5 | +10.2 |
-| KIS | 185 | +326.9 | +97.9 | +10.0 |
-| Shadow Wizard Money Gang | 180 | +336.2 | +126.5 | +10.0 |
-| Alternate Earth | 186 | +324.3 | +119.1 | +9.8 |
-| Lynnsanity | 189 | +320.3 | +111.7 | +9.8 |
-| No Leaders Please | 190 | +319.7 | +111.7 | +9.8 |
-| UncsStillGotIt | 191 | +319.6 | +118.3 | +9.7 |
+| Firstwave | 175 | +347.3 | +103.9 | +10.6 |
+| APEX | 176 | +342.2 | +107.5 | +10.4 |
+| GOOZPEEK | 182 | +333.4 | +110.4 | +10.2 |
+| LAF | 183 | +331.6 | +104.7 | +10.2 |
+| KIS | 185 | +327.0 | +98.1 | +10.0 |
+| Shadow Wizard Money Gang | 180 | +336.2 | +126.7 | +10.0 |
+| Alternate Earth | 186 | +324.3 | +119.2 | +9.8 |
+| Lynnsanity | 189 | +320.3 | +111.9 | +9.8 |
+| No Leaders Please | 190 | +319.7 | +111.8 | +9.8 |
+| UncsStillGotIt | 191 | +319.6 | +118.5 | +9.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +169.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +169.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.4).
 

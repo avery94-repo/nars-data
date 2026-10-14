@@ -40,8 +40,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | TELETUBEASTS | 303 | 1263.2 | +3.3 | +123.9 |
-| DingTone | 302 | 1263.8 | +3.9 | +120.5 |
-| NATIONAL CS UNI | 301 | 1266.1 | +6.2 | +119.3 |
+| DingTone | 302 | 1263.8 | +3.9 | +120.6 |
+| NATIONAL CS UNI | 301 | 1266.0 | +6.1 | +119.3 |
 | RAZED | 300 | 1269.0 | +9.1 | +112.4 |
 | Diamond Mental | 299 | 1269.9 | +10.0 | +112.7 |
 
@@ -51,16 +51,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | Team Amplus | 145 | +334.3 | +224.5 | +20.6 |
 | Kevin James Fan Club | 148 | +321.0 | +213.2 | +19.9 |
-| Biggie Cheese Fan Club | 151 | +316.7 | +193.2 | +19.6 |
+| Biggie Cheese Fan Club | 151 | +316.7 | +193.3 | +19.6 |
 | WhiteBoyWinter | 155 | +306.8 | +200.8 | +18.8 |
 | offBalance | 165 | +282.4 | +196.9 | +16.1 |
-| Order Zero | 156 | +304.8 | +179.3 | +15.6 |
-| Pug Palace | 167 | +275.9 | +199.7 | +15.2 |
-| Oath | 142 | +342.3 | +187.5 | +14.9 |
-| BucketJonsBoys | 172 | +273.2 | +190.7 | +14.9 |
+| Order Zero | 156 | +304.9 | +179.4 | +15.6 |
+| Pug Palace | 167 | +275.9 | +199.8 | +15.2 |
+| Oath | 142 | +342.3 | +187.6 | +14.9 |
+| BucketJonsBoys | 172 | +273.1 | +190.7 | +14.9 |
 | Shaboing Boing Bandits | 173 | +270.7 | +207.4 | +14.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +380.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +381.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.4).
 
@@ -77,7 +77,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | LUMA | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.07 | 1.06 | +221.2 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
 | 2026-09-04 | UncsStillGotIt | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -129.2 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
 | 2026-09-02 | SSP | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.04 | 1.01 | +262.9 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
-| 2026-06-03 | Puddle Pirates | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -205.2 | RichMoney45, _Ericcc_, _real, bubbIes, hayden1 |
+| 2026-06-03 | Puddle Pirates | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -205.3 | RichMoney45, _Ericcc_, _real, bubbIes, hayden1 |
 | 2026-05-29 | Sound of Arthritis | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -156.1 | RichMoney45, _Ericcc_, _real, bubbIes, hayden1 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

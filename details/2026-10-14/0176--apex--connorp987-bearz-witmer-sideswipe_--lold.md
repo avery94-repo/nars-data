@@ -42,8 +42,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Firstwave | 175 | 1527.0 | +5.1 | +113.2 |
 | Armored Talent | 174 | 1529.8 | +7.9 | +120.1 |
 | Shaboing Boing Bandits | 173 | 1530.6 | +8.7 | +119.0 |
-| BucketJonsBoys | 172 | 1533.1 | +11.2 | +114.4 |
-| Abusement Park | 171 | 1533.8 | +11.9 | +111.8 |
+| BucketJonsBoys | 172 | 1533.0 | +11.1 | +114.4 |
+| Abusement Park | 171 | 1533.7 | +11.8 | +111.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -52,15 +52,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Omen Esports | 57 | +335.9 | +235.6 | +18.9 |
 | flat earth | 64 | +304.6 | +208.6 | +17.9 |
 | Endless Esports | 65 | +304.1 | +210.4 | +17.8 |
-| DUMBO | 63 | +305.2 | +231.2 | +17.3 |
-| WhalersOnDaMoon | 66 | +299.9 | +213.1 | +16.8 |
+| DUMBO | 63 | +305.2 | +231.3 | +17.3 |
+| WhalersOnDaMoon | 66 | +300.0 | +213.1 | +16.8 |
 | NZ Gaming | 69 | +291.3 | +191.8 | +16.4 |
-| Sharp | 54 | +345.9 | +228.0 | +15.1 |
+| Sharp | 54 | +345.9 | +228.1 | +15.1 |
 | F5 Esports | 60 | +313.4 | +220.7 | +14.2 |
-| Evade Gaming | 55 | +343.1 | +178.9 | +14.1 |
+| Evade Gaming | 55 | +343.2 | +178.9 | +14.1 |
 | GeneticDiff | 70 | +271.0 | +193.2 | +13.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +359.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +359.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -76,6 +76,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | NKBasketWeavers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.03 | 0.98 | +87.1 | BearZ, ConnorP987, Dry-Eye, LOLDFOX, witmer |
 | 2026-09-06 | Boomhogs 2 | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.04 | 0.96 | +86.1 | BearZ, ConnorP987, Dry-Eye, LOLDFOX, witmer |
 | 2026-09-04 | Noble | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +93.6 | BearZ, ConnorP987, LOLDFOX, sideSWIPE_-, witmer |
-| 2026-09-02 | Bad Jawn | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.00 | 0.00 | -144.0 | BearZ, ConnorP987, LOLDFOX, sideSWIPE_-, witmer |
+| 2026-09-02 | Bad Jawn | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.00 | 0.00 | -144.1 | BearZ, ConnorP987, LOLDFOX, sideSWIPE_-, witmer |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

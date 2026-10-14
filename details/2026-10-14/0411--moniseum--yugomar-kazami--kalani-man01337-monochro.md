@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: Moniseum
 Roster: Yugomar, Kazami-, kalani, man01337, Monochrome
-NARS Rank: 412 of 506
+NARS Rank: 411 of 506
 
 Final Rating: 1036.4
 Seeded Start: 1251.4
@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.108 | 1251.4 | - |
 | +30 days | 0.088 | 1223.3 | -28.1 |
 | +60 days | 0.071 | 1199.4 | -52.0 |
-| +90 days | 0.045 | 1163.5 | -87.9 |
+| +90 days | 0.045 | 1163.4 | -87.9 |
 
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.021 vs 0.009 average, gap +0.012). Matching that average is worth about 0.0 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.073 vs 0.071 average, gap +0.002). Matching that average is worth about 0.0 seed points.
 
 - Tier Exposure drivers: S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.93; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs B (2026-05-29) 0.28
 - Quality Wins drivers: beat 69 at S58 NA Intermediate A - Regular Season (2026-08-19) 0.07; beat Mace Lindu Ruff Rebound at S58 NA Intermediate A - Regular Season (2026-08-26) 0.06; beat Ubiquiti at S58 NA Intermediate A - Regular Season (2026-07-31) 0.06
@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Duality Zero | 411 | 1036.4 | +0.0 | +162.3 |
-| STIM | 410 | 1036.9 | +0.5 | +162.4 |
+| STIM | 410 | 1036.9 | +0.5 | +162.5 |
 | Team Hyper | 409 | 1037.3 | +0.9 | +174.6 |
 | PSDN White | 408 | 1040.3 | +3.9 | +163.5 |
-| VeryBigDoogoos | 407 | 1043.8 | +7.4 | +164.6 |
+| VeryBigDoogoos | 407 | 1043.7 | +7.3 | +164.6 |
+| Ubiquiti | 406 | 1043.7 | +7.3 | +166.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -57,8 +57,8 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | THE GUILD | 264 | +322.6 | +299.4 | +30.3 |
 | Kinetic | 260 | +327.8 | +342.3 | +29.9 |
 | DadDick Esports | 261 | +326.0 | +336.2 | +29.9 |
-| Wiggle Peeks | 265 | +320.4 | +318.7 | +29.6 |
-| ASCEND | 263 | +323.7 | +322.8 | +29.5 |
+| Wiggle Peeks | 265 | +320.3 | +318.6 | +29.6 |
+| ASCEND | 263 | +323.6 | +322.8 | +29.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -88,8 +88,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -236.0 | Monochrome, Yugomar, h4mmus, kalani, man01337 |
 | 2026-07-22 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -356.5 | Kazami-, Monochrome, Raider, Yugomar, kalani |
 | 2026-07-17 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +3.1 | Kazami-, Monochrome, Raider, Yugomar, kalani |
-| 2026-07-15 | Sound of Arthritis | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +224.0 | JOHN0, Kazami-, Monochrome, Yugomar, kalani |
-| 2026-05-29 | The Clubhouse | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +158.1 | Calowed, JOHN0, Kazami-, Monochrome, Yugomar, bard- |
-| 2026-05-27 | Duality Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +166.3 | Calowed, Kazami-, Monochrome, Yugomar, bard- |
+| 2026-07-15 | Sound of Arthritis | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +224.1 | JOHN0, Kazami-, Monochrome, Yugomar, kalani |
+| 2026-05-29 | The Clubhouse | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +158.2 | Calowed, JOHN0, Kazami-, Monochrome, Yugomar, bard- |
+| 2026-05-27 | Duality Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +166.4 | Calowed, Kazami-, Monochrome, Yugomar, bard- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

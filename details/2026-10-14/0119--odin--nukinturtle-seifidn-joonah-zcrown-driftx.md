@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Akatsuki | 118 | 1647.6 | +0.5 | +75.2 |
+| Akatsuki | 118 | 1647.6 | +0.5 | +75.3 |
 | Elation | 117 | 1652.7 | +5.6 | +76.0 |
 | Read You Like a Kindle | 116 | 1654.7 | +7.6 | +88.8 |
 | DKR Esports | 115 | 1655.5 | +8.4 | +77.6 |
@@ -50,17 +50,17 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Holly Molly | 35 | +341.3 | +149.0 | +14.1 |
-| unreal nightmare | 37 | +329.5 | +143.2 | +13.9 |
+| unreal nightmare | 37 | +329.5 | +143.3 | +13.9 |
 | EMPIRE | 36 | +336.5 | +170.7 | +13.8 |
-| North Forge | 38 | +324.1 | +181.5 | +13.2 |
+| North Forge | 38 | +324.1 | +181.6 | +13.2 |
 | ZETTA | 39 | +322.9 | +149.4 | +11.4 |
-| Wanted Goons | 43 | +286.0 | +171.8 | +11.3 |
-| Xiaoma Gaming | 46 | +264.3 | +153.5 | +9.3 |
-| Swole Patrol | 45 | +267.2 | +115.1 | +9.2 |
-| Zealous | 42 | +294.5 | +118.2 | +8.3 |
-| FLOW STATE | 47 | +250.3 | +143.6 | +7.7 |
+| Wanted Goons | 43 | +286.0 | +171.9 | +11.3 |
+| Xiaoma Gaming | 46 | +264.4 | +153.6 | +9.3 |
+| Swole Patrol | 45 | +267.3 | +115.2 | +9.2 |
+| Zealous | 42 | +294.6 | +118.3 | +8.3 |
+| FLOW STATE | 47 | +250.3 | +143.7 | +7.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +238.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +238.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), Solbound (+0.0).
 

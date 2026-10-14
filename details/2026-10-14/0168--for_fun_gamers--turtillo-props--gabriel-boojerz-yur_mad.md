@@ -41,26 +41,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Pug Palace | 167 | 1535.8 | +0.4 | +126.2 |
 | Wuff Widas | 166 | 1539.6 | +4.2 | +123.0 |
-| offBalance | 165 | 1542.3 | +6.9 | +126.6 |
-| SquishysAngels | 164 | 1543.5 | +8.1 | +119.3 |
-| Team Auspex | 163 | 1544.2 | +8.8 | +120.5 |
+| offBalance | 165 | 1542.3 | +6.9 | +126.7 |
+| SquishysAngels | 164 | 1543.5 | +8.1 | +119.4 |
+| Team Auspex | 163 | 1544.2 | +8.8 | +120.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| TheMotherLovers | 53 | +342.5 | +245.6 | +22.3 |
-| Phantom Sense | 51 | +348.3 | +291.3 | +21.6 |
-| Omen Esports | 57 | +322.4 | +257.4 | +20.3 |
-| flat earth | 64 | +291.1 | +227.7 | +18.6 |
-| Endless Esports | 65 | +290.6 | +229.6 | +18.4 |
-| GG | 52 | +346.0 | +201.3 | +18.0 |
-| DUMBO | 63 | +291.7 | +251.4 | +17.9 |
-| WhalersOnDaMoon | 66 | +286.4 | +232.2 | +17.2 |
-| NZ Gaming | 69 | +277.8 | +209.7 | +16.5 |
-| Sharp | 54 | +332.4 | +249.8 | +16.2 |
+| TheMotherLovers | 53 | +342.6 | +245.8 | +22.3 |
+| Phantom Sense | 51 | +348.4 | +291.6 | +21.6 |
+| Omen Esports | 57 | +322.4 | +257.6 | +20.3 |
+| flat earth | 64 | +291.1 | +227.9 | +18.6 |
+| Endless Esports | 65 | +290.6 | +229.8 | +18.4 |
+| GG | 52 | +346.1 | +201.5 | +18.0 |
+| DUMBO | 63 | +291.7 | +251.6 | +17.9 |
+| WhalersOnDaMoon | 66 | +286.5 | +232.4 | +17.2 |
+| NZ Gaming | 69 | +277.8 | +209.9 | +16.6 |
+| Sharp | 54 | +332.4 | +250.0 | +16.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +411.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +412.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 

@@ -5,7 +5,7 @@ NARS Rank: 143 of 506
 
 Final Rating: 1598.2
 Seeded Start: 1212.5
-H2H Adjustment: +385.7 (capped at +-300, raw +385.6)
+H2H Adjustment: +385.7
 
 Final Rating (1598.2) = Seeded Start (1212.5) + H2H Adjustment (+385.7)
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Oath | 142 | 1602.2 | +4.0 | +117.6 |
+| Oath | 142 | 1602.2 | +4.0 | +117.7 |
 | US Navy Esports | 141 | 1605.0 | +6.8 | +118.3 |
-| crescent | 140 | 1608.4 | +10.2 | +122.0 |
-| Kaos | 139 | 1610.8 | +12.6 | +123.0 |
-| SquadUp | 138 | 1613.8 | +15.6 | +120.2 |
+| crescent | 140 | 1608.4 | +10.2 | +122.1 |
+| Kaos | 139 | 1610.8 | +12.6 | +123.1 |
+| SquadUp | 138 | 1613.8 | +15.6 | +120.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Wanted Goons | 43 | +334.9 | +286.9 | +21.0 |
-| Swole Patrol | 45 | +316.1 | +194.0 | +20.5 |
-| Xiaoma Gaming | 46 | +313.2 | +256.2 | +19.8 |
-| FLOW STATE | 47 | +299.2 | +239.8 | +18.8 |
-| No Future Lifes Over | 50 | +288.9 | +217.4 | +17.9 |
-| DESPAIR | 49 | +290.5 | +217.8 | +17.8 |
-| Zealous | 42 | +343.4 | +199.3 | +17.3 |
-| Phantom Sense | 51 | +285.5 | +260.6 | +17.3 |
-| TheMotherLovers | 53 | +279.7 | +222.3 | +16.7 |
-| Locally Hated | 41 | +348.3 | +252.2 | +15.0 |
+| Wanted Goons | 43 | +334.9 | +287.2 | +21.0 |
+| Swole Patrol | 45 | +316.2 | +194.2 | +20.6 |
+| Xiaoma Gaming | 46 | +313.3 | +256.4 | +19.8 |
+| FLOW STATE | 47 | +299.2 | +240.0 | +18.8 |
+| No Future Lifes Over | 50 | +289.0 | +217.6 | +17.9 |
+| DESPAIR | 49 | +290.5 | +217.9 | +17.8 |
+| Zealous | 42 | +343.5 | +199.6 | +17.4 |
+| Phantom Sense | 51 | +285.6 | +260.8 | +17.3 |
+| TheMotherLovers | 53 | +279.8 | +222.5 | +16.7 |
+| Locally Hated | 41 | +348.4 | +252.3 | +15.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +408.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +408.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 

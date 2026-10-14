@@ -3,17 +3,17 @@ Team Name: Schadenfreude
 Roster: HappE, Ancros, jss666, GrandpaDave, blake704
 NARS Rank: 447 of 506
 
-Final Rating: 909.4
-Seeded Start: 1232.3
+Final Rating: 909.3
+Seeded Start: 1232.2
 H2H Adjustment: -322.9
 
-Final Rating (909.4) = Seeded Start (1232.3) + H2H Adjustment (-322.9)
+Final Rating (909.3) = Seeded Start (1232.2) + H2H Adjustment (-322.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.094 x 1400 = 1232.3
+                = 1100 + 0.094 x 1400 = 1232.2
 
-seed_factor 0.094 = 0.25 x Tier Exposure (0.050) + 0.50 x Quality Wins (0.019) + 0.25 x Opponent Network (0.291)
+seed_factor 0.094 = 0.25 x Tier Exposure (0.050) + 0.50 x Quality Wins (0.019) + 0.25 x Opponent Network (0.290)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.094 | 1232.3 | - |
-| +30 days | 0.072 | 1200.6 | -31.7 |
+| Now | 0.094 | 1232.2 | - |
+| +30 days | 0.072 | 1200.6 | -31.6 |
 | +60 days | 0.061 | 1184.7 | -47.5 |
-| +90 days | 0.041 | 1157.8 | -74.5 |
+| +90 days | 0.041 | 1157.7 | -74.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.050 vs 0.065 average, gap -0.015). Matching that average is worth about 5.3 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| It Doesnt Matter | 446 | 909.5 | +0.1 | +167.1 |
-| wabbit2 | 445 | 912.5 | +3.1 | +163.3 |
-| Vexation Esports | 444 | 914.0 | +4.6 | +163.8 |
-| Dead Pixel | 443 | 923.2 | +13.8 | +177.4 |
-| Hack-A-Shaq | 442 | 928.1 | +18.7 | +168.2 |
+| It Doesnt Matter | 446 | 909.4 | +0.1 | +167.1 |
+| wabbit2 | 445 | 912.5 | +3.2 | +163.3 |
+| Vexation Esports | 444 | 914.0 | +4.7 | +163.8 |
+| Dead Pixel | 443 | 923.2 | +13.9 | +177.4 |
+| Hack-A-Shaq | 442 | 928.0 | +18.7 | +168.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Nyx | 307 | +343.8 | +322.6 | +32.1 |
-| fiveB | 318 | +329.1 | +315.6 | +30.8 |
+| Team Nyx | 307 | +343.9 | +322.6 | +32.1 |
+| fiveB | 318 | +329.2 | +315.6 | +30.8 |
 | Team TahMeow | 321 | +326.4 | +315.0 | +30.5 |
 | innerFire | 325 | +314.9 | +297.9 | +29.3 |
-| Transcended | 326 | +313.9 | +299.0 | +29.1 |
-| Asian Invasion | 308 | +341.3 | +285.5 | +28.9 |
+| Transcended | 326 | +314.0 | +299.1 | +29.2 |
+| Asian Invasion | 308 | +341.4 | +285.5 | +28.9 |
 | Once Divine Gaming | 315 | +330.4 | +281.4 | +28.7 |
-| Double Dink | 329 | +311.2 | +282.0 | +28.6 |
-| NetanYAHOO | 323 | +317.9 | +345.4 | +28.6 |
-| PogSquad | 327 | +313.1 | +332.6 | +28.3 |
+| Double Dink | 329 | +311.3 | +282.0 | +28.6 |
+| NetanYAHOO | 323 | +318.0 | +345.4 | +28.6 |
+| PogSquad | 327 | +313.2 | +332.6 | +28.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -78,11 +78,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-28 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -67.4 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-08-26 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -82.1 | Ancros, GrandpaDave, HappE, blake704, jss666 |
-| 2026-08-21 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.09 | 0.85 | +109.2 | Ancros, GrandpaDave, HappE, blake704, jss666 |
+| 2026-08-21 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.09 | 0.85 | +109.3 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-08-19 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -110.4 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-08-14 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -145.2 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-08-12 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.06 | 0.79 | +135.5 | Ancros, GrandpaDave, HappE, blake704, jss666 |
-| 2026-08-07 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.03 | 0.76 | +34.4 | Ancros, GrandpaDave, HappE, blake704, jss666 |
+| 2026-08-07 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.03 | 0.76 | +34.3 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-08-05 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +56.1 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-07-30 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -17.3 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-07-29 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.03 | 0.70 | +4.1 | Ancros, GrandpaDave, HappE, blake704, jss666 |
@@ -91,14 +91,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Quality | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -15.3 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-07-15 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -0.7 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-05-31 | Emerald Isle | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.00 | 0.00 | -75.9 | Ancros, Doinks_s, GrandpaDave, RanglerGuy, blake704, jss666 |
-| 2026-05-27 | Square1 | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -279.4 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
-| 2026-05-22 | Friendly Fire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -116.2 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
-| 2026-05-20 | Wide Swinging Wizards | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.22 | +323.3 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
-| 2026-05-15 | RejexEsports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +369.7 | Ancros, GrandpaDave, HappE, blake704, jss666 |
+| 2026-05-27 | Square1 | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -279.5 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
+| 2026-05-22 | Friendly Fire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -116.3 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
+| 2026-05-20 | Wide Swinging Wizards | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.22 | +323.4 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
+| 2026-05-15 | RejexEsports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +369.8 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-05-13 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -0.3 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
-| 2026-05-08 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -309.8 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
+| 2026-05-08 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -309.9 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-05-06 | Brick Layers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +77.4 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
-| 2026-04-29 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -392.8 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
+| 2026-04-29 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -392.9 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-04-24 | HammerHeads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +192.6 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-04-22 | STFDYSAB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +297.1 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 

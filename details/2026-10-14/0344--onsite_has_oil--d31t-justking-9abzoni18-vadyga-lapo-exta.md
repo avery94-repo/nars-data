@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | T Shirt Material | 343 | 1191.6 | +0.6 | +162.5 |
 | Wide Swinging Wizards | 342 | 1191.6 | +0.6 | +162.5 |
-| MadaNASCAR | 341 | 1195.3 | +4.3 | +172.5 |
+| MadaNASCAR | 341 | 1195.2 | +4.2 | +172.5 |
 | Boop Boop Gang | 340 | 1195.6 | +4.6 | +168.7 |
 | Kennesaw State Gold 2025 | 339 | 1195.9 | +4.9 | +163.8 |
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| BucketJonsBoys | 172 | +342.1 | +315.9 | +32.1 |
+| BucketJonsBoys | 172 | +342.0 | +315.8 | +32.1 |
 | Pug Palace | 167 | +344.8 | +330.8 | +31.8 |
-| Firstwave | 175 | +336.0 | +314.6 | +31.5 |
+| Firstwave | 175 | +336.0 | +314.5 | +31.5 |
 | Shaboing Boing Bandits | 173 | +339.6 | +343.4 | +31.1 |
 | APEX | 176 | +330.9 | +322.4 | +30.8 |
-| Armored Talent | 174 | +338.8 | +351.3 | +30.8 |
+| Armored Talent | 174 | +338.8 | +351.2 | +30.8 |
 | LAF | 183 | +320.3 | +313.1 | +29.8 |
-| GOOZPEEK | 182 | +322.1 | +327.5 | +29.6 |
-| KIS | 185 | +315.6 | +296.0 | +29.4 |
-| Shadow Wizard Money Gang | 180 | +324.9 | +368.2 | +28.7 |
+| GOOZPEEK | 182 | +322.1 | +327.4 | +29.6 |
+| KIS | 185 | +315.7 | +296.0 | +29.4 |
+| Shadow Wizard Money Gang | 180 | +324.9 | +368.1 | +28.7 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -75,12 +75,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | EZ2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +277.3 | 9abzoni18, JustKing, VadYga, flatline7, lapo-extazzy |
+| 2026-05-22 | EZ2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +277.4 | 9abzoni18, JustKing, VadYga, flatline7, lapo-extazzy |
 | 2026-05-20 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -124.9 | 9abzoni18, JustKing, VadYga, d31t, lapo-extazzy |
-| 2026-05-14 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -172.5 | 9abzoni18, IIlIllIlIIll, JustKing, d31t, lapo-extazzy |
+| 2026-05-14 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -172.6 | 9abzoni18, IIlIllIlIIll, JustKing, d31t, lapo-extazzy |
 | 2026-05-13 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +7.9 | 9abzoni18, JustKing, VadYga, d31t, lapo-extazzy |
 | 2026-05-08 | Gambling and Young | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +47.8 | 9abzoni18, JustKing, VadYga, d31t, lapo-extazzy |
-| 2026-05-06 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +271.2 | JustKing, VadYga, d31t, juzn1k999, lapo-extazzy |
+| 2026-05-06 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +271.3 | JustKing, VadYga, d31t, juzn1k999, lapo-extazzy |
 | 2026-04-22 | High T Low E | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -235.6 | JustKing, VadYga, d31t, juzn1k999, lapo-extazzy |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

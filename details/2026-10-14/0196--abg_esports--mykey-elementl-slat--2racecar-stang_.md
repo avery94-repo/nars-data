@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.201 | 1381.6 | - |
 | +30 days | 0.187 | 1361.7 | -19.9 |
 | +60 days | 0.173 | 1342.7 | -38.9 |
-| +90 days | 0.152 | 1312.2 | -69.3 |
+| +90 days | 0.152 | 1312.2 | -69.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.059 vs 0.028 average, gap +0.031). Matching that average is worth about 0.0 seed points.
 
@@ -39,10 +39,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| ClanAgain | 195 | 1493.3 | +4.6 | +89.8 |
+| ClanAgain | 195 | 1493.3 | +4.6 | +89.9 |
 | MEET THE WALL | 194 | 1497.0 | +8.3 | +88.0 |
-| 91AshLiu | 193 | 1497.0 | +8.3 | +85.9 |
-| teamington | 192 | 1498.1 | +9.4 | +93.1 |
+| 91AshLiu | 193 | 1497.1 | +8.4 | +85.9 |
+| teamington | 192 | 1498.0 | +9.3 | +93.1 |
 | UncsStillGotIt | 191 | 1499.3 | +10.6 | +100.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -51,13 +51,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | flat earth | 64 | +337.8 | +173.7 | +16.0 |
 | Endless Esports | 65 | +337.3 | +175.3 | +15.9 |
-| NZ Gaming | 69 | +324.5 | +159.3 | +15.3 |
+| NZ Gaming | 69 | +324.5 | +159.4 | +15.3 |
 | DUMBO | 63 | +338.4 | +193.9 | +15.3 |
-| WhalersOnDaMoon | 66 | +333.1 | +178.0 | +15.2 |
+| WhalersOnDaMoon | 66 | +333.2 | +178.0 | +15.2 |
 | GeneticDiff | 70 | +304.2 | +161.7 | +14.1 |
 | fih hou | 73 | +297.0 | +168.3 | +13.5 |
 | Asoka | 74 | +294.6 | +150.7 | +13.3 |
-| Club 333 | 76 | +293.5 | +182.4 | +13.2 |
+| Club 333 | 76 | +293.6 | +182.4 | +13.2 |
 | Kairo | 79 | +290.2 | +148.1 | +13.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +274.2 points at current ratings.
@@ -82,18 +82,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | The Ohio Meat Wagon | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.08 | 0.92 | +40.4 | 2RACECAR, Dwizzy, EleMentL, Stang_, mykey, slat- |
 | 2026-08-26 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -43.0 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-08-21 | Mach 5 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +47.8 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
-| 2026-08-19 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.11 | 0.82 | +118.4 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
+| 2026-08-19 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.11 | 0.82 | +118.5 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-08-14 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -149.5 | 2RACECAR, Dwizzy, EleMentL, mykey, slat- |
 | 2026-08-12 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.08 | 0.78 | +8.2 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-08-07 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.11 | 0.00 | +127.2 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
-| 2026-08-05 | DeathMark E-Sports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -129.1 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
+| 2026-08-05 | DeathMark E-Sports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -129.2 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-08-03 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -124.5 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-07-29 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.07 | 0.68 | +95.3 | 2RACECAR, Stang_, mykey, r0nni3h4ck3r, slat- |
 | 2026-07-24 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.08 | 0.65 | +11.6 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-07-22 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -318.3 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
-| 2026-07-15 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +3.8 | 2RACECAR, EleMentL, Stang_, brooks, mykey, slat- |
+| 2026-07-15 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +3.7 | 2RACECAR, EleMentL, Stang_, brooks, mykey, slat- |
 | 2026-06-05 | Boop Boop Gang | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.32 | +182.3 | 2RACECAR, Stang_, alannn-, mykey, slat- |
-| 2026-05-29 | PSDN White | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +154.5 | 2RACECAR, EleMentL, Stang_, alannn-, slat- |
-| 2026-05-27 | We Have No Enemies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +84.0 | 2RACECAR, Stang_, alannn-, mykey, slat- |
+| 2026-05-29 | PSDN White | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +154.6 | 2RACECAR, EleMentL, Stang_, alannn-, slat- |
+| 2026-05-27 | We Have No Enemies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +84.1 | 2RACECAR, Stang_, alannn-, mykey, slat- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

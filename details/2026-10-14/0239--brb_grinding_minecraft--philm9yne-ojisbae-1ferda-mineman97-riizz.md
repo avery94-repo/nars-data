@@ -51,16 +51,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | Fire Nation | 90 | +344.2 | +137.3 | +13.7 |
 | Fathom Gaming | 91 | +339.8 | +134.2 | +13.7 |
-| Overtake Sector | 89 | +345.3 | +177.8 | +13.2 |
+| Overtake Sector | 89 | +345.4 | +177.9 | +13.2 |
 | NineFlyeSports | 96 | +319.6 | +148.2 | +12.9 |
+| Green Grove Retirement | 94 | +323.1 | +142.6 | +12.9 |
 | Elusive | 93 | +326.1 | +160.2 | +12.9 |
-| Green Grove Retirement | 94 | +323.1 | +142.5 | +12.9 |
-| PROFECO | 87 | +349.6 | +120.2 | +12.2 |
+| PROFECO | 87 | +349.7 | +120.2 | +12.2 |
 | FlyQuest RED | 97 | +315.2 | +153.8 | +12.1 |
 | Axial | 101 | +300.9 | +131.7 | +11.6 |
 | Addice | 102 | +297.0 | +154.0 | +11.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +227.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +227.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -70,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-13 | EZ2025 | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.09 | 1.00 | +0.7 | Late, OJISBAE, Sinister--, phiLm9yne, riizzy |
-| 2026-10-09 | house | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +20.1 | Late, OJISBAE, Sinister--, phiLm9yne, riizzy |
+| 2026-10-09 | house | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +20.0 | Late, OJISBAE, Sinister--, phiLm9yne, riizzy |
 | 2026-09-15 | Drip or Drown | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -5.6 | OJISBAE, mineman97, moitch, phiLm9yne, v0lcaN, yarushima |
 | 2026-09-09 | O Fire | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 1.00 | 0.13 | 1.00 | +37.1 | OJISBAE, mineman97, moitch, phiLm9yne, v0lcaN |
 | 2026-09-08 | KylianDictator | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +96.3 | OJISBAE, franciszn, mineman97, moitch, phiLm9yne, riizzy, v0lcaN |

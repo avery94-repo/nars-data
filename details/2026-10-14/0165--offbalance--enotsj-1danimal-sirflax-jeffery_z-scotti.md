@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.174 | 1343.1 | - |
 | +30 days | 0.157 | 1320.1 | -23.0 |
-| +60 days | 0.142 | 1299.5 | -43.7 |
-| +90 days | 0.118 | 1265.9 | -77.3 |
+| +60 days | 0.142 | 1299.4 | -43.7 |
+| +90 days | 0.118 | 1265.8 | -77.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.043 vs 0.037 average, gap +0.006). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| SquishysAngels | 164 | 1543.5 | +1.2 | +113.8 |
+| SquishysAngels | 164 | 1543.5 | +1.2 | +113.9 |
 | Team Auspex | 163 | 1544.2 | +1.9 | +115.0 |
 | 1001 Fragrance | 162 | 1549.0 | +6.7 | +121.6 |
 | Rejects | 161 | 1553.6 | +11.3 | +129.3 |
-| TOP SHELF WHIFFERS | 160 | 1556.3 | +14.0 | +127.5 |
+| TOP SHELF WHIFFERS | 160 | 1556.4 | +14.1 | +127.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| No Future Lifes Over | 50 | +344.8 | +228.6 | +21.9 |
-| DESPAIR | 49 | +346.4 | +228.9 | +21.6 |
-| TheMotherLovers | 53 | +335.6 | +234.9 | +21.2 |
-| Phantom Sense | 51 | +341.4 | +278.6 | +20.7 |
+| No Future Lifes Over | 50 | +344.9 | +228.7 | +21.9 |
+| DESPAIR | 49 | +346.4 | +229.0 | +21.6 |
+| TheMotherLovers | 53 | +335.7 | +235.0 | +21.2 |
+| Phantom Sense | 51 | +341.5 | +278.7 | +20.7 |
 | Omen Esports | 57 | +315.5 | +246.2 | +19.1 |
-| flat earth | 64 | +284.2 | +217.8 | +17.1 |
-| Endless Esports | 65 | +283.7 | +219.6 | +17.0 |
-| GG | 52 | +339.1 | +192.6 | +17.0 |
-| DUMBO | 63 | +284.8 | +240.4 | +16.6 |
-| WhalersOnDaMoon | 66 | +279.5 | +222.2 | +15.8 |
+| flat earth | 64 | +284.2 | +217.9 | +17.1 |
+| Endless Esports | 65 | +283.7 | +219.7 | +17.0 |
+| GG | 52 | +339.2 | +192.7 | +17.0 |
+| DUMBO | 63 | +284.8 | +240.5 | +16.6 |
+| WhalersOnDaMoon | 66 | +279.6 | +222.2 | +15.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +394.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +394.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -78,10 +78,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Void | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +143.0 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-09-02 | Dynasty | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.08 | 0.92 | +72.2 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-28 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -10.0 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
-| 2026-08-26 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -65.3 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
+| 2026-08-26 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -65.4 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-21 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -63.1 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-19 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.09 | 0.82 | +58.8 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
-| 2026-08-13 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.09 | 0.78 | +75.7 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
+| 2026-08-13 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.09 | 0.78 | +75.8 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-12 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +206.9 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-07 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -84.9 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-07-31 | dogwater | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.07 | 0.70 | +40.2 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |

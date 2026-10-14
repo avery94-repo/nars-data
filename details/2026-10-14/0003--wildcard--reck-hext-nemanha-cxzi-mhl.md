@@ -3,15 +3,15 @@ Team Name: Wildcard
 Roster: reck, HexT, nEMANHA, Cxzi, mhL
 NARS Rank: 3 of 506
 
-Final Rating: 2911.9
-Seeded Start: 2063.8
-H2H Adjustment: +848.1 (capped at +-300, raw +848.2)
+Final Rating: 2912.0
+Seeded Start: 2063.7
+H2H Adjustment: +848.3 (capped at +-300, raw +848.2)
 
-Final Rating (2911.9) = Seeded Start (2063.8) + H2H Adjustment (+848.1)
+Final Rating (2912.0) = Seeded Start (2063.7) + H2H Adjustment (+848.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.688 x 1400 = 2063.8
+                = 1100 + 0.688 x 1400 = 2063.7
 
 seed_factor 0.688 = 0.25 x Tier Exposure (0.614) + 0.50 x Quality Wins (1.000) + 0.25 x Opponent Network (0.140)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.688 | 2063.8 | - |
+| Now | 0.688 | 2063.7 | - |
 | +30 days | 0.691 | 2067.7 | +3.9 |
-| +60 days | 0.698 | 2077.2 | +13.4 |
-| +90 days | 0.714 | 2099.4 | +35.6 |
+| +60 days | 0.698 | 2077.2 | +13.5 |
+| +90 days | 0.714 | 2099.4 | +35.7 |
 
 Weakest lever vs the 2 teams ranked above: Opponent Network (0.140 vs 0.360 average, gap -0.220). Matching that average is worth about 77.0 seed points.
 
@@ -39,15 +39,15 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| M80 | 2 | 3081.4 | +169.5 | +65.0 |
-| Liquid | 1 | 3103.3 | +191.4 | +66.4 |
+| M80 | 2 | 3081.4 | +169.4 | +65.0 |
+| Liquid | 1 | 3103.3 | +191.3 | +66.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Liquid | 1 | +191.4 | +66.4 | -0.0 |
-| M80 | 2 | +169.5 | +65.0 | -0.2 |
+| Liquid | 1 | +191.3 | +66.4 | -0.0 |
+| M80 | 2 | +169.4 | +65.0 | -0.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +66.4 points at current ratings.
 
@@ -70,40 +70,40 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-11 | DENDELE | W | 2-0 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 2.88 | 0.00 | +56.8 | core 3/5 |
 | 2026-10-10 | NRG | W | 16-12 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 1.17 | 0.00 | +86.4 | core 3/5 |
 | 2026-10-10 | Last Dance US | W | 13-5 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 1.44 | 0.00 | +0.1 | core 3/5 |
-| 2026-10-03 | EAC | W |  | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.07 | 0.00 | +8.8 | core 3/5 |
-| 2026-10-03 | INFINITE | L |  | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -43.5 | core 3/5 |
+| 2026-10-03 | EAC | W | 2-1 | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.07 | 0.00 | +8.8 | core 3/5 |
+| 2026-10-03 | INFINITE | L | 0-2 | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -43.5 | core 3/5 |
 | 2026-10-02 | NT | L |  | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -65.8 | core 3/5 |
 | 2026-09-27 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -28.7 | core 3/5 |
-| 2026-09-26 | NRG | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.98 | 1.60 | +60.5 | core 3/5 |
-| 2026-09-26 | DENDELE | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.40 | 0.00 | +37.6 | core 3/5 |
-| 2026-09-25 | NRG | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -32.0 | core 3/5 |
-| 2026-09-25 | Chicken Coop | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.43 | 0.00 | +0.0 | core 3/5 |
+| 2026-09-26 | NRG | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.98 | 1.60 | +60.5 | core 3/5 |
+| 2026-09-26 | DENDELE | W | 2-1 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.40 | 0.00 | +37.6 | core 3/5 |
+| 2026-09-25 | NRG | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -32.0 | core 3/5 |
+| 2026-09-25 | Chicken Coop | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.43 | 0.00 | +0.0 | core 3/5 |
 | 2026-09-12 | BBL | L |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -102.4 | core 3/5 |
-| 2026-09-11 | NEMESIS | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 2.34 | 0.00 | +157.0 | core 3/5 |
-| 2026-09-10 | EYEBALLERS | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 2.32 | 0.00 | +244.0 | core 3/5 |
+| 2026-09-11 | NEMESIS | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 2.34 | 0.00 | +157.1 | core 3/5 |
+| 2026-09-10 | EYEBALLERS | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 2.32 | 0.00 | +244.1 | core 3/5 |
 | 2026-09-09 | HOTU | L |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -53.9 | core 3/5 |
-| 2026-08-15 | PAIN | L |  | VRS-tracked 2026-08 | A | vrs | 0.79 | 1.60 | 1.00 | 1.27 | 0.00 | 0.00 | -113.7 | core 3/5 |
-| 2026-08-12 | FURIA | L |  | VRS-tracked 2026-08 | A | vrs | 0.77 | 1.60 | 1.00 | 1.24 | 0.00 | 0.00 | -15.1 | core 3/5 |
-| 2026-07-26 | THE MONGOLZ | L |  | VRS-tracked 2026-07 | A | vrs | 0.66 | 1.60 | 1.00 | 1.06 | 0.00 | 0.00 | -204.3 | core 3/5 |
-| 2026-07-21 | ALLIANCE | W |  | VRS-tracked 2026-07 | A | vrs | 0.63 | 1.60 | 1.00 | 1.01 | 1.51 | 0.00 | +366.7 | core 3/5 |
-| 2026-07-16 | K27 | L |  | VRS-tracked 2026-07 | A | vrs | 0.59 | 1.60 | 1.00 | 0.95 | 0.00 | 0.00 | -81.4 | core 3/5 |
-| 2026-07-15 | IBERIAN SOUL | L |  | VRS-tracked 2026-07 | A | vrs | 0.59 | 1.60 | 1.00 | 0.94 | 0.00 | 0.00 | -533.2 | core 3/5 |
-| 2026-05-24 | FOKUS | W |  | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.58 | 0.00 | +33.5 | core 3/5 |
-| 2026-05-23 | ACEND | W |  | VRS-tracked 2026-05 | A | vrs | 0.23 | 1.60 | 1.00 | 0.38 | 0.56 | 0.00 | +40.6 | core 3/5 |
-| 2026-05-23 | FOKUS | W |  | VRS-tracked 2026-05 | A | vrs | 0.23 | 1.60 | 1.00 | 0.38 | 0.56 | 0.00 | +83.4 | core 3/5 |
-| 2026-05-22 | INNER CIRCLE | W |  | VRS-tracked 2026-05 | A | vrs | 0.23 | 1.60 | 1.00 | 0.37 | 0.55 | 0.00 | +617.2 | core 3/5 |
-| 2026-05-03 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.00 | 0.00 | -415.0 | core 3/5 |
+| 2026-08-15 | PAIN | L | 1-2 | VRS-tracked 2026-08 | A | vrs | 0.79 | 1.60 | 1.00 | 1.27 | 0.00 | 0.00 | -113.7 | core 3/5 |
+| 2026-08-12 | FURIA | L | 0-1 | VRS-tracked 2026-08 | A | vrs | 0.77 | 1.60 | 1.00 | 1.24 | 0.00 | 0.00 | -15.1 | core 3/5 |
+| 2026-07-26 | THE MONGOLZ | L |  | VRS-tracked 2026-07 | A | vrs | 0.66 | 1.60 | 1.00 | 1.06 | 0.00 | 0.00 | -204.4 | core 3/5 |
+| 2026-07-21 | ALLIANCE | W |  | VRS-tracked 2026-07 | A | vrs | 0.63 | 1.60 | 1.00 | 1.00 | 1.51 | 0.00 | +366.8 | core 3/5 |
+| 2026-07-16 | K27 | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.59 | 1.60 | 1.00 | 0.95 | 0.00 | 0.00 | -81.4 | core 3/5 |
+| 2026-07-15 | IBERIAN SOUL | L |  | VRS-tracked 2026-07 | A | vrs | 0.59 | 1.60 | 1.00 | 0.94 | 0.00 | 0.00 | -533.3 | core 3/5 |
+| 2026-05-24 | FOKUS | W | 2-1 | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.58 | 0.00 | +33.5 | core 3/5 |
+| 2026-05-23 | ACEND | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.23 | 1.60 | 1.00 | 0.38 | 0.56 | 0.00 | +40.6 | core 3/5 |
+| 2026-05-23 | FOKUS | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.23 | 1.60 | 1.00 | 0.38 | 0.56 | 0.00 | +83.4 | core 3/5 |
+| 2026-05-22 | INNER CIRCLE | W |  | VRS-tracked 2026-05 | A | vrs | 0.23 | 1.60 | 1.00 | 0.36 | 0.55 | 0.00 | +617.2 | core 3/5 |
+| 2026-05-03 | M80 | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.00 | 0.00 | -415.1 | core 3/5 |
 | 2026-05-03 | EX-AETHER | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.13 | 0.00 | +51.2 | core 3/5 |
-| 2026-05-03 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.00 | 0.00 | -91.7 | core 3/5 |
+| 2026-05-03 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.00 | 0.00 | -91.6 | core 3/5 |
 | 2026-05-01 | FarmVille | W |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.14 | 0.00 | +17.4 | core 3/5 |
-| 2026-05-01 | Voca | W |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.08 | 0.00 | +214.8 | core 3/5 |
+| 2026-05-01 | Voca | W |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.08 | 0.00 | +214.9 | core 3/5 |
 | 2026-04-29 | FarmVille | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.12 | 0.12 | 0.12 | +1.7 | core 3/5 |
 | 2026-04-27 | Aether | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.10 | +0.0 | core 3/5 |
 | 2026-04-26 | FISHER COLLEGE | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.08 | 0.00 | +33.2 | core 3/5 |
 | 2026-04-26 | PASSION UA | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.07 | 0.00 | +17.4 | core 3/5 |
 | 2026-04-26 | Wanted Goons | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.09 | 0.09 | +18.0 | core 3/5 |
 | 2026-04-25 | Chicken Coop | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.07 | 0.08 | +374.2 | core 3/5 |
-| 2026-04-25 | unreal nightmare | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.05 | 0.08 | +10.1 | core 3/5 |
+| 2026-04-25 | unreal nightmare | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.05 | 0.08 | +10.2 | core 3/5 |
 | 2026-04-25 | Voca | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.05 | 0.08 | +156.8 | core 3/5 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

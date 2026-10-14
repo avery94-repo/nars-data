@@ -40,8 +40,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | MEET THE WALL | 194 | 1497.0 | +3.7 | +133.5 |
-| 91AshLiu | 193 | 1497.0 | +3.7 | +131.2 |
-| teamington | 192 | 1498.1 | +4.8 | +138.9 |
+| 91AshLiu | 193 | 1497.1 | +3.8 | +131.3 |
+| teamington | 192 | 1498.0 | +4.7 | +138.9 |
 | UncsStillGotIt | 191 | 1499.3 | +6.0 | +145.7 |
 | No Leaders Please | 190 | 1499.4 | +6.1 | +143.4 |
 
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +333.2 | +269.9 | +24.7 |
+| flat earth | 64 | +333.2 | +270.0 | +24.7 |
 | Endless Esports | 65 | +332.7 | +272.3 | +24.6 |
 | NZ Gaming | 69 | +319.9 | +248.3 | +23.6 |
 | DUMBO | 63 | +333.8 | +299.2 | +23.5 |
-| WhalersOnDaMoon | 66 | +328.5 | +275.7 | +23.4 |
+| WhalersOnDaMoon | 66 | +328.6 | +275.8 | +23.4 |
 | GeneticDiff | 70 | +299.6 | +249.9 | +21.3 |
 | fih hou | 73 | +292.4 | +258.4 | +20.3 |
 | Asoka | 74 | +290.0 | +233.7 | +20.2 |
-| Club 333 | 76 | +288.9 | +277.4 | +19.7 |
-| Kairo | 79 | +285.6 | +229.7 | +19.6 |
+| Club 333 | 76 | +289.0 | +277.5 | +19.7 |
+| Kairo | 79 | +285.6 | +229.8 | +19.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +472.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +472.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | WhiteBoyWinter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.00 | 0.00 | -78.4 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-10 | Casual Mature Gamers | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.07 | 1.01 | +86.6 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-06 | feet67 | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.00 | 0.00 | -96.1 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
-| 2026-09-04 | KylianDictator | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +120.8 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
+| 2026-09-04 | KylianDictator | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +120.9 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-02 | lofi hip hop radio | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +133.1 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

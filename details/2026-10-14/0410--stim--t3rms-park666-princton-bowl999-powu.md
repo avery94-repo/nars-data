@@ -25,8 +25,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.059 | 1182.7 | - |
-| +30 days | 0.054 | 1175.5 | -7.2 |
-| +60 days | 0.050 | 1170.6 | -12.1 |
+| +30 days | 0.054 | 1175.4 | -7.2 |
+| +60 days | 0.050 | 1170.5 | -12.1 |
 | +90 days | 0.045 | 1163.4 | -19.3 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.135 vs 0.193 average, gap -0.058). Matching that average is worth about 20.3 seed points.
@@ -41,9 +41,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Team Hyper | 409 | 1037.3 | +0.4 | +174.4 |
 | PSDN White | 408 | 1040.3 | +3.4 | +163.4 |
-| VeryBigDoogoos | 407 | 1043.8 | +6.9 | +164.5 |
-| Ubiquiti | 406 | 1043.8 | +6.9 | +166.0 |
-| Shock Value | 405 | 1046.6 | +9.7 | +165.4 |
+| VeryBigDoogoos | 407 | 1043.7 | +6.8 | +164.4 |
+| Ubiquiti | 406 | 1043.7 | +6.8 | +166.0 |
+| Shock Value | 405 | 1046.5 | +9.6 | +165.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,14 +51,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | GoonAssOldheads | 258 | +332.9 | +310.5 | +31.3 |
 | The Kerbins | 250 | +341.7 | +345.6 | +31.2 |
-| Eightball | 253 | +338.7 | +334.9 | +30.9 |
+| Eightball | 253 | +338.7 | +334.9 | +30.8 |
 | Dude Picks | 252 | +340.6 | +362.2 | +30.6 |
 | 2THRiLL | 246 | +349.7 | +288.7 | +30.5 |
 | drunk cigs dont count | 255 | +336.2 | +351.8 | +30.5 |
-| THE GUILD | 264 | +322.1 | +299.2 | +30.2 |
+| THE GUILD | 264 | +322.1 | +299.1 | +30.2 |
 | Kinetic | 260 | +327.3 | +342.0 | +29.9 |
 | DadDick Esports | 261 | +325.5 | +335.9 | +29.8 |
-| Wiggle Peeks | 265 | +319.9 | +318.4 | +29.6 |
+| Wiggle Peeks | 265 | +319.8 | +318.4 | +29.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -76,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | Washed | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.04 | 1.05 | +230.7 | Bowl999, H8R, T3RMS, park666, powu |
 | 2026-09-04 | Gloobers | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -122.0 | Bowl999, Princton, T3RMS, park666, powu |
 | 2026-09-02 | Cause and Effect Gaming | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.13 | 1.01 | +232.9 | Bowl999, Princton, T3RMS, park666, powu |
-| 2026-08-09 | STALLOONS BALLOONS | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -131.7 | Bowl999, T3RMS, park666, powu, yardy |
+| 2026-08-09 | STALLOONS BALLOONS | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.75 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -131.7 | Bowl999, T3RMS, park666, powu, yardy |
 | 2026-05-31 | Robert Gaming | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -237.6 | -virtue_, Princton, R3kt_U_M8, T3RMS, park666 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

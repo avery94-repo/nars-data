@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.190 | 1366.7 | - |
 | +30 days | 0.165 | 1331.4 | -35.2 |
-| +60 days | 0.147 | 1305.4 | -61.3 |
-| +90 days | 0.119 | 1266.3 | -100.4 |
+| +60 days | 0.147 | 1305.3 | -61.3 |
+| +90 days | 0.119 | 1266.2 | -100.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.062 vs 0.028 average, gap +0.034). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| BONK | 158 | 1559.4 | +1.3 | +107.4 |
-| Fourth Quarter | 157 | 1560.7 | +2.6 | +112.3 |
-| Order Zero | 156 | 1564.7 | +6.6 | +105.1 |
-| WhiteBoyWinter | 155 | 1566.7 | +8.6 | +112.2 |
-| ASYCS KITTENS | 154 | 1569.5 | +11.4 | +109.4 |
+| BONK | 158 | 1559.4 | +1.3 | +107.5 |
+| Fourth Quarter | 157 | 1560.8 | +2.7 | +112.4 |
+| Order Zero | 156 | 1564.8 | +6.7 | +105.3 |
+| WhiteBoyWinter | 155 | 1566.7 | +8.6 | +112.3 |
+| ASYCS KITTENS | 154 | 1569.5 | +11.4 | +109.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| FLOW STATE | 47 | +339.3 | +225.8 | +19.2 |
-| No Future Lifes Over | 50 | +329.0 | +203.9 | +19.1 |
-| DESPAIR | 49 | +330.6 | +204.2 | +18.9 |
-| TheMotherLovers | 53 | +319.8 | +209.5 | +18.4 |
-| Phantom Sense | 51 | +325.6 | +248.3 | +18.3 |
-| Omen Esports | 57 | +299.7 | +219.5 | +16.3 |
-| GG | 52 | +323.3 | +171.7 | +14.4 |
-| flat earth | 64 | +268.4 | +194.2 | +13.7 |
-| Endless Esports | 65 | +267.9 | +195.8 | +13.6 |
-| DUMBO | 63 | +269.0 | +214.3 | +13.3 |
+| FLOW STATE | 47 | +339.3 | +226.0 | +19.2 |
+| No Future Lifes Over | 50 | +329.1 | +204.1 | +19.1 |
+| DESPAIR | 49 | +330.6 | +204.4 | +18.9 |
+| TheMotherLovers | 53 | +319.9 | +209.7 | +18.4 |
+| Phantom Sense | 51 | +325.7 | +248.5 | +18.3 |
+| Omen Esports | 57 | +299.7 | +219.7 | +16.3 |
+| GG | 52 | +323.4 | +171.9 | +14.4 |
+| flat earth | 64 | +268.4 | +194.4 | +13.7 |
+| Endless Esports | 65 | +267.9 | +196.0 | +13.6 |
+| DUMBO | 63 | +269.0 | +214.5 | +13.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +352.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +352.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -91,16 +91,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +54.5 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-06 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.09 | 0.74 | +61.5 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-05 | 69 | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -131.3 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
-| 2026-07-31 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +133.9 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
+| 2026-07-31 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +134.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-07-29 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -12.8 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-07-24 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -47.5 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-07-15 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +169.7 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-05-31 | WaterDrinkers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -160.3 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-29 | Kushtaka | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +34.4 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
-| 2026-05-27 | Sleepers | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -203.5 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
+| 2026-05-27 | Sleepers | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -203.6 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-27 | TheMilkMen | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +194.1 | Cutterika, Psych, akayoungman, itzKeeb, sensed |
 | 2026-05-20 | Mace Lindu Ruff Rebound | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +3.9 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
-| 2026-05-15 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +270.8 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
+| 2026-05-15 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +270.9 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-13 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -2.7 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-08 | High-Tech Performance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -165.7 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-06 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -245.3 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |

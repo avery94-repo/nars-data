@@ -39,8 +39,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| CNCS Last Hope | 72 | 1788.6 | +2.9 | +77.9 |
-| dice | 71 | 1791.6 | +5.9 | +79.4 |
+| CNCS Last Hope | 72 | 1788.7 | +3.0 | +78.0 |
+| dice | 71 | 1791.6 | +5.9 | +79.5 |
 | GeneticDiff | 70 | 1792.9 | +7.2 | +87.6 |
 | NZ Gaming | 69 | 1813.2 | +27.5 | +89.4 |
 | Whiff City | 68 | 1817.6 | +31.9 | +92.0 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | +329.0 | +187.2 | +13.8 |
-| Iowa Stormboar | 21 | +330.1 | +186.7 | +13.8 |
-| Olympus | 25 | +253.9 | +142.2 | +8.6 |
-| Automatic HQ | 27 | +245.1 | +148.3 | +7.3 |
-| duck crew | 23 | +310.3 | +124.3 | +6.2 |
-| VOID ALUNE | 29 | +222.1 | +111.5 | +3.7 |
-| Festina Lente | 24 | +257.1 | +116.6 | +3.4 |
+| Zomblers | 22 | +329.0 | +187.3 | +13.8 |
+| Iowa Stormboar | 21 | +330.2 | +186.8 | +13.8 |
+| Olympus | 25 | +254.0 | +142.3 | +8.6 |
+| Automatic HQ | 27 | +245.2 | +148.4 | +7.3 |
+| duck crew | 23 | +310.4 | +124.3 | +6.2 |
+| VOID ALUNE | 29 | +222.2 | +111.5 | +3.7 |
+| Festina Lente | 24 | +257.1 | +116.7 | +3.4 |
 | Hairy Scary Bandits | 32 | +213.7 | +135.9 | +2.6 |
 | Chicken Coop | 33 | +212.5 | +155.1 | +2.4 |
 | raisedbypixels | 26 | +248.7 | +115.4 | +0.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +246.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +246.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), Old Dads Banging (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0).
 
@@ -73,8 +73,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Mud Wizards | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +1.3 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-21 | No Future Lifes Over | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -32.9 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-20 | Trap Castle | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +42.5 | JetL, KIYAN, Primal-_-, arik, syth |
-| 2026-09-19 | AscendentEsport | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +55.7 | JetL, KIYAN, Primal-_-, arik, syth |
-| 2026-09-18 | Fourth Quarter | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +70.7 | JetL, KIYAN, Primal-_-, arik, syth |
+| 2026-09-19 | AscendentEsport | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +55.8 | JetL, KIYAN, Primal-_-, arik, syth |
+| 2026-09-18 | Fourth Quarter | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +70.8 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-10 | No Future Lifes Over | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -95.4 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-08 | VARTOVIK | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.07 | 0.96 | +139.6 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-04 | TELETUBEASTS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.06 | 0.93 | +116.8 | JetL, KIYAN, Primal-_-, arik, syth |

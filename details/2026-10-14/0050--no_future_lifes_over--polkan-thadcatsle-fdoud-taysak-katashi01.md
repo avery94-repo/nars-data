@@ -3,11 +3,11 @@ Team Name: No Future Lifes Over
 Roster: Polkan, THADCATSLE, fdoud, Taysak, Katashi01
 NARS Rank: 50 of 506
 
-Final Rating: 1887.1
+Final Rating: 1887.2
 Seeded Start: 1305.8
-H2H Adjustment: +581.3 (capped at +-300, raw +581.4)
+H2H Adjustment: +581.4
 
-Final Rating (1887.1) = Seeded Start (1305.8) + H2H Adjustment (+581.3)
+Final Rating (1887.2) = Seeded Start (1305.8) + H2H Adjustment (+581.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| DESPAIR | 49 | 1888.7 | +1.6 | +109.7 |
-| Skyline | 48 | 1895.4 | +8.3 | +110.9 |
-| FLOW STATE | 47 | 1897.4 | +10.3 | +116.5 |
-| Xiaoma Gaming | 46 | 1911.4 | +24.3 | +122.9 |
-| Swole Patrol | 45 | 1914.3 | +27.2 | +106.1 |
+| DESPAIR | 49 | 1888.7 | +1.5 | +109.7 |
+| Skyline | 48 | 1895.5 | +8.3 | +110.9 |
+| FLOW STATE | 47 | 1897.4 | +10.2 | +116.5 |
+| Xiaoma Gaming | 46 | 1911.5 | +24.3 | +122.9 |
+| Swole Patrol | 45 | 1914.4 | +27.2 | +106.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | +320.3 | +178.8 | +18.2 |
+| Brahmas | 14 | +320.3 | +178.9 | +18.2 |
 | Old Meta | 15 | +289.0 | +205.2 | +15.2 |
-| FarmVille | 16 | +280.5 | +223.3 | +14.2 |
-| NuTorious | 17 | +278.6 | +171.9 | +14.2 |
-| Villainous | 18 | +273.6 | +218.8 | +13.2 |
-| Iowa Stormboar | 21 | +228.7 | +203.2 | +6.7 |
-| Zomblers | 22 | +227.6 | +203.5 | +6.5 |
+| FarmVille | 16 | +280.4 | +223.4 | +14.2 |
+| NuTorious | 17 | +278.5 | +172.0 | +14.2 |
+| Villainous | 18 | +273.5 | +218.8 | +13.2 |
+| Iowa Stormboar | 21 | +228.7 | +203.3 | +6.7 |
+| Zomblers | 22 | +227.5 | +203.5 | +6.5 |
 | qcclan | 20 | +259.0 | +181.4 | +5.8 |
 | MASTER ONE | 19 | +272.3 | +177.2 | +5.2 |
-| DESPAIR | 49 | +1.6 | +109.7 | -0.0 |
+| DESPAIR | 49 | +1.5 | +109.7 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +336.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +336.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Grandpa Berets (+0.0), Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0).
 

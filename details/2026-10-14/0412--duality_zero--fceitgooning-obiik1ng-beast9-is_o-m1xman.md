@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: Duality Zero
 Roster: fceitGOONING, obiik1ng, beast9, is_o, M1xman
-NARS Rank: 411 of 506
+NARS Rank: 412 of 506
 
-Final Rating: 1036.4
+Final Rating: 1036.3
 Seeded Start: 1121.5
-H2H Adjustment: -85.1
+H2H Adjustment: -85.2
 
-Final Rating (1036.4) = Seeded Start (1121.5) + H2H Adjustment (-85.1)
+Final Rating (1036.3) = Seeded Start (1121.5) + H2H Adjustment (-85.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.000 | 1100.0 | -21.5 |
 | +90 days | 0.000 | 1100.0 | -21.5 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.038 vs 0.218 average, gap -0.180). Matching that average is worth about 63.0 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.038 vs 0.200 average, gap -0.162). Matching that average is worth about 56.7 seed points.
 
 - Tier Exposure drivers: S57 NA Intermediate Central - Playoffs B (2026-06-05) 0.32; S57 NA Intermediate Central - Regular Season (2026-05-21) 0.22
 - Quality Wins drivers: beat The Sweepers at S57 NA Intermediate Central - Regular Season (2026-05-15) 0.02; beat High-Tech Performance at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.01; beat Famas OP at S57 NA Intermediate Central - Playoffs B (2026-06-01) 0.01
@@ -39,24 +39,24 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| STIM | 410 | 1036.9 | +0.5 | +162.4 |
-| Team Hyper | 409 | 1037.3 | +0.9 | +174.6 |
-| PSDN White | 408 | 1040.3 | +3.9 | +163.5 |
-| VeryBigDoogoos | 407 | 1043.8 | +7.4 | +164.6 |
-| Ubiquiti | 406 | 1043.8 | +7.4 | +166.2 |
+| Moniseum | 411 | 1036.4 | +0.1 | +162.3 |
+| STIM | 410 | 1036.9 | +0.6 | +162.5 |
+| Team Hyper | 409 | 1037.3 | +1.0 | +174.6 |
+| PSDN White | 408 | 1040.3 | +4.0 | +163.5 |
+| VeryBigDoogoos | 407 | 1043.7 | +7.4 | +164.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GoonAssOldheads | 258 | +333.4 | +310.7 | +31.4 |
-| The Kerbins | 250 | +342.2 | +345.9 | +31.3 |
-| Eightball | 253 | +339.2 | +335.1 | +30.9 |
-| Dude Picks | 252 | +341.1 | +362.5 | +30.6 |
-| drunk cigs dont count | 255 | +336.7 | +352.1 | +30.5 |
-| THE GUILD | 264 | +322.6 | +299.4 | +30.3 |
-| Kinetic | 260 | +327.8 | +342.3 | +29.9 |
-| DadDick Esports | 261 | +326.0 | +336.2 | +29.9 |
+| GoonAssOldheads | 258 | +333.5 | +310.7 | +31.4 |
+| The Kerbins | 250 | +342.3 | +345.9 | +31.3 |
+| Eightball | 253 | +339.3 | +335.1 | +30.9 |
+| Dude Picks | 252 | +341.2 | +362.5 | +30.6 |
+| drunk cigs dont count | 255 | +336.8 | +352.1 | +30.5 |
+| THE GUILD | 264 | +322.7 | +299.4 | +30.3 |
+| Kinetic | 260 | +327.9 | +342.3 | +29.9 |
+| DadDick Esports | 261 | +326.1 | +336.2 | +29.9 |
 | Wiggle Peeks | 265 | +320.4 | +318.7 | +29.6 |
 | ASCEND | 263 | +323.7 | +322.8 | +29.5 |
 
@@ -77,12 +77,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-05 | The Agarthans | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -195.7 | KPak, M1xman, beast9, is_o, obiik1ng |
-| 2026-06-01 | Famas OP | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.01 | 0.29 | +292.5 | KPak, M1xman, beast9, is_o, obiik1ng |
+| 2026-06-05 | The Agarthans | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -195.8 | KPak, M1xman, beast9, is_o, obiik1ng |
+| 2026-06-01 | Famas OP | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.01 | 0.29 | +292.7 | KPak, M1xman, beast9, is_o, obiik1ng |
 | 2026-05-27 | Ninjas In Boxer | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -7.8 | KPak, M1xman, beast9, is_o, obiik1ng |
 | 2026-05-21 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -263.1 | Certified, M1xman, beast9, is_o, obiik1ng |
-| 2026-05-20 | GoonAssOldheads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -366.4 | Certified, M1xman, beast9, is_o, obiik1ng |
-| 2026-05-15 | The Sweepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +349.1 | KPak, M1xman, beast9, is_o, obiik1ng |
+| 2026-05-20 | GoonAssOldheads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -366.5 | Certified, M1xman, beast9, is_o, obiik1ng |
+| 2026-05-15 | The Sweepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +349.2 | KPak, M1xman, beast9, is_o, obiik1ng |
 | 2026-05-13 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -10.3 | M1xman, beast9, fceitGOONING, is_o, obiik1ng |
 | 2026-05-08 | STFDYSAB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -3.3 | M1xman, beast9, fceitGOONING, is_o, obiik1ng |
 | 2026-05-05 | Hairy Scary Bandits | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -34.4 | M1xman, beast9, fceitGOONING, is_o, obiik1ng |

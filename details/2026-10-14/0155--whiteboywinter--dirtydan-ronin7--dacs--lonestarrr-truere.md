@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | ASYCS KITTENS | 154 | 1569.5 | +2.8 | +123.3 |
-| MINDTRIP | 153 | 1569.7 | +3.0 | +120.1 |
+| MINDTRIP | 153 | 1569.7 | +3.0 | +120.2 |
 | Celestial Esports | 152 | 1574.5 | +7.8 | +130.7 |
 | Biggie Cheese Fan Club | 151 | 1576.6 | +9.9 | +125.5 |
 | UsingCodefArt25atSCL | 150 | 1577.8 | +11.1 | +130.3 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Swole Patrol | 45 | +347.6 | +206.6 | +23.4 |
-| Xiaoma Gaming | 46 | +344.7 | +275.3 | +22.1 |
-| FLOW STATE | 47 | +330.7 | +257.6 | +21.8 |
-| No Future Lifes Over | 50 | +320.4 | +233.1 | +21.5 |
-| DESPAIR | 49 | +322.0 | +233.4 | +21.3 |
-| TheMotherLovers | 53 | +311.2 | +238.9 | +20.6 |
-| Phantom Sense | 51 | +317.0 | +281.7 | +20.5 |
-| Omen Esports | 57 | +291.1 | +248.9 | +17.8 |
-| GG | 52 | +314.7 | +197.4 | +16.0 |
-| flat earth | 64 | +259.8 | +220.2 | +14.3 |
+| Swole Patrol | 45 | +347.7 | +206.7 | +23.4 |
+| Xiaoma Gaming | 46 | +344.8 | +275.4 | +22.1 |
+| FLOW STATE | 47 | +330.7 | +257.7 | +21.8 |
+| No Future Lifes Over | 50 | +320.5 | +233.1 | +21.5 |
+| DESPAIR | 49 | +322.0 | +233.5 | +21.3 |
+| TheMotherLovers | 53 | +311.3 | +238.9 | +20.6 |
+| Phantom Sense | 51 | +317.1 | +281.8 | +20.5 |
+| Omen Esports | 57 | +291.1 | +249.0 | +17.8 |
+| GG | 52 | +314.8 | +197.4 | +16.0 |
+| flat earth | 64 | +259.8 | +220.3 | +14.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +420.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +421.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 

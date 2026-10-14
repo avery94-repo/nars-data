@@ -3,11 +3,11 @@ Team Name: feet67
 Roster: accela, dake_, 1mprovee2, -67swing, -anby-
 NARS Rank: 58 of 506
 
-Final Rating: 1857.4
+Final Rating: 1857.5
 Seeded Start: 1310.9
-H2H Adjustment: +546.5 (capped at +-300, raw +546.6)
+H2H Adjustment: +546.6
 
-Final Rating (1857.4) = Seeded Start (1310.9) + H2H Adjustment (+546.5)
+Final Rating (1857.5) = Seeded Start (1310.9) + H2H Adjustment (+546.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Omen Esports | 57 | 1857.8 | +0.4 | +88.1 |
-| Bird Squishers | 56 | 1863.8 | +6.4 | +82.0 |
-| Evade Gaming | 55 | 1865.0 | +7.6 | +75.7 |
-| Sharp | 54 | 1867.8 | +10.4 | +88.1 |
-| TheMotherLovers | 53 | 1877.9 | +20.5 | +88.5 |
+| Omen Esports | 57 | 1857.8 | +0.3 | +88.2 |
+| Bird Squishers | 56 | 1863.9 | +6.4 | +82.1 |
+| Evade Gaming | 55 | 1865.1 | +7.6 | +75.8 |
+| Sharp | 54 | 1867.8 | +10.3 | +88.2 |
+| TheMotherLovers | 53 | 1878.0 | +20.5 | +88.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | +350.0 | +135.7 | +14.6 |
-| Old Meta | 15 | +318.7 | +158.8 | +13.0 |
-| NuTorious | 17 | +308.3 | +131.6 | +12.6 |
-| FarmVille | 16 | +310.2 | +174.7 | +12.4 |
-| Villainous | 18 | +303.3 | +171.4 | +11.9 |
-| Iowa Stormboar | 21 | +258.4 | +161.6 | +8.8 |
-| Zomblers | 22 | +257.3 | +161.9 | +8.8 |
-| qcclan | 20 | +288.7 | +140.4 | +6.9 |
-| MASTER ONE | 19 | +302.0 | +136.2 | +6.1 |
-| Omen Esports | 57 | +0.4 | +88.1 | -0.0 |
+| Brahmas | 14 | +350.0 | +135.9 | +14.6 |
+| Old Meta | 15 | +318.7 | +159.0 | +13.0 |
+| NuTorious | 17 | +308.2 | +131.8 | +12.6 |
+| FarmVille | 16 | +310.1 | +174.9 | +12.4 |
+| Villainous | 18 | +303.2 | +171.6 | +11.9 |
+| Iowa Stormboar | 21 | +258.4 | +161.8 | +8.8 |
+| Zomblers | 22 | +257.2 | +162.2 | +8.8 |
+| qcclan | 20 | +288.7 | +140.6 | +6.9 |
+| MASTER ONE | 19 | +302.0 | +136.4 | +6.1 |
+| Omen Esports | 57 | +0.3 | +88.2 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +235.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +236.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Grandpa Berets (+0.0), Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0).
 

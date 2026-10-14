@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| REPORT MASSIVE | 430 | 963.0 | +1.2 | +129.4 |
-| Conduit eSports | 429 | 968.6 | +6.8 | +130.8 |
+| REPORT MASSIVE | 430 | 962.9 | +1.1 | +129.5 |
+| Conduit eSports | 429 | 968.6 | +6.8 | +130.9 |
 | GodFather Gaming | 428 | 983.8 | +22.0 | +134.7 |
-| Knox Esports | 427 | 984.1 | +22.3 | +134.7 |
-| Famas OP | 426 | 984.9 | +23.1 | +134.9 |
+| Knox Esports | 427 | 984.1 | +22.3 | +134.8 |
+| Famas OP | 426 | 984.8 | +23.0 | +135.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| ItAintOverYet | 284 | +340.8 | +243.4 | +25.1 |
-| Entertainment Cheese | 285 | +339.0 | +269.7 | +24.4 |
-| Midwest Farmers | 286 | +334.5 | +266.1 | +24.2 |
-| Imperium | 283 | +343.7 | +222.5 | +23.8 |
-| 55TH ST | 288 | +329.5 | +270.2 | +23.7 |
-| Cream Team | 293 | +320.6 | +230.0 | +23.6 |
-| Resurgence | 290 | +321.8 | +245.0 | +23.5 |
-| Tractors | 292 | +321.2 | +258.3 | +23.3 |
-| COGNITIVE | 295 | +317.3 | +240.0 | +23.2 |
-| Mud Wizards | 298 | +308.2 | +264.3 | +21.9 |
+| ItAintOverYet | 284 | +340.8 | +243.6 | +25.1 |
+| Entertainment Cheese | 285 | +339.0 | +269.9 | +24.4 |
+| Midwest Farmers | 286 | +334.4 | +266.3 | +24.2 |
+| Imperium | 283 | +343.7 | +222.7 | +23.8 |
+| 55TH ST | 288 | +329.5 | +270.4 | +23.7 |
+| Cream Team | 293 | +320.6 | +230.2 | +23.6 |
+| Resurgence | 290 | +321.8 | +245.2 | +23.6 |
+| Tractors | 292 | +321.2 | +258.4 | +23.3 |
+| COGNITIVE | 295 | +317.3 | +240.1 | +23.2 |
+| Mud Wizards | 298 | +308.2 | +264.5 | +21.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +466.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +467.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.2).
 

@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.181 | 1353.8 | - |
-| +30 days | 0.168 | 1335.7 | -18.2 |
+| +30 days | 0.168 | 1335.6 | -18.2 |
 | +60 days | 0.153 | 1314.1 | -39.7 |
 | +90 days | 0.125 | 1274.8 | -79.0 |
 
@@ -39,10 +39,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Pugging4Pumpkin | 209 | 1463.5 | +1.6 | +97.0 |
+| Pugging4Pumpkin | 209 | 1463.6 | +1.7 | +97.0 |
 | noname | 208 | 1467.3 | +5.4 | +105.1 |
-| AscendentEsport | 207 | 1467.8 | +5.9 | +109.3 |
-| Squeegee | 206 | 1467.8 | +5.9 | +96.0 |
+| Squeegee | 207 | 1467.8 | +5.9 | +96.1 |
+| AscendentEsport | 206 | 1467.9 | +6.0 | +109.4 |
 | STFDYSAB | 205 | 1470.1 | +8.2 | +96.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,17 +50,17 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | GeneticDiff | 70 | +331.0 | +188.6 | +17.5 |
-| Asoka | 74 | +321.4 | +175.7 | +17.1 |
-| fih hou | 73 | +323.8 | +196.4 | +17.0 |
-| Kairo | 79 | +317.0 | +172.7 | +16.8 |
-| Club 333 | 76 | +320.3 | +213.0 | +16.6 |
-| firesale | 82 | +306.3 | +184.5 | +16.2 |
-| mas paspas | 75 | +321.0 | +204.4 | +16.1 |
-| CNCS Last Hope | 72 | +326.7 | +156.8 | +16.1 |
+| Asoka | 74 | +321.4 | +175.8 | +17.1 |
+| fih hou | 73 | +323.8 | +196.5 | +17.0 |
+| Kairo | 79 | +317.0 | +172.8 | +16.8 |
+| Club 333 | 76 | +320.4 | +213.1 | +16.6 |
+| firesale | 82 | +306.3 | +184.6 | +16.2 |
+| mas paspas | 75 | +321.1 | +204.4 | +16.1 |
+| CNCS Last Hope | 72 | +326.8 | +156.9 | +16.1 |
 | Diggers | 86 | +301.5 | +165.8 | +15.8 |
-| Overtake Sector | 89 | +288.9 | +215.7 | +14.6 |
+| Overtake Sector | 89 | +289.0 | +215.8 | +14.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +315.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +315.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
 
@@ -77,13 +77,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Void | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -1.9 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
 | 2026-09-04 | MakeYouSayLate | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.11 | 0.93 | +53.8 | Somalian_Orc, crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
 | 2026-09-02 | MadaNASCAR | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -46.1 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-08-28 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -85.7 | Somalian_Orc, crazypooper7, musashi---, rockstaraL, sodreamX |
+| 2026-08-28 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -85.8 | Somalian_Orc, crazypooper7, musashi---, rockstaraL, sodreamX |
 | 2026-08-26 | Goyim Gladiators | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.10 | 0.87 | +71.6 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-08-21 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.14 | 0.84 | +108.7 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-08-21 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.14 | 0.84 | +108.8 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
 | 2026-08-18 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -86.1 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
 | 2026-08-14 | Moniseum | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +78.4 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-08-12 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +128.3 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-08-07 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.03 | 0.74 | +126.0 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-08-12 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +128.4 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-08-07 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.03 | 0.74 | +126.1 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
 | 2026-08-05 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -248.9 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
 | 2026-07-31 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +16.2 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
 | 2026-07-29 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.06 | 0.68 | +38.4 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |

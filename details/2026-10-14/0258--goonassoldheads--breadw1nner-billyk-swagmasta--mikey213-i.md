@@ -41,9 +41,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Only Goys | 257 | 1369.9 | +0.1 | +122.7 |
 | Real Hustle Club | 256 | 1372.5 | +2.7 | +123.3 |
-| drunk cigs dont count | 255 | 1373.1 | +3.3 | +136.1 |
-| N w G | 254 | 1375.1 | +5.3 | +123.9 |
-| Eightball | 253 | 1375.6 | +5.8 | +134.1 |
+| drunk cigs dont count | 255 | 1373.1 | +3.3 | +136.2 |
+| N w G | 254 | 1375.2 | +5.4 | +123.9 |
+| Eightball | 253 | 1375.6 | +5.8 | +134.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,16 +51,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | Axial | 101 | +336.6 | +238.8 | +23.0 |
 | Addice | 102 | +332.7 | +276.8 | +22.1 |
-| New Legends | 103 | +325.5 | +280.6 | +21.5 |
-| Holy Squid Empire | 108 | +308.9 | +233.6 | +20.9 |
+| New Legends | 103 | +325.6 | +280.7 | +21.5 |
+| Holy Squid Empire | 108 | +308.9 | +233.7 | +20.9 |
 | Black Dragon Society | 109 | +300.9 | +249.3 | +20.0 |
 | Hadouken | 100 | +340.0 | +209.5 | +19.0 |
-| Read You Like a Kindle | 116 | +284.9 | +245.4 | +18.1 |
-| Bills | 99 | +342.2 | +210.0 | +17.9 |
-| eefsports | 112 | +294.4 | +197.8 | +17.4 |
-| ODIN | 119 | +277.3 | +238.5 | +16.7 |
+| Read You Like a Kindle | 116 | +284.9 | +245.5 | +18.1 |
+| Bills | 99 | +342.1 | +210.1 | +17.9 |
+| eefsports | 112 | +294.4 | +197.9 | +17.4 |
+| ODIN | 119 | +277.3 | +238.6 | +16.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +436.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +436.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.06 | 0.87 | +48.3 | -mikey213, 1hemlock, Billyk, ItsOcahhs, swagmasta |
 | 2026-08-21 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +43.6 | -mikey213, Billyk, ItsOcahhs, NorwoodGoonr, swagmasta |
 | 2026-08-19 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.07 | 0.82 | +58.7 | -mikey213, Billyk, ItsOcahhs, NorwoodGoonr, swagmasta |
-| 2026-08-14 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.08 | 0.79 | +119.4 | -mikey213, 1hemlock, ItsOcahhs, NorwoodGoonr, swagmasta |
+| 2026-08-14 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.08 | 0.79 | +119.5 | -mikey213, 1hemlock, ItsOcahhs, NorwoodGoonr, swagmasta |
 | 2026-08-12 | Kennesaw State Gold 2025 | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -99.5 | -mikey213, 1hemlock, ItsOcahhs, NorwoodGoonr, swagmasta |
 | 2026-08-06 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -61.4 | -mikey213, Billyk, ItsOcahhs, NorwoodGoonr, nyuuXD |
 | 2026-08-05 | redtyfguhoj | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -141.6 | -mikey213, Billyk, ItsOcahhs, NorwoodGoonr, swagmasta |
@@ -93,12 +93,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -218.7 | -mikey213, Billyk, ItsOcahhs, NorwoodGoonr, swagmasta |
 | 2026-05-31 | Wide Swinging Wizards | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -155.0 | -mikey213, BREADW1NNER, Billyk, ItsOcahhs, nyuuXD, swagmasta |
 | 2026-05-29 | wabbit2 | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +250.5 | -mikey213, BREADW1NNER, ItsOcahhs, nyuuXD, swagmasta |
-| 2026-05-27 | EZ2025 | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -326.8 | -mikey213, BREADW1NNER, ItsOcahhs, nyuuXD, swagmasta |
+| 2026-05-27 | EZ2025 | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -326.9 | -mikey213, BREADW1NNER, ItsOcahhs, nyuuXD, swagmasta |
 | 2026-05-22 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +8.2 | -mikey213, BREADW1NNER, Billyk, ItsOcahhs, swagmasta |
-| 2026-05-20 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +361.4 | -mikey213, BREADW1NNER, Billyk, ItsOcahhs, swagmasta |
+| 2026-05-20 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +361.6 | -mikey213, BREADW1NNER, Billyk, ItsOcahhs, swagmasta |
 | 2026-05-15 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -153.3 | -mikey213, BREADW1NNER, ItsOcahhs, nyuuXD, swagmasta |
 | 2026-05-13 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -2.3 | -mikey213, BREADW1NNER, Billyk, ItsOcahhs, swagmasta |
-| 2026-05-08 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -344.2 | -mikey213, BREADW1NNER, ItsOcahhs, nyuuXD, swagmasta |
+| 2026-05-08 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -344.3 | -mikey213, BREADW1NNER, ItsOcahhs, nyuuXD, swagmasta |
 | 2026-05-06 | Mach 10 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +69.4 | -mikey213, BREADW1NNER, Billyk, ItsOcahhs, swagmasta |
 | 2026-05-01 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +7.7 | -mikey213, BREADW1NNER, Billyk, ItsOcahhs, swagmasta |
 | 2026-04-29 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +430.4 | -mikey213, BREADW1NNER, ItsOcahhs, nyuuXD, swagmasta |

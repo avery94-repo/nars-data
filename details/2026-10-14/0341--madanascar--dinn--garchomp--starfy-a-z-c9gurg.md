@@ -3,11 +3,11 @@ Team Name: MadaNASCAR
 Roster: Dinn, -Garchomp-, Starfy, A-Z, c9gurg
 NARS Rank: 341 of 506
 
-Final Rating: 1195.3
+Final Rating: 1195.2
 Seeded Start: 1368.3
-H2H Adjustment: -173.0
+H2H Adjustment: -173.1
 
-Final Rating (1195.3) = Seeded Start (1368.3) + H2H Adjustment (-173.0)
+Final Rating (1195.2) = Seeded Start (1368.3) + H2H Adjustment (-173.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Boop Boop Gang | 340 | 1195.6 | +0.3 | +97.2 |
-| Kennesaw State Gold 2025 | 339 | 1195.9 | +0.6 | +92.1 |
-| Braindead | 338 | 1199.3 | +4.0 | +92.7 |
-| MONARCH | 337 | 1200.8 | +5.5 | +103.5 |
-| Stubbys | 336 | 1201.2 | +5.9 | +93.1 |
+| Boop Boop Gang | 340 | 1195.6 | +0.4 | +97.2 |
+| Kennesaw State Gold 2025 | 339 | 1195.9 | +0.7 | +92.2 |
+| Braindead | 338 | 1199.3 | +4.1 | +92.8 |
+| MONARCH | 337 | 1200.8 | +5.6 | +103.5 |
+| Stubbys | 336 | 1201.2 | +6.0 | +93.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| offBalance | 165 | +347.0 | +177.4 | +17.7 |
+| offBalance | 165 | +347.1 | +177.5 | +17.7 |
 | BucketJonsBoys | 172 | +337.8 | +171.9 | +17.4 |
-| Pug Palace | 167 | +340.5 | +180.8 | +17.3 |
-| Firstwave | 175 | +331.7 | +171.6 | +17.1 |
-| Shaboing Boing Bandits | 173 | +335.3 | +189.0 | +17.1 |
-| Armored Talent | 174 | +334.5 | +193.9 | +16.9 |
-| APEX | 176 | +326.6 | +176.9 | +16.8 |
-| GOOZPEEK | 182 | +317.8 | +180.9 | +16.2 |
-| LAF | 183 | +316.0 | +172.1 | +16.2 |
-| Shadow Wizard Money Gang | 180 | +320.6 | +206.0 | +15.9 |
+| Pug Palace | 167 | +340.6 | +180.8 | +17.3 |
+| Firstwave | 175 | +331.8 | +171.6 | +17.1 |
+| Shaboing Boing Bandits | 173 | +335.4 | +189.0 | +17.1 |
+| Armored Talent | 174 | +334.6 | +193.9 | +16.9 |
+| APEX | 176 | +326.7 | +176.9 | +16.8 |
+| GOOZPEEK | 182 | +317.9 | +180.9 | +16.2 |
+| LAF | 183 | +316.1 | +172.1 | +16.2 |
+| Shadow Wizard Money Gang | 180 | +320.7 | +206.0 | +15.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +303.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +303.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.6).
 
@@ -77,9 +77,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Chopped | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -105.5 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-09-27 | Armored Talent | L | 0-1 | NA Revival | C | faceit-tournament | 1.00 | 1.01 | 1.00 | 1.01 | 0.00 | 0.00 | -137.0 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-09-27 | SwagMonkeyHats | W | 1-0 | NA Revival | C | faceit-tournament | 1.00 | 1.01 | 1.00 | 1.01 | 0.17 | 1.01 | +93.7 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
-| 2026-09-04 | MommySports | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -58.5 | -Garchomp-, A-Z, Dinn, Hymn_, Starfy |
+| 2026-09-04 | MommySports | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -58.6 | -Garchomp-, A-Z, Dinn, Hymn_, Starfy |
 | 2026-09-02 | Kings Gambit | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.10 | 0.92 | +45.8 | -Garchomp-, A-Z, Dinn, Hymn_, Starfy |
-| 2026-08-28 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.08 | 0.88 | +54.9 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
+| 2026-08-28 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.08 | 0.88 | +55.0 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-08-26 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -122.1 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-08-21 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -129.4 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-08-19 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -37.0 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
@@ -90,7 +90,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -121.0 | -Garchomp-, A-Z, Dinn, Hymn_, Starfy |
 | 2026-07-29 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +105.4 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-24 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +24.2 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
-| 2026-07-22 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.07 | 0.64 | +4.3 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
+| 2026-07-22 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.07 | 0.64 | +4.2 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-17 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +1.0 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-15 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +4.7 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-06-12 | ZoomNBoom | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.37 | +232.2 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |

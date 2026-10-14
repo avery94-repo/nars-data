@@ -39,10 +39,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| VeryBigDoogoos | 407 | 1043.8 | +3.5 | +163.4 |
-| Ubiquiti | 406 | 1043.8 | +3.5 | +164.9 |
-| Shock Value | 405 | 1046.6 | +6.3 | +164.3 |
-| DownTown | 404 | 1047.0 | +6.7 | +164.4 |
+| VeryBigDoogoos | 407 | 1043.7 | +3.4 | +163.3 |
+| Ubiquiti | 406 | 1043.7 | +3.4 | +164.9 |
+| Shock Value | 405 | 1046.5 | +6.2 | +164.2 |
+| DownTown | 404 | 1046.8 | +6.5 | +164.3 |
 | house | 403 | 1048.9 | +8.6 | +175.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -51,14 +51,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | The Kerbins | 250 | +338.3 | +343.7 | +31.0 |
 | GoonAssOldheads | 258 | +329.5 | +308.9 | +30.9 |
-| Eightball | 253 | +335.3 | +333.1 | +30.6 |
+| Eightball | 253 | +335.3 | +333.0 | +30.5 |
 | Dude Picks | 252 | +337.2 | +360.0 | +30.3 |
 | 2THRiLL | 246 | +346.3 | +287.4 | +30.2 |
 | drunk cigs dont count | 255 | +332.8 | +349.8 | +30.2 |
 | THE GUILD | 264 | +318.7 | +297.6 | +29.8 |
 | Kinetic | 260 | +323.9 | +340.0 | +29.5 |
 | DadDick Esports | 261 | +322.1 | +334.0 | +29.5 |
-| Wiggle Peeks | 265 | +316.5 | +316.6 | +29.2 |
+| Wiggle Peeks | 265 | +316.4 | +316.6 | +29.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -76,9 +76,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-07 | Casual Mature Gamers | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -145.5 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
 | 2026-09-04 | 5_gamers_wrong_game | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +170.5 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
-| 2026-09-02 | pnks pretty princesses | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.00 | 0.00 | -189.7 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
-| 2026-06-10 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -165.8 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
-| 2026-06-03 | Made in Abergavenny | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +175.7 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
+| 2026-09-02 | pnks pretty princesses | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.00 | 0.00 | -189.8 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
+| 2026-06-10 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -165.9 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
+| 2026-06-03 | Made in Abergavenny | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +175.8 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
 | 2026-05-29 | ABG Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -154.1 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
 | 2026-05-27 | Smuckers | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +195.6 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
 

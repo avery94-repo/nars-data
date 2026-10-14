@@ -3,11 +3,11 @@ Team Name: Famas OP
 Roster: Ch3rrycs, Awsome, _burb, pecan, 81rd
 NARS Rank: 426 of 506
 
-Final Rating: 984.9
+Final Rating: 984.8
 Seeded Start: 1124.9
-H2H Adjustment: -140.0
+H2H Adjustment: -140.1
 
-Final Rating (984.9) = Seeded Start (1124.9) + H2H Adjustment (-140.0)
+Final Rating (984.8) = Seeded Start (1124.9) + H2H Adjustment (-140.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,30 +39,30 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Climbers | 425 | 986.0 | +1.1 | +162.6 |
-| Evil Space Wizards | 424 | 988.0 | +3.1 | +163.3 |
-| Halcyon | 423 | 993.8 | +8.9 | +165.1 |
-| Atlantis eSports | 422 | 997.5 | +12.6 | +166.3 |
-| Specter Esports | 421 | 999.7 | +14.8 | +167.0 |
+| Climbers | 425 | 985.9 | +1.1 | +162.7 |
+| Evil Space Wizards | 424 | 987.9 | +3.1 | +163.3 |
+| Halcyon | 423 | 993.8 | +9.0 | +165.1 |
+| Atlantis eSports | 422 | 997.4 | +12.6 | +166.3 |
+| Specter Esports | 421 | 999.7 | +14.9 | +167.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Saltcrew | 276 | +335.9 | +313.2 | +31.6 |
-| Demolition | 279 | +331.1 | +311.7 | +30.9 |
-| Chopped | 277 | +334.9 | +340.9 | +30.7 |
-| Adria eSports | 281 | +329.3 | +349.9 | +29.8 |
-| ItAintOverYet | 284 | +317.7 | +300.9 | +29.6 |
-| Entertainment Cheese | 285 | +315.9 | +330.0 | +28.8 |
+| Saltcrew | 276 | +336.0 | +313.3 | +31.6 |
+| Demolition | 279 | +331.2 | +311.7 | +30.9 |
+| Chopped | 277 | +335.0 | +340.9 | +30.7 |
+| Adria eSports | 281 | +329.4 | +349.9 | +29.8 |
+| ItAintOverYet | 284 | +317.8 | +300.9 | +29.6 |
+| Entertainment Cheese | 285 | +316.0 | +330.0 | +28.8 |
 | Midwest Farmers | 286 | +311.4 | +325.5 | +28.3 |
-| Imperium | 283 | +320.6 | +277.6 | +28.1 |
-| 55TH ST | 288 | +306.4 | +329.3 | +27.4 |
-| Resurgence | 290 | +298.7 | +300.7 | +26.8 |
+| Imperium | 283 | +320.7 | +277.6 | +28.1 |
+| 55TH ST | 288 | +306.5 | +329.4 | +27.5 |
+| Resurgence | 290 | +298.8 | +300.8 | +26.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
-Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.4).
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.3).
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs dogwater (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
@@ -76,15 +76,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-01 | Duality Zero | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -286.8 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
-| 2026-05-29 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -196.6 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
-| 2026-05-27 | The Sweepers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +334.5 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
-| 2026-05-20 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +255.2 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
-| 2026-05-15 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +284.1 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
+| 2026-06-01 | Duality Zero | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -286.9 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
+| 2026-05-29 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -196.7 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
+| 2026-05-27 | The Sweepers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +334.6 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
+| 2026-05-20 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +255.3 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
+| 2026-05-15 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +284.2 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
 | 2026-05-13 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -0.6 | 81rd, Ch3rrycs, Hedge, _burb, pecan |
 | 2026-05-01 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -281.4 | 81rd, Awsome, Ch3rrycs, g1fted, pecan |
 | 2026-04-29 | AURA Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -157.4 | 81rd, Awsome, Ch3rrycs, SnappleBoi, _burb, pecan |
-| 2026-04-24 | Kennesaw State Gold 2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -366.8 | 81rd, Awsome, SnappleBoi, _burb, g1fted |
+| 2026-04-24 | Kennesaw State Gold 2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -366.9 | 81rd, Awsome, SnappleBoi, _burb, g1fted |
 | 2026-04-22 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +275.7 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

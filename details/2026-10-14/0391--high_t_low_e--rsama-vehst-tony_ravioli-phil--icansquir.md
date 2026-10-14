@@ -43,18 +43,18 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Second Nature | 389 | 1082.1 | +8.7 | +165.0 |
 | Kahoot Squad | 388 | 1082.6 | +9.2 | +170.6 |
 | Flow Esports | 387 | 1083.6 | +10.2 | +173.3 |
-| MXA | 386 | 1090.8 | +17.4 | +167.8 |
+| MXA | 386 | 1090.7 | +17.3 | +167.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | FUELED BY HATE | 241 | +330.9 | +305.8 | +31.2 |
-| YHTR | 235 | +340.3 | +345.2 | +31.1 |
+| YHTR | 235 | +340.3 | +345.1 | +31.1 |
 | Fortis Fortuna Adiuvat | 237 | +332.9 | +326.9 | +30.9 |
 | NXG Esports | 242 | +330.6 | +338.6 | +30.9 |
 | brb grinding minecraft | 239 | +332.1 | +350.4 | +30.7 |
-| Casual Mature Gamers | 238 | +332.5 | +357.2 | +29.9 |
+| Casual Mature Gamers | 238 | +332.5 | +357.1 | +29.9 |
 | skebob | 231 | +347.3 | +287.8 | +27.6 |
 | The Kerbins | 250 | +305.2 | +325.0 | +27.4 |
 | Dude Picks | 252 | +304.1 | +339.4 | +26.8 |

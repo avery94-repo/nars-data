@@ -4,14 +4,14 @@ Roster: Prtzul, F0nzu, sM1les555, Alewsha, Zach
 NARS Rank: 345 of 506
 
 Final Rating: 1186.2
-Seeded Start: 1264.1
-H2H Adjustment: -77.9
+Seeded Start: 1264.0
+H2H Adjustment: -77.8
 
-Final Rating (1186.2) = Seeded Start (1264.1) + H2H Adjustment (-77.9)
+Final Rating (1186.2) = Seeded Start (1264.0) + H2H Adjustment (-77.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.117 x 1400 = 1264.1
+                = 1100 + 0.117 x 1400 = 1264.0
 
 seed_factor 0.117 = 0.25 x Tier Exposure (0.091) + 0.50 x Quality Wins (0.025) + 0.25 x Opponent Network (0.328)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.117 | 1264.1 | - |
+| Now | 0.117 | 1264.0 | - |
 | +30 days | 0.091 | 1227.1 | -36.9 |
 | +60 days | 0.076 | 1207.0 | -57.0 |
 | +90 days | 0.064 | 1190.1 | -73.9 |
@@ -42,25 +42,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Onsite has Oil | 344 | 1191.0 | +4.8 | +67.2 |
 | T Shirt Material | 343 | 1191.6 | +5.4 | +67.3 |
 | Wide Swinging Wizards | 342 | 1191.6 | +5.4 | +67.3 |
-| MadaNASCAR | 341 | 1195.3 | +9.1 | +76.7 |
+| MadaNASCAR | 341 | 1195.2 | +9.0 | +76.7 |
 | Boop Boop Gang | 340 | 1195.6 | +9.4 | +72.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| BucketJonsBoys | 172 | +346.9 | +124.0 | +12.7 |
+| BucketJonsBoys | 172 | +346.8 | +124.1 | +12.7 |
 | Pug Palace | 167 | +349.6 | +130.7 | +12.6 |
-| Firstwave | 175 | +340.8 | +123.9 | +12.5 |
+| Firstwave | 175 | +340.8 | +124.0 | +12.5 |
 | Shaboing Boing Bandits | 173 | +344.4 | +137.0 | +12.5 |
-| Armored Talent | 174 | +343.6 | +140.7 | +12.4 |
+| Armored Talent | 174 | +343.6 | +140.8 | +12.4 |
 | APEX | 176 | +335.7 | +128.1 | +12.3 |
-| GOOZPEEK | 182 | +326.9 | +131.3 | +12.0 |
+| GOOZPEEK | 182 | +326.9 | +131.4 | +12.0 |
 | LAF | 183 | +325.1 | +124.7 | +12.0 |
 | Shadow Wizard Money Gang | 180 | +329.7 | +150.4 | +11.8 |
-| KIS | 185 | +320.4 | +116.9 | +11.8 |
+| KIS | 185 | +320.5 | +117.0 | +11.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +207.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +207.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.3), SixSevenZaZa (+0.5).
 
@@ -84,19 +84,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.09 | 1.02 | +92.3 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
 | 2026-08-26 | Pugging4Pumpkin | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -59.6 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
 | 2026-08-21 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -42.7 | Alewsha, F0nzu, Prtzul, blessa, sM1les555 |
-| 2026-08-19 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.08 | 0.95 | +3.5 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
+| 2026-08-19 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.08 | 0.95 | +3.4 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
 | 2026-08-14 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.04 | 0.92 | +60.1 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
 | 2026-08-12 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.07 | 0.90 | +32.6 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
-| 2026-08-07 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -75.5 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
+| 2026-08-07 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -75.6 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
 | 2026-08-05 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -30.3 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
 | 2026-07-31 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -31.7 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
 | 2026-07-29 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -101.5 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
 | 2026-07-17 | Manx Recovery Program | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -14.7 | Alewsha, F0nzu, Prtzul, Zach, blessa |
 | 2026-07-15 | The Skins | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -54.1 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
-| 2026-06-07 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.05 | 0.34 | +201.3 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
-| 2026-06-03 | Qinorhwat | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -171.6 | Alewsha, Prtzul, Zach, sM1les555, skrimp |
-| 2026-05-29 | Wide Swinging Wizards | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +321.6 | Alewsha, F0nzu, Prtzul, sM1les555, skrimp |
-| 2026-05-27 | Costco Family | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +317.8 | F0nzu, LukieD, Prtzul, sM1les555, skrimp |
+| 2026-06-07 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.05 | 0.34 | +201.4 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
+| 2026-06-03 | Qinorhwat | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -171.7 | Alewsha, Prtzul, Zach, sM1les555, skrimp |
+| 2026-05-29 | Wide Swinging Wizards | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +321.7 | Alewsha, F0nzu, Prtzul, sM1les555, skrimp |
+| 2026-05-27 | Costco Family | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +317.9 | F0nzu, LukieD, Prtzul, sM1les555, skrimp |
 | 2026-05-22 | strawberry poptarts | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -64.7 | Alewsha, F0nzu, Kikiinn, LukieD, Prtzul |
 | 2026-05-14 | Bad Jawn | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -147.5 | Alewsha, Prtzul, Zach, sM1les555, skrimp |
 | 2026-05-13 | Feels MAIN Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -199.4 | Alewsha, LukieD, Prtzul, Zach, skrimp |

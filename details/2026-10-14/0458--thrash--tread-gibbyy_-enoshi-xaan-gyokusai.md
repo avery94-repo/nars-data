@@ -3,11 +3,11 @@ Team Name: Thrash
 Roster: Tread, gibbyy_, enoshi, xaan, Gyokusai
 NARS Rank: 458 of 506
 
-Final Rating: 860.9
+Final Rating: 860.8
 Seeded Start: 1194.9
-H2H Adjustment: -334.0 (capped at +-300, raw -334.1)
+H2H Adjustment: -334.1
 
-Final Rating (860.9) = Seeded Start (1194.9) + H2H Adjustment (-334.0)
+Final Rating (860.8) = Seeded Start (1194.9) + H2H Adjustment (-334.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Cadillac F1 eSports Team | 457 | 863.1 | +2.2 | +98.5 |
-| onliners | 456 | 870.2 | +9.3 | +95.6 |
-| girl kissers | 455 | 883.6 | +22.7 | +98.0 |
-| Cause and Effect Gaming | 454 | 884.7 | +23.8 | +98.2 |
-| insane players | 453 | 889.7 | +28.8 | +99.2 |
+| Cadillac F1 eSports Team | 457 | 863.0 | +2.2 | +98.5 |
+| onliners | 456 | 870.1 | +9.3 | +95.6 |
+| girl kissers | 455 | 883.6 | +22.8 | +98.1 |
+| Cause and Effect Gaming | 454 | 884.6 | +23.8 | +98.3 |
+| insane players | 453 | 889.5 | +28.7 | +99.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| MONARCH | 337 | +339.9 | +191.8 | +17.5 |
-| Boop Boop Gang | 340 | +334.7 | +172.2 | +17.4 |
-| MadaNASCAR | 341 | +334.4 | +189.2 | +17.4 |
-| Florida Man | 345 | +325.3 | +200.4 | +16.8 |
-| Samantha 4 | 351 | +317.1 | +171.7 | +16.6 |
-| RunTheDamnBall | 352 | +306.2 | +180.7 | +15.8 |
-| DeathMark E-Sports | 353 | +305.6 | +186.5 | +15.7 |
-| Comeback Bandits | 355 | +299.7 | +175.5 | +15.3 |
-| 99 Thieves | 354 | +301.4 | +174.9 | +15.2 |
-| RH Help Desk | 358 | +297.6 | +189.7 | +15.0 |
+| MONARCH | 337 | +340.0 | +191.8 | +17.5 |
+| Boop Boop Gang | 340 | +334.8 | +172.2 | +17.4 |
+| MadaNASCAR | 341 | +334.4 | +189.3 | +17.4 |
+| Florida Man | 345 | +325.4 | +200.5 | +16.8 |
+| Samantha 4 | 351 | +317.2 | +171.7 | +16.6 |
+| RunTheDamnBall | 352 | +306.3 | +180.8 | +15.8 |
+| DeathMark E-Sports | 353 | +305.7 | +186.6 | +15.7 |
+| Comeback Bandits | 355 | +299.8 | +175.6 | +15.3 |
+| 99 Thieves | 354 | +301.5 | +175.0 | +15.2 |
+| RH Help Desk | 358 | +297.7 | +189.8 | +15.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +311.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +311.4 points at current ratings.
 
 #### Matches (13 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -69,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Grandpa Berets | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +171.3 | Gyokusai, Tread, arvn, gnuhc, xaan |
 | 2026-10-07 | PogSquad | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -0.7 | Gyokusai, Tread, arvn, gnuhc, xaan |
-| 2026-08-28 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +77.8 | Gyokusai, arvn, enoshi, gibbyy_, xaan |
+| 2026-08-28 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +77.9 | Gyokusai, arvn, enoshi, gibbyy_, xaan |
 | 2026-08-26 | Shaq Diesel | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -105.1 | Gyokusai, arvn, enoshi, gibbyy_, xaan |
 | 2026-08-21 | de_throne | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -56.5 | Gyokusai, arvn, enoshi, gibbyy_, xaan |
 | 2026-08-19 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.07 | 0.82 | +104.0 | Gyokusai, arvn, enoshi, gibbyy_, xaan |
@@ -77,8 +77,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Flow Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -4.2 | Gyokusai, Tread, enoshi, gibbyy_, xaan |
 | 2026-08-07 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -11.5 | Gyokusai, MehAtBest, Tread, enoshi, gibbyy_ |
 | 2026-07-31 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -4.2 | Gyokusai, MehAtBest, Tread, enoshi, xaan |
-| 2026-07-28 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -78.1 | Gyokusai, Tread, enoshi, gibbyy_, xaan |
-| 2026-07-17 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -245.3 | Gyokusai, MehAtBest, Tread, gibbyy_, xaan |
+| 2026-07-28 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -78.2 | Gyokusai, Tread, enoshi, gibbyy_, xaan |
+| 2026-07-17 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -245.4 | Gyokusai, MehAtBest, Tread, gibbyy_, xaan |
 | 2026-07-15 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -159.0 | Gyokusai, MehAtBest, Tread, gibbyy_, xaan |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

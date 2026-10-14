@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Square1 | 436 | 940.4 | +3.5 | +163.4 |
-| Counter Legends | 435 | 941.5 | +4.6 | +163.7 |
-| The Bobs | 434 | 946.1 | +9.2 | +165.2 |
-| The Homies | 433 | 954.0 | +17.1 | +167.7 |
-| Seven ate Nine | 432 | 955.9 | +19.0 | +168.3 |
+| Square1 | 436 | 940.3 | +3.4 | +163.4 |
+| Counter Legends | 435 | 941.4 | +4.5 | +163.7 |
+| The Bobs | 434 | 946.0 | +9.1 | +165.2 |
+| The Homies | 433 | 953.9 | +17.0 | +167.7 |
+| Seven ate Nine | 432 | 955.8 | +18.9 | +168.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -53,10 +53,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Resurgence | 290 | +346.7 | +324.1 | +32.4 |
 | COGNITIVE | 295 | +342.2 | +317.4 | +32.1 |
 | Tractors | 292 | +346.1 | +341.2 | +31.8 |
-| NATIONAL CS UNI | 301 | +329.2 | +315.7 | +30.8 |
+| NATIONAL CS UNI | 301 | +329.1 | +315.7 | +30.8 |
 | Mud Wizards | 298 | +333.1 | +348.4 | +30.3 |
 | DingTone | 302 | +326.9 | +324.4 | +29.9 |
-| Guangzhou Loong Lions | 304 | +323.0 | +314.8 | +29.7 |
+| Guangzhou Loong Lions | 304 | +323.0 | +314.8 | +29.6 |
 | Team Nyx | 307 | +316.3 | +309.2 | +29.3 |
 | TELETUBEASTS | 303 | +326.3 | +345.3 | +29.1 |
 

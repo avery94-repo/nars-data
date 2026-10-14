@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.139 | 1294.3 | - |
 | +30 days | 0.120 | 1267.5 | -26.8 |
 | +60 days | 0.100 | 1240.4 | -54.0 |
-| +90 days | 0.075 | 1204.8 | -89.6 |
+| +90 days | 0.075 | 1204.7 | -89.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.029 vs 0.021 average, gap +0.008). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| MXA | 386 | 1090.8 | +7.2 | +107.5 |
-| Exnitas | 385 | 1093.2 | +9.6 | +112.3 |
-| Gregs New Cut | 384 | 1096.7 | +13.1 | +108.7 |
+| MXA | 386 | 1090.7 | +7.1 | +107.5 |
+| Exnitas | 385 | 1093.2 | +9.6 | +112.4 |
+| Gregs New Cut | 384 | 1096.6 | +13.0 | +108.7 |
 | Texas Orange | 383 | 1097.5 | +13.9 | +116.0 |
-| Costco Family | 382 | 1102.5 | +18.9 | +116.6 |
+| Costco Family | 382 | 1102.5 | +18.9 | +116.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| penazoid | 226 | +344.4 | +204.1 | +20.5 |
-| UltimateDarklordWizardz | 227 | +343.5 | +227.5 | +19.9 |
+| penazoid | 226 | +344.3 | +204.1 | +20.5 |
+| UltimateDarklordWizardz | 227 | +343.5 | +227.6 | +19.9 |
 | YHTR | 235 | +330.1 | +218.1 | +19.4 |
 | brb grinding minecraft | 239 | +321.9 | +222.4 | +19.2 |
-| NXG Esports | 242 | +320.4 | +214.4 | +19.2 |
-| Fortis Fortuna Adiuvat | 237 | +322.7 | +206.2 | +19.1 |
-| FUELED BY HATE | 241 | +320.7 | +191.7 | +19.1 |
-| Casual Mature Gamers | 238 | +322.3 | +227.0 | +18.8 |
-| Elisir Esports | 225 | +344.9 | +180.0 | +17.4 |
-| FRAGDEMONS | 228 | +342.8 | +179.6 | +17.1 |
+| NXG Esports | 242 | +320.4 | +214.5 | +19.2 |
+| Fortis Fortuna Adiuvat | 237 | +322.7 | +206.2 | +19.2 |
+| FUELED BY HATE | 241 | +320.7 | +191.8 | +19.1 |
+| Casual Mature Gamers | 238 | +322.3 | +227.1 | +18.8 |
+| Elisir Esports | 225 | +344.8 | +180.1 | +17.4 |
+| FRAGDEMONS | 228 | +342.8 | +179.7 | +17.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +361.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +362.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.7), shirtcockin (+1.0), Courage (+1.2), SixSevenZaZa (+1.9).
 
@@ -82,16 +82,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -1.5 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
 | 2026-08-19 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -85.2 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
 | 2026-08-12 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.05 | 0.78 | +4.3 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
-| 2026-08-07 | Mach 10 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +113.7 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-08-07 | Mach 10 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +113.8 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 | 2026-08-05 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.08 | 0.73 | +227.2 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 | 2026-07-31 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -108.5 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
-| 2026-07-29 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -112.7 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-07-29 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -112.8 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 | 2026-07-24 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -263.9 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
 | 2026-07-22 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.02 | 0.64 | +20.5 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
-| 2026-07-17 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.07 | 0.60 | +268.8 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
+| 2026-07-17 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.07 | 0.60 | +268.9 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
 | 2026-07-15 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -394.6 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
-| 2026-06-10 | Slime Time | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.36 | +175.5 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
-| 2026-05-29 | D1NK Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -176.6 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
-| 2026-05-27 | hachimi | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +138.4 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-06-10 | Slime Time | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.36 | +175.6 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-05-29 | D1NK Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -176.7 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-05-27 | hachimi | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +138.5 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

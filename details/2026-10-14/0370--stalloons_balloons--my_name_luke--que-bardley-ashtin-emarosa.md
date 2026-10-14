@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.082 | 1215.0 | - |
 | +30 days | 0.073 | 1201.6 | -13.4 |
 | +60 days | 0.062 | 1186.8 | -28.2 |
-| +90 days | 0.042 | 1158.8 | -56.2 |
+| +90 days | 0.042 | 1158.7 | -56.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.023 vs 0.009 average, gap +0.014). Matching that average is worth about 0.0 seed points.
 
@@ -50,9 +50,9 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | GRIT | 201 | +349.6 | +306.9 | +32.7 |
-| noname | 208 | +335.8 | +329.3 | +31.2 |
-| Kings Gambit | 210 | +330.4 | +330.5 | +30.5 |
-| AscendentEsport | 207 | +336.3 | +354.7 | +29.9 |
+| noname | 208 | +335.8 | +329.3 | +31.1 |
+| Kings Gambit | 210 | +330.4 | +330.4 | +30.5 |
+| AscendentEsport | 206 | +336.4 | +354.7 | +29.9 |
 | Veniversum | 211 | +327.9 | +348.5 | +29.7 |
 | FlockMunchers | 212 | +327.6 | +348.6 | +29.7 |
 | GOYPEEKING | 216 | +318.5 | +304.6 | +29.7 |
@@ -60,7 +60,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | VARTOVIK | 217 | +318.4 | +348.6 | +28.6 |
 | Cortex Jellies | 222 | +305.9 | +282.7 | +28.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.7), shirtcockin (+1.1), Courage (+1.3).
 
@@ -70,11 +70,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | Adria eSports | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -151.8 | -que, My_Name_Luke, S1n3star, bardley, emarosa, goose_ |
-| 2026-09-02 | ReGen | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.00 | 0.00 | -216.9 | -que, My_Name_Luke, S1n3star, bardley, emarosa |
+| 2026-09-02 | ReGen | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.00 | 0.00 | -217.0 | -que, My_Name_Luke, S1n3star, bardley, emarosa |
 | 2026-08-09 | DETONATE | L | 0-2 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -0.3 | -que, 1stallion, ashtin, bardley, emarosa |
-| 2026-08-09 | FLOW STATE | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.22 | 0.94 | +107.5 | -que, 1stallion, ashtin, bardley, emarosa |
+| 2026-08-09 | FLOW STATE | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.22 | 0.94 | +107.6 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-09 | Wuff Widas | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.09 | 0.94 | +253.2 | -que, 1stallion, ashtin, bardley, emarosa |
-| 2026-08-09 | STIM | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.08 | 0.94 | +128.4 | -que, 1stallion, ashtin, bardley, emarosa |
+| 2026-08-09 | STIM | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.75 | 1.25 | 1.00 | 0.94 | 0.08 | 0.94 | +128.4 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-01 | Team Astryx | L | 1-2 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.84 | 0.00 | 0.00 | -203.6 | -que, My_Name_Luke, ashtin, bardley, emarosa |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

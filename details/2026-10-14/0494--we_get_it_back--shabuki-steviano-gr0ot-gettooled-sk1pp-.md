@@ -3,11 +3,11 @@ Team Name: we get it back
 Roster: shabuki, steviano, Gr0ot, Gettooled, sK1PP-
 NARS Rank: 494 of 506
 
-Final Rating: 570.2
+Final Rating: 570.1
 Seeded Start: 1108.2
-H2H Adjustment: -538.0 (capped at +-300, raw -537.9)
+H2H Adjustment: -538.1
 
-Final Rating (570.2) = Seeded Start (1108.2) + H2H Adjustment (-538.0)
+Final Rating (570.1) = Seeded Start (1108.2) + H2H Adjustment (-538.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,24 +39,24 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| SuperSoakerClub | 493 | 581.6 | +11.4 | +165.9 |
-| GOMI dot CLUB | 492 | 605.1 | +34.9 | +173.4 |
-| Muncle | 491 | 633.2 | +63.0 | +187.8 |
-| 37U Passion | 490 | 637.4 | +67.2 | +184.1 |
-| Casipanther | 489 | 639.0 | +68.8 | +184.7 |
+| SuperSoakerClub | 493 | 581.4 | +11.3 | +165.9 |
+| GOMI dot CLUB | 492 | 605.0 | +34.9 | +173.4 |
+| Muncle | 491 | 633.1 | +63.0 | +187.8 |
+| 37U Passion | 490 | 637.3 | +67.2 | +184.1 |
+| Casipanther | 489 | 638.9 | +68.8 | +184.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | It Doesnt Matter | 446 | +339.3 | +310.0 | +32.0 |
-| Team Deathgrip | 448 | +333.9 | +294.8 | +31.7 |
+| Team Deathgrip | 448 | +334.0 | +294.8 | +31.7 |
 | GoopT | 452 | +324.3 | +333.0 | +29.3 |
-| wabbit2 | 445 | +342.3 | +285.9 | +29.2 |
-| insane players | 453 | +319.5 | +277.2 | +27.9 |
-| Vexation Esports | 444 | +343.8 | +286.4 | +27.1 |
-| girl kissers | 455 | +313.4 | +274.8 | +26.9 |
-| Cadillac F1 eSports Team | 457 | +292.9 | +284.7 | +25.6 |
+| wabbit2 | 445 | +342.4 | +285.9 | +29.2 |
+| insane players | 453 | +319.4 | +277.1 | +27.9 |
+| Vexation Esports | 444 | +343.9 | +286.5 | +27.1 |
+| girl kissers | 455 | +313.5 | +274.9 | +26.9 |
+| Cadillac F1 eSports Team | 457 | +292.9 | +284.7 | +25.7 |
 | Thrash | 458 | +290.7 | +309.9 | +25.3 |
 | onliners | 456 | +300.0 | +269.7 | +24.7 |
 
@@ -72,13 +72,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Fortis Fortuna Adiuvat | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -7.9 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-20 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -152.8 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
-| 2026-05-14 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.01 | 0.20 | +326.8 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-14 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -267.1 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-08 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -1.5 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-06 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -195.8 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
+| 2026-05-20 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -152.9 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
+| 2026-05-14 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.01 | 0.20 | +326.9 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-14 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -267.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-08 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -1.5 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-06 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -195.9 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
 | 2026-05-01 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -11.0 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-05-01 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -4.5 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-04-22 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -224.1 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-04-22 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -224.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.485 | 1778.5 | - |
 | +30 days | 0.440 | 1716.2 | -62.3 |
-| +60 days | 0.409 | 1672.8 | -105.7 |
-| +90 days | 0.368 | 1615.2 | -163.3 |
+| +60 days | 0.409 | 1672.7 | -105.7 |
+| +90 days | 0.368 | 1615.1 | -163.3 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.341 vs 0.076 average, gap +0.265). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Bird Squishers | 56 | 1863.8 | +6.0 | +62.7 |
-| Evade Gaming | 55 | 1865.0 | +7.2 | +57.3 |
-| Sharp | 54 | 1867.8 | +10.0 | +67.9 |
-| TheMotherLovers | 53 | 1877.9 | +20.1 | +68.1 |
-| GG | 52 | 1881.4 | +23.6 | +59.1 |
+| Bird Squishers | 56 | 1863.9 | +6.1 | +62.8 |
+| Evade Gaming | 55 | 1865.1 | +7.3 | +57.4 |
+| Sharp | 54 | 1867.8 | +10.0 | +68.0 |
+| TheMotherLovers | 53 | 1878.0 | +20.2 | +68.1 |
+| GG | 52 | 1881.5 | +23.7 | +59.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | +349.6 | +101.8 | +10.9 |
-| Old Meta | 15 | +318.3 | +120.1 | +9.8 |
-| NuTorious | 17 | +307.9 | +99.0 | +9.5 |
-| FarmVille | 16 | +309.8 | +132.6 | +9.4 |
-| Villainous | 18 | +302.9 | +130.2 | +9.0 |
-| Iowa Stormboar | 21 | +258.0 | +123.5 | +6.7 |
-| Zomblers | 22 | +256.9 | +123.8 | +6.7 |
-| qcclan | 20 | +288.3 | +106.2 | +5.2 |
-| MASTER ONE | 19 | +301.6 | +102.7 | +4.6 |
-| Hairy Scary Bandits | 32 | +141.6 | +88.5 | -0.0 |
+| Brahmas | 14 | +349.7 | +101.9 | +10.9 |
+| Old Meta | 15 | +318.4 | +120.1 | +9.8 |
+| NuTorious | 17 | +307.9 | +99.1 | +9.5 |
+| FarmVille | 16 | +309.8 | +132.7 | +9.4 |
+| Villainous | 18 | +302.9 | +130.3 | +9.0 |
+| Iowa Stormboar | 21 | +258.1 | +123.6 | +6.7 |
+| Zomblers | 22 | +256.9 | +123.9 | +6.7 |
+| qcclan | 20 | +288.4 | +106.2 | +5.2 |
+| MASTER ONE | 19 | +301.7 | +102.8 | +4.6 |
+| Hairy Scary Bandits | 32 | +141.6 | +88.6 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +171.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +172.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
 
@@ -101,17 +101,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.00 | 0.00 | -91.7 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-07-21 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.63 | 1.45 | 1.00 | 0.91 | 0.10 | 0.91 | +2.2 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-06-14 | Xiaoma Gaming | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.38 | 1.50 | 1.00 | 0.57 | 0.10 | 0.57 | +133.5 | -Roo, cbass, fArt, yuush1, z0mb1e |
-| 2026-06-11 | Axial | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.54 | 0.29 | 0.54 | +199.6 | -Roo, cbass, fArt, sqroobz, yuush1, z0mb1e |
-| 2026-06-10 | Holy Squid Empire | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.53 | 0.09 | 0.53 | +336.7 | -Roo, cbass, fArt, yuush1, z0mb1e |
-| 2026-06-02 | Olympus | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.00 | 0.00 | -317.9 | -Roo, cbass, fArt, yuush1, z0mb1e |
-| 2026-05-21 | Holy Squid Empire | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -174.1 | -Roo, cbass, fArt, yuush1, z0mb1e |
+| 2026-06-11 | Axial | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.54 | 0.29 | 0.54 | +199.7 | -Roo, cbass, fArt, sqroobz, yuush1, z0mb1e |
+| 2026-06-10 | Holy Squid Empire | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.53 | 0.09 | 0.53 | +336.8 | -Roo, cbass, fArt, yuush1, z0mb1e |
+| 2026-06-02 | Olympus | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.00 | 0.00 | -318.0 | -Roo, cbass, fArt, yuush1, z0mb1e |
+| 2026-05-21 | Holy Squid Empire | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -174.2 | -Roo, cbass, fArt, yuush1, z0mb1e |
 | 2026-05-19 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.01 | 0.28 | +0.2 | -Roo, cbass, fArt, yuush1, z0mb1e |
-| 2026-05-14 | skebob | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.01 | 0.24 | +329.5 | -Roo, cbass, fArt, yuush1, z0mb1e |
+| 2026-05-14 | skebob | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.01 | 0.24 | +329.6 | -Roo, cbass, fArt, yuush1, z0mb1e |
 | 2026-05-12 | Xiaoma Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -26.8 | -Roo, cbass, fArt, yuush1, z0mb1e |
-| 2026-05-07 | dead team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -457.9 | -Roo, cbass, fArt, yuush1, z0mb1e |
+| 2026-05-07 | dead team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -458.0 | -Roo, cbass, fArt, yuush1, z0mb1e |
 | 2026-05-05 | Chicken Coop | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.14 | 0.16 | +381.5 | -Roo, cbass, fArt, yuush1, z0mb1e |
-| 2026-04-30 | North Forge | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -396.4 | -Roo, cbass, fArt, yuush1, z0mb1e |
-| 2026-04-24 | Phantom Sense | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.06 | 0.02 | 0.06 | +136.7 | -Roo, cbass, fArt, yuush1, z0mb1e |
+| 2026-04-30 | North Forge | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -396.5 | -Roo, cbass, fArt, yuush1, z0mb1e |
+| 2026-04-24 | Phantom Sense | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.06 | 0.02 | 0.06 | +136.8 | -Roo, cbass, fArt, yuush1, z0mb1e |
 | 2026-04-22 | Shimmer | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.35 | 1.00 | 0.04 | 0.01 | 0.04 | +129.6 | -Roo, cbass, fArt, yuush1, z0mb1e |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.088 | 1222.6 | - |
-| +30 days | 0.078 | 1209.8 | -12.8 |
+| +30 days | 0.078 | 1209.7 | -12.8 |
 | +60 days | 0.073 | 1202.7 | -19.8 |
 | +90 days | 0.073 | 1201.8 | -20.8 |
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | The Ohio Meat Wagon | 322 | 1228.2 | +0.9 | +67.9 |
-| Team TahMeow | 321 | 1235.8 | +8.5 | +75.2 |
+| Team TahMeow | 321 | 1235.7 | +8.4 | +75.3 |
 | Full White | 320 | 1236.9 | +9.6 | +69.0 |
 | 773Revival | 319 | 1238.2 | +10.9 | +69.2 |
-| fiveB | 318 | 1238.5 | +11.2 | +75.5 |
+| fiveB | 318 | 1238.5 | +11.2 | +75.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Biggie Cheese Fan Club | 151 | +349.3 | +120.2 | +13.0 |
+| Biggie Cheese Fan Club | 151 | +349.3 | +120.3 | +13.0 |
 | WhiteBoyWinter | 155 | +339.4 | +125.9 | +12.7 |
-| offBalance | 165 | +315.0 | +124.5 | +11.8 |
-| Pug Palace | 167 | +308.5 | +126.9 | +11.4 |
-| BucketJonsBoys | 172 | +305.8 | +120.6 | +11.3 |
-| Shaboing Boing Bandits | 173 | +303.3 | +132.8 | +11.2 |
-| Armored Talent | 174 | +302.5 | +136.3 | +11.1 |
-| Firstwave | 175 | +299.7 | +120.4 | +10.9 |
-| Order Zero | 156 | +337.4 | +111.2 | +10.8 |
-| APEX | 176 | +294.6 | +124.2 | +10.7 |
+| offBalance | 165 | +315.0 | +124.6 | +11.8 |
+| Pug Palace | 167 | +308.5 | +127.0 | +11.4 |
+| BucketJonsBoys | 172 | +305.7 | +120.7 | +11.3 |
+| Shaboing Boing Bandits | 173 | +303.3 | +132.9 | +11.2 |
+| Armored Talent | 174 | +302.5 | +136.4 | +11.1 |
+| Firstwave | 175 | +299.7 | +120.5 | +10.9 |
+| Order Zero | 156 | +337.5 | +111.2 | +10.8 |
+| APEX | 176 | +294.6 | +124.3 | +10.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +211.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +211.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.3).
 
@@ -76,12 +76,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Veniversum | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -70.1 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-09-10 | HIGHPOINT | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.09 | 1.07 | +15.4 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
-| 2026-09-08 | ERICKFARRAR | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.04 | 1.06 | +91.0 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
+| 2026-09-08 | ERICKFARRAR | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.04 | 1.06 | +91.1 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-09-06 | The High Crew | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.04 | 1.04 | +148.9 | CHEF-GEORGE, PaQeZ, Topolino, drippppp, ian- |
 | 2026-09-02 | Piggy LLC | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.00 | 0.00 | -202.0 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-06-12 | retirement home | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -167.2 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
 | 2026-06-03 | JPG | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -182.6 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
-| 2026-05-29 | The Third Eye | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +206.9 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
+| 2026-05-29 | The Third Eye | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +207.0 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
 | 2026-05-27 | gummyx mentality | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +164.2 | CHEF-GEORGE, Nud0, Treaux_, drippppp, ian- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

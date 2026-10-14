@@ -3,11 +3,11 @@ Team Name: SNOWPLOWERS
 Roster: Tyreesh, Cocaina97, Jequavius, zepps, MUZILLA
 NARS Rank: 482 of 506
 
-Final Rating: 731.4
+Final Rating: 731.3
 Seeded Start: 1206.8
-H2H Adjustment: -475.4
+H2H Adjustment: -475.5
 
-Final Rating (731.4) = Seeded Start (1206.8) + H2H Adjustment (-475.4)
+Final Rating (731.3) = Seeded Start (1206.8) + H2H Adjustment (-475.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.076 | 1206.8 | - |
-| +30 days | 0.060 | 1183.4 | -23.4 |
+| +30 days | 0.060 | 1183.3 | -23.4 |
 | +60 days | 0.051 | 1171.3 | -35.5 |
 | +90 days | 0.037 | 1151.9 | -54.9 |
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| CVC Retirement | 481 | 742.2 | +10.8 | +165.7 |
-| HUMA | 480 | 747.4 | +16.0 | +177.2 |
-| FourStrokeGang | 479 | 748.4 | +17.0 | +171.1 |
-| Kushtaka | 478 | 757.6 | +26.2 | +170.6 |
-| Brick Layers | 477 | 764.2 | +32.8 | +172.8 |
+| CVC Retirement | 481 | 742.1 | +10.8 | +165.7 |
+| HUMA | 480 | 747.3 | +16.0 | +177.2 |
+| FourStrokeGang | 479 | 748.4 | +17.1 | +171.1 |
+| Kushtaka | 478 | 757.5 | +26.2 | +170.6 |
+| Brick Layers | 477 | 764.1 | +32.8 | +172.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Benadryl Abusers | 396 | +329.8 | +311.6 | +30.6 |
-| ReGen | 400 | +321.5 | +311.0 | +29.9 |
-| Big Fish | 402 | +319.6 | +309.7 | +29.7 |
-| James Bond Bois | 401 | +320.6 | +277.6 | +29.0 |
-| house | 403 | +317.5 | +338.6 | +28.8 |
+| Benadryl Abusers | 396 | +329.9 | +311.6 | +30.6 |
+| ReGen | 400 | +321.6 | +311.0 | +29.9 |
+| Big Fish | 402 | +319.7 | +309.7 | +29.7 |
+| James Bond Bois | 401 | +320.7 | +277.6 | +29.0 |
+| house | 403 | +317.6 | +338.6 | +28.8 |
 | Epochal Esports | 413 | +304.7 | +312.9 | +27.6 |
-| three11 | 398 | +325.7 | +279.6 | +27.4 |
+| three11 | 398 | +325.7 | +279.5 | +27.4 |
 | Shock Value | 405 | +315.2 | +275.6 | +26.9 |
-| Team Hyper | 409 | +305.9 | +358.9 | +26.5 |
-| High T Low E | 391 | +342.0 | +285.8 | +26.5 |
+| Team Hyper | 409 | +306.0 | +358.9 | +26.5 |
+| High T Low E | 391 | +342.1 | +285.8 | +26.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -71,7 +71,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-28 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -74.3 | Cocaina97, Jequavius, NoWehes, Tyreesh, zepps |
+| 2026-08-28 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -74.4 | Cocaina97, Jequavius, NoWehes, Tyreesh, zepps |
 | 2026-08-21 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.04 | 0.85 | +61.3 | Jequavius, MUZILLA, Tyreesh, lekiyagi, zepps |
 | 2026-08-19 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.03 | 0.84 | +84.9 | Cocaina97, Jequavius, MUZILLA, Tyreesh, zepps |
 | 2026-08-14 | Wiggle Peeks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -13.8 | Cocaina97, Jequavius, MUZILLA, Tyreesh, zepps |
@@ -89,6 +89,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-06 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -10.1 | Cocaina97, Jequavius, NoWehes, Tyreesh, zepps |
 | 2026-05-01 | Sassy Sunshines | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -0.3 | Cocaina97, Jequavius, MUZILLA, lekiyagi, zepps |
 | 2026-04-29 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -152.9 | ERRRRRAAAAA, Jequavius, NoWehes, Tyreesh, zepps |
-| 2026-04-24 | DingTone | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -296.2 | Cocaina97, ITSZOZO, Jequavius, MUZILLA, Tyreesh, zepps |
+| 2026-04-24 | DingTone | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -296.3 | Cocaina97, ITSZOZO, Jequavius, MUZILLA, Tyreesh, zepps |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

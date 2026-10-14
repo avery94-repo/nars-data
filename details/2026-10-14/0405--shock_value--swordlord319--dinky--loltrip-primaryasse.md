@@ -3,11 +3,11 @@ Team Name: Shock Value
 Roster: Swordlord319, -dinky-, loltrip, PrimaryAsset, Blurted
 NARS Rank: 405 of 506
 
-Final Rating: 1046.6
+Final Rating: 1046.5
 Seeded Start: 1106.3
-H2H Adjustment: -59.7
+H2H Adjustment: -59.8
 
-Final Rating (1046.6) = Seeded Start (1106.3) + H2H Adjustment (-59.7)
+Final Rating (1046.5) = Seeded Start (1106.3) + H2H Adjustment (-59.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| DownTown | 404 | 1047.0 | +0.4 | +162.4 |
-| house | 403 | 1048.9 | +2.3 | +173.1 |
-| Big Fish | 402 | 1051.0 | +4.4 | +170.1 |
-| James Bond Bois | 401 | 1052.0 | +5.4 | +164.0 |
-| ReGen | 400 | 1052.9 | +6.3 | +170.8 |
+| DownTown | 404 | 1046.8 | +0.3 | +162.4 |
+| house | 403 | 1048.9 | +2.4 | +173.2 |
+| Big Fish | 402 | 1051.0 | +4.5 | +170.1 |
+| James Bond Bois | 401 | 1052.0 | +5.5 | +164.0 |
+| ReGen | 400 | 1052.9 | +6.4 | +170.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| The Kerbins | 250 | +332.0 | +340.1 | +30.4 |
-| GoonAssOldheads | 258 | +323.2 | +306.0 | +30.3 |
-| Eightball | 253 | +329.0 | +329.7 | +30.0 |
-| Dude Picks | 252 | +330.9 | +356.1 | +29.8 |
-| 2THRiLL | 246 | +340.0 | +285.0 | +29.7 |
-| drunk cigs dont count | 255 | +326.5 | +346.0 | +29.6 |
-| THE GUILD | 264 | +312.4 | +294.8 | +29.0 |
-| Kinetic | 260 | +317.6 | +336.3 | +28.8 |
-| DadDick Esports | 261 | +315.8 | +330.4 | +28.8 |
+| The Kerbins | 250 | +332.1 | +340.2 | +30.4 |
+| GoonAssOldheads | 258 | +323.3 | +306.0 | +30.3 |
+| Eightball | 253 | +329.1 | +329.7 | +30.0 |
+| Dude Picks | 252 | +331.0 | +356.1 | +29.8 |
+| 2THRiLL | 246 | +340.1 | +285.0 | +29.7 |
+| drunk cigs dont count | 255 | +326.6 | +346.0 | +29.6 |
+| THE GUILD | 264 | +312.5 | +294.8 | +29.0 |
+| Kinetic | 260 | +317.7 | +336.4 | +28.8 |
+| DadDick Esports | 261 | +315.9 | +330.4 | +28.8 |
 | Wiggle Peeks | 265 | +310.2 | +313.4 | +28.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
@@ -76,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-20 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -179.8 | -dinky-, MichaeI_Weki, PrimaryAsset, Swordlord319, loltrip |
-| 2026-05-08 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -181.1 | -dinky-, M1D, PrimaryAsset, Swordlord319, loltrip |
+| 2026-05-08 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -181.2 | -dinky-, M1D, PrimaryAsset, Swordlord319, loltrip |
 | 2026-05-01 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -17.3 | Blurted, M1D, PrimaryAsset, Swordlord319, loltrip |
 | 2026-04-29 | 91AshLiu | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +3.6 | -dinky-, Blurted, M1D, PrimaryAsset, Swordlord319 |
 | 2026-04-24 | Happy Feed | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +12.6 | -dinky-, Blurted, PrimaryAsset, Swordlord319, loltrip |

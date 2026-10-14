@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | GOYPEEKING | 216 | 1450.0 | +0.1 | +69.2 |
-| Defaulting | 215 | 1451.7 | +1.8 | +74.0 |
+| Defaulting | 215 | 1451.7 | +1.8 | +74.1 |
 | HiveMind | 214 | 1456.6 | +6.7 | +73.0 |
 | Nomadic Tactics | 213 | 1456.6 | +6.7 | +66.0 |
 | FlockMunchers | 212 | 1459.1 | +9.2 | +76.8 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GeneticDiff | 70 | +343.0 | +128.0 | +12.1 |
+| GeneticDiff | 70 | +343.0 | +128.1 | +12.1 |
 | Asoka | 74 | +333.4 | +119.1 | +11.8 |
 | fih hou | 73 | +335.8 | +133.9 | +11.8 |
-| Kairo | 79 | +329.0 | +117.0 | +11.7 |
-| Club 333 | 76 | +332.3 | +146.0 | +11.6 |
-| firesale | 82 | +318.3 | +125.9 | +11.4 |
-| mas paspas | 75 | +333.0 | +139.8 | +11.2 |
+| Kairo | 79 | +329.0 | +117.1 | +11.7 |
+| Club 333 | 76 | +332.4 | +146.1 | +11.6 |
+| firesale | 82 | +318.3 | +126.0 | +11.5 |
+| mas paspas | 75 | +333.1 | +139.8 | +11.2 |
 | Diggers | 86 | +313.5 | +112.5 | +11.2 |
-| CNCS Last Hope | 72 | +338.7 | +105.4 | +11.1 |
-| Overtake Sector | 89 | +300.9 | +149.6 | +10.5 |
+| CNCS Last Hope | 72 | +338.8 | +105.5 | +11.1 |
+| Overtake Sector | 89 | +301.0 | +149.7 | +10.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +199.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +199.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 

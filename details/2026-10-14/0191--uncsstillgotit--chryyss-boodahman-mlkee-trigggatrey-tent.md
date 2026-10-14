@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | No Leaders Please | 190 | 1499.4 | +0.1 | +72.5 |
-| Lynnsanity | 189 | 1500.0 | +0.7 | +72.5 |
+| Lynnsanity | 189 | 1500.0 | +0.7 | +72.6 |
 | mokey mokey | 188 | 1503.7 | +4.4 | +63.8 |
 | Vibe Check | 187 | 1503.9 | +4.6 | +69.1 |
 | Alternate Earth | 186 | 1504.0 | +4.7 | +75.7 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +327.2 | +127.2 | +11.6 |
+| flat earth | 64 | +327.2 | +127.3 | +11.6 |
 | Endless Esports | 65 | +326.7 | +128.5 | +11.5 |
-| DUMBO | 63 | +327.8 | +142.4 | +11.1 |
-| WhalersOnDaMoon | 66 | +322.5 | +130.5 | +11.0 |
-| NZ Gaming | 69 | +313.9 | +116.6 | +10.9 |
-| GeneticDiff | 70 | +293.6 | +118.6 | +9.9 |
+| DUMBO | 63 | +327.8 | +142.5 | +11.1 |
+| WhalersOnDaMoon | 66 | +322.6 | +130.6 | +11.0 |
+| NZ Gaming | 69 | +313.9 | +116.7 | +10.9 |
+| GeneticDiff | 70 | +293.6 | +118.7 | +9.9 |
 | fih hou | 73 | +286.4 | +123.8 | +9.4 |
-| Club 333 | 76 | +282.9 | +134.5 | +9.3 |
+| Club 333 | 76 | +283.0 | +134.6 | +9.3 |
 | Asoka | 74 | +284.0 | +110.4 | +9.2 |
 | F5 Esports | 60 | +336.0 | +134.8 | +9.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +195.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +195.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 

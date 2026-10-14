@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Shadow Wizard Money Gang | 180 | 1515.9 | +2.7 | +172.7 |
-| ALL IN | 179 | 1516.6 | +3.4 | +160.4 |
-| FoxtrotAlpha | 178 | 1518.8 | +5.6 | +161.1 |
-| BUCK NASTY | 177 | 1518.9 | +5.7 | +161.1 |
-| APEX | 176 | 1521.9 | +8.7 | +170.0 |
+| Shadow Wizard Money Gang | 180 | 1515.9 | +2.7 | +172.8 |
+| ALL IN | 179 | 1516.6 | +3.4 | +160.5 |
+| FoxtrotAlpha | 178 | 1518.8 | +5.6 | +161.2 |
+| BUCK NASTY | 177 | 1518.8 | +5.6 | +161.2 |
+| APEX | 176 | 1521.9 | +8.7 | +170.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Omen Esports | 57 | +344.6 | +365.3 | +29.4 |
-| flat earth | 64 | +313.3 | +322.4 | +28.4 |
-| Endless Esports | 65 | +312.8 | +324.9 | +28.2 |
-| DUMBO | 63 | +313.9 | +354.5 | +27.1 |
-| WhalersOnDaMoon | 66 | +308.6 | +328.2 | +26.6 |
-| NZ Gaming | 69 | +300.0 | +297.4 | +26.5 |
-| GeneticDiff | 70 | +279.7 | +297.1 | +22.9 |
-| F5 Esports | 60 | +322.1 | +340.7 | +22.5 |
-| fih hou | 73 | +272.5 | +305.3 | +21.3 |
-| Asoka | 74 | +270.1 | +278.9 | +21.1 |
+| Omen Esports | 57 | +344.6 | +365.5 | +29.4 |
+| flat earth | 64 | +313.3 | +322.7 | +28.5 |
+| Endless Esports | 65 | +312.8 | +325.1 | +28.3 |
+| DUMBO | 63 | +313.9 | +354.7 | +27.1 |
+| WhalersOnDaMoon | 66 | +308.7 | +328.4 | +26.7 |
+| NZ Gaming | 69 | +300.0 | +297.6 | +26.5 |
+| GeneticDiff | 70 | +279.7 | +297.3 | +22.9 |
+| F5 Esports | 60 | +322.1 | +340.9 | +22.5 |
+| fih hou | 73 | +272.5 | +305.5 | +21.3 |
+| Asoka | 74 | +270.1 | +279.0 | +21.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +624.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +624.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -74,12 +74,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-11 | Over 30 | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -123.8 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
+| 2026-09-11 | Over 30 | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -123.9 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-09-09 | LXIX | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +74.1 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-09-04 | VORA | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +88.5 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-09-02 | Pixel Click | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +42.0 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
-| 2026-06-05 | Northern District | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -113.3 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
+| 2026-06-05 | Northern District | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -113.4 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-05-29 | purple reign | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +175.2 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
-| 2026-05-27 | We Bad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +173.9 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
+| 2026-05-27 | We Bad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +174.0 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

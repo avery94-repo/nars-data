@@ -3,11 +3,11 @@ Team Name: Hack-A-Shaq
 Roster: __Vert, LaPine-, kdm87, Meyer-, Person70
 NARS Rank: 442 of 506
 
-Final Rating: 928.1
+Final Rating: 928.0
 Seeded Start: 1227.2
-H2H Adjustment: -299.1
+H2H Adjustment: -299.2
 
-Final Rating (928.1) = Seeded Start (1227.2) + H2H Adjustment (-299.1)
+Final Rating (928.0) = Seeded Start (1227.2) + H2H Adjustment (-299.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.091 | 1227.2 | - |
-| +30 days | 0.066 | 1191.9 | -35.3 |
+| +30 days | 0.066 | 1191.9 | -35.2 |
 | +60 days | 0.052 | 1172.5 | -54.7 |
-| +90 days | 0.028 | 1139.5 | -87.7 |
+| +90 days | 0.028 | 1139.4 | -87.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.049 vs 0.050 average, gap -0.001). Matching that average is worth about 0.4 seed points.
 
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Emerald Isle | 441 | 928.2 | +0.1 | +162.3 |
-| After Hours | 440 | 931.5 | +3.4 | +163.3 |
-| Big Kahuna Gaming | 439 | 931.8 | +3.7 | +163.5 |
-| NADIYA | 438 | 933.2 | +5.1 | +163.9 |
-| WannaBeMovement | 437 | 936.9 | +8.8 | +165.1 |
+| Emerald Isle | 441 | 928.1 | +0.1 | +162.3 |
+| After Hours | 440 | 931.4 | +3.4 | +163.3 |
+| Big Kahuna Gaming | 439 | 931.8 | +3.8 | +163.5 |
+| NADIYA | 438 | 933.2 | +5.2 | +163.9 |
+| WannaBeMovement | 437 | 936.9 | +8.9 | +165.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | NATIONAL CS UNI | 301 | +338.0 | +320.0 | +31.6 |
-| Mud Wizards | 298 | +341.9 | +353.6 | +31.0 |
-| DingTone | 302 | +335.7 | +329.0 | +30.7 |
-| Guangzhou Loong Lions | 304 | +331.8 | +319.2 | +30.6 |
-| Team Nyx | 307 | +325.1 | +313.5 | +30.4 |
-| TELETUBEASTS | 303 | +335.1 | +350.6 | +29.9 |
-| fiveB | 318 | +310.4 | +306.4 | +28.5 |
+| Mud Wizards | 298 | +342.0 | +353.6 | +31.0 |
+| DingTone | 302 | +335.8 | +329.0 | +30.7 |
+| Guangzhou Loong Lions | 304 | +331.9 | +319.2 | +30.6 |
+| Team Nyx | 307 | +325.2 | +313.5 | +30.4 |
+| TELETUBEASTS | 303 | +335.2 | +350.6 | +29.9 |
+| fiveB | 318 | +310.5 | +306.5 | +28.5 |
 | Team TahMeow | 321 | +307.7 | +305.8 | +28.1 |
-| Asian Invasion | 308 | +322.6 | +278.4 | +26.9 |
+| Asian Invasion | 308 | +322.7 | +278.4 | +26.9 |
 | innerFire | 325 | +296.2 | +289.4 | +26.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
@@ -77,13 +77,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-28 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -59.1 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-08-26 | Wiggle Peeks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -106.3 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
-| 2026-08-21 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -136.2 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
+| 2026-08-21 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -136.3 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-08-19 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -68.4 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-08-14 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -72.0 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
-| 2026-08-12 | No Leaders Please | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.09 | 0.79 | +203.9 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
-| 2026-08-07 | Salsas Mazzin Crew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -197.3 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
+| 2026-08-12 | No Leaders Please | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.09 | 0.79 | +204.0 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
+| 2026-08-07 | Salsas Mazzin Crew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -197.4 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-08-05 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.03 | 0.74 | +7.1 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
-| 2026-07-31 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.03 | 0.71 | +184.7 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
+| 2026-07-31 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.03 | 0.71 | +184.8 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-07-29 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -304.4 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-07-24 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.06 | 0.66 | +1.0 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-07-22 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.06 | 0.65 | +61.5 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
@@ -93,7 +93,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Qinorhwat | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +23.2 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-05-20 | In Our Prime | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.22 | +245.9 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-05-15 | Grandpa Berets | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.00 | +245.7 | LaPine-, Meyer-, Person70, Traxs-, __Vert |
-| 2026-05-08 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +311.8 | Meyer-, Person70, Traxs-, __Vert, kdm87 |
+| 2026-05-08 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +311.9 | Meyer-, Person70, Traxs-, __Vert, kdm87 |
 | 2026-05-06 | Kushtaka | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -301.4 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-05-01 | GOMI dot CLUB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -349.0 | LaPine-, Meyer-, Person70, Traxs-, __Vert |
 | 2026-04-29 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +443.8 | LaPine-, Meyer-, Person70, Traxs-, __Vert |

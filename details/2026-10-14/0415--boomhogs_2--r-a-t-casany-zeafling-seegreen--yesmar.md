@@ -4,14 +4,14 @@ Roster: r-a-t, Casany, Zeafling, seegreen, -yesmar
 NARS Rank: 415 of 506
 
 Final Rating: 1021.7
-Seeded Start: 1145.4
-H2H Adjustment: -123.7
+Seeded Start: 1145.3
+H2H Adjustment: -123.6
 
-Final Rating (1021.7) = Seeded Start (1145.4) + H2H Adjustment (-123.7)
+Final Rating (1021.7) = Seeded Start (1145.3) + H2H Adjustment (-123.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.032 x 1400 = 1145.4
+                = 1100 + 0.032 x 1400 = 1145.3
 
 seed_factor 0.032 = 0.25 x Tier Exposure (0.044) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.081)
 
@@ -24,12 +24,12 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.032 | 1145.4 | - |
+| Now | 0.032 | 1145.3 | - |
 | +30 days | 0.027 | 1137.2 | -8.1 |
 | +60 days | 0.023 | 1131.7 | -13.6 |
 | +90 days | 0.021 | 1129.6 | -15.7 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.081 vs 0.272 average, gap -0.191). Matching that average is worth about 66.8 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.081 vs 0.272 average, gap -0.191). Matching that average is worth about 66.9 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31
 - Quality Wins drivers: beat Vantage at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.03; beat MSU MAROON at S57 NA Open9-10 Central - Playoffs B (2026-06-02) 0.00
@@ -40,21 +40,21 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | MakeYouSayLate | 414 | 1026.9 | +5.2 | +169.8 |
-| Epochal Esports | 413 | 1036.1 | +14.4 | +175.6 |
-| Moniseum | 412 | 1036.4 | +14.7 | +166.9 |
-| Duality Zero | 411 | 1036.4 | +14.7 | +166.9 |
+| Epochal Esports | 413 | 1036.0 | +14.3 | +175.6 |
+| Duality Zero | 412 | 1036.3 | +14.6 | +166.9 |
+| Moniseum | 411 | 1036.4 | +14.7 | +166.9 |
 | STIM | 410 | 1036.9 | +15.2 | +167.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GoonAssOldheads | 258 | +348.1 | +317.6 | +32.7 |
+| GoonAssOldheads | 258 | +348.1 | +317.6 | +32.6 |
 | THE GUILD | 264 | +337.3 | +305.9 | +31.9 |
 | DadDick Esports | 261 | +340.7 | +344.5 | +31.2 |
-| Wiggle Peeks | 265 | +335.1 | +326.2 | +31.2 |
+| Wiggle Peeks | 265 | +335.0 | +326.2 | +31.2 |
 | Kinetic | 260 | +342.5 | +350.8 | +31.1 |
-| ASCEND | 263 | +338.4 | +330.4 | +31.0 |
+| ASCEND | 263 | +338.3 | +330.4 | +30.9 |
 | PASSION | 269 | +327.7 | +333.1 | +30.2 |
 | DUI | 262 | +339.3 | +284.7 | +27.6 |
 | Saltcrew | 276 | +299.1 | +295.9 | +26.9 |

@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| KIS | 185 | +348.1 | +131.6 | +13.9 |
+| KIS | 185 | +348.2 | +131.6 | +13.9 |
 | Lynnsanity | 189 | +341.5 | +149.8 | +13.5 |
-| No Leaders Please | 190 | +340.9 | +149.7 | +13.5 |
+| No Leaders Please | 190 | +340.9 | +149.8 | +13.5 |
 | ClanAgain | 195 | +334.8 | +130.3 | +13.5 |
-| teamington | 192 | +339.6 | +137.2 | +13.4 |
-| Alternate Earth | 186 | +345.5 | +159.5 | +13.4 |
-| ABG Esports | 196 | +330.2 | +147.3 | +13.4 |
-| UncsStillGotIt | 191 | +340.8 | +158.5 | +13.3 |
-| O Fire | 198 | +330.0 | +152.2 | +13.1 |
+| teamington | 192 | +339.5 | +137.2 | +13.4 |
+| Alternate Earth | 186 | +345.5 | +159.6 | +13.4 |
+| ABG Esports | 196 | +330.2 | +147.4 | +13.4 |
+| UncsStillGotIt | 191 | +340.8 | +158.6 | +13.3 |
+| O Fire | 198 | +330.0 | +152.3 | +13.1 |
 | Bad Jawn | 200 | +323.6 | +149.9 | +12.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +228.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +228.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.6).
 

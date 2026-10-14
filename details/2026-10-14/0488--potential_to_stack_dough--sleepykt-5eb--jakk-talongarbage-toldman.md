@@ -42,23 +42,23 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Grandpa Berets | 487 | 691.1 | +5.1 | +172.8 |
 | Knight Owls | 486 | 693.4 | +7.4 | +164.6 |
 | monitor off | 485 | 714.4 | +28.4 | +183.2 |
-| Power of Friendship | 484 | 720.1 | +34.1 | +173.2 |
-| EZ2025 | 483 | 721.3 | +35.3 | +187.5 |
+| Power of Friendship | 484 | 720.0 | +34.0 | +173.2 |
+| EZ2025 | 483 | 721.2 | +35.2 | +187.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
+| Epochal Esports | 413 | +350.0 | +336.5 | +32.3 |
 | MakeYouSayLate | 414 | +340.9 | +316.1 | +32.0 |
-| Mace Lindu Ruff Rebound | 417 | +331.3 | +297.6 | +31.3 |
+| Mace Lindu Ruff Rebound | 417 | +331.2 | +297.6 | +31.3 |
 | Kodaks Lettuce | 418 | +325.4 | +305.2 | +30.5 |
 | puggin4seb | 419 | +316.8 | +318.4 | +29.2 |
-| Strafe | 420 | +316.2 | +318.9 | +28.9 |
+| Strafe | 420 | +316.1 | +318.9 | +28.9 |
 | HigherEducation | 416 | +331.5 | +281.8 | +24.6 |
 | Halcyon | 423 | +307.8 | +272.7 | +22.7 |
-| Famas OP | 426 | +298.9 | +269.3 | +21.4 |
+| Famas OP | 426 | +298.8 | +269.2 | +21.4 |
 | GodFather Gaming | 428 | +297.8 | +268.9 | +19.4 |
-| Boomhogs 2 | 415 | +335.7 | +283.3 | +18.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | No pain No aim | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.00 | 0.00 | -28.2 | -CraM-, -jakk, sleepykt, the-Supreme, toldman |
 | 2026-09-03 | house | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.00 | 0.00 | -14.8 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
 | 2026-05-08 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -161.4 | -jakk, 5eb, Bernurd, sleepykt, toldman |
-| 2026-05-08 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -366.5 | -jakk, 5eb, Bernurd, sleepykt, toldman |
+| 2026-05-08 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -366.6 | -jakk, 5eb, Bernurd, sleepykt, toldman |
 | 2026-05-01 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -22.9 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
 | 2026-04-28 | Remnant | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.01 | 0.07 | +163.4 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
 

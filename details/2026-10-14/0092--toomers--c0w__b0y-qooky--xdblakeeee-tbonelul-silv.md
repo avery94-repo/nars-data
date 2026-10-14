@@ -3,11 +3,11 @@ Team Name: Toomers
 Roster: c0w__b0y, Qooky-, xdBlakeeee, Tbonelul, Silveraa
 NARS Rank: 92 of 506
 
-Final Rating: 1742.5
+Final Rating: 1742.6
 Seeded Start: 1230.5
-H2H Adjustment: +512.0
+H2H Adjustment: +512.1
 
-Final Rating (1742.5) = Seeded Start (1230.5) + H2H Adjustment (+512.0)
+Final Rating (1742.6) = Seeded Start (1230.5) + H2H Adjustment (+512.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Fathom Gaming | 91 | 1745.3 | +2.8 | +121.2 |
-| Fire Nation | 90 | 1749.7 | +7.2 | +123.2 |
-| Overtake Sector | 89 | 1750.8 | +8.3 | +135.0 |
-| Manx Recovery Program | 88 | 1751.4 | +8.9 | +121.1 |
-| PROFECO | 87 | 1755.1 | +12.6 | +116.8 |
+| Fathom Gaming | 91 | 1745.3 | +2.7 | +121.2 |
+| Fire Nation | 90 | 1749.7 | +7.1 | +123.3 |
+| Overtake Sector | 89 | 1750.9 | +8.3 | +135.1 |
+| Manx Recovery Program | 88 | 1751.4 | +8.8 | +121.2 |
+| PROFECO | 87 | 1755.2 | +12.6 | +116.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Olympus | 25 | +297.1 | +223.4 | +18.6 |
-| Automatic HQ | 27 | +288.3 | +232.5 | +17.2 |
-| VOID ALUNE | 29 | +265.3 | +176.3 | +14.0 |
-| Hairy Scary Bandits | 32 | +256.9 | +213.0 | +13.2 |
-| Chicken Coop | 33 | +255.7 | +242.0 | +12.8 |
-| Festina Lente | 24 | +300.3 | +184.5 | +10.8 |
-| Holly Molly | 35 | +245.9 | +199.5 | +10.8 |
-| EMPIRE | 36 | +241.1 | +222.2 | +10.1 |
-| unreal nightmare | 37 | +234.1 | +191.6 | +8.6 |
-| babaG | 28 | +266.2 | +226.3 | +8.6 |
+| Olympus | 25 | +297.1 | +223.6 | +18.6 |
+| Automatic HQ | 27 | +288.3 | +232.7 | +17.2 |
+| VOID ALUNE | 29 | +265.3 | +176.5 | +14.0 |
+| Hairy Scary Bandits | 32 | +256.8 | +213.2 | +13.2 |
+| Chicken Coop | 33 | +255.6 | +242.2 | +12.8 |
+| Festina Lente | 24 | +300.2 | +184.7 | +10.8 |
+| Holly Molly | 35 | +245.8 | +199.7 | +10.8 |
+| EMPIRE | 36 | +241.0 | +222.3 | +10.1 |
+| unreal nightmare | 37 | +234.0 | +191.8 | +8.6 |
+| babaG | 28 | +266.2 | +226.4 | +8.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +396.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +396.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), we get it back (+0.0).
 
@@ -71,9 +71,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-18 | Over 30 | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -80.7 | Qooky-, Silveraa, c0w__b0y, xdBlakeeee |
 | 2026-09-16 | Appalachian Apes | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.06 | 1.00 | +63.4 | Qooky-, Silveraa, Tbonelul, c0w__b0y, xdBlakeeee |
-| 2026-09-11 | Nebraska Fishing Supply | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.03 | 0.98 | +83.7 | Qooky-, Silveraa, Tbonelul, c0w__b0y, xdBlakeeee |
-| 2026-09-09 | FORTIS | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +83.6 | Qooky-, Silveraa, Tbonelul, c0w__b0y, xdBlakeeee |
-| 2026-09-04 | Calm Cocktails | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.04 | 0.93 | +84.2 | --Zen-, Qooky-, Tbonelul, c0w__b0y, xdBlakeeee |
+| 2026-09-11 | Nebraska Fishing Supply | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.03 | 0.98 | +83.8 | Qooky-, Silveraa, Tbonelul, c0w__b0y, xdBlakeeee |
+| 2026-09-09 | FORTIS | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +83.7 | Qooky-, Silveraa, Tbonelul, c0w__b0y, xdBlakeeee |
+| 2026-09-04 | Calm Cocktails | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.04 | 0.93 | +84.1 | --Zen-, Qooky-, Tbonelul, c0w__b0y, xdBlakeeee |
 | 2026-09-02 | LetsWinGaming | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.04 | 0.92 | +277.8 | Qooky-, Silveraa, Tbonelul, c0w__b0y, xdBlakeeee |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

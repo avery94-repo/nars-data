@@ -41,26 +41,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | GOBLINS | 199 | 1486.4 | +4.3 | +76.3 |
 | O Fire | 198 | 1488.5 | +6.4 | +88.5 |
-| Storm Surge | 197 | 1488.6 | +6.5 | +76.8 |
-| ABG Esports | 196 | 1488.7 | +6.6 | +87.0 |
-| ClanAgain | 195 | 1493.3 | +11.2 | +81.7 |
+| Storm Surge | 197 | 1488.6 | +6.5 | +76.9 |
+| ABG Esports | 196 | 1488.7 | +6.6 | +87.1 |
+| ClanAgain | 195 | 1493.3 | +11.2 | +81.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +344.4 | +156.1 | +14.4 |
-| Endless Esports | 65 | +343.9 | +157.6 | +14.4 |
+| flat earth | 64 | +344.4 | +156.2 | +14.4 |
+| Endless Esports | 65 | +343.9 | +157.7 | +14.4 |
 | NZ Gaming | 69 | +331.1 | +143.2 | +13.9 |
-| DUMBO | 63 | +345.0 | +174.6 | +13.8 |
-| WhalersOnDaMoon | 66 | +339.7 | +160.1 | +13.8 |
+| DUMBO | 63 | +345.0 | +174.7 | +13.8 |
+| WhalersOnDaMoon | 66 | +339.8 | +160.2 | +13.8 |
 | GeneticDiff | 70 | +310.8 | +145.6 | +12.9 |
 | fih hou | 73 | +303.6 | +151.8 | +12.5 |
 | Asoka | 74 | +301.2 | +135.6 | +12.3 |
-| Club 333 | 76 | +300.1 | +164.8 | +12.3 |
-| Kairo | 79 | +296.8 | +133.2 | +12.1 |
+| Club 333 | 76 | +300.2 | +164.9 | +12.3 |
+| Kairo | 79 | +296.8 | +133.3 | +12.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +240.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +240.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -81,11 +81,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | UsingCodefArt25atSCL | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.00 | 0.00 | -106.6 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-09-10 | No Excuses | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.03 | 0.99 | +67.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-09-06 | GodFather Gaming | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.04 | 0.96 | +6.7 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-09-02 | APEX | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.07 | 0.93 | +144.0 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-09-02 | APEX | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.07 | 0.93 | +144.1 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-14 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +147.5 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-05-13 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -214.2 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-05-13 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -214.3 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-08 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +12.3 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-05-06 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +242.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-05-06 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +242.5 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-01 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -371.3 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-04-29 | monitor off | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +18.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-04-24 | Ninjas In Boxer | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +271.8 | Cmp922, KDNK, pcaL, superv1llain, williamL |

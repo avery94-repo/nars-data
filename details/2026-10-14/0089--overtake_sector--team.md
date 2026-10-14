@@ -3,11 +3,11 @@ Team Name: Overtake Sector
 Roster: (unknown)
 NARS Rank: 89 of 506
 
-Final Rating: 1750.8
+Final Rating: 1750.9
 Seeded Start: 1483.2
-H2H Adjustment: +267.6
+H2H Adjustment: +267.7
 
-Final Rating (1750.8) = Seeded Start (1483.2) + H2H Adjustment (+267.6)
+Final Rating (1750.9) = Seeded Start (1483.2) + H2H Adjustment (+267.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.274 | 1483.2 | - |
 | +30 days | 0.319 | 1546.6 | +63.4 |
-| +60 days | 0.335 | 1569.2 | +86.0 |
-| +90 days | 0.367 | 1613.8 | +130.6 |
+| +60 days | 0.335 | 1569.3 | +86.0 |
+| +90 days | 0.367 | 1613.9 | +130.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.054 vs 0.072 average, gap -0.018). Matching that average is worth about 6.3 seed points.
 
@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Manx Recovery Program | 88 | 1751.4 | +0.6 | +25.5 |
-| PROFECO | 87 | 1755.1 | +4.3 | +23.9 |
-| Diggers | 86 | 1763.4 | +12.6 | +26.1 |
-| makeSHIFT | 85 | 1764.1 | +13.3 | +28.3 |
-| Orbit | 84 | 1765.3 | +14.5 | +24.4 |
+| Manx Recovery Program | 88 | 1751.4 | +0.5 | +25.5 |
+| PROFECO | 87 | 1755.2 | +4.3 | +23.9 |
+| Diggers | 86 | 1763.4 | +12.5 | +26.1 |
+| makeSHIFT | 85 | 1764.1 | +13.2 | +28.3 |
+| Orbit | 84 | 1765.3 | +14.4 | +24.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -52,12 +52,12 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Olympus | 25 | +288.8 | +45.5 | +3.6 |
 | Automatic HQ | 27 | +280.0 | +48.1 | +3.4 |
 | VOID ALUNE | 29 | +257.0 | +34.9 | +2.5 |
-| Chicken Coop | 33 | +247.4 | +52.0 | +2.5 |
-| Hairy Scary Bandits | 32 | +248.6 | +44.3 | +2.5 |
+| Chicken Coop | 33 | +247.3 | +52.0 | +2.5 |
+| Hairy Scary Bandits | 32 | +248.5 | +44.3 | +2.5 |
 | duck crew | 23 | +345.2 | +38.1 | +2.3 |
-| Festina Lente | 24 | +292.0 | +36.2 | +2.0 |
-| Holly Molly | 35 | +237.6 | +41.2 | +1.9 |
-| EMPIRE | 36 | +232.8 | +47.5 | +1.8 |
+| Festina Lente | 24 | +291.9 | +36.2 | +2.0 |
+| Holly Molly | 35 | +237.5 | +41.2 | +1.9 |
+| EMPIRE | 36 | +232.7 | +47.5 | +1.8 |
 | babaG | 28 | +257.9 | +47.4 | +1.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +67.4 points at current ratings.

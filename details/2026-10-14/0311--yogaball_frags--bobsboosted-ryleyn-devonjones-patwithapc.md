@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.114 | 1259.9 | - |
-| +30 days | 0.094 | 1231.5 | -28.5 |
+| +30 days | 0.094 | 1231.4 | -28.5 |
 | +60 days | 0.081 | 1213.8 | -46.1 |
-| +90 days | 0.058 | 1181.1 | -78.8 |
+| +90 days | 0.058 | 1181.0 | -78.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.311 vs 0.320 average, gap -0.009). Matching that average is worth about 3.2 seed points.
 
@@ -54,9 +54,9 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Kevin James Fan Club | 148 | +334.2 | +325.6 | +31.1 |
 | WhiteBoyWinter | 155 | +320.0 | +306.8 | +29.8 |
 | offBalance | 165 | +295.6 | +299.1 | +26.3 |
-| Order Zero | 156 | +318.0 | +276.6 | +25.4 |
+| Order Zero | 156 | +318.1 | +276.6 | +25.4 |
 | Pug Palace | 167 | +289.1 | +302.3 | +24.9 |
-| BucketJonsBoys | 172 | +286.4 | +289.7 | +24.8 |
+| BucketJonsBoys | 172 | +286.3 | +289.7 | +24.7 |
 | Shaboing Boing Bandits | 173 | +283.9 | +312.1 | +24.0 |
 | Armored Talent | 174 | +283.1 | +318.4 | +23.7 |
 
@@ -83,14 +83,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.15 | 0.90 | +110.6 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
 | 2026-08-05 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -90.2 | BobsBoosted, DevonJones, hoz, patwithapc, ryleyN |
 | 2026-07-31 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -107.0 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
-| 2026-07-29 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.07 | 0.79 | +223.0 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
+| 2026-07-29 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.07 | 0.79 | +223.1 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-07-24 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -136.7 | BobsBoosted, DevonJones, hoz, lerff, patwithapc, ryleyN |
-| 2026-07-22 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -62.2 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
+| 2026-07-22 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -62.3 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
 | 2026-07-17 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.07 | 0.70 | +359.7 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
-| 2026-05-20 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +269.2 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
+| 2026-05-20 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +269.4 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-15 | Bird Squishers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -40.7 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
-| 2026-05-13 | grogu | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -210.7 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
-| 2026-05-08 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -181.8 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
+| 2026-05-13 | grogu | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -210.8 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
+| 2026-05-08 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -181.9 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-06 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +302.7 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-01 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -12.2 | BobsBoosted, Crim, DevonJones, Hyperal, patwithapc |
 | 2026-04-29 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -41.5 | BobsBoosted, Crim, DevonJones, Hyperal, patwithapc |

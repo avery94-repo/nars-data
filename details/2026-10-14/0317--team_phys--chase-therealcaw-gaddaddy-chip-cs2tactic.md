@@ -31,18 +31,18 @@ Where this team's points come from and where they can grow. Projections are esti
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.099 vs 0.124 average, gap -0.025). Matching that average is worth about 8.7 seed points.
 
-- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.97; S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.31
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.96; S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.31
 - Quality Wins drivers: beat Trinity at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.03; beat Midnight Club at S57 NA Open1-8 Central - Playoffs (2026-05-29) 0.00; beat Freebrax at S57 NA Open1-8 Central - Playoffs (2026-05-28) 0.00
-- Opponent Network drivers: beat Trinity at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.97; beat Midnight Club at S57 NA Open1-8 Central - Playoffs (2026-05-29) 0.28; beat Freebrax at S57 NA Open1-8 Central - Playoffs (2026-05-28) 0.27
+- Opponent Network drivers: beat Trinity at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.96; beat Midnight Club at S57 NA Open1-8 Central - Playoffs (2026-05-29) 0.28; beat Freebrax at S57 NA Open1-8 Central - Playoffs (2026-05-28) 0.27
 
 Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Relativity | 316 | 1238.9 | +0.3 | +162.4 |
-| Once Divine Gaming | 315 | 1239.8 | +1.2 | +162.7 |
-| Baatarz | 314 | 1241.4 | +2.8 | +163.2 |
-| Better at WOT | 313 | 1246.5 | +7.9 | +167.4 |
+| Once Divine Gaming | 315 | 1239.7 | +1.1 | +162.6 |
+| Baatarz | 314 | 1241.2 | +2.6 | +163.1 |
+| Better at WOT | 313 | 1246.5 | +7.9 | +167.3 |
 | juked | 312 | 1246.5 | +7.9 | +166.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,15 +50,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Biggie Cheese Fan Club | 151 | +338.0 | +300.5 | +32.0 |
-| Kevin James Fan Club | 148 | +342.3 | +329.8 | +31.8 |
+| Kevin James Fan Club | 148 | +342.3 | +329.7 | +31.8 |
 | WhiteBoyWinter | 155 | +328.1 | +310.6 | +30.8 |
 | offBalance | 165 | +303.7 | +303.0 | +27.6 |
-| Order Zero | 156 | +326.1 | +279.7 | +26.4 |
+| Order Zero | 156 | +326.2 | +279.7 | +26.4 |
 | Pug Palace | 167 | +297.2 | +306.4 | +26.3 |
-| BucketJonsBoys | 172 | +294.5 | +293.5 | +26.2 |
+| BucketJonsBoys | 172 | +294.4 | +293.5 | +26.2 |
 | Shaboing Boing Bandits | 173 | +292.0 | +316.6 | +25.4 |
 | Armored Talent | 174 | +291.2 | +323.1 | +25.1 |
-| Firstwave | 175 | +288.4 | +292.0 | +25.1 |
+| Firstwave | 175 | +288.4 | +291.9 | +25.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -74,10 +74,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-04 | Trinity | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +91.5 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
+| 2026-09-04 | Trinity | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +91.6 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
 | 2026-09-03 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -196.8 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
 | 2026-06-03 | Head Trauma | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -183.5 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
 | 2026-05-29 | Midnight Club | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +184.6 | CS2Tactics, Chase, Chip, Isbop, TheRealCaw |
-| 2026-05-28 | Freebrax | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +190.9 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
+| 2026-05-28 | Freebrax | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +191.0 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

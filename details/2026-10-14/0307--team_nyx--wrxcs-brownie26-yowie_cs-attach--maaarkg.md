@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Anchors Anonymous | 306 | 1256.2 | +3.0 | +114.4 |
 | HeatPeek | 305 | 1258.6 | +5.4 | +114.8 |
-| Guangzhou Loong Lions | 304 | 1259.9 | +6.7 | +123.1 |
+| Guangzhou Loong Lions | 304 | 1259.9 | +6.7 | +123.2 |
 | TELETUBEASTS | 303 | 1263.2 | +10.0 | +129.2 |
 | DingTone | 302 | 1263.8 | +10.6 | +125.7 |
 
@@ -52,15 +52,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Team Amplus | 145 | +341.0 | +233.4 | +21.6 |
 | Kevin James Fan Club | 148 | +327.7 | +221.7 | +20.9 |
 | Biggie Cheese Fan Club | 151 | +323.4 | +200.9 | +20.8 |
-| WhiteBoyWinter | 155 | +313.5 | +208.7 | +19.9 |
-| offBalance | 165 | +289.1 | +204.7 | +17.4 |
-| Order Zero | 156 | +311.5 | +186.4 | +16.7 |
-| Pug Palace | 167 | +282.6 | +207.7 | +16.5 |
-| BucketJonsBoys | 172 | +279.9 | +198.3 | +16.3 |
+| WhiteBoyWinter | 155 | +313.5 | +208.8 | +19.9 |
+| offBalance | 165 | +289.1 | +204.8 | +17.4 |
+| Order Zero | 156 | +311.6 | +186.5 | +16.7 |
+| Pug Palace | 167 | +282.6 | +207.8 | +16.5 |
+| BucketJonsBoys | 172 | +279.8 | +198.3 | +16.3 |
 | Shaboing Boing Bandits | 173 | +277.4 | +215.7 | +15.9 |
-| Oath | 142 | +349.0 | +194.9 | +15.8 |
+| Oath | 142 | +349.0 | +195.0 | +15.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +395.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +395.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.3), SixSevenZaZa (+0.5).
 
@@ -70,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | NATIONAL CS UNI | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -248.4 | Yowie_cs, ZynRG, attach-, brownie26, rl4v |
-| 2026-09-12 | 55TH ST | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.07 | 1.00 | +124.0 | MaaarkG, RushDD, attach-, brownie26, wrxcs |
+| 2026-09-12 | 55TH ST | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.07 | 1.00 | +124.1 | MaaarkG, RushDD, attach-, brownie26, wrxcs |
 | 2026-09-08 | Upsetti Academy | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.03 | 0.98 | +101.5 | MaaarkG, Yowie_cs, attach-, brownie26, wrxcs |
 | 2026-09-06 | WannaBeMovement | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.04 | 0.96 | +61.2 | MaaarkG, Yowie_cs, attach-, brownie26, wrxcs |
 | 2026-09-04 | Team GREAT | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -158.6 | RushDD, Yowie_cs, attach-, brownie26, wrxcs |

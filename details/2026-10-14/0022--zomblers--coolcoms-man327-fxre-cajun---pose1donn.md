@@ -13,7 +13,7 @@ Final Rating (2114.7) = Seeded Start (2185.6) + H2H Adjustment (-70.9)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.775 x 1400 = 2185.6
 
-seed_factor 0.775 = 0.25 x Tier Exposure (0.876) + 0.50 x Quality Wins (0.635) + 0.25 x Opponent Network (0.955)
+seed_factor 0.775 = 0.25 x Tier Exposure (0.876) + 0.50 x Quality Wins (0.635) + 0.25 x Opponent Network (0.954)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -25,8 +25,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.775 | 2185.6 | - |
-| +30 days | 0.754 | 2155.6 | -30.1 |
-| +60 days | 0.733 | 2125.9 | -59.7 |
+| +30 days | 0.754 | 2155.5 | -30.1 |
+| +60 days | 0.733 | 2125.9 | -59.8 |
 | +90 days | 0.706 | 2088.7 | -96.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.635 vs 0.448 average, gap +0.187). Matching that average is worth about 0.0 seed points.
@@ -39,9 +39,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Iowa Stormboar | 21 | 2115.8 | +1.1 | +31.9 |
-| qcclan | 20 | 2146.1 | +31.4 | +29.5 |
-| MASTER ONE | 19 | 2159.4 | +44.7 | +29.1 |
+| Iowa Stormboar | 21 | 2115.9 | +1.2 | +31.9 |
+| qcclan | 20 | 2146.2 | +31.5 | +29.5 |
+| MASTER ONE | 19 | 2159.5 | +44.8 | +29.1 |
 | Villainous | 18 | 2160.7 | +46.0 | +35.5 |
 | NuTorious | 17 | 2165.7 | +51.0 | +28.4 |
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Overtake Sector | 10 | +257.4 | +45.3 | +2.7 |
-| Brahmas | 14 | +92.7 | +30.2 | -0.0 |
-| Iowa Stormboar | 21 | +1.1 | +31.9 | -0.0 |
-| regain | 12 | +141.4 | +43.9 | -0.0 |
+| Overtake Sector | 10 | +257.4 | +45.4 | +2.7 |
+| Brahmas | 14 | +92.8 | +30.2 | -0.0 |
+| Iowa Stormboar | 21 | +1.2 | +31.9 | -0.0 |
+| regain | 12 | +141.5 | +43.9 | -0.0 |
 | FarmVille | 16 | +52.9 | +36.4 | -0.0 |
 | NuTorious | 17 | +51.0 | +28.4 | -0.0 |
 | Desi Boyz | 11 | +217.8 | +42.8 | -0.0 |
-| Old Meta | 15 | +61.4 | +33.8 | -0.0 |
+| Old Meta | 15 | +61.5 | +33.8 | -0.0 |
 | Villainous | 18 | +46.0 | +35.5 | -0.0 |
-| qcclan | 20 | +31.4 | +29.5 | -0.3 |
+| qcclan | 20 | +31.5 | +29.5 | -0.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +67.0 points at current ratings.
 
@@ -74,54 +74,54 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-14 | Overtake Sector | L | 0-2 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -64.5 | core 3/5 |
 | 2026-10-12 | Chicken Coop | L | 0-2 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -57.0 | core 3/5 |
-| 2026-10-11 | Iowa Stormboar | W | 2-1 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 1.06 | 0.00 | +91.0 | core 3/5 |
+| 2026-10-11 | Iowa Stormboar | W | 2-1 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 1.06 | 0.00 | +91.1 | core 3/5 |
 | 2026-10-08 | Club 333 | W | 2-0 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 1.20 | 0.00 | +38.5 | core 3/5 |
 | 2026-10-07 | Hairy Scary Bandits | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 0.26 | 1.43 | +44.5 | -sml_, CAJUN--, CoolComs, Pose1doNN, twigsbn |
 | 2026-10-06 | mas paspas | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 0.25 | 1.43 | +43.3 | CAJUN--, CoolComs, Pose1doNN, twigsbn, yuush1 |
 | 2026-09-24 | Villainous | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -36.2 | CAJUN--, CoolComs, Pose1doNN, man327, twigsbn |
-| 2026-09-23 | Club 333 | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -42.0 | core 3/5 |
+| 2026-09-23 | Club 333 | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -42.0 | core 3/5 |
 | 2026-09-22 | NuTorious | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 1.39 | 1.55 | +23.3 | CAJUN--, CoolComs, Pose1doNN, man327, twigsbn |
 | 2026-09-22 | LAG Gaming | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -1.1 | core 3/5 |
 | 2026-09-20 | babaG | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.65 | 1.55 | +24.6 | CAJUN--, CoolComs, FxRE, Pose1doNN, twigsbn |
 | 2026-09-15 | Omen Esports | L | 1-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -28.5 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-09-14 | EMPIRE | W |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 1.28 | 1.54 | +16.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-09-14 | Olympus | L |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -17.6 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-09-14 | EMPIRE | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 1.28 | 1.54 | +16.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-09-14 | Olympus | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -17.6 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-09-14 | Olympus | L | 0-2 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 1.00 | 1.46 | 1.00 | 1.45 | 0.00 | 0.00 | -21.5 | CAJUN--, CoolComs, Pose1doNN, man327, twigsbn |
 | 2026-09-14 | OMEN | L |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.59 | 0.00 | 0.00 | -29.0 | core 3/5 |
 | 2026-09-11 | Desi Boyz | L | 1-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.98 | 1.55 | 1.00 | 1.52 | 0.00 | 0.00 | -19.1 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-09-10 | Desi Boyz | L |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -23.9 | core 3/5 |
+| 2026-09-10 | Desi Boyz | L | 1-2 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -23.9 | core 3/5 |
 | 2026-09-05 | Playing for fun | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.94 | 1.55 | 1.00 | 1.45 | 0.25 | 1.45 | +6.2 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-09-03 | Fathom Gaming | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.92 | 1.55 | 1.00 | 1.43 | 0.52 | 1.43 | +3.5 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-09-02 | New Legends | L | 1-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 0.00 | 0.00 | -93.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-09-02 | New Legends | L | 1-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 0.00 | 0.00 | -93.4 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-09-01 | DETONATE | L | 0-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.91 | 1.59 | 1.00 | 1.45 | 0.00 | 0.00 | -78.6 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-08-29 | Chicken Coop | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 0.00 | 0.00 | -80.0 | core 3/5 |
+| 2026-08-29 | Chicken Coop | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 0.00 | 0.00 | -80.1 | core 3/5 |
 | 2026-08-28 | FlyQuest RED | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.28 | 0.56 | 1.28 | +4.2 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-28 | Elusive | W |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.41 | 0.67 | 1.41 | +29.1 | core 3/5 |
-| 2026-08-27 | FarmVille | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.40 | 1.40 | 1.40 | +133.6 | core 3/5 |
-| 2026-08-26 | Incognito | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.30 | 1.39 | +0.3 | core 3/5 |
+| 2026-08-27 | FarmVille | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.40 | 1.40 | 1.40 | +133.6 | core 3/5 |
+| 2026-08-26 | Incognito | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.30 | 1.39 | +0.3 | core 3/5 |
 | 2026-08-25 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 1.25 | 1.25 | +87.2 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-08-25 | Hairy Scary Bandits | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.25 | 0.23 | 0.00 | +60.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-08-25 | EMPIRE | L |  | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.00 | 0.00 | -100.4 | core 3/5 |
-| 2026-08-24 | dice | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.25 | 0.21 | 1.25 | +24.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-08-21 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -79.9 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-08-25 | Hairy Scary Bandits | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.26 | 0.23 | 0.00 | +60.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-08-25 | EMPIRE | L | 1-2 | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.00 | 0.00 | -100.4 | core 3/5 |
+| 2026-08-24 | dice | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.46 | 1.00 | 1.25 | 0.21 | 1.25 | +24.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-08-21 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -79.9 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-20 | Skyline | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.42 | 1.21 | +2.5 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-08-19 | Club 333 | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.92 | 1.19 | +202.8 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-08-19 | Club 333 | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.92 | 1.19 | +202.9 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-17 | FarmVille | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.46 | 1.00 | 1.18 | 0.00 | 0.00 | -109.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-08-14 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.00 | 0.00 | -67.8 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-08-14 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.14 | 0.00 | 0.00 | -67.8 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-13 | Rejects | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.18 | 1.14 | +0.5 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-12 | KODEX ESPORTS | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.22 | 1.13 | +7.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-07 | Phantom Sense | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.37 | 1.08 | +2.5 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-05 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.18 | 0.00 | +94.5 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-07-31 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.17 | 1.01 | +167.1 | CAJUN--, CoolComs, FxRE, Pose1doNN, Sev |
+| 2026-07-31 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.17 | 1.01 | +167.2 | CAJUN--, CoolComs, FxRE, Pose1doNN, Sev |
 | 2026-07-29 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.20 | 0.99 | +1.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-07-17 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.14 | 0.87 | +17.2 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-07-15 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -411.1 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-05-03 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.00 | 0.00 | -104.2 | core 3/5 |
 | 2026-05-02 | Iowa Stormboar | W |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.10 | 0.15 | +3.5 | core 3/5 |
-| 2026-05-02 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -309.8 | core 3/5 |
+| 2026-05-02 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -309.9 | core 3/5 |
 | 2026-05-01 | regain | W |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.11 | 0.00 | +193.6 | core 3/5 |
 | 2026-04-30 | FISHER COLLEGE | W |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.11 | 0.00 | +189.9 | core 3/5 |
-| 2026-04-29 | Voca | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.12 | 0.00 | 0.00 | -359.9 | core 3/5 |
+| 2026-04-29 | Voca | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.12 | 0.00 | 0.00 | -360.0 | core 3/5 |
 | 2026-04-27 | regain | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.08 | 0.10 | +292.4 | core 3/5 |
 | 2026-04-26 | BOSS | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.07 | 0.00 | +366.2 | core 3/5 |
 | 2026-04-23 | regain | L |  | VRS-tracked 2026-04 | A | vrs | 0.03 | 1.59 | 1.00 | 0.06 | 0.00 | 0.00 | -108.8 | core 3/5 |

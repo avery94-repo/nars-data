@@ -3,15 +3,15 @@ Team Name: REPORT MASSIVE
 Roster: othelloo, HENBOOGA, millie, dr3xd, uncouth
 NARS Rank: 430 of 506
 
-Final Rating: 963.0
-Seeded Start: 1182.3
+Final Rating: 962.9
+Seeded Start: 1182.2
 H2H Adjustment: -219.3
 
-Final Rating (963.0) = Seeded Start (1182.3) + H2H Adjustment (-219.3)
+Final Rating (962.9) = Seeded Start (1182.2) + H2H Adjustment (-219.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.059 x 1400 = 1182.3
+                = 1100 + 0.059 x 1400 = 1182.2
 
 seed_factor 0.059 = 0.25 x Tier Exposure (0.038) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.175)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.059 | 1182.3 | - |
+| Now | 0.059 | 1182.2 | - |
 | +30 days | 0.039 | 1154.0 | -28.2 |
 | +60 days | 0.030 | 1142.1 | -40.1 |
 | +90 days | 0.014 | 1120.3 | -62.0 |
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Conduit eSports | 429 | 968.6 | +5.6 | +164.1 |
-| GodFather Gaming | 428 | 983.8 | +20.8 | +168.9 |
-| Knox Esports | 427 | 984.1 | +21.1 | +169.0 |
-| Famas OP | 426 | 984.9 | +21.9 | +169.2 |
-| Climbers | 425 | 986.0 | +23.0 | +169.6 |
+| Conduit eSports | 429 | 968.6 | +5.7 | +164.1 |
+| GodFather Gaming | 428 | 983.8 | +20.9 | +168.9 |
+| Knox Esports | 427 | 984.1 | +21.2 | +169.0 |
+| Famas OP | 426 | 984.8 | +21.9 | +169.2 |
+| Climbers | 425 | 985.9 | +23.0 | +169.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| ItAintOverYet | 284 | +339.6 | +310.9 | +32.0 |
-| Entertainment Cheese | 285 | +337.8 | +342.3 | +31.0 |
+| ItAintOverYet | 284 | +339.7 | +310.9 | +32.0 |
+| Entertainment Cheese | 285 | +337.9 | +342.3 | +31.0 |
 | Midwest Farmers | 286 | +333.3 | +337.6 | +30.7 |
-| Imperium | 283 | +342.5 | +286.0 | +30.5 |
-| 55TH ST | 288 | +328.3 | +342.0 | +30.0 |
-| Cream Team | 293 | +319.4 | +293.6 | +29.9 |
-| Resurgence | 290 | +320.6 | +311.4 | +29.8 |
-| Tractors | 292 | +320.0 | +327.1 | +29.4 |
-| COGNITIVE | 295 | +316.1 | +305.1 | +29.4 |
+| Imperium | 283 | +342.6 | +286.0 | +30.5 |
+| 55TH ST | 288 | +328.4 | +342.1 | +30.0 |
+| Cream Team | 293 | +319.5 | +293.6 | +30.0 |
+| Resurgence | 290 | +320.7 | +311.4 | +29.8 |
+| Tractors | 292 | +320.1 | +327.1 | +29.4 |
+| COGNITIVE | 295 | +316.2 | +305.1 | +29.4 |
 | NATIONAL CS UNI | 301 | +303.1 | +303.0 | +27.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
@@ -86,12 +86,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.03 | 0.66 | +0.7 | 1noonzee, HENBOOGA, dr3xd, millie, othelloo |
 | 2026-07-22 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +314.3 | 1noonzee, HENBOOGA, dr3xd, millie, othelloo |
 | 2026-07-15 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -91.7 | HENBOOGA, dr3xd, millie, nucIear, othelloo |
-| 2026-05-20 | MASTER ONE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +341.1 | cortado, dr3xd, millie, nucIear, uncouth |
-| 2026-05-08 | qcclan | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -360.7 | HENBOOGA, dr3xd, millie, othelloo, uncouth |
+| 2026-05-20 | MASTER ONE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +341.2 | cortado, dr3xd, millie, nucIear, uncouth |
+| 2026-05-08 | qcclan | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -360.8 | HENBOOGA, dr3xd, millie, othelloo, uncouth |
 | 2026-05-06 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +7.7 | HENBOOGA, dr3xd, millie, othelloo, uncouth |
 | 2026-05-01 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +18.3 | 1noonzee, dr3xd, millie, othelloo, uncouth |
 | 2026-04-29 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +101.9 | HENBOOGA, dr3xd, millie, othelloo, uncouth |
-| 2026-04-24 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +193.8 | cortado, dr3xd, millie, othelloo, uncouth |
+| 2026-04-24 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +193.9 | cortado, dr3xd, millie, othelloo, uncouth |
 | 2026-04-22 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -153.0 | 1noonzee, cortado, dr3xd, othelloo, uncouth |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

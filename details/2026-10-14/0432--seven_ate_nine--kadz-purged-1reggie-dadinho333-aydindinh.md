@@ -3,11 +3,11 @@ Team Name: Seven ate Nine
 Roster: Kadz, purGed, 1REGGIE, Dadinho333, aydindinho
 NARS Rank: 432 of 506
 
-Final Rating: 955.9
+Final Rating: 955.8
 Seeded Start: 1129.8
-H2H Adjustment: -173.9
+H2H Adjustment: -174.0
 
-Final Rating (955.9) = Seeded Start (1129.8) + H2H Adjustment (-173.9)
+Final Rating (955.8) = Seeded Start (1129.8) + H2H Adjustment (-174.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Suboptimal counterstrike | 431 | 961.8 | +5.9 | +168.9 |
-| REPORT MASSIVE | 430 | 963.0 | +7.1 | +164.5 |
-| Conduit eSports | 429 | 968.6 | +12.7 | +166.3 |
-| GodFather Gaming | 428 | 983.8 | +27.9 | +171.2 |
-| Knox Esports | 427 | 984.1 | +28.2 | +171.3 |
+| Suboptimal counterstrike | 431 | 961.8 | +6.0 | +168.9 |
+| REPORT MASSIVE | 430 | 962.9 | +7.1 | +164.5 |
+| Conduit eSports | 429 | 968.6 | +12.8 | +166.3 |
+| GodFather Gaming | 428 | 983.8 | +28.0 | +171.2 |
+| Knox Esports | 427 | 984.1 | +28.3 | +171.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| ItAintOverYet | 284 | +346.7 | +314.1 | +32.6 |
-| Entertainment Cheese | 285 | +344.9 | +346.2 | +31.5 |
-| Midwest Farmers | 286 | +340.4 | +341.5 | +31.3 |
-| Imperium | 283 | +349.6 | +288.7 | +31.2 |
-| Cream Team | 293 | +326.5 | +296.6 | +30.8 |
-| Resurgence | 290 | +327.7 | +314.9 | +30.6 |
-| 55TH ST | 288 | +335.4 | +346.1 | +30.6 |
-| COGNITIVE | 295 | +323.2 | +308.5 | +30.2 |
-| Tractors | 292 | +327.1 | +331.0 | +30.2 |
+| ItAintOverYet | 284 | +346.8 | +314.1 | +32.6 |
+| Entertainment Cheese | 285 | +345.0 | +346.2 | +31.5 |
+| Midwest Farmers | 286 | +340.4 | +341.5 | +31.2 |
+| Imperium | 283 | +349.7 | +288.7 | +31.2 |
+| Cream Team | 293 | +326.6 | +296.6 | +30.8 |
+| Resurgence | 290 | +327.8 | +314.9 | +30.6 |
+| 55TH ST | 288 | +335.5 | +346.1 | +30.6 |
+| COGNITIVE | 295 | +323.3 | +308.4 | +30.2 |
+| Tractors | 292 | +327.2 | +330.9 | +30.2 |
 | NATIONAL CS UNI | 301 | +310.2 | +306.4 | +28.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.

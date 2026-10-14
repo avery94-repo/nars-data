@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Room Temp IQs | 399 | 1056.5 | +3.6 | +115.4 |
-| three11 | 398 | 1057.1 | +4.2 | +115.6 |
-| Solar Gravity | 397 | 1060.6 | +7.7 | +116.3 |
+| Room Temp IQs | 399 | 1056.4 | +3.5 | +115.4 |
+| three11 | 398 | 1057.0 | +4.1 | +115.6 |
+| Solar Gravity | 397 | 1060.5 | +7.6 | +116.3 |
 | Benadryl Abusers | 396 | 1061.2 | +8.3 | +123.3 |
-| The Plague | 395 | 1062.5 | +9.6 | +116.8 |
+| The Plague | 395 | 1062.3 | +9.4 | +116.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | The Kerbins | 250 | +325.7 | +234.7 | +20.8 |
-| Dude Picks | 252 | +324.6 | +246.6 | +20.5 |
+| Dude Picks | 252 | +324.6 | +246.7 | +20.5 |
 | GoonAssOldheads | 258 | +316.9 | +209.9 | +20.4 |
 | Eightball | 253 | +322.7 | +227.2 | +20.4 |
-| drunk cigs dont count | 255 | +320.2 | +239.5 | +20.3 |
+| drunk cigs dont count | 255 | +320.2 | +239.6 | +20.3 |
 | 2THRiLL | 246 | +333.7 | +193.3 | +19.9 |
 | Kinetic | 260 | +311.3 | +233.1 | +19.7 |
-| DadDick Esports | 261 | +309.5 | +228.8 | +19.6 |
+| DadDick Esports | 261 | +309.5 | +228.9 | +19.6 |
 | THE GUILD | 264 | +306.1 | +202.2 | +19.5 |
-| ASCEND | 263 | +307.2 | +219.2 | +19.2 |
+| ASCEND | 263 | +307.1 | +219.3 | +19.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +399.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +399.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+1.0), shirtcockin (+1.4), Courage (+1.7).
 
@@ -72,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Team TahMeow | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -249.2 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
 | 2026-10-07 | KIS | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -120.8 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
 | 2026-09-08 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +31.6 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
-| 2026-09-03 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -20.9 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
+| 2026-09-03 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -21.0 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
 | 2026-09-02 | STALLOONS BALLOONS | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.09 | 0.95 | +237.8 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

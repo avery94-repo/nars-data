@@ -5,7 +5,7 @@ NARS Rank: 98 of 506
 
 Final Rating: 1719.5
 Seeded Start: 1384.7
-H2H Adjustment: +334.8
+H2H Adjustment: +334.8 (capped at +-300, raw +334.9)
 
 Final Rating (1719.5) = Seeded Start (1384.7) + H2H Adjustment (+334.8)
 
@@ -25,8 +25,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.203 | 1384.7 | - |
-| +30 days | 0.180 | 1352.6 | -32.2 |
-| +60 days | 0.160 | 1324.2 | -60.5 |
+| +30 days | 0.180 | 1352.5 | -32.2 |
+| +60 days | 0.160 | 1324.1 | -60.5 |
 | +90 days | 0.122 | 1270.9 | -113.8 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.087 vs 0.248 average, gap -0.161). Matching that average is worth about 56.4 seed points.
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| FlyQuest RED | 97 | 1720.7 | +1.2 | +132.8 |
-| NineFlyeSports | 96 | 1725.1 | +5.6 | +132.4 |
-| Crimson Vortex | 95 | 1727.4 | +7.9 | +123.0 |
-| Green Grove Retirement | 94 | 1728.6 | +9.1 | +131.4 |
-| Elusive | 93 | 1731.6 | +12.1 | +137.6 |
+| FlyQuest RED | 97 | 1720.7 | +1.2 | +132.9 |
+| NineFlyeSports | 96 | 1725.1 | +5.6 | +132.5 |
+| Crimson Vortex | 95 | 1727.4 | +7.9 | +123.1 |
+| Green Grove Retirement | 94 | 1728.6 | +9.1 | +131.5 |
+| Elusive | 93 | 1731.6 | +12.1 | +137.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Olympus | 25 | +320.1 | +240.3 | +21.4 |
-| Automatic HQ | 27 | +311.3 | +250.6 | +20.1 |
-| VOID ALUNE | 29 | +288.3 | +189.2 | +18.0 |
-| Hairy Scary Bandits | 32 | +279.9 | +229.8 | +17.3 |
-| Chicken Coop | 33 | +278.7 | +262.2 | +16.7 |
-| Holly Molly | 35 | +268.9 | +215.0 | +15.3 |
-| EMPIRE | 36 | +264.1 | +240.4 | +14.7 |
-| unreal nightmare | 37 | +257.1 | +206.6 | +13.6 |
-| Festina Lente | 24 | +323.3 | +197.8 | +13.4 |
-| North Forge | 38 | +251.7 | +250.5 | +12.6 |
+| Olympus | 25 | +320.2 | +240.6 | +21.5 |
+| Automatic HQ | 27 | +311.4 | +250.8 | +20.2 |
+| VOID ALUNE | 29 | +288.4 | +189.4 | +18.0 |
+| Hairy Scary Bandits | 32 | +279.9 | +230.0 | +17.3 |
+| Chicken Coop | 33 | +278.7 | +262.4 | +16.8 |
+| Holly Molly | 35 | +268.9 | +215.2 | +15.3 |
+| EMPIRE | 36 | +264.1 | +240.6 | +14.7 |
+| unreal nightmare | 37 | +257.1 | +206.7 | +13.6 |
+| Festina Lente | 24 | +323.3 | +197.9 | +13.4 |
+| North Forge | 38 | +251.7 | +250.7 | +12.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +416.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +416.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), Solbound (+0.0).
 
@@ -96,9 +96,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Wiggle Peeks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +34.1 | Do_Worrk, _9bitt, eIo, fadeh, sxstem |
 | 2026-05-14 | grogu | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +331.8 | Do_Worrk, _9bitt, eIo, fadeh, sxstem |
 | 2026-05-13 | Sassy Sunshines | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -6.7 | Do_Worrk, eIo, fadeh, sxstem, trespasser1 |
-| 2026-05-06 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +353.0 | Do_Worrk, _9bitt, eIo, endercat07, sxstem |
+| 2026-05-06 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +353.1 | Do_Worrk, _9bitt, eIo, endercat07, sxstem |
 | 2026-05-01 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -0.1 | Do_Worrk, _9bitt, eIo, fadeh, sxstem |
-| 2026-04-29 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -269.2 | Do_Worrk, _9bitt, eIo, fadeh, sxstem |
+| 2026-04-29 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -269.3 | Do_Worrk, _9bitt, eIo, fadeh, sxstem |
 | 2026-04-25 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -86.7 | Andy8, Do_Worrk, _9bitt, eIo, sxstem, trespasser1 |
 | 2026-04-24 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -369.2 | Do_Worrk, _9bitt, eIo, fadeh, sxstem |
 

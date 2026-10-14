@@ -39,10 +39,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| SOLA | 350 | 1178.1 | +0.1 | +120.1 |
+| SOLA | 350 | 1178.0 | +0.0 | +120.1 |
 | PPWesports | 349 | 1179.7 | +1.7 | +135.2 |
 | Will of Dih | 348 | 1181.1 | +3.1 | +121.3 |
-| Distinguished Ducks | 347 | 1184.6 | +6.6 | +122.0 |
+| Distinguished Ducks | 347 | 1184.5 | +6.5 | +122.0 |
 | The Jits | 346 | 1185.2 | +7.2 | +121.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -53,14 +53,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | APEX | 176 | +343.9 | +238.8 | +23.2 |
 | LAF | 183 | +333.3 | +232.2 | +22.6 |
 | GOOZPEEK | 182 | +335.1 | +243.8 | +22.6 |
-| KIS | 185 | +328.6 | +218.6 | +22.4 |
+| KIS | 185 | +328.7 | +218.6 | +22.4 |
 | Shadow Wizard Money Gang | 180 | +337.9 | +276.8 | +21.8 |
-| Lynnsanity | 189 | +322.0 | +245.3 | +21.6 |
+| Lynnsanity | 189 | +322.0 | +245.4 | +21.6 |
 | Alternate Earth | 186 | +326.0 | +260.4 | +21.5 |
-| No Leaders Please | 190 | +321.4 | +245.2 | +21.5 |
-| teamington | 192 | +320.1 | +226.4 | +21.4 |
+| No Leaders Please | 190 | +321.4 | +245.3 | +21.5 |
+| teamington | 192 | +320.0 | +226.4 | +21.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +424.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +424.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 

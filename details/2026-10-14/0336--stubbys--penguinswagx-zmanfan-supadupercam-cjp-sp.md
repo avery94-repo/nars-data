@@ -13,7 +13,7 @@ Final Rating (1201.2) = Seeded Start (1176.3) + H2H Adjustment (+24.9)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.054 x 1400 = 1176.3
 
-seed_factor 0.054 = 0.25 x Tier Exposure (0.047) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.162)
+seed_factor 0.054 = 0.25 x Tier Exposure (0.047) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.161)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.039 | 1153.9 | -22.4 |
 | +90 days | 0.036 | 1150.8 | -25.5 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.162 vs 0.174 average, gap -0.012). Matching that average is worth about 4.2 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.161 vs 0.174 average, gap -0.013). Matching that average is worth about 4.5 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-08) 0.98; S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
 - Quality Wins drivers: beat MgaEngot at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.03; beat Junior Varsity Esports at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.03; beat Boomhogs 2 at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.01
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| TEMPR | 335 | 1202.7 | +1.5 | +162.8 |
+| TEMPR | 335 | 1202.6 | +1.4 | +162.8 |
 | CLUE IN | 334 | 1210.6 | +9.4 | +166.9 |
 | The Agarthans | 333 | 1212.0 | +10.8 | +165.7 |
 | Solace | 332 | 1213.1 | +11.9 | +166.9 |
@@ -50,15 +50,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | offBalance | 165 | +341.1 | +321.3 | +31.9 |
-| BucketJonsBoys | 172 | +331.9 | +311.1 | +31.2 |
+| BucketJonsBoys | 172 | +331.8 | +311.1 | +31.2 |
 | Pug Palace | 167 | +334.6 | +325.6 | +30.9 |
 | Firstwave | 175 | +325.8 | +309.7 | +30.5 |
 | Shaboing Boing Bandits | 173 | +329.4 | +337.7 | +30.2 |
 | Armored Talent | 174 | +328.6 | +345.3 | +29.9 |
-| APEX | 176 | +320.7 | +317.3 | +29.7 |
+| APEX | 176 | +320.7 | +317.2 | +29.7 |
 | LAF | 183 | +310.1 | +308.1 | +28.5 |
 | GOOZPEEK | 182 | +311.9 | +321.9 | +28.4 |
-| KIS | 185 | +305.4 | +291.4 | +28.0 |
+| KIS | 185 | +305.5 | +291.4 | +28.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | OnThaGear | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -133.9 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
+| 2026-09-08 | OnThaGear | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -134.0 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
 | 2026-09-06 | MgaEngot | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.03 | 0.96 | +118.0 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
 | 2026-09-04 | No Excuses | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -152.0 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
 | 2026-09-02 | Junior Varsity Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.03 | 0.93 | +137.3 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |

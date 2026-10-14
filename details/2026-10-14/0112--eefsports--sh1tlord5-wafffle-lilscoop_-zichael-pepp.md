@@ -4,14 +4,14 @@ Roster: sh1tlord5, wafffle, LiLScoop_, Zichael, peppa
 NARS Rank: 112 of 506
 
 Final Rating: 1664.2
-Seeded Start: 1123.3
-H2H Adjustment: +540.9
+Seeded Start: 1123.2
+H2H Adjustment: +541.0
 
-Final Rating (1664.2) = Seeded Start (1123.3) + H2H Adjustment (+540.9)
+Final Rating (1664.2) = Seeded Start (1123.2) + H2H Adjustment (+541.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.017 x 1400 = 1123.3
+                = 1100 + 0.017 x 1400 = 1123.2
 
 seed_factor 0.017 = 0.25 x Tier Exposure (0.011) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.049)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.017 | 1123.3 | - |
+| Now | 0.017 | 1123.2 | - |
 | +30 days | 0.001 | 1101.7 | -21.6 |
-| +60 days | 0.000 | 1100.0 | -23.3 |
-| +90 days | 0.000 | 1100.0 | -23.3 |
+| +60 days | 0.000 | 1100.0 | -23.2 |
+| +90 days | 0.000 | 1100.0 | -23.2 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.049 vs 0.445 average, gap -0.396). Matching that average is worth about 138.6 seed points.
 
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Shimmer | 111 | 1667.1 | +2.9 | +165.7 |
+| Shimmer | 111 | 1667.1 | +2.9 | +165.6 |
 | Drip or Drown | 110 | 1669.0 | +4.8 | +172.0 |
 | Black Dragon Society | 109 | 1670.7 | +6.5 | +175.1 |
 | Holy Squid Empire | 108 | 1678.7 | +14.5 | +175.2 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| VOID ALUNE | 29 | +343.6 | +286.4 | +32.8 |
+| VOID ALUNE | 29 | +343.7 | +286.4 | +32.8 |
 | Hairy Scary Bandits | 32 | +335.2 | +347.0 | +31.1 |
 | Holly Molly | 35 | +324.2 | +324.5 | +30.0 |
 | Chicken Coop | 33 | +334.0 | +397.0 | +29.3 |
 | unreal nightmare | 37 | +312.4 | +311.6 | +29.0 |
 | EMPIRE | 36 | +319.4 | +363.0 | +28.7 |
 | North Forge | 38 | +307.0 | +378.6 | +26.8 |
-| Priority | 30 | +340.5 | +285.2 | +23.8 |
-| ZETTA | 39 | +305.8 | +321.2 | +23.1 |
-| babaG | 28 | +344.5 | +369.3 | +22.3 |
+| Priority | 30 | +340.6 | +285.2 | +23.8 |
+| ZETTA | 39 | +305.8 | +321.1 | +23.1 |
+| babaG | 28 | +344.6 | +369.2 | +22.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +639.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +639.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), After Peak (+0.0).
 

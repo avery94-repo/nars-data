@@ -3,11 +3,11 @@ Team Name: Epochal Esports
 Roster: Ceai, direkiller, BanFlash, 3r0, DonkeyDork
 NARS Rank: 413 of 506
 
-Final Rating: 1036.1
+Final Rating: 1036.0
 Seeded Start: 1340.0
-H2H Adjustment: -303.9
+H2H Adjustment: -304.0 (capped at +-300, raw -303.9)
 
-Final Rating (1036.1) = Seeded Start (1340.0) + H2H Adjustment (-303.9)
+Final Rating (1036.0) = Seeded Start (1340.0) + H2H Adjustment (-304.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.171 | 1340.0 | - |
-| +30 days | 0.148 | 1307.0 | -33.1 |
+| +30 days | 0.148 | 1306.9 | -33.1 |
 | +60 days | 0.128 | 1279.0 | -61.0 |
 | +90 days | 0.100 | 1239.9 | -100.1 |
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Moniseum | 412 | 1036.4 | +0.3 | +100.3 |
-| Duality Zero | 411 | 1036.4 | +0.3 | +100.3 |
-| STIM | 410 | 1036.9 | +0.8 | +100.4 |
-| Team Hyper | 409 | 1037.3 | +1.2 | +116.9 |
-| PSDN White | 408 | 1040.3 | +4.2 | +101.1 |
+| Duality Zero | 412 | 1036.3 | +0.3 | +100.3 |
+| Moniseum | 411 | 1036.4 | +0.4 | +100.3 |
+| STIM | 410 | 1036.9 | +0.9 | +100.4 |
+| Team Hyper | 409 | 1037.3 | +1.3 | +116.9 |
+| PSDN White | 408 | 1040.3 | +4.3 | +101.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| The Kerbins | 250 | +342.5 | +209.0 | +18.9 |
-| GoonAssOldheads | 258 | +333.7 | +186.3 | +18.8 |
-| Eightball | 253 | +339.5 | +202.2 | +18.6 |
-| Dude Picks | 252 | +341.4 | +220.2 | +18.6 |
-| drunk cigs dont count | 255 | +337.0 | +213.8 | +18.6 |
-| Kinetic | 260 | +328.1 | +208.2 | +18.2 |
-| THE GUILD | 264 | +322.9 | +179.6 | +18.2 |
-| DadDick Esports | 261 | +326.3 | +204.2 | +18.2 |
+| The Kerbins | 250 | +342.6 | +209.1 | +18.9 |
+| GoonAssOldheads | 258 | +333.8 | +186.4 | +18.8 |
+| Eightball | 253 | +339.6 | +202.2 | +18.6 |
+| Dude Picks | 252 | +341.5 | +220.2 | +18.6 |
+| drunk cigs dont count | 255 | +337.1 | +213.8 | +18.6 |
+| Kinetic | 260 | +328.2 | +208.2 | +18.2 |
+| THE GUILD | 264 | +323.0 | +179.6 | +18.2 |
+| DadDick Esports | 261 | +326.4 | +204.3 | +18.2 |
 | Wiggle Peeks | 265 | +320.7 | +192.9 | +18.0 |
 | ASCEND | 263 | +324.0 | +195.4 | +17.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +337.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +337.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+0.9), shirtcockin (+1.4), Courage (+1.7).
 
@@ -78,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | No Future Lifes Over | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -0.2 | 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
 | 2026-10-07 | DingTone | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -134.4 | 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
 | 2026-09-06 | Torii | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -35.5 | -b1rdman, 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
-| 2026-09-04 | redtyfguhoj | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +58.7 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
+| 2026-09-04 | redtyfguhoj | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +58.8 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
 | 2026-09-02 | QUPMANACS | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -1.1 | 3r0, BanFlash, CIoudWalker, Ceai, direkiller |
 | 2026-08-28 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -62.2 | -b1rdman, 3r0, BanFlash, CIoudWalker, direkiller |
 | 2026-08-27 | Elusive | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.00 | 0.00 | -0.0 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |
@@ -93,22 +93,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.03 | 0.78 | +8.2 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |
 | 2026-08-08 | F5 Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.75 | 1.20 | 1.00 | 0.90 | 0.00 | 0.00 | -0.2 | 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
 | 2026-08-07 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +98.1 | 3r0, BanFlash, CIoudWalker, Ceai, DonkeyDork, direkiller |
-| 2026-08-05 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.08 | 0.73 | +251.4 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |
+| 2026-08-05 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.08 | 0.73 | +251.5 | -b1rdman, 3r0, BanFlash, Ceai, direkiller |
 | 2026-07-31 | Solbound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -40.7 | 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
 | 2026-07-29 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -350.4 | BanFlash, CIoudWalker, Ceai, DonkeyDork, direkiller |
 | 2026-07-22 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -125.2 | 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
-| 2026-07-17 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.07 | 0.60 | +210.0 | 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
+| 2026-07-17 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.07 | 0.60 | +209.9 | 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
 | 2026-07-15 | redtyfguhoj | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -162.7 | 3r0, BanFlash, Ceai, DonkeyDork, direkiller |
-| 2026-06-07 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -194.8 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
-| 2026-06-05 | FLying PiGs | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.32 | +133.8 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
+| 2026-06-07 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -194.9 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
+| 2026-06-05 | FLying PiGs | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.32 | +133.9 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
 | 2026-05-29 | The Ohio Meat Wagon | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -42.2 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
 | 2026-05-27 | katzwitgunz | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +216.2 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
-| 2026-05-15 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -209.9 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
+| 2026-05-15 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -210.0 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
 | 2026-05-13 | CounterStreakrs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +25.8 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
-| 2026-05-08 | katzwitgunz | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.00 | +181.7 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
+| 2026-05-08 | katzwitgunz | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.00 | +181.8 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
 | 2026-05-06 | CVC Retirement | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +317.4 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
 | 2026-05-01 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -379.3 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
-| 2026-04-29 | Hairy Scary Bandits | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -91.8 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
+| 2026-04-29 | Hairy Scary Bandits | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -91.7 | 3r0, BanFlash, DonkeyDork, RCS2, direkiller |
 | 2026-04-24 | Akatsuki | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -270.7 | BanFlash, Ceai, DonkeyDork, RCS2, direkiller |
 | 2026-04-22 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +224.2 | BanFlash, Ceai, DonkeyDork, RCS2, direkiller |
 

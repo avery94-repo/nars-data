@@ -4,14 +4,14 @@ Roster: Shadowbladex, Tspencer1, Andooby, k4rmaa_, ObMmM
 NARS Rank: 469 of 506
 
 Final Rating: 812.8
-Seeded Start: 1113.8
-H2H Adjustment: -301.0
+Seeded Start: 1113.7
+H2H Adjustment: -300.9
 
-Final Rating (812.8) = Seeded Start (1113.8) + H2H Adjustment (-301.0)
+Final Rating (812.8) = Seeded Start (1113.7) + H2H Adjustment (-300.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.010 x 1400 = 1113.8
+                = 1100 + 0.010 x 1400 = 1113.7
 
 seed_factor 0.010 = 0.25 x Tier Exposure (0.008) + 0.50 x Quality Wins (0.001) + 0.25 x Opponent Network (0.030)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.010 | 1113.8 | - |
+| Now | 0.010 | 1113.7 | - |
 | +30 days | 0.001 | 1101.3 | -12.5 |
-| +60 days | 0.000 | 1100.0 | -13.8 |
-| +90 days | 0.000 | 1100.0 | -13.8 |
+| +60 days | 0.000 | 1100.0 | -13.7 |
+| +90 days | 0.000 | 1100.0 | -13.7 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.030 vs 0.184 average, gap -0.154). Matching that average is worth about 53.9 seed points.
 
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Pro Lapse | 468 | 822.2 | +9.4 | +165.3 |
+| Pro Lapse | 468 | 822.2 | +9.4 | +165.2 |
 | Octane | 467 | 825.4 | +12.6 | +166.3 |
 | Feels MAIN Man | 466 | 829.8 | +17.0 | +180.3 |
 | Spin da block | 465 | 830.0 | +17.2 | +167.7 |
@@ -51,12 +51,12 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | Comeback Bandits | 355 | +347.8 | +333.0 | +32.2 |
 | Macs Snacks | 359 | +341.1 | +312.9 | +32.1 |
-| 99 Thieves | 354 | +349.5 | +332.1 | +32.0 |
-| Aers Money Crew | 360 | +340.4 | +321.7 | +31.8 |
-| Temple of Swing | 362 | +334.6 | +316.7 | +31.4 |
-| MINDTRIP | 361 | +336.8 | +327.5 | +31.3 |
-| RH Help Desk | 358 | +345.7 | +358.2 | +31.2 |
-| WaterDrinkers | 364 | +333.3 | +333.5 | +30.8 |
+| 99 Thieves | 354 | +349.5 | +332.0 | +31.9 |
+| Aers Money Crew | 360 | +340.4 | +321.6 | +31.8 |
+| Temple of Swing | 362 | +334.6 | +316.6 | +31.4 |
+| MINDTRIP | 361 | +336.7 | +327.5 | +31.3 |
+| RH Help Desk | 358 | +345.7 | +358.1 | +31.2 |
+| WaterDrinkers | 364 | +333.3 | +333.4 | +30.8 |
 | OnThaGear | 363 | +333.6 | +334.9 | +30.8 |
 | Line Steppers | 367 | +326.0 | +308.2 | +30.6 |
 
@@ -72,15 +72,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +307.9 | Andooby, ObMmM, Tspencer1, danwill77, k4rmaa_ |
+| 2026-05-22 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +308.0 | Andooby, ObMmM, Tspencer1, danwill77, k4rmaa_ |
 | 2026-05-20 | GoopT | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -102.1 | Andooby, ObMmM, Shadowbladex, Tspencer1, k4rmaa_ |
-| 2026-05-15 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +186.6 | Andooby, ObMmM, Shadowbladex, Tspencer1, danwill77 |
-| 2026-05-13 | Dapper North | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -367.0 | Andooby, ObMmM, Shadowbladex, Tatankalanka, danwill77 |
+| 2026-05-15 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +186.7 | Andooby, ObMmM, Shadowbladex, Tspencer1, danwill77 |
+| 2026-05-13 | Dapper North | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -367.1 | Andooby, ObMmM, Shadowbladex, Tatankalanka, danwill77 |
 | 2026-05-08 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -47.8 | Andooby, Shadowbladex, Tatankalanka, Tspencer1, k4rmaa_ |
 | 2026-05-06 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -12.4 | ObMmM, Shadowbladex, Tatankalanka, Tspencer1, k4rmaa_ |
 | 2026-05-01 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -46.3 | Andooby, ObMmM, Shadowbladex, danwill77, k4rmaa_ |
 | 2026-04-29 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -280.6 | Andooby, ObMmM, Shadowbladex, danwill77, k4rmaa_ |
-| 2026-04-24 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +245.1 | Andooby, ObMmM, Shadowbladex, Tspencer1, k4rmaa_ |
-| 2026-04-22 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -184.4 | Andooby, ObMmM, Tatankalanka, Tspencer1, k4rmaa_ |
+| 2026-04-24 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +245.2 | Andooby, ObMmM, Shadowbladex, Tspencer1, k4rmaa_ |
+| 2026-04-22 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -184.5 | Andooby, ObMmM, Tatankalanka, Tspencer1, k4rmaa_ |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

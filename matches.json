@@ -2327,7 +2327,7 @@
   "team_a": "Wildcard",
   "team_b": "EAC",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -2338,7 +2338,7 @@
   "team_a": "Wildcard",
   "team_b": "INFINITE",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -2382,7 +2382,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "BBL",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -2393,7 +2393,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "HAVU",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2415,7 +2415,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "SANGAL",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -2426,7 +2426,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "XEPT",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2448,7 +2448,7 @@
   "team_a": "Voca",
   "team_b": "BASEMENT BOYS",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2459,7 +2459,7 @@
   "team_a": "Voca",
   "team_b": "BC.GAME",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -2492,7 +2492,7 @@
   "team_a": "Voca",
   "team_b": "SASHI",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2536,7 +2536,7 @@
   "team_a": "Marsborne",
   "team_b": "regain",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2690,7 +2690,7 @@
   "team_a": "M80",
   "team_b": "DENDELE",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -2701,7 +2701,7 @@
   "team_a": "Marsborne",
   "team_b": "FarmVille",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2712,7 +2712,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Without a Roof",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -2723,7 +2723,7 @@
   "team_a": "ASCEND",
   "team_b": "SwagMonkeyHats",
   "winner": "b",
-  "score": "",
+  "score": "W/O",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -2734,7 +2734,7 @@
   "team_a": "F5 Esports",
   "team_b": "ThirdSite",
   "winner": "b",
-  "score": "",
+  "score": "W/O",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -2756,7 +2756,7 @@
   "team_a": "M80",
   "team_b": "Voca",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2767,7 +2767,7 @@
   "team_a": "Marsborne",
   "team_b": "DETONATE",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2778,7 +2778,7 @@
   "team_a": "NRG",
   "team_b": "Wildcard",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -2811,7 +2811,7 @@
   "team_a": "Wildcard",
   "team_b": "DENDELE",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -2822,7 +2822,7 @@
   "team_a": "Without a Roof",
   "team_b": "Marsborne",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2855,7 +2855,7 @@
   "team_a": "Marsborne",
   "team_b": "regain",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -2877,7 +2877,7 @@
   "team_a": "DETONATE",
   "team_b": "Villainous",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -2888,7 +2888,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "FarmVille",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -2943,7 +2943,7 @@
   "team_a": "M80",
   "team_b": "BESTIA",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2954,7 +2954,7 @@
   "team_a": "M80",
   "team_b": "DENDELE",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -2976,7 +2976,7 @@
   "team_a": "NRG",
   "team_b": "Wildcard",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2987,7 +2987,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "MY LIFE BE LIKE",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -2998,7 +2998,7 @@
   "team_a": "Voca",
   "team_b": "BESTIA",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3009,7 +3009,7 @@
   "team_a": "Voca",
   "team_b": "DENDELE",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -3020,7 +3020,7 @@
   "team_a": "Wildcard",
   "team_b": "Chicken Coop",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3031,7 +3031,7 @@
   "team_a": "Without a Roof",
   "team_b": "Desi Boyz",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3064,7 +3064,7 @@
   "team_a": "DETONATE",
   "team_b": "Wanted Goons",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3075,7 +3075,7 @@
   "team_a": "FarmVille",
   "team_b": "unreal nightmare",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3086,7 +3086,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "Club 333",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3097,7 +3097,7 @@
   "team_a": "Villainous",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3119,7 +3119,7 @@
   "team_a": "Club 333",
   "team_b": "Zomblers",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3152,7 +3152,7 @@
   "team_a": "Marsborne",
   "team_b": "Iowa Stormboar",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3163,7 +3163,7 @@
   "team_a": "New Legends",
   "team_b": "unreal nightmare",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -3196,7 +3196,7 @@
   "team_a": "regain",
   "team_b": "FarmVille",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3207,7 +3207,7 @@
   "team_a": "Wanted Goons",
   "team_b": "FlyQuest RED",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3240,7 +3240,7 @@
   "team_a": "DETONATE",
   "team_b": "Club 333",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -3262,7 +3262,7 @@
   "team_a": "FarmVille",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3273,7 +3273,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "Wanted Goons",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3295,7 +3295,7 @@
   "team_a": "Marsborne",
   "team_b": "FlyQuest RED",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3328,7 +3328,7 @@
   "team_a": "Villainous",
   "team_b": "New Legends",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -3790,7 +3790,7 @@
   "team_a": "M80",
   "team_b": "3DMAX",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -3801,7 +3801,7 @@
   "team_a": "NRG",
   "team_b": "MIBR",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -3922,7 +3922,7 @@
   "team_a": "Club 333",
   "team_b": "Fathom Gaming",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -3977,7 +3977,7 @@
   "team_a": "Desi Boyz",
   "team_b": "Overtake Sector",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -4054,7 +4054,7 @@
   "team_a": "NRG",
   "team_b": "AURORA",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -4318,7 +4318,7 @@
   "team_a": "M80",
   "team_b": "B8",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -4351,7 +4351,7 @@
   "team_a": "M80",
   "team_b": "METIZPORT",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -4373,7 +4373,7 @@
   "team_a": "NRG",
   "team_b": "MOUZ",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -4494,7 +4494,7 @@
   "team_a": "Overtake Sector",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -4780,7 +4780,7 @@
   "team_a": "LAG Gaming",
   "team_b": "academy 4 gifted children",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -4857,7 +4857,7 @@
   "team_a": "NuTorious",
   "team_b": "Slimy Boogermen",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -4879,7 +4879,7 @@
   "team_a": "Zomblers",
   "team_b": "EMPIRE",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -4890,7 +4890,7 @@
   "team_a": "EMPIRE",
   "team_b": "BucketJonsBoys",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -4901,7 +4901,7 @@
   "team_a": "DETONATE",
   "team_b": "Phantom Sense",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -4934,7 +4934,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Without a Roof",
   "winner": "a",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -4967,7 +4967,7 @@
   "team_a": "Chicken Coop",
   "team_b": "Locally Hated",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -5000,7 +5000,7 @@
   "team_a": "Wanted Goons",
   "team_b": "unreal nightmare",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -5022,7 +5022,7 @@
   "team_a": "FarmVille",
   "team_b": "Celestial Esports",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -5044,7 +5044,7 @@
   "team_a": "Zomblers",
   "team_b": "Olympus",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -5055,7 +5055,7 @@
   "team_a": "Chicken Coop",
   "team_b": "Phantom Sense",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -5066,7 +5066,7 @@
   "team_a": "Overtake Sector",
   "team_b": "DETONATE",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -5077,7 +5077,7 @@
   "team_a": "Wanted Goons",
   "team_b": "Olympus",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -5506,7 +5506,7 @@
   "team_a": "EMPIRE",
   "team_b": "BucketJonsBoys",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -5517,7 +5517,7 @@
   "team_a": "Chicken Coop",
   "team_b": "Locally Hated",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -5583,7 +5583,7 @@
   "team_a": "Marsborne",
   "team_b": "Desi Boyz",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -5594,7 +5594,7 @@
   "team_a": "Marsborne",
   "team_b": "Iowa Stormboar",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -5605,7 +5605,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Without a Roof",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -5891,7 +5891,7 @@
   "team_a": "Marsborne",
   "team_b": "regain",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -5902,7 +5902,7 @@
   "team_a": "FUELED BY HATE",
   "team_b": "North Forge",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -5946,7 +5946,7 @@
   "team_a": "Overtake Sector",
   "team_b": "FarmVille",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -5957,7 +5957,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "DETONATE",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -5968,7 +5968,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Iowa Stormboar",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -5979,7 +5979,7 @@
   "team_a": "Voca",
   "team_b": "ANTIVALUE",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -5990,7 +5990,7 @@
   "team_a": "Voca",
   "team_b": "Without a Roof",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -6012,7 +6012,7 @@
   "team_a": "Without a Roof",
   "team_b": "Marsborne",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -6705,7 +6705,7 @@
   "team_a": "Chicken Coop",
   "team_b": "ANTIVALUE",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -6716,7 +6716,7 @@
   "team_a": "Desi Boyz",
   "team_b": "Zomblers",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -6749,7 +6749,7 @@
   "team_a": "Marsborne",
   "team_b": "Olympus",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -6760,7 +6760,7 @@
   "team_a": "NRG",
   "team_b": "Voca",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -6771,7 +6771,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "FarmVille",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -6793,7 +6793,7 @@
   "team_a": "Without a Roof",
   "team_b": "Villainous",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -7145,7 +7145,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "Overtake Sector",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -7178,7 +7178,7 @@
   "team_a": "NRG",
   "team_b": "Without a Roof",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -7189,7 +7189,7 @@
   "team_a": "Voca",
   "team_b": "Villainous",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -8047,7 +8047,7 @@
   "team_a": "O Fire",
   "team_b": "Celestial Esports",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -8256,7 +8256,7 @@
   "team_a": "F5 Esports",
   "team_b": "Wolves",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9653,7 +9653,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "LAG Gaming",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9708,7 +9708,7 @@
   "team_a": "DETONATE",
   "team_b": "FarmVille",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9730,7 +9730,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Marsborne",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9741,7 +9741,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Villainous",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9763,7 +9763,7 @@
   "team_a": "Axial",
   "team_b": "NuTorious",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9774,7 +9774,7 @@
   "team_a": "Chicken Coop",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9785,7 +9785,7 @@
   "team_a": "Chicken Coop",
   "team_b": "Wanted Goons",
   "winner": "a",
-  "score": "",
+  "score": "3-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9796,7 +9796,7 @@
   "team_a": "Wanted Goons",
   "team_b": "Desi Boyz",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9807,7 +9807,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Desi Boyz",
   "winner": "a",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9818,7 +9818,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Axial",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9840,7 +9840,7 @@
   "team_a": "Tractors",
   "team_b": "Olympus",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9851,7 +9851,7 @@
   "team_a": "Tractors",
   "team_b": "Beyond Limits",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9862,7 +9862,7 @@
   "team_a": "Without a Roof",
   "team_b": "Beyond Limits",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -9873,7 +9873,7 @@
   "team_a": "FarmVille",
   "team_b": "Beyond Limits",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -9884,7 +9884,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "Beyond Limits",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -9906,7 +9906,7 @@
   "team_a": "regain",
   "team_b": "DETONATE",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -9917,7 +9917,7 @@
   "team_a": "Villainous",
   "team_b": "babaG",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -9928,7 +9928,7 @@
   "team_a": "Without a Roof",
   "team_b": "Desi Boyz",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -10137,7 +10137,7 @@
   "team_a": "Chicken Coop",
   "team_b": "Villainous",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -10214,7 +10214,7 @@
   "team_a": "FarmVille",
   "team_b": "DETONATE",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -10236,7 +10236,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Axial",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -10247,7 +10247,7 @@
   "team_a": "regain",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -10258,7 +10258,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Iowa Stormboar",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -12161,7 +12161,7 @@
   "team_a": "Chicken Coop",
   "team_b": "Axial",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -12183,7 +12183,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "Wanted Goons",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -12216,7 +12216,7 @@
   "team_a": "Marsborne",
   "team_b": "The Homies",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -12227,7 +12227,7 @@
   "team_a": "NuTorious",
   "team_b": "Beyond Limits",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -12238,7 +12238,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Villainous",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -12249,7 +12249,7 @@
   "team_a": "regain",
   "team_b": "FarmVille",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -12293,7 +12293,7 @@
   "team_a": "Without a Roof",
   "team_b": "Marsborne",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -12667,7 +12667,7 @@
   "team_a": "Overtake Sector",
   "team_b": "DETONATE",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -12744,7 +12744,7 @@
   "team_a": "Wanted Goons",
   "team_b": "Axial",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -12766,7 +12766,7 @@
   "team_a": "Beyond Limits",
   "team_b": "Desi Boyz",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -12810,7 +12810,7 @@
   "team_a": "FarmVille",
   "team_b": "Without a Roof",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -12832,7 +12832,7 @@
   "team_a": "Desi Boyz",
   "team_b": "Chicken Coop",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -12843,7 +12843,7 @@
   "team_a": "DETONATE",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -12854,7 +12854,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "Overtake Sector",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -12876,7 +12876,7 @@
   "team_a": "Marsborne",
   "team_b": "FarmVille",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -12887,7 +12887,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Axial",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -12898,7 +12898,7 @@
   "team_a": "Villainous",
   "team_b": "Wanted Goons",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -12909,7 +12909,7 @@
   "team_a": "Without a Roof",
   "team_b": "regain",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15131,7 +15131,7 @@
   "team_a": "Elusive",
   "team_b": "BucketJonsBoys",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -15219,7 +15219,7 @@
   "team_a": "Shimmer",
   "team_b": "Axial",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -15241,7 +15241,7 @@
   "team_a": "FarmVille",
   "team_b": "Elusive",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -15252,7 +15252,7 @@
   "team_a": "Elusive",
   "team_b": "counterstrike Team",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -15351,7 +15351,7 @@
   "team_a": "Voca",
   "team_b": "Marsborne",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -15384,7 +15384,7 @@
   "team_a": "Marsborne",
   "team_b": "Overtake Sector",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15439,7 +15439,7 @@
   "team_a": "Club 333",
   "team_b": "Wolves",
   "winner": "a",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -15505,7 +15505,7 @@
   "team_a": "M80",
   "team_b": "AURORA",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -15516,7 +15516,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Chicken Coop",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15538,7 +15538,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "DETONATE",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15560,7 +15560,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Without a Roof",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15571,7 +15571,7 @@
   "team_a": "Voca",
   "team_b": "Marsborne",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15637,7 +15637,7 @@
   "team_a": "Chicken Coop",
   "team_b": "Zomblers",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15692,7 +15692,7 @@
   "team_a": "NuTorious",
   "team_b": "unreal nightmare",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15703,7 +15703,7 @@
   "team_a": "Overtake Sector",
   "team_b": "EMPIRE",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15714,7 +15714,7 @@
   "team_a": "regain",
   "team_b": "DETONATE",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -15736,7 +15736,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Elusive",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15747,7 +15747,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15758,7 +15758,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Without a Roof",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -15769,7 +15769,7 @@
   "team_a": "Wanted Goons",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -15780,7 +15780,7 @@
   "team_a": "Without a Roof",
   "team_b": "Wanted Goons",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -16990,7 +16990,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "EMPIRE",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -17001,7 +17001,7 @@
   "team_a": "M80",
   "team_b": "FURIA",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -17012,7 +17012,7 @@
   "team_a": "Marsborne",
   "team_b": "Chicken Coop",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -17023,7 +17023,7 @@
   "team_a": "Voca",
   "team_b": "Overtake Sector",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -17210,7 +17210,7 @@
   "team_a": "Hairy Scary Bandits",
   "team_b": "Rejects",
   "winner": "a",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -17221,7 +17221,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Conscious Gaming",
   "winner": "b",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -17265,7 +17265,7 @@
   "team_a": "HeadShot Esports",
   "team_b": "academy 4 gifted children",
   "winner": "b",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -17364,7 +17364,7 @@
   "team_a": "KODEX ESPORTS",
   "team_b": "HeadShot Esports",
   "winner": "a",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -17375,7 +17375,7 @@
   "team_a": "HeadShot Esports",
   "team_b": "UltimateDarklordWizardz",
   "winner": "b",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -17408,7 +17408,7 @@
   "team_a": "Holly Molly",
   "team_b": "Tacos Tiramisu and Lies",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -17485,7 +17485,7 @@
   "team_a": "EMPIRE",
   "team_b": "New Legends",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -17496,7 +17496,7 @@
   "team_a": "FarmVille",
   "team_b": "Zomblers",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -17507,7 +17507,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "Villainous",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -17518,7 +17518,7 @@
   "team_a": "NuTorious",
   "team_b": "Elusive",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -18849,7 +18849,7 @@
   "team_a": "babaG",
   "team_b": "TenToesDown",
   "winner": "a",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -18893,7 +18893,7 @@
   "team_a": "Chicken Coop",
   "team_b": "EMPIRE",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -18904,7 +18904,7 @@
   "team_a": "Club 333",
   "team_b": "New Legends",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -18915,7 +18915,7 @@
   "team_a": "DETONATE",
   "team_b": "Villainous",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -18937,7 +18937,7 @@
   "team_a": "Marsborne",
   "team_b": "Iowa Stormboar",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -18948,7 +18948,7 @@
   "team_a": "Overtake Sector",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -18959,7 +18959,7 @@
   "team_a": "Shimmer",
   "team_b": "Elusive",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -18970,7 +18970,7 @@
   "team_a": "Voca",
   "team_b": "FarmVille",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -19003,7 +19003,7 @@
   "team_a": "Zomblers",
   "team_b": "Incognito",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -19157,7 +19157,7 @@
   "team_a": "Zomblers",
   "team_b": "Hairy Scary Bandits",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -19190,7 +19190,7 @@
   "team_a": "Over Your Head",
   "team_b": "KODEX ESPORTS",
   "winner": "a",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -19223,7 +19223,7 @@
   "team_a": "Sedated",
   "team_b": "Wanted Goons",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -19256,7 +19256,7 @@
   "team_a": "Tacos Tiramisu and Lies",
   "team_b": "North Forge",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -19311,7 +19311,7 @@
   "team_a": "DETONATE",
   "team_b": "NuTorious",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -19322,7 +19322,7 @@
   "team_a": "EMPIRE",
   "team_b": "Zomblers",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -19344,7 +19344,7 @@
   "team_a": "FarmVille",
   "team_b": "Club 333",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -19355,7 +19355,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "Shimmer",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -19366,7 +19366,7 @@
   "team_a": "Marsborne",
   "team_b": "Elusive",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -19377,7 +19377,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Villainous",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -19388,7 +19388,7 @@
   "team_a": "Voca",
   "team_b": "New Legends",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -19465,7 +19465,7 @@
   "team_a": "TenToesDown",
   "team_b": "DETONATE",
   "winner": "b",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -19487,7 +19487,7 @@
   "team_a": "TenToesDown",
   "team_b": "Tractors",
   "winner": "b",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -19608,7 +19608,7 @@
   "team_a": "F5 Esports",
   "team_b": "Entertainment Cheese",
   "winner": "b",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -19619,7 +19619,7 @@
   "team_a": "F5 Esports",
   "team_b": "Olympus",
   "winner": "b",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -19630,7 +19630,7 @@
   "team_a": "Elusive",
   "team_b": "F5 Esports",
   "winner": "a",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -19641,7 +19641,7 @@
   "team_a": "ThirdSite",
   "team_b": "F5 Esports",
   "winner": "a",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -21258,7 +21258,7 @@
   "team_a": "New Legends",
   "team_b": "HeadShot Esports",
   "winner": "a",
-  "score": "",
+  "score": "W/O",
   "tier": "B",
   "source": "faceit-tournament"
  },
@@ -23315,7 +23315,7 @@
   "team_a": "Wildcard",
   "team_b": "PAIN",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -24987,7 +24987,7 @@
   "team_a": "M80",
   "team_b": "AURORA",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -26340,7 +26340,7 @@
   "team_a": "M80",
   "team_b": "G2",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -26351,7 +26351,7 @@
   "team_a": "Wildcard",
   "team_b": "FURIA",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -26659,7 +26659,7 @@
   "team_a": "enigma",
   "team_b": "Wuff Widas",
   "winner": "b",
-  "score": "",
+  "score": "W/O",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -29717,7 +29717,7 @@
   "team_a": "NRG",
   "team_b": "SportsBetExpert",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -29728,7 +29728,7 @@
   "team_a": "NRG",
   "team_b": "Voca",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -29893,7 +29893,7 @@
   "team_a": "NRG",
   "team_b": "Voca",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -29904,7 +29904,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Marsborne",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -31136,7 +31136,7 @@
   "team_a": "Marsborne",
   "team_b": "regain",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -31290,7 +31290,7 @@
   "team_a": "regain",
   "team_b": "Chicken Coop",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -31301,7 +31301,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Voca",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -32720,7 +32720,7 @@
   "team_a": "NRG",
   "team_b": "Marsborne",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -32808,7 +32808,7 @@
   "team_a": "NRG",
   "team_b": "Iowa Stormboar",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -32819,7 +32819,7 @@
   "team_a": "Voca",
   "team_b": "regain",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -32995,7 +32995,7 @@
   "team_a": "Conduit eSports",
   "team_b": "HeadShot Esports",
   "winner": "a",
-  "score": "",
+  "score": "W/O",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -33039,7 +33039,7 @@
   "team_a": "Strafe",
   "team_b": "Wuff Widas",
   "winner": "b",
-  "score": "",
+  "score": "W/O",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -37076,7 +37076,7 @@
   "team_a": "Club 333",
   "team_b": "Cyclone Ninja",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -37274,7 +37274,7 @@
   "team_a": "Wildcard",
   "team_b": "K27",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -38583,7 +38583,7 @@
   "team_a": "Without a Roof",
   "team_b": "STFDYSAB",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -38594,7 +38594,7 @@
   "team_a": "Without a Roof",
   "team_b": "WonderBreadBoys",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -38605,7 +38605,7 @@
   "team_a": "babaG",
   "team_b": "X3 Esports",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -38616,7 +38616,7 @@
   "team_a": "babaG",
   "team_b": "Quality",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -38627,7 +38627,7 @@
   "team_a": "NO GAME SCHEDULED",
   "team_b": "Ravenger eSports",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -38638,7 +38638,7 @@
   "team_a": "Tacos Tiramisu and Lies",
   "team_b": "D1NK Esports",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -38660,7 +38660,7 @@
   "team_a": "WonderBreadBoys",
   "team_b": "Team Classified",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -38671,7 +38671,7 @@
   "team_a": "Asoka",
   "team_b": "STFDYSAB",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -38682,7 +38682,7 @@
   "team_a": "Asoka",
   "team_b": "STFDYSAB",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -38693,7 +38693,7 @@
   "team_a": "Ram Ranch",
   "team_b": "CGS",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -38704,7 +38704,7 @@
   "team_a": "makeSHIFT",
   "team_b": "SquadUp",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "C",
   "source": "faceit-tournament"
  },
@@ -38726,7 +38726,7 @@
   "team_a": "NRG",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -38737,7 +38737,7 @@
   "team_a": "NRG",
   "team_b": "SportsBetExpert",
   "winner": "a",
-  "score": "",
+  "score": "3-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -38748,7 +38748,7 @@
   "team_a": "NuTorious",
   "team_b": "SEOUL",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -38770,7 +38770,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Villainous",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -38792,7 +38792,7 @@
   "team_a": "Villainous",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -38803,7 +38803,7 @@
   "team_a": "M80",
   "team_b": "Voca",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -38825,7 +38825,7 @@
   "team_a": "Voca",
   "team_b": "regain",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -38847,7 +38847,7 @@
   "team_a": "M80",
   "team_b": "WINNERS",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -38858,7 +38858,7 @@
   "team_a": "Marsborne",
   "team_b": "regain",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -38869,7 +38869,7 @@
   "team_a": "regain",
   "team_b": "Club 333",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -38880,7 +38880,7 @@
   "team_a": "Voca",
   "team_b": "NuTorious",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -38891,7 +38891,7 @@
   "team_a": "Overtake Sector",
   "team_b": "raisedbypixels",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -38913,7 +38913,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Club 333",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -38924,7 +38924,7 @@
   "team_a": "regain",
   "team_b": "raisedbypixels",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -38946,7 +38946,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Wanted Goons",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -38957,7 +38957,7 @@
   "team_a": "Club 333",
   "team_b": "Beyond Limits",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -38979,7 +38979,7 @@
   "team_a": "Festina Lente",
   "team_b": "raisedbypixels",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -38990,7 +38990,7 @@
   "team_a": "regain",
   "team_b": "Villainous",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -39012,7 +39012,7 @@
   "team_a": "Shimmer",
   "team_b": "MIBR FE",
   "winner": "b",
-  "score": "",
+  "score": "1-3",
   "tier": "A",
   "source": "vrs"
  },
@@ -39023,7 +39023,7 @@
   "team_a": "Shimmer",
   "team_b": "ATRIX",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -39034,7 +39034,7 @@
   "team_a": "Chicken Coop",
   "team_b": "Club 333",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -39045,7 +39045,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Chicken Coop",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -39056,7 +39056,7 @@
   "team_a": "Villainous",
   "team_b": "Club 333",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -39067,7 +39067,7 @@
   "team_a": "Chicken Coop",
   "team_b": "dice",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -39078,7 +39078,7 @@
   "team_a": "Club 333",
   "team_b": "Playing for fun",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -39089,7 +39089,7 @@
   "team_a": "DETONATE",
   "team_b": "Villainous",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -39100,7 +39100,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Brahmas",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -39177,7 +39177,7 @@
   "team_a": "Club 333",
   "team_b": "Olympus",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -39188,7 +39188,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "Festina Lente",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -39199,7 +39199,7 @@
   "team_a": "Marsborne",
   "team_b": "Iowa Stormboar",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -39243,7 +39243,7 @@
   "team_a": "DETONATE",
   "team_b": "Wanted Goons",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -39254,7 +39254,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "DETONATE",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -39265,7 +39265,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "Overtake Sector",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -39276,7 +39276,7 @@
   "team_a": "Marsborne",
   "team_b": "Festina Lente",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -39287,7 +39287,7 @@
   "team_a": "Wanted Goons",
   "team_b": "Olympus",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -39452,7 +39452,7 @@
   "team_a": "DETONATE",
   "team_b": "Festina Lente",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -39463,7 +39463,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "Club 333",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -39485,7 +39485,7 @@
   "team_a": "Marsborne",
   "team_b": "Overtake Sector",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -39595,7 +39595,7 @@
   "team_a": "Festina Lente",
   "team_b": "Club 333",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -39606,7 +39606,7 @@
   "team_a": "Iowa Stormboar",
   "team_b": "DETONATE",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -39628,7 +39628,7 @@
   "team_a": "Overtake Sector",
   "team_b": "Wanted Goons",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -40090,7 +40090,7 @@
   "team_a": "Chicken Coop",
   "team_b": "Club 333",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -40112,7 +40112,7 @@
   "team_a": "Villainous",
   "team_b": "Brahmas",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -40222,7 +40222,7 @@
   "team_a": "Chicken Coop",
   "team_b": "THIRD PRIME",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -40354,7 +40354,7 @@
   "team_a": "Club 333",
   "team_b": "raisedbypixels",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -40398,7 +40398,7 @@
   "team_a": "Wanted Goons",
   "team_b": "Brahmas",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -42873,7 +42873,7 @@
   "team_a": "Marsborne",
   "team_b": "Chicken Coop",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -42884,7 +42884,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Marsborne",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -42895,7 +42895,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Reign Above",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -43005,7 +43005,7 @@
   "team_a": "Marsborne",
   "team_b": "Reign Above",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -43060,7 +43060,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Chicken Coop",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -43082,7 +43082,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "NXG",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -43093,7 +43093,7 @@
   "team_a": "Wanted Goons",
   "team_b": "NINEFLY",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -43104,7 +43104,7 @@
   "team_a": "Wanted Goons",
   "team_b": "Reign Above",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -46459,7 +46459,7 @@
   "team_a": "Marsborne",
   "team_b": "Overtake Sector",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -46492,7 +46492,7 @@
   "team_a": "SportsBetExpert",
   "team_b": "Marsborne",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -46503,7 +46503,7 @@
   "team_a": "Wildcard",
   "team_b": "FOKUS",
   "winner": "a",
-  "score": "",
+  "score": "2-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -46547,7 +46547,7 @@
   "team_a": "Wildcard",
   "team_b": "ACEND",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -46558,7 +46558,7 @@
   "team_a": "Wildcard",
   "team_b": "FOKUS",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -48120,7 +48120,7 @@
   "team_a": "M80",
   "team_b": "MOUZ",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -49451,7 +49451,7 @@
   "team_a": "M80",
   "team_b": "Falcons",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -49462,7 +49462,7 @@
   "team_a": "M80",
   "team_b": "PAIN",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -49473,7 +49473,7 @@
   "team_a": "NRG",
   "team_b": "MOUZ",
   "winner": "b",
-  "score": "",
+  "score": "1-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -49759,7 +49759,7 @@
   "team_a": "NRG",
   "team_b": "Legacy",
   "winner": "b",
-  "score": "",
+  "score": "0-1",
   "tier": "A",
   "source": "vrs"
  },
@@ -52751,7 +52751,7 @@
   "team_a": "NRG",
   "team_b": "FAZE",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -52806,7 +52806,7 @@
   "team_a": "M80",
   "team_b": "Legacy",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -52817,7 +52817,7 @@
   "team_a": "NRG",
   "team_b": "FUT",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -55831,7 +55831,7 @@
   "team_a": "M80",
   "team_b": "Wildcard",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -57514,7 +57514,7 @@
   "team_a": "Incognito",
   "team_b": "girl kissers",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -57536,7 +57536,7 @@
   "team_a": "Shimmer",
   "team_b": "FarmVille",
   "winner": "b",
-  "score": "",
+  "score": "0-2",
   "tier": "A",
   "source": "vrs"
  },
@@ -58812,7 +58812,7 @@
   "team_a": "Shimmer",
   "team_b": "OVERKNIGHT",
   "winner": "a",
-  "score": "",
+  "score": "2-0",
   "tier": "A",
   "source": "vrs"
  },
@@ -59318,7 +59318,7 @@
   "team_a": "FarmVille",
   "team_b": "OVERKNIGHT",
   "winner": "a",
-  "score": "",
+  "score": "1-0",
   "tier": "A",
   "source": "vrs"
  },

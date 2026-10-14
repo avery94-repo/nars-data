@@ -43,22 +43,22 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Onsite has Oil | 344 | 1191.0 | +5.8 | +164.1 |
 | T Shirt Material | 343 | 1191.6 | +6.4 | +164.3 |
 | Wide Swinging Wizards | 342 | 1191.6 | +6.4 | +164.3 |
-| MadaNASCAR | 341 | 1195.3 | +10.1 | +174.8 |
+| MadaNASCAR | 341 | 1195.2 | +10.0 | +174.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| BucketJonsBoys | 172 | +347.9 | +318.6 | +32.6 |
+| BucketJonsBoys | 172 | +347.8 | +318.6 | +32.6 |
 | Firstwave | 175 | +341.8 | +317.3 | +32.1 |
-| Shaboing Boing Bandits | 173 | +345.4 | +346.7 | +31.6 |
+| Shaboing Boing Bandits | 173 | +345.4 | +346.6 | +31.6 |
 | APEX | 176 | +336.7 | +325.4 | +31.4 |
 | Armored Talent | 174 | +344.6 | +354.7 | +31.2 |
 | LAF | 183 | +326.1 | +316.0 | +30.4 |
-| GOOZPEEK | 182 | +327.9 | +330.6 | +30.3 |
-| KIS | 185 | +321.4 | +298.6 | +30.1 |
-| Shadow Wizard Money Gang | 180 | +330.7 | +372.2 | +29.2 |
-| Lynnsanity | 189 | +314.8 | +331.0 | +28.6 |
+| GOOZPEEK | 182 | +327.9 | +330.6 | +30.2 |
+| KIS | 185 | +321.5 | +298.6 | +30.1 |
+| Shadow Wizard Money Gang | 180 | +330.7 | +372.1 | +29.2 |
+| Lynnsanity | 189 | +314.8 | +330.9 | +28.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -73,8 +73,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-09 | REMM | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -48.2 | JoshyD_, Sconez, ScrappyScrew, Stupidblyat, notblu33 |
-| 2026-09-04 | team leader must 1v9 or L | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +225.1 | Sconez, ScrappyScrew, Stupidblyat, TheLootGod, mozgof |
-| 2026-09-02 | antiGrav | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.06 | 0.92 | +211.8 | JoshyD_, Sconez, ScrappyScrew, Stupidblyat, TheLootGod, mozgof |
+| 2026-09-04 | team leader must 1v9 or L | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +225.2 | Sconez, ScrappyScrew, Stupidblyat, TheLootGod, mozgof |
+| 2026-09-02 | antiGrav | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.06 | 0.92 | +211.9 | JoshyD_, Sconez, ScrappyScrew, Stupidblyat, TheLootGod, mozgof |
 | 2026-06-02 | LAF | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -206.3 | JoshyD_, Sconez, ScrappyScrew, Stupidblyat, TheLootGod |
 | 2026-05-27 | Goyim Gladiators | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -158.9 | JoshyD_, Sconez, Stupidblyat, TheLootGod, mozgof, notblu33 |
 

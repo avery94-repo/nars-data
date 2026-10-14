@@ -25,8 +25,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.107 | 1249.6 | - |
-| +30 days | 0.089 | 1224.7 | -25.0 |
-| +60 days | 0.074 | 1204.3 | -45.4 |
+| +30 days | 0.089 | 1224.7 | -24.9 |
+| +60 days | 0.074 | 1204.2 | -45.4 |
 | +90 days | 0.047 | 1165.6 | -84.0 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.296 vs 0.332 average, gap -0.036). Matching that average is worth about 12.6 seed points.
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Costco Family | 382 | 1102.5 | +5.0 | +125.5 |
-| HammerHeads | 381 | 1102.7 | +5.2 | +119.2 |
-| We Play Naked | 380 | 1103.3 | +5.8 | +128.8 |
-| Goyim Gladiators | 379 | 1103.9 | +6.4 | +130.9 |
-| Zamgaa Anime Aimers | 378 | 1104.1 | +6.6 | +125.4 |
+| HammerHeads | 381 | 1102.7 | +5.2 | +119.3 |
+| We Play Naked | 380 | 1103.2 | +5.7 | +128.8 |
+| Goyim Gladiators | 379 | 1103.9 | +6.4 | +131.0 |
+| Zamgaa Anime Aimers | 378 | 1104.0 | +6.5 | +125.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Cortex Jellies | 222 | +339.9 | +210.1 | +22.9 |
-| 1NT | 221 | +341.5 | +237.0 | +22.5 |
-| penazoid | 226 | +330.5 | +224.5 | +22.1 |
-| Binky | 220 | +341.8 | +259.1 | +22.1 |
-| UltimateDarklordWizardz | 227 | +329.6 | +249.3 | +21.6 |
-| YHTR | 235 | +316.2 | +238.8 | +20.7 |
-| brb grinding minecraft | 239 | +308.0 | +243.0 | +20.3 |
-| NXG Esports | 242 | +306.5 | +234.6 | +20.3 |
-| Fortis Fortuna Adiuvat | 237 | +308.8 | +226.0 | +20.2 |
-| FUELED BY HATE | 241 | +306.8 | +210.7 | +20.1 |
+| 1NT | 221 | +341.5 | +237.1 | +22.5 |
+| penazoid | 226 | +330.4 | +224.5 | +22.1 |
+| Binky | 220 | +341.8 | +259.2 | +22.1 |
+| UltimateDarklordWizardz | 227 | +329.6 | +249.4 | +21.6 |
+| YHTR | 235 | +316.2 | +238.9 | +20.7 |
+| brb grinding minecraft | 239 | +308.0 | +243.1 | +20.3 |
+| NXG Esports | 242 | +306.5 | +234.7 | +20.3 |
+| Fortis Fortuna Adiuvat | 237 | +308.8 | +226.1 | +20.2 |
+| FUELED BY HATE | 241 | +306.8 | +210.8 | +20.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +415.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +415.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.7), shirtcockin (+1.0), Courage (+1.2), SixSevenZaZa (+1.9).
 
@@ -90,10 +90,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +61.2 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 | 2026-07-15 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.12 | 0.60 | +396.8 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 | 2026-05-15 | VOID ALUNE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -70.5 | D3vante, YaBoiZel, _miIkman_, cdm35, obscure- |
-| 2026-05-08 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -430.2 | E1EKTRIKA, METTLE, YaBoiZel, _miIkman_, cdm35 |
+| 2026-05-08 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -430.2 | E1EKTRIKA, METTLE, YaBoiZel, _miIkman_, cdm35 |
 | 2026-05-06 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +303.8 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 | 2026-04-29 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +218.1 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 | 2026-04-24 | absolute cinema | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -87.0 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
-| 2026-04-22 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -60.5 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
+| 2026-04-22 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -60.4 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

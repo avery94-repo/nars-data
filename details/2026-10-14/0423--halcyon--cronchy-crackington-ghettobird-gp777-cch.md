@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.007 | 1110.2 | -19.8 |
 | +90 days | 0.007 | 1109.6 | -20.4 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.268 average, gap -0.229). Matching that average is worth about 80.2 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.268 average, gap -0.229). Matching that average is worth about 80.1 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92; S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
 - Quality Wins drivers: beat Team Dainyko at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.01; beat GEDifferent at S57 NA Open9-10 Central - Playoffs B (2026-05-31) 0.00
@@ -39,10 +39,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Atlantis eSports | 422 | 997.5 | +3.7 | +163.4 |
+| Atlantis eSports | 422 | 997.4 | +3.6 | +163.4 |
 | Specter Esports | 421 | 999.7 | +5.9 | +164.1 |
-| Strafe | 420 | 1002.2 | +8.4 | +173.2 |
-| puggin4seb | 419 | 1002.8 | +9.0 | +173.4 |
+| Strafe | 420 | 1002.1 | +8.3 | +173.2 |
+| puggin4seb | 419 | 1002.8 | +9.0 | +173.3 |
 | Kodaks Lettuce | 418 | 1011.4 | +17.6 | +173.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -55,10 +55,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Adria eSports | 281 | +320.4 | +344.5 | +28.9 |
 | ItAintOverYet | 284 | +308.8 | +296.8 | +28.4 |
 | Entertainment Cheese | 285 | +307.0 | +324.9 | +27.6 |
-| Midwest Farmers | 286 | +302.5 | +320.5 | +27.1 |
+| Midwest Farmers | 286 | +302.4 | +320.5 | +27.1 |
 | Imperium | 283 | +311.7 | +274.2 | +26.9 |
 | 55TH ST | 288 | +297.5 | +324.1 | +26.2 |
-| Resurgence | 290 | +289.8 | +296.4 | +25.3 |
+| Resurgence | 290 | +289.8 | +296.3 | +25.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -76,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-02 | Eagles Nest | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -179.5 | crackington, cronchy, ghettobird, gp777, sooooka_STON |
 | 2026-06-10 | VeryBigDoogoos | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -137.2 | CCHWM_Zim, crackington, cronchy, gp777, sooooka_STON |
-| 2026-06-03 | Team Dainyko | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +194.8 | -TheKid, crackington, cronchy, gp777, sooooka_STON |
+| 2026-06-03 | Team Dainyko | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +194.9 | -TheKid, crackington, cronchy, gp777, sooooka_STON |
 | 2026-05-31 | GEDifferent | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.29 | +198.1 | crackington, cronchy, ghettobird, gp777, nevaeh |
 | 2026-05-27 | superkai64 | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -212.4 | CCHWM_Zim, crackington, cronchy, ghettobird, gp777 |
 

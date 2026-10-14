@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.176 | 1346.6 | - |
 | +30 days | 0.157 | 1319.4 | -27.2 |
-| +60 days | 0.139 | 1294.4 | -52.2 |
-| +90 days | 0.108 | 1250.9 | -95.7 |
+| +60 days | 0.139 | 1294.3 | -52.2 |
+| +90 days | 0.108 | 1250.8 | -95.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.084 vs 0.079 average, gap +0.005). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Adria eSports | 281 | 1314.2 | +1.2 | +156.2 |
-| Aurofox | 280 | 1315.4 | +2.4 | +144.6 |
-| Demolition | 279 | 1316.0 | +3.0 | +151.1 |
-| dead team | 278 | 1318.9 | +5.9 | +145.6 |
-| Chopped | 277 | 1319.8 | +6.8 | +156.7 |
+| Adria eSports | 281 | 1314.2 | +1.2 | +156.3 |
+| Aurofox | 280 | 1315.3 | +2.3 | +144.7 |
+| Demolition | 279 | 1316.0 | +3.0 | +151.2 |
+| dead team | 278 | 1318.8 | +5.8 | +145.7 |
+| Chopped | 277 | 1319.8 | +6.8 | +156.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Read You Like a Kindle | 116 | +341.7 | +316.9 | +27.1 |
-| ODIN | 119 | +334.1 | +307.9 | +26.4 |
-| Team GREAT | 128 | +316.2 | +260.2 | +25.9 |
-| Torii | 129 | +315.0 | +287.7 | +25.4 |
-| 5Frag Gaming | 134 | +308.4 | +292.5 | +24.5 |
-| Kaos | 139 | +297.8 | +248.0 | +23.5 |
-| KODEX ESPORTS | 137 | +303.5 | +331.2 | +23.4 |
-| Team Amplus | 145 | +281.2 | +271.8 | +20.9 |
-| DNA | 127 | +322.0 | +243.8 | +19.3 |
-| Kevin James Fan Club | 148 | +267.9 | +258.3 | +18.5 |
+| Read You Like a Kindle | 116 | +341.7 | +317.2 | +27.2 |
+| ODIN | 119 | +334.1 | +308.2 | +26.4 |
+| Team GREAT | 128 | +316.2 | +260.4 | +26.0 |
+| Torii | 129 | +315.0 | +288.0 | +25.4 |
+| 5Frag Gaming | 134 | +308.4 | +292.7 | +24.5 |
+| Kaos | 139 | +297.8 | +248.2 | +23.5 |
+| KODEX ESPORTS | 137 | +303.5 | +331.5 | +23.4 |
+| Team Amplus | 145 | +281.2 | +272.1 | +20.9 |
+| DNA | 127 | +322.1 | +244.1 | +19.3 |
+| Kevin James Fan Club | 148 | +267.9 | +258.5 | +18.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +540.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +541.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.4).
 
@@ -75,33 +75,33 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-10 | JPG | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -12.9 | -py, Dane-_, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-09-08 | Team Auspex | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.07 | 0.96 | +138.3 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-09-06 | DadDick Esports | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.11 | 0.94 | +69.1 | -py, Dane-_, Destrcyer, HollowRin, Rezzzzzz, Rpx27 |
+| 2026-09-08 | Team Auspex | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.07 | 0.96 | +138.4 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
+| 2026-09-06 | DadDick Esports | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.11 | 0.94 | +69.2 | -py, Dane-_, Destrcyer, HollowRin, Rezzzzzz, Rpx27 |
 | 2026-09-04 | It Doesnt Matter | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.10 | 0.93 | +41.3 | -py, Destrcyer, HollowRin, Rezzzzzz, Rpx27, lore |
 | 2026-08-28 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +89.2 | -py, Destrcyer, HollowRin, Rezzzzzz, Rpx27 |
 | 2026-08-26 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +12.8 | -py, Destrcyer, Heylol, Rezzzzzz, Rpx27 |
 | 2026-08-21 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.09 | 0.00 | +103.0 | -py, Destrcyer, HollowRin, Rezzzzzz, Rpx27 |
-| 2026-08-19 | NoPrac | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -18.1 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
+| 2026-08-19 | NoPrac | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -18.0 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-08-14 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -78.4 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-08-12 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.03 | 0.78 | +4.9 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-08-07 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +24.7 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-07-31 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -167.0 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-07-28 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.04 | 0.68 | +78.2 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
+| 2026-07-31 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -167.1 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
+| 2026-07-28 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.04 | 0.68 | +78.3 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-07-24 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.03 | 0.65 | +32.4 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-07-17 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.10 | 0.60 | +140.6 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
+| 2026-07-17 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.10 | 0.60 | +140.7 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-07-15 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -249.9 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-06-05 | Wide Swinging Wizards | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -20.7 | 1soprano, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-05-31 | We Play Naked | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.03 | 0.29 | +57.4 | 1soprano, Destrcyer, Heylol, Rezzzzzz, lore |
 | 2026-05-29 | Qinorhwat | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -26.2 | 1soprano, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-05-27 | 91AshLiu | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +341.9 | 1soprano, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-05-22 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -237.9 | 1soprano, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-05-20 | Grandpa Berets | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -324.1 | -MMW-, 1soprano, Destrcyer, Rezzzzzz, Rpx27 |
-| 2026-05-15 | After Peak | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +395.5 | -MMW-, 1soprano, Destrcyer, Rezzzzzz, Rpx27 |
+| 2026-05-27 | 91AshLiu | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +342.0 | 1soprano, Destrcyer, Rezzzzzz, Rpx27, lore |
+| 2026-05-22 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -238.0 | 1soprano, Destrcyer, Rezzzzzz, Rpx27, lore |
+| 2026-05-20 | Grandpa Berets | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -324.2 | -MMW-, 1soprano, Destrcyer, Rezzzzzz, Rpx27 |
+| 2026-05-15 | After Peak | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +395.6 | -MMW-, 1soprano, Destrcyer, Rezzzzzz, Rpx27 |
 | 2026-05-13 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -157.3 | -MMW-, Destrcyer, Heylol, Rezzzzzz, lore |
-| 2026-05-08 | Kushtaka | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +372.1 | Destrcyer, Heylol, Rezzzzzz, Rpx27, lore |
-| 2026-05-06 | High-Tech Performance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -191.8 | -MMW-, Destrcyer, Heylol, Rezzzzzz, Rpx27 |
+| 2026-05-08 | Kushtaka | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +372.2 | Destrcyer, Heylol, Rezzzzzz, Rpx27, lore |
+| 2026-05-06 | High-Tech Performance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -191.9 | -MMW-, Destrcyer, Heylol, Rezzzzzz, Rpx27 |
 | 2026-05-01 | GoonAssOldheads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -7.7 | -MMW-, Destrcyer, Heylol, Rezzzzzz, Rpx27 |
-| 2026-04-29 | The Plague | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -189.8 | Destrcyer, Heylol, Rezzzzzz, Rpx27, lore |
+| 2026-04-29 | The Plague | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -189.9 | Destrcyer, Heylol, Rezzzzzz, Rpx27, lore |
 | 2026-04-24 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -42.7 | -MMW-, 1soprano, Destrcyer, Rezzzzzz, Rpx27 |
 | 2026-04-24 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -210.5 | -MMW-, 1soprano, Destrcyer, Rezzzzzz, Rpx27 |
 

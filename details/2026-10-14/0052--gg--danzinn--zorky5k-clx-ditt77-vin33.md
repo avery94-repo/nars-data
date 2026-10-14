@@ -3,11 +3,11 @@ Team Name: GG
 Roster: danzinn-, Zorky5k, clx, ditt77, vin33
 NARS Rank: 52 of 506
 
-Final Rating: 1881.4
+Final Rating: 1881.5
 Seeded Start: 1153.1
-H2H Adjustment: +728.3
+H2H Adjustment: +728.4
 
-Final Rating (1881.4) = Seeded Start (1153.1) + H2H Adjustment (+728.3)
+Final Rating (1881.5) = Seeded Start (1153.1) + H2H Adjustment (+728.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Phantom Sense | 51 | 1883.7 | +2.3 | +175.8 |
-| No Future Lifes Over | 50 | 1887.1 | +5.7 | +172.2 |
-| DESPAIR | 49 | 1888.7 | +7.3 | +172.8 |
-| Skyline | 48 | 1895.4 | +14.0 | +175.1 |
-| FLOW STATE | 47 | 1897.4 | +16.0 | +179.6 |
+| Phantom Sense | 51 | 1883.8 | +2.3 | +175.8 |
+| No Future Lifes Over | 50 | 1887.2 | +5.7 | +172.2 |
+| DESPAIR | 49 | 1888.7 | +7.2 | +172.8 |
+| Skyline | 48 | 1895.5 | +14.0 | +175.1 |
+| FLOW STATE | 47 | 1897.4 | +15.9 | +179.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,13 +51,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | Brahmas | 14 | +326.0 | +300.4 | +31.1 |
 | Old Meta | 15 | +294.7 | +334.6 | +25.4 |
-| NuTorious | 17 | +284.3 | +285.4 | +24.4 |
-| FarmVille | 16 | +286.2 | +358.9 | +23.6 |
-| Villainous | 18 | +279.3 | +351.0 | +21.9 |
+| NuTorious | 17 | +284.2 | +285.4 | +24.4 |
+| FarmVille | 16 | +286.1 | +358.9 | +23.6 |
+| Villainous | 18 | +279.2 | +351.0 | +21.9 |
 | Iowa Stormboar | 21 | +234.4 | +319.9 | +12.1 |
-| Zomblers | 22 | +233.3 | +319.9 | +11.9 |
+| Zomblers | 22 | +233.2 | +319.9 | +11.9 |
 | qcclan | 20 | +264.7 | +296.1 | +10.6 |
-| MASTER ONE | 19 | +278.0 | +292.1 | +9.6 |
+| MASTER ONE | 19 | +278.0 | +292.0 | +9.6 |
 | Phantom Sense | 51 | +2.3 | +175.8 | -0.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +636.6 points at current ratings.

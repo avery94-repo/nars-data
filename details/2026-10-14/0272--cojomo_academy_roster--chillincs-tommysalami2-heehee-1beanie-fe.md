@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.119 | 1266.3 | - |
 | +30 days | 0.099 | 1238.4 | -27.9 |
 | +60 days | 0.082 | 1214.2 | -52.1 |
-| +90 days | 0.057 | 1179.4 | -86.9 |
+| +90 days | 0.057 | 1179.3 | -87.0 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.042 vs 0.058 average, gap -0.016). Matching that average is worth about 5.6 seed points.
 
@@ -42,8 +42,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Gloobers | 271 | 1342.8 | +6.7 | +169.5 |
 | Bird Lickers | 270 | 1342.8 | +6.7 | +166.4 |
 | PASSION | 269 | 1349.4 | +13.3 | +176.3 |
-| the dragon warrior scroll | 268 | 1351.4 | +15.3 | +167.1 |
-| Glockwork | 267 | 1353.3 | +17.2 | +167.8 |
+| the dragon warrior scroll | 268 | 1351.3 | +15.2 | +167.1 |
+| Glockwork | 267 | 1353.4 | +17.3 | +167.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -52,13 +52,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Holy Squid Empire | 108 | +342.6 | +329.9 | +31.6 |
 | Black Dragon Society | 109 | +334.6 | +351.1 | +30.4 |
 | Read You Like a Kindle | 116 | +318.6 | +345.0 | +28.7 |
-| eefsports | 112 | +328.1 | +280.4 | +28.2 |
+| eefsports | 112 | +328.1 | +280.5 | +28.2 |
 | ODIN | 119 | +311.0 | +335.2 | +27.4 |
 | Team GREAT | 128 | +293.1 | +285.6 | +26.0 |
 | Torii | 129 | +291.9 | +313.1 | +25.4 |
-| Northern District | 106 | +347.9 | +288.0 | +24.5 |
+| Northern District | 106 | +348.0 | +288.0 | +24.5 |
 | 5Frag Gaming | 134 | +285.3 | +317.2 | +24.1 |
-| Shimmer | 111 | +331.0 | +293.1 | +24.0 |
+| Shimmer | 111 | +331.0 | +293.0 | +24.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
 
@@ -83,9 +83,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | NATIONAL CS UNI | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.07 | 0.78 | +44.1 | 1Beanie, Dale, Females, b00mslang, kandren |
 | 2026-07-31 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -19.8 | 1Beanie, Dale, Females, b00mslang, kandren |
 | 2026-07-24 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -92.2 | 1Beanie, Dale, Females, R1GEL, kandren |
-| 2026-07-22 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -387.5 | 1Beanie, ArcticLights, Dale, Females, kandren |
+| 2026-07-22 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -387.6 | 1Beanie, ArcticLights, Dale, Females, kandren |
 | 2026-07-17 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +0.0 | 1Beanie, Dale, Females, R1GEL, kandren |
-| 2026-07-15 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +430.5 | 1Beanie, ArcticLights, Dale, Females, kandren |
+| 2026-07-15 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +430.6 | 1Beanie, ArcticLights, Dale, Females, kandren |
 | 2026-06-05 | After Hours | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -156.3 | Dale, Females, TommySalami2, cmepci, kandren |
 | 2026-05-29 | steph curry of our hood | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +44.4 | Dale, Females, TommySalami2, cmepci, kandren |
 | 2026-05-27 | WannaBeMovement | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +161.1 | Dale, Females, TommySalami2, cmepci, kandren |

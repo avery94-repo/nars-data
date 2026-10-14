@@ -5,7 +5,7 @@ NARS Rank: 485 of 506
 
 Final Rating: 714.4
 Seeded Start: 1176.9
-H2H Adjustment: -462.5
+H2H Adjustment: -462.5 (capped at +-300, raw -462.6)
 
 Final Rating (714.4) = Seeded Start (1176.9) + H2H Adjustment (-462.5)
 
@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.055 | 1176.9 | - |
-| +30 days | 0.044 | 1161.8 | -15.2 |
+| +30 days | 0.044 | 1161.8 | -15.1 |
 | +60 days | 0.040 | 1156.3 | -20.6 |
-| +90 days | 0.035 | 1148.8 | -28.2 |
+| +90 days | 0.035 | 1148.8 | -28.1 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.120 vs 0.160 average, gap -0.040). Matching that average is worth about 14.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Power of Friendship | 484 | 720.1 | +5.7 | +84.6 |
-| EZ2025 | 483 | 721.3 | +6.9 | +97.3 |
-| SNOWPLOWERS | 482 | 731.4 | +17.0 | +86.4 |
-| CVC Retirement | 481 | 742.2 | +27.8 | +88.2 |
-| HUMA | 480 | 747.4 | +33.0 | +100.3 |
+| Power of Friendship | 484 | 720.0 | +5.6 | +84.6 |
+| EZ2025 | 483 | 721.2 | +6.8 | +97.3 |
+| SNOWPLOWERS | 482 | 731.3 | +16.9 | +86.4 |
+| CVC Retirement | 481 | 742.1 | +27.7 | +88.2 |
+| HUMA | 480 | 747.3 | +32.9 | +100.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Benadryl Abusers | 396 | +346.8 | +158.1 | +15.9 |
-| ReGen | 400 | +338.5 | +158.6 | +15.8 |
-| Big Fish | 402 | +336.6 | +158.0 | +15.7 |
-| house | 403 | +334.5 | +175.7 | +15.3 |
+| Benadryl Abusers | 396 | +346.8 | +158.2 | +15.9 |
+| ReGen | 400 | +338.5 | +158.7 | +15.8 |
+| Big Fish | 402 | +336.6 | +158.1 | +15.7 |
+| house | 403 | +334.5 | +175.8 | +15.3 |
 | James Bond Bois | 401 | +337.6 | +138.8 | +15.1 |
-| Epochal Esports | 413 | +321.7 | +161.7 | +14.9 |
+| Epochal Esports | 413 | +321.6 | +161.8 | +14.9 |
 | Team Hyper | 409 | +322.9 | +190.0 | +14.5 |
-| MakeYouSayLate | 414 | +312.5 | +151.5 | +14.4 |
-| three11 | 398 | +342.7 | +139.5 | +14.2 |
-| Shock Value | 405 | +332.2 | +138.0 | +14.2 |
+| MakeYouSayLate | 414 | +312.5 | +151.5 | +14.5 |
+| three11 | 398 | +342.6 | +139.6 | +14.3 |
+| Shock Value | 405 | +332.1 | +138.0 | +14.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +270.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +271.0 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs Lan Bears (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
@@ -75,21 +75,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | Veniversum | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -0.6 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
-| 2026-08-28 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.08 | 0.88 | +100.0 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
+| 2026-08-28 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.08 | 0.88 | +100.1 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-08-26 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -12.5 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
-| 2026-08-14 | EZ2025 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -67.2 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
-| 2026-08-07 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -92.1 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
+| 2026-08-14 | EZ2025 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -67.3 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
+| 2026-08-07 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -92.2 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-07-31 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.03 | 0.70 | +126.9 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-07-24 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -46.0 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi, crazed |
-| 2026-07-22 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -191.3 | -RYL, -cel_, HASHIRA, OkayKris, crazed |
+| 2026-07-22 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -191.4 | -RYL, -cel_, HASHIRA, OkayKris, crazed |
 | 2026-07-17 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -0.9 | -RYL, -cel_, AMSmooth, HASHIRA, OkayKris |
 | 2026-07-15 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -140.8 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-05-27 | strawberry poptarts | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -168.1 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 | 2026-05-22 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -183.8 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 | 2026-05-08 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +2.9 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
-| 2026-05-01 | Dynasty | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +337.4 | -RYL, -cel_, AMSmooth, BananaFishCS, OkayKris |
+| 2026-05-01 | Dynasty | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +337.5 | -RYL, -cel_, AMSmooth, BananaFishCS, OkayKris |
 | 2026-04-29 | Bad Jawn | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -18.4 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
-| 2026-04-24 | Benadryl Abusers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -383.6 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
+| 2026-04-24 | Benadryl Abusers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -383.7 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 | 2026-04-22 | Lan Bears | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +275.7 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

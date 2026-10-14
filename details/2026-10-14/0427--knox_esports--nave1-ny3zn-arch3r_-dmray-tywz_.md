@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Famas OP | 426 | 984.9 | +0.8 | +162.5 |
-| Climbers | 425 | 986.0 | +1.9 | +162.9 |
-| Evil Space Wizards | 424 | 988.0 | +3.9 | +163.5 |
-| Halcyon | 423 | 993.8 | +9.7 | +165.3 |
-| Atlantis eSports | 422 | 997.5 | +13.4 | +166.5 |
+| Famas OP | 426 | 984.8 | +0.7 | +162.5 |
+| Climbers | 425 | 985.9 | +1.8 | +162.9 |
+| Evil Space Wizards | 424 | 987.9 | +3.8 | +163.5 |
+| Halcyon | 423 | 993.8 | +9.7 | +165.4 |
+| Atlantis eSports | 422 | 997.4 | +13.3 | +166.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,11 +51,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | Saltcrew | 276 | +336.7 | +313.6 | +31.6 |
 | Demolition | 279 | +331.9 | +312.0 | +31.0 |
-| Chopped | 277 | +335.7 | +341.4 | +30.8 |
+| Chopped | 277 | +335.7 | +341.3 | +30.8 |
 | Adria eSports | 281 | +330.1 | +350.4 | +29.9 |
-| ItAintOverYet | 284 | +318.5 | +301.3 | +29.7 |
+| ItAintOverYet | 284 | +318.5 | +301.2 | +29.7 |
 | Entertainment Cheese | 285 | +316.7 | +330.4 | +28.9 |
-| Midwest Farmers | 286 | +312.2 | +325.9 | +28.4 |
+| Midwest Farmers | 286 | +312.1 | +325.9 | +28.4 |
 | Imperium | 283 | +321.4 | +277.9 | +28.2 |
 | 55TH ST | 288 | +307.2 | +329.8 | +27.6 |
 | Resurgence | 290 | +299.5 | +301.1 | +26.9 |

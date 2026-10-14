@@ -4,14 +4,14 @@ Roster: Jantokat, Uhttt, Kevjeet, Spiffy--, EMOnEMO
 NARS Rank: 305 of 506
 
 Final Rating: 1258.6
-Seeded Start: 1166.4
-H2H Adjustment: +92.2
+Seeded Start: 1166.3
+H2H Adjustment: +92.3
 
-Final Rating (1258.6) = Seeded Start (1166.4) + H2H Adjustment (+92.2)
+Final Rating (1258.6) = Seeded Start (1166.3) + H2H Adjustment (+92.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.047 x 1400 = 1166.4
+                = 1100 + 0.047 x 1400 = 1166.3
 
 seed_factor 0.047 = 0.25 x Tier Exposure (0.068) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.115)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.047 | 1166.4 | - |
+| Now | 0.047 | 1166.3 | - |
 | +30 days | 0.034 | 1148.0 | -18.3 |
 | +60 days | 0.026 | 1136.3 | -30.1 |
 | +90 days | 0.022 | 1130.6 | -35.8 |
@@ -41,8 +41,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Guangzhou Loong Lions | 304 | 1259.9 | +1.3 | +169.5 |
 | TELETUBEASTS | 303 | 1263.2 | +4.6 | +174.2 |
-| DingTone | 302 | 1263.8 | +5.2 | +172.1 |
-| NATIONAL CS UNI | 301 | 1266.1 | +7.5 | +171.4 |
+| DingTone | 302 | 1263.8 | +5.2 | +172.0 |
+| NATIONAL CS UNI | 301 | 1266.0 | +7.4 | +171.4 |
 | RAZED | 300 | 1269.0 | +10.4 | +165.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -54,11 +54,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Biggie Cheese Fan Club | 151 | +318.0 | +292.0 | +29.8 |
 | WhiteBoyWinter | 155 | +308.1 | +301.1 | +28.3 |
 | offBalance | 165 | +283.7 | +293.3 | +24.2 |
-| Order Zero | 156 | +306.1 | +272.1 | +23.8 |
+| Order Zero | 156 | +306.2 | +272.1 | +23.8 |
 | Oath | 142 | +343.6 | +286.4 | +22.9 |
 | Pug Palace | 167 | +277.2 | +296.2 | +22.7 |
-| BucketJonsBoys | 172 | +274.5 | +284.1 | +22.4 |
-| Shaboing Boing Bandits | 173 | +272.0 | +305.4 | +21.7 |
+| BucketJonsBoys | 172 | +274.4 | +284.1 | +22.4 |
+| Shaboing Boing Bandits | 173 | +272.0 | +305.4 | +21.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -75,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-04 | Rogue Dungeon | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -170.6 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
+| 2026-09-04 | Rogue Dungeon | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -170.7 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
 | 2026-09-02 | Smile Team Six | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +84.4 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
 | 2026-07-26 | Tractors | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -155.5 | EMOnEMO, Jantokat, Slimm_, Uhttt, spartanbooby |
 | 2026-06-05 | We Wont Implode This Time | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -211.1 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |

@@ -40,9 +40,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Knox Esports | 427 | 984.1 | +0.3 | +162.4 |
-| Famas OP | 426 | 984.9 | +1.1 | +162.6 |
-| Climbers | 425 | 986.0 | +2.2 | +163.0 |
-| Evil Space Wizards | 424 | 988.0 | +4.2 | +163.6 |
+| Famas OP | 426 | 984.8 | +1.0 | +162.6 |
+| Climbers | 425 | 985.9 | +2.1 | +163.0 |
+| Evil Space Wizards | 424 | 987.9 | +4.1 | +163.6 |
 | Halcyon | 423 | 993.8 | +10.0 | +165.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,15 +50,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Saltcrew | 276 | +337.0 | +313.7 | +31.7 |
-| Demolition | 279 | +332.2 | +312.2 | +31.0 |
+| Demolition | 279 | +332.2 | +312.1 | +31.0 |
 | Chopped | 277 | +336.0 | +341.5 | +30.8 |
 | Adria eSports | 281 | +330.4 | +350.5 | +29.9 |
 | ItAintOverYet | 284 | +318.8 | +301.4 | +29.8 |
 | Entertainment Cheese | 285 | +317.0 | +330.6 | +28.9 |
-| Midwest Farmers | 286 | +312.5 | +326.1 | +28.4 |
+| Midwest Farmers | 286 | +312.4 | +326.0 | +28.4 |
 | Imperium | 283 | +321.7 | +278.0 | +28.3 |
 | 55TH ST | 288 | +307.5 | +329.9 | +27.6 |
-| Resurgence | 290 | +299.8 | +301.3 | +27.0 |
+| Resurgence | 290 | +299.8 | +301.2 | +27.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -77,8 +77,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Bad Jawn | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -6.7 | LeMarc_, Scratchh, TTSWumbo, big_gamer556, m0m0n0ske |
 | 2026-09-02 | GOYPEEKING | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.00 | 0.00 | -222.5 | Hb_hoodze, LeMarc_, Maxeys, big_gamer556, m0m0n0ske |
 | 2026-06-10 | The Third Eye | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -143.5 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
-| 2026-06-03 | DILFS | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +181.3 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
+| 2026-06-03 | DILFS | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +181.4 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
 | 2026-05-31 | Without a floor | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.29 | +162.7 | Maxeys, TTSWumbo, big_gamer556, jeffK-, m0m0n0ske |
-| 2026-05-28 | 1001 Fragrance | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -117.7 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
+| 2026-05-28 | 1001 Fragrance | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -117.8 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

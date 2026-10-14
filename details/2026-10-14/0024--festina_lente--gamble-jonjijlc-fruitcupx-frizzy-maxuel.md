@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.105 | 1246.9 | - |
-| +30 days | 0.055 | 1177.4 | -69.5 |
+| +30 days | 0.055 | 1177.3 | -69.5 |
 | +60 days | 0.002 | 1102.6 | -144.3 |
 | +90 days | 0.000 | 1100.0 | -146.9 |
 
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| duck crew | 23 | 2096.0 | +53.2 | +179.5 |
+| duck crew | 23 | 2096.1 | +53.3 | +179.5 |
 | Zomblers | 22 | 2114.7 | +71.9 | +212.2 |
-| Iowa Stormboar | 21 | 2115.8 | +73.0 | +212.6 |
-| qcclan | 20 | 2146.1 | +103.3 | +214.6 |
-| MASTER ONE | 19 | 2159.4 | +116.6 | +216.0 |
+| Iowa Stormboar | 21 | 2115.9 | +73.1 | +212.6 |
+| qcclan | 20 | 2146.2 | +103.4 | +214.6 |
+| MASTER ONE | 19 | 2159.5 | +116.7 | +216.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Overtake Sector | 10 | +329.3 | +346.9 | +29.8 |
-| Desi Boyz | 11 | +289.7 | +321.7 | +17.7 |
-| regain | 12 | +213.3 | +304.2 | +5.1 |
+| Desi Boyz | 11 | +289.7 | +321.6 | +17.7 |
+| regain | 12 | +213.4 | +304.2 | +5.1 |
 | Zomblers | 22 | +71.9 | +212.2 | -0.0 |
-| Brahmas | 14 | +164.6 | +229.7 | -0.0 |
-| Iowa Stormboar | 21 | +73.0 | +212.6 | -0.1 |
-| NuTorious | 17 | +122.9 | +214.2 | -0.2 |
-| FarmVille | 16 | +124.8 | +243.5 | -0.3 |
-| Old Meta | 15 | +133.3 | +237.9 | -0.4 |
+| Brahmas | 14 | +164.7 | +229.7 | -0.0 |
+| Iowa Stormboar | 21 | +73.1 | +212.6 | -0.1 |
+| NuTorious | 17 | +122.9 | +214.3 | -0.2 |
+| FarmVille | 16 | +124.8 | +243.6 | -0.3 |
+| Old Meta | 15 | +133.4 | +237.9 | -0.4 |
 | Villainous | 18 | +117.9 | +238.4 | -0.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +630.6 points at current ratings.
@@ -79,13 +79,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-29 | raisedbypixels | L |  | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.00 | 0.00 | -191.8 | core 3/5 |
-| 2026-06-14 | Iowa Stormboar | L |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.00 | 0.00 | -106.4 | core 3/5 |
-| 2026-06-13 | Marsborne | L |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.00 | 0.00 | -48.0 | core 3/5 |
-| 2026-06-12 | DETONATE | W |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.59 | 0.59 | +123.1 | core 3/5 |
+| 2026-06-29 | raisedbypixels | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.00 | 0.00 | -191.9 | core 3/5 |
+| 2026-06-14 | Iowa Stormboar | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.00 | 0.00 | -106.4 | core 3/5 |
+| 2026-06-13 | Marsborne | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.00 | 0.00 | -48.0 | core 3/5 |
+| 2026-06-12 | DETONATE | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.59 | 0.59 | +123.2 | core 3/5 |
 | 2026-06-11 | GG | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.36 | 1.05 | 1.00 | 0.38 | 0.01 | 0.38 | +74.2 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
-| 2026-06-11 | Club 333 | W |  | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.58 | 0.45 | 0.58 | +364.3 | core 3/5 |
-| 2026-06-09 | FoxtrotAlpha | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.35 | 1.05 | 1.00 | 0.37 | 0.00 | 0.37 | +298.0 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
+| 2026-06-11 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.58 | 0.45 | 0.58 | +364.3 | core 3/5 |
+| 2026-06-09 | FoxtrotAlpha | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.35 | 1.05 | 1.00 | 0.37 | 0.00 | 0.37 | +298.1 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
 | 2026-06-02 | Playing for fun | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -234.3 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
 | 2026-05-31 | bubibabu | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.03 | 0.30 | +268.0 | FRIZZY, Fruitcupx, JonjiJLC, MaestrO, Maxuel, gamble |
 | 2026-05-29 | The Skid Marks | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.00 | 0.29 | +248.7 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |

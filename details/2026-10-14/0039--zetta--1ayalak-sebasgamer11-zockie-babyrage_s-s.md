@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.193 | 1370.1 | - |
 | +30 days | 0.176 | 1346.2 | -23.9 |
 | +60 days | 0.167 | 1334.5 | -35.6 |
-| +90 days | 0.163 | 1328.3 | -41.9 |
+| +90 days | 0.163 | 1328.2 | -41.8 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.798 average, gap -0.759). Matching that average is worth about 265.6 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.798 average, gap -0.759). Matching that average is worth about 265.7 seed points.
 
 - Tier Exposure drivers: S57 NA Open9-10 Central - Playoffs A (2026-06-09) 0.37; VRS-tracked 2026-09 (2026-09-22) 1.60; VRS-tracked 2026-09 (2026-09-24) 1.60
 - Quality Wins drivers: beat YOUR END at VRS-tracked 2026-09 (2026-09-26) 1.16; beat PUGDESONESTO at VRS-tracked 2026-08 (2026-08-26) 1.04; beat FLOW STATE at S57 NA Open9-10 Central - Playoffs A (2026-05-29) 0.07
@@ -41,26 +41,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | North Forge | 38 | 1971.2 | +1.2 | +108.5 |
 | unreal nightmare | 37 | 1976.6 | +6.6 | +98.8 |
-| EMPIRE | 36 | 1983.6 | +13.6 | +108.6 |
-| Holly Molly | 35 | 1988.4 | +18.4 | +102.7 |
-| Slimy Boogermen | 34 | 1997.4 | +27.4 | +104.8 |
+| EMPIRE | 36 | 1983.6 | +13.6 | +108.7 |
+| Holly Molly | 35 | 1988.4 | +18.4 | +102.8 |
+| Slimy Boogermen | 34 | 1997.4 | +27.4 | +104.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| regain | 12 | +286.1 | +202.0 | +13.5 |
-| Detonate | 13 | +276.7 | +177.8 | +8.7 |
-| Brahmas | 14 | +237.4 | +142.5 | +7.3 |
-| Old Meta | 15 | +206.1 | +160.1 | +1.1 |
-| Zomblers | 22 | +144.7 | +154.3 | -0.0 |
-| Hairy Scary Bandits | 32 | +29.4 | +108.4 | -0.0 |
+| regain | 12 | +286.2 | +202.2 | +13.5 |
+| Detonate | 13 | +276.7 | +177.9 | +8.7 |
+| Brahmas | 14 | +237.5 | +142.7 | +7.3 |
+| Old Meta | 15 | +206.2 | +160.2 | +1.1 |
+| Zomblers | 22 | +144.7 | +154.5 | -0.0 |
+| Hairy Scary Bandits | 32 | +29.4 | +108.5 | -0.0 |
 | unreal nightmare | 37 | +6.6 | +98.8 | -0.0 |
 | North Forge | 38 | +1.2 | +108.5 | -0.0 |
-| Chicken Coop | 33 | +28.2 | +116.2 | -0.0 |
-| EMPIRE | 36 | +13.6 | +108.6 | -0.0 |
+| Chicken Coop | 33 | +28.2 | +116.3 | -0.0 |
+| EMPIRE | 36 | +13.6 | +108.7 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +292.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +292.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Knight Owls (+0.0), Grandpa Berets (+0.0).
 
@@ -81,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-26 | YOUR END | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.16 | 0.00 | +209.7 | core 3/5 |
 | 2026-09-24 | MEIA NOITE | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -33.7 | core 3/5 |
 | 2026-09-22 | BESTIA ACADEMY | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -43.9 | core 3/5 |
-| 2026-08-31 | DAMAJUANA | L |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 0.00 | 0.00 | -135.4 | core 3/5 |
+| 2026-08-31 | DAMAJUANA | L |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 0.00 | 0.00 | -135.5 | core 3/5 |
 | 2026-08-29 | PROCYON | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 0.00 | 0.00 | -66.8 | core 3/5 |
 | 2026-08-26 | BESTIA ACADEMY | L |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.00 | 0.00 | -16.1 | core 3/5 |
 | 2026-08-26 | PUGDESONESTO | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 1.04 | 0.00 | +528.7 | core 3/5 |
@@ -92,6 +92,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-04 | DAMAJUANA | L |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.17 | 0.00 | 0.00 | -127.1 | core 3/5 |
 | 2026-05-02 | ISURUS | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -38.1 | core 3/5 |
 | 2026-05-01 | UNO MILLE | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.00 | 0.00 | -185.3 | core 3/5 |
-| 2026-04-28 | GAMEHUNTERS | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.07 | 0.00 | +636.1 | core 3/5 |
+| 2026-04-28 | GAMEHUNTERS | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.07 | 0.00 | +636.2 | core 3/5 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -3,11 +3,11 @@ Team Name: Puddle Pirates
 Roster: brodyo, HUNCHOJACK_, _Sasha-, brodan100105, 1ucky666
 NARS Rank: 459 of 506
 
-Final Rating: 848.8
+Final Rating: 848.7
 Seeded Start: 1150.1
-H2H Adjustment: -301.3 (capped at +-300, raw -301.4)
+H2H Adjustment: -301.4
 
-Final Rating (848.8) = Seeded Start (1150.1) + H2H Adjustment (-301.3)
+Final Rating (848.7) = Seeded Start (1150.1) + H2H Adjustment (-301.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Thrash | 458 | 860.9 | +12.1 | +175.4 |
-| Cadillac F1 eSports Team | 457 | 863.1 | +14.3 | +171.2 |
-| onliners | 456 | 870.2 | +21.4 | +169.1 |
-| girl kissers | 455 | 883.6 | +34.8 | +173.4 |
-| Cause and Effect Gaming | 454 | 884.7 | +35.9 | +173.8 |
+| Thrash | 458 | 860.8 | +12.1 | +175.4 |
+| Cadillac F1 eSports Team | 457 | 863.0 | +14.3 | +171.2 |
+| onliners | 456 | 870.1 | +21.4 | +169.1 |
+| girl kissers | 455 | 883.6 | +34.9 | +173.4 |
+| Cause and Effect Gaming | 454 | 884.6 | +35.9 | +173.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Boop Boop Gang | 340 | +346.8 | +313.6 | +32.3 |
-| MadaNASCAR | 341 | +346.5 | +341.6 | +31.8 |
-| Samantha 4 | 351 | +329.2 | +310.7 | +30.9 |
-| Florida Man | 345 | +337.4 | +358.5 | +30.4 |
-| RunTheDamnBall | 352 | +318.3 | +323.8 | +29.3 |
-| DeathMark E-Sports | 353 | +317.7 | +332.9 | +28.9 |
-| Comeback Bandits | 355 | +311.8 | +314.6 | +28.6 |
-| 99 Thieves | 354 | +313.5 | +313.8 | +28.4 |
-| Macs Snacks | 359 | +305.1 | +296.3 | +27.9 |
-| RH Help Desk | 358 | +309.7 | +336.6 | +27.8 |
+| Boop Boop Gang | 340 | +346.9 | +313.6 | +32.3 |
+| MadaNASCAR | 341 | +346.5 | +341.5 | +31.8 |
+| Samantha 4 | 351 | +329.3 | +310.7 | +30.9 |
+| Florida Man | 345 | +337.5 | +358.5 | +30.4 |
+| RunTheDamnBall | 352 | +318.4 | +323.8 | +29.3 |
+| DeathMark E-Sports | 353 | +317.8 | +332.9 | +28.9 |
+| Comeback Bandits | 355 | +311.9 | +314.6 | +28.6 |
+| 99 Thieves | 354 | +313.6 | +313.8 | +28.4 |
+| Macs Snacks | 359 | +305.2 | +296.3 | +27.9 |
+| RH Help Desk | 358 | +309.8 | +336.6 | +27.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 

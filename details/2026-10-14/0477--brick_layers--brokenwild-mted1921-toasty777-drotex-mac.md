@@ -3,11 +3,11 @@ Team Name: Brick Layers
 Roster: BrokenWild, mted1921, Toasty777, Drotex, macchiata
 NARS Rank: 477 of 506
 
-Final Rating: 764.2
+Final Rating: 764.1
 Seeded Start: 1103.4
-H2H Adjustment: -339.2
+H2H Adjustment: -339.3
 
-Final Rating (764.2) = Seeded Start (1103.4) + H2H Adjustment (-339.2)
+Final Rating (764.1) = Seeded Start (1103.4) + H2H Adjustment (-339.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Sleepers | 476 | 776.3 | +12.1 | +166.1 |
-| Iron Horse | 475 | 780.1 | +15.9 | +167.3 |
-| Another Day in Paradise | 474 | 780.3 | +16.1 | +167.4 |
-| AML | 473 | 793.6 | +29.4 | +172.7 |
-| Therapist | 472 | 797.4 | +33.2 | +172.9 |
+| Sleepers | 476 | 776.2 | +12.1 | +166.1 |
+| Iron Horse | 475 | 779.9 | +15.8 | +167.3 |
+| Another Day in Paradise | 474 | 780.1 | +16.0 | +167.3 |
+| AML | 473 | 793.6 | +29.5 | +172.7 |
+| Therapist | 472 | 797.3 | +33.2 | +172.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Zamgaa Anime Aimers | 378 | +339.9 | +311.9 | +32.0 |
-| Shadow Wizard Money Gang | 376 | +343.6 | +331.0 | +31.9 |
-| Costco Family | 382 | +338.3 | +313.7 | +31.8 |
-| We Play Naked | 380 | +339.1 | +330.5 | +31.4 |
-| Texas Orange | 383 | +333.3 | +314.1 | +31.3 |
-| Goyim Gladiators | 379 | +339.7 | +342.8 | +31.1 |
-| Exnitas | 385 | +329.0 | +299.7 | +31.1 |
-| Kahoot Squad | 388 | +318.4 | +301.9 | +29.7 |
-| Flow Esports | 387 | +319.4 | +316.3 | +29.2 |
+| Shadow Wizard Money Gang | 376 | +343.7 | +331.0 | +31.9 |
+| Costco Family | 382 | +338.4 | +313.7 | +31.8 |
+| We Play Naked | 380 | +339.1 | +330.5 | +31.5 |
+| Texas Orange | 383 | +333.4 | +314.1 | +31.3 |
+| Goyim Gladiators | 379 | +339.8 | +342.9 | +31.1 |
+| Exnitas | 385 | +329.1 | +299.8 | +31.1 |
+| Kahoot Squad | 388 | +318.5 | +301.9 | +29.7 |
+| Flow Esports | 387 | +319.5 | +316.3 | +29.2 |
 | MXA | 386 | +326.6 | +279.9 | +27.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
@@ -71,12 +71,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-20 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -195.4 | BrokenWild, Drotex, Famweboolin, macchiata, mted1921 |
+| 2026-05-20 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -195.5 | BrokenWild, Drotex, Famweboolin, macchiata, mted1921 |
 | 2026-05-15 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -3.3 | BrokenWild, Drotex, Tad_s, Toasty777, mted1921 |
 | 2026-05-08 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -14.7 | BrokenWild, Drotex, Famweboolin, Toasty777, mted1921 |
 | 2026-05-06 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -77.4 | BrokenWild, Drotex, Famweboolin, Toasty777, macchiata |
 | 2026-05-01 | Akatsuki | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -0.6 | -extraa, BrokenWild, Drotex, Toasty777, mted1921 |
-| 2026-04-24 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -355.5 | BrokenWild, Drotex, Toasty777, macchiata, mted1921 |
+| 2026-04-24 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -355.6 | BrokenWild, Drotex, Toasty777, macchiata, mted1921 |
 | 2026-04-22 | The Ohio Meat Wagon | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +307.7 | BrokenWild, Drotex, Famweboolin, macchiata, mted1921 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

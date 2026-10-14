@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.092 | 1228.8 | - |
-| +30 days | 0.088 | 1223.8 | -5.1 |
+| +30 days | 0.088 | 1223.8 | -5.0 |
 | +60 days | 0.087 | 1221.4 | -7.4 |
-| +90 days | 0.083 | 1216.3 | -12.6 |
+| +90 days | 0.083 | 1216.2 | -12.6 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.308 vs 0.383 average, gap -0.075). Matching that average is worth about 26.3 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| gunked | 132 | 1622.7 | +0.9 | +97.0 |
-| SAFIR | 131 | 1624.7 | +2.9 | +97.1 |
-| Quality | 130 | 1626.1 | +4.3 | +92.9 |
-| Torii | 129 | 1628.0 | +6.2 | +103.7 |
+| gunked | 132 | 1622.7 | +0.9 | +97.1 |
+| SAFIR | 131 | 1624.7 | +2.9 | +97.2 |
+| Quality | 130 | 1626.1 | +4.3 | +93.0 |
+| Torii | 129 | 1628.0 | +6.2 | +103.8 |
 | Team GREAT | 128 | 1629.2 | +7.4 | +98.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| North Forge | 38 | +349.4 | +230.7 | +16.9 |
-| Wanted Goons | 43 | +311.3 | +218.3 | +15.6 |
-| ZETTA | 39 | +348.2 | +190.1 | +15.1 |
-| Swole Patrol | 45 | +292.5 | +146.8 | +14.1 |
-| Xiaoma Gaming | 46 | +289.6 | +195.1 | +13.9 |
-| FLOW STATE | 47 | +275.6 | +182.6 | +12.7 |
-| Zealous | 42 | +319.8 | +150.7 | +12.2 |
-| No Future Lifes Over | 50 | +265.3 | +165.3 | +11.5 |
-| DESPAIR | 49 | +266.9 | +165.6 | +11.4 |
-| Phantom Sense | 51 | +261.9 | +199.0 | +11.3 |
+| North Forge | 38 | +349.4 | +231.0 | +16.9 |
+| Wanted Goons | 43 | +311.3 | +218.6 | +15.6 |
+| ZETTA | 39 | +348.2 | +190.2 | +15.1 |
+| Swole Patrol | 45 | +292.6 | +147.0 | +14.1 |
+| Xiaoma Gaming | 46 | +289.7 | +195.3 | +14.0 |
+| FLOW STATE | 47 | +275.6 | +182.8 | +12.7 |
+| Zealous | 42 | +319.9 | +150.9 | +12.2 |
+| No Future Lifes Over | 50 | +265.4 | +165.5 | +11.5 |
+| DESPAIR | 49 | +266.9 | +165.8 | +11.5 |
+| Phantom Sense | 51 | +262.0 | +199.2 | +11.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +304.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +304.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
 

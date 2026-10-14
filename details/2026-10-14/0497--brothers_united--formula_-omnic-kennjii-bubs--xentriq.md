@@ -3,15 +3,15 @@ Team Name: Brothers United
 Roster: forMula_, Omnic, kenNjii, bubs-, XentriQ
 NARS Rank: 497 of 506
 
-Final Rating: 554.4
-Seeded Start: 1137.9
-H2H Adjustment: -583.5 (capped at +-300, raw -583.4)
+Final Rating: 554.3
+Seeded Start: 1137.8
+H2H Adjustment: -583.5
 
-Final Rating (554.4) = Seeded Start (1137.9) + H2H Adjustment (-583.5)
+Final Rating (554.3) = Seeded Start (1137.8) + H2H Adjustment (-583.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.027 x 1400 = 1137.9
+                = 1100 + 0.027 x 1400 = 1137.8
 
 seed_factor 0.027 = 0.25 x Tier Exposure (0.032) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.066)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.027 | 1137.9 | - |
+| Now | 0.027 | 1137.8 | - |
 | +30 days | 0.016 | 1122.6 | -15.3 |
 | +60 days | 0.011 | 1115.7 | -22.1 |
 | +90 days | 0.003 | 1104.8 | -33.1 |
@@ -39,24 +39,24 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Solbound | 496 | 555.0 | +0.6 | +166.6 |
-| RejexEsports | 495 | 557.8 | +3.4 | +163.3 |
-| we get it back | 494 | 570.2 | +15.8 | +167.3 |
-| SuperSoakerClub | 493 | 581.6 | +27.2 | +170.9 |
-| GOMI dot CLUB | 492 | 605.1 | +50.7 | +178.6 |
+| Solbound | 496 | 554.8 | +0.5 | +166.6 |
+| RejexEsports | 495 | 557.7 | +3.4 | +163.3 |
+| we get it back | 494 | 570.1 | +15.8 | +167.3 |
+| SuperSoakerClub | 493 | 581.4 | +27.1 | +170.9 |
+| GOMI dot CLUB | 492 | 605.0 | +50.7 | +178.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Deathgrip | 448 | +349.7 | +301.4 | +33.1 |
+| Team Deathgrip | 448 | +349.8 | +301.4 | +33.1 |
 | GoopT | 452 | +340.1 | +341.8 | +30.7 |
-| insane players | 453 | +335.3 | +283.2 | +29.7 |
-| girl kissers | 455 | +329.2 | +280.9 | +28.8 |
+| insane players | 453 | +335.2 | +283.2 | +29.7 |
+| girl kissers | 455 | +329.3 | +280.9 | +28.9 |
 | Cadillac F1 eSports Team | 457 | +308.7 | +291.6 | +28.1 |
 | Thrash | 458 | +306.5 | +318.4 | +27.7 |
-| onliners | 456 | +315.8 | +275.7 | +27.0 |
-| Absent Minded | 460 | +290.7 | +290.0 | +25.2 |
+| onliners | 456 | +315.8 | +275.8 | +27.0 |
+| Absent Minded | 460 | +290.7 | +290.1 | +25.2 |
 | Remnant | 461 | +282.3 | +287.8 | +24.0 |
 | de_throne | 463 | +280.4 | +265.1 | +23.4 |
 
@@ -73,10 +73,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-29 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -40.4 | -DavidTK-, Spearmint, XentriQ, bubs-, kenNjii |
 | 2026-07-24 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -239.3 | A1den, Omnic, XentriQ, bubs-, kenNjii |
-| 2026-07-22 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.06 | 0.64 | +62.9 | A1den, Omnic, XentriQ, bubs-, kenNjii |
-| 2026-07-20 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -59.9 | A1den, Omnic, XentriQ, bubs-, kenNjii |
+| 2026-07-22 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.06 | 0.64 | +62.8 | A1den, Omnic, XentriQ, bubs-, kenNjii |
+| 2026-07-20 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -60.0 | A1den, Omnic, XentriQ, bubs-, kenNjii |
 | 2026-07-15 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -238.8 | -DavidTK-, Omnic, XentriQ, forMula_, kenNjii |
-| 2026-05-22 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +351.0 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
+| 2026-05-22 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +351.1 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 | 2026-05-15 | de_throne | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -127.8 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 | 2026-05-13 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -71.4 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 | 2026-05-08 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +403.5 | Omnic, XentriQ, bubs-, forMula_, kenNjii |

@@ -4,14 +4,14 @@ Roster: Msaia, InsayN, JonjiJLC, FRIZZY, austin_
 NARS Rank: 93 of 506
 
 Final Rating: 1731.6
-Seeded Start: 1777.0
-H2H Adjustment: -45.4
+Seeded Start: 1776.9
+H2H Adjustment: -45.3
 
-Final Rating (1731.6) = Seeded Start (1777.0) + H2H Adjustment (-45.4)
+Final Rating (1731.6) = Seeded Start (1776.9) + H2H Adjustment (-45.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.484 x 1400 = 1777.0
+                = 1100 + 0.484 x 1400 = 1776.9
 
 seed_factor 0.484 = 0.25 x Tier Exposure (0.476) + 0.50 x Quality Wins (0.346) + 0.25 x Opponent Network (0.767)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.484 | 1777.0 | - |
+| Now | 0.484 | 1776.9 | - |
 | +30 days | 0.449 | 1729.1 | -47.9 |
-| +60 days | 0.418 | 1684.5 | -92.5 |
-| +90 days | 0.365 | 1611.5 | -165.4 |
+| +60 days | 0.417 | 1684.5 | -92.5 |
+| +90 days | 0.365 | 1611.4 | -165.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.346 vs 0.149 average, gap +0.197). Matching that average is worth about 0.0 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Toomers | 92 | 1742.5 | +10.9 | +57.7 |
+| Toomers | 92 | 1742.6 | +11.0 | +57.7 |
 | Fathom Gaming | 91 | 1745.3 | +13.7 | +57.4 |
 | Fire Nation | 90 | 1749.7 | +18.1 | +58.6 |
-| Overtake Sector | 89 | 1750.8 | +19.2 | +69.3 |
+| Overtake Sector | 89 | 1750.9 | +19.3 | +69.4 |
 | Manx Recovery Program | 88 | 1751.4 | +19.8 | +56.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Olympus | 25 | +308.0 | +101.1 | +8.8 |
-| Automatic HQ | 27 | +299.2 | +106.4 | +8.2 |
-| VOID ALUNE | 29 | +276.2 | +78.2 | +6.8 |
-| Hairy Scary Bandits | 32 | +267.8 | +98.1 | +6.8 |
-| Chicken Coop | 33 | +266.6 | +114.2 | +6.7 |
+| Olympus | 25 | +308.1 | +101.2 | +8.8 |
+| Automatic HQ | 27 | +299.3 | +106.5 | +8.2 |
+| VOID ALUNE | 29 | +276.3 | +78.3 | +6.8 |
+| Hairy Scary Bandits | 32 | +267.8 | +98.2 | +6.8 |
+| Chicken Coop | 33 | +266.6 | +114.3 | +6.7 |
 | Holly Molly | 35 | +256.8 | +91.4 | +5.8 |
 | EMPIRE | 36 | +252.0 | +104.4 | +5.6 |
-| Festina Lente | 24 | +311.2 | +81.2 | +5.2 |
+| Festina Lente | 24 | +311.2 | +81.3 | +5.2 |
 | unreal nightmare | 37 | +245.0 | +87.8 | +4.9 |
-| North Forge | 38 | +239.6 | +110.5 | +4.6 |
+| North Forge | 38 | +239.6 | +110.6 | +4.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +154.7 points at current ratings.
 
@@ -69,34 +69,34 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-10 | LAST DANCE | L | 0-1 | FRAG University 2026 | A | liquipedia | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -16.4 | Austin, FRIZZY, Jonji, LittleBEER, Treehen |
+| 2026-10-10 | LAST DANCE | L | 0-1 | FRAG University 2026 | A | liquipedia | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -16.5 | Austin, FRIZZY, Jonji, LittleBEER, Treehen |
 | 2026-10-10 | Marsborne | L | 0-2 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.00 | 0.00 | -0.1 | core 3/5 |
 | 2026-10-07 | FlyQuest RED | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 0.62 | 1.43 | +101.9 | FRIZZY, JonjiJLC, LittleBEER, Treehen, austin_ |
-| 2026-09-02 | counterstrike Team | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.22 | 0.00 | 0.00 | -133.3 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-09-02 | BucketJonsBoys | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.22 | 0.00 | 0.00 | -193.3 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-09-02 | FarmVille | L |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.22 | 0.00 | 0.00 | -66.3 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-08-29 | SportsBetExpert | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 0.00 | 0.00 | -1.3 | core 3/5 |
+| 2026-09-02 | counterstrike Team | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.22 | 0.00 | 0.00 | -133.4 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
+| 2026-09-02 | BucketJonsBoys | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.22 | 0.00 | 0.00 | -193.4 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
+| 2026-09-02 | FarmVille | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.22 | 0.00 | 0.00 | -66.3 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
+| 2026-08-29 | SportsBetExpert | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 0.00 | 0.00 | -1.3 | core 3/5 |
 | 2026-08-28 | Brahmas | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.28 | 0.00 | 0.00 | -38.5 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-28 | Zomblers | L |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.41 | 0.00 | 0.00 | -29.9 | core 3/5 |
 | 2026-08-27 | Epochal Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.16 | 1.05 | +0.0 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-27 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.27 | 0.00 | 0.00 | -43.9 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-08-27 | NuTorious | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.40 | 1.26 | 1.40 | +102.8 | core 3/5 |
+| 2026-08-27 | NuTorious | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.40 | 1.26 | 1.40 | +102.8 | core 3/5 |
 | 2026-08-26 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.21 | 1.26 | +40.2 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-08-26 | Shimmer | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.51 | 0.00 | +92.0 | core 3/5 |
-| 2026-08-25 | Marsborne | L |  | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.00 | 0.00 | -0.1 | core 3/5 |
+| 2026-08-26 | Shimmer | W | 2-1 | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.51 | 0.00 | +92.0 | core 3/5 |
+| 2026-08-25 | Marsborne | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.00 | 0.00 | -0.1 | core 3/5 |
 | 2026-08-24 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.24 | 0.98 | 1.24 | +99.3 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-08-23 | F5 Esports | W |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.26 | 1.02 | +81.3 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
+| 2026-08-23 | F5 Esports | W | W/O | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.26 | 1.02 | +81.3 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-20 | Entertainment Cheese | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.15 | 0.99 | +2.3 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-20 | Axial | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -272.1 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-19 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -1.1 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-18 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.18 | 0.00 | 0.00 | -13.0 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-17 | unreal nightmare | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.45 | 1.00 | 1.17 | 0.82 | 1.17 | +62.2 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-15 | Phantom Sense | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.45 | 1.00 | 1.15 | 0.39 | 1.15 | +15.9 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-08-14 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.00 | 0.00 | -0.0 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
+| 2026-08-14 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.14 | 0.00 | 0.00 | -0.0 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-13 | ThirdSite | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.22 | 0.94 | +0.4 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-08-13 | Olympus | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -76.5 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-07-31 | DETONATE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -98.9 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
-| 2026-07-30 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.45 | 1.00 | 1.00 | 0.37 | 1.00 | +309.2 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
+| 2026-07-30 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.45 | 1.00 | 1.00 | 0.37 | 1.00 | +309.3 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 | 2026-07-17 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.18 | 0.87 | +31.7 | FRIZZY, InsayN, JonjiJLC, Msaia, austin_ |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

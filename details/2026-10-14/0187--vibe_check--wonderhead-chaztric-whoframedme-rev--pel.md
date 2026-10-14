@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Alternate Earth | 186 | 1504.0 | +0.1 | +131.5 |
-| KIS | 185 | 1506.6 | +2.7 | +123.0 |
-| QUPMANACS | 184 | 1510.3 | +6.4 | +119.8 |
-| LAF | 183 | 1511.3 | +7.4 | +127.4 |
-| GOOZPEEK | 182 | 1513.1 | +9.2 | +130.4 |
+| Alternate Earth | 186 | 1504.0 | +0.1 | +131.6 |
+| KIS | 185 | 1506.7 | +2.8 | +123.1 |
+| QUPMANACS | 184 | 1510.3 | +6.4 | +119.9 |
+| LAF | 183 | 1511.3 | +7.4 | +127.5 |
+| GOOZPEEK | 182 | 1513.1 | +9.2 | +130.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +322.6 | +239.2 | +21.5 |
-| Endless Esports | 65 | +322.1 | +241.3 | +21.4 |
-| DUMBO | 63 | +323.2 | +265.3 | +20.6 |
-| WhalersOnDaMoon | 66 | +317.9 | +244.4 | +20.3 |
-| NZ Gaming | 69 | +309.3 | +219.9 | +20.3 |
-| GeneticDiff | 70 | +289.0 | +221.6 | +18.0 |
-| F5 Esports | 60 | +331.4 | +253.1 | +17.1 |
-| fih hou | 73 | +281.8 | +229.3 | +17.0 |
-| Asoka | 74 | +279.4 | +207.1 | +16.8 |
-| Club 333 | 76 | +278.3 | +246.4 | +16.6 |
+| flat earth | 64 | +322.6 | +239.4 | +21.6 |
+| Endless Esports | 65 | +322.1 | +241.5 | +21.4 |
+| DUMBO | 63 | +323.2 | +265.5 | +20.6 |
+| WhalersOnDaMoon | 66 | +318.0 | +244.6 | +20.3 |
+| NZ Gaming | 69 | +309.3 | +220.2 | +20.3 |
+| GeneticDiff | 70 | +289.0 | +221.7 | +18.0 |
+| F5 Esports | 60 | +331.4 | +253.3 | +17.1 |
+| fih hou | 73 | +281.8 | +229.5 | +17.0 |
+| Asoka | 74 | +279.4 | +207.3 | +16.8 |
+| Club 333 | 76 | +278.4 | +246.6 | +16.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +413.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +413.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 

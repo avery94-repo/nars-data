@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.117 | 1264.2 | +10.8 |
 | +90 days | 0.122 | 1270.7 | +17.3 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.325 vs 0.406 average, gap -0.081). Matching that average is worth about 28.3 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.325 vs 0.406 average, gap -0.081). Matching that average is worth about 28.4 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs B (2026-09-17) 1.04; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 - Quality Wins drivers: beat FlockMunchers at S59 NA Intermediate A - Regular Season (2026-10-09) 0.11; beat WhiteBoyWinter at S58 NA Open9-10 East - Playoffs B (2026-09-15) 0.07; beat RH Help Desk at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07
@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Holy Squid Empire | 108 | 1678.7 | +8.0 | +81.8 |
 | Evil Reunion | 107 | 1683.5 | +12.8 | +77.0 |
-| Northern District | 106 | 1684.0 | +13.3 | +74.8 |
+| Northern District | 106 | 1684.1 | +13.4 | +74.8 |
 | Tacos Tiramisu and Lies | 105 | 1687.3 | +16.6 | +79.4 |
 | NineFly Esports | 104 | 1689.1 | +18.4 | +75.5 |
 
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| VOID ALUNE | 29 | +337.1 | +120.0 | +13.6 |
-| Hairy Scary Bandits | 32 | +328.7 | +150.6 | +13.4 |
-| Chicken Coop | 33 | +327.5 | +175.4 | +12.9 |
-| Holly Molly | 35 | +317.7 | +140.4 | +12.8 |
+| VOID ALUNE | 29 | +337.2 | +120.1 | +13.6 |
+| Hairy Scary Bandits | 32 | +328.7 | +150.7 | +13.4 |
+| Chicken Coop | 33 | +327.5 | +175.5 | +12.9 |
+| Holly Molly | 35 | +317.7 | +140.5 | +12.8 |
 | EMPIRE | 36 | +312.9 | +160.6 | +12.5 |
 | unreal nightmare | 37 | +305.9 | +135.0 | +12.3 |
-| North Forge | 38 | +300.5 | +170.3 | +11.8 |
-| ZETTA | 39 | +299.3 | +140.6 | +9.8 |
-| Priority | 30 | +334.0 | +119.6 | +9.8 |
-| babaG | 28 | +338.0 | +160.5 | +9.6 |
+| North Forge | 38 | +300.5 | +170.4 | +11.8 |
+| ZETTA | 39 | +299.3 | +140.7 | +9.8 |
+| Priority | 30 | +334.1 | +119.7 | +9.8 |
+| babaG | 28 | +338.1 | +160.6 | +9.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +230.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +230.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), RejexEsports (+0.0).
 
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-17 | Fire Nation | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -67.3 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 | 2026-09-15 | WhiteBoyWinter | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +74.4 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 | 2026-09-08 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -34.0 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
-| 2026-09-04 | mokey mokey | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +107.6 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
+| 2026-09-04 | mokey mokey | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +107.6 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 | 2026-09-03 | Team Phys | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.96 | 0.04 | 0.96 | +196.8 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

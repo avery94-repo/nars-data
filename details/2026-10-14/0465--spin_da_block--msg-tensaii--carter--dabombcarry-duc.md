@@ -4,16 +4,16 @@ Roster: MSG, tensaii, -Carter-, daBombCarry, duc
 NARS Rank: 465 of 506
 
 Final Rating: 830.0
-Seeded Start: 1253.5
-H2H Adjustment: -423.5 (capped at +-300, raw -423.4)
+Seeded Start: 1253.4
+H2H Adjustment: -423.4 (capped at +-300, raw -423.5)
 
-Final Rating (830.0) = Seeded Start (1253.5) + H2H Adjustment (-423.5)
+Final Rating (830.0) = Seeded Start (1253.4) + H2H Adjustment (-423.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.110 x 1400 = 1253.5
+                = 1100 + 0.110 x 1400 = 1253.4
 
-seed_factor 0.110 = 0.25 x Tier Exposure (0.086) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.309)
+seed_factor 0.110 = 0.25 x Tier Exposure (0.086) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.308)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.110 | 1253.5 | - |
-| +30 days | 0.083 | 1215.9 | -37.6 |
-| +60 days | 0.070 | 1198.6 | -54.9 |
-| +90 days | 0.052 | 1172.6 | -80.9 |
+| Now | 0.110 | 1253.4 | - |
+| +30 days | 0.083 | 1215.8 | -37.6 |
+| +60 days | 0.070 | 1198.6 | -54.8 |
+| +90 days | 0.052 | 1172.5 | -80.9 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.086 vs 0.090 average, gap -0.004). Matching that average is worth about 1.4 seed points.
 
@@ -40,10 +40,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | 69 | 464 | 832.3 | +2.3 | +168.1 |
-| de_throne | 463 | 834.8 | +4.8 | +164.6 |
+| de_throne | 463 | 834.7 | +4.7 | +164.6 |
 | dogwater | 462 | 835.5 | +5.5 | +175.1 |
-| Remnant | 461 | 836.7 | +6.7 | +170.2 |
-| Absent Minded | 460 | 845.1 | +15.1 | +172.9 |
+| Remnant | 461 | 836.6 | +6.6 | +170.2 |
+| Absent Minded | 460 | 845.0 | +15.0 | +172.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -53,11 +53,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | RunTheDamnBall | 352 | +337.1 | +333.8 | +31.2 |
 | DeathMark E-Sports | 353 | +336.5 | +343.5 | +30.8 |
 | Comeback Bandits | 355 | +330.6 | +324.2 | +30.7 |
-| 99 Thieves | 354 | +332.3 | +323.3 | +30.5 |
+| 99 Thieves | 354 | +332.3 | +323.4 | +30.5 |
 | Macs Snacks | 359 | +323.9 | +305.0 | +30.4 |
-| Aers Money Crew | 360 | +323.2 | +313.2 | +30.1 |
+| Aers Money Crew | 360 | +323.2 | +313.3 | +30.1 |
 | RH Help Desk | 358 | +328.5 | +347.9 | +29.8 |
-| MINDTRIP | 361 | +319.6 | +318.7 | +29.5 |
+| MINDTRIP | 361 | +319.5 | +318.7 | +29.5 |
 | Temple of Swing | 362 | +317.4 | +308.4 | +29.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
@@ -83,9 +83,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | HUMA | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -98.2 | -Carter-, MSG, daBombCarry, duc, tensaii |
 | 2026-08-19 | Pro Lapse | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -101.0 | -Carter-, MSG, daBombCarry, duc, tensaii |
 | 2026-08-14 | THE GUILD | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -141.0 | -Carter-, MSG, duc, n7_, tensaii |
-| 2026-08-12 | Solar Gravity | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -233.1 | -Carter-, MSG, daBombCarry, duc, tensaii |
+| 2026-08-12 | Solar Gravity | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -233.2 | -Carter-, MSG, daBombCarry, duc, tensaii |
 | 2026-08-07 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.03 | 0.76 | +209.4 | -Carter-, MSG, daBombCarry, duc, tensaii |
-| 2026-08-05 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -122.4 | -Carter-, MSG, daBombCarry, duc, tensaii |
+| 2026-08-05 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -122.5 | -Carter-, MSG, daBombCarry, duc, tensaii |
 | 2026-07-31 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -178.3 | -Carter-, MSG, daBombCarry, duc, tensaii |
 | 2026-07-29 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.04 | 0.70 | +45.6 | -Carter-, MSG, daBombCarry, duc, tensaii |
 | 2026-07-24 | Locally Hated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -28.4 | -Carter-, daBombCarry, duc, powerhouse, tensaii |
@@ -95,7 +95,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-31 | YHTR | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.00 | 0.00 | -135.1 | -Carter-, MSG, daBombCarry, powerhouse, tensaii |
 | 2026-05-27 | STFDYSAB | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -36.9 | -Carter-, daBombCarry, duc, powerhouse, tensaii |
 | 2026-05-23 | The Plague | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.01 | 1.00 | 0.24 | 0.00 | 0.24 | +126.3 | -Carter-, daBombCarry, duc, powerhouse, tensaii |
-| 2026-05-21 | Top One Percent | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -374.3 | -Carter-, MSG, daBombCarry, powerhouse, tensaii |
+| 2026-05-21 | Top One Percent | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -374.4 | -Carter-, MSG, daBombCarry, powerhouse, tensaii |
 | 2026-05-20 | The Sweepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +12.3 | -Carter-, daBombCarry, duc, powerhouse, tensaii |
 | 2026-05-11 | The Agarthans | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.16 | +33.2 | MSG, daBombCarry, duc, powerhouse, tensaii |
 | 2026-05-08 | Feels MAIN Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +285.4 | -Carter-, daBombCarry, duc, powerhouse, tensaii |

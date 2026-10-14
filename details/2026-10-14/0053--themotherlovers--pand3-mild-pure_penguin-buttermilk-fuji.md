@@ -3,11 +3,11 @@ Team Name: TheMotherLovers
 Roster: pand3, mild, Pure_Penguin, Buttermilk, Fuji
 NARS Rank: 53 of 506
 
-Final Rating: 1877.9
+Final Rating: 1878.0
 Seeded Start: 1408.3
-H2H Adjustment: +469.6
+H2H Adjustment: +469.7
 
-Final Rating (1877.9) = Seeded Start (1408.3) + H2H Adjustment (+469.6)
+Final Rating (1878.0) = Seeded Start (1408.3) + H2H Adjustment (+469.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.220 | 1408.3 | - |
-| +30 days | 0.206 | 1388.1 | -20.2 |
+| +30 days | 0.206 | 1388.0 | -20.2 |
 | +60 days | 0.191 | 1367.6 | -40.7 |
-| +90 days | 0.168 | 1335.2 | -73.2 |
+| +90 days | 0.168 | 1335.1 | -73.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.135 vs 0.181 average, gap -0.046). Matching that average is worth about 16.1 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| GG | 52 | 1881.4 | +3.5 | +86.0 |
-| Phantom Sense | 51 | 1883.7 | +5.8 | +104.9 |
-| No Future Lifes Over | 50 | 1887.1 | +9.2 | +95.9 |
-| DESPAIR | 49 | 1888.7 | +10.8 | +96.2 |
-| Skyline | 48 | 1895.4 | +17.5 | +97.2 |
+| GG | 52 | 1881.5 | +3.5 | +86.0 |
+| Phantom Sense | 51 | 1883.8 | +5.8 | +104.9 |
+| No Future Lifes Over | 50 | 1887.2 | +9.2 | +95.9 |
+| DESPAIR | 49 | 1888.7 | +10.7 | +96.2 |
+| Skyline | 48 | 1895.5 | +17.5 | +97.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | +329.5 | +152.8 | +15.9 |
-| Old Meta | 15 | +298.2 | +177.1 | +13.7 |
-| FarmVille | 16 | +289.7 | +193.8 | +12.9 |
-| NuTorious | 17 | +287.8 | +147.5 | +12.9 |
-| Villainous | 18 | +282.8 | +190.0 | +12.1 |
-| Iowa Stormboar | 21 | +237.9 | +177.7 | +7.2 |
-| Zomblers | 22 | +236.8 | +178.0 | +7.1 |
-| qcclan | 20 | +268.2 | +156.5 | +6.0 |
+| Brahmas | 14 | +329.5 | +152.9 | +15.9 |
+| Old Meta | 15 | +298.2 | +177.2 | +13.7 |
+| FarmVille | 16 | +289.6 | +193.8 | +12.9 |
+| NuTorious | 17 | +287.7 | +147.6 | +12.9 |
+| Villainous | 18 | +282.7 | +190.1 | +12.1 |
+| Iowa Stormboar | 21 | +237.9 | +177.8 | +7.3 |
+| Zomblers | 22 | +236.7 | +178.1 | +7.1 |
+| qcclan | 20 | +268.2 | +156.6 | +6.0 |
 | MASTER ONE | 19 | +281.5 | +152.4 | +5.3 |
 | Phantom Sense | 51 | +5.8 | +104.9 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +276.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +276.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), Grandpa Berets (+0.0), Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0).
 
@@ -85,23 +85,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | DESPAIR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.12 | 0.92 | +124.0 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-08-12 | OnlyFans | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.08 | 0.90 | +26.4 | B0oM202, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-08-07 | goofball gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.07 | 0.86 | +86.0 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-08-05 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.07 | 0.85 | +51.0 | Buttermilk, Fuji, Pure_Penguin, Rezistance, mild, pand3 |
+| 2026-08-05 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.07 | 0.85 | +50.9 | Buttermilk, Fuji, Pure_Penguin, Rezistance, mild, pand3 |
 | 2026-07-31 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.07 | 0.81 | +105.5 | B0oM202, Buttermilk, Fuji, Rezistance, mild |
 | 2026-07-29 | Backshot Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.04 | 0.00 | +147.4 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-07-24 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -293.2 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-07-22 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.03 | 0.74 | +0.0 | Buttermilk, Fuji, Pure_Penguin, Rezistance, pand3 |
 | 2026-07-17 | Exnitas | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.09 | 0.70 | +264.8 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-07-15 | gooshedd | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -447.2 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-07-15 | gooshedd | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -447.3 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-06-06 | Fathom Gaming | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.33 | 1.24 | 1.00 | 0.41 | 0.00 | 0.00 | -145.4 | Buttermilk, Flynn, Fuji, Pure_Penguin, dawz, pand3 |
 | 2026-06-04 | Asoka | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.09 | 0.39 | +34.4 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-05-31 | Squeegee | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -100.6 | Buttermilk, Pure_Penguin, dawz, mild, pand3 |
 | 2026-05-29 | The Skins | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.03 | 0.34 | +157.8 | Buttermilk, Flynn, Fuji, mild, pand3 |
-| 2026-05-27 | DNA | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.01 | 0.33 | +152.4 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-05-27 | DNA | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.01 | 0.33 | +152.5 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-05-22 | Skyline | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.09 | 0.26 | +19.3 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-05-20 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +7.2 | Buttermilk, Flynn, Fuji, mild, pand3 |
 | 2026-05-15 | SAFIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +0.3 | Buttermilk, Flynn, Fuji, Pure_Penguin, pand3 |
-| 2026-05-13 | Manx Recovery Program | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +194.0 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-05-08 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +73.3 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-05-13 | Manx Recovery Program | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +194.1 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-05-08 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.01 | 0.15 | +73.3 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-05-06 | FRAGDEMONS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +2.0 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-04-29 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +167.5 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-04-24 | Conscious Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -276.2 | Buttermilk, Fuji, P48LO, Pure_Penguin, mild, pand3 |

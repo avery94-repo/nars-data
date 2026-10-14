@@ -4,16 +4,16 @@ Roster: mira, davd, NICKHALDEN, puf, Moop421
 NARS Rank: 124 of 506
 
 Final Rating: 1638.7
-Seeded Start: 1356.5
-H2H Adjustment: +282.2
+Seeded Start: 1356.4
+H2H Adjustment: +282.3
 
-Final Rating (1638.7) = Seeded Start (1356.5) + H2H Adjustment (+282.2)
+Final Rating (1638.7) = Seeded Start (1356.4) + H2H Adjustment (+282.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.183 x 1400 = 1356.5
+                = 1100 + 0.183 x 1400 = 1356.4
 
-seed_factor 0.183 = 0.25 x Tier Exposure (0.109) + 0.50 x Quality Wins (0.057) + 0.25 x Opponent Network (0.510)
+seed_factor 0.183 = 0.25 x Tier Exposure (0.108) + 0.50 x Quality Wins (0.057) + 0.25 x Opponent Network (0.510)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.183 | 1356.5 | - |
+| Now | 0.183 | 1356.4 | - |
 | +30 days | 0.156 | 1318.1 | -38.4 |
 | +60 days | 0.132 | 1285.0 | -71.4 |
 | +90 days | 0.093 | 1230.2 | -126.3 |
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Void | 123 | 1638.9 | +0.2 | +117.9 |
-| The Burger People | 122 | 1642.3 | +3.6 | +125.7 |
-| F1lthy Puggers | 121 | 1643.8 | +5.1 | +118.6 |
-| Conscious Gaming | 120 | 1646.8 | +8.1 | +122.2 |
-| ODIN | 119 | 1647.1 | +8.4 | +131.6 |
+| Void | 123 | 1638.8 | +0.1 | +118.0 |
+| The Burger People | 122 | 1642.3 | +3.6 | +125.8 |
+| F1lthy Puggers | 121 | 1643.8 | +5.1 | +118.7 |
+| Conscious Gaming | 120 | 1646.8 | +8.1 | +122.3 |
+| ODIN | 119 | 1647.1 | +8.4 | +131.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Holly Molly | 35 | +349.7 | +237.8 | +22.7 |
-| unreal nightmare | 37 | +337.9 | +228.6 | +22.4 |
-| EMPIRE | 36 | +344.9 | +270.4 | +21.9 |
-| North Forge | 38 | +332.5 | +285.7 | +20.9 |
-| ZETTA | 39 | +331.3 | +237.4 | +18.4 |
-| Wanted Goons | 43 | +294.4 | +267.6 | +18.2 |
-| Swole Patrol | 45 | +275.6 | +184.1 | +15.8 |
-| Xiaoma Gaming | 46 | +272.7 | +239.2 | +15.5 |
-| Zealous | 42 | +302.9 | +189.7 | +14.1 |
-| FLOW STATE | 47 | +258.7 | +224.1 | +13.4 |
+| Holly Molly | 35 | +349.7 | +238.1 | +22.7 |
+| unreal nightmare | 37 | +337.9 | +228.8 | +22.4 |
+| EMPIRE | 36 | +344.9 | +270.6 | +21.9 |
+| North Forge | 38 | +332.5 | +286.0 | +20.9 |
+| ZETTA | 39 | +331.3 | +237.6 | +18.4 |
+| Wanted Goons | 43 | +294.4 | +267.9 | +18.3 |
+| Swole Patrol | 45 | +275.7 | +184.3 | +15.8 |
+| Xiaoma Gaming | 46 | +272.8 | +239.5 | +15.5 |
+| Zealous | 42 | +303.0 | +189.9 | +14.1 |
+| FLOW STATE | 47 | +258.7 | +224.3 | +13.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +408.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +408.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
 
@@ -77,31 +77,31 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-15 | Kairo | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -58.9 | Moop421, NICKHALDEN, kevin, mira, puf |
 | 2026-09-12 | UnitedStatesArmy Esports | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.03 | 1.00 | 1.02 | 0.08 | 1.02 | +26.6 | Moop421, NICKHALDEN, davd, mira, puf |
-| 2026-09-06 | FLOW STATE | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -66.2 | Moop421, NICKHALDEN, chevyus1, davd, kevin |
+| 2026-09-06 | FLOW STATE | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.00 | 0.00 | -66.2 | Moop421, NICKHALDEN, chevyus1, davd, kevin |
 | 2026-09-04 | enigma | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.15 | 0.96 | +9.6 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-08-28 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -96.4 | Moop421, NICKHALDEN, chevyus1, mira, puf |
-| 2026-08-26 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -71.7 | Moop421, NICKHALDEN, davd, mira, puf |
+| 2026-08-26 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -71.8 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-08-21 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -43.3 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-08-19 | Kairo | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.10 | 0.84 | +9.0 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-08-14 | Sedated | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.09 | 0.81 | +6.8 | Moop421, NICKHALDEN, chevyus1, davd, puf |
 | 2026-08-12 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -6.5 | Moop421, NICKHALDEN, chevyus1, davd, puf |
 | 2026-08-07 | Qinorhwat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.04 | 0.76 | +3.0 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-08-05 | Locally Hated | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.21 | 0.74 | +64.6 | Moop421, NICKHALDEN, davd, mira, puf |
-| 2026-07-31 | TenToesDown | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.09 | 0.71 | +192.1 | Moop421, NICKHALDEN, davd, mira, puf |
+| 2026-07-31 | TenToesDown | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.09 | 0.71 | +192.2 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-07-29 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.05 | 0.70 | +124.6 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-07-24 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.08 | 0.66 | +148.4 | Moop421, NICKHALDEN, chevyus1, davd, mira |
 | 2026-07-22 | butt | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -5.6 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-07-15 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.05 | 0.60 | +161.6 | Moop421, NICKHALDEN, chevyus1, mira, puf |
 | 2026-05-30 | LAG Gaming | L |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -0.0 | core 3/5 |
 | 2026-05-30 | NuTorious | L |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -4.8 | core 3/5 |
-| 2026-05-22 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.01 | 0.26 | +186.2 | Moop421, NICKHALDEN, chevyus1, davd, puf |
-| 2026-05-20 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -44.0 | Moop421, NICKHALDEN, chevyus1, davd, puf |
+| 2026-05-22 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.01 | 0.26 | +186.3 | Moop421, NICKHALDEN, chevyus1, davd, puf |
+| 2026-05-20 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -43.9 | Moop421, NICKHALDEN, chevyus1, davd, puf |
 | 2026-05-15 | BUCK NASTY | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -22.9 | Moop421, NICKHALDEN, davd, mira, puf |
 | 2026-05-13 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -47.5 | Moop421, NICKHALDEN, chevyus1, davd, puf |
-| 2026-05-08 | Solace | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -419.2 | Moop421, chevyus1, davd, mira, puf |
+| 2026-05-08 | Solace | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -419.3 | Moop421, chevyus1, davd, mira, puf |
 | 2026-05-06 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +22.4 | Moop421, chevyus1, davd, mira, puf |
 | 2026-05-01 | Fathom Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.04 | 0.10 | +419.2 | Moop421, NICKHALDEN, chevyus1, davd, mira |
-| 2026-04-29 | the dragon warrior scroll | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -387.1 | Moop421, NICKHALDEN, chevyus1, davd, mira |
+| 2026-04-29 | the dragon warrior scroll | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -387.2 | Moop421, NICKHALDEN, chevyus1, davd, mira |
 | 2026-04-24 | Texas Orange | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +87.0 | Moop421, NICKHALDEN, chevyus1, davd, mira |
 | 2026-04-22 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +95.4 | Moop421, NICKHALDEN, davd, mira, puf |
 

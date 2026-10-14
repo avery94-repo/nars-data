@@ -3,11 +3,11 @@ Team Name: Over 30
 Roster: san1ty_st, givy, Fluq, joshgc, Bismu
 NARS Rank: 81 of 506
 
-Final Rating: 1771.5
+Final Rating: 1771.6
 Seeded Start: 1232.3
-H2H Adjustment: +539.2
+H2H Adjustment: +539.3
 
-Final Rating (1771.5) = Seeded Start (1232.3) + H2H Adjustment (+539.2)
+Final Rating (1771.6) = Seeded Start (1232.3) + H2H Adjustment (+539.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| EXODIA | 80 | 1778.2 | +6.7 | +109.7 |
-| Kairo | 79 | 1778.9 | +7.4 | +107.2 |
-| Down To Frag | 78 | 1779.4 | +7.9 | +105.1 |
-| Over Your Head | 77 | 1781.7 | +10.2 | +106.5 |
-| Club 333 | 76 | 1782.2 | +10.7 | +118.7 |
+| EXODIA | 80 | 1778.2 | +6.6 | +109.7 |
+| Kairo | 79 | 1778.9 | +7.3 | +107.3 |
+| Down To Frag | 78 | 1779.5 | +7.9 | +105.2 |
+| Over Your Head | 77 | 1781.7 | +10.1 | +106.6 |
+| Club 333 | 76 | 1782.3 | +10.7 | +118.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | +343.2 | +246.0 | +18.2 |
-| Iowa Stormboar | 21 | +344.3 | +245.4 | +18.2 |
-| Olympus | 25 | +268.1 | +186.6 | +13.0 |
-| Automatic HQ | 27 | +259.3 | +194.0 | +11.5 |
-| duck crew | 23 | +324.5 | +164.6 | +9.1 |
-| VOID ALUNE | 29 | +236.3 | +147.2 | +7.5 |
-| Hairy Scary Bandits | 32 | +227.9 | +177.7 | +6.4 |
-| Festina Lente | 24 | +271.3 | +154.2 | +6.3 |
-| Chicken Coop | 33 | +226.7 | +201.5 | +6.2 |
-| Holly Molly | 35 | +216.9 | +166.4 | +3.8 |
+| Zomblers | 22 | +343.1 | +246.3 | +18.2 |
+| Iowa Stormboar | 21 | +344.3 | +245.7 | +18.2 |
+| Olympus | 25 | +268.1 | +186.7 | +13.1 |
+| Automatic HQ | 27 | +259.3 | +194.2 | +11.6 |
+| duck crew | 23 | +324.5 | +164.7 | +9.1 |
+| VOID ALUNE | 29 | +236.3 | +147.4 | +7.5 |
+| Hairy Scary Bandits | 32 | +227.8 | +177.9 | +6.5 |
+| Festina Lente | 24 | +271.2 | +154.3 | +6.3 |
+| Chicken Coop | 33 | +226.6 | +201.7 | +6.2 |
+| Holly Molly | 35 | +216.8 | +166.6 | +3.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +334.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +334.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0).
 

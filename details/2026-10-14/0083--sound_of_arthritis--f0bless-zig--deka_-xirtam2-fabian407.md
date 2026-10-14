@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.176 | 1346.1 | - |
 | +30 days | 0.156 | 1318.9 | -27.2 |
 | +60 days | 0.138 | 1292.7 | -53.4 |
-| +90 days | 0.105 | 1247.2 | -99.0 |
+| +90 days | 0.105 | 1247.1 | -99.0 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.187 average, gap -0.111). Matching that average is worth about 38.8 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| firesale | 82 | 1768.2 | +1.5 | +151.4 |
-| Over 30 | 81 | 1771.5 | +4.8 | +151.6 |
-| EXODIA | 80 | 1778.2 | +11.5 | +153.3 |
-| Kairo | 79 | 1778.9 | +12.2 | +151.0 |
-| Down To Frag | 78 | 1779.4 | +12.7 | +148.9 |
+| firesale | 82 | 1768.2 | +1.5 | +151.5 |
+| Over 30 | 81 | 1771.6 | +4.9 | +151.7 |
+| EXODIA | 80 | 1778.2 | +11.5 | +153.4 |
+| Kairo | 79 | 1778.9 | +12.2 | +151.1 |
+| Down To Frag | 78 | 1779.5 | +12.8 | +149.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | +348.0 | +353.9 | +26.2 |
-| Iowa Stormboar | 21 | +349.1 | +353.2 | +26.1 |
-| Olympus | 25 | +272.9 | +266.4 | +19.4 |
-| Automatic HQ | 27 | +264.1 | +275.2 | +17.2 |
-| duck crew | 23 | +329.3 | +241.0 | +13.6 |
-| VOID ALUNE | 29 | +241.1 | +213.4 | +12.1 |
-| Hairy Scary Bandits | 32 | +232.7 | +251.4 | +10.4 |
-| Festina Lente | 24 | +276.1 | +224.4 | +10.0 |
-| Chicken Coop | 33 | +231.5 | +280.7 | +9.9 |
-| Holly Molly | 35 | +221.7 | +236.4 | +6.8 |
+| Zomblers | 22 | +348.0 | +354.2 | +26.2 |
+| Iowa Stormboar | 21 | +349.2 | +353.5 | +26.2 |
+| Olympus | 25 | +273.0 | +266.7 | +19.4 |
+| Automatic HQ | 27 | +264.2 | +275.5 | +17.2 |
+| duck crew | 23 | +329.4 | +241.3 | +13.6 |
+| VOID ALUNE | 29 | +241.2 | +213.6 | +12.1 |
+| Hairy Scary Bandits | 32 | +232.7 | +251.6 | +10.4 |
+| Festina Lente | 24 | +276.1 | +224.6 | +10.0 |
+| Chicken Coop | 33 | +231.5 | +280.9 | +9.9 |
+| Holly Molly | 35 | +221.7 | +236.6 | +6.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +525.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +525.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), we get it back (+0.0).
 
@@ -90,7 +90,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +164.0 | DeKa_, SalmO-, f0bless, fabiaN407, xirtaM2 |
 | 2026-07-22 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +0.2 | SalmO-, f0bless, fabiaN407, xirtaM2, zig- |
 | 2026-07-17 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.07 | 0.60 | +2.8 | SalmO-, f0bless, fabiaN407, swilLy, xirtaM2 |
-| 2026-07-15 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -224.0 | SalmO-, f0bless, fabiaN407, xirtaM2, zig- |
+| 2026-07-15 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -224.1 | SalmO-, f0bless, fabiaN407, xirtaM2, zig- |
 | 2026-06-05 | MadaNASCAR | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.05 | 0.00 | +175.5 | UltRaLeX, f0bless, fabiaN407, xirtaM2, zig- |
 | 2026-05-29 | Guangzhou Loong Lions | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +156.1 | UltRaLeX, f0bless, fabiaN407, xirtaM2, zig- |
 

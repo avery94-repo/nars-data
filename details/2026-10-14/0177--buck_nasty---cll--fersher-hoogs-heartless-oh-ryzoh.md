@@ -3,11 +3,11 @@ Team Name: BUCK NASTY
 Roster: -CLL-, fersher, hoogs, Heartless-OH, ryzoh
 NARS Rank: 177 of 506
 
-Final Rating: 1518.9
+Final Rating: 1518.8
 Seeded Start: 1137.0
-H2H Adjustment: +381.9
+H2H Adjustment: +381.8 (capped at +-300, raw +381.9)
 
-Final Rating (1518.9) = Seeded Start (1137.0) + H2H Adjustment (+381.9)
+Final Rating (1518.8) = Seeded Start (1137.0) + H2H Adjustment (+381.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| APEX | 176 | 1521.9 | +3.0 | +170.6 |
-| Firstwave | 175 | 1527.0 | +8.1 | +171.0 |
-| Armored Talent | 174 | 1529.8 | +10.9 | +176.7 |
-| Shaboing Boing Bandits | 173 | 1530.6 | +11.7 | +176.2 |
-| BucketJonsBoys | 172 | 1533.1 | +14.2 | +172.9 |
+| APEX | 176 | 1521.9 | +3.1 | +170.7 |
+| Firstwave | 175 | 1527.0 | +8.2 | +171.0 |
+| Armored Talent | 174 | 1529.8 | +11.0 | +176.8 |
+| Shaboing Boing Bandits | 173 | 1530.6 | +11.8 | +176.2 |
+| BucketJonsBoys | 172 | 1533.0 | +14.2 | +172.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Omen Esports | 57 | +338.9 | +368.5 | +29.6 |
-| flat earth | 64 | +307.6 | +325.3 | +28.2 |
-| Endless Esports | 65 | +307.1 | +327.8 | +28.0 |
-| DUMBO | 63 | +308.2 | +357.1 | +26.9 |
-| WhalersOnDaMoon | 66 | +302.9 | +330.9 | +26.4 |
-| NZ Gaming | 69 | +294.3 | +300.3 | +26.1 |
-| Sharp | 54 | +348.9 | +359.1 | +23.9 |
-| Evade Gaming | 55 | +346.1 | +287.3 | +22.8 |
-| F5 Esports | 60 | +316.4 | +343.6 | +22.3 |
-| GeneticDiff | 70 | +274.0 | +299.6 | +22.1 |
+| Omen Esports | 57 | +339.0 | +368.6 | +29.6 |
+| flat earth | 64 | +307.7 | +325.4 | +28.2 |
+| Endless Esports | 65 | +307.2 | +327.8 | +28.0 |
+| DUMBO | 63 | +308.3 | +357.1 | +26.9 |
+| WhalersOnDaMoon | 66 | +303.1 | +331.0 | +26.4 |
+| NZ Gaming | 69 | +294.4 | +300.3 | +26.1 |
+| Sharp | 54 | +349.0 | +359.1 | +23.8 |
+| Evade Gaming | 55 | +346.3 | +287.4 | +22.8 |
+| F5 Esports | 60 | +316.5 | +343.6 | +22.3 |
+| GeneticDiff | 70 | +274.1 | +299.6 | +22.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.5 points at current ratings.
 
@@ -78,17 +78,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-04 | Pugging4Pumpkin | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -337.6 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
+| 2026-06-04 | Pugging4Pumpkin | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -337.7 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 | 2026-05-31 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -9.8 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
-| 2026-05-29 | the dragon warrior scroll | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.01 | 0.34 | +214.3 | -CLL-, Heartless-OH, Limbs, fersher, ryzoh |
-| 2026-05-22 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.07 | 0.26 | +302.7 | -CLL-, Heartless-OH, Limbs, hoogs, ryzoh |
+| 2026-05-29 | the dragon warrior scroll | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.01 | 0.34 | +214.4 | -CLL-, Heartless-OH, Limbs, fersher, ryzoh |
+| 2026-05-22 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.07 | 0.26 | +302.8 | -CLL-, Heartless-OH, Limbs, hoogs, ryzoh |
 | 2026-05-20 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -202.6 | -CLL-, Heartless-OH, Limbs, hoogs, ryzoh |
 | 2026-05-15 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +22.8 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
-| 2026-05-08 | Bills | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -30.4 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
+| 2026-05-08 | Bills | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -30.4 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 | 2026-05-06 | butt | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -268.5 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
-| 2026-05-01 | Evil Reunion | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +394.1 | -CLL-, Limbs, fersher, hoogs, ryzoh |
+| 2026-05-01 | Evil Reunion | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +394.2 | -CLL-, Limbs, fersher, hoogs, ryzoh |
 | 2026-04-29 | qcclan | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +239.7 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
-| 2026-04-24 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -273.0 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
-| 2026-04-22 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +330.1 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
+| 2026-04-24 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -273.1 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
+| 2026-04-22 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +330.2 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Wide Swinging Wizards | 342 | 1191.6 | +0.0 | +162.3 |
-| MadaNASCAR | 341 | 1195.3 | +3.7 | +172.3 |
+| MadaNASCAR | 341 | 1195.2 | +3.6 | +172.2 |
 | Boop Boop Gang | 340 | 1195.6 | +4.0 | +168.5 |
 | Kennesaw State Gold 2025 | 339 | 1195.9 | +4.3 | +163.6 |
 | Braindead | 338 | 1199.3 | +7.7 | +164.7 |
@@ -49,15 +49,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| BucketJonsBoys | 172 | +341.5 | +315.6 | +32.1 |
-| Pug Palace | 167 | +344.2 | +330.5 | +31.8 |
+| BucketJonsBoys | 172 | +341.4 | +315.6 | +32.1 |
+| Pug Palace | 167 | +344.2 | +330.5 | +31.7 |
 | Firstwave | 175 | +335.4 | +314.3 | +31.5 |
 | Shaboing Boing Bandits | 173 | +339.0 | +343.1 | +31.1 |
 | APEX | 176 | +330.3 | +322.1 | +30.8 |
 | Armored Talent | 174 | +338.2 | +350.9 | +30.7 |
 | LAF | 183 | +319.7 | +312.8 | +29.7 |
 | GOOZPEEK | 182 | +321.5 | +327.1 | +29.6 |
-| KIS | 185 | +315.0 | +295.7 | +29.3 |
+| KIS | 185 | +315.1 | +295.7 | +29.3 |
 | Shadow Wizard Money Gang | 180 | +324.3 | +367.8 | +28.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
@@ -73,8 +73,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | Team Zhao | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -102.5 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
-| 2026-09-07 | Bottom Fraggers Anonymous | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.03 | 0.95 | +94.2 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
+| 2026-09-08 | Team Zhao | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -102.6 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
+| 2026-09-07 | Bottom Fraggers Anonymous | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.03 | 0.95 | +94.3 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
 | 2026-09-04 | pew pew | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -124.8 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
 | 2026-09-02 | GOD SPEED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +145.9 | -scoobs, CoStanzz, Mauw_, Raindeamor, Ry_ |
 | 2026-06-12 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -37.8 | CoStanzz, Mauw_, Raindeamor, Ry_, mylesG_ |

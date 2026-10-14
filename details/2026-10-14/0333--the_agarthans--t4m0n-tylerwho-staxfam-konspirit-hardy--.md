@@ -13,7 +13,7 @@ Final Rating (1212.0) = Seeded Start (1125.1) + H2H Adjustment (+86.9)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.018 x 1400 = 1125.1
 
-seed_factor 0.018 = 0.25 x Tier Exposure (0.020) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.049)
+seed_factor 0.018 = 0.25 x Tier Exposure (0.020) + 0.50 x Quality Wins (0.001) + 0.25 x Opponent Network (0.049)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -39,18 +39,18 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Solace | 332 | 1213.1 | +1.1 | +163.5 |
+| Solace | 332 | 1213.1 | +1.1 | +163.4 |
 | Tall Ocean Rats | 331 | 1214.2 | +2.2 | +163.0 |
 | Brobies | 330 | 1215.4 | +3.4 | +174.5 |
 | Double Dink | 329 | 1220.6 | +8.6 | +166.9 |
-| Goon Squad | 328 | 1222.0 | +10.0 | +165.4 |
+| Goon Squad | 328 | 1221.9 | +9.9 | +165.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | offBalance | 165 | +330.3 | +316.0 | +30.9 |
-| BucketJonsBoys | 172 | +321.1 | +306.1 | +30.0 |
+| BucketJonsBoys | 172 | +321.0 | +306.0 | +30.0 |
 | Pug Palace | 167 | +323.8 | +320.1 | +29.8 |
 | Firstwave | 175 | +315.0 | +304.6 | +29.2 |
 | Shaboing Boing Bandits | 173 | +318.6 | +331.6 | +29.1 |
@@ -78,18 +78,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-07 | MINDTRIP | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -120.7 | -PHANTOM-, konspirit, staxfam, t4m0n, tylerwho |
-| 2026-06-05 | Duality Zero | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.01 | 0.32 | +198.1 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
+| 2026-06-07 | MINDTRIP | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -120.8 | -PHANTOM-, konspirit, staxfam, t4m0n, tylerwho |
+| 2026-06-05 | Duality Zero | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.01 | 0.32 | +198.2 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-05-27 | After Peak | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -117.6 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-05-22 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -260.7 | -PHANTOM-, hardy--, staxfam, t4m0n, tylerwho |
 | 2026-05-20 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +238.5 | -PHANTOM-, hardy--, staxfam, t4m0n, tylerwho |
 | 2026-05-15 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -24.1 | -PHANTOM-, hardy--, konspirit, staxfam, t4m0n |
 | 2026-05-11 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -33.1 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
-| 2026-05-08 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +392.6 | -PHANTOM-, hardy--, konspirit, staxfam, t4m0n |
+| 2026-05-08 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +392.7 | -PHANTOM-, hardy--, konspirit, staxfam, t4m0n |
 | 2026-05-06 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -4.1 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-05-01 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -204.6 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
-| 2026-04-29 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -439.8 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
-| 2026-04-24 | Zenano | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +224.5 | Kr1MsTer, hardy--, konspirit, staxfam, tylerwho |
+| 2026-04-29 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -439.9 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
+| 2026-04-24 | Zenano | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +224.6 | Kr1MsTer, hardy--, konspirit, staxfam, tylerwho |
 | 2026-04-22 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +237.9 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

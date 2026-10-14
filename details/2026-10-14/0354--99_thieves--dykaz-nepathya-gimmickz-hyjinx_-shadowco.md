@@ -42,25 +42,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | DeathMark E-Sports | 353 | 1166.5 | +4.2 | +117.8 |
 | RunTheDamnBall | 352 | 1167.1 | +4.8 | +116.3 |
 | Samantha 4 | 351 | 1178.0 | +15.7 | +115.4 |
-| SOLA | 350 | 1178.1 | +15.8 | +108.5 |
-| PPWesports | 349 | 1179.7 | +17.4 | +125.3 |
+| SOLA | 350 | 1178.0 | +15.7 | +108.6 |
+| PPWesports | 349 | 1179.7 | +17.4 | +125.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | LAF | 183 | +349.0 | +206.4 | +20.5 |
-| KIS | 185 | +344.3 | +193.9 | +20.4 |
-| Lynnsanity | 189 | +337.7 | +219.0 | +19.7 |
-| ClanAgain | 195 | +331.0 | +191.6 | +19.7 |
-| No Leaders Please | 190 | +337.1 | +218.9 | +19.7 |
-| teamington | 192 | +335.8 | +201.4 | +19.6 |
-| Alternate Earth | 186 | +341.7 | +232.8 | +19.5 |
-| ABG Esports | 196 | +326.4 | +215.0 | +19.4 |
-| UncsStillGotIt | 191 | +337.0 | +231.1 | +19.4 |
-| O Fire | 198 | +326.2 | +221.8 | +19.0 |
+| KIS | 185 | +344.4 | +194.0 | +20.4 |
+| Lynnsanity | 189 | +337.7 | +219.1 | +19.7 |
+| ClanAgain | 195 | +331.0 | +191.7 | +19.7 |
+| No Leaders Please | 190 | +337.1 | +219.0 | +19.7 |
+| teamington | 192 | +335.7 | +201.5 | +19.6 |
+| Alternate Earth | 186 | +341.7 | +232.9 | +19.5 |
+| ABG Esports | 196 | +326.4 | +215.1 | +19.4 |
+| UncsStillGotIt | 191 | +337.0 | +231.2 | +19.4 |
+| O Fire | 198 | +326.2 | +221.9 | +19.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +358.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +359.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 

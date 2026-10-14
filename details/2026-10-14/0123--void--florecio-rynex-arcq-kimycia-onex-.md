@@ -3,15 +3,15 @@ Team Name: Void
 Roster: florecio, Rynex, ArcQ, kimycia, oneX-
 NARS Rank: 123 of 506
 
-Final Rating: 1638.9
-Seeded Start: 1342.2
+Final Rating: 1638.8
+Seeded Start: 1342.1
 H2H Adjustment: +296.7
 
-Final Rating (1638.9) = Seeded Start (1342.2) + H2H Adjustment (+296.7)
+Final Rating (1638.8) = Seeded Start (1342.1) + H2H Adjustment (+296.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.173 x 1400 = 1342.2
+                = 1100 + 0.173 x 1400 = 1342.1
 
 seed_factor 0.173 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.052) + 0.25 x Opponent Network (0.515)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.173 | 1342.2 | - |
+| Now | 0.173 | 1342.1 | - |
 | +30 days | 0.154 | 1315.1 | -27.0 |
-| +60 days | 0.135 | 1288.6 | -53.6 |
-| +90 days | 0.100 | 1239.9 | -102.3 |
+| +60 days | 0.135 | 1288.5 | -53.6 |
+| +90 days | 0.100 | 1239.8 | -102.3 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.092 average, gap -0.018). Matching that average is worth about 6.3 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| The Burger People | 122 | 1642.3 | +3.4 | +163.0 |
-| F1lthy Puggers | 121 | 1643.8 | +4.9 | +156.7 |
-| Conscious Gaming | 120 | 1646.8 | +7.9 | +160.4 |
-| ODIN | 119 | 1647.1 | +8.2 | +168.3 |
-| Akatsuki | 118 | 1647.6 | +8.7 | +157.1 |
+| The Burger People | 122 | 1642.3 | +3.5 | +163.1 |
+| F1lthy Puggers | 121 | 1643.8 | +5.0 | +156.8 |
+| Conscious Gaming | 120 | 1646.8 | +8.0 | +160.5 |
+| ODIN | 119 | 1647.1 | +8.3 | +168.4 |
+| Akatsuki | 118 | 1647.6 | +8.8 | +157.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Holly Molly | 35 | +349.5 | +320.3 | +30.5 |
-| unreal nightmare | 37 | +337.7 | +307.6 | +30.2 |
-| EMPIRE | 36 | +344.7 | +361.2 | +29.2 |
-| North Forge | 38 | +332.3 | +379.0 | +27.7 |
-| ZETTA | 39 | +331.1 | +318.1 | +24.6 |
-| Wanted Goons | 43 | +294.2 | +351.4 | +23.9 |
-| Swole Patrol | 45 | +275.4 | +248.0 | +21.2 |
-| Xiaoma Gaming | 46 | +272.5 | +314.2 | +20.3 |
-| Zealous | 42 | +302.7 | +256.5 | +19.0 |
-| FLOW STATE | 47 | +258.5 | +294.6 | +17.6 |
+| Holly Molly | 35 | +349.6 | +320.5 | +30.6 |
+| unreal nightmare | 37 | +337.8 | +307.9 | +30.2 |
+| EMPIRE | 36 | +344.8 | +361.4 | +29.2 |
+| North Forge | 38 | +332.4 | +379.4 | +27.7 |
+| ZETTA | 39 | +331.2 | +318.4 | +24.6 |
+| Wanted Goons | 43 | +294.3 | +351.6 | +24.0 |
+| Swole Patrol | 45 | +275.6 | +248.2 | +21.2 |
+| Xiaoma Gaming | 46 | +272.7 | +314.4 | +20.3 |
+| Zealous | 42 | +302.9 | +256.8 | +19.1 |
+| FLOW STATE | 47 | +258.6 | +294.8 | +17.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +596.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +596.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -81,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | QUPMANACS | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.06 | 0.82 | +77.1 | ABLojKa, ArcQ, florecio, kimycia, on_experienc |
 | 2026-08-14 | Sound of Arthritis | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +110.9 | ABLojKa, ArcQ, florecio, kimycia, on_experienc |
 | 2026-08-12 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +76.6 | ArcQ, Frezz, florecio, kimycia, on_experienc |
-| 2026-08-11 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.00 | 0.00 | -88.3 | -kuwaka, ArcQ, florecio, kimycia, on_experienc |
+| 2026-08-11 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.00 | 0.00 | -88.4 | -kuwaka, ArcQ, florecio, kimycia, on_experienc |
 | 2026-08-05 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.09 | 0.73 | +75.9 | ArcQ, Frezz, Rynex, florecio, on_experienc |
 | 2026-07-31 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.10 | 0.70 | +122.0 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-07-29 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.68 | +110.8 | ArcQ, Rynex, florecio, kimycia, on_experienc |

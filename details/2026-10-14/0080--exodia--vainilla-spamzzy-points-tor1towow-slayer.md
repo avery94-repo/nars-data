@@ -4,16 +4,16 @@ Roster: vainilla, spamzzy, points, tor1towOw, Slayerh-
 NARS Rank: 80 of 506
 
 Final Rating: 1778.2
-Seeded Start: 1659.3
-H2H Adjustment: +118.9
+Seeded Start: 1659.2
+H2H Adjustment: +119.0
 
-Final Rating (1778.2) = Seeded Start (1659.3) + H2H Adjustment (+118.9)
+Final Rating (1778.2) = Seeded Start (1659.2) + H2H Adjustment (+119.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.400 x 1400 = 1659.3
+                = 1100 + 0.399 x 1400 = 1659.2
 
-seed_factor 0.400 = 0.25 x Tier Exposure (0.571) + 0.50 x Quality Wins (0.226) + 0.25 x Opponent Network (0.575)
+seed_factor 0.399 = 0.25 x Tier Exposure (0.571) + 0.50 x Quality Wins (0.226) + 0.25 x Opponent Network (0.575)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,12 +24,12 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.400 | 1659.3 | - |
-| +30 days | 0.347 | 1586.2 | -73.1 |
-| +60 days | 0.293 | 1509.7 | -149.6 |
-| +90 days | 0.200 | 1380.4 | -278.9 |
+| Now | 0.399 | 1659.2 | - |
+| +30 days | 0.347 | 1586.1 | -73.1 |
+| +60 days | 0.293 | 1509.6 | -149.6 |
+| +90 days | 0.200 | 1380.3 | -279.0 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.575 vs 0.612 average, gap -0.037). Matching that average is worth about 12.9 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.575 vs 0.612 average, gap -0.037). Matching that average is worth about 13.0 seed points.
 
 - Tier Exposure drivers: S58 NA Advanced Central - Playoffs (2026-09-05) 1.45; S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; Esports Nations Cup 2026: South America Qualifier (2026-07-17) 0.88
 - Quality Wins drivers: beat GUARA at VRS-tracked 2026-08 (2026-08-25) 0.81; beat VASCO at VRS-tracked 2026-07 (2026-07-17) 0.66; beat VASCO at VRS-tracked 2026-06 (2026-06-30) 0.54
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Kairo | 79 | 1778.9 | +0.7 | +110.2 |
-| Down To Frag | 78 | 1779.4 | +1.2 | +108.2 |
-| Over Your Head | 77 | 1781.7 | +3.5 | +109.6 |
-| Club 333 | 76 | 1782.2 | +4.0 | +121.2 |
-| mas paspas | 75 | 1782.9 | +4.7 | +119.5 |
+| Kairo | 79 | 1778.9 | +0.7 | +110.3 |
+| Down To Frag | 78 | 1779.5 | +1.3 | +108.2 |
+| Over Your Head | 77 | 1781.7 | +3.5 | +109.7 |
+| Club 333 | 76 | 1782.3 | +4.1 | +121.3 |
+| mas paspas | 75 | 1783.0 | +4.8 | +119.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | +336.5 | +254.6 | +18.8 |
-| Iowa Stormboar | 21 | +337.6 | +254.0 | +18.8 |
-| Olympus | 25 | +261.4 | +192.8 | +12.7 |
-| Automatic HQ | 27 | +252.6 | +200.2 | +11.0 |
-| duck crew | 23 | +317.8 | +171.0 | +9.0 |
-| VOID ALUNE | 29 | +229.6 | +152.6 | +6.6 |
-| Festina Lente | 24 | +264.6 | +160.0 | +5.7 |
-| Hairy Scary Bandits | 32 | +221.2 | +183.3 | +5.2 |
-| Chicken Coop | 33 | +220.0 | +207.0 | +5.0 |
-| Holly Molly | 35 | +210.2 | +171.8 | +2.3 |
+| Zomblers | 22 | +336.5 | +254.9 | +18.9 |
+| Iowa Stormboar | 21 | +337.7 | +254.2 | +18.8 |
+| Olympus | 25 | +261.5 | +193.0 | +12.7 |
+| Automatic HQ | 27 | +252.7 | +200.4 | +11.0 |
+| duck crew | 23 | +317.9 | +171.2 | +9.0 |
+| VOID ALUNE | 29 | +229.7 | +152.8 | +6.6 |
+| Festina Lente | 24 | +264.6 | +160.1 | +5.7 |
+| Hairy Scary Bandits | 32 | +221.2 | +183.4 | +5.3 |
+| Chicken Coop | 33 | +220.0 | +207.2 | +5.0 |
+| Holly Molly | 35 | +210.2 | +171.9 | +2.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +352.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +352.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0).
 
@@ -83,13 +83,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-31 | BESTIA ACADEMY | L |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 0.00 | 0.00 | -22.4 | core 3/5 |
 | 2026-08-29 | MEIA NOITE | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 0.00 | 0.00 | -31.1 | core 3/5 |
 | 2026-08-28 | dice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.28 | 0.22 | 1.28 | +21.9 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
-| 2026-08-28 | GRÊMIO | L |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.41 | 0.00 | 0.00 | -48.1 | core 3/5 |
+| 2026-08-28 | GRÊMIO | L |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.41 | 0.00 | 0.00 | -48.2 | core 3/5 |
 | 2026-08-26 | GRIT | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.13 | 1.26 | +2.3 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-08-25 | GUARA | W |  | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.81 | 0.00 | +101.9 | core 3/5 |
 | 2026-08-21 | Omen Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.41 | 1.21 | +84.1 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-08-20 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.45 | 1.00 | 1.20 | 0.13 | 1.20 | +156.1 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-08-07 | Playing for fun | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.00 | 0.00 | -39.4 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
-| 2026-08-05 | Phantom Sense | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -118.7 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
+| 2026-08-05 | Phantom Sense | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -118.8 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-08-03 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.45 | 1.00 | 1.04 | 0.38 | 1.04 | +141.7 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-07-31 | House Platypus ESC | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.06 | 1.01 | +82.1 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-07-24 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.00 | 0.00 | -134.1 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
@@ -97,16 +97,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-20 | YOUR END | L |  | VRS-tracked 2026-07 | A | vrs | 0.62 | 1.60 | 1.00 | 0.99 | 0.00 | 0.00 | -23.0 | core 3/5 |
 | 2026-07-17 | MASTER ONE | L | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.61 | 1.45 | 1.00 | 0.88 | 0.00 | 0.00 | -234.8 | -TAYLOR, 1snkzinho_, Slayerh-, points, spamzzy |
 | 2026-07-17 | DKR Esports | L | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.61 | 1.45 | 1.00 | 0.88 | 0.00 | 0.00 | -214.5 | -TAYLOR, 1snkzinho_, Slayerh-, points, spamzzy |
-| 2026-07-17 | VASCO | W |  | VRS-tracked 2026-07 | A | vrs | 0.60 | 1.60 | 1.00 | 0.96 | 0.66 | 0.00 | +269.5 | core 3/5 |
+| 2026-07-17 | VASCO | W |  | VRS-tracked 2026-07 | A | vrs | 0.60 | 1.60 | 1.00 | 0.96 | 0.66 | 0.00 | +269.6 | core 3/5 |
 | 2026-07-16 | PAIN ACADEMY | L |  | VRS-tracked 2026-07 | A | vrs | 0.59 | 1.60 | 1.00 | 0.95 | 0.00 | 0.00 | -118.4 | core 3/5 |
 | 2026-07-15 | Celestial Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.25 | 0.85 | +22.6 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-07-15 | MEIA NOITE | L |  | VRS-tracked 2026-07 | A | vrs | 0.59 | 1.60 | 1.00 | 0.94 | 0.00 | 0.00 | -92.0 | core 3/5 |
-| 2026-07-03 | ALKA | L |  | VRS-tracked 2026-07 | A | vrs | 0.51 | 1.60 | 1.00 | 0.81 | 0.00 | 0.00 | -87.3 | core 3/5 |
-| 2026-06-30 | VASCO | W |  | VRS-tracked 2026-06 | A | vrs | 0.49 | 1.60 | 1.00 | 0.78 | 0.54 | 0.00 | +398.1 | core 3/5 |
+| 2026-07-03 | ALKA | L |  | VRS-tracked 2026-07 | A | vrs | 0.51 | 1.60 | 1.00 | 0.81 | 0.00 | 0.00 | -87.4 | core 3/5 |
+| 2026-06-30 | VASCO | W |  | VRS-tracked 2026-06 | A | vrs | 0.49 | 1.60 | 1.00 | 0.78 | 0.54 | 0.00 | +398.2 | core 3/5 |
 | 2026-06-29 | PAIN ACADEMY | L |  | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.00 | 0.00 | -70.7 | core 3/5 |
 | 2026-06-28 | YAWARA | L |  | VRS-tracked 2026-06 | A | vrs | 0.47 | 1.60 | 1.00 | 0.76 | 0.00 | 0.00 | -28.4 | core 3/5 |
-| 2026-05-18 | VEXA | L |  | VRS-tracked 2026-05 | A | vrs | 0.20 | 1.60 | 1.00 | 0.32 | 0.00 | 0.00 | -192.2 | core 3/5 |
-| 2026-05-16 | CRASHERS | W |  | VRS-tracked 2026-05 | A | vrs | 0.19 | 1.60 | 1.00 | 0.30 | 0.15 | 0.00 | +510.5 | core 3/5 |
+| 2026-05-18 | VEXA | L |  | VRS-tracked 2026-05 | A | vrs | 0.20 | 1.60 | 1.00 | 0.32 | 0.00 | 0.00 | -192.3 | core 3/5 |
+| 2026-05-16 | CRASHERS | W |  | VRS-tracked 2026-05 | A | vrs | 0.19 | 1.60 | 1.00 | 0.30 | 0.15 | 0.00 | +510.6 | core 3/5 |
 | 2026-05-14 | EX-KRÜ | L |  | VRS-tracked 2026-05 | A | vrs | 0.17 | 1.60 | 1.00 | 0.28 | 0.00 | 0.00 | -47.2 | core 3/5 |
 | 2026-05-12 | R2 | L |  | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.00 | 0.00 | -106.8 | core 3/5 |
 

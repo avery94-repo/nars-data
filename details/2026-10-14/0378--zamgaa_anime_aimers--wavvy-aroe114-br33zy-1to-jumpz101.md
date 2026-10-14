@@ -3,11 +3,11 @@ Team Name: Zamgaa Anime Aimers
 Roster: WavvY, aroe114, BR33ZY, 1to, JumpZ101
 NARS Rank: 378 of 506
 
-Final Rating: 1104.1
+Final Rating: 1104.0
 Seeded Start: 1188.5
-H2H Adjustment: -84.4
+H2H Adjustment: -84.5
 
-Final Rating (1104.1) = Seeded Start (1188.5) + H2H Adjustment (-84.4)
+Final Rating (1104.0) = Seeded Start (1188.5) + H2H Adjustment (-84.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.049 | 1168.7 | -19.8 |
 | +90 days | 0.049 | 1168.1 | -20.4 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.160 vs 0.357 average, gap -0.197). Matching that average is worth about 68.9 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.160 vs 0.357 average, gap -0.197). Matching that average is worth about 69.0 seed points.
 
 - Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97; S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
 - Quality Wins drivers: beat Sultans of Swing at S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.04; beat Symbiose at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.03; beat counter strokin at S57 NA Open9-10 Central - Playoffs B (2026-06-04) 0.01
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| redtyfguhoj | 377 | 1104.5 | +0.4 | +125.1 |
-| Shadow Wizard Money Gang | 376 | 1107.8 | +3.7 | +134.8 |
-| NYX | 375 | 1115.3 | +11.2 | +133.1 |
-| in for Blood | 374 | 1116.3 | +12.2 | +128.0 |
-| Team Zhao | 373 | 1116.4 | +12.3 | +141.5 |
+| redtyfguhoj | 377 | 1104.5 | +0.5 | +125.1 |
+| Shadow Wizard Money Gang | 376 | 1107.8 | +3.8 | +134.8 |
+| NYX | 375 | 1115.2 | +11.2 | +133.1 |
+| in for Blood | 374 | 1116.2 | +12.2 | +128.0 |
+| Team Zhao | 373 | 1116.4 | +12.4 | +141.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GOYPEEKING | 216 | +345.9 | +239.7 | +24.5 |
-| Defaulting | 215 | +347.6 | +265.8 | +24.0 |
-| Cortex Jellies | 222 | +333.3 | +221.6 | +23.8 |
-| VARTOVIK | 217 | +345.8 | +278.5 | +23.5 |
-| 1NT | 221 | +334.9 | +249.4 | +23.4 |
-| Binky | 220 | +335.2 | +272.2 | +23.1 |
+| GOYPEEKING | 216 | +346.0 | +239.7 | +24.5 |
+| Defaulting | 215 | +347.7 | +265.8 | +24.0 |
+| Cortex Jellies | 222 | +333.4 | +221.6 | +23.8 |
+| VARTOVIK | 217 | +345.9 | +278.6 | +23.5 |
+| 1NT | 221 | +335.0 | +249.5 | +23.4 |
+| Binky | 220 | +335.3 | +272.3 | +23.1 |
 | penazoid | 226 | +323.9 | +236.3 | +22.9 |
-| UltimateDarklordWizardz | 227 | +323.0 | +261.8 | +22.4 |
-| YHTR | 235 | +309.6 | +250.8 | +21.4 |
-| brb grinding minecraft | 239 | +301.4 | +254.9 | +20.9 |
+| UltimateDarklordWizardz | 227 | +323.1 | +261.9 | +22.4 |
+| YHTR | 235 | +309.7 | +250.8 | +21.4 |
+| brb grinding minecraft | 239 | +301.5 | +254.9 | +20.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +447.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +447.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.7), shirtcockin (+1.0), Courage (+1.2), SixSevenZaZa (+2.0).
 
@@ -77,7 +77,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | GOYPEEKING | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -143.7 | 1to, BR33ZY, WavvY, Zamgaa, Zenntox, aroe114 |
 | 2026-09-10 | deez | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -127.8 | 1to, BR33ZY, JumpZ101, Zamgaa, aroe114 |
 | 2026-09-08 | Sultans of Swing | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.04 | 0.96 | +104.9 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa, aroe114 |
-| 2026-09-02 | Symbiose | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +181.4 | 1to, BR33ZY, WavvY, Zamgaa, aroe114 |
+| 2026-09-02 | Symbiose | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +181.5 | 1to, BR33ZY, WavvY, Zamgaa, aroe114 |
 | 2026-06-10 | AAA | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -165.5 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa |
 | 2026-06-04 | counter strokin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.01 | 0.32 | +48.0 | 1to, BR33ZY, JumpZ101, Matty-Ice, WavvY, Zamgaa |
 | 2026-05-29 | 1001 Fragrance | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -159.1 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa |

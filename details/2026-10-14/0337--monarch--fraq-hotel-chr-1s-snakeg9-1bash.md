@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Stubbys | 336 | 1201.2 | +0.4 | +89.7 |
-| TEMPR | 335 | 1202.7 | +1.9 | +89.9 |
+| TEMPR | 335 | 1202.6 | +1.8 | +90.0 |
 | CLUE IN | 334 | 1210.6 | +9.8 | +93.0 |
 | The Agarthans | 333 | 1212.0 | +11.2 | +91.6 |
 | Solace | 332 | 1213.1 | +12.3 | +92.6 |
@@ -50,17 +50,17 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | offBalance | 165 | +341.5 | +171.5 | +17.0 |
-| BucketJonsBoys | 172 | +332.3 | +166.1 | +16.7 |
-| Pug Palace | 167 | +335.0 | +174.7 | +16.6 |
-| Shaboing Boing Bandits | 173 | +329.8 | +182.6 | +16.4 |
-| Firstwave | 175 | +326.2 | +165.8 | +16.3 |
-| Armored Talent | 174 | +329.0 | +187.3 | +16.2 |
-| APEX | 176 | +321.1 | +170.9 | +16.0 |
+| BucketJonsBoys | 172 | +332.2 | +166.2 | +16.7 |
+| Pug Palace | 167 | +335.0 | +174.8 | +16.6 |
+| Shaboing Boing Bandits | 173 | +329.8 | +182.7 | +16.4 |
+| Firstwave | 175 | +326.2 | +165.9 | +16.3 |
+| Armored Talent | 174 | +329.0 | +187.4 | +16.2 |
+| APEX | 176 | +321.1 | +171.0 | +16.0 |
 | GOOZPEEK | 182 | +312.3 | +174.8 | +15.4 |
 | LAF | 183 | +310.5 | +166.3 | +15.4 |
-| Shadow Wizard Money Gang | 180 | +315.1 | +199.0 | +15.2 |
+| Shadow Wizard Money Gang | 180 | +315.1 | +199.1 | +15.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +294.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +294.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.3), SixSevenZaZa (+0.6).
 
@@ -74,6 +74,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | Uncs United | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +30.7 | 1Bash, 43O4, Fraq, SnakeG9, chr-1s, hotel |
 | 2026-09-06 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +35.6 | -Jincks, 1Bash, Fraq, Neido, chr-1s |
 | 2026-09-04 | deez | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -69.8 | 1Bash, Fraq, Neido, SnakeG9, hotel |
-| 2026-09-02 | Ablert and Co | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +148.6 | 1Bash, 43O4, Fraq, SnakeG9, hotel |
+| 2026-09-02 | Ablert and Co | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +148.7 | 1Bash, 43O4, Fraq, SnakeG9, hotel |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

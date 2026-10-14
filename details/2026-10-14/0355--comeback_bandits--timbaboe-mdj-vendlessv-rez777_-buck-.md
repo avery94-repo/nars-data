@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| 99 Thieves | 354 | 1162.3 | +1.7 | +111.8 |
+| 99 Thieves | 354 | 1162.3 | +1.7 | +111.9 |
 | DeathMark E-Sports | 353 | 1166.5 | +5.9 | +116.0 |
 | RunTheDamnBall | 352 | 1167.1 | +6.5 | +114.5 |
 | Samantha 4 | 351 | 1178.0 | +17.4 | +113.5 |
-| SOLA | 350 | 1178.1 | +17.5 | +106.6 |
+| SOLA | 350 | 1178.0 | +17.4 | +106.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| KIS | 185 | +346.0 | +190.0 | +20.0 |
+| KIS | 185 | +346.1 | +190.1 | +20.1 |
+| Lynnsanity | 189 | +339.4 | +214.8 | +19.3 |
 | ClanAgain | 195 | +332.7 | +187.8 | +19.3 |
-| Lynnsanity | 189 | +339.4 | +214.7 | +19.3 |
 | No Leaders Please | 190 | +338.8 | +214.7 | +19.3 |
-| teamington | 192 | +337.5 | +197.5 | +19.3 |
+| teamington | 192 | +337.4 | +197.5 | +19.3 |
 | Alternate Earth | 186 | +343.4 | +228.4 | +19.2 |
 | ABG Esports | 196 | +328.1 | +210.9 | +19.1 |
-| UncsStillGotIt | 191 | +338.7 | +226.7 | +19.0 |
+| UncsStillGotIt | 191 | +338.7 | +226.8 | +19.0 |
 | O Fire | 198 | +327.9 | +217.6 | +18.6 |
-| GRIT | 201 | +320.5 | +181.5 | +18.4 |
+| GRIT | 201 | +320.5 | +181.6 | +18.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +349.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +349.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+0.9).
 
@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Arnes Wit Attitudes | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -15.6 | BucK-, Rybreadd, Timbaboe, VEndlessV, misin4med |
 | 2026-09-10 | Transcended | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.00 | 0.00 | -98.0 | BucK-, MDJ, Timbaboe, VEndlessV, rez777_ |
 | 2026-09-08 | pnks pretty princesses | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +123.1 | HarmonyNyan, MDJ, Timbaboe, VEndlessV, rez777_ |
-| 2026-09-06 | NuTorious Academy | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.03 | 0.98 | +71.7 | HarmonyNyan, MDJ, Timbaboe, VEndlessV, rez777_ |
+| 2026-09-06 | NuTorious Academy | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.03 | 0.98 | +71.8 | HarmonyNyan, MDJ, Timbaboe, VEndlessV, rez777_ |
 | 2026-09-04 | Cortex Jellies | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -134.8 | MDJ, Sedare, Timbaboe, VEndlessV, rez777_ |
 | 2026-09-01 | but i got movement | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.91 | 1.04 | 1.00 | 0.94 | 0.04 | 0.94 | +63.6 | MDJ, Sedare, Timbaboe, VEndlessV, rez777_ |
 

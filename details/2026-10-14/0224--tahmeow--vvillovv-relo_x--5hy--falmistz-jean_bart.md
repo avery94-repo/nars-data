@@ -13,7 +13,7 @@ Final Rating (1429.4) = Seeded Start (1276.0) + H2H Adjustment (+153.4)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.126 x 1400 = 1276.0
 
-seed_factor 0.126 = 0.25 x Tier Exposure (0.039) + 0.50 x Quality Wins (0.033) + 0.25 x Opponent Network (0.399)
+seed_factor 0.126 = 0.25 x Tier Exposure (0.038) + 0.50 x Quality Wins (0.033) + 0.25 x Opponent Network (0.399)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.126 | 1276.0 | - |
 | +30 days | 0.102 | 1242.8 | -33.2 |
 | +60 days | 0.084 | 1217.1 | -58.9 |
-| +90 days | 0.049 | 1168.8 | -107.2 |
+| +90 days | 0.049 | 1168.7 | -107.3 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.039 vs 0.088 average, gap -0.049). Matching that average is worth about 17.2 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.038 vs 0.088 average, gap -0.050). Matching that average is worth about 17.5 seed points.
 
 - Tier Exposure drivers: S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
 - Quality Wins drivers: beat offBalance at S58 NA Intermediate A - Regular Season (2026-08-26) 0.10; beat WaterDrinkers at S58 NA Intermediate A - Regular Season (2026-07-22) 0.08; beat Dynasty at S58 NA Intermediate A - Regular Season (2026-08-19) 0.07
@@ -49,13 +49,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Kairo | 79 | +349.5 | +318.5 | +32.8 |
+| Kairo | 79 | +349.5 | +318.5 | +32.7 |
 | Diggers | 86 | +334.0 | +305.4 | +31.9 |
 | firesale | 82 | +338.8 | +337.4 | +31.7 |
 | Fire Nation | 90 | +320.3 | +311.2 | +29.8 |
 | Fathom Gaming | 91 | +315.9 | +304.5 | +29.5 |
-| Overtake Sector | 89 | +321.4 | +387.8 | +28.4 |
-| PROFECO | 87 | +325.7 | +279.5 | +27.0 |
+| Overtake Sector | 89 | +321.5 | +387.8 | +28.4 |
+| PROFECO | 87 | +325.8 | +279.6 | +27.0 |
 | Green Grove Retirement | 94 | +299.2 | +316.2 | +26.6 |
 | Elusive | 93 | +302.2 | +348.8 | +26.6 |
 | NineFlyeSports | 96 | +295.7 | +325.4 | +26.4 |
@@ -83,19 +83,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +92.5 | -5hy-, Cd666, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-08-07 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -131.2 | -5hy-, Fr3nk1e, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-08-05 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -15.7 | -5hy-, Cd666, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-07-31 | Bald | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -163.2 | Fr3nk1e, IC3R, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-07-31 | Bald | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -163.3 | Fr3nk1e, IC3R, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-07-24 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +133.3 | Fr3nk1e, IC3R, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-07-22 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.08 | 0.64 | +163.9 | Fr3nk1e, IC3R, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-07-18 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +147.5 | Cd666, Fr3nk1e, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-07-15 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +14.0 | Fr3nk1e, IC3R, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-05-22 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -252.3 | -5hy-, Falmistz, Jean_Bart_B, NixDoc, vvillovv |
-| 2026-05-20 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -321.4 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-05-15 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +300.2 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-05-22 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -252.4 | -5hy-, Falmistz, Jean_Bart_B, NixDoc, vvillovv |
+| 2026-05-20 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -321.5 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-05-15 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +300.3 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-05-13 | NATIONAL CS UNI | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +260.2 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-05-08 | DownTown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -349.4 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-05-06 | Grandpa Berets | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +432.4 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-04-29 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -257.3 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-05-08 | DownTown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -349.5 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-05-06 | Grandpa Berets | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +432.5 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-04-29 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -257.4 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-04-24 | High T Low E | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -307.6 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-04-22 | Kinetic | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +253.9 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-04-22 | Kinetic | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +254.0 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

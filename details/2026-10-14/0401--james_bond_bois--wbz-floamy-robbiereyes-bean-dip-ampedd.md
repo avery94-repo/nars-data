@@ -29,20 +29,20 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.000 | 1100.0 | -11.7 |
 | +90 days | 0.000 | 1100.0 | -11.7 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.022 vs 0.201 average, gap -0.179). Matching that average is worth about 62.7 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.022 vs 0.201 average, gap -0.179). Matching that average is worth about 62.6 seed points.
 
 - Tier Exposure drivers: S57 NA Main Central - Regular Season (2026-05-20) 0.25
 - Quality Wins drivers: beat ASYCS KITTENS at S57 NA Main Central - Regular Season (2026-05-08) 0.01; beat goofball gaming at S57 NA Main Central - Regular Season (2026-04-24) 0.00; beat we get it back at S57 NA Main Central - Regular Season (2026-05-06) 0.00
-- Opponent Network drivers: beat ASYCS KITTENS at S57 NA Main Central - Regular Season (2026-05-08) 0.16; beat we get it back at S57 NA Main Central - Regular Season (2026-05-06) 0.14; beat goofball gaming at S57 NA Main Central - Regular Season (2026-04-24) 0.05
+- Opponent Network drivers: beat ASYCS KITTENS at S57 NA Main Central - Regular Season (2026-05-08) 0.15; beat we get it back at S57 NA Main Central - Regular Season (2026-05-06) 0.14; beat goofball gaming at S57 NA Main Central - Regular Season (2026-04-24) 0.05
 
 Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | ReGen | 400 | 1052.9 | +0.9 | +168.9 |
-| Room Temp IQs | 399 | 1056.5 | +4.5 | +163.7 |
-| three11 | 398 | 1057.1 | +5.1 | +163.9 |
-| Solar Gravity | 397 | 1060.6 | +8.6 | +165.0 |
+| Room Temp IQs | 399 | 1056.4 | +4.4 | +163.7 |
+| three11 | 398 | 1057.0 | +5.0 | +163.9 |
+| Solar Gravity | 397 | 1060.5 | +8.5 | +165.0 |
 | Benadryl Abusers | 396 | 1061.2 | +9.2 | +171.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -58,7 +58,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | THE GUILD | 264 | +307.0 | +292.4 | +28.2 |
 | Kinetic | 260 | +312.2 | +333.2 | +28.2 |
 | DadDick Esports | 261 | +310.4 | +327.4 | +28.1 |
-| Wiggle Peeks | 265 | +304.8 | +310.6 | +27.6 |
+| ASCEND | 263 | +308.0 | +314.6 | +27.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -67,7 +67,7 @@ Low value wins at current ratings (projected gain under 2.0 points): Scrimless (
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs goofball gaming (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.05]
 - S57 NA Main Central - Regular Season vs we get it back (2026-05-06): expires in 18 days [Quality Wins 0.00, Opponent Network 0.14]
-- S57 NA Main Central - Regular Season vs ASYCS KITTENS (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.16]
+- S57 NA Main Central - Regular Season vs ASYCS KITTENS (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.15]
 - S57 NA Main Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.25]
 
 #### Matches (9 qualifying)
@@ -78,8 +78,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -1.0 | 2Bangz, AMPedd, Floamy, RobbieReyes, bean-DIP |
 | 2026-05-15 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -2.7 | AMPedd, Floamy, RobbieReyes, bean-DIP, wBz |
 | 2026-05-13 | Resurgence | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -111.5 | AMPedd, Floamy, RobbieReyes, bean-DIP, wBz |
-| 2026-05-08 | ASYCS KITTENS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +56.8 | AMPedd, Floamy, RobbieReyes, bean-DIP, wBz |
-| 2026-05-06 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +194.3 | AMPedd, Floamy, RobbieReyes, bean-DIP, wBz |
+| 2026-05-08 | ASYCS KITTENS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.01 | 0.15 | +56.7 | AMPedd, Floamy, RobbieReyes, bean-DIP, wBz |
+| 2026-05-06 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +194.4 | AMPedd, Floamy, RobbieReyes, bean-DIP, wBz |
 | 2026-05-01 | Binky | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -134.5 | 2Bangz, AMPedd, Floamy, RobbieReyes, wBz |
 | 2026-04-29 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -358.1 | 2Bangz, AMPedd, Floamy, RobbieReyes, wBz |
 | 2026-04-24 | goofball gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +368.4 | -Knive5, AMPedd, Floamy, RobbieReyes, wBz |

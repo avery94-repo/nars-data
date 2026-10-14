@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Double Dink | 329 | 1220.6 | +5.2 | +65.3 |
-| Goon Squad | 328 | 1222.0 | +6.6 | +64.0 |
+| Double Dink | 329 | 1220.6 | +5.2 | +65.4 |
+| Goon Squad | 328 | 1221.9 | +6.5 | +64.0 |
 | PogSquad | 327 | 1222.5 | +7.1 | +74.1 |
 | Transcended | 326 | 1223.3 | +7.9 | +68.6 |
-| innerFire | 325 | 1224.3 | +8.9 | +68.4 |
+| innerFire | 325 | 1224.2 | +8.8 | +68.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,16 +51,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | offBalance | 165 | +326.9 | +117.6 | +11.4 |
 | Pug Palace | 167 | +320.4 | +120.0 | +11.1 |
-| BucketJonsBoys | 172 | +317.7 | +113.9 | +11.1 |
+| BucketJonsBoys | 172 | +317.6 | +114.0 | +11.1 |
 | Shaboing Boing Bandits | 173 | +315.2 | +125.7 | +10.9 |
-| Armored Talent | 174 | +314.4 | +129.0 | +10.9 |
+| Armored Talent | 174 | +314.4 | +129.1 | +10.9 |
 | Firstwave | 175 | +311.6 | +113.8 | +10.8 |
 | APEX | 176 | +306.5 | +117.5 | +10.6 |
-| Order Zero | 156 | +349.3 | +104.7 | +10.4 |
+| Order Zero | 156 | +349.4 | +104.7 | +10.4 |
 | Shadow Wizard Money Gang | 180 | +300.5 | +137.6 | +10.1 |
-| GOOZPEEK | 182 | +297.7 | +120.3 | +10.1 |
+| GOOZPEEK | 182 | +297.7 | +120.4 | +10.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +195.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +195.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.3).
 

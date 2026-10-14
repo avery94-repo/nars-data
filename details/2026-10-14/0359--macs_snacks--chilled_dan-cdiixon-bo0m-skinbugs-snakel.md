@@ -4,14 +4,14 @@ Roster: chilled_dan, cdiixon, bo0m, SkinBugs, Snakelore
 NARS Rank: 359 of 506
 
 Final Rating: 1153.9
-Seeded Start: 1344.1
-H2H Adjustment: -190.2
+Seeded Start: 1344.0
+H2H Adjustment: -190.1
 
-Final Rating (1153.9) = Seeded Start (1344.1) + H2H Adjustment (-190.2)
+Final Rating (1153.9) = Seeded Start (1344.0) + H2H Adjustment (-190.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.174 x 1400 = 1344.1
+                = 1100 + 0.174 x 1400 = 1344.0
 
 seed_factor 0.174 = 0.25 x Tier Exposure (0.120) + 0.50 x Quality Wins (0.041) + 0.25 x Opponent Network (0.495)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.174 | 1344.1 | - |
-| +30 days | 0.149 | 1308.3 | -35.8 |
+| Now | 0.174 | 1344.0 | - |
+| +30 days | 0.149 | 1308.2 | -35.8 |
 | +60 days | 0.131 | 1283.6 | -60.5 |
-| +90 days | 0.098 | 1237.9 | -106.2 |
+| +90 days | 0.098 | 1237.8 | -106.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.041 vs 0.015 average, gap +0.026). Matching that average is worth about 0.0 seed points.
 
@@ -39,19 +39,19 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| RH Help Desk | 358 | 1158.5 | +4.6 | +138.4 |
-| Kurrupted Mindz | 357 | 1159.7 | +5.8 | +125.8 |
+| RH Help Desk | 358 | 1158.5 | +4.6 | +138.5 |
+| Kurrupted Mindz | 357 | 1159.7 | +5.8 | +125.9 |
 | katzwitgunz | 356 | 1159.8 | +5.9 | +125.9 |
-| Comeback Bandits | 355 | 1160.6 | +6.7 | +135.1 |
+| Comeback Bandits | 355 | 1160.6 | +6.7 | +135.2 |
 | 99 Thieves | 354 | 1162.3 | +8.4 | +135.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| ClanAgain | 195 | +339.4 | +231.1 | +24.1 |
-| teamington | 192 | +344.2 | +242.8 | +23.9 |
-| Lynnsanity | 189 | +346.1 | +263.6 | +23.8 |
+| ClanAgain | 195 | +339.4 | +231.2 | +24.1 |
+| teamington | 192 | +344.1 | +242.8 | +23.9 |
+| Lynnsanity | 189 | +346.1 | +263.6 | +23.9 |
 | No Leaders Please | 190 | +345.5 | +263.5 | +23.8 |
 | ABG Esports | 196 | +334.8 | +258.6 | +23.6 |
 | UncsStillGotIt | 191 | +345.4 | +277.9 | +23.4 |
@@ -60,7 +60,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Bad Jawn | 200 | +328.2 | +262.1 | +22.7 |
 | noname | 208 | +313.4 | +241.0 | +21.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +444.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +444.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.8), SixSevenZaZa (+1.3).
 
@@ -75,12 +75,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | GoonAssOldheads | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -258.6 | 11Jono, Snakelore, bo0m, cdiixon, hollyw00d |
+| 2026-10-09 | GoonAssOldheads | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -258.7 | 11Jono, Snakelore, bo0m, cdiixon, hollyw00d |
 | 2026-09-08 | Sassy Sunshines | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.19 | 1.00 | 1.14 | 0.00 | 0.00 | -29.5 | SkinBugs, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-09-06 | Kinetic | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.12 | 0.15 | 1.12 | +74.3 | SkinBugs, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-09-02 | crescent | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.09 | 0.00 | 0.00 | -21.3 | BlueSky-_-, SkinBugs, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-08-27 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -81.2 | SkinBugs, Snakelore, bo0m, cdiixon, hollyw00d |
-| 2026-08-21 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.08 | 0.97 | +106.2 | SkinBugs, Snakelore, bo0m, cdiixon, hollyw00d |
+| 2026-08-21 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.08 | 0.97 | +106.3 | SkinBugs, Snakelore, bo0m, cdiixon, hollyw00d |
 | 2026-08-19 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -172.1 | SkinBugs, Snakelore, bo0m, cdiixon, hollyw00d |
 | 2026-08-14 | gooshedd | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.04 | 0.92 | +62.6 | SkinBugs, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-08-12 | 5Frag Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.12 | 0.90 | +109.8 | SkinBugs, Snakelore, bo0m, cdiixon, chilled_dan |
@@ -93,8 +93,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | goofball gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +241.2 | SkinBugs, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-07-15 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -122.9 | SkinBugs, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-05-20 | N w G | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +134.3 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan |
-| 2026-05-15 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -313.4 | Char_, Snakelore, bo0m, cdiixon, chilled_dan |
-| 2026-05-13 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +299.1 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan |
+| 2026-05-15 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -313.5 | Char_, Snakelore, bo0m, cdiixon, chilled_dan |
+| 2026-05-13 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +299.2 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-05-07 | 1NT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.15 | 1.00 | 0.15 | 0.02 | 0.15 | +133.5 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-05-06 | SNOWPLOWERS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +10.1 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-05-01 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +202.2 | Snakelore, bo0m, cdiixon, chilled_dan, hollyw00d |

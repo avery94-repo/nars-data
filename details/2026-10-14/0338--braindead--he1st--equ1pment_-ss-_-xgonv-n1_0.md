@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.103 | 1244.6 | - |
-| +30 days | 0.075 | 1205.3 | -39.3 |
+| +30 days | 0.075 | 1205.2 | -39.3 |
 | +60 days | 0.062 | 1187.2 | -57.4 |
-| +90 days | 0.041 | 1157.1 | -87.6 |
+| +90 days | 0.041 | 1157.0 | -87.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.050 vs 0.051 average, gap -0.001). Matching that average is worth about 0.4 seed points.
 
@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | MONARCH | 337 | 1200.8 | +1.5 | +171.7 |
 | Stubbys | 336 | 1201.2 | +1.9 | +162.9 |
-| TEMPR | 335 | 1202.7 | +3.4 | +163.3 |
+| TEMPR | 335 | 1202.6 | +3.3 | +163.3 |
 | CLUE IN | 334 | 1210.6 | +11.3 | +167.6 |
 | The Agarthans | 333 | 1212.0 | +12.7 | +166.3 |
 
@@ -50,7 +50,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | offBalance | 165 | +343.0 | +322.2 | +32.1 |
-| BucketJonsBoys | 172 | +333.8 | +312.0 | +31.4 |
+| BucketJonsBoys | 172 | +333.7 | +312.0 | +31.4 |
 | Pug Palace | 167 | +336.5 | +326.6 | +31.1 |
 | Firstwave | 175 | +327.7 | +310.6 | +30.7 |
 | Shaboing Boing Bandits | 173 | +331.3 | +338.8 | +30.4 |
@@ -58,7 +58,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | APEX | 176 | +322.6 | +318.2 | +29.9 |
 | LAF | 183 | +312.0 | +309.0 | +28.7 |
 | GOOZPEEK | 182 | +313.8 | +323.0 | +28.7 |
-| KIS | 185 | +307.3 | +292.3 | +28.3 |
+| KIS | 185 | +307.4 | +292.3 | +28.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -78,9 +78,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-28 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -42.3 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
-| 2026-08-26 | Qinorhwat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.04 | 0.89 | +79.2 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
+| 2026-08-26 | Qinorhwat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.04 | 0.89 | +79.3 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
 | 2026-08-21 | Distinguished Ducks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -66.0 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
-| 2026-08-19 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.22 | 0.84 | +136.6 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
+| 2026-08-19 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.22 | 0.84 | +136.7 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
 | 2026-08-14 | Meepins | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -105.9 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
 | 2026-08-13 | TEMPR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.80 | 0.00 | 0.00 | -94.4 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
 | 2026-08-07 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -97.2 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
@@ -88,19 +88,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.08 | 0.71 | +191.2 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
 | 2026-07-29 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.05 | 0.70 | +99.3 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
 | 2026-07-22 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +193.6 | Equ1pment_, Fridayy, He1st-, nyIong, ss-_ |
-| 2026-07-17 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -255.3 | Equ1pment_, He1st-, XxcL1, ss-_, xGonv |
+| 2026-07-17 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -255.4 | Equ1pment_, He1st-, XxcL1, ss-_, xGonv |
 | 2026-07-15 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -192.5 | Equ1pment_, He1st-, XxcL1, ss-_, xGonv |
-| 2026-05-31 | US Navy Esports | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.00 | 0.00 | -140.6 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
+| 2026-05-31 | US Navy Esports | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.00 | 0.00 | -140.7 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
 | 2026-05-27 | Absent Minded | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -24.1 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
-| 2026-05-22 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +154.1 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
+| 2026-05-22 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +154.2 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
 | 2026-05-20 | STFDYSAB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -84.4 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
 | 2026-05-15 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +19.8 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
 | 2026-05-13 | Costco Family | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +4.3 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
-| 2026-05-08 | Schadenfreude | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +307.7 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
-| 2026-05-06 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -392.9 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
+| 2026-05-08 | Schadenfreude | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +307.8 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
+| 2026-05-06 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -393.0 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
 | 2026-05-01 | Real Hustle Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +281.5 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
-| 2026-04-29 | The Agarthans | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +439.9 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
-| 2026-04-24 | MINDTRIP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -196.1 | Equ1pment_, He1st-, TzeD, n1_0, xGonv |
+| 2026-04-29 | The Agarthans | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +440.0 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |
+| 2026-04-24 | MINDTRIP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -196.2 | Equ1pment_, He1st-, TzeD, n1_0, xGonv |
 | 2026-04-22 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -210.0 | He1st-, TzeD, n1_0, ss-_, xGonv |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -42,25 +42,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Big Fish | 402 | 1051.0 | +2.1 | +82.3 |
 | James Bond Bois | 401 | 1052.0 | +3.1 | +76.2 |
 | ReGen | 400 | 1052.9 | +4.0 | +82.7 |
-| Room Temp IQs | 399 | 1056.5 | +7.6 | +76.9 |
-| three11 | 398 | 1057.1 | +8.2 | +77.0 |
+| Room Temp IQs | 399 | 1056.4 | +7.5 | +76.9 |
+| three11 | 398 | 1057.0 | +8.1 | +77.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| The Kerbins | 250 | +329.7 | +154.2 | +13.8 |
+| The Kerbins | 250 | +329.7 | +154.3 | +13.8 |
 | Dude Picks | 252 | +328.6 | +162.7 | +13.6 |
 | Eightball | 253 | +326.7 | +149.1 | +13.5 |
 | GoonAssOldheads | 258 | +320.9 | +137.2 | +13.5 |
-| drunk cigs dont count | 255 | +324.2 | +157.9 | +13.5 |
-| Kinetic | 260 | +315.3 | +153.8 | +13.1 |
+| drunk cigs dont count | 255 | +324.2 | +158.0 | +13.5 |
+| Kinetic | 260 | +315.3 | +153.9 | +13.1 |
 | DadDick Esports | 261 | +313.5 | +150.9 | +13.1 |
-| 2THRiLL | 246 | +337.7 | +125.0 | +13.0 |
+| 2THRiLL | 246 | +337.7 | +125.1 | +13.0 |
 | THE GUILD | 264 | +310.1 | +132.2 | +12.9 |
-| Wiggle Peeks | 265 | +307.9 | +142.3 | +12.8 |
+| Wiggle Peeks | 265 | +307.8 | +142.4 | +12.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +240.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +241.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.6), shirtcockin (+0.9), Courage (+1.1), SixSevenZaZa (+1.8).
 

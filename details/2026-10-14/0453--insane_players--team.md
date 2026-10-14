@@ -3,15 +3,15 @@ Team Name: insane players
 Roster: (unknown)
 NARS Rank: 453 of 506
 
-Final Rating: 889.7
-Seeded Start: 1105.6
-H2H Adjustment: -215.9
+Final Rating: 889.5
+Seeded Start: 1105.5
+H2H Adjustment: -216.0
 
-Final Rating (889.7) = Seeded Start (1105.6) + H2H Adjustment (-215.9)
+Final Rating (889.5) = Seeded Start (1105.5) + H2H Adjustment (-216.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.004 x 1400 = 1105.6
+                = 1100 + 0.004 x 1400 = 1105.5
 
 seed_factor 0.004 = 0.25 x Tier Exposure (0.014) + 0.50 x Quality Wins (0.001) + 0.25 x Opponent Network (0.001)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.004 | 1105.6 | - |
-| +30 days | 0.000 | 1100.0 | -5.6 |
-| +60 days | 0.000 | 1100.0 | -5.6 |
-| +90 days | 0.000 | 1100.0 | -5.6 |
+| Now | 0.004 | 1105.5 | - |
+| +30 days | 0.000 | 1100.0 | -5.5 |
+| +60 days | 0.000 | 1100.0 | -5.5 |
+| +90 days | 0.000 | 1100.0 | -5.5 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.001 vs 0.266 average, gap -0.265). Matching that average is worth about 92.8 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| GoopT | 452 | 894.5 | +4.8 | +173.1 |
-| on disability | 451 | 894.9 | +5.2 | +163.9 |
-| Friendly Fire | 450 | 895.4 | +5.7 | +164.1 |
-| Baja Blasters | 449 | 903.7 | +14.0 | +166.7 |
-| Team Deathgrip | 448 | 904.1 | +14.4 | +169.6 |
+| GoopT | 452 | 894.4 | +4.9 | +173.2 |
+| on disability | 451 | 894.9 | +5.4 | +164.0 |
+| Friendly Fire | 450 | 895.4 | +5.9 | +164.1 |
+| Baja Blasters | 449 | 903.6 | +14.1 | +166.7 |
+| Team Deathgrip | 448 | 904.1 | +14.6 | +169.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| fiveB | 318 | +348.8 | +325.1 | +32.5 |
-| Team TahMeow | 321 | +346.1 | +324.6 | +32.3 |
-| innerFire | 325 | +334.6 | +306.8 | +31.6 |
-| Transcended | 326 | +333.6 | +308.0 | +31.4 |
-| Double Dink | 329 | +330.9 | +290.0 | +31.1 |
-| NetanYAHOO | 323 | +337.6 | +357.5 | +30.4 |
-| PogSquad | 327 | +332.8 | +343.9 | +30.4 |
-| Relativity | 316 | +349.2 | +288.5 | +29.7 |
-| Brobies | 330 | +325.7 | +354.1 | +29.3 |
-| MONARCH | 337 | +311.1 | +324.2 | +28.1 |
+| fiveB | 318 | +349.0 | +325.2 | +32.5 |
+| Team TahMeow | 321 | +346.2 | +324.6 | +32.3 |
+| innerFire | 325 | +334.7 | +306.8 | +31.6 |
+| Transcended | 326 | +333.8 | +308.1 | +31.4 |
+| Double Dink | 329 | +331.1 | +290.1 | +31.1 |
+| NetanYAHOO | 323 | +337.8 | +357.6 | +30.4 |
+| PogSquad | 327 | +333.0 | +344.0 | +30.4 |
+| Relativity | 316 | +349.4 | +288.5 | +29.7 |
+| Brobies | 330 | +325.9 | +354.2 | +29.3 |
+| MONARCH | 337 | +311.3 | +324.2 | +28.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-04-28 | girl kissers | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.00 | 0.00 | -322.8 | core 3/5 |
+| 2026-04-28 | girl kissers | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.00 | 0.00 | -322.9 | core 3/5 |
 | 2026-04-27 | Marsborne | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.00 | -8.1 | core 3/5 |
 | 2026-04-26 | FarmVille | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -0.2 | core 3/5 |
 | 2026-04-26 | Incognito | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -353.1 | core 3/5 |

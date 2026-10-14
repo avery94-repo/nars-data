@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | HiveMind | 214 | 1456.6 | +4.9 | +92.5 |
 | Nomadic Tactics | 213 | 1456.6 | +4.9 | +84.6 |
-| FlockMunchers | 212 | 1459.1 | +7.4 | +96.7 |
+| FlockMunchers | 212 | 1459.1 | +7.4 | +96.8 |
 | Veniversum | 211 | 1459.4 | +7.7 | +96.8 |
 | Kings Gambit | 210 | 1461.9 | +10.2 | +94.1 |
 
@@ -53,14 +53,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Asoka | 74 | +331.6 | +154.4 | +15.3 |
 | fih hou | 73 | +334.0 | +173.1 | +15.2 |
 | Kairo | 79 | +327.2 | +151.8 | +15.1 |
-| Club 333 | 76 | +330.5 | +188.2 | +14.9 |
+| Club 333 | 76 | +330.6 | +188.3 | +14.9 |
 | firesale | 82 | +316.5 | +162.7 | +14.7 |
-| mas paspas | 75 | +331.2 | +180.4 | +14.5 |
-| Diggers | 86 | +311.7 | +145.7 | +14.4 |
-| CNCS Last Hope | 72 | +336.9 | +137.2 | +14.4 |
-| Overtake Sector | 89 | +299.1 | +191.7 | +13.4 |
+| mas paspas | 75 | +331.3 | +180.4 | +14.5 |
+| Diggers | 86 | +311.7 | +145.8 | +14.4 |
+| CNCS Last Hope | 72 | +337.0 | +137.3 | +14.4 |
+| Overtake Sector | 89 | +299.2 | +191.8 | +13.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +267.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +267.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 

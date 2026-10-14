@@ -5,7 +5,7 @@ NARS Rank: 186 of 506
 
 Final Rating: 1504.0
 Seeded Start: 1197.4
-H2H Adjustment: +306.6
+H2H Adjustment: +306.6 (capped at +-300, raw +306.7)
 
 Final Rating (1504.0) = Seeded Start (1197.4) + H2H Adjustment (+306.6)
 
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| KIS | 185 | 1506.6 | +2.6 | +66.8 |
+| KIS | 185 | 1506.7 | +2.7 | +66.8 |
 | QUPMANACS | 184 | 1510.3 | +6.3 | +64.1 |
 | LAF | 183 | 1511.3 | +7.3 | +70.0 |
 | GOOZPEEK | 182 | 1513.1 | +9.1 | +72.5 |
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +322.5 | +125.9 | +11.3 |
+| flat earth | 64 | +322.5 | +126.0 | +11.3 |
 | Endless Esports | 65 | +322.0 | +127.2 | +11.3 |
-| DUMBO | 63 | +323.1 | +140.9 | +10.9 |
-| WhalersOnDaMoon | 66 | +317.8 | +129.2 | +10.7 |
-| NZ Gaming | 69 | +309.2 | +115.4 | +10.6 |
+| DUMBO | 63 | +323.1 | +141.0 | +10.9 |
+| WhalersOnDaMoon | 66 | +317.9 | +129.3 | +10.8 |
+| NZ Gaming | 69 | +309.2 | +115.5 | +10.6 |
 | GeneticDiff | 70 | +288.9 | +117.4 | +9.5 |
-| fih hou | 73 | +281.7 | +122.4 | +9.1 |
-| F5 Esports | 60 | +331.3 | +133.4 | +9.0 |
-| Club 333 | 76 | +278.2 | +133.0 | +8.9 |
-| Asoka | 74 | +279.3 | +109.2 | +8.8 |
+| fih hou | 73 | +281.7 | +122.5 | +9.1 |
+| F5 Esports | 60 | +331.3 | +133.5 | +9.0 |
+| Club 333 | 76 | +278.3 | +133.1 | +8.9 |
+| Asoka | 74 | +279.3 | +109.3 | +8.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +194.2 points at current ratings.
 

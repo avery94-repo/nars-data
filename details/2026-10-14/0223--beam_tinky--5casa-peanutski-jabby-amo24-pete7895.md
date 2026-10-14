@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Cortex Jellies | 222 | 1437.4 | +3.2 | +159.4 |
+| Cortex Jellies | 222 | 1437.4 | +3.2 | +159.5 |
 | 1NT | 221 | 1439.0 | +4.8 | +165.8 |
-| Binky | 220 | 1439.3 | +5.1 | +169.1 |
-| Bald | 219 | 1443.1 | +8.9 | +162.7 |
-| Koi Pond | 218 | 1446.0 | +11.8 | +164.6 |
+| Binky | 220 | 1439.3 | +5.1 | +169.2 |
+| Bald | 219 | 1443.1 | +8.9 | +162.8 |
+| Koi Pond | 218 | 1446.0 | +11.8 | +164.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Asoka | 74 | +349.1 | +308.1 | +31.2 |
-| Kairo | 79 | +344.7 | +302.8 | +31.0 |
-| Diggers | 86 | +329.2 | +290.3 | +30.1 |
-| firesale | 82 | +334.0 | +320.9 | +30.0 |
-| Club 333 | 76 | +348.0 | +369.1 | +29.4 |
-| mas paspas | 75 | +348.7 | +354.9 | +28.8 |
-| Fire Nation | 90 | +315.5 | +296.0 | +28.0 |
-| Fathom Gaming | 91 | +311.1 | +289.7 | +27.7 |
-| Overtake Sector | 89 | +316.6 | +369.1 | +26.9 |
-| PROFECO | 87 | +320.9 | +265.7 | +25.3 |
+| Asoka | 74 | +349.1 | +308.3 | +31.3 |
+| Kairo | 79 | +344.7 | +303.0 | +31.0 |
+| Diggers | 86 | +329.2 | +290.6 | +30.1 |
+| firesale | 82 | +334.0 | +321.1 | +30.0 |
+| Club 333 | 76 | +348.1 | +369.3 | +29.4 |
+| mas paspas | 75 | +348.8 | +355.1 | +28.8 |
+| Fire Nation | 90 | +315.5 | +296.2 | +28.0 |
+| Fathom Gaming | 91 | +311.1 | +289.9 | +27.7 |
+| Overtake Sector | 89 | +316.7 | +369.4 | +26.9 |
+| PROFECO | 87 | +321.0 | +265.9 | +25.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +604.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +605.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 

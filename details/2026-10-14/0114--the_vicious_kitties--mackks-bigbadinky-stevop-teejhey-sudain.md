@@ -4,14 +4,14 @@ Roster: mackks, bigbadinky, StevoP, teejhey, Sudain
 NARS Rank: 114 of 506
 
 Final Rating: 1656.6
-Seeded Start: 1343.4
-H2H Adjustment: +313.2
+Seeded Start: 1343.3
+H2H Adjustment: +313.3
 
-Final Rating (1656.6) = Seeded Start (1343.4) + H2H Adjustment (+313.2)
+Final Rating (1656.6) = Seeded Start (1343.3) + H2H Adjustment (+313.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.174 x 1400 = 1343.4
+                = 1100 + 0.174 x 1400 = 1343.3
 
 seed_factor 0.174 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.051) + 0.25 x Opponent Network (0.517)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.174 | 1343.4 | - |
-| +30 days | 0.154 | 1315.8 | -27.6 |
+| Now | 0.174 | 1343.3 | - |
+| +30 days | 0.154 | 1315.8 | -27.5 |
 | +60 days | 0.135 | 1289.2 | -54.2 |
-| +90 days | 0.101 | 1241.5 | -101.9 |
+| +90 days | 0.101 | 1241.4 | -101.9 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.156 average, gap -0.080). Matching that average is worth about 28.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Incognito | 113 | 1659.2 | +2.6 | +142.3 |
-| eefsports | 112 | 1664.2 | +7.6 | +143.7 |
-| Shimmer | 111 | 1667.1 | +10.5 | +147.2 |
-| Drip or Drown | 110 | 1669.0 | +12.4 | +154.6 |
-| Black Dragon Society | 109 | 1670.7 | +14.1 | +158.5 |
+| Incognito | 113 | 1659.2 | +2.6 | +142.4 |
+| eefsports | 112 | 1664.2 | +7.6 | +143.8 |
+| Shimmer | 111 | 1667.1 | +10.5 | +147.3 |
+| Drip or Drown | 110 | 1669.0 | +12.4 | +154.7 |
+| Black Dragon Society | 109 | 1670.7 | +14.1 | +158.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Hairy Scary Bandits | 32 | +342.8 | +304.4 | +27.5 |
-| Holly Molly | 35 | +331.8 | +284.4 | +26.6 |
-| unreal nightmare | 37 | +320.0 | +273.2 | +26.0 |
-| Chicken Coop | 33 | +341.6 | +350.4 | +25.9 |
-| EMPIRE | 36 | +327.0 | +320.4 | +25.6 |
-| North Forge | 38 | +314.6 | +336.0 | +24.1 |
-| Priority | 30 | +348.1 | +247.5 | +21.0 |
-| ZETTA | 39 | +313.4 | +282.5 | +20.9 |
-| Wanted Goons | 43 | +276.5 | +311.6 | +19.5 |
-| YHUBEPCAM | 31 | +347.5 | +247.3 | +17.0 |
+| Hairy Scary Bandits | 32 | +342.8 | +304.7 | +27.5 |
+| Holly Molly | 35 | +331.8 | +284.6 | +26.6 |
+| unreal nightmare | 37 | +320.0 | +273.4 | +26.0 |
+| Chicken Coop | 33 | +341.6 | +350.7 | +25.9 |
+| EMPIRE | 36 | +327.0 | +320.6 | +25.6 |
+| North Forge | 38 | +314.6 | +336.3 | +24.1 |
+| Priority | 30 | +348.2 | +247.8 | +21.0 |
+| ZETTA | 39 | +313.4 | +282.7 | +20.9 |
+| Wanted Goons | 43 | +276.5 | +311.9 | +19.6 |
+| YHUBEPCAM | 31 | +347.5 | +247.6 | +17.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +527.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +528.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
 
@@ -81,13 +81,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-20 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.11 | 0.83 | +59.4 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-08-16 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -132.7 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-08-12 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -148.3 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-08-11 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.06 | 0.77 | +89.2 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-08-11 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.06 | 0.77 | +89.3 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-08-05 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.11 | 0.73 | +17.7 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-29 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.11 | 0.68 | +5.0 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-29 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +211.6 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-24 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.03 | 0.65 | +92.0 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-22 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.02 | 0.64 | +0.0 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-07-17 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +160.4 | StevoP, Sudain, gameplayer, mackks, teejhey |
+| 2026-07-17 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +160.5 | StevoP, Sudain, gameplayer, mackks, teejhey |
 | 2026-07-15 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +463.2 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-06-01 | redtyfguhoj | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.31 | 0.00 | 0.00 | -213.3 | Kyle-S, Sudain, W0RTHLESS_, mackks, teejhey |
 | 2026-05-27 | flat earth | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.05 | 1.00 | 0.28 | 0.00 | 0.00 | -187.3 | Kyle-S, Sudain, W0RTHLESS_, mackks, teejhey |

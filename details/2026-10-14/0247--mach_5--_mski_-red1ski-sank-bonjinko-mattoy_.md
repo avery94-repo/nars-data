@@ -3,11 +3,11 @@ Team Name: Mach 5
 Roster: _Mski_, red1ski, sank, BonJinko, Mattoy_
 NARS Rank: 247 of 506
 
-Final Rating: 1386.1
+Final Rating: 1386.0
 Seeded Start: 1337.0
-H2H Adjustment: +49.1
+H2H Adjustment: +49.0
 
-Final Rating (1386.1) = Seeded Start (1337.0) + H2H Adjustment (+49.1)
+Final Rating (1386.0) = Seeded Start (1337.0) + H2H Adjustment (+49.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.169 | 1337.0 | - |
 | +30 days | 0.151 | 1311.6 | -25.5 |
-| +60 days | 0.134 | 1287.0 | -50.1 |
+| +60 days | 0.134 | 1286.9 | -50.1 |
 | +90 days | 0.101 | 1241.8 | -95.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.085 average, gap -0.011). Matching that average is worth about 3.9 seed points.
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| 2THRiLL | 246 | 1386.6 | +0.5 | +146.1 |
-| NOVAIR | 245 | 1391.8 | +5.7 | +147.5 |
-| D1NK Esports | 244 | 1392.8 | +6.7 | +150.5 |
-| OPOZIT | 243 | 1394.8 | +8.7 | +153.2 |
-| NXG Esports | 242 | 1404.0 | +17.9 | +162.7 |
+| 2THRiLL | 246 | 1386.6 | +0.6 | +146.2 |
+| NOVAIR | 245 | 1391.8 | +5.8 | +147.6 |
+| D1NK Esports | 244 | 1392.8 | +6.8 | +150.6 |
+| OPOZIT | 243 | 1394.8 | +8.8 | +153.3 |
+| NXG Esports | 242 | 1404.0 | +18.0 | +162.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Green Grove Retirement | 94 | +342.5 | +303.5 | +28.1 |
-| NineFlyeSports | 96 | +339.0 | +313.9 | +28.1 |
-| Elusive | 93 | +345.5 | +338.2 | +27.5 |
-| FlyQuest RED | 97 | +334.6 | +324.0 | +26.3 |
-| Axial | 101 | +320.3 | +280.2 | +26.2 |
-| Addice | 102 | +316.4 | +321.4 | +25.1 |
-| New Legends | 103 | +309.2 | +324.9 | +24.2 |
-| Holy Squid Empire | 108 | +292.6 | +272.6 | +22.9 |
-| Black Dragon Society | 109 | +284.6 | +288.8 | +21.5 |
-| Hadouken | 100 | +323.7 | +247.9 | +21.4 |
+| Green Grove Retirement | 94 | +342.6 | +303.8 | +28.2 |
+| NineFlyeSports | 96 | +339.1 | +314.1 | +28.1 |
+| Elusive | 93 | +345.6 | +338.5 | +27.5 |
+| FlyQuest RED | 97 | +334.7 | +324.3 | +26.4 |
+| Axial | 101 | +320.4 | +280.4 | +26.2 |
+| Addice | 102 | +316.5 | +321.7 | +25.2 |
+| New Legends | 103 | +309.4 | +325.1 | +24.2 |
+| Holy Squid Empire | 108 | +292.7 | +272.8 | +22.9 |
+| Black Dragon Society | 109 | +284.7 | +289.0 | +21.5 |
+| Hadouken | 100 | +323.8 | +248.2 | +21.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +550.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +551.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 

@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.135 | 1288.6 | - |
 | +30 days | 0.114 | 1259.2 | -29.4 |
-| +60 days | 0.093 | 1230.0 | -58.7 |
-| +90 days | 0.059 | 1183.0 | -105.7 |
+| +60 days | 0.093 | 1229.9 | -58.7 |
+| +90 days | 0.059 | 1182.9 | -105.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.075 vs 0.078 average, gap -0.003). Matching that average is worth about 1.1 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| HeatPeek | 305 | 1258.6 | +2.4 | +162.1 |
-| Guangzhou Loong Lions | 304 | 1259.9 | +3.7 | +169.5 |
-| TELETUBEASTS | 303 | 1263.2 | +7.0 | +174.4 |
-| DingTone | 302 | 1263.8 | +7.6 | +172.1 |
-| NATIONAL CS UNI | 301 | 1266.1 | +9.9 | +171.5 |
+| HeatPeek | 305 | 1258.6 | +2.4 | +162.3 |
+| Guangzhou Loong Lions | 304 | 1259.9 | +3.7 | +169.7 |
+| TELETUBEASTS | 303 | 1263.2 | +7.0 | +174.5 |
+| DingTone | 302 | 1263.8 | +7.6 | +172.2 |
+| NATIONAL CS UNI | 301 | 1266.0 | +9.8 | +171.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Amplus | 145 | +338.0 | +336.0 | +30.9 |
-| Kevin James Fan Club | 148 | +324.7 | +318.9 | +30.0 |
-| Biggie Cheese Fan Club | 151 | +320.4 | +291.2 | +29.9 |
-| WhiteBoyWinter | 155 | +310.5 | +300.5 | +28.4 |
-| offBalance | 165 | +286.1 | +292.8 | +24.5 |
-| Order Zero | 156 | +308.5 | +271.3 | +23.9 |
-| Pug Palace | 167 | +279.6 | +295.8 | +23.0 |
-| Oath | 142 | +346.0 | +285.5 | +22.9 |
-| BucketJonsBoys | 172 | +276.9 | +283.6 | +22.8 |
-| Shaboing Boing Bandits | 173 | +274.4 | +305.1 | +22.0 |
+| Team Amplus | 145 | +338.0 | +336.2 | +31.0 |
+| Kevin James Fan Club | 148 | +324.7 | +319.2 | +30.0 |
+| Biggie Cheese Fan Club | 151 | +320.4 | +291.5 | +29.9 |
+| WhiteBoyWinter | 155 | +310.5 | +300.8 | +28.5 |
+| offBalance | 165 | +286.1 | +293.0 | +24.5 |
+| Order Zero | 156 | +308.6 | +271.6 | +24.0 |
+| Pug Palace | 167 | +279.6 | +296.0 | +23.1 |
+| Oath | 142 | +346.0 | +285.8 | +23.0 |
+| BucketJonsBoys | 172 | +276.8 | +283.9 | +22.8 |
+| Shaboing Boing Bandits | 173 | +274.4 | +305.3 | +22.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +636.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +636.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
 
@@ -89,8 +89,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -29.0 | Jamiee07, KyeGo02, Steezy_, TsportyA, hierro |
 | 2026-07-22 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.07 | 0.64 | +149.8 | Jamiee07, KyeGo02, M4NUP, Steezy_, hierro |
 | 2026-07-17 | Big Kahuna Gaming | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +55.1 | Jamiee07, KyeGo02, M4NUP, Ouija, hierro |
-| 2026-06-02 | HiveMind | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -181.8 | Jamiee07, KyeGo02, Ouija, diimaaa, y0uxx666 |
-| 2026-05-31 | flat earth | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.04 | 0.30 | +274.4 | Jamiee07, KyeGo02, Ouija, diimaaa, y0uxx666 |
+| 2026-06-02 | HiveMind | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -181.9 | Jamiee07, KyeGo02, Ouija, diimaaa, y0uxx666 |
+| 2026-05-31 | flat earth | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.04 | 0.30 | +274.5 | Jamiee07, KyeGo02, Ouija, diimaaa, y0uxx666 |
 | 2026-05-27 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.05 | 1.00 | 0.28 | 0.00 | 0.00 | -266.6 | Jamiee07, KyeGo02, Ouija, diimaaa, hierro |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -40,10 +40,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | iNSTINCT | 365 | 1145.9 | +7.0 | +108.7 |
-| WaterDrinkers | 364 | 1146.1 | +7.2 | +119.1 |
-| OnThaGear | 363 | 1146.4 | +7.5 | +119.4 |
+| WaterDrinkers | 364 | 1146.1 | +7.2 | +119.2 |
+| OnThaGear | 363 | 1146.4 | +7.5 | +119.5 |
 | Temple of Swing | 362 | 1147.4 | +8.5 | +116.3 |
-| MINDTRIP | 361 | 1149.6 | +10.7 | +118.7 |
+| MINDTRIP | 361 | 1149.5 | +10.6 | +118.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -55,12 +55,12 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Bad Jawn | 200 | +343.2 | +229.5 | +20.2 |
 | noname | 208 | +328.4 | +210.8 | +19.7 |
 | Kings Gambit | 210 | +323.0 | +212.1 | +19.3 |
-| AscendentEsport | 207 | +328.9 | +228.4 | +19.1 |
-| Veniversum | 211 | +320.5 | +224.9 | +18.9 |
-| FlockMunchers | 212 | +320.2 | +225.0 | +18.9 |
-| GOYPEEKING | 216 | +311.1 | +194.7 | +18.6 |
+| AscendentEsport | 206 | +329.0 | +228.5 | +19.1 |
+| Veniversum | 211 | +320.5 | +225.0 | +18.9 |
+| FlockMunchers | 212 | +320.2 | +225.1 | +18.9 |
+| GOYPEEKING | 216 | +311.1 | +194.8 | +18.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +366.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +367.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.7), SixSevenZaZa (+1.2).
 
@@ -71,7 +71,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | LAF | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -79.6 | Payru, SlikNinjaZ, Teo_-, being, duck0110 |
 | 2026-09-10 | Defaulting | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.00 | 0.00 | -94.0 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
-| 2026-09-08 | NA Dream Team | W | 1-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.04 | 1.06 | +93.9 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
+| 2026-09-08 | NA Dream Team | W | 1-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.04 | 1.06 | +94.0 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 | 2026-09-06 | Code9 | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.04 | 1.04 | +104.4 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 | 2026-09-04 | CN Chill Boyz | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -227.1 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 | 2026-09-02 | Excommunicado | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.04 | 1.01 | +139.6 | DestructoDog, Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |

@@ -5,7 +5,7 @@ NARS Rank: 142 of 506
 
 Final Rating: 1602.2
 Seeded Start: 1135.5
-H2H Adjustment: +466.7
+H2H Adjustment: +466.7 (capped at +-300, raw +466.8)
 
 Final Rating (1602.2) = Seeded Start (1135.5) + H2H Adjustment (+466.7)
 
@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.025 | 1135.5 | - |
-| +30 days | 0.006 | 1108.3 | -27.2 |
+| +30 days | 0.006 | 1108.2 | -27.2 |
 | +60 days | 0.000 | 1100.0 | -35.5 |
 | +90 days | 0.000 | 1100.0 | -35.5 |
 
@@ -50,15 +50,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Wanted Goons | 43 | +330.9 | +397.3 | +29.0 |
-| Swole Patrol | 45 | +312.1 | +275.8 | +28.8 |
-| Xiaoma Gaming | 46 | +309.2 | +354.2 | +27.1 |
+| Swole Patrol | 45 | +312.2 | +275.8 | +28.8 |
+| Xiaoma Gaming | 46 | +309.3 | +354.2 | +27.1 |
 | FLOW STATE | 47 | +295.2 | +331.6 | +25.6 |
-| Zealous | 42 | +339.4 | +284.8 | +24.5 |
-| No Future Lifes Over | 50 | +284.9 | +302.5 | +24.3 |
-| DESPAIR | 49 | +286.5 | +303.1 | +24.2 |
-| Phantom Sense | 51 | +281.5 | +355.0 | +23.1 |
-| TheMotherLovers | 53 | +275.7 | +307.4 | +22.4 |
-| Locally Hated | 41 | +344.3 | +354.1 | +21.0 |
+| Zealous | 42 | +339.5 | +284.8 | +24.6 |
+| No Future Lifes Over | 50 | +285.0 | +302.5 | +24.3 |
+| DESPAIR | 49 | +286.5 | +303.2 | +24.2 |
+| Phantom Sense | 51 | +281.6 | +355.0 | +23.1 |
+| TheMotherLovers | 53 | +275.8 | +307.4 | +22.4 |
+| Locally Hated | 41 | +344.4 | +354.1 | +20.9 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.2 points at current ratings.
 
@@ -81,12 +81,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-04 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.03 | 1.00 | 0.33 | 0.00 | 0.00 | -88.1 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
 | 2026-06-02 | in for Blood | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.03 | 0.31 | +21.6 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
-| 2026-05-28 | STFDYSAB | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.03 | 1.00 | 0.28 | 0.00 | 0.00 | -163.9 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
-| 2026-05-27 | YHTR | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.04 | 0.27 | +284.7 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
+| 2026-05-28 | STFDYSAB | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.03 | 1.00 | 0.28 | 0.00 | 0.00 | -164.0 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
+| 2026-05-27 | YHTR | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.04 | 0.27 | +284.8 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
 | 2026-05-22 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -220.4 | Conquest_--, Hymn_, PeaseCentral, Shoor1c, Starfy |
-| 2026-05-20 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +267.6 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
+| 2026-05-20 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +267.7 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
 | 2026-05-15 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -2.2 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
-| 2026-05-13 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -406.3 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
+| 2026-05-13 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -406.4 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
 | 2026-05-06 | Nomadic Tactics | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +306.7 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
 | 2026-04-29 | offBalance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +354.8 | Hymn_, PeaseCentral, Shoor1c, Starfy, vinicui1 |
 | 2026-04-24 | NOVAIR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +266.5 | Hymn_, PeaseCentral, Shoor1c, Starfy, vinicui1 |

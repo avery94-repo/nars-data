@@ -4,14 +4,14 @@ Roster: Darian, MobiuS_360, HntR, P4uLy, theoldtimer
 NARS Rank: 362 of 506
 
 Final Rating: 1147.4
-Seeded Start: 1210.6
-H2H Adjustment: -63.2
+Seeded Start: 1210.5
+H2H Adjustment: -63.1
 
-Final Rating (1147.4) = Seeded Start (1210.6) + H2H Adjustment (-63.2)
+Final Rating (1147.4) = Seeded Start (1210.5) + H2H Adjustment (-63.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.079 x 1400 = 1210.6
+                = 1100 + 0.079 x 1400 = 1210.5
 
 seed_factor 0.079 = 0.25 x Tier Exposure (0.081) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.208)
 
@@ -24,9 +24,9 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.079 | 1210.6 | - |
+| Now | 0.079 | 1210.5 | - |
 | +30 days | 0.066 | 1192.4 | -18.1 |
-| +60 days | 0.060 | 1184.4 | -26.2 |
+| +60 days | 0.060 | 1184.4 | -26.1 |
 | +90 days | 0.052 | 1173.2 | -37.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.208 vs 0.316 average, gap -0.108). Matching that average is worth about 37.8 seed points.
@@ -39,10 +39,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| MINDTRIP | 361 | 1149.6 | +2.2 | +124.9 |
+| MINDTRIP | 361 | 1149.5 | +2.1 | +124.9 |
 | Aers Money Crew | 360 | 1153.2 | +5.8 | +124.5 |
-| Macs Snacks | 359 | 1153.9 | +6.5 | +122.9 |
-| RH Help Desk | 358 | 1158.5 | +11.1 | +131.6 |
+| Macs Snacks | 359 | 1153.9 | +6.5 | +123.0 |
+| RH Help Desk | 358 | 1158.5 | +11.1 | +131.7 |
 | Kurrupted Mindz | 357 | 1159.7 | +12.3 | +118.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,17 +50,17 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | ClanAgain | 195 | +345.9 | +215.3 | +22.6 |
-| ABG Esports | 196 | +341.3 | +241.5 | +22.2 |
+| ABG Esports | 196 | +341.3 | +241.6 | +22.2 |
 | GRIT | 201 | +333.7 | +208.1 | +21.7 |
-| O Fire | 198 | +341.1 | +249.1 | +21.6 |
-| Bad Jawn | 200 | +334.7 | +245.0 | +21.4 |
+| O Fire | 198 | +341.1 | +249.2 | +21.6 |
+| Bad Jawn | 200 | +334.7 | +245.1 | +21.4 |
 | noname | 208 | +319.9 | +225.2 | +20.7 |
-| Kings Gambit | 210 | +314.5 | +226.3 | +20.2 |
-| AscendentEsport | 207 | +320.4 | +243.5 | +20.1 |
+| Kings Gambit | 210 | +314.5 | +226.4 | +20.2 |
+| AscendentEsport | 206 | +320.5 | +243.6 | +20.1 |
 | Veniversum | 211 | +312.0 | +239.7 | +19.8 |
 | FlockMunchers | 212 | +311.7 | +239.8 | +19.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +403.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +403.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.7), SixSevenZaZa (+1.2).
 
@@ -82,16 +82,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Top One Percent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -27.5 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
 | 2026-08-12 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -64.4 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
 | 2026-08-07 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -7.2 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
-| 2026-08-05 | Storm Surge | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -29.6 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
+| 2026-08-05 | Storm Surge | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -29.5 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
 | 2026-07-31 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.04 | 0.81 | +184.2 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
 | 2026-07-24 | DingTone | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -290.1 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
-| 2026-07-22 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.04 | 0.74 | +317.6 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
+| 2026-07-22 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.04 | 0.74 | +317.7 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
 | 2026-07-17 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -0.8 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
 | 2026-07-15 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -35.8 | Darian, HntR, MobiuS_360, P4uLy, theoldtimer |
 | 2026-05-22 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +38.3 | HntR, P4uLy, Phatael, sosooooooo, theoldtimer |
 | 2026-05-20 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +153.6 | HntR, P4uLy, Phatael, sosooooooo, theoldtimer |
-| 2026-05-15 | Entertainment Cheese | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -227.4 | HntR, P4uLy, Phatael, sosooooooo, theoldtimer |
-| 2026-05-08 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -3.2 | HntR, NauwZ, P4uLy, Phatael, theoldtimer |
+| 2026-05-15 | Entertainment Cheese | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -227.5 | HntR, P4uLy, Phatael, sosooooooo, theoldtimer |
+| 2026-05-08 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -3.2 | HntR, NauwZ, P4uLy, Phatael, theoldtimer |
 | 2026-05-01 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +241.7 | HntR, P4uLy, Phatael, sosooooooo, theoldtimer |
 | 2026-04-30 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -394.9 | HntR, P4uLy, Phatael, sosooooooo, theoldtimer |
 
