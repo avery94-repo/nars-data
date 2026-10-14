@@ -25,10 +25,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Adria eSports | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -99.3 | Astrophysiic, Skips, V1RuS, kevinw0w, raayyy, samuel |
-| 2026-10-07 | Black Dragon Society | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -58.6 | Astrophysiic, Skips, kevinw0w, raayyy, samuel |
+| 2026-10-07 | Black Dragon Society | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -58.5 | Astrophysiic, Skips, kevinw0w, raayyy, samuel |
 | 2026-09-15 | TOP SHELF WHIFFERS | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.11 | 1.00 | 1.11 | 0.00 | 0.00 | -110.4 | Astrophysiic, Pewster, V1RuS, kevinw0w, raayyy |
-| 2026-09-08 | Arnes Wit Attitudes | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.00 | 0.00 | -114.5 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
-| 2026-09-06 | Defaulting | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.08 | 1.04 | +145.6 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
-| 2026-09-04 | Purple Reign | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.04 | 1.03 | +217.5 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
+| 2026-09-08 | Arnes Wit Attitudes | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.06 | 0.00 | 0.00 | -114.6 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
+| 2026-09-06 | Defaulting | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.08 | 1.04 | +145.7 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
+| 2026-09-04 | Purple Reign | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.04 | 1.03 | +217.6 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

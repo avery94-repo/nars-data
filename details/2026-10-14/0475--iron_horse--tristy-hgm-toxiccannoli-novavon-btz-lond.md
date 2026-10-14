@@ -3,15 +3,15 @@ Team Name: Iron Horse
 Roster: TRISTY-HGM, ToxicCannoli, NoVaVoN, btz, London
 NARS Rank: 475 of 506
 
-Final Rating: 779.9
-Seeded Start: 1115.5
-H2H Adjustment: -335.6
+Final Rating: 778.9
+Seeded Start: 1115.4
+H2H Adjustment: -336.5
 
-Final Rating (779.9) = Seeded Start (1115.5) + H2H Adjustment (-335.6)
+Final Rating (778.9) = Seeded Start (1115.4) + H2H Adjustment (-336.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.011 x 1400 = 1115.5
+                = 1100 + 0.011 x 1400 = 1115.4
 
 seed_factor 0.011 = 0.25 x Tier Exposure (0.018) + 0.50 x Quality Wins (0.001) + 0.25 x Opponent Network (0.024)
 
@@ -24,15 +24,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-29 | FLying PiGs | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -176.0 | -DAMFIE, Lilkreutz, NoVaVoN, ToxicCannoli, btz |
-| 2026-05-23 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.01 | 1.00 | 0.24 | 0.00 | 0.00 | -113.9 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-05-22 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -151.6 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-05-20 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -89.0 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-05-15 | TahMeow | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -304.1 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-05-13 | Bad Jawn | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +215.1 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-05-06 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +206.3 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-05-01 | Kevin James Fan Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -148.0 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-04-29 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +418.8 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
-| 2026-04-22 | FourStrokeGang | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -193.2 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-29 | FLying PiGs | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -176.5 | -DAMFIE, Lilkreutz, NoVaVoN, ToxicCannoli, btz |
+| 2026-05-23 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.24 | 0.00 | 0.00 | -114.2 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-22 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -151.9 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-20 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.21 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -88.9 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-15 | TahMeow | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -304.7 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-13 | Bad Jawn | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +215.4 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-06 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +206.5 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-01 | Kevin James Fan Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -148.1 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-04-29 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.07 | +419.1 | Lilkreutz, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-04-22 | FourStrokeGang | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -193.3 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

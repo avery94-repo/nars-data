@@ -3,11 +3,11 @@ Team Name: shirtcockin
 Roster: boshy32, DUM0RE, delphiki, xstk, Cjoshum
 NARS Rank: 504 of 506
 
-Final Rating: 381.5
+Final Rating: 381.1
 Seeded Start: 1116.9
-H2H Adjustment: -735.4
+H2H Adjustment: -735.8
 
-Final Rating (381.5) = Seeded Start (1116.9) + H2H Adjustment (-735.4)
+Final Rating (381.1) = Seeded Start (1116.9) + H2H Adjustment (-735.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,21 +24,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-12 | Cadillac F1 eSports Team | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -2.6 | Cjoshum, DUM0RE, boshy32, delphiki, xstk |
-| 2026-08-07 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -47.5 | Cjoshum, DUM0RE, cadius-, delphiki, xstk |
+| 2026-08-12 | Cadillac F1 eSports Team | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.77 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -2.6 | Cjoshum, DUM0RE, boshy32, delphiki, xstk |
+| 2026-08-07 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -47.2 | Cjoshum, DUM0RE, cadius-, delphiki, xstk |
 | 2026-08-05 | Friendly Fire | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -0.8 | Cjoshum, boshy32, cadius-, delphiki, xstk |
 | 2026-07-29 | NADIYA | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -9.2 | Cjoshum, boshy32, delphiki, oberon, xstk |
 | 2026-07-29 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -0.6 | Cjoshum, boshy32, delphiki, oberon, xstk |
 | 2026-07-24 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -0.2 | Cjoshum, DUM0RE, boshy32, cadius-, delphiki |
-| 2026-07-22 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -0.0 | Cjoshum, DUM0RE, boshy32, delphiki, xstk |
+| 2026-07-22 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.63 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -0.0 | Cjoshum, DUM0RE, boshy32, delphiki, xstk |
 | 2026-07-17 | US Navy Esports | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -0.0 | Cjoshum, DUM0RE, boshy32, cadius-, delphiki |
 | 2026-07-15 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -1.7 | Cjoshum, boshy32, cadius-, delphiki, xstk |
 | 2026-05-22 | The Homies | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -1.6 | Cjoshum, DUM0RE, delphiki, oberon, xstk |
-| 2026-05-14 | we get it back | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -327.0 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
+| 2026-05-14 | we get it back | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -327.6 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
 | 2026-05-13 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -145.1 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
-| 2026-05-08 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -224.2 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
-| 2026-05-01 | puggin4seb | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +264.0 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
-| 2026-04-29 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -102.0 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
+| 2026-05-08 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -224.6 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
+| 2026-05-01 | puggin4seb | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +264.4 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
+| 2026-04-29 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -102.0 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
 | 2026-04-24 | F1lthy Puggers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -8.1 | Cjoshum, buckshott, delphiki, oberon, xstk |
 | 2026-04-22 | ASYCS KITTENS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -128.7 | Cjoshum, Jesperere, delphiki, ventake, xstk |
 

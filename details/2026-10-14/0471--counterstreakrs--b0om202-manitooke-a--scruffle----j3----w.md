@@ -3,15 +3,15 @@ Team Name: CounterStreakrs
 Roster: B0oM202, MANITOOKE-A-, Scruffle, ---J3---, WiCKeD--1
 NARS Rank: 471 of 506
 
-Final Rating: 808.1
-Seeded Start: 1120.0
-H2H Adjustment: -311.9
+Final Rating: 807.6
+Seeded Start: 1119.9
+H2H Adjustment: -312.3
 
-Final Rating (808.1) = Seeded Start (1120.0) + H2H Adjustment (-311.9)
+Final Rating (807.6) = Seeded Start (1119.9) + H2H Adjustment (-312.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.014 x 1400 = 1120.0
+                = 1100 + 0.014 x 1400 = 1119.9
 
 seed_factor 0.014 = 0.25 x Tier Exposure (0.018) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.034)
 
@@ -24,16 +24,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-29 | Costco Family | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -268.4 | ---J3---, B0oM202, Chico_v2, MANITOOKE-A-, Scruffle |
+| 2026-05-29 | Costco Family | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -268.8 | ---J3---, B0oM202, Chico_v2, MANITOOKE-A-, Scruffle |
 | 2026-05-27 | Wide Swinging Wizards | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -4.2 | ---J3---, B0oM202, Chico_v2, MANITOOKE-A-, Scruffle |
-| 2026-05-22 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +236.0 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
-| 2026-05-20 | NATIONAL CS UNI | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -241.1 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
-| 2026-05-15 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +184.1 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
-| 2026-05-13 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -25.7 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
-| 2026-05-08 | Grandpa Berets | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -152.8 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
-| 2026-05-06 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -330.9 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
-| 2026-04-29 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +221.0 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
-| 2026-04-24 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -207.9 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
-| 2026-04-22 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +278.0 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
+| 2026-05-22 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +236.5 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
+| 2026-05-20 | NATIONAL CS UNI | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.21 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -241.7 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
+| 2026-05-15 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +184.5 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
+| 2026-05-13 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -25.5 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
+| 2026-05-08 | Grandpa Berets | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -153.0 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
+| 2026-05-06 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -331.3 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
+| 2026-04-29 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.01 | 0.07 | +221.2 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
+| 2026-04-24 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -208.1 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
+| 2026-04-22 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +278.2 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

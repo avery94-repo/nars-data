@@ -3,17 +3,17 @@ Team Name: Adria eSports
 Roster: MambaHAPPY, -Gerry, D4V1Z1HN0SSJ, Alons0-, LOBOSO_R
 NARS Rank: 281 of 506
 
-Final Rating: 1314.2
-Seeded Start: 1201.4
-H2H Adjustment: +112.8
+Final Rating: 1314.3
+Seeded Start: 1201.3
+H2H Adjustment: +113.0
 
-Final Rating (1314.2) = Seeded Start (1201.4) + H2H Adjustment (+112.8)
+Final Rating (1314.3) = Seeded Start (1201.3) + H2H Adjustment (+113.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.072 x 1400 = 1201.4
+                = 1100 + 0.072 x 1400 = 1201.3
 
-seed_factor 0.072 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.013) + 0.25 x Opponent Network (0.195)
+seed_factor 0.072 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.012) + 0.25 x Opponent Network (0.195)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | RH Help Desk | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +104.8 | -Gerry, Alons0-, D4V1Z1HN0SSJ, FLIXfps, MambaHAPPY |
-| 2026-10-07 | FlockMunchers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -133.7 | -Gerry, Alons0-, D4V1Z1HN0SSJ, FLIXfps, MambaHAPPY |
-| 2026-09-08 | STALLOONS BALLOONS | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.10 | 0.99 | +145.1 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY |
-| 2026-09-06 | WhiteWASHED | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.03 | 0.98 | +154.3 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY |
-| 2026-09-02 | drunk cigs dont count | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.00 | 0.00 | -157.6 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY, iameet |
+| 2026-10-07 | FlockMunchers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -133.8 | -Gerry, Alons0-, D4V1Z1HN0SSJ, FLIXfps, MambaHAPPY |
+| 2026-09-08 | STALLOONS BALLOONS | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.10 | 0.99 | +145.2 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY |
+| 2026-09-06 | WhiteWASHED | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.03 | 0.98 | +154.4 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY |
+| 2026-09-02 | drunk cigs dont count | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.91 | 1.04 | 1.00 | 0.95 | 0.00 | 0.00 | -157.6 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY, iameet |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | HIGHPOINT | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +117.3 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
+| 2026-10-09 | HIGHPOINT | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +117.4 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 | 2026-10-07 | Guangzhou Loong Lions | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -176.8 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 | 2026-09-10 | Kodaks Lettuce | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -87.6 | Garbagebag, Khad42, Kingruneorb, QuackDaddy, rozay |
-| 2026-09-06 | PogSquad | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -120.2 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
+| 2026-09-06 | PogSquad | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -120.3 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 | 2026-09-04 | Elo Terrorists | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +69.4 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
-| 2026-09-02 | Z-Blocked | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +141.0 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
+| 2026-09-02 | Z-Blocked | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.03 | 0.91 | +141.1 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

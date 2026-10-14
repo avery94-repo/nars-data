@@ -3,11 +3,11 @@ Team Name: Over 30
 Roster: san1ty_st, givy, Fluq, joshgc, Bismu
 NARS Rank: 81 of 506
 
-Final Rating: 1771.6
+Final Rating: 1771.8
 Seeded Start: 1232.3
-H2H Adjustment: +539.3
+H2H Adjustment: +539.5
 
-Final Rating (1771.6) = Seeded Start (1232.3) + H2H Adjustment (+539.3)
+Final Rating (1771.8) = Seeded Start (1232.3) + H2H Adjustment (+539.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-21 | Whiff City | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -94.5 | Bismu, Fluq, givy, joshgc, san1ty_st |
-| 2026-09-18 | Toomers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +81.0 | Bismu, Fluq, givy, joshgc, san1ty_st |
+| 2026-09-21 | Whiff City | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -94.6 | Bismu, Fluq, givy, joshgc, san1ty_st |
+| 2026-09-18 | Toomers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +81.1 | Bismu, Fluq, givy, joshgc, san1ty_st |
 | 2026-09-16 | gunked | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +96.9 | Bismu, Fluq, givy, joshgc, san1ty_st |
-| 2026-09-11 | NEWAR | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.04 | 0.98 | +125.6 | Bismu, Fluq, givy, joshgc, san1ty_st |
-| 2026-09-10 | du bist gut genug | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.03 | 0.97 | +135.0 | Bismu, Fluq, givy, joshgc, san1ty_st |
-| 2026-09-04 | Glue Guzzlers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.04 | 0.93 | +195.2 | Bismu, Fluq, givy, joshgc, san1ty_st |
+| 2026-09-11 | NEWAR | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.04 | 0.97 | +125.7 | Bismu, Fluq, givy, joshgc, san1ty_st |
+| 2026-09-10 | du bist gut genug | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.03 | 0.97 | +135.1 | Bismu, Fluq, givy, joshgc, san1ty_st |
+| 2026-09-04 | Glue Guzzlers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.04 | 0.93 | +195.3 | Bismu, Fluq, givy, joshgc, san1ty_st |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

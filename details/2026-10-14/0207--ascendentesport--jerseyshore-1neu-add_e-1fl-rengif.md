@@ -3,11 +3,11 @@ Team Name: AscendentEsport
 Roster: jerseyshore, 1neu, add_e, 1FL, rengif
 NARS Rank: 207 of 506
 
-Final Rating: 1467.9
+Final Rating: 1468.0
 Seeded Start: 1299.4
-H2H Adjustment: +168.5
+H2H Adjustment: +168.6
 
-Final Rating (1467.9) = Seeded Start (1299.4) + H2H Adjustment (+168.5)
+Final Rating (1468.0) = Seeded Start (1299.4) + H2H Adjustment (+168.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,15 +24,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-07 | Casual Mature Gamers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -129.5 | 1FL, 1neu, chefBAKER, rengif, viGiaaaMC |
-| 2026-09-19 | fih hou | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -55.6 | 1FL, 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |
+| 2026-10-07 | Casual Mature Gamers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -129.6 | 1FL, 1neu, chefBAKER, rengif, viGiaaaMC |
+| 2026-09-19 | fih hou | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -55.7 | 1FL, 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |
 | 2026-09-17 | VARTOVIK | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +54.5 | 1FL, 1neu, chefBAKER, jerseyshore, pr1mopeek |
-| 2026-09-15 | PogSquad | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +47.9 | 1neu, add_e, chefBAKER, pr1mopeek, rengif |
-| 2026-09-12 | TELETUBEASTS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +70.4 | 1neu, chefBAKER, jerseyshore, pr1mopeek, rengif |
+| 2026-09-15 | PogSquad | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +48.0 | 1neu, add_e, chefBAKER, pr1mopeek, rengif |
+| 2026-09-12 | TELETUBEASTS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +70.5 | 1neu, chefBAKER, jerseyshore, pr1mopeek, rengif |
 | 2026-09-10 | Brobies | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.07 | 0.97 | +107.0 | 1FL, 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |
-| 2026-09-08 | ARRACHED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +79.0 | 1neu, chefBAKER, jerseyshore, pr1mopeek, rengif |
+| 2026-09-08 | ARRACHED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.03 | 0.95 | +79.0 | 1neu, chefBAKER, jerseyshore, pr1mopeek, rengif |
 | 2026-09-06 | Propaniacs | W | 1-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +35.5 | 1FL, add_e, chefBAKER, jerseyshore, rengif |
-| 2026-09-04 | VARTOVIK | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -141.1 | 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |
-| 2026-09-02 | HeadShot Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.13 | 0.92 | +100.4 | 1FL, 1neu, add_e, chefBAKER, jerseyshore, rengif |
+| 2026-09-04 | VARTOVIK | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -141.2 | 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |
+| 2026-09-02 | HeadShot Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.13 | 0.91 | +100.5 | 1FL, 1neu, add_e, chefBAKER, jerseyshore, rengif |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

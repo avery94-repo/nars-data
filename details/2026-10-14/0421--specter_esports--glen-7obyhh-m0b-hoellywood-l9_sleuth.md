@@ -3,11 +3,11 @@ Team Name: Specter Esports
 Roster: Glen, 7obyhh, M0B, Hoellywood, L9_Sleuth
 NARS Rank: 421 of 506
 
-Final Rating: 999.6
+Final Rating: 1000.1
 Seeded Start: 1242.3
-H2H Adjustment: -242.7
+H2H Adjustment: -242.2
 
-Final Rating (999.6) = Seeded Start (1242.3) + H2H Adjustment (-242.7)
+Final Rating (1000.1) = Seeded Start (1242.3) + H2H Adjustment (-242.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,24 +24,24 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-28 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.05 | 0.90 | +67.3 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
+| 2026-08-28 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.04 | 0.90 | +67.3 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
 | 2026-08-26 | The Homies | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -96.5 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
-| 2026-08-21 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.03 | 0.85 | +74.4 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
-| 2026-08-19 | puggin4seb | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -122.9 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
+| 2026-08-21 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.02 | 1.00 | 0.85 | 0.03 | 0.85 | +74.4 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
+| 2026-08-19 | puggin4seb | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -123.1 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
 | 2026-08-14 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.07 | 0.81 | +71.0 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
-| 2026-08-12 | Solace | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -57.2 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
-| 2026-08-07 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -35.1 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
-| 2026-08-05 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -78.5 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
-| 2026-07-30 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -105.2 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
-| 2026-07-29 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.14 | 0.70 | +239.7 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
-| 2026-07-28 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.69 | 0.08 | 0.69 | +301.8 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
-| 2026-07-23 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.66 | 0.03 | 0.66 | +193.8 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
+| 2026-08-12 | Solace | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -57.3 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
+| 2026-08-07 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -34.2 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
+| 2026-08-05 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -78.7 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
+| 2026-07-30 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -105.4 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
+| 2026-07-29 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.14 | 0.70 | +240.0 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
+| 2026-07-28 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.02 | 1.00 | 0.69 | 0.08 | 0.69 | +302.1 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
+| 2026-07-23 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.66 | 0.03 | 0.66 | +194.0 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
 | 2026-07-17 | Wiggle Peeks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -3.2 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
 | 2026-07-15 | DKR Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -0.6 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
-| 2026-05-22 | gooshedd | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -246.0 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
-| 2026-05-20 | The Homies | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -307.9 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
-| 2026-05-15 | Wiggle Peeks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +416.6 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
-| 2026-05-13 | Cadillac F1 eSports Team | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -372.7 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
-| 2026-04-22 | FUELED BY HATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -181.3 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
+| 2026-05-22 | gooshedd | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -246.1 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
+| 2026-05-20 | The Homies | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -308.4 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
+| 2026-05-15 | Wiggle Peeks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +417.2 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
+| 2026-05-13 | Cadillac F1 eSports Team | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -373.2 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
+| 2026-04-22 | FUELED BY HATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -181.4 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

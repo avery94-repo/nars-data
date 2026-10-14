@@ -25,10 +25,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +169.0 | DavyG, JCIV, MTL_, YRV, noostie |
-| 2026-09-12 | COGNITIVE | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.09 | 0.00 | 0.00 | -119.1 | DavyG, MTL_, The_Cam3l, YRV, santanamolly |
-| 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.08 | 1.07 | +96.1 | DavyG, EndMeThx, JCIV, MTL_, YRV |
+| 2026-09-12 | COGNITIVE | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.09 | 0.00 | 0.00 | -119.2 | DavyG, MTL_, The_Cam3l, YRV, santanamolly |
+| 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.08 | 1.07 | +96.2 | DavyG, EndMeThx, JCIV, MTL_, YRV |
 | 2026-09-06 | RH Help Desk | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.00 | 0.00 | -147.4 | DavyG, EndMeThx, MTL_, The_Cam3l, YRV |
 | 2026-09-04 | No pain No aim | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.04 | 1.03 | +91.8 | DavyG, EndMeThx, JCIV, The_Cam3l, YRV |
-| 2026-09-02 | Zero Remorse | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.04 | 1.01 | +131.7 | JCIV, MTL_, The_Cam3l, YRV, noostie |
+| 2026-09-02 | Zero Remorse | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.91 | 1.11 | 1.00 | 1.01 | 0.04 | 1.01 | +131.7 | JCIV, MTL_, The_Cam3l, YRV, noostie |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

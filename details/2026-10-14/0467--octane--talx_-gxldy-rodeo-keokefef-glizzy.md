@@ -3,11 +3,11 @@ Team Name: Octane
 Roster: talx_, Gxldy, Rodeo, Keokefef, glizzy
 NARS Rank: 467 of 506
 
-Final Rating: 825.4
+Final Rating: 825.3
 Seeded Start: 1121.6
-H2H Adjustment: -296.2
+H2H Adjustment: -296.3
 
-Final Rating (825.4) = Seeded Start (1121.6) + H2H Adjustment (-296.2)
+Final Rating (825.3) = Seeded Start (1121.6) + H2H Adjustment (-296.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-04 | Ablert and Co | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -125.3 | --lenny, Keokefef, Rodeo, Savages, talx_ |
-| 2026-09-02 | deez | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -121.7 | Gxldy, Keokefef, Rodeo, glizzy, talx_ |
+| 2026-09-02 | deez | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.00 | 0.00 | -121.8 | Gxldy, Keokefef, Rodeo, glizzy, talx_ |
 | 2026-06-03 | makeSHIFT | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -30.0 | Keokefef, Rodeo, glizzy, luffo, talx_ |
-| 2026-05-29 | Internet Coffee | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +188.7 | Keokefef, Rodeo, glizzy, luffo, talx_ |
-| 2026-05-27 | retirement home | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -207.9 | Gxldy, Keokefef, Rodeo, glizzy, talx_ |
+| 2026-05-29 | Internet Coffee | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +188.8 | Keokefef, Rodeo, glizzy, luffo, talx_ |
+| 2026-05-27 | retirement home | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -208.0 | Gxldy, Keokefef, Rodeo, glizzy, talx_ |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_
