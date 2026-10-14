@@ -1,14 +1,14 @@
 {
  "schema_version": 2,
- "snapshot": "2026-10-14T09:07:29.048437+00:00",
- "exported_at": "2026-10-14T09:07:38Z",
+ "snapshot": "2026-10-14T11:30:18.680770+00:00",
+ "exported_at": "2026-10-14T11:40:39Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
- "matches_qualifying": 5687,
- "matches_exported": 5687,
+ "matches_qualifying": 5693,
+ "matches_exported": 5693,
  "matches_by_source": {
   "hltv": 47,
-  "faceit-league": 4736,
+  "faceit-league": 4742,
   "faceit-tournament": 446,
   "vrs": 455,
   "liquipedia": 3

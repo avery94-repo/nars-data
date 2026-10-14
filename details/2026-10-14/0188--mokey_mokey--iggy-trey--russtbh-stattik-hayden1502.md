@@ -3,11 +3,11 @@ Team Name: mokey mokey
 Roster: iggy, trey-, russtbh, stattik, hayden1502
 NARS Rank: 188 of 506
 
-Final Rating: 1502.4
+Final Rating: 1503.4
 Seeded Start: 1210.3
-H2H Adjustment: +292.1
+H2H Adjustment: +293.1
 
-Final Rating (1502.4) = Seeded Start (1210.3) + H2H Adjustment (+292.1)
+Final Rating (1503.4) = Seeded Start (1210.3) + H2H Adjustment (+293.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,9 +24,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | Cortex Jellies | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.08 | 1.01 | +98.9 | hayden1502, iggy, russtbh, stattik, trey- |
-| 2026-09-08 | Coop De Grace | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +77.3 | hayden1502, iggy, russtbh, stattik, trey- |
-| 2026-09-06 | Pocket Snatchers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.03 | 0.98 | +86.7 | USToaster, hayden1502, iggy, russtbh, stattik |
+| 2026-09-10 | Cortex Jellies | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.08 | 1.01 | +98.7 | hayden1502, iggy, russtbh, stattik, trey- |
+| 2026-09-08 | Coop De Grace | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +77.0 | hayden1502, iggy, russtbh, stattik, trey- |
+| 2026-09-06 | Pocket Snatchers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.03 | 0.98 | +88.0 | USToaster, hayden1502, iggy, russtbh, stattik |
 | 2026-09-04 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.00 | 0.00 | -107.5 | hayden1502, iggy, russtbh, stattik, trey- |
 | 2026-09-02 | Trinity | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +136.8 | hayden1502, iggy, russtbh, stattik, trey- |
 

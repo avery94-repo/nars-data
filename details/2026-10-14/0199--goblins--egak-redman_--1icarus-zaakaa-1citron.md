@@ -3,11 +3,11 @@ Team Name: GOBLINS
 Roster: egaK, Redman_-, 1icarus, Zaakaa, 1citron
 NARS Rank: 199 of 506
 
-Final Rating: 1486.3
+Final Rating: 1486.5
 Seeded Start: 1184.3
-H2H Adjustment: +302.0
+H2H Adjustment: +302.2 (capped at +-300, raw +302.1)
 
-Final Rating (1486.3) = Seeded Start (1184.3) + H2H Adjustment (+302.0)
+Final Rating (1486.5) = Seeded Start (1184.3) + H2H Adjustment (+302.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-07 | MEET THE WALL | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -160.7 | 1icarus, Zaakaa, ctrn, egaK, mock |
+| 2026-09-07 | MEET THE WALL | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -160.8 | 1icarus, Zaakaa, ctrn, egaK, mock |
 | 2026-09-04 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.15 | 0.97 | +89.8 | 1icarus, ctrn, egaK, lelgfnoob, mock |
-| 2026-09-02 | Lemon Party | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +17.6 | 1icarus, CH4RG3R, Johnny316, ctrn, egaK |
-| 2026-06-05 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.33 | 1.05 | 1.00 | 0.34 | 0.00 | 0.00 | -201.9 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |
-| 2026-06-04 | ItAintOverYet | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.03 | 0.33 | +192.8 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |
-| 2026-05-29 | BONK | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.02 | 0.29 | +364.6 | 1icarus, Oak---, Redman_-, ctrn, lelgfnoob |
+| 2026-09-02 | Lemon Party | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +17.5 | 1icarus, CH4RG3R, Johnny316, ctrn, egaK |
+| 2026-06-05 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.34 | 0.00 | 0.00 | -202.3 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |
+| 2026-06-04 | ItAintOverYet | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.03 | 0.33 | +192.5 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |
+| 2026-05-29 | BONK | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.02 | 0.29 | +365.4 | 1icarus, Oak---, Redman_-, ctrn, lelgfnoob |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

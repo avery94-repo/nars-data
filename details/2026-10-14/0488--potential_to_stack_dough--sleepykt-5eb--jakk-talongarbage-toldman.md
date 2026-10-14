@@ -5,7 +5,7 @@ NARS Rank: 488 of 506
 
 Final Rating: 686.8
 Seeded Start: 1116.5
-H2H Adjustment: -429.7 (capped at +-300, raw -429.6)
+H2H Adjustment: -429.7
 
 Final Rating (686.8) = Seeded Start (1116.5) + H2H Adjustment (-429.7)
 
@@ -25,10 +25,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-07 | No pain No aim | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.00 | 0.00 | -28.4 | -CraM-, -jakk, sleepykt, the-Supreme, toldman |
-| 2026-09-03 | house | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.02 | 0.00 | 0.00 | -14.9 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
-| 2026-05-08 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -161.1 | -jakk, 5eb, Bernurd, sleepykt, toldman |
-| 2026-05-08 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -365.8 | -jakk, 5eb, Bernurd, sleepykt, toldman |
-| 2026-05-01 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -22.9 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
-| 2026-04-28 | Remnant | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +163.4 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
+| 2026-09-03 | house | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.00 | 0.00 | -14.9 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
+| 2026-05-08 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -161.1 | -jakk, 5eb, Bernurd, sleepykt, toldman |
+| 2026-05-08 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -365.9 | -jakk, 5eb, Bernurd, sleepykt, toldman |
+| 2026-05-01 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -22.9 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
+| 2026-04-28 | Remnant | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.01 | 0.07 | +163.4 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -4,14 +4,14 @@ Roster: Grimm-_, ROWDY-----, being, xReeCe, Packy
 NARS Rank: 390 of 506
 
 Final Rating: 1080.5
-Seeded Start: 1153.1
-H2H Adjustment: -72.6
+Seeded Start: 1153.0
+H2H Adjustment: -72.5
 
-Final Rating (1080.5) = Seeded Start (1153.1) + H2H Adjustment (-72.6)
+Final Rating (1080.5) = Seeded Start (1153.0) + H2H Adjustment (-72.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.038 x 1400 = 1153.1
+                = 1100 + 0.038 x 1400 = 1153.0
 
 seed_factor 0.038 = 0.25 x Tier Exposure (0.046) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.099)
 
@@ -24,12 +24,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | TELETUBEASTS | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -103.8 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
-| 2026-09-06 | Kitzune Division | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +81.0 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
-| 2026-09-04 | RAZED | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -113.2 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
-| 2026-06-12 | Team TahMeow | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -154.9 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
-| 2026-06-03 | We Have No Enemies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +184.9 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
-| 2026-05-29 | Kings Gambit | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -157.5 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
+| 2026-09-08 | TELETUBEASTS | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -103.9 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
+| 2026-09-06 | Kitzune Division | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +81.1 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
+| 2026-09-04 | RAZED | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -113.0 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
+| 2026-06-12 | Team TahMeow | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -155.0 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
+| 2026-06-03 | We Have No Enemies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +185.1 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
+| 2026-05-29 | Kings Gambit | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -157.6 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-05-27 | gimme noggin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +190.9 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

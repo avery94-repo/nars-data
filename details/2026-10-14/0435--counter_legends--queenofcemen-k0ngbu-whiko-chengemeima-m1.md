@@ -3,11 +3,11 @@ Team Name: Counter Legends
 Roster: Queenofcemen, k0nGbu, whiko, chengemeima, M1ng
 NARS Rank: 435 of 506
 
-Final Rating: 941.8
+Final Rating: 942.3
 Seeded Start: 1104.5
-H2H Adjustment: -162.7
+H2H Adjustment: -162.2
 
-Final Rating (941.8) = Seeded Start (1104.5) + H2H Adjustment (-162.7)
+Final Rating (942.3) = Seeded Start (1104.5) + H2H Adjustment (-162.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-06 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.00 | 1.00 | 0.12 | 0.00 | 0.00 | -3.8 | Llok6, M1ng, bluebxrry, chengemeima, whiko |
-| 2026-05-01 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -409.0 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
-| 2026-04-29 | in for Blood | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.08 | +145.6 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
-| 2026-04-24 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -213.6 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
-| 2026-04-22 | Exnitas | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.00 | 1.00 | 0.03 | 0.00 | 0.03 | +318.1 | Llok6, M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
+| 2026-05-06 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.13 | 0.00 | 0.00 | -3.8 | Llok6, M1ng, bluebxrry, chengemeima, whiko |
+| 2026-05-01 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -409.3 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
+| 2026-04-29 | in for Blood | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +146.4 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
+| 2026-04-24 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -213.7 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
+| 2026-04-22 | Exnitas | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +318.3 | Llok6, M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

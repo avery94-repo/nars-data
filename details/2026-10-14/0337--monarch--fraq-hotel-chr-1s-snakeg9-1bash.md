@@ -4,14 +4,14 @@ Roster: Fraq, hotel, chr-1s, SnakeG9, 1Bash
 NARS Rank: 337 of 506
 
 Final Rating: 1200.9
-Seeded Start: 1192.7
-H2H Adjustment: +8.2
+Seeded Start: 1192.6
+H2H Adjustment: +8.3
 
-Final Rating (1200.9) = Seeded Start (1192.7) + H2H Adjustment (+8.2)
+Final Rating (1200.9) = Seeded Start (1192.6) + H2H Adjustment (+8.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.066 x 1400 = 1192.7
+                = 1100 + 0.066 x 1400 = 1192.6
 
 seed_factor 0.066 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.184)
 
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-08 | APEX | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -92.8 | 1Bash, Fraq, SnakeG9, chr-1s, hotel |
-| 2026-09-10 | OPOZIT | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -43.9 | -Jincks, 1Bash, Fraq, SnakeG9, chr-1s, hotel |
+| 2026-09-10 | OPOZIT | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -44.0 | -Jincks, 1Bash, Fraq, SnakeG9, chr-1s, hotel |
 | 2026-09-08 | Uncs United | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +30.6 | 1Bash, 43O4, Fraq, SnakeG9, chr-1s, hotel |
-| 2026-09-06 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +35.4 | -Jincks, 1Bash, Fraq, Neido, chr-1s |
+| 2026-09-06 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +35.5 | -Jincks, 1Bash, Fraq, Neido, chr-1s |
 | 2026-09-04 | deez | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -69.6 | 1Bash, Fraq, Neido, SnakeG9, hotel |
 | 2026-09-02 | Ablert and Co | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +148.5 | 1Bash, 43O4, Fraq, SnakeG9, hotel |
 

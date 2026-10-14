@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-11 | gunked | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -65.5 | 5casa, Amo24, Peanutski, jabby, pete7895 |
-| 2026-09-09 | USAE Academy | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +176.9 | 5casa, Amo24, Peanutski, jabby, pete7895 |
-| 2026-09-04 | New York City Ballas CS | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +145.7 | 5casa, Amo24, CaptainToro, jabby, pete7895 |
-| 2026-09-02 | Belladonna | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.06 | 0.92 | +227.3 | 5casa, Amo24, Ebbs, Peanutski, jabby |
-| 2026-05-27 | 4fun | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -235.3 | 5casa, MC_Double, Peanutski, jabby, pete7895 |
+| 2026-09-11 | gunked | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -65.6 | 5casa, Amo24, Peanutski, jabby, pete7895 |
+| 2026-09-09 | USAE Academy | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +177.0 | 5casa, Amo24, Peanutski, jabby, pete7895 |
+| 2026-09-04 | New York City Ballas CS | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +145.8 | 5casa, Amo24, CaptainToro, jabby, pete7895 |
+| 2026-09-02 | Belladonna | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.06 | 0.92 | +227.4 | 5casa, Amo24, Ebbs, Peanutski, jabby |
+| 2026-05-27 | 4fun | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -235.4 | 5casa, MC_Double, Peanutski, jabby, pete7895 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

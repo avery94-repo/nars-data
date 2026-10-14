@@ -26,9 +26,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | UncsStillGotIt | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -49.3 | Guildenstern, Pocket-l-, Swerv0, TheArtist, ZAQQ |
 | 2026-10-07 | VARTOVIK | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -57.8 | Guildenstern, PinkTM, Pocket-l-, Swerv0, ZAQQ |
-| 2026-09-10 | AscendentEsport | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -106.6 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
-| 2026-09-06 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -134.4 | BIGJ0E, Guildenstern, Tristy_, WiggSplitter, ZAQQ |
-| 2026-09-04 | Knox Esports | W | 1-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +32.3 | BIGJ0E, Guildenstern, TheArtist, WiggSplitter, ZAQQ |
-| 2026-09-02 | Will of Dih | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.04 | 0.92 | +360.2 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
+| 2026-09-10 | AscendentEsport | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -106.7 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
+| 2026-09-06 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -134.5 | BIGJ0E, Guildenstern, Tristy_, WiggSplitter, ZAQQ |
+| 2026-09-04 | Knox Esports | W | 1-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +32.4 | BIGJ0E, Guildenstern, TheArtist, WiggSplitter, ZAQQ |
+| 2026-09-02 | Will of Dih | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.04 | 0.92 | +360.3 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

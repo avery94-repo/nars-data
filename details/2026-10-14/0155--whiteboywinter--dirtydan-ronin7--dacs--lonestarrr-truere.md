@@ -3,17 +3,17 @@ Team Name: WhiteBoyWinter
 Roster: dirtydan, ronin7, -DacS-, LoneStarrr, TrueRedux
 NARS Rank: 155 of 506
 
-Final Rating: 1566.4
-Seeded Start: 1280.5
-H2H Adjustment: +285.9
+Final Rating: 1566.6
+Seeded Start: 1280.6
+H2H Adjustment: +286.0
 
-Final Rating (1566.4) = Seeded Start (1280.5) + H2H Adjustment (+285.9)
+Final Rating (1566.6) = Seeded Start (1280.6) + H2H Adjustment (+286.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.129 x 1400 = 1280.5
+                = 1100 + 0.129 x 1400 = 1280.6
 
-seed_factor 0.129 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.027) + 0.25 x Opponent Network (0.389)
+seed_factor 0.129 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.389)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Samantha 4 | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +89.3 | -DacS-, RavensBOSS, Tr1ck, dirtydan, ronin7 |
+| 2026-10-09 | Samantha 4 | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +89.1 | -DacS-, RavensBOSS, Tr1ck, dirtydan, ronin7 |
 | 2026-10-07 | After Peak | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.09 | 1.00 | +0.9 | -DacS-, RavensBOSS, Tr1ck, dirtydan, ronin7 |
-| 2026-09-15 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -76.4 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
-| 2026-09-12 | ClanAgain | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.07 | 1.02 | +77.9 | LightPat, LoneStarrr, TrueRedux, dirtydan, ronin7 |
-| 2026-09-10 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.15 | 1.01 | +93.6 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
+| 2026-09-15 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -76.5 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
+| 2026-09-12 | ClanAgain | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.07 | 1.02 | +78.1 | LightPat, LoneStarrr, TrueRedux, dirtydan, ronin7 |
+| 2026-09-10 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.15 | 1.01 | +93.7 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-06 | Afterimage | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.00 | 0.00 | -130.2 | -DacS-, dirtydan, kDuffy, kryph, ronin7 |
 | 2026-09-04 | WhiteWASHED | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +113.2 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-02 | Bone Smokers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +117.7 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |

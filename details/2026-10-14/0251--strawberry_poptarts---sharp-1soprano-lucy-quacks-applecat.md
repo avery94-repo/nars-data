@@ -3,11 +3,11 @@ Team Name: strawberry poptarts
 Roster: -sharp, 1soprano, Lucy, quacks, applecat
 NARS Rank: 251 of 506
 
-Final Rating: 1376.8
+Final Rating: 1377.8
 Seeded Start: 1318.2
-H2H Adjustment: +58.6
+H2H Adjustment: +59.6
 
-Final Rating (1376.8) = Seeded Start (1318.2) + H2H Adjustment (+58.6)
+Final Rating (1377.8) = Seeded Start (1318.2) + H2H Adjustment (+59.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,30 +26,30 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-07 | Sassy Sunshines | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.95 | 1.19 | 1.00 | 1.13 | 0.00 | 0.00 | -32.5 | -sharp, 1soprano, Lucy, applecat, quacks |
 | 2026-09-02 | STFDYSAB | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.09 | 0.00 | 0.00 | -50.8 | -sharp, 1soprano, Lucy, applecat, quacks |
-| 2026-08-27 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.12 | 1.02 | +80.6 | -sharp, 1soprano, Lucy, applecat, quacks |
-| 2026-08-21 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -61.2 | -sharp, 1soprano, Lucy, applecat, quacks |
+| 2026-08-27 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.12 | 1.02 | +80.7 | -sharp, 1soprano, Lucy, applecat, quacks |
+| 2026-08-21 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -61.3 | -sharp, 1soprano, Lucy, applecat, quacks |
 | 2026-08-19 | ASYCS KITTENS | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.96 | 0.00 | 0.00 | -80.2 | -sharp, 1soprano, Lucy, applecat, quacks |
-| 2026-08-14 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -60.3 | -sharp, 1soprano, Lucy, applecat, quacks |
-| 2026-08-12 | VOID ALUNE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.17 | 0.90 | +102.6 | -sharp, 1soprano, Lucy, applecat, quacks |
-| 2026-08-07 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.10 | 0.86 | +72.0 | -sharp, 1soprano, Lucy, applecat, quacks |
+| 2026-08-14 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -60.4 | -sharp, 1soprano, Lucy, applecat, quacks |
+| 2026-08-12 | VOID ALUNE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.18 | 0.90 | +102.8 | -sharp, 1soprano, Lucy, applecat, quacks |
+| 2026-08-07 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.10 | 0.86 | +72.1 | -sharp, 1soprano, Lucy, applecat, quacks |
 | 2026-08-05 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.05 | 0.85 | +16.6 | -sharp, 1soprano, Lucy, applecat, quacks |
 | 2026-07-31 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.07 | 0.81 | +7.2 | -sharp, 1soprano, Lucy, applecat, quacks |
-| 2026-07-29 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -202.5 | -sharp, 1soprano, Lucy, applecat, quacks |
-| 2026-07-24 | TheMotherLovers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.76 | 0.10 | 0.76 | +295.0 | -sharp, 1soprano, Lucy, applecat, quacks |
+| 2026-07-29 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -202.7 | -sharp, 1soprano, Lucy, applecat, quacks |
+| 2026-07-24 | TheMotherLovers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.76 | 0.10 | 0.76 | +295.2 | -sharp, 1soprano, Lucy, applecat, quacks |
 | 2026-07-23 | Kinetic | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -0.8 | -sharp, 1soprano, Lucy, applecat, quacks |
 | 2026-07-17 | Yogaball Frags | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -352.4 | -sharp, 1soprano, Lucy, applecat, quacks |
 | 2026-07-15 | NADIYA | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.69 | 0.03 | 0.69 | +1.9 | -sharp, 1soprano, Lucy, applecat, quacks |
-| 2026-06-03 | We Just Pug | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +21.1 | Lucy, ST7, Tibbs-, applecat, quacks |
-| 2026-05-29 | Ninjas In Boxer | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.03 | 0.28 | +187.9 | Lucy, ST7, Tibbs-, applecat, quacks |
-| 2026-05-27 | monitor off | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +165.6 | Lucy, ST7, Tibbs-, applecat, quacks |
-| 2026-05-22 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.02 | 0.23 | +65.4 | Lucy, ST7, Tibbs-, applecat, quacks |
-| 2026-05-20 | offBalance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.03 | 0.22 | +43.2 | Lucy, ST7, Tibbs-, applecat, quacks |
-| 2026-05-13 | FLying PiGs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.01 | 0.17 | +263.8 | Lucy, ST7, Tibbs-, applecat, quacks |
-| 2026-05-08 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -59.4 | Jadey, Lucy, ST7, applecat, quacks |
-| 2026-05-06 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.00 | 1.00 | 0.12 | 0.00 | 0.00 | -171.9 | Lucy, ST7, Tibbs-, applecat, quacks |
-| 2026-05-01 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -57.0 | Lucy, ST7, Tibbs-, applecat, quacks |
-| 2026-04-29 | STFDYSAB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.00 | -231.0 | Lucy, Tibbs-, applecat, quacks, wiggless |
-| 2026-04-24 | GoonAssOldheads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.01 | 0.04 | +349.7 | Lucy, Tibbs-, applecat, quacks, wiggless |
-| 2026-04-22 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.00 | 1.00 | 0.03 | 0.00 | 0.00 | -253.9 | Lucy, Tibbs-, applecat, quacks, wiggless |
+| 2026-06-03 | We Just Pug | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +21.2 | Lucy, ST7, Tibbs-, applecat, quacks |
+| 2026-05-29 | Ninjas In Boxer | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.03 | 0.28 | +188.0 | Lucy, ST7, Tibbs-, applecat, quacks |
+| 2026-05-27 | monitor off | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +165.8 | Lucy, ST7, Tibbs-, applecat, quacks |
+| 2026-05-22 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +65.4 | Lucy, ST7, Tibbs-, applecat, quacks |
+| 2026-05-20 | offBalance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +43.1 | Lucy, ST7, Tibbs-, applecat, quacks |
+| 2026-05-13 | FLying PiGs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +264.0 | Lucy, ST7, Tibbs-, applecat, quacks |
+| 2026-05-08 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -59.8 | Jadey, Lucy, ST7, applecat, quacks |
+| 2026-05-06 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.13 | 0.00 | 0.00 | -171.9 | Lucy, ST7, Tibbs-, applecat, quacks |
+| 2026-05-01 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -57.0 | Lucy, ST7, Tibbs-, applecat, quacks |
+| 2026-04-29 | STFDYSAB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -231.2 | Lucy, Tibbs-, applecat, quacks, wiggless |
+| 2026-04-24 | GoonAssOldheads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.01 | 0.04 | +349.5 | Lucy, Tibbs-, applecat, quacks, wiggless |
+| 2026-04-22 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -252.8 | Lucy, Tibbs-, applecat, quacks, wiggless |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -3,15 +3,15 @@ Team Name: Evade Gaming
 Roster: UnbrokeNNN, RoBiN_, nyxx-, Jwil, Reckless666
 NARS Rank: 55 of 506
 
-Final Rating: 1864.0
-Seeded Start: 1141.3
-H2H Adjustment: +722.7 (capped at +-300, raw +722.8)
+Final Rating: 1864.3
+Seeded Start: 1141.2
+H2H Adjustment: +723.1
 
-Final Rating (1864.0) = Seeded Start (1141.3) + H2H Adjustment (+722.7)
+Final Rating (1864.3) = Seeded Start (1141.2) + H2H Adjustment (+723.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.029 x 1400 = 1141.3
+                = 1100 + 0.029 x 1400 = 1141.2
 
 seed_factor 0.029 = 0.25 x Tier Exposure (0.013) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.100)
 
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-12 | 69 | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -150.8 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
-| 2026-06-10 | Northern District | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.36 | +135.1 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
-| 2026-06-05 | 4fun | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.32 | +165.7 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
-| 2026-06-03 | Only Goys | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +182.4 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
-| 2026-05-29 | Calm Cocktails | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +195.0 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
-| 2026-05-27 | Snail Trail | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +195.4 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
+| 2026-06-12 | 69 | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -151.0 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
+| 2026-06-10 | Northern District | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.36 | +135.2 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
+| 2026-06-05 | 4fun | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.32 | +165.8 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
+| 2026-06-03 | Only Goys | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +182.5 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
+| 2026-05-29 | Calm Cocktails | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +195.1 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
+| 2026-05-27 | Snail Trail | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +195.5 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

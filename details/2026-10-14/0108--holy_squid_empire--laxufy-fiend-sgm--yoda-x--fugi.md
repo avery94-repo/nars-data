@@ -3,17 +3,17 @@ Team Name: Holy Squid Empire
 Roster: Laxufy, FIEND, SGM-, yodA-X-, FUGI
 NARS Rank: 108 of 506
 
-Final Rating: 1676.9
-Seeded Start: 1349.8
-H2H Adjustment: +327.1
+Final Rating: 1678.6
+Seeded Start: 1349.5
+H2H Adjustment: +329.1 (capped at +-300, raw +329.0)
 
-Final Rating (1676.9) = Seeded Start (1349.8) + H2H Adjustment (+327.1)
+Final Rating (1678.6) = Seeded Start (1349.5) + H2H Adjustment (+329.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.178 x 1400 = 1349.8
+                = 1100 + 0.178 x 1400 = 1349.5
 
-seed_factor 0.178 = 0.25 x Tier Exposure (0.178) + 0.50 x Quality Wins (0.072) + 0.25 x Opponent Network (0.392)
+seed_factor 0.178 = 0.25 x Tier Exposure (0.178) + 0.50 x Quality Wins (0.072) + 0.25 x Opponent Network (0.391)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,25 +24,25 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-08 | Pug Palace | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.42 | 1.00 | 1.42 | 0.00 | 0.00 | -228.0 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
+| 2026-10-08 | Pug Palace | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 0.00 | 0.00 | -228.1 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
 | 2026-09-13 | Slimy Boogermen | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.99 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -67.2 | CdrClemens, FUGI, Greatness-, SGM-, yodA-X- |
-| 2026-09-11 | Celestial Esports | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.98 | 1.55 | 1.00 | 1.52 | 0.45 | 1.52 | +15.6 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
+| 2026-09-11 | Celestial Esports | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.98 | 1.55 | 1.00 | 1.52 | 0.45 | 1.52 | +15.5 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
 | 2026-09-10 | Marsborne | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.97 | 1.55 | 1.00 | 1.51 | 0.00 | 0.00 | -0.7 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
 | 2026-08-28 | Brahmas | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.28 | 0.00 | 0.00 | -48.6 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
 | 2026-08-28 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.28 | 0.00 | 0.00 | -30.3 | FUGI, Greatness-, SGM-, breadstick, yodA-X- |
-| 2026-08-26 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.21 | 1.26 | +111.4 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
-| 2026-08-13 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.14 | 0.17 | 1.14 | +16.0 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
-| 2026-07-17 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.88 | 0.09 | 0.88 | +348.7 | CdrClemens, FIEND, FUGI, SGM-, breadstick |
-| 2026-06-10 | Omen Esports | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.49 | 1.00 | 0.53 | 0.00 | 0.00 | -330.5 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
-| 2026-06-04 | Brahmas | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.49 | 1.00 | 0.48 | 0.00 | 0.00 | -206.8 | FUGI, Laxufy, SGM-, mason, xaler |
-| 2026-05-21 | Omen Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.34 | 1.00 | 0.30 | 0.10 | 0.30 | +171.2 | FIEND, Laxufy, SGM-, mason, yodA-X- |
+| 2026-08-26 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.21 | 1.26 | +111.6 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
+| 2026-08-13 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.14 | 0.17 | 1.14 | +16.1 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
+| 2026-07-17 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.88 | 0.09 | 0.88 | +348.3 | CdrClemens, FIEND, FUGI, SGM-, breadstick |
+| 2026-06-10 | Omen Esports | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.54 | 0.00 | 0.00 | -330.8 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
+| 2026-06-04 | Brahmas | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.48 | 0.00 | 0.00 | -206.1 | FUGI, Laxufy, SGM-, mason, xaler |
+| 2026-05-21 | Omen Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.34 | 1.00 | 0.30 | 0.10 | 0.30 | +173.0 | FIEND, Laxufy, SGM-, mason, yodA-X- |
 | 2026-05-14 | firesale | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.34 | 1.00 | 0.24 | 0.03 | 0.24 | +8.7 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
-| 2026-05-12 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.34 | 1.00 | 0.22 | 0.04 | 0.22 | +116.7 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
-| 2026-05-07 | FlyQuest RED | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.34 | 1.00 | 0.18 | 0.08 | 0.18 | +344.8 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
-| 2026-05-05 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.34 | 1.00 | 0.16 | 0.01 | 0.16 | +203.7 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
-| 2026-04-30 | Phantom Sense | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.34 | 1.00 | 0.11 | 0.00 | 0.00 | -164.4 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
-| 2026-04-28 | dead team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.34 | 1.00 | 0.10 | 0.01 | 0.10 | +286.9 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
-| 2026-04-24 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.34 | 1.00 | 0.06 | 0.00 | 0.00 | -219.4 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
+| 2026-05-12 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.34 | 1.00 | 0.22 | 0.04 | 0.22 | +116.9 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
+| 2026-05-07 | FlyQuest RED | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.34 | 1.00 | 0.18 | 0.08 | 0.18 | +345.0 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
+| 2026-05-05 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.34 | 1.00 | 0.16 | 0.01 | 0.16 | +204.2 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
+| 2026-04-30 | Phantom Sense | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.34 | 1.00 | 0.11 | 0.00 | 0.00 | -165.2 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
+| 2026-04-28 | dead team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.34 | 1.00 | 0.09 | 0.01 | 0.09 | +287.2 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
+| 2026-04-24 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.34 | 1.00 | 0.06 | 0.00 | 0.00 | -219.5 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
 | 2026-04-23 | Olympus | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.34 | 1.00 | 0.05 | 0.00 | 0.00 | -0.9 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

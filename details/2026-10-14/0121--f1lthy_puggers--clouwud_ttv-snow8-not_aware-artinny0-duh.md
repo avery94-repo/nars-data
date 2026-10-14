@@ -3,15 +3,15 @@ Team Name: F1lthy Puggers
 Roster: clouwud_ttv, Snow8, not_aware, artinny0, duhman258
 NARS Rank: 121 of 506
 
-Final Rating: 1642.1
-Seeded Start: 1307.4
-H2H Adjustment: +334.7 (capped at +-300, raw +334.6)
+Final Rating: 1643.3
+Seeded Start: 1307.5
+H2H Adjustment: +335.8
 
-Final Rating (1642.1) = Seeded Start (1307.4) + H2H Adjustment (+334.7)
+Final Rating (1643.3) = Seeded Start (1307.5) + H2H Adjustment (+335.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.148 x 1400 = 1307.4
+                = 1100 + 0.148 x 1400 = 1307.5
 
 seed_factor 0.148 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.039) + 0.25 x Opponent Network (0.431)
 
@@ -25,22 +25,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | FUELED BY HATE | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.19 | 1.00 | 1.14 | 0.19 | 1.14 | +57.2 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-09-07 | US Navy Esports | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.95 | 1.19 | 1.00 | 1.13 | 0.11 | 1.13 | +150.1 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-08-27 | ASYCS KITTENS | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -58.8 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-09-07 | US Navy Esports | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.95 | 1.19 | 1.00 | 1.13 | 0.11 | 1.13 | +150.2 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-08-27 | ASYCS KITTENS | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -58.9 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
 | 2026-08-26 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -50.8 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-08-19 | Exnitas | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.96 | 0.12 | 0.96 | +78.2 | D1m1_bot, Snow8, artinny0, clouwud_ttv, duhman258 |
-| 2026-08-14 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.04 | 0.92 | +79.5 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-08-19 | Exnitas | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.96 | 0.12 | 0.96 | +78.3 | D1m1_bot, Snow8, artinny0, clouwud_ttv, duhman258 |
+| 2026-08-14 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.04 | 0.92 | +79.6 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
 | 2026-08-12 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.04 | 0.90 | +54.4 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-07-31 | Kinetic | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -35.1 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-07-29 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -38.0 | D1m1_bot, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-07-24 | Crimson Vortex | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.76 | 0.07 | 0.76 | +330.3 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-07-31 | Kinetic | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -35.0 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-07-29 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -37.8 | D1m1_bot, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-07-24 | Crimson Vortex | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.76 | 0.07 | 0.76 | +330.4 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
 | 2026-07-22 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -206.5 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-07-16 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.06 | 0.69 | +361.9 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-05-20 | Entertainment Cheese | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -139.8 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-05-13 | Old Meta | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -52.7 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-05-08 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -17.4 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-05-06 | absolute cinema | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -22.8 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-05-01 | juked | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -380.1 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-07-16 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.06 | 0.69 | +362.0 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-05-20 | Entertainment Cheese | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -140.0 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-05-13 | Old Meta | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -52.5 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-05-08 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -17.5 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-05-06 | absolute cinema | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -22.4 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-05-01 | juked | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -379.8 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
 | 2026-04-24 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +8.1 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
 | 2026-04-22 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.04 | 0.00 | 0.04 | +216.7 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
 

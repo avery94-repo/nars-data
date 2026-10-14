@@ -25,10 +25,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-06 | Bad Jawn | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -6.7 | LeMarc_, Scratchh, TTSWumbo, big_gamer556, m0m0n0ske |
-| 2026-09-02 | GOYPEEKING | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.00 | 0.00 | -222.2 | Hb_hoodze, LeMarc_, Maxeys, big_gamer556, m0m0n0ske |
+| 2026-09-02 | GOYPEEKING | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.00 | 0.00 | -222.3 | Hb_hoodze, LeMarc_, Maxeys, big_gamer556, m0m0n0ske |
 | 2026-06-10 | The Third Eye | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -143.2 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
-| 2026-06-03 | DILFS | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +180.9 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
-| 2026-05-31 | Without a floor | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.29 | +162.3 | Maxeys, TTSWumbo, big_gamer556, jeffK-, m0m0n0ske |
-| 2026-05-28 | 1001 Fragrance | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -117.3 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
+| 2026-06-03 | DILFS | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +181.1 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
+| 2026-05-31 | Without a floor | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.29 | +162.4 | Maxeys, TTSWumbo, big_gamer556, jeffK-, m0m0n0ske |
+| 2026-05-28 | 1001 Fragrance | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -117.4 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

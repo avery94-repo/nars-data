@@ -11,6 +11,72 @@
   "source": "hltv"
  },
  {
+  "match_id": "1-09cd4397-9609-451a-866a-ce24399e4e27",
+  "date": "2026-10-13",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "brb grinding minecraft",
+  "team_b": "EZ2025",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-2531e905-d436-4fc5-adbe-fe3f772eb7c1",
+  "date": "2026-10-13",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "firesale",
+  "team_b": "Hairy Scary Bandits",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-2a2d2acd-5dbe-4ae9-8057-029686fc278a",
+  "date": "2026-10-13",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Wanted Goons",
+  "team_b": "North Forge",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-6b34dd97-7572-4b1f-8320-8ecc27e454f2",
+  "date": "2026-10-13",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Diggers",
+  "team_b": "Brahmas",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-a88900dd-18b6-4f38-a795-a2b41e4301fd",
+  "date": "2026-10-13",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "flat earth",
+  "team_b": "NXG Esports",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-fcc7969b-1a10-45e2-a5f9-de2dacba6838",
+  "date": "2026-10-13",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Hairy Scary Bandits",
+  "team_b": "NineFlyeSports",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "hltv:2399132",
   "date": "2026-10-13",
   "competition": "Stake Pulse Beat III",
@@ -40110,7 +40176,7 @@
   "date": "2026-06-07",
   "competition": "VRS-tracked 2026-06",
   "team_a": "Chicken Coop",
-  "team_b": "North Forge",
+  "team_b": "THIRD PRIME",
   "winner": "a",
   "score": "",
   "tier": "A",
