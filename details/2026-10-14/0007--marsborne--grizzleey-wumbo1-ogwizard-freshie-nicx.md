@@ -19,45 +19,6 @@ seed_factor 0.972 = 0.25 x Tier Exposure (0.972) + 0.50 x Quality Wins (0.958) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Growth
-Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
-
-| Horizon | Seed factor | Seeded start | Change |
-| :- | -: | -: | -: |
-| Now | 0.972 | 2460.7 | - |
-| +30 days | 0.977 | 2467.2 | +6.5 |
-| +60 days | 0.972 | 2460.5 | -0.3 |
-| +90 days | 0.969 | 2456.5 | -4.3 |
-
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.958 vs 0.968 average, gap -0.010). Matching that average is worth about 7.0 seed points.
-
-- Tier Exposure drivers: CROSSFIRE Season 6 (2026-10-08) 1.60; FRAG University 2026 (2026-10-10) 1.60; NSTLGA League S2 | Stage 3 Playoffs (2026-09-11) 1.57
-- Quality Wins drivers: beat Without a Roof at FRAG University 2026 (2026-10-10) 1.92; beat DETONATE at VRS-tracked 2026-09 (2026-09-26) 1.60; beat FarmVille at VRS-tracked 2026-09 (2026-09-27) 1.60
-- Opponent Network drivers: beat FlyQuest RED at VRS-tracked 2026-09 (2026-09-22) 1.60; beat Sharp at VRS-tracked 2026-09 (2026-09-25) 1.60; beat DETONATE at VRS-tracked 2026-09 (2026-09-26) 1.60
-
-Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
-
-| Opponent | Rank | Rating | Gap | Projected gain |
-| :- | -: | -: | -: | -: |
-| SportsBetExpert | 6 | 2671.9 | +58.7 | +68.2 |
-| Voca | 5 | 2796.6 | +183.4 | +84.6 |
-| NRG | 4 | 2835.8 | +222.6 | +94.7 |
-| Wildcard | 3 | 2911.9 | +298.7 | +101.9 |
-| M80 | 2 | 3081.4 | +468.2 | +119.8 |
-
-Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
-
-| Opponent | Rank | Gap | Win gain | Expected value |
-| :- | -: | -: | -: | -: |
-| Wildcard | 3 | +298.7 | +101.9 | +7.3 |
-| NRG | 4 | +222.6 | +94.7 | +2.5 |
-| SportsBetExpert | 6 | +58.7 | +68.2 | -0.0 |
-| Voca | 5 | +183.4 | +84.6 | -1.0 |
-
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +119.4 points at current ratings.
-
-Low value wins at current ratings (projected gain under 2.0 points): Shadow Wizard Money Gang (+0.0), Alternate Earth (+0.0), Lynnsanity (+0.0), No Leaders Please (+0.0), UncsStillGotIt (+0.0).
-
 #### Matches (83 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

@@ -19,45 +19,6 @@ seed_factor 0.954 = 0.25 x Tier Exposure (1.000) + 0.50 x Quality Wins (0.909) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Growth
-Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
-
-| Horizon | Seed factor | Seeded start | Change |
-| :- | -: | -: | -: |
-| Now | 0.954 | 2436.0 | - |
-| +30 days | 0.925 | 2395.4 | -40.6 |
-| +60 days | 0.912 | 2376.5 | -59.5 |
-| +90 days | 0.897 | 2355.2 | -80.8 |
-
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.909 vs 0.965 average, gap -0.056). Matching that average is worth about 39.2 seed points.
-
-- Tier Exposure drivers: CROSSFIRE Season 6 (2026-10-07) 1.60; NSTLGA League S2 | Stage 3 Playoffs (2026-09-12) 1.58; S58 NA Advanced Central - Playoffs (2026-09-19) 1.55
-- Quality Wins drivers: beat DETONATE at VRS-tracked 2026-09 (2026-09-14) 1.59; beat FarmVille at NSTLGA League S2 | Stage 3 Playoffs (2026-09-12) 1.57; beat FarmVille at VRS-tracked 2026-09 (2026-09-11) 1.56
-- Opponent Network drivers: beat unreal nightmare at VRS-tracked 2026-09 (2026-09-22) 1.60; beat FarmVille at NSTLGA League S2 | Stage 3 Playoffs (2026-09-12) 1.57; beat LAG Gaming at CROSSFIRE Season 6 - Playoffs (2026-09-15) 1.55
-
-Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
-
-| Opponent | Rank | Rating | Gap | Projected gain |
-| :- | -: | -: | -: | -: |
-| Without a Roof | 9 | 2506.5 | +134.2 | +106.3 |
-| LAG Gaming | 8 | 2507.8 | +135.5 | +126.6 |
-| Marsborne | 7 | 2613.2 | +240.9 | +148.3 |
-| SportsBetExpert | 6 | 2671.9 | +299.6 | +172.4 |
-| Voca | 5 | 2796.6 | +424.3 | +189.8 |
-
-Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
-
-| Opponent | Rank | Gap | Win gain | Expected value |
-| :- | -: | -: | -: | -: |
-| SportsBetExpert | 6 | +299.6 | +172.4 | +11.9 |
-| Marsborne | 7 | +240.9 | +148.3 | +6.6 |
-| Without a Roof | 9 | +134.2 | +106.3 | -0.1 |
-| LAG Gaming | 8 | +135.5 | +126.6 | -0.2 |
-
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +224.6 points at current ratings.
-
-Low value wins at current ratings (projected gain under 2.0 points): NetanYAHOO (+0.0), PogSquad (+0.0), Brobies (+0.0), MONARCH (+0.0), MadaNASCAR (+0.0).
-
 #### Matches (81 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

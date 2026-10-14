@@ -19,26 +19,6 @@ seed_factor 0.795 = 0.25 x Tier Exposure (0.615) + 0.50 x Quality Wins (1.000) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Growth
-Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
-
-| Horizon | Seed factor | Seeded start | Change |
-| :- | -: | -: | -: |
-| Now | 0.795 | 2213.1 | - |
-| +30 days | 0.792 | 2208.7 | -4.4 |
-| +60 days | 0.794 | 2212.1 | -1.0 |
-| +90 days | 0.807 | 2229.9 | +16.8 |
-
-- Tier Exposure drivers: Stake Pulse Beat III (2026-10-13) 1.60; VRS-tracked 2026-09 (2026-09-18) 1.60; VRS-tracked 2026-09 (2026-09-18) 1.60
-- Quality Wins drivers: beat BBL at Stake Pulse Beat III (2026-10-13) 2.64; beat JiJieHao at Stake Pulse Beat III (2026-10-13) 2.64; beat 3DMAX at VRS-tracked 2026-09 (2026-09-18) 2.40
-- Opponent Network drivers: beat Chicken Coop at VRS-tracked 2026-09 (2026-09-25) 1.60; beat Wildcard at VRS-tracked 2026-09 (2026-09-27) 1.60; beat NRG at VRS-tracked 2026-09 (2026-09-12) 1.57
-
-Low value wins at current ratings (projected gain under 2.0 points): Automatic HQ (+0.0), babaG (+0.0), Hairy Scary Bandits (+0.0), Chicken Coop (+0.0), Slimy Boogermen (+0.0).
-
-Seed inputs expiring within 90 days:
-- VRS-tracked 2026-05 vs M80 (2026-05-12): expires in 24 days [Opponent Network 0.26]
-- VRS-tracked 2026-06 vs BIG (2026-06-02): expires in 45 days [Opponent Network 0.48]
-
 #### Matches (38 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

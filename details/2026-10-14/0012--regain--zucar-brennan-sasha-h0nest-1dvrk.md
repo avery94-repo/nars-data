@@ -19,45 +19,6 @@ seed_factor 0.819 = 0.25 x Tier Exposure (0.786) + 0.50 x Quality Wins (0.759) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Growth
-Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
-
-| Horizon | Seed factor | Seeded start | Change |
-| :- | -: | -: | -: |
-| Now | 0.819 | 2246.9 | - |
-| +30 days | 0.805 | 2227.1 | -19.8 |
-| +60 days | 0.785 | 2199.1 | -47.8 |
-| +90 days | 0.768 | 2175.8 | -71.2 |
-
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.786 vs 0.959 average, gap -0.173). Matching that average is worth about 60.6 seed points.
-
-- Tier Exposure drivers: NSTLGA League S2 | Stage 3 Playoffs (2026-09-11) 1.57; CROSSFIRE Season 6 - Playoffs (2026-09-17) 1.55; ESL Challenger League Season 52 North America Cup 3 (2026-10-08) 1.55
-- Quality Wins drivers: beat FarmVille at VRS-tracked 2026-09 (2026-09-23) 1.60; beat Without a Roof at CROSSFIRE Season 6 - Playoffs (2026-09-20) 1.55; beat DETONATE at VRS-tracked 2026-09 (2026-09-06) 1.51
-- Opponent Network drivers: beat babaG at CROSSFIRE Season 6 - Playoffs (2026-09-17) 1.55; beat Without a Roof at CROSSFIRE Season 6 - Playoffs (2026-09-20) 1.55; beat Addice at CROSSFIRE Season 6 - Playoffs (2026-09-15) 1.55
-
-Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
-
-| Opponent | Rank | Rating | Gap | Projected gain |
-| :- | -: | -: | -: | -: |
-| Desi Boyz | 11 | 2332.8 | +76.4 | +36.1 |
-| Overtake Sector | 10 | 2372.3 | +115.9 | +39.2 |
-| Without a Roof | 9 | 2506.5 | +250.1 | +43.6 |
-| LAG Gaming | 8 | 2507.8 | +251.4 | +55.4 |
-| Marsborne | 7 | 2613.2 | +356.8 | +58.8 |
-
-Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
-
-| Opponent | Rank | Gap | Win gain | Expected value |
-| :- | -: | -: | -: | -: |
-| LAG Gaming | 8 | +251.4 | +55.4 | +2.8 |
-| Without a Roof | 9 | +250.1 | +43.6 | +2.6 |
-| Overtake Sector | 10 | +115.9 | +39.2 | -0.1 |
-| Desi Boyz | 11 | +76.4 | +36.1 | -0.5 |
-
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +71.4 points at current ratings.
-
-Low value wins at current ratings (projected gain under 2.0 points): NetanYAHOO (+0.0), PogSquad (+0.0), Brobies (+0.0), MONARCH (+0.0), MadaNASCAR (+0.0).
-
 #### Matches (53 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

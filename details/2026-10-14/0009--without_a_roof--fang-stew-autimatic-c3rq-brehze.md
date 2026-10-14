@@ -19,46 +19,6 @@ seed_factor 0.970 = 0.25 x Tier Exposure (1.000) + 0.50 x Quality Wins (0.939) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Growth
-Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
-
-| Horizon | Seed factor | Seeded start | Change |
-| :- | -: | -: | -: |
-| Now | 0.970 | 2457.3 | - |
-| +30 days | 0.981 | 2473.5 | +16.2 |
-| +60 days | 0.983 | 2476.4 | +19.1 |
-| +90 days | 0.992 | 2489.2 | +31.9 |
-
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.939 vs 0.945 average, gap -0.006). Matching that average is worth about 4.2 seed points.
-
-- Tier Exposure drivers: CROSSFIRE Season 6 (2026-10-07) 1.60; FRAG University 2026 (2026-10-11) 1.60; NSTLGA League S2 | Stage 3 Playoffs (2026-09-14) 1.59
-- Quality Wins drivers: beat Overtake Sector at CROSSFIRE Season 6 (2026-10-07) 1.60; beat LAG Gaming at NSTLGA League S2 | Stage 3 Playoffs (2026-09-13) 1.56; beat Marsborne at VRS-tracked 2026-09 (2026-09-26) 1.55
-- Opponent Network drivers: beat Overtake Sector at CROSSFIRE Season 6 (2026-10-07) 1.60; beat last dance at FRAG University 2026 (2026-10-10) 1.60; beat Marsborne at NSTLGA League S2 | Stage 3 Playoffs (2026-09-10) 1.56
-
-Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
-
-| Opponent | Rank | Rating | Gap | Projected gain |
-| :- | -: | -: | -: | -: |
-| LAG Gaming | 8 | 2507.8 | +1.3 | +125.7 |
-| Marsborne | 7 | 2613.2 | +106.7 | +160.0 |
-| SportsBetExpert | 6 | 2671.9 | +165.4 | +190.1 |
-| Voca | 5 | 2796.6 | +290.1 | +233.3 |
-| NRG | 4 | 2835.8 | +329.3 | +260.4 |
-
-Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
-
-| Opponent | Rank | Gap | Win gain | Expected value |
-| :- | -: | -: | -: | -: |
-| NRG | 4 | +329.3 | +260.4 | +19.0 |
-| Voca | 5 | +290.1 | +233.3 | +14.0 |
-| LAG Gaming | 8 | +1.3 | +125.7 | -0.0 |
-| SportsBetExpert | 6 | +165.4 | +190.1 | -0.1 |
-| Marsborne | 7 | +106.7 | +160.0 | -0.1 |
-
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +327.1 points at current ratings.
-
-Low value wins at current ratings (projected gain under 2.0 points): Adria eSports (+0.0), Entertainment Cheese (+0.0), Midwest Farmers (+0.0), 55TH ST (+0.0), SwagMonkeyHats (+0.0).
-
 #### Matches (60 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

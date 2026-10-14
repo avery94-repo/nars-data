@@ -19,49 +19,6 @@ seed_factor 0.068 = 0.25 x Tier Exposure (0.066) + 0.50 x Quality Wins (0.014) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Growth
-Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
-
-| Horizon | Seed factor | Seeded start | Change |
-| :- | -: | -: | -: |
-| Now | 0.068 | 1194.9 | - |
-| +30 days | 0.069 | 1196.3 | +1.4 |
-| +60 days | 0.068 | 1195.0 | +0.1 |
-| +90 days | 0.067 | 1193.4 | -1.5 |
-
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.014 vs 0.006 average, gap +0.008). Matching that average is worth about 0.0 seed points.
-
-- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88
-- Quality Wins drivers: beat Grandpa Berets at S59 NA Intermediate A - Regular Season (2026-10-09) 0.08; beat Remnant at S58 NA Intermediate B - Regular Season (2026-08-28) 0.07; beat EZ2025 at S58 NA Intermediate B - Regular Season (2026-08-19) 0.07
-- Opponent Network drivers: beat Grandpa Berets at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat Remnant at S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; beat EZ2025 at S58 NA Intermediate B - Regular Season (2026-08-19) 0.82
-
-Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
-
-| Opponent | Rank | Rating | Gap | Projected gain |
-| :- | -: | -: | -: | -: |
-| Cadillac F1 eSports Team | 457 | 863.0 | +2.2 | +98.5 |
-| onliners | 456 | 870.1 | +9.3 | +95.6 |
-| girl kissers | 455 | 883.6 | +22.8 | +98.1 |
-| Cause and Effect Gaming | 454 | 884.6 | +23.8 | +98.3 |
-| insane players | 453 | 889.5 | +28.7 | +99.2 |
-
-Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
-
-| Opponent | Rank | Gap | Win gain | Expected value |
-| :- | -: | -: | -: | -: |
-| MONARCH | 337 | +340.0 | +191.9 | +17.5 |
-| Boop Boop Gang | 340 | +334.8 | +172.2 | +17.4 |
-| MadaNASCAR | 341 | +334.4 | +189.3 | +17.4 |
-| Florida Man | 345 | +325.4 | +200.5 | +16.8 |
-| Samantha 4 | 351 | +317.2 | +171.7 | +16.6 |
-| RunTheDamnBall | 352 | +306.3 | +180.8 | +15.8 |
-| DeathMark E-Sports | 353 | +305.7 | +186.6 | +15.7 |
-| Comeback Bandits | 355 | +299.8 | +175.6 | +15.3 |
-| 99 Thieves | 354 | +301.5 | +175.0 | +15.2 |
-| RH Help Desk | 358 | +297.8 | +189.8 | +15.0 |
-
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +311.5 points at current ratings.
-
 #### Matches (13 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

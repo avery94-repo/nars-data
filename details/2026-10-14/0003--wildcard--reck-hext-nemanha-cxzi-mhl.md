@@ -19,49 +19,6 @@ seed_factor 0.715 = 0.25 x Tier Exposure (0.614) + 0.50 x Quality Wins (1.000) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Growth
-Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
-
-| Horizon | Seed factor | Seeded start | Change |
-| :- | -: | -: | -: |
-| Now | 0.715 | 2100.4 | - |
-| +30 days | 0.722 | 2111.1 | +10.7 |
-| +60 days | 0.731 | 2123.4 | +23.0 |
-| +90 days | 0.751 | 2150.9 | +50.5 |
-
-Weakest lever vs the 2 teams ranked above: Opponent Network (0.244 vs 0.360 average, gap -0.116). Matching that average is worth about 40.6 seed points.
-
-- Tier Exposure drivers: FRAG University 2026 (2026-10-11) 1.60; VRS-tracked 2026-09 (2026-09-25) 1.60; VRS-tracked 2026-09 (2026-09-25) 1.60
-- Quality Wins drivers: beat DENDELE at FRAG University 2026 (2026-10-11) 2.88; beat DENDELE at VRS-tracked 2026-09 (2026-09-26) 2.40; beat NEMESIS at VRS-tracked 2026-09 (2026-09-11) 2.34
-- Opponent Network drivers: beat NRG at VRS-tracked 2026-09 (2026-09-26) 1.60; beat last dance at FRAG University 2026 (2026-10-10) 1.60; beat FarmVille at VRS-tracked 2026-04 (2026-04-29) 0.12
-
-Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
-
-| Opponent | Rank | Rating | Gap | Projected gain |
-| :- | -: | -: | -: | -: |
-| M80 | 2 | 3081.4 | +169.5 | +65.5 |
-| Liquid | 1 | 3103.4 | +191.5 | +66.9 |
-
-Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
-
-| Opponent | Rank | Gap | Win gain | Expected value |
-| :- | -: | -: | -: | -: |
-| Liquid | 1 | +191.5 | +66.9 | -0.0 |
-| M80 | 2 | +169.5 | +65.5 | -0.2 |
-
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +66.9 points at current ratings.
-
-Low value wins at current ratings (projected gain under 2.0 points): Phantom Sense (+0.0), Omen Esports (+0.0), F5 Esports (+0.0), academy 4 gifted children (+0.0), DUMBO (+0.0).
-
-Seed inputs expiring within 90 days:
-- VRS-tracked 2026-04 vs Chicken Coop (2026-04-25): expires in 7 days [Opponent Network 0.08]
-- VRS-tracked 2026-04 vs unreal nightmare (2026-04-25): expires in 7 days [Opponent Network 0.08]
-- VRS-tracked 2026-04 vs Voca (2026-04-25): expires in 7 days [Opponent Network 0.08]
-- VRS-tracked 2026-04 vs Wanted Goons (2026-04-26): expires in 8 days [Opponent Network 0.09]
-- VRS-tracked 2026-04 vs Aether (2026-04-27): expires in 9 days [Opponent Network 0.10]
-- VRS-tracked 2026-04 vs FarmVille (2026-04-29): expires in 11 days [Opponent Network 0.12]
-- VRS-tracked 2026-05 vs FOKUS (2026-05-24): expires in 36 days [Quality Wins 0.58]
-
 #### Matches (39 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

@@ -19,47 +19,6 @@ seed_factor 0.761 = 0.25 x Tier Exposure (0.610) + 0.50 x Quality Wins (0.842) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Growth
-Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
-
-| Horizon | Seed factor | Seeded start | Change |
-| :- | -: | -: | -: |
-| Now | 0.761 | 2166.0 | - |
-| +30 days | 0.745 | 2143.3 | -22.6 |
-| +60 days | 0.714 | 2100.2 | -65.7 |
-| +90 days | 0.662 | 2026.8 | -139.1 |
-
-Weakest lever vs the 3 teams ranked above: Quality Wins (0.842 vs 1.000 average, gap -0.158). Matching that average is worth about 110.6 seed points.
-
-- Tier Exposure drivers: FRAG University 2026 (2026-10-11) 1.60; VRS-tracked 2026-09 (2026-09-17) 1.60; VRS-tracked 2026-09 (2026-09-18) 1.60
-- Quality Wins drivers: beat MOUZ at VRS-tracked 2026-09 (2026-09-17) 2.40; beat ACEND at VRS-tracked 2026-08 (2026-08-08) 1.79; beat SportsBetExpert at FRAG University 2026 (2026-10-11) 1.73
-- Opponent Network drivers: beat Wildcard at VRS-tracked 2026-09 (2026-09-25) 1.60; beat unreal nightmare at FRAG University 2026 (2026-10-10) 1.60; beat Liquid at VRS-tracked 2026-09 (2026-09-11) 1.56
-
-Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
-
-| Opponent | Rank | Rating | Gap | Projected gain |
-| :- | -: | -: | -: | -: |
-| Wildcard | 3 | 2911.9 | +76.1 | +36.9 |
-| M80 | 2 | 3081.4 | +245.6 | +49.8 |
-| Liquid | 1 | 3103.4 | +267.6 | +50.4 |
-
-Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
-
-| Opponent | Rank | Gap | Win gain | Expected value |
-| :- | -: | -: | -: | -: |
-| Liquid | 1 | +267.6 | +50.4 | +3.1 |
-| M80 | 2 | +245.6 | +49.8 | +2.2 |
-| Wildcard | 3 | +76.1 | +36.9 | -0.0 |
-
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +50.4 points at current ratings.
-
-Low value wins at current ratings (projected gain under 2.0 points): DUMBO (+0.0), GeneticDiff (+0.0), fih hou (+0.0), mas paspas (+0.0), Club 333 (+0.0).
-
-Seed inputs expiring within 90 days:
-- VRS-tracked 2026-04 vs LAG Gaming (2026-04-25): expires in 7 days [Opponent Network 0.08]
-- VRS-tracked 2026-07 vs NuTorious (2026-07-12): expires in 85 days [Opponent Network 0.91]
-- VRS-tracked 2026-07 vs SportsBetExpert (2026-07-12): expires in 85 days [Opponent Network 0.91]
-
 #### Matches (37 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

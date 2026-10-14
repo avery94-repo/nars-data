@@ -19,44 +19,6 @@ seed_factor 0.972 = 0.25 x Tier Exposure (0.902) + 0.50 x Quality Wins (1.000) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Growth
-Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
-
-| Horizon | Seed factor | Seeded start | Change |
-| :- | -: | -: | -: |
-| Now | 0.972 | 2460.1 | - |
-| +30 days | 0.974 | 2463.9 | +3.8 |
-| +60 days | 0.974 | 2463.8 | +3.7 |
-| +90 days | 0.975 | 2465.6 | +5.5 |
-
-Weakest lever vs the 5 teams ranked above: Quality Wins (1.000 vs 0.968 average, gap +0.032). Matching that average is worth about 0.0 seed points.
-
-- Tier Exposure drivers: FRAG University 2026 (2026-10-10) 1.60; NSTLGA League S2 | Stage 3 Playoffs (2026-09-14) 1.59; S58 NA Advanced Central - Playoffs (2026-09-18) 1.55
-- Quality Wins drivers: beat HAVU at VRS-tracked 2026-10 (2026-10-02) 1.87; beat Marsborne at FRAG University 2026 (2026-10-10) 1.86; beat Without a Roof at NSTLGA League S2 | Stage 3 Playoffs (2026-09-14) 1.59
-- Opponent Network drivers: beat holy cannoli at FRAG University 2026 (2026-10-10) 1.60; beat Without a Roof at NSTLGA League S2 | Stage 3 Playoffs (2026-09-14) 1.59; beat FarmVille at NSTLGA League S2 | Stage 3 Playoffs (2026-09-11) 1.56
-
-Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
-
-| Opponent | Rank | Rating | Gap | Projected gain |
-| :- | -: | -: | -: | -: |
-| Voca | 5 | 2796.6 | +124.7 | +40.1 |
-| NRG | 4 | 2835.8 | +163.9 | +45.2 |
-| Wildcard | 3 | 2911.9 | +240.0 | +49.1 |
-| M80 | 2 | 3081.4 | +409.5 | +58.5 |
-| Liquid | 1 | 3103.4 | +431.5 | +58.3 |
-
-Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
-
-| Opponent | Rank | Gap | Win gain | Expected value |
-| :- | -: | -: | -: | -: |
-| Wildcard | 3 | +240.0 | +49.1 | +2.1 |
-| NRG | 4 | +163.9 | +45.2 | -0.0 |
-| Voca | 5 | +124.7 | +40.1 | -0.4 |
-
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +58.3 points at current ratings.
-
-Low value wins at current ratings (projected gain under 2.0 points): Read You Like a Kindle (+0.0), ODIN (+0.0), Torii (+0.0), Trap Castle (+0.0), 5Frag Gaming (+0.0).
-
 #### Matches (67 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

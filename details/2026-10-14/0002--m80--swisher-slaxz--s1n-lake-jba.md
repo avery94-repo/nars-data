@@ -19,47 +19,6 @@ seed_factor 0.693 = 0.25 x Tier Exposure (0.616) + 0.50 x Quality Wins (1.000) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Growth
-Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
-
-| Horizon | Seed factor | Seeded start | Change |
-| :- | -: | -: | -: |
-| Now | 0.693 | 2070.1 | - |
-| +30 days | 0.676 | 2046.5 | -23.6 |
-| +60 days | 0.670 | 2037.8 | -32.3 |
-| +90 days | 0.674 | 2044.0 | -26.1 |
-
-Weakest lever vs the 1 teams ranked above: Opponent Network (0.155 vs 0.565 average, gap -0.410). Matching that average is worth about 143.5 seed points.
-
-- Tier Exposure drivers: ESL Pro League Season 24 (2026-10-06) 1.60; VRS-tracked 2026-09 (2026-09-17) 1.60; VRS-tracked 2026-09 (2026-09-17) 1.60
-- Quality Wins drivers: beat Legacy at ESL Pro League Season 24 (2026-10-06) 3.12; beat TYLOO at ESL Pro League Season 24 (2026-10-05) 3.12; beat GAMERLEGION at VRS-tracked 2026-09 (2026-09-17) 2.40
-- Opponent Network drivers: beat LAG Gaming at VRS-tracked 2026-07 (2026-07-10) 0.89; beat NRG at VRS-tracked 2026-06 (2026-06-04) 0.50; beat Voca at VRS-tracked 2026-05 (2026-05-28) 0.43
-
-Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
-
-| Opponent | Rank | Rating | Gap | Projected gain |
-| :- | -: | -: | -: | -: |
-| Liquid | 1 | 3103.4 | +22.0 | +43.7 |
-
-Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
-
-| Opponent | Rank | Gap | Win gain | Expected value |
-| :- | -: | -: | -: | -: |
-| Liquid | 1 | +22.0 | +43.7 | -0.0 |
-
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +43.7 points at current ratings.
-
-Low value wins at current ratings (projected gain under 2.0 points): Automatic HQ (+0.0), babaG (+0.0), Hairy Scary Bandits (+0.0), Chicken Coop (+0.0), Slimy Boogermen (+0.0).
-
-Seed inputs expiring within 90 days:
-- VRS-tracked 2026-04 vs Iowa Stormboar (2026-04-25): expires in 7 days [Opponent Network 0.08]
-- VRS-tracked 2026-05 vs Incognito (2026-05-02): expires in 14 days [Opponent Network 0.15]
-- VRS-tracked 2026-05 vs Wildcard (2026-05-03): expires in 15 days [Opponent Network 0.16]
-- VRS-tracked 2026-05 vs Zomblers (2026-05-03): expires in 15 days [Opponent Network 0.16]
-- VRS-tracked 2026-05 vs Voca (2026-05-28): expires in 40 days [Opponent Network 0.43]
-- VRS-tracked 2026-06 vs NRG (2026-06-04): expires in 47 days [Opponent Network 0.50]
-- VRS-tracked 2026-07 vs LAG Gaming (2026-07-10): expires in 83 days [Opponent Network 0.89]
-
 #### Matches (50 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

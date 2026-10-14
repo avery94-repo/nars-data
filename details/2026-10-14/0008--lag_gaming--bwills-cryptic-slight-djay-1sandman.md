@@ -19,49 +19,6 @@ seed_factor 0.958 = 0.25 x Tier Exposure (0.979) + 0.50 x Quality Wins (0.926) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
-#### Growth
-Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
-
-| Horizon | Seed factor | Seeded start | Change |
-| :- | -: | -: | -: |
-| Now | 0.958 | 2440.5 | - |
-| +30 days | 0.941 | 2417.3 | -23.2 |
-| +60 days | 0.934 | 2408.3 | -32.2 |
-| +90 days | 0.932 | 2404.6 | -35.9 |
-
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.926 vs 0.960 average, gap -0.034). Matching that average is worth about 23.8 seed points.
-
-- Tier Exposure drivers: NSTLGA League S2 | Stage 3 Playoffs (2026-09-13) 1.59; S58 NA Advanced Central - Playoffs (2026-09-18) 1.55; CROSSFIRE Season 6 - Playoffs (2026-10-05) 1.55
-- Quality Wins drivers: beat DETONATE at VRS-tracked 2026-09 (2026-09-23) 1.60; beat Overtake Sector at VRS-tracked 2026-09 (2026-09-25) 1.60; beat Overtake Sector at NSTLGA League S2 | Stage 3 Playoffs (2026-09-12) 1.58
-- Opponent Network drivers: beat Zomblers at VRS-tracked 2026-09 (2026-09-22) 1.60; beat babaG at VRS-tracked 2026-09 (2026-09-25) 1.60; beat Olympus at S58 NA Advanced Central - Playoffs (2026-09-19) 1.55
-
-Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
-
-| Opponent | Rank | Rating | Gap | Projected gain |
-| :- | -: | -: | -: | -: |
-| Marsborne | 7 | 2613.2 | +105.4 | +45.5 |
-| SportsBetExpert | 6 | 2671.9 | +164.1 | +53.9 |
-| Voca | 5 | 2796.6 | +288.8 | +61.3 |
-| NRG | 4 | 2835.8 | +328.0 | +67.3 |
-| Wildcard | 3 | 2911.9 | +404.1 | +69.4 |
-
-Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
-
-| Opponent | Rank | Gap | Win gain | Expected value |
-| :- | -: | -: | -: | -: |
-| NRG | 4 | +328.0 | +67.3 | +4.9 |
-| Voca | 5 | +288.8 | +61.3 | +3.7 |
-| SportsBetExpert | 6 | +164.1 | +53.9 | -0.0 |
-| Marsborne | 7 | +105.4 | +45.5 | -0.0 |
-
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +75.5 points at current ratings.
-
-Low value wins at current ratings (projected gain under 2.0 points): AscendentEsport (+0.0), Veniversum (+0.0), FlockMunchers (+0.0), Defaulting (+0.0), VARTOVIK (+0.0).
-
-Seed inputs expiring within 90 days:
-- S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
-- S57 NA Advanced Central - Playoffs (2026-06-13): expires in 56 days [Tier Exposure 0.56]
-
 #### Matches (82 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

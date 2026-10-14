@@ -1,7 +1,7 @@
 {
  "schema_version": 2,
  "snapshot": "2026-10-14T19:21:31.934633+00:00",
- "exported_at": "2026-10-14T19:22:13Z",
+ "exported_at": "2026-10-14T21:46:37Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
  "matches_qualifying": 5697,
@@ -16,9 +16,13 @@
  "teams_ranked": 506,
  "teams_provisional": 414,
  "bridge_offset": 1541.0,
- "growth_block": 1,
- "growth_upside_block": 2,
- "event_guide_events": 72,
+ "growth_data": {
+  "file": "growth.json",
+  "note": "standalone growth / room-for-improvement data for the planned stats-site tool; not embedded in ratings.json and not rendered on team pages",
+  "teams": 506,
+  "upside_opponents_version": 2,
+  "event_guide_events": 72
+ },
  "sources": {
   "faceit_league": {
    "note": "ESEA league via nightly ingest pipeline"
