@@ -19,13 +19,41 @@ seed_factor 0.075 = 0.25 x Tier Exposure (0.099) + 0.50 x Quality Wins (0.007) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.075 | 1205.5 | - |
+| +30 days | 0.073 | 1202.0 | -3.5 |
+| +60 days | 0.071 | 1199.2 | -6.3 |
+| +90 days | 0.067 | 1194.1 | -11.4 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.189 vs 0.262 average, gap -0.073). Matching that average is worth about 25.6 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Open9-10 East - Playoffs C (2026-09-10) 0.99; SoFlo Slam 2 (2026-08-01) 0.84
+- Quality Wins drivers: beat Better at WOT at S58 NA Open9-10 East - Playoffs C (2026-09-08) 0.05; beat Furio Reloaded at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.03; beat REVERSE at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.03
+- Opponent Network drivers: beat Better at WOT at S58 NA Open9-10 East - Playoffs C (2026-09-08) 0.98; beat Furio Reloaded at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; beat REVERSE at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.95
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +371.9 |
+| SportsBetExpert | 6 | 2672.3 | +371.7 |
+| regain | 12 | 2256.1 | +366.8 |
+| LAG Gaming | 8 | 2507.3 | +366.6 |
+| Zomblers | 22 | 2114.7 | +365.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
+
 #### Matches (6 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | Cortex Jellies | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -138.0 | Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
-| 2026-09-10 | 55TH ST | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.00 | 0.00 | -56.9 | Gimmickz, MiLi-, NePathya, ShadowCoreTV, dykaz |
+| 2026-09-10 | 55TH ST | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.00 | 0.00 | -57.0 | Gimmickz, MiLi-, NePathya, ShadowCoreTV, dykaz |
 | 2026-09-08 | Better at WOT | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.05 | 0.98 | +41.4 | BussinBoy, Gimmickz, ShadowCoreTV, dykaz, hyjinx_ |
 | 2026-09-06 | Furio Reloaded | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.03 | 0.96 | +58.5 | CAMH_CRODIE, Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
 | 2026-09-04 | REVERSE | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +64.8 | BussinBoy, Gimmickz, NePathya, ShadowCoreTV, dykaz |

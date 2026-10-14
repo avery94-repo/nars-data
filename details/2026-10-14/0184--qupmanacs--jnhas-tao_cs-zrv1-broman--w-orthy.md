@@ -19,18 +19,50 @@ seed_factor 0.165 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.048) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.165 | 1331.0 | - |
+| +30 days | 0.144 | 1302.2 | -28.8 |
+| +60 days | 0.123 | 1271.9 | -59.1 |
+| +90 days | 0.083 | 1216.4 | -114.6 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.075 vs 0.071 average, gap +0.004). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs A (2026-09-06) 0.94; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs A (2026-05-31) 0.30
+- Quality Wins drivers: beat Epochal Esports at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.14; beat MadaNASCAR at S58 NA Intermediate A - Regular Season (2026-08-14) 0.12; beat offBalance at S58 NA Intermediate A - Regular Season (2026-08-28) 0.10
+- Opponent Network drivers: beat Epochal Esports at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.92; beat offBalance at S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; beat MadaNASCAR at S58 NA Intermediate A - Regular Season (2026-08-14) 0.79
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +637.6 |
+| SportsBetExpert | 6 | 2672.3 | +634.5 |
+| M80 | 2 | 3081.4 | +624.8 |
+| Wildcard | 3 | 2911.9 | +619.8 |
+| LAG Gaming | 8 | 2507.3 | +618.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A (2026-05-31): expires in 43 days [Tier Exposure 0.30]
+- S58 NA Intermediate A - Regular Season vs 37U Passion (2026-07-15): expires in 88 days [Quality Wins 0.02]
+
 #### Matches (19 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-06 | WaterDrinkers | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -91.1 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
+| 2026-09-06 | WaterDrinkers | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -91.2 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-09-04 | DUMBO | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -97.0 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-09-02 | Epochal Esports | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.14 | 0.92 | +1.2 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-28 | offBalance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +9.9 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-26 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -42.8 | Broman-, JayEm24k, Tao_cs, worthy1, zrv1 |
 | 2026-08-21 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -84.6 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
-| 2026-08-19 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -77.6 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
+| 2026-08-19 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -77.7 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-14 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.12 | 0.79 | +41.0 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-12 | flat earth | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.10 | 0.78 | +93.7 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-07 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.09 | 0.74 | +64.8 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |

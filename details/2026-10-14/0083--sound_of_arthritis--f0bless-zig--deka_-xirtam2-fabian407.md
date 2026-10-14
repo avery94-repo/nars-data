@@ -19,6 +19,37 @@ seed_factor 0.176 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.054) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.176 | 1346.2 | - |
+| +30 days | 0.156 | 1319.0 | -27.2 |
+| +60 days | 0.138 | 1292.8 | -53.4 |
+| +90 days | 0.105 | 1247.1 | -99.1 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.187 average, gap -0.111). Matching that average is worth about 38.8 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs A (2026-09-10) 0.97; S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; S57 NA Open9-10 Central - Playoffs B (2026-06-05) 0.32
+- Quality Wins drivers: beat Rejects at S58 NA Intermediate A - Regular Season (2026-08-26) 0.14; beat MadaNASCAR at S58 NA Intermediate A - Regular Season (2026-08-19) 0.12; beat Ninjas In Boxer at S58 NA Intermediate Central - Playoffs A (2026-09-06) 0.11
+- Opponent Network drivers: beat dogwater at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.92; beat QUPMANACS at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat Rejects at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +539.2 |
+| M80 | 2 | 3081.4 | +531.5 |
+| SportsBetExpert | 6 | 2672.3 | +530.3 |
+| Wildcard | 3 | 2911.9 | +525.3 |
+| Liquid | 1 | 3103.3 | +524.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), we get it back (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B (2026-06-05): expires in 48 days [Tier Exposure 0.32]
+
 #### Matches (21 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -30,7 +61,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | flat earth | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -66.7 | DeKa_, f0bless, swilLy, xirtaM2, zig- |
 | 2026-09-02 | dogwater | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.10 | 0.92 | +0.0 | DeKa_, UltRaLeX, f0bless, xirtaM2, zig- |
 | 2026-08-26 | QUPMANACS | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.06 | 0.87 | +42.8 | DeKa_, UltRaLeX, f0bless, xirtaM2, zig- |
-| 2026-08-26 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.14 | 0.87 | +25.5 | DeKa_, UltRaLeX, f0bless, xirtaM2, zig- |
+| 2026-08-26 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.14 | 0.87 | +25.6 | DeKa_, UltRaLeX, f0bless, xirtaM2, zig- |
 | 2026-08-21 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +14.7 | DeKa_, UltRaLeX, dAVE, f0bless, xirtaM2 |
 | 2026-08-19 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.12 | 0.82 | +37.0 | DeKa_, f0bless, swilLy, xirtaM2, zig- |
 | 2026-08-14 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -112.7 | DeKa_, UltRaLeX, dAVE, f0bless, xirtaM2 |

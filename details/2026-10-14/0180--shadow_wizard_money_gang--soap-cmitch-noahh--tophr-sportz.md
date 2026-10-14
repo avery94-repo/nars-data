@@ -19,6 +19,41 @@ seed_factor 0.156 = 0.25 x Tier Exposure (0.105) + 0.50 x Quality Wins (0.053) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.156 | 1318.2 | - |
+| +30 days | 0.125 | 1274.6 | -43.6 |
+| +60 days | 0.110 | 1253.9 | -64.3 |
+| +90 days | 0.083 | 1216.1 | -102.0 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.053 vs 0.034 average, gap +0.019). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Advanced Central - Regular Season (2026-10-07) 1.43; S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; S57 NA Advanced Central - Regular Season (2026-05-21) 0.30
+- Quality Wins drivers: beat NXG Esports at S58 NA Advanced Central - Regular Season (2026-08-14) 0.19; beat counterstrike Team at S58 NA Advanced Central - Regular Season (2026-07-30) 0.18; beat Demolition at S58 NA Advanced Central - Regular Season (2026-08-14) 0.17
+- Opponent Network drivers: beat Aspyre at S58 NA Advanced Central - Regular Season (2026-08-19) 1.19; beat NXG Esports at S58 NA Advanced Central - Regular Season (2026-08-14) 1.15; beat Demolition at S58 NA Advanced Central - Regular Season (2026-08-14) 1.15
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +144.7 |
+| SportsBetExpert | 6 | 2672.3 | +144.4 |
+| LAG Gaming | 8 | 2507.3 | +141.8 |
+| M80 | 2 | 3081.4 | +141.6 |
+| Wildcard | 3 | 2911.9 | +140.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs NYX (2026-04-30): expires in 12 days [Quality Wins 0.01, Opponent Network 0.11]
+- S57 NA Advanced Central - Regular Season vs Addice (2026-05-07): expires in 19 days [Quality Wins 0.04, Opponent Network 0.17]
+- S57 NA Advanced Central - Regular Season vs NineFly Esports (2026-05-13): expires in 25 days [Quality Wins 0.04, Opponent Network 0.23]
+- S57 NA Advanced Central - Regular Season vs Solar Gravity (2026-05-14): expires in 26 days [Quality Wins 0.01, Opponent Network 0.24]
+- S57 NA Advanced Central - Regular Season vs Aspyre (2026-05-21): expires in 33 days [Tier Exposure 0.30, Quality Wins 0.03]
+
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -31,7 +66,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Playing for fun | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -54.5 | CMitch, Noahh-, Tophr, sportz, torii |
 | 2026-08-19 | Aspyre | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.12 | 1.19 | +133.0 | CMitch, Noahh-, Tophr, sportz, torii |
 | 2026-08-14 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.19 | 1.15 | +54.9 | CMitch, Noahh-, Tophr, soap, sportz |
-| 2026-08-14 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.17 | 1.15 | +127.2 | Noahh-, Tophr, soap, sportz, torii |
+| 2026-08-14 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.17 | 1.15 | +127.3 | Noahh-, Tophr, soap, sportz, torii |
 | 2026-08-05 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.08 | 1.06 | +173.1 | CMitch, Noahh-, Tophr, soap, sportz |
 | 2026-07-30 | counterstrike Team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.45 | 1.00 | 1.00 | 0.18 | 1.00 | +152.8 | -Tech, Tophr, soap, sportz, torii |
 | 2026-07-29 | GRIT | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -262.9 | -Tech, CMitch, Noahh-, Tophr, soap, sportz |
@@ -41,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.03 | 0.00 | +16.1 | -Tech, CMitch, Tophr, soap, sportz |
 | 2026-05-19 | Phantom Sense | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -338.6 | CMitch, Noahh-, Tophr, soap, sportz |
 | 2026-05-14 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.01 | 0.24 | +1.7 | -Tech, CMitch, Noahh-, soap, sportz |
-| 2026-05-13 | NineFly Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.04 | 0.23 | +249.6 | -Tech, Noahh-, Tophr, soap, sportz |
+| 2026-05-13 | NineFly Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.04 | 0.23 | +249.7 | -Tech, Noahh-, Tophr, soap, sportz |
 | 2026-05-07 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.04 | 0.17 | +348.5 | -Jonesy, CMitch, Noahh-, soap, sportz |
 | 2026-05-06 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -253.3 | -Tech, CMitch, Tophr, soap, sportz |
 | 2026-04-30 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.01 | 0.11 | +42.1 | -Jonesy, -Tech, Noahh-, Tophr, sportz |

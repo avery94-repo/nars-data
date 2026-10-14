@@ -4,20 +4,53 @@ Roster: TAAKY0N, Killj0y, BenjiBeatsu, SugarPea, sephB
 NARS Rank: 285 of 506
 
 Final Rating: 1300.8
-Seeded Start: 1366.2
-H2H Adjustment: -65.4
+Seeded Start: 1366.1
+H2H Adjustment: -65.3
 
-Final Rating (1300.8) = Seeded Start (1366.2) + H2H Adjustment (-65.4)
+Final Rating (1300.8) = Seeded Start (1366.1) + H2H Adjustment (-65.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.190 x 1400 = 1366.2
+                = 1100 + 0.190 x 1400 = 1366.1
 
 seed_factor 0.190 = 0.25 x Tier Exposure (0.156) + 0.50 x Quality Wins (0.055) + 0.25 x Opponent Network (0.494)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.190 | 1366.1 | - |
+| +30 days | 0.168 | 1335.0 | -31.2 |
+| +60 days | 0.151 | 1312.0 | -54.1 |
+| +90 days | 0.121 | 1269.4 | -96.7 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.055 vs 0.019 average, gap +0.036). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-06) 1.13; NSTLGA League | Sapphire Conference (2026-08-25) 1.03; S58 NA Main B - Regular Season (2026-08-28) 1.02
+- Quality Wins drivers: beat F5 Esports at NSTLGA League | Sapphire Conference (2026-08-23) 0.26; beat Binky at S58 NA Main B - Regular Season (2026-08-28) 0.12; beat Macs Snacks at S58 NA Main B - Regular Season (2026-08-19) 0.11
+- Opponent Network drivers: beat Binky at S58 NA Main B - Regular Season (2026-08-28) 1.02; beat F5 Esports at NSTLGA League | Sapphire Conference (2026-08-23) 1.02; beat Goyim Gladiators at S59 NA Main A - Regular Season (2026-10-09) 1.02
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +288.2 |
+| SportsBetExpert | 6 | 2672.3 | +287.9 |
+| LAG Gaming | 8 | 2507.3 | +283.7 |
+| regain | 12 | 2256.1 | +282.4 |
+| M80 | 2 | 3081.4 | +281.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Temple of Swing (2026-05-15): expires in 27 days [Quality Wins 0.02, Opponent Network 0.21]
+- S57 NA Main Central - Regular Season vs F1lthy Puggers (2026-05-20): expires in 32 days [Tier Exposure 0.25, Quality Wins 0.02, Opponent Network 0.25]
+- S58 NA Main B - Regular Season vs Aers Money Crew (2026-07-15): expires in 88 days [Quality Wins 0.08, Opponent Network 0.68]
 
 #### Matches (29 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -46,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Backshot Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -176.8 | BenjiBeatsu, SugarPea, TAAKY0N, sephB, syper |
 | 2026-07-15 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.08 | 0.68 | +109.2 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-05-20 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +139.3 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
-| 2026-05-15 | Temple of Swing | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +221.9 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
+| 2026-05-15 | Temple of Swing | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +222.0 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
 | 2026-05-13 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -127.7 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
 | 2026-05-08 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +255.2 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
 | 2026-05-08 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -11.7 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |

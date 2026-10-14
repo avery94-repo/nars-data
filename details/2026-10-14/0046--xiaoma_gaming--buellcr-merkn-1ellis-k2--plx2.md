@@ -19,6 +19,44 @@ seed_factor 0.211 = 0.25 x Tier Exposure (0.178) + 0.50 x Quality Wins (0.099) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.211 | 1395.3 | - |
+| +30 days | 0.160 | 1324.2 | -71.0 |
+| +60 days | 0.132 | 1285.3 | -110.0 |
+| +90 days | 0.108 | 1251.5 | -143.7 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.099 vs 0.223 average, gap -0.124). Matching that average is worth about 86.8 seed points.
+
+- Tier Exposure drivers: S58 NA Advanced Central - Playoffs (2026-09-11) 1.52; S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; S58 NA Advanced Central - Regular Season (2026-08-28) 1.28
+- Quality Wins drivers: beat unreal nightmare at S57 NA Advanced Central - Playoffs (2026-06-03) 0.33; beat Addice at S59 NA Advanced Central - Regular Season (2026-10-09) 0.29; beat KODEX ESPORTS at S58 NA Advanced Central - Regular Season (2026-08-14) 0.23
+- Opponent Network drivers: beat Addice at S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; beat KODEX ESPORTS at S58 NA Advanced Central - Regular Season (2026-08-14) 1.15; beat Slimy Boogermen at S58 NA Advanced Central - Regular Season (2026-07-29) 0.99
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +155.7 |
+| M80 | 2 | 3081.4 | +153.5 |
+| SportsBetExpert | 6 | 2672.3 | +153.0 |
+| Wildcard | 3 | 2911.9 | +151.7 |
+| Liquid | 1 | 3103.3 | +151.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): FourStrokeGang (+0.0), HUMA (+0.0), EZ2025 (+0.0), Power of Friendship (+0.0), monitor off (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs Brahmas (2026-05-05): expires in 17 days [Quality Wins 0.04]
+- S57 NA Advanced Central - Regular Season vs unreal nightmare (2026-05-08): expires in 20 days [Quality Wins 0.13]
+- S57 NA Advanced Central - Regular Season vs Omen Esports (2026-05-12): expires in 24 days [Quality Wins 0.07, Opponent Network 0.22]
+- S57 NA Advanced Central - Regular Season vs NuTorious (2026-05-13): expires in 25 days [Quality Wins 0.20, Opponent Network 0.23]
+- S57 NA Advanced Central - Regular Season vs Elisir Esports (2026-05-20): expires in 32 days [Tier Exposure 0.29, Opponent Network 0.29]
+- S57 NA Advanced Central - Playoffs vs unreal nightmare (2026-06-03): expires in 46 days [Quality Wins 0.33, Opponent Network 0.46]
+- S57 NA Advanced Central - Playoffs vs Baatarz (2026-06-09): expires in 52 days [Opponent Network 0.52]
+- S57 NA Advanced Central - Playoffs (2026-06-14): expires in 57 days [Tier Exposure 0.57]
+
 #### Matches (25 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -41,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-03 | unreal nightmare | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.31 | 1.50 | 1.00 | 0.46 | 0.33 | 0.46 | +23.0 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-20 | Elisir Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.01 | 0.29 | +220.2 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-19 | Wanted Goons | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -0.3 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-05-15 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -343.2 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-05-15 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -343.3 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-14 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -79.6 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-13 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.20 | 0.23 | +136.5 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-12 | Omen Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.07 | 0.22 | +27.1 | 1Ellis, BuellcR, PLx2, k2-, merkn |

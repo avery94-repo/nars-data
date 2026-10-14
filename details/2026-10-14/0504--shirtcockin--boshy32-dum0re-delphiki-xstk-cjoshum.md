@@ -3,11 +3,11 @@ Team Name: shirtcockin
 Roster: boshy32, DUM0RE, delphiki, xstk, Cjoshum
 NARS Rank: 504 of 506
 
-Final Rating: 382.0
+Final Rating: 381.9
 Seeded Start: 1116.9
-H2H Adjustment: -734.9 (capped at +-300, raw -735.0)
+H2H Adjustment: -735.0
 
-Final Rating (382.0) = Seeded Start (1116.9) + H2H Adjustment (-734.9)
+Final Rating (381.9) = Seeded Start (1116.9) + H2H Adjustment (-735.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,36 @@ seed_factor 0.012 = 0.25 x Tier Exposure (0.041) + 0.50 x Quality Wins (0.000) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.012 | 1116.9 | - |
+| +30 days | 0.007 | 1110.4 | -6.6 |
+| +60 days | 0.006 | 1108.6 | -8.3 |
+| +90 days | 0.004 | 1106.2 | -10.7 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.007 vs 0.135 average, gap -0.128). Matching that average is worth about 44.8 seed points.
+
+- Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-12) 0.90; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat puggin4seb at S57 NA Main Central - Regular Season (2026-05-01) 0.01
+- Opponent Network drivers: beat puggin4seb at S57 NA Main Central - Regular Season (2026-05-01) 0.10
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| North Forge | 38 | 1971.1 | +667.1 |
+| Wanted Goons | 43 | 1933.1 | +666.8 |
+| NRG | 4 | 2836.4 | +665.3 |
+| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| Zomblers | 22 | 2114.7 | +663.7 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs puggin4seb (2026-05-01): expires in 13 days [Quality Wins 0.01, Opponent Network 0.10]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
 
 #### Matches (17 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -37,7 +67,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-14 | we get it back | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -326.7 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
 | 2026-05-13 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -145.1 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
 | 2026-05-08 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -224.0 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
-| 2026-05-01 | puggin4seb | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +263.8 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
+| 2026-05-01 | puggin4seb | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +263.9 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
 | 2026-04-29 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -102.0 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
 | 2026-04-24 | F1lthy Puggers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -8.1 | Cjoshum, buckshott, delphiki, oberon, xstk |
 | 2026-04-22 | ASYCS KITTENS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -128.5 | Cjoshum, Jesperere, delphiki, ventake, xstk |

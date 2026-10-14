@@ -19,6 +19,38 @@ seed_factor 0.114 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.031) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.114 | 1260.0 | - |
+| +30 days | 0.094 | 1231.5 | -28.5 |
+| +60 days | 0.081 | 1213.8 | -46.1 |
+| +90 days | 0.058 | 1181.1 | -78.9 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.311 vs 0.320 average, gap -0.009). Matching that average is worth about 3.2 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-06) 1.13; S58 NA Main B - Regular Season (2026-08-28) 1.02; S57 NA Main Central - Regular Season (2026-05-20) 0.25
+- Quality Wins drivers: beat SwagMonkeyHats at S58 NA Main B - Regular Season (2026-08-12) 0.15; beat Aers Money Crew at S58 NA Main B - Regular Season (2026-08-21) 0.12; beat Lynnsanity at S58 NA Main B - Regular Season (2026-08-26) 0.08
+- Opponent Network drivers: beat Lynnsanity at S58 NA Main B - Regular Season (2026-08-26) 1.01; beat Aers Money Crew at S58 NA Main B - Regular Season (2026-08-21) 0.97; beat SwagMonkeyHats at S58 NA Main B - Regular Season (2026-08-12) 0.90
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +664.8 |
+| SportsBetExpert | 6 | 2672.3 | +663.9 |
+| LAG Gaming | 8 | 2507.3 | +653.6 |
+| M80 | 2 | 3081.4 | +650.2 |
+| regain | 12 | 2256.1 | +648.4 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.4), Courage (+0.5), SixSevenZaZa (+0.8).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Evil Space Wizards (2026-05-06): expires in 18 days [Quality Wins 0.01, Opponent Network 0.14]
+- S57 NA Main Central - Regular Season vs HUMA (2026-05-20): expires in 32 days [Tier Exposure 0.25, Quality Wins 0.02, Opponent Network 0.25]
+
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -38,9 +70,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -136.6 | BobsBoosted, DevonJones, hoz, lerff, patwithapc, ryleyN |
 | 2026-07-22 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -62.2 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
 | 2026-07-17 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.07 | 0.70 | +359.6 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
-| 2026-05-20 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +269.0 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
+| 2026-05-20 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +269.1 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-15 | Bird Squishers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -40.8 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
-| 2026-05-13 | grogu | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -210.6 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
+| 2026-05-13 | grogu | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -210.7 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-08 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -181.8 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-06 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +302.6 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-01 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -12.2 | BobsBoosted, Crim, DevonJones, Hyperal, patwithapc |

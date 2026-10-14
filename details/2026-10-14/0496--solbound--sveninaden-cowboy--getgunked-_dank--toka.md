@@ -3,11 +3,11 @@ Team Name: Solbound
 Roster: sveninaden, cowboy-, GetGunked, _Dank-, Tokar
 NARS Rank: 496 of 506
 
-Final Rating: 555.2
+Final Rating: 555.1
 Seeded Start: 1205.5
-H2H Adjustment: -650.3
+H2H Adjustment: -650.4 (capped at +-300, raw -650.3)
 
-Final Rating (555.2) = Seeded Start (1205.5) + H2H Adjustment (-650.3)
+Final Rating (555.1) = Seeded Start (1205.5) + H2H Adjustment (-650.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,42 @@ seed_factor 0.075 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.019) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.075 | 1205.5 | - |
+| +30 days | 0.054 | 1176.1 | -29.3 |
+| +60 days | 0.045 | 1163.3 | -42.2 |
+| +90 days | 0.031 | 1143.9 | -61.6 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.019 vs 0.005 average, gap +0.014). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Intermediate Central - Playoffs B (2026-05-29) 0.28
+- Quality Wins drivers: beat Epochal Esports at S58 NA Intermediate A - Regular Season (2026-07-31) 0.11; beat dogwater at S58 NA Intermediate A - Regular Season (2026-08-12) 0.08; beat Kings Gambit at S58 NA Intermediate A - Regular Season (2026-07-15) 0.06
+- Opponent Network drivers: beat dogwater at S58 NA Intermediate A - Regular Season (2026-08-12) 0.78; beat Epochal Esports at S58 NA Intermediate A - Regular Season (2026-07-31) 0.70; beat Kings Gambit at S58 NA Intermediate A - Regular Season (2026-07-15) 0.59
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| North Forge | 38 | 1971.1 | +502.2 |
+| Wanted Goons | 43 | 1933.1 | +501.9 |
+| NRG | 4 | 2836.4 | +501.3 |
+| SportsBetExpert | 6 | 2672.3 | +501.2 |
+| Zomblers | 22 | 2114.7 | +499.9 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs EZ2025 (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Intermediate Central - Regular Season vs Knight Owls (2026-04-29): expires in 11 days [Quality Wins 0.00, Opponent Network 0.08]
+- S57 NA Intermediate Central - Regular Season vs Dapper North (2026-05-01): expires in 13 days [Quality Wins 0.00, Opponent Network 0.09]
+- S57 NA Intermediate Central - Regular Season vs RunTheDamnBall (2026-05-06): expires in 18 days [Quality Wins 0.01, Opponent Network 0.12]
+- S57 NA Intermediate Central - Regular Season vs Benadryl Abusers (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.14]
+- S57 NA Intermediate Central - Regular Season vs Ubiquiti (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.02, Opponent Network 0.23]
+- S57 NA Intermediate Central - Playoffs B (2026-05-29): expires in 41 days [Tier Exposure 0.28]
+- S58 NA Intermediate A - Regular Season vs Kings Gambit (2026-07-15): expires in 88 days [Quality Wins 0.06, Opponent Network 0.59]
 
 #### Matches (26 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -37,11 +73,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.11 | 0.70 | +41.3 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-07-29 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -6.8 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-07-24 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -24.4 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
-| 2026-07-22 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -230.8 | GetGunked, Ghosterize, Tokar, cowboy-, sveninaden |
+| 2026-07-22 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -230.7 | GetGunked, Ghosterize, Tokar, cowboy-, sveninaden |
 | 2026-07-15 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.06 | 0.59 | +399.1 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-05-29 | The Sweepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -135.1 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-05-27 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -305.7 | GetGunked, Ghosterize, Tokar, cowboy-, sveninaden |
-| 2026-05-22 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +189.6 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
+| 2026-05-22 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +189.7 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
 | 2026-05-15 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -219.6 | -Rasta-, Ghosterize, Tokar, _Dank-, sveninaden |
 | 2026-05-13 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -305.4 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
 | 2026-05-08 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +6.0 | -Rasta-, GetGunked, Tokar, _Dank-, sveninaden |

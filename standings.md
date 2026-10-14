@@ -7,7 +7,7 @@
 | 3 | 2911.9 | Wildcard | reck, HexT, nEMANHA, Cxzi, mhL | [details](details/2026-10-14/0003--wildcard--reck-hext-nemanha-cxzi-mhl.md) |
 | 4 | 2836.4 | NRG | Grim, hallzerk, Jeorge, nitr0, Sonic | [details](details/2026-10-14/0004--nrg--grim-hallzerk-jeorge-nitr0-sonic.md) |
 | 5 | 2796.5 | Voca | snav, nosraC, junior, MarKE, dare | [details](details/2026-10-14/0005--voca--snav-nosrac-junior-marke-dare.md) |
-| 6 | 2672.2 | SportsBetExpert | motm, shane, consti, Infinite, Peeping | [details](details/2026-10-14/0006--sportsbetexpert--motm-shane-consti-infinite-peeping.md) |
+| 6 | 2672.3 | SportsBetExpert | motm, shane, consti, Infinite, Peeping | [details](details/2026-10-14/0006--sportsbetexpert--motm-shane-consti-infinite-peeping.md) |
 | 7 | 2613.0 | Marsborne | Grizzleey, WUMBO1, ogwizard, freshie, nicx | [details](details/2026-10-14/0007--marsborne--grizzleey-wumbo1-ogwizard-freshie-nicx.md) |
 | 8 | 2507.3 | LAG Gaming | bwills, Cryptic, SLIGHT, djay, 1Sandman | [details](details/2026-10-14/0008--lag_gaming--bwills-cryptic-slight-djay-1sandman.md) |
 | 9 | 2506.4 | Without a Roof | FaNg, stew, autimatic, c3rq, Brehze | [details](details/2026-10-14/0009--without_a_roof--fang-stew-autimatic-c3rq-brehze.md) |
@@ -15,7 +15,7 @@
 | 11 | 2332.4 | Desi Boyz | Pluto101, Momo, taqi, shooterR-, mason | [details](details/2026-10-14/0011--desi_boyz--pluto101-momo-taqi-shooterr--mason.md) |
 | 12 | 2256.1 | regain | Zucar, brennan, sasha, H0NeST, 1dvrk | [details](details/2026-10-14/0012--regain--zucar-brennan-sasha-h0nest-1dvrk.md) |
 | 13 | 2246.6 | Detonate | CrePoW, tatm, chante, carn, Maxuel | [details](details/2026-10-14/0013--detonate--crepow-tatm-chante-carn-maxuel.md) |
-| 14 | 2207.3 | Brahmas | Luck, farg, Jumble, ExToSee, --Slash | [details](details/2026-10-14/0014--brahmas--luck-farg-jumble-extosee---slash.md) |
+| 14 | 2207.4 | Brahmas | Luck, farg, Jumble, ExToSee, --Slash | [details](details/2026-10-14/0014--brahmas--luck-farg-jumble-extosee---slash.md) |
 | 15 | 2176.0 | Old Meta | chipino, Clank, grag-, -Shogun, OGnarwhal | [details](details/2026-10-14/0015--old_meta--chipino-clank-grag---shogun-ognarwhal.md) |
 | 16 | 2167.5 | FarmVille | calamity, kmzbn, Signal, BeaKiew0w, no1nx | [details](details/2026-10-14/0016--farmville--calamity-kmzbn-signal-beakiew0w-no1nx.md) |
 | 17 | 2165.7 | NuTorious | b0nes, kermi, Fruitcupx, neight, cmrn | [details](details/2026-10-14/0017--nutorious--b0nes-kermi-fruitcupx-neight-cmrn.md) |
@@ -23,7 +23,7 @@
 | 19 | 2159.2 | MASTER ONE | angekk, StaRRRRRk, mdoxSSJ, SADNIELy, haizakz921 | [details](details/2026-10-14/0019--master_one--angekk-starrrrrk-mdoxssj-sadniely-haizak.md) |
 | 20 | 2145.9 | qcclan | J0LZ, Gabie, Sup3rant, YONJI, TENSKEE | [details](details/2026-10-14/0020--qcclan--j0lz-gabie-sup3rant-yonji-tenskee.md) |
 | 21 | 2115.8 | Iowa Stormboar | 1TyRa, jsfeltner, Scorchyy, aelor, ayaneuu | [details](details/2026-10-14/0021--iowa_stormboar--1tyra-jsfeltner-scorchyy-aelor-ayaneuu.md) |
-| 22 | 2114.6 | Zomblers | CoolComs, man327, FxRE, CAJUN--, Pose1doNN | [details](details/2026-10-14/0022--zomblers--coolcoms-man327-fxre-cajun---pose1donn.md) |
+| 22 | 2114.7 | Zomblers | CoolComs, man327, FxRE, CAJUN--, Pose1doNN | [details](details/2026-10-14/0022--zomblers--coolcoms-man327-fxre-cajun---pose1donn.md) |
 | 23 | 2095.9 | duck crew | L33TG4M3R_, WhiteShadew, Zynxx, Cynxz, pierson | [details](details/2026-10-14/0023--duck_crew--l33tg4m3r_-whiteshadew-zynxx-cynxz-piers.md) |
 | 24 | 2042.7 | Festina Lente | gamble, JonjiJLC, Fruitcupx, FRIZZY, Maxuel | [details](details/2026-10-14/0024--festina_lente--gamble-jonjijlc-fruitcupx-frizzy-maxuel.md) |
 | 25 | 2039.6 | Olympus | Bizarre666, Sanzh1k33, relan, aawayyy, k6rdon | [details](details/2026-10-14/0025--olympus--bizarre666-sanzh1k33-relan-aawayyy-k6rdo.md) |
@@ -33,7 +33,7 @@
 | 29 | 2007.7 | VOID ALUNE | -lnsane-, Znorux, Don_therian, -Tacho-, sum_ke | [details](details/2026-10-14/0029--void_alune---lnsane--znorux-don_therian--tacho--sum_.md) |
 | 30 | 2004.7 | Priority | suds, wdog, slaneyy, Dunky_, macepts | [details](details/2026-10-14/0030--priority--suds-wdog-slaneyy-dunky_-macepts.md) |
 | 31 | 2004.0 | YHUBEPCAM | swayy, Offnik322, Bongo-_-, zdoroviy666, Naswai | [details](details/2026-10-14/0031--yhubepcam--swayy-offnik322-bongo-_--zdoroviy666-nas.md) |
-| 32 | 1999.3 | Hairy Scary Bandits | khaL_II, RaijuACE, Dirty-Dizzle, Immortal123, Shamshoon | [details](details/2026-10-14/0032--hairy_scary_bandits--khal_ii-raijuace-dirty-dizzle-immortal12.md) |
+| 32 | 1999.4 | Hairy Scary Bandits | khaL_II, RaijuACE, Dirty-Dizzle, Immortal123, Shamshoon | [details](details/2026-10-14/0032--hairy_scary_bandits--khal_ii-raijuace-dirty-dizzle-immortal12.md) |
 | 33 | 1998.1 | Chicken Coop | Dropcs, jared, REKMEISTERxD, Crisp, mdsz | [details](details/2026-10-14/0033--chicken_coop--dropcs-jared-rekmeisterxd-crisp-mdsz.md) |
 | 34 | 1997.3 | Slimy Boogermen | Mikeyz, balogna, mexicanMAGE, chaseJESUS, thanosboy | [details](details/2026-10-14/0034--slimy_boogermen--mikeyz-balogna-mexicanmage-chasejesus-th.md) |
 | 35 | 1988.3 | Holly Molly | Larryw1k, FlashET, sveetea, omoo, emblem | [details](details/2026-10-14/0035--holly_molly--larryw1k-flashet-sveetea-omoo-emblem.md) |
@@ -43,13 +43,13 @@
 | 39 | 1970.0 | ZETTA | 1ayalaK, sebasgamer11, zockie, BabyRage_S, Slayerh- | [details](details/2026-10-14/0039--zetta--1ayalak-sebasgamer11-zockie-babyrage_s-s.md) |
 | 40 | 1946.8 | OnlyFans | Hunterzone, Kryptic999, fina, pancake, 2ike | [details](details/2026-10-14/0040--onlyfans--hunterzone-kryptic999-fina-pancake-2ike.md) |
 | 41 | 1946.5 | Locally Hated | Weeza, alula, taggy, toromi, Ethex | [details](details/2026-10-14/0041--locally_hated--weeza-alula-taggy-toromi-ethex.md) |
-| 42 | 1941.4 | Zealous | borb_, leae, terrk1s, _-JAKEY-_, YaboDuulio | [details](details/2026-10-14/0042--zealous--borb_-leae-terrk1s-_-jakey-_-yaboduulio.md) |
+| 42 | 1941.5 | Zealous | borb_, leae, terrk1s, _-JAKEY-_, YaboDuulio | [details](details/2026-10-14/0042--zealous--borb_-leae-terrk1s-_-jakey-_-yaboduulio.md) |
 | 43 | 1933.1 | Wanted Goons | Johan, hibui, killerPandas, Feb, Magic_KS | [details](details/2026-10-14/0043--wanted_goons--johan-hibui-killerpandas-feb-magic_ks.md) |
 | 44 | 1928.5 | bubibabu | Leapold, bbukaa, ivan2008, a1mb4t-_-, malfik | [details](details/2026-10-14/0044--bubibabu--leapold-bbukaa-ivan2008-a1mb4t-_--malfik.md) |
 | 45 | 1914.2 | Swole Patrol | JASONR, fenom, Pol0, freakazoid, Cooper | [details](details/2026-10-14/0045--swole_patrol--jasonr-fenom-pol0-freakazoid-cooper.md) |
 | 46 | 1911.5 | Xiaoma Gaming | BuellcR, merkn, 1Ellis, k2-, PLx2 | [details](details/2026-10-14/0046--xiaoma_gaming--buellcr-merkn-1ellis-k2--plx2.md) |
 | 47 | 1897.3 | FLOW STATE | 1wander, s1Ience, Antii, TONY99999, --mj- | [details](details/2026-10-14/0047--flow_state--1wander-s1ience-antii-tony99999---mj-.md) |
-| 48 | 1895.3 | Skyline | Syn, Jay_, FangZzZ, Radarorleo, wutdowutdo | [details](details/2026-10-14/0048--skyline--syn-jay_-fangzzz-radarorleo-wutdowutdo.md) |
+| 48 | 1895.4 | Skyline | Syn, Jay_, FangZzZ, Radarorleo, wutdowutdo | [details](details/2026-10-14/0048--skyline--syn-jay_-fangzzz-radarorleo-wutdowutdo.md) |
 | 49 | 1888.6 | DESPAIR | mang0, aphasia, dytram, ScooterPeek, coley | [details](details/2026-10-14/0049--despair--mang0-aphasia-dytram-scooterpeek-coley.md) |
 | 50 | 1887.0 | No Future Lifes Over | Polkan, THADCATSLE, fdoud, Taysak, Katashi01 | [details](details/2026-10-14/0050--no_future_lifes_over--polkan-thadcatsle-fdoud-taysak-katashi01.md) |
 | 51 | 1883.7 | Phantom Sense | depend, Timbis12, Lukasz, shiraz, cIoudy | [details](details/2026-10-14/0051--phantom_sense--depend-timbis12-lukasz-shiraz-cioudy.md) |
@@ -63,15 +63,15 @@
 | 59 | 1852.5 | Beyond Limits | flixxy, doltn, Pr0misee, Beastman, denz67 | [details](details/2026-10-14/0059--beyond_limits--flixxy-doltn-pr0misee-beastman-denz67.md) |
 | 60 | 1835.3 | F5 Esports | kvalme, Michael_Weki, ainakano, atyla, 1bright | [details](details/2026-10-14/0060--f5_esports--kvalme-michael_weki-ainakano-atyla-1brig.md) |
 | 61 | 1831.6 | Sedated | Storm-X, Noccturnal, Kolsy, Ash_Red, s1lverNA | [details](details/2026-10-14/0061--sedated--storm-x-noccturnal-kolsy-ash_red-s1lvern.md) |
-| 62 | 1829.1 | academy 4 gifted children | xue, noiro, T1M3, pierson, -Ayz- | [details](details/2026-10-14/0062--academy_4_gifted_children--xue-noiro-t1m3-pierson--ayz-.md) |
+| 62 | 1829.0 | academy 4 gifted children | xue, noiro, T1M3, pierson, -Ayz- | [details](details/2026-10-14/0062--academy_4_gifted_children--xue-noiro-t1m3-pierson--ayz-.md) |
 | 63 | 1827.0 | DUMBO | Tar1us666, 0K1N-, Lukcy-Ice, uro, RaZ3M | [details](details/2026-10-14/0063--dumbo--tar1us666-0k1n--lukcy-ice-uro-raz3m.md) |
 | 64 | 1826.4 | flat earth | 123bye, okc-lover, inertia, PrimeJeet, sleuth | [details](details/2026-10-14/0064--flat_earth--123bye-okc-lover-inertia-primejeet-sleut.md) |
 | 65 | 1826.0 | Endless Esports | STIKER, Blxckie, Go0dby3, VoltageJM, ogura | [details](details/2026-10-14/0065--endless_esports--stiker-blxckie-go0dby3-voltagejm-ogura.md) |
-| 66 | 1821.7 | WhalersOnDaMoon | Superman, seon, Invertdwhale, KYAL, BukZacH | [details](details/2026-10-14/0066--whalersondamoon--superman-seon-invertdwhale-kyal-bukzach.md) |
+| 66 | 1821.8 | WhalersOnDaMoon | Superman, seon, Invertdwhale, KYAL, BukZacH | [details](details/2026-10-14/0066--whalersondamoon--superman-seon-invertdwhale-kyal-bukzach.md) |
 | 67 | 1819.2 | Playing for fun | ptr, Wolffe, Trucklover86, Spongey, adreNaline | [details](details/2026-10-14/0067--playing_for_fun--ptr-wolffe-trucklover86-spongey-adrenali.md) |
 | 68 | 1817.5 | Whiff City | mROD-, Ziggy98, -jez-, BobbyJ, RJR | [details](details/2026-10-14/0068--whiff_city--mrod--ziggy98--jez--bobbyj-rjr.md) |
 | 69 | 1813.1 | NZ Gaming | olkp666, Yonys1337-, GrapeM3n, INFIDEI, gojoo | [details](details/2026-10-14/0069--nz_gaming--olkp666-yonys1337--grapem3n-infidei-gojo.md) |
-| 70 | 1792.8 | GeneticDiff | raypeekedyou, -Gio25k, Yope, ghosty-, miso | [details](details/2026-10-14/0070--geneticdiff--raypeekedyou--gio25k-yope-ghosty--miso.md) |
+| 70 | 1792.9 | GeneticDiff | raypeekedyou, -Gio25k, Yope, ghosty-, miso | [details](details/2026-10-14/0070--geneticdiff--raypeekedyou--gio25k-yope-ghosty--miso.md) |
 | 71 | 1791.5 | dice | jBREEEZY, nicotine, brett, s3rum_, LUKE4k | [details](details/2026-10-14/0071--dice--jbreeezy-nicotine-brett-s3rum_-luke4k.md) |
 | 72 | 1788.5 | CNCS Last Hope | Filet-J-Fish, JaCkyG, _Project90, Cd666, AwY_E8 | [details](details/2026-10-14/0072--cncs_last_hope--filet-j-fish-jackyg-_project90-cd666-awy.md) |
 | 73 | 1785.6 | fih hou | Primal-_-, arik, syth, JetL, KIYAN | [details](details/2026-10-14/0073--fih_hou--primal-_--arik-syth-jetl-kiyan.md) |
@@ -83,13 +83,13 @@
 | 79 | 1778.9 | Kairo | Connie2k, Moiven, Boxel, Seph, TERRIYO | [details](details/2026-10-14/0079--kairo--connie2k-moiven-boxel-seph-terriyo.md) |
 | 80 | 1778.3 | EXODIA | vainilla, spamzzy, points, tor1towOw, Slayerh- | [details](details/2026-10-14/0080--exodia--vainilla-spamzzy-points-tor1towow-slayer.md) |
 | 81 | 1771.4 | Over 30 | san1ty_st, givy, Fluq, joshgc, Bismu | [details](details/2026-10-14/0081--over_30--san1ty_st-givy-fluq-joshgc-bismu.md) |
-| 82 | 1768.1 | firesale | replacedcar, DeSerT_PunK, getmeout, Fortune_-, RoughFire | [details](details/2026-10-14/0082--firesale--replacedcar-desert_punk-getmeout-fortune.md) |
+| 82 | 1768.2 | firesale | replacedcar, DeSerT_PunK, getmeout, Fortune_-, RoughFire | [details](details/2026-10-14/0082--firesale--replacedcar-desert_punk-getmeout-fortune.md) |
 | 83 | 1766.7 | Sound of Arthritis | f0bless, zig-, DeKa_, xirtaM2, fabiaN407 | [details](details/2026-10-14/0083--sound_of_arthritis--f0bless-zig--deka_-xirtam2-fabian407.md) |
-| 84 | 1765.1 | Orbit | Openc1, RAMTINRAMI, bobthecar, Pryzeq, Spycey | [details](details/2026-10-14/0084--orbit--openc1-ramtinrami-bobthecar-pryzeq-spyce.md) |
+| 84 | 1765.2 | Orbit | Openc1, RAMTINRAMI, bobthecar, Pryzeq, Spycey | [details](details/2026-10-14/0084--orbit--openc1-ramtinrami-bobthecar-pryzeq-spyce.md) |
 | 85 | 1764.1 | makeSHIFT | -aldo-, jsr-, frosly, excite, fr0stbyte | [details](details/2026-10-14/0085--makeshift---aldo--jsr--frosly-excite-fr0stbyte.md) |
 | 86 | 1763.4 | Diggers | kozyavka67, bbukaa, hysssteria, metallica, fuzenko | [details](details/2026-10-14/0086--diggers--kozyavka67-bbukaa-hysssteria-metallica-f.md) |
 | 87 | 1755.0 | PROFECO | V1ejon, Ichigo, AnthonyTJC, a_m_c, Gonnak | [details](details/2026-10-14/0087--profeco--v1ejon-ichigo-anthonytjc-a_m_c-gonnak.md) |
-| 88 | 1751.3 | Manx Recovery Program | Titans-_-, Yin69yang, Bluebear, Manx, TaZ_-- | [details](details/2026-10-14/0088--manx_recovery_program--titans-_--yin69yang-bluebear-manx-taz_--.md) |
+| 88 | 1751.4 | Manx Recovery Program | Titans-_-, Yin69yang, Bluebear, Manx, TaZ_-- | [details](details/2026-10-14/0088--manx_recovery_program--titans-_--yin69yang-bluebear-manx-taz_--.md) |
 | 89 | 1750.7 | Overtake Sector |  | [details](details/2026-10-14/0089--overtake_sector--team.md) |
 | 90 | 1749.7 | Fire Nation | -manny, hoomy, gaijin, -dink, Virtueee1 | [details](details/2026-10-14/0090--fire_nation---manny-hoomy-gaijin--dink-virtueee1.md) |
 | 91 | 1745.3 | Fathom Gaming | W1LDG2, atom_, tripp, Cinna, ArmoredHarp | [details](details/2026-10-14/0091--fathom_gaming--w1ldg2-atom_-tripp-cinna-armoredharp.md) |
@@ -117,7 +117,7 @@
 | 113 | 1659.1 | Incognito |  | [details](details/2026-10-14/0113--incognito--team.md) |
 | 114 | 1656.6 | The Vicious Kitties | mackks, bigbadinky, StevoP, teejhey, Sudain | [details](details/2026-10-14/0114--the_vicious_kitties--mackks-bigbadinky-stevop-teejhey-sudain.md) |
 | 115 | 1655.5 | DKR Esports | mazerkod67, Jr0m, Ipp0-, YeRekK, Azysw | [details](details/2026-10-14/0115--dkr_esports--mazerkod67-jr0m-ipp0--yerekk-azysw.md) |
-| 116 | 1654.6 | Read You Like a Kindle | Kovacs, lefrankjames, m4nny, 23k, Marijuana | [details](details/2026-10-14/0116--read_you_like_a_kindle--kovacs-lefrankjames-m4nny-23k-marijuana.md) |
+| 116 | 1654.7 | Read You Like a Kindle | Kovacs, lefrankjames, m4nny, 23k, Marijuana | [details](details/2026-10-14/0116--read_you_like_a_kindle--kovacs-lefrankjames-m4nny-23k-marijuana.md) |
 | 117 | 1652.8 | Elation | Enzo, AaronJH, Gibbyatl, FuuuZion, _PandaKing_ | [details](details/2026-10-14/0117--elation--enzo-aaronjh-gibbyatl-fuuuzion-_pandakin.md) |
 | 118 | 1647.6 | Akatsuki | JUlCER, dv888, syfen, jugg, ameli-iwnl- | [details](details/2026-10-14/0118--akatsuki--julcer-dv888-syfen-jugg-ameli-iwnl-.md) |
 | 119 | 1647.0 | ODIN | NukinTURTLe, seifidn, joonah, zcrown, DriftXII | [details](details/2026-10-14/0119--odin--nukinturtle-seifidn-joonah-zcrown-driftx.md) |
@@ -128,7 +128,7 @@
 | 124 | 1638.7 | absolute cinema | mira, davd, NICKHALDEN, puf, Moop421 | [details](details/2026-10-14/0124--absolute_cinema--mira-davd-nickhalden-puf-moop421.md) |
 | 125 | 1637.7 | Sassy Sunshines | Flash-, BigYeeterz, AvgBongRip, Jelly, Retnuh | [details](details/2026-10-14/0125--sassy_sunshines--flash--bigyeeterz-avgbongrip-jelly-retnu.md) |
 | 126 | 1637.1 | Team Team Name | pogers, NOV, wilbert, qute, j1v | [details](details/2026-10-14/0126--team_team_name--pogers-nov-wilbert-qute-j1v.md) |
-| 127 | 1634.9 | DNA | ioioCS, noa, JKSN, bandit0, Yu1u | [details](details/2026-10-14/0127--dna--ioiocs-noa-jksn-bandit0-yu1u.md) |
+| 127 | 1635.0 | DNA | ioioCS, noa, JKSN, bandit0, Yu1u | [details](details/2026-10-14/0127--dna--ioiocs-noa-jksn-bandit0-yu1u.md) |
 | 128 | 1629.2 | Team GREAT | RealOlmO, Gab777, NaRo, gabe1080x, TKEFNI | [details](details/2026-10-14/0128--team_great--realolmo-gab777-naro-gabe1080x-tkefni.md) |
 | 129 | 1628.0 | Torii | portu, 1KBRZ, MiStAkE666, 2fab, -linK | [details](details/2026-10-14/0129--torii--portu-1kbrz-mistake666-2fab--link.md) |
 | 130 | 1626.2 | Quality | Adrelic, Chicxen, Ryougi, JK_, spiiiddoni- | [details](details/2026-10-14/0130--quality--adrelic-chicxen-ryougi-jk_-spiiiddoni-.md) |
@@ -150,7 +150,7 @@
 | 146 | 1588.0 | JPG | tmelks, kysmir, mechro, caustic, Zralok26 | [details](details/2026-10-14/0146--jpg--tmelks-kysmir-mechro-caustic-zralok26.md) |
 | 147 | 1587.1 | MommySports | -animate, bruhdy-, okc, Frayzar-, CrankItMan | [details](details/2026-10-14/0147--mommysports---animate-bruhdy--okc-frayzar--crankitman.md) |
 | 148 | 1580.9 | Kevin James Fan Club | GORMANGO, ADIL-, CH3A9, zequate, SpartanShock | [details](details/2026-10-14/0148--kevin_james_fan_club--gormango-adil--ch3a9-zequate-spartanshoc.md) |
-| 149 | 1577.8 | Appalachian Apes | Chubbers_, Chrisalish, NotcockG, Andooby, oleglea | [details](details/2026-10-14/0149--appalachian_apes--chubbers_-chrisalish-notcockg-andooby-ol.md) |
+| 149 | 1577.9 | Appalachian Apes | Chubbers_, Chrisalish, NotcockG, Andooby, oleglea | [details](details/2026-10-14/0149--appalachian_apes--chubbers_-chrisalish-notcockg-andooby-ol.md) |
 | 150 | 1577.7 | UsingCodefArt25atSCL | _Section, Clum, texture, bingus, brian | [details](details/2026-10-14/0150--usingcodefart25atscl--_section-clum-texture-bingus-brian.md) |
 | 151 | 1576.5 | Biggie Cheese Fan Club | prospekt-, korra, SHADOWHAWK47, galy, kiss | [details](details/2026-10-14/0151--biggie_cheese_fan_club--prospekt--korra-shadowhawk47-galy-kiss.md) |
 | 152 | 1574.5 | Celestial Esports | Tiski, Destro, Springgy, Driftzzzzz, xKold | [details](details/2026-10-14/0152--celestial_esports--tiski-destro-springgy-driftzzzzz-xkold.md) |
@@ -160,7 +160,7 @@
 | 156 | 1564.6 | Order Zero | F0ur-, luck257, YodeR_8, Zander01, Josw1ck | [details](details/2026-10-14/0156--order_zero--f0ur--luck257-yoder_8-zander01-josw1ck.md) |
 | 157 | 1560.7 | Fourth Quarter | Gonzo_, Seb, sniperclub01, _MD_, 1Cyrix | [details](details/2026-10-14/0157--fourth_quarter--gonzo_-seb-sniperclub01-_md_-1cyrix.md) |
 | 158 | 1559.4 | BONK | Tribgob, -Chance, Anzio, GradienTz, Beyjounn | [details](details/2026-10-14/0158--bonk--tribgob--chance-anzio-gradientz-beyjounn.md) |
-| 159 | 1558.0 | AURA Esports | NIWIH, mooseM, Toast, Adeft-, LevelDown | [details](details/2026-10-14/0159--aura_esports--niwih-moosem-toast-adeft--leveldown.md) |
+| 159 | 1558.1 | AURA Esports | NIWIH, mooseM, Toast, Adeft-, LevelDown | [details](details/2026-10-14/0159--aura_esports--niwih-moosem-toast-adeft--leveldown.md) |
 | 160 | 1556.3 | TOP SHELF WHIFFERS | ChipLeader, 3bru, bugass, Kaleezbihch, craps | [details](details/2026-10-14/0160--top_shelf_whiffers--chipleader-3bru-bugass-kaleezbihch-craps.md) |
 | 161 | 1553.6 | Rejects | Albatr0ssS, 0hio, ZynRG, Dingrz, -FlagZ | [details](details/2026-10-14/0161--rejects--albatr0sss-0hio-zynrg-dingrz--flagz.md) |
 | 162 | 1549.0 | 1001 Fragrance | framedHERO, tdoy, -Tuna-, Coco-, ITakeRoidss | [details](details/2026-10-14/0162--1001_fragrance--framedhero-tdoy--tuna--coco--itakeroidss.md) |
@@ -171,7 +171,7 @@
 | 167 | 1535.8 | Pug Palace | Xkingsly, S5J, EthanolOG, Mega, aegis | [details](details/2026-10-14/0167--pug_palace--xkingsly-s5j-ethanolog-mega-aegis.md) |
 | 168 | 1535.3 | Zenano | smove, 1mprovee2, floorine9, 1dkary, Rooda | [details](details/2026-10-14/0168--zenano--smove-1mprovee2-floorine9-1dkary-rooda.md) |
 | 169 | 1535.3 | For Fun Gamers | turtillo, Props, -gABRIEL, boojerz, Yur_Mad | [details](details/2026-10-14/0169--for_fun_gamers--turtillo-props--gabriel-boojerz-yur_mad.md) |
-| 170 | 1534.4 | Salsas Mazzin Crew | salsa_-, tawa, DAVEY, zws, 1Mazz | [details](details/2026-10-14/0170--salsas_mazzin_crew--salsa_--tawa-davey-zws-1mazz.md) |
+| 170 | 1534.5 | Salsas Mazzin Crew | salsa_-, tawa, DAVEY, zws, 1Mazz | [details](details/2026-10-14/0170--salsas_mazzin_crew--salsa_--tawa-davey-zws-1mazz.md) |
 | 171 | 1533.8 | Abusement Park | -HuNTeR-, t4urtus, dyragu, -copey, LaRoLdInHo | [details](details/2026-10-14/0171--abusement_park---hunter--t4urtus-dyragu--copey-laroldinh.md) |
 | 172 | 1533.1 | BucketJonsBoys | Gingjaa, glase_, Alo49, hunter-k, Intense | [details](details/2026-10-14/0172--bucketjonsboys--gingjaa-glase_-alo49-hunter-k-intense.md) |
 | 173 | 1530.7 | Shaboing Boing Bandits | h0NEYz, TOY-, brinbran, You-A-QT, pr- | [details](details/2026-10-14/0173--shaboing_boing_bandits--h0neyz-toy--brinbran-you-a-qt-pr-.md) |
@@ -191,7 +191,7 @@
 | 187 | 1503.9 | Vibe Check | wonderhead, Chaztric, WhoFramedMe, reV-, peloton_pete | [details](details/2026-10-14/0187--vibe_check--wonderhead-chaztric-whoframedme-rev--pel.md) |
 | 188 | 1503.7 | mokey mokey | iggy, trey-, russtbh, stattik, hayden1502 | [details](details/2026-10-14/0188--mokey_mokey--iggy-trey--russtbh-stattik-hayden1502.md) |
 | 189 | 1500.0 | Lynnsanity | JaCKxDDD1, B1gDaddyA, Gumboot, MrMutton, hostage1337 | [details](details/2026-10-14/0189--lynnsanity--jackxddd1-b1gdaddya-gumboot-mrmutton-hos.md) |
-| 190 | 1499.5 | No Leaders Please | Salamander-, asianmisc, -LoafCat-, CSStix, auti_ | [details](details/2026-10-14/0190--no_leaders_please--salamander--asianmisc--loafcat--csstix-a.md) |
+| 190 | 1499.4 | No Leaders Please | Salamander-, asianmisc, -LoafCat-, CSStix, auti_ | [details](details/2026-10-14/0190--no_leaders_please--salamander--asianmisc--loafcat--csstix-a.md) |
 | 191 | 1499.3 | UncsStillGotIt | chryyss, boodahman, MlKEE, Trigggatrey, Tentoh | [details](details/2026-10-14/0191--uncsstillgotit--chryyss-boodahman-mlkee-trigggatrey-tent.md) |
 | 192 | 1498.1 | teamington | infave, cafune, Noahhh, SEAN, Krels | [details](details/2026-10-14/0192--teamington--infave-cafune-noahhh-sean-krels.md) |
 | 193 | 1497.0 | 91AshLiu | A1Sh1, -Joyce666-, Karmua, me1zz, s1nKr | [details](details/2026-10-14/0193--91ashliu--a1sh1--joyce666--karmua-me1zz-s1nkr.md) |
@@ -209,7 +209,7 @@
 | 205 | 1470.1 | STFDYSAB | jOHN_, dirtydrg, ajoyfulpig, DoubleJays, Dogman123123 | [details](details/2026-10-14/0205--stfdysab--john_-dirtydrg-ajoyfulpig-doublejays-dog.md) |
 | 206 | 1467.9 | Squeegee | frowzy, 1Hero, jurf, Caz, jmss | [details](details/2026-10-14/0206--squeegee--frowzy-1hero-jurf-caz-jmss.md) |
 | 207 | 1467.8 | AscendentEsport | jerseyshore, 1neu, add_e, 1FL, rengif | [details](details/2026-10-14/0207--ascendentesport--jerseyshore-1neu-add_e-1fl-rengif.md) |
-| 208 | 1467.4 | noname | Swatt-, S1eep, PeaseCentral, Char, lckr | [details](details/2026-10-14/0208--noname--swatt--s1eep-peasecentral-char-lckr.md) |
+| 208 | 1467.3 | noname | Swatt-, S1eep, PeaseCentral, Char, lckr | [details](details/2026-10-14/0208--noname--swatt--s1eep-peasecentral-char-lckr.md) |
 | 209 | 1463.5 | Pugging4Pumpkin | SteadFast, DanieIH, LandonW, Sithiss, dycfghvjuczx | [details](details/2026-10-14/0209--pugging4pumpkin--steadfast-danieih-landonw-sithiss-dycfgh.md) |
 | 210 | 1461.9 | Kings Gambit | tonyballoni, sodreamX, rockstaraL, musashi---, casanova2005 | [details](details/2026-10-14/0210--kings_gambit--tonyballoni-sodreamx-rockstaral-musashi-.md) |
 | 211 | 1459.4 | Veniversum | noize, Steaux, ttvPL_Epic, -sandwich, kyritosan | [details](details/2026-10-14/0211--veniversum--noize-steaux-ttvpl_epic--sandwich-kyrito.md) |
@@ -224,12 +224,12 @@
 | 220 | 1439.3 | Binky | chnce, spooky77, Copes-, Zazu, 1phant0m | [details](details/2026-10-14/0220--binky--chnce-spooky77-copes--zazu-1phant0m.md) |
 | 221 | 1439.1 | 1NT | mf_goat, Chawk, Saintz, Beasty_, LAURSEN_111 | [details](details/2026-10-14/0221--1nt--mf_goat-chawk-saintz-beasty_-laursen_111.md) |
 | 222 | 1437.4 | Cortex Jellies | Datura, Brake, Kaikyo, kiteZr, --meat | [details](details/2026-10-14/0222--cortex_jellies--datura-brake-kaikyo-kitezr---meat.md) |
-| 223 | 1434.1 | Beam Tinky | 5casa, Peanutski, jabby, Amo24, pete7895 | [details](details/2026-10-14/0223--beam_tinky--5casa-peanutski-jabby-amo24-pete7895.md) |
+| 223 | 1434.2 | Beam Tinky | 5casa, Peanutski, jabby, Amo24, pete7895 | [details](details/2026-10-14/0223--beam_tinky--5casa-peanutski-jabby-amo24-pete7895.md) |
 | 224 | 1429.4 | TahMeow | vvillovv, Relo_X, -5hy-, Falmistz, Jean_Bart_B | [details](details/2026-10-14/0224--tahmeow--vvillovv-relo_x--5hy--falmistz-jean_bart.md) |
 | 225 | 1428.7 | Elisir Esports | Valter0k, hollow_form, T0rby, tAben1, stanf1x | [details](details/2026-10-14/0225--elisir_esports--valter0k-hollow_form-t0rby-taben1-stanf1.md) |
 | 226 | 1428.0 | penazoid | Plat, viper14bite, donkazoid, Justic11, lizzaarrd | [details](details/2026-10-14/0226--penazoid--plat-viper14bite-donkazoid-justic11-lizz.md) |
 | 227 | 1427.1 | UltimateDarklordWizardz | Jackpot, JGamby, alloy, enfohip, samR- | [details](details/2026-10-14/0227--ultimatedarklordwizardz--jackpot-jgamby-alloy-enfohip-samr-.md) |
-| 228 | 1426.6 | FRAGDEMONS | -MOA, omw2killu, syndrolic, Dwoo, barley | [details](details/2026-10-14/0228--fragdemons---moa-omw2killu-syndrolic-dwoo-barley.md) |
+| 228 | 1426.5 | FRAGDEMONS | -MOA, omw2killu, syndrolic, Dwoo, barley | [details](details/2026-10-14/0228--fragdemons---moa-omw2killu-syndrolic-dwoo-barley.md) |
 | 229 | 1425.5 | The Third Eye | G0o5e, Aduri, Buell, cocomo, CarroHijo | [details](details/2026-10-14/0229--the_third_eye--g0o5e-aduri-buell-cocomo-carrohijo.md) |
 | 230 | 1424.6 | walkthemdown | MiloPrime, eLok, Zaki, Yody, coffee | [details](details/2026-10-14/0230--walkthemdown--miloprime-elok-zaki-yody-coffee.md) |
 | 231 | 1421.0 | skebob | Rosaa, lyulya_kebab, S4KURA, olya, PRO_stitutk4 | [details](details/2026-10-14/0231--skebob--rosaa-lyulya_kebab-s4kura-olya-pro_stitu.md) |
@@ -243,16 +243,16 @@
 | 239 | 1405.5 | enigma | hohozao, notej, -GH057ayame-, steeez, J_T | [details](details/2026-10-14/0239--enigma--hohozao-notej--gh057ayame--steeez-j_t.md) |
 | 240 | 1405.5 | brb grinding minecraft | phiLm9yne, OJISBAE, 1ferda, mineman97, riizzy | [details](details/2026-10-14/0240--brb_grinding_minecraft--philm9yne-ojisbae-1ferda-mineman97-riizz.md) |
 | 241 | 1404.4 | FUELED BY HATE | Jiff, claasic, CHAMONE, YaboDuulio, bxdEMON | [details](details/2026-10-14/0241--fueled_by_hate--jiff-claasic-chamone-yaboduulio-bxdemon.md) |
-| 242 | 1404.1 | NXG Esports | Galact, Galaxy, cjb-_-, 4sh0t, PinheadLarry | [details](details/2026-10-14/0242--nxg_esports--galact-galaxy-cjb-_--4sh0t-pinheadlarry.md) |
+| 242 | 1404.0 | NXG Esports | Galact, Galaxy, cjb-_-, 4sh0t, PinheadLarry | [details](details/2026-10-14/0242--nxg_esports--galact-galaxy-cjb-_--4sh0t-pinheadlarry.md) |
 | 243 | 1394.8 | OPOZIT | aim_exe112, laze0, 6IXTYEIGHT, Aexc1d7, zoenn | [details](details/2026-10-14/0243--opozit--aim_exe112-laze0-6ixtyeight-aexc1d7-zoen.md) |
-| 244 | 1392.9 | D1NK Esports | ger0, Raids, bluez7_7, summit1g, slik | [details](details/2026-10-14/0244--d1nk_esports--ger0-raids-bluez7_7-summit1g-slik.md) |
+| 244 | 1392.8 | D1NK Esports | ger0, Raids, bluez7_7, summit1g, slik | [details](details/2026-10-14/0244--d1nk_esports--ger0-raids-bluez7_7-summit1g-slik.md) |
 | 245 | 1391.8 | NOVAIR | invictum, CadiLutPR, JustDubz, murebbiye, Raykon | [details](details/2026-10-14/0245--novair--invictum-cadilutpr-justdubz-murebbiye-ra.md) |
 | 246 | 1386.7 | 2THRiLL | Stro_-, Yunniie, frankfurda, Xevikan, _n8 | [details](details/2026-10-14/0246--2thrill--stro_--yunniie-frankfurda-xevikan-_n8.md) |
 | 247 | 1386.1 | Mach 5 | _Mski_, red1ski, sank, BonJinko, Mattoy_ | [details](details/2026-10-14/0247--mach_5--_mski_-red1ski-sank-bonjinko-mattoy_.md) |
-| 248 | 1384.2 | Ninjas In Boxer | Mitareeeeeee, Mcnamara, -stuard, CRAZYCAR66, -JOSE- | [details](details/2026-10-14/0248--ninjas_in_boxer--mitareeeeeee-mcnamara--stuard-crazycar66.md) |
+| 248 | 1384.1 | Ninjas In Boxer | Mitareeeeeee, Mcnamara, -stuard, CRAZYCAR66, -JOSE- | [details](details/2026-10-14/0248--ninjas_in_boxer--mitareeeeeee-mcnamara--stuard-crazycar66.md) |
 | 249 | 1383.4 | deez | july-, jablo, nanners, aiwai, 1curt | [details](details/2026-10-14/0249--deez--july--jablo-nanners-aiwai-1curt.md) |
 | 250 | 1378.6 | The Kerbins | SKiiYii, -pen, Ajikanfan43, Salmon180, sA_ | [details](details/2026-10-14/0250--the_kerbins--skiiyii--pen-ajikanfan43-salmon180-sa_.md) |
-| 251 | 1377.8 | strawberry poptarts | -sharp, 1soprano, Lucy, quacks, applecat | [details](details/2026-10-14/0251--strawberry_poptarts---sharp-1soprano-lucy-quacks-applecat.md) |
+| 251 | 1377.7 | strawberry poptarts | -sharp, 1soprano, Lucy, quacks, applecat | [details](details/2026-10-14/0251--strawberry_poptarts---sharp-1soprano-lucy-quacks-applecat.md) |
 | 252 | 1377.5 | Dude Picks | LordOPies, twinkinator, sascha, -Anarchyz, AGN | [details](details/2026-10-14/0252--dude_picks--lordopies-twinkinator-sascha--anarchyz-a.md) |
 | 253 | 1375.6 | Eightball | dabgoblin, maples19, Ant2steppa, Kanapez, andrew-OwO | [details](details/2026-10-14/0253--eightball--dabgoblin-maples19-ant2steppa-kanapez-an.md) |
 | 254 | 1375.1 | N w G | cHEEturr, chaotic-, KIRE, krayvok, sLi | [details](details/2026-10-14/0254--n_w_g--cheeturr-chaotic--kire-krayvok-sli.md) |
@@ -269,7 +269,7 @@
 | 265 | 1356.9 | Wiggle Peeks | lilpop, stag, ruki, hyena, Mikodoru | [details](details/2026-10-14/0265--wiggle_peeks--lilpop-stag-ruki-hyena-mikodoru.md) |
 | 266 | 1356.1 | High-Tech Performance | jzumaki, likwid, jspec, Twisted5k, danbearpig | [details](details/2026-10-14/0266--high-tech_performance--jzumaki-likwid-jspec-twisted5k-danbearpi.md) |
 | 267 | 1353.3 | Glockwork | shori, chemii, Highspeed_, Toastrnugget, DoubleSb | [details](details/2026-10-14/0267--glockwork--shori-chemii-highspeed_-toastrnugget-dou.md) |
-| 268 | 1351.6 | the dragon warrior scroll | OJISBAE, Late, yarushima, texture, riizzy | [details](details/2026-10-14/0268--the_dragon_warrior_scroll--ojisbae-late-yarushima-texture-riizzy.md) |
+| 268 | 1351.5 | the dragon warrior scroll | OJISBAE, Late, yarushima, texture, riizzy | [details](details/2026-10-14/0268--the_dragon_warrior_scroll--ojisbae-late-yarushima-texture-riizzy.md) |
 | 269 | 1349.4 | PASSION | wiggless, ghost_solder, oculus, Kolar, -Kino- | [details](details/2026-10-14/0269--passion--wiggless-ghost_solder-oculus-kolar--kino.md) |
 | 270 | 1342.8 | Bird Lickers | summers, rickster, JPussay, reham-, KPussay | [details](details/2026-10-14/0270--bird_lickers--summers-rickster-jpussay-reham--kpussay.md) |
 | 271 | 1342.7 | Gloobers | itsXeris, zima222, -flawless, liam202, loof- | [details](details/2026-10-14/0271--gloobers--itsxeris-zima222--flawless-liam202-loof-.md) |
@@ -281,7 +281,7 @@
 | 277 | 1319.8 | Chopped | Merle, Casteeya, FullyLaced, _aido_, fatchud | [details](details/2026-10-14/0277--chopped--merle-casteeya-fullylaced-_aido_-fatchud.md) |
 | 278 | 1318.9 | dead team | Treehen, Enzo, getmeout, Momiji_RtN, RavensBOSS | [details](details/2026-10-14/0278--dead_team--treehen-enzo-getmeout-momiji_rtn-ravensb.md) |
 | 279 | 1316.1 | Demolition | chroma, myriad, ilssuN, heekz, bustahh | [details](details/2026-10-14/0279--demolition--chroma-myriad-ilssun-heekz-bustahh.md) |
-| 280 | 1315.6 | Aurofox | danilov, Kr0ssz, ke2ues, Bipp, varnbarn | [details](details/2026-10-14/0280--aurofox--danilov-kr0ssz-ke2ues-bipp-varnbarn.md) |
+| 280 | 1315.5 | Aurofox | danilov, Kr0ssz, ke2ues, Bipp, varnbarn | [details](details/2026-10-14/0280--aurofox--danilov-kr0ssz-ke2ues-bipp-varnbarn.md) |
 | 281 | 1314.2 | Adria eSports | MambaHAPPY, -Gerry, D4V1Z1HN0SSJ, Alons0-, LOBOSO_R | [details](details/2026-10-14/0281--adria_esports--mambahappy--gerry-d4v1z1hn0ssj-alons0--l.md) |
 | 282 | 1313.0 | Aetheris | -py, Destrcyer, Rpx27, Rezzzzzz, lore | [details](details/2026-10-14/0282--aetheris---py-destrcyer-rpx27-rezzzzzz-lore.md) |
 | 283 | 1305.6 | Imperium | xtios, pxnk, caron, j1v, skittle- | [details](details/2026-10-14/0283--imperium--xtios-pxnk-caron-j1v-skittle-.md) |
@@ -307,7 +307,7 @@
 | 303 | 1263.2 | TELETUBEASTS | unsnappy, joof, hdz_, MASOR, smokncatpiss | [details](details/2026-10-14/0303--teletubeasts--unsnappy-joof-hdz_-masor-smokncatpiss.md) |
 | 304 | 1259.9 | Guangzhou Loong Lions | _real, bubbIes, hayden1, _Ericcc_, RichMoney45 | [details](details/2026-10-14/0304--guangzhou_loong_lions--_real-bubbies-hayden1-_ericcc_-richmoney.md) |
 | 305 | 1258.6 | HeatPeek | Jantokat, Uhttt, Kevjeet, Spiffy--, EMOnEMO | [details](details/2026-10-14/0305--heatpeek--jantokat-uhttt-kevjeet-spiffy---emonemo.md) |
-| 306 | 1256.4 | Anchors Anonymous | Jamiee07, KyeGo02, BotGoop, Ouija, diimaaa | [details](details/2026-10-14/0306--anchors_anonymous--jamiee07-kyego02-botgoop-ouija-diimaaa.md) |
+| 306 | 1256.3 | Anchors Anonymous | Jamiee07, KyeGo02, BotGoop, Ouija, diimaaa | [details](details/2026-10-14/0306--anchors_anonymous--jamiee07-kyego02-botgoop-ouija-diimaaa.md) |
 | 307 | 1253.2 | Team Nyx | wrxcs, brownie26, Yowie_cs, attach-, MaaarkG | [details](details/2026-10-14/0307--team_nyx--wrxcs-brownie26-yowie_cs-attach--maaarkg.md) |
 | 308 | 1250.8 | Asian Invasion | shlenny, 1stobie, dKim, Muppet, SwigglyP | [details](details/2026-10-14/0308--asian_invasion--shlenny-1stobie-dkim-muppet-swigglyp.md) |
 | 309 | 1250.5 | FLying PiGs | Cloh, AbramGG, iLuCk, PuLse-, app4k | [details](details/2026-10-14/0309--flying_pigs--cloh-abramgg-iluck-pulse--app4k.md) |
@@ -326,7 +326,7 @@
 | 322 | 1228.3 | The Ohio Meat Wagon | lilklone, ge0p, itBee, Noda-, captai | [details](details/2026-10-14/0322--the_ohio_meat_wagon--lilklone-ge0p-itbee-noda--captai.md) |
 | 323 | 1227.3 | NetanYAHOO | PaQeZ, Treaux_, drippppp, ian-, CHEF-GEORGE | [details](details/2026-10-14/0323--netanyahoo--paqez-treaux_-drippppp-ian--chef-george.md) |
 | 324 | 1225.1 | Sultans of Swing | mcDEAZY, starshockey6, wishywashy, JMD1, devN | [details](details/2026-10-14/0324--sultans_of_swing--mcdeazy-starshockey6-wishywashy-jmd1-dev.md) |
-| 325 | 1224.4 | innerFire | c0da, wpn_Blur, Gabimaruu, Feez-, ma1N | [details](details/2026-10-14/0325--innerfire--c0da-wpn_blur-gabimaruu-feez--ma1n.md) |
+| 325 | 1224.3 | innerFire | c0da, wpn_Blur, Gabimaruu, Feez-, ma1N | [details](details/2026-10-14/0325--innerfire--c0da-wpn_blur-gabimaruu-feez--ma1n.md) |
 | 326 | 1223.4 | Transcended | Shlepp, TheRealTalo, Wo0o0o, xxriotpro, skittle- | [details](details/2026-10-14/0326--transcended--shlepp-therealtalo-wo0o0o-xxriotpro-skit.md) |
 | 327 | 1222.5 | PogSquad | Gloofs, Fiphfil, CT-9978, EllyM-, PoggyPoggy1 | [details](details/2026-10-14/0327--pogsquad--gloofs-fiphfil-ct-9978-ellym--poggypoggy.md) |
 | 328 | 1222.1 | Goon Squad | jssmitty, --nayR--, -keviN, crabsy, ReyRey- | [details](details/2026-10-14/0328--goon_squad--jssmitty---nayr----kevin-crabsy-reyrey-.md) |
@@ -339,7 +339,7 @@
 | 335 | 1202.8 | TEMPR | Mr_Sausage, ApolloCS, 1cow, IllegalMusta, joebert999 | [details](details/2026-10-14/0335--tempr--mr_sausage-apollocs-1cow-illegalmusta-jo.md) |
 | 336 | 1201.2 | Stubbys | PenguinSWAGX, ZManFan, SupaDuperCam, CJP, Spunki | [details](details/2026-10-14/0336--stubbys--penguinswagx-zmanfan-supadupercam-cjp-sp.md) |
 | 337 | 1200.8 | MONARCH | Fraq, hotel, chr-1s, SnakeG9, 1Bash | [details](details/2026-10-14/0337--monarch--fraq-hotel-chr-1s-snakeg9-1bash.md) |
-| 338 | 1199.4 | Braindead | He1st-, Equ1pment_, ss-_, xGonv, n1_0 | [details](details/2026-10-14/0338--braindead--he1st--equ1pment_-ss-_-xgonv-n1_0.md) |
+| 338 | 1199.3 | Braindead | He1st-, Equ1pment_, ss-_, xGonv, n1_0 | [details](details/2026-10-14/0338--braindead--he1st--equ1pment_-ss-_-xgonv-n1_0.md) |
 | 339 | 1195.9 | Kennesaw State Gold 2025 | Blakers, Gortillimus, nitsuACS, 6ix_FourTV, -Or1x | [details](details/2026-10-14/0339--kennesaw_state_gold_2025--blakers-gortillimus-nitsuacs-6ix_fourtv-.md) |
 | 340 | 1195.6 | Boop Boop Gang | tdb, Jtearz, ezdoe, yob, SWEARNGJONNY | [details](details/2026-10-14/0340--boop_boop_gang--tdb-jtearz-ezdoe-yob-swearngjonny.md) |
 | 341 | 1195.3 | MadaNASCAR | Dinn, -Garchomp-, Starfy, A-Z, c9gurg | [details](details/2026-10-14/0341--madanascar--dinn--garchomp--starfy-a-z-c9gurg.md) |
@@ -388,7 +388,7 @@
 | 384 | 1096.8 | Gregs New Cut | tamed, Stay_Classy, dcb, WolffDaAwper, ScottyVolta | [details](details/2026-10-14/0384--gregs_new_cut--tamed-stay_classy-dcb-wolffdaawper-scott.md) |
 | 385 | 1093.2 | Exnitas | BeZus, M3-, NotGoob, kitchN, BobbyCritz | [details](details/2026-10-14/0385--exnitas--bezus-m3--notgoob-kitchn-bobbycritz.md) |
 | 386 | 1090.8 | MXA | Revq, po110, Znorux, -effy-, -Mexii- | [details](details/2026-10-14/0386--mxa--revq-po110-znorux--effy---mexii-.md) |
-| 387 | 1083.7 | Flow Esports | _p1ne, LandoOG, -Yapph, ziett, emper0r0 | [details](details/2026-10-14/0387--flow_esports--_p1ne-landoog--yapph-ziett-emper0r0.md) |
+| 387 | 1083.6 | Flow Esports | _p1ne, LandoOG, -Yapph, ziett, emper0r0 | [details](details/2026-10-14/0387--flow_esports--_p1ne-landoog--yapph-ziett-emper0r0.md) |
 | 388 | 1082.6 | Kahoot Squad | COMRADSNIPER, _Kotomi, KrispyKremer, Dark_Potato, Hayvo | [details](details/2026-10-14/0388--kahoot_squad--comradsniper-_kotomi-krispykremer-dark_p.md) |
 | 389 | 1082.2 | Second Nature | Cole---, JConnR, j4son, Outlier, rcmeo | [details](details/2026-10-14/0389--second_nature--cole----jconnr-j4son-outlier-rcmeo.md) |
 | 390 | 1080.3 | Sable | Grimm-_, ROWDY-----, being, xReeCe, Packy | [details](details/2026-10-14/0390--sable--grimm-_-rowdy------being-xreece-packy.md) |
@@ -400,37 +400,37 @@
 | 396 | 1061.3 | Benadryl Abusers | LemonCitrus, ReesePuf, cs_AsSaSs1n, aavsen, pg0 | [details](details/2026-10-14/0396--benadryl_abusers--lemoncitrus-reesepuf-cs_assass1n-aavsen-.md) |
 | 397 | 1060.6 | Solar Gravity | Pognu, _bIitz, C4M, _Matrix, Dudley__ | [details](details/2026-10-14/0397--solar_gravity--pognu-_biitz-c4m-_matrix-dudley__.md) |
 | 398 | 1057.3 | three11 | ahacks, muscles, lakini, okc-lover, excite | [details](details/2026-10-14/0398--three11--ahacks-muscles-lakini-okc-lover-excite.md) |
-| 399 | 1056.7 | Room Temp IQs | TeMPeR, Benito4, yLiaD, klimy, 2christian | [details](details/2026-10-14/0399--room_temp_iqs--temper-benito4-yliad-klimy-2christian.md) |
+| 399 | 1056.6 | Room Temp IQs | TeMPeR, Benito4, yLiaD, klimy, 2christian | [details](details/2026-10-14/0399--room_temp_iqs--temper-benito4-yliad-klimy-2christian.md) |
 | 400 | 1052.9 | ReGen | Sosa_-, Kally, Brensylvania, JootyBIG, Iceman67 | [details](details/2026-10-14/0400--regen--sosa_--kally-brensylvania-jootybig-icema.md) |
 | 401 | 1052.1 | James Bond Bois | wBz, Floamy, RobbieReyes, bean-DIP, AMPedd | [details](details/2026-10-14/0401--james_bond_bois--wbz-floamy-robbiereyes-bean-dip-ampedd.md) |
 | 402 | 1051.1 | Big Fish | WetDoorknob, Kenw_ay, Krollie, Tuck, mwngo | [details](details/2026-10-14/0402--big_fish--wetdoorknob-kenw_ay-krollie-tuck-mwngo.md) |
 | 403 | 1048.9 | house | voltix, vigilant, prossper, _grey, Desoward | [details](details/2026-10-14/0403--house--voltix-vigilant-prossper-_grey-desoward.md) |
-| 404 | 1047.3 | DownTown | Johnnydown, Jakey777, Ripsi, hyun, Oathsworn | [details](details/2026-10-14/0404--downtown--johnnydown-jakey777-ripsi-hyun-oathsworn.md) |
-| 405 | 1046.8 | Shock Value | Swordlord319, -dinky-, loltrip, PrimaryAsset, Blurted | [details](details/2026-10-14/0405--shock_value--swordlord319--dinky--loltrip-primaryasse.md) |
-| 406 | 1043.9 | Ubiquiti | blitz-_-, NoSwear, nicky, nomad1, cllIIp | [details](details/2026-10-14/0406--ubiquiti--blitz-_--noswear-nicky-nomad1-clliip.md) |
-| 407 | 1043.9 | VeryBigDoogoos | --Evil---, kinster, --Niv--, Noodle-, momsfav | [details](details/2026-10-14/0407--verybigdoogoos----evil----kinster---niv---noodle--momsfa.md) |
+| 404 | 1047.2 | DownTown | Johnnydown, Jakey777, Ripsi, hyun, Oathsworn | [details](details/2026-10-14/0404--downtown--johnnydown-jakey777-ripsi-hyun-oathsworn.md) |
+| 405 | 1046.7 | Shock Value | Swordlord319, -dinky-, loltrip, PrimaryAsset, Blurted | [details](details/2026-10-14/0405--shock_value--swordlord319--dinky--loltrip-primaryasse.md) |
+| 406 | 1043.9 | VeryBigDoogoos | --Evil---, kinster, --Niv--, Noodle-, momsfav | [details](details/2026-10-14/0406--verybigdoogoos----evil----kinster---niv---noodle--momsfa.md) |
+| 407 | 1043.8 | Ubiquiti | blitz-_-, NoSwear, nicky, nomad1, cllIIp | [details](details/2026-10-14/0407--ubiquiti--blitz-_--noswear-nicky-nomad1-clliip.md) |
 | 408 | 1040.4 | PSDN White | GoNo, Rabbitt-, seabass, Vye-, k0na- | [details](details/2026-10-14/0408--psdn_white--gono-rabbitt--seabass-vye--k0na-.md) |
 | 409 | 1037.4 | Team Hyper | bgmx, hipposaver, warBlood-x-, jblumz, Mustang_TV | [details](details/2026-10-14/0409--team_hyper--bgmx-hipposaver-warblood-x--jblumz-musta.md) |
 | 410 | 1036.9 | STIM | T3RMS, park666, Princton, Bowl999, powu | [details](details/2026-10-14/0410--stim--t3rms-park666-princton-bowl999-powu.md) |
-| 411 | 1036.6 | Duality Zero | fceitGOONING, obiik1ng, beast9, is_o, M1xman | [details](details/2026-10-14/0411--duality_zero--fceitgooning-obiik1ng-beast9-is_o-m1xman.md) |
+| 411 | 1036.5 | Duality Zero | fceitGOONING, obiik1ng, beast9, is_o, M1xman | [details](details/2026-10-14/0411--duality_zero--fceitgooning-obiik1ng-beast9-is_o-m1xman.md) |
 | 412 | 1036.5 | Moniseum | Yugomar, Kazami-, kalani, man01337, Monochrome | [details](details/2026-10-14/0412--moniseum--yugomar-kazami--kalani-man01337-monochro.md) |
-| 413 | 1036.2 | Epochal Esports | Ceai, direkiller, BanFlash, 3r0, DonkeyDork | [details](details/2026-10-14/0413--epochal_esports--ceai-direkiller-banflash-3r0-donkeydork.md) |
+| 413 | 1036.1 | Epochal Esports | Ceai, direkiller, BanFlash, 3r0, DonkeyDork | [details](details/2026-10-14/0413--epochal_esports--ceai-direkiller-banflash-3r0-donkeydork.md) |
 | 414 | 1027.0 | MakeYouSayLate | holdengroin, ShiferSF, tRu-E-, --DaDDyP, HS-poppins | [details](details/2026-10-14/0414--makeyousaylate--holdengroin-shifersf-tru-e----daddyp-hs-.md) |
 | 415 | 1021.7 | Boomhogs 2 | r-a-t, Casany, Zeafling, seegreen, -yesmar | [details](details/2026-10-14/0415--boomhogs_2--r-a-t-casany-zeafling-seegreen--yesmar.md) |
 | 416 | 1017.6 | HigherEducation | SneedCorp, Brokas, S3G_CH4D, Keng, MtB_ | [details](details/2026-10-14/0416--highereducation--sneedcorp-brokas-s3g_ch4d-keng-mtb_.md) |
-| 417 | 1017.4 | Mace Lindu Ruff Rebound | huskmane, zed0K, k-o-L, Karrato, _bad | [details](details/2026-10-14/0417--mace_lindu_ruff_rebound--huskmane-zed0k-k-o-l-karrato-_bad.md) |
+| 417 | 1017.3 | Mace Lindu Ruff Rebound | huskmane, zed0K, k-o-L, Karrato, _bad | [details](details/2026-10-14/0417--mace_lindu_ruff_rebound--huskmane-zed0k-k-o-l-karrato-_bad.md) |
 | 418 | 1011.4 | Kodaks Lettuce | FleX-, pxnk, BigMatt, KuShark, JD3- | [details](details/2026-10-14/0418--kodaks_lettuce--flex--pxnk-bigmatt-kushark-jd3-.md) |
 | 419 | 1002.9 | puggin4seb | BentIie, estrojin, soogyum, zr0, acekr | [details](details/2026-10-14/0419--puggin4seb--bentiie-estrojin-soogyum-zr0-acekr.md) |
 | 420 | 1002.2 | Strafe | Slays, Balyy, TsportyA, Alvah, DoomCS2 | [details](details/2026-10-14/0420--strafe--slays-balyy-tsportya-alvah-doomcs2.md) |
 | 421 | 999.8 | Specter Esports | Glen, 7obyhh, M0B, Hoellywood, L9_Sleuth | [details](details/2026-10-14/0421--specter_esports--glen-7obyhh-m0b-hoellywood-l9_sleuth.md) |
-| 422 | 997.7 | Atlantis eSports | QuagerDoodle, -Arkham-, Yoel, crames_, Renim | [details](details/2026-10-14/0422--atlantis_esports--quagerdoodle--arkham--yoel-crames_-renim.md) |
+| 422 | 997.6 | Atlantis eSports | QuagerDoodle, -Arkham-, Yoel, crames_, Renim | [details](details/2026-10-14/0422--atlantis_esports--quagerdoodle--arkham--yoel-crames_-renim.md) |
 | 423 | 993.9 | Halcyon | cronchy, crackington, ghettobird, gp777, CCHWM_Zim | [details](details/2026-10-14/0423--halcyon--cronchy-crackington-ghettobird-gp777-cch.md) |
 | 424 | 988.1 | Evil Space Wizards | -ethn, Vitalz, mythii, -brz, fuLLi | [details](details/2026-10-14/0424--evil_space_wizards---ethn-vitalz-mythii--brz-fulli.md) |
 | 425 | 986.1 | Climbers | Spikewikee, weendog00, FishOil, Brick25, -Hyp3r- | [details](details/2026-10-14/0425--climbers--spikewikee-weendog00-fishoil-brick25--hy.md) |
-| 426 | 985.1 | Famas OP | Ch3rrycs, Awsome, _burb, pecan, 81rd | [details](details/2026-10-14/0426--famas_op--ch3rrycs-awsome-_burb-pecan-81rd.md) |
+| 426 | 985.0 | Famas OP | Ch3rrycs, Awsome, _burb, pecan, 81rd | [details](details/2026-10-14/0426--famas_op--ch3rrycs-awsome-_burb-pecan-81rd.md) |
 | 427 | 984.1 | Knox Esports | nave1, Ny3zn, Arch3r_, dmray, Tywz_ | [details](details/2026-10-14/0427--knox_esports--nave1-ny3zn-arch3r_-dmray-tywz_.md) |
 | 428 | 983.9 | GodFather Gaming | big_gamer556, jeffK-, Maxeys, m0m0n0ske, Hb_hoodze | [details](details/2026-10-14/0428--godfather_gaming--big_gamer556-jeffk--maxeys-m0m0n0ske-hb_.md) |
-| 429 | 968.8 | Conduit eSports | JakeWez, i-alf, Lethe69, Frosty409, mic4h | [details](details/2026-10-14/0429--conduit_esports--jakewez-i-alf-lethe69-frosty409-mic4h.md) |
+| 429 | 968.7 | Conduit eSports | JakeWez, i-alf, Lethe69, Frosty409, mic4h | [details](details/2026-10-14/0429--conduit_esports--jakewez-i-alf-lethe69-frosty409-mic4h.md) |
 | 430 | 963.1 | REPORT MASSIVE | othelloo, HENBOOGA, millie, dr3xd, uncouth | [details](details/2026-10-14/0430--report_massive--othelloo-henbooga-millie-dr3xd-uncouth.md) |
 | 431 | 961.8 | Suboptimal counterstrike | -Shelter, impr0vise, BocchiTheAwp, vibrantcs, Feathers | [details](details/2026-10-14/0431--suboptimal_counterstrike---shelter-impr0vise-bocchitheawp-vibrantc.md) |
 | 432 | 955.9 | Seven ate Nine | Kadz, purGed, 1REGGIE, Dadinho333, aydindinho | [details](details/2026-10-14/0432--seven_ate_nine--kadz-purged-1reggie-dadinho333-aydindinh.md) |
@@ -438,75 +438,75 @@
 | 434 | 946.3 | The Bobs | sloth, maldbob, emobob, goonbob, fartbob | [details](details/2026-10-14/0434--the_bobs--sloth-maldbob-emobob-goonbob-fartbob.md) |
 | 435 | 941.6 | Counter Legends | Queenofcemen, k0nGbu, whiko, chengemeima, M1ng | [details](details/2026-10-14/0435--counter_legends--queenofcemen-k0ngbu-whiko-chengemeima-m1.md) |
 | 436 | 940.5 | Square1 | dr3w, 1webito, stormK, --BONG--, Vassoio | [details](details/2026-10-14/0436--square1--dr3w-1webito-stormk---bong---vassoio.md) |
-| 437 | 937.0 | WannaBeMovement | Miv, _yuri, lace-, mothify, sneeze1337 | [details](details/2026-10-14/0437--wannabemovement--miv-_yuri-lace--mothify-sneeze1337.md) |
+| 437 | 936.9 | WannaBeMovement | Miv, _yuri, lace-, mothify, sneeze1337 | [details](details/2026-10-14/0437--wannabemovement--miv-_yuri-lace--mothify-sneeze1337.md) |
 | 438 | 933.3 | NADIYA | krasiy4un, ihor_1337, -abc666, SharinganXD, dek1ing | [details](details/2026-10-14/0438--nadiya--krasiy4un-ihor_1337--abc666-sharinganxd-.md) |
 | 439 | 931.9 | Big Kahuna Gaming | Siege_03, -chb, spiderW, r0f, Thane0s | [details](details/2026-10-14/0439--big_kahuna_gaming--siege_03--chb-spiderw-r0f-thane0s.md) |
 | 440 | 931.6 | After Hours | angles, Tsczmire, c0w, Treat-PhD, Gamer4shame | [details](details/2026-10-14/0440--after_hours--angles-tsczmire-c0w-treat-phd-gamer4sham.md) |
-| 441 | 928.3 | Hack-A-Shaq | __Vert, LaPine-, kdm87, Meyer-, Person70 | [details](details/2026-10-14/0441--hack-a-shaq--__vert-lapine--kdm87-meyer--person70.md) |
-| 442 | 928.3 | Emerald Isle | NOWAH, Hydra1k, Chad_Kirbo, Ultimatebean, TinNeR | [details](details/2026-10-14/0442--emerald_isle--nowah-hydra1k-chad_kirbo-ultimatebean-ti.md) |
+| 441 | 928.3 | Emerald Isle | NOWAH, Hydra1k, Chad_Kirbo, Ultimatebean, TinNeR | [details](details/2026-10-14/0441--emerald_isle--nowah-hydra1k-chad_kirbo-ultimatebean-ti.md) |
+| 442 | 928.2 | Hack-A-Shaq | __Vert, LaPine-, kdm87, Meyer-, Person70 | [details](details/2026-10-14/0442--hack-a-shaq--__vert-lapine--kdm87-meyer--person70.md) |
 | 443 | 923.3 | Dead Pixel | xstakk, AstrayHito, tippyjdog, Zerkzzy, sonar | [details](details/2026-10-14/0443--dead_pixel--xstakk-astrayhito-tippyjdog-zerkzzy-sona.md) |
 | 444 | 914.1 | Vexation Esports | Octane-iwnl, HonestyCS, Neeks, w0nderr, BurneyProMod | [details](details/2026-10-14/0444--vexation_esports--octane-iwnl-honestycs-neeks-w0nderr-burn.md) |
 | 445 | 912.7 | wabbit2 | kerflompnatr, AIDAN_, PG37, CJsInferno, Verzuh | [details](details/2026-10-14/0445--wabbit2--kerflompnatr-aidan_-pg37-cjsinferno-verz.md) |
-| 446 | 909.7 | It Doesnt Matter | xiph0s, Newmarket, Moxie2, asushi, Shittyfaceit | [details](details/2026-10-14/0446--it_doesnt_matter--xiph0s-newmarket-moxie2-asushi-shittyfac.md) |
+| 446 | 909.6 | It Doesnt Matter | xiph0s, Newmarket, Moxie2, asushi, Shittyfaceit | [details](details/2026-10-14/0446--it_doesnt_matter--xiph0s-newmarket-moxie2-asushi-shittyfac.md) |
 | 447 | 909.5 | Schadenfreude | HappE, Ancros, jss666, GrandpaDave, blake704 | [details](details/2026-10-14/0447--schadenfreude--happe-ancros-jss666-grandpadave-blake704.md) |
 | 448 | 904.2 | Team Deathgrip | FlYiN_ElVIS, Combz, eztupac, NoDamage, yesvil | [details](details/2026-10-14/0448--team_deathgrip--flyin_elvis-combz-eztupac-nodamage-yesvi.md) |
 | 449 | 903.8 | Baja Blasters | femboy-bussy, -Ani--, Xman0311, BasherCS, mbyy_ | [details](details/2026-10-14/0449--baja_blasters--femboy-bussy--ani---xman0311-bashercs-mb.md) |
 | 450 | 895.6 | Friendly Fire | jerald, -Gor, Calvrix, sharpshootr, DrHippo | [details](details/2026-10-14/0450--friendly_fire--jerald--gor-calvrix-sharpshootr-drhippo.md) |
 | 451 | 895.1 | on disability | kcmo, mp_, PDF, WASTEFUL, r0gu3 | [details](details/2026-10-14/0451--on_disability--kcmo-mp_-pdf-wasteful-r0gu3.md) |
 | 452 | 894.6 | GoopT | Teeler, Mcberd, fubard, Veggie-, B00LIGAN | [details](details/2026-10-14/0452--goopt--teeler-mcberd-fubard-veggie--b00ligan.md) |
-| 453 | 890.1 | insane players |  | [details](details/2026-10-14/0453--insane_players--team.md) |
+| 453 | 890.0 | insane players |  | [details](details/2026-10-14/0453--insane_players--team.md) |
 | 454 | 884.7 | Cause and Effect Gaming | ight, d3xterity_, ANON-EE, LazLeoN, 2Pe4enya | [details](details/2026-10-14/0454--cause_and_effect_gaming--ight-d3xterity_-anon-ee-lazleon-2pe4enya.md) |
-| 455 | 883.8 | girl kissers | -TeXaSs, gadflyy, violet_, kevin, lunari | [details](details/2026-10-14/0455--girl_kissers---texass-gadflyy-violet_-kevin-lunari.md) |
+| 455 | 883.7 | girl kissers | -TeXaSs, gadflyy, violet_, kevin, lunari | [details](details/2026-10-14/0455--girl_kissers---texass-gadflyy-violet_-kevin-lunari.md) |
 | 456 | 870.4 | onliners | Primal-_-, Sufrad, Nathaniel, syth, -Josh | [details](details/2026-10-14/0456--onliners--primal-_--sufrad-nathaniel-syth--josh.md) |
 | 457 | 863.1 | Cadillac F1 eSports Team | Randy1, BLACK_KIMCHI, floorine9, Eternal-1, Spr3ad | [details](details/2026-10-14/0457--cadillac_f1_esports_team--randy1-black_kimchi-floorine9-eternal-1-.md) |
 | 458 | 861.0 | Thrash | Tread, gibbyy_, enoshi, xaan, Gyokusai | [details](details/2026-10-14/0458--thrash--tread-gibbyy_-enoshi-xaan-gyokusai.md) |
 | 459 | 848.8 | Puddle Pirates | brodyo, HUNCHOJACK_, _Sasha-, brodan100105, 1ucky666 | [details](details/2026-10-14/0459--puddle_pirates--brodyo-hunchojack_-_sasha--brodan100105-.md) |
-| 460 | 845.2 | Absent Minded | Pudie, -coNN, tRIPwire_, Kroney519, ViviD888 | [details](details/2026-10-14/0460--absent_minded--pudie--conn-tripwire_-kroney519-vivid888.md) |
-| 461 | 836.9 | Remnant | cvb, Xeph0r, Exoskeletal, Regnar, -Faust- | [details](details/2026-10-14/0461--remnant--cvb-xeph0r-exoskeletal-regnar--faust-.md) |
-| 462 | 835.7 | dogwater | HI_IM_TOM, Sykess, JesseP_, Tailz, Cyynn | [details](details/2026-10-14/0462--dogwater--hi_im_tom-sykess-jessep_-tailz-cyynn.md) |
+| 460 | 845.1 | Absent Minded | Pudie, -coNN, tRIPwire_, Kroney519, ViviD888 | [details](details/2026-10-14/0460--absent_minded--pudie--conn-tripwire_-kroney519-vivid888.md) |
+| 461 | 836.8 | Remnant | cvb, Xeph0r, Exoskeletal, Regnar, -Faust- | [details](details/2026-10-14/0461--remnant--cvb-xeph0r-exoskeletal-regnar--faust-.md) |
+| 462 | 835.6 | dogwater | HI_IM_TOM, Sykess, JesseP_, Tailz, Cyynn | [details](details/2026-10-14/0462--dogwater--hi_im_tom-sykess-jessep_-tailz-cyynn.md) |
 | 463 | 834.9 | de_throne | TUBPOOPER, itsreallyR3D, meghoul, Cappa, R1C0 | [details](details/2026-10-14/0463--de_throne--tubpooper-itsreallyr3d-meghoul-cappa-r1c.md) |
 | 464 | 832.4 | 69 | Lustikkk, Entityy, v1tezzzzz, welldonskiy, _STRILOK_ | [details](details/2026-10-14/0464--69--lustikkk-entityy-v1tezzzzz-welldonskiy-_.md) |
-| 465 | 830.2 | Spin da block | MSG, tensaii, -Carter-, daBombCarry, duc | [details](details/2026-10-14/0465--spin_da_block--msg-tensaii--carter--dabombcarry-duc.md) |
+| 465 | 830.1 | Spin da block | MSG, tensaii, -Carter-, daBombCarry, duc | [details](details/2026-10-14/0465--spin_da_block--msg-tensaii--carter--dabombcarry-duc.md) |
 | 466 | 830.0 | Feels MAIN Man | goose_x5, Feebz, MUDFLAPS, BigBadJohn, petex9 | [details](details/2026-10-14/0466--feels_main_man--goose_x5-feebz-mudflaps-bigbadjohn-petex.md) |
 | 467 | 825.5 | Octane | talx_, Gxldy, Rodeo, Keokefef, glizzy | [details](details/2026-10-14/0467--octane--talx_-gxldy-rodeo-keokefef-glizzy.md) |
 | 468 | 822.4 | Pro Lapse | Krooked, eobz, freefallen, teknikal, S37 | [details](details/2026-10-14/0468--pro_lapse--krooked-eobz-freefallen-teknikal-s37.md) |
 | 469 | 812.8 | Gambling and Young | Shadowbladex, Tspencer1, Andooby, k4rmaa_, ObMmM | [details](details/2026-10-14/0469--gambling_and_young--shadowbladex-tspencer1-andooby-k4rmaa_-o.md) |
-| 470 | 811.3 | In Our Prime | NohVoha, MyNameJeff, PThirteen, Lil_Kelpy, BigBardo | [details](details/2026-10-14/0470--in_our_prime--nohvoha-mynamejeff-pthirteen-lil_kelpy-b.md) |
-| 471 | 808.5 | CounterStreakrs | B0oM202, MANITOOKE-A-, Scruffle, ---J3---, WiCKeD--1 | [details](details/2026-10-14/0471--counterstreakrs--b0om202-manitooke-a--scruffle----j3----w.md) |
+| 470 | 811.2 | In Our Prime | NohVoha, MyNameJeff, PThirteen, Lil_Kelpy, BigBardo | [details](details/2026-10-14/0470--in_our_prime--nohvoha-mynamejeff-pthirteen-lil_kelpy-b.md) |
+| 471 | 808.4 | CounterStreakrs | B0oM202, MANITOOKE-A-, Scruffle, ---J3---, WiCKeD--1 | [details](details/2026-10-14/0471--counterstreakrs--b0om202-manitooke-a--scruffle----j3----w.md) |
 | 472 | 797.6 | Therapist | Matt-V-, gamergoku542, Anzio, -SCOPE_1K, SamueI | [details](details/2026-10-14/0472--therapist--matt-v--gamergoku542-anzio--scope_1k-sam.md) |
 | 473 | 793.8 | AML | TheVicBro, uncjoi, KiWiFrute, darkAD, dotz14 | [details](details/2026-10-14/0473--aml--thevicbro-uncjoi-kiwifrute-darkad-dotz14.md) |
-| 474 | 780.5 | Iron Horse | TRISTY-HGM, ToxicCannoli, NoVaVoN, btz, London | [details](details/2026-10-14/0474--iron_horse--tristy-hgm-toxiccannoli-novavon-btz-lond.md) |
-| 475 | 780.5 | Another Day in Paradise | spearMONSTER, 1Hue-, fkmup, 1Sanityy, Kajuin | [details](details/2026-10-14/0475--another_day_in_paradise--spearmonster-1hue--fkmup-1sanityy-kajuin.md) |
-| 476 | 776.5 | Sleepers | 5teel, spl1ce, Juishee, Amadeuz, To4sT | [details](details/2026-10-14/0476--sleepers--5teel-spl1ce-juishee-amadeuz-to4st.md) |
-| 477 | 764.5 | Brick Layers | BrokenWild, mted1921, Toasty777, Drotex, macchiata | [details](details/2026-10-14/0477--brick_layers--brokenwild-mted1921-toasty777-drotex-mac.md) |
-| 478 | 757.8 | Kushtaka | JoNeSY, Nat3G, Kiki76, asmodeus, l0vely | [details](details/2026-10-14/0478--kushtaka--jonesy-nat3g-kiki76-asmodeus-l0vely.md) |
+| 474 | 780.5 | Another Day in Paradise | spearMONSTER, 1Hue-, fkmup, 1Sanityy, Kajuin | [details](details/2026-10-14/0474--another_day_in_paradise--spearmonster-1hue--fkmup-1sanityy-kajuin.md) |
+| 475 | 780.4 | Iron Horse | TRISTY-HGM, ToxicCannoli, NoVaVoN, btz, London | [details](details/2026-10-14/0475--iron_horse--tristy-hgm-toxiccannoli-novavon-btz-lond.md) |
+| 476 | 776.4 | Sleepers | 5teel, spl1ce, Juishee, Amadeuz, To4sT | [details](details/2026-10-14/0476--sleepers--5teel-spl1ce-juishee-amadeuz-to4st.md) |
+| 477 | 764.4 | Brick Layers | BrokenWild, mted1921, Toasty777, Drotex, macchiata | [details](details/2026-10-14/0477--brick_layers--brokenwild-mted1921-toasty777-drotex-mac.md) |
+| 478 | 757.7 | Kushtaka | JoNeSY, Nat3G, Kiki76, asmodeus, l0vely | [details](details/2026-10-14/0478--kushtaka--jonesy-nat3g-kiki76-asmodeus-l0vely.md) |
 | 479 | 748.6 | FourStrokeGang | fatazoid, ratballgary, Sucklover87, JOHNR, rrexof | [details](details/2026-10-14/0479--fourstrokegang--fatazoid-ratballgary-sucklover87-johnr-r.md) |
 | 480 | 747.5 | HUMA | SteveSaw10, WIDOW1g, _GOR-, JaXsy, Pokario | [details](details/2026-10-14/0480--huma--stevesaw10-widow1g-_gor--jaxsy-pokario.md) |
 | 481 | 742.4 | CVC Retirement | Carl1l1, Endadoor, do1phn, FRIGHT3N, DivineFPS | [details](details/2026-10-14/0481--cvc_retirement--carl1l1-endadoor-do1phn-fright3n-divinef.md) |
 | 482 | 731.5 | SNOWPLOWERS | Tyreesh, Cocaina97, Jequavius, zepps, MUZILLA | [details](details/2026-10-14/0482--snowplowers--tyreesh-cocaina97-jequavius-zepps-muzill.md) |
-| 483 | 721.5 | EZ2025 | Zitrone_, sil_, solid37, tomjr88, WOWITSMEHI | [details](details/2026-10-14/0483--ez2025--zitrone_-sil_-solid37-tomjr88-wowitsmehi.md) |
-| 484 | 720.3 | Power of Friendship | sirjiggs, PeeJay3495, Alonson, yung_air, AddySandwich | [details](details/2026-10-14/0484--power_of_friendship--sirjiggs-peejay3495-alonson-yung_air-add.md) |
+| 483 | 721.4 | EZ2025 | Zitrone_, sil_, solid37, tomjr88, WOWITSMEHI | [details](details/2026-10-14/0483--ez2025--zitrone_-sil_-solid37-tomjr88-wowitsmehi.md) |
+| 484 | 720.2 | Power of Friendship | sirjiggs, PeeJay3495, Alonson, yung_air, AddySandwich | [details](details/2026-10-14/0484--power_of_friendship--sirjiggs-peejay3495-alonson-yung_air-add.md) |
 | 485 | 714.6 | monitor off | OkayKris, -RYL, Poonshi, -cel_, HASHIRA | [details](details/2026-10-14/0485--monitor_off--okaykris--ryl-poonshi--cel_-hashira.md) |
 | 486 | 693.6 | Knight Owls | tydy3, vertsie, c0de, S-O-L-A-C-E, OogybeAr | [details](details/2026-10-14/0486--knight_owls--tydy3-vertsie-c0de-s-o-l-a-c-e-oogybear.md) |
 | 487 | 691.3 | Grandpa Berets | MoocHjr, zEtti, cique_, pinekone, bojanglez | [details](details/2026-10-14/0487--grandpa_berets--moochjr-zetti-cique_-pinekone-bojanglez.md) |
-| 488 | 686.2 | Potential to Stack Dough | sleepykt, 5eb, -jakk, TalonGarbage, toldman | [details](details/2026-10-14/0488--potential_to_stack_dough--sleepykt-5eb--jakk-talongarbage-toldman.md) |
+| 488 | 686.1 | Potential to Stack Dough | sleepykt, 5eb, -jakk, TalonGarbage, toldman | [details](details/2026-10-14/0488--potential_to_stack_dough--sleepykt-5eb--jakk-talongarbage-toldman.md) |
 | 489 | 639.1 | Casipanther | Seraphimnoob, Croissannt, BreadPanther, Amat3rasucfa, PureWhite | [details](details/2026-10-14/0489--casipanther--seraphimnoob-croissannt-breadpanther-ama.md) |
 | 490 | 637.6 | 37U Passion | GRITMAXXER, stepback003, BingusKing, CarelessDoug, -yanno- | [details](details/2026-10-14/0490--37u_passion--gritmaxxer-stepback003-bingusking-carele.md) |
 | 491 | 633.4 | Muncle | _REW_, Qwickie, ItsHarryBoi, Oogy, zed | [details](details/2026-10-14/0491--muncle--_rew_-qwickie-itsharryboi-oogy-zed.md) |
 | 492 | 605.3 | GOMI dot CLUB | KiDxHeart, patitas, slorpepe, timsta, DOZILLA | [details](details/2026-10-14/0492--gomi_dot_club--kidxheart-patitas-slorpepe-timsta-dozill.md) |
-| 493 | 582.0 | SuperSoakerClub | IamSudzy, Es6x, _flan, Electrikey, TwistedMango | [details](details/2026-10-14/0493--supersoakerclub--iamsudzy-es6x-_flan-electrikey-twistedma.md) |
-| 494 | 570.5 | we get it back | shabuki, steviano, Gr0ot, Gettooled, sK1PP- | [details](details/2026-10-14/0494--we_get_it_back--shabuki-steviano-gr0ot-gettooled-sk1pp-.md) |
+| 493 | 581.9 | SuperSoakerClub | IamSudzy, Es6x, _flan, Electrikey, TwistedMango | [details](details/2026-10-14/0493--supersoakerclub--iamsudzy-es6x-_flan-electrikey-twistedma.md) |
+| 494 | 570.4 | we get it back | shabuki, steviano, Gr0ot, Gettooled, sK1PP- | [details](details/2026-10-14/0494--we_get_it_back--shabuki-steviano-gr0ot-gettooled-sk1pp-.md) |
 | 495 | 558.0 | RejexEsports | ChiefKoz2, Jaggrr, nalem-, FrogTheDog, Jermaine | [details](details/2026-10-14/0495--rejexesports--chiefkoz2-jaggrr-nalem--frogthedog-jerma.md) |
-| 496 | 555.2 | Solbound | sveninaden, cowboy-, GetGunked, _Dank-, Tokar | [details](details/2026-10-14/0496--solbound--sveninaden-cowboy--getgunked-_dank--toka.md) |
-| 497 | 554.7 | Brothers United | forMula_, Omnic, kenNjii, bubs-, XentriQ | [details](details/2026-10-14/0497--brothers_united--formula_-omnic-kennjii-bubs--xentriq.md) |
+| 496 | 555.1 | Solbound | sveninaden, cowboy-, GetGunked, _Dank-, Tokar | [details](details/2026-10-14/0496--solbound--sveninaden-cowboy--getgunked-_dank--toka.md) |
+| 497 | 554.6 | Brothers United | forMula_, Omnic, kenNjii, bubs-, XentriQ | [details](details/2026-10-14/0497--brothers_united--formula_-omnic-kennjii-bubs--xentriq.md) |
 | 498 | 553.6 | Dapper North | LEGITtopic, WaysXD, Riptemoff, xR0n1, Beckster | [details](details/2026-10-14/0498--dapper_north--legittopic-waysxd-riptemoff-xr0n1-beckst.md) |
 | 499 | 550.5 | Old Dads Banging | Extremogato, beanNess, The5Head, B0nkBro, meola | [details](details/2026-10-14/0499--old_dads_banging--extremogato-beanness-the5head-b0nkbro-me.md) |
-| 500 | 533.8 | After Peak | drunkhero, acroniks, Special-K, Tweekman, skrrrrleet | [details](details/2026-10-14/0500--after_peak--drunkhero-acroniks-special-k-tweekman-sk.md) |
-| 501 | 508.8 | Shaq Diesel | shea, Fishy, Wottr, PIayerhater, -HooT- | [details](details/2026-10-14/0501--shaq_diesel--shea-fishy-wottr-piayerhater--hoot-.md) |
-| 502 | 459.8 | SixSevenZaZa | Zucc_, Tr1d, foe, Apache_8, kix | [details](details/2026-10-14/0502--sixsevenzaza--zucc_-tr1d-foe-apache_8-kix.md) |
+| 500 | 533.7 | After Peak | drunkhero, acroniks, Special-K, Tweekman, skrrrrleet | [details](details/2026-10-14/0500--after_peak--drunkhero-acroniks-special-k-tweekman-sk.md) |
+| 501 | 508.7 | Shaq Diesel | shea, Fishy, Wottr, PIayerhater, -HooT- | [details](details/2026-10-14/0501--shaq_diesel--shea-fishy-wottr-piayerhater--hoot-.md) |
+| 502 | 459.7 | SixSevenZaZa | Zucc_, Tr1d, foe, Apache_8, kix | [details](details/2026-10-14/0502--sixsevenzaza--zucc_-tr1d-foe-apache_8-kix.md) |
 | 503 | 404.1 | Courage | DRUMMIE, stalker, rabbi_mike, ATTKR, kaz | [details](details/2026-10-14/0503--courage--drummie-stalker-rabbi_mike-attkr-kaz.md) |
-| 504 | 382.0 | shirtcockin | boshy32, DUM0RE, delphiki, xstk, Cjoshum | [details](details/2026-10-14/0504--shirtcockin--boshy32-dum0re-delphiki-xstk-cjoshum.md) |
+| 504 | 381.9 | shirtcockin | boshy32, DUM0RE, delphiki, xstk, Cjoshum | [details](details/2026-10-14/0504--shirtcockin--boshy32-dum0re-delphiki-xstk-cjoshum.md) |
 | 505 | 339.7 | 3 Feet Of Meat | Destiny_Rs, requis, 907doobyyy, SchmidtyP, 6evan | [details](details/2026-10-14/0505--3_feet_of_meat--destiny_rs-requis-907doobyyy-schmidtyp-6.md) |
-| 506 | 260.4 | Scrimless | Ethan_G, h0NEYz, TheMayor, bird____, Artaxian | [details](details/2026-10-14/0506--scrimless--ethan_g-h0neyz-themayor-bird____-artaxia.md) |
+| 506 | 260.3 | Scrimless | Ethan_G, h0NEYz, TheMayor, bird____, Artaxian | [details](details/2026-10-14/0506--scrimless--ethan_g-h0neyz-themayor-bird____-artaxia.md) |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

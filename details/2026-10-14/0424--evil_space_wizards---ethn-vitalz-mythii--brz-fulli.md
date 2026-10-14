@@ -19,6 +19,42 @@ seed_factor 0.093 = 0.25 x Tier Exposure (0.043) + 0.50 x Quality Wins (0.024) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.093 | 1229.7 | - |
+| +30 days | 0.065 | 1191.1 | -38.5 |
+| +60 days | 0.053 | 1174.0 | -55.7 |
+| +90 days | 0.031 | 1143.9 | -85.8 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.043 vs 0.075 average, gap -0.032). Matching that average is worth about 11.2 seed points.
+
+- Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-21) 0.97; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat Automatic HQ at S58 NA Main B - Regular Season (2026-07-17) 0.11; beat Absent Minded at S58 NA Main B - Regular Season (2026-08-21) 0.09; beat Macs Snacks at S58 NA Main B - Regular Season (2026-07-22) 0.09
+- Opponent Network drivers: beat Absent Minded at S58 NA Main B - Regular Season (2026-08-21) 0.97; beat RejexEsports at S58 NA Main B - Regular Season (2026-08-19) 0.95; beat Macs Snacks at S58 NA Main B - Regular Season (2026-07-22) 0.74
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +664.9 |
+| regain | 12 | 2256.1 | +658.0 |
+| Zomblers | 22 | 2114.7 | +657.2 |
+| LAG Gaming | 8 | 2507.3 | +656.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.3).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs OnlyFans (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Main Central - Regular Season vs Kurrupted Mindz (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.05]
+- S57 NA Main Central - Regular Season vs onliners (2026-05-08): expires in 20 days [Quality Wins 0.00, Opponent Network 0.16]
+- S57 NA Main Central - Regular Season vs Scrimless (2026-05-14): expires in 26 days [Quality Wins 0.00, Opponent Network 0.20]
+- S57 NA Main Central - Regular Season vs Aers Money Crew (2026-05-15): expires in 27 days [Quality Wins 0.03, Opponent Network 0.21]
+- S57 NA Main Central - Regular Season vs GOOZPEEK (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.02, Opponent Network 0.26]
+
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -41,8 +77,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.03 | 0.21 | +134.4 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-05-14 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +5.4 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-05-08 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +238.5 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-05-06 | Yogaball Frags | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -299.6 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-05-01 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -258.2 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-05-06 | Yogaball Frags | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -299.7 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-05-01 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -258.3 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-04-29 | YHUBEPCAM | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -173.0 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-04-24 | Kurrupted Mindz | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +63.0 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-04-22 | OnlyFans | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +320.6 | -brz, -ethn, Vitalz, fuLLi, mythii |

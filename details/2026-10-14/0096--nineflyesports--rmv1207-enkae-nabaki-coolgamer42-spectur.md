@@ -4,14 +4,14 @@ Roster: RMV1207, Enkae, Nabaki, coolgamer42, Spectur-
 NARS Rank: 96 of 506
 
 Final Rating: 1725.1
-Seeded Start: 1392.9
-H2H Adjustment: +332.2
+Seeded Start: 1392.8
+H2H Adjustment: +332.3 (capped at +-300, raw +332.2)
 
-Final Rating (1725.1) = Seeded Start (1392.9) + H2H Adjustment (+332.2)
+Final Rating (1725.1) = Seeded Start (1392.8) + H2H Adjustment (+332.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.209 x 1400 = 1392.9
+                = 1100 + 0.209 x 1400 = 1392.8
 
 seed_factor 0.209 = 0.25 x Tier Exposure (0.158) + 0.50 x Quality Wins (0.092) + 0.25 x Opponent Network (0.496)
 
@@ -19,13 +19,47 @@ seed_factor 0.209 = 0.25 x Tier Exposure (0.158) + 0.50 x Quality Wins (0.092) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.209 | 1392.8 | - |
+| +30 days | 0.182 | 1354.2 | -38.7 |
+| +60 days | 0.164 | 1330.0 | -62.9 |
+| +90 days | 0.134 | 1288.2 | -104.6 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.496 vs 0.557 average, gap -0.061). Matching that average is worth about 21.4 seed points.
+
+- Tier Exposure drivers: S58 NA Advanced Central - Playoffs (2026-09-11) 1.52; S59 NA Advanced Central - Regular Season (2026-10-13) 1.43; S58 NA Advanced Central - Regular Season (2026-08-26) 1.26
+- Quality Wins drivers: beat EXODIA at S58 NA Advanced Central - Playoffs (2026-09-05) 0.83; beat Demolition at S58 NA Advanced Central - Regular Season (2026-08-26) 0.19; beat NXG Esports at S58 NA Advanced Central - Regular Season (2026-08-04) 0.17
+- Opponent Network drivers: beat EXODIA at S58 NA Advanced Central - Playoffs (2026-09-05) 1.45; beat Demolition at S58 NA Advanced Central - Regular Season (2026-08-26) 1.26; beat 027fam at S58 NA Advanced Central - Regular Season (2026-08-20) 1.20
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +249.9 |
+| SportsBetExpert | 6 | 2672.3 | +247.9 |
+| M80 | 2 | 3081.4 | +245.3 |
+| Wildcard | 3 | 2911.9 | +243.1 |
+| Liquid | 1 | 3103.3 | +241.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs NuTorious (2026-04-20): expires in 2 days [Quality Wins 0.02, Opponent Network 0.02]
+- S57 NA Advanced Central - Regular Season vs NineFly Esports (2026-04-29): expires in 11 days [Quality Wins 0.02, Opponent Network 0.10]
+- S57 NA Advanced Central - Regular Season vs counterstrike Team (2026-05-21): expires in 33 days [Quality Wins 0.06, Opponent Network 0.30]
+- S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
+
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-13 | Hairy Scary Bandits | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 0.00 | 0.00 | -76.1 | --Fade, Enkae, SgtBAx, Spectur-, coolgamer42 |
-| 2026-09-11 | Brahmas | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.98 | 1.55 | 1.00 | 1.52 | 0.00 | 0.00 | -4.1 | Enkae, RMV1207, Spectur-, coolgamer42, duLuded_- |
+| 2026-09-11 | Brahmas | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.98 | 1.55 | 1.00 | 1.52 | 0.00 | 0.00 | -4.0 | Enkae, RMV1207, Spectur-, coolgamer42, duLuded_- |
 | 2026-09-05 | EXODIA | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.94 | 1.55 | 1.00 | 1.45 | 0.83 | 1.45 | +70.5 | Enkae, RMV1207, Spectur-, coolgamer42, duLuded_- |
 | 2026-09-03 | LAG Gaming | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.92 | 1.55 | 1.00 | 1.43 | 0.00 | 0.00 | -0.0 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-08-26 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.19 | 1.26 | +11.7 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
@@ -39,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.06 | 0.30 | +161.2 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
 | 2026-05-20 | Desi Boyz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -72.6 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
 | 2026-05-15 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -0.9 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
-| 2026-05-14 | EMPIRE | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -168.4 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
+| 2026-05-14 | EMPIRE | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -168.5 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
 | 2026-05-12 | raisedbypixels | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -16.9 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
 | 2026-05-05 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -29.0 | Kuraaa, Nabaki, RMV1207, Spectur-, coolgamer42 |
 | 2026-04-29 | NineFly Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.10 | 0.02 | 0.10 | +145.3 | Kuraaa, Nabaki, RMV1207, Spectur-, coolgamer42 |

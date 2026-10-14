@@ -3,11 +3,11 @@ Team Name: AURA Esports
 Roster: NIWIH, mooseM, Toast, Adeft-, LevelDown
 NARS Rank: 159 of 506
 
-Final Rating: 1558.0
+Final Rating: 1558.1
 Seeded Start: 1366.7
-H2H Adjustment: +191.3
+H2H Adjustment: +191.4
 
-Final Rating (1558.0) = Seeded Start (1366.7) + H2H Adjustment (+191.3)
+Final Rating (1558.1) = Seeded Start (1366.7) + H2H Adjustment (+191.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,41 @@ seed_factor 0.191 = 0.25 x Tier Exposure (0.129) + 0.50 x Quality Wins (0.062) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.191 | 1366.7 | - |
+| +30 days | 0.165 | 1331.5 | -35.2 |
+| +60 days | 0.147 | 1305.4 | -61.3 |
+| +90 days | 0.119 | 1266.1 | -100.6 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.062 vs 0.028 average, gap +0.034). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: NSTLGA League | Sapphire Conference (2026-08-27) 1.05; S58 NA Intermediate Central - Playoffs A (2026-09-15) 1.00; S58 NA Intermediate A - Regular Season (2026-08-27) 0.88
+- Quality Wins drivers: beat Omen Esports at NSTLGA League | Sapphire Conference (2026-08-25) 0.35; beat WaterDrinkers at S58 NA Intermediate Central - Playoffs A (2026-09-12) 0.12; beat RunTheDamnBall at S58 NA Intermediate A - Regular Season (2026-08-27) 0.10
+- Opponent Network drivers: beat Omen Esports at NSTLGA League | Sapphire Conference (2026-08-25) 1.03; beat 1001 Fragrance at S58 NA Intermediate Central - Playoffs A (2026-09-15) 1.00; beat WaterDrinkers at S58 NA Intermediate Central - Playoffs A (2026-09-12) 0.98
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +363.8 |
+| SportsBetExpert | 6 | 2672.3 | +362.3 |
+| M80 | 2 | 3081.4 | +356.4 |
+| LAG Gaming | 8 | 2507.3 | +354.0 |
+| Wildcard | 3 | 2911.9 | +353.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Mace Lindu Ruff Rebound (2026-05-20): expires in 32 days [Tier Exposure 0.22, Quality Wins 0.02]
+- S57 NA Open1-8 Central - Playoffs (2026-05-27): expires in 39 days [Tier Exposure 0.26]
+- S57 NA Intermediate Central - Playoffs B vs Kushtaka (2026-05-29): expires in 41 days [Opponent Network 0.28]
+- S57 NA Intermediate Central - Playoffs B (2026-05-31): expires in 43 days [Tier Exposure 0.29]
+- S58 NA Intermediate A - Regular Season vs Lan Bears (2026-07-15): expires in 88 days [Quality Wins 0.05, Opponent Network 0.59]
 
 #### Matches (32 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -48,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-27 | Sleepers | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -203.4 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-27 | TheMilkMen | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +194.1 | Cutterika, Psych, akayoungman, itzKeeb, sensed |
 | 2026-05-20 | Mace Lindu Ruff Rebound | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +3.9 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
-| 2026-05-15 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +270.6 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
+| 2026-05-15 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +270.7 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-13 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -2.7 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-08 | High-Tech Performance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -165.6 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-06 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -245.2 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |

@@ -19,6 +19,34 @@ seed_factor 0.050 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.006) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.050 | 1170.5 | - |
+| +30 days | 0.050 | 1169.8 | -0.7 |
+| +60 days | 0.049 | 1169.2 | -1.3 |
+| +90 days | 0.049 | 1168.1 | -2.4 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.006 vs 0.006 average, gap +0.000). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97
+- Quality Wins drivers: beat Team Zhao at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.06; beat TeamFlashGaming at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.03
+- Opponent Network drivers: beat Team Zhao at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93; beat TeamFlashGaming at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +408.6 |
+| SportsBetExpert | 6 | 2672.3 | +408.2 |
+| LAG Gaming | 8 | 2507.3 | +402.3 |
+| regain | 12 | 2256.1 | +401.0 |
+| M80 | 2 | 3081.4 | +399.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.3), SixSevenZaZa (+0.5).
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

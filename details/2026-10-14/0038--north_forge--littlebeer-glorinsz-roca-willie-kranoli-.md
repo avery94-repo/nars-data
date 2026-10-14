@@ -19,6 +19,40 @@ seed_factor 0.395 = 0.25 x Tier Exposure (0.268) + 0.50 x Quality Wins (0.248) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.395 | 1652.6 | - |
+| +30 days | 0.371 | 1620.1 | -32.5 |
+| +60 days | 0.354 | 1595.2 | -57.4 |
+| +90 days | 0.328 | 1558.6 | -94.0 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.268 vs 0.558 average, gap -0.290). Matching that average is worth about 101.5 seed points.
+
+- Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-15) 1.55; S59 NA Advanced Central - Regular Season (2026-10-07) 1.43; Group Stage - CROSSFIRE Season 6 (2026-09-11) 1.30
+- Quality Wins drivers: beat Wanted Goons at S59 NA Advanced Central - Regular Season (2026-10-13) 1.43; beat Phantom Sense at Group Stage - CROSSFIRE Season 6 (2026-09-10) 0.44; beat EMPIRE at S57 NA Advanced Central - Playoffs (2026-06-04) 0.39
+- Opponent Network drivers: beat Wanted Goons at S59 NA Advanced Central - Regular Season (2026-10-13) 1.43; beat FUELED BY HATE at Group Stage - CROSSFIRE Season 6 (2026-09-11) 1.30; beat Phantom Sense at Group Stage - CROSSFIRE Season 6 (2026-09-10) 1.29
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +62.6 |
+| M80 | 2 | 3081.4 | +61.8 |
+| SportsBetExpert | 6 | 2672.3 | +61.6 |
+| Wildcard | 3 | 2911.9 | +61.0 |
+| Liquid | 1 | 3103.3 | +60.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Dead Pixel (+0.0), It Doesnt Matter (+0.0), GoopT (+0.0), Cause and Effect Gaming (+0.0), girl kissers (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs Desi Boyz (2026-05-19): expires in 31 days [Quality Wins 0.24]
+- S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
+- S57 NA Advanced Central - Playoffs vs EMPIRE (2026-06-04): expires in 47 days [Quality Wins 0.39]
+- S57 NA Advanced Central - Playoffs (2026-06-08): expires in 51 days [Tier Exposure 0.52]
+
 #### Matches (39 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -26,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-13 | Wanted Goons | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 1.43 | 1.43 | +33.3 | Redman_-, Willie, kmzbn, mmsz, roca |
 | 2026-10-07 | Villainous | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 0.00 | 0.00 | -15.6 | Redman_-, Willie, kmzbn, mmsz, roca |
-| 2026-09-17 | Beyond Limits | L | 1-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -40.8 | 50b9cc25, Kranoli-, Willie, mmsz, roca |
+| 2026-09-17 | Beyond Limits | L | 1-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -40.9 | 50b9cc25, Kranoli-, Willie, mmsz, roca |
 | 2026-09-15 | NuTorious | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -32.2 | 50b9cc25, Kranoli-, Willie, mmsz, roca |
 | 2026-09-11 | FUELED BY HATE | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.33 | 1.00 | 1.30 | 0.21 | 1.30 | +0.3 | Kranoli-, LittleBEER, Willie, mmsz, roca |
 | 2026-09-10 | Phantom Sense | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.33 | 1.00 | 1.29 | 0.44 | 1.29 | +69.1 | 50b9cc25, Kranoli-, Willie, mmsz, roca |
@@ -54,7 +88,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-04 | EMPIRE | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.39 | 0.47 | +211.4 | LittleBEER, Willie, freakazoid, mmsz, roca |
 | 2026-05-21 | Baatarz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.01 | 0.30 | +7.9 | LittleBEER, Willie, freakazoid, mmsz, roca |
 | 2026-05-19 | Desi Boyz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.24 | 0.28 | +386.5 | LittleBEER, Willie, freakazoid, mmsz, roca |
-| 2026-05-14 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -415.9 | LittleBEER, Willie, freakazoid, mmsz, roca |
+| 2026-05-14 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -416.0 | LittleBEER, Willie, freakazoid, mmsz, roca |
 | 2026-05-13 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -202.2 | LittleBEER, Willie, freakazoid, mmsz, roca |
 | 2026-05-07 | Shimmer | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.06 | 0.17 | +2.5 | LittleBEER, Willie, freakazoid, mmsz, roca |
 | 2026-05-06 | NZ Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.02 | 0.16 | +156.1 | LittleBEER, Willie, freakazoid, mmsz, roca |

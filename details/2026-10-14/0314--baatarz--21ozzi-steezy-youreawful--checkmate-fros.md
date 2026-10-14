@@ -4,20 +4,56 @@ Roster: 21ozzi, steezy, YOUREAWFUL, -checkmate, frostez
 NARS Rank: 314 of 506
 
 Final Rating: 1241.7
-Seeded Start: 1131.3
-H2H Adjustment: +110.4
+Seeded Start: 1131.2
+H2H Adjustment: +110.5
 
-Final Rating (1241.7) = Seeded Start (1131.3) + H2H Adjustment (+110.4)
+Final Rating (1241.7) = Seeded Start (1131.2) + H2H Adjustment (+110.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.022 x 1400 = 1131.3
+                = 1100 + 0.022 x 1400 = 1131.2
 
 seed_factor 0.022 = 0.25 x Tier Exposure (0.029) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.033)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.022 | 1131.2 | - |
+| +30 days | 0.003 | 1103.7 | -27.5 |
+| +60 days | 0.000 | 1100.0 | -31.2 |
+| +90 days | 0.000 | 1100.0 | -31.2 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.033 vs 0.342 average, gap -0.309). Matching that average is worth about 108.2 seed points.
+
+- Tier Exposure drivers: S57 NA Advanced Central - Playoffs (2026-06-09) 0.52; S57 NA Advanced Central - Regular Season (2026-05-21) 0.30
+- Quality Wins drivers: beat Desi Boyz at S57 NA Advanced Central - Regular Season (2026-05-08) 0.15; beat Phantom Sense at S57 NA Advanced Central - Regular Season (2026-05-07) 0.06; beat Holly Molly at S57 NA Advanced Central - Regular Season (2026-04-23) 0.01
+- Opponent Network drivers: beat Desi Boyz at S57 NA Advanced Central - Regular Season (2026-05-08) 0.18; beat Phantom Sense at S57 NA Advanced Central - Regular Season (2026-05-07) 0.17; beat Imperium at S57 NA Advanced Central - Regular Season (2026-04-28) 0.09
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +664.8 |
+| SportsBetExpert | 6 | 2672.3 | +663.9 |
+| LAG Gaming | 8 | 2507.3 | +653.7 |
+| M80 | 2 | 3081.4 | +650.2 |
+| regain | 12 | 2256.1 | +648.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.4), Courage (+0.5), SixSevenZaZa (+0.8).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs Holly Molly (2026-04-23): expires in 5 days [Quality Wins 0.01, Opponent Network 0.05]
+- S57 NA Advanced Central - Regular Season vs Imperium (2026-04-28): expires in 10 days [Quality Wins 0.00, Opponent Network 0.09]
+- S57 NA Advanced Central - Regular Season vs Phantom Sense (2026-05-07): expires in 19 days [Quality Wins 0.06, Opponent Network 0.17]
+- S57 NA Advanced Central - Regular Season vs Desi Boyz (2026-05-08): expires in 20 days [Quality Wins 0.15, Opponent Network 0.18]
+- S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
+- S57 NA Advanced Central - Playoffs (2026-06-09): expires in 52 days [Tier Exposure 0.52]
 
 #### Matches (10 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

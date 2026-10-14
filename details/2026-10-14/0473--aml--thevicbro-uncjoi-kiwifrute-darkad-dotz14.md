@@ -5,7 +5,7 @@ NARS Rank: 473 of 506
 
 Final Rating: 793.8
 Seeded Start: 1221.3
-H2H Adjustment: -427.5 (capped at +-300, raw -427.4)
+H2H Adjustment: -427.5
 
 Final Rating (793.8) = Seeded Start (1221.3) + H2H Adjustment (-427.5)
 
@@ -18,6 +18,36 @@ seed_factor 0.087 = 0.25 x Tier Exposure (0.099) + 0.50 x Quality Wins (0.019) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.087 | 1221.3 | - |
+| +30 days | 0.074 | 1203.2 | -18.1 |
+| +60 days | 0.063 | 1188.4 | -32.9 |
+| +90 days | 0.043 | 1160.8 | -60.5 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.019 vs 0.008 average, gap +0.011). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-26) 0.71
+- Quality Wins drivers: beat Armored Talent at Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-25) 0.12; beat Cause and Effect Gaming at Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-26) 0.09; beat Solbound at S58 NA Intermediate A - Regular Season (2026-08-26) 0.07
+- Opponent Network drivers: beat Solbound at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat 37U Passion at S58 NA Intermediate A - Regular Season (2026-08-05) 0.73; beat Cause and Effect Gaming at Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-26) 0.71
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +629.8 |
+| SportsBetExpert | 6 | 2672.3 | +629.6 |
+| North Forge | 38 | 1971.1 | +627.4 |
+| Zomblers | 22 | 2114.7 | +626.4 |
+| Wanted Goons | 43 | 1933.1 | +626.2 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs CVC Retirement (2026-05-15): expires in 27 days [Quality Wins 0.00, Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
 
 #### Matches (20 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -33,7 +63,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -177.6 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-26 | mas paspas | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -9.3 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-26 | Cause and Effect Gaming | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.09 | 0.71 | +332.5 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
-| 2026-07-25 | Armored Talent | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.12 | 0.70 | +304.4 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-07-25 | Armored Talent | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.12 | 0.70 | +304.5 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-22 | Brothers United | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -62.8 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-17 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -0.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-15 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -1.8 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |

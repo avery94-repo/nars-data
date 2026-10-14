@@ -19,6 +19,39 @@ seed_factor 0.089 = 0.25 x Tier Exposure (0.083) + 0.50 x Quality Wins (0.011) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.089 | 1224.0 | - |
+| +30 days | 0.072 | 1201.1 | -22.9 |
+| +60 days | 0.057 | 1179.3 | -44.7 |
+| +90 days | 0.042 | 1159.4 | -64.6 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.011 vs 0.013 average, gap -0.002). Matching that average is worth about 1.4 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Intermediate A - Regular Season (2026-09-17) 1.00; S57 NA Open9-10 Central - Playoffs B (2026-06-12) 0.37
+- Quality Wins drivers: beat Moniseum at S58 NA Intermediate A - Regular Season (2026-08-07) 0.05; beat Conduit eSports at S58 NA Intermediate A - Regular Season (2026-08-12) 0.05; beat Casipanther at S58 NA Intermediate A - Regular Season (2026-07-31) 0.03
+- Opponent Network drivers: beat Conduit eSports at S58 NA Intermediate A - Regular Season (2026-08-12) 0.78; beat Moniseum at S58 NA Intermediate A - Regular Season (2026-08-07) 0.74; beat Casipanther at S58 NA Intermediate A - Regular Season (2026-07-31) 0.70
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +273.5 |
+| SportsBetExpert | 6 | 2672.3 | +273.5 |
+| North Forge | 38 | 1971.1 | +272.2 |
+| Zomblers | 22 | 2114.7 | +271.9 |
+| Wanted Goons | 43 | 1933.1 | +271.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs Brainsmash (2026-05-27): expires in 39 days [Quality Wins 0.00, Opponent Network 0.26]
+- S57 NA Open9-10 Central - Playoffs B vs Team Dainyko (2026-05-29): expires in 41 days [Quality Wins 0.01, Opponent Network 0.28]
+- S57 NA Open9-10 Central - Playoffs B vs Real Ones (2026-06-12): expires in 55 days [Tier Exposure 0.37, Quality Wins 0.00, Opponent Network 0.37]
+
 #### Matches (18 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -41,6 +74,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-12 | Real Ones | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.37 | +229.2 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
 | 2026-06-05 | Aim to Loose | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -286.6 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
 | 2026-05-29 | Team Dainyko | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +171.7 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
-| 2026-05-27 | Brainsmash | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +163.8 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
+| 2026-05-27 | Brainsmash | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +163.9 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

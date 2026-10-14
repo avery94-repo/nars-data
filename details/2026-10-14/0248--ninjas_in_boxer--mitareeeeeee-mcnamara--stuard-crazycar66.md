@@ -3,11 +3,11 @@ Team Name: Ninjas In Boxer
 Roster: Mitareeeeeee, Mcnamara, -stuard, CRAZYCAR66, -JOSE-
 NARS Rank: 248 of 506
 
-Final Rating: 1384.2
+Final Rating: 1384.1
 Seeded Start: 1331.1
-H2H Adjustment: +53.1
+H2H Adjustment: +53.0
 
-Final Rating (1384.2) = Seeded Start (1331.1) + H2H Adjustment (+53.1)
+Final Rating (1384.1) = Seeded Start (1331.1) + H2H Adjustment (+53.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,40 @@ seed_factor 0.165 = 0.25 x Tier Exposure (0.115) + 0.50 x Quality Wins (0.043) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.165 | 1331.1 | - |
+| +30 days | 0.139 | 1294.6 | -36.5 |
+| +60 days | 0.115 | 1261.1 | -70.0 |
+| +90 days | 0.074 | 1204.2 | -126.9 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.043 vs 0.029 average, gap +0.014). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs A (2026-09-06) 0.94; MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.94; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88
+- Quality Wins drivers: beat Armored Talent at S58 NA Intermediate A - Regular Season (2026-08-07) 0.13; beat MadaNASCAR at S58 NA Intermediate A - Regular Season (2026-08-21) 0.12; beat GoonAssOldheads at S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.11
+- Opponent Network drivers: beat On The Spectrum at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-08) 0.94; beat GoonAssOldheads at S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.93; beat MadaNASCAR at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +655.6 |
+| SportsBetExpert | 6 | 2672.3 | +653.9 |
+| M80 | 2 | 3081.4 | +641.6 |
+| LAG Gaming | 8 | 2507.3 | +641.5 |
+| Wildcard | 3 | 2911.9 | +637.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Tractors (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.05]
+- S57 NA Intermediate Central - Playoffs B vs Duality Zero (2026-05-27): expires in 39 days [Opponent Network 0.26]
+- S57 NA Intermediate Central - Playoffs B (2026-05-31): expires in 43 days [Tier Exposure 0.29]
+- S58 NA Intermediate A - Regular Season vs GoopT (2026-07-15): expires in 88 days [Quality Wins 0.04, Opponent Network 0.59]
 
 #### Matches (29 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -45,12 +79,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | strawberry poptarts | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -187.0 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 | 2026-05-27 | Duality Zero | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +7.7 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
 | 2026-05-22 | Tractors | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.05 | 0.23 | +314.9 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
-| 2026-05-20 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -322.5 | -stuard, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
+| 2026-05-20 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -322.6 | -stuard, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
 | 2026-05-15 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +39.8 | CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
 | 2026-05-13 | Famas OP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +0.6 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 | 2026-05-08 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +178.8 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 | 2026-05-06 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +2.2 | -stuard, CRAZYCAR66, Mcnamara, VelmontPX, themuska |
-| 2026-05-01 | Kennesaw State Gold 2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +413.7 | -stuard, 1mrx_, CRAZYCAR66, Mcnamara, _PSP_ |
+| 2026-05-01 | Kennesaw State Gold 2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +413.8 | -stuard, 1mrx_, CRAZYCAR66, Mcnamara, _PSP_ |
 | 2026-04-29 | Mace Lindu Ruff Rebound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -234.0 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, _PSP_ |
 | 2026-04-24 | Bad Jawn | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -271.8 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 

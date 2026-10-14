@@ -4,20 +4,53 @@ Roster: GRITMAXXER, stepback003, BingusKing, CarelessDoug, -yanno-
 NARS Rank: 490 of 506
 
 Final Rating: 637.6
-Seeded Start: 1191.7
-H2H Adjustment: -554.1
+Seeded Start: 1191.6
+H2H Adjustment: -554.0 (capped at +-300, raw -554.1)
 
-Final Rating (637.6) = Seeded Start (1191.7) + H2H Adjustment (-554.1)
+Final Rating (637.6) = Seeded Start (1191.6) + H2H Adjustment (-554.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.065 x 1400 = 1191.7
+                = 1100 + 0.065 x 1400 = 1191.6
 
 seed_factor 0.065 = 0.25 x Tier Exposure (0.039) + 0.50 x Quality Wins (0.013) + 0.25 x Opponent Network (0.196)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.065 | 1191.6 | - |
+| +30 days | 0.048 | 1166.8 | -24.8 |
+| +60 days | 0.042 | 1158.5 | -33.1 |
+| +90 days | 0.032 | 1144.2 | -47.5 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.039 vs 0.058 average, gap -0.019). Matching that average is worth about 6.7 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat Solbound at S58 NA Intermediate A - Regular Season (2026-08-28) 0.07; beat Ubiquiti at S58 NA Intermediate A - Regular Season (2026-08-14) 0.06; beat ItAintOverYet at S58 NA Intermediate A - Regular Season (2026-07-31) 0.06
+- Opponent Network drivers: beat Solbound at S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; beat Ubiquiti at S58 NA Intermediate A - Regular Season (2026-08-14) 0.79; beat ItAintOverYet at S58 NA Intermediate A - Regular Season (2026-07-31) 0.70
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| North Forge | 38 | 1971.1 | +665.4 |
+| NRG | 4 | 2836.4 | +665.3 |
+| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| Wanted Goons | 43 | 1933.1 | +664.8 |
+| Zomblers | 22 | 2114.7 | +662.9 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs garfieldclub (2026-05-05): expires in 17 days [Quality Wins 0.00, Opponent Network 0.12]
+- S57 NA Intermediate Central - Regular Season vs GoopT (2026-05-06): expires in 18 days [Quality Wins 0.01, Opponent Network 0.12]
+- S57 NA Intermediate Central - Regular Season vs Team Deathgrip (2026-05-13): expires in 25 days [Quality Wins 0.01, Opponent Network 0.17]
+- S57 NA Intermediate Central - Regular Season vs SuperSoakerClub (2026-05-20): expires in 32 days [Quality Wins 0.00, Opponent Network 0.22]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
 
 #### Matches (20 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -41,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | Knight Owls | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -335.7 | -yanno-, GRITMAXXER, Magooga, polandremix, stepback003 |
 | 2026-05-13 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +22.3 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
 | 2026-05-06 | GoopT | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +155.7 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
-| 2026-05-05 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +257.4 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
+| 2026-05-05 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +257.5 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
 | 2026-05-01 | dogwater | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -361.3 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
 | 2026-04-29 | Benadryl Abusers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -105.1 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
 

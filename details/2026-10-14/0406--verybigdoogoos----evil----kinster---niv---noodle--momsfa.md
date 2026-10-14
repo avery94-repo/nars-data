@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: VeryBigDoogoos
 Roster: --Evil---, kinster, --Niv--, Noodle-, momsfav
-NARS Rank: 407 of 506
+NARS Rank: 406 of 506
 
 Final Rating: 1043.9
 Seeded Start: 1257.9
@@ -18,6 +18,41 @@ seed_factor 0.113 = 0.25 x Tier Exposure (0.044) + 0.50 x Quality Wins (0.026) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.113 | 1257.9 | - |
+| +30 days | 0.087 | 1221.2 | -36.7 |
+| +60 days | 0.059 | 1182.2 | -75.7 |
+| +90 days | 0.030 | 1141.5 | -116.4 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.044 vs 0.044 average, gap +0.000). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs B (2026-06-12) 0.37
+- Quality Wins drivers: beat Strafe at S58 NA Intermediate B - Regular Season (2026-07-16) 0.10; beat It Doesnt Matter at S58 NA Intermediate B - Regular Season (2026-07-24) 0.07; beat Muncle at S58 NA Intermediate B - Regular Season (2026-08-14) 0.07
+- Opponent Network drivers: beat Muncle at S58 NA Intermediate B - Regular Season (2026-08-14) 0.79; beat After Hours at S58 NA Intermediate B - Regular Season (2026-08-12) 0.78; beat Atlantis eSports at S58 NA Intermediate B - Regular Season (2026-07-29) 0.68
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.1 |
+| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| regain | 12 | 2256.1 | +656.9 |
+| LAG Gaming | 8 | 2507.3 | +655.9 |
+| Zomblers | 22 | 2114.7 | +654.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.6).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs Yacht Club (2026-05-31): expires in 43 days [Quality Wins 0.00, Opponent Network 0.29]
+- S57 NA Open9-10 Central - Playoffs B vs catacLysm (2026-06-02): expires in 45 days [Quality Wins 0.00, Opponent Network 0.30]
+- S57 NA Open9-10 Central - Playoffs B vs Halcyon (2026-06-10): expires in 53 days [Quality Wins 0.02, Opponent Network 0.36]
+- S57 NA Open9-10 Central - Playoffs B vs HigherEducation (2026-06-12): expires in 55 days [Tier Exposure 0.37, Quality Wins 0.02, Opponent Network 0.37]
+- S58 NA Intermediate B - Regular Season vs Strafe (2026-07-16): expires in 89 days [Quality Wins 0.10, Opponent Network 0.60]
 
 #### Matches (19 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -40,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-16 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.10 | 0.60 | +0.3 | --Evil---, --Niv--, KRISPE__, kinster, momsfav |
 | 2026-06-12 | HigherEducation | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.02 | 0.37 | +96.7 | --Evil---, --Niv--, KRISPE__, Noodle-, kinster |
 | 2026-06-10 | Halcyon | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.02 | 0.36 | +137.3 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
-| 2026-06-02 | catacLysm | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +221.8 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
+| 2026-06-02 | catacLysm | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +221.9 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
 | 2026-05-31 | Yacht Club | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.29 | +190.8 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
 | 2026-05-28 | No Roller Dogs | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -265.9 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
 

@@ -3,11 +3,11 @@ Team Name: Brick Layers
 Roster: BrokenWild, mted1921, Toasty777, Drotex, macchiata
 NARS Rank: 477 of 506
 
-Final Rating: 764.5
+Final Rating: 764.4
 Seeded Start: 1103.4
-H2H Adjustment: -338.9 (capped at +-300, raw -339.0)
+H2H Adjustment: -339.0
 
-Final Rating (764.5) = Seeded Start (1103.4) + H2H Adjustment (-338.9)
+Final Rating (764.4) = Seeded Start (1103.4) + H2H Adjustment (-339.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,36 @@ seed_factor 0.002 = 0.25 x Tier Exposure (0.008) + 0.50 x Quality Wins (0.000) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.002 | 1103.4 | - |
+| +30 days | 0.000 | 1100.2 | -3.2 |
+| +60 days | 0.000 | 1100.0 | -3.4 |
+| +90 days | 0.000 | 1100.0 | -3.4 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.002 vs 0.118 average, gap -0.116). Matching that average is worth about 40.6 seed points.
+
+- Tier Exposure drivers: S57 NA Intermediate Central - Regular Season (2026-05-20) 0.22
+- Quality Wins drivers: beat The Ohio Meat Wagon at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.00
+- Opponent Network drivers: beat The Ohio Meat Wagon at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.03
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.3 |
+| SportsBetExpert | 6 | 2672.3 | +665.1 |
+| North Forge | 38 | 1971.1 | +663.3 |
+| Wanted Goons | 43 | 1933.1 | +662.2 |
+| Zomblers | 22 | 2114.7 | +661.9 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs The Ohio Meat Wagon (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Intermediate Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.22]
 
 #### Matches (7 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

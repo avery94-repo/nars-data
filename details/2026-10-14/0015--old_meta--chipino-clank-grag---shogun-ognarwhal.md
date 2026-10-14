@@ -19,6 +19,37 @@ seed_factor 0.257 = 0.25 x Tier Exposure (0.137) + 0.50 x Quality Wins (0.101) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.257 | 1460.5 | - |
+| +30 days | 0.244 | 1441.9 | -18.6 |
+| +60 days | 0.232 | 1425.3 | -35.2 |
+| +90 days | 0.213 | 1397.7 | -62.8 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.137 vs 0.774 average, gap -0.637). Matching that average is worth about 223.0 seed points.
+
+- Tier Exposure drivers: S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; S58 NA Main Central - Playoffs B (2026-09-20) 1.19; S58 NA Main B - Regular Season (2026-08-28) 1.02
+- Quality Wins drivers: beat Skyline at S58 NA Main B - Regular Season (2026-08-21) 0.34; beat VOID ALUNE at S58 NA Main Central - Playoffs B (2026-09-19) 0.23; beat Automatic HQ at S59 NA Advanced Central - Regular Season (2026-10-09) 0.22
+- Opponent Network drivers: beat Automatic HQ at S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; beat VOID ALUNE at S58 NA Main Central - Playoffs B (2026-09-19) 1.19; beat WhalersOnDaMoon at S58 NA Main Central - Playoffs B (2026-09-10) 1.16
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +194.5 |
+| Liquid | 1 | 3103.3 | +192.0 |
+| NRG | 4 | 2836.4 | +191.3 |
+| Wildcard | 3 | 2911.9 | +188.6 |
+| Voca | 5 | 2796.5 | +179.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): house (+0.0), Team Hyper (+0.0), puggin4seb (+0.0), Strafe (+0.0), REPORT MASSIVE (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+
 #### Matches (26 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -42,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | MASTER ONE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.09 | 0.74 | +189.6 | -Shogun, Clank, OGnarwhal, chipino, grag- |
 | 2026-07-15 | 1NT | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.08 | 0.68 | +6.0 | -Shogun, Clank, OGnarwhal, chipino, grag- |
 | 2026-05-22 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +164.3 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
-| 2026-05-20 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -169.5 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
+| 2026-05-20 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -169.6 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
 | 2026-05-15 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +1.8 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
 | 2026-05-13 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +51.8 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |
 | 2026-05-09 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.17 | +1.6 | -Shogun, OGnarwhal, RGARx, grag-, hohozao |

@@ -4,20 +4,53 @@ Roster: Sunk_, 2Panic, turkeyrocket, SAHUR_EL1TE, Jolts
 NARS Rank: 18 of 506
 
 Final Rating: 2160.6
-Seeded Start: 2201.4
-H2H Adjustment: -40.8
+Seeded Start: 2201.3
+H2H Adjustment: -40.7
 
-Final Rating (2160.6) = Seeded Start (2201.4) + H2H Adjustment (-40.8)
+Final Rating (2160.6) = Seeded Start (2201.3) + H2H Adjustment (-40.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.787 x 1400 = 2201.4
+                = 1100 + 0.787 x 1400 = 2201.3
 
 seed_factor 0.787 = 0.25 x Tier Exposure (0.865) + 0.50 x Quality Wins (0.718) + 0.25 x Opponent Network (0.847)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.787 | 2201.3 | - |
+| +30 days | 0.744 | 2141.5 | -59.9 |
+| +60 days | 0.712 | 2096.2 | -105.2 |
+| +90 days | 0.671 | 2039.3 | -162.0 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.847 vs 0.853 average, gap -0.006). Matching that average is worth about 2.1 seed points.
+
+- Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-29) 1.55; ESL Challenger League Season 52 North America Cup 3 (2026-10-08) 1.55; NSTLGA League S2 | Stage 2 Swiss (2026-09-06) 1.51
+- Quality Wins drivers: beat Wanted Goons at CROSSFIRE Season 6 - Playoffs (2026-09-17) 1.55; beat NuTorious at VRS-tracked 2026-09 (2026-09-24) 1.44; beat DETONATE at VRS-tracked 2026-08 (2026-08-26) 1.39
+- Opponent Network drivers: beat Zomblers at CROSSFIRE Season 6 - Playoffs (2026-09-24) 1.55; beat Wanted Goons at CROSSFIRE Season 6 - Playoffs (2026-09-17) 1.55; beat babaG at VRS-tracked 2026-09 (2026-09-06) 1.51
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +82.7 |
+| NRG | 4 | 2836.4 | +82.4 |
+| Liquid | 1 | 3103.3 | +81.6 |
+| Wildcard | 3 | 2911.9 | +80.8 |
+| SportsBetExpert | 6 | 2672.3 | +78.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Team Zhao (+0.0), Goyim Gladiators (+0.0), Flow Esports (+0.0), Lan Bears (+0.0), Benadryl Abusers (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
+- S57 NA Advanced Central - Playoffs (2026-06-09): expires in 52 days [Tier Exposure 0.52]
+- VRS-tracked 2026-07 vs NuTorious (2026-07-12): expires in 85 days [Quality Wins 0.82]
 
 #### Matches (59 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -45,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Wanted Goons | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.93 | 1.60 | 1.00 | 1.48 | 0.00 | 0.00 | -25.6 | 1bright, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-09-04 | Overtake Sector | L |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 0.00 | 0.00 | -8.8 | core 3/5 |
 | 2026-09-04 | Incognito | L |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 0.00 | 0.00 | -80.4 | core 3/5 |
-| 2026-09-03 | Wanted Goons | L |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.48 | 0.00 | 0.00 | -54.8 | core 3/5 |
+| 2026-09-03 | Wanted Goons | L |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 0.00 | 0.00 | -54.8 | core 3/5 |
 | 2026-08-27 | Iowa Stormboar | L |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.40 | 0.00 | 0.00 | -56.2 | core 3/5 |
 | 2026-08-26 | DETONATE | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 1.39 | 0.00 | +70.1 | core 3/5 |
 | 2026-08-25 | Overtake Sector | L |  | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.00 | 0.00 | -59.8 | core 3/5 |
@@ -66,14 +99,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-12 | CELESTIAL | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.68 | 0.00 | +158.5 | core 3/5 |
 | 2026-07-12 | NuTorious | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.82 | 0.00 | +80.9 | core 3/5 |
 | 2026-06-29 | regain | L |  | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.00 | 0.00 | -221.7 | core 3/5 |
-| 2026-06-20 | Club 333 | L |  | VRS-tracked 2026-06 | A | vrs | 0.42 | 1.60 | 1.00 | 0.68 | 0.00 | 0.00 | -175.3 | core 3/5 |
+| 2026-06-20 | Club 333 | L |  | VRS-tracked 2026-06 | A | vrs | 0.42 | 1.60 | 1.00 | 0.67 | 0.00 | 0.00 | -175.3 | core 3/5 |
 | 2026-06-19 | DETONATE | W |  | VRS-tracked 2026-06 | A | vrs | 0.42 | 1.60 | 1.00 | 0.66 | 0.66 | 0.66 | +24.2 | core 3/5 |
 | 2026-06-09 | Brahmas | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.12 | 0.52 | +39.3 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-06-08 | Brahmas | W |  | VRS-tracked 2026-06 | A | vrs | 0.34 | 1.60 | 1.00 | 0.55 | 0.13 | 0.00 | +160.1 | core 3/5 |
 | 2026-06-06 | LAG Gaming | W |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.53 | 0.51 | 0.53 | +177.4 | core 3/5 |
-| 2026-06-04 | Beyond Limits | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.31 | 0.47 | +280.5 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-06-04 | Beyond Limits | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.31 | 0.47 | +280.6 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-05-21 | New Legends | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.19 | 0.30 | +74.0 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-05-19 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -33.3 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-05-19 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -33.2 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-05-14 | Club 333 | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -156.2 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-05-12 | Wanted Goons | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -173.5 | 2Panic, SAHUR_EL1TE, Sunk_, carbs, turkeyrocket |
 | 2026-05-07 | Iowa Stormboar | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.12 | 0.17 | +332.3 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |

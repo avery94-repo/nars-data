@@ -19,6 +19,32 @@ seed_factor 0.063 = 0.25 x Tier Exposure (0.131) + 0.50 x Quality Wins (0.006) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.063 | 1188.0 | - |
+| +30 days | 0.056 | 1178.2 | -9.8 |
+| +60 days | 0.048 | 1167.3 | -20.7 |
+| +90 days | 0.033 | 1145.8 | -42.2 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.108 vs 0.223 average, gap -0.115). Matching that average is worth about 40.2 seed points.
+
+- Tier Exposure drivers: Bish Bash Bosh ( knife giveaway live) (2026-08-30) 1.05; S58 NA Open9-10 West - Playoffs (2026-09-07) 1.05; MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-08) 0.94
+- Quality Wins drivers: beat antiGrav at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-08) 0.06; beat IR PHOENIX at Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-26) 0.04
+- Opponent Network drivers: beat antiGrav at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-08) 0.94; beat IR PHOENIX at Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-26) 0.70
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +665.1 |
+| Zomblers | 22 | 2114.7 | +660.1 |
+| North Forge | 38 | 1971.1 | +659.4 |
+| regain | 12 | 2256.1 | +659.3 |
+
 #### Matches (6 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

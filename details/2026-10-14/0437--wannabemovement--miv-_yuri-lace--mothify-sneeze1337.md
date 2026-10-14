@@ -3,11 +3,11 @@ Team Name: WannaBeMovement
 Roster: Miv, _yuri, lace-, mothify, sneeze1337
 NARS Rank: 437 of 506
 
-Final Rating: 937.0
+Final Rating: 936.9
 Seeded Start: 1138.7
-H2H Adjustment: -201.7
+H2H Adjustment: -201.8
 
-Final Rating (937.0) = Seeded Start (1138.7) + H2H Adjustment (-201.7)
+Final Rating (936.9) = Seeded Start (1138.7) + H2H Adjustment (-201.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,35 @@ seed_factor 0.028 = 0.25 x Tier Exposure (0.045) + 0.50 x Quality Wins (0.002) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.028 | 1138.7 | - |
+| +30 days | 0.025 | 1134.9 | -3.9 |
+| +60 days | 0.023 | 1132.3 | -6.5 |
+| +90 days | 0.022 | 1130.5 | -8.3 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.062 vs 0.107 average, gap -0.045). Matching that average is worth about 15.8 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-04) 0.32
+- Quality Wins drivers: beat BlueberryFuego at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.03
+- Opponent Network drivers: beat BlueberryFuego at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.95
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| Zomblers | 22 | 2114.7 | +658.8 |
+| regain | 12 | 2256.1 | +658.7 |
+| FarmVille | 16 | 2167.5 | +657.0 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B (2026-06-04): expires in 47 days [Tier Exposure 0.32]
 
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

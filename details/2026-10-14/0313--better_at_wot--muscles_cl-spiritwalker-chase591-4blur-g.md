@@ -19,6 +19,40 @@ seed_factor 0.062 = 0.25 x Tier Exposure (0.047) + 0.50 x Quality Wins (0.006) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.062 | 1186.3 | - |
+| +30 days | 0.049 | 1168.7 | -17.6 |
+| +60 days | 0.039 | 1154.4 | -31.8 |
+| +90 days | 0.037 | 1151.6 | -34.7 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.187 vs 0.315 average, gap -0.128). Matching that average is worth about 44.8 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-08) 0.98; S57 NA Open9-10 Central - Playoffs B (2026-06-12) 0.37
+- Quality Wins drivers: beat counter strokin at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.04; beat Crab Rangooners at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.03; beat Seven ate Nine at S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.02
+- Opponent Network drivers: beat Crab Rangooners at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; beat counter strokin at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.95; beat Seven ate Nine at S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +566.8 |
+| SportsBetExpert | 6 | 2672.3 | +566.2 |
+| LAG Gaming | 8 | 2507.3 | +557.6 |
+| M80 | 2 | 3081.4 | +554.4 |
+| regain | 12 | 2256.1 | +554.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs Silly Kitties (2026-05-31): expires in 43 days [Quality Wins 0.00, Opponent Network 0.29]
+- S57 NA Open9-10 Central - Playoffs B vs BAN ANCIENT (2026-06-03): expires in 46 days [Quality Wins 0.00, Opponent Network 0.31]
+- S57 NA Open9-10 Central - Playoffs B vs Seven ate Nine (2026-06-10): expires in 53 days [Quality Wins 0.02, Opponent Network 0.36]
+- S57 NA Open9-10 Central - Playoffs B (2026-06-12): expires in 55 days [Tier Exposure 0.37]
+
 #### Matches (9 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -27,8 +61,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | 99 Thieves | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -45.4 | 4blur, Brizzy_, Chase591, Gater, Muscles_CL |
 | 2026-09-06 | Crab Rangooners | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.03 | 0.96 | +126.8 | 4blur, Brizzy_, Chase591, Gater, Muscles_CL |
 | 2026-09-04 | counter strokin | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.04 | 0.95 | +103.6 | 4blur, Chase591, Gater, Sil, Spiritwalker |
-| 2026-09-02 | Double Poop Cheeseburger | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.00 | 0.00 | -215.5 | 4blur, Brizzy_, Chase591, Gater, Spiritwalker |
-| 2026-06-12 | MommySports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -186.2 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
+| 2026-09-02 | Double Poop Cheeseburger | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.00 | 0.00 | -215.5 | 4blur, Brizzy_, Chase591, Gater, Spiritwalker |
+| 2026-06-12 | MommySports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -186.3 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
 | 2026-06-10 | Seven ate Nine | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.02 | 0.36 | +152.1 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
 | 2026-06-03 | BAN ANCIENT | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +185.8 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
 | 2026-05-31 | Silly Kitties | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.29 | +175.2 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |

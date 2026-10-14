@@ -4,20 +4,53 @@ Roster: flixxy, doltn, Pr0misee, Beastman, denz67
 NARS Rank: 59 of 506
 
 Final Rating: 1852.5
-Seeded Start: 2093.5
-H2H Adjustment: -241.0
+Seeded Start: 2093.4
+H2H Adjustment: -240.9
 
-Final Rating (1852.5) = Seeded Start (2093.5) + H2H Adjustment (-241.0)
+Final Rating (1852.5) = Seeded Start (2093.4) + H2H Adjustment (-240.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.710 x 1400 = 2093.5
+                = 1100 + 0.710 x 1400 = 2093.4
 
-seed_factor 0.710 = 0.25 x Tier Exposure (0.655) + 0.50 x Quality Wins (0.654) + 0.25 x Opponent Network (0.875)
+seed_factor 0.710 = 0.25 x Tier Exposure (0.654) + 0.50 x Quality Wins (0.654) + 0.25 x Opponent Network (0.875)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.710 | 2093.4 | - |
+| +30 days | 0.645 | 2002.8 | -90.6 |
+| +60 days | 0.600 | 1940.4 | -153.1 |
+| +90 days | 0.535 | 1848.9 | -244.5 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.875 vs 0.524 average, gap +0.351). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-20) 1.55; S58 NA Advanced Central - Playoffs (2026-09-11) 1.52; NSTLGA League S2 | Stage 2 Swiss (2026-09-07) 1.52
+- Quality Wins drivers: beat Without a Roof at NSTLGA League S2 | Stage 2 Swiss (2026-09-06) 1.50; beat Without a Roof at NSTLGA League S2 | RD3 1-1 Games (2026-09-05) 1.50; beat NuTorious at NSTLGA League S2 | Stage 2 Swiss (2026-09-05) 1.34
+- Opponent Network drivers: beat North Forge at CROSSFIRE Season 6 - Playoffs (2026-09-17) 1.55; beat Without a Roof at NSTLGA League S2 | Stage 2 Swiss (2026-09-06) 1.50; beat Celestial Esports at S58 NA Advanced Central - Playoffs (2026-09-03) 1.43
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +264.4 |
+| M80 | 2 | 3081.4 | +260.6 |
+| SportsBetExpert | 6 | 2672.3 | +260.0 |
+| Wildcard | 3 | 2911.9 | +257.5 |
+| Liquid | 1 | 3103.3 | +256.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0), RejexEsports (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
+- S57 NA Advanced Central - Playoffs (2026-06-09): expires in 52 days [Tier Exposure 0.52]
+- VRS-tracked 2026-06 (2026-06-29): expires in 72 days [Tier Exposure 0.77]
 
 #### Matches (55 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -42,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | NuTorious | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 1.33 | 0.00 | +26.7 | core 3/5 |
 | 2026-09-03 | Desi Boyz | W |  | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.54 | 1.00 | 1.42 | 1.20 | 1.42 | +56.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-03 | Celestial Esports | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.92 | 1.55 | 1.00 | 1.43 | 0.42 | 1.43 | +0.2 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-09-03 | LAG Gaming | L |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.48 | 0.00 | 0.00 | -5.3 | core 3/5 |
+| 2026-09-03 | LAG Gaming | L |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 0.00 | 0.00 | -5.3 | core 3/5 |
 | 2026-09-02 | Desi Boyz | W | 2-1 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.54 | 1.00 | 1.41 | 1.19 | 0.00 | +58.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-02 | counterstrike Team | W | 2-0 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.54 | 1.00 | 1.41 | 0.26 | 0.00 | +0.3 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-08-28 | Holy Squid Empire | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.28 | 0.23 | 1.28 | +29.1 | Beastman, Pr0misee, denz67, doltn, flixxy |
@@ -58,24 +91,24 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-13 | Firstwave | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -223.5 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-08-11 | FlyQuest RED | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.45 | 1.00 | 1.12 | 0.49 | 0.00 | +69.2 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-08-05 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.16 | 1.06 | +62.5 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-07-31 | Celestial Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -345.8 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-07-29 | Villainous | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.86 | 0.99 | +270.5 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-07-31 | Celestial Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -345.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-07-29 | Villainous | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.86 | 0.99 | +270.6 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-07-24 | Chicken Coop | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.84 | 0.94 | +355.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-07-22 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.09 | 0.92 | +6.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-07-17 | Overtake Sector | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -15.5 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-07-15 | regain | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -0.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-06-29 | Club 333 | L |  | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.00 | 0.00 | -0.1 | core 3/5 |
 | 2026-06-09 | Iowa Stormboar | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.00 | 0.00 | -209.4 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-06-04 | Villainous | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.00 | 0.00 | -255.8 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-06-04 | Villainous | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.00 | 0.00 | -255.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-06-03 | NuTorious | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.31 | 1.50 | 1.00 | 0.46 | 0.42 | 0.46 | +178.8 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-05-21 | Phantom Sense | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.10 | 0.30 | +153.5 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-05-20 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.29 | +178.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-05-19 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.03 | 0.28 | +253.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-05-19 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.03 | 0.28 | +254.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-05-19 | Shimmer | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -287.1 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-05-08 | House Platypus ESC | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -430.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-05-07 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.03 | 0.17 | +198.8 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-05-05 | raisedbypixels | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -400.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-05-01 | FlyQuest RED | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.05 | 0.12 | +118.3 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-05-01 | FlyQuest RED | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.05 | 0.12 | +118.4 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-04-28 | Demolition | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.01 | 0.00 | +0.3 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-04-27 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.35 | 1.00 | 0.08 | 0.00 | 0.08 | +0.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-04-22 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.35 | 1.00 | 0.04 | 0.01 | 0.04 | +10.6 | Beastman, Pr0misee, denz67, doltn, flixxy |

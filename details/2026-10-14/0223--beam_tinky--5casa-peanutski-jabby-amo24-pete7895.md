@@ -3,11 +3,11 @@ Team Name: Beam Tinky
 Roster: 5casa, Peanutski, jabby, Amo24, pete7895
 NARS Rank: 223 of 506
 
-Final Rating: 1434.1
+Final Rating: 1434.2
 Seeded Start: 1184.8
-H2H Adjustment: +249.3
+H2H Adjustment: +249.4
 
-Final Rating (1434.1) = Seeded Start (1184.8) + H2H Adjustment (+249.3)
+Final Rating (1434.2) = Seeded Start (1184.8) + H2H Adjustment (+249.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -19,12 +19,43 @@ seed_factor 0.061 = 0.25 x Tier Exposure (0.043) + 0.50 x Quality Wins (0.008) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.061 | 1184.8 | - |
+| +30 days | 0.056 | 1178.8 | -6.0 |
+| +60 days | 0.054 | 1176.0 | -8.8 |
+| +90 days | 0.051 | 1172.0 | -12.8 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.184 vs 0.404 average, gap -0.220). Matching that average is worth about 77.0 seed points.
+
+- Tier Exposure drivers: S58 NA Open1-8 Central - Playoffs (2026-09-11) 0.98; S57 NA Open1-8 Central - Playoffs (2026-05-27) 0.26
+- Quality Wins drivers: beat Belladonna at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.06; beat USAE Academy at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.03; beat New York City Ballas CS at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.03
+- Opponent Network drivers: beat USAE Academy at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.96; beat New York City Ballas CS at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.93; beat Belladonna at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.92
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +625.5 |
+| SportsBetExpert | 6 | 2672.3 | +623.5 |
+| M80 | 2 | 3081.4 | +612.4 |
+| LAG Gaming | 8 | 2507.3 | +610.7 |
+| Wildcard | 3 | 2911.9 | +607.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open1-8 Central - Playoffs (2026-05-27): expires in 39 days [Tier Exposure 0.26]
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-11 | gunked | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -65.6 | 5casa, Amo24, Peanutski, jabby, pete7895 |
+| 2026-09-11 | gunked | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -65.7 | 5casa, Amo24, Peanutski, jabby, pete7895 |
 | 2026-09-09 | USAE Academy | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +177.2 | 5casa, Amo24, Peanutski, jabby, pete7895 |
 | 2026-09-04 | New York City Ballas CS | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +145.8 | 5casa, Amo24, CaptainToro, jabby, pete7895 |
 | 2026-09-02 | Belladonna | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.06 | 0.92 | +227.6 | 5casa, Amo24, Ebbs, Peanutski, jabby |

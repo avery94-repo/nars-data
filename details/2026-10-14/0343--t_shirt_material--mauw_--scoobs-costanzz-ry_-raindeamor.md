@@ -19,6 +19,38 @@ seed_factor 0.049 = 0.25 x Tier Exposure (0.046) + 0.50 x Quality Wins (0.005) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.049 | 1168.5 | - |
+| +30 days | 0.042 | 1158.9 | -9.6 |
+| +60 days | 0.038 | 1153.0 | -15.5 |
+| +90 days | 0.036 | 1150.1 | -18.4 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.139 vs 0.335 average, gap -0.196). Matching that average is worth about 68.6 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-12) 0.37
+- Quality Wins drivers: beat Bottom Fraggers Anonymous at S58 NA Open9-10 East - Playoffs A (2026-09-07) 0.03; beat GOD SPEED at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.03; beat Cortex Jellies at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.02
+- Opponent Network drivers: beat Bottom Fraggers Anonymous at S58 NA Open9-10 East - Playoffs A (2026-09-07) 0.95; beat GOD SPEED at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92; beat Cortex Jellies at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.26
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +664.9 |
+| SportsBetExpert | 6 | 2672.3 | +664.2 |
+| LAG Gaming | 8 | 2507.3 | +654.5 |
+| regain | 12 | 2256.1 | +651.6 |
+| M80 | 2 | 3081.4 | +650.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.8), SixSevenZaZa (+1.3).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs Cortex Jellies (2026-05-27): expires in 39 days [Quality Wins 0.02, Opponent Network 0.26]
+- S57 NA Open9-10 Central - Playoffs B (2026-06-12): expires in 55 days [Tier Exposure 0.37]
+
 #### Matches (7 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

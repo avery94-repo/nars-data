@@ -19,6 +19,38 @@ seed_factor 0.411 = 0.25 x Tier Exposure (0.276) + 0.50 x Quality Wins (0.304) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.411 | 1674.8 | - |
+| +30 days | 0.383 | 1636.3 | -38.5 |
+| +60 days | 0.369 | 1616.6 | -58.3 |
+| +90 days | 0.350 | 1589.7 | -85.1 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.276 vs 0.465 average, gap -0.189). Matching that average is worth about 66.2 seed points.
+
+- Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-17) 1.55; Playoff - CROSSFIRE Season 6 (2026-09-12) 1.44; Group Stage - CROSSFIRE Season 6 (2026-09-07) 1.27
+- Quality Wins drivers: beat Chicken Coop at CROSSFIRE Season 6 - Playoffs (2026-09-14) 1.38; beat Chicken Coop at Playoff - CROSSFIRE Season 6 (2026-09-12) 1.29; beat Beyond Limits at CROSSFIRE Season 6 - Playoffs (2026-09-20) 1.01
+- Opponent Network drivers: beat Beyond Limits at CROSSFIRE Season 6 - Playoffs (2026-09-20) 1.55; beat Chicken Coop at CROSSFIRE Season 6 - Playoffs (2026-09-14) 1.54; beat SquadUp at Group Stage - CROSSFIRE Season 6 (2026-09-07) 1.27
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +245.9 |
+| M80 | 2 | 3081.4 | +243.6 |
+| Liquid | 1 | 3103.3 | +240.2 |
+| Wildcard | 3 | 2911.9 | +240.0 |
+| SportsBetExpert | 6 | 2672.3 | +239.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Knight Owls (+0.0), Grandpa Berets (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+- S57 NA Main Central - Playoffs (2026-06-01): expires in 44 days [Tier Exposure 0.37]
+
 #### Matches (40 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -42,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Hairy Scary Bandits | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.16 | 0.00 | +95.9 | alula, ethex, taggyy, toromi, weeza |
 | 2026-08-21 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.06 | 0.85 | +8.5 | ethex, taggyy, thewhiteKING, toromi, weeza |
 | 2026-08-20 | AURA Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.13 | 0.99 | +3.8 | ethex, taggyy, thewhiteKING, toromi, weeza |
-| 2026-08-20 | Wolves | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.16 | 0.99 | +138.5 | ethex, taggyy, thewhiteKING, toromi, weeza |
+| 2026-08-20 | Wolves | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.16 | 0.99 | +138.6 | ethex, taggyy, thewhiteKING, toromi, weeza |
 | 2026-08-19 | enigma | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.13 | 0.84 | +9.2 | ethex, taggyy, thewhiteKING, toromi, weeza |
 | 2026-08-14 | Team Amplus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.14 | 0.81 | +69.2 | alula, ethex, taggyy, toromi, weeza |
 | 2026-08-13 | Club 333 | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -0.0 | alula, ethex, taggyy, toromi, weeza |
@@ -62,7 +94,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -187.7 | alula, ethex, taggyy, toromi, weeza |
 | 2026-05-01 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +0.6 | alula, ethex, taggyy, toromi, weeza |
 | 2026-04-29 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +208.8 | alula, ethex, taggyy, toromi, weeza |
-| 2026-04-24 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +217.1 | Marukami, ethex, taggyy, toromi, weeza |
+| 2026-04-24 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +217.2 | Marukami, ethex, taggyy, toromi, weeza |
 | 2026-04-22 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -382.4 | alula, ethex, taggyy, toromi, weeza |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

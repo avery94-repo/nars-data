@@ -19,6 +19,34 @@ seed_factor 0.055 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.007) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.055 | 1177.4 | - |
+| +30 days | 0.054 | 1176.3 | -1.2 |
+| +60 days | 0.054 | 1175.6 | -1.9 |
+| +90 days | 0.053 | 1174.2 | -3.2 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.007 vs 0.019 average, gap -0.012). Matching that average is worth about 8.4 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 West - Playoffs (2026-09-10) 1.07; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
+- Quality Wins drivers: beat Double Dink at S58 NA Open9-10 West - Playoffs (2026-09-04) 0.07; beat Potential to Stack Dough at S58 NA Open9-10 West - Playoffs (2026-09-03) 0.04
+- Opponent Network drivers: beat Double Dink at S58 NA Open9-10 West - Playoffs (2026-09-04) 1.03; beat Potential to Stack Dough at S58 NA Open9-10 West - Playoffs (2026-09-03) 1.02
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +249.7 |
+| SportsBetExpert | 6 | 2672.3 | +249.7 |
+| Zomblers | 22 | 2114.7 | +247.5 |
+| regain | 12 | 2256.1 | +247.4 |
+| North Forge | 38 | 1971.1 | +246.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.6), shirtcockin (+0.9), Courage (+1.1), SixSevenZaZa (+1.8).
+
 #### Matches (6 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

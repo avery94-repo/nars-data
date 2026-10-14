@@ -3,11 +3,11 @@ Team Name: Anchors Anonymous
 Roster: Jamiee07, KyeGo02, BotGoop, Ouija, diimaaa
 NARS Rank: 306 of 506
 
-Final Rating: 1256.4
+Final Rating: 1256.3
 Seeded Start: 1288.7
-H2H Adjustment: -32.3
+H2H Adjustment: -32.4
 
-Final Rating (1256.4) = Seeded Start (1288.7) + H2H Adjustment (-32.3)
+Final Rating (1256.3) = Seeded Start (1288.7) + H2H Adjustment (-32.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,38 @@ seed_factor 0.135 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.031) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.135 | 1288.7 | - |
+| +30 days | 0.114 | 1259.3 | -29.4 |
+| +60 days | 0.093 | 1230.0 | -58.7 |
+| +90 days | 0.059 | 1183.0 | -105.7 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.075 vs 0.078 average, gap -0.003). Matching that average is worth about 1.1 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.94; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs A (2026-06-02) 0.32
+- Quality Wins drivers: beat DeathMark E-Sports at S58 NA Intermediate B - Regular Season (2026-08-12) 0.09; beat Big Fish at S58 NA Intermediate B - Regular Season (2026-07-31) 0.08; beat Costco Family at S58 NA Intermediate B - Regular Season (2026-07-22) 0.07
+- Opponent Network drivers: beat Mach 10 at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.92; beat walkthemdown at S58 NA Intermediate B - Regular Season (2026-08-14) 0.79; beat DeathMark E-Sports at S58 NA Intermediate B - Regular Season (2026-08-12) 0.78
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +658.4 |
+| SportsBetExpert | 6 | 2672.3 | +657.5 |
+| LAG Gaming | 8 | 2507.3 | +647.2 |
+| M80 | 2 | 3081.4 | +644.0 |
+| regain | 12 | 2256.1 | +641.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A vs flat earth (2026-05-31): expires in 43 days [Quality Wins 0.04, Opponent Network 0.30]
+- S57 NA Open9-10 Central - Playoffs A (2026-06-02): expires in 45 days [Tier Exposure 0.32]
 
 #### Matches (19 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -42,6 +74,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Big Kahuna Gaming | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +55.1 | Jamiee07, KyeGo02, M4NUP, Ouija, hierro |
 | 2026-06-02 | HiveMind | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -181.8 | Jamiee07, KyeGo02, Ouija, diimaaa, y0uxx666 |
 | 2026-05-31 | flat earth | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.04 | 0.30 | +274.4 | Jamiee07, KyeGo02, Ouija, diimaaa, y0uxx666 |
-| 2026-05-27 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.05 | 1.00 | 0.28 | 0.00 | 0.00 | -266.5 | Jamiee07, KyeGo02, Ouija, diimaaa, hierro |
+| 2026-05-27 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.05 | 1.00 | 0.28 | 0.00 | 0.00 | -266.6 | Jamiee07, KyeGo02, Ouija, diimaaa, hierro |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

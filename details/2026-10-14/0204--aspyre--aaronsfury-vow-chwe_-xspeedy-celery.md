@@ -19,6 +19,40 @@ seed_factor 0.147 = 0.25 x Tier Exposure (0.101) + 0.50 x Quality Wins (0.072) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.147 | 1305.5 | - |
+| +30 days | 0.120 | 1267.6 | -37.9 |
+| +60 days | 0.096 | 1234.6 | -70.9 |
+| +90 days | 0.054 | 1175.4 | -130.1 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.101 vs 0.110 average, gap -0.009). Matching that average is worth about 3.2 seed points.
+
+- Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-10) 1.29; S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; S57 NA Advanced Central - Regular Season (2026-05-21) 0.30
+- Quality Wins drivers: beat EXODIA at S58 NA Advanced Central - Regular Season (2026-07-24) 0.54; beat Celestial Esports at S58 NA Advanced Central - Regular Season (2026-07-17) 0.26; beat NXG Esports at S58 NA Advanced Central - Regular Season (2026-08-28) 0.21
+- Opponent Network drivers: beat NXG Esports at S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; beat Pug Palace at S58 NA Advanced Central - Regular Season (2026-08-05) 1.06; beat EXODIA at S58 NA Advanced Central - Regular Season (2026-07-24) 0.94
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +575.1 |
+| SportsBetExpert | 6 | 2672.3 | +573.0 |
+| M80 | 2 | 3081.4 | +563.2 |
+| LAG Gaming | 8 | 2507.3 | +560.4 |
+| Wildcard | 3 | 2911.9 | +558.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs GRIT (2026-04-24): expires in 6 days [Quality Wins 0.01, Opponent Network 0.06]
+- S57 NA Advanced Central - Regular Season vs Once Divine Gaming (2026-05-07): expires in 19 days [Quality Wins 0.00, Opponent Network 0.17]
+- S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
+- S58 NA Advanced Central - Regular Season vs Room Temp IQs (2026-07-15): expires in 88 days [Quality Wins 0.04, Opponent Network 0.85]
+
 #### Matches (23 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -40,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -16.0 | ChwE_, aaronsfury, celery, vow, xSpeedy |
 | 2026-05-20 | Shimmer | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -1.1 | ChwE_, aaronsfury, celery, vow, xSpeedy |
 | 2026-05-19 | counterstrike Team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -140.3 | ChwE_, aaronsfury, celery, vow, xSpeedy |
-| 2026-05-15 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -86.1 | ChwE_, aaronsfury, celery, vow, xSpeedy |
+| 2026-05-15 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -86.0 | ChwE_, aaronsfury, celery, vow, xSpeedy |
 | 2026-05-08 | Pug Palace | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -328.3 | ChwE_, aaronsfury, celery, vow, xSpeedy |
 | 2026-05-07 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.17 | +26.5 | ChwE_, aaronsfury, celery, vow, xSpeedy |
 | 2026-05-01 | Olympus | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.00 | -2.7 | aaronsfury, celery, jawk, vow, xSpeedy |

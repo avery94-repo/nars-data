@@ -3,11 +3,11 @@ Team Name: Brothers United
 Roster: forMula_, Omnic, kenNjii, bubs-, XentriQ
 NARS Rank: 497 of 506
 
-Final Rating: 554.7
+Final Rating: 554.6
 Seeded Start: 1137.9
-H2H Adjustment: -583.2
+H2H Adjustment: -583.3
 
-Final Rating (554.7) = Seeded Start (1137.9) + H2H Adjustment (-583.2)
+Final Rating (554.6) = Seeded Start (1137.9) + H2H Adjustment (-583.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,36 @@ seed_factor 0.027 = 0.25 x Tier Exposure (0.032) + 0.50 x Quality Wins (0.005) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.027 | 1137.9 | - |
+| +30 days | 0.016 | 1122.6 | -15.3 |
+| +60 days | 0.011 | 1115.7 | -22.1 |
+| +90 days | 0.003 | 1104.8 | -33.1 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.066 vs 0.085 average, gap -0.019). Matching that average is worth about 6.6 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate A - Regular Season (2026-07-29) 0.68; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat AML at S58 NA Intermediate A - Regular Season (2026-07-22) 0.06; beat dogwater at S57 NA Intermediate Central - Regular Season (2026-05-08) 0.01; beat 37U Passion at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.01
+- Opponent Network drivers: beat AML at S58 NA Intermediate A - Regular Season (2026-07-22) 0.64; beat 37U Passion at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23; beat dogwater at S57 NA Intermediate Central - Regular Season (2026-05-08) 0.14
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| North Forge | 38 | 1971.1 | +666.2 |
+| Wanted Goons | 43 | 1933.1 | +665.8 |
+| NRG | 4 | 2836.4 | +665.3 |
+| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| Zomblers | 22 | 2114.7 | +663.3 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs dogwater (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.14]
+- S57 NA Intermediate Central - Regular Season vs 37U Passion (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.01, Opponent Network 0.23]
 
 #### Matches (14 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

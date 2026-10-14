@@ -19,12 +19,45 @@ seed_factor 0.060 = 0.25 x Tier Exposure (0.046) + 0.50 x Quality Wins (0.014) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.060 | 1184.2 | - |
+| +30 days | 0.049 | 1168.8 | -15.3 |
+| +60 days | 0.042 | 1158.7 | -25.4 |
+| +90 days | 0.039 | 1155.0 | -29.2 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.166 vs 0.332 average, gap -0.166). Matching that average is worth about 58.1 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs B (2026-09-07) 0.99; S57 NA Open9-10 Central - Playoffs A (2026-06-05) 0.34
+- Quality Wins drivers: beat ASCEND at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.15; beat Lemon Party at S58 NA Open9-10 East - Playoffs B (2026-09-02) 0.03; beat ItAintOverYet at S57 NA Open9-10 Central - Playoffs A (2026-06-04) 0.03
+- Opponent Network drivers: beat ASCEND at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.97; beat Lemon Party at S58 NA Open9-10 East - Playoffs B (2026-09-02) 0.95; beat ItAintOverYet at S57 NA Open9-10 Central - Playoffs A (2026-06-04) 0.33
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +663.3 |
+| SportsBetExpert | 6 | 2672.3 | +660.4 |
+| M80 | 2 | 3081.4 | +649.8 |
+| LAG Gaming | 8 | 2507.3 | +644.8 |
+| Wildcard | 3 | 2911.9 | +644.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A vs BONK (2026-05-29): expires in 41 days [Quality Wins 0.02, Opponent Network 0.29]
+- S57 NA Open9-10 Central - Playoffs A vs ItAintOverYet (2026-06-04): expires in 47 days [Quality Wins 0.03, Opponent Network 0.33]
+- S57 NA Open9-10 Central - Playoffs A (2026-06-05): expires in 48 days [Tier Exposure 0.34]
+
 #### Matches (6 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-07 | MEET THE WALL | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -160.9 | 1icarus, Zaakaa, ctrn, egaK, mock |
+| 2026-09-07 | MEET THE WALL | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -161.0 | 1icarus, Zaakaa, ctrn, egaK, mock |
 | 2026-09-04 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.15 | 0.97 | +89.9 | 1icarus, ctrn, egaK, lelgfnoob, mock |
 | 2026-09-02 | Lemon Party | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +17.5 | 1icarus, CH4RG3R, Johnny316, ctrn, egaK |
 | 2026-06-05 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.34 | 0.00 | 0.00 | -202.5 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |

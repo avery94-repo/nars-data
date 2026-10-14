@@ -19,6 +19,36 @@ seed_factor 0.087 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.017) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.087 | 1221.2 | - |
+| +30 days | 0.075 | 1205.5 | -15.7 |
+| +60 days | 0.070 | 1198.0 | -23.2 |
+| +90 days | 0.060 | 1184.7 | -36.5 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.017 vs 0.007 average, gap +0.010). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Main A - Regular Season (2026-08-28) 0.90; S57 NA Main Central - Regular Season (2026-05-20) 0.25
+- Quality Wins drivers: beat Grandpa Berets at S58 NA Main A - Regular Season (2026-08-28) 0.08; beat Spin da block at S58 NA Main A - Regular Season (2026-08-21) 0.07; beat After Peak at S58 NA Main A - Regular Season (2026-08-12) 0.07
+- Opponent Network drivers: beat Grandpa Berets at S58 NA Main A - Regular Season (2026-08-28) 0.90; beat Spin da block at S58 NA Main A - Regular Season (2026-08-21) 0.85; beat Sleepers at S58 NA Main A - Regular Season (2026-08-20) 0.85
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| North Forge | 38 | 1971.1 | +314.6 |
+| NRG | 4 | 2836.4 | +314.6 |
+| SportsBetExpert | 6 | 2672.3 | +314.6 |
+| Wanted Goons | 43 | 1933.1 | +314.4 |
+| Zomblers | 22 | 2114.7 | +313.5 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Read You Like a Kindle (2026-05-15): expires in 27 days [Quality Wins 0.02, Opponent Network 0.21]
+- S57 NA Main Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.25]
+
 #### Matches (21 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -40,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -1.6 | 7urroN, FLa_FLa, Pokario, SteveSaw10, WIDOW1g |
 | 2026-05-20 | Yogaball Frags | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -273.1 | 7urroN, Pokario, SteveSaw10, WIDOW1g, _GOR- |
 | 2026-05-15 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +376.6 | 7urroN, JaXsy, Pokario, WIDOW1g, nkSitow |
-| 2026-05-08 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -186.6 | 7urroN, JaXsy, Pokario, SteveSaw10, WIDOW1g |
+| 2026-05-08 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -186.7 | 7urroN, JaXsy, Pokario, SteveSaw10, WIDOW1g |
 | 2026-04-30 | SquadUp | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -3.8 | 1nvert-, JaXsy, Pokario, SteveSaw10, WIDOW1g |
 | 2026-04-29 | VOID ALUNE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -1.3 | JaXsy, Pokario, SteveSaw10, WIDOW1g, _GOR- |
 | 2026-04-24 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -29.5 | -Nando--, JaXsy, Pokario, WIDOW1g, _GOR- |

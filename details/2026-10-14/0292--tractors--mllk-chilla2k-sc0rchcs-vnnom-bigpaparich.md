@@ -19,6 +19,41 @@ seed_factor 0.178 = 0.25 x Tier Exposure (0.199) + 0.50 x Quality Wins (0.036) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.178 | 1349.7 | - |
+| +30 days | 0.155 | 1316.6 | -33.1 |
+| +60 days | 0.134 | 1287.8 | -61.9 |
+| +90 days | 0.108 | 1251.9 | -97.8 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.036 vs 0.031 average, gap +0.005). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-06) 1.26; NSTLGA League | Ruby Conference (2026-08-25) 1.26; S59 NA Main A - Regular Season (2026-10-07) 1.02
+- Quality Wins drivers: beat TenToesDown at NSTLGA League | Ruby Conference (2026-08-24) 0.16; beat WaterDrinkers at S59 NA Main A - Regular Season (2026-10-09) 0.13; beat puggin4seb at S58 NA Main A - Regular Season (2026-08-26) 0.07
+- Opponent Network drivers: beat TenToesDown at NSTLGA League | Ruby Conference (2026-08-24) 1.26; beat WaterDrinkers at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat puggin4seb at S58 NA Main A - Regular Season (2026-08-26) 0.89
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +315.4 |
+| SportsBetExpert | 6 | 2672.3 | +315.1 |
+| LAG Gaming | 8 | 2507.3 | +310.5 |
+| regain | 12 | 2256.1 | +309.3 |
+| M80 | 2 | 3081.4 | +308.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Mach 10 (2026-05-08): expires in 20 days [Quality Wins 0.01]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs B vs wabbit2 (2026-05-27): expires in 39 days [Opponent Network 0.26]
+- S57 NA Intermediate Central - Playoffs B vs EZ2025 (2026-05-29): expires in 41 days [Quality Wins 0.02, Opponent Network 0.28]
+- S57 NA Intermediate Central - Playoffs B vs NATIONAL CS UNI (2026-06-03): expires in 46 days [Tier Exposure 0.31, Quality Wins 0.03, Opponent Network 0.31]
+
 #### Matches (38 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -43,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.03 | 0.76 | +77.3 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-07-31 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -90.5 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-07-29 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -220.6 | Chilla2k, DKP-, MlLK, Sc0rchcs, Vnnom |
-| 2026-07-26 | FLOW STATE | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -176.0 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
+| 2026-07-26 | FLOW STATE | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -176.0 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-07-26 | HeatPeek | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.05 | 0.70 | +135.7 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-07-24 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.03 | 0.66 | +26.8 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-07-22 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +147.6 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
@@ -51,13 +86,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Texas Orange | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -396.7 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-06-03 | NATIONAL CS UNI | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.31 | +159.2 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-29 | EZ2025 | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +101.0 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
-| 2026-05-27 | wabbit2 | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +306.0 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
+| 2026-05-27 | wabbit2 | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +306.1 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-22 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -309.2 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
-| 2026-05-20 | Shock Value | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +176.6 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
+| 2026-05-20 | Shock Value | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +176.7 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-15 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +5.2 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-14 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +125.4 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-08 | Potential to Stack Dough | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +161.0 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
-| 2026-05-08 | Mach 10 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +377.6 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
+| 2026-05-08 | Mach 10 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +377.7 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-04 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -151.8 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-02 | Strafe | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.00 | -287.6 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-04-24 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -21.8 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |

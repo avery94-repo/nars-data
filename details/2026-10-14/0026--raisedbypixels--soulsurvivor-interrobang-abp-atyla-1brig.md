@@ -19,6 +19,44 @@ seed_factor 0.096 = 0.25 x Tier Exposure (0.152) + 0.50 x Quality Wins (0.044) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.096 | 1234.1 | - |
+| +30 days | 0.036 | 1149.8 | -84.3 |
+| +60 days | 0.011 | 1115.1 | -119.0 |
+| +90 days | 0.000 | 1100.0 | -134.1 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.144 vs 0.612 average, gap -0.468). Matching that average is worth about 163.8 seed points.
+
+- Tier Exposure drivers: S57 NA Advanced Central - Playoffs (2026-06-07) 0.50; S57 NA Advanced Central - Regular Season (2026-05-21) 0.30; VRS-tracked 2026-07 (2026-07-07) 0.86
+- Quality Wins drivers: beat EMPIRE at S57 NA Advanced Central - Regular Season (2026-05-19) 0.23; beat unreal nightmare at S57 NA Advanced Central - Regular Season (2026-05-21) 0.21; beat Beyond Limits at S57 NA Advanced Central - Regular Season (2026-05-05) 0.10
+- Opponent Network drivers: beat Festina Lente at VRS-tracked 2026-06 (2026-06-29) 0.77; beat unreal nightmare at S57 NA Advanced Central - Regular Season (2026-05-21) 0.30; beat House Platypus ESC at S57 NA Advanced Central - Regular Season (2026-05-20) 0.29
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +639.4 |
+| Liquid | 1 | 3103.3 | +631.0 |
+| NRG | 4 | 2836.4 | +628.4 |
+| Wildcard | 3 | 2911.9 | +619.7 |
+| Voca | 5 | 2796.5 | +589.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Knight Owls (+0.0), Grandpa Berets (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs girl kissers (2026-04-27): expires in 9 days [Quality Wins 0.00, Opponent Network 0.08]
+- S57 NA Advanced Central - Regular Season vs Addice (2026-04-28): expires in 10 days [Quality Wins 0.02, Opponent Network 0.09]
+- S57 NA Advanced Central - Regular Season vs Beyond Limits (2026-05-05): expires in 17 days [Quality Wins 0.10, Opponent Network 0.16]
+- S57 NA Advanced Central - Regular Season vs NineFlyeSports (2026-05-12): expires in 24 days [Quality Wins 0.03, Opponent Network 0.22]
+- S57 NA Advanced Central - Regular Season vs EMPIRE (2026-05-19): expires in 31 days [Quality Wins 0.23, Opponent Network 0.28]
+- S57 NA Advanced Central - Regular Season vs House Platypus ESC (2026-05-20): expires in 32 days [Quality Wins 0.02, Opponent Network 0.29]
+- S57 NA Advanced Central - Regular Season vs unreal nightmare (2026-05-21): expires in 33 days [Tier Exposure 0.30, Quality Wins 0.21, Opponent Network 0.30]
+- VRS-tracked 2026-06 (2026-06-06): expires in 49 days [Tier Exposure 0.53]
+
 #### Matches (15 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

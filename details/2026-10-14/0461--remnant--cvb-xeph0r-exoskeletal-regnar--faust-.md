@@ -3,11 +3,11 @@ Team Name: Remnant
 Roster: cvb, Xeph0r, Exoskeletal, Regnar, -Faust-
 NARS Rank: 461 of 506
 
-Final Rating: 836.9
+Final Rating: 836.8
 Seeded Start: 1264.8
-H2H Adjustment: -427.9 (capped at +-300, raw -428.0)
+H2H Adjustment: -428.0
 
-Final Rating (836.9) = Seeded Start (1264.8) + H2H Adjustment (-427.9)
+Final Rating (836.8) = Seeded Start (1264.8) + H2H Adjustment (-428.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -19,6 +19,42 @@ seed_factor 0.118 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.022) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.118 | 1264.8 | - |
+| +30 days | 0.098 | 1237.4 | -27.4 |
+| +60 days | 0.088 | 1223.0 | -41.8 |
+| +90 days | 0.071 | 1199.4 | -65.4 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.022 vs 0.013 average, gap +0.009). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; S57 NA Intermediate Central - Playoffs B (2026-05-29) 0.28
+- Quality Wins drivers: beat After Peak at S59 NA Intermediate A - Regular Season (2026-10-09) 0.09; beat Flow Esports at S58 NA Intermediate B - Regular Season (2026-07-15) 0.07; beat monitor off at S58 NA Intermediate B - Regular Season (2026-08-07) 0.06
+- Opponent Network drivers: beat After Peak at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat SixSevenZaZa at S58 NA Intermediate B - Regular Season (2026-08-26) 0.87; beat Shaq Diesel at S58 NA Intermediate B - Regular Season (2026-08-14) 0.79
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +444.8 |
+| SportsBetExpert | 6 | 2672.3 | +444.7 |
+| North Forge | 38 | 1971.1 | +443.2 |
+| Zomblers | 22 | 2114.7 | +442.5 |
+| Wanted Goons | 43 | 1933.1 | +442.4 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Brothers United (2026-04-29): expires in 11 days [Quality Wins 0.00]
+- S57 NA Intermediate Central - Regular Season vs Mace Lindu Ruff Rebound (2026-05-01): expires in 13 days [Quality Wins 0.01]
+- S57 NA Intermediate Central - Regular Season vs Gambling and Young (2026-05-06): expires in 18 days [Opponent Network 0.12]
+- S57 NA Intermediate Central - Regular Season vs Knight Owls (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.14]
+- S57 NA Intermediate Central - Regular Season vs Grandpa Berets (2026-05-13): expires in 25 days [Quality Wins 0.01, Opponent Network 0.17]
+- S57 NA Intermediate Central - Regular Season vs Brick Layers (2026-05-15): expires in 27 days [Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs B (2026-05-29): expires in 41 days [Tier Exposure 0.28]
+
 #### Matches (26 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -27,7 +63,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | After Peak | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.09 | 1.00 | +165.3 | Arch1ves, Exoskeletal, Regnar, Rellac, Xeph0r |
 | 2026-10-07 | Samantha 4 | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -4.0 | Arch1ves, Exoskeletal, Regnar, Rellac, cvb |
 | 2026-08-28 | Thrash | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -81.6 | -Faust-, Exoskeletal, Gettooled, Regnar, cvb |
-| 2026-08-26 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.03 | 0.87 | +52.4 | -Faust-, Gettooled, Regnar, Xeph0r, cvb |
+| 2026-08-26 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.03 | 0.87 | +52.5 | -Faust-, Gettooled, Regnar, Xeph0r, cvb |
 | 2026-08-19 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -125.2 | -Faust-, Exoskeletal, Gettooled, Regnar, Xeph0r |
 | 2026-08-14 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.03 | 0.79 | +8.0 | -Faust-, Exoskeletal, Gettooled, Regnar, cvb |
 | 2026-08-12 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -92.6 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
@@ -38,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | walkthemdown | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -300.5 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
 | 2026-07-22 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +253.1 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
 | 2026-07-17 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -78.6 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
-| 2026-07-15 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +394.4 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |
+| 2026-07-15 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +394.5 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |
 | 2026-05-29 | DownTown | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -140.0 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
 | 2026-05-27 | Ubiquiti | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -261.4 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
 | 2026-05-22 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -347.8 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |

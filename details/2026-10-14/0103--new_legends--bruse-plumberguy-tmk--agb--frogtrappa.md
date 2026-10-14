@@ -19,6 +19,40 @@ seed_factor 0.501 = 0.25 x Tier Exposure (0.637) + 0.50 x Quality Wins (0.263) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.501 | 1801.4 | - |
+| +30 days | 0.464 | 1749.2 | -52.2 |
+| +60 days | 0.438 | 1713.0 | -88.4 |
+| +90 days | 0.399 | 1658.9 | -142.5 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.263 vs 0.115 average, gap +0.148). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-18) 1.55; ESL Challenger League Season 52 North America Cup 3 (2026-10-08) 1.55; NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A (2026-09-03) 1.47
+- Quality Wins drivers: beat Zomblers at NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A (2026-09-02) 1.28; beat Club 333 at VRS-tracked 2026-08 (2026-08-26) 1.08; beat academy 4 gifted children at NSTLGA League | Ruby Conference (2026-08-25) 0.38
+- Opponent Network drivers: beat Zomblers at NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group A (2026-09-02) 1.46; beat Club 333 at VRS-tracked 2026-08 (2026-08-26) 1.39; beat enigma at Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +129.5 |
+| SportsBetExpert | 6 | 2672.3 | +128.8 |
+| M80 | 2 | 3081.4 | +126.9 |
+| Wildcard | 3 | 2911.9 | +125.9 |
+| LAG Gaming | 8 | 2507.3 | +125.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0).
+
+Seed inputs expiring within 90 days:
+- VRS-tracked 2026-04 (2026-04-26): expires in 8 days [Tier Exposure 0.09]
+- VRS-tracked 2026-04 (2026-04-27): expires in 9 days [Tier Exposure 0.10]
+- S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
+- S57 NA Advanced Central - Playoffs (2026-06-09): expires in 52 days [Tier Exposure 0.52]
+
 #### Matches (39 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -34,9 +68,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | Celestial Esports | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.38 | 1.28 | +22.4 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-09-07 | O Fire | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.27 | 0.16 | 1.27 | +1.2 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
 | 2026-09-03 | DETONATE | L | 0-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 0.00 | 0.00 | -5.0 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
-| 2026-09-02 | Zomblers | W | 2-1 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 1.28 | 1.46 | +94.7 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
+| 2026-09-02 | Zomblers | W | 2-1 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 1.28 | 1.46 | +94.8 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-09-02 | Overtake Sector | L | 1-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 0.00 | 0.00 | -0.2 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
-| 2026-08-28 | Brahmas | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.28 | 0.00 | 0.00 | -135.8 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
+| 2026-08-28 | Brahmas | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.28 | 0.00 | 0.00 | -135.9 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-08-27 | EMPIRE | L |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.40 | 0.00 | 0.00 | -10.4 | core 3/5 |
 | 2026-08-26 | Club 333 | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 1.08 | 1.39 | +127.5 | core 3/5 |
 | 2026-08-25 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 0.13 | 1.25 | +3.3 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
@@ -47,11 +81,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-24 | EMPIRE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.25 | 0.00 | 0.00 | -8.5 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-08-21 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.19 | 1.21 | +88.0 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-08-20 | HeadShot Esports | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.17 | 1.21 | +4.1 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
-| 2026-08-18 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -41.5 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
+| 2026-08-18 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.18 | 0.00 | 0.00 | -41.5 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
 | 2026-08-14 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.06 | 1.15 | +3.1 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
 | 2026-08-12 | Over Your Head | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.13 | 0.15 | 1.13 | +268.7 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
 | 2026-08-07 | UltimateDarklordWizardz | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.74 | 1.46 | 1.00 | 1.08 | 0.22 | 1.08 | +230.5 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
-| 2026-08-07 | Room Temp IQs | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.00 | 0.00 | -120.7 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
+| 2026-08-07 | Room Temp IQs | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.00 | 0.00 | -120.8 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
 | 2026-08-05 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.11 | 1.06 | +138.7 | -AGB-, FROGTRAPPA, PlumberGuy, dobler, tmk |
 | 2026-07-29 | Omen Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -0.2 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |
 | 2026-07-24 | dead team | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.00 | 0.00 | -109.0 | -AGB-, Bruse, FROGTRAPPA, PlumberGuy, tmk |

@@ -19,6 +19,43 @@ seed_factor 0.022 = 0.25 x Tier Exposure (0.029) + 0.50 x Quality Wins (0.002) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.022 | 1131.2 | - |
+| +30 days | 0.003 | 1104.0 | -27.2 |
+| +60 days | 0.000 | 1100.0 | -31.2 |
+| +90 days | 0.000 | 1100.0 | -31.2 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.056 vs 0.362 average, gap -0.306). Matching that average is worth about 107.1 seed points.
+
+- Tier Exposure drivers: S57 NA Advanced Central - Playoffs (2026-06-09) 0.52; S57 NA Advanced Central - Regular Season (2026-05-20) 0.29
+- Quality Wins drivers: beat Pug Palace at S57 NA Advanced Central - Regular Season (2026-05-07) 0.02; beat House Platypus ESC at S57 NA Advanced Central - Regular Season (2026-05-14) 0.01; beat Room Temp IQs at S57 NA Advanced Central - Regular Season (2026-04-30) 0.01
+- Opponent Network drivers: beat Asian Invasion at S57 NA Advanced Central - Regular Season (2026-05-19) 0.28; beat House Platypus ESC at S57 NA Advanced Central - Regular Season (2026-05-14) 0.24; beat Pug Palace at S57 NA Advanced Central - Regular Season (2026-05-07) 0.17
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +663.8 |
+| SportsBetExpert | 6 | 2672.3 | +661.7 |
+| M80 | 2 | 3081.4 | +650.0 |
+| LAG Gaming | 8 | 2507.3 | +648.0 |
+| Wildcard | 3 | 2911.9 | +645.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs Once Divine Gaming (2026-04-23): expires in 5 days [Quality Wins 0.00, Opponent Network 0.05]
+- S57 NA Advanced Central - Regular Season vs Room Temp IQs (2026-04-30): expires in 12 days [Quality Wins 0.01, Opponent Network 0.11]
+- S57 NA Advanced Central - Regular Season vs Pug Palace (2026-05-07): expires in 19 days [Quality Wins 0.02, Opponent Network 0.17]
+- S57 NA Advanced Central - Regular Season vs House Platypus ESC (2026-05-14): expires in 26 days [Quality Wins 0.01, Opponent Network 0.24]
+- S57 NA Advanced Central - Regular Season vs Asian Invasion (2026-05-19): expires in 31 days [Quality Wins 0.00, Opponent Network 0.28]
+- S57 NA Advanced Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.29]
+- S57 NA Advanced Central - Playoffs (2026-06-09): expires in 52 days [Tier Exposure 0.52]
+
 #### Matches (11 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

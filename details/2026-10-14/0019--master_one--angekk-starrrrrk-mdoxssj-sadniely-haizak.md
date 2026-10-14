@@ -5,7 +5,7 @@ NARS Rank: 19 of 506
 
 Final Rating: 2159.2
 Seeded Start: 1449.6
-H2H Adjustment: +709.6
+H2H Adjustment: +709.6 (capped at +-300, raw +709.7)
 
 Final Rating (2159.2) = Seeded Start (1449.6) + H2H Adjustment (+709.6)
 
@@ -18,6 +18,37 @@ seed_factor 0.250 = 0.25 x Tier Exposure (0.117) + 0.50 x Quality Wins (0.099) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.250 | 1449.6 | - |
+| +30 days | 0.225 | 1415.2 | -34.3 |
+| +60 days | 0.207 | 1389.4 | -60.1 |
+| +90 days | 0.175 | 1344.9 | -104.7 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.117 vs 0.628 average, gap -0.511). Matching that average is worth about 178.9 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-16) 1.19; S58 NA Main B - Regular Season (2026-08-26) 1.01; Esports Nations Cup 2026: South America Qualifier (2026-07-17) 0.88
+- Quality Wins drivers: beat EXODIA at Esports Nations Cup 2026: South America Qualifier (2026-07-17) 0.50; beat Old Meta at S58 NA Main Central - Playoffs B (2026-09-12) 0.16; beat FUELED BY HATE at S58 NA Main B - Regular Season (2026-08-12) 0.15
+- Opponent Network drivers: beat qcclan at S58 NA Main Central - Playoffs B (2026-09-16) 1.19; beat Old Meta at S58 NA Main Central - Playoffs B (2026-09-12) 1.17; beat goofball gaming at S58 NA Main Central - Playoffs B (2026-09-08) 1.14
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +379.6 |
+| Liquid | 1 | 3103.3 | +374.8 |
+| NRG | 4 | 2836.4 | +368.2 |
+| Wildcard | 3 | 2911.9 | +365.1 |
+| Voca | 5 | 2796.5 | +343.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Dead Pixel (+0.0), It Doesnt Matter (+0.0), GoopT (+0.0), onliners (+0.0), Cadillac F1 eSports Team (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
 
 #### Matches (28 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -38,15 +69,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.11 | 0.85 | +192.3 | -TAYLOR, STARKGOD, angekk, haroldz9-21, sadnielyy |
 | 2026-07-31 | Sassy Sunshines | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.07 | 0.81 | +30.7 | -TAYLOR, STARKGOD, angekk, haroldz9-21, mdoxZ9 |
 | 2026-07-29 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.08 | 0.79 | +59.7 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
-| 2026-07-24 | Tall Ocean Rats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +245.6 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
+| 2026-07-24 | Tall Ocean Rats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +245.7 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-07-22 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -175.6 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
-| 2026-07-17 | EXODIA | W | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.61 | 1.45 | 1.00 | 0.88 | 0.50 | 0.88 | +250.6 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
+| 2026-07-17 | EXODIA | W | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.61 | 1.45 | 1.00 | 0.88 | 0.50 | 0.88 | +250.7 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-07-16 | 773Revival | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -173.8 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-07-15 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.06 | 0.68 | +35.8 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-05-22 | Down To Frag | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.03 | 0.00 | +405.2 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-05-20 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -332.1 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-05-13 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -307.1 | STARKGOD, SungSuho, angekk, haroldz9-21, mdoxZ9, sadnielyy |
-| 2026-05-08 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.02 | 0.16 | +291.0 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
+| 2026-05-08 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.02 | 0.16 | +291.1 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-05-06 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -428.9 | STARKGOD, SungSuho, angekk, haroldz9-21, sadnielyy |
 | 2026-05-01 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +0.9 | STARKGOD, SungSuho, angekk, haroldz9-21, sadnielyy |
 | 2026-04-29 | Old Meta | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.00 | +7.4 | STARKGOD, SungSuho, angekk, haroldz9-21, sadnielyy |

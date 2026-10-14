@@ -19,13 +19,46 @@ seed_factor 0.009 = 0.25 x Tier Exposure (0.005) + 0.50 x Quality Wins (0.002) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.009 | 1112.1 | - |
+| +30 days | 0.000 | 1100.0 | -12.1 |
+| +60 days | 0.000 | 1100.0 | -12.1 |
+| +90 days | 0.000 | 1100.0 | -12.1 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.025 vs 0.539 average, gap -0.514). Matching that average is worth about 179.9 seed points.
+
+- Tier Exposure drivers: S57 NA Main Central - Regular Season (2026-05-08) 0.16
+- Quality Wins drivers: beat Conscious Gaming at S57 NA Main Central - Regular Season (2026-05-06) 0.02; beat Bird Lickers at S57 NA Main Central - Regular Season (2026-04-29) 0.01; beat Order Zero at S57 NA Main Central - Regular Season (2026-05-08) 0.00
+- Opponent Network drivers: beat Order Zero at S57 NA Main Central - Regular Season (2026-05-08) 0.16; beat Conscious Gaming at S57 NA Main Central - Regular Season (2026-05-06) 0.14; beat Bird Lickers at S57 NA Main Central - Regular Season (2026-04-29) 0.09
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +655.1 |
+| M80 | 2 | 3081.4 | +647.4 |
+| SportsBetExpert | 6 | 2672.3 | +641.0 |
+| Wildcard | 3 | 2911.9 | +638.7 |
+| Liquid | 1 | 3103.3 | +638.4 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), we get it back (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Bird Lickers (2026-04-29): expires in 11 days [Quality Wins 0.01, Opponent Network 0.09]
+- S57 NA Main Central - Regular Season vs Conscious Gaming (2026-05-06): expires in 18 days [Quality Wins 0.02, Opponent Network 0.14]
+- S57 NA Main Central - Regular Season vs Order Zero (2026-05-08): expires in 20 days [Tier Exposure 0.16, Quality Wins 0.00, Opponent Network 0.16]
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-08 | Order Zero | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +136.7 | AwY_E8, Cd666, Filet-J-Fish, JaCkyG, _Project90 |
-| 2026-05-06 | Conscious Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +326.1 | AwY_E8, Cd666, Filet-J-Fish, JaCkyG, _Project90 |
+| 2026-05-06 | Conscious Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +326.2 | AwY_E8, Cd666, Filet-J-Fish, JaCkyG, _Project90 |
 | 2026-05-01 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -34.2 | AwY_E8, Cd666, Filet-J-Fish, JaCkyG, _Project90 |
 | 2026-04-29 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +399.1 | AwY_E8, Cd666, Filet-J-Fish, JaCkyG, _Project90 |
 | 2026-04-22 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -151.4 | AwY_E8, Cd666, Filet-J-Fish, JaCkyG, _Project90 |

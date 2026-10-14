@@ -19,6 +19,38 @@ seed_factor 0.061 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.011) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.061 | 1185.5 | - |
+| +30 days | 0.045 | 1163.7 | -21.9 |
+| +60 days | 0.033 | 1146.7 | -38.8 |
+| +90 days | 0.023 | 1132.8 | -52.7 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.011 vs 0.007 average, gap +0.004). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.92; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs B (2026-06-05) 0.32
+- Quality Wins drivers: beat It Doesnt Matter at S58 NA Intermediate B - Regular Season (2026-08-19) 0.09; beat DeathMark E-Sports at S58 NA Intermediate B - Regular Season (2026-07-15) 0.07; beat Cojomo Academy Roster at S57 NA Open9-10 Central - Playoffs B (2026-06-05) 0.01
+- Opponent Network drivers: beat It Doesnt Matter at S58 NA Intermediate B - Regular Season (2026-08-19) 0.82; beat DeathMark E-Sports at S58 NA Intermediate B - Regular Season (2026-07-15) 0.59; beat Cojomo Academy Roster at S57 NA Open9-10 Central - Playoffs B (2026-06-05) 0.32
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| Zomblers | 22 | 2114.7 | +659.0 |
+| regain | 12 | 2256.1 | +658.8 |
+| FarmVille | 16 | 2167.5 | +657.1 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs Team Rocket (2026-05-27): expires in 39 days [Quality Wins 0.00, Opponent Network 0.26]
+- S57 NA Open9-10 Central - Playoffs B vs BAN ANCIENT (2026-05-29): expires in 41 days [Quality Wins 0.00, Opponent Network 0.28]
+- S57 NA Open9-10 Central - Playoffs B vs Cojomo Academy Roster (2026-06-05): expires in 48 days [Tier Exposure 0.32, Quality Wins 0.01, Opponent Network 0.32]
+- S58 NA Intermediate B - Regular Season vs DeathMark E-Sports (2026-07-15): expires in 88 days [Quality Wins 0.07, Opponent Network 0.59]
+
 #### Matches (14 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

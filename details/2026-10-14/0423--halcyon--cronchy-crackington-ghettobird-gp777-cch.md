@@ -19,6 +19,39 @@ seed_factor 0.021 = 0.25 x Tier Exposure (0.045) + 0.50 x Quality Wins (0.001) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.021 | 1130.0 | - |
+| +30 days | 0.013 | 1118.6 | -11.4 |
+| +60 days | 0.007 | 1110.2 | -19.8 |
+| +90 days | 0.007 | 1109.6 | -20.4 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.268 average, gap -0.229). Matching that average is worth about 80.2 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92; S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
+- Quality Wins drivers: beat Team Dainyko at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.01; beat GEDifferent at S57 NA Open9-10 Central - Playoffs B (2026-05-31) 0.00
+- Opponent Network drivers: beat Team Dainyko at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31; beat GEDifferent at S57 NA Open9-10 Central - Playoffs B (2026-05-31) 0.29
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +664.9 |
+| regain | 12 | 2256.1 | +657.9 |
+| Zomblers | 22 | 2114.7 | +657.0 |
+| LAG Gaming | 8 | 2507.3 | +656.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.2).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs GEDifferent (2026-05-31): expires in 43 days [Quality Wins 0.00, Opponent Network 0.29]
+- S57 NA Open9-10 Central - Playoffs B vs Team Dainyko (2026-06-03): expires in 46 days [Quality Wins 0.01, Opponent Network 0.31]
+- S57 NA Open9-10 Central - Playoffs B (2026-06-10): expires in 53 days [Tier Exposure 0.36]
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

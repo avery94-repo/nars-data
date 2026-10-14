@@ -19,6 +19,37 @@ seed_factor 0.108 = 0.25 x Tier Exposure (0.081) + 0.50 x Quality Wins (0.019) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.108 | 1251.8 | - |
+| +30 days | 0.094 | 1231.6 | -20.2 |
+| +60 days | 0.085 | 1218.5 | -33.3 |
+| +90 days | 0.068 | 1194.6 | -57.2 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.019 vs 0.006 average, gap +0.013). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-28) 1.02; S59 NA Main A - Regular Season (2026-10-07) 1.02; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat Feels MAIN Man at S58 NA Main B - Regular Season (2026-08-26) 0.09; beat Temple of Swing at S58 NA Main B - Regular Season (2026-08-21) 0.08; beat HammerHeads at S58 NA Main B - Regular Season (2026-08-05) 0.05
+- Opponent Network drivers: beat Feels MAIN Man at S58 NA Main B - Regular Season (2026-08-26) 1.01; beat Temple of Swing at S58 NA Main B - Regular Season (2026-08-21) 0.97; beat shirtcockin at S58 NA Main B - Regular Season (2026-08-12) 0.90
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +507.4 |
+| SportsBetExpert | 6 | 2672.3 | +507.3 |
+| North Forge | 38 | 1971.1 | +504.7 |
+| Zomblers | 22 | 2114.7 | +504.3 |
+| Wanted Goons | 43 | 1933.1 | +503.6 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Aers Money Crew (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Main Central - Regular Season vs Specter Esports (2026-05-13): expires in 25 days [Quality Wins 0.01, Opponent Network 0.19]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+
 #### Matches (23 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -41,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -0.0 | BLACK_KIMCHI, Eternal-1, Randy1, Spr3ad, floorine9 |
 | 2026-05-22 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -12.7 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
 | 2026-05-15 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -299.2 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
-| 2026-05-13 | Specter Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +366.8 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
+| 2026-05-13 | Specter Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +366.9 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
 | 2026-05-06 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -1.0 | BenjiBeatsu, Eternal-1, Randy1, Spr3ad, j4b |
 | 2026-05-01 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -240.2 | Eternal-1, MyKeys, Randy1, Spr3ad, j4b |
 | 2026-04-29 | Texas Orange | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -218.3 | Eternal-1, MyKeys, Randy1, Spr3ad, j4b |

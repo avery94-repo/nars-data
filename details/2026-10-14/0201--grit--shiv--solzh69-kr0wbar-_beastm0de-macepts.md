@@ -19,6 +19,40 @@ seed_factor 0.106 = 0.25 x Tier Exposure (0.105) + 0.50 x Quality Wins (0.021) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.106 | 1248.1 | - |
+| +30 days | 0.091 | 1227.6 | -20.5 |
+| +60 days | 0.087 | 1221.9 | -26.2 |
+| +90 days | 0.080 | 1212.5 | -35.6 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.277 vs 0.334 average, gap -0.057). Matching that average is worth about 19.9 seed points.
+
+- Tier Exposure drivers: S59 NA Advanced Central - Regular Season (2026-10-07) 1.43; S58 NA Advanced Central - Regular Season (2026-08-26) 1.26; S57 NA Advanced Central - Regular Season (2026-05-21) 0.30
+- Quality Wins drivers: beat Shadow Wizard Money Gang at S58 NA Advanced Central - Regular Season (2026-07-29) 0.10; beat Day Traders at S59 NA Advanced Central - Regular Season (2026-10-07) 0.07; beat dead team at S58 NA Advanced Central - Regular Season (2026-08-20) 0.07
+- Opponent Network drivers: beat Day Traders at S59 NA Advanced Central - Regular Season (2026-10-07) 1.43; beat dead team at S58 NA Advanced Central - Regular Season (2026-08-20) 1.20; beat Shadow Wizard Money Gang at S58 NA Advanced Central - Regular Season (2026-07-29) 0.99
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +525.2 |
+| SportsBetExpert | 6 | 2672.3 | +523.4 |
+| M80 | 2 | 3081.4 | +514.4 |
+| LAG Gaming | 8 | 2507.3 | +512.1 |
+| Wildcard | 3 | 2911.9 | +510.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs Shimmer (2026-05-06): expires in 18 days [Quality Wins 0.06, Opponent Network 0.16]
+- S57 NA Advanced Central - Regular Season vs Imperium (2026-05-06): expires in 18 days [Quality Wins 0.01, Opponent Network 0.17]
+- S57 NA Advanced Central - Regular Season vs NZ Gaming (2026-05-19): expires in 31 days [Quality Wins 0.03, Opponent Network 0.28]
+- S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
+
 #### Matches (19 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

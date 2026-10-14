@@ -19,6 +19,39 @@ seed_factor 0.003 = 0.25 x Tier Exposure (0.004) + 0.50 x Quality Wins (0.001) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.003 | 1104.4 | - |
+| +30 days | 0.000 | 1100.0 | -4.4 |
+| +60 days | 0.000 | 1100.0 | -4.4 |
+| +90 days | 0.000 | 1100.0 | -4.4 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.007 vs 0.106 average, gap -0.099). Matching that average is worth about 34.6 seed points.
+
+- Tier Exposure drivers: S57 NA Intermediate Central - Regular Season (2026-05-06) 0.12
+- Quality Wins drivers: beat in for Blood at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.01; beat Exnitas at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.00
+- Opponent Network drivers: beat in for Blood at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.08; beat Exnitas at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.03
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| Zomblers | 22 | 2114.7 | +658.7 |
+| regain | 12 | 2256.1 | +658.7 |
+| FarmVille | 16 | 2167.5 | +656.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+2.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Exnitas (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Intermediate Central - Regular Season vs in for Blood (2026-04-29): expires in 11 days [Quality Wins 0.01, Opponent Network 0.08]
+- S57 NA Intermediate Central - Regular Season (2026-05-06): expires in 18 days [Tier Exposure 0.12]
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -27,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-06 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -3.8 | Llok6, M1ng, bluebxrry, chengemeima, whiko |
 | 2026-05-01 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -409.9 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
 | 2026-04-29 | in for Blood | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +146.7 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
-| 2026-04-24 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -214.1 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
+| 2026-04-24 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -214.2 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
 | 2026-04-22 | Exnitas | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +318.4 | Llok6, M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -13,11 +13,48 @@ Final Rating (1072.6) = Seeded Start (1272.9) + H2H Adjustment (-200.3)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.123 x 1400 = 1272.9
 
-seed_factor 0.123 = 0.25 x Tier Exposure (0.085) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.370)
+seed_factor 0.123 = 0.25 x Tier Exposure (0.085) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.369)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.123 | 1272.9 | - |
+| +30 days | 0.098 | 1237.4 | -35.5 |
+| +60 days | 0.081 | 1213.5 | -59.4 |
+| +90 days | 0.053 | 1174.3 | -98.6 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.020 vs 0.011 average, gap +0.009). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate A - Regular Season (2026-09-17) 1.00; S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.92; S57 NA Intermediate Central - Playoffs B (2026-05-31) 0.29
+- Quality Wins drivers: beat Solbound at S58 NA Intermediate A - Regular Season (2026-08-07) 0.06; beat Team TahMeow at S58 NA Intermediate A - Regular Season (2026-08-05) 0.06; beat Kennesaw State Gold 2025 at S58 NA Intermediate A - Regular Season (2026-07-31) 0.05
+- Opponent Network drivers: beat TahMeow at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat Climbers at S58 NA Intermediate A - Regular Season (2026-08-12) 0.78; beat Solbound at S58 NA Intermediate A - Regular Season (2026-08-07) 0.74
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +447.2 |
+| SportsBetExpert | 6 | 2672.3 | +447.0 |
+| regain | 12 | 2256.1 | +442.0 |
+| Zomblers | 22 | 2114.7 | +441.1 |
+| LAG Gaming | 8 | 2507.3 | +441.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.9), shirtcockin (+1.3), Courage (+1.5).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs EZ2025 (2026-05-01): expires in 13 days [Quality Wins 0.01]
+- S57 NA Intermediate Central - Regular Season vs SwagMonkeyHats (2026-05-06): expires in 18 days [Quality Wins 0.02]
+- S57 NA Intermediate Central - Regular Season vs High T Low E (2026-05-08): expires in 20 days [Opponent Network 0.14]
+- S57 NA Intermediate Central - Regular Season vs NATIONAL CS UNI (2026-05-13): expires in 25 days [Quality Wins 0.01, Opponent Network 0.17]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs B vs Power of Friendship (2026-05-29): expires in 41 days [Opponent Network 0.28]
+- S57 NA Intermediate Central - Playoffs B (2026-05-31): expires in 43 days [Tier Exposure 0.29]
 
 #### Matches (27 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -34,14 +71,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -28.5 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-08-07 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +61.0 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-08-05 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.06 | 0.73 | +53.5 | Nigh-T, Sp00b, aam, glimpus-, seans |
-| 2026-07-31 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +169.3 | Slattz, Sp00b, aam, glimpus-, seans |
+| 2026-07-31 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +169.4 | Slattz, Sp00b, aam, glimpus-, seans |
 | 2026-07-29 | Brothers United | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.02 | 0.68 | +40.1 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-07-22 | Conduit eSports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -5.2 | Nigh-T, Slattz, Sp00b, aam, glimpus- |
 | 2026-07-17 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +87.6 | Nigh-T, Slattz, Sp00b, aam, glimpus- |
 | 2026-07-15 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -169.7 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-05-31 | Sleepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -109.0 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
-| 2026-05-29 | Power of Friendship | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +184.9 | -Hatty, Slattz, Sp00b, b5b, seans |
-| 2026-05-27 | WaterDrinkers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -154.8 | Nigh-T, Slattz, Sp00b, b5b, seans |
+| 2026-05-29 | Power of Friendship | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +185.0 | -Hatty, Slattz, Sp00b, b5b, seans |
+| 2026-05-27 | WaterDrinkers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -154.9 | Nigh-T, Slattz, Sp00b, b5b, seans |
 | 2026-05-22 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -3.6 | -Hatty, Nigh-T, Slattz, seans, shane666 |
 | 2026-05-20 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -196.8 | -Hatty, Nigh-T, Slattz, seans, shane666 |
 | 2026-05-13 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -395.5 | -Hatty, Nigh-T, Slattz, Sp00b, seans |

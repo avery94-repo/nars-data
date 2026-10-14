@@ -19,6 +19,40 @@ seed_factor 0.017 = 0.25 x Tier Exposure (0.011) + 0.50 x Quality Wins (0.003) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.017 | 1123.3 | - |
+| +30 days | 0.001 | 1101.7 | -21.6 |
+| +60 days | 0.000 | 1100.0 | -23.3 |
+| +90 days | 0.000 | 1100.0 | -23.3 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.049 vs 0.445 average, gap -0.396). Matching that average is worth about 138.6 seed points.
+
+- Tier Exposure drivers: S57 NA Advanced Central - Regular Season (2026-05-22) 0.31
+- Quality Wins drivers: beat Addice at S57 NA Advanced Central - Regular Season (2026-05-12) 0.04; beat NYX at S57 NA Advanced Central - Regular Season (2026-04-22) 0.00; beat Once Divine Gaming at S57 NA Advanced Central - Regular Season (2026-05-22) 0.00
+- Opponent Network drivers: beat Once Divine Gaming at S57 NA Advanced Central - Regular Season (2026-05-22) 0.31; beat Addice at S57 NA Advanced Central - Regular Season (2026-05-12) 0.22; beat Asian Invasion at S57 NA Advanced Central - Regular Season (2026-05-08) 0.18
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +660.0 |
+| SportsBetExpert | 6 | 2672.3 | +652.6 |
+| M80 | 2 | 3081.4 | +648.8 |
+| Wildcard | 3 | 2911.9 | +642.3 |
+| Liquid | 1 | 3103.3 | +639.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), After Peak (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs NYX (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.04]
+- S57 NA Advanced Central - Regular Season vs Asian Invasion (2026-05-08): expires in 20 days [Quality Wins 0.00, Opponent Network 0.18]
+- S57 NA Advanced Central - Regular Season vs Addice (2026-05-12): expires in 24 days [Quality Wins 0.04, Opponent Network 0.22]
+- S57 NA Advanced Central - Regular Season vs Once Divine Gaming (2026-05-22): expires in 34 days [Tier Exposure 0.31, Quality Wins 0.00, Opponent Network 0.31]
+
 #### Matches (7 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

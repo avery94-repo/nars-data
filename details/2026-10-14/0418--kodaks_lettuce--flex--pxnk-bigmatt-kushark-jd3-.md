@@ -19,6 +19,34 @@ seed_factor 0.084 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.010) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.084 | 1217.7 | - |
+| +30 days | 0.082 | 1215.4 | -2.3 |
+| +60 days | 0.082 | 1214.4 | -3.4 |
+| +90 days | 0.080 | 1212.1 | -5.7 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.069 vs 0.088 average, gap -0.019). Matching that average is worth about 6.7 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; S58 NA Open9-10 East - Playoffs A (2026-09-11) 0.98
+- Quality Wins drivers: beat Line Steppers at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.07; beat FaZe  Up Next at S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.03; beat Lost in the Plot at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.03
+- Opponent Network drivers: beat Line Steppers at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97; beat FaZe  Up Next at S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.96; beat Lost in the Plot at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +464.2 |
+| SportsBetExpert | 6 | 2672.3 | +464.1 |
+| regain | 12 | 2256.1 | +459.5 |
+| Zomblers | 22 | 2114.7 | +459.3 |
+| FarmVille | 16 | 2167.5 | +458.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.6).
+
 #### Matches (8 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

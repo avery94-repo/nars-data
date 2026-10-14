@@ -5,7 +5,7 @@ NARS Rank: 64 of 506
 
 Final Rating: 1826.4
 Seeded Start: 1402.6
-H2H Adjustment: +423.8
+H2H Adjustment: +423.8 (capped at +-300, raw +423.9)
 
 Final Rating (1826.4) = Seeded Start (1402.6) + H2H Adjustment (+423.8)
 
@@ -18,6 +18,37 @@ seed_factor 0.216 = 0.25 x Tier Exposure (0.125) + 0.50 x Quality Wins (0.060) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.216 | 1402.6 | - |
+| +30 days | 0.210 | 1393.9 | -8.7 |
+| +60 days | 0.202 | 1383.4 | -19.1 |
+| +90 days | 0.193 | 1369.9 | -32.6 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.234 average, gap -0.174). Matching that average is worth about 121.8 seed points.
+
+- Tier Exposure drivers: S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; S58 NA Intermediate Central - Playoffs A (2026-09-10) 0.97; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88
+- Quality Wins drivers: beat NXG Esports at S59 NA Advanced Central - Regular Season (2026-10-13) 0.24; beat Rejects at S58 NA Intermediate Central - Playoffs A (2026-09-09) 0.15; beat Ninjas In Boxer at S58 NA Intermediate A - Regular Season (2026-08-16) 0.09
+- Opponent Network drivers: beat NXG Esports at S59 NA Advanced Central - Regular Season (2026-10-13) 1.43; beat MommySports at S58 NA Intermediate Central - Playoffs A (2026-09-10) 0.97; beat Rejects at S58 NA Intermediate Central - Playoffs A (2026-09-09) 0.96
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +285.2 |
+| SportsBetExpert | 6 | 2672.3 | +281.0 |
+| M80 | 2 | 3081.4 | +280.9 |
+| Wildcard | 3 | 2911.9 | +277.8 |
+| Liquid | 1 | 3103.3 | +277.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): we get it back (+0.0), RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0), Dapper North (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A (2026-05-31): expires in 43 days [Tier Exposure 0.30]
 
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -40,7 +71,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-16 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.09 | 0.81 | +66.9 | 123bye, inertia, okc-lover, sigh, sleuth |
 | 2026-08-12 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -94.2 | PrimeJeet, altar, inertia, okc-lover, sigh |
 | 2026-07-29 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.09 | 0.68 | +12.8 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |
-| 2026-07-24 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +25.9 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |
+| 2026-07-24 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +25.8 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |
 | 2026-07-22 | Moniseum | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +366.2 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |
 | 2026-07-15 | Brothers United | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.02 | 0.59 | +238.7 | 123bye, PrimeJeet, altar, inertia, okc-lover |
 | 2026-05-31 | Anchors Anonymous | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.00 | 0.00 | -277.5 | 123bye, PrimeJeet, altar, inertia, sleuth |

@@ -3,21 +3,56 @@ Team Name: Sleepers
 Roster: 5teel, spl1ce, Juishee, Amadeuz, To4sT
 NARS Rank: 476 of 506
 
-Final Rating: 776.5
+Final Rating: 776.4
 Seeded Start: 1238.5
-H2H Adjustment: -462.0
+H2H Adjustment: -462.1 (capped at +-300, raw -462.0)
 
-Final Rating (776.5) = Seeded Start (1238.5) + H2H Adjustment (-462.0)
+Final Rating (776.4) = Seeded Start (1238.5) + H2H Adjustment (-462.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.099 x 1400 = 1238.5
 
-seed_factor 0.099 = 0.25 x Tier Exposure (0.051) + 0.50 x Quality Wins (0.021) + 0.25 x Opponent Network (0.304)
+seed_factor 0.099 = 0.25 x Tier Exposure (0.051) + 0.50 x Quality Wins (0.021) + 0.25 x Opponent Network (0.303)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.099 | 1238.5 | - |
+| +30 days | 0.068 | 1195.0 | -43.5 |
+| +60 days | 0.049 | 1168.0 | -70.5 |
+| +90 days | 0.033 | 1146.2 | -92.3 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.021 vs 0.005 average, gap +0.016). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main A - Regular Season (2026-08-28) 0.90; S57 NA Intermediate Central - Playoffs B (2026-06-07) 0.34; S57 NA Intermediate Central - Regular Season (2026-05-21) 0.22
+- Quality Wins drivers: beat Grandpa Berets at S58 NA Main A - Regular Season (2026-08-14) 0.07; beat After Peak at S58 NA Main A - Regular Season (2026-07-31) 0.06; beat offBalance at S57 NA Intermediate Central - Playoffs B (2026-06-05) 0.04
+- Opponent Network drivers: beat Old Dads Banging at S58 NA Main A - Regular Season (2026-08-28) 0.90; beat Grandpa Berets at S58 NA Main A - Regular Season (2026-08-14) 0.81; beat After Peak at S58 NA Main A - Regular Season (2026-07-31) 0.71
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.3 |
+| SportsBetExpert | 6 | 2672.3 | +665.1 |
+| North Forge | 38 | 1971.1 | +663.0 |
+| Wanted Goons | 43 | 1933.1 | +661.9 |
+| Zomblers | 22 | 2114.7 | +661.8 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs innerFire (2026-05-06): expires in 18 days [Quality Wins 0.01]
+- S57 NA Intermediate Central - Regular Season vs Strafe (2026-05-08): expires in 20 days [Quality Wins 0.02, Opponent Network 0.14]
+- S57 NA Intermediate Central - Regular Season vs Duality Zero (2026-05-21): expires in 33 days [Tier Exposure 0.22, Opponent Network 0.22]
+- S57 NA Intermediate Central - Playoffs B vs AURA Esports (2026-05-27): expires in 39 days [Quality Wins 0.03, Opponent Network 0.26]
+- S57 NA Intermediate Central - Playoffs B vs Lan Bears (2026-05-31): expires in 43 days [Quality Wins 0.02, Opponent Network 0.29]
+- S57 NA Intermediate Central - Playoffs B vs offBalance (2026-06-05): expires in 48 days [Quality Wins 0.04, Opponent Network 0.32]
+- S57 NA Intermediate Central - Playoffs B vs We Just Pug (2026-06-07): expires in 50 days [Tier Exposure 0.34, Quality Wins 0.01, Opponent Network 0.34]
 
 #### Matches (28 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -39,11 +74,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -419.4 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-06-07 | We Just Pug | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.01 | 0.34 | +85.8 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-06-05 | offBalance | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.04 | 0.32 | +75.4 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
-| 2026-05-31 | Lan Bears | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.02 | 0.29 | +108.2 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
+| 2026-05-31 | Lan Bears | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.02 | 0.29 | +108.3 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-05-29 | de_throne | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -242.5 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
-| 2026-05-27 | AURA Esports | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +196.9 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
-| 2026-05-21 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +263.7 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
-| 2026-05-20 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -35.4 | 5teel, Amadeuz, Juishee, To4sT, chipper412 |
+| 2026-05-27 | AURA Esports | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +197.0 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
+| 2026-05-21 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +263.8 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
+| 2026-05-20 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -35.3 | 5teel, Amadeuz, Juishee, To4sT, chipper412 |
 | 2026-05-15 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -19.9 | 5teel, Amadeuz, Juishee, To4sT, chipper412 |
 | 2026-05-13 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -314.3 | 5teel, Juishee, To4sT, chipper412, spl1ce |
 | 2026-05-08 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +30.7 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |

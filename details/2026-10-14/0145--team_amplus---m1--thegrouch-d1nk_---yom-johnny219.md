@@ -19,6 +19,39 @@ seed_factor 0.203 = 0.25 x Tier Exposure (0.170) + 0.50 x Quality Wins (0.057) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.203 | 1384.4 | - |
+| +30 days | 0.186 | 1360.4 | -23.9 |
+| +60 days | 0.168 | 1335.9 | -48.5 |
+| +90 days | 0.138 | 1293.5 | -90.8 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.057 vs 0.021 average, gap +0.036). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-11) 1.30; S59 NA Main A - Regular Season (2026-10-09) 1.02; S58 NA Main Central - Playoffs A (2026-09-10) 1.00
+- Quality Wins drivers: beat ThirdSite at S58 NA Main Central - Playoffs A (2026-09-02) 0.22; beat PASSION at S59 NA Main A - Regular Season (2026-10-09) 0.11; beat teamington at S58 NA Main A - Regular Season (2026-08-26) 0.11
+- Opponent Network drivers: beat PASSION at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat noname at S58 NA Main Central - Playoffs A (2026-09-04) 0.96; beat ThirdSite at S58 NA Main Central - Playoffs A (2026-09-02) 0.95
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +309.2 |
+| SportsBetExpert | 6 | 2672.3 | +307.8 |
+| M80 | 2 | 3081.4 | +303.0 |
+| Wildcard | 3 | 2911.9 | +300.6 |
+| LAG Gaming | 8 | 2507.3 | +300.4 |
+
+Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), After Peak (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-23): expires in 35 days [Tier Exposure 0.27]
+- S57 NA Main Central - Playoffs (2026-06-02): expires in 45 days [Tier Exposure 0.38]
+- S58 NA Main A - Regular Season vs Wiggle Peeks (2026-07-15): expires in 88 days [Quality Wins 0.07, Opponent Network 0.60]
+
 #### Matches (32 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -36,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -41.0 | --Yom, -M1-, Johnny219, TheGrouch, d1nk_ |
 | 2026-08-19 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -17.0 | --Yom, -M1-, Johnny219, TheGrouch, d1nk_ |
 | 2026-08-14 | Locally Hated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -68.8 | --Yom, -M1-, Johnny219, TheGrouch, d1nk_ |
-| 2026-08-12 | Chopped | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.09 | 0.79 | +101.1 | --Yom, -M1-, Johnny219, TheGrouch, d1nk_ |
+| 2026-08-12 | Chopped | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.09 | 0.79 | +101.2 | --Yom, -M1-, Johnny219, TheGrouch, d1nk_ |
 | 2026-08-07 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.03 | 0.76 | +35.1 | --Yom, -M1-, Johnny219, TheGrouch, d1nk_ |
 | 2026-08-05 | Texas Orange | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +171.4 | --Yom, -M1-, Johnny219, TheGrouch, d1nk_ |
 | 2026-07-31 | Les Ptis Jus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -112.2 | --Yom, -M1-, Johnny219, TheGrouch, d1nk_ |

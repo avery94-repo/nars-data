@@ -5,7 +5,7 @@ NARS Rank: 47 of 506
 
 Final Rating: 1897.3
 Seeded Start: 1458.7
-H2H Adjustment: +438.6 (capped at +-300, raw +438.5)
+H2H Adjustment: +438.6
 
 Final Rating (1897.3) = Seeded Start (1458.7) + H2H Adjustment (+438.6)
 
@@ -18,6 +18,38 @@ seed_factor 0.256 = 0.25 x Tier Exposure (0.233) + 0.50 x Quality Wins (0.081) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.256 | 1458.7 | - |
+| +30 days | 0.250 | 1450.5 | -8.2 |
+| +60 days | 0.241 | 1436.8 | -21.9 |
+| +90 days | 0.228 | 1418.8 | -40.0 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.081 vs 0.182 average, gap -0.101). Matching that average is worth about 70.7 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; NA Revival (2026-09-27) 1.01; S58 NA Main Central - Playoffs A (2026-09-08) 0.99
+- Quality Wins drivers: beat ThirdSite at S58 NA Main A - Regular Season (2026-08-27) 0.21; beat mas paspas at NA Revival (2026-09-27) 0.18; beat Rejects at NA Revival (2026-09-27) 0.16
+- Opponent Network drivers: beat Costco Family at S59 NA Main A - Regular Season (2026-10-07) 1.02; beat dogwater at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat mas paspas at NA Revival (2026-09-27) 1.01
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +215.4 |
+| M80 | 2 | 3081.4 | +212.5 |
+| SportsBetExpert | 6 | 2672.3 | +211.4 |
+| Wildcard | 3 | 2911.9 | +209.9 |
+| Liquid | 1 | 3103.3 | +209.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A (2026-06-06): expires in 49 days [Tier Exposure 0.35]
+- Counter Strike 2 at 2026 Esports Nations Cup: United States of America (2026-07-14): expires in 88 days [Tier Exposure 0.75]
 
 #### Matches (31 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -43,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.03 | 0.74 | +1.2 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-07-30 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.02 | 1.00 | 0.70 | 0.04 | 0.70 | +17.8 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-07-26 | mas paspas | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -73.9 | 1wander, Antii, Clank, TONY99999, s1Ience |
-| 2026-07-26 | Tractors | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.14 | 0.71 | +186.8 | 1wander, Antii, Clank, TONY99999, s1Ience |
+| 2026-07-26 | Tractors | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.14 | 0.70 | +186.8 | 1wander, Antii, Clank, TONY99999, s1Ience |
 | 2026-07-23 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -25.4 | -bpl, 1wander, Antii, TONY99999, s1Ience |
 | 2026-07-22 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -65.4 | -bpl, 1wander, Antii, TONY99999, s1Ience |
 | 2026-07-17 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.03 | 0.62 | +164.1 | -bpl, 1wander, Antii, TONY99999, s1Ience |

@@ -19,6 +19,41 @@ seed_factor 0.010 = 0.25 x Tier Exposure (0.009) + 0.50 x Quality Wins (0.002) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.010 | 1114.2 | - |
+| +30 days | 0.000 | 1100.5 | -13.7 |
+| +60 days | 0.000 | 1100.0 | -14.2 |
+| +90 days | 0.000 | 1100.0 | -14.2 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.028 vs 0.350 average, gap -0.322). Matching that average is worth about 112.7 seed points.
+
+- Tier Exposure drivers: S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat DingTone at S57 NA Main Central - Regular Season (2026-05-12) 0.01; beat Chopped at S57 NA Main Central - Regular Season (2026-04-29) 0.01; beat Courage at S57 NA Main Central - Regular Season (2026-05-01) 0.00
+- Opponent Network drivers: beat DingTone at S57 NA Main Central - Regular Season (2026-05-12) 0.19; beat Courage at S57 NA Main Central - Regular Season (2026-05-01) 0.10; beat Chopped at S57 NA Main Central - Regular Season (2026-04-29) 0.09
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.1 |
+| SportsBetExpert | 6 | 2672.3 | +664.7 |
+| regain | 12 | 2256.1 | +655.6 |
+| LAG Gaming | 8 | 2507.3 | +655.5 |
+| Zomblers | 22 | 2114.7 | +652.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+1.1), shirtcockin (+1.6), Courage (+1.9).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs iNSTINCT (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.05]
+- S57 NA Main Central - Regular Season vs Chopped (2026-04-29): expires in 11 days [Quality Wins 0.01, Opponent Network 0.09]
+- S57 NA Main Central - Regular Season vs Courage (2026-05-01): expires in 13 days [Quality Wins 0.00, Opponent Network 0.10]
+- S57 NA Main Central - Regular Season vs DingTone (2026-05-12): expires in 24 days [Quality Wins 0.01, Opponent Network 0.19]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+
 #### Matches (8 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -26,8 +61,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -15.9 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-20 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -219.6 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-05-13 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -293.8 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-05-12 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +219.0 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-05-13 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -293.9 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-05-12 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +219.1 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-01 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +71.0 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-04-29 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +245.1 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-04-24 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +255.5 | -Mexii-, -effy-, 1Tenshi, Znorux, po110 |

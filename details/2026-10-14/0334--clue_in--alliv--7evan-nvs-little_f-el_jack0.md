@@ -19,6 +19,40 @@ seed_factor 0.053 = 0.25 x Tier Exposure (0.044) + 0.50 x Quality Wins (0.007) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.053 | 1173.6 | - |
+| +30 days | 0.041 | 1157.9 | -15.8 |
+| +60 days | 0.040 | 1155.6 | -18.0 |
+| +90 days | 0.038 | 1152.6 | -21.0 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.044 vs 0.057 average, gap -0.013). Matching that average is worth about 4.6 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-12) 1.00; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat Mud Wizards at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.07; beat UsingCodefArt25atSCL at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.03; beat penazoid at S57 NA Main Central - Regular Season (2026-05-06) 0.02
+- Opponent Network drivers: beat UsingCodefArt25atSCL at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.95; beat Mud Wizards at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.94; beat iNSTINCT at S57 NA Main Central - Regular Season (2026-05-19) 0.24
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +601.6 |
+| SportsBetExpert | 6 | 2672.3 | +601.0 |
+| LAG Gaming | 8 | 2507.3 | +592.1 |
+| regain | 12 | 2256.1 | +589.4 |
+| M80 | 2 | 3081.4 | +588.4 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs RAZED (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.05]
+- S57 NA Main Central - Regular Season vs penazoid (2026-05-06): expires in 18 days [Quality Wins 0.02, Opponent Network 0.14]
+- S57 NA Main Central - Regular Season vs iNSTINCT (2026-05-19): expires in 31 days [Quality Wins 0.00, Opponent Network 0.24]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+
 #### Matches (11 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -27,7 +61,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | Eightball | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.00 | 0.00 | -90.6 | Little_F, NVS, Osodank, alliV-, el_jack0 |
 | 2026-09-06 | Veniversum | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -162.3 | 7eVaN, Little_F, NVS, el_jack0, xner |
 | 2026-09-04 | UsingCodefArt25atSCL | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +150.4 | 7eVaN, Little_F, NVS, el_jack0, xner |
-| 2026-09-02 | Mud Wizards | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.07 | 0.94 | +180.0 | 7eVaN, Little_F, NVS, el_jack0, xner |
+| 2026-09-02 | Mud Wizards | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.07 | 0.94 | +180.1 | 7eVaN, Little_F, NVS, el_jack0, xner |
 | 2026-05-22 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -35.0 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
 | 2026-05-22 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -385.3 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
 | 2026-05-19 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.00 | 0.24 | +185.3 | Little_F, Slove, alliV-, el_jack0, xner |

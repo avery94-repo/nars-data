@@ -19,6 +19,39 @@ seed_factor 0.098 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.019) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.098 | 1236.6 | - |
+| +30 days | 0.082 | 1215.2 | -21.4 |
+| +60 days | 0.073 | 1202.2 | -34.4 |
+| +90 days | 0.057 | 1179.2 | -57.3 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.019 vs 0.018 average, gap +0.001). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat Epochal Esports at S58 NA Intermediate A - Regular Season (2026-07-29) 0.11; beat 69 at S58 NA Intermediate A - Regular Season (2026-08-28) 0.07; beat FourStrokeGang at S58 NA Intermediate A - Regular Season (2026-08-12) 0.07
+- Opponent Network drivers: beat 69 at S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; beat Casipanther at S58 NA Intermediate A - Regular Season (2026-08-14) 0.79; beat FourStrokeGang at S58 NA Intermediate A - Regular Season (2026-08-12) 0.78
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +296.6 |
+| SportsBetExpert | 6 | 2672.3 | +296.5 |
+| North Forge | 38 | 1971.1 | +295.4 |
+| Zomblers | 22 | 2114.7 | +295.0 |
+| Wanted Goons | 43 | 1933.1 | +294.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.4).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs garfieldclub (2026-05-13): expires in 25 days [Quality Wins 0.00, Opponent Network 0.17]
+- S57 NA Intermediate Central - Regular Season vs Gambling and Young (2026-05-20): expires in 32 days [Quality Wins 0.00, Opponent Network 0.22]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -34,11 +67,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.03 | 0.74 | +94.5 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-08-05 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -35.1 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-31 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -129.0 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
-| 2026-07-29 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.11 | 0.68 | +373.1 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
+| 2026-07-29 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.11 | 0.68 | +373.2 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-24 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -9.2 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-17 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -0.0 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-15 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -7.0 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
-| 2026-05-22 | Mace Lindu Ruff Rebound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -325.1 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
+| 2026-05-22 | Mace Lindu Ruff Rebound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -325.2 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
 | 2026-05-20 | Gambling and Young | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +102.7 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
 | 2026-05-13 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +173.7 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
 | 2026-05-08 | Kennesaw State Gold 2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -49.6 | B00LIGAN, Jarts, Mcberd, fubard, rozay |

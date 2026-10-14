@@ -19,6 +19,42 @@ seed_factor 0.210 = 0.25 x Tier Exposure (0.164) + 0.50 x Quality Wins (0.068) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.210 | 1394.3 | - |
+| +30 days | 0.183 | 1356.9 | -37.4 |
+| +60 days | 0.163 | 1327.9 | -66.4 |
+| +90 days | 0.142 | 1298.1 | -96.1 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.541 vs 0.677 average, gap -0.136). Matching that average is worth about 47.6 seed points.
+
+- Tier Exposure drivers: S58 NA Advanced Central - Playoffs (2026-09-04) 1.44; S59 NA Advanced Central - Regular Season (2026-10-12) 1.43; S58 NA Advanced Central - Regular Season (2026-08-28) 1.28
+- Quality Wins drivers: beat Celestial Esports at S58 NA Advanced Central - Regular Season (2026-08-14) 0.34; beat ABG Esports at S59 NA Advanced Central - Regular Season (2026-10-12) 0.18; beat NXG Esports at S58 NA Advanced Central - Regular Season (2026-07-29) 0.16
+- Opponent Network drivers: beat ABG Esports at S59 NA Advanced Central - Regular Season (2026-10-12) 1.43; beat Shadow Wizard Money Gang at S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; beat House Platypus ESC at S58 NA Advanced Central - Regular Season (2026-08-19) 1.19
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +270.9 |
+| SportsBetExpert | 6 | 2672.3 | +267.0 |
+| M80 | 2 | 3081.4 | +266.7 |
+| Wildcard | 3 | 2911.9 | +263.8 |
+| Liquid | 1 | 3103.3 | +263.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): SuperSoakerClub (+0.0), we get it back (+0.0), RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs academy 4 gifted children (2026-05-20): expires in 32 days [Quality Wins 0.07]
+- S57 NA Intermediate Central - Regular Season vs Nomadic Tactics (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.02]
+- S57 NA Intermediate Central - Playoffs A vs Emerald Isle (2026-05-27): expires in 39 days [Opponent Network 0.27]
+- S57 NA Intermediate Central - Playoffs A vs Square1 (2026-05-29): expires in 41 days [Opponent Network 0.28]
+- S57 NA Intermediate Central - Playoffs A vs STFDYSAB (2026-05-31): expires in 43 days [Quality Wins 0.04, Opponent Network 0.30]
+- S57 NA Intermediate Central - Playoffs A vs Nomadic Tactics (2026-06-02): expires in 45 days [Tier Exposure 0.31, Quality Wins 0.03, Opponent Network 0.31]
+
 #### Matches (28 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -36,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -249.8 | Blxckie, STIKER, VoltageJM, ogura, snufaffu |
 | 2026-07-29 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.16 | 0.99 | +102.0 | Go0dby3, STIKER, VoltageJM, ogura, snufaffu |
 | 2026-07-22 | Chicken Coop | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -47.8 | Blxckie, Go0dby3, STIKER, ogura, snufaffu |
-| 2026-07-17 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -181.5 | Blxckie, Go0dby3, STIKER, ogura, snufaffu |
+| 2026-07-17 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -181.6 | Blxckie, Go0dby3, STIKER, ogura, snufaffu |
 | 2026-07-15 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -194.8 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-06-02 | Nomadic Tactics | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.03 | 0.31 | +138.1 | Go0dby3, STIKER, VoltageJM, ogura, snufaffu |
 | 2026-05-31 | STFDYSAB | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.04 | 0.30 | +24.7 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |

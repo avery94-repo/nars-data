@@ -19,6 +19,39 @@ seed_factor 0.288 = 0.25 x Tier Exposure (0.198) + 0.50 x Quality Wins (0.222) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.288 | 1503.8 | - |
+| +30 days | 0.247 | 1445.9 | -57.9 |
+| +60 days | 0.212 | 1396.9 | -106.9 |
+| +90 days | 0.149 | 1309.0 | -194.8 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.511 vs 0.448 average, gap +0.063). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Advanced Central - Playoffs (2026-09-03) 1.43; S59 NA Advanced Central - Regular Season (2026-10-12) 1.43; S58 NA Advanced Central - Regular Season (2026-08-28) 1.28
+- Quality Wins drivers: beat Wanted Goons at S58 NA Advanced Central - Regular Season (2026-08-19) 1.19; beat unreal nightmare at S58 NA Advanced Central - Regular Season (2026-08-13) 0.80; beat Olympus at S58 NA Advanced Central - Regular Season (2026-07-24) 0.61
+- Opponent Network drivers: beat HeadShot Esports at NSTLGA League | Ruby Conference (2026-08-27) 1.28; beat Wanted Goons at S58 NA Advanced Central - Regular Season (2026-08-19) 1.19; beat unreal nightmare at S58 NA Advanced Central - Regular Season (2026-08-13) 1.14
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +74.8 |
+| SportsBetExpert | 6 | 2672.3 | +74.6 |
+| M80 | 2 | 3081.4 | +73.3 |
+| LAG Gaming | 8 | 2507.3 | +73.2 |
+| Wildcard | 3 | 2911.9 | +72.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs Demolition (2026-04-30): expires in 12 days [Quality Wins 0.02, Opponent Network 0.11]
+- S57 NA Advanced Central - Regular Season vs House Platypus ESC (2026-05-05): expires in 17 days [Quality Wins 0.01, Opponent Network 0.16]
+- S57 NA Advanced Central - Regular Season (2026-05-14): expires in 26 days [Tier Exposure 0.24]
+
 #### Matches (26 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -48,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-12 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -310.1 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |
 | 2026-05-07 | skebob | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -218.5 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |
 | 2026-05-05 | House Platypus ESC | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.01 | 0.16 | +364.9 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |
-| 2026-05-01 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.00 | -406.0 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |
+| 2026-05-01 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.00 | -406.1 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |
 | 2026-04-30 | Demolition | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.02 | 0.11 | +62.7 | 1Cyrix, JAY-ES-PEE, dopplahs, kenny, stormie |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -3,11 +3,11 @@ Team Name: D1NK Esports
 Roster: ger0, Raids, bluez7_7, summit1g, slik
 NARS Rank: 244 of 506
 
-Final Rating: 1392.9
+Final Rating: 1392.8
 Seeded Start: 1354.4
-H2H Adjustment: +38.5
+H2H Adjustment: +38.4
 
-Final Rating (1392.9) = Seeded Start (1354.4) + H2H Adjustment (+38.5)
+Final Rating (1392.8) = Seeded Start (1354.4) + H2H Adjustment (+38.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,39 @@ seed_factor 0.182 = 0.25 x Tier Exposure (0.131) + 0.50 x Quality Wins (0.047) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.182 | 1354.4 | - |
+| +30 days | 0.160 | 1323.4 | -31.1 |
+| +60 days | 0.136 | 1290.4 | -64.0 |
+| +90 days | 0.094 | 1231.9 | -122.5 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.131 vs 0.118 average, gap +0.013). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.96; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; SoFlo Slam 2 (2026-08-01) 0.84
+- Quality Wins drivers: beat DeathMark E-Sports at S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.11; beat We Play Naked at S58 NA Intermediate B - Regular Season (2026-08-28) 0.10; beat Costco Family at S58 NA Intermediate B - Regular Season (2026-08-26) 0.10
+- Opponent Network drivers: beat DeathMark E-Sports at S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.94; beat The Ohio Meat Wagon at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.93; beat We Play Naked at S58 NA Intermediate B - Regular Season (2026-08-28) 0.88
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +565.1 |
+| SportsBetExpert | 6 | 2672.3 | +563.7 |
+| LAG Gaming | 8 | 2507.3 | +553.3 |
+| M80 | 2 | 3081.4 | +553.0 |
+| Wildcard | 3 | 2911.9 | +549.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B (2026-06-05): expires in 48 days [Tier Exposure 0.32]
+- Counter Strike 2 at 2026 Esports Nations Cup: United States of America (2026-07-14): expires in 88 days [Tier Exposure 0.75]
+- S58 NA Intermediate B - Regular Season vs DadDick Esports (2026-07-15): expires in 88 days [Quality Wins 0.07, Opponent Network 0.59]
 
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

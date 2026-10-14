@@ -19,15 +19,47 @@ seed_factor 0.009 = 0.25 x Tier Exposure (0.007) + 0.50 x Quality Wins (0.002) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.009 | 1112.9 | - |
+| +30 days | 0.000 | 1100.0 | -12.9 |
+| +60 days | 0.000 | 1100.0 | -12.9 |
+| +90 days | 0.000 | 1100.0 | -12.9 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.025 vs 0.121 average, gap -0.096). Matching that average is worth about 33.6 seed points.
+
+- Tier Exposure drivers: S57 NA Main Central - Regular Season (2026-05-15) 0.21
+- Quality Wins drivers: beat Chopped at S57 NA Main Central - Regular Season (2026-05-13) 0.02; beat The Homies at S57 NA Main Central - Regular Season (2026-05-01) 0.01; beat Courage at S57 NA Main Central - Regular Season (2026-04-29) 0.00
+- Opponent Network drivers: beat Chopped at S57 NA Main Central - Regular Season (2026-05-13) 0.19; beat The Homies at S57 NA Main Central - Regular Season (2026-05-01) 0.10; beat Courage at S57 NA Main Central - Regular Season (2026-04-29) 0.09
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +665.1 |
+| Zomblers | 22 | 2114.7 | +660.4 |
+| North Forge | 38 | 1971.1 | +660.0 |
+| regain | 12 | 2256.1 | +659.5 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Courage (2026-04-29): expires in 11 days [Quality Wins 0.00, Opponent Network 0.09]
+- S57 NA Main Central - Regular Season vs The Homies (2026-05-01): expires in 13 days [Quality Wins 0.01, Opponent Network 0.10]
+- S57 NA Main Central - Regular Season vs Chopped (2026-05-13): expires in 25 days [Quality Wins 0.02, Opponent Network 0.19]
+- S57 NA Main Central - Regular Season (2026-05-15): expires in 27 days [Tier Exposure 0.21]
+
 #### Matches (8 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-15 | 1NT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -202.9 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
+| 2026-05-15 | 1NT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -203.0 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
 | 2026-05-13 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +369.2 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
 | 2026-05-08 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -239.2 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
-| 2026-05-06 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -415.3 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
+| 2026-05-06 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -415.4 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
 | 2026-05-01 | The Homies | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +60.3 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
 | 2026-04-29 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +424.1 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
 | 2026-04-24 | Fortis Fortuna Adiuvat | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -1.6 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |

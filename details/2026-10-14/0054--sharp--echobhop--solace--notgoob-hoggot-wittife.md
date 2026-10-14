@@ -19,6 +19,37 @@ seed_factor 0.212 = 0.25 x Tier Exposure (0.132) + 0.50 x Quality Wins (0.079) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.212 | 1397.5 | - |
+| +30 days | 0.194 | 1371.6 | -25.9 |
+| +60 days | 0.178 | 1349.8 | -47.7 |
+| +90 days | 0.154 | 1315.1 | -82.3 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.079 vs 0.096 average, gap -0.017). Matching that average is worth about 11.9 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs B (2026-09-10) 0.97; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs A (2026-06-02) 0.32
+- Quality Wins drivers: beat Tacos Tiramisu and Lies at S58 NA Intermediate Central - Playoffs B (2026-09-10) 0.22; beat Tacos Tiramisu and Lies at S58 NA Intermediate B - Regular Season (2026-08-11) 0.17; beat Strafe at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.16
+- Opponent Network drivers: beat ABG Esports at S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.96; beat Kevin James Fan Club at S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.94; beat NOVAIR at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.93
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +237.9 |
+| M80 | 2 | 3081.4 | +234.5 |
+| SportsBetExpert | 6 | 2672.3 | +233.9 |
+| Wildcard | 3 | 2911.9 | +231.7 |
+| Liquid | 1 | 3103.3 | +231.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A (2026-06-02): expires in 45 days [Tier Exposure 0.32]
+
 #### Matches (23 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

@@ -19,6 +19,41 @@ seed_factor 0.059 = 0.25 x Tier Exposure (0.038) + 0.50 x Quality Wins (0.011) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.059 | 1182.3 | - |
+| +30 days | 0.039 | 1154.1 | -28.2 |
+| +60 days | 0.030 | 1142.1 | -40.2 |
+| +90 days | 0.015 | 1120.3 | -62.0 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.038 vs 0.048 average, gap -0.010). Matching that average is worth about 3.5 seed points.
+
+- Tier Exposure drivers: S58 NA Main A - Regular Season (2026-08-19) 0.84; S57 NA Main Central - Regular Season (2026-05-20) 0.25
+- Quality Wins drivers: beat puggin4seb at S58 NA Main A - Regular Season (2026-08-05) 0.06; beat Baja Blasters at S58 NA Main A - Regular Season (2026-07-22) 0.03; beat MASTER ONE at S57 NA Main Central - Regular Season (2026-05-20) 0.03
+- Opponent Network drivers: beat puggin4seb at S58 NA Main A - Regular Season (2026-08-05) 0.74; beat Old Dads Banging at S58 NA Main A - Regular Season (2026-07-24) 0.66; beat Baja Blasters at S58 NA Main A - Regular Season (2026-07-22) 0.65
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| regain | 12 | 2256.1 | +658.4 |
+| Zomblers | 22 | 2114.7 | +658.1 |
+| FarmVille | 16 | 2167.5 | +656.4 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.6).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Scrimless (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.05]
+- S57 NA Main Central - Regular Season vs shirtcockin (2026-04-29): expires in 11 days [Quality Wins 0.00, Opponent Network 0.09]
+- S57 NA Main Central - Regular Season vs Chopped (2026-05-01): expires in 13 days [Quality Wins 0.01, Opponent Network 0.10]
+- S57 NA Main Central - Regular Season vs Read You Like a Kindle (2026-05-06): expires in 18 days [Quality Wins 0.02, Opponent Network 0.14]
+- S57 NA Main Central - Regular Season vs MASTER ONE (2026-05-20): expires in 32 days [Tier Exposure 0.25, Quality Wins 0.03, Opponent Network 0.25]
+
 #### Matches (17 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

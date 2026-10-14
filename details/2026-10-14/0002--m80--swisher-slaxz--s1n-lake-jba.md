@@ -19,6 +19,43 @@ seed_factor 0.693 = 0.25 x Tier Exposure (0.616) + 0.50 x Quality Wins (1.000) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.693 | 2070.1 | - |
+| +30 days | 0.676 | 2046.5 | -23.6 |
+| +60 days | 0.670 | 2037.8 | -32.3 |
+| +90 days | 0.674 | 2043.9 | -26.2 |
+
+Weakest lever vs the 1 teams ranked above: Opponent Network (0.156 vs 0.565 average, gap -0.409). Matching that average is worth about 143.1 seed points.
+
+- Tier Exposure drivers: ESL Pro League Season 24 (2026-10-06) 1.60; VRS-tracked 2026-09 (2026-09-17) 1.60; VRS-tracked 2026-09 (2026-09-17) 1.60
+- Quality Wins drivers: beat Legacy at ESL Pro League Season 24 (2026-10-06) 3.12; beat TYLOO at ESL Pro League Season 24 (2026-10-05) 3.12; beat GAMERLEGION at VRS-tracked 2026-09 (2026-09-17) 2.40
+- Opponent Network drivers: beat LAG Gaming at VRS-tracked 2026-07 (2026-07-10) 0.89; beat NRG at VRS-tracked 2026-06 (2026-06-04) 0.50; beat Voca at VRS-tracked 2026-05 (2026-05-28) 0.43
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| Liquid | 1 | 3103.3 | +43.5 |
+| Wildcard | 3 | 2911.9 | +24.5 |
+| NRG | 4 | 2836.4 | +14.3 |
+| Voca | 5 | 2796.5 | +9.9 |
+| SportsBetExpert | 6 | 2672.3 | +2.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Automatic HQ (+0.0), babaG (+0.0), Hairy Scary Bandits (+0.0), Chicken Coop (+0.0), Slimy Boogermen (+0.0).
+
+Seed inputs expiring within 90 days:
+- VRS-tracked 2026-04 vs Iowa Stormboar (2026-04-25): expires in 7 days [Opponent Network 0.08]
+- VRS-tracked 2026-05 vs Incognito (2026-05-02): expires in 14 days [Opponent Network 0.15]
+- VRS-tracked 2026-05 vs Wildcard (2026-05-03): expires in 15 days [Opponent Network 0.16]
+- VRS-tracked 2026-05 vs Zomblers (2026-05-03): expires in 15 days [Opponent Network 0.16]
+- VRS-tracked 2026-05 vs Voca (2026-05-28): expires in 40 days [Opponent Network 0.43]
+- VRS-tracked 2026-06 vs NRG (2026-06-04): expires in 47 days [Opponent Network 0.50]
+- VRS-tracked 2026-07 vs LAG Gaming (2026-07-10): expires in 83 days [Opponent Network 0.89]
+
 #### Matches (50 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -50,18 +87,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-13 | AURORA | L |  | VRS-tracked 2026-08 | A | vrs | 0.78 | 1.60 | 1.00 | 1.25 | 0.00 | 0.00 | -48.9 | core 3/5 |
 | 2026-08-12 | G2 | L |  | VRS-tracked 2026-08 | A | vrs | 0.78 | 1.60 | 1.00 | 1.24 | 0.00 | 0.00 | -38.1 | core 3/5 |
 | 2026-07-21 | NINJAS IN PYJAMAS | L |  | VRS-tracked 2026-07 | A | vrs | 0.63 | 1.60 | 1.00 | 1.01 | 0.00 | 0.00 | -210.3 | core 3/5 |
-| 2026-07-11 | Voca | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.90 | 0.53 | 0.00 | +154.7 | core 3/5 |
+| 2026-07-11 | Voca | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.90 | 0.53 | 0.00 | +154.8 | core 3/5 |
 | 2026-07-10 | LAG Gaming | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.89 | 0.87 | 0.89 | +1.0 | core 3/5 |
 | 2026-07-09 | WINNERS | W |  | VRS-tracked 2026-07 | A | vrs | 0.55 | 1.60 | 1.00 | 0.88 | 0.66 | 0.00 | +0.1 | core 3/5 |
 | 2026-06-08 | Legacy | L |  | VRS-tracked 2026-06 | A | vrs | 0.34 | 1.60 | 1.00 | 0.55 | 0.00 | 0.00 | -19.8 | core 3/5 |
 | 2026-06-07 | BETBOOM | L |  | VRS-tracked 2026-06 | A | vrs | 0.34 | 1.60 | 1.00 | 0.54 | 0.00 | 0.00 | -128.5 | core 3/5 |
-| 2026-06-06 | B8 | W |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.53 | 0.79 | 0.00 | +158.8 | core 3/5 |
+| 2026-06-06 | B8 | W |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.53 | 0.79 | 0.00 | +158.9 | core 3/5 |
 | 2026-06-06 | G2 | L |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.53 | 0.00 | 0.00 | -85.5 | core 3/5 |
 | 2026-06-04 | NRG | W |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.50 | 0.31 | 0.50 | +113.7 | core 3/5 |
 | 2026-06-03 | B8 | L |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.00 | 0.00 | -254.3 | core 3/5 |
 | 2026-06-02 | DENDELE | W |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.72 | 0.00 | +130.0 | core 3/5 |
 | 2026-06-02 | LYNN VISION | W |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.72 | 0.00 | +6.3 | core 3/5 |
-| 2026-05-28 | Voca | W |  | VRS-tracked 2026-05 | A | vrs | 0.27 | 1.60 | 1.00 | 0.43 | 0.25 | 0.43 | +192.6 | core 3/5 |
+| 2026-05-28 | Voca | W |  | VRS-tracked 2026-05 | A | vrs | 0.27 | 1.60 | 1.00 | 0.43 | 0.25 | 0.43 | +192.7 | core 3/5 |
 | 2026-05-26 | Iowa Stormboar | W |  | VRS-tracked 2026-05 | A | vrs | 0.26 | 1.60 | 1.00 | 0.41 | 0.28 | 0.00 | +0.0 | core 3/5 |
 | 2026-05-21 | MOUZ | L |  | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.35 | 0.00 | 0.00 | -44.9 | core 3/5 |
 | 2026-05-20 | Falcons | L |  | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.34 | 0.00 | 0.00 | -2.7 | core 3/5 |
@@ -73,6 +110,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-02 | Incognito | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.15 | 0.03 | 0.15 | +2.0 | core 3/5 |
 | 2026-04-25 | Iowa Stormboar | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.05 | 0.08 | +231.9 | core 3/5 |
 | 2026-04-25 | IT'S A SECRET | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.06 | 0.00 | +184.7 | core 3/5 |
-| 2026-04-25 | Marsborne | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -229.8 | core 3/5 |
+| 2026-04-25 | Marsborne | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -229.9 | core 3/5 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

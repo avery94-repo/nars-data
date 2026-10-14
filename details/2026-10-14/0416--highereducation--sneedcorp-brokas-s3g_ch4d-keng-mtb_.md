@@ -19,6 +19,39 @@ seed_factor 0.021 = 0.25 x Tier Exposure (0.047) + 0.50 x Quality Wins (0.001) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.021 | 1129.7 | - |
+| +30 days | 0.013 | 1117.8 | -11.9 |
+| +60 days | 0.008 | 1111.0 | -18.7 |
+| +90 days | 0.008 | 1110.6 | -19.1 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.035 vs 0.261 average, gap -0.226). Matching that average is worth about 79.1 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-12) 0.37
+- Quality Wins drivers: beat Vexation Esports at S57 NA Open9-10 Central - Playoffs B (2026-05-29) 0.01; beat Seven ate Nine at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.01
+- Opponent Network drivers: beat Vexation Esports at S57 NA Open9-10 Central - Playoffs B (2026-05-29) 0.28; beat Seven ate Nine at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.26
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.1 |
+| SportsBetExpert | 6 | 2672.3 | +664.9 |
+| regain | 12 | 2256.1 | +657.4 |
+| Zomblers | 22 | 2114.7 | +656.1 |
+| LAG Gaming | 8 | 2507.3 | +656.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs Seven ate Nine (2026-05-27): expires in 39 days [Quality Wins 0.01, Opponent Network 0.26]
+- S57 NA Open9-10 Central - Playoffs B vs Vexation Esports (2026-05-29): expires in 41 days [Quality Wins 0.01, Opponent Network 0.28]
+- S57 NA Open9-10 Central - Playoffs B (2026-06-12): expires in 55 days [Tier Exposure 0.37]
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

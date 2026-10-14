@@ -3,11 +3,11 @@ Team Name: academy 4 gifted children
 Roster: xue, noiro, T1M3, pierson, -Ayz-
 NARS Rank: 62 of 506
 
-Final Rating: 1829.1
+Final Rating: 1829.0
 Seeded Start: 1561.9
-H2H Adjustment: +267.2
+H2H Adjustment: +267.1
 
-Final Rating (1829.1) = Seeded Start (1561.9) + H2H Adjustment (+267.2)
+Final Rating (1829.0) = Seeded Start (1561.9) + H2H Adjustment (+267.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,39 @@ seed_factor 0.330 = 0.25 x Tier Exposure (0.305) + 0.50 x Quality Wins (0.135) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.330 | 1561.9 | - |
+| +30 days | 0.296 | 1514.4 | -47.5 |
+| +60 days | 0.271 | 1479.1 | -82.8 |
+| +90 days | 0.233 | 1426.4 | -135.5 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.135 vs 0.287 average, gap -0.152). Matching that average is worth about 106.4 seed points.
+
+- Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-15) 1.55; Playoff - CROSSFIRE Season 6 (2026-09-14) 1.45; S58 NA Advanced Central - Playoffs (2026-09-03) 1.43
+- Quality Wins drivers: beat Omen Esports at Group Stage - CROSSFIRE Season 6 (2026-09-04) 0.42; beat F5 Esports at CROSSFIRE Season 6 - Playoffs (2026-09-14) 0.39; beat Brahmas at S58 NA Advanced Central - Regular Season (2026-08-05) 0.25
+- Opponent Network drivers: beat F5 Esports at CROSSFIRE Season 6 - Playoffs (2026-09-14) 1.54; beat HeadShot Esports at NSTLGA League | Ruby Conference (2026-08-27) 1.28; beat Omen Esports at Group Stage - CROSSFIRE Season 6 (2026-09-04) 1.24
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +342.2 |
+| M80 | 2 | 3081.4 | +337.4 |
+| SportsBetExpert | 6 | 2672.3 | +336.4 |
+| Wildcard | 3 | 2911.9 | +333.4 |
+| Liquid | 1 | 3103.3 | +332.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0), Dapper North (+0.0), Old Dads Banging (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs A vs Kinetic (2026-05-27): expires in 39 days [Quality Wins 0.04]
+- S57 NA Intermediate Central - Playoffs A vs Absent Minded (2026-06-02): expires in 45 days [Tier Exposure 0.31, Opponent Network 0.31]
 
 #### Matches (33 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -41,13 +74,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.00 | 0.00 | -213.5 | -Ayz-, -TIME-, noiro, pierson, xue |
 | 2026-08-11 | KODEX ESPORTS | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.46 | 1.00 | 1.12 | 0.22 | 1.12 | +6.0 | -Ayz-, -TIME-, noiro, pierson, xue |
 | 2026-08-07 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.00 | 0.00 | -133.7 | -Ayz-, -TIME-, noiro, pierson, xue |
-| 2026-08-05 | Brahmas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.25 | 1.06 | +115.8 | -Ayz-, -TIME-, noiro, pierson, xue |
+| 2026-08-05 | Brahmas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.25 | 1.06 | +115.7 | -Ayz-, -TIME-, noiro, pierson, xue |
 | 2026-07-22 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -173.2 | -Ayz-, -TIME-, SeRCEra, noiro, xue |
 | 2026-06-02 | Absent Minded | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.03 | 0.31 | +126.0 | -Ayz-, Pontic, kozume, noiro, xue |
 | 2026-05-31 | Quality | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.02 | 0.30 | +211.7 | -Ayz-, Pontic, kozume, noiro, xue |
-| 2026-05-29 | Friendly Fire | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.02 | 0.28 | +257.4 | -Ayz-, Pontic, kozume, noiro, xue |
+| 2026-05-29 | Friendly Fire | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.02 | 0.28 | +257.5 | -Ayz-, Pontic, kozume, noiro, xue |
 | 2026-05-27 | Kinetic | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.04 | 0.27 | +18.7 | -Ayz-, Pontic, kozume, noiro, xue |
-| 2026-05-22 | Meepins | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +296.9 | -Ayz-, Pontic, kozume, noiro, xue |
+| 2026-05-22 | Meepins | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +297.0 | -Ayz-, Pontic, kozume, noiro, xue |
 | 2026-05-20 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -2.6 | -Ayz-, Pontic, kozume, noiro, xue |
 | 2026-05-15 | STFDYSAB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -321.6 | -Ayz-, Pontic, kozume, noiro, xue |
 | 2026-05-13 | Zenano | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +127.0 | -Ayz-, Pontic, kozume, noiro, xue |

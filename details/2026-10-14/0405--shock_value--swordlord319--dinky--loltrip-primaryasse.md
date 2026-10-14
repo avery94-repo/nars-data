@@ -3,11 +3,11 @@ Team Name: Shock Value
 Roster: Swordlord319, -dinky-, loltrip, PrimaryAsset, Blurted
 NARS Rank: 405 of 506
 
-Final Rating: 1046.8
+Final Rating: 1046.7
 Seeded Start: 1106.4
-H2H Adjustment: -59.6
+H2H Adjustment: -59.7
 
-Final Rating (1046.8) = Seeded Start (1106.4) + H2H Adjustment (-59.6)
+Final Rating (1046.7) = Seeded Start (1106.4) + H2H Adjustment (-59.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,40 @@ seed_factor 0.005 = 0.25 x Tier Exposure (0.008) + 0.50 x Quality Wins (0.000) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.005 | 1106.4 | - |
+| +30 days | 0.000 | 1100.2 | -6.1 |
+| +60 days | 0.000 | 1100.0 | -6.4 |
+| +90 days | 0.000 | 1100.0 | -6.4 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.010 vs 0.134 average, gap -0.124). Matching that average is worth about 43.4 seed points.
+
+- Tier Exposure drivers: S57 NA Intermediate Central - Regular Season (2026-05-20) 0.22
+- Quality Wins drivers: beat 91AshLiu at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.00; beat Remnant at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.00; beat Happy Feed at S57 NA Intermediate Central - Regular Season (2026-04-24) 0.00
+- Opponent Network drivers: beat 91AshLiu at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.08; beat Happy Feed at S57 NA Intermediate Central - Regular Season (2026-04-24) 0.04; beat Remnant at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.03
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.1 |
+| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| regain | 12 | 2256.1 | +656.8 |
+| LAG Gaming | 8 | 2507.3 | +655.9 |
+| Zomblers | 22 | 2114.7 | +654.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.6).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Remnant (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Intermediate Central - Regular Season vs Happy Feed (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.04]
+- S57 NA Intermediate Central - Regular Season vs 91AshLiu (2026-04-29): expires in 11 days [Quality Wins 0.00, Opponent Network 0.08]
+- S57 NA Intermediate Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.22]
 
 #### Matches (6 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

@@ -19,6 +19,39 @@ seed_factor 0.069 = 0.25 x Tier Exposure (0.045) + 0.50 x Quality Wins (0.006) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.069 | 1196.7 | - |
+| +30 days | 0.059 | 1182.3 | -14.4 |
+| +60 days | 0.053 | 1174.8 | -21.9 |
+| +90 days | 0.051 | 1170.9 | -25.8 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.219 vs 0.272 average, gap -0.053). Matching that average is worth about 18.5 seed points.
+
+- Tier Exposure drivers: S58 NA Open1-8 Central - Playoffs (2026-09-11) 0.98; S57 NA Open1-8 Central - Playoffs (2026-06-05) 0.32
+- Quality Wins drivers: beat LXIX at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.03; beat VORA at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.03; beat Pixel Click at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.03
+- Opponent Network drivers: beat LXIX at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.96; beat VORA at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.93; beat Pixel Click at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.92
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +644.9 |
+| SportsBetExpert | 6 | 2672.3 | +641.7 |
+| M80 | 2 | 3081.4 | +632.0 |
+| Wildcard | 3 | 2911.9 | +626.9 |
+| LAG Gaming | 8 | 2507.3 | +625.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open1-8 Central - Playoffs vs We Bad (2026-05-27): expires in 39 days [Quality Wins 0.00, Opponent Network 0.26]
+- S57 NA Open1-8 Central - Playoffs vs purple reign (2026-05-29): expires in 41 days [Quality Wins 0.00, Opponent Network 0.28]
+- S57 NA Open1-8 Central - Playoffs (2026-06-05): expires in 48 days [Tier Exposure 0.32]
+
 #### Matches (7 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

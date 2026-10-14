@@ -4,20 +4,53 @@ Roster: pand3, mild, Pure_Penguin, Buttermilk, Fuji
 NARS Rank: 53 of 506
 
 Final Rating: 1877.9
-Seeded Start: 1408.4
-H2H Adjustment: +469.5 (capped at +-300, raw +469.6)
+Seeded Start: 1408.3
+H2H Adjustment: +469.6
 
-Final Rating (1877.9) = Seeded Start (1408.4) + H2H Adjustment (+469.5)
+Final Rating (1877.9) = Seeded Start (1408.3) + H2H Adjustment (+469.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.220 x 1400 = 1408.4
+                = 1100 + 0.220 x 1400 = 1408.3
 
 seed_factor 0.220 = 0.25 x Tier Exposure (0.135) + 0.50 x Quality Wins (0.062) + 0.25 x Opponent Network (0.622)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.220 | 1408.3 | - |
+| +30 days | 0.206 | 1388.1 | -20.2 |
+| +60 days | 0.191 | 1367.6 | -40.7 |
+| +90 days | 0.168 | 1335.0 | -73.4 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.135 vs 0.181 average, gap -0.046). Matching that average is worth about 16.1 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-10) 1.16; S58 NA Main B - Regular Season (2026-08-28) 1.02; S59 NA Main A - Regular Season (2026-10-07) 1.02
+- Quality Wins drivers: beat Shaboing Boing Bandits at S59 NA Main A - Regular Season (2026-10-09) 0.14; beat DESPAIR at S58 NA Main B - Regular Season (2026-08-14) 0.12; beat No Leaders Please at S59 NA Main A - Regular Season (2026-10-07) 0.11
+- Opponent Network drivers: beat Bird Squishers at S58 NA Main Central - Playoffs B (2026-09-04) 1.11; beat Down To Frag at S58 NA Main B - Regular Season (2026-08-28) 1.02; beat No Leaders Please at S59 NA Main A - Regular Season (2026-10-07) 1.02
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +284.0 |
+| M80 | 2 | 3081.4 | +280.4 |
+| SportsBetExpert | 6 | 2672.3 | +278.5 |
+| Wildcard | 3 | 2911.9 | +276.8 |
+| Liquid | 1 | 3103.3 | +276.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), Grandpa Berets (+0.0), Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Skyline (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.09]
+- S57 NA Main Central - Playoffs vs Asoka (2026-06-04): expires in 47 days [Quality Wins 0.09]
+- S57 NA Main Central - Playoffs (2026-06-06): expires in 49 days [Tier Exposure 0.41]
 
 #### Matches (32 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -26,7 +59,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Shaboing Boing Bandits | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.14 | 1.02 | +30.9 | B0oM202, Pure_Penguin, Rezistance, mild, pand3 |
 | 2026-10-07 | No Leaders Please | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +22.2 | Fuji, Pure_Penguin, Rezistance, mild, pand3 |
-| 2026-09-10 | DESPAIR | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.97 | 1.19 | 1.00 | 1.16 | 0.00 | 0.00 | -99.1 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-09-10 | DESPAIR | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.97 | 1.19 | 1.00 | 1.16 | 0.00 | 0.00 | -99.2 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-09-06 | WhalersOnDaMoon | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.13 | 0.00 | 0.00 | -107.2 | Buttermilk, Flynn, Pure_Penguin, ballen, pand3 |
 | 2026-09-04 | Bird Squishers | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.10 | 1.11 | +0.6 | Buttermilk, Fuji, Pure_Penguin, Rezistance, mild, pand3 |
 | 2026-08-28 | Down To Frag | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.10 | 1.02 | +54.0 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |

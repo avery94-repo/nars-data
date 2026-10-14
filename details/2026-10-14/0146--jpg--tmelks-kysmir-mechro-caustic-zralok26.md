@@ -19,6 +19,38 @@ seed_factor 0.175 = 0.25 x Tier Exposure (0.077) + 0.50 x Quality Wins (0.057) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.175 | 1344.5 | - |
+| +30 days | 0.155 | 1316.6 | -27.9 |
+| +60 days | 0.135 | 1289.4 | -55.1 |
+| +90 days | 0.101 | 1241.3 | -103.2 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.077 vs 0.073 average, gap +0.004). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs B (2026-09-15) 1.00; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31
+- Quality Wins drivers: beat Firstwave at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.14; beat Firstwave at S58 NA Intermediate B - Regular Season (2026-08-28) 0.13; beat Costco Family at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.11
+- Opponent Network drivers: beat High-Tech Performance at S58 NA Intermediate Central - Playoffs B (2026-09-12) 0.98; beat Aetheris at S58 NA Intermediate Central - Playoffs B (2026-09-10) 0.97; beat Firstwave at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.93
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +421.5 |
+| SportsBetExpert | 6 | 2672.3 | +419.2 |
+| M80 | 2 | 3081.4 | +413.1 |
+| Wildcard | 3 | 2911.9 | +409.8 |
+| LAG Gaming | 8 | 2507.3 | +408.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B (2026-06-03): expires in 46 days [Tier Exposure 0.31]
+- S58 NA Intermediate B - Regular Season vs Knight Owls (2026-07-15): expires in 88 days [Opponent Network 0.59]
+
 #### Matches (21 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -36,14 +68,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.07 | 0.79 | +41.7 | Zralok26, caustic, malexic, mechro, tmelks |
 | 2026-08-12 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.09 | 0.78 | +9.4 | Zralok26, caustic, malexic, mechro, tmelks |
 | 2026-08-07 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.08 | 0.74 | +126.3 | Zralok26, caustic, kysmir, mechro, tmelks |
-| 2026-08-05 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -209.7 | Zralok26, caustic, kysmir, mechro, tmelks |
+| 2026-08-05 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -209.8 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-08-03 | ABG Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.09 | 0.72 | +122.3 | Zralok26, caustic, kysmir, mechro, tmelks |
-| 2026-07-29 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -214.2 | MITSUMI, Zralok26, caustic, mechro, tmelks |
+| 2026-07-29 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -214.3 | MITSUMI, Zralok26, caustic, mechro, tmelks |
 | 2026-07-25 | NoPrac | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +0.2 | Zralok26, caustic, malexic, mechro, tmelks |
 | 2026-07-17 | Kushtaka | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +0.1 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-07-15 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.02 | 0.59 | +0.4 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-06-03 | NetanYAHOO | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.31 | +183.2 | Zralok26, caustic, kysmir, mechro, tmelks |
-| 2026-05-29 | DILFS | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +153.5 | MITSUMI, Zralok26, caustic, mechro, tmelks |
+| 2026-05-29 | DILFS | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +153.6 | MITSUMI, Zralok26, caustic, mechro, tmelks |
 | 2026-05-27 | Str8 Rippin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +96.9 | Zralok26, caustic, kysmir, mechro, tmelks |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

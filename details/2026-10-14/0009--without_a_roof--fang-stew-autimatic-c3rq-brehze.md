@@ -19,6 +19,34 @@ seed_factor 0.970 = 0.25 x Tier Exposure (1.000) + 0.50 x Quality Wins (0.939) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.970 | 2457.3 | - |
+| +30 days | 0.988 | 2482.6 | +25.3 |
+| +60 days | 0.993 | 2490.3 | +33.0 |
+| +90 days | 1.000 | 2500.0 | +42.7 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.939 vs 0.945 average, gap -0.006). Matching that average is worth about 4.2 seed points.
+
+- Tier Exposure drivers: CROSSFIRE Season 6 (2026-10-07) 1.60; FRAG University 2026 (2026-10-11) 1.60; NSTLGA League S2 | Stage 3 Playoffs (2026-09-14) 1.59
+- Quality Wins drivers: beat Overtake Sector at CROSSFIRE Season 6 (2026-10-07) 1.60; beat LAG Gaming at NSTLGA League S2 | Stage 3 Playoffs (2026-09-13) 1.56; beat Marsborne at VRS-tracked 2026-09 (2026-09-26) 1.55
+- Opponent Network drivers: beat Overtake Sector at CROSSFIRE Season 6 (2026-10-07) 1.60; beat Marsborne at NSTLGA League S2 | Stage 3 Playoffs (2026-09-10) 1.56; beat LAG Gaming at CROSSFIRE Season 6 - Playoffs (2026-10-05) 1.55
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +328.3 |
+| Liquid | 1 | 3103.3 | +327.0 |
+| Wildcard | 3 | 2911.9 | +280.0 |
+| NRG | 4 | 2836.4 | +260.9 |
+| Voca | 5 | 2796.5 | +233.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Adria eSports (+0.0), Entertainment Cheese (+0.0), Midwest Farmers (+0.0), 55TH ST (+0.0), SwagMonkeyHats (+0.0).
+
 #### Matches (60 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -48,13 +76,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | LAG Gaming | W | 2-1 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.98 | 1.60 | 1.00 | 1.57 | 1.54 | 0.00 | +31.9 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-11 | Voca | L |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -51.6 | core 3/5 |
 | 2026-09-11 | Marsborne | W |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.56 | 1.52 | 0.00 | +71.7 | core 3/5 |
-| 2026-09-10 | Marsborne | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 1.52 | 1.56 | +183.3 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-10 | Marsborne | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 1.52 | 1.56 | +183.4 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-10 | Good Vibes Gaming | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.04 | 1.07 | +0.3 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-10 | Villainous | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 1.34 | 1.55 | +12.4 | core 3/5 |
 | 2026-09-09 | unreal nightmare | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.90 | 1.28 | +2.0 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-09 | NRG | L |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -12.1 | core 3/5 |
 | 2026-09-07 | Holly Molly | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.27 | 0.24 | 1.27 | +0.1 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-09-07 | Desi Boyz | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.52 | 1.28 | 1.52 | +24.6 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-07 | Desi Boyz | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 1.28 | 1.51 | +24.6 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-06 | Wanted Goons | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 1.51 | 1.51 | +10.5 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-06 | UncsStillGotIt | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.08 | 1.04 | +0.0 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-06 | Beyond Limits | L |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.50 | 0.00 | 0.00 | -49.7 | Brehze, FaNg, autimatic, c3rq, stew |
@@ -67,7 +95,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Marsborne | L |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 0.00 | 0.00 | -27.5 | core 3/5 |
 | 2026-09-03 | FarmVille | W |  | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 1.47 | 1.47 | +25.1 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-03 | ThirdSite | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.23 | 0.29 | 1.23 | +0.0 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-09-03 | regain | W |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.48 | 1.16 | 1.48 | +2.1 | core 3/5 |
+| 2026-09-03 | regain | W |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 1.16 | 1.47 | +2.1 | core 3/5 |
 | 2026-09-02 | FarmVille | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 1.46 | 0.00 | +53.2 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-02 | EMPIRE | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 1.20 | 1.46 | +14.4 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-08-30 | SportsBetExpert | L |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.43 | 0.00 | 0.00 | -62.6 | core 3/5 |

@@ -4,20 +4,56 @@ Roster: 1ayalaK, sebasgamer11, zockie, BabyRage_S, Slayerh-
 NARS Rank: 39 of 506
 
 Final Rating: 1970.0
-Seeded Start: 1370.2
-H2H Adjustment: +599.8
+Seeded Start: 1370.1
+H2H Adjustment: +599.9
 
-Final Rating (1970.0) = Seeded Start (1370.2) + H2H Adjustment (+599.8)
+Final Rating (1970.0) = Seeded Start (1370.1) + H2H Adjustment (+599.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.193 x 1400 = 1370.2
+                = 1100 + 0.193 x 1400 = 1370.1
 
 seed_factor 0.193 = 0.25 x Tier Exposure (0.446) + 0.50 x Quality Wins (0.143) + 0.25 x Opponent Network (0.039)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.193 | 1370.1 | - |
+| +30 days | 0.176 | 1346.3 | -23.9 |
+| +60 days | 0.167 | 1334.5 | -35.6 |
+| +90 days | 0.163 | 1327.5 | -42.6 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.798 average, gap -0.759). Matching that average is worth about 265.6 seed points.
+
+- Tier Exposure drivers: S57 NA Open9-10 Central - Playoffs A (2026-06-09) 0.37; VRS-tracked 2026-09 (2026-09-22) 1.60; VRS-tracked 2026-09 (2026-09-24) 1.60
+- Quality Wins drivers: beat YOUR END at VRS-tracked 2026-09 (2026-09-26) 1.16; beat PUGDESONESTO at VRS-tracked 2026-08 (2026-08-26) 1.04; beat FLOW STATE at S57 NA Open9-10 Central - Playoffs A (2026-05-29) 0.07
+- Opponent Network drivers: beat 100 BMI MENACES at S57 NA Open9-10 Central - Playoffs A (2026-05-31) 0.30; beat FLOW STATE at S57 NA Open9-10 Central - Playoffs A (2026-05-29) 0.29
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +297.7 |
+| M80 | 2 | 3081.4 | +295.9 |
+| Liquid | 1 | 3103.3 | +291.9 |
+| Wildcard | 3 | 2911.9 | +290.9 |
+| SportsBetExpert | 6 | 2672.3 | +288.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Knight Owls (+0.0), Grandpa Berets (+0.0).
+
+Seed inputs expiring within 90 days:
+- VRS-tracked 2026-04 vs GAMEHUNTERS (2026-04-28): expires in 10 days [Quality Wins 0.07]
+- VRS-tracked 2026-05 (2026-05-02): expires in 14 days [Tier Exposure 0.15]
+- VRS-tracked 2026-05 (2026-05-04): expires in 16 days [Tier Exposure 0.17]
+- S57 NA Open9-10 Central - Playoffs A vs FLOW STATE (2026-05-29): expires in 41 days [Quality Wins 0.07, Opponent Network 0.29]
+- S57 NA Open9-10 Central - Playoffs A vs 100 BMI MENACES (2026-05-31): expires in 43 days [Quality Wins 0.00, Opponent Network 0.30]
+- S57 NA Open9-10 Central - Playoffs A (2026-06-09): expires in 52 days [Tier Exposure 0.37]
 
 #### Matches (16 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -35,7 +71,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-09 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.35 | 1.05 | 1.00 | 0.37 | 0.00 | 0.00 | -56.0 | 1ayalaK, BabyRage_S, Slayerh-, sebasgamer11, zockie |
 | 2026-06-02 | Its a Secret | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -254.6 | 1ayalaK, BabyRage_S, Slayerh-, sebasgamer11, zockie |
 | 2026-05-31 | 100 BMI MENACES | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.00 | 0.30 | +22.7 | 1ayalaK, BabyRage_S, Slayerh-, sebasgamer11, zockie |
-| 2026-05-29 | FLOW STATE | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.07 | 0.29 | +200.0 | 1ayalaK, BabyRage_S, Slayerh-, sebasgamer11, zockie |
+| 2026-05-29 | FLOW STATE | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.07 | 0.29 | +200.1 | 1ayalaK, BabyRage_S, Slayerh-, sebasgamer11, zockie |
 | 2026-05-04 | DAMAJUANA | L |  | VRS-tracked 2026-05 | A | vrs | 0.11 | 1.60 | 1.00 | 0.17 | 0.00 | 0.00 | -127.0 | core 3/5 |
 | 2026-05-02 | ISURUS | L |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -38.1 | core 3/5 |
 | 2026-05-01 | UNO MILLE | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.00 | 0.00 | -185.3 | core 3/5 |

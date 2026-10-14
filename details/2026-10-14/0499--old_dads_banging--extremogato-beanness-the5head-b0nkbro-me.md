@@ -19,6 +19,36 @@ seed_factor 0.057 = 0.25 x Tier Exposure (0.041) + 0.50 x Quality Wins (0.012) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.057 | 1180.5 | - |
+| +30 days | 0.045 | 1162.3 | -18.2 |
+| +60 days | 0.036 | 1151.1 | -29.4 |
+| +90 days | 0.023 | 1131.9 | -48.6 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.041 vs 0.037 average, gap +0.004). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main A - Regular Season (2026-08-28) 0.90; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat The Homies at S58 NA Main A - Regular Season (2026-08-07) 0.10; beat HUMA at S58 NA Main A - Regular Season (2026-07-22) 0.05; beat In Our Prime at S58 NA Main A - Regular Season (2026-08-14) 0.04
+- Opponent Network drivers: beat In Our Prime at S58 NA Main A - Regular Season (2026-08-14) 0.81; beat The Homies at S58 NA Main A - Regular Season (2026-08-07) 0.76; beat HUMA at S58 NA Main A - Regular Season (2026-07-22) 0.65
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| North Forge | 38 | 1971.1 | +666.2 |
+| Wanted Goons | 43 | 1933.1 | +665.8 |
+| NRG | 4 | 2836.4 | +665.3 |
+| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| Zomblers | 22 | 2114.7 | +663.3 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Aers Money Crew (2026-04-24): expires in 6 days [Quality Wins 0.01, Opponent Network 0.05]
+- S57 NA Main Central - Regular Season vs 3 Feet Of Meat (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.00, Opponent Network 0.26]
+
 #### Matches (23 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -30,17 +60,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Grandpa Berets | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -112.5 | B0nkBro, Extremogato, The5Head, beanNess, meola |
 | 2026-08-14 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.04 | 0.81 | +113.4 | B0nkBro, Extremogato, The5Head, beanNess, meola |
 | 2026-08-12 | SNOWPLOWERS | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -181.4 | B0nkBro, Extremogato, The5Head, Vitalityy_, meola |
-| 2026-08-07 | The Homies | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.10 | 0.76 | +129.6 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
+| 2026-08-07 | The Homies | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.10 | 0.76 | +129.7 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
 | 2026-08-05 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -1.2 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
 | 2026-07-31 | Gregs New Cut | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -59.6 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
 | 2026-07-29 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -0.4 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
 | 2026-07-24 | REPORT MASSIVE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -0.7 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
 | 2026-07-22 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +178.2 | B0nkBro, Extremogato, b-enj-i, beanNess, meola |
-| 2026-07-17 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -0.1 | B0nkBro, Extremogato, The5Head, Vitalityy_, meola |
+| 2026-07-17 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -0.1 | B0nkBro, Extremogato, The5Head, Vitalityy_, meola |
 | 2026-07-15 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -0.0 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
-| 2026-05-22 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +329.7 | B0nkBro, Extremogato, M4rT1n, The5Head, meola |
+| 2026-05-22 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +329.8 | B0nkBro, Extremogato, M4rT1n, The5Head, meola |
 | 2026-05-20 | Wealth Reduction | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -181.4 | B0nkBro, Extremogato, M4rT1n, Vongola, meola |
-| 2026-05-15 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -129.3 | B0nkBro, Extremogato, M4rT1n, The5Head, meola |
+| 2026-05-15 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -129.4 | B0nkBro, Extremogato, M4rT1n, The5Head, meola |
 | 2026-05-13 | 1NT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -144.7 | B0nkBro, Extremogato, M4rT1n, Vongola, meola |
 | 2026-05-08 | UnitedStatesArmy Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -10.4 | B0nkBro, Extremogato, M4rT1n, The5Head, meola |
 | 2026-05-06 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -250.4 | B0nkBro, Extremogato, M4rT1n, The5Head, Vongola |

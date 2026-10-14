@@ -19,6 +19,34 @@ seed_factor 0.160 = 0.25 x Tier Exposure (0.111) + 0.50 x Quality Wins (0.041) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.160 | 1324.2 | - |
+| +30 days | 0.148 | 1307.7 | -16.5 |
+| +60 days | 0.138 | 1293.7 | -30.6 |
+| +90 days | 0.119 | 1266.8 | -57.4 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.111 vs 0.116 average, gap -0.005). Matching that average is worth about 1.8 seed points.
+
+- Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; S58 NA Open9-10 East - Playoffs B (2026-09-17) 1.04; SoFlo Slam 2 (2026-08-02) 0.85
+- Quality Wins drivers: beat Conscious Gaming at Group Stage - CROSSFIRE Season 6 (2026-09-01) 0.21; beat Tacos Tiramisu and Lies at SoFlo Slam 2 (2026-08-02) 0.19; beat Cortex Jellies at S58 NA Open9-10 East - Playoffs B (2026-09-05) 0.08
+- Opponent Network drivers: beat Conscious Gaming at Group Stage - CROSSFIRE Season 6 (2026-09-01) 1.21; beat brb grinding minecraft at S58 NA Open9-10 East - Playoffs B (2026-09-15) 1.04; beat Cortex Jellies at S58 NA Open9-10 East - Playoffs B (2026-09-05) 0.97
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +342.1 |
+| SportsBetExpert | 6 | 2672.3 | +339.7 |
+| M80 | 2 | 3081.4 | +335.7 |
+| Wildcard | 3 | 2911.9 | +332.7 |
+| Liquid | 1 | 3103.3 | +331.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), After Peak (+0.0).
+
 #### Matches (11 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -31,7 +59,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-05 | Cortex Jellies | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.97 | 0.08 | 0.97 | +3.6 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-04 | pnks pretty princesses | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +2.2 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-02 | 5_gamers_wrong_game | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +0.4 | -evN, 1stobie, AdamRS, Tori, jr24racing |
-| 2026-09-01 | Conscious Gaming | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.91 | 1.33 | 1.00 | 1.21 | 0.21 | 1.21 | +268.4 | -evN, 1stobie, AdamRS, Tori, jr24racing |
+| 2026-09-01 | Conscious Gaming | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.91 | 1.33 | 1.00 | 1.21 | 0.21 | 1.21 | +268.5 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-08-02 | Tacos Tiramisu and Lies | W | 2-1 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.85 | 0.19 | 0.85 | +132.1 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-08-01 | NuTorious | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.84 | 0.00 | 0.00 | -1.4 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-08-01 | Team Astryx | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.84 | 0.05 | 0.84 | +194.2 | -evN, 1stobie, AdamRS, Tori, jr24racing |

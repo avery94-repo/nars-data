@@ -19,6 +19,37 @@ seed_factor 0.279 = 0.25 x Tier Exposure (0.176) + 0.50 x Quality Wins (0.140) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.279 | 1490.5 | - |
+| +30 days | 0.250 | 1450.3 | -40.2 |
+| +60 days | 0.226 | 1416.1 | -74.4 |
+| +90 days | 0.179 | 1351.2 | -139.3 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.140 vs 0.054 average, gap +0.086). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-10) 1.30; NSTLGA League | Ruby Conference (2026-08-27) 1.28; S58 NA Main Central - Playoffs B (2026-09-12) 1.17
+- Quality Wins drivers: beat Overtake Sector at NSTLGA League | Ruby Conference (2026-08-27) 1.28; beat Holly Molly at NSTLGA League | Ruby Conference (2026-08-18) 0.23; beat Storm Surge at S58 NA Main B - Regular Season (2026-08-26) 0.14
+- Opponent Network drivers: beat Overtake Sector at NSTLGA League | Ruby Conference (2026-08-27) 1.28; beat Holly Molly at NSTLGA League | Ruby Conference (2026-08-18) 1.19; beat FlockMunchers at NSTLGA League | Ruby Conference (2026-08-11) 1.12
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +531.1 |
+| SportsBetExpert | 6 | 2672.3 | +526.5 |
+| M80 | 2 | 3081.4 | +521.4 |
+| Wildcard | 3 | 2911.9 | +516.6 |
+| Liquid | 1 | 3103.3 | +514.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), After Peak (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+
 #### Matches (30 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -31,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-01 | Drip or Drown | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.91 | 1.33 | 1.00 | 1.21 | 0.00 | 0.00 | -220.8 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-28 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -100.3 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-27 | Overtake Sector | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.28 | 1.28 | 1.28 | +97.2 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
-| 2026-08-27 | North Forge | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.28 | 0.00 | 0.00 | -174.0 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
+| 2026-08-27 | North Forge | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.28 | 0.00 | 0.00 | -174.1 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-26 | Storm Surge | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.14 | 1.01 | +41.1 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-21 | Evil Reunion | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.10 | 0.97 | +183.9 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-20 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.83 | 1.16 | 1.00 | 0.96 | 0.00 | 0.00 | -3.9 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
@@ -51,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Sassy Sunshines | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -347.7 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
 | 2026-05-13 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +276.9 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
 | 2026-05-08 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +219.9 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
-| 2026-05-06 | CNCS Last Hope | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -324.4 | 1Mute, SyKe---, Z-_-Z, haysz, lay_ |
+| 2026-05-06 | CNCS Last Hope | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -324.5 | 1Mute, SyKe---, Z-_-Z, haysz, lay_ |
 | 2026-05-01 | YHUBEPCAM | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -160.9 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
 | 2026-04-24 | TheMotherLovers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +276.9 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
 

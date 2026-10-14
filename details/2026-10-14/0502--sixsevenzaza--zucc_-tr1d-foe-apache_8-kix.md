@@ -3,11 +3,11 @@ Team Name: SixSevenZaZa
 Roster: Zucc_, Tr1d, foe, Apache_8, kix
 NARS Rank: 502 of 506
 
-Final Rating: 459.8
+Final Rating: 459.7
 Seeded Start: 1149.8
-H2H Adjustment: -690.0
+H2H Adjustment: -690.1
 
-Final Rating (459.8) = Seeded Start (1149.8) + H2H Adjustment (-690.0)
+Final Rating (459.7) = Seeded Start (1149.8) + H2H Adjustment (-690.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,37 @@ seed_factor 0.036 = 0.25 x Tier Exposure (0.039) + 0.50 x Quality Wins (0.005) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.036 | 1149.8 | - |
+| +30 days | 0.027 | 1138.5 | -11.4 |
+| +60 days | 0.022 | 1130.5 | -19.3 |
+| +90 days | 0.012 | 1116.5 | -33.3 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.093 vs 0.118 average, gap -0.025). Matching that average is worth about 8.7 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate B - Regular Season (2026-08-26) 0.87; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat FLying PiGs at S58 NA Intermediate B - Regular Season (2026-07-15) 0.05; beat Shaq Diesel at S58 NA Intermediate B - Regular Season (2026-08-07) 0.03; beat MakeYouSayLate at S57 NA Intermediate Central - Regular Season (2026-05-01) 0.01
+- Opponent Network drivers: beat Shaq Diesel at S58 NA Intermediate B - Regular Season (2026-08-07) 0.74; beat FLying PiGs at S58 NA Intermediate B - Regular Season (2026-07-15) 0.59; beat MakeYouSayLate at S57 NA Intermediate Central - Regular Season (2026-05-01) 0.09
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| North Forge | 38 | 1971.1 | +666.8 |
+| Wanted Goons | 43 | 1933.1 | +666.5 |
+| NRG | 4 | 2836.4 | +665.3 |
+| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| Zomblers | 22 | 2114.7 | +663.6 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs MakeYouSayLate (2026-05-01): expires in 13 days [Quality Wins 0.01, Opponent Network 0.09]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S58 NA Intermediate B - Regular Season vs FLying PiGs (2026-07-15): expires in 88 days [Quality Wins 0.05, Opponent Network 0.59]
 
 #### Matches (21 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -35,12 +66,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -32.6 | Chuwxe, Tr1d, Zucc_, foe, kix |
 | 2026-07-22 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -12.2 | Chuwxe, Tr1d, Zucc_, foe, kix |
 | 2026-07-17 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -35.4 | Chuwxe, Tr1d, Zucc_, foe, kix |
-| 2026-07-15 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +439.2 | Chuwxe, Tr1d, Zucc_, foe, kix |
+| 2026-07-15 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +439.3 | Chuwxe, Tr1d, Zucc_, foe, kix |
 | 2026-05-22 | dogwater | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -241.2 | Chuwxe, SoldACat4Ket, Tr1d, foe, kix |
 | 2026-05-20 | GOMI dot CLUB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -208.8 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-05-15 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -5.1 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-05-13 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -17.5 | BooWh00, Tr1d, Zucc_, foe, kix |
-| 2026-05-06 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -267.1 | Apache_8, Tr1d, Zucc_, foe, kix |
+| 2026-05-06 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -267.2 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-05-01 | MakeYouSayLate | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +362.2 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-04-29 | CVC Retirement | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -319.5 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-04-24 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -12.3 | Apache_8, Tr1d, Zucc_, foe, kix |

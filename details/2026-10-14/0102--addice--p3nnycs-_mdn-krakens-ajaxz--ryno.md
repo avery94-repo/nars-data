@@ -19,6 +19,38 @@ seed_factor 0.347 = 0.25 x Tier Exposure (0.204) + 0.50 x Quality Wins (0.203) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.347 | 1586.3 | - |
+| +30 days | 0.319 | 1546.3 | -40.0 |
+| +60 days | 0.303 | 1524.3 | -62.0 |
+| +90 days | 0.277 | 1487.8 | -98.5 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.204 vs 0.222 average, gap -0.018). Matching that average is worth about 6.3 seed points.
+
+- Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-22) 1.55; S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28
+- Quality Wins drivers: beat New Legends at S58 NA Advanced Central - Regular Season (2026-08-25) 0.80; beat FlyQuest RED at CROSSFIRE Season 6 - Playoffs (2026-09-17) 0.68; beat Locally Hated at CROSSFIRE Season 6 - Playoffs (2026-09-22) 0.43
+- Opponent Network drivers: beat Locally Hated at CROSSFIRE Season 6 - Playoffs (2026-09-22) 1.55; beat FlyQuest RED at CROSSFIRE Season 6 - Playoffs (2026-09-17) 1.55; beat BucketJonsBoys at CROSSFIRE Season 6 - Playoffs (2026-09-21) 1.55
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +161.4 |
+| SportsBetExpert | 6 | 2672.3 | +160.4 |
+| M80 | 2 | 3081.4 | +158.2 |
+| Wildcard | 3 | 2911.9 | +156.9 |
+| LAG Gaming | 8 | 2507.3 | +156.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs Olympus (2026-05-19): expires in 31 days [Quality Wins 0.18]
+- S57 NA Advanced Central - Regular Season vs Solar Gravity (2026-05-21): expires in 33 days [Tier Exposure 0.30, Opponent Network 0.30]
+
 #### Matches (30 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -33,10 +65,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | Wanted Goons | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.27 | 0.00 | 0.00 | -0.6 | 2Panic, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-09-03 | deez | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.23 | 0.10 | 1.23 | +42.7 | 2Panic, AJaxz-, BATSPEED, KrakenS, P3nnyCS |
 | 2026-08-26 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.00 | 0.00 | -9.5 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
-| 2026-08-25 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 0.80 | 1.25 | +146.0 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
+| 2026-08-25 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 0.80 | 1.25 | +146.1 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-08-21 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.20 | 1.21 | +133.9 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-08-19 | Axial | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -102.0 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
-| 2026-08-14 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.11 | 1.15 | +57.1 | AJaxz-, BATSPEED, KrakenS, Ryno, _mdn |
+| 2026-08-14 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.11 | 1.15 | +57.2 | AJaxz-, BATSPEED, KrakenS, Ryno, _mdn |
 | 2026-08-12 | Pug Palace | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.00 | 0.00 | -65.7 | AJaxz-, BATSPEED, P3nnyCS, Ryno, _mdn |
 | 2026-08-06 | counterstrike Team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.07 | 0.20 | 1.07 | +11.7 | AJaxz-, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-08-05 | dead team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.06 | 1.06 | +94.6 | AJaxz-, BATSPEED, KrakenS, P3nnyCS, _mdn |
@@ -46,8 +78,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -110.6 | AJaxz-, BATSPEED, KrakenS, Ryno, _mdn |
 | 2026-07-17 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -31.7 | 1hades, BATSPEED, KrakenS, Ryno, _mdn |
 | 2026-05-21 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.01 | 0.30 | +0.7 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
-| 2026-05-19 | Olympus | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.18 | 0.28 | +422.8 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
-| 2026-05-14 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -60.6 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
+| 2026-05-19 | Olympus | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.18 | 0.28 | +422.9 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
+| 2026-05-14 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -60.5 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-12 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -58.1 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-07 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -347.9 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-05 | GRIT | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.02 | 0.16 | +13.2 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |

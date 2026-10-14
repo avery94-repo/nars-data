@@ -19,6 +19,44 @@ seed_factor 0.105 = 0.25 x Tier Exposure (0.124) + 0.50 x Quality Wins (0.066) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.105 | 1247.0 | - |
+| +30 days | 0.055 | 1177.5 | -69.5 |
+| +60 days | 0.002 | 1102.6 | -144.4 |
+| +90 days | 0.000 | 1100.0 | -147.0 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.164 vs 0.672 average, gap -0.508). Matching that average is worth about 177.8 seed points.
+
+- Tier Exposure drivers: S57 NA Open9-10 Central - Playoffs A (2026-06-11) 0.38; VRS-tracked 2026-06 (2026-06-29) 0.77; VRS-tracked 2026-06 (2026-06-14) 0.61
+- Quality Wins drivers: beat DETONATE at VRS-tracked 2026-06 (2026-06-12) 0.59; beat Club 333 at VRS-tracked 2026-06 (2026-06-11) 0.45; beat bubibabu at S57 NA Open9-10 Central - Playoffs A (2026-05-31) 0.03
+- Opponent Network drivers: beat DETONATE at VRS-tracked 2026-06 (2026-06-12) 0.59; beat Club 333 at VRS-tracked 2026-06 (2026-06-11) 0.58; beat GG at S57 NA Open9-10 Central - Playoffs A (2026-06-11) 0.38
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +638.9 |
+| Liquid | 1 | 3103.3 | +630.6 |
+| NRG | 4 | 2836.4 | +626.8 |
+| Wildcard | 3 | 2911.9 | +618.5 |
+| Voca | 5 | 2796.5 | +587.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Knight Owls (+0.0), Grandpa Berets (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A vs The Skid Marks (2026-05-29): expires in 41 days [Quality Wins 0.00, Opponent Network 0.29]
+- S57 NA Open9-10 Central - Playoffs A vs bubibabu (2026-05-31): expires in 43 days [Quality Wins 0.03, Opponent Network 0.30]
+- S57 NA Open9-10 Central - Playoffs A vs FoxtrotAlpha (2026-06-09): expires in 52 days [Quality Wins 0.00, Opponent Network 0.37]
+- VRS-tracked 2026-06 vs Club 333 (2026-06-11): expires in 54 days [Tier Exposure 0.58, Quality Wins 0.45, Opponent Network 0.58]
+- S57 NA Open9-10 Central - Playoffs A vs GG (2026-06-11): expires in 54 days [Tier Exposure 0.38, Quality Wins 0.01, Opponent Network 0.38]
+- VRS-tracked 2026-06 vs DETONATE (2026-06-12): expires in 55 days [Tier Exposure 0.59, Quality Wins 0.59, Opponent Network 0.59]
+- VRS-tracked 2026-06 (2026-06-13): expires in 56 days [Tier Exposure 0.60]
+- VRS-tracked 2026-06 (2026-06-14): expires in 57 days [Tier Exposure 0.61]
+
 #### Matches (10 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -31,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-11 | GG | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.36 | 1.05 | 1.00 | 0.38 | 0.01 | 0.38 | +74.2 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
 | 2026-06-11 | Club 333 | W |  | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.58 | 0.45 | 0.58 | +364.3 | core 3/5 |
 | 2026-06-09 | FoxtrotAlpha | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.35 | 1.05 | 1.00 | 0.37 | 0.00 | 0.37 | +298.0 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
-| 2026-06-02 | Playing for fun | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -234.2 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
+| 2026-06-02 | Playing for fun | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -234.3 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
 | 2026-05-31 | bubibabu | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.03 | 0.30 | +268.0 | FRIZZY, Fruitcupx, JonjiJLC, MaestrO, Maxuel, gamble |
 | 2026-05-29 | The Skid Marks | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.00 | 0.29 | +248.6 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
 

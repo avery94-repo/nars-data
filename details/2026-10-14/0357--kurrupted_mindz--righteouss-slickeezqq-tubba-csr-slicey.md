@@ -19,6 +19,43 @@ seed_factor 0.107 = 0.25 x Tier Exposure (0.053) + 0.50 x Quality Wins (0.026) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.107 | 1249.4 | - |
+| +30 days | 0.075 | 1205.7 | -43.7 |
+| +60 days | 0.063 | 1187.6 | -61.8 |
+| +90 days | 0.043 | 1159.6 | -89.8 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.053 vs 0.096 average, gap -0.043). Matching that average is worth about 15.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main A - Regular Season (2026-08-27) 0.89; S57 NA Main Central - Playoffs (2026-05-31) 0.36; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat Tractors at S58 NA Main A - Regular Season (2026-08-19) 0.17; beat puggin4seb at S58 NA Main A - Regular Season (2026-08-14) 0.06; beat MINDTRIP at S58 NA Main A - Regular Season (2026-07-17) 0.06
+- Opponent Network drivers: beat Hack-A-Shaq at S58 NA Main A - Regular Season (2026-08-21) 0.85; beat Tractors at S58 NA Main A - Regular Season (2026-08-19) 0.84; beat puggin4seb at S58 NA Main A - Regular Season (2026-08-14) 0.81
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.0 |
+| SportsBetExpert | 6 | 2672.3 | +664.4 |
+| LAG Gaming | 8 | 2507.3 | +654.9 |
+| regain | 12 | 2256.1 | +653.1 |
+| M80 | 2 | 3081.4 | +650.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.6), shirtcockin (+0.8), Courage (+1.0), SixSevenZaZa (+1.7).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Aers Money Crew (2026-04-29): expires in 11 days [Quality Wins 0.01]
+- S57 NA Main Central - Regular Season vs 1NT (2026-05-06): expires in 18 days [Quality Wins 0.02, Opponent Network 0.14]
+- S57 NA Main Central - Regular Season vs Aurofox (2026-05-13): expires in 25 days [Opponent Network 0.19]
+- S57 NA Main Central - Regular Season vs Order Zero (2026-05-14): expires in 26 days [Quality Wins 0.00, Opponent Network 0.20]
+- S57 NA Main Central - Regular Season vs James Bond Bois (2026-05-20): expires in 32 days [Quality Wins 0.00, Opponent Network 0.25]
+- S57 NA Main Central - Regular Season vs ASYCS KITTENS (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.02, Opponent Network 0.26]
+- S57 NA Main Central - Playoffs (2026-05-31): expires in 43 days [Tier Exposure 0.36]
+
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -33,10 +70,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | TEMPR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -1.1 | Tubba, csR, righteouss, slicey, slickeezQQ |
 | 2026-07-31 | Wealth Reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -230.1 | Tubba, csR, ndz_, righteouss, slickeezQQ |
 | 2026-07-29 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -68.7 | chinner, csR, ndz_, righteouss, slickeezQQ |
-| 2026-07-24 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -254.1 | Tubba, csR, righteouss, slicey, slickeezQQ |
-| 2026-07-17 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.06 | 0.62 | +34.3 | Tubba, csR, righteouss, slicey, slickeezQQ |
+| 2026-07-24 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -254.2 | Tubba, csR, righteouss, slicey, slickeezQQ |
+| 2026-07-17 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.06 | 0.61 | +34.3 | Tubba, csR, righteouss, slicey, slickeezQQ |
 | 2026-07-15 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -127.2 | Tubba, csR, righteouss, slicey, slickeezQQ |
-| 2026-05-31 | YHUBEPCAM | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -121.8 | Tubba, chinner, csR, righteouss, slicey |
+| 2026-05-31 | YHUBEPCAM | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -121.9 | Tubba, chinner, csR, righteouss, slicey |
 | 2026-05-27 | Squeegee | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -143.1 | ZNP_, chinner, csR, righteouss, slicey |
 | 2026-05-22 | ASYCS KITTENS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +26.5 | Tubba, chinner, csR, righteouss, slickeezQQ |
 | 2026-05-20 | James Bond Bois | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +1.0 | Tubba, chinner, csR, righteouss, slicey |

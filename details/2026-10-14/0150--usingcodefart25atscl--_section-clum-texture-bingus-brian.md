@@ -19,6 +19,34 @@ seed_factor 0.116 = 0.25 x Tier Exposure (0.036) + 0.50 x Quality Wins (0.020) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.116 | 1263.1 | - |
+| +30 days | 0.113 | 1258.6 | -4.4 |
+| +60 days | 0.113 | 1258.1 | -4.9 |
+| +90 days | 0.112 | 1256.3 | -6.8 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.036 vs 0.101 average, gap -0.065). Matching that average is worth about 22.8 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-17) 1.02
+- Quality Wins drivers: beat Bad Jawn at S58 NA Open9-10 East - Playoffs C (2026-09-12) 0.08; beat Veniversum at S58 NA Open9-10 East - Playoffs C (2026-09-17) 0.07; beat Team GREAT at S58 NA Open9-10 East - Playoffs C (2026-09-15) 0.07
+- Opponent Network drivers: beat Veniversum at S58 NA Open9-10 East - Playoffs C (2026-09-17) 1.02; beat Team GREAT at S58 NA Open9-10 East - Playoffs C (2026-09-15) 1.02; beat Bad Jawn at S58 NA Open9-10 East - Playoffs C (2026-09-12) 1.00
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +392.2 |
+| SportsBetExpert | 6 | 2672.3 | +390.3 |
+| M80 | 2 | 3081.4 | +384.4 |
+| Wildcard | 3 | 2911.9 | +381.3 |
+| LAG Gaming | 8 | 2507.3 | +380.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
+
 #### Matches (8 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -30,7 +58,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | Bad Jawn | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.08 | 1.00 | +105.1 | Clum, _Section, bingus, snorkel, texture |
 | 2026-09-10 | Double Poop Cheeseburger | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.03 | 0.99 | +62.8 | Clum, _Section, bingus, snorkel, texture |
 | 2026-09-08 | Team NK | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.03 | 0.98 | +116.0 | Clum, _Section, bingus, snorkel, texture |
-| 2026-09-06 | BDE | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.03 | 0.96 | +135.4 | CLOUDZINO, Clum, _Section, bingus, texture |
+| 2026-09-06 | BDE | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.03 | 0.96 | +135.5 | CLOUDZINO, Clum, _Section, bingus, texture |
 | 2026-09-04 | CLUE IN | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -154.0 | CLOUDZINO, Clum, _Section, bingus, brian |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

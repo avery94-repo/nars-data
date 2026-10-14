@@ -19,12 +19,47 @@ seed_factor 0.034 = 0.25 x Tier Exposure (0.041) + 0.50 x Quality Wins (0.007) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.034 | 1147.6 | - |
+| +30 days | 0.019 | 1127.2 | -20.3 |
+| +60 days | 0.012 | 1116.6 | -31.0 |
+| +90 days | 0.000 | 1100.0 | -47.6 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.081 vs 0.254 average, gap -0.173). Matching that average is worth about 60.5 seed points.
+
+- Tier Exposure drivers: S58 NA Advanced Central - Regular Season (2026-07-16) 0.86; S57 NA Advanced Central - Regular Season (2026-05-21) 0.30
+- Quality Wins drivers: beat Elation at S58 NA Advanced Central - Regular Season (2026-07-15) 0.06; beat NineFlyeSports at S57 NA Advanced Central - Regular Season (2026-05-21) 0.05; beat NYX at S57 NA Advanced Central - Regular Season (2026-04-23) 0.01
+- Opponent Network drivers: beat Elation at S58 NA Advanced Central - Regular Season (2026-07-15) 0.86; beat NineFlyeSports at S57 NA Advanced Central - Regular Season (2026-05-21) 0.30; beat NYX at S57 NA Advanced Central - Regular Season (2026-04-23) 0.05
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +664.5 |
+| SportsBetExpert | 6 | 2672.3 | +663.4 |
+| LAG Gaming | 8 | 2507.3 | +652.3 |
+| M80 | 2 | 3081.4 | +650.2 |
+| Wildcard | 3 | 2911.9 | +645.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.3), SixSevenZaZa (+0.5).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs Elisir Esports (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.04]
+- S57 NA Advanced Central - Regular Season vs NYX (2026-04-23): expires in 5 days [Quality Wins 0.01, Opponent Network 0.05]
+- S57 NA Advanced Central - Regular Season vs NineFlyeSports (2026-05-21): expires in 33 days [Tier Exposure 0.30, Quality Wins 0.05, Opponent Network 0.30]
+- S58 NA Advanced Central - Regular Season vs Elation (2026-07-15): expires in 88 days [Quality Wins 0.06, Opponent Network 0.86]
+- S58 NA Advanced Central - Regular Season (2026-07-16): expires in 89 days [Tier Exposure 0.86]
+
 #### Matches (12 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-16 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -350.3 | Usotsuki, caron, pxnk, skittle-, xtios |
+| 2026-07-16 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -350.4 | Usotsuki, caron, pxnk, skittle-, xtios |
 | 2026-07-15 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.86 | 0.06 | 0.86 | +442.1 | Usotsuki, caron, pxnk, skittle-, xtios |
 | 2026-05-21 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.05 | 0.30 | +333.2 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-14 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -49.7 | Usotsuki, caron, j1v, pxnk, skittle-, xtios |

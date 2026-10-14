@@ -19,6 +19,36 @@ seed_factor 0.015 = 0.25 x Tier Exposure (0.043) + 0.50 x Quality Wins (0.000) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.015 | 1121.6 | - |
+| +30 days | 0.010 | 1114.5 | -7.1 |
+| +60 days | 0.007 | 1110.5 | -11.1 |
+| +90 days | 0.007 | 1110.0 | -11.6 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.018 vs 0.245 average, gap -0.227). Matching that average is worth about 79.5 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93; S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31
+- Quality Wins drivers: beat Internet Coffee at S57 NA Open9-10 Central - Playoffs B (2026-05-29) 0.00
+- Opponent Network drivers: beat Internet Coffee at S57 NA Open9-10 Central - Playoffs B (2026-05-29) 0.28
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +665.1 |
+| North Forge | 38 | 1971.1 | +661.6 |
+| Zomblers | 22 | 2114.7 | +661.1 |
+| Wanted Goons | 43 | 1933.1 | +660.1 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs Internet Coffee (2026-05-29): expires in 41 days [Quality Wins 0.00, Opponent Network 0.28]
+- S57 NA Open9-10 Central - Playoffs B (2026-06-03): expires in 46 days [Tier Exposure 0.31]
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

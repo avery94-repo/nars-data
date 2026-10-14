@@ -19,6 +19,32 @@ seed_factor 0.063 = 0.25 x Tier Exposure (0.031) + 0.50 x Quality Wins (0.015) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.063 | 1188.0 | - |
+| +30 days | 0.055 | 1177.3 | -10.7 |
+| +60 days | 0.046 | 1164.8 | -23.1 |
+| +90 days | 0.029 | 1140.3 | -47.7 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.190 vs 0.298 average, gap -0.108). Matching that average is worth about 37.8 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate A - Regular Season (2026-08-28) 0.88
+- Quality Wins drivers: beat dogwater at S58 NA Intermediate A - Regular Season (2026-08-05) 0.08; beat FourStrokeGang at S58 NA Intermediate A - Regular Season (2026-08-28) 0.07; beat Dead Pixel at S58 NA Intermediate A - Regular Season (2026-07-22) 0.05
+- Opponent Network drivers: beat FourStrokeGang at S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; beat dogwater at S58 NA Intermediate A - Regular Season (2026-08-05) 0.73; beat Mace Lindu Ruff Rebound at S58 NA Intermediate A - Regular Season (2026-07-24) 0.65
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| Zomblers | 22 | 2114.7 | +659.9 |
+| regain | 12 | 2256.1 | +659.2 |
+| North Forge | 38 | 1971.1 | +658.9 |
+
 #### Matches (12 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

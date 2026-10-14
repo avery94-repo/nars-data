@@ -19,6 +19,40 @@ seed_factor 0.077 = 0.25 x Tier Exposure (0.080) + 0.50 x Quality Wins (0.011) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.077 | 1208.0 | - |
+| +30 days | 0.058 | 1180.6 | -27.4 |
+| +60 days | 0.040 | 1155.6 | -52.4 |
+| +90 days | 0.033 | 1146.5 | -61.5 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.207 vs 0.263 average, gap -0.056). Matching that average is worth about 19.6 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-02) 1.00; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Open1-8 Central - Playoffs (2026-06-15) 0.39
+- Quality Wins drivers: beat AURA Esports at S58 NA Intermediate A - Regular Season (2026-08-05) 0.09; beat Conduit eSports at S58 NA Intermediate A - Regular Season (2026-08-21) 0.06; beat BD Lamron at S57 NA Open1-8 Central - Playoffs (2026-05-30) 0.01
+- Opponent Network drivers: beat Conduit eSports at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat AURA Esports at S58 NA Intermediate A - Regular Season (2026-08-05) 0.73; beat Evade Gaming at S57 NA Open1-8 Central - Playoffs (2026-06-12) 0.37
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +464.5 |
+| SportsBetExpert | 6 | 2672.3 | +464.5 |
+| North Forge | 38 | 1971.1 | +462.9 |
+| Zomblers | 22 | 2114.7 | +462.1 |
+| Wanted Goons | 43 | 1933.1 | +462.0 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Open1-8 Central - Playoffs vs Chippys Ahoy (2026-05-29): expires in 41 days [Quality Wins 0.00, Opponent Network 0.28]
+- S57 NA Open1-8 Central - Playoffs vs BD Lamron (2026-05-30): expires in 42 days [Quality Wins 0.01, Opponent Network 0.28]
+- S57 NA Open1-8 Central - Playoffs vs RichMoneyAcademy (2026-06-06): expires in 49 days [Quality Wins 0.00, Opponent Network 0.33]
+- S57 NA Open1-8 Central - Playoffs vs We Wont Implode This Time (2026-06-08): expires in 51 days [Quality Wins 0.00, Opponent Network 0.34]
+- S57 NA Open1-8 Central - Playoffs vs Evade Gaming (2026-06-12): expires in 55 days [Quality Wins 0.00, Opponent Network 0.37]
+- S57 NA Open1-8 Central - Playoffs (2026-06-15): expires in 58 days [Tier Exposure 0.39]
+
 #### Matches (17 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -26,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-02 | ASCEND | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -39.6 | DOOR_1, Entityy, Lustikkk, kago7, v1tezzzzz |
 | 2026-08-28 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -78.4 | DOOR_1, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
-| 2026-08-26 | Team Deathgrip | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -108.2 | DOOR_1, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
+| 2026-08-26 | Team Deathgrip | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -108.3 | DOOR_1, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
 | 2026-08-21 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +75.0 | DOOR_1, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
 | 2026-08-19 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -69.4 | DOOR_1, Entityy, Lustikkk, v1tezzzzz, welldonskiy |
 | 2026-08-14 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -48.1 | Entityy, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |

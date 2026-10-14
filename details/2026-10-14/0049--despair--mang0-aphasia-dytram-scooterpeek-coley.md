@@ -19,6 +19,38 @@ seed_factor 0.244 = 0.25 x Tier Exposure (0.134) + 0.50 x Quality Wins (0.083) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.244 | 1442.0 | - |
+| +30 days | 0.228 | 1418.9 | -23.1 |
+| +60 days | 0.216 | 1402.9 | -39.0 |
+| +90 days | 0.198 | 1377.6 | -64.4 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.134 vs 0.191 average, gap -0.057). Matching that average is worth about 19.9 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-15) 1.19; S58 NA Main B - Regular Season (2026-08-28) 1.02; S59 NA Main A - Regular Season (2026-10-07) 1.02
+- Quality Wins drivers: beat Entertainment Cheese at S58 NA Main Central - Playoffs B (2026-09-06) 0.18; beat SwagMonkeyHats at S58 NA Main B - Regular Season (2026-08-26) 0.17; beat TheMotherLovers at S58 NA Main Central - Playoffs B (2026-09-10) 0.16
+- Opponent Network drivers: beat Manx Recovery Program at S58 NA Main Central - Playoffs B (2026-09-12) 1.17; beat TheMotherLovers at S58 NA Main Central - Playoffs B (2026-09-10) 1.16; beat Shaboing Boing Bandits at S58 NA Main Central - Playoffs B (2026-09-08) 1.14
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +345.4 |
+| M80 | 2 | 3081.4 | +341.7 |
+| SportsBetExpert | 6 | 2672.3 | +337.4 |
+| Liquid | 1 | 3103.3 | +337.0 |
+| Wildcard | 3 | 2911.9 | +337.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Grandpa Berets (+0.0), Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+- S57 NA Main Central - Playoffs (2026-05-29): expires in 41 days [Tier Exposure 0.34]
+
 #### Matches (32 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -30,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | TheMotherLovers | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.97 | 1.19 | 1.00 | 1.16 | 0.16 | 1.16 | +96.2 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-09-08 | Shaboing Boing Bandits | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.19 | 1.00 | 1.14 | 0.15 | 1.14 | +36.6 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-09-06 | Entertainment Cheese | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.13 | 0.18 | 1.13 | +12.3 | ScooterPeek, aphasia, coley, dytram, mang0 |
-| 2026-09-04 | Team Team Name | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.00 | 0.00 | -76.8 | ScooterPeek, _Wilson_, coley, dytram, mang0 |
+| 2026-09-04 | Team Team Name | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.00 | 0.00 | -76.9 | ScooterPeek, _Wilson_, coley, dytram, mang0 |
 | 2026-09-02 | Binky | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.09 | 0.13 | 1.09 | +3.2 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-08-28 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.10 | 1.02 | +4.9 | ScooterPeek, _Wilson_, aphasia, coley, mang0 |
 | 2026-08-26 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.17 | 1.01 | +11.2 | ScooterPeek, aphasia, coley, dytram, mang0 |
@@ -44,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Feels MAIN Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.07 | 0.75 | +188.1 | ScooterPeek, aphasia, coley, dytram, skrimp |
 | 2026-07-22 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.04 | 0.74 | +18.9 | ScooterPeek, aphasia, coley, dytram, skrimp |
 | 2026-07-17 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +0.8 | ScooterPeek, aphasia, coley, dytram, skrimp |
-| 2026-07-15 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.03 | 0.68 | +180.3 | ScooterPeek, aphasia, coley, dytram, skrimp |
+| 2026-07-15 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.03 | 0.68 | +180.4 | ScooterPeek, aphasia, coley, dytram, skrimp |
 | 2026-05-29 | 027fam | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -298.8 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-05-22 | Evil Reunion | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.03 | 0.26 | +30.8 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-05-20 | crescent | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +19.8 | ScooterPeek, aphasia, coley, dytram, mang0 |

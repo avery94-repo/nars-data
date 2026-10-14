@@ -19,6 +19,34 @@ seed_factor 0.033 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.002) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.033 | 1146.8 | - |
+| +30 days | 0.032 | 1144.2 | -2.6 |
+| +60 days | 0.030 | 1142.5 | -4.2 |
+| +90 days | 0.028 | 1139.4 | -7.4 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.060 vs 0.160 average, gap -0.100). Matching that average is worth about 35.0 seed points.
+
+- Tier Exposure drivers: NSTLGA League | Sapphire Conference (2026-08-29) 1.07; S58 NA Open9-10 East - Playoffs A (2026-09-05) 0.94
+- Quality Wins drivers: beat The Wizards at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.03
+- Opponent Network drivers: beat The Wizards at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +664.9 |
+| regain | 12 | 2256.1 | +658.0 |
+| Zomblers | 22 | 2114.7 | +657.4 |
+| LAG Gaming | 8 | 2507.3 | +656.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.4).
+
 #### Matches (8 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

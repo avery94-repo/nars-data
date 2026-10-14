@@ -19,6 +19,44 @@ seed_factor 0.105 = 0.25 x Tier Exposure (0.116) + 0.50 x Quality Wins (0.023) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.105 | 1247.2 | - |
+| +30 days | 0.083 | 1216.8 | -30.4 |
+| +60 days | 0.070 | 1198.5 | -48.7 |
+| +90 days | 0.048 | 1166.6 | -80.6 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.023 vs 0.022 average, gap +0.001). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Intermediate Central - Playoffs A (2026-09-03) 0.92; S58 NA Intermediate A - Regular Season (2026-08-27) 0.88
+- Quality Wins drivers: beat MakeYouSayLate at S58 NA Intermediate A - Regular Season (2026-08-19) 0.10; beat DUMBO at S58 NA Intermediate A - Regular Season (2026-07-22) 0.08; beat Goyim Gladiators at S58 NA Intermediate A - Regular Season (2026-07-15) 0.07
+- Opponent Network drivers: beat Cojomo Academy Roster at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat MakeYouSayLate at S58 NA Intermediate A - Regular Season (2026-08-19) 0.82; beat DUMBO at S58 NA Intermediate A - Regular Season (2026-07-22) 0.64
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +328.8 |
+| SportsBetExpert | 6 | 2672.3 | +328.7 |
+| regain | 12 | 2256.1 | +324.4 |
+| LAG Gaming | 8 | 2507.3 | +324.2 |
+| Zomblers | 22 | 2114.7 | +323.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.4), Courage (+0.5), SixSevenZaZa (+0.8).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs GoopT (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Intermediate Central - Regular Season vs Shaq Diesel (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.04]
+- S57 NA Intermediate Central - Regular Season vs Bad Jawn (2026-05-01): expires in 13 days [Quality Wins 0.01, Opponent Network 0.09]
+- S57 NA Intermediate Central - Regular Season vs We Play Naked (2026-05-08): expires in 20 days [Quality Wins 0.02, Opponent Network 0.14]
+- S57 NA Intermediate Central - Regular Season vs AURA Esports (2026-05-13): expires in 25 days [Quality Wins 0.02, Opponent Network 0.17]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs B (2026-05-27): expires in 39 days [Tier Exposure 0.26]
+- S58 NA Intermediate A - Regular Season vs Goyim Gladiators (2026-07-15): expires in 88 days [Quality Wins 0.07, Opponent Network 0.59]
+
 #### Matches (24 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -32,11 +70,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.10 | 0.82 | +77.4 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-08-14 | Bald | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -59.6 | AwperDude25, Fitz, KeithGBE, __png, gramps |
 | 2026-08-12 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -143.5 | AwperDude25, Fitz, KeithGBE, cte, gramps |
-| 2026-08-07 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -92.5 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-08-07 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -92.6 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-08-05 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -143.2 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-07-24 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -55.0 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-07-22 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.08 | 0.64 | +149.0 | AwperDude25, Fitz, KeithGBE, cte, gramps |
-| 2026-07-17 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +294.5 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-07-17 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +294.6 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-07-15 | Goyim Gladiators | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +400.6 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-05-27 | Akatsuki | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -1.3 | AwperDude25, Fitz, KeithGBE, blahckhammer, cte |
 | 2026-05-22 | WaterDrinkers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -340.1 | AwperDude25, Fitz, KeithGBE, blahckhammer, cte |

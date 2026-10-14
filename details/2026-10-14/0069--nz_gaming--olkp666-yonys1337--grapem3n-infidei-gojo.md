@@ -5,7 +5,7 @@ NARS Rank: 69 of 506
 
 Final Rating: 1813.1
 Seeded Start: 1309.5
-H2H Adjustment: +503.6
+H2H Adjustment: +503.6 (capped at +-300, raw +503.7)
 
 Final Rating (1813.1) = Seeded Start (1309.5) + H2H Adjustment (+503.6)
 
@@ -18,6 +18,41 @@ seed_factor 0.150 = 0.25 x Tier Exposure (0.105) + 0.50 x Quality Wins (0.076) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.150 | 1309.5 | - |
+| +30 days | 0.125 | 1274.5 | -35.0 |
+| +60 days | 0.102 | 1242.8 | -66.7 |
+| +90 days | 0.060 | 1184.6 | -124.9 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.342 vs 0.578 average, gap -0.236). Matching that average is worth about 82.6 seed points.
+
+- Tier Exposure drivers: S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; S57 NA Advanced Central - Regular Season (2026-05-21) 0.30
+- Quality Wins drivers: beat unreal nightmare at S58 NA Advanced Central - Regular Season (2026-07-24) 0.66; beat Addice at S58 NA Advanced Central - Regular Season (2026-07-22) 0.19; beat dice at S58 NA Advanced Central - Regular Season (2026-07-29) 0.17
+- Opponent Network drivers: beat Diggers at S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; beat dice at S58 NA Advanced Central - Regular Season (2026-07-29) 0.99; beat unreal nightmare at S58 NA Advanced Central - Regular Season (2026-07-24) 0.94
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +392.2 |
+| M80 | 2 | 3081.4 | +386.7 |
+| SportsBetExpert | 6 | 2672.3 | +385.5 |
+| Wildcard | 3 | 2911.9 | +382.1 |
+| Liquid | 1 | 3103.3 | +381.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs Celestial Esports (2026-04-23): expires in 5 days [Quality Wins 0.01, Opponent Network 0.05]
+- S57 NA Advanced Central - Regular Season vs Holly Molly (2026-04-27): expires in 9 days [Quality Wins 0.02, Opponent Network 0.08]
+- S57 NA Advanced Central - Regular Season vs NineFly Esports (2026-04-28): expires in 10 days [Quality Wins 0.01, Opponent Network 0.09]
+- S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
+- S58 NA Advanced Central - Regular Season vs Imperium (2026-07-16): expires in 89 days [Quality Wins 0.04, Opponent Network 0.86]
 
 #### Matches (15 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

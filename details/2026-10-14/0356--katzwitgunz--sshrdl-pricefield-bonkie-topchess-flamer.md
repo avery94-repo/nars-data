@@ -19,6 +19,42 @@ seed_factor 0.121 = 0.25 x Tier Exposure (0.081) + 0.50 x Quality Wins (0.029) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.121 | 1269.7 | - |
+| +30 days | 0.093 | 1230.5 | -39.3 |
+| +60 days | 0.079 | 1210.2 | -59.6 |
+| +90 days | 0.055 | 1177.1 | -92.6 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.081 vs 0.094 average, gap -0.013). Matching that average is worth about 4.6 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.93; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; S57 NA Intermediate Central - Playoffs B (2026-05-29) 0.28
+- Quality Wins drivers: beat DeathMark E-Sports at S58 NA Intermediate B - Regular Season (2026-08-14) 0.09; beat DadDick Esports at S58 NA Intermediate B - Regular Season (2026-08-12) 0.09; beat walkthemdown at S58 NA Intermediate B - Regular Season (2026-08-21) 0.06
+- Opponent Network drivers: beat walkthemdown at S58 NA Intermediate B - Regular Season (2026-08-21) 0.84; beat DeathMark E-Sports at S58 NA Intermediate B - Regular Season (2026-08-14) 0.79; beat DadDick Esports at S58 NA Intermediate B - Regular Season (2026-08-12) 0.78
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.0 |
+| SportsBetExpert | 6 | 2672.3 | +664.4 |
+| LAG Gaming | 8 | 2507.3 | +654.9 |
+| regain | 12 | 2256.1 | +653.1 |
+| M80 | 2 | 3081.4 | +650.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.6), shirtcockin (+0.8), Courage (+1.0), SixSevenZaZa (+1.7).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Benadryl Abusers (2026-04-22): expires in 4 days [Quality Wins 0.00]
+- S57 NA Intermediate Central - Regular Season vs AML (2026-05-06): expires in 18 days [Quality Wins 0.01, Opponent Network 0.12]
+- S57 NA Intermediate Central - Regular Season vs Mace Lindu Ruff Rebound (2026-05-15): expires in 27 days [Quality Wins 0.01, Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season vs Brick Layers (2026-05-20): expires in 32 days [Opponent Network 0.22]
+- S57 NA Intermediate Central - Regular Season vs Strafe (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.04, Opponent Network 0.23]
+- S57 NA Intermediate Central - Playoffs B (2026-05-29): expires in 41 days [Tier Exposure 0.28]
+
 #### Matches (26 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -49,6 +85,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-04-29 | Costco Family | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -20.6 | FlameReject, Topchess, pricefield, sEvenb22, sshrdl |
 | 2026-04-27 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -51.9 | FlameReject, PeCap2, Topchess, sEvenb22, sshrdl |
 | 2026-04-24 | FourStrokeGang | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -279.3 | FlameReject, Topchess, pricefield, sEvenb22, sshrdl |
-| 2026-04-22 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +241.0 | FlameReject, Topchess, pricefield, sEvenb22, sshrdl |
+| 2026-04-22 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +241.1 | FlameReject, Topchess, pricefield, sEvenb22, sshrdl |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -3,11 +3,11 @@ Team Name: Famas OP
 Roster: Ch3rrycs, Awsome, _burb, pecan, 81rd
 NARS Rank: 426 of 506
 
-Final Rating: 985.1
+Final Rating: 985.0
 Seeded Start: 1124.9
-H2H Adjustment: -139.8
+H2H Adjustment: -139.9
 
-Final Rating (985.1) = Seeded Start (1124.9) + H2H Adjustment (-139.8)
+Final Rating (985.0) = Seeded Start (1124.9) + H2H Adjustment (-139.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -19,6 +19,41 @@ seed_factor 0.018 = 0.25 x Tier Exposure (0.018) + 0.50 x Quality Wins (0.004) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.018 | 1124.9 | - |
+| +30 days | 0.003 | 1104.2 | -20.7 |
+| +60 days | 0.000 | 1100.0 | -24.9 |
+| +90 days | 0.000 | 1100.0 | -24.9 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.045 vs 0.214 average, gap -0.169). Matching that average is worth about 59.1 seed points.
+
+- Tier Exposure drivers: S57 NA Intermediate Central - Playoffs B (2026-06-01) 0.30; S57 NA Intermediate Central - Regular Season (2026-05-20) 0.22
+- Quality Wins drivers: beat The Sweepers at S57 NA Intermediate Central - Playoffs B (2026-05-27) 0.03; beat Benadryl Abusers at S57 NA Intermediate Central - Regular Season (2026-05-20) 0.02; beat Shaq Diesel at S57 NA Intermediate Central - Regular Season (2026-05-15) 0.01
+- Opponent Network drivers: beat The Sweepers at S57 NA Intermediate Central - Playoffs B (2026-05-27) 0.26; beat Benadryl Abusers at S57 NA Intermediate Central - Regular Season (2026-05-20) 0.22; beat Shaq Diesel at S57 NA Intermediate Central - Regular Season (2026-05-15) 0.18
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +664.9 |
+| regain | 12 | 2256.1 | +658.0 |
+| Zomblers | 22 | 2114.7 | +657.3 |
+| LAG Gaming | 8 | 2507.3 | +656.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.4).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs dogwater (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Intermediate Central - Regular Season vs Shaq Diesel (2026-05-15): expires in 27 days [Quality Wins 0.01, Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season vs Benadryl Abusers (2026-05-20): expires in 32 days [Tier Exposure 0.22, Quality Wins 0.02, Opponent Network 0.22]
+- S57 NA Intermediate Central - Playoffs B vs The Sweepers (2026-05-27): expires in 39 days [Quality Wins 0.03, Opponent Network 0.26]
+- S57 NA Intermediate Central - Playoffs B (2026-06-01): expires in 44 days [Tier Exposure 0.30]
+
 #### Matches (10 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -27,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-01 | Duality Zero | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -286.5 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
 | 2026-05-29 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -196.4 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
 | 2026-05-27 | The Sweepers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +334.3 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
-| 2026-05-20 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +255.1 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
+| 2026-05-20 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +255.2 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
 | 2026-05-15 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +284.0 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
 | 2026-05-13 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -0.6 | 81rd, Ch3rrycs, Hedge, _burb, pecan |
 | 2026-05-01 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -281.4 | 81rd, Awsome, Ch3rrycs, g1fted, pecan |

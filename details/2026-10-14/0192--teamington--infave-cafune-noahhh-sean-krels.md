@@ -4,20 +4,53 @@ Roster: infave, cafune, Noahhh, SEAN, Krels
 NARS Rank: 192 of 506
 
 Final Rating: 1498.1
-Seeded Start: 1368.9
-H2H Adjustment: +129.2
+Seeded Start: 1368.8
+H2H Adjustment: +129.3
 
-Final Rating (1498.1) = Seeded Start (1368.9) + H2H Adjustment (+129.2)
+Final Rating (1498.1) = Seeded Start (1368.8) + H2H Adjustment (+129.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.192 x 1400 = 1368.9
+                = 1100 + 0.192 x 1400 = 1368.8
 
 seed_factor 0.192 = 0.25 x Tier Exposure (0.124) + 0.50 x Quality Wins (0.056) + 0.25 x Opponent Network (0.532)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.192 | 1368.8 | - |
+| +30 days | 0.175 | 1345.0 | -23.8 |
+| +60 days | 0.157 | 1320.1 | -48.7 |
+| +90 days | 0.127 | 1277.6 | -91.2 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.056 vs 0.025 average, gap +0.031). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Main Central - Playoffs A (2026-09-06) 0.98; S58 NA Main A - Regular Season (2026-08-28) 0.90
+- Quality Wins drivers: beat Tractors at S59 NA Main A - Regular Season (2026-10-07) 0.20; beat ThirdSite at S58 NA Main A - Regular Season (2026-07-15) 0.14; beat Wiggle Peeks at S58 NA Main Central - Playoffs A (2026-09-06) 0.11
+- Opponent Network drivers: beat Tractors at S59 NA Main A - Regular Season (2026-10-07) 1.02; beat Wiggle Peeks at S58 NA Main Central - Playoffs A (2026-09-06) 0.98; beat TEMPR at S58 NA Main Central - Playoffs A (2026-09-02) 0.95
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +409.3 |
+| SportsBetExpert | 6 | 2672.3 | +407.9 |
+| M80 | 2 | 3081.4 | +400.7 |
+| LAG Gaming | 8 | 2507.3 | +399.4 |
+| Wildcard | 3 | 2911.9 | +397.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.25]
+- S57 NA Main Central - Playoffs (2026-06-04): expires in 47 days [Tier Exposure 0.39]
+- S58 NA Main A - Regular Season vs ThirdSite (2026-07-15): expires in 88 days [Quality Wins 0.14, Opponent Network 0.60]
 
 #### Matches (28 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -37,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +37.2 | Noahhh, SEAN, TOXIC_PATROL, blegh, infave |
 | 2026-07-29 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -302.7 | Krels, Noahhh, SEAN, TOXIC_PATROL, infave |
 | 2026-07-24 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.05 | 0.66 | +0.0 | --toasty, Krels, Noahhh, SEAN, infave |
-| 2026-07-17 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.05 | 0.62 | +134.0 | --toasty, Krels, OJISBAE, SEAN, infave |
+| 2026-07-17 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +134.0 | --toasty, Krels, OJISBAE, SEAN, infave |
 | 2026-07-15 | ThirdSite | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.14 | 0.60 | +0.6 | --toasty, Krels, Noahhh, SEAN, phamzyy |
 | 2026-06-04 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -104.4 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
 | 2026-05-31 | Skyline | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -140.0 | Krels, SEAN, cafune, infave, phamzyy |

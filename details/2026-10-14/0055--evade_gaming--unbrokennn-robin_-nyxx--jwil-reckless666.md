@@ -19,6 +19,42 @@ seed_factor 0.029 = 0.25 x Tier Exposure (0.013) + 0.50 x Quality Wins (0.002) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.029 | 1141.0 | - |
+| +30 days | 0.013 | 1117.6 | -23.4 |
+| +60 days | 0.000 | 1100.0 | -41.0 |
+| +90 days | 0.000 | 1100.0 | -41.0 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.100 vs 0.508 average, gap -0.408). Matching that average is worth about 142.8 seed points.
+
+- Tier Exposure drivers: S57 NA Open1-8 Central - Playoffs (2026-06-12) 0.37
+- Quality Wins drivers: beat Only Goys at S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.01; beat Calm Cocktails at S57 NA Open1-8 Central - Playoffs (2026-05-29) 0.01; beat Northern District at S57 NA Open1-8 Central - Playoffs (2026-06-10) 0.00
+- Opponent Network drivers: beat Northern District at S57 NA Open1-8 Central - Playoffs (2026-06-10) 0.36; beat 4fun at S57 NA Open1-8 Central - Playoffs (2026-06-05) 0.32; beat Only Goys at S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.31
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +650.0 |
+| M80 | 2 | 3081.4 | +645.9 |
+| Liquid | 1 | 3103.3 | +637.0 |
+| Wildcard | 3 | 2911.9 | +635.0 |
+| SportsBetExpert | 6 | 2672.3 | +629.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open1-8 Central - Playoffs vs Snail Trail (2026-05-27): expires in 39 days [Quality Wins 0.00, Opponent Network 0.26]
+- S57 NA Open1-8 Central - Playoffs vs Calm Cocktails (2026-05-29): expires in 41 days [Quality Wins 0.01, Opponent Network 0.28]
+- S57 NA Open1-8 Central - Playoffs vs Only Goys (2026-06-03): expires in 46 days [Quality Wins 0.01, Opponent Network 0.31]
+- S57 NA Open1-8 Central - Playoffs vs 4fun (2026-06-05): expires in 48 days [Quality Wins 0.00, Opponent Network 0.32]
+- S57 NA Open1-8 Central - Playoffs vs Northern District (2026-06-10): expires in 53 days [Quality Wins 0.00, Opponent Network 0.36]
+- S57 NA Open1-8 Central - Playoffs (2026-06-12): expires in 55 days [Tier Exposure 0.37]
+
 #### Matches (6 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

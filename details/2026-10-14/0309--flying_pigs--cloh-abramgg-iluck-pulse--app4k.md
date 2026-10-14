@@ -4,20 +4,55 @@ Roster: Cloh, AbramGG, iLuCk, PuLse-, app4k
 NARS Rank: 309 of 506
 
 Final Rating: 1250.5
-Seeded Start: 1313.4
-H2H Adjustment: -62.9
+Seeded Start: 1313.3
+H2H Adjustment: -62.8
 
-Final Rating (1250.5) = Seeded Start (1313.4) + H2H Adjustment (-62.9)
+Final Rating (1250.5) = Seeded Start (1313.3) + H2H Adjustment (-62.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.152 x 1400 = 1313.4
+                = 1100 + 0.152 x 1400 = 1313.3
 
 seed_factor 0.152 = 0.25 x Tier Exposure (0.083) + 0.50 x Quality Wins (0.042) + 0.25 x Opponent Network (0.442)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.152 | 1313.3 | - |
+| +30 days | 0.127 | 1277.8 | -35.6 |
+| +60 days | 0.107 | 1249.3 | -64.1 |
+| +90 days | 0.078 | 1208.6 | -104.8 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.083 vs 0.061 average, gap +0.022). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.94; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; S57 NA Intermediate Central - Playoffs B (2026-06-05) 0.32
+- Quality Wins drivers: beat Strafe at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.16; beat Costco Family at S58 NA Intermediate B - Regular Season (2026-08-28) 0.10; beat The Sweepers at S58 NA Intermediate B - Regular Season (2026-08-19) 0.10
+- Opponent Network drivers: beat Strafe at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.93; beat Costco Family at S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; beat innerFire at S58 NA Intermediate B - Regular Season (2026-08-21) 0.84
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +644.5 |
+| SportsBetExpert | 6 | 2672.3 | +643.7 |
+| LAG Gaming | 8 | 2507.3 | +633.7 |
+| M80 | 2 | 3081.4 | +630.4 |
+| regain | 12 | 2256.1 | +628.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.4), Courage (+0.4), SixSevenZaZa (+0.7).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Ninjas In Boxer (2026-05-20): expires in 32 days [Quality Wins 0.03]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs B vs Iron Horse (2026-05-29): expires in 41 days [Opponent Network 0.28]
+- S57 NA Intermediate Central - Playoffs B vs High-Tech Performance (2026-05-31): expires in 43 days [Quality Wins 0.02, Opponent Network 0.29]
+- S57 NA Intermediate Central - Playoffs B (2026-06-05): expires in 48 days [Tier Exposure 0.32]
 
 #### Matches (27 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -34,10 +69,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -41.7 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-08-13 | The Ohio Meat Wagon | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.07 | 0.78 | +138.8 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-08-05 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -7.5 | AbramGG, Cloh, KJewls, PuLse-, app4k |
-| 2026-07-29 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.06 | 0.68 | +132.5 | AbramGG, Cloh, KJewls, PuLse-, app4k |
+| 2026-07-29 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.06 | 0.68 | +132.6 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-07-24 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.07 | 0.65 | +328.4 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-07-17 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +121.8 | AbramGG, Cloh, KJewls, PuLse-, app4k |
-| 2026-07-15 | SixSevenZaZa | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -439.2 | AbramGG, Cloh, KJewls, PuLse-, app4k |
+| 2026-07-15 | SixSevenZaZa | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -439.3 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-06-05 | Epochal Esports | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -129.2 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
 | 2026-05-31 | High-Tech Performance | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.02 | 0.29 | +170.8 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
 | 2026-05-29 | Iron Horse | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +174.1 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
@@ -45,7 +80,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Costco Family | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -412.2 | Cloh, Fangcs, PuLse-, iLuCk, lil_ee |
 | 2026-05-20 | Ninjas In Boxer | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +337.1 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
 | 2026-05-15 | offBalance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +376.9 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
-| 2026-05-13 | strawberry poptarts | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -270.1 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
+| 2026-05-13 | strawberry poptarts | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -270.2 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
 | 2026-05-06 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +105.4 | Cloh, Fangcs, PuLse-, iLuCk, lil_ee |
 | 2026-05-01 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -374.5 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
 | 2026-04-29 | GoopT | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +140.9 | Cloh, PuLse-, app4k, iLuCk, lil_ee |

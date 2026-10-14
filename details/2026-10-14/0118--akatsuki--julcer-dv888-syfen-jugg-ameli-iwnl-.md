@@ -19,6 +19,40 @@ seed_factor 0.148 = 0.25 x Tier Exposure (0.050) + 0.50 x Quality Wins (0.041) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.148 | 1306.9 | - |
+| +30 days | 0.123 | 1271.8 | -35.0 |
+| +60 days | 0.099 | 1238.5 | -68.4 |
+| +90 days | 0.061 | 1185.5 | -121.3 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.050 vs 0.119 average, gap -0.069). Matching that average is worth about 24.1 seed points.
+
+- Tier Exposure drivers: S58 NA Main A - Regular Season (2026-08-28) 0.90; S57 NA Intermediate Central - Playoffs B (2026-06-03) 0.31; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat Team Amplus at S58 NA Main A - Regular Season (2026-08-19) 0.14; beat Dude Picks at S58 NA Main A - Regular Season (2026-08-12) 0.10; beat Read You Like a Kindle at S58 NA Main A - Regular Season (2026-08-05) 0.08
+- Opponent Network drivers: beat Les Ptis Jus at S58 NA Main A - Regular Season (2026-08-28) 0.90; beat Team Amplus at S58 NA Main A - Regular Season (2026-08-19) 0.84; beat Real Hustle Club at S58 NA Main A - Regular Season (2026-08-14) 0.81
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +660.5 |
+| SportsBetExpert | 6 | 2672.3 | +653.7 |
+| M80 | 2 | 3081.4 | +649.0 |
+| Wildcard | 3 | 2911.9 | +642.6 |
+| Liquid | 1 | 3103.3 | +639.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs B vs RunTheDamnBall (2026-05-27): expires in 39 days [Quality Wins 0.03]
+- S57 NA Intermediate Central - Playoffs B vs de_throne (2026-06-03): expires in 46 days [Tier Exposure 0.31, Quality Wins 0.03, Opponent Network 0.31]
+- S58 NA Main A - Regular Season vs Gregs New Cut (2026-07-15): expires in 88 days [Opponent Network 0.60]
+
 #### Matches (25 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -38,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -22.1 | JUlCER, ameli-iwnl-, dv888, jugg, syfen |
 | 2026-07-17 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.05 | 0.62 | +1.7 | JUlCER, ameli-iwnl-, dv888, jugg, syfen |
 | 2026-07-15 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.02 | 0.60 | +0.4 | JUlCER, ameli-iwnl-, dv888, jugg, syfen |
-| 2026-06-03 | de_throne | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.31 | +160.8 | JUlCER, ameli-iwnl-, dv888, jugg, syfen |
+| 2026-06-03 | de_throne | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.31 | +160.9 | JUlCER, ameli-iwnl-, dv888, jugg, syfen |
 | 2026-05-27 | RunTheDamnBall | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +1.3 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
 | 2026-05-22 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -5.0 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |
 | 2026-05-20 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -162.0 | FrostEminor, JUlCER, ameli-iwnl-, dv888, jugg |

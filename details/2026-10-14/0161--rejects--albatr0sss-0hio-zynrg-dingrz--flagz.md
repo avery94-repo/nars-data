@@ -19,6 +19,37 @@ seed_factor 0.196 = 0.25 x Tier Exposure (0.157) + 0.50 x Quality Wins (0.048) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.196 | 1373.9 | - |
+| +30 days | 0.178 | 1348.8 | -25.1 |
+| +60 days | 0.161 | 1324.8 | -49.1 |
+| +90 days | 0.131 | 1283.2 | -90.7 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.048 vs 0.029 average, gap +0.019). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: NSTLGA League | Ruby Conference (2026-08-27) 1.28; NA Revival (2026-09-27) 1.01; S58 NA Intermediate Central - Playoffs A (2026-09-15) 1.00
+- Quality Wins drivers: beat offBalance at S58 NA Intermediate Central - Playoffs A (2026-09-06) 0.11; beat Torii at S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.10; beat Goyim Gladiators at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.10
+- Opponent Network drivers: beat offBalance at S58 NA Intermediate Central - Playoffs A (2026-09-06) 0.94; beat Torii at S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.93; beat Goyim Gladiators at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.92
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +247.3 |
+| SportsBetExpert | 6 | 2672.3 | +246.5 |
+| M80 | 2 | 3081.4 | +242.1 |
+| LAG Gaming | 8 | 2507.3 | +241.4 |
+| Wildcard | 3 | 2911.9 | +240.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A (2026-06-04): expires in 47 days [Tier Exposure 0.33]
+
 #### Matches (28 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

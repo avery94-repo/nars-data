@@ -19,6 +19,34 @@ seed_factor 0.076 = 0.25 x Tier Exposure (0.034) + 0.50 x Quality Wins (0.013) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.076 | 1206.4 | - |
+| +30 days | 0.073 | 1201.6 | -4.8 |
+| +60 days | 0.071 | 1198.9 | -7.4 |
+| +90 days | 0.067 | 1193.7 | -12.7 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.245 vs 0.330 average, gap -0.085). Matching that average is worth about 29.8 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97
+- Quality Wins drivers: beat fiveB at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.07; beat PPWesports at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.06; beat T Shirt Material at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.04
+- Opponent Network drivers: beat Vibe Check at S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.96; beat fiveB at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94; beat T Shirt Material at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +600.2 |
+| SportsBetExpert | 6 | 2672.3 | +595.8 |
+| M80 | 2 | 3081.4 | +588.8 |
+| Wildcard | 3 | 2911.9 | +583.6 |
+| Liquid | 1 | 3103.3 | +580.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

@@ -19,6 +19,41 @@ seed_factor 0.075 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.010) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.075 | 1205.4 | - |
+| +30 days | 0.061 | 1185.1 | -20.3 |
+| +60 days | 0.054 | 1175.9 | -29.5 |
+| +90 days | 0.047 | 1166.3 | -39.1 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.010 vs 0.005 average, gap +0.005). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Intermediate Central - Playoffs B (2026-05-31) 0.29
+- Quality Wins drivers: beat Team TahMeow at S58 NA Intermediate A - Regular Season (2026-08-14) 0.06; beat GOMI dot CLUB at S58 NA Intermediate A - Regular Season (2026-08-26) 0.03; beat 37U Passion at S58 NA Intermediate A - Regular Season (2026-08-19) 0.03
+- Opponent Network drivers: beat GOMI dot CLUB at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat 37U Passion at S58 NA Intermediate A - Regular Season (2026-08-19) 0.82; beat Team TahMeow at S58 NA Intermediate A - Regular Season (2026-08-14) 0.79
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +544.4 |
+| SportsBetExpert | 6 | 2672.3 | +544.3 |
+| North Forge | 38 | 1971.1 | +543.5 |
+| Wanted Goons | 43 | 1933.1 | +542.8 |
+| Zomblers | 22 | 2114.7 | +542.0 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Iron Horse (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Intermediate Central - Regular Season vs katzwitgunz (2026-04-24): expires in 6 days [Quality Wins 0.00]
+- S57 NA Intermediate Central - Regular Season vs Spin da block (2026-05-01): expires in 13 days [Quality Wins 0.01, Opponent Network 0.09]
+- S57 NA Intermediate Central - Regular Season vs Emerald Isle (2026-05-06): expires in 18 days [Quality Wins 0.01, Opponent Network 0.12]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs B vs katzwitgunz (2026-05-29): expires in 41 days [Quality Wins 0.02, Opponent Network 0.28]
+- S57 NA Intermediate Central - Playoffs B (2026-05-31): expires in 43 days [Tier Exposure 0.29]
+
 #### Matches (25 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -30,7 +65,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.03 | 0.87 | +72.0 | CS2Blue, Panik__cs, Poll0-, ratballgary, rrexof |
 | 2026-08-21 | Team Deathgrip | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -90.6 | Culture, Panik__cs, Poll0-, ratballgary, rrexof |
 | 2026-08-19 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.03 | 0.82 | +66.1 | Culture, Panik__cs, Poll0-, ratballgary, rrexof |
-| 2026-08-14 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +171.1 | Beercules, CS2Blue, Poll0-, ratballgary, rrexof |
+| 2026-08-14 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +171.2 | Beercules, CS2Blue, Poll0-, ratballgary, rrexof |
 | 2026-08-12 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -31.5 | Beercules, CS2Blue, Poll0-, ratballgary, rrexof |
 | 2026-08-05 | Casipanther | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -122.2 | Beercules, CS2Blue, Poll0-, ratballgary, rrexof |
 | 2026-07-29 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -38.6 | Beercules, CS2Blue, Culture, Poll0-, ratballgary |
@@ -41,9 +76,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-27 | The Ohio Meat Wagon | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -0.5 | Beercules, CS2Blue, Culture, Poll0-, ratballgary, rrexof |
 | 2026-05-22 | GoonAssOldheads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -8.3 | Beercules, CS2Blue, Culture, ratballgary, rrexof |
 | 2026-05-20 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -26.1 | Beercules, CS2Blue, Culture, ratballgary, rrexof |
-| 2026-05-15 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -297.7 | Beercules, CS2Blue, Culture, TheWildTacoo, ratballgary |
+| 2026-05-15 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -297.8 | Beercules, CS2Blue, Culture, TheWildTacoo, ratballgary |
 | 2026-05-13 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -178.7 | Beercules, CS2Blue, Culture, ratballgary, rrexof |
-| 2026-05-08 | Kevin James Fan Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -341.6 | Beercules, CS2Blue, Culture, ratballgary, rrexof |
+| 2026-05-08 | Kevin James Fan Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -341.7 | Beercules, CS2Blue, Culture, ratballgary, rrexof |
 | 2026-05-06 | Emerald Isle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +285.7 | Beercules, CS2Blue, Culture, TheWildTacoo, ratballgary |
 | 2026-05-01 | Spin da block | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +198.9 | Beercules, CS2Blue, Culture, ratballgary, rrexof |
 | 2026-04-29 | Hack-A-Shaq | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -442.1 | Beercules, CS2Blue, Culture, ratballgary, rrexof |

@@ -19,6 +19,34 @@ seed_factor 0.053 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.008) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.053 | 1174.4 | - |
+| +30 days | 0.052 | 1173.2 | -1.3 |
+| +60 days | 0.052 | 1172.3 | -2.2 |
+| +90 days | 0.050 | 1170.7 | -3.8 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.127 vs 0.183 average, gap -0.056). Matching that average is worth about 19.6 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Open9-10 East - Playoffs B (2026-09-08) 0.99
+- Quality Wins drivers: beat STALLOONS BALLOONS at S58 NA Open9-10 East - Playoffs B (2026-09-02) 0.09; beat Employed at S58 NA Open9-10 East - Playoffs B (2026-09-08) 0.03
+- Opponent Network drivers: beat Employed at S58 NA Open9-10 East - Playoffs B (2026-09-08) 0.99; beat STALLOONS BALLOONS at S58 NA Open9-10 East - Playoffs B (2026-09-02) 0.95
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +414.2 |
+| SportsBetExpert | 6 | 2672.3 | +414.1 |
+| regain | 12 | 2256.1 | +409.8 |
+| Zomblers | 22 | 2114.7 | +409.3 |
+| LAG Gaming | 8 | 2507.3 | +408.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+1.0), shirtcockin (+1.4), Courage (+1.7).
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

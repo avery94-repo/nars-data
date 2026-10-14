@@ -19,6 +19,37 @@ seed_factor 0.177 = 0.25 x Tier Exposure (0.077) + 0.50 x Quality Wins (0.052) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.177 | 1347.2 | - |
+| +30 days | 0.158 | 1321.0 | -26.2 |
+| +60 days | 0.140 | 1296.1 | -51.1 |
+| +90 days | 0.109 | 1252.3 | -94.9 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.077 vs 0.088 average, gap -0.011). Matching that average is worth about 3.9 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs A (2026-09-15) 1.00; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs B (2026-06-05) 0.32
+- Quality Wins drivers: beat DUMBO at S58 NA Intermediate A - Regular Season (2026-08-28) 0.11; beat GoonAssOldheads at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.11; beat RunTheDamnBall at S58 NA Intermediate Central - Playoffs A (2026-09-03) 0.11
+- Opponent Network drivers: beat The Vicious Kitties at S58 NA Intermediate Central - Playoffs A (2026-09-06) 0.94; beat RunTheDamnBall at S58 NA Intermediate Central - Playoffs A (2026-09-03) 0.92; beat GoonAssOldheads at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.92
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +440.0 |
+| SportsBetExpert | 6 | 2672.3 | +438.0 |
+| M80 | 2 | 3081.4 | +431.1 |
+| Wildcard | 3 | 2911.9 | +427.7 |
+| LAG Gaming | 8 | 2507.3 | +427.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B (2026-06-05): expires in 48 days [Tier Exposure 0.32]
+
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -42,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.08 | 0.00 | +55.0 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-22 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +0.8 | -Tuna-, Coco-, framedHERO, hohozao, tdoy |
 | 2026-07-17 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.06 | 0.60 | +0.0 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
-| 2026-07-15 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.02 | 0.59 | +170.2 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
+| 2026-07-15 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.02 | 0.59 | +170.3 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-06-05 | Armored Talent | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.06 | 0.32 | +127.0 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |
 | 2026-05-29 | Zamgaa Anime Aimers | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +159.3 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |
 | 2026-05-28 | GodFather Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.01 | 0.27 | +117.7 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |

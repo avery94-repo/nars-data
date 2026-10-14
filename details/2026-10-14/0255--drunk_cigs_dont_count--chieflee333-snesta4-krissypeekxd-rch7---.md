@@ -19,6 +19,34 @@ seed_factor 0.093 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.021) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.093 | 1230.2 | - |
+| +30 days | 0.091 | 1227.8 | -2.4 |
+| +60 days | 0.091 | 1226.8 | -3.4 |
+| +90 days | 0.089 | 1224.5 | -5.7 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.259 vs 0.302 average, gap -0.043). Matching that average is worth about 15.0 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs B (2026-09-17) 1.04; S59 NA Intermediate A - Regular Season (2026-10-09) 1.00
+- Quality Wins drivers: beat Koi Pond at S58 NA Open9-10 East - Playoffs B (2026-09-10) 0.12; beat Drip or Drown at S58 NA Open9-10 East - Playoffs B (2026-09-17) 0.12; beat Adria eSports at S58 NA Open9-10 East - Playoffs B (2026-09-02) 0.07
+- Opponent Network drivers: beat Drip or Drown at S58 NA Open9-10 East - Playoffs B (2026-09-17) 1.04; beat Koi Pond at S58 NA Open9-10 East - Playoffs B (2026-09-10) 1.01; beat Brick Squad at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.97
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +239.9 |
+| SportsBetExpert | 6 | 2672.3 | +239.6 |
+| LAG Gaming | 8 | 2507.3 | +235.9 |
+| M80 | 2 | 3081.4 | +234.7 |
+| regain | 12 | 2256.1 | +234.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
+
 #### Matches (7 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

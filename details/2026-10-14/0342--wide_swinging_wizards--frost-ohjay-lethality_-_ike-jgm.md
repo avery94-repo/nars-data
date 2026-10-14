@@ -19,6 +19,44 @@ seed_factor 0.108 = 0.25 x Tier Exposure (0.050) + 0.50 x Quality Wins (0.029) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.108 | 1250.6 | - |
+| +30 days | 0.076 | 1206.6 | -44.0 |
+| +60 days | 0.054 | 1175.6 | -75.0 |
+| +90 days | 0.031 | 1143.2 | -107.4 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.050 vs 0.084 average, gap -0.034). Matching that average is worth about 11.9 seed points.
+
+- Tier Exposure drivers: S58 NA Main A - Regular Season (2026-08-21) 0.85; S57 NA Intermediate Central - Playoffs B (2026-06-08) 0.34; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat Tractors at S58 NA Main A - Regular Season (2026-08-14) 0.16; beat puggin4seb at S58 NA Main A - Regular Season (2026-08-12) 0.06; beat Distinguished Ducks at S58 NA Main A - Regular Season (2026-07-29) 0.06
+- Opponent Network drivers: beat Tractors at S58 NA Main A - Regular Season (2026-08-14) 0.81; beat puggin4seb at S58 NA Main A - Regular Season (2026-08-12) 0.79; beat Baja Blasters at S58 NA Main A - Regular Season (2026-07-31) 0.71
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +664.9 |
+| SportsBetExpert | 6 | 2672.3 | +664.2 |
+| LAG Gaming | 8 | 2507.3 | +654.5 |
+| regain | 12 | 2256.1 | +651.6 |
+| M80 | 2 | 3081.4 | +650.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.8), SixSevenZaZa (+1.3).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs GoonAssOldheads (2026-05-08): expires in 20 days [Quality Wins 0.02]
+- S57 NA Intermediate Central - Regular Season vs Solbound (2026-05-13): expires in 25 days [Opponent Network 0.17]
+- S57 NA Intermediate Central - Regular Season vs Diamond Mental (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.02, Opponent Network 0.23]
+- S57 NA Intermediate Central - Playoffs B vs CounterStreakrs (2026-05-27): expires in 39 days [Opponent Network 0.26]
+- S57 NA Intermediate Central - Playoffs B vs GoonAssOldheads (2026-05-31): expires in 43 days [Quality Wins 0.03]
+- S57 NA Intermediate Central - Playoffs B vs Aetheris (2026-06-05): expires in 48 days [Quality Wins 0.03, Opponent Network 0.32]
+- S57 NA Intermediate Central - Playoffs B vs The Ohio Meat Wagon (2026-06-08): expires in 51 days [Tier Exposure 0.34, Quality Wins 0.03, Opponent Network 0.34]
+- S58 NA Main A - Regular Season vs SNOWPLOWERS (2026-07-15): expires in 88 days [Quality Wins 0.02, Opponent Network 0.60]
+
 #### Matches (24 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -35,17 +73,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -255.4 | Frost, JGM, Ohjay, SaxyLlama, _ike |
 | 2026-07-17 | TEMPR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -294.2 | Frost, JGM, Lethality_, Ohjay, SaxyLlama |
 | 2026-07-15 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.02 | 0.60 | +7.6 | Frost, JGM, Lethality_, Ohjay, SaxyLlama, _ike |
-| 2026-06-08 | The Ohio Meat Wagon | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.03 | 0.34 | +122.4 | Frost, JGM, Lethality_, Ohjay, _ike |
+| 2026-06-08 | The Ohio Meat Wagon | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.03 | 0.34 | +122.5 | Frost, JGM, Lethality_, Ohjay, _ike |
 | 2026-06-05 | Aetheris | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.32 | +20.7 | Frost, JGM, Lethality_, Ohjay, _ike |
 | 2026-05-31 | GoonAssOldheads | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.03 | 0.00 | +156.1 | Frost, JGM, Lethality_, Ohjay, baker_- |
-| 2026-05-29 | Florida Man | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -310.7 | Frost, JGM, Ohjay, _ike, asani |
+| 2026-05-29 | Florida Man | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -310.8 | Frost, JGM, Ohjay, _ike, asani |
 | 2026-05-27 | CounterStreakrs | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +4.2 | Frost, JGM, Lethality_, Ohjay, _ike |
 | 2026-05-22 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +165.4 | Frost, JGM, Lethality_, Ohjay, _ike |
 | 2026-05-20 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -323.1 | BIaze_, Frost, JGM, Ohjay, _ike |
 | 2026-05-13 | Solbound | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +303.6 | BIaze_, Frost, JGM, Ohjay, _ike |
 | 2026-05-08 | GoonAssOldheads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +344.0 | Frost, JGM, Lethality_, Ohjay, _ike |
 | 2026-05-06 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -205.6 | BIaze_, Frost, JGM, Ohjay, _ike |
-| 2026-05-01 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -145.7 | BIaze_, Frost, Lethality_, Ohjay, _ike |
+| 2026-05-01 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -145.6 | BIaze_, Frost, Lethality_, Ohjay, _ike |
 | 2026-04-29 | The Ohio Meat Wagon | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.00 | +8.1 | BIaze_, Frost, Lethality_, Ohjay, _ike |
 | 2026-04-22 | 91AshLiu | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +253.1 | BIaze_, Frost, Lethality_, Ohjay, _ike |
 

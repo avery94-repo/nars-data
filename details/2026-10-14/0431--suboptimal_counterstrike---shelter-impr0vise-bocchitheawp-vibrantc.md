@@ -19,6 +19,34 @@ seed_factor 0.035 = 0.25 x Tier Exposure (0.067) + 0.50 x Quality Wins (0.004) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.035 | 1149.3 | - |
+| +30 days | 0.035 | 1149.1 | -0.2 |
+| +60 days | 0.035 | 1149.4 | +0.1 |
+| +90 days | 0.036 | 1150.1 | +0.8 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.065 vs 0.134 average, gap -0.069). Matching that average is worth about 24.2 seed points.
+
+- Tier Exposure drivers: Brace For Impact: NA Women's Cash Cup September 2026 (2026-09-20) 1.00; S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.92
+- Quality Wins drivers: beat Belladonna at Brace For Impact: NA Women's Cash Cup September 2026 (2026-09-20) 0.07
+- Opponent Network drivers: beat Belladonna at Brace For Impact: NA Women's Cash Cup September 2026 (2026-09-20) 1.00
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +483.5 |
+| SportsBetExpert | 6 | 2672.3 | +483.4 |
+| Zomblers | 22 | 2114.7 | +479.3 |
+| regain | 12 | 2256.1 | +479.0 |
+| North Forge | 38 | 1971.1 | +478.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.2).
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

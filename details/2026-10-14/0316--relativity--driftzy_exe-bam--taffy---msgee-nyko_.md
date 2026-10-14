@@ -19,6 +19,43 @@ seed_factor 0.014 = 0.25 x Tier Exposure (0.008) + 0.50 x Quality Wins (0.004) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.014 | 1119.1 | - |
+| +30 days | 0.000 | 1100.4 | -18.6 |
+| +60 days | 0.000 | 1100.0 | -19.1 |
+| +90 days | 0.000 | 1100.0 | -19.1 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.178 average, gap -0.139). Matching that average is worth about 48.6 seed points.
+
+- Tier Exposure drivers: S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat Midwest Farmers at S57 NA Intermediate Central - Regular Season (2026-05-14) 0.02; beat WaterDrinkers at S57 NA Intermediate Central - Regular Season (2026-05-08) 0.02; beat de_throne at S57 NA Intermediate Central - Regular Season (2026-05-06) 0.01
+- Opponent Network drivers: beat Midwest Farmers at S57 NA Intermediate Central - Regular Season (2026-05-14) 0.18; beat WaterDrinkers at S57 NA Intermediate Central - Regular Season (2026-05-08) 0.14; beat de_throne at S57 NA Intermediate Central - Regular Season (2026-05-06) 0.12
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +664.8 |
+| SportsBetExpert | 6 | 2672.3 | +664.0 |
+| LAG Gaming | 8 | 2507.3 | +653.7 |
+| M80 | 2 | 3081.4 | +650.2 |
+| regain | 12 | 2256.1 | +648.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.4), Courage (+0.5), SixSevenZaZa (+0.8).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Power of Friendship (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Intermediate Central - Regular Season vs Saltcrew (2026-04-24): expires in 6 days [Quality Wins 0.01, Opponent Network 0.04]
+- S57 NA Intermediate Central - Regular Season vs Qinorhwat (2026-05-01): expires in 13 days [Quality Wins 0.00, Opponent Network 0.09]
+- S57 NA Intermediate Central - Regular Season vs de_throne (2026-05-06): expires in 18 days [Quality Wins 0.01, Opponent Network 0.12]
+- S57 NA Intermediate Central - Regular Season vs WaterDrinkers (2026-05-08): expires in 20 days [Quality Wins 0.02, Opponent Network 0.14]
+- S57 NA Intermediate Central - Regular Season vs Midwest Farmers (2026-05-14): expires in 26 days [Quality Wins 0.02, Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+
 #### Matches (10 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -33,6 +70,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | Qinorhwat | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +271.6 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-04-29 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -213.2 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-04-24 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.01 | 0.04 | +274.1 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
-| 2026-04-22 | Power of Friendship | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +233.6 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
+| 2026-04-22 | Power of Friendship | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +233.7 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

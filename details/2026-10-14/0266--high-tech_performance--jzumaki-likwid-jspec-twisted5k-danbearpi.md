@@ -13,11 +13,46 @@ Final Rating (1356.1) = Seeded Start (1299.8) + H2H Adjustment (+56.3)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.143 x 1400 = 1299.8
 
-seed_factor 0.143 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.033) + 0.25 x Opponent Network (0.420)
+seed_factor 0.143 = 0.25 x Tier Exposure (0.083) + 0.50 x Quality Wins (0.033) + 0.25 x Opponent Network (0.420)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.143 | 1299.8 | - |
+| +30 days | 0.118 | 1265.3 | -34.5 |
+| +60 days | 0.100 | 1239.3 | -60.5 |
+| +90 days | 0.070 | 1197.5 | -102.3 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.083 vs 0.091 average, gap -0.008). Matching that average is worth about 2.8 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs B (2026-09-12) 0.98; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; S57 NA Intermediate Central - Playoffs B (2026-05-31) 0.29
+- Quality Wins drivers: beat Midwest Farmers at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.11; beat Flow Esports at S58 NA Intermediate B - Regular Season (2026-07-24) 0.07; beat The Ohio Meat Wagon at S58 NA Intermediate B - Regular Season (2026-08-21) 0.07
+- Opponent Network drivers: beat Anchors Anonymous at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.93; beat Midwest Farmers at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.92; beat The Ohio Meat Wagon at S58 NA Intermediate B - Regular Season (2026-08-21) 0.84
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +500.7 |
+| SportsBetExpert | 6 | 2672.3 | +499.8 |
+| LAG Gaming | 8 | 2507.3 | +491.4 |
+| M80 | 2 | 3081.4 | +489.9 |
+| Wildcard | 3 | 2911.9 | +486.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs AURA Esports (2026-05-08): expires in 20 days [Quality Wins 0.02, Opponent Network 0.14]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs B vs Muncle (2026-05-27): expires in 39 days [Quality Wins 0.02, Opponent Network 0.26]
+- S57 NA Intermediate Central - Playoffs B (2026-05-31): expires in 43 days [Tier Exposure 0.29]
+- S58 NA Intermediate B - Regular Season vs de_throne (2026-07-15): expires in 88 days [Quality Wins 0.05, Opponent Network 0.59]
 
 #### Matches (28 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -32,7 +67,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -112.2 | Twisted5k, danbearpig, jzumaki, likwid, sw1rve |
 | 2026-08-21 | The Ohio Meat Wagon | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +70.6 | danbearpig, jspec, jzumaki, likwid, sw1rve |
 | 2026-08-19 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -9.6 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
-| 2026-08-14 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -115.0 | JackY_b, Twisted5k, jspec, jzumaki, sw1rve |
+| 2026-08-14 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -115.1 | JackY_b, Twisted5k, jspec, jzumaki, sw1rve |
 | 2026-08-07 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -37.0 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-08-05 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.06 | 0.73 | +20.4 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-07-31 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +207.8 | Twisted5k, danbearpig, jzumaki, likwid, prophet03 |
@@ -43,12 +78,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +303.8 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-31 | FLying PiGs | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -173.3 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-29 | SwagMonkeyHats | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -167.5 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
-| 2026-05-27 | Muncle | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +198.5 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
+| 2026-05-27 | Muncle | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +198.6 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-22 | Top One Percent | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -13.3 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-20 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -3.5 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
-| 2026-05-15 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -200.0 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
+| 2026-05-15 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -200.1 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-08 | AURA Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +164.7 | bpbt, danbearpig, jspec, jzumaki, sw1rve |
-| 2026-05-06 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +193.5 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
+| 2026-05-06 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +193.6 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-01 | Midwest Farmers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -4.1 | JackY_b, danbearpig, jspec, jzumaki, likwid |
 | 2026-04-29 | Duality Zero | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -21.8 | JackY_b, Twisted5k, danbearpig, jspec, jzumaki |
 | 2026-04-24 | STFDYSAB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -322.7 | JackY_b, danbearpig, jspec, jzumaki, likwid |

@@ -19,6 +19,41 @@ seed_factor 0.400 = 0.25 x Tier Exposure (0.571) + 0.50 x Quality Wins (0.226) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.400 | 1659.4 | - |
+| +30 days | 0.347 | 1586.2 | -73.2 |
+| +60 days | 0.293 | 1509.9 | -149.6 |
+| +90 days | 0.200 | 1380.2 | -279.3 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.575 vs 0.612 average, gap -0.037). Matching that average is worth about 12.9 seed points.
+
+- Tier Exposure drivers: S58 NA Advanced Central - Playoffs (2026-09-05) 1.45; S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; Esports Nations Cup 2026: South America Qualifier (2026-07-17) 0.88
+- Quality Wins drivers: beat GUARA at VRS-tracked 2026-08 (2026-08-25) 0.81; beat VASCO at VRS-tracked 2026-07 (2026-07-17) 0.66; beat VASCO at VRS-tracked 2026-06 (2026-06-30) 0.54
+- Opponent Network drivers: beat dice at S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; beat GRIT at S58 NA Advanced Central - Regular Season (2026-08-26) 1.26; beat Omen Esports at S58 NA Advanced Central - Regular Season (2026-08-21) 1.21
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +362.7 |
+| SportsBetExpert | 6 | 2672.3 | +357.8 |
+| M80 | 2 | 3081.4 | +356.9 |
+| Wildcard | 3 | 2911.9 | +353.1 |
+| Liquid | 1 | 3103.3 | +352.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0).
+
+Seed inputs expiring within 90 days:
+- VRS-tracked 2026-05 vs CRASHERS (2026-05-16): expires in 28 days [Quality Wins 0.15]
+- VRS-tracked 2026-06 vs VASCO (2026-06-30): expires in 73 days [Quality Wins 0.54]
+- VRS-tracked 2026-07 (2026-07-15): expires in 88 days [Tier Exposure 0.94]
+- S58 NA Advanced Central - Regular Season vs Celestial Esports (2026-07-15): expires in 88 days [Quality Wins 0.25, Opponent Network 0.86]
+- VRS-tracked 2026-07 (2026-07-16): expires in 89 days [Tier Exposure 0.95]
+
 #### Matches (33 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

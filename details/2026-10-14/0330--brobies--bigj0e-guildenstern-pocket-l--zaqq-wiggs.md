@@ -19,6 +19,34 @@ seed_factor 0.051 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.007) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.051 | 1171.0 | - |
+| +30 days | 0.050 | 1169.8 | -1.2 |
+| +60 days | 0.049 | 1168.8 | -2.2 |
+| +90 days | 0.048 | 1167.4 | -3.6 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.121 vs 0.173 average, gap -0.052). Matching that average is worth about 18.2 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97
+- Quality Wins drivers: beat Knox Esports at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.07; beat Will of Dih at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.04
+- Opponent Network drivers: beat Knox Esports at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93; beat Will of Dih at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +202.6 |
+| SportsBetExpert | 6 | 2672.3 | +202.5 |
+| regain | 12 | 2256.1 | +199.9 |
+| LAG Gaming | 8 | 2507.3 | +199.7 |
+| Zomblers | 22 | 2114.7 | +199.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.3).
+
 #### Matches (6 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

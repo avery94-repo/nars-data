@@ -19,6 +19,37 @@ seed_factor 0.221 = 0.25 x Tier Exposure (0.159) + 0.50 x Quality Wins (0.077) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.221 | 1409.7 | - |
+| +30 days | 0.198 | 1377.1 | -32.7 |
+| +60 days | 0.179 | 1350.6 | -59.2 |
+| +90 days | 0.144 | 1302.0 | -107.7 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.077 vs 0.050 average, gap +0.027). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-11) 1.30; NSTLGA League | Sapphire Conference (2026-08-30) 1.08; S58 NA Main Central - Playoffs A (2026-09-12) 1.02
+- Quality Wins drivers: beat Skyline at S58 NA Main A - Regular Season (2026-08-19) 0.29; beat Asoka at S58 NA Main A - Regular Season (2026-08-26) 0.19; beat Demolition at Group Stage - CROSSFIRE Season 6 (2026-09-08) 0.19
+- Opponent Network drivers: beat Demolition at Group Stage - CROSSFIRE Season 6 (2026-09-08) 1.27; beat BONK at S58 NA Main Central - Playoffs A (2026-09-10) 1.00; beat teamington at S58 NA Main Central - Playoffs A (2026-09-04) 0.96
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +476.5 |
+| SportsBetExpert | 6 | 2672.3 | +473.2 |
+| M80 | 2 | 3081.4 | +467.4 |
+| Wildcard | 3 | 2911.9 | +463.4 |
+| Liquid | 1 | 3103.3 | +460.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.25]
+
 #### Matches (32 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -32,7 +63,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Asoka | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -59.3 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-09-04 | teamington | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.12 | 0.96 | +15.8 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-08-30 | Club 333 | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.20 | 1.00 | 1.08 | 0.00 | 0.00 | -18.2 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
-| 2026-08-27 | Omen Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.00 | 0.00 | -128.0 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
+| 2026-08-27 | Omen Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.00 | 0.00 | -128.1 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-26 | Asoka | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.19 | 0.89 | +51.8 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-20 | Desi Boyz | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -34.5 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-20 | Locally Hated | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -139.3 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
@@ -45,14 +76,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Kairo | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.09 | 0.71 | +221.3 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-07-29 | Quality | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.05 | 0.70 | +148.7 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-07-24 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.05 | 0.66 | +87.7 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
-| 2026-07-22 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +144.6 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
-| 2026-07-17 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.03 | 0.62 | +269.4 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
+| 2026-07-22 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +144.7 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
+| 2026-07-17 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.03 | 0.61 | +269.4 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-05-20 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -222.4 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-15 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -262.3 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-13 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +127.5 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-08 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +1.5 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-06 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +1.0 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
-| 2026-05-01 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +400.0 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
+| 2026-05-01 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +400.1 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-04-29 | Another Day in Paradise | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -41.6 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-04-23 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -31.5 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-04-22 | three11 | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -355.7 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |

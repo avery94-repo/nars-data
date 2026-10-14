@@ -3,11 +3,11 @@ Team Name: firesale
 Roster: replacedcar, DeSerT_PunK, getmeout, Fortune_-, RoughFire
 NARS Rank: 82 of 506
 
-Final Rating: 1768.1
+Final Rating: 1768.2
 Seeded Start: 1445.2
-H2H Adjustment: +322.9
+H2H Adjustment: +323.0
 
-Final Rating (1768.1) = Seeded Start (1445.2) + H2H Adjustment (+322.9)
+Final Rating (1768.2) = Seeded Start (1445.2) + H2H Adjustment (+323.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,40 @@ seed_factor 0.247 = 0.25 x Tier Exposure (0.106) + 0.50 x Quality Wins (0.152) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.247 | 1445.2 | - |
+| +30 days | 0.215 | 1401.7 | -43.5 |
+| +60 days | 0.195 | 1372.5 | -72.6 |
+| +90 days | 0.162 | 1327.5 | -117.7 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.106 vs 0.192 average, gap -0.086). Matching that average is worth about 30.1 seed points.
+
+- Tier Exposure drivers: S59 NA Advanced Central - Regular Season (2026-10-07) 1.43; S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; S57 NA Advanced Central - Regular Season (2026-05-22) 0.31
+- Quality Wins drivers: beat Olympus at S59 NA Advanced Central - Regular Season (2026-10-09) 0.92; beat New Legends at S58 NA Advanced Central - Regular Season (2026-07-17) 0.56; beat Celestial Esports at S58 NA Advanced Central - Regular Season (2026-08-21) 0.36
+- Opponent Network drivers: beat Olympus at S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; beat Aspyre at S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; beat SOLA at S58 NA Advanced Central - Regular Season (2026-08-26) 1.26
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +312.5 |
+| SportsBetExpert | 6 | 2672.3 | +308.9 |
+| M80 | 2 | 3081.4 | +307.3 |
+| Wildcard | 3 | 2911.9 | +304.2 |
+| Liquid | 1 | 3103.3 | +303.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs Team Hyper (2026-04-29): expires in 11 days [Opponent Network 0.10]
+- S57 NA Advanced Central - Regular Season vs Iowa Stormboar (2026-05-13): expires in 25 days [Quality Wins 0.16, Opponent Network 0.23]
+- S57 NA Advanced Central - Regular Season vs Aspyre (2026-05-15): expires in 27 days [Quality Wins 0.02]
+- S57 NA Advanced Central - Regular Season vs Solar Gravity (2026-05-22): expires in 34 days [Tier Exposure 0.31, Quality Wins 0.01, Opponent Network 0.31]
 
 #### Matches (23 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -39,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.56 | 0.87 | +246.8 | DeSerT_PunK, Fortune_-, RoughFire, SaberCat, replacedcar |
 | 2026-05-22 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.01 | 0.31 | +2.7 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
 | 2026-05-21 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -234.6 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
-| 2026-05-15 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.02 | 0.00 | +85.6 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
+| 2026-05-15 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.02 | 0.00 | +85.5 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
 | 2026-05-14 | Holy Squid Empire | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -8.8 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
 | 2026-05-13 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -7.4 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |
 | 2026-05-13 | Iowa Stormboar | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.16 | 0.23 | +216.6 | DeSerT_PunK, Fortune_-, RoughFire, getmeout, replacedcar |

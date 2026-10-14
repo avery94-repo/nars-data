@@ -19,6 +19,37 @@ seed_factor 0.044 = 0.25 x Tier Exposure (0.044) + 0.50 x Quality Wins (0.005) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.044 | 1161.6 | - |
+| +30 days | 0.040 | 1156.4 | -5.2 |
+| +60 days | 0.038 | 1153.1 | -8.5 |
+| +90 days | 0.035 | 1149.5 | -12.1 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.121 vs 0.270 average, gap -0.149). Matching that average is worth about 52.2 seed points.
+
+- Tier Exposure drivers: S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-02) 0.30
+- Quality Wins drivers: beat antiGrav at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.06; beat team leader must 1v9 or L at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.03
+- Opponent Network drivers: beat team leader must 1v9 or L at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.93; beat antiGrav at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.92
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +664.9 |
+| SportsBetExpert | 6 | 2672.3 | +664.3 |
+| LAG Gaming | 8 | 2507.3 | +654.5 |
+| regain | 12 | 2256.1 | +652.0 |
+| M80 | 2 | 3081.4 | +650.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.5), shirtcockin (+0.7), Courage (+0.8), SixSevenZaZa (+1.3).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B (2026-06-02): expires in 45 days [Tier Exposure 0.30]
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

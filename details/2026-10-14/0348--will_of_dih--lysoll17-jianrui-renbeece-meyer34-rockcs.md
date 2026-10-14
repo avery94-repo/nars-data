@@ -19,6 +19,41 @@ seed_factor 0.064 = 0.25 x Tier Exposure (0.046) + 0.50 x Quality Wins (0.005) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.064 | 1190.0 | - |
+| +30 days | 0.049 | 1168.3 | -21.7 |
+| +60 days | 0.039 | 1154.4 | -35.6 |
+| +90 days | 0.037 | 1152.1 | -37.9 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.046 vs 0.055 average, gap -0.009). Matching that average is worth about 3.2 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97; S57 NA Open1-8 Central - Playoffs (2026-06-10) 0.36
+- Quality Wins drivers: beat Monstars at S58 NA Open9-10 East - Playoffs A (2026-09-09) 0.03; beat The Wizards at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.03; beat Greasy Grumps at S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.01
+- Opponent Network drivers: beat Monstars at S58 NA Open9-10 East - Playoffs A (2026-09-09) 0.96; beat The Wizards at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93; beat Cheek Clappers at S57 NA Open1-8 Central - Playoffs (2026-06-05) 0.32
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +644.4 |
+| SportsBetExpert | 6 | 2672.3 | +643.8 |
+| LAG Gaming | 8 | 2507.3 | +634.5 |
+| regain | 12 | 2256.1 | +632.3 |
+| M80 | 2 | 3081.4 | +630.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.5), shirtcockin (+0.7), Courage (+0.8), SixSevenZaZa (+1.4).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open1-8 Central - Playoffs vs Super Puggers (2026-05-27): expires in 39 days [Quality Wins 0.00, Opponent Network 0.26]
+- S57 NA Open1-8 Central - Playoffs vs FriendlyFire (2026-05-29): expires in 41 days [Quality Wins 0.00, Opponent Network 0.28]
+- S57 NA Open1-8 Central - Playoffs vs Greasy Grumps (2026-06-03): expires in 46 days [Quality Wins 0.01, Opponent Network 0.31]
+- S57 NA Open1-8 Central - Playoffs vs Cheek Clappers (2026-06-05): expires in 48 days [Quality Wins 0.00, Opponent Network 0.32]
+- S57 NA Open1-8 Central - Playoffs (2026-06-10): expires in 53 days [Tier Exposure 0.36]
+
 #### Matches (10 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

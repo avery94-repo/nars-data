@@ -4,20 +4,52 @@ Roster: Pluto101, Momo, taqi, shooterR-, mason
 NARS Rank: 11 of 506
 
 Final Rating: 2332.4
-Seeded Start: 2313.7
-H2H Adjustment: +18.7
+Seeded Start: 2313.6
+H2H Adjustment: +18.8
 
-Final Rating (2332.4) = Seeded Start (2313.7) + H2H Adjustment (+18.7)
+Final Rating (2332.4) = Seeded Start (2313.6) + H2H Adjustment (+18.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.867 x 1400 = 2313.7
+                = 1100 + 0.867 x 1400 = 2313.6
 
 seed_factor 0.867 = 0.25 x Tier Exposure (0.846) + 0.50 x Quality Wins (0.860) + 0.25 x Opponent Network (0.901)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.867 | 2313.6 | - |
+| +30 days | 0.808 | 2231.1 | -82.5 |
+| +60 days | 0.773 | 2182.5 | -131.1 |
+| +90 days | 0.713 | 2097.6 | -216.0 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.846 vs 0.971 average, gap -0.125). Matching that average is worth about 43.8 seed points.
+
+- Tier Exposure drivers: S58 NA Advanced Central - Playoffs (2026-09-19) 1.55; NSTLGA League S2 | Stage 2 Swiss (2026-09-07) 1.51; NSTLGA League S2 | RD3 1-1 Games (2026-09-06) 1.50
+- Quality Wins drivers: beat Overtake Sector at VRS-tracked 2026-09 (2026-09-18) 1.60; beat Overtake Sector at S58 NA Advanced Central - Playoffs (2026-09-19) 1.55; beat Wanted Goons at NSTLGA League S2 | Stage 2 Swiss (2026-09-06) 1.50
+- Opponent Network drivers: beat Overtake Sector at S58 NA Advanced Central - Playoffs (2026-09-19) 1.55; beat Wanted Goons at NSTLGA League S2 | Stage 2 Swiss (2026-09-06) 1.50; beat Chicken Coop at NSTLGA League S2 | Stage 2 Swiss (2026-09-04) 1.48
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +236.2 |
+| Liquid | 1 | 3103.3 | +233.6 |
+| Wildcard | 3 | 2911.9 | +221.5 |
+| NRG | 4 | 2836.4 | +219.5 |
+| Voca | 5 | 2796.5 | +202.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Florida Man (+0.0), PPWesports (+0.0), RunTheDamnBall (+0.0), DeathMark E-Sports (+0.0), RH Help Desk (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.31]
+- S57 NA Advanced Central - Playoffs (2026-06-09): expires in 52 days [Tier Exposure 0.52]
 
 #### Matches (58 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -31,7 +63,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | Marsborne | L |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -41.2 | core 3/5 |
 | 2026-09-11 | Zomblers | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.98 | 1.55 | 1.00 | 1.52 | 1.33 | 0.00 | +19.1 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-09-10 | Zomblers | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 1.36 | 0.00 | +23.6 | core 3/5 |
-| 2026-09-07 | Without a Roof | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.52 | 0.00 | 0.00 | -24.6 | Momo, Pluto101, mason, shooterR-, taqi |
+| 2026-09-07 | Without a Roof | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -24.6 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-09-06 | LAG Gaming | L | 1-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -7.7 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-09-06 | Overtake Sector | L |  | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 0.00 | 0.00 | -31.7 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-09-06 | Wanted Goons | W |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.50 | 1.50 | 1.50 | +22.5 | Momo, Pluto101, mason, shooterR-, taqi |
@@ -43,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-03 | Beyond Limits | L |  | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.54 | 1.00 | 1.42 | 0.00 | 0.00 | -55.7 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-09-03 | Olympus | W | 2-0 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.54 | 1.00 | 1.42 | 0.92 | 1.42 | +37.3 | Momo, Pluto101, shooterR-, taqi, xZain |
 | 2026-09-03 | academy 4 gifted children | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.92 | 1.55 | 1.00 | 1.43 | 0.44 | 1.43 | +0.6 | Momo, Pluto101, mason, shooterR-, taqi |
-| 2026-09-03 | Chicken Coop | W |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.48 | 1.32 | 0.00 | +33.8 | core 3/5 |
+| 2026-09-03 | Chicken Coop | W |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 1.32 | 0.00 | +33.8 | core 3/5 |
 | 2026-09-02 | Beyond Limits | L | 1-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.54 | 1.00 | 1.41 | 0.00 | 0.00 | -59.3 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-09-02 | Olympus | W | 2-1 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.54 | 1.00 | 1.41 | 0.91 | 0.00 | +53.5 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-30 | regain | W |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.43 | 1.13 | 1.43 | +15.6 | core 3/5 |
@@ -59,11 +91,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-22 | Club 333 | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.20 | 1.00 | 1.01 | 0.00 | 0.00 | -8.5 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-21 | Zomblers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 1.06 | 1.21 | +79.1 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-20 | Wolves | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.16 | 0.99 | +34.9 | Momo, Pluto101, mason, shooterR-, taqi |
-| 2026-08-19 | Brahmas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.20 | 0.28 | 1.20 | +29.7 | Momo, Pluto101, mason, shooterR-, taqi |
+| 2026-08-19 | Brahmas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.28 | 1.19 | +29.7 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-19 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -115.2 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-10 | Omen Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.76 | 1.20 | 1.00 | 0.91 | 0.31 | 0.91 | +30.6 | Calix, Momo, Pluto101, shooterR-, taqi |
 | 2026-08-07 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.00 | 0.00 | -47.1 | Calix, Momo, Pluto101, shooterR-, taqi |
-| 2026-08-06 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.07 | 0.39 | 1.07 | +24.9 | Calix, Momo, Pluto101, shooterR-, taqi |
+| 2026-08-06 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.07 | 0.39 | 1.07 | +24.8 | Calix, Momo, Pluto101, shooterR-, taqi |
 | 2026-08-05 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -1.9 | Calix, Momo, Pluto101, shooterR-, taqi |
 | 2026-08-04 | Phantom Sense | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.45 | 1.00 | 1.05 | 0.36 | 1.05 | +1.5 | Calix, Momo, Pluto101, shooterR-, taqi |
 | 2026-08-04 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.45 | 1.00 | 1.05 | 0.18 | 1.05 | +308.3 | Calix, Momo, Pluto101, shooterR-, taqi |
@@ -77,7 +109,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -5.8 | Momo, Pluto101, shooterR-, taqi, xZain |
 | 2026-05-20 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.05 | 0.29 | +72.8 | Momo, Pluto101, shooterR-, taqi, xZain |
 | 2026-05-19 | North Forge | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -378.0 | Momo, Pluto101, shooterR-, taqi, xZain |
-| 2026-05-15 | EMPIRE | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.20 | 0.25 | +203.6 | Momo, Pluto101, shooterR-, taqi, xZain |
+| 2026-05-15 | EMPIRE | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.20 | 0.25 | +203.7 | Momo, Pluto101, shooterR-, taqi, xZain |
 | 2026-05-08 | Baatarz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -425.4 | Faro0q, Momo, Pluto101, taqi, xZain |
 | 2026-04-28 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.01 | 0.09 | +0.5 | Momo, Pluto101, shooterR-, taqi, xZain |
 | 2026-04-25 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.35 | 1.00 | 0.07 | 0.00 | 0.07 | +0.0 | Momo, Pluto101, shooterR-, taqi, xZain |

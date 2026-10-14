@@ -19,6 +19,38 @@ seed_factor 0.957 = 0.25 x Tier Exposure (0.979) + 0.50 x Quality Wins (0.926) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.957 | 2440.5 | - |
+| +30 days | 0.941 | 2417.4 | -23.1 |
+| +60 days | 0.934 | 2408.3 | -32.2 |
+| +90 days | 0.926 | 2395.9 | -44.6 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.926 vs 0.960 average, gap -0.034). Matching that average is worth about 23.8 seed points.
+
+- Tier Exposure drivers: NSTLGA League S2 | Stage 3 Playoffs (2026-09-13) 1.59; S58 NA Advanced Central - Playoffs (2026-09-18) 1.55; CROSSFIRE Season 6 - Playoffs (2026-10-05) 1.55
+- Quality Wins drivers: beat DETONATE at VRS-tracked 2026-09 (2026-09-23) 1.60; beat Overtake Sector at VRS-tracked 2026-09 (2026-09-25) 1.60; beat Overtake Sector at NSTLGA League S2 | Stage 3 Playoffs (2026-09-12) 1.58
+- Opponent Network drivers: beat Zomblers at VRS-tracked 2026-09 (2026-09-22) 1.60; beat babaG at VRS-tracked 2026-09 (2026-09-25) 1.60; beat Olympus at S58 NA Advanced Central - Playoffs (2026-09-19) 1.55
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +76.0 |
+| Liquid | 1 | 3103.3 | +75.3 |
+| Wildcard | 3 | 2911.9 | +69.2 |
+| NRG | 4 | 2836.4 | +67.3 |
+| Voca | 5 | 2796.5 | +61.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): AscendentEsport (+0.0), Veniversum (+0.0), FlockMunchers (+0.0), Defaulting (+0.0), VARTOVIK (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.30]
+- S57 NA Advanced Central - Playoffs (2026-06-13): expires in 56 days [Tier Exposure 0.56]
+
 #### Matches (82 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -55,15 +87,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Desi Boyz | W | 2-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 1.28 | 0.00 | +7.7 | 1Sandman, SLIGHT, bwills, djay, xaler |
 | 2026-09-06 | Marsborne | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -27.4 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-05 | DETONATE | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.49 | 1.49 | 0.00 | +7.0 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-09-05 | Marsborne | L |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.50 | 0.00 | 0.00 | -42.0 | core 3/5 |
+| 2026-09-05 | Marsborne | L |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.50 | 0.00 | 0.00 | -42.1 | core 3/5 |
 | 2026-09-04 | Beyond Limits | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.93 | 1.60 | 1.00 | 1.48 | 0.97 | 1.48 | +9.6 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-09-04 | DETONATE | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 1.49 | 0.00 | +1.6 | core 3/5 |
 | 2026-09-03 | NineFlyeSports | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.92 | 1.55 | 1.00 | 1.43 | 0.23 | 1.43 | +0.0 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-09-03 | Beyond Limits | W |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.48 | 0.97 | 0.00 | +5.2 | core 3/5 |
+| 2026-09-03 | Beyond Limits | W |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 0.97 | 0.00 | +5.2 | core 3/5 |
 | 2026-08-30 | SportsBetExpert | W |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.43 | 1.29 | 1.43 | +67.1 | core 3/5 |
 | 2026-08-30 | Without a Roof | W |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.43 | 1.43 | 1.43 | +30.5 | core 3/5 |
 | 2026-08-29 | Desi Boyz | W |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 1.20 | 0.00 | +48.4 | core 3/5 |
-| 2026-08-29 | DETONATE | W |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 1.42 | 0.00 | +1.4 | core 3/5 |
+| 2026-08-29 | DETONATE | W |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 1.42 | 0.00 | +1.3 | core 3/5 |
 | 2026-08-27 | Xiaoma Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.27 | 0.23 | 0.00 | +1.7 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-08-27 | Olympus | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.27 | 0.82 | 0.00 | +65.8 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-08-26 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.00 | 0.00 | -137.7 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
@@ -79,21 +111,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Iowa Stormboar | W |  | VRS-tracked 2026-07 | A | vrs | 0.68 | 1.60 | 1.00 | 1.09 | 0.74 | 1.09 | +117.6 | core 3/5 |
 | 2026-07-28 | Marsborne | L | 0-2 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.68 | 1.60 | 1.00 | 1.09 | 0.00 | 0.00 | -129.5 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-07-28 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.98 | 0.53 | 0.98 | +3.8 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
-| 2026-07-27 | DETONATE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.45 | 1.00 | 0.97 | 0.97 | 0.97 | +131.9 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
+| 2026-07-27 | DETONATE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.45 | 1.00 | 0.97 | 0.97 | 0.97 | +132.0 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-07-24 | Omen Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.32 | 0.94 | +91.5 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-07-22 | FlyQuest RED | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.40 | 0.92 | +3.3 | 1Sandman, Cryptic, SLIGHT, bwills, djay |
 | 2026-07-10 | M80 | L |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.89 | 0.00 | 0.00 | -1.0 | core 3/5 |
 | 2026-07-09 | Overtake Sector | W |  | VRS-tracked 2026-07 | A | vrs | 0.55 | 1.60 | 1.00 | 0.88 | 0.88 | 0.00 | +388.9 | core 3/5 |
-| 2026-06-13 | Olympus | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.38 | 1.50 | 1.00 | 0.56 | 0.00 | 0.00 | -22.9 | 1Sandman, Cryptic, consti, djay, kmrn |
+| 2026-06-13 | Olympus | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.38 | 1.50 | 1.00 | 0.56 | 0.00 | 0.00 | -22.8 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-06-12 | Olympus | L |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.00 | 0.00 | -168.3 | core 3/5 |
 | 2026-06-06 | Villainous | L |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.53 | 0.00 | 0.00 | -171.2 | core 3/5 |
 | 2026-06-04 | Xiaoma Gaming | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.08 | 0.00 | +82.9 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-05-30 | absolute cinema | W |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.05 | 0.45 | +0.0 | core 3/5 |
 | 2026-05-30 | makeSHIFT | W |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.06 | 0.45 | +0.0 | core 3/5 |
-| 2026-05-30 | Marsborne | L |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -361.6 | core 3/5 |
-| 2026-05-30 | Wanted Goons | W |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.45 | 0.00 | +202.3 | core 3/5 |
-| 2026-05-30 | SportsBetExpert | L |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -214.5 | core 3/5 |
-| 2026-05-21 | Wanted Goons | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.30 | 0.30 | +344.1 | 1Sandman, Cryptic, consti, djay, kmrn |
+| 2026-05-30 | Marsborne | L |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -361.7 | core 3/5 |
+| 2026-05-30 | Wanted Goons | W |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.45 | 0.00 | +202.4 | core 3/5 |
+| 2026-05-30 | SportsBetExpert | L |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -214.6 | core 3/5 |
+| 2026-05-21 | Wanted Goons | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.30 | 0.30 | +344.2 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-05-19 | Club 333 | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -252.7 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-05-14 | Xiaoma Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.04 | 0.24 | +79.9 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-05-13 | North Forge | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.06 | 0.23 | +201.2 | 1Sandman, Cryptic, consti, djay, kmrn |
@@ -101,8 +133,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-05 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.02 | 0.00 | +29.0 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-04-30 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.11 | +0.5 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-04-29 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.10 | 0.01 | 0.10 | +0.0 | 1Sandman, Cryptic, consti, djay, kmrn |
-| 2026-04-25 | EMPIRE | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.06 | 0.00 | +238.3 | core 3/5 |
-| 2026-04-25 | FISHER COLLEGE | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -579.7 | core 3/5 |
+| 2026-04-25 | EMPIRE | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.06 | 0.00 | +238.4 | core 3/5 |
+| 2026-04-25 | FISHER COLLEGE | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -579.8 | core 3/5 |
 | 2026-04-25 | NRG | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -36.1 | core 3/5 |
 | 2026-04-22 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.35 | 1.00 | 0.04 | 0.00 | 0.04 | +0.0 | 1Sandman, Cryptic, consti, djay, kmrn |
 | 2026-04-21 | eefsports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.35 | 1.00 | 0.03 | 0.00 | 0.03 | +0.0 | 1Sandman, Cryptic, consti, djay, kmrn |

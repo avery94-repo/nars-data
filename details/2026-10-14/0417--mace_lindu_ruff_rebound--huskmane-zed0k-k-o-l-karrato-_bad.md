@@ -3,11 +3,11 @@ Team Name: Mace Lindu Ruff Rebound
 Roster: huskmane, zed0K, k-o-L, Karrato, _bad
 NARS Rank: 417 of 506
 
-Final Rating: 1017.4
+Final Rating: 1017.3
 Seeded Start: 1213.9
-H2H Adjustment: -196.5
+H2H Adjustment: -196.6
 
-Final Rating (1017.4) = Seeded Start (1213.9) + H2H Adjustment (-196.5)
+Final Rating (1017.3) = Seeded Start (1213.9) + H2H Adjustment (-196.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,38 @@ seed_factor 0.081 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.013) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.081 | 1213.9 | - |
+| +30 days | 0.069 | 1197.0 | -16.9 |
+| +60 days | 0.062 | 1186.8 | -27.1 |
+| +90 days | 0.050 | 1170.0 | -43.9 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.225 vs 0.261 average, gap -0.036). Matching that average is worth about 12.6 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat NATIONAL CS UNI at S58 NA Intermediate A - Regular Season (2026-08-21) 0.07; beat Team TahMeow at S58 NA Intermediate A - Regular Season (2026-07-31) 0.05; beat Climbers at S58 NA Intermediate A - Regular Season (2026-08-19) 0.03
+- Opponent Network drivers: beat NATIONAL CS UNI at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat Climbers at S58 NA Intermediate A - Regular Season (2026-08-19) 0.82; beat GOMI dot CLUB at S58 NA Intermediate A - Regular Season (2026-08-12) 0.78
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +536.1 |
+| SportsBetExpert | 6 | 2672.3 | +535.9 |
+| regain | 12 | 2256.1 | +530.4 |
+| Zomblers | 22 | 2114.7 | +529.8 |
+| LAG Gaming | 8 | 2507.3 | +528.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.7).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Ninjas In Boxer (2026-04-29): expires in 11 days [Quality Wins 0.01, Opponent Network 0.08]
+- S57 NA Intermediate Central - Regular Season vs GoopT (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.02, Opponent Network 0.23]
 
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -37,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -18.1 | Karrato, _bad, huskmane, k-o-L, zed0K |
 | 2026-07-24 | on disability | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -2.4 | CripserOG, Vulcanium, _bad, huskmane, zed0K |
 | 2026-07-17 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -1.1 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
-| 2026-07-15 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -99.9 | Karrato, _bad, huskmane, k-o-L, zed0K |
+| 2026-07-15 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -100.0 | Karrato, _bad, huskmane, k-o-L, zed0K |
 | 2026-05-22 | GoopT | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +333.9 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
 | 2026-05-20 | AURA Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -3.8 | CripserOG, Karrato, _bad, k-o-L, zed0K |
 | 2026-05-15 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -71.4 | CripserOG, Karrato, _bad, k-o-L, zed0K |

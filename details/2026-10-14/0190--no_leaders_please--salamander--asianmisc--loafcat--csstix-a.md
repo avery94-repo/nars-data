@@ -3,11 +3,11 @@ Team Name: No Leaders Please
 Roster: Salamander-, asianmisc, -LoafCat-, CSStix, auti_
 NARS Rank: 190 of 506
 
-Final Rating: 1499.5
+Final Rating: 1499.4
 Seeded Start: 1342.2
-H2H Adjustment: +157.3
+H2H Adjustment: +157.2
 
-Final Rating (1499.5) = Seeded Start (1342.2) + H2H Adjustment (+157.3)
+Final Rating (1499.4) = Seeded Start (1342.2) + H2H Adjustment (+157.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -19,6 +19,40 @@ seed_factor 0.173 = 0.25 x Tier Exposure (0.110) + 0.50 x Quality Wins (0.049) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.173 | 1342.2 | - |
+| +30 days | 0.155 | 1317.3 | -24.9 |
+| +60 days | 0.140 | 1295.9 | -46.3 |
+| +90 days | 0.112 | 1256.3 | -86.0 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.049 vs 0.016 average, gap +0.033). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Main Central - Playoffs A (2026-09-04) 0.96; S58 NA Main A - Regular Season (2026-08-28) 0.90
+- Quality Wins drivers: beat BucketJonsBoys at S58 NA Main A - Regular Season (2026-07-29) 0.18; beat DeathMark E-Sports at S59 NA Main A - Regular Season (2026-10-09) 0.11; beat MINDTRIP at S58 NA Main A - Regular Season (2026-08-26) 0.09
+- Opponent Network drivers: beat DeathMark E-Sports at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat juked at S58 NA Main Central - Playoffs A (2026-09-02) 0.95; beat MINDTRIP at S58 NA Main A - Regular Season (2026-08-26) 0.89
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +278.8 |
+| SportsBetExpert | 6 | 2672.3 | +278.1 |
+| M80 | 2 | 3081.4 | +272.9 |
+| LAG Gaming | 8 | 2507.3 | +272.8 |
+| Wildcard | 3 | 2911.9 | +270.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Bird Lickers (2026-05-13): expires in 25 days [Opponent Network 0.19]
+- S57 NA Main Central - Regular Season vs BucketJonsBoys (2026-05-15): expires in 27 days [Quality Wins 0.05]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+- S58 NA Main A - Regular Season vs Shadow Wizard Money Gang (2026-07-15): expires in 88 days [Quality Wins 0.05, Opponent Network 0.60]
+
 #### Matches (25 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -28,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | TheMotherLovers | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -21.3 | -LoafCat-, CSStix, DARKQ-1, Salamander-, asianmisc |
 | 2026-09-04 | Asoka | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.00 | 0.00 | -71.5 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-09-02 | juked | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.03 | 1.00 | 0.95 | 0.07 | 0.95 | +25.0 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
-| 2026-08-28 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -106.6 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
+| 2026-08-28 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -106.7 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-08-26 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.09 | 0.89 | +55.0 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-08-19 | Qinorhwat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.04 | 0.84 | +62.4 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-08-14 | Abusement Park | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.07 | 0.81 | +210.4 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
@@ -47,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-06 | ASYCS KITTENS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +306.5 | -LoafCat-, CSStix, S4msonite, Salamander-, asianmisc |
 | 2026-05-01 | Locally Hated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -0.6 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-04-29 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -18.4 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
-| 2026-04-24 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -161.6 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
+| 2026-04-24 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -161.7 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-04-22 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -257.1 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

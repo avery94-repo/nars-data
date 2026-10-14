@@ -19,6 +19,39 @@ seed_factor 0.055 = 0.25 x Tier Exposure (0.047) + 0.50 x Quality Wins (0.005) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.055 | 1176.3 | - |
+| +30 days | 0.045 | 1162.7 | -13.6 |
+| +60 days | 0.039 | 1153.9 | -22.4 |
+| +90 days | 0.036 | 1150.8 | -25.5 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.162 vs 0.174 average, gap -0.012). Matching that average is worth about 4.2 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-08) 0.98; S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
+- Quality Wins drivers: beat MgaEngot at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.03; beat Junior Varsity Esports at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.03; beat Boomhogs 2 at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.01
+- Opponent Network drivers: beat MgaEngot at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; beat Junior Varsity Esports at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.93; beat Boomhogs 2 at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +664.9 |
+| SportsBetExpert | 6 | 2672.3 | +664.2 |
+| LAG Gaming | 8 | 2507.3 | +654.3 |
+| regain | 12 | 2256.1 | +651.1 |
+| M80 | 2 | 3081.4 | +650.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.7), SixSevenZaZa (+1.2).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs Code Oblivion (2026-05-27): expires in 39 days [Quality Wins 0.00, Opponent Network 0.26]
+- S57 NA Open9-10 Central - Playoffs B vs Boomhogs 2 (2026-06-03): expires in 46 days [Quality Wins 0.01, Opponent Network 0.31]
+- S57 NA Open9-10 Central - Playoffs B (2026-06-10): expires in 53 days [Tier Exposure 0.36]
+
 #### Matches (7 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -27,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | OnThaGear | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -133.9 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
 | 2026-09-06 | MgaEngot | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.03 | 0.96 | +118.0 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
 | 2026-09-04 | No Excuses | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -152.0 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
-| 2026-09-02 | Junior Varsity Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.03 | 0.94 | +137.3 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
+| 2026-09-02 | Junior Varsity Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.03 | 0.93 | +137.3 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
 | 2026-06-10 | Praise Jame | L | 0-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -257.1 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
 | 2026-06-03 | Boomhogs 2 | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +130.6 | CJP, Matthewpops, PenguinSWAGX, Spunki, ZManFan |
 | 2026-05-27 | Code Oblivion | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +182.0 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |

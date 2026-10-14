@@ -19,6 +19,42 @@ seed_factor 0.158 = 0.25 x Tier Exposure (0.099) + 0.50 x Quality Wins (0.040) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.158 | 1321.7 | - |
+| +30 days | 0.126 | 1276.6 | -45.1 |
+| +60 days | 0.103 | 1243.8 | -77.8 |
+| +90 days | 0.070 | 1198.4 | -123.3 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.040 vs 0.047 average, gap -0.007). Matching that average is worth about 4.9 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-08) 1.14; S58 NA Main B - Regular Season (2026-08-28) 1.02; S57 NA Main Central - Playoffs (2026-06-06) 0.41
+- Quality Wins drivers: beat WhalersOnDaMoon at S58 NA Main B - Regular Season (2026-08-21) 0.13; beat STFDYSAB at S58 NA Main B - Regular Season (2026-08-28) 0.13; beat SwagMonkeyHats at S58 NA Main B - Regular Season (2026-07-24) 0.12
+- Opponent Network drivers: beat STFDYSAB at S58 NA Main B - Regular Season (2026-08-28) 1.02; beat Florida Man at S58 NA Main B - Regular Season (2026-08-26) 1.01; beat WhalersOnDaMoon at S58 NA Main B - Regular Season (2026-08-21) 0.97
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +594.6 |
+| SportsBetExpert | 6 | 2672.3 | +592.5 |
+| M80 | 2 | 3081.4 | +582.3 |
+| LAG Gaming | 8 | 2507.3 | +579.7 |
+| Wildcard | 3 | 2911.9 | +577.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Yogaball Frags (2026-04-29): expires in 11 days [Quality Wins 0.01]
+- S57 NA Main Central - Regular Season vs Solace (2026-05-20): expires in 32 days [Quality Wins 0.02, Opponent Network 0.25]
+- S57 NA Main Central - Regular Season vs MXA (2026-05-22): expires in 34 days [Tier Exposure 0.26, Opponent Network 0.26]
+- S57 NA Main Central - Playoffs vs BUCK NASTY (2026-06-04): expires in 47 days [Quality Wins 0.01, Opponent Network 0.39]
+- S57 NA Main Central - Playoffs (2026-06-06): expires in 49 days [Tier Exposure 0.41]
+- S58 NA Main B - Regular Season vs Emerald Isle (2026-07-15): expires in 88 days [Quality Wins 0.04, Opponent Network 0.68]
+
 #### Matches (28 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -45,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +16.0 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-05-20 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +116.8 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-05-15 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -53.6 | DanieIH, LandonW, LollypopTV, Sithiss, dycfghvjuczx |
-| 2026-05-13 | Locally Hated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -343.0 | DanieIH, LandonW, LollypopTV, Sithiss, dycfghvjuczx |
+| 2026-05-13 | Locally Hated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -343.1 | DanieIH, LandonW, LollypopTV, Sithiss, dycfghvjuczx |
 | 2026-05-08 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -5.8 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-05-06 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +307.6 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-05-01 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +84.7 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |

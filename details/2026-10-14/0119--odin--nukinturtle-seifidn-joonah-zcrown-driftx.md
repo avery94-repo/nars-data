@@ -19,6 +19,34 @@ seed_factor 0.143 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.024) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.143 | 1300.3 | - |
+| +30 days | 0.144 | 1301.2 | +0.9 |
+| +60 days | 0.145 | 1302.4 | +2.1 |
+| +90 days | 0.146 | 1304.5 | +4.3 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.024 vs 0.059 average, gap -0.035). Matching that average is worth about 24.5 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-17) 1.02; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
+- Quality Wins drivers: beat Mace Lindu Ruff Rebound at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07; beat Alternate Earth at S58 NA Open9-10 East - Playoffs C (2026-09-15) 0.07; beat APEX at S58 NA Open9-10 East - Playoffs C (2026-09-12) 0.07
+- Opponent Network drivers: beat For Fun Gamers at S58 NA Open9-10 East - Playoffs C (2026-09-17) 1.02; beat Alternate Earth at S58 NA Open9-10 East - Playoffs C (2026-09-15) 1.02; beat APEX at S58 NA Open9-10 East - Playoffs C (2026-09-12) 1.00
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +246.4 |
+| SportsBetExpert | 6 | 2672.3 | +245.1 |
+| M80 | 2 | 3081.4 | +241.5 |
+| Wildcard | 3 | 2911.9 | +239.6 |
+| LAG Gaming | 8 | 2507.3 | +238.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), Solbound (+0.0).
+
 #### Matches (9 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

@@ -3,11 +3,11 @@ Team Name: dogwater
 Roster: HI_IM_TOM, Sykess, JesseP_, Tailz, Cyynn
 NARS Rank: 462 of 506
 
-Final Rating: 835.7
+Final Rating: 835.6
 Seeded Start: 1220.9
-H2H Adjustment: -385.2
+H2H Adjustment: -385.3
 
-Final Rating (835.7) = Seeded Start (1220.9) + H2H Adjustment (-385.2)
+Final Rating (835.6) = Seeded Start (1220.9) + H2H Adjustment (-385.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -19,6 +19,38 @@ seed_factor 0.086 = 0.25 x Tier Exposure (0.106) + 0.50 x Quality Wins (0.013) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.086 | 1220.9 | - |
+| +30 days | 0.075 | 1204.9 | -16.0 |
+| +60 days | 0.066 | 1193.0 | -27.9 |
+| +90 days | 0.052 | 1173.0 | -47.9 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.213 vs 0.261 average, gap -0.048). Matching that average is worth about 16.8 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.92; S58 NA Intermediate A - Regular Season (2026-08-26) 0.87
+- Quality Wins drivers: beat MakeYouSayLate at S58 NA Intermediate A - Regular Season (2026-07-22) 0.08; beat Team TahMeow at S58 NA Intermediate A - Regular Season (2026-08-21) 0.07; beat Casipanther at S58 NA Intermediate A - Regular Season (2026-08-26) 0.04
+- Opponent Network drivers: beat Casipanther at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat Team TahMeow at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat 37U Passion at S58 NA Intermediate A - Regular Season (2026-07-29) 0.68
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +218.9 |
+| SportsBetExpert | 6 | 2672.3 | +218.9 |
+| North Forge | 38 | 1971.1 | +218.7 |
+| Wanted Goons | 43 | 1933.1 | +218.4 |
+| Zomblers | 22 | 2114.7 | +218.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.8).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs 37U Passion (2026-05-01): expires in 13 days [Quality Wins 0.00]
+- S57 NA Intermediate Central - Regular Season vs SixSevenZaZa (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.01, Opponent Network 0.23]
+
 #### Matches (21 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -28,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Firstwave | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -1.3 | Cyynn, HI_IM_TOM, JesseP_, Sykess, wafis |
 | 2026-09-02 | Sound of Arthritis | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -0.0 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz, wafis |
 | 2026-08-26 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.04 | 0.87 | +32.1 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-08-21 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +99.7 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-08-21 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +99.8 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-08-19 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -18.4 | Cyynn, HI_IM_TOM, Sykess, Tailz, wafis |
 | 2026-08-14 | Climbers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -34.0 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-08-12 | Solbound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -97.6 | Cyynn, HI_IM_TOM, JesseP_, Tailz, wafis |
@@ -36,12 +68,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -40.4 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-07-29 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.03 | 0.68 | +79.8 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-07-22 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.08 | 0.64 | +240.4 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-05-22 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +239.6 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-05-22 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +239.7 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-20 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -150.2 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-15 | Team Deathgrip | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -183.2 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-13 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -7.8 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-05-08 | Brothers United | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -404.9 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-05-01 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | +361.8 | Cyynn, HI_IM_TOM, Sykess, Tailz, cancel |
+| 2026-05-08 | Brothers United | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -405.0 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-05-01 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | +361.9 | Cyynn, HI_IM_TOM, Sykess, Tailz, cancel |
 | 2026-04-29 | EZ2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -11.7 | Cyynn, HI_IM_TOM, Sykess, Tailz, cancel |
 | 2026-04-24 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -210.2 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-04-22 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -275.6 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |

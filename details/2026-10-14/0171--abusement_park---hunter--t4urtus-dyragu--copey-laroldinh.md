@@ -19,6 +19,40 @@ seed_factor 0.165 = 0.25 x Tier Exposure (0.086) + 0.50 x Quality Wins (0.049) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.165 | 1330.8 | - |
+| +30 days | 0.140 | 1295.6 | -35.3 |
+| +60 days | 0.116 | 1262.3 | -68.6 |
+| +90 days | 0.080 | 1212.1 | -118.8 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.086 vs 0.065 average, gap +0.021). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs A (2026-09-10) 1.00; S58 NA Main A - Regular Season (2026-08-26) 0.89; S57 NA Intermediate Central - Playoffs A (2026-06-06) 0.34
+- Quality Wins drivers: beat FLOW STATE at S58 NA Main A - Regular Season (2026-07-23) 0.15; beat mas paspas at S58 NA Main A - Regular Season (2026-08-05) 0.13; beat TenToesDown at S58 NA Main Central - Playoffs A (2026-09-04) 0.12
+- Opponent Network drivers: beat TenToesDown at S58 NA Main Central - Playoffs A (2026-09-04) 0.96; beat PASSION at S58 NA Main A - Regular Season (2026-08-26) 0.89; beat Real Hustle Club at S58 NA Main A - Regular Season (2026-08-21) 0.85
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +532.4 |
+| SportsBetExpert | 6 | 2672.3 | +529.8 |
+| M80 | 2 | 3081.4 | +521.6 |
+| Wildcard | 3 | 2911.9 | +517.5 |
+| LAG Gaming | 8 | 2507.3 | +516.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs A vs Hairy Scary Bandits (2026-06-04): expires in 47 days [Quality Wins 0.06, Opponent Network 0.33]
+- S57 NA Intermediate Central - Playoffs A (2026-06-06): expires in 49 days [Tier Exposure 0.34]
+- S58 NA Main A - Regular Season vs Kurrupted Mindz (2026-07-15): expires in 88 days [Quality Wins 0.03, Opponent Network 0.60]
+
 #### Matches (28 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -44,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-31 | Full White | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.02 | 0.30 | +203.5 | -HuNTeR-, -copey, GordiBoi, dyragu, t4urtus |
 | 2026-05-27 | Baja Blasters | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -2.2 | -HuNTeR-, -copey, GordiBoi, dyragu, t4urtus |
 | 2026-05-22 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +152.8 | -HuNTeR-, -copey, GordiBoi, _37, dyragu |
-| 2026-05-20 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +26.0 | -HuNTeR-, -copey, _37, dyragu, t4urtus |
+| 2026-05-20 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +25.9 | -HuNTeR-, -copey, _37, dyragu, t4urtus |
 | 2026-05-13 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +46.3 | -HuNTeR-, -copey, GordiBoi, _37, dyragu |
 | 2026-05-08 | Costco Family | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +358.5 | -HuNTeR-, -copey, GordiBoi, _37, dyragu |
 | 2026-05-06 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -289.5 | -HuNTeR-, -copey, _37, dyragu, t4urtus |

@@ -19,6 +19,37 @@ seed_factor 0.140 = 0.25 x Tier Exposure (0.112) + 0.50 x Quality Wins (0.035) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.140 | 1295.3 | - |
+| +30 days | 0.130 | 1282.5 | -12.8 |
+| +60 days | 0.125 | 1274.5 | -20.8 |
+| +90 days | 0.119 | 1266.5 | -28.8 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.035 vs 0.023 average, gap +0.012). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Intermediate A - Regular Season (2026-09-17) 1.00; S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.93
+- Quality Wins drivers: beat Armored Talent at S58 NA Intermediate A - Regular Season (2026-08-05) 0.13; beat WaterDrinkers at S58 NA Intermediate A - Regular Season (2026-09-17) 0.12; beat Lan Bears at S58 NA Intermediate A - Regular Season (2026-09-17) 0.09
+- Opponent Network drivers: beat WaterDrinkers at S58 NA Intermediate A - Regular Season (2026-09-17) 1.00; beat Lan Bears at S58 NA Intermediate A - Regular Season (2026-09-17) 1.00; beat Dead Pixel at S58 NA Intermediate A - Regular Season (2026-09-17) 1.00
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +290.5 |
+| SportsBetExpert | 6 | 2672.3 | +290.4 |
+| regain | 12 | 2256.1 | +287.3 |
+| Zomblers | 22 | 2114.7 | +286.9 |
+| LAG Gaming | 8 | 2507.3 | +286.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.8), SixSevenZaZa (+1.3).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs The Jits (2026-05-27): expires in 39 days [Tier Exposure 0.26, Quality Wins 0.01, Opponent Network 0.26]
+
 #### Matches (17 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -30,14 +61,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-17 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.09 | 1.00 | +66.8 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
 | 2026-09-17 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | +115.0 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
 | 2026-09-17 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +68.9 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
-| 2026-09-04 | WaterDrinkers | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -18.7 | Experior, HowHowHowHow, Juiceyyyy, Matsuno, SoFHunter, Zazonky |
+| 2026-09-04 | WaterDrinkers | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -18.6 | Experior, HowHowHowHow, Juiceyyyy, Matsuno, SoFHunter, Zazonky |
 | 2026-09-02 | Rejects | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -2.3 | Experior, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
 | 2026-08-28 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -42.3 | HowHowHowHow, Juiceyyyy, Matsuno, SoFHunter, Sp1cy_NA |
 | 2026-08-26 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -72.8 | HowHowHowHow, Juiceyyyy, Matsuno, SoFHunter, Sp1cy_NA |
 | 2026-08-14 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -15.5 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
 | 2026-08-12 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -76.7 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
 | 2026-08-07 | NATIONAL CS UNI | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +64.0 | Copier, ElijahReborn, HowHowHowHow, SoFHunter, Sp1cy_NA |
-| 2026-08-05 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.13 | 0.73 | +174.9 | ElijahReborn, HowHowHowHow, Matsuno, SoFHunter, Sp1cy_NA |
+| 2026-08-05 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.13 | 0.73 | +175.0 | ElijahReborn, HowHowHowHow, Matsuno, SoFHunter, Sp1cy_NA |
 | 2026-07-31 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -10.9 | HowHowHowHow, Juiceyyyy, Matsuno, SoFHunter, Sp1cy_NA |
 | 2026-07-15 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -400.6 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
 | 2026-05-27 | The Jits | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +158.9 | ElijahReborn, HowHowHowHow, Juiceyyyy, ReverendX, SoFHunter, Sp1cy_NA |

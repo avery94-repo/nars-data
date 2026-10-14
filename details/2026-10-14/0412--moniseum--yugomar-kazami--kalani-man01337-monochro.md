@@ -19,6 +19,39 @@ seed_factor 0.108 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.021) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.108 | 1251.4 | - |
+| +30 days | 0.088 | 1223.4 | -28.1 |
+| +60 days | 0.071 | 1199.4 | -52.0 |
+| +90 days | 0.045 | 1163.5 | -87.9 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.073 vs 0.066 average, gap +0.007). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.93; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs B (2026-05-29) 0.28
+- Quality Wins drivers: beat 69 at S58 NA Intermediate A - Regular Season (2026-08-19) 0.07; beat Mace Lindu Ruff Rebound at S58 NA Intermediate A - Regular Season (2026-08-26) 0.06; beat Ubiquiti at S58 NA Intermediate A - Regular Season (2026-07-31) 0.06
+- Opponent Network drivers: beat Mace Lindu Ruff Rebound at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat 69 at S58 NA Intermediate A - Regular Season (2026-08-19) 0.82; beat Kennesaw State Gold 2025 at S58 NA Intermediate A - Regular Season (2026-08-05) 0.73
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.1 |
+| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| regain | 12 | 2256.1 | +657.0 |
+| LAG Gaming | 8 | 2507.3 | +655.9 |
+| Zomblers | 22 | 2114.7 | +655.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.7).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs Duality Gaming (2026-05-27): expires in 39 days [Quality Wins 0.01, Opponent Network 0.26]
+- S57 NA Open9-10 Central - Playoffs B vs The Clubhouse (2026-05-29): expires in 41 days [Tier Exposure 0.28, Quality Wins 0.00, Opponent Network 0.28]
+- S58 NA Intermediate A - Regular Season vs Sound of Arthritis (2026-07-15): expires in 88 days [Quality Wins 0.04, Opponent Network 0.59]
+
 #### Matches (17 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -31,7 +64,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -71.6 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-08-19 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.07 | 0.82 | +69.4 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-08-14 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -79.9 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
-| 2026-08-07 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -166.5 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
+| 2026-08-07 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -166.6 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-08-05 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.05 | 0.73 | +14.2 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-07-31 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +142.2 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-07-29 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -45.9 | Monochrome, Yugomar, h4mmus, kalani, man01337 |

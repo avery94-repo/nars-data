@@ -3,11 +3,11 @@ Team Name: noname
 Roster: Swatt-, S1eep, PeaseCentral, Char, lckr
 NARS Rank: 208 of 506
 
-Final Rating: 1467.4
+Final Rating: 1467.3
 Seeded Start: 1361.5
-H2H Adjustment: +105.9
+H2H Adjustment: +105.8
 
-Final Rating (1467.4) = Seeded Start (1361.5) + H2H Adjustment (+105.9)
+Final Rating (1467.3) = Seeded Start (1361.5) + H2H Adjustment (+105.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,37 @@ seed_factor 0.187 = 0.25 x Tier Exposure (0.110) + 0.50 x Quality Wins (0.059) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.187 | 1361.5 | - |
+| +30 days | 0.170 | 1337.6 | -23.8 |
+| +60 days | 0.152 | 1312.3 | -49.2 |
+| +90 days | 0.118 | 1265.7 | -95.7 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.059 vs 0.042 average, gap +0.017). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Main Central - Playoffs A (2026-09-08) 0.99; S58 NA Main A - Regular Season (2026-08-28) 0.90
+- Quality Wins drivers: beat Asoka at S58 NA Main A - Regular Season (2026-08-19) 0.18; beat Wolves at S58 NA Main A - Regular Season (2026-08-12) 0.13; beat We Play Naked at S59 NA Main A - Regular Season (2026-10-09) 0.12
+- Opponent Network drivers: beat We Play Naked at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat Distinguished Ducks at S58 NA Main Central - Playoffs A (2026-09-06) 0.98; beat absolute cinema at S58 NA Main A - Regular Season (2026-08-21) 0.85
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +348.2 |
+| SportsBetExpert | 6 | 2672.3 | +347.3 |
+| M80 | 2 | 3081.4 | +340.8 |
+| LAG Gaming | 8 | 2507.3 | +340.8 |
+| Wildcard | 3 | 2911.9 | +338.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.25]
 
 #### Matches (27 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -43,13 +74,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +0.0 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-17 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.03 | 0.62 | +0.8 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-15 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.03 | 0.60 | +0.7 | Char, PeaseCentral, S1eep, Swatt-, lckr |
-| 2026-05-20 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +287.7 | Nomad, S1eep, Swatt-, ikwards, lckr |
+| 2026-05-20 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +287.8 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-15 | Pugging4Pumpkin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +53.6 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-13 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +68.5 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-08 | 2THRiLL | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +2.3 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-06 | DESPAIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +36.5 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-01 | DNA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +172.5 | Nomad, S1eep, Swatt-, ikwards, lckr |
-| 2026-04-23 | the dragon warrior scroll | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.04 | +362.6 | Nomad, S1eep, Swatt-, ikwards, lckr |
+| 2026-04-23 | the dragon warrior scroll | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.04 | +362.7 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-04-22 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -224.1 | Nomad, S1eep, Swatt-, ikwards, lckr |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

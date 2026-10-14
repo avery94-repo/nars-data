@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: Emerald Isle
 Roster: NOWAH, Hydra1k, Chad_Kirbo, Ultimatebean, TinNeR
-NARS Rank: 442 of 506
+NARS Rank: 441 of 506
 
 Final Rating: 928.3
 Seeded Start: 1214.6
@@ -13,11 +13,47 @@ Final Rating (928.3) = Seeded Start (1214.6) + H2H Adjustment (-286.3)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.082 x 1400 = 1214.6
 
-seed_factor 0.082 = 0.25 x Tier Exposure (0.053) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.240)
+seed_factor 0.082 = 0.25 x Tier Exposure (0.053) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.239)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.082 | 1214.6 | - |
+| +30 days | 0.050 | 1169.9 | -44.7 |
+| +60 days | 0.037 | 1151.4 | -63.2 |
+| +90 days | 0.019 | 1127.0 | -87.5 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.053 vs 0.051 average, gap +0.002). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-21) 0.97; S57 NA Intermediate Central - Playoffs A (2026-06-02) 0.31; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat Bird Squishers at S58 NA Main B - Regular Season (2026-08-05) 0.07; beat Cadillac F1 eSports Team at S58 NA Main B - Regular Season (2026-07-24) 0.06; beat HammerHeads at S58 NA Main B - Regular Season (2026-07-29) 0.04
+- Opponent Network drivers: beat Bird Squishers at S58 NA Main B - Regular Season (2026-08-05) 0.85; beat HammerHeads at S58 NA Main B - Regular Season (2026-07-29) 0.79; beat Cadillac F1 eSports Team at S58 NA Main B - Regular Season (2026-07-24) 0.75
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| Zomblers | 22 | 2114.7 | +659.1 |
+| regain | 12 | 2256.1 | +658.9 |
+| FarmVille | 16 | 2167.5 | +657.2 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Spin da block (2026-04-29): expires in 11 days [Quality Wins 0.01, Opponent Network 0.08]
+- S57 NA Intermediate Central - Regular Season vs Knight Owls (2026-05-01): expires in 13 days [Quality Wins 0.00, Opponent Network 0.09]
+- S57 NA Intermediate Central - Regular Season vs Strafe (2026-05-13): expires in 25 days [Quality Wins 0.03, Opponent Network 0.17]
+- S57 NA Intermediate Central - Regular Season vs Epochal Esports (2026-05-15): expires in 27 days [Quality Wins 0.03, Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season vs Iron Horse (2026-05-20): expires in 32 days [Quality Wins 0.00, Opponent Network 0.22]
+- S57 NA Intermediate Central - Regular Season vs Lan Bears (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.02, Opponent Network 0.23]
+- S57 NA Intermediate Central - Playoffs A vs Schadenfreude (2026-05-31): expires in 43 days [Quality Wins 0.01, Opponent Network 0.30]
+- S57 NA Intermediate Central - Playoffs A (2026-06-02): expires in 45 days [Tier Exposure 0.31]
 
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

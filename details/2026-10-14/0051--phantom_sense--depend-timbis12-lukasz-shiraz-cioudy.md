@@ -19,6 +19,37 @@ seed_factor 0.428 = 0.25 x Tier Exposure (0.341) + 0.50 x Quality Wins (0.283) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.428 | 1699.4 | - |
+| +30 days | 0.393 | 1649.7 | -49.7 |
+| +60 days | 0.364 | 1609.9 | -89.6 |
+| +90 days | 0.316 | 1542.2 | -157.3 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.341 vs 0.193 average, gap +0.148). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-21) 1.55; Playoff - CROSSFIRE Season 6 (2026-09-14) 1.45; S59 NA Advanced Central - Regular Season (2026-10-10) 1.43
+- Quality Wins drivers: beat Chicken Coop at CROSSFIRE Season 6 - Playoffs (2026-09-14) 1.38; beat unreal nightmare at NSTLGA League | Ruby Conference (2026-08-26) 0.89; beat EXODIA at S58 NA Advanced Central - Regular Season (2026-08-05) 0.60
+- Opponent Network drivers: beat Chicken Coop at CROSSFIRE Season 6 - Playoffs (2026-09-14) 1.54; beat unreal nightmare at NSTLGA League | Ruby Conference (2026-08-26) 1.27; beat UltimateDarklordWizardz at Group Stage - CROSSFIRE Season 6 (2026-09-07) 1.27
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +76.2 |
+| SportsBetExpert | 6 | 2672.3 | +75.3 |
+| M80 | 2 | 3081.4 | +74.9 |
+| Wildcard | 3 | 2911.9 | +74.1 |
+| Liquid | 1 | 3103.3 | +73.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): dogwater (+0.0), Feels MAIN Man (+0.0), Sleepers (+0.0), Brick Layers (+0.0), Kushtaka (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season (2026-05-25): expires in 37 days [Tier Exposure 0.34]
+
 #### Matches (33 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -39,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-20 | TenToesDown | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.16 | 1.21 | +6.6 | Lukasz, Timbis12, depend, gosha111, shiraz |
 | 2026-08-20 | NineFly Esports | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.19 | 1.21 | +71.4 | Lukasz, Timbis12, depend, gosha111, shiraz |
 | 2026-08-15 | NuTorious | L | 0-2 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.80 | 1.45 | 1.00 | 1.16 | 0.00 | 0.00 | -4.8 | 9be36b62, Lukasz, depend, gosha111, shiraz |
-| 2026-08-15 | Skyline | W | 2-0 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.80 | 1.45 | 1.00 | 1.16 | 0.40 | 1.16 | +151.2 | 9be36b62, Lukasz, depend, gosha111, shiraz |
+| 2026-08-15 | Skyline | W | 2-0 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.80 | 1.45 | 1.00 | 1.16 | 0.40 | 1.16 | +151.3 | 9be36b62, Lukasz, depend, gosha111, shiraz |
 | 2026-08-15 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.45 | 1.00 | 1.16 | 0.00 | 0.00 | -16.0 | Lukasz, Timbis12, depend, gosha111, shiraz |
 | 2026-08-12 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.00 | 0.00 | -17.1 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
 | 2026-08-11 | babaG | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.46 | 1.00 | 1.12 | 0.00 | 0.00 | -17.4 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |

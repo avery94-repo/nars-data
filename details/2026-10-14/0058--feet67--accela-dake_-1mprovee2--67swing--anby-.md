@@ -19,6 +19,34 @@ seed_factor 0.151 = 0.25 x Tier Exposure (0.036) + 0.50 x Quality Wins (0.088) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.151 | 1310.9 | - |
+| +30 days | 0.147 | 1306.3 | -4.6 |
+| +60 days | 0.146 | 1304.1 | -6.8 |
+| +90 days | 0.143 | 1299.6 | -11.3 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.391 vs 0.570 average, gap -0.179). Matching that average is worth about 62.6 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs B (2026-09-21) 1.04
+- Quality Wins drivers: beat FarmVille at S58 NA Open9-10 East - Playoffs B (2026-09-21) 1.04; beat makeSHIFT at S58 NA Open9-10 East - Playoffs B (2026-09-20) 0.15; beat The Kerbins at S58 NA Open9-10 East - Playoffs B (2026-09-10) 0.07
+- Opponent Network drivers: beat FarmVille at S58 NA Open9-10 East - Playoffs B (2026-09-21) 1.04; beat makeSHIFT at S58 NA Open9-10 East - Playoffs B (2026-09-20) 1.04; beat The Kerbins at S58 NA Open9-10 East - Playoffs B (2026-09-10) 1.01
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +241.9 |
+| M80 | 2 | 3081.4 | +238.4 |
+| SportsBetExpert | 6 | 2672.3 | +238.1 |
+| Wildcard | 3 | 2911.9 | +235.7 |
+| Liquid | 1 | 3103.3 | +235.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Grandpa Berets (+0.0), Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0).
+
 #### Matches (7 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

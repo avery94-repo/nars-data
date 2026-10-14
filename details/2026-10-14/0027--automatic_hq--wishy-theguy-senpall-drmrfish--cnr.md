@@ -19,12 +19,44 @@ seed_factor 0.244 = 0.25 x Tier Exposure (0.151) + 0.50 x Quality Wins (0.075) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.244 | 1441.5 | - |
+| +30 days | 0.226 | 1416.5 | -25.0 |
+| +60 days | 0.213 | 1397.9 | -43.6 |
+| +90 days | 0.193 | 1369.6 | -71.9 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.075 vs 0.296 average, gap -0.221). Matching that average is worth about 154.7 seed points.
+
+- Tier Exposure drivers: S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; S58 NA Main Central - Playoffs B (2026-09-20) 1.19; S58 NA Main B - Regular Season (2026-08-28) 1.02
+- Quality Wins drivers: beat Old Meta at S58 NA Main Central - Playoffs B (2026-09-20) 0.16; beat Shaboing Boing Bandits at S58 NA Main Central - Playoffs B (2026-09-04) 0.15; beat TheMotherLovers at S58 NA Main B - Regular Season (2026-08-21) 0.13
+- Opponent Network drivers: beat Old Meta at S58 NA Main Central - Playoffs B (2026-09-20) 1.19; beat Bird Squishers at S58 NA Main Central - Playoffs B (2026-09-19) 1.19; beat Team Team Name at S58 NA Main Central - Playoffs B (2026-09-07) 1.13
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +198.7 |
+| M80 | 2 | 3081.4 | +197.8 |
+| Liquid | 1 | 3103.3 | +195.1 |
+| Wildcard | 3 | 2911.9 | +194.3 |
+| SportsBetExpert | 6 | 2672.3 | +191.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): GoopT (+0.0), Thrash (+0.0), Absent Minded (+0.0), Remnant (+0.0), dogwater (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+- S57 NA Main Central - Playoffs (2026-06-04): expires in 47 days [Tier Exposure 0.39]
+
 #### Matches (33 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Old Meta | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 0.00 | 0.00 | -90.0 | -CNR, -TIME-, DrMrFish, Senpall, theguy |
+| 2026-10-09 | Old Meta | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 0.00 | 0.00 | -90.1 | -CNR, -TIME-, DrMrFish, Senpall, theguy |
 | 2026-09-21 | qcclan | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.19 | 1.00 | 1.19 | 0.00 | 0.00 | -80.8 | -CNR, DrMrFish, Senpall, theguy, wishy |
 | 2026-09-20 | Old Meta | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.19 | 1.00 | 1.19 | 0.16 | 1.19 | +75.5 | -CNR, DrMrFish, Senpall, Tr15taN, theguy |
 | 2026-09-19 | Bird Squishers | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.19 | 1.00 | 1.19 | 0.10 | 1.19 | +51.4 | -CNR, DrMrFish, Senpall, Tr15taN, theguy |
@@ -44,15 +76,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.03 | 0.75 | +137.3 | -CNR, DrMrFish, Senpall, theguy, wishy |
 | 2026-07-22 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -4.8 | -CNR, DrMrFish, Senpall, Tr15taN, wishy |
 | 2026-07-17 | Evil Space Wizards | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -378.5 | -CNR, DrMrFish, Senpall, theguy, wishy |
-| 2026-07-15 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.07 | 0.68 | +169.7 | -CNR, DrMrFish, Senpall, theguy, wishy |
+| 2026-07-15 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.07 | 0.68 | +169.8 | -CNR, DrMrFish, Senpall, theguy, wishy |
 | 2026-06-04 | Elation | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -67.0 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-06-03 | Storm Surge | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.24 | 1.00 | 0.38 | 0.05 | 0.00 | +36.1 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-31 | Shaboing Boing Bandits | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.05 | 0.00 | +20.5 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-29 | SquadUp | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -207.1 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-22 | NXG Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.04 | 0.26 | +45.4 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
-| 2026-05-20 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -304.7 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
+| 2026-05-20 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -304.8 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-13 | Bills | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +168.5 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
-| 2026-05-08 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -33.0 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
+| 2026-05-08 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -33.1 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-06 | Priority | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +316.4 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-01 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +32.2 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-04-24 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +240.0 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |

@@ -19,6 +19,38 @@ seed_factor 0.169 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.043) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.169 | 1337.1 | - |
+| +30 days | 0.151 | 1311.6 | -25.5 |
+| +60 days | 0.134 | 1287.0 | -50.1 |
+| +90 days | 0.101 | 1241.8 | -95.3 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.085 average, gap -0.011). Matching that average is worth about 3.9 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.96; S58 NA Intermediate B - Regular Season (2026-08-26) 0.87; S57 NA Open9-10 Central - Playoffs A (2026-05-28) 0.28
+- Quality Wins drivers: beat We Play Naked at S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.11; beat Benadryl Abusers at S58 NA Intermediate Central - Playoffs B (2026-09-07) 0.10; beat Flow Esports at S58 NA Intermediate B - Regular Season (2026-08-19) 0.09
+- Opponent Network drivers: beat We Play Naked at S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.96; beat Benadryl Abusers at S58 NA Intermediate Central - Playoffs B (2026-09-07) 0.95; beat katzwitgunz at S58 NA Intermediate B - Regular Season (2026-08-26) 0.87
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +569.8 |
+| SportsBetExpert | 6 | 2672.3 | +568.5 |
+| LAG Gaming | 8 | 2507.3 | +558.1 |
+| M80 | 2 | 3081.4 | +557.7 |
+| Wildcard | 3 | 2911.9 | +553.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A (2026-05-28): expires in 40 days [Tier Exposure 0.28]
+- S58 NA Intermediate B - Regular Season vs monitor off (2026-07-15): expires in 88 days [Quality Wins 0.05, Opponent Network 0.59]
+
 #### Matches (15 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -36,7 +68,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.05 | 0.73 | +7.7 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
 | 2026-07-31 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -123.2 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, red1ski |
 | 2026-07-29 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.06 | 0.68 | +53.1 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, sank |
-| 2026-07-22 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -155.8 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
+| 2026-07-22 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -155.9 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
 | 2026-07-15 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +140.8 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, sank |
 | 2026-05-28 | FLOW STATE | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.27 | 1.05 | 1.00 | 0.28 | 0.00 | 0.00 | -162.9 | BonJinko, Mattoy_, _Mski_, red1ski, rixY |
 

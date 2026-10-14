@@ -19,12 +19,43 @@ seed_factor 0.059 = 0.25 x Tier Exposure (0.080) + 0.50 x Quality Wins (0.011) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.059 | 1182.7 | - |
+| +30 days | 0.054 | 1175.5 | -7.2 |
+| +60 days | 0.050 | 1170.6 | -12.1 |
+| +90 days | 0.045 | 1163.4 | -19.3 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.135 vs 0.193 average, gap -0.058). Matching that average is worth about 20.3 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 West - Playoffs (2026-09-08) 1.06; MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.94; S57 NA Open9-10 Central - Playoffs B (2026-05-31) 0.29
+- Quality Wins drivers: beat Cause and Effect Gaming at S58 NA Open9-10 West - Playoffs (2026-09-02) 0.13; beat Washed at S58 NA Open9-10 West - Playoffs (2026-09-07) 0.04
+- Opponent Network drivers: beat Washed at S58 NA Open9-10 West - Playoffs (2026-09-07) 1.05; beat Cause and Effect Gaming at S58 NA Open9-10 West - Playoffs (2026-09-02) 1.01
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.1 |
+| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| regain | 12 | 2256.1 | +657.0 |
+| LAG Gaming | 8 | 2507.3 | +655.9 |
+| Zomblers | 22 | 2114.7 | +655.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.7).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B (2026-05-31): expires in 43 days [Tier Exposure 0.29]
+
 #### Matches (6 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | Sodium | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.00 | 0.00 | -118.0 | Bowl999, H8R, T3RMS, park666, powu |
+| 2026-09-08 | Sodium | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.00 | 0.00 | -118.1 | Bowl999, H8R, T3RMS, park666, powu |
 | 2026-09-07 | Washed | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.04 | 1.05 | +230.7 | Bowl999, H8R, T3RMS, park666, powu |
 | 2026-09-04 | Gloobers | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -122.0 | Bowl999, Princton, T3RMS, park666, powu |
 | 2026-09-02 | Cause and Effect Gaming | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.13 | 1.01 | +232.8 | Bowl999, Princton, T3RMS, park666, powu |

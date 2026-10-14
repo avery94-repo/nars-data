@@ -19,6 +19,34 @@ seed_factor 0.124 = 0.25 x Tier Exposure (0.039) + 0.50 x Quality Wins (0.019) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.124 | 1273.8 | - |
+| +30 days | 0.121 | 1268.9 | -4.8 |
+| +60 days | 0.120 | 1267.6 | -6.2 |
+| +90 days | 0.117 | 1264.2 | -9.6 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.039 vs 0.065 average, gap -0.026). Matching that average is worth about 9.1 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 West - Playoffs (2026-09-17) 1.11
+- Quality Wins drivers: beat RH Help Desk at S58 NA Open9-10 West - Playoffs (2026-09-15) 0.08; beat house at S58 NA Open9-10 West - Playoffs (2026-09-10) 0.08; beat Gloobers at S58 NA Open9-10 West - Playoffs (2026-09-17) 0.04
+- Opponent Network drivers: beat Gloobers at S58 NA Open9-10 West - Playoffs (2026-09-17) 1.11; beat RH Help Desk at S58 NA Open9-10 West - Playoffs (2026-09-15) 1.11; beat house at S58 NA Open9-10 West - Playoffs (2026-09-10) 1.07
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +321.8 |
+| SportsBetExpert | 6 | 2672.3 | +320.6 |
+| M80 | 2 | 3081.4 | +315.2 |
+| LAG Gaming | 8 | 2507.3 | +313.5 |
+| Wildcard | 3 | 2911.9 | +312.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
+
 #### Matches (8 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

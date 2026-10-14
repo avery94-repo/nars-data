@@ -19,6 +19,34 @@ seed_factor 0.159 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.027) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.159 | 1322.5 | - |
+| +30 days | 0.165 | 1331.1 | +8.6 |
+| +60 days | 0.168 | 1335.5 | +12.9 |
+| +90 days | 0.174 | 1343.2 | +20.7 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.027 vs 0.077 average, gap -0.050). Matching that average is worth about 35.0 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Open9-10 East - Playoffs A (2026-09-21) 1.00
+- Quality Wins drivers: beat Bad Jawn at S59 NA Intermediate A - Regular Season (2026-10-09) 0.08; beat AscendentEsport at S58 NA Open9-10 East - Playoffs A (2026-09-19) 0.07; beat Mud Wizards at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07
+- Opponent Network drivers: beat Mud Wizards at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; beat Bad Jawn at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat Trap Castle at S58 NA Open9-10 East - Playoffs A (2026-09-20) 1.00
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +254.4 |
+| SportsBetExpert | 6 | 2672.3 | +251.6 |
+| M80 | 2 | 3081.4 | +250.1 |
+| Wildcard | 3 | 2911.9 | +247.6 |
+| Liquid | 1 | 3103.3 | +246.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), Old Dads Banging (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0).
+
 #### Matches (10 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

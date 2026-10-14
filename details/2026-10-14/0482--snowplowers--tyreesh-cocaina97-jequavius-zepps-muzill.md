@@ -19,6 +19,36 @@ seed_factor 0.076 = 0.25 x Tier Exposure (0.041) + 0.50 x Quality Wins (0.011) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.076 | 1206.8 | - |
+| +30 days | 0.060 | 1183.4 | -23.4 |
+| +60 days | 0.051 | 1171.3 | -35.5 |
+| +90 days | 0.037 | 1152.0 | -54.9 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.041 vs 0.043 average, gap -0.002). Matching that average is worth about 0.7 seed points.
+
+- Tier Exposure drivers: S58 NA Main A - Regular Season (2026-08-28) 0.90; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat HUMA at S58 NA Main A - Regular Season (2026-07-29) 0.05; beat In Our Prime at S58 NA Main A - Regular Season (2026-08-21) 0.04; beat Courage at S58 NA Main A - Regular Season (2026-08-19) 0.03
+- Opponent Network drivers: beat In Our Prime at S58 NA Main A - Regular Season (2026-08-21) 0.85; beat Courage at S58 NA Main A - Regular Season (2026-08-19) 0.84; beat Old Dads Banging at S58 NA Main A - Regular Season (2026-08-12) 0.79
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.3 |
+| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| North Forge | 38 | 1971.1 | +664.0 |
+| Wanted Goons | 43 | 1933.1 | +663.1 |
+| Zomblers | 22 | 2114.7 | +662.3 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs gooshedd (2026-05-21): expires in 33 days [Quality Wins 0.01, Opponent Network 0.25]
+- S57 NA Main Central - Regular Season vs Climbers (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.01, Opponent Network 0.26]
+
 #### Matches (19 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

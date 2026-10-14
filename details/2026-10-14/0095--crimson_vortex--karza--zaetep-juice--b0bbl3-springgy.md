@@ -4,20 +4,57 @@ Roster: Karza-, zaetep, juice-, b0bbl3, Springgy
 NARS Rank: 95 of 506
 
 Final Rating: 1727.3
-Seeded Start: 1306.9
-H2H Adjustment: +420.4 (capped at +-300, raw +420.5)
+Seeded Start: 1306.8
+H2H Adjustment: +420.5
 
-Final Rating (1727.3) = Seeded Start (1306.9) + H2H Adjustment (+420.4)
+Final Rating (1727.3) = Seeded Start (1306.8) + H2H Adjustment (+420.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.148 x 1400 = 1306.9
+                = 1100 + 0.148 x 1400 = 1306.8
 
 seed_factor 0.148 = 0.25 x Tier Exposure (0.098) + 0.50 x Quality Wins (0.044) + 0.25 x Opponent Network (0.404)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.148 | 1306.8 | - |
+| +30 days | 0.110 | 1253.7 | -53.2 |
+| +60 days | 0.084 | 1216.9 | -89.9 |
+| +90 days | 0.060 | 1184.0 | -122.9 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.404 vs 0.568 average, gap -0.164). Matching that average is worth about 57.4 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-10) 1.16; S58 NA Main B - Regular Season (2026-08-19) 0.95; S57 NA Main Central - Playoffs (2026-06-09) 0.43
+- Quality Wins drivers: beat YHTR at S58 NA Main Central - Playoffs B (2026-09-04) 0.18; beat Kinetic at S58 NA Main B - Regular Season (2026-08-12) 0.12; beat penazoid at S58 NA Main B - Regular Season (2026-08-11) 0.11
+- Opponent Network drivers: beat YHTR at S58 NA Main Central - Playoffs B (2026-09-04) 1.11; beat Kinetic at S58 NA Main B - Regular Season (2026-08-12) 0.90; beat penazoid at S58 NA Main B - Regular Season (2026-08-11) 0.89
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +562.1 |
+| SportsBetExpert | 6 | 2672.3 | +554.3 |
+| M80 | 2 | 3081.4 | +553.3 |
+| Wildcard | 3 | 2911.9 | +547.3 |
+| Liquid | 1 | 3103.3 | +545.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), Solbound (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs WhalersOnDaMoon (2026-05-15): expires in 27 days [Quality Wins 0.03]
+- S57 NA Main Central - Regular Season vs the dragon warrior scroll (2026-05-22): expires in 34 days [Tier Exposure 0.26, Opponent Network 0.26]
+- S57 NA Main Central - Playoffs vs GeneticDiff (2026-05-27): expires in 39 days [Quality Wins 0.04, Opponent Network 0.33]
+- S57 NA Main Central - Playoffs vs Kairo (2026-05-29): expires in 41 days [Quality Wins 0.04, Opponent Network 0.34]
+- S57 NA Main Central - Playoffs vs The Skins (2026-06-04): expires in 47 days [Quality Wins 0.04, Opponent Network 0.39]
+- S57 NA Main Central - Playoffs vs Pugging4Pumpkin (2026-06-06): expires in 49 days [Quality Wins 0.04, Opponent Network 0.41]
+- S57 NA Main Central - Playoffs (2026-06-09): expires in 52 days [Tier Exposure 0.43]
 
 #### Matches (26 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

@@ -3,11 +3,11 @@ Team Name: Duality Zero
 Roster: fceitGOONING, obiik1ng, beast9, is_o, M1xman
 NARS Rank: 411 of 506
 
-Final Rating: 1036.6
+Final Rating: 1036.5
 Seeded Start: 1121.6
-H2H Adjustment: -85.0
+H2H Adjustment: -85.1
 
-Final Rating (1036.6) = Seeded Start (1121.6) + H2H Adjustment (-85.0)
+Final Rating (1036.5) = Seeded Start (1121.6) + H2H Adjustment (-85.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -19,13 +19,49 @@ seed_factor 0.015 = 0.25 x Tier Exposure (0.019) + 0.50 x Quality Wins (0.002) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.015 | 1121.6 | - |
+| +30 days | 0.003 | 1104.8 | -16.7 |
+| +60 days | 0.000 | 1100.0 | -21.6 |
+| +90 days | 0.000 | 1100.0 | -21.6 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.038 vs 0.218 average, gap -0.180). Matching that average is worth about 63.0 seed points.
+
+- Tier Exposure drivers: S57 NA Intermediate Central - Playoffs B (2026-06-05) 0.32; S57 NA Intermediate Central - Regular Season (2026-05-21) 0.22
+- Quality Wins drivers: beat The Sweepers at S57 NA Intermediate Central - Regular Season (2026-05-15) 0.02; beat High-Tech Performance at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.01; beat Famas OP at S57 NA Intermediate Central - Playoffs B (2026-06-01) 0.01
+- Opponent Network drivers: beat Famas OP at S57 NA Intermediate Central - Playoffs B (2026-06-01) 0.30; beat The Sweepers at S57 NA Intermediate Central - Regular Season (2026-05-15) 0.18; beat High-Tech Performance at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.08
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.1 |
+| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| regain | 12 | 2256.1 | +657.0 |
+| LAG Gaming | 8 | 2507.3 | +655.9 |
+| Zomblers | 22 | 2114.7 | +655.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.7).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Hack-A-Shaq (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Intermediate Central - Regular Season vs High-Tech Performance (2026-04-29): expires in 11 days [Quality Wins 0.01, Opponent Network 0.08]
+- S57 NA Intermediate Central - Regular Season vs The Sweepers (2026-05-15): expires in 27 days [Quality Wins 0.02, Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.22]
+- S57 NA Intermediate Central - Playoffs B vs Famas OP (2026-06-01): expires in 44 days [Quality Wins 0.01, Opponent Network 0.30]
+- S57 NA Intermediate Central - Playoffs B (2026-06-05): expires in 48 days [Tier Exposure 0.32]
+
 #### Matches (12 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-05 | The Agarthans | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -195.5 | KPak, M1xman, beast9, is_o, obiik1ng |
-| 2026-06-01 | Famas OP | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.01 | 0.30 | +292.2 | KPak, M1xman, beast9, is_o, obiik1ng |
+| 2026-06-01 | Famas OP | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.01 | 0.30 | +292.3 | KPak, M1xman, beast9, is_o, obiik1ng |
 | 2026-05-27 | Ninjas In Boxer | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -7.8 | KPak, M1xman, beast9, is_o, obiik1ng |
 | 2026-05-21 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -262.9 | Certified, M1xman, beast9, is_o, obiik1ng |
 | 2026-05-20 | GoonAssOldheads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -366.2 | Certified, M1xman, beast9, is_o, obiik1ng |

@@ -19,6 +19,34 @@ seed_factor 0.227 = 0.25 x Tier Exposure (0.108) + 0.50 x Quality Wins (0.074) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.227 | 1417.3 | - |
+| +30 days | 0.223 | 1411.7 | -5.7 |
+| +60 days | 0.217 | 1403.5 | -13.8 |
+| +90 days | 0.207 | 1389.3 | -28.0 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.108 vs 0.295 average, gap -0.187). Matching that average is worth about 65.5 seed points.
+
+- Tier Exposure drivers: NSTLGA League | Sapphire Conference (2026-08-29) 1.07; S58 NA Open9-10 East - Playoffs C (2026-09-20) 1.02; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
+- Quality Wins drivers: beat Fathom Gaming at NSTLGA League | Sapphire Conference (2026-08-27) 0.38; beat SquadUp at NSTLGA League | Sapphire Conference (2026-08-20) 0.20; beat Firstwave at NSTLGA League | Sapphire Conference (2026-08-13) 0.14
+- Opponent Network drivers: beat Knox Esports at NSTLGA League | Sapphire Conference (2026-08-29) 1.07; beat Fathom Gaming at NSTLGA League | Sapphire Conference (2026-08-27) 1.05; beat Green Grove Retirement at S58 NA Open9-10 East - Playoffs C (2026-09-20) 1.02
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +632.6 |
+| M80 | 2 | 3081.4 | +631.5 |
+| Liquid | 1 | 3103.3 | +622.9 |
+| Wildcard | 3 | 2911.9 | +619.2 |
+| SportsBetExpert | 6 | 2672.3 | +607.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): SuperSoakerClub (+0.0), we get it back (+0.0), RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0).
+
 #### Matches (14 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -33,10 +61,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | 55TH ST | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.07 | 0.96 | +14.5 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-09-01 | Seven ate Nine | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.91 | 1.02 | 1.00 | 0.93 | 0.04 | 0.93 | +0.6 | Cooper, JASONR, Pol0, ayjin, fenom |
 | 2026-08-29 | Knox Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.20 | 1.00 | 1.07 | 0.07 | 1.07 | +0.5 | JASONR, Pol0, ayjin, d06b03e4, fenom |
-| 2026-08-27 | Fathom Gaming | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.38 | 1.05 | +173.2 | JASONR, Pol0, ayjin, fenom, freakazoid |
+| 2026-08-27 | Fathom Gaming | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.38 | 1.05 | +173.3 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-08-24 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.86 | 1.20 | 1.00 | 1.03 | 0.00 | 0.00 | -7.5 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-08-20 | SquadUp | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.20 | 0.99 | +163.4 | JASONR, Pol0, ayjin, fenom, freakazoid |
-| 2026-08-17 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.20 | 1.00 | 0.97 | 0.00 | 0.00 | -57.2 | Cooper, JASONR, Pol0, fenom, freakazoid |
+| 2026-08-17 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.20 | 1.00 | 0.97 | 0.00 | 0.00 | -57.3 | Cooper, JASONR, Pol0, fenom, freakazoid |
 | 2026-08-13 | Firstwave | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.14 | 0.94 | +121.5 | Cooper, JASONR, Pol0, fenom, freakazoid |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

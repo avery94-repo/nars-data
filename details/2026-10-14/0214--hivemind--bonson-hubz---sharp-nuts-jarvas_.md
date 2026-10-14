@@ -19,6 +19,40 @@ seed_factor 0.120 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.031) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.120 | 1267.4 | - |
+| +30 days | 0.100 | 1240.2 | -27.2 |
+| +60 days | 0.080 | 1211.5 | -55.9 |
+| +90 days | 0.047 | 1166.4 | -101.0 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.340 vs 0.376 average, gap -0.036). Matching that average is worth about 12.6 seed points.
+
+- Tier Exposure drivers: NA Revival (2026-09-27) 1.01; S58 NA Intermediate B - Regular Season (2026-08-19) 0.82; S57 NA Open9-10 Central - Playoffs A (2026-06-04) 0.33
+- Quality Wins drivers: beat Sharp at S58 NA Intermediate B - Regular Season (2026-08-05) 0.10; beat We Play Naked at S58 NA Intermediate B - Regular Season (2026-07-29) 0.08; beat Big Fish at S58 NA Intermediate B - Regular Season (2026-07-24) 0.07
+- Opponent Network drivers: beat Anchors Anonymous at S58 NA Intermediate B - Regular Season (2026-08-19) 0.82; beat The Ohio Meat Wagon at S58 NA Intermediate B - Regular Season (2026-08-14) 0.79; beat Sharp at S58 NA Intermediate B - Regular Season (2026-08-05) 0.73
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +340.6 |
+| SportsBetExpert | 6 | 2672.3 | +339.8 |
+| LAG Gaming | 8 | 2507.3 | +333.6 |
+| M80 | 2 | 3081.4 | +333.4 |
+| Wildcard | 3 | 2911.9 | +331.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A vs walkthemdown (2026-05-31): expires in 43 days [Quality Wins 0.02, Opponent Network 0.30]
+- S57 NA Open9-10 Central - Playoffs A vs Anchors Anonymous (2026-06-02): expires in 45 days [Quality Wins 0.02]
+- S57 NA Open9-10 Central - Playoffs A (2026-06-04): expires in 47 days [Tier Exposure 0.33]
+- S58 NA Intermediate B - Regular Season vs Thrash (2026-07-15): expires in 88 days [Quality Wins 0.04, Opponent Network 0.59]
+
 #### Matches (15 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -34,7 +68,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.68 | +0.4 | -Verse-, Bonson, b4m, jaRvas_, nuts |
 | 2026-07-24 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.07 | 0.65 | +193.1 | -Verse-, Bonson, GUNTURI, jaRvas_, nuts |
 | 2026-07-22 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +240.8 | -Verse-, Bonson, Hubz-, jaRvas_, nuts |
-| 2026-07-15 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +158.9 | -Verse-, Hubz-, b4m, jaRvas_, nuts |
+| 2026-07-15 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +159.0 | -Verse-, Hubz-, b4m, jaRvas_, nuts |
 | 2026-06-04 | FoxtrotAlpha | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.00 | 0.00 | -196.8 | -sharp, Bonson, Hubz-, jaRvas_, nuts |
 | 2026-06-02 | Anchors Anonymous | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.02 | 0.00 | +179.9 | -sharp, Bonson, Hubz-, jaRvas_, nuts |
 | 2026-05-31 | walkthemdown | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.02 | 0.30 | +190.8 | -sharp, Bonson, Hubz-, jaRvas_, nuts |

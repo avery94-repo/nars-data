@@ -19,6 +19,34 @@ seed_factor 0.141 = 0.25 x Tier Exposure (0.093) + 0.50 x Quality Wins (0.028) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.141 | 1298.1 | - |
+| +30 days | 0.129 | 1280.6 | -17.5 |
+| +60 days | 0.117 | 1264.0 | -34.1 |
+| +90 days | 0.094 | 1231.2 | -66.9 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.028 vs 0.041 average, gap -0.013). Matching that average is worth about 9.1 seed points.
+
+- Tier Exposure drivers: S58 NA Open1-8 Central - Playoffs (2026-09-16) 1.00; MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.94; Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-26) 0.70
+- Quality Wins drivers: beat enigma at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.14; beat Strafe at Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-25) 0.12; beat ARES GAMING at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.06
+- Opponent Network drivers: beat REMM at S58 NA Open1-8 Central - Playoffs (2026-09-11) 0.98; beat Rogue Dungeon at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.96; beat enigma at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.94
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +502.8 |
+| SportsBetExpert | 6 | 2672.3 | +500.4 |
+| M80 | 2 | 3081.4 | +492.7 |
+| Wildcard | 3 | 2911.9 | +488.8 |
+| LAG Gaming | 8 | 2507.3 | +488.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
+
 #### Matches (10 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

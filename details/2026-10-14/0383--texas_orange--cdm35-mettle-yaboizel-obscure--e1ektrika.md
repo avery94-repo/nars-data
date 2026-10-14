@@ -19,6 +19,40 @@ seed_factor 0.107 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.028) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.107 | 1249.7 | - |
+| +30 days | 0.089 | 1224.7 | -25.0 |
+| +60 days | 0.074 | 1204.3 | -45.4 |
+| +90 days | 0.047 | 1165.6 | -84.1 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.296 vs 0.333 average, gap -0.037). Matching that average is worth about 13.0 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-09) 1.02; S58 NA Main A - Regular Season (2026-08-28) 0.90; S57 NA Main Central - Regular Season (2026-05-15) 0.21
+- Quality Wins drivers: beat Tractors at S58 NA Main A - Regular Season (2026-07-15) 0.12; beat NYX at S58 NA Main A - Regular Season (2026-08-12) 0.10; beat Saltcrew at S58 NA Main A - Regular Season (2026-07-29) 0.08
+- Opponent Network drivers: beat Gregs New Cut at S58 NA Main A - Regular Season (2026-08-26) 0.89; beat NYX at S58 NA Main A - Regular Season (2026-08-12) 0.79; beat Shadow Wizard Money Gang at S58 NA Main A - Regular Season (2026-07-31) 0.71
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +430.3 |
+| SportsBetExpert | 6 | 2672.3 | +430.1 |
+| regain | 12 | 2256.1 | +425.1 |
+| LAG Gaming | 8 | 2507.3 | +424.4 |
+| Zomblers | 22 | 2114.7 | +423.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.7), shirtcockin (+1.0), Courage (+1.2), SixSevenZaZa (+1.9).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Cadillac F1 eSports Team (2026-04-29): expires in 11 days [Quality Wins 0.01, Opponent Network 0.09]
+- S57 NA Main Central - Regular Season vs juked (2026-05-06): expires in 18 days [Quality Wins 0.01, Opponent Network 0.14]
+- S57 NA Main Central - Regular Season (2026-05-15): expires in 27 days [Tier Exposure 0.21]
+- S58 NA Main A - Regular Season vs Tractors (2026-07-15): expires in 88 days [Quality Wins 0.12, Opponent Network 0.60]
+
 #### Matches (20 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

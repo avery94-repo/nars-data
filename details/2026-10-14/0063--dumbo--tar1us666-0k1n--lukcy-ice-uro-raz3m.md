@@ -19,6 +19,37 @@ seed_factor 0.225 = 0.25 x Tier Exposure (0.127) + 0.50 x Quality Wins (0.064) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.225 | 1415.0 | - |
+| +30 days | 0.220 | 1407.4 | -7.6 |
+| +60 days | 0.215 | 1401.0 | -14.1 |
+| +90 days | 0.211 | 1395.3 | -19.7 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.064 vs 0.239 average, gap -0.175). Matching that average is worth about 122.5 seed points.
+
+- Tier Exposure drivers: S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; S58 NA Intermediate Central - Playoffs A (2026-09-15) 1.00; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88
+- Quality Wins drivers: beat Rejects at S58 NA Intermediate Central - Playoffs A (2026-09-15) 0.16; beat Shadow Wizard Money Gang at S59 NA Advanced Central - Regular Season (2026-10-09) 0.15; beat AURA Esports at S58 NA Intermediate Central - Playoffs A (2026-09-17) 0.13
+- Opponent Network drivers: beat Shadow Wizard Money Gang at S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; beat Rejects at S58 NA Intermediate Central - Playoffs A (2026-09-15) 1.00; beat MommySports at S58 NA Intermediate Central - Playoffs A (2026-09-18) 1.00
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +142.4 |
+| SportsBetExpert | 6 | 2672.3 | +140.9 |
+| M80 | 2 | 3081.4 | +139.9 |
+| Wildcard | 3 | 2911.9 | +138.6 |
+| Liquid | 1 | 3103.3 | +138.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A (2026-06-02): expires in 45 days [Tier Exposure 0.32]
+
 #### Matches (25 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -38,13 +69,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-20 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -59.1 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-14 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.09 | 0.79 | +8.7 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-12 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +87.0 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
-| 2026-08-07 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -64.7 | Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
+| 2026-08-07 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -64.8 | Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
 | 2026-08-05 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -76.4 | Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
 | 2026-07-29 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.06 | 0.68 | +78.8 | KobeSucker67, Lukcy-Ice, RaZ3M, SlothCrash, uro |
 | 2026-07-29 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.00 | +198.7 | 0K1N-, Lukcy-Ice, RaZ3M, uro, yx_x |
 | 2026-07-24 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.08 | 0.65 | +20.8 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
-| 2026-07-22 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -146.4 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
-| 2026-07-17 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +270.2 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
+| 2026-07-22 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -146.5 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
+| 2026-07-17 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +270.3 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-07-15 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.06 | 0.59 | +1.8 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-06-02 | rondon | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -270.4 | Lukcy-Ice, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-05-31 | Big Kahuna Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.01 | 0.30 | +11.1 | Lukcy-Ice, RaZ3M, Tar1us666, uro, yx_x |

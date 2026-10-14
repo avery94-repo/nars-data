@@ -19,6 +19,42 @@ seed_factor 0.146 = 0.25 x Tier Exposure (0.110) + 0.50 x Quality Wins (0.037) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.146 | 1304.0 | - |
+| +30 days | 0.125 | 1275.1 | -28.9 |
+| +60 days | 0.112 | 1256.7 | -47.2 |
+| +90 days | 0.089 | 1224.1 | -79.8 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.037 vs 0.033 average, gap +0.004). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Main Central - Playoffs A (2026-09-02) 0.95; S58 NA Main A - Regular Season (2026-08-28) 0.90
+- Quality Wins drivers: beat MakeYouSayLate at S59 NA Main A - Regular Season (2026-10-09) 0.12; beat Team Amplus at S58 NA Main A - Regular Season (2026-07-22) 0.11; beat teamington at S58 NA Main A - Regular Season (2026-08-20) 0.10
+- Opponent Network drivers: beat MakeYouSayLate at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat teamington at S58 NA Main A - Regular Season (2026-08-20) 0.85; beat Chopped at S58 NA Main A - Regular Season (2026-08-14) 0.81
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +408.5 |
+| SportsBetExpert | 6 | 2672.3 | +408.0 |
+| LAG Gaming | 8 | 2507.3 | +401.9 |
+| regain | 12 | 2256.1 | +399.5 |
+| M80 | 2 | 3081.4 | +399.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.3).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs The Skins (2026-04-22): expires in 4 days [Quality Wins 0.00]
+- S57 NA Main Central - Regular Season vs Down To Frag (2026-04-24): expires in 6 days [Quality Wins 0.00]
+- S57 NA Main Central - Regular Season vs DNA (2026-05-13): expires in 25 days [Quality Wins 0.00, Opponent Network 0.19]
+- S57 NA Main Central - Regular Season vs James Bond Bois (2026-05-13): expires in 25 days [Opponent Network 0.19]
+- S57 NA Main Central - Regular Season vs The Bobs (2026-05-21): expires in 33 days [Opponent Network 0.26]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+
 #### Matches (25 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

@@ -13,11 +13,44 @@ Final Rating (1153.2) = Seeded Start (1279.1) + H2H Adjustment (-125.9)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.128 x 1400 = 1279.1
 
-seed_factor 0.128 = 0.25 x Tier Exposure (0.120) + 0.50 x Quality Wins (0.023) + 0.25 x Opponent Network (0.346)
+seed_factor 0.128 = 0.25 x Tier Exposure (0.119) + 0.50 x Quality Wins (0.023) + 0.25 x Opponent Network (0.346)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.128 | 1279.1 | - |
+| +30 days | 0.108 | 1251.9 | -27.2 |
+| +60 days | 0.100 | 1240.0 | -39.1 |
+| +90 days | 0.086 | 1219.9 | -59.2 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.023 vs 0.022 average, gap +0.001). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-06) 1.13; S58 NA Main B - Regular Season (2026-08-28) 1.02; S59 NA Main A - Regular Season (2026-10-09) 1.02
+- Quality Wins drivers: beat Absent Minded at S58 NA Main B - Regular Season (2026-08-14) 0.08; beat Temple of Swing at S58 NA Main B - Regular Season (2026-08-19) 0.08; beat HammerHeads at S58 NA Main B - Regular Season (2026-08-28) 0.06
+- Opponent Network drivers: beat HammerHeads at S58 NA Main B - Regular Season (2026-08-28) 1.02; beat Top One Percent at S58 NA Main B - Regular Season (2026-08-26) 1.01; beat Temple of Swing at S58 NA Main B - Regular Season (2026-08-19) 0.95
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +405.1 |
+| SportsBetExpert | 6 | 2672.3 | +404.9 |
+| regain | 12 | 2256.1 | +399.4 |
+| LAG Gaming | 8 | 2507.3 | +399.3 |
+| Zomblers | 22 | 2114.7 | +397.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.7), SixSevenZaZa (+1.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs RAZED (2026-05-01): expires in 13 days [Quality Wins 0.00, Opponent Network 0.10]
+- S57 NA Main Central - Regular Season vs The Homies (2026-05-06): expires in 18 days [Quality Wins 0.02, Opponent Network 0.14]
+- S57 NA Main Central - Regular Season vs 1NT (2026-05-20): expires in 32 days [Tier Exposure 0.25, Quality Wins 0.03, Opponent Network 0.25]
 
 #### Matches (23 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -43,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -135.5 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-05-13 | iNSTINCT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -312.3 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-05-06 | The Homies | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +146.3 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
-| 2026-05-01 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +379.4 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
+| 2026-05-01 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +379.5 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-04-29 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -19.7 | -eckz, BiggyJ, ChrisXCross, FR0STBITE_, phwn |
 | 2026-04-24 | Old Dads Banging | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -282.5 | -eckz, BiggyJ, ChrisXCross, FR0STBITE_, phwn |
 | 2026-04-22 | Cadillac F1 eSports Team | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -245.2 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |

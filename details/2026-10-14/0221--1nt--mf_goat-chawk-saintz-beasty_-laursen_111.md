@@ -19,6 +19,37 @@ seed_factor 0.202 = 0.25 x Tier Exposure (0.120) + 0.50 x Quality Wins (0.055) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.202 | 1382.4 | - |
+| +30 days | 0.187 | 1362.5 | -20.0 |
+| +60 days | 0.169 | 1337.2 | -45.2 |
+| +90 days | 0.135 | 1289.6 | -92.8 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.055 vs 0.034 average, gap +0.021). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-06) 1.13; S58 NA Main B - Regular Season (2026-08-28) 1.02; S59 NA Main A - Regular Season (2026-10-07) 1.02
+- Quality Wins drivers: beat Strafe at S59 NA Main A - Regular Season (2026-10-08) 0.18; beat DESPAIR at S58 NA Main B - Regular Season (2026-08-19) 0.13; beat Entertainment Cheese at S58 NA Main B - Regular Season (2026-07-31) 0.13
+- Opponent Network drivers: beat puggin4seb at S59 NA Main A - Regular Season (2026-10-07) 1.02; beat Strafe at S59 NA Main A - Regular Season (2026-10-08) 1.02; beat crescent at S58 NA Main B - Regular Season (2026-08-21) 0.97
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +349.9 |
+| SportsBetExpert | 6 | 2672.3 | +349.2 |
+| LAG Gaming | 8 | 2507.3 | +342.9 |
+| M80 | 2 | 3081.4 | +342.4 |
+| Wildcard | 3 | 2911.9 | +340.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+
 #### Matches (26 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -27,7 +58,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-08 | Strafe | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.18 | 1.02 | +11.6 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-10-07 | puggin4seb | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +22.2 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-09-06 | Bird Squishers | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.13 | 0.00 | 0.00 | -73.0 | Beasty_, Chawk, LAURSEN_111, Yo1nky, deadacate |
-| 2026-09-02 | penazoid | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.09 | 0.00 | 0.00 | -109.6 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
+| 2026-09-02 | penazoid | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.09 | 0.00 | 0.00 | -109.7 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-08-28 | The Skins | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -123.0 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-08-26 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -91.6 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-08-21 | crescent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.10 | 0.97 | +50.4 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |

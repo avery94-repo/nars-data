@@ -19,6 +19,38 @@ seed_factor 0.244 = 0.25 x Tier Exposure (0.103) + 0.50 x Quality Wins (0.101) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.244 | 1440.9 | - |
+| +30 days | 0.215 | 1400.4 | -40.5 |
+| +60 days | 0.197 | 1375.4 | -65.5 |
+| +90 days | 0.171 | 1339.4 | -101.5 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.103 vs 0.603 average, gap -0.500). Matching that average is worth about 175.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-16) 1.19; S58 NA Main B - Regular Season (2026-08-28) 1.02; Lan ETS 2026 (2026-05-31) 0.47
+- Quality Wins drivers: beat POULETROUGE at Lan ETS 2026 (2026-05-31) 0.35; beat VOID ALUNE at S58 NA Main Central - Playoffs B (2026-09-08) 0.22; beat Conscious Gaming at S58 NA Main B - Regular Season (2026-08-28) 0.18
+- Opponent Network drivers: beat Automatic HQ at S58 NA Main Central - Playoffs B (2026-09-10) 1.16; beat VOID ALUNE at S58 NA Main Central - Playoffs B (2026-09-08) 1.14; beat Down To Frag at S58 NA Main Central - Playoffs B (2026-09-06) 1.13
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +307.9 |
+| Liquid | 1 | 3103.3 | +303.9 |
+| NRG | 4 | 2836.4 | +301.6 |
+| Wildcard | 3 | 2911.9 | +297.9 |
+| Voca | 5 | 2796.5 | +282.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Dead Pixel (+0.0), It Doesnt Matter (+0.0), Team Deathgrip (+0.0), GoopT (+0.0), Cause and Effect Gaming (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+- Lan ETS 2026 vs POULETROUGE (2026-05-31): expires in 44 days [Tier Exposure 0.47, Quality Wins 0.35]
+
 #### Matches (29 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -35,7 +67,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | The Skins | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.10 | 0.97 | +80.1 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
 | 2026-08-14 | 91AshLiu | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.05 | 0.92 | +84.8 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
 | 2026-08-12 | NADIYA | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.04 | 0.90 | +7.1 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
-| 2026-08-07 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.14 | 0.86 | +114.8 | 1MkaeL, Gabie, J0LZ, TENSKEE, sup3rant |
+| 2026-08-07 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.14 | 0.86 | +114.9 | 1MkaeL, Gabie, J0LZ, TENSKEE, sup3rant |
 | 2026-08-05 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -113.5 | 1MkaeL, Gabie, J0LZ, TENSKEE, sup3rant |
 | 2026-07-31 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -177.8 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
 | 2026-07-29 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -219.5 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
@@ -43,8 +75,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | GOOZPEEK | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.06 | 0.74 | +97.1 | Gabie, Qwerto-, TENSKEE, Yonji, sup3rant |
 | 2026-07-17 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.04 | 0.70 | +88.7 | Gabie, Qwerto-, TENSKEE, Yonji, sup3rant |
 | 2026-07-16 | Kaos | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.06 | 0.69 | +28.3 | Gabie, Qwerto-, TENSKEE, Yonji, sup3rant |
-| 2026-05-31 | POULETROUGE | W | 2-0 | Lan ETS 2026 | C | liquipedia | 0.29 | 1.59 | 1.00 | 0.47 | 0.35 | 0.00 | +501.2 | Gabie, J0LZ, Melio, Sup3rant, YONJI |
-| 2026-05-22 | Binky | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -327.8 | 1MkaeL, Gabie, Yonji, lNCREDIBLE, sup3rant |
+| 2026-05-31 | POULETROUGE | W | 2-0 | Lan ETS 2026 | C | liquipedia | 0.29 | 1.59 | 1.00 | 0.47 | 0.35 | 0.00 | +501.3 | Gabie, J0LZ, Melio, Sup3rant, YONJI |
+| 2026-05-22 | Binky | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -327.9 | 1MkaeL, Gabie, Yonji, lNCREDIBLE, sup3rant |
 | 2026-05-15 | THE GUILD | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +199.1 | 1MkaeL, Gabie, Yonji, lNCREDIBLE, sup3rant |
 | 2026-05-08 | REPORT MASSIVE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +358.4 | 1MkaeL, Gabie, Yonji, lNCREDIBLE, sup3rant |
 | 2026-05-06 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -21.5 | 1MkaeL, Gabie, Yonji, lNCREDIBLE, sup3rant |

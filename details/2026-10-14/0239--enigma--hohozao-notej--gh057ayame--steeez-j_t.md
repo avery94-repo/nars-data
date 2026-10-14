@@ -19,6 +19,38 @@ seed_factor 0.129 = 0.25 x Tier Exposure (0.153) + 0.50 x Quality Wins (0.031) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.129 | 1281.2 | - |
+| +30 days | 0.116 | 1262.5 | -18.6 |
+| +60 days | 0.107 | 1250.1 | -31.1 |
+| +90 days | 0.091 | 1227.7 | -53.5 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.303 vs 0.365 average, gap -0.062). Matching that average is worth about 21.7 seed points.
+
+- Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; S58 NA Main Central - Playoffs A (2026-09-07) 0.99; MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.94
+- Quality Wins drivers: beat O Fire at Group Stage - CROSSFIRE Season 6 (2026-09-04) 0.16; beat Fortis Fortuna Adiuvat at S58 NA Main A - Regular Season (2026-08-28) 0.10; beat Full White at S58 NA Main Central - Playoffs A (2026-09-02) 0.08
+- Opponent Network drivers: beat O Fire at Group Stage - CROSSFIRE Season 6 (2026-09-04) 1.24; beat Full White at S58 NA Main Central - Playoffs A (2026-09-02) 0.95; beat Fortis Fortuna Adiuvat at S58 NA Main A - Regular Season (2026-08-28) 0.90
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +545.9 |
+| SportsBetExpert | 6 | 2672.3 | +544.5 |
+| LAG Gaming | 8 | 2507.3 | +534.4 |
+| M80 | 2 | 3081.4 | +534.3 |
+| Wildcard | 3 | 2911.9 | +530.4 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs The Homies (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+
 #### Matches (25 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

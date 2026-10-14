@@ -19,6 +19,41 @@ seed_factor 0.099 = 0.25 x Tier Exposure (0.053) + 0.50 x Quality Wins (0.020) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.099 | 1238.0 | - |
+| +30 days | 0.068 | 1194.7 | -43.2 |
+| +60 days | 0.055 | 1177.0 | -61.0 |
+| +90 days | 0.037 | 1151.7 | -86.2 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.053 vs 0.065 average, gap -0.012). Matching that average is worth about 4.2 seed points.
+
+- Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-26) 1.01; S57 NA Intermediate Central - Playoffs A (2026-05-29) 0.28; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat Bird Squishers at S58 NA Main B - Regular Season (2026-07-31) 0.07; beat Lynnsanity at S58 NA Main B - Regular Season (2026-08-07) 0.07; beat Emerald Isle at S58 NA Main B - Regular Season (2026-08-21) 0.05
+- Opponent Network drivers: beat Emerald Isle at S58 NA Main B - Regular Season (2026-08-21) 0.97; beat Lynnsanity at S58 NA Main B - Regular Season (2026-08-07) 0.86; beat shirtcockin at S58 NA Main B - Regular Season (2026-08-05) 0.85
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.2 |
+| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| Zomblers | 22 | 2114.7 | +659.9 |
+| regain | 12 | 2256.1 | +659.2 |
+| North Forge | 38 | 1971.1 | +658.9 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Square1 (2026-04-29): expires in 11 days [Quality Wins 0.00, Opponent Network 0.08]
+- S57 NA Intermediate Central - Regular Season vs YHTR (2026-05-08): expires in 20 days [Quality Wins 0.02, Opponent Network 0.14]
+- S57 NA Intermediate Central - Regular Season vs Hairy Scary Bandits (2026-05-15): expires in 27 days [Quality Wins 0.03, Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season vs 91AshLiu (2026-05-20): expires in 32 days [Quality Wins 0.01, Opponent Network 0.22]
+- S57 NA Intermediate Central - Regular Season vs Schadenfreude (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.01, Opponent Network 0.23]
+- S57 NA Intermediate Central - Playoffs A vs RejexEsports (2026-05-27): expires in 39 days [Quality Wins 0.01, Opponent Network 0.27]
+- S57 NA Intermediate Central - Playoffs A (2026-05-29): expires in 41 days [Tier Exposure 0.28]
+
 #### Matches (24 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

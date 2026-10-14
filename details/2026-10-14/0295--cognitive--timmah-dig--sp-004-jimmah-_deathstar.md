@@ -19,6 +19,38 @@ seed_factor 0.131 = 0.25 x Tier Exposure (0.120) + 0.50 x Quality Wins (0.023) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.131 | 1283.2 | - |
+| +30 days | 0.130 | 1281.8 | -1.4 |
+| +60 days | 0.129 | 1280.6 | -2.6 |
+| +90 days | 0.133 | 1286.8 | +3.6 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.358 vs 0.395 average, gap -0.037). Matching that average is worth about 13.0 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 West - Playoffs (2026-09-15) 1.11; NA Revival (2026-09-27) 1.01; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
+- Quality Wins drivers: beat Guangzhou Loong Lions at S58 NA Open9-10 West - Playoffs (2026-09-10) 0.09; beat Defaulting at S58 NA Open9-10 West - Playoffs (2026-09-12) 0.08; beat HiveMind at NA Revival (2026-09-27) 0.08
+- Opponent Network drivers: beat Defaulting at S58 NA Open9-10 West - Playoffs (2026-09-12) 1.09; beat Guangzhou Loong Lions at S58 NA Open9-10 West - Playoffs (2026-09-10) 1.07; beat Puddle Pirates at S58 NA Open9-10 West - Playoffs (2026-09-04) 1.03
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +435.6 |
+| SportsBetExpert | 6 | 2672.3 | +435.1 |
+| LAG Gaming | 8 | 2507.3 | +428.5 |
+| M80 | 2 | 3081.4 | +426.0 |
+| regain | 12 | 2256.1 | +425.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.4).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs B vs gummyx mentality (2026-05-29): expires in 41 days [Quality Wins 0.00, Opponent Network 0.28]
+- S57 NA Open9-10 Central - Playoffs B (2026-06-03): expires in 46 days [Tier Exposure 0.31]
+
 #### Matches (12 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

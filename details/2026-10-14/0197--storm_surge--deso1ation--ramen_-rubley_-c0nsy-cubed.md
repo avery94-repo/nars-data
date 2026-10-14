@@ -19,13 +19,49 @@ seed_factor 0.136 = 0.25 x Tier Exposure (0.139) + 0.50 x Quality Wins (0.024) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.136 | 1290.7 | - |
+| +30 days | 0.103 | 1244.7 | -45.9 |
+| +60 days | 0.087 | 1222.0 | -68.7 |
+| +90 days | 0.064 | 1189.1 | -101.5 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.357 vs 0.391 average, gap -0.034). Matching that average is worth about 11.9 seed points.
+
+- Tier Exposure drivers: True North X CounterStrat Summer Clash Series (2026-08-15) 1.16; S58 NA Main Central - Playoffs B (2026-09-08) 1.14; S58 NA Main B - Regular Season (2026-08-26) 1.01
+- Quality Wins drivers: beat The Skins at S58 NA Main B - Regular Season (2026-08-19) 0.09; beat ASYCS KITTENS at S58 NA Main B - Regular Season (2026-08-14) 0.08; beat Temple of Swing at S58 NA Main B - Regular Season (2026-08-05) 0.07
+- Opponent Network drivers: beat The Skins at S58 NA Main B - Regular Season (2026-08-19) 0.95; beat ASYCS KITTENS at S58 NA Main B - Regular Season (2026-08-14) 0.92; beat gooshedd at S58 NA Main B - Regular Season (2026-08-12) 0.90
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +651.0 |
+| SportsBetExpert | 6 | 2672.3 | +648.2 |
+| M80 | 2 | 3081.4 | +637.8 |
+| LAG Gaming | 8 | 2507.3 | +632.9 |
+| Wildcard | 3 | 2911.9 | +632.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs butt (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Main Central - Regular Season vs FUELED BY HATE (2026-05-15): expires in 27 days [Quality Wins 0.03, Opponent Network 0.21]
+- S57 NA Main Central - Regular Season vs duck crew (2026-05-20): expires in 32 days [Quality Wins 0.01, Opponent Network 0.25]
+- S57 NA Main Central - Regular Season vs The Burger People (2026-05-22): expires in 34 days [Quality Wins 0.02, Opponent Network 0.26]
+- S57 NA Main Central - Regular Season vs Alcatraz Swim Team (2026-05-24): expires in 37 days [Tier Exposure 0.28, Quality Wins 0.00, Opponent Network 0.28]
+- S57 NA Main Central - Playoffs (2026-06-03): expires in 46 days [Tier Exposure 0.38]
+
 #### Matches (23 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | Bird Squishers | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.19 | 1.00 | 1.14 | 0.00 | 0.00 | -116.2 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
-| 2026-09-04 | WhalersOnDaMoon | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.00 | 0.00 | -138.4 | -Ramen_, J3llyz, Rubley_, cubed, deso1ation |
+| 2026-09-04 | WhalersOnDaMoon | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.00 | 0.00 | -138.5 | -Ramen_, J3llyz, Rubley_, cubed, deso1ation |
 | 2026-08-26 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -41.1 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-08-19 | The Skins | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.09 | 0.95 | +116.2 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-08-15 | Skyline | L | 0-2 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.80 | 1.45 | 1.00 | 1.16 | 0.00 | 0.00 | -20.0 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |

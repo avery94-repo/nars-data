@@ -4,20 +4,57 @@ Roster: Marro, kobruh, CULIACAN, laxiee, SecretAgent
 NARS Rank: 76 of 506
 
 Final Rating: 1782.2
-Seeded Start: 2032.8
-H2H Adjustment: -250.6
+Seeded Start: 2032.7
+H2H Adjustment: -250.5
 
-Final Rating (1782.2) = Seeded Start (2032.8) + H2H Adjustment (-250.6)
+Final Rating (1782.2) = Seeded Start (2032.7) + H2H Adjustment (-250.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.666 x 1400 = 2032.8
+                = 1100 + 0.666 x 1400 = 2032.7
 
 seed_factor 0.666 = 0.25 x Tier Exposure (0.774) + 0.50 x Quality Wins (0.554) + 0.25 x Opponent Network (0.783)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.666 | 2032.7 | - |
+| +30 days | 0.598 | 1937.8 | -94.9 |
+| +60 days | 0.533 | 1846.5 | -186.2 |
+| +90 days | 0.446 | 1724.1 | -308.7 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.783 vs 0.497 average, gap +0.286). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-18) 1.55; ESL Challenger League Season 52 North America Cup 3 (2026-10-08) 1.55; S58 NA Advanced Central - Playoffs (2026-09-13) 1.54
+- Quality Wins drivers: beat Zomblers at VRS-tracked 2026-09 (2026-09-23) 1.40; beat Marsborne at S58 NA Advanced Central - Regular Season (2026-08-13) 1.10; beat Overtake Sector at S58 NA Advanced Central - Regular Season (2026-08-07) 1.08
+- Opponent Network drivers: beat Zomblers at VRS-tracked 2026-09 (2026-09-23) 1.60; beat Slimy Boogermen at S58 NA Advanced Central - Playoffs (2026-09-03) 1.43; beat regain at S58 NA Advanced Central - Regular Season (2026-08-21) 1.21
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +141.3 |
+| SportsBetExpert | 6 | 2672.3 | +140.1 |
+| M80 | 2 | 3081.4 | +138.7 |
+| Wildcard | 3 | 2911.9 | +137.4 |
+| Liquid | 1 | 3103.3 | +136.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0), RejexEsports (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.29]
+- S57 NA Advanced Central - Playoffs (2026-06-15): expires in 58 days [Tier Exposure 0.58]
+- VRS-tracked 2026-06 vs Villainous (2026-06-20): expires in 63 days [Tier Exposure 0.67, Quality Wins 0.58]
+- VRS-tracked 2026-06 (2026-06-21): expires in 64 days [Tier Exposure 0.69]
+- VRS-tracked 2026-06 (2026-06-29): expires in 72 days [Tier Exposure 0.77]
+- VRS-tracked 2026-07 vs Overtake Sector (2026-07-03): expires in 76 days [Tier Exposure 0.81, Quality Wins 0.81]
+- VRS-tracked 2026-07 (2026-07-09): expires in 82 days [Tier Exposure 0.88]
 
 #### Matches (59 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -56,13 +93,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Desi Boyz | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.90 | 1.06 | +1.9 | CULIACAN, Marro, SecretAgent, kobruh, mason |
 | 2026-07-24 | Villainous | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.81 | 0.94 | +146.4 | CULIACAN, Marro, SecretAgent, kobruh, mason |
 | 2026-07-23 | North Forge | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.93 | 0.25 | 0.93 | +7.4 | CULIACAN, Marro, SecretAgent, kobruh, mason |
-| 2026-07-22 | academy 4 gifted children | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.28 | 0.92 | +165.4 | CULIACAN, Marro, SecretAgent, kobruh, mason |
+| 2026-07-22 | academy 4 gifted children | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.28 | 0.92 | +165.5 | CULIACAN, Marro, SecretAgent, kobruh, mason |
 | 2026-07-17 | Cyclone Ninja | W |  | Esports Nations Cup 2026: North America Qualifier | C | faceit-tournament | 0.61 | 1.00 | 1.00 | 0.61 | 0.01 | 0.61 | +0.0 | CULIACAN, Marro, SecretAgent, a_m_c, ee41abee |
 | 2026-07-09 | regain | L |  | VRS-tracked 2026-07 | A | vrs | 0.55 | 1.60 | 1.00 | 0.88 | 0.00 | 0.00 | -49.9 | core 3/5 |
 | 2026-07-03 | Overtake Sector | W |  | VRS-tracked 2026-07 | A | vrs | 0.51 | 1.60 | 1.00 | 0.81 | 0.81 | 0.00 | +62.5 | core 3/5 |
 | 2026-06-29 | Beyond Limits | W |  | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.50 | 0.77 | +0.1 | core 3/5 |
 | 2026-06-21 | Chicken Coop | L |  | VRS-tracked 2026-06 | A | vrs | 0.43 | 1.60 | 1.00 | 0.69 | 0.00 | 0.00 | -14.1 | core 3/5 |
-| 2026-06-20 | Villainous | W |  | VRS-tracked 2026-06 | A | vrs | 0.42 | 1.60 | 1.00 | 0.68 | 0.58 | 0.00 | +174.1 | core 3/5 |
+| 2026-06-20 | Villainous | W |  | VRS-tracked 2026-06 | A | vrs | 0.42 | 1.60 | 1.00 | 0.67 | 0.58 | 0.00 | +174.1 | core 3/5 |
 | 2026-06-19 | Playing for fun | W |  | VRS-tracked 2026-06 | A | vrs | 0.42 | 1.60 | 1.00 | 0.66 | 0.11 | 0.66 | +69.4 | core 3/5 |
 | 2026-06-15 | Olympus | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.39 | 1.50 | 1.00 | 0.58 | 0.38 | 0.58 | +136.4 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
 | 2026-06-14 | Olympus | W |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.40 | 0.00 | +237.3 | core 3/5 |

@@ -3,11 +3,11 @@ Team Name: Room Temp IQs
 Roster: TeMPeR, Benito4, yLiaD, klimy, 2christian
 NARS Rank: 399 of 506
 
-Final Rating: 1056.7
+Final Rating: 1056.6
 Seeded Start: 1215.6
-H2H Adjustment: -158.9
+H2H Adjustment: -159.0
 
-Final Rating (1056.7) = Seeded Start (1215.6) + H2H Adjustment (-158.9)
+Final Rating (1056.6) = Seeded Start (1215.6) + H2H Adjustment (-159.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,39 @@ seed_factor 0.083 = 0.25 x Tier Exposure (0.051) + 0.50 x Quality Wins (0.051) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.083 | 1215.6 | - |
+| +30 days | 0.060 | 1183.9 | -31.7 |
+| +60 days | 0.049 | 1168.1 | -47.5 |
+| +90 days | 0.029 | 1140.5 | -75.1 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.178 vs 0.187 average, gap -0.009). Matching that average is worth about 3.2 seed points.
+
+- Tier Exposure drivers: S58 NA Advanced Central - Regular Season (2026-08-14) 1.15; S57 NA Advanced Central - Regular Season (2026-05-21) 0.30
+- Quality Wins drivers: beat New Legends at S58 NA Advanced Central - Regular Season (2026-08-07) 0.69; beat Pug Palace at S58 NA Advanced Central - Regular Season (2026-07-31) 0.11; beat GRIT at S57 NA Advanced Central - Regular Season (2026-05-21) 0.03
+- Opponent Network drivers: beat New Legends at S58 NA Advanced Central - Regular Season (2026-08-07) 1.08; beat Pug Palace at S58 NA Advanced Central - Regular Season (2026-07-31) 1.01; beat GRIT at S57 NA Advanced Central - Regular Season (2026-05-21) 0.30
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.1 |
+| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| regain | 12 | 2256.1 | +656.5 |
+| LAG Gaming | 8 | 2507.3 | +655.8 |
+| Zomblers | 22 | 2114.7 | +654.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.7), 3 Feet Of Meat (+1.4).
+
+Seed inputs expiring within 90 days:
+- S57 NA Advanced Central - Regular Season vs SOLA (2026-04-28): expires in 10 days [Quality Wins 0.00, Opponent Network 0.09]
+- S57 NA Advanced Central - Regular Season vs girl kissers (2026-05-14): expires in 26 days [Quality Wins 0.01, Opponent Network 0.24]
+- S57 NA Advanced Central - Regular Season vs GRIT (2026-05-21): expires in 33 days [Tier Exposure 0.30, Quality Wins 0.03, Opponent Network 0.30]
 
 #### Matches (17 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

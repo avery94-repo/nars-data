@@ -19,6 +19,41 @@ seed_factor 0.129 = 0.25 x Tier Exposure (0.083) + 0.50 x Quality Wins (0.031) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.129 | 1280.3 | - |
+| +30 days | 0.104 | 1245.5 | -34.8 |
+| +60 days | 0.087 | 1221.9 | -58.4 |
+| +90 days | 0.057 | 1179.6 | -100.7 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.031 vs 0.006 average, gap +0.025). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs A (2026-09-02) 0.95; S58 NA Main A - Regular Season (2026-08-28) 0.90; S57 NA Intermediate Central - Playoffs A (2026-05-31) 0.30
+- Quality Wins drivers: beat Tractors at S58 NA Main A - Regular Season (2026-08-28) 0.18; beat Resurgence at S58 NA Main A - Regular Season (2026-08-07) 0.08; beat Shadow Wizard Money Gang at S58 NA Main A - Regular Season (2026-08-26) 0.07
+- Opponent Network drivers: beat Tractors at S58 NA Main A - Regular Season (2026-08-28) 0.90; beat Shadow Wizard Money Gang at S58 NA Main A - Regular Season (2026-08-26) 0.89; beat Resurgence at S58 NA Main A - Regular Season (2026-08-07) 0.76
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +664.8 |
+| SportsBetExpert | 6 | 2672.3 | +664.0 |
+| LAG Gaming | 8 | 2507.3 | +653.8 |
+| M80 | 2 | 3081.4 | +650.2 |
+| regain | 12 | 2256.1 | +649.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.4), Courage (+0.5), SixSevenZaZa (+0.8).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs CounterStreakrs (2026-04-24): expires in 6 days [Quality Wins 0.00]
+- S57 NA Intermediate Central - Regular Season vs Shock Value (2026-05-01): expires in 13 days [Opponent Network 0.09]
+- S57 NA Intermediate Central - Regular Season vs Top One Percent (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.14]
+- S57 NA Intermediate Central - Regular Season vs The Plague (2026-05-20): expires in 32 days [Tier Exposure 0.22, Quality Wins 0.00, Opponent Network 0.22]
+- S57 NA Intermediate Central - Playoffs A (2026-05-31): expires in 43 days [Tier Exposure 0.30]
+
 #### Matches (25 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -44,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | The Plague | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +163.7 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-05-15 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -134.6 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-05-08 | Top One Percent | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +27.1 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
-| 2026-05-06 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -330.1 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
+| 2026-05-06 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -330.2 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-05-01 | Shock Value | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +17.4 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-04-29 | Relativity | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +213.1 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-04-24 | CounterStreakrs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +207.8 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |

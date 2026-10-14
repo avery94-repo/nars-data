@@ -19,6 +19,36 @@ seed_factor 0.079 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.013) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.079 | 1210.9 | - |
+| +30 days | 0.069 | 1196.2 | -14.7 |
+| +60 days | 0.062 | 1186.9 | -24.0 |
+| +90 days | 0.050 | 1170.3 | -40.6 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.013 vs 0.012 average, gap +0.001). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat FourStrokeGang at S58 NA Intermediate A - Regular Season (2026-08-21) 0.07; beat 69 at S58 NA Intermediate A - Regular Season (2026-08-26) 0.07; beat 37U Passion at S58 NA Intermediate A - Regular Season (2026-08-12) 0.03
+- Opponent Network drivers: beat 69 at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat FourStrokeGang at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat 37U Passion at S58 NA Intermediate A - Regular Season (2026-08-12) 0.78
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +565.9 |
+| SportsBetExpert | 6 | 2672.3 | +565.7 |
+| Zomblers | 22 | 2114.7 | +561.6 |
+| North Forge | 38 | 1971.1 | +561.0 |
+| regain | 12 | 2256.1 | +560.9 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs dogwater (2026-05-15): expires in 27 days [Quality Wins 0.02, Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+
 #### Matches (19 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -36,12 +66,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -0.2 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-07-17 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -0.4 | Combz, FlYiN_ElVIS, JbenCS, NoDamage, yesvil |
 | 2026-07-15 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -14.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
-| 2026-05-22 | innerFire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -312.8 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
+| 2026-05-22 | innerFire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -312.9 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-05-15 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +186.9 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-05-13 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -22.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-05-06 | Shaq Diesel | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -46.1 | Combz, FlYiN_ElVIS, eztupac, rlxthegreat, yesvil |
 | 2026-04-29 | Kennesaw State Gold 2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -2.8 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
-| 2026-04-24 | EZ2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -236.9 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
+| 2026-04-24 | EZ2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -237.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-04-22 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -204.3 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -4,20 +4,54 @@ Roster: senior, LucidiT, Yungin, Wangaroo, ZerO_Q
 NARS Rank: 299 of 506
 
 Final Rating: 1269.9
-Seeded Start: 1320.4
-H2H Adjustment: -50.5
+Seeded Start: 1320.3
+H2H Adjustment: -50.4
 
-Final Rating (1269.9) = Seeded Start (1320.4) + H2H Adjustment (-50.5)
+Final Rating (1269.9) = Seeded Start (1320.3) + H2H Adjustment (-50.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.157 x 1400 = 1320.4
+                = 1100 + 0.157 x 1400 = 1320.3
 
 seed_factor 0.157 = 0.25 x Tier Exposure (0.095) + 0.50 x Quality Wins (0.036) + 0.25 x Opponent Network (0.463)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.157 | 1320.3 | - |
+| +30 days | 0.128 | 1279.2 | -41.2 |
+| +60 days | 0.103 | 1244.2 | -76.1 |
+| +90 days | 0.073 | 1201.6 | -118.8 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.036 vs 0.020 average, gap +0.016). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-06) 1.13; S58 NA Main B - Regular Season (2026-08-28) 1.02; S57 NA Intermediate Central - Playoffs B (2026-06-07) 0.34
+- Quality Wins drivers: beat Entertainment Cheese at S58 NA Main B - Regular Season (2026-08-21) 0.15; beat Aers Money Crew at S58 NA Main B - Regular Season (2026-08-07) 0.10; beat Friendly Fire at S58 NA Main B - Regular Season (2026-08-14) 0.05
+- Opponent Network drivers: beat Entertainment Cheese at S58 NA Main B - Regular Season (2026-08-21) 0.97; beat NADIYA at S58 NA Main B - Regular Season (2026-08-19) 0.95; beat Friendly Fire at S58 NA Main B - Regular Season (2026-08-14) 0.92
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +660.2 |
+| SportsBetExpert | 6 | 2672.3 | +659.2 |
+| LAG Gaming | 8 | 2507.3 | +648.7 |
+| M80 | 2 | 3081.4 | +645.8 |
+| regain | 12 | 2256.1 | +642.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.6).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season (2026-05-23): expires in 35 days [Tier Exposure 0.24]
+- S57 NA Intermediate Central - Playoffs B vs Strafe (2026-05-27): expires in 39 days [Quality Wins 0.05, Opponent Network 0.26]
+- S57 NA Intermediate Central - Playoffs B vs WaterDrinkers (2026-06-05): expires in 48 days [Quality Wins 0.04, Opponent Network 0.32]
+- S57 NA Intermediate Central - Playoffs B vs NOVAIR (2026-06-07): expires in 50 days [Tier Exposure 0.34, Quality Wins 0.03, Opponent Network 0.34]
 
 #### Matches (30 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -39,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Top One Percent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -198.7 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-07-22 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.03 | 0.74 | +135.4 | LucidiT, Wangaroo, ZerO_Q, adrjac, senior |
 | 2026-07-17 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -171.2 | LucidiT, Wangaroo, Yungin, adrjac, senior |
-| 2026-07-15 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -169.7 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
+| 2026-07-15 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -169.8 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-06-07 | NOVAIR | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.03 | 0.34 | +241.4 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-06-05 | WaterDrinkers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.04 | 0.32 | +225.2 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-05-29 | Feels MAIN Man | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -147.0 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |

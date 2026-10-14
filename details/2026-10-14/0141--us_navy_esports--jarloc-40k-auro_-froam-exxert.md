@@ -19,6 +19,44 @@ seed_factor 0.121 = 0.25 x Tier Exposure (0.096) + 0.50 x Quality Wins (0.020) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.121 | 1269.7 | - |
+| +30 days | 0.088 | 1223.6 | -46.2 |
+| +60 days | 0.064 | 1189.9 | -79.8 |
+| +90 days | 0.036 | 1151.0 | -118.7 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.348 vs 0.528 average, gap -0.180). Matching that average is worth about 63.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-07) 1.13; S58 NA Main B - Regular Season (2026-08-28) 1.02; S57 NA Intermediate Central - Playoffs A (2026-06-09) 0.36
+- Quality Wins drivers: beat Team Team Name at S58 NA Main B - Regular Season (2026-07-31) 0.08; beat YHUBEPCAM at S58 NA Main B - Regular Season (2026-08-07) 0.08; beat gooshedd at S58 NA Main B - Regular Season (2026-08-05) 0.04
+- Opponent Network drivers: beat YHUBEPCAM at S58 NA Main B - Regular Season (2026-08-07) 0.86; beat gooshedd at S58 NA Main B - Regular Season (2026-08-05) 0.85; beat Team Team Name at S58 NA Main B - Regular Season (2026-07-31) 0.81
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +661.5 |
+| SportsBetExpert | 6 | 2672.3 | +656.0 |
+| M80 | 2 | 3081.4 | +649.3 |
+| Wildcard | 3 | 2911.9 | +643.4 |
+| Liquid | 1 | 3103.3 | +640.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Full White (2026-05-06): expires in 18 days [Quality Wins 0.01]
+- S57 NA Intermediate Central - Regular Season vs Akatsuki (2026-05-15): expires in 27 days [Quality Wins 0.01, Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season vs MINDTRIP (2026-05-20): expires in 32 days [Opponent Network 0.22]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs A vs Braindead (2026-05-31): expires in 43 days [Quality Wins 0.01, Opponent Network 0.30]
+- S57 NA Intermediate Central - Playoffs A vs Square1 (2026-06-02): expires in 45 days [Quality Wins 0.02]
+- S57 NA Intermediate Central - Playoffs A vs Oath (2026-06-04): expires in 47 days [Opponent Network 0.33]
+- S57 NA Intermediate Central - Playoffs A vs Quality (2026-06-06): expires in 49 days [Quality Wins 0.02, Opponent Network 0.34]
+
 #### Matches (26 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -45,10 +83,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | Akatsuki | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +199.2 | Auro_, Exxert, Froam, ILUVLATINAS, jarloc |
 | 2026-05-13 | Schadenfreude | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +0.3 | Auro_, Exxert, Froam, ILUVLATINAS, jarloc |
 | 2026-05-08 | Zenano | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +31.9 | 40k, Auro_, Exxert, Froam, jarloc |
-| 2026-05-06 | Full White | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +329.5 | 40k, Auro_, Exxert, Froam, jarloc |
+| 2026-05-06 | Full White | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +329.6 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-05-01 | Mach 10 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +94.8 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-04-29 | High T Low E | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +421.8 | 40k, Auro_, Exxert, Froam, jarloc |
-| 2026-04-23 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -393.0 | 40k, Auro_, Exxert, Froam, jarloc |
+| 2026-04-23 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -393.1 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-04-22 | Square1 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +208.0 | 40k, Auro_, Exxert, Froam, jarloc |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

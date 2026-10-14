@@ -19,6 +19,41 @@ seed_factor 0.126 = 0.25 x Tier Exposure (0.039) + 0.50 x Quality Wins (0.033) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.126 | 1276.1 | - |
+| +30 days | 0.102 | 1242.9 | -33.2 |
+| +60 days | 0.084 | 1217.1 | -58.9 |
+| +90 days | 0.049 | 1168.8 | -107.3 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.039 vs 0.088 average, gap -0.049). Matching that average is worth about 17.2 seed points.
+
+- Tier Exposure drivers: S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat offBalance at S58 NA Intermediate A - Regular Season (2026-08-26) 0.10; beat WaterDrinkers at S58 NA Intermediate A - Regular Season (2026-07-22) 0.08; beat Dynasty at S58 NA Intermediate A - Regular Season (2026-08-19) 0.07
+- Opponent Network drivers: beat offBalance at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat Dynasty at S58 NA Intermediate A - Regular Season (2026-08-19) 0.82; beat Dead Pixel at S58 NA Intermediate A - Regular Season (2026-08-14) 0.79
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +663.8 |
+| SportsBetExpert | 6 | 2672.3 | +661.6 |
+| M80 | 2 | 3081.4 | +650.0 |
+| LAG Gaming | 8 | 2507.3 | +648.0 |
+| Wildcard | 3 | 2911.9 | +645.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Grandpa Berets (2026-05-06): expires in 18 days [Quality Wins 0.01]
+- S57 NA Intermediate Central - Regular Season vs NATIONAL CS UNI (2026-05-13): expires in 25 days [Quality Wins 0.01, Opponent Network 0.17]
+- S57 NA Intermediate Central - Regular Season vs Iron Horse (2026-05-15): expires in 27 days [Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S58 NA Intermediate A - Regular Season vs Team Deathgrip (2026-07-15): expires in 88 days [Quality Wins 0.04, Opponent Network 0.59]
+
 #### Matches (21 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -37,11 +72,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-18 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +147.5 | Cd666, Fr3nk1e, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-07-15 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +14.0 | Fr3nk1e, IC3R, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-05-22 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -252.3 | -5hy-, Falmistz, Jean_Bart_B, NixDoc, vvillovv |
-| 2026-05-20 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -321.1 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-05-15 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +300.0 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-05-20 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -321.2 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-05-15 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +300.1 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-05-13 | NATIONAL CS UNI | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +260.0 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-05-08 | DownTown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -349.4 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-05-06 | Grandpa Berets | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +432.2 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-05-06 | Grandpa Berets | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +432.3 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-04-29 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -257.2 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-04-24 | High T Low E | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -307.5 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-04-22 | Kinetic | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +253.9 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |

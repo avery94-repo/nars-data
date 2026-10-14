@@ -19,6 +19,40 @@ seed_factor 0.125 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.030) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.125 | 1274.4 | - |
+| +30 days | 0.108 | 1251.2 | -23.1 |
+| +60 days | 0.094 | 1232.0 | -42.3 |
+| +90 days | 0.069 | 1196.4 | -78.0 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.075 vs 0.074 average, gap +0.001). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs A (2026-09-08) 0.99; S58 NA Main A - Regular Season (2026-08-26) 0.89; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat Chopped at S58 NA Main Central - Playoffs A (2026-09-06) 0.11; beat PASSION at S58 NA Main A - Regular Season (2026-08-12) 0.09; beat The Burger People at S58 NA Main A - Regular Season (2026-08-19) 0.06
+- Opponent Network drivers: beat Chopped at S58 NA Main Central - Playoffs A (2026-09-06) 0.98; beat Qinorhwat at S58 NA Main A - Regular Season (2026-08-21) 0.85; beat The Burger People at S58 NA Main A - Regular Season (2026-08-19) 0.84
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +589.2 |
+| SportsBetExpert | 6 | 2672.3 | +588.1 |
+| LAG Gaming | 8 | 2507.3 | +578.0 |
+| M80 | 2 | 3081.4 | +576.5 |
+| Wildcard | 3 | 2911.9 | +572.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Team Amplus (2026-04-24): expires in 6 days [Quality Wins 0.01, Opponent Network 0.05]
+- S57 NA Main Central - Regular Season vs The Burger People (2026-05-01): expires in 13 days [Quality Wins 0.01]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+- S58 NA Main A - Regular Season vs Grandpa Berets (2026-07-15): expires in 88 days [Quality Wins 0.05, Opponent Network 0.60]
+
 #### Matches (21 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -36,10 +70,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | MINDTRIP | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -8.9 | JPussay, KPussay, PLOCH, reham-, summers |
 | 2026-07-29 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.06 | 0.70 | +260.3 | JPussay, KPussay, reham-, rickster, summers |
 | 2026-07-24 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -17.3 | JPussay, KPussay, reham-, rickster, summers |
-| 2026-07-17 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -333.6 | JPussay, KPussay, PLOCH, rickster, summers |
+| 2026-07-17 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -333.6 | JPussay, KPussay, PLOCH, rickster, summers |
 | 2026-07-15 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.05 | 0.60 | +432.2 | JPussay, KPussay, PLOCH, rickster, summers |
 | 2026-05-22 | SquadUp | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -0.1 | Clayford, JPussay, KPussay, reham-, rickster |
-| 2026-05-20 | 2THRiLL | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -239.5 | JPussay, KPussay, PLOCH, reham-, rickster |
+| 2026-05-20 | 2THRiLL | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -239.6 | JPussay, KPussay, PLOCH, reham-, rickster |
 | 2026-05-13 | No Leaders Please | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -344.1 | BaileyP_, JPussay, KPussay, reham-, summers |
 | 2026-05-01 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.00 | +174.6 | BaileyP_, JPussay, KPussay, reham-, rickster |
 | 2026-04-29 | CNCS Last Hope | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -398.6 | JPussay, KPussay, PLOCH, reham-, rickster |

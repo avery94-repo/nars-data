@@ -19,6 +19,43 @@ seed_factor 0.097 = 0.25 x Tier Exposure (0.054) + 0.50 x Quality Wins (0.022) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.097 | 1235.6 | - |
+| +30 days | 0.069 | 1196.2 | -39.4 |
+| +60 days | 0.054 | 1176.3 | -59.3 |
+| +90 days | 0.036 | 1149.7 | -85.9 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.054 vs 0.069 average, gap -0.015). Matching that average is worth about 5.3 seed points.
+
+- Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-26) 1.01; S57 NA Intermediate Central - Playoffs A (2026-06-02) 0.31; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat Feels MAIN Man at S58 NA Main B - Regular Season (2026-08-12) 0.08; beat Temple of Swing at S58 NA Main B - Regular Season (2026-08-14) 0.07; beat Diamond Mental at S58 NA Main B - Regular Season (2026-07-24) 0.07
+- Opponent Network drivers: beat Temple of Swing at S58 NA Main B - Regular Season (2026-08-14) 0.92; beat Feels MAIN Man at S58 NA Main B - Regular Season (2026-08-12) 0.90; beat Square1 at S58 NA Main B - Regular Season (2026-08-07) 0.86
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +665.0 |
+| SportsBetExpert | 6 | 2672.3 | +664.5 |
+| LAG Gaming | 8 | 2507.3 | +655.1 |
+| regain | 12 | 2256.1 | +654.0 |
+| M80 | 2 | 3081.4 | +650.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.7), shirtcockin (+1.0), Courage (+1.2).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Absent Minded (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
+- S57 NA Intermediate Central - Regular Season vs Les Ptis Jus (2026-04-24): expires in 6 days [Quality Wins 0.00]
+- S57 NA Intermediate Central - Regular Season vs Costco Family (2026-05-20): expires in 32 days [Quality Wins 0.03, Opponent Network 0.22]
+- S57 NA Intermediate Central - Regular Season vs Spin da block (2026-05-21): expires in 33 days [Quality Wins 0.02, Opponent Network 0.22]
+- S57 NA Intermediate Central - Regular Season vs High-Tech Performance (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.02, Opponent Network 0.23]
+- S57 NA Intermediate Central - Playoffs A vs Les Ptis Jus (2026-05-27): expires in 39 days [Quality Wins 0.02, Opponent Network 0.27]
+- S57 NA Intermediate Central - Playoffs A (2026-06-02): expires in 45 days [Tier Exposure 0.31]
+
 #### Matches (24 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -35,11 +72,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.07 | 0.75 | +209.9 | Ant1d0te_cs, Tribute-, Void-Swan, ricen, stephhxx |
 | 2026-07-16 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -45.3 | Ant1d0te_cs, Scruffay, Tribute-, ricen, stephhxx |
 | 2026-07-15 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -0.2 | Ant1d0te_cs, Scruffay, Tribute-, ricen, stephhxx |
-| 2026-06-02 | Hairy Scary Bandits | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -171.2 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
+| 2026-06-02 | Hairy Scary Bandits | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -171.3 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-29 | Quality | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.00 | 0.00 | -2.4 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-27 | Les Ptis Jus | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.02 | 0.27 | +25.1 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-22 | High-Tech Performance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +13.4 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
-| 2026-05-21 | Spin da block | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +378.0 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
+| 2026-05-21 | Spin da block | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +378.1 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-20 | Costco Family | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +60.0 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |
 | 2026-05-13 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -15.9 | Ant1d0te_cs, Scruffay, T0niK, Tribute-, Void-Swan |
 | 2026-05-08 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -27.1 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, ricen |

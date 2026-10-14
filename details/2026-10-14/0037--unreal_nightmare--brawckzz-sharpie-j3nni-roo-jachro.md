@@ -4,20 +4,56 @@ Roster: brawckzz, Sharpie, j3nni, Roo, Jachro
 NARS Rank: 37 of 506
 
 Final Rating: 1976.6
-Seeded Start: 1927.0
-H2H Adjustment: +49.6
+Seeded Start: 1926.9
+H2H Adjustment: +49.7
 
-Final Rating (1976.6) = Seeded Start (1927.0) + H2H Adjustment (+49.6)
+Final Rating (1976.6) = Seeded Start (1926.9) + H2H Adjustment (+49.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.591 x 1400 = 1927.0
+                = 1100 + 0.591 x 1400 = 1926.9
 
 seed_factor 0.591 = 0.25 x Tier Exposure (0.700) + 0.50 x Quality Wins (0.409) + 0.25 x Opponent Network (0.845)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.591 | 1926.9 | - |
+| +30 days | 0.562 | 1887.5 | -39.4 |
+| +60 days | 0.535 | 1849.1 | -77.8 |
+| +90 days | 0.498 | 1796.8 | -130.1 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.409 vs 0.352 average, gap +0.057). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: FRAG University 2026 (2026-10-10) 1.60; CROSSFIRE Season 6 - Playoffs (2026-09-18) 1.55; Playoff - CROSSFIRE Season 6 (2026-09-14) 1.45
+- Quality Wins drivers: beat DETONATE at NSTLGA League | Ruby Conference (2026-08-24) 1.25; beat New Legends at VRS-tracked 2026-09 (2026-09-23) 1.02; beat New Legends at CROSSFIRE Season 6 - Playoffs (2026-09-18) 0.99
+- Opponent Network drivers: beat Fathom Gaming at FRAG University 2026 (2026-10-10) 1.60; beat holy cannoli at FRAG University 2026 (2026-10-10) 1.60; beat ThirdSite at Group Stage - CROSSFIRE Season 6 (2026-09-08) 1.27
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +371.6 |
+| M80 | 2 | 3081.4 | +370.6 |
+| Liquid | 1 | 3103.3 | +365.5 |
+| Wildcard | 3 | 2911.9 | +363.6 |
+| SportsBetExpert | 6 | 2672.3 | +357.4 |
+
+Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Knight Owls (+0.0), Grandpa Berets (+0.0).
+
+Seed inputs expiring within 90 days:
+- VRS-tracked 2026-04 (2026-04-25): expires in 7 days [Tier Exposure 0.08]
+- VRS-tracked 2026-04 (2026-04-25): expires in 7 days [Tier Exposure 0.08]
+- S57 NA Advanced Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.31]
+- S57 NA Advanced Central - Playoffs vs New Legends (2026-06-09): expires in 52 days [Quality Wins 0.33]
+- S57 NA Advanced Central - Playoffs (2026-06-11): expires in 54 days [Tier Exposure 0.55]
+- S58 NA Advanced Central - Regular Season vs Zomblers (2026-07-15): expires in 88 days [Quality Wins 0.75]
 
 #### Matches (52 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -37,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-14 | Wanted Goons | L |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -7.8 | -Roo, Sharpie, brawckzz, j3nni, toobad |
 | 2026-09-14 | Wanted Goons | L | 0-2 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 1.00 | 1.46 | 1.00 | 1.45 | 0.00 | 0.00 | -9.7 | -Roo, Sharpie, brawckzz, j3nni, toobad |
 | 2026-09-09 | Without a Roof | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.00 | 0.00 | -2.8 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
-| 2026-09-08 | ThirdSite | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.30 | 1.28 | +2.5 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
+| 2026-09-08 | ThirdSite | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.27 | 0.30 | 1.27 | +2.5 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-09-04 | EMPIRE | L |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 0.00 | 0.00 | -30.2 | core 3/5 |
 | 2026-09-03 | DETONATE | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.92 | 1.55 | 1.00 | 1.43 | 0.00 | 0.00 | -7.7 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-09-02 | Holly Molly | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.22 | 0.23 | 0.00 | +42.9 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
@@ -49,7 +85,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-20 | NuTorious | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.45 | 1.00 | 1.20 | 0.00 | 0.00 | -0.8 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-08-20 | TenToesDown | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.16 | 1.21 | +15.6 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-08-19 | Chicken Coop | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -18.4 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
-| 2026-08-18 | babaG | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -43.9 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
+| 2026-08-18 | babaG | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -44.0 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-08-18 | Tractors | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 0.24 | 1.19 | +0.0 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-08-17 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.45 | 1.00 | 1.17 | 0.00 | 0.00 | -62.2 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-08-14 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.08 | 1.15 | +82.8 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
@@ -64,12 +100,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-11 | NuTorious | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.55 | 0.00 | 0.00 | -55.7 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-06-09 | New Legends | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.33 | 0.52 | +225.2 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-06-03 | Xiaoma Gaming | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.31 | 1.50 | 1.00 | 0.46 | 0.00 | 0.00 | -23.3 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
-| 2026-05-22 | Desi Boyz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.00 | -128.1 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
+| 2026-05-22 | Desi Boyz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.00 | -128.2 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-05-21 | raisedbypixels | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -103.1 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-05-19 | Holly Molly | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.05 | 0.28 | +42.8 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-05-12 | Club 333 | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -8.2 | --toasty, Jachro, JeffLaFlavor, Sharpie, brawckzz, j3nni |
 | 2026-05-11 | Phantom Sense | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.21 | 0.07 | 0.21 | +179.1 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
-| 2026-05-08 | Xiaoma Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -248.5 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
+| 2026-05-08 | Xiaoma Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -248.6 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-05-07 | Brahmas | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -439.2 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-05-05 | Olympus | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.10 | 0.16 | +312.2 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-04-29 | skebob | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.10 | 0.00 | 0.10 | +0.8 | --toasty, Jachro, Sharpie, brawckzz, j3nni |

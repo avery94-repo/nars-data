@@ -5,7 +5,7 @@ NARS Rank: 157 of 506
 
 Final Rating: 1560.7
 Seeded Start: 1233.9
-H2H Adjustment: +326.8
+H2H Adjustment: +326.8 (capped at +-300, raw +326.9)
 
 Final Rating (1560.7) = Seeded Start (1233.9) + H2H Adjustment (+326.8)
 
@@ -18,6 +18,34 @@ seed_factor 0.096 = 0.25 x Tier Exposure (0.035) + 0.50 x Quality Wins (0.017) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.096 | 1233.9 | - |
+| +30 days | 0.093 | 1229.9 | -4.0 |
+| +60 days | 0.092 | 1228.5 | -5.4 |
+| +90 days | 0.090 | 1225.4 | -8.4 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.035 vs 0.096 average, gap -0.061). Matching that average is worth about 21.3 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs A (2026-09-15) 1.00
+- Quality Wins drivers: beat LAF at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.08; beat KIS at S58 NA Open9-10 East - Playoffs A (2026-09-15) 0.07; beat Kodaks Lettuce at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.06
+- Opponent Network drivers: beat KIS at S58 NA Open9-10 East - Playoffs A (2026-09-15) 1.00; beat Vibe Check at S58 NA Open9-10 East - Playoffs A (2026-09-17) 1.00; beat LAF at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +384.8 |
+| SportsBetExpert | 6 | 2672.3 | +383.1 |
+| M80 | 2 | 3081.4 | +377.0 |
+| LAG Gaming | 8 | 2507.3 | +374.1 |
+| Wildcard | 3 | 2911.9 | +374.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 
 #### Matches (7 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

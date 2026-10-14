@@ -5,7 +5,7 @@ NARS Rank: 75 of 506
 
 Final Rating: 1782.9
 Seeded Start: 1450.8
-H2H Adjustment: +332.1 (capped at +-300, raw +332.0)
+H2H Adjustment: +332.1
 
 Final Rating (1782.9) = Seeded Start (1450.8) + H2H Adjustment (+332.1)
 
@@ -18,6 +18,34 @@ seed_factor 0.251 = 0.25 x Tier Exposure (0.177) + 0.50 x Quality Wins (0.084) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.251 | 1450.8 | - |
+| +30 days | 0.248 | 1447.2 | -3.6 |
+| +60 days | 0.246 | 1443.9 | -7.0 |
+| +90 days | 0.244 | 1440.9 | -9.9 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.084 vs 0.078 average, gap +0.006). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Advanced Central - Regular Season (2026-10-06) 1.43; S58 NA Main Central - Playoffs A (2026-09-19) 1.03; NA Revival (2026-09-27) 1.01
+- Quality Wins drivers: beat Hairy Scary Bandits at S58 NA Main Central - Playoffs A (2026-09-20) 0.19; beat BucketJonsBoys at S58 NA Main A - Regular Season (2026-07-31) 0.19; beat Armored Talent at NA Revival (2026-09-27) 0.17
+- Opponent Network drivers: beat Sedated at S58 NA Main Central - Playoffs A (2026-09-19) 1.03; beat The Burger People at S58 NA Main Central - Playoffs A (2026-09-17) 1.03; beat Hairy Scary Bandits at S58 NA Main Central - Playoffs A (2026-09-20) 1.03
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +194.8 |
+| SportsBetExpert | 6 | 2672.3 | +192.9 |
+| M80 | 2 | 3081.4 | +191.3 |
+| Wildcard | 3 | 2911.9 | +189.5 |
+| Liquid | 1 | 3103.3 | +188.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): we get it back (+0.0), RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0), Dapper North (+0.0).
 
 #### Matches (29 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -42,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.08 | 0.81 | +60.8 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-12 | Meepins | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.07 | 0.79 | +4.1 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-07 | butt | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.07 | 0.00 | +155.5 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
-| 2026-08-05 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -104.0 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
+| 2026-08-05 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -104.1 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-07-31 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.19 | 0.71 | +32.8 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-07-29 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.03 | 0.70 | +0.5 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-07-26 | FLOW STATE | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.16 | 0.71 | +73.9 | BananaFishCS, Mezzi, slaneyy, suds, wdog |

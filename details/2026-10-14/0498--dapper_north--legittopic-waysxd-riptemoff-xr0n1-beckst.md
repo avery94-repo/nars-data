@@ -19,6 +19,36 @@ seed_factor 0.005 = 0.25 x Tier Exposure (0.008) + 0.50 x Quality Wins (0.000) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.005 | 1106.8 | - |
+| +30 days | 0.000 | 1100.4 | -6.4 |
+| +60 days | 0.000 | 1100.0 | -6.8 |
+| +90 days | 0.000 | 1100.0 | -6.8 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.011 vs 0.065 average, gap -0.054). Matching that average is worth about 18.9 seed points.
+
+- Tier Exposure drivers: S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
+- Quality Wins drivers: beat Gambling and Young at S57 NA Intermediate Central - Regular Season (2026-05-13) 0.00
+- Opponent Network drivers: beat Gambling and Young at S57 NA Intermediate Central - Regular Season (2026-05-13) 0.17
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| North Forge | 38 | 1971.1 | +666.2 |
+| Wanted Goons | 43 | 1933.1 | +665.8 |
+| NRG | 4 | 2836.4 | +665.3 |
+| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| Zomblers | 22 | 2114.7 | +663.3 |
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Gambling and Young (2026-05-13): expires in 25 days [Quality Wins 0.00, Opponent Network 0.17]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+
 #### Matches (7 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

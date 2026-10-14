@@ -4,20 +4,51 @@ Roster: -runi, gamble, -Dodge-, picky, yuush1
 NARS Rank: 28 of 506
 
 Final Rating: 2008.7
-Seeded Start: 1776.8
-H2H Adjustment: +231.9
+Seeded Start: 1776.7
+H2H Adjustment: +232.0
 
-Final Rating (2008.7) = Seeded Start (1776.8) + H2H Adjustment (+231.9)
+Final Rating (2008.7) = Seeded Start (1776.7) + H2H Adjustment (+232.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.483 x 1400 = 1776.8
+                = 1100 + 0.483 x 1400 = 1776.7
 
 seed_factor 0.483 = 0.25 x Tier Exposure (0.417) + 0.50 x Quality Wins (0.339) + 0.25 x Opponent Network (0.839)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.483 | 1776.7 | - |
+| +30 days | 0.446 | 1724.8 | -51.9 |
+| +60 days | 0.423 | 1692.6 | -84.1 |
+| +90 days | 0.388 | 1642.8 | -133.9 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.339 vs 0.184 average, gap +0.155). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-20) 1.55; NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group B (2026-09-03) 1.47; Playoff - CROSSFIRE Season 6 (2026-09-14) 1.45
+- Quality Wins drivers: beat Overtake Sector at Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; beat EMPIRE at NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group B (2026-09-02) 1.21; beat unreal nightmare at NSTLGA League | Ruby Conference (2026-08-18) 0.83
+- Opponent Network drivers: beat EMPIRE at NSTLGA League S2 | Stage 1 Ruby Tiebreakers | Group B (2026-09-02) 1.47; beat FlyQuest RED at Playoff - CROSSFIRE Season 6 (2026-09-14) 1.45; beat Skyline at Group Stage - CROSSFIRE Season 6 (2026-09-11) 1.30
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +184.9 |
+| M80 | 2 | 3081.4 | +183.6 |
+| Liquid | 1 | 3103.3 | +181.1 |
+| Wildcard | 3 | 2911.9 | +180.6 |
+| SportsBetExpert | 6 | 2672.3 | +179.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Thrash (+0.0), Remnant (+0.0), dogwater (+0.0), 69 (+0.0), Feels MAIN Man (+0.0).
+
+Seed inputs expiring within 90 days:
+- Counter Strike 2 at 2026 Esports Nations Cup: United States of America (2026-07-14): expires in 88 days [Tier Exposure 0.75]
 
 #### Matches (26 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -39,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Villainous | L |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -35.2 | core 3/5 |
 | 2026-09-04 | Furio Reloaded | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +0.2 | -Dodge-, -runi, gamble, picky, yuush1 |
 | 2026-09-03 | FarmVille | L | 1-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 0.00 | 0.00 | -35.7 | -Dodge-, -runi, gamble, picky, yuush1 |
-| 2026-09-02 | EMPIRE | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 1.21 | 1.47 | +82.8 | -Dodge-, -runi, gamble, picky, yuush1 |
+| 2026-09-02 | EMPIRE | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 1.21 | 1.47 | +82.9 | -Dodge-, -runi, gamble, picky, yuush1 |
 | 2026-09-02 | FarmVille | L | 0-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 0.00 | 0.00 | -39.5 | -Dodge-, -runi, gamble, picky, yuush1 |
 | 2026-09-02 | TERM DOM RT | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.03 | 0.93 | +0.1 | -Dodge-, -runi, gamble, picky, yuush1 |
 | 2026-08-26 | TenToesDown | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.87 | 1.46 | 1.00 | 1.27 | 0.16 | 1.27 | +0.6 | -Dodge-, -runi, gamble, picky, yuush1 |

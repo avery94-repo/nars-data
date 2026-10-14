@@ -19,6 +19,40 @@ seed_factor 0.117 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.030) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.117 | 1263.9 | - |
+| +30 days | 0.095 | 1233.6 | -30.3 |
+| +60 days | 0.083 | 1215.9 | -48.0 |
+| +90 days | 0.059 | 1182.6 | -81.3 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.054 average, gap +0.020). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs A (2026-09-06) 0.98; S58 NA Main A - Regular Season (2026-08-25) 0.88; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat ThirdSite at S58 NA Main A - Regular Season (2026-07-31) 0.16; beat NYX at S58 NA Main A - Regular Season (2026-08-14) 0.10; beat Fortis Fortuna Adiuvat at S58 NA Main A - Regular Season (2026-08-25) 0.10
+- Opponent Network drivers: beat Fortis Fortuna Adiuvat at S58 NA Main A - Regular Season (2026-08-25) 0.88; beat NYX at S58 NA Main A - Regular Season (2026-08-14) 0.81; beat Specter Esports at S58 NA Main A - Regular Season (2026-08-12) 0.79
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +631.6 |
+| SportsBetExpert | 6 | 2672.3 | +630.9 |
+| LAG Gaming | 8 | 2507.3 | +621.5 |
+| regain | 12 | 2256.1 | +618.3 |
+| M80 | 2 | 3081.4 | +617.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs The Burger People (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.05]
+- S57 NA Main Central - Regular Season vs absolute cinema (2026-05-08): expires in 20 days [Quality Wins 0.02, Opponent Network 0.16]
+- S57 NA Main Central - Regular Season vs 2THRiLL (2026-05-15): expires in 27 days [Quality Wins 0.00, Opponent Network 0.21]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+
 #### Matches (23 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -28,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Chopped | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.03 | 1.00 | 0.95 | 0.00 | 0.00 | -36.4 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
 | 2026-08-25 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.10 | 0.88 | +89.6 | -Blast, 1Spice, 1az, Boomm, jshuwaa |
 | 2026-08-21 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -65.2 | -Blast, 1Spice, 1az, Boomm, dadjorts |
-| 2026-08-19 | Les Ptis Jus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -84.3 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
+| 2026-08-19 | Les Ptis Jus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -84.4 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
 | 2026-08-14 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.10 | 0.81 | +51.5 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
 | 2026-08-12 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.03 | 0.79 | +57.3 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
 | 2026-08-06 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.75 | 0.04 | 0.75 | +64.6 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |

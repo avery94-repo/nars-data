@@ -3,11 +3,11 @@ Team Name: Zomblers
 Roster: CoolComs, man327, FxRE, CAJUN--, Pose1doNN
 NARS Rank: 22 of 506
 
-Final Rating: 2114.6
+Final Rating: 2114.7
 Seeded Start: 2185.7
-H2H Adjustment: -71.1
+H2H Adjustment: -71.0
 
-Final Rating (2114.6) = Seeded Start (2185.7) + H2H Adjustment (-71.1)
+Final Rating (2114.7) = Seeded Start (2185.7) + H2H Adjustment (-71.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -18,6 +18,37 @@ seed_factor 0.776 = 0.25 x Tier Exposure (0.876) + 0.50 x Quality Wins (0.636) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.776 | 2185.7 | - |
+| +30 days | 0.754 | 2155.6 | -30.1 |
+| +60 days | 0.733 | 2126.0 | -59.7 |
+| +90 days | 0.704 | 2085.5 | -100.2 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.636 vs 0.448 average, gap +0.188). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Advanced Central - Playoffs (2026-09-15) 1.55; CROSSFIRE Season 6 - Playoffs (2026-09-24) 1.55; ESL Challenger League Season 52 North America Cup 3 (2026-10-08) 1.55
+- Quality Wins drivers: beat FarmVille at VRS-tracked 2026-08 (2026-08-27) 1.40; beat NuTorious at CROSSFIRE Season 6 - Playoffs (2026-09-22) 1.39; beat EMPIRE at CROSSFIRE Season 6 - Playoffs (2026-09-14) 1.28
+- Opponent Network drivers: beat NuTorious at CROSSFIRE Season 6 - Playoffs (2026-09-22) 1.55; beat babaG at CROSSFIRE Season 6 - Playoffs (2026-09-20) 1.55; beat EMPIRE at CROSSFIRE Season 6 - Playoffs (2026-09-14) 1.54
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +68.2 |
+| M80 | 2 | 3081.4 | +67.9 |
+| Liquid | 1 | 3103.3 | +67.0 |
+| Wildcard | 3 | 2911.9 | +66.7 |
+| SportsBetExpert | 6 | 2672.3 | +65.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): ReGen (+0.0), Big Fish (+0.0), house (+0.0), Team Hyper (+0.0), Epochal Esports (+0.0).
+
+Seed inputs expiring within 90 days:
+- VRS-tracked 2026-05 (2026-05-03): expires in 15 days [Tier Exposure 0.16]
 
 #### Matches (53 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -51,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Elusive | W |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.41 | 0.67 | 1.41 | +29.1 | core 3/5 |
 | 2026-08-27 | FarmVille | W |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.40 | 1.40 | 1.40 | +133.6 | core 3/5 |
 | 2026-08-26 | Incognito | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.30 | 1.39 | +0.3 | core 3/5 |
-| 2026-08-25 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 1.25 | 1.25 | +87.1 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-08-25 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 1.25 | 1.25 | +87.2 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-25 | Hairy Scary Bandits | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.26 | 0.23 | 0.00 | +60.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-25 | EMPIRE | L |  | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.00 | 0.00 | -100.4 | core 3/5 |
 | 2026-08-24 | dice | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.25 | 0.21 | 1.25 | +24.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
@@ -70,7 +101,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -411.1 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-05-03 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.00 | 0.00 | -104.3 | core 3/5 |
 | 2026-05-02 | Iowa Stormboar | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.15 | 0.10 | 0.15 | +3.5 | core 3/5 |
-| 2026-05-02 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -309.5 | core 3/5 |
+| 2026-05-02 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -309.6 | core 3/5 |
 | 2026-05-01 | regain | W |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.11 | 0.00 | +193.5 | core 3/5 |
 | 2026-04-30 | FISHER COLLEGE | W |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.12 | 0.00 | +189.7 | core 3/5 |
 | 2026-04-29 | Voca | L |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.12 | 0.00 | 0.00 | -359.7 | core 3/5 |

@@ -4,20 +4,54 @@ Roster: Slays, Balyy, TsportyA, Alvah, DoomCS2
 NARS Rank: 420 of 506
 
 Final Rating: 1002.2
-Seeded Start: 1252.3
-H2H Adjustment: -250.1
+Seeded Start: 1252.2
+H2H Adjustment: -250.0
 
-Final Rating (1002.2) = Seeded Start (1252.3) + H2H Adjustment (-250.1)
+Final Rating (1002.2) = Seeded Start (1252.2) + H2H Adjustment (-250.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.109 x 1400 = 1252.3
+                = 1100 + 0.109 x 1400 = 1252.2
 
 seed_factor 0.109 = 0.25 x Tier Exposure (0.174) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.227)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.109 | 1252.2 | - |
+| +30 days | 0.092 | 1228.7 | -23.5 |
+| +60 days | 0.082 | 1214.9 | -37.3 |
+| +90 days | 0.066 | 1191.9 | -60.4 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.017 vs 0.010 average, gap +0.007). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-08) 0.94; S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.93
+- Quality Wins drivers: beat DadDick Esports at S58 NA Intermediate B - Regular Season (2026-08-28) 0.10; beat The Sweepers at S58 NA Intermediate B - Regular Season (2026-07-31) 0.08; beat SixSevenZaZa at S58 NA Intermediate B - Regular Season (2026-08-19) 0.03
+- Opponent Network drivers: beat DadDick Esports at S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; beat SixSevenZaZa at S58 NA Intermediate B - Regular Season (2026-08-19) 0.82; beat Atlantis eSports at S58 NA Intermediate B - Regular Season (2026-08-13) 0.78
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +349.9 |
+| SportsBetExpert | 6 | 2672.3 | +349.9 |
+| Zomblers | 22 | 2114.7 | +346.9 |
+| regain | 12 | 2256.1 | +346.7 |
+| North Forge | 38 | 1971.1 | +346.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.6), 3 Feet Of Meat (+1.3), shirtcockin (+1.9).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs Tractors (2026-05-02): expires in 14 days [Quality Wins 0.02, Opponent Network 0.10]
+- S57 NA Intermediate Central - Regular Season vs Feels MAIN Man (2026-05-15): expires in 27 days [Quality Wins 0.02, Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.23]
+- S57 NA Intermediate Central - Playoffs B (2026-05-29): expires in 41 days [Tier Exposure 0.28]
 
 #### Matches (26 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -29,7 +63,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | FLying PiGs | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -32.5 | Alvah, Balyy, DoomCS2, Slays, slichard |
 | 2026-09-02 | Sharp | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -0.2 | Alvah, Balyy, DoomCS2, Slays, slichard |
 | 2026-08-28 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +103.6 | Balyy, DoomCS2, Slays, slichard, yapry |
-| 2026-08-28 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -63.0 | Balyy, DoomCS2, Slays, slichard, yapry |
+| 2026-08-28 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -63.1 | Balyy, DoomCS2, Slays, slichard, yapry |
 | 2026-08-19 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.03 | 0.82 | +9.9 | Balyy, DoomCS2, Slays, slichard, yapry |
 | 2026-08-13 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.03 | 0.78 | +201.9 | Balyy, DoomCS2, Slays, slichard, yapry |
 | 2026-08-08 | VOID ALUNE | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -0.3 | Balyy, DoomCS2, Slays, slichard, yapry |

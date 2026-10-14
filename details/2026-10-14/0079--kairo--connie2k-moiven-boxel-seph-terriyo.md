@@ -5,7 +5,7 @@ NARS Rank: 79 of 506
 
 Final Rating: 1778.9
 Seeded Start: 1381.3
-H2H Adjustment: +397.6 (capped at +-300, raw +397.5)
+H2H Adjustment: +397.6
 
 Final Rating (1778.9) = Seeded Start (1381.3) + H2H Adjustment (+397.6)
 
@@ -18,6 +18,38 @@ seed_factor 0.201 = 0.25 x Tier Exposure (0.125) + 0.50 x Quality Wins (0.075) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.201 | 1381.3 | - |
+| +30 days | 0.180 | 1351.3 | -30.0 |
+| +60 days | 0.161 | 1324.9 | -56.4 |
+| +90 days | 0.129 | 1280.5 | -100.9 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.125 vs 0.280 average, gap -0.155). Matching that average is worth about 54.3 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs A (2026-09-15) 1.03; S59 NA Main A - Regular Season (2026-10-09) 1.02; S58 NA Main A - Regular Season (2026-08-28) 0.90
+- Quality Wins drivers: beat Asoka at S58 NA Main Central - Playoffs A (2026-09-17) 0.23; beat Team Amplus at S58 NA Main Central - Playoffs A (2026-09-06) 0.17; beat Team Amplus at S58 NA Main A - Regular Season (2026-08-21) 0.15
+- Opponent Network drivers: beat absolute cinema at S58 NA Main Central - Playoffs A (2026-09-15) 1.03; beat Asoka at S58 NA Main Central - Playoffs A (2026-09-17) 1.03; beat Dude Picks at S58 NA Main A - Regular Season (2026-08-28) 0.90
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +445.1 |
+| M80 | 2 | 3081.4 | +438.5 |
+| SportsBetExpert | 6 | 2672.3 | +438.2 |
+| Wildcard | 3 | 2911.9 | +433.5 |
+| Liquid | 1 | 3103.3 | +432.4 |
+
+Low value wins at current ratings (projected gain under 2.0 points): SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+- S57 NA Main Central - Playoffs (2026-05-31): expires in 43 days [Tier Exposure 0.36]
 
 #### Matches (33 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -45,14 +77,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.08 | 0.65 | +23.0 | Connie2k, Moiven, TERRIYO, boxelu, ch0wt1me |
 | 2026-07-17 | Abusement Park | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.05 | 0.62 | +282.9 | Connie2k, Moiven, Seph, TERRIYO, boxelu |
 | 2026-07-15 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.06 | 0.60 | +142.9 | Connie2k, Seph, TERRIYO, boxelu, kyr1e |
-| 2026-05-31 | Team Team Name | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -288.6 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
+| 2026-05-31 | Team Team Name | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -288.7 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-29 | Crimson Vortex | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -142.2 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-22 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -179.4 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-20 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.07 | 0.25 | +312.6 | -Solarr, Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-15 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.21 | +134.7 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-13 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.00 | +47.6 | -Solarr, Connie2k, Moiven, Seph, kyr1e |
 | 2026-05-08 | SAFIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +28.8 | -Solarr, Connie2k, Moiven, Seph, kyr1e |
-| 2026-05-06 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -396.8 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
+| 2026-05-06 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -396.9 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-01 | VOID ALUNE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.02 | 0.10 | +230.1 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-04-29 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +224.9 | Connie2k, Moiven, Seph, boxelu, kyr1e |
 | 2026-04-24 | ThirdSite | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -199.6 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |

@@ -19,6 +19,40 @@ seed_factor 0.127 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.035) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.127 | 1277.1 | - |
+| +30 days | 0.105 | 1247.2 | -29.9 |
+| +60 days | 0.090 | 1225.7 | -51.4 |
+| +90 days | 0.061 | 1186.0 | -91.1 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.035 vs 0.022 average, gap +0.013). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs A (2026-09-12) 1.02; S58 NA Main A - Regular Season (2026-08-27) 0.89; S57 NA Main Central - Regular Season (2026-05-20) 0.25
+- Quality Wins drivers: beat Team Amplus at S58 NA Main A - Regular Season (2026-08-27) 0.15; beat Meepins at S58 NA Main Central - Playoffs A (2026-09-08) 0.08; beat Les Ptis Jus at S58 NA Main A - Regular Season (2026-08-12) 0.07
+- Opponent Network drivers: beat Team Amplus at S58 NA Main A - Regular Season (2026-08-27) 0.89; beat Les Ptis Jus at S58 NA Main A - Regular Season (2026-08-12) 0.79; beat Grandpa Berets at S58 NA Main A - Regular Season (2026-08-10) 0.78
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +505.0 |
+| SportsBetExpert | 6 | 2672.3 | +503.7 |
+| M80 | 2 | 3081.4 | +494.3 |
+| LAG Gaming | 8 | 2507.3 | +494.2 |
+| Wildcard | 3 | 2911.9 | +490.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs iNSTINCT (2026-04-30): expires in 12 days [Quality Wins 0.00, Opponent Network 0.09]
+- S57 NA Main Central - Regular Season vs Old Dads Banging (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.16]
+- S57 NA Main Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.25]
+- S58 NA Main A - Regular Season vs Sleepers (2026-07-15): expires in 88 days [Quality Wins 0.03, Opponent Network 0.60]
+
 #### Matches (23 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -38,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.03 | 0.70 | +326.0 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-24 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -153.6 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-22 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -146.9 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
-| 2026-07-17 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -0.3 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
+| 2026-07-17 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -0.3 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-15 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.03 | 0.60 | +419.4 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-05-20 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -7.6 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
 | 2026-05-15 | ASYCS KITTENS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -128.0 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |

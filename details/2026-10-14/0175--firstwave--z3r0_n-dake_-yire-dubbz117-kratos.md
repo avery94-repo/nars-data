@@ -19,6 +19,37 @@ seed_factor 0.222 = 0.25 x Tier Exposure (0.147) + 0.50 x Quality Wins (0.094) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.222 | 1411.5 | - |
+| +30 days | 0.210 | 1393.6 | -17.9 |
+| +60 days | 0.194 | 1371.8 | -39.7 |
+| +90 days | 0.168 | 1334.9 | -76.5 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.147 vs 0.146 average, gap +0.001). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Intermediate Central - Playoffs B (2026-09-15) 1.00; NSTLGA League | Sapphire Conference (2026-08-20) 0.99
+- Quality Wins drivers: beat Beyond Limits at NSTLGA League | Sapphire Conference (2026-08-13) 0.61; beat UltimateDarklordWizardz at S58 NA Intermediate Central - Playoffs B (2026-09-15) 0.20; beat Costco Family at S59 NA Main A - Regular Season (2026-10-09) 0.12
+- Opponent Network drivers: beat dogwater at S59 NA Main A - Regular Season (2026-10-07) 1.02; beat Costco Family at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat UltimateDarklordWizardz at S58 NA Intermediate Central - Playoffs B (2026-09-15) 1.00
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +434.2 |
+| SportsBetExpert | 6 | 2672.3 | +432.4 |
+| M80 | 2 | 3081.4 | +425.3 |
+| LAG Gaming | 8 | 2507.3 | +422.7 |
+| Wildcard | 3 | 2911.9 | +422.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A (2026-05-31): expires in 43 days [Tier Exposure 0.30]
+
 #### Matches (22 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -36,13 +67,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-20 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -14.0 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-08-20 | Fathom Gaming | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -11.0 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-08-13 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -100.5 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
-| 2026-08-13 | Beyond Limits | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.61 | 0.94 | +218.0 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
+| 2026-08-13 | Beyond Limits | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.61 | 0.94 | +218.1 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-08-12 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -3.8 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
-| 2026-08-07 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -124.7 | Dubbz117, Kratos, Yire, based, z3r0_N |
+| 2026-08-07 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -124.8 | Dubbz117, Kratos, Yire, based, z3r0_N |
 | 2026-08-05 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -84.9 | Dubbz117, Kratos, Yire, based, z3r0_N |
 | 2026-07-29 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.68 | +201.4 | Dubbz117, Kratos, Yire, based, z3r0_N |
-| 2026-07-25 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.08 | 0.66 | +183.2 | Dubbz117, Kratos, Yire, based, z3r0_N |
-| 2026-07-22 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.02 | 0.64 | +12.3 | Dubbz117, Kratos, Yire, based, z3r0_N |
+| 2026-07-25 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.08 | 0.66 | +183.3 | Dubbz117, Kratos, Yire, based, z3r0_N |
+| 2026-07-22 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.02 | 0.64 | +12.2 | Dubbz117, Kratos, Yire, based, z3r0_N |
 | 2026-07-17 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +258.0 | Dubbz117, Kratos, Yire, based, z3r0_N |
 | 2026-05-31 | COORSTHEOREM | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.00 | 0.00 | -289.5 | AquaOG, Dubbz117, Yire, dake_, z3r0_N |
 | 2026-05-29 | FoxtrotAlpha | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.00 | 0.00 | -245.8 | AquaOG, Dubbz117, Yire, dake_, tricky, z3r0_N |

@@ -19,6 +19,39 @@ seed_factor 0.221 = 0.25 x Tier Exposure (0.198) + 0.50 x Quality Wins (0.057) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.221 | 1409.9 | - |
+| +30 days | 0.196 | 1374.4 | -35.5 |
+| +60 days | 0.173 | 1342.6 | -67.4 |
+| +90 days | 0.136 | 1290.5 | -119.4 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.057 vs 0.096 average, gap -0.039). Matching that average is worth about 27.3 seed points.
+
+- Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; NSTLGA League | Sapphire Conference (2026-08-31) 1.08; S58 NA Main Central - Playoffs A (2026-09-06) 0.98
+- Quality Wins drivers: beat ASCEND at Group Stage - CROSSFIRE Season 6 (2026-09-09) 0.19; beat Dude Picks at S58 NA Main Central - Playoffs A (2026-09-04) 0.12; beat makeSHIFT at Counter Strike 2 at 2026 Esports Nations Cup: United States of America (2026-07-14) 0.11
+- Opponent Network drivers: beat ASCEND at Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; beat Dude Picks at S58 NA Main Central - Playoffs A (2026-09-04) 0.96; beat Knox Esports at NSTLGA League | Sapphire Conference (2026-08-11) 0.92
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +660.4 |
+| SportsBetExpert | 6 | 2672.3 | +654.7 |
+| M80 | 2 | 3081.4 | +648.3 |
+| Wildcard | 3 | 2911.9 | +642.3 |
+| Liquid | 1 | 3103.3 | +639.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+- S57 NA Main Central - Playoffs (2026-06-04): expires in 47 days [Tier Exposure 0.39]
+- Counter Strike 2 at 2026 Esports Nations Cup: United States of America vs makeSHIFT (2026-07-14): expires in 88 days [Tier Exposure 0.75, Quality Wins 0.11, Opponent Network 0.75]
+
 #### Matches (36 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -50,13 +83,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-04 | NXG Esports | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -182.9 | ApolloZ, C0br4, boa, henry-, kkyle |
 | 2026-05-31 | 027fam | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -228.8 | ApolloZ, C0br4, boa, henry-, kkyle |
 | 2026-05-29 | Automatic HQ | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.05 | 0.34 | +205.3 | ApolloZ, C0br4, boa, henry-, kkyle |
-| 2026-05-27 | Team Amplus | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.06 | 0.33 | +223.9 | ApolloZ, C0br4, boa, henry-, kkyle |
+| 2026-05-27 | Team Amplus | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.06 | 0.33 | +224.0 | ApolloZ, C0br4, boa, henry-, kkyle |
 | 2026-05-22 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +0.1 | ApolloZ, C0br4, boa, henry-, kkyle |
-| 2026-05-20 | Resurgence | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +247.2 | ApolloZ, C0br4, boa, henry-, kkyle |
+| 2026-05-20 | Resurgence | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +247.3 | ApolloZ, C0br4, boa, henry-, kkyle |
 | 2026-05-15 | Zealous | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -57.2 | Aimbot--, ApolloZ, C0br4, henry-, kkyle |
 | 2026-05-13 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -159.6 | Aimbot--, ApolloZ, C0br4, henry-, kkyle |
 | 2026-05-08 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.02 | 0.16 | +1.3 | Aimbot--, ApolloZ, C0br4, henry-, kkyle |
-| 2026-05-06 | grogu | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +74.3 | Aimbot--, ApolloZ, C0br4, henry-, kkyle |
+| 2026-05-06 | grogu | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +74.4 | Aimbot--, ApolloZ, C0br4, henry-, kkyle |
 | 2026-04-30 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +3.8 | Aimbot--, ApolloZ, C0br4, henry-, kkyle |
 | 2026-04-29 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +384.1 | Aimbot--, ApolloZ, C0br4, henry-, kkyle |
 | 2026-04-23 | Team Team Name | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -266.4 | Aimbot--, ApolloZ, C0br4, henry-, kkyle |

@@ -19,6 +19,41 @@ seed_factor 0.126 = 0.25 x Tier Exposure (0.039) + 0.50 x Quality Wins (0.040) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.126 | 1276.8 | - |
+| +30 days | 0.094 | 1232.0 | -44.8 |
+| +60 days | 0.070 | 1198.7 | -78.1 |
+| +90 days | 0.025 | 1135.3 | -141.5 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.039 vs 0.528 average, gap -0.489). Matching that average is worth about 171.2 seed points.
+
+- Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-07) 0.86; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat FUELED BY HATE at S58 NA Main B - Regular Season (2026-07-15) 0.11; beat Over Your Head at S58 NA Main B - Regular Season (2026-07-31) 0.11; beat Kinetic at S58 NA Main B - Regular Season (2026-07-24) 0.10
+- Opponent Network drivers: beat Down To Frag at S58 NA Main B - Regular Season (2026-08-07) 0.86; beat Over Your Head at S58 NA Main B - Regular Season (2026-07-31) 0.81; beat OnlyFans at S58 NA Main B - Regular Season (2026-07-29) 0.79
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +635.3 |
+| Liquid | 1 | 3103.3 | +627.3 |
+| NRG | 4 | 2836.4 | +615.0 |
+| Wildcard | 3 | 2911.9 | +610.2 |
+| Voca | 5 | 2796.5 | +573.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): dogwater (+0.0), Feels MAIN Man (+0.0), Kushtaka (+0.0), FourStrokeGang (+0.0), HUMA (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Salsas Mazzin Crew (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.16]
+- S57 NA Main Central - Regular Season vs UnitedStatesArmy Esports (2026-05-13): expires in 25 days [Quality Wins 0.01, Opponent Network 0.19]
+- S57 NA Main Central - Regular Season vs Fortis Fortuna Adiuvat (2026-05-15): expires in 27 days [Quality Wins 0.02, Opponent Network 0.21]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+- S58 NA Main B - Regular Season vs FUELED BY HATE (2026-07-15): expires in 88 days [Quality Wins 0.11, Opponent Network 0.68]
+
 #### Matches (17 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -30,13 +65,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | OnlyFans | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.07 | 0.79 | +109.5 | Cynxz, F0ur-, L33TG4M3R_, pierson, soulsurvivor |
 | 2026-07-24 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.10 | 0.75 | +350.6 | Cynxz, F0ur-, L33TG4M3R_, pierson, soulsurvivor |
 | 2026-07-22 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.07 | 0.74 | +191.2 | Cynxz, L33TG4M3R_, bandit0, pierson, soulsurvivor |
-| 2026-07-17 | Bird Squishers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +215.4 | Cynxz, L33TG4M3R_, pierson, soulsurvivor, soulsurvivor |
+| 2026-07-17 | Bird Squishers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +215.5 | Cynxz, L33TG4M3R_, pierson, soulsurvivor, soulsurvivor |
 | 2026-07-15 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.11 | 0.68 | +143.2 | Cynxz, L33TG4M3R_, pierson, soulsurvivor, soulsurvivor |
 | 2026-05-22 | absolute cinema | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -183.7 | FusionQQQ, L33TG4M3R_, WhiteShadew, Zynxx, pierson |
 | 2026-05-20 | Storm Surge | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -298.9 | FusionQQQ, L33TG4M3R_, WhiteShadew, Zynxx, pierson |
 | 2026-05-15 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +104.0 | FusionQQQ, L33TG4M3R_, WhiteShadew, Zynxx, pierson |
-| 2026-05-13 | UnitedStatesArmy Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +356.8 | FusionQQQ, L33TG4M3R_, WhiteShadew, Zynxx, pierson |
-| 2026-05-08 | Salsas Mazzin Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +272.0 | Cynxz, L33TG4M3R_, WhiteShadew, Zynxx, pierson |
+| 2026-05-13 | UnitedStatesArmy Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +356.9 | FusionQQQ, L33TG4M3R_, WhiteShadew, Zynxx, pierson |
+| 2026-05-08 | Salsas Mazzin Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +272.1 | Cynxz, L33TG4M3R_, WhiteShadew, Zynxx, pierson |
 | 2026-05-06 | goofball gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -349.3 | Cynxz, L33TG4M3R_, WhiteShadew, Zynxx, pierson |
 | 2026-05-01 | Old Meta | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -243.9 | Cynxz, L33TG4M3R_, WhiteShadew, Zynxx, pierson |
 | 2026-04-29 | SNOWPLOWERS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +153.1 | Cynxz, L33TG4M3R_, WhiteShadew, Zynxx, pierson |

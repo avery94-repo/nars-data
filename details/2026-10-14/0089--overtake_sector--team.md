@@ -19,6 +19,34 @@ seed_factor 0.274 = 0.25 x Tier Exposure (0.054) + 0.50 x Quality Wins (0.317) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.274 | 1483.1 | - |
+| +30 days | 0.319 | 1546.6 | +63.4 |
+| +60 days | 0.335 | 1569.2 | +86.1 |
+| +90 days | 0.365 | 1611.2 | +128.0 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.054 vs 0.072 average, gap -0.018). Matching that average is worth about 6.3 seed points.
+
+- Tier Exposure drivers: ESL Challenger League Season 52 North America Cup 3 (2026-10-11) 1.55
+- Quality Wins drivers: beat FarmVille at ESL Challenger League Season 52 North America Cup 3 (2026-10-08) 1.55; beat Zomblers at ESL Challenger League Season 52 North America Cup 3 (2026-10-14) 1.36; beat regain at ESL Challenger League Season 52 North America Cup 3 (2026-10-12) 1.22
+- Opponent Network drivers: beat FarmVille at ESL Challenger League Season 52 North America Cup 3 (2026-10-08) 1.55; beat regain at ESL Challenger League Season 52 North America Cup 3 (2026-10-12) 1.55; beat Iowa Stormboar at ESL Challenger League Season 52 North America Cup 3 (2026-10-12) 1.55
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +69.7 |
+| SportsBetExpert | 6 | 2672.3 | +69.4 |
+| M80 | 2 | 3081.4 | +68.4 |
+| Wildcard | 3 | 2911.9 | +67.8 |
+| LAG Gaming | 8 | 2507.3 | +67.5 |
+
+Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
+
 #### Matches (5 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 

@@ -19,6 +19,39 @@ seed_factor 0.761 = 0.25 x Tier Exposure (0.610) + 0.50 x Quality Wins (0.842) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.761 | 2166.0 | - |
+| +30 days | 0.745 | 2143.4 | -22.6 |
+| +60 days | 0.715 | 2100.4 | -65.6 |
+| +90 days | 0.657 | 2019.6 | -146.4 |
+
+Weakest lever vs the 3 teams ranked above: Quality Wins (0.842 vs 1.000 average, gap -0.158). Matching that average is worth about 110.6 seed points.
+
+- Tier Exposure drivers: FRAG University 2026 (2026-10-11) 1.60; VRS-tracked 2026-09 (2026-09-17) 1.60; VRS-tracked 2026-09 (2026-09-18) 1.60
+- Quality Wins drivers: beat MOUZ at VRS-tracked 2026-09 (2026-09-17) 2.40; beat ACEND at VRS-tracked 2026-08 (2026-08-08) 1.79; beat SportsBetExpert at FRAG University 2026 (2026-10-11) 1.73
+- Opponent Network drivers: beat Wildcard at VRS-tracked 2026-09 (2026-09-25) 1.60; beat unreal nightmare at FRAG University 2026 (2026-10-10) 1.60; beat Liquid at VRS-tracked 2026-09 (2026-09-11) 1.56
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| Liquid | 1 | 3103.3 | +49.5 |
+| M80 | 2 | 3081.4 | +49.0 |
+| Wildcard | 3 | 2911.9 | +36.2 |
+| Voca | 5 | 2796.5 | +26.8 |
+| SportsBetExpert | 6 | 2672.3 | +18.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): DUMBO (+0.0), GeneticDiff (+0.0), fih hou (+0.0), mas paspas (+0.0), Club 333 (+0.0).
+
+Seed inputs expiring within 90 days:
+- VRS-tracked 2026-04 vs LAG Gaming (2026-04-25): expires in 7 days [Opponent Network 0.08]
+- VRS-tracked 2026-07 vs NuTorious (2026-07-12): expires in 85 days [Opponent Network 0.91]
+- VRS-tracked 2026-07 vs SportsBetExpert (2026-07-12): expires in 85 days [Opponent Network 0.91]
+
 #### Matches (37 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -49,9 +82,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-12 | EH | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.68 | 0.00 | +24.9 | core 3/5 |
 | 2026-07-12 | NuTorious | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.82 | 0.91 | +0.8 | core 3/5 |
 | 2026-07-12 | SportsBetExpert | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.82 | 0.91 | +113.2 | core 3/5 |
-| 2026-06-05 | BIG | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.52 | 0.00 | 0.00 | -261.1 | core 3/5 |
+| 2026-06-05 | BIG | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.51 | 0.00 | 0.00 | -261.1 | core 3/5 |
 | 2026-06-04 | M80 | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.50 | 0.00 | 0.00 | -118.6 | core 3/5 |
-| 2026-06-03 | FlyQuest | W |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.67 | 0.00 | +252.8 | core 3/5 |
+| 2026-06-03 | FlyQuest | W |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.67 | 0.00 | +252.9 | core 3/5 |
 | 2026-06-02 | GAMERLEGION | L |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.00 | 0.00 | -2.6 | core 3/5 |
 | 2026-06-02 | SINNERS | W |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.72 | 0.00 | +647.2 | core 3/5 |
 | 2026-05-20 | MOUZ | L |  | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.34 | 0.00 | 0.00 | -0.3 | core 3/5 |

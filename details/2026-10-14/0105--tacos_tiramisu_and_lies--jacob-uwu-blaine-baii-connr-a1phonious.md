@@ -19,6 +19,38 @@ seed_factor 0.261 = 0.25 x Tier Exposure (0.222) + 0.50 x Quality Wins (0.093) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.261 | 1466.1 | - |
+| +30 days | 0.237 | 1431.9 | -34.1 |
+| +60 days | 0.217 | 1403.6 | -62.5 |
+| +90 days | 0.182 | 1355.2 | -110.8 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.093 vs 0.189 average, gap -0.096). Matching that average is worth about 67.2 seed points.
+
+- Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; NSTLGA League | Ruby Conference (2026-08-27) 1.28; S58 NA Intermediate Central - Playoffs B (2026-09-10) 0.97
+- Quality Wins drivers: beat academy 4 gifted children at Group Stage - CROSSFIRE Season 6 (2026-09-01) 0.37; beat Conscious Gaming at NSTLGA League | Ruby Conference (2026-08-13) 0.20; beat UltimateDarklordWizardz at S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.19
+- Opponent Network drivers: beat academy 4 gifted children at Group Stage - CROSSFIRE Season 6 (2026-09-01) 1.21; beat FlockMunchers at NSTLGA League | Ruby Conference (2026-08-18) 1.19; beat Conscious Gaming at NSTLGA League | Ruby Conference (2026-08-13) 1.14
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +496.8 |
+| SportsBetExpert | 6 | 2672.3 | +491.7 |
+| M80 | 2 | 3081.4 | +488.1 |
+| Wildcard | 3 | 2911.9 | +483.4 |
+| Liquid | 1 | 3103.3 | +481.3 |
+
+Low value wins at current ratings (projected gain under 2.0 points): shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), After Peak (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Open9-10 Central - Playoffs A (2026-06-04): expires in 47 days [Tier Exposure 0.33]
+- Counter Strike 2 at 2026 Esports Nations Cup: United States of America vs D1NK Esports (2026-07-14): expires in 88 days [Tier Exposure 0.75, Quality Wins 0.10]
+
 #### Matches (31 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -42,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Team Auspex | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +94.8 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-13 | Conscious Gaming | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.20 | 1.14 | +122.8 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-13 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.00 | 0.00 | -15.2 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-12 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +88.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-12 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +88.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-11 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.00 | 0.00 | -178.8 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-05 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.11 | 0.73 | +83.2 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-02 | Drip or Drown | L | 1-2 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.85 | 0.00 | 0.00 | -146.4 | A1phonious, BaII, Blaine, Connr, jacob-uwu |

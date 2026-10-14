@@ -19,6 +19,42 @@ seed_factor 0.158 = 0.25 x Tier Exposure (0.098) + 0.50 x Quality Wins (0.041) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.158 | 1320.8 | - |
+| +30 days | 0.124 | 1274.2 | -46.6 |
+| +60 days | 0.101 | 1241.2 | -79.6 |
+| +90 days | 0.067 | 1193.9 | -126.9 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.041 vs 0.014 average, gap +0.027). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-06) 1.13; S58 NA Main B - Regular Season (2026-08-28) 1.02; S57 NA Main Central - Playoffs (2026-06-04) 0.39
+- Quality Wins drivers: beat 1NT at S58 NA Main B - Regular Season (2026-08-28) 0.12; beat STFDYSAB at S58 NA Main B - Regular Season (2026-08-07) 0.11; beat Diamond Mental at S58 NA Main Central - Playoffs B (2026-09-02) 0.10
+- Opponent Network drivers: beat Diamond Mental at S58 NA Main Central - Playoffs B (2026-09-02) 1.09; beat 1NT at S58 NA Main B - Regular Season (2026-08-28) 1.02; beat STFDYSAB at S58 NA Main B - Regular Season (2026-08-07) 0.86
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +663.9 |
+| SportsBetExpert | 6 | 2672.3 | +661.8 |
+| M80 | 2 | 3081.4 | +650.0 |
+| LAG Gaming | 8 | 2507.3 | +648.4 |
+| Wildcard | 3 | 2911.9 | +645.1 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Kairo (2026-05-06): expires in 18 days [Quality Wins 0.02]
+- S57 NA Main Central - Regular Season vs 027fam (2026-05-20): expires in 32 days [Quality Wins 0.02, Opponent Network 0.25]
+- S57 NA Main Central - Regular Season vs 5Frag Gaming (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.03, Opponent Network 0.26]
+- S57 NA Main Central - Playoffs vs Bills (2026-06-02): expires in 45 days [Opponent Network 0.38]
+- S57 NA Main Central - Playoffs (2026-06-04): expires in 47 days [Tier Exposure 0.39]
+- S58 NA Main B - Regular Season vs Florida Man (2026-07-15): expires in 88 days [Quality Wins 0.06, Opponent Network 0.68]
+
 #### Matches (28 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -42,8 +78,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-04 | Crimson Vortex | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -135.7 | AsianAssist, Hawpa_, Joebotz, Pibby, spudjj |
 | 2026-06-02 | Bills | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.01 | 0.38 | +220.0 | AsianAssist, Hawpa_, Joebotz, Pibby, spudjj |
 | 2026-05-29 | TheMotherLovers | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -157.8 | AsianAssist, Hawpa_, Joebotz, Pibby, Shah-- |
-| 2026-05-22 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.03 | 0.26 | +153.6 | AsianAssist, Hawpa_, Joebotz, Pibby, spudjj |
-| 2026-05-20 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +207.6 | AsianAssist, Hawpa_, Joebotz, Pibby, spudjj |
+| 2026-05-22 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.03 | 0.26 | +153.7 | AsianAssist, Hawpa_, Joebotz, Pibby, spudjj |
+| 2026-05-20 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +207.7 | AsianAssist, Hawpa_, Joebotz, Pibby, spudjj |
 | 2026-05-15 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -254.6 | AsianAssist, Hawpa_, Joebotz, Pibby, spudjj |
 | 2026-05-13 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +162.7 | AsianAssist, Hawpa_, Joebotz, Pibby, spudjj |
 | 2026-05-08 | butt | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -143.5 | AsianAssist, Hawpa_, Joebotz, Pibby, spudjj |

@@ -19,6 +19,39 @@ seed_factor 0.208 = 0.25 x Tier Exposure (0.133) + 0.50 x Quality Wins (0.083) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.208 | 1391.0 | - |
+| +30 days | 0.182 | 1354.3 | -36.7 |
+| +60 days | 0.159 | 1322.0 | -69.0 |
+| +90 days | 0.120 | 1268.3 | -122.7 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.083 vs 0.066 average, gap +0.017). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-08) 1.14; S58 NA Main B - Regular Season (2026-08-28) 1.02; S59 NA Main A - Regular Season (2026-10-07) 1.02
+- Quality Wins drivers: beat Skyline at S58 NA Main Central - Playoffs B (2026-09-02) 0.38; beat Skyline at S58 NA Main B - Regular Season (2026-08-07) 0.30; beat Aers Money Crew at S58 NA Main Central - Playoffs B (2026-09-06) 0.13
+- Opponent Network drivers: beat Aers Money Crew at S58 NA Main Central - Playoffs B (2026-09-06) 1.13; beat Skyline at S58 NA Main Central - Playoffs B (2026-09-02) 1.09; beat DeathMark E-Sports at S59 NA Main A - Regular Season (2026-10-07) 1.02
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +287.0 |
+| SportsBetExpert | 6 | 2672.3 | +286.1 |
+| M80 | 2 | 3081.4 | +281.0 |
+| LAG Gaming | 8 | 2507.3 | +280.3 |
+| Wildcard | 3 | 2911.9 | +278.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs ThirdSite (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.06, Opponent Network 0.26]
+- S57 NA Main Central - Playoffs (2026-05-31): expires in 43 days [Tier Exposure 0.36]
+- S58 NA Main B - Regular Season vs Evil Space Wizards (2026-07-15): expires in 88 days [Opponent Network 0.68]
+
 #### Matches (28 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -48,8 +81,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.06 | 0.26 | +1.1 | TOY-, You-A-QT, brinbran, pr-, squirb |
 | 2026-05-21 | Over Your Head | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +216.8 | Donut, TOY-, You-A-QT, brinbran, squirb |
 | 2026-05-15 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -376.6 | TOY-, You-A-QT, brinbran, pr-, squirb |
-| 2026-05-13 | OnlyFans | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -289.6 | TOY-, You-A-QT, brinbran, pr-, squirb |
-| 2026-05-08 | THE GUILD | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +218.9 | Donut, TOY-, You-A-QT, brinbran, squirb |
+| 2026-05-13 | OnlyFans | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -289.7 | TOY-, You-A-QT, brinbran, pr-, squirb |
+| 2026-05-08 | THE GUILD | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +219.0 | Donut, TOY-, You-A-QT, brinbran, squirb |
 | 2026-05-06 | GeneticDiff | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +148.2 | TOY-, You-A-QT, brinbran, pr-, squirb |
 | 2026-04-22 | WhalersOnDaMoon | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +247.4 | Donut, TOY-, You-A-QT, brinbran, pr- |
 

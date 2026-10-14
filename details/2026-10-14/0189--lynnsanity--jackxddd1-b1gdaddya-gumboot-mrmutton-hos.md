@@ -19,6 +19,42 @@ seed_factor 0.139 = 0.25 x Tier Exposure (0.081) + 0.50 x Quality Wins (0.037) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.139 | 1294.4 | - |
+| +30 days | 0.124 | 1272.9 | -21.5 |
+| +60 days | 0.116 | 1262.4 | -32.0 |
+| +90 days | 0.103 | 1244.5 | -49.9 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.037 vs 0.018 average, gap +0.019). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-28) 1.02; S59 NA Main A - Regular Season (2026-10-07) 1.02; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat YHTR at S59 NA Main A - Regular Season (2026-10-09) 0.16; beat Entertainment Cheese at S59 NA Main A - Regular Season (2026-10-07) 0.16; beat Kaos at S58 NA Main B - Regular Season (2026-08-15) 0.07
+- Opponent Network drivers: beat Entertainment Cheese at S59 NA Main A - Regular Season (2026-10-07) 1.02; beat YHTR at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat gooshedd at S58 NA Main B - Regular Season (2026-08-21) 0.97
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +279.5 |
+| SportsBetExpert | 6 | 2672.3 | +278.8 |
+| M80 | 2 | 3081.4 | +273.6 |
+| LAG Gaming | 8 | 2507.3 | +273.5 |
+| Wildcard | 3 | 2911.9 | +271.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Macs Snacks (2026-04-29): expires in 11 days [Quality Wins 0.01]
+- S57 NA Main Central - Regular Season vs Yogaball Frags (2026-05-01): expires in 13 days [Quality Wins 0.01, Opponent Network 0.10]
+- S57 NA Main Central - Regular Season vs Another Day in Paradise (2026-05-06): expires in 18 days [Opponent Network 0.14]
+- S57 NA Main Central - Regular Season vs F1lthy Puggers (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.16]
+- S57 NA Main Central - Regular Season vs Old Meta (2026-05-20): expires in 32 days [Quality Wins 0.03, Opponent Network 0.25]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+
 #### Matches (23 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -39,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -0.0 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-07-17 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +29.7 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-07-16 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -362.0 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-05-22 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -355.5 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
+| 2026-05-22 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -355.6 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
 | 2026-05-20 | Old Meta | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +171.4 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
 | 2026-05-08 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +17.6 | B1gDaddyA, CSGO-VETERAN, Gumboot, MrMutton, hostage1337 |
 | 2026-05-06 | Another Day in Paradise | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +67.3 | B1gDaddyA, CSGO-VETERAN, Gumboot, MrMutton, hostage1337 |

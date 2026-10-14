@@ -19,6 +19,36 @@ seed_factor 0.795 = 0.25 x Tier Exposure (0.615) + 0.50 x Quality Wins (1.000) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.795 | 2213.0 | - |
+| +30 days | 0.792 | 2208.7 | -4.4 |
+| +60 days | 0.794 | 2212.1 | -1.0 |
+| +90 days | 0.807 | 2229.8 | +16.8 |
+
+- Tier Exposure drivers: Stake Pulse Beat III (2026-10-13) 1.60; VRS-tracked 2026-09 (2026-09-18) 1.60; VRS-tracked 2026-09 (2026-09-18) 1.60
+- Quality Wins drivers: beat BBL at Stake Pulse Beat III (2026-10-13) 2.64; beat JiJieHao at Stake Pulse Beat III (2026-10-13) 2.64; beat 3DMAX at VRS-tracked 2026-09 (2026-09-18) 2.40
+- Opponent Network drivers: beat Chicken Coop at VRS-tracked 2026-09 (2026-09-25) 1.60; beat Wildcard at VRS-tracked 2026-09 (2026-09-27) 1.60; beat NRG at VRS-tracked 2026-09 (2026-09-12) 1.57
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +45.7 |
+| Wildcard | 3 | 2911.9 | +26.5 |
+| NRG | 4 | 2836.4 | +13.6 |
+| Voca | 5 | 2796.5 | +9.4 |
+| SportsBetExpert | 6 | 2672.3 | +2.6 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Automatic HQ (+0.0), babaG (+0.0), Hairy Scary Bandits (+0.0), Chicken Coop (+0.0), Slimy Boogermen (+0.0).
+
+Seed inputs expiring within 90 days:
+- VRS-tracked 2026-05 vs M80 (2026-05-12): expires in 24 days [Opponent Network 0.26]
+- VRS-tracked 2026-06 vs BIG (2026-06-02): expires in 45 days [Opponent Network 0.48]
+
 #### Matches (38 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -46,19 +76,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | DHALA | W |  | VRS-tracked 2026-08 | A | vrs | 0.74 | 1.60 | 1.00 | 1.19 | 0.89 | 0.00 | +0.0 | core 3/5 |
 | 2026-08-05 | BETCLIC | L |  | VRS-tracked 2026-08 | A | vrs | 0.73 | 1.60 | 1.00 | 1.17 | 0.00 | 0.00 | -307.2 | core 3/5 |
 | 2026-08-05 | FNATIC | W |  | VRS-tracked 2026-08 | A | vrs | 0.73 | 1.60 | 1.00 | 1.17 | 1.75 | 0.00 | +76.7 | core 3/5 |
-| 2026-08-04 | 9INE | W |  | VRS-tracked 2026-08 | A | vrs | 0.72 | 1.60 | 1.00 | 1.16 | 1.61 | 0.00 | +0.2 | core 3/5 |
+| 2026-08-04 | 9INE | W |  | VRS-tracked 2026-08 | A | vrs | 0.72 | 1.60 | 1.00 | 1.15 | 1.61 | 0.00 | +0.2 | core 3/5 |
 | 2026-08-01 | BETCLIC | W |  | VRS-tracked 2026-08 | A | vrs | 0.70 | 1.60 | 1.00 | 1.12 | 1.07 | 0.00 | +0.0 | core 3/5 |
 | 2026-08-01 | HAVENS | W |  | VRS-tracked 2026-08 | A | vrs | 0.70 | 1.60 | 1.00 | 1.12 | 0.75 | 0.00 | +0.0 | core 3/5 |
 | 2026-07-30 | Spirit | L |  | VRS-tracked 2026-07 | A | vrs | 0.69 | 1.60 | 1.00 | 1.10 | 0.00 | 0.00 | -139.4 | core 3/5 |
 | 2026-07-25 | G2 | W |  | VRS-tracked 2026-07 | A | vrs | 0.66 | 1.60 | 1.00 | 1.05 | 1.57 | 0.00 | +271.6 | core 3/5 |
 | 2026-07-24 | Vitality | W |  | VRS-tracked 2026-07 | A | vrs | 0.65 | 1.60 | 1.00 | 1.04 | 1.56 | 0.00 | +632.5 | core 3/5 |
-| 2026-06-05 | FlyQuest | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.52 | 0.00 | 0.00 | -418.4 | core 3/5 |
-| 2026-06-04 | HEROIC | W |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.50 | 0.76 | 0.00 | +456.8 | core 3/5 |
+| 2026-06-05 | FlyQuest | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.51 | 0.00 | 0.00 | -418.5 | core 3/5 |
+| 2026-06-04 | HEROIC | W |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.50 | 0.76 | 0.00 | +456.9 | core 3/5 |
 | 2026-06-03 | MIBR | L |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.00 | 0.00 | -36.0 | core 3/5 |
 | 2026-06-02 | BETBOOM | L |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.00 | 0.00 | -45.1 | core 3/5 |
 | 2026-06-02 | BIG | W |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.02 | 0.48 | +0.0 | core 3/5 |
 | 2026-05-21 | THE MONGOLZ | L |  | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.35 | 0.00 | 0.00 | -430.2 | core 3/5 |
-| 2026-05-20 | 3DMAX | W |  | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.34 | 0.52 | 0.00 | +553.2 | core 3/5 |
+| 2026-05-20 | 3DMAX | W |  | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.34 | 0.52 | 0.00 | +553.3 | core 3/5 |
 | 2026-05-13 | GAMERLEGION | L |  | VRS-tracked 2026-05 | A | vrs | 0.17 | 1.60 | 1.00 | 0.27 | 0.00 | 0.00 | -67.4 | core 3/5 |
 | 2026-05-12 | M80 | W |  | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.16 | 0.26 | +423.1 | core 3/5 |
 | 2026-05-11 | ASTRALIS | L |  | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.25 | 0.00 | 0.00 | -3.0 | core 3/5 |

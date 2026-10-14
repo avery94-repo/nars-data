@@ -19,6 +19,42 @@ seed_factor 0.058 = 0.25 x Tier Exposure (0.043) + 0.50 x Quality Wins (0.007) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.058 | 1181.7 | - |
+| +30 days | 0.040 | 1155.4 | -26.3 |
+| +60 days | 0.038 | 1152.5 | -29.1 |
+| +90 days | 0.035 | 1149.4 | -32.3 |
+
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.176 vs 0.274 average, gap -0.098). Matching that average is worth about 34.3 seed points.
+
+- Tier Exposure drivers: S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97; S57 NA Main Central - Regular Season (2026-05-22) 0.26
+- Quality Wins drivers: beat Sable at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.04; beat Uncs United at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.03; beat Kaos at S57 NA Main Central - Regular Season (2026-05-20) 0.02
+- Opponent Network drivers: beat Sable at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93; beat Uncs United at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92; beat Kaos at S57 NA Main Central - Regular Season (2026-05-20) 0.25
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +664.7 |
+| SportsBetExpert | 6 | 2672.3 | +663.7 |
+| LAG Gaming | 8 | 2507.3 | +653.2 |
+| M80 | 2 | 3081.4 | +650.2 |
+| regain | 12 | 2256.1 | +646.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.6).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs Temple of Swing (2026-04-30): expires in 12 days [Quality Wins 0.01, Opponent Network 0.09]
+- S57 NA Main Central - Regular Season vs Wealth Reduction (2026-05-06): expires in 18 days [Quality Wins 0.01, Opponent Network 0.14]
+- S57 NA Main Central - Regular Season vs shirtcockin (2026-05-08): expires in 20 days [Quality Wins 0.01, Opponent Network 0.16]
+- S57 NA Main Central - Regular Season vs 3 Feet Of Meat (2026-05-15): expires in 27 days [Quality Wins 0.00, Opponent Network 0.21]
+- S57 NA Main Central - Regular Season vs Kaos (2026-05-20): expires in 32 days [Quality Wins 0.02, Opponent Network 0.25]
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+
 #### Matches (12 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -31,7 +67,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +135.3 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-15 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.21 | +3.1 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-08 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +222.8 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
-| 2026-05-06 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +343.3 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
+| 2026-05-06 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +343.4 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-01 | Aers Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -380.2 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-04-30 | Temple of Swing | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +393.8 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-04-24 | CLUE IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -251.1 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |

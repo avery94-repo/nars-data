@@ -19,6 +19,38 @@ seed_factor 0.160 = 0.25 x Tier Exposure (0.110) + 0.50 x Quality Wins (0.034) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.160 | 1324.6 | - |
+| +30 days | 0.145 | 1303.4 | -21.3 |
+| +60 days | 0.135 | 1288.3 | -36.3 |
+| +90 days | 0.117 | 1263.2 | -61.4 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.034 vs 0.027 average, gap +0.007). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Main Central - Playoffs A (2026-09-06) 0.98; S58 NA Main A - Regular Season (2026-08-26) 0.89
+- Quality Wins drivers: beat ThirdSite at S58 NA Main A - Regular Season (2026-07-24) 0.15; beat Absent Minded at S59 NA Main A - Regular Season (2026-10-07) 0.09; beat Shadow Wizard Money Gang at S59 NA Main A - Regular Season (2026-10-09) 0.08
+- Opponent Network drivers: beat Absent Minded at S59 NA Main A - Regular Season (2026-10-07) 1.02; beat Shadow Wizard Money Gang at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat Hack-A-Shaq at S58 NA Main A - Regular Season (2026-08-26) 0.89
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +363.7 |
+| SportsBetExpert | 6 | 2672.3 | +363.2 |
+| LAG Gaming | 8 | 2507.3 | +357.4 |
+| M80 | 2 | 3081.4 | +355.8 |
+| regain | 12 | 2256.1 | +353.7 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season vs penazoid (2026-05-13): expires in 25 days [Quality Wins 0.02, Opponent Network 0.19]
+- S57 NA Main Central - Regular Season vs Chopped (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.03, Opponent Network 0.26]
+
 #### Matches (25 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -41,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Distinguished Ducks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -31.2 | Mikodoru, hyena, lilpop, ruki, stag |
 | 2026-07-17 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.03 | 0.62 | +3.4 | Mikodoru, breb-, hyena, lilpop, ruki |
 | 2026-07-15 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -38.4 | ChickenKing2, Mikodoru, hyena, lilpop, ruki |
-| 2026-05-22 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.03 | 0.26 | +252.4 | Mikodoru, hyena, lilpop, ruki, stag |
+| 2026-05-22 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.03 | 0.26 | +252.5 | Mikodoru, hyena, lilpop, ruki, stag |
 | 2026-05-20 | goofball gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -34.0 | Mikodoru, hyena, lilpop, ruki, stag |
 | 2026-05-15 | Specter Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -411.7 | ChickenKing2, Mikodoru, doggy_style, hyena, stag |
 | 2026-05-13 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +200.4 | ChickenKing2, Mikodoru, hyena, lilpop, stag |

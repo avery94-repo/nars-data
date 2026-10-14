@@ -19,6 +19,42 @@ seed_factor 0.145 = 0.25 x Tier Exposure (0.127) + 0.50 x Quality Wins (0.029) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.145 | 1302.7 | - |
+| +30 days | 0.116 | 1262.4 | -40.3 |
+| +60 days | 0.101 | 1241.2 | -61.5 |
+| +90 days | 0.075 | 1205.1 | -97.6 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.029 vs 0.024 average, gap +0.005). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-02) 1.09; S58 NA Main B - Regular Season (2026-08-28) 1.02; S59 NA Main A - Regular Season (2026-10-07) 1.02
+- Quality Wins drivers: beat 5Frag Gaming at S58 NA Main B - Regular Season (2026-07-29) 0.11; beat DingTone at S58 NA Main B - Regular Season (2026-08-21) 0.08; beat Sassy Sunshines at S58 NA Main B - Regular Season (2026-08-14) 0.08
+- Opponent Network drivers: beat Backshot Gaming at S58 NA Main B - Regular Season (2026-08-26) 1.01; beat DingTone at S58 NA Main B - Regular Season (2026-08-21) 0.97; beat Sassy Sunshines at S58 NA Main B - Regular Season (2026-08-14) 0.92
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +513.6 |
+| SportsBetExpert | 6 | 2672.3 | +513.3 |
+| regain | 12 | 2256.1 | +507.0 |
+| LAG Gaming | 8 | 2507.3 | +506.4 |
+| Zomblers | 22 | 2114.7 | +505.2 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.8), shirtcockin (+1.2), Courage (+1.5).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs AURA Esports (2026-05-01): expires in 13 days [Quality Wins 0.01]
+- S57 NA Intermediate Central - Regular Season vs Therapist (2026-05-08): expires in 20 days [Opponent Network 0.14]
+- S57 NA Intermediate Central - Regular Season vs Costco Family (2026-05-15): expires in 27 days [Quality Wins 0.02, Opponent Network 0.18]
+- S57 NA Intermediate Central - Regular Season vs NOVAIR (2026-05-20): expires in 32 days [Quality Wins 0.02, Opponent Network 0.22]
+- S57 NA Intermediate Central - Regular Season vs monitor off (2026-05-22): expires in 34 days [Tier Exposure 0.23, Quality Wins 0.02, Opponent Network 0.23]
+- S57 NA Intermediate Central - Playoffs A (2026-05-27): expires in 39 days [Tier Exposure 0.27]
+
 #### Matches (26 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -27,7 +63,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | THE GUILD | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -273.3 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
 | 2026-10-07 | Asoka | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -21.8 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
 | 2026-09-02 | YHTR | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.09 | 0.00 | 0.00 | -39.7 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
-| 2026-08-28 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -81.8 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
+| 2026-08-28 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -81.9 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
 | 2026-08-26 | Backshot Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.04 | 1.01 | +69.2 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
 | 2026-08-21 | DingTone | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.08 | 0.97 | +47.0 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
 | 2026-08-19 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -79.0 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |

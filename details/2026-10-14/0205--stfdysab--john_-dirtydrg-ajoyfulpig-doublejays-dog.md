@@ -19,6 +19,43 @@ seed_factor 0.199 = 0.25 x Tier Exposure (0.122) + 0.50 x Quality Wins (0.061) +
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
 
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.199 | 1378.4 | - |
+| +30 days | 0.168 | 1335.7 | -42.7 |
+| +60 days | 0.139 | 1294.6 | -83.8 |
+| +90 days | 0.094 | 1231.2 | -147.2 |
+
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.122 vs 0.121 average, gap +0.001). Matching that average is worth about 0.0 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-08) 1.14; S58 NA Main B - Regular Season (2026-08-28) 1.02; Counter Strike 2 at 2026 Esports Nations Cup: United States of America (2026-07-14) 0.75
+- Quality Wins drivers: beat SwagMonkeyHats at S58 NA Main Central - Playoffs B (2026-09-06) 0.19; beat Asoka at Counter Strike 2 at 2026 Esports Nations Cup: United States of America (2026-07-14) 0.16; beat Asoka at Counter Strike 2 at 2026 Esports Nations Cup: United States of America (2026-07-14) 0.16
+- Opponent Network drivers: beat SwagMonkeyHats at S58 NA Main Central - Playoffs B (2026-09-06) 1.13; beat strawberry poptarts at S58 NA Main Central - Playoffs B (2026-09-02) 1.09; beat Nomadic Tactics at S58 NA Main B - Regular Season (2026-08-26) 1.01
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| NRG | 4 | 2836.4 | +663.5 |
+| SportsBetExpert | 6 | 2672.3 | +660.8 |
+| M80 | 2 | 3081.4 | +649.9 |
+| LAG Gaming | 8 | 2507.3 | +645.8 |
+| Wildcard | 3 | 2911.9 | +644.8 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
+
+Seed inputs expiring within 90 days:
+- S57 NA Intermediate Central - Regular Season vs academy 4 gifted children (2026-05-15): expires in 27 days [Quality Wins 0.06]
+- S57 NA Intermediate Central - Regular Season (2026-05-20): expires in 32 days [Tier Exposure 0.22]
+- S57 NA Intermediate Central - Playoffs A vs Abusement Park (2026-06-06): expires in 49 days [Opponent Network 0.34]
+- S57 NA Intermediate Central - Playoffs A (2026-06-09): expires in 52 days [Tier Exposure 0.36]
+- Counter Strike 2 at 2026 Esports Nations Cup: United States of America vs Asoka (2026-07-14): expires in 87 days [Quality Wins 0.16]
+- Counter Strike 2 at 2026 Esports Nations Cup: United States of America vs Asoka (2026-07-14): expires in 87 days [Quality Wins 0.16, Opponent Network 0.74]
+- Counter Strike 2 at 2026 Esports Nations Cup: United States of America (2026-07-14): expires in 88 days [Tier Exposure 0.75]
+
 #### Matches (34 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
@@ -46,12 +83,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-09 | YHTR | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.35 | 1.03 | 1.00 | 0.36 | 0.00 | 0.00 | -119.0 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-06-06 | Abusement Park | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.33 | 1.03 | 1.00 | 0.34 | 0.03 | 0.34 | +105.8 | DoubleJays, ShortRound, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-05-31 | Endless Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.00 | 0.00 | -24.7 | Dogman123123, DoubleJays, ShortRound, ajoyfulpig, dirtydrg |
-| 2026-05-28 | Oath | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.03 | 1.00 | 0.28 | 0.01 | 0.28 | +162.8 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
+| 2026-05-28 | Oath | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.03 | 1.00 | 0.28 | 0.01 | 0.28 | +162.9 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-05-27 | Spin da block | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.02 | 0.27 | +36.9 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-05-20 | Braindead | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.22 | +83.9 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-05-18 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.20 | 0.00 | 0.00 | -73.7 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-05-15 | academy 4 gifted children | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.06 | 0.18 | +329.7 | DoubleJays, ShortRound, ajoyfulpig, dirtydrg, jOHN_ |
-| 2026-05-13 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -393.8 | DoubleJays, ajoyfulpig, dirtydrg, jOHN_, rh0b |
+| 2026-05-13 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -393.9 | DoubleJays, ajoyfulpig, dirtydrg, jOHN_, rh0b |
 | 2026-05-08 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +3.3 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-05-06 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +0.7 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |
 | 2026-05-01 | In Our Prime | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +232.6 | Dogman123123, DoubleJays, ajoyfulpig, dirtydrg, jOHN_ |

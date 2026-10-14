@@ -5,7 +5,7 @@ NARS Rank: 29 of 506
 
 Final Rating: 2007.7
 Seeded Start: 1475.8
-H2H Adjustment: +531.9 (capped at +-300, raw +531.8)
+H2H Adjustment: +531.9
 
 Final Rating (2007.7) = Seeded Start (1475.8) + H2H Adjustment (+531.9)
 
@@ -18,6 +18,38 @@ seed_factor 0.268 = 0.25 x Tier Exposure (0.194) + 0.50 x Quality Wins (0.095) +
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
 - Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Growth
+Where this team's points come from and where they can grow. Projections are estimates: the decay outlook assumes no new matches are played, event weights stay as they are, and the whole field ages with the same decay. Upside gains assume current ratings.
+
+| Horizon | Seed factor | Seeded start | Change |
+| :- | -: | -: | -: |
+| Now | 0.268 | 1475.8 | - |
+| +30 days | 0.250 | 1449.7 | -26.1 |
+| +60 days | 0.236 | 1429.9 | -45.9 |
+| +90 days | 0.214 | 1400.0 | -75.8 |
+
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.095 vs 0.244 average, gap -0.149). Matching that average is worth about 104.3 seed points.
+
+- Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-15) 1.19; S58 NA Main B - Regular Season (2026-08-28) 1.02; S59 NA Main A - Regular Season (2026-10-09) 1.02
+- Quality Wins drivers: beat Skyline at S58 NA Main B - Regular Season (2026-08-26) 0.35; beat Strafe at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-08) 0.16; beat DESPAIR at S58 NA Main Central - Playoffs B (2026-09-15) 0.16
+- Opponent Network drivers: beat DESPAIR at S58 NA Main Central - Playoffs B (2026-09-15) 1.19; beat bubibabu at S58 NA Main Central - Playoffs B (2026-09-17) 1.19; beat Crimson Vortex at S58 NA Main Central - Playoffs B (2026-09-06) 1.13
+
+Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+
+| Opponent | Rank | Rating | Projected gain |
+| :- | -: | -: | -: |
+| M80 | 2 | 3081.4 | +640.0 |
+| NRG | 4 | 2836.4 | +632.3 |
+| Liquid | 1 | 3103.3 | +631.6 |
+| Wildcard | 3 | 2911.9 | +622.2 |
+| Voca | 5 | 2796.5 | +594.0 |
+
+Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0).
+
+Seed inputs expiring within 90 days:
+- S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
+- S57 NA Main Central - Playoffs (2026-06-04): expires in 47 days [Tier Exposure 0.39]
 
 #### Matches (38 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -42,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.07 | 0.86 | +7.3 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-08-05 | crescent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.08 | 0.85 | +142.0 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-31 | WhalersOnDaMoon | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.11 | 0.81 | +215.8 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
-| 2026-07-29 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -104.9 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
+| 2026-07-29 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -105.0 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-26 | Appalachian Apes | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.04 | 0.70 | +121.8 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-24 | gooshedd | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -239.1 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-22 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -384.1 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
@@ -58,7 +90,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | Evil Reunion | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +362.1 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
 | 2026-05-08 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -132.7 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
 | 2026-05-06 | Gregs New Cut | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -172.8 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
-| 2026-05-01 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -231.1 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
+| 2026-05-01 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -231.2 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
 | 2026-04-29 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +1.3 | -Tacho-, -lnsane-, Don_therian, Liuxplay, _De1v_ |
 | 2026-04-25 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.06 | +2.1 | -Tacho-, -lnsane-, Don_therian, FreeJoy-, Liuxplay |
 | 2026-04-22 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +168.8 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
