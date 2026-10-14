@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.007 vs 0.019 average,
 - Quality Wins drivers: beat Double Dink at S58 NA Open9-10 West - Playoffs (2026-09-04) 0.07; beat Potential to Stack Dough at S58 NA Open9-10 West - Playoffs (2026-09-03) 0.04
 - Opponent Network drivers: beat Double Dink at S58 NA Open9-10 West - Playoffs (2026-09-04) 1.03; beat Potential to Stack Dough at S58 NA Open9-10 West - Playoffs (2026-09-03) 1.02
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +249.6 |
-| SportsBetExpert | 6 | 2671.6 | +249.5 |
-| Zomblers | 22 | 2114.7 | +247.5 |
-| regain | 12 | 2256.1 | +247.4 |
-| North Forge | 38 | 1971.1 | +246.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Big Fish | 402 | 1051.0 | +2.1 | +82.3 |
+| James Bond Bois | 401 | 1052.0 | +3.1 | +76.2 |
+| ReGen | 400 | 1052.9 | +4.0 | +82.7 |
+| Room Temp IQs | 399 | 1056.5 | +7.6 | +76.9 |
+| three11 | 398 | 1057.1 | +8.2 | +77.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| The Kerbins | 250 | +329.7 | +154.2 | +13.8 |
+| Dude Picks | 252 | +328.6 | +162.7 | +13.6 |
+| Eightball | 253 | +326.7 | +149.1 | +13.5 |
+| GoonAssOldheads | 258 | +320.9 | +137.2 | +13.5 |
+| drunk cigs dont count | 255 | +324.2 | +157.9 | +13.5 |
+| Kinetic | 260 | +315.3 | +153.8 | +13.1 |
+| DadDick Esports | 261 | +313.5 | +150.9 | +13.1 |
+| 2THRiLL | 246 | +337.7 | +125.0 | +13.0 |
+| THE GUILD | 264 | +310.1 | +132.2 | +12.9 |
+| Wiggle Peeks | 265 | +307.9 | +142.3 | +12.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +240.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.6), shirtcockin (+0.9), Courage (+1.1), SixSevenZaZa (+1.8).
 
@@ -53,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | brb grinding minecraft | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -20.1 | Desoward, _grey, kudos_, vigilant, voltix |
-| 2026-10-07 | O Fire | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -83.5 | Desoward, _grey, kudos_, vigilant, voltix |
+| 2026-10-07 | O Fire | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -83.6 | Desoward, _grey, kudos_, vigilant, voltix |
 | 2026-09-10 | TOP SHELF WHIFFERS | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.00 | 0.00 | -95.9 | Desoward, _grey, kudos_, vigilant, voltix |
 | 2026-09-06 | Good Vibes Gaming | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.00 | 0.00 | -113.4 | Desoward, _grey, prossper, vigilant, voltix |
 | 2026-09-04 | Double Dink | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.07 | 1.03 | +169.6 | Desoward, _grey, kudos_, vigilant, voltix |

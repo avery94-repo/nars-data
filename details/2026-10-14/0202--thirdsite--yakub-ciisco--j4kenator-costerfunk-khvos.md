@@ -13,7 +13,7 @@ Final Rating (1479.0) = Seeded Start (1425.7) + H2H Adjustment (+53.3)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.233 x 1400 = 1425.7
 
-seed_factor 0.233 = 0.25 x Tier Exposure (0.232) + 0.50 x Quality Wins (0.092) + 0.25 x Opponent Network (0.516)
+seed_factor 0.233 = 0.25 x Tier Exposure (0.232) + 0.50 x Quality Wins (0.092) + 0.25 x Opponent Network (0.515)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.233 | 1425.7 | - |
 | +30 days | 0.210 | 1393.9 | -31.8 |
 | +60 days | 0.191 | 1368.0 | -57.7 |
-| +90 days | 0.157 | 1319.7 | -106.1 |
+| +90 days | 0.157 | 1319.6 | -106.1 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.092 vs 0.018 average, gap +0.074). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.092 vs 0.018 average,
 - Quality Wins drivers: beat F5 Esports at NSTLGA League | Sapphire Conference (2026-08-23) 0.26; beat F5 Esports at SOFLO SLAM 3 (2026-09-26) 0.25; beat SquadUp at S58 NA Main A - Regular Season (2026-08-28) 0.18
 - Opponent Network drivers: beat F5 Esports at SOFLO SLAM 3 (2026-09-26) 1.00; beat Epochal Esports at NSTLGA League | Sapphire Conference (2026-08-20) 0.99; beat Entertainment Cheese at NSTLGA League | Sapphire Conference (2026-08-13) 0.94
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +222.7 |
-| SportsBetExpert | 6 | 2671.6 | +222.2 |
-| LAG Gaming | 8 | 2507.4 | +218.5 |
-| M80 | 2 | 3081.4 | +218.1 |
-| Wildcard | 3 | 2911.9 | +216.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| GRIT | 201 | 1481.1 | +2.1 | +72.2 |
+| Bad Jawn | 200 | 1482.1 | +3.1 | +80.0 |
+| GOBLINS | 199 | 1486.4 | +7.4 | +69.8 |
+| O Fire | 198 | 1488.5 | +9.5 | +81.6 |
+| Storm Surge | 197 | 1488.6 | +9.6 | +70.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| flat earth | 64 | +347.5 | +142.1 | +13.2 |
+| Endless Esports | 65 | +347.0 | +143.5 | +13.1 |
+| NZ Gaming | 69 | +334.2 | +130.3 | +12.7 |
+| DUMBO | 63 | +348.1 | +159.1 | +12.6 |
+| WhalersOnDaMoon | 66 | +342.8 | +145.8 | +12.6 |
+| GeneticDiff | 70 | +313.9 | +132.7 | +11.9 |
+| fih hou | 73 | +306.7 | +138.5 | +11.5 |
+| Asoka | 74 | +304.3 | +123.5 | +11.4 |
+| Club 333 | 76 | +303.2 | +150.6 | +11.3 |
+| Kairo | 79 | +299.9 | +121.3 | +11.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +215.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -73,21 +90,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Texas Orange | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.06 | 0.84 | +89.3 | Costerfunk, J4kenator, Yakub, Yuanfen, khvostov |
 | 2026-08-15 | NuTorious | L | 1-2 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.80 | 1.45 | 1.00 | 1.16 | 0.00 | 0.00 | -0.0 | Costerfunk, J4kenator, Yuanfen, ciisco-, khvostov |
 | 2026-08-13 | Elusive | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -0.4 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
-| 2026-08-13 | Entertainment Cheese | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.15 | 0.94 | +161.1 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
-| 2026-08-12 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.07 | 0.79 | +117.1 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
+| 2026-08-13 | Entertainment Cheese | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.15 | 0.94 | +161.2 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
+| 2026-08-12 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.07 | 0.79 | +117.2 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-08-10 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.02 | 1.00 | 0.78 | 0.15 | 0.78 | +148.9 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-07-31 | Solace | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -171.5 | Costerfunk, J4kenator, Yakub, Yuanfen, ciisco-, khvostov |
 | 2026-07-29 | Locally Hated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -0.9 | J4kenator, Yakub, Yuanfen, ciisco-, khvostov |
-| 2026-07-24 | Wiggle Peeks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -150.8 | J4kenator, Yakub, Yuanfen, ciisco-, khvostov |
-| 2026-07-17 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.16 | 0.61 | +313.7 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
+| 2026-07-24 | Wiggle Peeks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -150.7 | J4kenator, Yakub, Yuanfen, ciisco-, khvostov |
+| 2026-07-17 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.16 | 0.61 | +313.8 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-07-15 | teamington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -0.6 | Costerfunk, J4kenator, Yakub, ciisco-, khvostov |
 | 2026-05-22 | Shaboing Boing Bandits | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -1.2 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
-| 2026-05-20 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -116.2 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
+| 2026-05-20 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -116.3 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
 | 2026-05-15 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -15.9 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
 | 2026-05-13 | 5Frag Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -260.7 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
 | 2026-05-08 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -197.2 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
 | 2026-05-06 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +15.0 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
-| 2026-04-29 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -454.1 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
+| 2026-04-29 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -454.2 | Costerfunk, J4kenator, Vitalityy_, ciisco-, khvostov |
 | 2026-04-24 | Kairo | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +199.6 | Costerfunk, J4kenator, Vitalityy_, Yuanfen, ciisco- |
 | 2026-04-22 | Old Meta | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +248.6 | Costerfunk, J4kenator, Vitalityy_, Yuanfen, ciisco- |
 

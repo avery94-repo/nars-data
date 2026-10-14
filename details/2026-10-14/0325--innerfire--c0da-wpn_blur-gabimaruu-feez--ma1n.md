@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.134 vs 0.290 aver
 - Quality Wins drivers: beat COGNITIVE at S59 NA Intermediate A - Regular Season (2026-10-07) 0.12; beat Muncle at S58 NA Intermediate B - Regular Season (2026-08-12) 0.06; beat Team Deathgrip at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.02
 - Opponent Network drivers: beat COGNITIVE at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; beat Muncle at S58 NA Intermediate B - Regular Season (2026-08-12) 0.78; beat Team Deathgrip at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +481.4 |
-| SportsBetExpert | 6 | 2671.6 | +480.9 |
-| LAG Gaming | 8 | 2507.4 | +474.3 |
-| regain | 12 | 2256.1 | +472.6 |
-| M80 | 2 | 3081.4 | +471.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Sultans of Swing | 324 | 1225.0 | +0.7 | +128.9 |
+| NetanYAHOO | 323 | 1227.3 | +3.0 | +142.6 |
+| The Ohio Meat Wagon | 322 | 1228.2 | +3.9 | +129.7 |
+| Team TahMeow | 321 | 1235.8 | +11.5 | +139.5 |
+| Full White | 320 | 1236.9 | +12.6 | +131.8 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| WhiteBoyWinter | 155 | +342.4 | +247.4 | +25.0 |
+| offBalance | 165 | +318.0 | +242.8 | +23.1 |
+| Pug Palace | 167 | +311.5 | +246.4 | +22.3 |
+| BucketJonsBoys | 172 | +308.8 | +235.2 | +22.2 |
+| Shaboing Boing Bandits | 173 | +306.3 | +256.0 | +21.7 |
+| Order Zero | 156 | +340.4 | +220.8 | +21.6 |
+| Firstwave | 175 | +302.7 | +234.3 | +21.6 |
+| Armored Talent | 174 | +305.5 | +261.9 | +21.5 |
+| APEX | 176 | +297.6 | +240.3 | +20.9 |
+| GOOZPEEK | 182 | +288.8 | +244.3 | +19.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +464.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
 
@@ -61,21 +78,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -20.6 | -itzFrosty, Feez-, Gabimaruu, c0da, ma1N |
 | 2026-08-21 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -0.4 | -itzFrosty, Feez-, Gabimaruu, c0da, ma1N |
 | 2026-08-19 | de_throne | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -130.2 | -itzFrosty, Feez-, Gabimaruu, apik, c0da, ma1N |
-| 2026-08-12 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +190.7 | -itzFrosty, Feez-, apik, c0da, ma1N |
+| 2026-08-12 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +190.8 | -itzFrosty, Feez-, apik, c0da, ma1N |
 | 2026-08-07 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -25.0 | -itzFrosty, Feez-, Strembitsky, c0da, ma1N |
 | 2026-08-05 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -7.3 | -itzFrosty, Feez-, Gabimaruu, c0da, ma1N |
 | 2026-07-29 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -172.9 | -itzFrosty, Feez-, Gabimaruu, apik, ma1N |
 | 2026-07-17 | DeathMark E-Sports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -2.5 | Evil_Cheese, Gabimaruu, c0da, ma1N, seth |
 | 2026-07-15 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -0.1 | Gabimaruu, _EyeZ, ma1N, seth, wpn_Blur |
-| 2026-05-22 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +309.6 | Evil_Cheese, _Tweekz_, c0da, ma1N, wpn_Blur |
-| 2026-05-20 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -173.2 | Evil_Cheese, Gabimaruu, c0da, ma1N, rypeexd, wpn_Blur |
-| 2026-05-15 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -182.8 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
+| 2026-05-22 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +309.7 | Evil_Cheese, _Tweekz_, c0da, ma1N, wpn_Blur |
+| 2026-05-20 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -173.3 | Evil_Cheese, Gabimaruu, c0da, ma1N, rypeexd, wpn_Blur |
+| 2026-05-15 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -182.9 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
 | 2026-05-13 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -46.3 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
 | 2026-05-08 | Bad Jawn | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -12.3 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
 | 2026-05-06 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -50.2 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
 | 2026-05-01 | NOVAIR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -424.9 | Feez-, _Tweekz_, c0da, ma1N, wpn_Blur |
-| 2026-04-29 | Akatsuki | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -128.1 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
-| 2026-04-23 | Real Hustle Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +377.8 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
+| 2026-04-29 | Akatsuki | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -128.0 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
+| 2026-04-23 | Real Hustle Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +377.9 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
 | 2026-04-22 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -32.3 | Feez-, _Tweekz_, c0da, ma1N, wpn_Blur |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

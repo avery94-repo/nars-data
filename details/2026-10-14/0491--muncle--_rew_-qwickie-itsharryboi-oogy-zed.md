@@ -3,11 +3,11 @@ Team Name: Muncle
 Roster: _REW_, Qwickie, ItsHarryBoi, Oogy, zed
 NARS Rank: 491 of 506
 
-Final Rating: 633.3
+Final Rating: 633.2
 Seeded Start: 1217.3
-H2H Adjustment: -584.0
+H2H Adjustment: -584.1
 
-Final Rating (633.3) = Seeded Start (1217.3) + H2H Adjustment (-584.0)
+Final Rating (633.2) = Seeded Start (1217.3) + H2H Adjustment (-584.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.015 vs 0.008 average,
 - Quality Wins drivers: beat Remnant at S58 NA Intermediate B - Regular Season (2026-08-19) 0.07; beat monitor off at S58 NA Intermediate B - Regular Season (2026-07-22) 0.05; beat Strafe at S57 NA Intermediate Central - Regular Season (2026-05-20) 0.04
 - Opponent Network drivers: beat Remnant at S58 NA Intermediate B - Regular Season (2026-08-19) 0.82; beat SixSevenZaZa at S58 NA Intermediate B - Regular Season (2026-08-05) 0.73; beat Shaq Diesel at S58 NA Intermediate B - Regular Season (2026-07-24) 0.65
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| North Forge | 38 | 1971.1 | +532.7 |
-| Wanted Goons | 43 | 1933.1 | +532.3 |
-| NRG | 4 | 2835.7 | +531.9 |
-| SportsBetExpert | 6 | 2671.6 | +531.8 |
-| Zomblers | 22 | 2114.7 | +530.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| 37U Passion | 490 | 637.4 | +4.2 | +139.7 |
+| Casipanther | 489 | 639.0 | +5.8 | +140.1 |
+| Potential to Stack Dough | 488 | 686.0 | +52.8 | +153.0 |
+| Grandpa Berets | 487 | 691.1 | +57.9 | +168.8 |
+| Knight Owls | 486 | 693.4 | +60.2 | +155.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Counter Legends | 435 | +308.3 | +229.7 | +23.3 |
+| Dead Pixel | 443 | +290.0 | +271.0 | +21.3 |
+| Seven ate Nine | 432 | +322.7 | +234.0 | +20.7 |
+| The Bobs | 434 | +312.9 | +231.1 | +20.1 |
+| It Doesnt Matter | 446 | +276.3 | +238.6 | +19.3 |
+| Suboptimal counterstrike | 431 | +328.6 | +256.2 | +19.1 |
+| Team Deathgrip | 448 | +270.9 | +227.2 | +18.3 |
+| wabbit2 | 445 | +279.3 | +220.8 | +17.0 |
+| GoopT | 452 | +261.3 | +254.6 | +16.1 |
+| Vexation Esports | 444 | +280.8 | +221.3 | +15.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +513.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs SwagMonkeyHats (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
@@ -67,21 +84,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | innerFire | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -198.4 | Oogy, Qwickie, _REW_, oskarGG, zed |
 | 2026-08-05 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.03 | 0.73 | +48.2 | Oogy, Qwickie, _REW_, oskarGG, zed |
 | 2026-07-30 | Atlantis eSports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -25.6 | Oogy, Qwickie, _REW_, oskarGG, zed |
-| 2026-07-29 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -132.4 | Oogy, Qwickie, _REW_, oskarGG, zed |
+| 2026-07-29 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -132.5 | Oogy, Qwickie, _REW_, oskarGG, zed |
 | 2026-07-24 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.03 | 0.65 | +2.4 | Oogy, Qwickie, _REW_, oskarGG, zed |
 | 2026-07-22 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +194.7 | Oogy, Qwickie, _REW_, oskarGG, zed |
 | 2026-07-17 | The Ohio Meat Wagon | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -11.2 | Oogy, Qwickie, _REW_, oskarGG, zed |
 | 2026-07-15 | The Third Eye | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -1.0 | Oogy, Qwickie, _REW_, bee---, zed |
 | 2026-05-29 | In Our Prime | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -91.3 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
-| 2026-05-27 | High-Tech Performance | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -199.0 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
+| 2026-05-27 | High-Tech Performance | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -199.1 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 | 2026-05-20 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.04 | 0.22 | +350.4 | DJDeeJayDJ, ItsHarryBoi, Oogy, _REW_, zed |
 | 2026-05-15 | AURA Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -272.4 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, _REW_ |
 | 2026-05-13 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +2.7 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
-| 2026-05-08 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +419.3 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
+| 2026-05-08 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +419.4 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 | 2026-05-06 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -105.5 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 | 2026-05-01 | NATIONAL CS UNI | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -183.5 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 | 2026-04-29 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -172.2 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, _REW_ |
 | 2026-04-23 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -409.1 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
-| 2026-04-22 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +282.3 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
+| 2026-04-22 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +282.4 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

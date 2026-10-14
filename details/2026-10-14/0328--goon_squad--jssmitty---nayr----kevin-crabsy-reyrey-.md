@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.026 vs 0.208 aver
 - Quality Wins drivers: beat ALL IN at S57 NA Main Central - Regular Season (2026-05-15) 0.01; beat Tall Ocean Rats at S57 NA Main Central - Regular Season (2026-05-01) 0.00; beat HUMA at S57 NA Main Central - Regular Season (2026-04-22) 0.00
 - Opponent Network drivers: beat ALL IN at S57 NA Main Central - Regular Season (2026-05-15) 0.21; beat Tall Ocean Rats at S57 NA Main Central - Regular Season (2026-05-01) 0.10; beat NADIYA at S57 NA Main Central - Regular Season (2026-04-24) 0.05
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.2 |
-| SportsBetExpert | 6 | 2671.6 | +663.5 |
-| LAG Gaming | 8 | 2507.4 | +654.0 |
-| M80 | 2 | 3081.4 | +650.2 |
-| regain | 12 | 2256.1 | +650.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| PogSquad | 327 | 1222.5 | +0.5 | +172.1 |
+| Transcended | 326 | 1223.3 | +1.3 | +167.7 |
+| innerFire | 325 | 1224.3 | +2.3 | +167.7 |
+| Sultans of Swing | 324 | 1225.0 | +3.0 | +163.3 |
+| NetanYAHOO | 323 | 1227.3 | +5.3 | +175.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| WhiteBoyWinter | 155 | +344.7 | +318.4 | +32.3 |
+| offBalance | 165 | +320.3 | +311.2 | +29.8 |
+| BucketJonsBoys | 172 | +311.1 | +301.4 | +28.7 |
+| Pug Palace | 167 | +313.8 | +315.0 | +28.7 |
+| Order Zero | 156 | +342.7 | +286.0 | +28.1 |
+| Shaboing Boing Bandits | 173 | +308.6 | +326.0 | +27.9 |
+| Firstwave | 175 | +305.0 | +299.9 | +27.8 |
+| Armored Talent | 174 | +307.8 | +333.0 | +27.6 |
+| APEX | 176 | +299.9 | +306.7 | +26.9 |
+| GOOZPEEK | 182 | +291.1 | +310.7 | +25.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 
@@ -61,11 +78,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -187.8 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-05-20 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -25.0 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
-| 2026-05-15 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +399.6 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
+| 2026-05-15 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +399.7 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-05-14 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -276.3 | --nayR--, ReyRey-, crabsy, jssmitty, uziburger |
 | 2026-05-06 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -127.0 | --nayR--, -keviN, ReyRey-, crabsy, uziburger |
-| 2026-05-01 | Tall Ocean Rats | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +258.9 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
-| 2026-04-29 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -225.5 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
+| 2026-05-01 | Tall Ocean Rats | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +259.0 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
+| 2026-04-29 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -225.6 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-04-24 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +11.1 | --nayR--, Miranite, ReyRey-, crabsy, jssmitty |
 | 2026-04-22 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +281.0 | --nayR--, ReyRey-, crabsy, jssmitty, uziburger |
 

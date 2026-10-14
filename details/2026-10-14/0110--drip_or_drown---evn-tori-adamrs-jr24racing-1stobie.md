@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.160 | 1324.2 | - |
 | +30 days | 0.148 | 1307.7 | -16.5 |
-| +60 days | 0.138 | 1293.7 | -30.6 |
+| +60 days | 0.138 | 1293.6 | -30.6 |
 | +90 days | 0.119 | 1266.9 | -57.3 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.111 vs 0.116 average, gap -0.005). Matching that average is worth about 1.8 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.111 vs 0.116 average
 - Quality Wins drivers: beat Conscious Gaming at Group Stage - CROSSFIRE Season 6 (2026-09-01) 0.21; beat Tacos Tiramisu and Lies at SoFlo Slam 2 (2026-08-02) 0.19; beat Cortex Jellies at S58 NA Open9-10 East - Playoffs B (2026-09-05) 0.08
 - Opponent Network drivers: beat Conscious Gaming at Group Stage - CROSSFIRE Season 6 (2026-09-01) 1.21; beat brb grinding minecraft at S58 NA Open9-10 East - Playoffs B (2026-09-15) 1.04; beat Cortex Jellies at S58 NA Open9-10 East - Playoffs B (2026-09-05) 0.97
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +342.2 |
-| SportsBetExpert | 6 | 2671.6 | +339.7 |
-| M80 | 2 | 3081.4 | +336.0 |
-| Wildcard | 3 | 2911.9 | +333.1 |
-| Liquid | 1 | 3103.3 | +331.3 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Black Dragon Society | 109 | 1670.7 | +1.7 | +112.0 |
+| Holy Squid Empire | 108 | 1678.7 | +9.7 | +109.8 |
+| Evil Reunion | 107 | 1683.5 | +14.5 | +104.5 |
+| Northern District | 106 | 1684.0 | +15.0 | +101.9 |
+| Tacos Tiramisu and Lies | 105 | 1687.3 | +18.3 | +107.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| VOID ALUNE | 29 | +338.8 | +166.2 | +18.9 |
+| Hairy Scary Bandits | 32 | +330.4 | +206.4 | +18.4 |
+| Holly Molly | 35 | +319.4 | +192.6 | +17.6 |
+| Chicken Coop | 33 | +329.2 | +239.1 | +17.6 |
+| EMPIRE | 36 | +314.6 | +218.8 | +17.1 |
+| unreal nightmare | 37 | +307.6 | +185.1 | +17.0 |
+| North Forge | 38 | +302.2 | +230.9 | +16.1 |
+| Priority | 30 | +335.7 | +165.6 | +13.6 |
+| ZETTA | 39 | +301.0 | +192.2 | +13.5 |
+| babaG | 28 | +339.7 | +219.9 | +13.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +331.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), After Peak (+0.0).
 
@@ -57,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-09 | DETONATE | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.00 | 0.00 | -0.5 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-08 | The Kerbins | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -200.9 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-05 | Cortex Jellies | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.97 | 0.08 | 0.97 | +3.6 | -evN, 1stobie, AdamRS, Tori, jr24racing |
-| 2026-09-04 | pnks pretty princesses | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +2.2 | -evN, 1stobie, AdamRS, Tori, jr24racing |
+| 2026-09-04 | pnks pretty princesses | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +2.2 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-02 | 5_gamers_wrong_game | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +0.4 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-01 | Conscious Gaming | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.91 | 1.33 | 1.00 | 1.21 | 0.21 | 1.21 | +268.5 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-08-02 | Tacos Tiramisu and Lies | W | 2-1 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.85 | 0.19 | 0.85 | +132.1 | -evN, 1stobie, AdamRS, Tori, jr24racing |

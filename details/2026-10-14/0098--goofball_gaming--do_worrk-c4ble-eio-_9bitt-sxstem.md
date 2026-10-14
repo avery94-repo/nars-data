@@ -5,7 +5,7 @@ NARS Rank: 98 of 506
 
 Final Rating: 1719.5
 Seeded Start: 1384.7
-H2H Adjustment: +334.8 (capped at +-300, raw +334.7)
+H2H Adjustment: +334.8
 
 Final Rating (1719.5) = Seeded Start (1384.7) + H2H Adjustment (+334.8)
 
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.203 | 1384.7 | - |
 | +30 days | 0.180 | 1352.6 | -32.2 |
 | +60 days | 0.160 | 1324.2 | -60.5 |
-| +90 days | 0.122 | 1271.0 | -113.8 |
+| +90 days | 0.122 | 1270.9 | -113.8 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.087 vs 0.248 average, gap -0.161). Matching that average is worth about 56.4 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.087 vs 0.248 average
 - Quality Wins drivers: beat FUELED BY HATE at S58 NA Main B - Regular Season (2026-08-26) 0.17; beat Entertainment Cheese at S58 NA Main B - Regular Season (2026-08-14) 0.14; beat Aers Money Crew at S58 NA Main Central - Playoffs B (2026-09-02) 0.13
 - Opponent Network drivers: beat Evil Reunion at S58 NA Main Central - Playoffs B (2026-09-06) 1.12; beat OnlyFans at S58 NA Main Central - Playoffs B (2026-09-04) 1.11; beat Aers Money Crew at S58 NA Main Central - Playoffs B (2026-09-02) 1.09
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +428.4 |
-| SportsBetExpert | 6 | 2671.6 | +423.6 |
-| M80 | 2 | 3081.4 | +421.4 |
-| Wildcard | 3 | 2911.9 | +417.2 |
-| Liquid | 1 | 3103.3 | +415.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| FlyQuest RED | 97 | 1720.7 | +1.2 | +132.8 |
+| NineFlyeSports | 96 | 1725.1 | +5.6 | +132.4 |
+| Crimson Vortex | 95 | 1727.4 | +7.9 | +123.0 |
+| Green Grove Retirement | 94 | 1728.6 | +9.1 | +131.4 |
+| Elusive | 93 | 1731.6 | +12.1 | +137.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Olympus | 25 | +320.1 | +240.3 | +21.4 |
+| Automatic HQ | 27 | +311.3 | +250.6 | +20.1 |
+| VOID ALUNE | 29 | +288.3 | +189.2 | +18.0 |
+| Hairy Scary Bandits | 32 | +279.9 | +229.8 | +17.3 |
+| Chicken Coop | 33 | +278.7 | +262.2 | +16.7 |
+| Holly Molly | 35 | +268.9 | +215.0 | +15.3 |
+| EMPIRE | 36 | +264.1 | +240.4 | +14.7 |
+| unreal nightmare | 37 | +257.1 | +206.6 | +13.6 |
+| Festina Lente | 24 | +323.3 | +197.8 | +13.4 |
+| North Forge | 38 | +251.7 | +250.5 | +12.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +416.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), Solbound (+0.0).
 
@@ -63,8 +80,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Aers Money Crew | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.09 | 0.13 | 1.09 | +12.7 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-28 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -72.5 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-26 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.17 | 1.01 | +45.7 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
-| 2026-08-21 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.09 | 0.97 | +60.9 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
-| 2026-08-19 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -66.6 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
+| 2026-08-21 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.09 | 0.97 | +61.0 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
+| 2026-08-19 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -66.7 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-14 | Entertainment Cheese | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.14 | 0.92 | +6.3 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-12 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -9.9 | Do_Worrk, _9bitt, c4ble, endercat07, sxstem |
 | 2026-08-07 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -85.5 | P0PTART, _9bitt, c4ble, fadeh, sxstem |
@@ -74,12 +91,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | RejexEsports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +7.6 | Andy8, _9bitt, c4ble, eIo, sxstem |
 | 2026-07-22 | gooshedd | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.03 | 0.74 | +182.2 | _9bitt, c4ble, eIo, fceitGOONING, sxstem |
 | 2026-07-17 | Macs Snacks | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -240.7 | Andy8, Do_Worrk, _9bitt, eIo, sxstem |
-| 2026-07-15 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.03 | 0.68 | +245.5 | Andy8, Do_Worrk, _9bitt, eIo, sxstem |
+| 2026-07-15 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.03 | 0.68 | +245.6 | Andy8, Do_Worrk, _9bitt, eIo, sxstem |
 | 2026-05-22 | 1NT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.03 | 0.26 | +14.7 | Do_Worrk, _9bitt, eIo, endercat07, sxstem |
 | 2026-05-20 | Wiggle Peeks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +34.1 | Do_Worrk, _9bitt, eIo, fadeh, sxstem |
-| 2026-05-14 | grogu | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +331.7 | Do_Worrk, _9bitt, eIo, fadeh, sxstem |
+| 2026-05-14 | grogu | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +331.8 | Do_Worrk, _9bitt, eIo, fadeh, sxstem |
 | 2026-05-13 | Sassy Sunshines | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -6.7 | Do_Worrk, eIo, fadeh, sxstem, trespasser1 |
-| 2026-05-06 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +352.9 | Do_Worrk, _9bitt, eIo, endercat07, sxstem |
+| 2026-05-06 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +353.0 | Do_Worrk, _9bitt, eIo, endercat07, sxstem |
 | 2026-05-01 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -0.1 | Do_Worrk, _9bitt, eIo, fadeh, sxstem |
 | 2026-04-29 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -269.2 | Do_Worrk, _9bitt, eIo, fadeh, sxstem |
 | 2026-04-25 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -86.7 | Andy8, Do_Worrk, _9bitt, eIo, sxstem, trespasser1 |

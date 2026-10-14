@@ -3,15 +3,15 @@ Team Name: F1lthy Puggers
 Roster: clouwud_ttv, Snow8, not_aware, artinny0, duhman258
 NARS Rank: 121 of 506
 
-Final Rating: 1643.7
-Seeded Start: 1307.2
-H2H Adjustment: +336.5 (capped at +-300, raw +336.6)
+Final Rating: 1643.8
+Seeded Start: 1307.1
+H2H Adjustment: +336.7 (capped at +-300, raw +336.6)
 
-Final Rating (1643.7) = Seeded Start (1307.2) + H2H Adjustment (+336.5)
+Final Rating (1643.8) = Seeded Start (1307.1) + H2H Adjustment (+336.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.148 x 1400 = 1307.2
+                = 1100 + 0.148 x 1400 = 1307.1
 
 seed_factor 0.148 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.039) + 0.25 x Opponent Network (0.430)
 
@@ -24,26 +24,43 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.148 | 1307.2 | - |
+| Now | 0.148 | 1307.1 | - |
 | +30 days | 0.130 | 1281.7 | -25.4 |
-| +60 days | 0.116 | 1261.9 | -45.3 |
+| +60 days | 0.116 | 1261.8 | -45.3 |
 | +90 days | 0.089 | 1224.5 | -82.7 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.430 vs 0.521 average, gap -0.091). Matching that average is worth about 31.8 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.430 vs 0.521 average, gap -0.091). Matching that average is worth about 31.9 seed points.
 
 - Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-08) 1.14; S58 NA Main B - Regular Season (2026-08-27) 1.02; S57 NA Main Central - Regular Season (2026-05-20) 0.25
 - Quality Wins drivers: beat FUELED BY HATE at S58 NA Main Central - Playoffs B (2026-09-08) 0.19; beat Exnitas at S58 NA Main B - Regular Season (2026-08-19) 0.12; beat US Navy Esports at S58 NA Main Central - Playoffs B (2026-09-07) 0.11
 - Opponent Network drivers: beat FUELED BY HATE at S58 NA Main Central - Playoffs B (2026-09-08) 1.14; beat US Navy Esports at S58 NA Main Central - Playoffs B (2026-09-07) 1.13; beat Exnitas at S58 NA Main B - Regular Season (2026-08-19) 0.95
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +631.5 |
-| SportsBetExpert | 6 | 2671.6 | +625.3 |
-| M80 | 2 | 3081.4 | +620.9 |
-| Wildcard | 3 | 2911.9 | +614.9 |
-| Liquid | 1 | 3103.3 | +612.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Conscious Gaming | 120 | 1646.8 | +3.0 | +161.8 |
+| ODIN | 119 | 1647.1 | +3.3 | +169.2 |
+| Akatsuki | 118 | 1647.6 | +3.8 | +158.7 |
+| Elation | 117 | 1652.7 | +8.9 | +160.2 |
+| Read You Like a Kindle | 116 | 1654.7 | +10.9 | +172.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Holly Molly | 35 | +344.6 | +324.6 | +30.8 |
+| unreal nightmare | 37 | +332.8 | +311.7 | +30.4 |
+| EMPIRE | 36 | +339.8 | +365.4 | +29.5 |
+| North Forge | 38 | +327.4 | +382.9 | +27.9 |
+| ZETTA | 39 | +326.2 | +322.2 | +24.7 |
+| Wanted Goons | 43 | +289.3 | +354.4 | +23.7 |
+| Swole Patrol | 45 | +270.5 | +251.4 | +20.6 |
+| Xiaoma Gaming | 46 | +267.6 | +317.0 | +19.7 |
+| Zealous | 42 | +297.8 | +260.2 | +18.7 |
+| FLOW STATE | 47 | +253.6 | +297.3 | +16.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +612.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 

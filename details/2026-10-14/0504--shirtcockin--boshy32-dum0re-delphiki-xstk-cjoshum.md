@@ -3,11 +3,11 @@ Team Name: shirtcockin
 Roster: boshy32, DUM0RE, delphiki, xstk, Cjoshum
 NARS Rank: 504 of 506
 
-Final Rating: 381.8
+Final Rating: 381.7
 Seeded Start: 1116.9
-H2H Adjustment: -735.1
+H2H Adjustment: -735.2
 
-Final Rating (381.8) = Seeded Start (1116.9) + H2H Adjustment (-735.1)
+Final Rating (381.7) = Seeded Start (1116.9) + H2H Adjustment (-735.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.007 vs 0.135 aver
 - Quality Wins drivers: beat puggin4seb at S57 NA Main Central - Regular Season (2026-05-01) 0.01
 - Opponent Network drivers: beat puggin4seb at S57 NA Main Central - Regular Season (2026-05-01) 0.10
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| North Forge | 38 | 1971.1 | +667.0 |
-| Wanted Goons | 43 | 1933.1 | +666.8 |
-| NRG | 4 | 2835.7 | +664.7 |
-| SportsBetExpert | 6 | 2671.6 | +664.7 |
-| Zomblers | 22 | 2114.7 | +663.7 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Courage | 503 | 403.9 | +22.2 | +169.3 |
+| SixSevenZaZa | 502 | 459.5 | +77.8 | +187.7 |
+| Shaq Diesel | 501 | 508.6 | +126.9 | +204.8 |
+| After Peak | 500 | 533.6 | +151.9 | +228.7 |
+| Old Dads Banging | 499 | 550.3 | +168.6 | +219.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| EZ2025 | 483 | +339.6 | +354.6 | +31.3 |
+| monitor off | 485 | +332.7 | +340.9 | +30.0 |
+| Grandpa Berets | 487 | +309.4 | +321.3 | +28.1 |
+| Power of Friendship | 484 | +338.4 | +284.4 | +26.5 |
+| Potential to Stack Dough | 488 | +304.3 | +271.4 | +19.2 |
+| Muncle | 491 | +251.5 | +263.8 | +16.9 |
+| SNOWPLOWERS | 482 | +349.7 | +288.7 | +13.3 |
+| Knight Owls | 486 | +311.7 | +274.2 | +10.8 |
+| After Peak | 500 | +151.9 | +228.7 | -0.3 |
+| Solbound | 496 | +173.3 | +233.2 | -0.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs puggin4seb (2026-05-01): expires in 13 days [Quality Wins 0.01, Opponent Network 0.10]
@@ -64,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | US Navy Esports | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -0.0 | Cjoshum, DUM0RE, boshy32, cadius-, delphiki |
 | 2026-07-15 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -1.7 | Cjoshum, boshy32, cadius-, delphiki, xstk |
 | 2026-05-22 | The Homies | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -1.6 | Cjoshum, DUM0RE, delphiki, oberon, xstk |
-| 2026-05-14 | we get it back | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -326.8 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
+| 2026-05-14 | we get it back | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -326.9 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
 | 2026-05-13 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -145.1 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
 | 2026-05-08 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -224.1 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
 | 2026-05-01 | puggin4seb | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +263.9 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |

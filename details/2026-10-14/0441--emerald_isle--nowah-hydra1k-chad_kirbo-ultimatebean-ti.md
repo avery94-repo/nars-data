@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: Emerald Isle
 Roster: NOWAH, Hydra1k, Chad_Kirbo, Ultimatebean, TinNeR
-NARS Rank: 442 of 506
+NARS Rank: 441 of 506
 
 Final Rating: 928.2
 Seeded Start: 1214.5
@@ -26,24 +26,41 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.082 | 1214.5 | - |
 | +30 days | 0.050 | 1169.8 | -44.7 |
-| +60 days | 0.037 | 1151.4 | -63.2 |
+| +60 days | 0.037 | 1151.4 | -63.1 |
 | +90 days | 0.019 | 1127.0 | -87.5 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.053 vs 0.050 average, gap +0.003). Matching that average is worth about 0.0 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.053 vs 0.051 average, gap +0.002). Matching that average is worth about 0.0 seed points.
 
 - Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-21) 0.97; S57 NA Intermediate Central - Playoffs A (2026-06-02) 0.31; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
 - Quality Wins drivers: beat Bird Squishers at S58 NA Main B - Regular Season (2026-08-05) 0.07; beat Cadillac F1 eSports Team at S58 NA Main B - Regular Season (2026-07-24) 0.06; beat HammerHeads at S58 NA Main B - Regular Season (2026-07-29) 0.04
 - Opponent Network drivers: beat Bird Squishers at S58 NA Main B - Regular Season (2026-08-05) 0.85; beat HammerHeads at S58 NA Main B - Regular Season (2026-07-29) 0.79; beat Cadillac F1 eSports Team at S58 NA Main B - Regular Season (2026-07-24) 0.75
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.4 |
-| Zomblers | 22 | 2114.7 | +659.1 |
-| regain | 12 | 2256.1 | +658.8 |
-| North Forge | 38 | 1971.1 | +657.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| After Hours | 440 | 931.5 | +3.3 | +163.3 |
+| Big Kahuna Gaming | 439 | 931.8 | +3.6 | +163.4 |
+| NADIYA | 438 | 933.2 | +5.0 | +163.9 |
+| WannaBeMovement | 437 | 936.9 | +8.7 | +165.0 |
+| Square1 | 436 | 940.4 | +12.2 | +166.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| NATIONAL CS UNI | 301 | +337.9 | +320.0 | +31.6 |
+| Mud Wizards | 298 | +341.8 | +353.6 | +31.0 |
+| DingTone | 302 | +335.6 | +328.9 | +30.7 |
+| Guangzhou Loong Lions | 304 | +331.7 | +319.1 | +30.6 |
+| Team Nyx | 307 | +325.0 | +313.4 | +30.3 |
+| TELETUBEASTS | 303 | +335.0 | +350.5 | +29.9 |
+| fiveB | 318 | +310.3 | +306.4 | +28.5 |
+| Team TahMeow | 321 | +307.6 | +305.8 | +28.1 |
+| Asian Invasion | 308 | +322.5 | +278.3 | +26.9 |
+| innerFire | 325 | +296.1 | +289.4 | +26.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs Spin da block (2026-04-29): expires in 11 days [Quality Wins 0.01, Opponent Network 0.08]
@@ -72,7 +89,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | FUELED BY HATE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -378.2 | Avner, Chad_Kirbo, Gliss, NOWAH, TinNeR |
 | 2026-07-15 | Pugging4Pumpkin | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -166.3 | Avner, Chad_Kirbo, Gliss, NOWAH, TinNeR |
 | 2026-06-02 | HammerHeads | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -132.5 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
-| 2026-05-31 | Schadenfreude | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.01 | 0.30 | +75.7 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
+| 2026-05-31 | Schadenfreude | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.01 | 0.30 | +75.6 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
 | 2026-05-27 | Endless Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -0.7 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
 | 2026-05-22 | Lan Bears | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +3.6 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
 | 2026-05-20 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +89.2 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |

@@ -3,11 +3,11 @@ Team Name: insane players
 Roster: (unknown)
 NARS Rank: 453 of 506
 
-Final Rating: 889.9
+Final Rating: 889.7
 Seeded Start: 1105.6
-H2H Adjustment: -215.7
+H2H Adjustment: -215.9
 
-Final Rating (889.9) = Seeded Start (1105.6) + H2H Adjustment (-215.7)
+Final Rating (889.7) = Seeded Start (1105.6) + H2H Adjustment (-215.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.001 vs 0.266 aver
 - Quality Wins drivers: beat Club 333 at VRS-tracked 2026-04 (2026-04-19) 0.01
 - Opponent Network drivers: beat Club 333 at VRS-tracked 2026-04 (2026-04-19) 0.01
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.7 |
-| SportsBetExpert | 6 | 2671.6 | +664.5 |
-| Zomblers | 22 | 2114.7 | +660.0 |
-| regain | 12 | 2256.1 | +659.3 |
-| North Forge | 38 | 1971.1 | +659.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| GoopT | 452 | 894.5 | +4.8 | +173.1 |
+| on disability | 451 | 894.9 | +5.2 | +163.9 |
+| Friendly Fire | 450 | 895.4 | +5.7 | +164.1 |
+| Baja Blasters | 449 | 903.7 | +14.0 | +166.7 |
+| Team Deathgrip | 448 | 904.1 | +14.4 | +169.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| fiveB | 318 | +348.8 | +325.1 | +32.5 |
+| Team TahMeow | 321 | +346.1 | +324.6 | +32.3 |
+| innerFire | 325 | +334.6 | +306.8 | +31.6 |
+| Transcended | 326 | +333.6 | +308.0 | +31.4 |
+| Double Dink | 329 | +330.9 | +290.0 | +31.1 |
+| NetanYAHOO | 323 | +337.6 | +357.5 | +30.4 |
+| PogSquad | 327 | +332.8 | +343.9 | +30.4 |
+| Relativity | 316 | +349.2 | +288.5 | +29.7 |
+| Brobies | 330 | +325.7 | +354.1 | +29.3 |
+| MONARCH | 337 | +311.1 | +324.2 | +28.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - VRS-tracked 2026-04 vs Club 333 (2026-04-19): expires in 1 days [Tier Exposure 0.01, Quality Wins 0.01, Opponent Network 0.01]
@@ -57,10 +74,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-04-28 | girl kissers | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.00 | 0.00 | -322.6 | core 3/5 |
+| 2026-04-28 | girl kissers | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.00 | 0.00 | -322.8 | core 3/5 |
 | 2026-04-27 | Marsborne | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.00 | -8.1 | core 3/5 |
-| 2026-04-26 | FarmVille | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -0.2 | core 3/5 |
-| 2026-04-26 | Incognito | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -353.1 | core 3/5 |
+| 2026-04-26 | FarmVille | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -0.2 | core 3/5 |
+| 2026-04-26 | Incognito | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -353.1 | core 3/5 |
 | 2026-04-19 | Club 333 | W |  | VRS-tracked 2026-04 | A | vrs | 0.01 | 1.59 | 1.00 | 0.01 | 0.01 | 0.01 | +468.3 | core 3/5 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

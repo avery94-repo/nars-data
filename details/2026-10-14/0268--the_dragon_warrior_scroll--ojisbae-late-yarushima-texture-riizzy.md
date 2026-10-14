@@ -3,11 +3,11 @@ Team Name: the dragon warrior scroll
 Roster: OJISBAE, Late, yarushima, texture, riizzy
 NARS Rank: 268 of 506
 
-Final Rating: 1351.5
+Final Rating: 1351.4
 Seeded Start: 1138.5
-H2H Adjustment: +213.0
+H2H Adjustment: +212.9
 
-Final Rating (1351.5) = Seeded Start (1138.5) + H2H Adjustment (+213.0)
+Final Rating (1351.4) = Seeded Start (1138.5) + H2H Adjustment (+212.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,21 +29,38 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.000 | 1100.0 | -38.5 |
 | +90 days | 0.000 | 1100.0 | -38.5 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.071 vs 0.352 average, gap -0.281). Matching that average is worth about 98.3 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.071 vs 0.352 average, gap -0.281). Matching that average is worth about 98.4 seed points.
 
 - Tier Exposure drivers: S57 NA Main Central - Playoffs (2026-05-31) 0.36; S57 NA Main Central - Regular Season (2026-05-22) 0.26
 - Quality Wins drivers: beat Skyline at S57 NA Main Central - Regular Season (2026-05-14) 0.07; beat Shaboing Boing Bandits at S57 NA Main Central - Playoffs (2026-05-27) 0.04; beat ALL IN at S57 NA Main Central - Regular Season (2026-05-20) 0.01
 - Opponent Network drivers: beat Shaboing Boing Bandits at S57 NA Main Central - Playoffs (2026-05-27) 0.33; beat ALL IN at S57 NA Main Central - Regular Season (2026-05-20) 0.25; beat Skyline at S57 NA Main Central - Regular Season (2026-05-14) 0.20
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +663.8 |
-| SportsBetExpert | 6 | 2671.6 | +662.3 |
-| LAG Gaming | 8 | 2507.4 | +651.0 |
-| M80 | 2 | 3081.4 | +650.1 |
-| Wildcard | 3 | 2911.9 | +645.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Glockwork | 267 | 1353.3 | +1.9 | +163.0 |
+| High-Tech Performance | 266 | 1356.1 | +4.7 | +168.0 |
+| Wiggle Peeks | 265 | 1356.8 | +5.4 | +171.8 |
+| THE GUILD | 264 | 1359.0 | +7.6 | +169.2 |
+| ASCEND | 263 | 1360.1 | +8.7 | +173.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Holy Squid Empire | 108 | +327.3 | +322.1 | +30.2 |
+| New Legends | 103 | +343.9 | +385.6 | +30.0 |
+| Black Dragon Society | 109 | +319.3 | +342.0 | +28.9 |
+| Read You Like a Kindle | 116 | +303.3 | +335.7 | +26.8 |
+| eefsports | 112 | +312.8 | +274.6 | +26.3 |
+| ODIN | 119 | +295.7 | +326.1 | +25.3 |
+| Team GREAT | 128 | +277.8 | +278.8 | +23.1 |
+| Northern District | 106 | +332.6 | +282.2 | +23.1 |
+| Torii | 129 | +276.6 | +304.7 | +22.6 |
+| Shimmer | 111 | +315.7 | +286.8 | +22.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
 
@@ -63,8 +80,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-31 | Team Amplus | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -163.2 | Late, OJISBAE, riizzy, texture, yarushima |
-| 2026-05-29 | BUCK NASTY | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -207.9 | Late, OJISBAE, riizzy, texture, yarushima |
-| 2026-05-27 | Shaboing Boing Bandits | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.04 | 0.33 | +185.8 | Late, OJISBAE, riizzy, texture, yarushima |
+| 2026-05-29 | BUCK NASTY | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -208.0 | Late, OJISBAE, riizzy, texture, yarushima |
+| 2026-05-27 | Shaboing Boing Bandits | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.04 | 0.33 | +185.9 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-22 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -261.5 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-20 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +23.3 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-14 | Skyline | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.07 | 0.20 | +37.0 | Late, OJISBAE, riizzy, texture, yarushima |

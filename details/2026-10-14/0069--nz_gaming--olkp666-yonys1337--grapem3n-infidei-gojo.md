@@ -5,7 +5,7 @@ NARS Rank: 69 of 506
 
 Final Rating: 1813.2
 Seeded Start: 1309.4
-H2H Adjustment: +503.8 (capped at +-300, raw +503.7)
+H2H Adjustment: +503.8
 
 Final Rating (1813.2) = Seeded Start (1309.4) + H2H Adjustment (+503.8)
 
@@ -13,7 +13,7 @@ Final Rating (1813.2) = Seeded Start (1309.4) + H2H Adjustment (+503.8)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.150 x 1400 = 1309.4
 
-seed_factor 0.150 = 0.25 x Tier Exposure (0.105) + 0.50 x Quality Wins (0.076) + 0.25 x Opponent Network (0.342)
+seed_factor 0.150 = 0.25 x Tier Exposure (0.105) + 0.50 x Quality Wins (0.075) + 0.25 x Opponent Network (0.342)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.342 vs 0.578 aver
 - Quality Wins drivers: beat unreal nightmare at S58 NA Advanced Central - Regular Season (2026-07-24) 0.66; beat Addice at S58 NA Advanced Central - Regular Season (2026-07-22) 0.19; beat dice at S58 NA Advanced Central - Regular Season (2026-07-29) 0.17
 - Opponent Network drivers: beat Diggers at S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; beat dice at S58 NA Advanced Central - Regular Season (2026-07-29) 0.99; beat unreal nightmare at S58 NA Advanced Central - Regular Season (2026-07-24) 0.94
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +391.9 |
-| M80 | 2 | 3081.4 | +386.7 |
-| SportsBetExpert | 6 | 2671.6 | +385.2 |
-| Wildcard | 3 | 2911.9 | +382.1 |
-| Liquid | 1 | 3103.3 | +381.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Whiff City | 68 | 1817.6 | +4.4 | +121.2 |
+| Playing for fun | 67 | 1819.3 | +6.1 | +116.2 |
+| WhalersOnDaMoon | 66 | 1821.8 | +8.6 | +125.8 |
+| Endless Esports | 65 | 1826.0 | +12.8 | +126.0 |
+| flat earth | 64 | 1826.5 | +13.3 | +125.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Villainous | 18 | +347.5 | +272.1 | +19.8 |
+| Iowa Stormboar | 21 | +302.6 | +255.8 | +18.1 |
+| Zomblers | 22 | +301.5 | +256.3 | +18.1 |
+| qcclan | 20 | +332.9 | +223.3 | +13.9 |
+| MASTER ONE | 19 | +346.2 | +216.9 | +12.2 |
+| Olympus | 25 | +226.4 | +193.7 | +6.8 |
+| duck crew | 23 | +282.8 | +175.1 | +6.2 |
+| Automatic HQ | 27 | +217.6 | +200.0 | +4.4 |
+| Festina Lente | 24 | +229.6 | +162.9 | +0.0 |
+| flat earth | 64 | +13.3 | +125.7 | -0.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +381.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0).
 
@@ -66,11 +83,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | dice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.17 | 0.99 | +130.9 | INFIDEI, gojoo, mylastdance-, olkp666, vision-- |
 | 2026-07-24 | unreal nightmare | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.66 | 0.94 | +259.5 | INFIDEI, gojoo, jorkin_it, myline, olkp666 |
 | 2026-07-22 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.19 | 0.92 | +110.8 | INFIDEI, gojoo, jorkin_it, myline, olkp666 |
-| 2026-07-16 | Imperium | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.04 | 0.86 | +353.9 | INFIDEI, gojoo, jorkin_it, olkp666, vision-- |
+| 2026-07-16 | Imperium | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.04 | 0.86 | +354.0 | INFIDEI, gojoo, jorkin_it, olkp666, vision-- |
 | 2026-05-21 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -1.1 | GrapeM3n, INFIDEI, Yonys1337-, gojoo, olkp666 |
 | 2026-05-19 | GRIT | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -267.7 | GrapeM3n, INFIDEI, Yonys1337-, gojoo, olkp666 |
 | 2026-05-14 | Olympus | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -187.3 | GrapeM3n, INFIDEI, Yonys1337-, gojoo, olkp666 |
-| 2026-05-06 | North Forge | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -156.1 | GrapeM3n, INFIDEI, Yonys1337-, gojoo, olkp666 |
+| 2026-05-06 | North Forge | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -156.2 | GrapeM3n, INFIDEI, Yonys1337-, gojoo, olkp666 |
 | 2026-04-28 | NineFly Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.01 | 0.09 | +155.3 | GrapeM3n, INFIDEI, Yonys1337-, gojoo, olkp666 |
 | 2026-04-27 | Holly Molly | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.35 | 1.00 | 0.08 | 0.02 | 0.08 | +7.2 | GrapeM3n, INFIDEI, Yonys1337-, gojoo, olkp666 |
 | 2026-04-23 | Celestial Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.01 | 0.05 | +352.8 | GrapeM3n, INFIDEI, Yonys1337-, gojoo, olkp666 |

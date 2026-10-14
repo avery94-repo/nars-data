@@ -25,8 +25,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.126 | 1277.1 | - |
-| +30 days | 0.105 | 1247.2 | -29.9 |
-| +60 days | 0.090 | 1225.7 | -51.4 |
+| +30 days | 0.105 | 1247.2 | -29.8 |
+| +60 days | 0.090 | 1225.6 | -51.4 |
 | +90 days | 0.061 | 1186.1 | -91.0 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.035 vs 0.022 average, gap +0.013). Matching that average is worth about 0.0 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.035 vs 0.022 average,
 - Quality Wins drivers: beat Team Amplus at S58 NA Main A - Regular Season (2026-08-27) 0.15; beat Meepins at S58 NA Main Central - Playoffs A (2026-09-08) 0.08; beat Les Ptis Jus at S58 NA Main A - Regular Season (2026-08-12) 0.07
 - Opponent Network drivers: beat Team Amplus at S58 NA Main A - Regular Season (2026-08-27) 0.89; beat Les Ptis Jus at S58 NA Main A - Regular Season (2026-08-12) 0.79; beat Grandpa Berets at S58 NA Main A - Regular Season (2026-08-10) 0.78
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +505.0 |
-| SportsBetExpert | 6 | 2671.6 | +503.7 |
-| M80 | 2 | 3081.4 | +494.6 |
-| LAG Gaming | 8 | 2507.4 | +494.6 |
-| Wildcard | 3 | 2911.9 | +491.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| The Skins | 233 | 1419.7 | +0.5 | +133.7 |
+| Backshot Gaming | 232 | 1420.2 | +1.0 | +133.8 |
+| skebob | 231 | 1420.7 | +1.5 | +134.0 |
+| walkthemdown | 230 | 1424.6 | +5.4 | +136.3 |
+| The Third Eye | 229 | 1425.5 | +6.3 | +135.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Diggers | 86 | +344.2 | +251.0 | +26.6 |
+| firesale | 82 | +349.0 | +278.8 | +26.4 |
+| Fire Nation | 90 | +330.5 | +257.0 | +25.1 |
+| Fathom Gaming | 91 | +326.1 | +251.4 | +25.0 |
+| Overtake Sector | 89 | +331.6 | +325.1 | +24.0 |
+| Green Grove Retirement | 94 | +309.4 | +263.2 | +23.0 |
+| Elusive | 93 | +312.4 | +292.4 | +22.9 |
+| NineFlyeSports | 96 | +305.9 | +271.8 | +22.9 |
+| PROFECO | 87 | +335.9 | +228.7 | +22.7 |
+| FlyQuest RED | 97 | +301.5 | +280.2 | +21.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +488.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -71,15 +88,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +127.4 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-29 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.03 | 0.70 | +326.1 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-24 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -153.6 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
-| 2026-07-22 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -146.9 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
+| 2026-07-22 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -147.0 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-17 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -0.2 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-15 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.03 | 0.60 | +419.4 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-05-20 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -7.6 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
 | 2026-05-15 | ASYCS KITTENS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -128.0 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
-| 2026-05-13 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -367.7 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
+| 2026-05-13 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -367.8 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
 | 2026-05-08 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +10.3 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
 | 2026-04-30 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +253.2 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
 | 2026-04-23 | FUELED BY HATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -9.5 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
-| 2026-04-22 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -253.6 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
+| 2026-04-22 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -253.7 | -Pandaa, 1KJS, PWNDe, _-LOGIC-_, ispinalot |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

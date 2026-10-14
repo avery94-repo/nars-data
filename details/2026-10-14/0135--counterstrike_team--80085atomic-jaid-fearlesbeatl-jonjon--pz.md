@@ -4,16 +4,16 @@ Roster: 80085atomic, Jaid, FearlesBeatl, jonjon-, pZ_
 NARS Rank: 135 of 506
 
 Final Rating: 1617.5
-Seeded Start: 1414.6
-H2H Adjustment: +202.9
+Seeded Start: 1414.5
+H2H Adjustment: +203.0
 
-Final Rating (1617.5) = Seeded Start (1414.6) + H2H Adjustment (+202.9)
+Final Rating (1617.5) = Seeded Start (1414.5) + H2H Adjustment (+203.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.225 x 1400 = 1414.6
+                = 1100 + 0.225 x 1400 = 1414.5
 
-seed_factor 0.225 = 0.25 x Tier Exposure (0.184) + 0.50 x Quality Wins (0.095) + 0.25 x Opponent Network (0.525)
+seed_factor 0.225 = 0.25 x Tier Exposure (0.184) + 0.50 x Quality Wins (0.095) + 0.25 x Opponent Network (0.524)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,26 +24,43 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.225 | 1414.6 | - |
+| Now | 0.225 | 1414.5 | - |
 | +30 days | 0.189 | 1364.8 | -49.7 |
-| +60 days | 0.172 | 1341.3 | -73.3 |
-| +90 days | 0.142 | 1298.4 | -116.2 |
+| +60 days | 0.172 | 1341.3 | -73.2 |
+| +90 days | 0.142 | 1298.3 | -116.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.095 vs 0.034 average, gap +0.061). Matching that average is worth about 0.0 seed points.
 
 - Tier Exposure drivers: NSTLGA League S2 | Stage 1 Sapphire Tiebreakers | Group B (2026-09-02) 1.41; Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; S58 NA Advanced Central - Regular Season (2026-08-21) 1.21
 - Quality Wins drivers: beat Elusive at Group Stage - CROSSFIRE Season 6 (2026-09-02) 0.58; beat Celestial Esports at NSTLGA League | Sapphire Conference (2026-08-27) 0.31; beat makeSHIFT at NSTLGA League | Sapphire Conference (2026-08-22) 0.15
-- Opponent Network drivers: beat Elusive at Group Stage - CROSSFIRE Season 6 (2026-09-02) 1.22; beat Room Temp IQs at S58 NA Advanced Central - Regular Season (2026-08-14) 1.15; beat SOLA at S58 NA Advanced Central - Regular Season (2026-08-12) 1.13
+- Opponent Network drivers: beat Elusive at Group Stage - CROSSFIRE Season 6 (2026-09-02) 1.22; beat Room Temp IQs at S58 NA Advanced Central - Regular Season (2026-08-14) 1.14; beat SOLA at S58 NA Advanced Central - Regular Season (2026-08-12) 1.13
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +530.4 |
-| SportsBetExpert | 6 | 2671.6 | +526.4 |
-| M80 | 2 | 3081.4 | +520.9 |
-| Wildcard | 3 | 2911.9 | +516.3 |
-| Liquid | 1 | 3103.3 | +513.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| 5Frag Gaming | 134 | 1621.4 | +3.9 | +151.4 |
+| Trap Castle | 133 | 1621.8 | +4.3 | +150.1 |
+| gunked | 132 | 1622.7 | +5.2 | +145.3 |
+| SAFIR | 131 | 1624.7 | +7.2 | +145.6 |
+| Quality | 130 | 1626.1 | +8.6 | +141.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Wanted Goons | 43 | +315.6 | +330.2 | +23.7 |
+| Swole Patrol | 45 | +296.8 | +228.0 | +22.3 |
+| Xiaoma Gaming | 46 | +293.9 | +294.9 | +21.5 |
+| FLOW STATE | 47 | +279.9 | +276.1 | +19.7 |
+| Zealous | 42 | +324.1 | +235.1 | +19.3 |
+| No Future Lifes Over | 50 | +269.6 | +251.6 | +18.2 |
+| DESPAIR | 49 | +271.2 | +252.1 | +18.1 |
+| Phantom Sense | 51 | +266.2 | +296.5 | +17.4 |
+| Locally Hated | 41 | +329.0 | +293.6 | +16.8 |
+| TheMotherLovers | 53 | +260.4 | +256.1 | +16.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +514.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -69,22 +86,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-22 | makeSHIFT | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.20 | 1.00 | 1.01 | 0.15 | 1.01 | +137.2 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-08-21 | dead team | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -114.2 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-08-18 | Sedated | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.82 | 1.20 | 1.00 | 0.98 | 0.11 | 0.98 | +127.0 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
-| 2026-08-14 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.06 | 1.15 | +73.9 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
+| 2026-08-14 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.14 | 0.06 | 1.14 | +73.9 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-08-13 | Wanted Goons | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -0.2 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-08-13 | The Homies | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.12 | 0.94 | +9.5 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
-| 2026-08-12 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.06 | 1.13 | +214.4 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
+| 2026-08-12 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.06 | 1.13 | +214.5 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-08-06 | Addice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.07 | 0.00 | 0.00 | -11.5 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-07-31 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -0.3 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-07-30 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.45 | 1.00 | 1.00 | 0.00 | 0.00 | -150.6 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-07-29 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -0.3 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-07-22 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -0.0 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
 | 2026-07-16 | Elation | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -13.2 | 80085atomic, FearlesBeatl, Jaid, jonjon-, pZ_ |
-| 2026-05-21 | NineFlyeSports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -161.6 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
-| 2026-05-19 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.03 | 0.28 | +140.9 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
-| 2026-05-14 | NineFly Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -263.5 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
+| 2026-05-21 | NineFlyeSports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -161.7 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
+| 2026-05-19 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.03 | 0.28 | +141.0 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
+| 2026-05-14 | NineFly Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -263.6 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
 | 2026-05-12 | Holy Squid Empire | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -116.2 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
-| 2026-05-07 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -198.2 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
-| 2026-05-05 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.14 | 0.16 | +342.2 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
+| 2026-05-07 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -198.3 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
+| 2026-05-05 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.14 | 0.16 | +342.3 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
 | 2026-04-30 | Asian Invasion | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.11 | +63.4 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
 | 2026-04-28 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.00 | 0.09 | +53.2 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |
 | 2026-04-23 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -86.3 | 80085atomic, Jaid, Owen, jonjon-, pZ_ |

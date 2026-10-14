@@ -3,11 +3,11 @@ Team Name: iNSTINCT
 Roster: codabravo, monstar--, HOLIDAY_, LEEVES_, mav9
 NARS Rank: 365 of 506
 
-Final Rating: 1146.0
+Final Rating: 1145.9
 Seeded Start: 1120.8
-H2H Adjustment: +25.2
+H2H Adjustment: +25.1
 
-Final Rating (1146.0) = Seeded Start (1120.8) + H2H Adjustment (+25.2)
+Final Rating (1145.9) = Seeded Start (1120.8) + H2H Adjustment (+25.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,17 +35,34 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.045 vs 0.291 aver
 - Quality Wins drivers: beat Aers Money Crew at S57 NA Main Central - Regular Season (2026-05-13) 0.02; beat TEMPR at S57 NA Main Central - Regular Season (2026-05-20) 0.02; beat Wealth Reduction at S57 NA Main Central - Regular Season (2026-05-08) 0.01
 - Opponent Network drivers: beat TEMPR at S57 NA Main Central - Regular Season (2026-05-20) 0.25; beat Aers Money Crew at S57 NA Main Central - Regular Season (2026-05-13) 0.19; beat Wealth Reduction at S57 NA Main Central - Regular Season (2026-05-08) 0.16
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.4 |
-| SportsBetExpert | 6 | 2671.6 | +663.9 |
-| LAG Gaming | 8 | 2507.4 | +655.0 |
-| regain | 12 | 2256.1 | +653.7 |
-| M80 | 2 | 3081.4 | +650.3 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| WaterDrinkers | 364 | 1146.1 | +0.2 | +170.8 |
+| OnThaGear | 363 | 1146.4 | +0.5 | +171.1 |
+| Temple of Swing | 362 | 1147.4 | +1.5 | +169.0 |
+| MINDTRIP | 361 | 1149.6 | +3.7 | +171.2 |
+| Aers Money Crew | 360 | 1153.2 | +7.3 | +171.4 |
 
-Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.7), shirtcockin (+0.9), Courage (+1.2), SixSevenZaZa (+1.9).
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| ClanAgain | 195 | +347.4 | +311.3 | +32.7 |
+| ABG Esports | 196 | +342.8 | +345.9 | +31.8 |
+| GRIT | 201 | +335.2 | +300.7 | +31.4 |
+| O Fire | 198 | +342.6 | +356.0 | +31.0 |
+| Bad Jawn | 200 | +336.2 | +349.7 | +30.6 |
+| noname | 208 | +321.4 | +321.8 | +29.7 |
+| Kings Gambit | 210 | +316.0 | +322.7 | +29.0 |
+| AscendentEsport | 207 | +321.9 | +345.9 | +28.6 |
+| Veniversum | 211 | +313.5 | +339.8 | +28.2 |
+| FlockMunchers | 212 | +313.2 | +339.9 | +28.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.7), shirtcockin (+0.9), Courage (+1.1), SixSevenZaZa (+1.9).
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs Aurofox (2026-04-29): expires in 11 days [Quality Wins 0.00, Opponent Network 0.09]
@@ -62,11 +79,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -29.4 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-05-20 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +35.2 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-05-19 | CLUE IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.00 | 0.00 | -182.2 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
-| 2026-05-13 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +314.1 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
-| 2026-05-08 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +191.1 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
+| 2026-05-13 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +314.2 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
+| 2026-05-08 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +191.2 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-04-30 | UnitedStatesArmy Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -251.5 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, mav9, monstar-- |
 | 2026-04-29 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +435.0 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, monstar-- |
-| 2026-04-24 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -255.8 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
+| 2026-04-24 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -255.9 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-04-22 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -231.4 | HOLIDAY_, bERTMANE, codabravo, mav9, monstar-- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

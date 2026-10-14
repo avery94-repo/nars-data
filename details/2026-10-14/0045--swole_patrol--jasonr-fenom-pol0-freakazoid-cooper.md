@@ -29,21 +29,38 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.217 | 1403.5 | -13.8 |
 | +90 days | 0.207 | 1389.6 | -27.7 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.108 vs 0.295 average, gap -0.187). Matching that average is worth about 65.4 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.108 vs 0.295 average, gap -0.187). Matching that average is worth about 65.5 seed points.
 
 - Tier Exposure drivers: NSTLGA League | Sapphire Conference (2026-08-29) 1.07; S58 NA Open9-10 East - Playoffs C (2026-09-20) 1.02; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 - Quality Wins drivers: beat Fathom Gaming at NSTLGA League | Sapphire Conference (2026-08-27) 0.38; beat SquadUp at NSTLGA League | Sapphire Conference (2026-08-20) 0.20; beat Firstwave at NSTLGA League | Sapphire Conference (2026-08-13) 0.14
 - Opponent Network drivers: beat Knox Esports at NSTLGA League | Sapphire Conference (2026-08-29) 1.07; beat Fathom Gaming at NSTLGA League | Sapphire Conference (2026-08-27) 1.05; beat Green Grove Retirement at S58 NA Open9-10 East - Playoffs C (2026-09-20) 1.02
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +632.0 |
-| M80 | 2 | 3081.4 | +631.6 |
-| Liquid | 1 | 3103.3 | +623.0 |
-| Wildcard | 3 | 2911.9 | +619.3 |
-| SportsBetExpert | 6 | 2671.6 | +606.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| bubibabu | 44 | 1928.6 | +14.3 | +171.6 |
+| Wanted Goons | 43 | 1933.1 | +18.8 | +182.1 |
+| Zealous | 42 | 1941.6 | +27.3 | +168.6 |
+| Locally Hated | 41 | 1946.5 | +32.2 | +183.6 |
+| OnlyFans | 40 | 1946.9 | +32.6 | +179.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| regain | 12 | +341.8 | +396.1 | +29.4 |
+| Brahmas | 14 | +293.1 | +281.6 | +26.0 |
+| Detonate | 13 | +332.4 | +349.1 | +22.8 |
+| Old Meta | 15 | +261.8 | +309.7 | +18.9 |
+| FarmVille | 16 | +253.3 | +329.6 | +16.7 |
+| NuTorious | 17 | +251.4 | +266.6 | +16.7 |
+| Villainous | 18 | +246.4 | +322.3 | +14.5 |
+| MASTER ONE | 19 | +245.1 | +272.1 | +2.1 |
+| qcclan | 20 | +231.8 | +274.9 | +2.0 |
+| Iowa Stormboar | 21 | +201.5 | +292.1 | +0.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +623.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): SuperSoakerClub (+0.0), we get it back (+0.0), RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0).
 
@@ -55,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | ItAintOverYet | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +0.1 | Cooper, JASONR, Pol0, Trucklover86, freakazoid |
 | 2026-10-07 | FourStrokeGang | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +0.0 | Cooper, JASONR, Pol0, Trucklover86, freakazoid |
 | 2026-09-20 | Green Grove Retirement | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +37.5 | Cooper, JASONR, TTVRezSnowcs, ayjin, fenom |
-| 2026-09-12 | babaG | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.00 | 0.00 | -15.9 | Cooper, JASONR, Pol0, ayjin, fenom, freakazoid |
+| 2026-09-12 | babaG | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.00 | 0.00 | -16.0 | Cooper, JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-09-10 | Green Grove Retirement | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.07 | 0.00 | +41.6 | Cooper, JASONR, Pol0, ayjin, freakazoid |
 | 2026-09-08 | For Fun Gamers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.03 | 0.98 | +24.5 | Cooper, JASONR, Pol0, ayjin, freakazoid |
 | 2026-09-06 | 55TH ST | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.07 | 0.96 | +14.5 | JASONR, Pol0, ayjin, fenom, freakazoid |

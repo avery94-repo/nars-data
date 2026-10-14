@@ -3,15 +3,15 @@ Team Name: Grandpa Berets
 Roster: MoocHjr, zEtti, cique_, pinekone, bojanglez
 NARS Rank: 487 of 506
 
-Final Rating: 691.2
-Seeded Start: 1222.6
-H2H Adjustment: -531.4 (capped at +-300, raw -531.3)
+Final Rating: 691.1
+Seeded Start: 1222.5
+H2H Adjustment: -531.4
 
-Final Rating (691.2) = Seeded Start (1222.6) + H2H Adjustment (-531.4)
+Final Rating (691.1) = Seeded Start (1222.5) + H2H Adjustment (-531.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.088 x 1400 = 1222.6
+                = 1100 + 0.088 x 1400 = 1222.5
 
 seed_factor 0.088 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.012) + 0.25 x Opponent Network (0.241)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.088 | 1222.6 | - |
+| Now | 0.088 | 1222.5 | - |
 | +30 days | 0.069 | 1195.9 | -26.6 |
-| +60 days | 0.062 | 1187.5 | -35.1 |
-| +90 days | 0.059 | 1183.1 | -39.5 |
+| +60 days | 0.062 | 1187.5 | -35.0 |
+| +90 days | 0.059 | 1183.1 | -39.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.012 vs 0.010 average, gap +0.002). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.012 vs 0.010 average,
 - Quality Wins drivers: beat 55TH ST at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07; beat Old Dads Banging at S58 NA Main A - Regular Season (2026-08-19) 0.03; beat MakeYouSayLate at S57 NA Intermediate Central - Playoffs B (2026-05-29) 0.03
 - Opponent Network drivers: beat 55TH ST at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; beat Old Dads Banging at S58 NA Main A - Regular Season (2026-08-19) 0.84; beat SNOWPLOWERS at S58 NA Main A - Regular Season (2026-08-07) 0.76
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| North Forge | 38 | 1971.1 | +316.4 |
-| Wanted Goons | 43 | 1933.1 | +316.1 |
-| NRG | 4 | 2835.7 | +315.8 |
-| SportsBetExpert | 6 | 2671.6 | +315.8 |
-| Zomblers | 22 | 2114.7 | +315.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Knight Owls | 486 | 693.4 | +2.3 | +92.7 |
+| monitor off | 485 | 714.4 | +23.3 | +108.9 |
+| Power of Friendship | 484 | 720.1 | +29.0 | +97.5 |
+| EZ2025 | 483 | 721.3 | +30.2 | +112.4 |
+| SNOWPLOWERS | 482 | 731.4 | +40.3 | +99.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Epochal Esports | 413 | +345.0 | +184.1 | +17.6 |
+| MakeYouSayLate | 414 | +335.8 | +172.5 | +17.3 |
+| Mace Lindu Ruff Rebound | 417 | +326.2 | +161.8 | +16.9 |
+| Team Hyper | 409 | +346.2 | +216.5 | +16.8 |
+| Kodaks Lettuce | 418 | +320.3 | +167.0 | +16.5 |
+| puggin4seb | 419 | +311.7 | +176.0 | +15.9 |
+| Strafe | 420 | +311.1 | +176.3 | +15.8 |
+| Duality Zero | 411 | +345.3 | +155.2 | +13.8 |
+| HigherEducation | 416 | +326.4 | +152.0 | +13.1 |
+| STIM | 410 | +345.8 | +155.3 | +12.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +304.8 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs Happy Feed (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
@@ -59,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Thrash | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -179.2 | FaKtor, MoocHjr, cique_, kGAULT, pinekone |
+| 2026-10-09 | Thrash | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -179.3 | FaKtor, MoocHjr, cique_, kGAULT, pinekone |
 | 2026-10-07 | 55TH ST | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +313.4 | FaKtor, MoocHjr, cique_, kGAULT, pinekone |
 | 2026-08-28 | HUMA | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -65.6 | MoocHjr, cique_, kGAULT, pinekone, zEtti |
 | 2026-08-26 | After Peak | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -131.1 | MoocHjr, cique_, kGAULT, pinekone, zEtti |
@@ -71,14 +88,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Courage | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -213.7 | MoocHjr, cique_, kGAULT, pinekone, zEtti |
 | 2026-07-29 | Meepins | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -6.4 | bleek, cique_, frank_4, pinekone, zEtti |
 | 2026-07-24 | Hack-A-Shaq | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -0.8 | cique_, frank_4, kGAULT, pinekone, zEtti |
-| 2026-07-22 | Braindead | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -199.2 | Sh0ts, cique_, kGAULT, pinekone, zEtti |
+| 2026-07-22 | Braindead | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -199.3 | Sh0ts, cique_, kGAULT, pinekone, zEtti |
 | 2026-07-15 | Bird Lickers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -432.2 | Sh0ts, cique_, kGAULT, pinekone, zEtti |
 | 2026-05-29 | MakeYouSayLate | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.03 | 0.28 | +157.8 | MoocHjr, Sh0ts, cique_, pinekone, zEtti |
 | 2026-05-27 | High T Low E | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +23.5 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
-| 2026-05-20 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +316.0 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
+| 2026-05-20 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +316.2 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
 | 2026-05-15 | Hack-A-Shaq | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -242.0 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
 | 2026-05-13 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -228.2 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
-| 2026-05-08 | CounterStreakrs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +153.7 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
+| 2026-05-08 | CounterStreakrs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +153.8 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
 | 2026-05-06 | TahMeow | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -432.5 | MoocHjr, Sh0ts, cique_, pinekone, zEtti |
 | 2026-05-01 | Brothers United | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +0.0 | MoocHjr, bojanglez, cique_, pinekone, zEtti |
 | 2026-04-29 | Feels MAIN Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +271.4 | bleek, bojanglez, cique_, pinekone, zEtti |

@@ -3,11 +3,11 @@ Team Name: Transcended
 Roster: Shlepp, TheRealTalo, Wo0o0o, xxriotpro, skittle-
 NARS Rank: 326 of 506
 
-Final Rating: 1223.4
+Final Rating: 1223.3
 Seeded Start: 1224.3
-H2H Adjustment: -0.9
+H2H Adjustment: -1.0
 
-Final Rating (1223.4) = Seeded Start (1224.3) + H2H Adjustment (-0.9)
+Final Rating (1223.3) = Seeded Start (1224.3) + H2H Adjustment (-1.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.014 vs 0.018 average,
 - Quality Wins drivers: beat FourStrokeGang at S59 NA Intermediate A - Regular Season (2026-10-08) 0.08; beat Comeback Bandits at S58 NA Open9-10 East - Playoffs B (2026-09-10) 0.07; beat Smuckers at S58 NA Open9-10 East - Playoffs B (2026-09-02) 0.04
 - Opponent Network drivers: beat Comeback Bandits at S58 NA Open9-10 East - Playoffs B (2026-09-10) 1.01; beat FourStrokeGang at S59 NA Intermediate A - Regular Season (2026-10-08) 1.00; beat Coop De Grace at S58 NA Open9-10 East - Playoffs B (2026-09-03) 0.96
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +470.2 |
-| SportsBetExpert | 6 | 2671.6 | +469.7 |
-| LAG Gaming | 8 | 2507.4 | +463.3 |
-| regain | 12 | 2256.1 | +461.7 |
-| M80 | 2 | 3081.4 | +460.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| innerFire | 325 | 1224.3 | +1.0 | +131.8 |
+| Sultans of Swing | 324 | 1225.0 | +1.7 | +126.8 |
+| NetanYAHOO | 323 | 1227.3 | +4.0 | +140.7 |
+| The Ohio Meat Wagon | 322 | 1228.2 | +4.9 | +127.6 |
+| Team TahMeow | 321 | 1235.8 | +12.5 | +137.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| WhiteBoyWinter | 155 | +343.4 | +243.0 | +24.6 |
+| offBalance | 165 | +319.0 | +238.6 | +22.8 |
+| Pug Palace | 167 | +312.5 | +242.2 | +21.9 |
+| BucketJonsBoys | 172 | +309.8 | +231.1 | +21.9 |
+| Shaboing Boing Bandits | 173 | +307.3 | +251.7 | +21.4 |
+| Firstwave | 175 | +303.7 | +230.3 | +21.2 |
+| Armored Talent | 174 | +306.5 | +257.6 | +21.2 |
+| Order Zero | 156 | +341.4 | +216.8 | +21.2 |
+| APEX | 176 | +298.6 | +236.3 | +20.6 |
+| GOOZPEEK | 182 | +289.8 | +240.3 | +19.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +453.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
 

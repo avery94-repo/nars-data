@@ -29,21 +29,38 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.023 | 1132.4 | -20.5 |
 | +90 days | 0.022 | 1131.1 | -21.9 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.099 vs 0.244 average, gap -0.145). Matching that average is worth about 50.8 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.099 vs 0.244 average, gap -0.145). Matching that average is worth about 50.7 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-12) 0.37
 - Quality Wins drivers: beat Kitzune Division at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.03; beat We Have No Enemies at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.01; beat gimme noggin at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.00
 - Opponent Network drivers: beat Kitzune Division at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94; beat We Have No Enemies at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31; beat gimme noggin at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.26
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.5 |
-| SportsBetExpert | 6 | 2671.6 | +664.1 |
-| regain | 12 | 2256.1 | +655.9 |
-| LAG Gaming | 8 | 2507.4 | +655.6 |
-| Zomblers | 22 | 2114.7 | +652.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Second Nature | 389 | 1082.1 | +1.9 | +162.9 |
+| Kahoot Squad | 388 | 1082.6 | +2.4 | +168.2 |
+| Flow Esports | 387 | 1083.6 | +3.4 | +170.7 |
+| MXA | 386 | 1090.8 | +10.6 | +165.6 |
+| Exnitas | 385 | 1093.2 | +13.0 | +170.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| penazoid | 226 | +347.8 | +322.9 | +32.5 |
+| UltimateDarklordWizardz | 227 | +346.9 | +356.8 | +31.3 |
+| YHTR | 235 | +333.5 | +341.3 | +30.6 |
+| FUELED BY HATE | 241 | +324.1 | +302.7 | +30.4 |
+| Fortis Fortuna Adiuvat | 237 | +326.1 | +323.4 | +30.2 |
+| NXG Esports | 242 | +323.8 | +334.8 | +30.2 |
+| brb grinding minecraft | 239 | +325.3 | +346.2 | +30.1 |
+| Casual Mature Gamers | 238 | +325.7 | +352.9 | +29.3 |
+| Elisir Esports | 225 | +348.3 | +288.1 | +28.0 |
+| FRAGDEMONS | 228 | +346.2 | +287.4 | +27.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.6), 3 Feet Of Meat (+1.2), shirtcockin (+1.7).
 
@@ -60,7 +77,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | TELETUBEASTS | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -104.0 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-09-06 | Kitzune Division | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +81.2 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-09-04 | RAZED | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -113.2 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
-| 2026-06-12 | Team TahMeow | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -155.3 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
+| 2026-06-12 | Team TahMeow | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -155.4 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-06-03 | We Have No Enemies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +185.4 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-05-29 | Kings Gambit | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -157.8 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-05-27 | gimme noggin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +191.1 | Grimm-_, Packy, ROWDY-----, being, xReeCe |

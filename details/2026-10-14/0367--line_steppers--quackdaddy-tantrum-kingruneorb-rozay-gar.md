@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: Line Steppers
 Roster: QuackDaddy, tantruM, Kingruneorb, rozay, Garbagebag
-NARS Rank: 366 of 506
+NARS Rank: 367 of 506
 
-Final Rating: 1138.9
+Final Rating: 1138.8
 Seeded Start: 1195.5
-H2H Adjustment: -56.6
+H2H Adjustment: -56.7
 
-Final Rating (1138.9) = Seeded Start (1195.5) + H2H Adjustment (-56.6)
+Final Rating (1138.8) = Seeded Start (1195.5) + H2H Adjustment (-56.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,21 +29,38 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.072 | 1200.2 | +4.7 |
 | +90 days | 0.073 | 1202.7 | +7.2 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.186 vs 0.230 average, gap -0.044). Matching that average is worth about 15.4 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.186 vs 0.215 average, gap -0.029). Matching that average is worth about 10.2 seed points.
 
 - Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97
 - Quality Wins drivers: beat HIGHPOINT at S59 NA Intermediate A - Regular Season (2026-10-09) 0.08; beat Elo Terrorists at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.03; beat Z-Blocked at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.03
 - Opponent Network drivers: beat HIGHPOINT at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat Elo Terrorists at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93; beat Z-Blocked at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +445.9 |
-| SportsBetExpert | 6 | 2671.6 | +445.7 |
-| regain | 12 | 2256.1 | +440.1 |
-| LAG Gaming | 8 | 2507.4 | +439.9 |
-| Zomblers | 22 | 2114.7 | +438.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Mongolian Tractor | 366 | 1138.9 | +0.1 | +129.6 |
+| iNSTINCT | 365 | 1145.9 | +7.1 | +123.1 |
+| WaterDrinkers | 364 | 1146.1 | +7.3 | +133.6 |
+| OnThaGear | 363 | 1146.4 | +7.6 | +133.9 |
+| Temple of Swing | 362 | 1147.4 | +8.6 | +130.8 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| ABG Esports | 196 | +349.9 | +257.4 | +23.8 |
+| GRIT | 201 | +342.3 | +221.8 | +23.4 |
+| O Fire | 198 | +349.7 | +265.5 | +23.2 |
+| Bad Jawn | 200 | +343.3 | +261.1 | +23.0 |
+| noname | 208 | +328.5 | +240.0 | +22.4 |
+| Kings Gambit | 210 | +323.1 | +241.2 | +22.0 |
+| AscendentEsport | 207 | +329.0 | +259.6 | +21.7 |
+| Veniversum | 211 | +320.6 | +255.4 | +21.5 |
+| FlockMunchers | 212 | +320.3 | +255.5 | +21.5 |
+| GOYPEEKING | 216 | +311.2 | +221.8 | +21.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +430.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.5), shirtcockin (+0.7), Courage (+0.8), SixSevenZaZa (+1.4).
 

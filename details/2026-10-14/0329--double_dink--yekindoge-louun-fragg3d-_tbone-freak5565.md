@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.010 vs 0.010 average,
 - Quality Wins drivers: beat Muncle at S59 NA Intermediate A - Regular Season (2026-10-07) 0.08; beat Heavens Gate at S58 NA Open9-10 West - Playoffs (2026-09-08) 0.04; beat Zero Remorse at S58 NA Open9-10 West - Playoffs (2026-09-06) 0.04
 - Opponent Network drivers: beat Heavens Gate at S58 NA Open9-10 West - Playoffs (2026-09-08) 1.06; beat Zero Remorse at S58 NA Open9-10 West - Playoffs (2026-09-06) 1.04; beat Muncle at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +593.1 |
-| SportsBetExpert | 6 | 2671.6 | +592.5 |
-| LAG Gaming | 8 | 2507.4 | +584.1 |
-| regain | 12 | 2256.1 | +581.2 |
-| M80 | 2 | 3081.4 | +580.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Goon Squad | 328 | 1222.0 | +1.4 | +150.3 |
+| PogSquad | 327 | 1222.5 | +1.9 | +161.1 |
+| Transcended | 326 | 1223.3 | +2.7 | +156.0 |
+| innerFire | 325 | 1224.3 | +3.7 | +156.0 |
+| Sultans of Swing | 324 | 1225.0 | +4.4 | +151.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| WhiteBoyWinter | 155 | +346.1 | +292.9 | +29.8 |
+| offBalance | 165 | +321.7 | +286.7 | +27.5 |
+| BucketJonsBoys | 172 | +312.5 | +277.7 | +26.6 |
+| Pug Palace | 167 | +315.2 | +290.5 | +26.5 |
+| Shaboing Boing Bandits | 173 | +310.0 | +301.2 | +25.9 |
+| Order Zero | 156 | +344.1 | +262.4 | +25.8 |
+| Firstwave | 175 | +306.4 | +276.4 | +25.8 |
+| Armored Talent | 174 | +309.2 | +307.9 | +25.6 |
+| APEX | 176 | +301.3 | +283.1 | +25.0 |
+| GOOZPEEK | 182 | +292.5 | +287.2 | +23.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +572.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.4), Courage (+0.5), SixSevenZaZa (+0.9).
 
@@ -56,6 +73,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | deluxe | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.00 | 0.00 | -59.5 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
 | 2026-09-08 | Heavens Gate | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.04 | 1.06 | +127.6 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
 | 2026-09-06 | Zero Remorse | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.04 | 1.04 | +117.3 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
-| 2026-09-04 | house | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -173.1 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
+| 2026-09-04 | house | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -173.2 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

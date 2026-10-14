@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.156 average
 - Quality Wins drivers: beat AURA Esports at S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.12; beat MadaNASCAR at S58 NA Intermediate A - Regular Season (2026-08-05) 0.11; beat Rejects at S58 NA Intermediate A - Regular Season (2026-07-29) 0.11
 - Opponent Network drivers: beat AURA Esports at S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.93; beat Ubiquiti at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.92; beat Ninjas In Boxer at S58 NA Intermediate A - Regular Season (2026-08-28) 0.88
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +543.9 |
-| SportsBetExpert | 6 | 2671.6 | +538.8 |
-| M80 | 2 | 3081.4 | +534.6 |
-| Wildcard | 3 | 2911.9 | +529.6 |
-| Liquid | 1 | 3103.3 | +527.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Incognito | 113 | 1659.2 | +2.6 | +142.3 |
+| eefsports | 112 | 1664.2 | +7.6 | +143.7 |
+| Shimmer | 111 | 1667.1 | +10.5 | +147.2 |
+| Drip or Drown | 110 | 1669.0 | +12.4 | +154.6 |
+| Black Dragon Society | 109 | 1670.7 | +14.1 | +158.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Hairy Scary Bandits | 32 | +342.8 | +304.4 | +27.5 |
+| Holly Molly | 35 | +331.8 | +284.4 | +26.6 |
+| unreal nightmare | 37 | +320.0 | +273.2 | +26.0 |
+| Chicken Coop | 33 | +341.6 | +350.4 | +25.9 |
+| EMPIRE | 36 | +327.0 | +320.4 | +25.6 |
+| North Forge | 38 | +314.6 | +336.0 | +24.1 |
+| Priority | 30 | +348.1 | +247.5 | +21.0 |
+| ZETTA | 39 | +313.4 | +282.5 | +20.9 |
+| Wanted Goons | 43 | +276.5 | +311.6 | +19.5 |
+| YHUBEPCAM | 31 | +347.5 | +247.3 | +17.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +527.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
 
@@ -67,7 +84,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-11 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.06 | 0.77 | +89.2 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-08-05 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.11 | 0.73 | +17.7 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-29 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.11 | 0.68 | +5.0 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-07-29 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +211.5 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-07-29 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +211.6 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-24 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.03 | 0.65 | +92.0 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-22 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.02 | 0.64 | +0.0 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-17 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +160.4 | StevoP, Sudain, gameplayer, mackks, teejhey |

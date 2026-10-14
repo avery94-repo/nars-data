@@ -4,14 +4,14 @@ Roster: fatchud-, 1sus, Asyc, vanity, RZU
 NARS Rank: 154 of 506
 
 Final Rating: 1569.5
-Seeded Start: 1333.9
-H2H Adjustment: +235.6
+Seeded Start: 1333.8
+H2H Adjustment: +235.7
 
-Final Rating (1569.5) = Seeded Start (1333.9) + H2H Adjustment (+235.6)
+Final Rating (1569.5) = Seeded Start (1333.8) + H2H Adjustment (+235.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.167 x 1400 = 1333.9
+                = 1100 + 0.167 x 1400 = 1333.8
 
 seed_factor 0.167 = 0.25 x Tier Exposure (0.085) + 0.50 x Quality Wins (0.047) + 0.25 x Opponent Network (0.489)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.167 | 1333.9 | - |
-| +30 days | 0.139 | 1293.9 | -40.0 |
+| Now | 0.167 | 1333.8 | - |
+| +30 days | 0.138 | 1293.9 | -40.0 |
 | +60 days | 0.119 | 1265.9 | -67.9 |
-| +90 days | 0.081 | 1213.7 | -120.1 |
+| +90 days | 0.081 | 1213.7 | -120.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.085 vs 0.105 average, gap -0.020). Matching that average is worth about 7.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.085 vs 0.105 average
 - Quality Wins drivers: beat Exnitas at S58 NA Main B - Regular Season (2026-08-12) 0.11; beat Sassy Sunshines at S58 NA Main Central - Playoffs B (2026-09-03) 0.09; beat 1NT at S58 NA Main B - Regular Season (2026-07-24) 0.09
 - Opponent Network drivers: beat Sassy Sunshines at S58 NA Main Central - Playoffs B (2026-09-03) 1.10; beat F1lthy Puggers at S58 NA Main B - Regular Season (2026-08-27) 1.02; beat strawberry poptarts at S58 NA Main B - Regular Season (2026-08-19) 0.95
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +547.3 |
-| SportsBetExpert | 6 | 2671.6 | +544.0 |
-| M80 | 2 | 3081.4 | +537.0 |
-| Wildcard | 3 | 2911.9 | +532.5 |
-| LAG Gaming | 8 | 2507.4 | +529.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| MINDTRIP | 153 | 1569.7 | +0.2 | +142.0 |
+| Celestial Esports | 152 | 1574.5 | +5.0 | +152.2 |
+| Biggie Cheese Fan Club | 151 | 1576.6 | +7.1 | +147.6 |
+| UsingCodefArt25atSCL | 150 | 1577.8 | +8.3 | +152.1 |
+| Appalachian Apes | 149 | 1577.9 | +8.4 | +149.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Swole Patrol | 45 | +344.8 | +248.6 | +28.1 |
+| Xiaoma Gaming | 46 | +341.9 | +327.5 | +26.2 |
+| FLOW STATE | 47 | +327.9 | +306.4 | +25.8 |
+| No Future Lifes Over | 50 | +317.6 | +277.8 | +25.4 |
+| DESPAIR | 49 | +319.2 | +278.3 | +25.2 |
+| TheMotherLovers | 53 | +308.4 | +283.9 | +24.3 |
+| Phantom Sense | 51 | +314.2 | +332.8 | +24.1 |
+| Omen Esports | 57 | +288.3 | +293.9 | +20.8 |
+| GG | 52 | +311.9 | +236.9 | +19.0 |
+| Sharp | 54 | +298.3 | +287.3 | +16.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +530.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -76,9 +93,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -26.8 | Asyc, Ezqi, RZU, dellzor, fatchud- |
 | 2026-05-20 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +209.8 | 1sus, Asyc, RZU, dellzor, fatchud- |
 | 2026-05-15 | UnitedStatesArmy Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +127.1 | 1sus, Asyc, dellzor, fatchud-, vanity |
-| 2026-05-13 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +349.1 | 1sus, Asyc, RZU, dellzor, fatchud- |
+| 2026-05-13 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +349.2 | 1sus, Asyc, RZU, dellzor, fatchud- |
 | 2026-05-08 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -56.8 | 1sus, Asyc, dellzor, fatchud-, vanity |
-| 2026-05-06 | No Leaders Please | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -306.8 | 1sus, Asyc, RZU, dellzor, fatchud- |
+| 2026-05-06 | No Leaders Please | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -306.9 | 1sus, Asyc, RZU, dellzor, fatchud- |
 | 2026-05-01 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -10.4 | 1sus, Asyc, dellzor, fatchud-, vanity |
 | 2026-04-30 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -379.5 | 1sus, Asyc, dellzor, fatchud-, turbo---- |
 | 2026-04-24 | OnlyFans | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +41.6 | 1sus, Asyc, dellzor, fatchud-, vanity |

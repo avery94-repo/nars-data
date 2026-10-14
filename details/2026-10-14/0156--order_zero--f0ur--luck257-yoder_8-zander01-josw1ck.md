@@ -5,7 +5,7 @@ NARS Rank: 156 of 506
 
 Final Rating: 1564.7
 Seeded Start: 1128.0
-H2H Adjustment: +436.7
+H2H Adjustment: +436.7 (capped at +-300, raw +436.8)
 
 Final Rating (1564.7) = Seeded Start (1128.0) + H2H Adjustment (+436.7)
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.062 vs 0.417 aver
 - Quality Wins drivers: beat Entertainment Cheese at S57 NA Main Central - Regular Season (2026-05-13) 0.03; beat GOOZPEEK at S57 NA Main Central - Regular Season (2026-05-20) 0.02; beat MASTER ONE at S57 NA Main Central - Regular Season (2026-05-06) 0.02
 - Opponent Network drivers: beat iNSTINCT at S57 NA Main Central - Regular Season (2026-05-21) 0.25; beat GOOZPEEK at S57 NA Main Central - Regular Season (2026-05-20) 0.25; beat Entertainment Cheese at S57 NA Main Central - Regular Season (2026-05-13) 0.19
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +661.6 |
-| SportsBetExpert | 6 | 2671.6 | +657.2 |
-| M80 | 2 | 3081.4 | +649.4 |
-| Wildcard | 3 | 2911.9 | +643.9 |
-| Liquid | 1 | 3103.3 | +640.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| WhiteBoyWinter | 155 | 1566.7 | +2.0 | +168.7 |
+| ASYCS KITTENS | 154 | 1569.5 | +4.8 | +166.8 |
+| MINDTRIP | 153 | 1569.7 | +5.0 | +163.9 |
+| Celestial Esports | 152 | 1574.5 | +9.8 | +173.7 |
+| Biggie Cheese Fan Club | 151 | 1576.6 | +11.9 | +169.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Swole Patrol | 45 | +349.6 | +290.2 | +33.0 |
+| Xiaoma Gaming | 46 | +346.7 | +379.4 | +30.4 |
+| FLOW STATE | 47 | +332.7 | +354.7 | +30.0 |
+| No Future Lifes Over | 50 | +322.4 | +322.1 | +29.8 |
+| DESPAIR | 49 | +324.0 | +322.7 | +29.6 |
+| TheMotherLovers | 53 | +313.2 | +328.5 | +28.5 |
+| Phantom Sense | 51 | +319.0 | +383.8 | +28.1 |
+| Omen Esports | 57 | +293.1 | +338.7 | +24.5 |
+| GG | 52 | +316.7 | +276.1 | +22.6 |
+| flat earth | 64 | +261.8 | +299.6 | +19.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 
@@ -67,8 +84,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | CNCS Last Hope | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -137.8 | F0ur-, Josw1ck, Zander01, coding, luck257 |
 | 2026-05-06 | MASTER ONE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +425.6 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |
 | 2026-05-01 | Sedated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -398.5 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |
-| 2026-04-29 | James Bond Bois | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +357.6 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |
-| 2026-04-23 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -265.5 | F0ur-, Josw1ck, YodeR_8, Zander01, luck257 |
+| 2026-04-29 | James Bond Bois | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +357.7 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |
+| 2026-04-23 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -265.6 | F0ur-, Josw1ck, YodeR_8, Zander01, luck257 |
 | 2026-04-22 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +224.1 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

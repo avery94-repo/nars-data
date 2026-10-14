@@ -4,14 +4,14 @@ Roster: danzinn-, Zorky5k, clx, ditt77, vin33
 NARS Rank: 52 of 506
 
 Final Rating: 1881.4
-Seeded Start: 1153.2
-H2H Adjustment: +728.2 (capped at +-300, raw +728.3)
+Seeded Start: 1153.1
+H2H Adjustment: +728.3
 
-Final Rating (1881.4) = Seeded Start (1153.2) + H2H Adjustment (+728.2)
+Final Rating (1881.4) = Seeded Start (1153.1) + H2H Adjustment (+728.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.038 x 1400 = 1153.2
+                = 1100 + 0.038 x 1400 = 1153.1
 
 seed_factor 0.038 = 0.25 x Tier Exposure (0.013) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.105)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.038 | 1153.2 | - |
+| Now | 0.038 | 1153.1 | - |
 | +30 days | 0.016 | 1122.9 | -30.2 |
-| +60 days | 0.000 | 1100.0 | -53.2 |
-| +90 days | 0.000 | 1100.0 | -53.2 |
+| +60 days | 0.000 | 1100.0 | -53.1 |
+| +90 days | 0.000 | 1100.0 | -53.1 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.105 vs 0.655 average, gap -0.550). Matching that average is worth about 192.5 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.105 vs 0.655 aver
 - Quality Wins drivers: beat Zetta at S57 NA Open9-10 Central - Playoffs A (2026-06-09) 0.16; beat Rejects at S57 NA Open9-10 Central - Playoffs A (2026-06-04) 0.05; beat redtyfguhoj at S57 NA Open9-10 Central - Playoffs A (2026-05-29) 0.02
 - Opponent Network drivers: beat Zetta at S57 NA Open9-10 Central - Playoffs A (2026-06-09) 0.37; beat GOBLINS at S57 NA Open9-10 Central - Playoffs A (2026-06-05) 0.34; beat Rejects at S57 NA Open9-10 Central - Playoffs A (2026-06-04) 0.33
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +647.9 |
-| M80 | 2 | 3081.4 | +645.4 |
-| Liquid | 1 | 3103.3 | +636.6 |
-| Wildcard | 3 | 2911.9 | +634.0 |
-| SportsBetExpert | 6 | 2671.6 | +625.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Phantom Sense | 51 | 1883.7 | +2.3 | +175.8 |
+| No Future Lifes Over | 50 | 1887.1 | +5.7 | +172.2 |
+| DESPAIR | 49 | 1888.7 | +7.3 | +172.8 |
+| Skyline | 48 | 1895.4 | +14.0 | +175.1 |
+| FLOW STATE | 47 | 1897.4 | +16.0 | +179.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Brahmas | 14 | +326.0 | +300.4 | +31.1 |
+| Old Meta | 15 | +294.7 | +334.6 | +25.4 |
+| NuTorious | 17 | +284.3 | +285.4 | +24.4 |
+| FarmVille | 16 | +286.2 | +358.9 | +23.6 |
+| Villainous | 18 | +279.3 | +351.0 | +21.9 |
+| Iowa Stormboar | 21 | +234.4 | +319.9 | +12.1 |
+| Zomblers | 22 | +233.3 | +319.9 | +11.9 |
+| qcclan | 20 | +264.7 | +296.1 | +10.6 |
+| MASTER ONE | 19 | +278.0 | +292.1 | +9.6 |
+| Phantom Sense | 51 | +2.3 | +175.8 | -0.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +636.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0).
 
@@ -61,10 +78,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-11 | Festina Lente | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.36 | 1.05 | 1.00 | 0.38 | 0.00 | 0.00 | -74.1 | Zorky5k, clx, danzinn-, ditt77, vin33 |
-| 2026-06-09 | Zetta | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.35 | 1.05 | 1.00 | 0.37 | 0.16 | 0.37 | +56.0 | Zorky5k, clx, danzinn-, ditt77, vin33 |
+| 2026-06-09 | Zetta | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.35 | 1.05 | 1.00 | 0.37 | 0.16 | 0.37 | +55.9 | Zorky5k, clx, danzinn-, ditt77, vin33 |
 | 2026-06-05 | GOBLINS | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.34 | 0.02 | 0.34 | +193.8 | Zorky5k, clx, danzinn-, ditt77, vin33 |
 | 2026-06-04 | Rejects | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.05 | 0.33 | +139.8 | clx, danzinn-, ditt77, kyozao77, vin33 |
-| 2026-05-29 | redtyfguhoj | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.02 | 0.29 | +146.3 | EnriqueW, Zorky5k, clx, danzinn-, vin33 |
+| 2026-05-29 | redtyfguhoj | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.02 | 0.29 | +146.4 | EnriqueW, Zorky5k, clx, danzinn-, vin33 |
 | 2026-05-27 | Anchors Anonymous | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.05 | 1.00 | 0.28 | 0.02 | 0.28 | +266.6 | Zorky5k, clx, danzinn-, ditt77, vin33 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

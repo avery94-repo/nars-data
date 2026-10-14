@@ -4,14 +4,14 @@ Roster: GUNK, deviN-, FreeDotWilly, -kiwi, FuzzyHat
 NARS Rank: 276 of 506
 
 Final Rating: 1320.8
-Seeded Start: 1333.1
-H2H Adjustment: -12.3
+Seeded Start: 1333.0
+H2H Adjustment: -12.2
 
-Final Rating (1320.8) = Seeded Start (1333.1) + H2H Adjustment (-12.3)
+Final Rating (1320.8) = Seeded Start (1333.0) + H2H Adjustment (-12.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.166 x 1400 = 1333.1
+                = 1100 + 0.166 x 1400 = 1333.0
 
 seed_factor 0.166 = 0.25 x Tier Exposure (0.120) + 0.50 x Quality Wins (0.030) + 0.25 x Opponent Network (0.485)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.166 | 1333.1 | - |
+| Now | 0.166 | 1333.0 | - |
 | +30 days | 0.145 | 1303.4 | -29.6 |
 | +60 days | 0.127 | 1278.3 | -54.7 |
-| +90 days | 0.098 | 1237.7 | -95.4 |
+| +90 days | 0.098 | 1237.6 | -95.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.030 vs 0.028 average, gap +0.002). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.030 vs 0.028 average,
 - Quality Wins drivers: beat Resurgence at S58 NA Main Central - Playoffs A (2026-09-02) 0.10; beat Bird Lickers at S58 NA Main A - Regular Season (2026-08-26) 0.07; beat in for Blood at S58 NA Main A - Regular Season (2026-08-07) 0.06
 - Opponent Network drivers: beat Resurgence at S58 NA Main Central - Playoffs A (2026-09-02) 0.95; beat Braindead at S58 NA Main A - Regular Season (2026-08-28) 0.90; beat Bird Lickers at S58 NA Main A - Regular Season (2026-08-26) 0.89
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +442.9 |
-| SportsBetExpert | 6 | 2671.6 | +442.3 |
-| LAG Gaming | 8 | 2507.4 | +435.6 |
-| M80 | 2 | 3081.4 | +433.6 |
-| regain | 12 | 2256.1 | +431.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| NoPrac | 275 | 1329.7 | +8.9 | +127.0 |
+| TenToesDown | 274 | 1329.7 | +8.9 | +122.9 |
+| House Platypus ESC | 273 | 1332.4 | +11.6 | +123.5 |
+| Cojomo Academy Roster | 272 | 1336.1 | +15.3 | +124.4 |
+| Gloobers | 271 | 1342.8 | +22.0 | +132.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Black Dragon Society | 109 | +349.9 | +264.3 | +23.1 |
+| Read You Like a Kindle | 116 | +333.9 | +261.1 | +22.2 |
+| eefsports | 112 | +343.4 | +207.0 | +21.5 |
+| ODIN | 119 | +326.3 | +253.8 | +21.5 |
+| Team GREAT | 128 | +308.4 | +213.8 | +20.8 |
+| Torii | 129 | +307.2 | +237.3 | +20.5 |
+| 5Frag Gaming | 134 | +300.6 | +241.7 | +19.7 |
+| KODEX ESPORTS | 137 | +295.7 | +275.0 | +19.0 |
+| Kaos | 139 | +290.0 | +203.9 | +18.6 |
+| Shimmer | 111 | +346.3 | +217.1 | +18.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +427.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
 
@@ -75,16 +92,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-28 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.69 | 0.00 | 0.00 | -290.3 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-07-24 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -147.5 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-07-22 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -22.7 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
-| 2026-07-17 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.05 | 0.62 | +89.6 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
-| 2026-07-15 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.02 | 0.60 | +24.8 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
+| 2026-07-17 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +89.5 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
+| 2026-07-15 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.02 | 0.60 | +24.7 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-06-03 | NOVAIR | L | 0-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -86.9 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
-| 2026-05-27 | DownTown | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +254.0 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
+| 2026-05-27 | DownTown | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +254.1 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-05-22 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -22.0 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
-| 2026-05-20 | de_throne | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -281.7 | -kiwi, AlexBG25, FuzzyHat, GUNK, deviN- |
-| 2026-05-14 | Onsite has Oil | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +174.8 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
+| 2026-05-20 | de_throne | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -281.8 | -kiwi, AlexBG25, FuzzyHat, GUNK, deviN- |
+| 2026-05-14 | Onsite has Oil | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +174.9 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-05-13 | Brothers United | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +71.5 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-05-08 | EZ2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +432.5 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
-| 2026-05-06 | 91AshLiu | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -21.5 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
+| 2026-05-06 | 91AshLiu | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -21.4 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-05-01 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -169.9 | -shaake-, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-04-29 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -221.0 | -kiwi, -shaake-, FuzzyHat, GUNK, deviN- |
 | 2026-04-24 | Relativity | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -274.3 | -shaake-, FuzzyHat, GUNK, deviN-, h0t_s0up |

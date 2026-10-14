@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.189 vs 0.262 aver
 - Quality Wins drivers: beat Better at WOT at S58 NA Open9-10 East - Playoffs C (2026-09-08) 0.05; beat Furio Reloaded at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.03; beat REVERSE at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.03
 - Opponent Network drivers: beat Better at WOT at S58 NA Open9-10 East - Playoffs C (2026-09-08) 0.98; beat Furio Reloaded at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; beat REVERSE at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.95
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +371.7 |
-| SportsBetExpert | 6 | 2671.6 | +371.5 |
-| regain | 12 | 2256.1 | +366.9 |
-| LAG Gaming | 8 | 2507.4 | +366.7 |
-| Zomblers | 22 | 2114.7 | +365.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| DeathMark E-Sports | 353 | 1166.5 | +4.2 | +117.8 |
+| RunTheDamnBall | 352 | 1167.1 | +4.8 | +116.3 |
+| Samantha 4 | 351 | 1178.0 | +15.7 | +115.4 |
+| SOLA | 350 | 1178.1 | +15.8 | +108.5 |
+| PPWesports | 349 | 1179.7 | +17.4 | +125.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| LAF | 183 | +349.0 | +206.4 | +20.5 |
+| KIS | 185 | +344.3 | +193.9 | +20.4 |
+| Lynnsanity | 189 | +337.7 | +219.0 | +19.7 |
+| ClanAgain | 195 | +331.0 | +191.6 | +19.7 |
+| No Leaders Please | 190 | +337.1 | +218.9 | +19.7 |
+| teamington | 192 | +335.8 | +201.4 | +19.6 |
+| Alternate Earth | 186 | +341.7 | +232.8 | +19.5 |
+| ABG Esports | 196 | +326.4 | +215.0 | +19.4 |
+| UncsStillGotIt | 191 | +337.0 | +231.1 | +19.4 |
+| O Fire | 198 | +326.2 | +221.8 | +19.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +358.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 

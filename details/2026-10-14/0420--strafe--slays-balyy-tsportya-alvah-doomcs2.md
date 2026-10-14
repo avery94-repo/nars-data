@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.017 vs 0.010 average,
 - Quality Wins drivers: beat DadDick Esports at S58 NA Intermediate B - Regular Season (2026-08-28) 0.10; beat The Sweepers at S58 NA Intermediate B - Regular Season (2026-07-31) 0.08; beat SixSevenZaZa at S58 NA Intermediate B - Regular Season (2026-08-19) 0.03
 - Opponent Network drivers: beat DadDick Esports at S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; beat SixSevenZaZa at S58 NA Intermediate B - Regular Season (2026-08-19) 0.82; beat Atlantis eSports at S58 NA Intermediate B - Regular Season (2026-08-13) 0.78
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +349.8 |
-| SportsBetExpert | 6 | 2671.6 | +349.6 |
-| Zomblers | 22 | 2114.7 | +347.0 |
-| regain | 12 | 2256.1 | +346.8 |
-| North Forge | 38 | 1971.1 | +346.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| puggin4seb | 419 | 1002.8 | +0.6 | +109.2 |
+| Kodaks Lettuce | 418 | 1011.4 | +9.2 | +107.8 |
+| Mace Lindu Ruff Rebound | 417 | 1017.3 | +15.1 | +106.9 |
+| HigherEducation | 416 | 1017.5 | +15.3 | +103.2 |
+| Boomhogs 2 | 415 | 1021.7 | +19.5 | +104.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| PASSION | 269 | +347.2 | +207.1 | +19.2 |
+| Saltcrew | 276 | +318.6 | +183.8 | +17.9 |
+| Chopped | 277 | +317.6 | +201.7 | +17.6 |
+| Demolition | 279 | +313.8 | +183.1 | +17.4 |
+| Adria eSports | 281 | +312.0 | +208.0 | +17.1 |
+| ItAintOverYet | 284 | +300.4 | +177.0 | +16.4 |
+| Entertainment Cheese | 285 | +298.6 | +196.2 | +16.2 |
+| Midwest Farmers | 286 | +294.1 | +193.6 | +15.8 |
+| the dragon warrior scroll | 268 | +349.2 | +170.4 | +15.4 |
+| Imperium | 283 | +303.3 | +161.6 | +15.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +337.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.6), 3 Feet Of Meat (+1.3), shirtcockin (+1.9).
 
@@ -66,18 +83,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -63.1 | Balyy, DoomCS2, Slays, slichard, yapry |
 | 2026-08-19 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.03 | 0.82 | +9.9 | Balyy, DoomCS2, Slays, slichard, yapry |
 | 2026-08-13 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.03 | 0.78 | +201.9 | Balyy, DoomCS2, Slays, slichard, yapry |
-| 2026-08-08 | VOID ALUNE | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -0.3 | Balyy, DoomCS2, Slays, slichard, yapry |
-| 2026-08-05 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -81.2 | Alvah, Balyy, DoomCS2, Slays, slichard |
-| 2026-07-31 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.08 | 0.70 | +351.9 | Balyy, DoomCS2, Slays, slichard, yapry |
+| 2026-08-08 | VOID ALUNE | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.75 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -0.3 | Balyy, DoomCS2, Slays, slichard, yapry |
+| 2026-08-05 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -81.3 | Alvah, Balyy, DoomCS2, Slays, slichard |
+| 2026-07-31 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.08 | 0.70 | +352.0 | Balyy, DoomCS2, Slays, slichard, yapry |
 | 2026-07-25 | Wuff Widas | L |  | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -1.1 | Alvah, Balyy, DoomCS2, Slays, tHrasHpZ |
 | 2026-07-22 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -7.6 | Alvah, Balyy, DoomCS2, Slays, tHrasHpZ |
 | 2026-07-17 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -142.7 | Alvah, Balyy, DoomCS2, Slays, tHrasHpZ |
 | 2026-07-16 | VeryBigDoogoos | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -0.3 | Alvah, Balyy, DoomCS2, Slays, tHrasHpZ |
 | 2026-05-29 | Mach 10 | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -99.8 | Alvah, Balyy, DoomCS2, MaliRambo, Slays |
 | 2026-05-27 | Diamond Mental | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -5.4 | Balyy, DoomCS2, MaliRambo, Slays, TsportyA |
-| 2026-05-22 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -94.9 | Balyy, DoomCS2, MaliRambo, Slays, TsportyA |
-| 2026-05-20 | Muncle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -353.7 | Alvah, DoomCS2, DrippyPete, Slays, TsportyA |
-| 2026-05-15 | Feels MAIN Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +379.4 | Alvah, Balyy, DoomCS2, MaliRambo, Slays |
+| 2026-05-22 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -94.8 | Balyy, DoomCS2, MaliRambo, Slays, TsportyA |
+| 2026-05-20 | Muncle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -353.8 | Alvah, DoomCS2, DrippyPete, Slays, TsportyA |
+| 2026-05-15 | Feels MAIN Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +379.5 | Alvah, Balyy, DoomCS2, MaliRambo, Slays |
 | 2026-05-13 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -35.2 | Alvah, Balyy, DoomCS2, DrippyPete, MaliRambo |
 | 2026-05-08 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -30.7 | Balyy, DoomCS2, MaliRambo, Slays, TsportyA |
 | 2026-05-06 | Bad Jawn | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -242.3 | Balyy, DoomCS2, MaliRambo, Slays, TsportyA |

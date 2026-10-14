@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.182 | 1354.4 | - |
 | +30 days | 0.160 | 1323.3 | -31.1 |
 | +60 days | 0.136 | 1290.4 | -64.0 |
-| +90 days | 0.094 | 1232.0 | -122.4 |
+| +90 days | 0.094 | 1231.9 | -122.4 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.131 vs 0.118 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.131 vs 0.118 average
 - Quality Wins drivers: beat DeathMark E-Sports at S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.11; beat We Play Naked at S58 NA Intermediate B - Regular Season (2026-08-28) 0.10; beat Costco Family at S58 NA Intermediate B - Regular Season (2026-08-26) 0.10
 - Opponent Network drivers: beat DeathMark E-Sports at S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.94; beat The Ohio Meat Wagon at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.93; beat We Play Naked at S58 NA Intermediate B - Regular Season (2026-08-28) 0.88
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +565.1 |
-| SportsBetExpert | 6 | 2671.6 | +563.7 |
-| LAG Gaming | 8 | 2507.4 | +553.8 |
-| M80 | 2 | 3081.4 | +553.5 |
-| Wildcard | 3 | 2911.9 | +549.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| OPOZIT | 243 | 1394.8 | +2.0 | +150.2 |
+| NXG Esports | 242 | 1404.0 | +11.2 | +159.3 |
+| FUELED BY HATE | 241 | 1404.3 | +11.5 | +153.8 |
+| enigma | 240 | 1405.4 | +12.6 | +152.0 |
+| brb grinding minecraft | 239 | 1405.5 | +12.7 | +161.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Green Grove Retirement | 94 | +335.8 | +298.5 | +27.5 |
+| NineFlyeSports | 96 | +332.3 | +308.6 | +27.4 |
+| Elusive | 93 | +338.8 | +332.4 | +27.0 |
+| FlyQuest RED | 97 | +327.9 | +318.5 | +25.7 |
+| Axial | 101 | +313.6 | +275.6 | +25.3 |
+| Addice | 102 | +309.7 | +315.7 | +24.3 |
+| New Legends | 103 | +302.5 | +318.9 | +23.3 |
+| Holy Squid Empire | 108 | +285.9 | +268.0 | +21.7 |
+| Hadouken | 100 | +317.0 | +244.2 | +20.6 |
+| Black Dragon Society | 109 | +277.9 | +283.6 | +20.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +546.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -64,20 +81,20 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +6.6 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-26 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.10 | 0.87 | +45.4 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-21 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -28.4 | JBaby, Raids, bluez7_7, slik, summit1g |
-| 2026-08-19 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -115.3 | Raids, bluez7_7, ger0, slik, summit1g |
-| 2026-08-14 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.09 | 0.79 | +98.3 | Raids, bluez7_7, ger0, slik, summit1g |
+| 2026-08-19 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -115.4 | Raids, bluez7_7, ger0, slik, summit1g |
+| 2026-08-14 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.09 | 0.79 | +98.4 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-12 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -130.1 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-07 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -104.5 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-05 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.06 | 0.73 | +7.8 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-01 | Tacos Tiramisu and Lies | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.84 | 0.00 | 0.00 | -92.3 | JMER, Raids, bluez7_7, ger0, summit1g |
 | 2026-07-31 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +219.9 | Raids, bluez7_7, ger0, slik, summit1g |
-| 2026-07-29 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -77.8 | Raids, bluez7_7, ger0, slik, summit1g |
+| 2026-07-29 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -77.9 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-07-24 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +28.5 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-07-17 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +0.9 | Raids, bluez7_7, ger0, slik, summit1g |
-| 2026-07-15 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +237.2 | Raids, bluez7_7, ger0, slik, summit1g |
+| 2026-07-15 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +237.3 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-07-14 | Tacos Tiramisu and Lies | L |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.75 | 0.00 | 0.00 | -374.0 | JMER, Raids, ger0, slik, summit1g |
 | 2026-06-05 | BJSB Academy | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.32 | +108.0 | JMER, Raids, TheJoeMan, ger0, slik |
 | 2026-05-29 | Flow Esports | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.03 | 0.28 | +176.7 | HowlCS, JMER, Raids, ger0, slik |
-| 2026-05-27 | Puddle Pirates | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +130.8 | JMER, Raids, TheJoeMan, ger0, slik |
+| 2026-05-27 | Puddle Pirates | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +130.9 | JMER, Raids, TheJoeMan, ger0, slik |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

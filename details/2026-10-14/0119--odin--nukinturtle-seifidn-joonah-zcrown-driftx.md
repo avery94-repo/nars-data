@@ -3,11 +3,11 @@ Team Name: ODIN
 Roster: NukinTURTLe, seifidn, joonah, zcrown, DriftXII
 NARS Rank: 119 of 506
 
-Final Rating: 1647.0
+Final Rating: 1647.1
 Seeded Start: 1300.3
-H2H Adjustment: +346.7 (capped at +-300, raw +346.8)
+H2H Adjustment: +346.8
 
-Final Rating (1647.0) = Seeded Start (1300.3) + H2H Adjustment (+346.7)
+Final Rating (1647.1) = Seeded Start (1300.3) + H2H Adjustment (+346.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -33,17 +33,34 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.024 vs 0.059 average,
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-17) 1.02; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 - Quality Wins drivers: beat Mace Lindu Ruff Rebound at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07; beat Alternate Earth at S58 NA Open9-10 East - Playoffs C (2026-09-15) 0.07; beat APEX at S58 NA Open9-10 East - Playoffs C (2026-09-12) 0.07
-- Opponent Network drivers: beat For Fun Gamers at S58 NA Open9-10 East - Playoffs C (2026-09-17) 1.02; beat Alternate Earth at S58 NA Open9-10 East - Playoffs C (2026-09-15) 1.02; beat APEX at S58 NA Open9-10 East - Playoffs C (2026-09-12) 1.00
+- Opponent Network drivers: beat For Fun Gamers at S58 NA Open9-10 East - Playoffs C (2026-09-17) 1.02; beat Alternate Earth at S58 NA Open9-10 East - Playoffs C (2026-09-15) 1.02; beat Mace Lindu Ruff Rebound at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +246.3 |
-| SportsBetExpert | 6 | 2671.6 | +245.0 |
-| M80 | 2 | 3081.4 | +241.6 |
-| Wildcard | 3 | 2911.9 | +239.7 |
-| LAG Gaming | 8 | 2507.4 | +238.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Akatsuki | 118 | 1647.6 | +0.5 | +75.2 |
+| Elation | 117 | 1652.7 | +5.6 | +76.0 |
+| Read You Like a Kindle | 116 | 1654.7 | +7.6 | +88.8 |
+| DKR Esports | 115 | 1655.5 | +8.4 | +77.6 |
+| The Vicious Kitties | 114 | 1656.6 | +9.5 | +79.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Holly Molly | 35 | +341.3 | +149.0 | +14.1 |
+| unreal nightmare | 37 | +329.5 | +143.2 | +13.9 |
+| EMPIRE | 36 | +336.5 | +170.7 | +13.8 |
+| North Forge | 38 | +324.1 | +181.5 | +13.2 |
+| ZETTA | 39 | +322.9 | +149.4 | +11.4 |
+| Wanted Goons | 43 | +286.0 | +171.8 | +11.3 |
+| Xiaoma Gaming | 46 | +264.3 | +153.5 | +9.3 |
+| Swole Patrol | 45 | +267.2 | +115.1 | +9.2 |
+| Zealous | 42 | +294.5 | +118.2 | +8.3 |
+| FLOW STATE | 47 | +250.3 | +143.6 | +7.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +238.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), Solbound (+0.0).
 

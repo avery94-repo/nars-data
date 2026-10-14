@@ -3,11 +3,11 @@ Team Name: Power of Friendship
 Roster: sirjiggs, PeeJay3495, Alonson, yung_air, AddySandwich
 NARS Rank: 484 of 506
 
-Final Rating: 720.2
+Final Rating: 720.1
 Seeded Start: 1120.6
-H2H Adjustment: -400.4
+H2H Adjustment: -400.5 (capped at +-300, raw -400.4)
 
-Final Rating (720.2) = Seeded Start (1120.6) + H2H Adjustment (-400.4)
+Final Rating (720.1) = Seeded Start (1120.6) + H2H Adjustment (-400.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.035 vs 0.193 aver
 - Quality Wins drivers: beat dogwater at S57 NA Intermediate Central - Regular Season (2026-05-20) 0.02; beat AML at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.02; beat Famas OP at S57 NA Intermediate Central - Regular Season (2026-05-01) 0.00
 - Opponent Network drivers: beat AML at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23; beat dogwater at S57 NA Intermediate Central - Regular Season (2026-05-20) 0.22; beat Famas OP at S57 NA Intermediate Central - Regular Season (2026-05-01) 0.09
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.7 |
-| SportsBetExpert | 6 | 2671.6 | +664.6 |
-| North Forge | 38 | 1971.1 | +664.2 |
-| Wanted Goons | 43 | 1933.1 | +663.3 |
-| Zomblers | 22 | 2114.7 | +662.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| EZ2025 | 483 | 721.3 | +1.2 | +172.9 |
+| SNOWPLOWERS | 482 | 731.4 | +11.3 | +165.8 |
+| CVC Retirement | 481 | 742.2 | +22.1 | +169.3 |
+| HUMA | 480 | 747.4 | +27.3 | +181.7 |
+| FourStrokeGang | 479 | 748.4 | +28.3 | +175.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Benadryl Abusers | 396 | +341.1 | +316.9 | +31.6 |
+| ReGen | 400 | +332.8 | +316.4 | +31.2 |
+| Big Fish | 402 | +330.9 | +315.1 | +31.0 |
+| James Bond Bois | 401 | +331.9 | +281.9 | +30.4 |
+| house | 403 | +328.8 | +345.3 | +29.9 |
+| Epochal Esports | 413 | +316.0 | +318.8 | +29.1 |
+| three11 | 398 | +337.0 | +283.9 | +28.7 |
+| Shock Value | 405 | +326.5 | +279.9 | +28.3 |
+| MakeYouSayLate | 414 | +306.8 | +300.1 | +28.1 |
+| Team Hyper | 409 | +317.2 | +366.8 | +27.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs Famas OP (2026-05-01): expires in 13 days [Quality Wins 0.00, Opponent Network 0.09]

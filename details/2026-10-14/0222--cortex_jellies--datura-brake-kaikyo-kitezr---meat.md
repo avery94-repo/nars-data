@@ -33,17 +33,34 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.277 vs 0.412 aver
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs B (2026-09-10) 1.01; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
 - Quality Wins drivers: beat 99 Thieves at S59 NA Intermediate A - Regular Season (2026-10-07) 0.10; beat Team Deathgrip at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07; beat Comeback Bandits at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.07
-- Opponent Network drivers: beat 99 Thieves at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; beat Team Deathgrip at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat Comeback Bandits at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.97
+- Opponent Network drivers: beat 99 Thieves at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; beat Team Deathgrip at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat Comeback Bandits at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.96
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +568.4 |
-| SportsBetExpert | 6 | 2671.6 | +566.7 |
-| M80 | 2 | 3081.4 | +556.9 |
-| LAG Gaming | 8 | 2507.4 | +555.8 |
-| Wildcard | 3 | 2911.9 | +552.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| 1NT | 221 | 1439.0 | +1.6 | +154.7 |
+| Binky | 220 | 1439.3 | +1.9 | +158.3 |
+| Bald | 219 | 1443.1 | +5.7 | +151.4 |
+| Koi Pond | 218 | 1446.0 | +8.6 | +153.2 |
+| VARTOVIK | 217 | 1449.9 | +12.5 | +162.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Asoka | 74 | +345.9 | +284.8 | +28.8 |
+| Kairo | 79 | +341.5 | +280.0 | +28.5 |
+| fih hou | 73 | +348.3 | +316.6 | +28.1 |
+| firesale | 82 | +330.8 | +297.1 | +27.7 |
+| Diggers | 86 | +326.0 | +268.5 | +27.6 |
+| Club 333 | 76 | +344.8 | +341.9 | +27.2 |
+| mas paspas | 75 | +345.5 | +328.7 | +26.6 |
+| Fire Nation | 90 | +312.3 | +274.0 | +25.7 |
+| Fathom Gaming | 91 | +307.9 | +268.2 | +25.4 |
+| Overtake Sector | 89 | +313.4 | +342.7 | +24.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +549.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -57,13 +74,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Team Deathgrip | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +8.1 | --meat, Brake, Hamptr, Kaikyo, kiteZr |
-| 2026-10-07 | 99 Thieves | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.10 | 1.00 | +140.0 | --meat, Brake, Hamptr, Kaikyo, kiteZr |
+| 2026-10-07 | 99 Thieves | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.10 | 1.00 | +140.1 | --meat, Brake, Hamptr, Kaikyo, kiteZr |
 | 2026-09-10 | mokey mokey | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.00 | 0.00 | -101.7 | --meat, Brake, Kaikyo, kiteZr, med |
 | 2026-09-05 | Drip or Drown | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.97 | 0.00 | 0.00 | -3.5 | --meat, Brake, Kaikyo, aratoshii, kiteZr |
-| 2026-09-04 | Comeback Bandits | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.07 | 0.97 | +133.7 | --meat, Brake, Kaikyo, kiteZr, med |
+| 2026-09-04 | Comeback Bandits | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.07 | 0.96 | +133.7 | --meat, Brake, Kaikyo, kiteZr, med |
 | 2026-09-02 | UKY Blue | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +187.6 | --meat, Brake, Kaikyo, kiteZr, med |
 | 2026-06-10 | FAT CHUDS BRO | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -167.8 | --meat, Brake, Datura, Kaikyo, kiteZr |
-| 2026-06-03 | but i got movement | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +242.2 | --meat, Brake, Datura, Kaikyo, kiteZr |
+| 2026-06-03 | but i got movement | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +242.3 | --meat, Brake, Datura, Kaikyo, kiteZr |
 | 2026-05-27 | T Shirt Material | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -239.5 | -Zest, Brake, Datura, Kaikyo, kiteZr |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -25,8 +25,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.145 | 1302.5 | - |
-| +30 days | 0.112 | 1256.9 | -45.6 |
-| +60 days | 0.097 | 1235.7 | -66.8 |
+| +30 days | 0.112 | 1256.8 | -45.6 |
+| +60 days | 0.097 | 1235.7 | -66.7 |
 | +90 days | 0.072 | 1200.3 | -102.2 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.401 vs 0.572 average, gap -0.171). Matching that average is worth about 59.8 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.401 vs 0.572 aver
 - Quality Wins drivers: beat 5Frag Gaming at S58 NA Main Central - Playoffs B (2026-09-04) 0.15; beat DESPAIR at S58 NA Main B - Regular Season (2026-08-07) 0.12; beat Manx Recovery Program at S58 NA Main B - Regular Season (2026-08-28) 0.09
 - Opponent Network drivers: beat 5Frag Gaming at S58 NA Main Central - Playoffs B (2026-09-04) 1.11; beat Manx Recovery Program at S58 NA Main B - Regular Season (2026-08-28) 1.02; beat DESPAIR at S58 NA Main B - Regular Season (2026-08-07) 0.86
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +563.9 |
-| SportsBetExpert | 6 | 2671.6 | +557.6 |
-| M80 | 2 | 3081.4 | +554.7 |
-| Wildcard | 3 | 2911.9 | +549.2 |
-| Liquid | 1 | 3103.3 | +547.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Northern District | 106 | 1684.0 | +0.5 | +145.6 |
+| Tacos Tiramisu and Lies | 105 | 1687.3 | +3.8 | +151.1 |
+| NineFly Esports | 104 | 1689.1 | +5.6 | +147.0 |
+| New Legends | 103 | 1695.3 | +11.8 | +164.4 |
+| Addice | 102 | 1702.5 | +19.0 | +166.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Automatic HQ | 27 | +347.3 | +327.5 | +27.6 |
+| VOID ALUNE | 29 | +324.3 | +247.4 | +27.2 |
+| Hairy Scary Bandits | 32 | +315.9 | +299.9 | +26.1 |
+| Chicken Coop | 33 | +314.7 | +342.8 | +24.8 |
+| Holly Molly | 35 | +304.9 | +280.6 | +24.6 |
+| EMPIRE | 36 | +300.1 | +313.8 | +23.7 |
+| unreal nightmare | 37 | +293.1 | +269.5 | +23.4 |
+| North Forge | 38 | +287.7 | +327.2 | +21.7 |
+| Priority | 30 | +321.2 | +246.3 | +19.3 |
+| babaG | 28 | +325.2 | +319.1 | +18.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +547.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
 
@@ -66,21 +83,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | 5Frag Gaming | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.15 | 1.11 | +24.1 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
 | 2026-08-28 | Manx Recovery Program | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.09 | 1.02 | +53.3 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
 | 2026-08-21 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -211.0 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
-| 2026-08-07 | DESPAIR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.12 | 0.86 | +164.7 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
+| 2026-08-07 | DESPAIR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.12 | 0.86 | +164.8 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
 | 2026-08-05 | OnlyFans | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.07 | 0.85 | +139.8 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
-| 2026-07-31 | ALL IN | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.04 | 0.81 | +40.3 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
-| 2026-07-22 | The Skins | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.07 | 0.74 | +449.8 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
+| 2026-07-31 | ALL IN | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.04 | 0.81 | +40.4 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
+| 2026-07-22 | The Skins | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.07 | 0.74 | +449.9 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
 | 2026-05-31 | Bills | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -1.8 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
 | 2026-05-27 | Skyline | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -152.6 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
 | 2026-05-22 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -30.7 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
-| 2026-05-20 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +44.1 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
+| 2026-05-20 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +44.0 | Bearv7, Texzera, oweNra, squidward_2, wundyy |
 | 2026-05-15 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.05 | 0.21 | +15.8 | Clum, Texzera, oweNra, squidward_2, wundyy |
-| 2026-05-14 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +272.4 | Clum, Texzera, oweNra, squidward_2, wundyy |
+| 2026-05-14 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +272.5 | Clum, Texzera, oweNra, squidward_2, wundyy |
 | 2026-05-13 | VOID ALUNE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -371.0 | Clum, Texzera, oweNra, squidward_2, wundyy |
 | 2026-05-06 | Bills | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -50.9 | Clum, Texzera, oweNra, squidward_2, wundyy |
 | 2026-05-01 | BUCK NASTY | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -394.2 | Clum, Texzera, oweNra, squidward_2, wundyy |
 | 2026-04-29 | Slimy Boogermen | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.02 | 0.09 | +184.6 | Clum, Texzera, oweNra, squidward_2, wundyy |
 | 2026-04-25 | Skyline | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.02 | 0.06 | +315.6 | Clum, Texzera, oweNra, squidward_2, wundyy |
-| 2026-04-22 | CNCS Last Hope | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +151.4 | Clum, Texzera, oweNra, squidward_2, wundyy |
+| 2026-04-22 | CNCS Last Hope | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +151.5 | Clum, Texzera, oweNra, squidward_2, wundyy |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

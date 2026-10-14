@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.050 vs 0.400 aver
 - Quality Wins drivers: beat Asoka at S57 NA Main Central - Regular Season (2026-05-13) 0.04; beat BucketJonsBoys at S57 NA Main Central - Regular Season (2026-05-07) 0.04; beat Wiggle Peeks at S57 NA Main Central - Regular Season (2026-04-29) 0.01
 - Opponent Network drivers: beat DNA at S57 NA Main Central - Regular Season (2026-05-14) 0.20; beat Asoka at S57 NA Main Central - Regular Season (2026-05-13) 0.19; beat BucketJonsBoys at S57 NA Main Central - Regular Season (2026-05-07) 0.15
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +663.7 |
-| SportsBetExpert | 6 | 2671.6 | +662.2 |
-| LAG Gaming | 8 | 2507.4 | +650.7 |
-| M80 | 2 | 3081.4 | +650.0 |
-| Wildcard | 3 | 2911.9 | +645.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| DadDick Esports | 261 | 1362.4 | +1.4 | +172.0 |
+| Kinetic | 260 | 1364.2 | +3.2 | +173.3 |
+| The Sweepers | 259 | 1365.8 | +4.8 | +164.7 |
+| GoonAssOldheads | 258 | 1369.8 | +8.8 | +170.8 |
+| Only Goys | 257 | 1369.9 | +8.9 | +165.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Axial | 101 | +345.4 | +326.0 | +31.8 |
+| Addice | 102 | +341.5 | +374.7 | +30.2 |
+| New Legends | 103 | +334.3 | +378.9 | +29.3 |
+| Holy Squid Empire | 108 | +317.7 | +317.2 | +29.1 |
+| Black Dragon Society | 109 | +309.7 | +336.2 | +27.8 |
+| Hadouken | 100 | +348.8 | +288.3 | +26.6 |
+| Read You Like a Kindle | 116 | +293.7 | +329.8 | +25.4 |
+| eefsports | 112 | +303.2 | +270.9 | +24.9 |
+| ODIN | 119 | +286.1 | +320.4 | +23.7 |
+| Northern District | 106 | +323.0 | +278.5 | +22.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
 
@@ -62,13 +79,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -34.9 | -syN-_-, Aim-_, Clavis, LaiNN-, deeLN |
-| 2026-05-20 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -333.6 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
+| 2026-05-20 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -333.7 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
 | 2026-05-14 | DNA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +4.6 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
 | 2026-05-13 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.04 | 0.19 | +298.5 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
-| 2026-05-08 | Dude Picks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -432.0 | -syN-_-, Aim-_, Clavis, LaiNN-, RoLLo, deeLN |
-| 2026-05-07 | BucketJonsBoys | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.15 | 1.00 | 0.15 | 0.04 | 0.15 | +247.4 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
+| 2026-05-08 | Dude Picks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -432.1 | -syN-_-, Aim-_, Clavis, LaiNN-, RoLLo, deeLN |
+| 2026-05-07 | BucketJonsBoys | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.15 | 1.00 | 0.15 | 0.04 | 0.15 | +247.5 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
 | 2026-05-01 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +258.9 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
-| 2026-04-29 | Wiggle Peeks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +333.5 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
+| 2026-04-29 | Wiggle Peeks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +333.6 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
 | 2026-04-23 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -329.8 | Aim-_, Clavis, LaiNN-, RoLLo, deeLN |
 | 2026-04-22 | Free Frugz | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +223.3 | Clavis, LaiNN-, RoLLo, deeLN, splix- |
 

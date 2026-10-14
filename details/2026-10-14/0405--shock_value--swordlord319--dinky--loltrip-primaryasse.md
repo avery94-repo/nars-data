@@ -3,15 +3,15 @@ Team Name: Shock Value
 Roster: Swordlord319, -dinky-, loltrip, PrimaryAsset, Blurted
 NARS Rank: 405 of 506
 
-Final Rating: 1046.7
-Seeded Start: 1106.4
+Final Rating: 1046.6
+Seeded Start: 1106.3
 H2H Adjustment: -59.7
 
-Final Rating (1046.7) = Seeded Start (1106.4) + H2H Adjustment (-59.7)
+Final Rating (1046.6) = Seeded Start (1106.3) + H2H Adjustment (-59.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.005 x 1400 = 1106.4
+                = 1100 + 0.005 x 1400 = 1106.3
 
 seed_factor 0.005 = 0.25 x Tier Exposure (0.008) + 0.50 x Quality Wins (0.000) + 0.25 x Opponent Network (0.010)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.005 | 1106.4 | - |
+| Now | 0.005 | 1106.3 | - |
 | +30 days | 0.000 | 1100.2 | -6.1 |
-| +60 days | 0.000 | 1100.0 | -6.4 |
-| +90 days | 0.000 | 1100.0 | -6.4 |
+| +60 days | 0.000 | 1100.0 | -6.3 |
+| +90 days | 0.000 | 1100.0 | -6.3 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.010 vs 0.134 average, gap -0.124). Matching that average is worth about 43.4 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.010 vs 0.134 aver
 - Quality Wins drivers: beat 91AshLiu at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.00; beat Remnant at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.00; beat Happy Feed at S57 NA Intermediate Central - Regular Season (2026-04-24) 0.00
 - Opponent Network drivers: beat 91AshLiu at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.08; beat Happy Feed at S57 NA Intermediate Central - Regular Season (2026-04-24) 0.04; beat Remnant at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.03
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.5 |
-| SportsBetExpert | 6 | 2671.6 | +664.2 |
-| regain | 12 | 2256.1 | +656.8 |
-| LAG Gaming | 8 | 2507.4 | +655.8 |
-| Zomblers | 22 | 2114.7 | +654.7 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| DownTown | 404 | 1047.0 | +0.4 | +162.4 |
+| house | 403 | 1048.9 | +2.3 | +173.1 |
+| Big Fish | 402 | 1051.0 | +4.4 | +170.1 |
+| James Bond Bois | 401 | 1052.0 | +5.4 | +164.0 |
+| ReGen | 400 | 1052.9 | +6.3 | +170.8 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| The Kerbins | 250 | +332.0 | +340.1 | +30.4 |
+| GoonAssOldheads | 258 | +323.2 | +306.0 | +30.3 |
+| Eightball | 253 | +329.0 | +329.7 | +30.0 |
+| Dude Picks | 252 | +330.9 | +356.1 | +29.8 |
+| 2THRiLL | 246 | +340.0 | +285.0 | +29.7 |
+| drunk cigs dont count | 255 | +326.5 | +346.0 | +29.6 |
+| THE GUILD | 264 | +312.4 | +294.8 | +29.0 |
+| Kinetic | 260 | +317.6 | +336.3 | +28.8 |
+| DadDick Esports | 261 | +315.8 | +330.4 | +28.8 |
+| Wiggle Peeks | 265 | +310.2 | +313.4 | +28.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.6).
 

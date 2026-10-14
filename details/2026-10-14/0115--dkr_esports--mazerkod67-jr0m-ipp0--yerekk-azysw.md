@@ -4,14 +4,14 @@ Roster: mazerkod67, Jr0m, Ipp0-, YeRekK, Azysw
 NARS Rank: 115 of 506
 
 Final Rating: 1655.5
-Seeded Start: 1336.6
-H2H Adjustment: +318.9
+Seeded Start: 1336.5
+H2H Adjustment: +319.0 (capped at +-300, raw +318.9)
 
-Final Rating (1655.5) = Seeded Start (1336.6) + H2H Adjustment (+318.9)
+Final Rating (1655.5) = Seeded Start (1336.5) + H2H Adjustment (+319.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.169 x 1400 = 1336.6
+                = 1100 + 0.169 x 1400 = 1336.5
 
 seed_factor 0.169 = 0.25 x Tier Exposure (0.118) + 0.50 x Quality Wins (0.069) + 0.25 x Opponent Network (0.420)
 
@@ -24,26 +24,43 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.169 | 1336.6 | - |
+| Now | 0.169 | 1336.5 | - |
 | +30 days | 0.132 | 1284.7 | -51.9 |
-| +60 days | 0.102 | 1243.2 | -93.4 |
-| +90 days | 0.051 | 1172.1 | -164.5 |
+| +60 days | 0.102 | 1243.1 | -93.4 |
+| +90 days | 0.051 | 1172.0 | -164.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.118 vs 0.157 average, gap -0.039). Matching that average is worth about 13.7 seed points.
 
 - Tier Exposure drivers: S58 NA Main Central - Playoffs A (2026-09-08) 0.99; S58 NA Main A - Regular Season (2026-08-26) 0.89; Esports Nations Cup 2026: South America Qualifier (2026-07-17) 0.88
 - Quality Wins drivers: beat EXODIA at Esports Nations Cup 2026: South America Qualifier (2026-07-17) 0.50; beat Asoka at S58 NA Main A - Regular Season (2026-07-31) 0.16; beat Team Amplus at S58 NA Main A - Regular Season (2026-07-17) 0.10
-- Opponent Network drivers: beat TEMPR at S58 NA Main Central - Playoffs A (2026-09-06) 0.98; beat EXODIA at Esports Nations Cup 2026: South America Qualifier (2026-07-17) 0.88; beat SAFIR at S58 NA Main A - Regular Season (2026-08-14) 0.81
+- Opponent Network drivers: beat TEMPR at S58 NA Main Central - Playoffs A (2026-09-06) 0.97; beat EXODIA at Esports Nations Cup 2026: South America Qualifier (2026-07-17) 0.88; beat SAFIR at S58 NA Main A - Regular Season (2026-08-14) 0.81
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +608.3 |
-| SportsBetExpert | 6 | 2671.6 | +602.1 |
-| M80 | 2 | 3081.4 | +598.1 |
-| Wildcard | 3 | 2911.9 | +592.4 |
-| Liquid | 1 | 3103.3 | +589.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| The Vicious Kitties | 114 | 1656.6 | +1.1 | +156.9 |
+| Incognito | 113 | 1659.2 | +3.7 | +154.5 |
+| eefsports | 112 | 1664.2 | +8.7 | +156.0 |
+| Shimmer | 111 | 1667.1 | +11.6 | +159.6 |
+| Drip or Drown | 110 | 1669.0 | +13.5 | +166.8 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Hairy Scary Bandits | 32 | +343.9 | +331.8 | +30.0 |
+| Holly Molly | 35 | +332.9 | +310.1 | +29.1 |
+| unreal nightmare | 37 | +321.1 | +297.8 | +28.4 |
+| Chicken Coop | 33 | +342.7 | +381.2 | +28.1 |
+| EMPIRE | 36 | +328.1 | +348.4 | +27.9 |
+| North Forge | 38 | +315.7 | +364.6 | +26.2 |
+| Priority | 30 | +349.2 | +271.0 | +23.0 |
+| ZETTA | 39 | +314.5 | +307.6 | +22.8 |
+| Wanted Goons | 43 | +277.6 | +337.1 | +21.3 |
+| YHUBEPCAM | 31 | +348.6 | +270.8 | +18.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +590.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), After Peak (+0.0).
 
@@ -60,23 +77,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | SAFIR | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.00 | 0.00 | -110.3 | Azysw, Ipp0-, NattJr, YeRekK, drkhx, mazerkod67 |
-| 2026-09-06 | TEMPR | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.07 | 0.98 | +1.1 | Azysw, Ipp0-, NattJr, drkhx, mazerkod67 |
+| 2026-09-06 | TEMPR | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.07 | 0.97 | +1.1 | Azysw, Ipp0-, NattJr, drkhx, mazerkod67 |
 | 2026-08-26 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -100.3 | Azysw, Jr0m, drkhx, iBatesTon, mazerkod67 |
 | 2026-08-14 | SAFIR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.07 | 0.81 | +62.1 | Azysw, Ipp0-, Jr0m, drkhx, mazerkod67 |
 | 2026-08-05 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +13.4 | Azysw, Ipp0-, YeRekK, drkhx, mazerkod67 |
-| 2026-07-31 | Asoka | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.16 | 0.71 | +159.2 | Azysw, Ipp0-, NattJr, YeRekK, drkhx |
+| 2026-07-31 | Asoka | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.16 | 0.71 | +159.3 | Azysw, Ipp0-, NattJr, YeRekK, drkhx |
 | 2026-07-29 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -111.2 | Azysw, Jr0m, NattJr, YeRekK, drkhx |
 | 2026-07-24 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -140.4 | Azysw, Ipp0-, Jr0m, YeRekK, drkhx |
 | 2026-07-22 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +3.9 | Azysw, Ipp0-, Jr0m, NattJr, drkhx |
 | 2026-07-17 | EXODIA | W | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.61 | 1.45 | 1.00 | 0.88 | 0.50 | 0.88 | +238.5 | -17Wonds, Azysw, Ipp0-, Jr0m, mazerkod67 |
 | 2026-07-17 | Team Amplus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.10 | 0.61 | +264.5 | -17Wonds, Azysw, Ipp0-, Jr0m, NattJr, YeRekK, mazerkod67 |
 | 2026-07-15 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.02 | 0.60 | +0.6 | Azysw, Ipp0-, NattJr, YeRekK, mazerkod67 |
-| 2026-05-31 | Dude Picks | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -159.9 | Azysw, Ipp0-, Jr0m, iBatesTon, mazerkod67 |
+| 2026-05-31 | Dude Picks | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -160.0 | Azysw, Ipp0-, Jr0m, iBatesTon, mazerkod67 |
 | 2026-05-29 | Slimy Boogermen | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -53.9 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
 | 2026-05-27 | Asoka | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.07 | 0.00 | +20.8 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
-| 2026-05-20 | OnlyFans | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +334.9 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
-| 2026-05-14 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -288.3 | Azysw, Ipp0-, Jr0m, iBatesTon, mazerkod67 |
-| 2026-05-13 | crescent | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +318.0 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
+| 2026-05-20 | OnlyFans | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +335.1 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
+| 2026-05-14 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -288.4 | Azysw, Ipp0-, Jr0m, iBatesTon, mazerkod67 |
+| 2026-05-13 | crescent | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +318.1 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
 | 2026-05-08 | MASTER ONE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -290.5 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
 | 2026-05-06 | Dude Picks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +324.3 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
 | 2026-05-01 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -156.9 | Azysw, Ipp0-, Jr0m, iBatesTon, mazerkod67 |

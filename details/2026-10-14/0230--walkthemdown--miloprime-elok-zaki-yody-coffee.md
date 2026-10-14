@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.024 vs 0.032 average,
 - Quality Wins drivers: beat Flow Esports at S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.11; beat katzwitgunz at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.07; beat NOVAIR at S58 NA Intermediate B - Regular Season (2026-08-26) 0.07
 - Opponent Network drivers: beat Flow Esports at S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.94; beat katzwitgunz at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.92; beat NOVAIR at S58 NA Intermediate B - Regular Season (2026-08-26) 0.87
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +616.7 |
-| SportsBetExpert | 6 | 2671.6 | +614.8 |
-| M80 | 2 | 3081.4 | +604.2 |
-| LAG Gaming | 8 | 2507.4 | +603.0 |
-| Wildcard | 3 | 2911.9 | +599.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| The Third Eye | 229 | 1425.5 | +0.9 | +154.7 |
+| FRAGDEMONS | 228 | 1426.4 | +1.8 | +154.9 |
+| UltimateDarklordWizardz | 227 | 1427.1 | +2.5 | +166.0 |
+| penazoid | 226 | 1428.0 | +3.4 | +162.0 |
+| Elisir Esports | 225 | 1428.5 | +3.9 | +155.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Diggers | 86 | +338.8 | +291.2 | +30.6 |
+| firesale | 82 | +343.6 | +322.4 | +30.4 |
+| Fire Nation | 90 | +325.1 | +297.3 | +28.8 |
+| Fathom Gaming | 91 | +320.7 | +290.9 | +28.6 |
+| Overtake Sector | 89 | +326.2 | +372.3 | +27.4 |
+| PROFECO | 87 | +330.5 | +266.2 | +26.1 |
+| Green Grove Retirement | 94 | +304.0 | +302.8 | +25.9 |
+| Elusive | 93 | +307.0 | +334.8 | +25.9 |
+| NineFlyeSports | 96 | +300.5 | +312.0 | +25.8 |
+| FlyQuest RED | 97 | +296.1 | +320.8 | +23.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +596.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -63,12 +80,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -71.1 | MiloPrime, Yody, Zaki, _Ajay, coffee |
 | 2026-08-19 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -53.2 | MiloPrime, Yody, Zaki, coffee, eLok |
 | 2026-08-14 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -57.3 | Mc-CooL, MiloPrime, Zaki, coffee, eLok |
-| 2026-08-12 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -65.3 | MiloPrime, Yody, Zaki, coffee, eLok |
+| 2026-08-12 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -65.4 | MiloPrime, Yody, Zaki, coffee, eLok |
 | 2026-08-07 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +204.8 | MiloPrime, Yody, Zaki, coffee, eLok |
 | 2026-08-01 | VeryBigDoogoos | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.03 | 0.70 | +322.8 | MiloPrime, Yody, Zaki, coffee, eLok |
-| 2026-07-24 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +321.7 | MiloPrime, Yody, Zaki, coffee, eLok |
-| 2026-07-15 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -244.0 | PRIMVL, Yody, Zaki, coffee, eLok |
-| 2026-05-31 | HiveMind | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.00 | 0.00 | -191.2 | MiloPrime, SNARKY_ADMIN, Yody, Zaki, eLok |
+| 2026-07-24 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +321.8 | MiloPrime, Yody, Zaki, coffee, eLok |
+| 2026-07-15 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -244.1 | PRIMVL, Yody, Zaki, coffee, eLok |
+| 2026-05-31 | HiveMind | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.00 | 0.00 | -191.3 | MiloPrime, SNARKY_ADMIN, Yody, Zaki, eLok |
 | 2026-05-29 | Its a Secret | L | 0-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.00 | 0.00 | -321.1 | MiloPrime, SNARKY_ADMIN, Yody, Zaki, eLok |
 | 2026-05-27 | bravo six | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.05 | 1.00 | 0.28 | 0.00 | 0.28 | +150.7 | MiloPrime, SNARKY_ADMIN, Yody, Zaki, eLok |
 

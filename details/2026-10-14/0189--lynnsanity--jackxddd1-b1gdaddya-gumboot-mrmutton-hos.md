@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.037 vs 0.018 average,
 - Quality Wins drivers: beat YHTR at S59 NA Main A - Regular Season (2026-10-09) 0.16; beat Entertainment Cheese at S59 NA Main A - Regular Season (2026-10-07) 0.16; beat Kaos at S58 NA Main B - Regular Season (2026-08-15) 0.07
 - Opponent Network drivers: beat Entertainment Cheese at S59 NA Main A - Regular Season (2026-10-07) 1.02; beat YHTR at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat gooshedd at S58 NA Main B - Regular Season (2026-08-21) 0.97
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +279.4 |
-| SportsBetExpert | 6 | 2671.6 | +278.6 |
-| M80 | 2 | 3081.4 | +273.6 |
-| LAG Gaming | 8 | 2507.4 | +273.5 |
-| Wildcard | 3 | 2911.9 | +271.7 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| mokey mokey | 188 | 1503.7 | +3.7 | +84.2 |
+| Vibe Check | 187 | 1503.9 | +3.9 | +90.3 |
+| Alternate Earth | 186 | 1504.0 | +4.0 | +97.6 |
+| KIS | 185 | 1506.6 | +6.6 | +88.8 |
+| QUPMANACS | 184 | 1510.3 | +10.3 | +85.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| flat earth | 64 | +326.5 | +168.9 | +15.3 |
+| Endless Esports | 65 | +326.0 | +170.5 | +15.2 |
+| DUMBO | 63 | +327.1 | +188.5 | +14.7 |
+| WhalersOnDaMoon | 66 | +321.8 | +173.1 | +14.5 |
+| NZ Gaming | 69 | +313.2 | +155.0 | +14.4 |
+| GeneticDiff | 70 | +292.9 | +157.2 | +13.0 |
+| fih hou | 73 | +285.7 | +163.5 | +12.4 |
+| Asoka | 74 | +283.3 | +146.5 | +12.2 |
+| Club 333 | 76 | +282.2 | +177.0 | +12.2 |
+| F5 Esports | 60 | +335.3 | +178.9 | +12.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +269.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -66,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Yogaball Frags | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -52.0 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-08-21 | gooshedd | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.04 | 0.97 | +99.9 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-08-15 | Kaos | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.16 | 1.00 | 0.92 | 0.07 | 0.92 | +156.6 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-08-12 | Florida Man | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -32.6 | Gumboot, JaCKxDDD1, MrMutton, SnowConeYeti, hostage1337 |
+| 2026-08-12 | Florida Man | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -32.5 | Gumboot, JaCKxDDD1, MrMutton, SnowConeYeti, hostage1337 |
 | 2026-08-07 | Friendly Fire | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -76.9 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-08-05 | RejexEsports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.05 | 0.85 | +128.3 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-07-31 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -7.1 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, MrMutton |
@@ -75,8 +92,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -0.0 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-07-17 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +29.7 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-07-16 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -362.1 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-05-22 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -355.6 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
-| 2026-05-20 | Old Meta | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +171.4 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
+| 2026-05-22 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -355.7 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
+| 2026-05-20 | Old Meta | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +171.5 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
 | 2026-05-08 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +17.6 | B1gDaddyA, CSGO-VETERAN, Gumboot, MrMutton, hostage1337 |
 | 2026-05-06 | Another Day in Paradise | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +67.3 | B1gDaddyA, CSGO-VETERAN, Gumboot, MrMutton, hostage1337 |
 | 2026-05-01 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +12.2 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |

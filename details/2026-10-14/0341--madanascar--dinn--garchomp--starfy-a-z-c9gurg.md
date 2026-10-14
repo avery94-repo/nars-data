@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.192 | 1368.3 | - |
-| +30 days | 0.180 | 1352.6 | -15.8 |
+| +30 days | 0.180 | 1352.5 | -15.8 |
 | +60 days | 0.164 | 1329.8 | -38.5 |
-| +90 days | 0.137 | 1291.5 | -76.9 |
+| +90 days | 0.137 | 1291.4 | -76.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.051 vs 0.015 average, gap +0.036). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.051 vs 0.015 average,
 - Quality Wins drivers: beat SwagMonkeyHats at NA Revival (2026-09-27) 0.17; beat Kings Gambit at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.10; beat WaterDrinkers at S58 NA Intermediate A - Regular Season (2026-08-12) 0.10
 - Opponent Network drivers: beat HUMA at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat SwagMonkeyHats at NA Revival (2026-09-27) 1.01; beat Kings Gambit at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.92
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +314.7 |
-| SportsBetExpert | 6 | 2671.6 | +314.5 |
-| LAG Gaming | 8 | 2507.4 | +310.4 |
-| regain | 12 | 2256.1 | +310.4 |
-| Zomblers | 22 | 2114.7 | +308.7 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Boop Boop Gang | 340 | 1195.6 | +0.3 | +97.2 |
+| Kennesaw State Gold 2025 | 339 | 1195.9 | +0.6 | +92.1 |
+| Braindead | 338 | 1199.3 | +4.0 | +92.7 |
+| MONARCH | 337 | 1200.8 | +5.5 | +103.5 |
+| Stubbys | 336 | 1201.2 | +5.9 | +93.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| offBalance | 165 | +347.0 | +177.4 | +17.7 |
+| BucketJonsBoys | 172 | +337.8 | +171.9 | +17.4 |
+| Pug Palace | 167 | +340.5 | +180.8 | +17.3 |
+| Firstwave | 175 | +331.7 | +171.6 | +17.1 |
+| Shaboing Boing Bandits | 173 | +335.3 | +189.0 | +17.1 |
+| Armored Talent | 174 | +334.5 | +193.9 | +16.9 |
+| APEX | 176 | +326.6 | +176.9 | +16.8 |
+| GOOZPEEK | 182 | +317.8 | +180.9 | +16.2 |
+| LAF | 183 | +316.0 | +172.1 | +16.2 |
+| Shadow Wizard Money Gang | 180 | +320.6 | +206.0 | +15.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +303.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.6).
 
@@ -70,13 +87,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.10 | 0.78 | +21.4 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-08-07 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.09 | 0.74 | +90.8 | -Garchomp-, A-Z, Hymn_, Starfy, c9gurg |
 | 2026-08-05 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -17.8 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
-| 2026-07-31 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -120.9 | -Garchomp-, A-Z, Dinn, Hymn_, Starfy |
+| 2026-07-31 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -121.0 | -Garchomp-, A-Z, Dinn, Hymn_, Starfy |
 | 2026-07-29 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +105.4 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-24 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +24.2 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-22 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.07 | 0.64 | +4.3 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-17 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +1.0 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-15 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +4.7 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
-| 2026-06-12 | ZoomNBoom | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.37 | +232.1 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
+| 2026-06-12 | ZoomNBoom | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.37 | +232.2 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
 | 2026-06-05 | Sound of Arthritis | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -176.6 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
 | 2026-05-27 | Slime Time | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +85.4 | A-Z, Dinn, GurvR6, c9gurg, rl4v |
 

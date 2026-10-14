@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.030 vs 0.104 average,
 - Quality Wins drivers: beat Koi Pond at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.12; beat Boop Boop Gang at S59 NA Intermediate A - Regular Season (2026-10-07) 0.08; beat Black Dragon Society at S58 NA Open9-10 East - Playoffs B (2026-09-17) 0.07
 - Opponent Network drivers: beat MEET THE WALL at S58 NA Open9-10 East - Playoffs B (2026-09-15) 1.04; beat Black Dragon Society at S58 NA Open9-10 East - Playoffs B (2026-09-17) 1.04; beat The Kerbins at S58 NA Open9-10 East - Playoffs B (2026-09-18) 1.04
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +405.4 |
-| SportsBetExpert | 6 | 2671.6 | +400.4 |
-| M80 | 2 | 3081.4 | +399.1 |
-| Wildcard | 3 | 2911.9 | +395.0 |
-| Liquid | 1 | 3103.3 | +393.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Overtake Sector | 89 | 1750.8 | +1.1 | +131.9 |
+| Manx Recovery Program | 88 | 1751.4 | +1.7 | +118.8 |
+| PROFECO | 87 | 1755.1 | +5.4 | +114.7 |
+| Diggers | 86 | 1763.4 | +13.7 | +121.8 |
+| makeSHIFT | 85 | 1764.1 | +14.4 | +127.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Olympus | 25 | +289.9 | +220.0 | +17.7 |
+| Automatic HQ | 27 | +281.1 | +228.8 | +16.3 |
+| VOID ALUNE | 29 | +258.1 | +173.8 | +12.8 |
+| Hairy Scary Bandits | 32 | +249.7 | +209.5 | +11.8 |
+| duck crew | 23 | +346.3 | +194.1 | +11.8 |
+| Chicken Coop | 33 | +248.5 | +237.6 | +11.5 |
+| Festina Lente | 24 | +293.1 | +182.0 | +10.0 |
+| Holly Molly | 35 | +238.7 | +196.3 | +9.3 |
+| EMPIRE | 36 | +233.9 | +218.3 | +8.6 |
+| babaG | 28 | +259.0 | +222.5 | +7.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +393.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0).
 

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.082 | 1214.8 | - |
 | +30 days | 0.074 | 1203.1 | -11.7 |
 | +60 days | 0.070 | 1198.3 | -16.5 |
-| +90 days | 0.067 | 1194.4 | -20.5 |
+| +90 days | 0.067 | 1194.3 | -20.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.265 vs 0.342 average, gap -0.077). Matching that average is worth about 27.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.265 vs 0.342 aver
 - Quality Wins drivers: beat Beam Tinky at S58 NA Open1-8 Central - Playoffs (2026-09-11) 0.04; beat BD Lamron at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.04; beat The Old Folks at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.04
 - Opponent Network drivers: beat Beam Tinky at S58 NA Open1-8 Central - Playoffs (2026-09-11) 0.98; beat BD Lamron at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.96; beat The Old Folks at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.93
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +485.6 |
-| SportsBetExpert | 6 | 2671.6 | +482.1 |
-| M80 | 2 | 3081.4 | +476.8 |
-| Wildcard | 3 | 2911.9 | +472.6 |
-| Liquid | 1 | 3103.3 | +470.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| SAFIR | 131 | 1624.7 | +2.0 | +135.2 |
+| Quality | 130 | 1626.1 | +3.4 | +130.9 |
+| Torii | 129 | 1628.0 | +5.3 | +142.0 |
+| Team GREAT | 128 | 1629.2 | +6.5 | +136.4 |
+| DNA | 127 | 1635.0 | +12.3 | +133.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| North Forge | 38 | +348.5 | +327.4 | +23.9 |
+| Wanted Goons | 43 | +310.4 | +306.5 | +21.8 |
+| ZETTA | 39 | +347.3 | +272.0 | +21.5 |
+| Swole Patrol | 45 | +291.6 | +211.0 | +20.1 |
+| Xiaoma Gaming | 46 | +288.7 | +273.8 | +19.5 |
+| FLOW STATE | 47 | +274.7 | +256.4 | +17.7 |
+| Zealous | 42 | +318.9 | +217.5 | +17.5 |
+| No Future Lifes Over | 50 | +264.4 | +233.4 | +16.1 |
+| DESPAIR | 49 | +266.0 | +233.9 | +16.0 |
+| Phantom Sense | 51 | +261.0 | +275.8 | +15.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +470.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 

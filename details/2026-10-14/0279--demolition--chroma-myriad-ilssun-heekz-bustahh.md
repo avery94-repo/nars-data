@@ -3,15 +3,15 @@ Team Name: Demolition
 Roster: chroma, myriad, ilssuN, heekz, bustahh
 NARS Rank: 279 of 506
 
-Final Rating: 1316.1
-Seeded Start: 1225.2
+Final Rating: 1316.0
+Seeded Start: 1225.1
 H2H Adjustment: +90.9
 
-Final Rating (1316.1) = Seeded Start (1225.2) + H2H Adjustment (+90.9)
+Final Rating (1316.0) = Seeded Start (1225.1) + H2H Adjustment (+90.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.089 x 1400 = 1225.2
+                = 1100 + 0.089 x 1400 = 1225.1
 
 seed_factor 0.089 = 0.25 x Tier Exposure (0.150) + 0.50 x Quality Wins (0.023) + 0.25 x Opponent Network (0.161)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.089 | 1225.2 | - |
+| Now | 0.089 | 1225.1 | - |
 | +30 days | 0.069 | 1196.9 | -28.2 |
 | +60 days | 0.061 | 1184.8 | -40.3 |
 | +90 days | 0.045 | 1163.4 | -61.7 |
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.161 vs 0.437 aver
 - Quality Wins drivers: beat Holly Molly at S58 NA Advanced Central - Regular Season (2026-07-31) 0.19; beat Elation at S58 NA Advanced Central - Regular Season (2026-07-29) 0.07; beat Room Temp IQs at S58 NA Advanced Central - Regular Season (2026-07-22) 0.05
 - Opponent Network drivers: beat Elation at S58 NA Advanced Central - Regular Season (2026-07-29) 0.99; beat Room Temp IQs at S58 NA Advanced Central - Regular Season (2026-07-22) 0.92; beat GRIT at S57 NA Advanced Central - Regular Season (2026-05-12) 0.22
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +438.5 |
-| SportsBetExpert | 6 | 2671.6 | +437.9 |
-| LAG Gaming | 8 | 2507.4 | +431.4 |
-| M80 | 2 | 3081.4 | +429.3 |
-| regain | 12 | 2256.1 | +427.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| dead team | 278 | 1318.9 | +2.9 | +120.6 |
+| Chopped | 277 | 1319.8 | +3.8 | +132.1 |
+| Saltcrew | 276 | 1320.8 | +4.8 | +127.5 |
+| NoPrac | 275 | 1329.7 | +13.7 | +127.2 |
+| TenToesDown | 274 | 1329.7 | +13.7 | +123.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Read You Like a Kindle | 116 | +338.7 | +260.9 | +22.3 |
+| eefsports | 112 | +348.2 | +206.4 | +21.6 |
+| ODIN | 119 | +331.1 | +253.7 | +21.6 |
+| Team GREAT | 128 | +313.2 | +213.5 | +21.1 |
+| Torii | 129 | +312.0 | +237.2 | +20.8 |
+| 5Frag Gaming | 134 | +305.4 | +241.6 | +20.1 |
+| KODEX ESPORTS | 137 | +300.5 | +275.3 | +19.3 |
+| Kaos | 139 | +294.8 | +203.6 | +19.0 |
+| Team Amplus | 145 | +278.2 | +224.9 | +16.9 |
+| DNA | 127 | +319.0 | +199.3 | +15.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +423.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
 
@@ -71,7 +88,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.00 | 0.00 | -25.5 | bustahh, chroma, heekz, ilssuN, myriad |
 | 2026-08-05 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -62.6 | bustahh, chroma, heekz, ilssuN, myriad |
 | 2026-07-31 | Holly Molly | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.19 | 0.00 | +111.6 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-07-29 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.07 | 0.99 | +312.3 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-07-29 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.07 | 0.99 | +312.4 | bustahh, chroma, heekz, ilssuN, myriad |
 | 2026-07-22 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.05 | 0.92 | +147.5 | bustahh, chroma, heekz, ilssuN, myriad |
 | 2026-07-17 | House Platypus ESC | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -315.0 | bustahh, chroma, heekz, ilssuN, myriad |
 | 2026-07-15 | Shimmer | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -2.1 | bustahh, chroma, heekz, ilssuN, myriad |

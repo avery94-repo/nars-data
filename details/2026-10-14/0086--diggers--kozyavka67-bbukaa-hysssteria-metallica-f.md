@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.202 | 1383.4 | - |
-| +30 days | 0.176 | 1345.8 | -37.6 |
+| +30 days | 0.176 | 1345.7 | -37.6 |
 | +60 days | 0.150 | 1310.2 | -73.2 |
-| +90 days | 0.123 | 1271.8 | -111.6 |
+| +90 days | 0.123 | 1271.7 | -111.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.086 vs 0.056 average, gap +0.030). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.086 vs 0.056 average,
 - Quality Wins drivers: beat academy 4 gifted children at S58 NA Advanced Central - Regular Season (2026-08-12) 0.34; beat dice at S58 NA Advanced Central - Regular Season (2026-08-26) 0.21; beat Demolition at S58 NA Advanced Central - Regular Season (2026-08-27) 0.19
 - Opponent Network drivers: beat Team Hyper at S59 NA Advanced Central - Regular Season (2026-10-07) 1.43; beat Demolition at S58 NA Advanced Central - Regular Season (2026-08-27) 1.27; beat academy 4 gifted children at S58 NA Advanced Central - Regular Season (2026-08-12) 1.13
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +484.2 |
-| M80 | 2 | 3081.4 | +477.4 |
-| SportsBetExpert | 6 | 2671.6 | +476.9 |
-| Wildcard | 3 | 2911.9 | +472.0 |
-| Liquid | 1 | 3103.3 | +470.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| makeSHIFT | 85 | 1764.1 | +0.7 | +140.2 |
+| Orbit | 84 | 1765.3 | +1.9 | +130.7 |
+| Sound of Arthritis | 83 | 1766.7 | +3.3 | +134.4 |
+| firesale | 82 | 1768.2 | +4.8 | +141.8 |
+| Over 30 | 81 | 1771.5 | +8.1 | +141.8 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Olympus | 25 | +276.2 | +247.1 | +18.4 |
+| Automatic HQ | 27 | +267.4 | +255.8 | +16.5 |
+| duck crew | 23 | +332.6 | +221.6 | +12.7 |
+| VOID ALUNE | 29 | +244.4 | +196.9 | +11.8 |
+| Hairy Scary Bandits | 32 | +236.0 | +233.9 | +10.4 |
+| Chicken Coop | 33 | +234.8 | +262.5 | +10.0 |
+| Festina Lente | 24 | +279.4 | +206.8 | +9.7 |
+| Holly Molly | 35 | +225.0 | +219.6 | +7.2 |
+| EMPIRE | 36 | +220.2 | +241.8 | +6.1 |
+| babaG | 28 | +245.3 | +247.9 | +5.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +470.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0).
 
@@ -64,17 +81,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-27 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.27 | 0.19 | 1.27 | +3.2 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
 | 2026-08-26 | dice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.21 | 0.00 | +63.8 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
 | 2026-08-25 | Wanted Goons | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 0.00 | 0.00 | -74.2 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
-| 2026-08-20 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.45 | 1.00 | 1.20 | 0.00 | 0.00 | -161.1 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
+| 2026-08-20 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.45 | 1.00 | 1.20 | 0.00 | 0.00 | -161.2 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
 | 2026-08-13 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.14 | 0.00 | 0.00 | -61.8 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
-| 2026-08-12 | academy 4 gifted children | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.34 | 1.13 | +212.3 | PRO_stitutk4, bbukaa, fimozya, hysssteria, metallica |
+| 2026-08-12 | academy 4 gifted children | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.34 | 1.13 | +212.4 | PRO_stitutk4, bbukaa, fimozya, hysssteria, metallica |
 | 2026-08-05 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.05 | 1.06 | +1.1 | fimozya, fuzenko, hysssteria, jertva_sisek, metallica |
-| 2026-07-31 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.17 | 1.01 | +253.4 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
+| 2026-07-31 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.17 | 1.01 | +253.5 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
 | 2026-07-29 | Holly Molly | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.19 | 0.99 | +161.6 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
 | 2026-07-24 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.00 | 0.00 | -54.1 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
 | 2026-07-22 | Xiaoma Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -153.6 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
 | 2026-07-17 | Holy Squid Empire | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -348.7 | bbukaa, fimozya, fuzenko, hysssteria, metallica |
-| 2026-06-04 | Road2Kato2034 | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.00 | 0.33 | +108.4 | H0NeST, fimozya, fuzenko, hysssteria, metallica |
-| 2026-06-02 | dice | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.05 | 0.32 | +54.2 | H0NeST, fuzenko, hysssteria, metallica, u6ah |
+| 2026-06-04 | Road2Kato2034 | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.00 | 0.33 | +108.5 | H0NeST, fimozya, fuzenko, hysssteria, metallica |
+| 2026-06-02 | dice | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.05 | 0.32 | +54.1 | H0NeST, fuzenko, hysssteria, metallica, u6ah |
 | 2026-05-31 | FoxtrotAlpha | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.00 | 0.30 | +155.5 | H0NeST, fimozya, fuzenko, metallica, u6ah |
 | 2026-05-29 | Sharp | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.04 | 0.29 | +299.7 | H0NeST, fimozya, fuzenko, hysssteria, metallica |
 

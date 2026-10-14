@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.072 vs 0.110 average
 - Quality Wins drivers: beat ASCEND at S58 NA Open9-10 East - Playoffs B (2026-09-10) 0.15; beat After Peak at S59 NA Intermediate A - Regular Season (2026-10-07) 0.09; beat Samantha 4 at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07
 - Opponent Network drivers: beat ClanAgain at S58 NA Open9-10 East - Playoffs B (2026-09-12) 1.02; beat ASCEND at S58 NA Open9-10 East - Playoffs B (2026-09-10) 1.01; beat After Peak at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +435.2 |
-| SportsBetExpert | 6 | 2671.6 | +433.0 |
-| M80 | 2 | 3081.4 | +426.8 |
-| Wildcard | 3 | 2911.9 | +423.4 |
-| LAG Gaming | 8 | 2507.4 | +422.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| ASYCS KITTENS | 154 | 1569.5 | +2.8 | +123.3 |
+| MINDTRIP | 153 | 1569.7 | +3.0 | +120.1 |
+| Celestial Esports | 152 | 1574.5 | +7.8 | +130.7 |
+| Biggie Cheese Fan Club | 151 | 1576.6 | +9.9 | +125.5 |
+| UsingCodefArt25atSCL | 150 | 1577.8 | +11.1 | +130.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Swole Patrol | 45 | +347.6 | +206.6 | +23.4 |
+| Xiaoma Gaming | 46 | +344.7 | +275.3 | +22.1 |
+| FLOW STATE | 47 | +330.7 | +257.6 | +21.8 |
+| No Future Lifes Over | 50 | +320.4 | +233.1 | +21.5 |
+| DESPAIR | 49 | +322.0 | +233.4 | +21.3 |
+| TheMotherLovers | 53 | +311.2 | +238.9 | +20.6 |
+| Phantom Sense | 51 | +317.0 | +281.7 | +20.5 |
+| Omen Esports | 57 | +291.1 | +248.9 | +17.8 |
+| GG | 52 | +314.7 | +197.4 | +16.0 |
+| flat earth | 64 | +259.8 | +220.2 | +14.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +420.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 
@@ -56,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | After Peak | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.09 | 1.00 | +0.9 | -DacS-, RavensBOSS, Tr1ck, dirtydan, ronin7 |
 | 2026-09-15 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -76.6 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-12 | ClanAgain | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.07 | 1.02 | +78.2 | LightPat, LoneStarrr, TrueRedux, dirtydan, ronin7 |
-| 2026-09-10 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.15 | 1.01 | +93.8 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
+| 2026-09-10 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.15 | 1.01 | +93.9 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-06 | Afterimage | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.00 | 0.00 | -130.4 | -DacS-, dirtydan, kDuffy, kryph, ronin7 |
 | 2026-09-04 | WhiteWASHED | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +113.3 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-02 | Bone Smokers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +117.8 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |

@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.270 vs 0.353 aver
 - Quality Wins drivers: beat Mongolian Tractor at S58 NA Open9-10 West - Playoffs (2026-09-10) 0.08; beat The Kerbins at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07; beat No pain No aim at S58 NA Open9-10 West - Playoffs (2026-09-04) 0.04
 - Opponent Network drivers: beat Mongolian Tractor at S58 NA Open9-10 West - Playoffs (2026-09-10) 1.07; beat No pain No aim at S58 NA Open9-10 West - Playoffs (2026-09-04) 1.03; beat Zero Remorse at S58 NA Open9-10 West - Playoffs (2026-09-02) 1.01
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +277.1 |
-| SportsBetExpert | 6 | 2671.6 | +276.5 |
-| LAG Gaming | 8 | 2507.4 | +271.9 |
-| M80 | 2 | 3081.4 | +271.3 |
-| Wildcard | 3 | 2911.9 | +269.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| HiveMind | 214 | 1456.6 | +4.9 | +92.5 |
+| Nomadic Tactics | 213 | 1456.6 | +4.9 | +84.6 |
+| FlockMunchers | 212 | 1459.1 | +7.4 | +96.7 |
+| Veniversum | 211 | 1459.4 | +7.7 | +96.8 |
+| Kings Gambit | 210 | 1461.9 | +10.2 | +94.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| GeneticDiff | 70 | +341.2 | +165.8 | +15.6 |
+| Asoka | 74 | +331.6 | +154.4 | +15.3 |
+| fih hou | 73 | +334.0 | +173.1 | +15.2 |
+| Kairo | 79 | +327.2 | +151.8 | +15.1 |
+| Club 333 | 76 | +330.5 | +188.2 | +14.9 |
+| firesale | 82 | +316.5 | +162.7 | +14.7 |
+| mas paspas | 75 | +331.2 | +180.4 | +14.5 |
+| Diggers | 86 | +311.7 | +145.7 | +14.4 |
+| CNCS Last Hope | 72 | +336.9 | +137.2 | +14.4 |
+| Overtake Sector | 89 | +299.1 | +191.7 | +13.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +267.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -55,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +168.9 | DavyG, JCIV, MTL_, YRV, noostie |
 | 2026-09-12 | COGNITIVE | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.09 | 0.00 | 0.00 | -119.1 | DavyG, MTL_, The_Cam3l, YRV, santanamolly |
 | 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.08 | 1.07 | +96.1 | DavyG, EndMeThx, JCIV, MTL_, YRV |
-| 2026-09-06 | RH Help Desk | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.00 | 0.00 | -147.3 | DavyG, EndMeThx, MTL_, The_Cam3l, YRV |
+| 2026-09-06 | RH Help Desk | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.00 | 0.00 | -147.4 | DavyG, EndMeThx, MTL_, The_Cam3l, YRV |
 | 2026-09-04 | No pain No aim | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.04 | 1.03 | +91.8 | DavyG, EndMeThx, JCIV, The_Cam3l, YRV |
 | 2026-09-02 | Zero Remorse | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.04 | 1.01 | +131.7 | JCIV, MTL_, The_Cam3l, YRV, noostie |
 

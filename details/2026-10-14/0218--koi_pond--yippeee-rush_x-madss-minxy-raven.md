@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.062 vs 0.022 average,
 - Quality Wins drivers: beat Axial at Brace For Impact: NA Women's Cash Cup August 2026 (2026-08-16) 0.43; beat NYX at Brace For Impact: NA Women's Cash Cup September 2026 (2026-09-20) 0.13; beat NYX at Brace For Impact: NA Women's Cash Cup August 2026 (2026-08-16) 0.10
 - Opponent Network drivers: beat Suboptimal counterstrike at Brace For Impact: NA Women's Cash Cup September 2026 (2026-09-20) 1.00; beat Belladonna at Brace For Impact: NA Women's Cash Cup September 2026 (2026-09-20) 1.00; beat Team Canada CS2 at S58 NA Open9-10 East - Playoffs B (2026-09-08) 0.99
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +481.0 |
-| SportsBetExpert | 6 | 2671.6 | +479.6 |
-| M80 | 2 | 3081.4 | +471.2 |
-| LAG Gaming | 8 | 2507.4 | +470.6 |
-| Wildcard | 3 | 2911.9 | +467.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| VARTOVIK | 217 | 1449.9 | +3.9 | +143.4 |
+| GOYPEEKING | 216 | 1450.0 | +4.0 | +136.1 |
+| Defaulting | 215 | 1451.7 | +5.7 | +141.8 |
+| HiveMind | 214 | 1456.6 | +10.6 | +141.4 |
+| Nomadic Tactics | 213 | 1456.6 | +10.6 | +132.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| GeneticDiff | 70 | +346.9 | +264.7 | +25.0 |
+| Asoka | 74 | +337.3 | +246.9 | +24.7 |
+| Kairo | 79 | +332.9 | +242.7 | +24.4 |
+| fih hou | 73 | +339.7 | +274.9 | +24.3 |
+| firesale | 82 | +322.2 | +258.1 | +23.7 |
+| Club 333 | 76 | +336.2 | +297.2 | +23.6 |
+| CNCS Last Hope | 72 | +342.6 | +221.6 | +23.5 |
+| Diggers | 86 | +317.4 | +232.9 | +23.4 |
+| mas paspas | 75 | +336.9 | +285.6 | +23.0 |
+| Fire Nation | 90 | +303.7 | +238.1 | +21.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +465.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -66,6 +83,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-16 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.80 | 1.00 | 1.00 | 0.80 | 0.10 | 0.80 | +46.4 | Fawx, Minxy, Rush_X, Syn, raven |
 | 2026-07-19 | Empressive | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.03 | 0.62 | +8.4 | Minxy, Rush_X, eLane, raven, yippeee |
 | 2026-07-19 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -0.1 | Minxy, Rush_X, eLane, raven, yippeee |
-| 2026-07-19 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.08 | 0.00 | +15.1 | Minxy, Rush_X, eLane, raven, yippeee |
+| 2026-07-19 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.61 | 1.00 | 1.00 | 0.61 | 0.08 | 0.00 | +15.1 | Minxy, Rush_X, eLane, raven, yippeee |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

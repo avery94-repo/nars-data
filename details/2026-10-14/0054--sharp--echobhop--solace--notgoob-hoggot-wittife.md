@@ -13,7 +13,7 @@ Final Rating (1867.8) = Seeded Start (1397.4) + H2H Adjustment (+470.4)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.212 x 1400 = 1397.4
 
-seed_factor 0.212 = 0.25 x Tier Exposure (0.132) + 0.50 x Quality Wins (0.079) + 0.25 x Opponent Network (0.561)
+seed_factor 0.212 = 0.25 x Tier Exposure (0.132) + 0.50 x Quality Wins (0.078) + 0.25 x Opponent Network (0.561)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -26,24 +26,41 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.212 | 1397.4 | - |
 | +30 days | 0.194 | 1371.5 | -25.9 |
-| +60 days | 0.178 | 1349.8 | -47.7 |
-| +90 days | 0.154 | 1315.4 | -82.1 |
+| +60 days | 0.178 | 1349.7 | -47.7 |
+| +90 days | 0.154 | 1315.3 | -82.1 |
 
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.079 vs 0.096 average, gap -0.017). Matching that average is worth about 11.9 seed points.
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.078 vs 0.096 average, gap -0.018). Matching that average is worth about 12.6 seed points.
 
 - Tier Exposure drivers: S58 NA Intermediate Central - Playoffs B (2026-09-10) 0.97; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs A (2026-06-02) 0.32
 - Quality Wins drivers: beat Tacos Tiramisu and Lies at S58 NA Intermediate Central - Playoffs B (2026-09-10) 0.22; beat Tacos Tiramisu and Lies at S58 NA Intermediate B - Regular Season (2026-08-11) 0.17; beat Strafe at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.16
 - Opponent Network drivers: beat ABG Esports at S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.96; beat Kevin James Fan Club at S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.94; beat NOVAIR at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.93
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +237.9 |
-| M80 | 2 | 3081.4 | +234.7 |
-| SportsBetExpert | 6 | 2671.6 | +233.9 |
-| Wildcard | 3 | 2911.9 | +232.0 |
-| Liquid | 1 | 3103.3 | +231.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| TheMotherLovers | 53 | 1877.9 | +10.1 | +85.3 |
+| GG | 52 | 1881.4 | +13.6 | +75.4 |
+| Phantom Sense | 51 | 1883.7 | +15.9 | +94.5 |
+| No Future Lifes Over | 50 | 1887.1 | +19.3 | +85.0 |
+| DESPAIR | 49 | 1888.7 | +20.9 | +85.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Brahmas | 14 | +339.6 | +132.2 | +14.0 |
+| Old Meta | 15 | +308.3 | +154.4 | +12.3 |
+| NuTorious | 17 | +297.9 | +128.0 | +11.8 |
+| FarmVille | 16 | +299.8 | +169.7 | +11.8 |
+| Villainous | 18 | +292.9 | +166.4 | +11.1 |
+| Iowa Stormboar | 21 | +248.0 | +156.7 | +7.6 |
+| Zomblers | 22 | +246.9 | +157.0 | +7.5 |
+| qcclan | 20 | +278.3 | +136.5 | +6.0 |
+| MASTER ONE | 19 | +291.6 | +132.5 | +5.3 |
+| Hairy Scary Bandits | 32 | +131.6 | +111.6 | -0.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +231.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
 

@@ -3,11 +3,11 @@ Team Name: 3 Feet Of Meat
 Roster: Destiny_Rs, requis, 907doobyyy, SchmidtyP, 6evan
 NARS Rank: 505 of 506
 
-Final Rating: 339.6
+Final Rating: 339.4
 Seeded Start: 1104.0
-H2H Adjustment: -764.4
+H2H Adjustment: -764.6
 
-Final Rating (339.6) = Seeded Start (1104.0) + H2H Adjustment (-764.4)
+Final Rating (339.4) = Seeded Start (1104.0) + H2H Adjustment (-764.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.002 vs 0.103 aver
 - Quality Wins drivers: beat onliners at S57 NA Main Central - Regular Season (2026-04-22) 0.00
 - Opponent Network drivers: beat onliners at S57 NA Main Central - Regular Season (2026-04-22) 0.03
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| North Forge | 38 | 1971.1 | +667.2 |
-| Wanted Goons | 43 | 1933.1 | +667.0 |
-| NRG | 4 | 2835.7 | +664.7 |
-| SportsBetExpert | 6 | 2671.6 | +664.7 |
-| Zomblers | 22 | 2114.7 | +663.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| shirtcockin | 504 | 381.7 | +42.3 | +175.8 |
+| Courage | 503 | 403.9 | +64.5 | +183.2 |
+| SixSevenZaZa | 502 | 459.5 | +120.1 | +202.4 |
+| Shaq Diesel | 501 | 508.6 | +169.2 | +220.2 |
+| After Peak | 500 | 533.6 | +194.2 | +247.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Muncle | 491 | +293.8 | +282.0 | +26.1 |
+| Potential to Stack Dough | 488 | +346.6 | +287.5 | +24.0 |
+| SuperSoakerClub | 493 | +242.2 | +247.6 | +8.8 |
+| Casipanther | 489 | +299.6 | +269.5 | +7.0 |
+| 37U Passion | 490 | +298.0 | +268.9 | +6.8 |
+| we get it back | 494 | +230.8 | +243.3 | +6.3 |
+| Solbound | 496 | +215.6 | +251.4 | +5.7 |
+| Dapper North | 498 | +214.0 | +236.9 | +3.3 |
+| GOMI dot CLUB | 492 | +265.7 | +256.6 | +0.8 |
+| After Peak | 500 | +194.2 | +247.5 | -0.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs onliners (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
@@ -54,12 +71,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Old Dads Banging | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -329.3 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
+| 2026-05-22 | Old Dads Banging | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -329.4 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
 | 2026-05-20 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -36.4 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
 | 2026-05-15 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -3.1 | 6evan, 907doobyyy, Destiny_Rs, Polarrberry, SchmidtyP |
 | 2026-05-13 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -9.6 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
 | 2026-05-09 | Old Meta | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -1.6 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
-| 2026-05-08 | Entertainment Cheese | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -257.1 | 6evan, 907doobyyy, SchmidtyP, Stinza, requis |
+| 2026-05-08 | Entertainment Cheese | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -257.2 | 6evan, 907doobyyy, SchmidtyP, Stinza, requis |
 | 2026-05-01 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -364.3 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
 | 2026-04-22 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +237.0 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |
 

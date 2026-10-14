@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.070 average
 - Quality Wins drivers: beat NYX at S58 NA Main A - Regular Season (2026-08-28) 0.11; beat Wiggle Peeks at S58 NA Main A - Regular Season (2026-07-31) 0.08; beat in for Blood at S58 NA Main A - Regular Season (2026-07-24) 0.06
 - Opponent Network drivers: beat NYX at S58 NA Main A - Regular Season (2026-08-28) 0.90; beat Sleepers at S58 NA Main A - Regular Season (2026-08-21) 0.85; beat Specter Esports at S58 NA Main A - Regular Season (2026-08-19) 0.84
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +354.6 |
-| SportsBetExpert | 6 | 2671.6 | +354.5 |
-| Zomblers | 22 | 2114.7 | +351.8 |
-| regain | 12 | 2256.1 | +351.6 |
-| North Forge | 38 | 1971.1 | +350.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Kodaks Lettuce | 418 | 1011.4 | +8.6 | +108.8 |
+| Mace Lindu Ruff Rebound | 417 | 1017.3 | +14.5 | +108.0 |
+| HigherEducation | 416 | 1017.5 | +14.7 | +104.3 |
+| Boomhogs 2 | 415 | 1021.7 | +18.9 | +105.1 |
+| MakeYouSayLate | 414 | 1026.9 | +24.1 | +113.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| PASSION | 269 | +346.6 | +209.3 | +19.4 |
+| Saltcrew | 276 | +318.0 | +185.8 | +18.0 |
+| Chopped | 277 | +317.0 | +203.8 | +17.8 |
+| Demolition | 279 | +313.2 | +185.1 | +17.6 |
+| Adria eSports | 281 | +311.4 | +210.1 | +17.3 |
+| ItAintOverYet | 284 | +299.8 | +178.9 | +16.6 |
+| Entertainment Cheese | 285 | +298.0 | +198.2 | +16.3 |
+| Midwest Farmers | 286 | +293.5 | +195.6 | +15.9 |
+| the dragon warrior scroll | 268 | +348.6 | +172.3 | +15.6 |
+| Imperium | 283 | +302.7 | +163.4 | +15.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +342.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.6), 3 Feet Of Meat (+1.3), shirtcockin (+1.9).
 
@@ -69,17 +86,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -34.2 | BentIie, MOD8sf, acekr, estrojin, zr0 |
 | 2026-08-05 | REPORT MASSIVE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -62.3 | BentIie, MOD8sf, acekr, estrojin, zr0 |
 | 2026-07-31 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.08 | 0.71 | +149.9 | MOD8sf, acekr, estrojin, timotheon, zr0 |
-| 2026-07-29 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -195.5 | BentIie, acekr, estrojin, soogyum, zr0 |
+| 2026-07-29 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -195.6 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-07-24 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.06 | 0.66 | +20.9 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-07-22 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +132.3 | BentIie, MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-07-17 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -1.8 | BentIie, MOD8sf, acekr, soogyum, zr0 |
 | 2026-07-15 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -161.6 | acekr, estrojin, soogyum, timotheon, zr0 |
 | 2026-05-22 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +12.7 | BentIie, MOD8sf, estrojin, soogyum, zr0 |
-| 2026-05-20 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +23.7 | BentIie, acekr, estrojin, soogyum, zr0 |
+| 2026-05-20 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +23.8 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-05-13 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +0.9 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-05-13 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +5.2 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-05-06 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +415.0 | BentIie, acekr, estrojin, soogyum, zr0 |
-| 2026-05-01 | shirtcockin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -265.9 | SKript269, acekr, estrojin, soogyum, zr0 |
+| 2026-05-01 | shirtcockin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -266.0 | SKript269, acekr, estrojin, soogyum, zr0 |
 | 2026-04-24 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -122.2 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-04-22 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -169.1 | BentIie, MOD8sf, acekr, estrojin, soogyum, zr0 |
 

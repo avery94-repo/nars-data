@@ -5,7 +5,7 @@ NARS Rank: 144 of 506
 
 Final Rating: 1596.7
 Seeded Start: 1206.4
-H2H Adjustment: +390.3
+H2H Adjustment: +390.3 (capped at +-300, raw +390.4)
 
 Final Rating (1596.7) = Seeded Start (1206.4) + H2H Adjustment (+390.3)
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.245 vs 0.330 aver
 - Quality Wins drivers: beat fiveB at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.07; beat PPWesports at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.06; beat T Shirt Material at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.04
 - Opponent Network drivers: beat Vibe Check at S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.96; beat fiveB at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94; beat T Shirt Material at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +600.1 |
-| SportsBetExpert | 6 | 2671.6 | +595.6 |
-| M80 | 2 | 3081.4 | +589.2 |
-| Wildcard | 3 | 2911.9 | +584.0 |
-| Liquid | 1 | 3103.3 | +581.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Los Pollos Hermanos | 143 | 1598.2 | +1.5 | +158.6 |
+| Oath | 142 | 1602.2 | +5.5 | +153.4 |
+| US Navy Esports | 141 | 1605.0 | +8.3 | +154.2 |
+| crescent | 140 | 1608.4 | +11.7 | +158.1 |
+| Kaos | 139 | 1610.8 | +14.1 | +159.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Swole Patrol | 45 | +317.6 | +258.2 | +27.5 |
+| Wanted Goons | 43 | +336.4 | +375.1 | +27.4 |
+| Xiaoma Gaming | 46 | +314.7 | +334.5 | +25.9 |
+| FLOW STATE | 47 | +300.7 | +313.1 | +24.7 |
+| No Future Lifes Over | 50 | +290.4 | +285.0 | +23.6 |
+| DESPAIR | 49 | +292.0 | +285.6 | +23.5 |
+| Zealous | 42 | +344.9 | +266.2 | +23.2 |
+| Phantom Sense | 51 | +287.0 | +336.8 | +22.5 |
+| TheMotherLovers | 53 | +281.2 | +290.2 | +21.9 |
+| Locally Hated | 41 | +349.8 | +332.8 | +19.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +581.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 

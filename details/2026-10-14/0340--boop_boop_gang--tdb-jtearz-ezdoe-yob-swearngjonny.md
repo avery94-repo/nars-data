@@ -4,14 +4,14 @@ Roster: tdb, Jtearz, ezdoe, yob, SWEARNGJONNY
 NARS Rank: 340 of 506
 
 Final Rating: 1195.6
-Seeded Start: 1165.5
-H2H Adjustment: +30.1
+Seeded Start: 1165.4
+H2H Adjustment: +30.2
 
-Final Rating (1195.6) = Seeded Start (1165.5) + H2H Adjustment (+30.1)
+Final Rating (1195.6) = Seeded Start (1165.4) + H2H Adjustment (+30.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.047 x 1400 = 1165.5
+                = 1100 + 0.047 x 1400 = 1165.4
 
 seed_factor 0.047 = 0.25 x Tier Exposure (0.083) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.096)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.047 | 1165.5 | - |
+| Now | 0.047 | 1165.4 | - |
 | +30 days | 0.039 | 1154.0 | -11.4 |
 | +60 days | 0.034 | 1147.2 | -18.3 |
 | +90 days | 0.034 | 1147.3 | -18.2 |
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.096 vs 0.267 aver
 - Quality Wins drivers: beat GameBangers at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.03; beat DadDick Esports at S57 NA Open9-10 Central - Playoffs B (2026-05-29) 0.03; beat Diablo at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.00
 - Opponent Network drivers: beat GameBangers at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.94; beat DadDick Esports at S57 NA Open9-10 Central - Playoffs B (2026-05-29) 0.28; beat Diablo at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.26
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +472.8 |
-| SportsBetExpert | 6 | 2671.6 | +472.5 |
-| LAG Gaming | 8 | 2507.4 | +466.1 |
-| regain | 12 | 2256.1 | +465.1 |
-| M80 | 2 | 3081.4 | +462.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Kennesaw State Gold 2025 | 339 | 1195.9 | +0.3 | +127.0 |
+| Braindead | 338 | 1199.3 | +3.7 | +127.9 |
+| MONARCH | 337 | 1200.8 | +5.2 | +139.0 |
+| Stubbys | 336 | 1201.2 | +5.6 | +128.3 |
+| TEMPR | 335 | 1202.7 | +7.1 | +128.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| offBalance | 165 | +346.7 | +249.0 | +24.9 |
+| BucketJonsBoys | 172 | +337.5 | +241.2 | +24.4 |
+| Pug Palace | 167 | +340.2 | +253.1 | +24.2 |
+| Firstwave | 175 | +331.4 | +240.4 | +23.9 |
+| Shaboing Boing Bandits | 173 | +335.0 | +263.6 | +23.8 |
+| Armored Talent | 174 | +334.2 | +270.0 | +23.6 |
+| APEX | 176 | +326.3 | +247.1 | +23.4 |
+| GOOZPEEK | 182 | +317.5 | +251.8 | +22.6 |
+| LAF | 183 | +315.7 | +240.2 | +22.6 |
+| KIS | 185 | +311.0 | +226.4 | +22.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +456.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.4), Courage (+0.5), SixSevenZaZa (+0.9).
 

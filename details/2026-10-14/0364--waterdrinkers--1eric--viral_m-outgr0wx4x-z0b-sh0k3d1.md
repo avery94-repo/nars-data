@@ -3,11 +3,11 @@ Team Name: WaterDrinkers
 Roster: 1eric-, viral_m, OuTGr0Wx4x, Z0b, Sh0k3d1
 NARS Rank: 364 of 506
 
-Final Rating: 1146.2
+Final Rating: 1146.1
 Seeded Start: 1345.0
-H2H Adjustment: -198.8
+H2H Adjustment: -198.9
 
-Final Rating (1146.2) = Seeded Start (1345.0) + H2H Adjustment (-198.8)
+Final Rating (1146.1) = Seeded Start (1345.0) + H2H Adjustment (-198.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.043 vs 0.021 average,
 - Quality Wins drivers: beat Epochal Esports at S58 NA Intermediate A - Regular Season (2026-08-28) 0.14; beat Goyim Gladiators at S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.10; beat Torii at S58 NA Intermediate A - Regular Season (2026-08-05) 0.08
 - Opponent Network drivers: beat Bald at S58 NA Intermediate Central - Playoffs A (2026-09-11) 0.98; beat Dynasty at S58 NA Intermediate Central - Playoffs A (2026-09-09) 0.96; beat QUPMANACS at S58 NA Intermediate Central - Playoffs A (2026-09-06) 0.94
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +319.7 |
-| SportsBetExpert | 6 | 2671.6 | +319.6 |
-| regain | 12 | 2256.1 | +315.9 |
-| LAG Gaming | 8 | 2507.4 | +315.5 |
-| Zomblers | 22 | 2114.7 | +314.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| OnThaGear | 363 | 1146.4 | +0.3 | +103.2 |
+| Temple of Swing | 362 | 1147.4 | +1.3 | +100.2 |
+| MINDTRIP | 361 | 1149.6 | +3.5 | +102.4 |
+| Aers Money Crew | 360 | 1153.2 | +7.1 | +101.8 |
+| Macs Snacks | 359 | 1153.9 | +7.8 | +100.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| ClanAgain | 195 | +347.2 | +171.8 | +18.1 |
+| ABG Esports | 196 | +342.6 | +193.7 | +17.8 |
+| O Fire | 198 | +342.4 | +200.0 | +17.4 |
+| GRIT | 201 | +335.0 | +166.1 | +17.3 |
+| Bad Jawn | 200 | +336.0 | +196.8 | +17.2 |
+| noname | 208 | +321.2 | +180.7 | +16.7 |
+| Kings Gambit | 210 | +315.8 | +181.9 | +16.3 |
+| AscendentEsport | 207 | +321.7 | +196.1 | +16.2 |
+| Veniversum | 211 | +313.3 | +193.2 | +16.0 |
+| FlockMunchers | 212 | +313.0 | +193.2 | +16.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +308.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 
@@ -74,16 +91,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.03 | 0.68 | +209.1 | ItsKickz, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-07-24 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -20.6 | ItsKickz, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-07-22 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -169.7 | ItsKickz, Sh0k3d1, Z0b, lazogod, viral_m |
-| 2026-06-05 | Diamond Mental | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -219.5 | 1eric-, ItsKickz, Sh0k3d1, Z0b, viral_m |
+| 2026-06-05 | Diamond Mental | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -219.6 | 1eric-, ItsKickz, Sh0k3d1, Z0b, viral_m |
 | 2026-05-31 | AURA Esports | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.04 | 0.29 | +159.6 | 1eric-, ItsKickz, Sh0k3d1, Z0b, viral_m |
-| 2026-05-29 | MINDTRIP | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -101.3 | 1eric-, ItsKickz, Sh0k3d1, Z0b, viral_m |
+| 2026-05-29 | MINDTRIP | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -101.2 | 1eric-, ItsKickz, Sh0k3d1, Z0b, viral_m |
 | 2026-05-27 | Lan Bears | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +158.3 | 1eric-, ItsKickz, Sh0k3d1, Z0b, viral_m |
 | 2026-05-22 | RunTheDamnBall | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.03 | 0.23 | +348.8 | 1eric-, ItsKickz, Sh0k3d1, Z0b, viral_m |
 | 2026-05-20 | EZ2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -186.9 | 1eric-, ItsKickz, Sh0k3d1, Z0b, viral_m |
 | 2026-05-13 | NOVAIR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -289.6 | 1eric-, OuTGr0Wx4x, Tobogo, Z0b, viral_m |
 | 2026-05-08 | Relativity | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -27.7 | ItsKickz, OuTGr0Wx4x, Tobogo, Z0b, viral_m |
-| 2026-05-06 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -227.2 | 1eric-, ItsKickz, OuTGr0Wx4x, Z0b, viral_m |
-| 2026-05-01 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +234.5 | ItsKickz, OuTGr0Wx4x, Z0b, extt-, viral_m |
+| 2026-05-06 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -227.3 | 1eric-, ItsKickz, OuTGr0Wx4x, Z0b, viral_m |
+| 2026-05-01 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +234.6 | ItsKickz, OuTGr0Wx4x, Z0b, extt-, viral_m |
 | 2026-04-29 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +3.5 | 1eric-, ItsKickz, OuTGr0Wx4x, Z0b, viral_m |
 | 2026-04-24 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +176.3 | 1eric-, ItsKickz, OuTGr0Wx4x, Z0b, viral_m |
 | 2026-04-22 | offBalance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -233.8 | 1eric-, ItsKickz, OuTGr0Wx4x, Z0b, viral_m |

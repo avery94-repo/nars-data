@@ -3,11 +3,11 @@ Team Name: Once Divine Gaming
 Roster: FearlesBeatl, Saintz, finite, _SnowMan-, ODG_LUSIDD
 NARS Rank: 315 of 506
 
-Final Rating: 1239.9
+Final Rating: 1239.8
 Seeded Start: 1121.7
-H2H Adjustment: +118.2
+H2H Adjustment: +118.1
 
-Final Rating (1239.9) = Seeded Start (1121.7) + H2H Adjustment (+118.2)
+Final Rating (1239.8) = Seeded Start (1121.7) + H2H Adjustment (+118.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.045 vs 0.261 aver
 - Quality Wins drivers: beat Pug Palace at S57 NA Advanced Central - Regular Season (2026-05-19) 0.03; beat House Platypus ESC at S57 NA Advanced Central - Regular Season (2026-05-21) 0.02; beat Baatarz at S57 NA Advanced Central - Regular Season (2026-04-30) 0.00
 - Opponent Network drivers: beat House Platypus ESC at S57 NA Advanced Central - Regular Season (2026-05-21) 0.30; beat Pug Palace at S57 NA Advanced Central - Regular Season (2026-05-19) 0.28; beat Baatarz at S57 NA Advanced Central - Regular Season (2026-04-30) 0.11
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.2 |
-| SportsBetExpert | 6 | 2671.6 | +663.4 |
-| LAG Gaming | 8 | 2507.4 | +653.7 |
-| M80 | 2 | 3081.4 | +650.2 |
-| regain | 12 | 2256.1 | +648.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Baatarz | 314 | 1241.4 | +1.6 | +162.8 |
+| Better at WOT | 313 | 1246.5 | +6.7 | +167.0 |
+| juked | 312 | 1246.5 | +6.7 | +165.9 |
+| Yogaball Frags | 311 | 1246.7 | +6.9 | +164.5 |
+| Mach 10 | 310 | 1246.7 | +6.9 | +164.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Biggie Cheese Fan Club | 151 | +336.8 | +300.0 | +31.9 |
+| Kevin James Fan Club | 148 | +341.1 | +329.2 | +31.7 |
+| WhiteBoyWinter | 155 | +326.9 | +310.0 | +30.6 |
+| offBalance | 165 | +302.5 | +302.5 | +27.4 |
+| Order Zero | 156 | +324.9 | +279.2 | +26.2 |
+| Pug Palace | 167 | +296.0 | +305.9 | +26.1 |
+| BucketJonsBoys | 172 | +293.3 | +293.0 | +26.0 |
+| Shaboing Boing Bandits | 173 | +290.8 | +316.0 | +25.2 |
+| Armored Talent | 174 | +290.0 | +322.5 | +24.9 |
+| Firstwave | 175 | +287.2 | +291.4 | +24.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.4), Courage (+0.5), SixSevenZaZa (+0.8).
 
@@ -58,14 +75,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.00 | -191.2 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
-| 2026-05-21 | House Platypus ESC | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.02 | 0.30 | +133.1 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
-| 2026-05-20 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -184.2 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
-| 2026-05-19 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.03 | 0.28 | +442.4 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
+| 2026-05-22 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.00 | -191.3 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
+| 2026-05-21 | House Platypus ESC | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.02 | 0.30 | +133.2 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
+| 2026-05-20 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -184.3 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
+| 2026-05-19 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.03 | 0.28 | +442.5 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
 | 2026-05-13 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -2.1 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
 | 2026-05-07 | Aspyre | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -26.6 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
-| 2026-05-01 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.00 | -185.6 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
-| 2026-04-30 | Baatarz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.11 | +454.6 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
+| 2026-05-01 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.00 | -185.7 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
+| 2026-04-30 | Baatarz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.11 | +454.7 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
 | 2026-04-28 | Villainous | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.00 | 0.00 | -0.1 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
 | 2026-04-23 | Elisir Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -322.2 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
 

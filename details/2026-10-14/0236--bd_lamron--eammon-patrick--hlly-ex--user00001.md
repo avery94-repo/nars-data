@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.156 vs 0.361 aver
 - Quality Wins drivers: beat The Coop at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.03; beat Team Vyron at S58 NA Open1-8 Central - Playoffs (2026-09-03) 0.03; beat awesomenauts at S57 NA Open1-8 Central - Playoffs (2026-05-28) 0.01
 - Opponent Network drivers: beat The Coop at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.93; beat Team Vyron at S58 NA Open1-8 Central - Playoffs (2026-09-03) 0.92; beat awesomenauts at S57 NA Open1-8 Central - Playoffs (2026-05-28) 0.27
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +663.4 |
-| SportsBetExpert | 6 | 2671.6 | +661.4 |
-| M80 | 2 | 3081.4 | +650.0 |
-| LAG Gaming | 8 | 2507.4 | +648.8 |
-| Wildcard | 3 | 2911.9 | +645.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| YHTR | 235 | 1413.7 | +4.1 | +173.2 |
+| UnitedStatesArmy Esports | 234 | 1419.2 | +9.6 | +169.6 |
+| The Skins | 233 | 1419.7 | +10.1 | +165.5 |
+| Backshot Gaming | 232 | 1420.2 | +10.6 | +165.6 |
+| skebob | 231 | 1420.7 | +11.1 | +165.8 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Fire Nation | 90 | +340.1 | +320.8 | +31.8 |
+| Fathom Gaming | 91 | +335.7 | +313.9 | +31.7 |
+| Overtake Sector | 89 | +341.2 | +403.1 | +29.8 |
+| Green Grove Retirement | 94 | +319.0 | +327.0 | +29.3 |
+| NineFlyeSports | 96 | +315.5 | +337.1 | +29.1 |
+| PROFECO | 87 | +345.5 | +287.1 | +29.0 |
+| Elusive | 93 | +322.0 | +362.1 | +28.9 |
+| FlyQuest RED | 97 | +311.1 | +346.8 | +27.1 |
+| Axial | 101 | +296.8 | +301.9 | +26.1 |
+| Addice | 102 | +292.9 | +342.2 | +24.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 

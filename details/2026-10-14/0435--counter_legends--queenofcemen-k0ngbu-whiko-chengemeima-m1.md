@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.007 vs 0.106 aver
 - Quality Wins drivers: beat in for Blood at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.01; beat Exnitas at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.00
 - Opponent Network drivers: beat in for Blood at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.08; beat Exnitas at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.03
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.4 |
-| Zomblers | 22 | 2114.7 | +658.7 |
-| regain | 12 | 2256.1 | +658.7 |
-| FarmVille | 16 | 2167.6 | +656.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| The Bobs | 434 | 946.1 | +4.6 | +163.8 |
+| The Homies | 433 | 954.0 | +12.5 | +166.2 |
+| Seven ate Nine | 432 | 955.9 | +14.4 | +166.8 |
+| Suboptimal counterstrike | 431 | 961.8 | +20.3 | +174.0 |
+| REPORT MASSIVE | 430 | 963.0 | +21.5 | +169.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Cream Team | 293 | +340.9 | +302.8 | +32.3 |
+| Resurgence | 290 | +342.1 | +321.9 | +32.0 |
+| COGNITIVE | 295 | +337.6 | +315.3 | +31.7 |
+| 55TH ST | 288 | +349.8 | +354.4 | +31.7 |
+| Tractors | 292 | +341.5 | +338.8 | +31.5 |
+| NATIONAL CS UNI | 301 | +324.6 | +313.5 | +30.3 |
+| Mud Wizards | 298 | +328.5 | +345.7 | +29.9 |
+| DingTone | 302 | +322.3 | +322.0 | +29.4 |
+| Guangzhou Loong Lions | 304 | +318.4 | +312.6 | +29.1 |
+| Team Nyx | 307 | +311.7 | +307.0 | +28.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+2.0).
 
@@ -58,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-06 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -3.8 | Llok6, M1ng, bluebxrry, chengemeima, whiko |
-| 2026-05-01 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -409.9 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
+| 2026-05-01 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -410.0 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
 | 2026-04-29 | in for Blood | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +146.7 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
 | 2026-04-24 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -214.2 | M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |
 | 2026-04-22 | Exnitas | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +318.4 | Llok6, M1ng, Queenofcemen, chengemeima, k0nGbu, whiko |

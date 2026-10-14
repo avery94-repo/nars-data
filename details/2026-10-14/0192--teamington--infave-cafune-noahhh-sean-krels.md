@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.192 | 1368.8 | - |
 | +30 days | 0.175 | 1345.0 | -23.8 |
 | +60 days | 0.157 | 1320.1 | -48.7 |
-| +90 days | 0.127 | 1277.8 | -91.0 |
+| +90 days | 0.127 | 1277.7 | -91.1 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.056 vs 0.025 average, gap +0.031). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.056 vs 0.025 average,
 - Quality Wins drivers: beat Tractors at S59 NA Main A - Regular Season (2026-10-07) 0.20; beat ThirdSite at S58 NA Main A - Regular Season (2026-07-15) 0.14; beat Wiggle Peeks at S58 NA Main Central - Playoffs A (2026-09-06) 0.11
 - Opponent Network drivers: beat Tractors at S59 NA Main A - Regular Season (2026-10-07) 1.02; beat Wiggle Peeks at S58 NA Main Central - Playoffs A (2026-09-06) 0.98; beat TEMPR at S58 NA Main Central - Playoffs A (2026-09-02) 0.95
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +409.0 |
-| SportsBetExpert | 6 | 2671.6 | +407.6 |
-| M80 | 2 | 3081.4 | +400.8 |
-| LAG Gaming | 8 | 2507.4 | +399.5 |
-| Wildcard | 3 | 2911.9 | +397.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| UncsStillGotIt | 191 | 1499.3 | +1.2 | +127.9 |
+| No Leaders Please | 190 | 1499.4 | +1.3 | +125.5 |
+| Lynnsanity | 189 | 1500.0 | +1.9 | +125.6 |
+| mokey mokey | 188 | 1503.7 | +5.6 | +115.2 |
+| Vibe Check | 187 | 1503.9 | +5.8 | +122.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| flat earth | 64 | +328.4 | +232.9 | +21.2 |
+| Endless Esports | 65 | +327.9 | +234.9 | +21.1 |
+| DUMBO | 63 | +329.0 | +258.6 | +20.2 |
+| NZ Gaming | 69 | +315.1 | +214.0 | +20.1 |
+| WhalersOnDaMoon | 66 | +323.7 | +238.1 | +20.0 |
+| GeneticDiff | 70 | +294.8 | +215.9 | +18.1 |
+| fih hou | 73 | +287.6 | +223.7 | +17.2 |
+| Asoka | 74 | +285.2 | +201.7 | +17.0 |
+| F5 Esports | 60 | +337.2 | +246.5 | +16.8 |
+| Club 333 | 76 | +284.1 | +240.8 | +16.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +395.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -61,8 +78,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Wiggle Peeks | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.11 | 0.98 | +5.2 | Krels, Renim, SEAN, blegh, infave |
 | 2026-09-04 | Wolves | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.00 | 0.00 | -15.9 | Noahhh, Renim, SEAN, blegh, infave |
 | 2026-09-02 | TEMPR | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.03 | 1.00 | 0.95 | 0.07 | 0.95 | +22.7 | Noahhh, Renim, SEAN, blegh, infave |
-| 2026-08-28 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.10 | 0.90 | +70.1 | Krels, Noahhh, Renim, SEAN, blegh |
-| 2026-08-26 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -97.8 | Noahhh, Renim, SEAN, blegh, infave |
+| 2026-08-28 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.10 | 0.90 | +70.2 | Krels, Noahhh, Renim, SEAN, blegh |
+| 2026-08-26 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -97.9 | Noahhh, Renim, SEAN, blegh, infave |
 | 2026-08-21 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.07 | 0.85 | +82.4 | Noahhh, Renim, SEAN, blegh, infave |
 | 2026-08-20 | Resurgence | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -90.8 | Noahhh, Renim, SEAN, blegh, infave |
 | 2026-08-16 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.02 | 1.00 | 0.82 | 0.07 | 0.82 | +39.4 | Noahhh, Renim, SEAN, blegh, infave |
@@ -72,13 +89,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.05 | 0.66 | +0.0 | --toasty, Krels, Noahhh, SEAN, infave |
 | 2026-07-17 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +134.0 | --toasty, Krels, OJISBAE, SEAN, infave |
 | 2026-07-15 | ThirdSite | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.14 | 0.60 | +0.6 | --toasty, Krels, Noahhh, SEAN, phamzyy |
-| 2026-06-04 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -104.4 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
+| 2026-06-04 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -104.5 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
 | 2026-05-31 | Skyline | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -140.0 | Krels, SEAN, cafune, infave, phamzyy |
 | 2026-05-29 | 5Frag Gaming | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.05 | 0.34 | +43.9 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
-| 2026-05-20 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -278.1 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-20 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -278.2 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-19 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.02 | 0.24 | +281.5 | Krels, SEAN, cafune, infave, phamzyy |
-| 2026-05-15 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +333.5 | Krels, Noahhh, SEAN, cafune, infave |
-| 2026-05-13 | NXG Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -185.5 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-15 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +333.6 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-13 | NXG Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -185.6 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-08 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +50.4 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-06 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +107.4 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-01 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -173.7 | Krels, Noahhh, SEAN, cafune, infave |

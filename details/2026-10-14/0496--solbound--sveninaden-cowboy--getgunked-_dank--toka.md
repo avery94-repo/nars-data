@@ -5,7 +5,7 @@ NARS Rank: 496 of 506
 
 Final Rating: 555.0
 Seeded Start: 1205.4
-H2H Adjustment: -650.4
+H2H Adjustment: -650.4 (capped at +-300, raw -650.5)
 
 Final Rating (555.0) = Seeded Start (1205.4) + H2H Adjustment (-650.4)
 
@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.075 | 1205.4 | - |
 | +30 days | 0.054 | 1176.1 | -29.3 |
-| +60 days | 0.045 | 1163.3 | -42.2 |
-| +90 days | 0.031 | 1143.9 | -61.6 |
+| +60 days | 0.045 | 1163.2 | -42.2 |
+| +90 days | 0.031 | 1143.9 | -61.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.019 vs 0.005 average, gap +0.014). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.019 vs 0.005 average,
 - Quality Wins drivers: beat Epochal Esports at S58 NA Intermediate A - Regular Season (2026-07-31) 0.11; beat dogwater at S58 NA Intermediate A - Regular Season (2026-08-12) 0.08; beat Kings Gambit at S58 NA Intermediate A - Regular Season (2026-07-15) 0.06
 - Opponent Network drivers: beat dogwater at S58 NA Intermediate A - Regular Season (2026-08-12) 0.78; beat Epochal Esports at S58 NA Intermediate A - Regular Season (2026-07-31) 0.70; beat Kings Gambit at S58 NA Intermediate A - Regular Season (2026-07-15) 0.59
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| North Forge | 38 | 1971.1 | +502.3 |
-| Wanted Goons | 43 | 1933.1 | +502.0 |
-| NRG | 4 | 2835.7 | +500.9 |
-| SportsBetExpert | 6 | 2671.6 | +500.9 |
-| Zomblers | 22 | 2114.7 | +500.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| RejexEsports | 495 | 557.8 | +2.8 | +133.3 |
+| we get it back | 494 | 570.2 | +15.2 | +136.5 |
+| SuperSoakerClub | 493 | 581.6 | +26.6 | +139.4 |
+| GOMI dot CLUB | 492 | 605.1 | +50.1 | +145.6 |
+| Muncle | 491 | 633.2 | +78.2 | +158.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Team Deathgrip | 448 | +349.1 | +241.2 | +26.5 |
+| GoopT | 452 | +339.5 | +275.9 | +24.8 |
+| insane players | 453 | +334.7 | +226.4 | +23.7 |
+| girl kissers | 455 | +328.6 | +224.7 | +23.0 |
+| Cadillac F1 eSports Team | 457 | +308.1 | +234.9 | +22.6 |
+| Thrash | 458 | +305.9 | +258.1 | +22.4 |
+| onliners | 456 | +315.2 | +220.9 | +21.6 |
+| Absent Minded | 460 | +290.1 | +234.5 | +20.3 |
+| Remnant | 461 | +281.7 | +233.0 | +19.3 |
+| dogwater | 462 | +280.5 | +263.8 | +18.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +483.4 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs EZ2025 (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
@@ -74,17 +91,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -6.8 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-07-24 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -24.4 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-07-22 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -230.7 | GetGunked, Ghosterize, Tokar, cowboy-, sveninaden |
-| 2026-07-15 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.06 | 0.59 | +399.1 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
-| 2026-05-29 | The Sweepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -135.1 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
-| 2026-05-27 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -305.8 | GetGunked, Ghosterize, Tokar, cowboy-, sveninaden |
+| 2026-07-15 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.06 | 0.59 | +399.2 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
+| 2026-05-29 | The Sweepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -135.2 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
+| 2026-05-27 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -305.9 | GetGunked, Ghosterize, Tokar, cowboy-, sveninaden |
 | 2026-05-22 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +189.8 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
-| 2026-05-15 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -219.6 | -Rasta-, Ghosterize, Tokar, _Dank-, sveninaden |
-| 2026-05-13 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -305.5 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
+| 2026-05-15 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -219.7 | -Rasta-, Ghosterize, Tokar, _Dank-, sveninaden |
+| 2026-05-13 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -305.6 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
 | 2026-05-08 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +6.0 | -Rasta-, GetGunked, Tokar, _Dank-, sveninaden |
 | 2026-05-06 | RunTheDamnBall | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +204.6 | -Rasta-, GetGunked, Tokar, _Dank-, sveninaden |
 | 2026-05-01 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +0.1 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
-| 2026-04-29 | Knight Owls | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +319.2 | Crvdg, GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
-| 2026-04-24 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -218.3 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
+| 2026-04-29 | Knight Owls | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +319.3 | Crvdg, GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
+| 2026-04-24 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -218.4 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
 | 2026-04-22 | EZ2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +247.9 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

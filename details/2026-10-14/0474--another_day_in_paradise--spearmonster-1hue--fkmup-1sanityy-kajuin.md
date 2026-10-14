@@ -3,11 +3,11 @@ Team Name: Another Day in Paradise
 Roster: spearMONSTER, 1Hue-, fkmup, 1Sanityy, Kajuin
 NARS Rank: 474 of 506
 
-Final Rating: 780.4
+Final Rating: 780.3
 Seeded Start: 1105.3
-H2H Adjustment: -324.9
+H2H Adjustment: -325.0
 
-Final Rating (780.4) = Seeded Start (1105.3) + H2H Adjustment (-324.9)
+Final Rating (780.3) = Seeded Start (1105.3) + H2H Adjustment (-325.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.008 vs 0.117 aver
 - Quality Wins drivers: beat Wolves at S57 NA Main Central - Regular Season (2026-04-29) 0.01; beat Old Dads Banging at S57 NA Main Central - Regular Season (2026-04-22) 0.00
 - Opponent Network drivers: beat Wolves at S57 NA Main Central - Regular Season (2026-04-29) 0.09; beat Old Dads Banging at S57 NA Main Central - Regular Season (2026-04-22) 0.03
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.7 |
-| SportsBetExpert | 6 | 2671.6 | +664.6 |
-| North Forge | 38 | 1971.1 | +662.9 |
-| Zomblers | 22 | 2114.7 | +661.8 |
-| Wanted Goons | 43 | 1933.1 | +661.7 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| AML | 473 | 793.6 | +13.3 | +167.5 |
+| Therapist | 472 | 797.4 | +17.1 | +167.7 |
+| CounterStreakrs | 471 | 808.3 | +28.0 | +171.2 |
+| In Our Prime | 470 | 811.1 | +30.8 | +172.1 |
+| Gambling and Young | 469 | 812.8 | +32.5 | +172.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Team Zhao | 373 | +336.1 | +352.0 | +30.5 |
+| Shadow Wizard Money Gang | 376 | +327.5 | +322.8 | +30.4 |
+| Zamgaa Anime Aimers | 378 | +323.8 | +304.5 | +30.4 |
+| Costco Family | 382 | +322.2 | +306.2 | +30.1 |
+| We Play Naked | 380 | +323.0 | +322.2 | +29.9 |
+| Goyim Gladiators | 379 | +323.6 | +333.9 | +29.7 |
+| Texas Orange | 383 | +317.2 | +306.4 | +29.5 |
+| Exnitas | 385 | +312.9 | +292.7 | +29.1 |
+| grogu | 371 | +343.7 | +286.4 | +27.7 |
+| Kahoot Squad | 388 | +302.3 | +294.5 | +27.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs Old Dads Banging (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
@@ -55,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-08 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -366.3 | 1Hue-, 1Sanityy, Kajuin, fkm, spearMONSTER |
+| 2026-05-08 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -366.4 | 1Hue-, 1Sanityy, Kajuin, fkm, spearMONSTER |
 | 2026-05-06 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -67.2 | 1Hue-, 1Sanityy, Kajuin, fkm, spearMONSTER |
 | 2026-05-01 | OnlyFans | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -199.5 | 1Hue-, 1Sanityy, Gasses, fkm, spearMONSTER |
 | 2026-04-29 | Wolves | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +41.6 | 1Hue-, Gasses, _msc, fkm, spearMONSTER |

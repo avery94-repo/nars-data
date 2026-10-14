@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.074 average
 - Quality Wins drivers: beat PASSION at S58 NA Main Central - Playoffs A (2026-09-10) 0.11; beat noname at S58 NA Main Central - Playoffs A (2026-09-08) 0.11; beat Resurgence at S58 NA Main A - Regular Season (2026-08-26) 0.10
 - Opponent Network drivers: beat PASSION at S58 NA Main Central - Playoffs A (2026-09-10) 1.00; beat noname at S58 NA Main Central - Playoffs A (2026-09-08) 0.99; beat Solace at S58 NA Main Central - Playoffs A (2026-09-06) 0.98
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +476.9 |
-| SportsBetExpert | 6 | 2671.6 | +474.8 |
-| M80 | 2 | 3081.4 | +467.6 |
-| Wildcard | 3 | 2911.9 | +463.9 |
-| LAG Gaming | 8 | 2507.4 | +463.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Zenano | 169 | 1535.2 | +0.7 | +128.3 |
+| For Fun Gamers | 168 | 1535.4 | +0.9 | +135.1 |
+| Pug Palace | 167 | 1535.8 | +1.3 | +137.0 |
+| Wuff Widas | 166 | 1539.6 | +5.1 | +134.0 |
+| offBalance | 165 | 1542.3 | +7.8 | +137.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| TheMotherLovers | 53 | +343.4 | +269.3 | +24.5 |
+| Phantom Sense | 51 | +349.2 | +318.9 | +23.6 |
+| Omen Esports | 57 | +323.3 | +281.6 | +22.2 |
+| flat earth | 64 | +292.0 | +249.0 | +20.4 |
+| Endless Esports | 65 | +291.5 | +251.0 | +20.2 |
+| GG | 52 | +346.9 | +221.5 | +19.9 |
+| DUMBO | 63 | +292.6 | +274.4 | +19.6 |
+| WhalersOnDaMoon | 66 | +287.3 | +253.8 | +18.9 |
+| NZ Gaming | 69 | +278.7 | +229.5 | +18.2 |
+| Sharp | 54 | +333.3 | +273.7 | +17.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +461.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -65,19 +82,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-25 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.00 | 0.00 | -25.1 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
 | 2026-08-21 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -110.0 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
 | 2026-08-19 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.07 | 0.84 | +35.6 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
-| 2026-08-11 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.02 | 1.00 | 0.79 | 0.06 | 0.79 | +122.7 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
-| 2026-08-07 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.04 | 0.76 | +208.9 | 1Mazz, DAVEY, ScoobyMoose, salsa_-, tawa |
+| 2026-08-11 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.02 | 1.00 | 0.79 | 0.06 | 0.79 | +122.8 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
+| 2026-08-07 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.04 | 0.76 | +209.0 | 1Mazz, DAVEY, ScoobyMoose, salsa_-, tawa |
 | 2026-08-05 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -153.8 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
 | 2026-07-30 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -2.5 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
 | 2026-07-24 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -3.9 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
 | 2026-07-17 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +35.1 | DAVEY, ScoobyMoose, rock, salsa_-, tawa |
 | 2026-05-22 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +47.0 | 1Mazz, DAVEY, XYoshiZ, salsa_-, tawa |
-| 2026-05-20 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +257.4 | 1Mazz, DAVEY, salsa_-, tawa, zws |
+| 2026-05-20 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +257.5 | 1Mazz, DAVEY, salsa_-, tawa, zws |
 | 2026-05-15 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +128.2 | 1Mazz, DAVEY, XYoshiZ, tawa, zws |
-| 2026-05-14 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +266.5 | 1Mazz, DAVEY, salsa_-, tawa, zws |
-| 2026-05-08 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -270.3 | 1Mazz, DAVEY, salsa_-, tawa, zws |
+| 2026-05-14 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +266.6 | 1Mazz, DAVEY, salsa_-, tawa, zws |
+| 2026-05-08 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -270.4 | 1Mazz, DAVEY, salsa_-, tawa, zws |
 | 2026-05-06 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -203.5 | 1Mazz, DAVEY, salsa_-, tawa, zws |
-| 2026-05-01 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -272.8 | 1Mazz, DAVEY, salsa_-, tawa, zws |
+| 2026-05-01 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -272.9 | 1Mazz, DAVEY, salsa_-, tawa, zws |
 | 2026-04-29 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -184.2 | 1Mazz, DAVEY, salsa_-, tawa, zws |
 | 2026-04-24 | puggin4seb | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +122.3 | 1Mazz, DAVEY, salsa_-, tawa, zws |
 

@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.110 | 1253.5 | - |
 | +30 days | 0.115 | 1261.5 | +8.0 |
-| +60 days | 0.118 | 1264.5 | +11.0 |
+| +60 days | 0.118 | 1264.5 | +11.1 |
 | +90 days | 0.122 | 1271.3 | +17.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.324 vs 0.365 average, gap -0.041). Matching that average is worth about 14.3 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.324 vs 0.365 aver
 - Quality Wins drivers: beat O Fire at S58 NA Open9-10 East - Playoffs B (2026-09-09) 0.13; beat EZ2025 at S59 NA Intermediate A - Regular Season (2026-10-13) 0.09; beat house at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07
 - Opponent Network drivers: beat house at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat EZ2025 at S59 NA Intermediate A - Regular Season (2026-10-13) 1.00; beat O Fire at S58 NA Open9-10 East - Playoffs B (2026-09-09) 1.00
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +235.6 |
-| SportsBetExpert | 6 | 2671.6 | +235.2 |
-| LAG Gaming | 8 | 2507.4 | +231.6 |
-| M80 | 2 | 3081.4 | +230.6 |
-| regain | 12 | 2256.1 | +229.3 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Casual Mature Gamers | 238 | 1405.9 | +0.4 | +84.5 |
+| Fortis Fortuna Adiuvat | 237 | 1406.3 | +0.8 | +80.0 |
+| BD Lamron | 236 | 1409.6 | +4.1 | +72.7 |
+| YHTR | 235 | 1413.7 | +8.2 | +83.6 |
+| UnitedStatesArmy Esports | 234 | 1419.2 | +13.7 | +77.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Fire Nation | 90 | +344.2 | +137.3 | +13.7 |
+| Fathom Gaming | 91 | +339.8 | +134.2 | +13.7 |
+| Overtake Sector | 89 | +345.3 | +177.8 | +13.2 |
+| NineFlyeSports | 96 | +319.6 | +148.2 | +12.9 |
+| Elusive | 93 | +326.1 | +160.2 | +12.9 |
+| Green Grove Retirement | 94 | +323.1 | +142.5 | +12.9 |
+| PROFECO | 87 | +349.6 | +120.2 | +12.2 |
+| FlyQuest RED | 97 | +315.2 | +153.8 | +12.1 |
+| Axial | 101 | +300.9 | +131.7 | +11.6 |
+| Addice | 102 | +297.0 | +154.0 | +11.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +227.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 

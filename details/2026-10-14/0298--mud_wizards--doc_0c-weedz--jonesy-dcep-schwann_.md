@@ -29,21 +29,38 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.058 | 1181.0 | +7.2 |
 | +90 days | 0.061 | 1185.4 | +11.6 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.129 vs 0.300 average, gap -0.171). Matching that average is worth about 59.9 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.129 vs 0.299 average, gap -0.170). Matching that average is worth about 59.5 seed points.
 
 - Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Open9-10 East - Playoffs C (2026-09-10) 0.99
 - Quality Wins drivers: beat Team Zhao at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07; beat Perseverance at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.03
 - Opponent Network drivers: beat Team Zhao at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat Perseverance at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +246.7 |
-| SportsBetExpert | 6 | 2671.6 | +246.6 |
-| LAG Gaming | 8 | 2507.4 | +243.2 |
-| regain | 12 | 2256.1 | +242.8 |
-| M80 | 2 | 3081.4 | +241.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Meepins | 297 | 1271.2 | +1.2 | +76.9 |
+| University of Cincinnati | 296 | 1278.3 | +8.3 | +76.2 |
+| COGNITIVE | 295 | 1279.1 | +9.1 | +82.2 |
+| Dynasty | 294 | 1279.9 | +9.9 | +78.9 |
+| Cream Team | 293 | 1282.4 | +12.4 | +80.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Kaos | 139 | +340.8 | +131.7 | +14.1 |
+| KODEX ESPORTS | 137 | +346.5 | +184.5 | +13.7 |
+| Team Amplus | 145 | +324.2 | +148.9 | +13.4 |
+| Kevin James Fan Club | 148 | +310.9 | +141.4 | +12.8 |
+| Biggie Cheese Fan Club | 151 | +306.6 | +127.5 | +12.5 |
+| WhiteBoyWinter | 155 | +296.7 | +133.1 | +11.9 |
+| offBalance | 165 | +272.3 | +131.0 | +10.0 |
+| Order Zero | 156 | +294.7 | +118.0 | +9.7 |
+| Oath | 142 | +332.2 | +123.1 | +9.5 |
+| Pug Palace | 167 | +265.8 | +133.3 | +9.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +238.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 

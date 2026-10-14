@@ -5,7 +5,7 @@ NARS Rank: 83 of 506
 
 Final Rating: 1766.7
 Seeded Start: 1346.1
-H2H Adjustment: +420.6 (capped at +-300, raw +420.5)
+H2H Adjustment: +420.6
 
 Final Rating (1766.7) = Seeded Start (1346.1) + H2H Adjustment (+420.6)
 
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.176 | 1346.1 | - |
 | +30 days | 0.156 | 1318.9 | -27.2 |
 | +60 days | 0.138 | 1292.7 | -53.4 |
-| +90 days | 0.105 | 1247.2 | -98.9 |
+| +90 days | 0.105 | 1247.2 | -99.0 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.187 average, gap -0.111). Matching that average is worth about 38.8 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.187 average
 - Quality Wins drivers: beat Rejects at S58 NA Intermediate A - Regular Season (2026-08-26) 0.14; beat MadaNASCAR at S58 NA Intermediate A - Regular Season (2026-08-19) 0.12; beat Ninjas In Boxer at S58 NA Intermediate Central - Playoffs A (2026-09-06) 0.11
 - Opponent Network drivers: beat dogwater at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.92; beat QUPMANACS at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat Rejects at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +539.2 |
-| M80 | 2 | 3081.4 | +531.9 |
-| SportsBetExpert | 6 | 2671.6 | +530.1 |
-| Wildcard | 3 | 2911.9 | +525.7 |
-| Liquid | 1 | 3103.3 | +524.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| firesale | 82 | 1768.2 | +1.5 | +151.4 |
+| Over 30 | 81 | 1771.5 | +4.8 | +151.6 |
+| EXODIA | 80 | 1778.2 | +11.5 | +153.3 |
+| Kairo | 79 | 1778.9 | +12.2 | +151.0 |
+| Down To Frag | 78 | 1779.4 | +12.7 | +148.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Zomblers | 22 | +348.0 | +353.9 | +26.2 |
+| Iowa Stormboar | 21 | +349.1 | +353.2 | +26.1 |
+| Olympus | 25 | +272.9 | +266.4 | +19.4 |
+| Automatic HQ | 27 | +264.1 | +275.2 | +17.2 |
+| duck crew | 23 | +329.3 | +241.0 | +13.6 |
+| VOID ALUNE | 29 | +241.1 | +213.4 | +12.1 |
+| Hairy Scary Bandits | 32 | +232.7 | +251.4 | +10.4 |
+| Festina Lente | 24 | +276.1 | +224.4 | +10.0 |
+| Chicken Coop | 33 | +231.5 | +280.7 | +9.9 |
+| Holly Molly | 35 | +221.7 | +236.4 | +6.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +525.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), we get it back (+0.0).
 
@@ -58,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | DUMBO | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -101.8 | UltRaLeX, dAVE, f0bless, xirtaM2, xyphx, zig- |
 | 2026-09-08 | Ubiquiti | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.08 | 0.00 | +0.1 | DeKa_, UltRaLeX, f0bless, xirtaM2, xyphx, zig- |
 | 2026-09-06 | Ninjas In Boxer | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.11 | 0.00 | +2.2 | DeKa_, UltRaLeX, f0bless, xirtaM2, zig- |
-| 2026-09-04 | flat earth | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -66.7 | DeKa_, f0bless, swilLy, xirtaM2, zig- |
+| 2026-09-04 | flat earth | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -66.8 | DeKa_, f0bless, swilLy, xirtaM2, zig- |
 | 2026-09-02 | dogwater | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.10 | 0.92 | +0.0 | DeKa_, UltRaLeX, f0bless, xirtaM2, zig- |
 | 2026-08-26 | QUPMANACS | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.06 | 0.87 | +42.8 | DeKa_, UltRaLeX, f0bless, xirtaM2, zig- |
 | 2026-08-26 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.14 | 0.87 | +25.6 | DeKa_, UltRaLeX, f0bless, xirtaM2, zig- |
@@ -74,7 +91,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +0.2 | SalmO-, f0bless, fabiaN407, xirtaM2, zig- |
 | 2026-07-17 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.07 | 0.60 | +2.8 | SalmO-, f0bless, fabiaN407, swilLy, xirtaM2 |
 | 2026-07-15 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -224.0 | SalmO-, f0bless, fabiaN407, xirtaM2, zig- |
-| 2026-06-05 | MadaNASCAR | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.05 | 0.00 | +175.4 | UltRaLeX, f0bless, fabiaN407, xirtaM2, zig- |
+| 2026-06-05 | MadaNASCAR | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.05 | 0.00 | +175.5 | UltRaLeX, f0bless, fabiaN407, xirtaM2, zig- |
 | 2026-05-29 | Guangzhou Loong Lions | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +156.1 | UltRaLeX, f0bless, fabiaN407, xirtaM2, zig- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

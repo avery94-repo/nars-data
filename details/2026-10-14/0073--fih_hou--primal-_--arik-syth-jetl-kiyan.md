@@ -3,15 +3,15 @@ Team Name: fih hou
 Roster: Primal-_-, arik, syth, JetL, KIYAN
 NARS Rank: 73 of 506
 
-Final Rating: 1785.6
-Seeded Start: 1322.5
+Final Rating: 1785.7
+Seeded Start: 1322.6
 H2H Adjustment: +463.1
 
-Final Rating (1785.6) = Seeded Start (1322.5) + H2H Adjustment (+463.1)
+Final Rating (1785.7) = Seeded Start (1322.6) + H2H Adjustment (+463.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.159 x 1400 = 1322.5
+                = 1100 + 0.159 x 1400 = 1322.6
 
 seed_factor 0.159 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.027) + 0.25 x Opponent Network (0.511)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.159 | 1322.5 | - |
+| Now | 0.159 | 1322.6 | - |
 | +30 days | 0.165 | 1331.1 | +8.6 |
 | +60 days | 0.168 | 1335.5 | +12.9 |
-| +90 days | 0.174 | 1343.4 | +20.9 |
+| +90 days | 0.174 | 1343.5 | +20.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.027 vs 0.077 average, gap -0.050). Matching that average is worth about 35.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.027 vs 0.077 average,
 - Quality Wins drivers: beat Bad Jawn at S59 NA Intermediate A - Regular Season (2026-10-09) 0.08; beat AscendentEsport at S58 NA Open9-10 East - Playoffs A (2026-09-19) 0.07; beat Mud Wizards at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07
 - Opponent Network drivers: beat Mud Wizards at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; beat Bad Jawn at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat Trap Castle at S58 NA Open9-10 East - Playoffs A (2026-09-20) 1.00
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +254.3 |
-| SportsBetExpert | 6 | 2671.6 | +251.4 |
-| M80 | 2 | 3081.4 | +250.2 |
-| Wildcard | 3 | 2911.9 | +247.7 |
-| Liquid | 1 | 3103.3 | +246.7 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| CNCS Last Hope | 72 | 1788.6 | +2.9 | +77.9 |
+| dice | 71 | 1791.6 | +5.9 | +79.4 |
+| GeneticDiff | 70 | 1792.9 | +7.2 | +87.6 |
+| NZ Gaming | 69 | 1813.2 | +27.5 | +89.4 |
+| Whiff City | 68 | 1817.6 | +31.9 | +92.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Zomblers | 22 | +329.0 | +187.2 | +13.8 |
+| Iowa Stormboar | 21 | +330.1 | +186.7 | +13.8 |
+| Olympus | 25 | +253.9 | +142.2 | +8.6 |
+| Automatic HQ | 27 | +245.1 | +148.3 | +7.3 |
+| duck crew | 23 | +310.3 | +124.3 | +6.2 |
+| VOID ALUNE | 29 | +222.1 | +111.5 | +3.7 |
+| Festina Lente | 24 | +257.1 | +116.6 | +3.4 |
+| Hairy Scary Bandits | 32 | +213.7 | +135.9 | +2.6 |
+| Chicken Coop | 33 | +212.5 | +155.1 | +2.4 |
+| raisedbypixels | 26 | +248.7 | +115.4 | +0.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +246.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), Old Dads Banging (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0).
 
@@ -59,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-19 | AscendentEsport | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +55.7 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-18 | Fourth Quarter | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +70.7 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-10 | No Future Lifes Over | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -95.4 | JetL, KIYAN, Primal-_-, arik, syth |
-| 2026-09-08 | VARTOVIK | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.07 | 0.96 | +139.5 | JetL, KIYAN, Primal-_-, arik, syth |
+| 2026-09-08 | VARTOVIK | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.07 | 0.96 | +139.6 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-04 | TELETUBEASTS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.06 | 0.93 | +116.8 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-02 | Boys N The Boat | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +100.7 | JetL, KIYAN, Primal-_-, arik, syth |
 

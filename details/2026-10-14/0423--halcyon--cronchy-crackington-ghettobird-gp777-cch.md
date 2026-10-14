@@ -3,11 +3,11 @@ Team Name: Halcyon
 Roster: cronchy, crackington, ghettobird, gp777, CCHWM_Zim
 NARS Rank: 423 of 506
 
-Final Rating: 993.9
+Final Rating: 993.8
 Seeded Start: 1130.0
-H2H Adjustment: -136.1
+H2H Adjustment: -136.2
 
-Final Rating (993.9) = Seeded Start (1130.0) + H2H Adjustment (-136.1)
+Final Rating (993.8) = Seeded Start (1130.0) + H2H Adjustment (-136.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,21 +29,38 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.007 | 1110.2 | -19.8 |
 | +90 days | 0.007 | 1109.6 | -20.4 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.268 average, gap -0.229). Matching that average is worth about 80.1 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.268 average, gap -0.229). Matching that average is worth about 80.2 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92; S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
 - Quality Wins drivers: beat Team Dainyko at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.01; beat GEDifferent at S57 NA Open9-10 Central - Playoffs B (2026-05-31) 0.00
 - Opponent Network drivers: beat Team Dainyko at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31; beat GEDifferent at S57 NA Open9-10 Central - Playoffs B (2026-05-31) 0.29
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.3 |
-| regain | 12 | 2256.1 | +657.9 |
-| Zomblers | 22 | 2114.7 | +657.0 |
-| LAG Gaming | 8 | 2507.4 | +656.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Atlantis eSports | 422 | 997.5 | +3.7 | +163.4 |
+| Specter Esports | 421 | 999.7 | +5.9 | +164.1 |
+| Strafe | 420 | 1002.2 | +8.4 | +173.2 |
+| puggin4seb | 419 | 1002.8 | +9.0 | +173.4 |
+| Kodaks Lettuce | 418 | 1011.4 | +17.6 | +173.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Saltcrew | 276 | +327.0 | +309.0 | +30.6 |
+| Demolition | 279 | +322.2 | +307.4 | +29.9 |
+| Chopped | 277 | +326.0 | +335.9 | +29.9 |
+| Adria eSports | 281 | +320.4 | +344.5 | +28.9 |
+| ItAintOverYet | 284 | +308.8 | +296.8 | +28.4 |
+| Entertainment Cheese | 285 | +307.0 | +324.9 | +27.6 |
+| Midwest Farmers | 286 | +302.5 | +320.5 | +27.1 |
+| Imperium | 283 | +311.7 | +274.2 | +26.9 |
+| 55TH ST | 288 | +297.5 | +324.1 | +26.2 |
+| Resurgence | 290 | +289.8 | +296.4 | +25.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.2).
 

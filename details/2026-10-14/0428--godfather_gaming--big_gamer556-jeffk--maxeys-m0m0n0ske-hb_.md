@@ -26,24 +26,41 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.022 | 1130.1 | - |
 | +30 days | 0.014 | 1119.1 | -11.0 |
-| +60 days | 0.008 | 1111.0 | -19.2 |
+| +60 days | 0.008 | 1111.0 | -19.1 |
 | +90 days | 0.008 | 1110.6 | -19.5 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.135 average, gap -0.096). Matching that average is worth about 33.6 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.134 average, gap -0.095). Matching that average is worth about 33.2 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
 - Quality Wins drivers: beat DILFS at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.00; beat Without a floor at S57 NA Open9-10 Central - Playoffs B (2026-05-31) 0.00
 - Opponent Network drivers: beat DILFS at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31; beat Without a floor at S57 NA Open9-10 Central - Playoffs B (2026-05-31) 0.29
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.4 |
-| regain | 12 | 2256.1 | +658.0 |
-| Zomblers | 22 | 2114.7 | +657.4 |
-| LAG Gaming | 8 | 2507.4 | +656.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Knox Esports | 427 | 984.1 | +0.3 | +162.4 |
+| Famas OP | 426 | 984.9 | +1.1 | +162.6 |
+| Climbers | 425 | 986.0 | +2.2 | +163.0 |
+| Evil Space Wizards | 424 | 988.0 | +4.2 | +163.6 |
+| Halcyon | 423 | 993.8 | +10.0 | +165.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Saltcrew | 276 | +337.0 | +313.7 | +31.7 |
+| Demolition | 279 | +332.2 | +312.2 | +31.0 |
+| Chopped | 277 | +336.0 | +341.5 | +30.8 |
+| Adria eSports | 281 | +330.4 | +350.5 | +29.9 |
+| ItAintOverYet | 284 | +318.8 | +301.4 | +29.8 |
+| Entertainment Cheese | 285 | +317.0 | +330.6 | +28.9 |
+| Midwest Farmers | 286 | +312.5 | +326.1 | +28.4 |
+| Imperium | 283 | +321.7 | +278.0 | +28.3 |
+| 55TH ST | 288 | +307.5 | +329.9 | +27.6 |
+| Resurgence | 290 | +299.8 | +301.3 | +27.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.4).
 

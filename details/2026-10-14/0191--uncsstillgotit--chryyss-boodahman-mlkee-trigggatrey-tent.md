@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.269 vs 0.316 aver
 - Quality Wins drivers: beat Guangzhou Loong Lions at S58 NA Open9-10 West - Playoffs (2026-09-04) 0.09; beat Cream Team at S58 NA Open9-10 West - Playoffs (2026-09-10) 0.08; beat TELETUBEASTS at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07
 - Opponent Network drivers: beat Cream Team at S58 NA Open9-10 West - Playoffs (2026-09-10) 1.07; beat Guangzhou Loong Lions at S58 NA Open9-10 West - Playoffs (2026-09-04) 1.03; beat TELETUBEASTS at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +202.0 |
-| SportsBetExpert | 6 | 2671.6 | +201.6 |
-| LAG Gaming | 8 | 2507.4 | +198.1 |
-| M80 | 2 | 3081.4 | +197.8 |
-| Wildcard | 3 | 2911.9 | +196.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| No Leaders Please | 190 | 1499.4 | +0.1 | +72.5 |
+| Lynnsanity | 189 | 1500.0 | +0.7 | +72.5 |
+| mokey mokey | 188 | 1503.7 | +4.4 | +63.8 |
+| Vibe Check | 187 | 1503.9 | +4.6 | +69.1 |
+| Alternate Earth | 186 | 1504.0 | +4.7 | +75.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| flat earth | 64 | +327.2 | +127.2 | +11.6 |
+| Endless Esports | 65 | +326.7 | +128.5 | +11.5 |
+| DUMBO | 63 | +327.8 | +142.4 | +11.1 |
+| WhalersOnDaMoon | 66 | +322.5 | +130.5 | +11.0 |
+| NZ Gaming | 69 | +313.9 | +116.6 | +10.9 |
+| GeneticDiff | 70 | +293.6 | +118.6 | +9.9 |
+| fih hou | 73 | +286.4 | +123.8 | +9.4 |
+| Club 333 | 76 | +282.9 | +134.5 | +9.3 |
+| Asoka | 74 | +284.0 | +110.4 | +9.2 |
+| F5 Esports | 60 | +336.0 | +134.8 | +9.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +195.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 

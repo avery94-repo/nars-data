@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.175 | 1344.5 | - |
 | +30 days | 0.155 | 1316.6 | -27.9 |
 | +60 days | 0.135 | 1289.3 | -55.1 |
-| +90 days | 0.101 | 1241.4 | -103.0 |
+| +90 days | 0.101 | 1241.4 | -103.1 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.077 vs 0.073 average, gap +0.004). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.077 vs 0.073 average
 - Quality Wins drivers: beat Firstwave at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.14; beat Firstwave at S58 NA Intermediate B - Regular Season (2026-08-28) 0.13; beat Costco Family at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.11
 - Opponent Network drivers: beat High-Tech Performance at S58 NA Intermediate Central - Playoffs B (2026-09-12) 0.98; beat Aetheris at S58 NA Intermediate Central - Playoffs B (2026-09-10) 0.97; beat Firstwave at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.93
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +421.5 |
-| SportsBetExpert | 6 | 2671.6 | +419.2 |
-| M80 | 2 | 3081.4 | +413.5 |
-| Wildcard | 3 | 2911.9 | +410.1 |
-| LAG Gaming | 8 | 2507.4 | +408.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Team Amplus | 145 | 1594.2 | +6.2 | +128.8 |
+| pew pew | 144 | 1596.7 | +8.7 | +120.3 |
+| Los Pollos Hermanos | 143 | 1598.2 | +10.2 | +126.2 |
+| Oath | 142 | 1602.2 | +14.2 | +119.8 |
+| US Navy Esports | 141 | 1605.0 | +17.0 | +120.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Swole Patrol | 45 | +326.3 | +196.3 | +21.4 |
+| Wanted Goons | 43 | +345.1 | +291.4 | +21.3 |
+| Xiaoma Gaming | 46 | +323.4 | +260.1 | +20.5 |
+| FLOW STATE | 47 | +309.4 | +243.5 | +19.7 |
+| No Future Lifes Over | 50 | +299.1 | +220.5 | +19.0 |
+| DESPAIR | 49 | +300.7 | +220.9 | +18.9 |
+| Phantom Sense | 51 | +295.7 | +265.2 | +18.4 |
+| TheMotherLovers | 53 | +289.9 | +225.8 | +17.9 |
+| Omen Esports | 57 | +269.8 | +234.5 | +14.7 |
+| bubibabu | 44 | +340.6 | +225.1 | +13.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +408.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -62,12 +79,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Firstwave | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.14 | 0.93 | +30.2 | Zralok26, caustic, malexic, mechro, tmelks |
 | 2026-09-02 | Costco Family | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.11 | 0.00 | +6.7 | caustic, kysmir, malexic, mechro, tmelks |
 | 2026-08-28 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.13 | 0.00 | +51.8 | MITSUMI, Zralok26, caustic, mechro, tmelks |
-| 2026-08-26 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -30.2 | MITSUMI, Zralok26, caustic, kysmir, mechro |
+| 2026-08-26 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -30.1 | MITSUMI, Zralok26, caustic, kysmir, mechro |
 | 2026-08-21 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -90.2 | MITSUMI, caustic, kysmir, mechro, tmelks |
 | 2026-08-19 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.07 | 0.00 | +9.6 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-08-14 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.07 | 0.79 | +41.7 | Zralok26, caustic, malexic, mechro, tmelks |
 | 2026-08-12 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.09 | 0.78 | +9.4 | Zralok26, caustic, malexic, mechro, tmelks |
-| 2026-08-07 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.08 | 0.74 | +126.3 | Zralok26, caustic, kysmir, mechro, tmelks |
+| 2026-08-07 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.08 | 0.74 | +126.4 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-08-05 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -209.8 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-08-03 | ABG Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.09 | 0.72 | +122.3 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-07-29 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -214.3 | MITSUMI, Zralok26, caustic, mechro, tmelks |

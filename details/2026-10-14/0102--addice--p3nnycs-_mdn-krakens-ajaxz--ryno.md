@@ -3,11 +3,11 @@ Team Name: Addice
 Roster: P3nnyCS, _mdn, KrakenS, AJaxz-, Ryno
 NARS Rank: 102 of 506
 
-Final Rating: 1702.4
+Final Rating: 1702.5
 Seeded Start: 1586.3
-H2H Adjustment: +116.1
+H2H Adjustment: +116.2
 
-Final Rating (1702.4) = Seeded Start (1586.3) + H2H Adjustment (+116.1)
+Final Rating (1702.5) = Seeded Start (1586.3) + H2H Adjustment (+116.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,23 +27,40 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.347 | 1586.3 | - |
 | +30 days | 0.319 | 1546.3 | -40.0 |
 | +60 days | 0.303 | 1524.3 | -62.0 |
-| +90 days | 0.278 | 1488.7 | -97.6 |
+| +90 days | 0.278 | 1488.6 | -97.7 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.204 vs 0.221 average, gap -0.017). Matching that average is worth about 5.9 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.204 vs 0.221 average, gap -0.017). Matching that average is worth about 6.0 seed points.
 
 - Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-22) 1.55; S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28
 - Quality Wins drivers: beat New Legends at S58 NA Advanced Central - Regular Season (2026-08-25) 0.80; beat FlyQuest RED at CROSSFIRE Season 6 - Playoffs (2026-09-17) 0.68; beat Locally Hated at CROSSFIRE Season 6 - Playoffs (2026-09-22) 0.43
 - Opponent Network drivers: beat Locally Hated at CROSSFIRE Season 6 - Playoffs (2026-09-22) 1.55; beat FlyQuest RED at CROSSFIRE Season 6 - Playoffs (2026-09-17) 1.55; beat BucketJonsBoys at CROSSFIRE Season 6 - Playoffs (2026-09-21) 1.55
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +161.3 |
-| SportsBetExpert | 6 | 2671.6 | +160.4 |
-| M80 | 2 | 3081.4 | +158.3 |
-| Wildcard | 3 | 2911.9 | +157.0 |
-| LAG Gaming | 8 | 2507.4 | +156.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Axial | 101 | 1706.4 | +3.9 | +57.7 |
+| Hadouken | 100 | 1709.8 | +7.3 | +52.5 |
+| Bills | 99 | 1712.0 | +9.5 | +52.8 |
+| goofball gaming | 98 | 1719.5 | +17.0 | +58.4 |
+| FlyQuest RED | 97 | 1720.7 | +18.2 | +65.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Olympus | 25 | +337.1 | +105.3 | +9.7 |
+| Automatic HQ | 27 | +328.3 | +111.0 | +9.2 |
+| VOID ALUNE | 29 | +305.3 | +81.5 | +8.4 |
+| Hairy Scary Bandits | 32 | +296.9 | +102.7 | +8.4 |
+| Chicken Coop | 33 | +295.7 | +119.8 | +8.3 |
+| Holly Molly | 35 | +285.9 | +95.6 | +7.7 |
+| EMPIRE | 36 | +281.1 | +109.6 | +7.6 |
+| unreal nightmare | 37 | +274.1 | +91.9 | +7.1 |
+| North Forge | 38 | +268.7 | +116.4 | +6.9 |
+| Festina Lente | 24 | +340.3 | +84.4 | +6.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +156.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
 
@@ -81,7 +98,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-19 | Olympus | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.18 | 0.28 | +422.9 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-14 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -60.5 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-12 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -58.1 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
-| 2026-05-07 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -347.9 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
+| 2026-05-07 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -348.0 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-05 | GRIT | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.02 | 0.16 | +13.2 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-04-30 | SOLA | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.01 | 0.11 | +183.6 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-04-28 | raisedbypixels | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.00 | 0.00 | -317.5 | 1hades, KrakenS, Ryno, _mdn, linko |

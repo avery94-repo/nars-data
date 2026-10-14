@@ -3,11 +3,11 @@ Team Name: Moniseum
 Roster: Yugomar, Kazami-, kalani, man01337, Monochrome
 NARS Rank: 412 of 506
 
-Final Rating: 1036.5
+Final Rating: 1036.4
 Seeded Start: 1251.4
-H2H Adjustment: -214.9
+H2H Adjustment: -215.0
 
-Final Rating (1036.5) = Seeded Start (1251.4) + H2H Adjustment (-214.9)
+Final Rating (1036.4) = Seeded Start (1251.4) + H2H Adjustment (-215.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.021 vs 0.009 average,
 - Quality Wins drivers: beat 69 at S58 NA Intermediate A - Regular Season (2026-08-19) 0.07; beat Mace Lindu Ruff Rebound at S58 NA Intermediate A - Regular Season (2026-08-26) 0.06; beat Ubiquiti at S58 NA Intermediate A - Regular Season (2026-07-31) 0.06
 - Opponent Network drivers: beat Mace Lindu Ruff Rebound at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat 69 at S58 NA Intermediate A - Regular Season (2026-08-19) 0.82; beat Kennesaw State Gold 2025 at S58 NA Intermediate A - Regular Season (2026-08-05) 0.73
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.2 |
-| regain | 12 | 2256.1 | +657.0 |
-| LAG Gaming | 8 | 2507.4 | +655.9 |
-| Zomblers | 22 | 2114.7 | +655.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Duality Zero | 411 | 1036.4 | +0.0 | +162.3 |
+| STIM | 410 | 1036.9 | +0.5 | +162.4 |
+| Team Hyper | 409 | 1037.3 | +0.9 | +174.6 |
+| PSDN White | 408 | 1040.3 | +3.9 | +163.5 |
+| VeryBigDoogoos | 407 | 1043.8 | +7.4 | +164.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| GoonAssOldheads | 258 | +333.4 | +310.7 | +31.4 |
+| The Kerbins | 250 | +342.2 | +345.9 | +31.3 |
+| Eightball | 253 | +339.2 | +335.1 | +30.9 |
+| Dude Picks | 252 | +341.1 | +362.5 | +30.6 |
+| drunk cigs dont count | 255 | +336.7 | +352.1 | +30.5 |
+| THE GUILD | 264 | +322.6 | +299.4 | +30.3 |
+| Kinetic | 260 | +327.8 | +342.3 | +29.9 |
+| DadDick Esports | 261 | +326.0 | +336.2 | +29.9 |
+| Wiggle Peeks | 265 | +320.4 | +318.7 | +29.6 |
+| ASCEND | 263 | +323.7 | +322.8 | +29.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.7).
 
@@ -62,14 +79,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -73.4 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-08-26 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.06 | 0.87 | +60.2 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-08-21 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -71.6 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
-| 2026-08-19 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.07 | 0.82 | +69.4 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
+| 2026-08-19 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.07 | 0.82 | +69.5 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-08-14 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -80.0 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-08-07 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -166.6 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-08-05 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.05 | 0.73 | +14.2 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-07-31 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +142.2 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-07-29 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -45.9 | Monochrome, Yugomar, h4mmus, kalani, man01337 |
-| 2026-07-24 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -235.9 | Monochrome, Yugomar, h4mmus, kalani, man01337 |
-| 2026-07-22 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -356.4 | Kazami-, Monochrome, Raider, Yugomar, kalani |
+| 2026-07-24 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -236.0 | Monochrome, Yugomar, h4mmus, kalani, man01337 |
+| 2026-07-22 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -356.5 | Kazami-, Monochrome, Raider, Yugomar, kalani |
 | 2026-07-17 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +3.1 | Kazami-, Monochrome, Raider, Yugomar, kalani |
 | 2026-07-15 | Sound of Arthritis | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +224.0 | JOHN0, Kazami-, Monochrome, Yugomar, kalani |
 | 2026-05-29 | The Clubhouse | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +158.1 | Calowed, JOHN0, Kazami-, Monochrome, Yugomar, bard- |

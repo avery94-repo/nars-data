@@ -29,21 +29,38 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.007 | 1110.4 | -19.2 |
 | +90 days | 0.007 | 1109.8 | -19.8 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.037 vs 0.200 average, gap -0.163). Matching that average is worth about 57.1 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.037 vs 0.200 average, gap -0.163). Matching that average is worth about 57.0 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.94; S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
 - Quality Wins drivers: beat WannaBeMovement at S57 NA Open9-10 Central - Playoffs B (2026-06-04) 0.01; beat Dust II Bandits at S57 NA Open9-10 Central - Playoffs B (2026-05-26) 0.00
 - Opponent Network drivers: beat WannaBeMovement at S57 NA Open9-10 Central - Playoffs B (2026-06-04) 0.32; beat Dust II Bandits at S57 NA Open9-10 Central - Playoffs B (2026-05-26) 0.26
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.5 |
-| Zomblers | 22 | 2114.7 | +659.4 |
-| regain | 12 | 2256.1 | +659.0 |
-| North Forge | 38 | 1971.1 | +658.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Dead Pixel | 443 | 923.2 | +9.2 | +175.5 |
+| Hack-A-Shaq | 442 | 928.1 | +14.1 | +166.7 |
+| Emerald Isle | 441 | 928.2 | +14.2 | +166.8 |
+| After Hours | 440 | 931.5 | +17.5 | +167.8 |
+| Big Kahuna Gaming | 439 | 931.8 | +17.8 | +167.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| DingTone | 302 | +349.8 | +336.3 | +31.8 |
+| Guangzhou Loong Lions | 304 | +345.9 | +326.1 | +31.8 |
+| Team Nyx | 307 | +339.2 | +320.3 | +31.7 |
+| TELETUBEASTS | 303 | +349.2 | +358.9 | +30.9 |
+| fiveB | 318 | +324.5 | +313.3 | +30.3 |
+| Team TahMeow | 321 | +321.8 | +312.7 | +29.9 |
+| innerFire | 325 | +310.3 | +295.8 | +28.7 |
+| Transcended | 326 | +309.3 | +296.9 | +28.5 |
+| Asian Invasion | 308 | +336.7 | +283.8 | +28.5 |
+| Once Divine Gaming | 315 | +325.8 | +279.6 | +28.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Open9-10 Central - Playoffs B vs Dust II Bandits (2026-05-26): expires in 38 days [Quality Wins 0.00, Opponent Network 0.26]

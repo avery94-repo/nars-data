@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.030 vs 0.184 aver
 - Quality Wins drivers: beat GOMI dot CLUB at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.01; beat garfieldclub at S57 NA Intermediate Central - Regular Season (2026-05-15) 0.00; beat We Just Pug at S57 NA Intermediate Central - Regular Season (2026-04-24) 0.00
 - Opponent Network drivers: beat GOMI dot CLUB at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23; beat garfieldclub at S57 NA Intermediate Central - Regular Season (2026-05-15) 0.18; beat We Just Pug at S57 NA Intermediate Central - Regular Season (2026-04-24) 0.04
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.7 |
-| SportsBetExpert | 6 | 2671.6 | +664.5 |
-| North Forge | 38 | 1971.1 | +662.0 |
-| Zomblers | 22 | 2114.7 | +661.3 |
-| Wanted Goons | 43 | 1933.1 | +660.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Pro Lapse | 468 | 822.2 | +9.4 | +165.3 |
+| Octane | 467 | 825.4 | +12.6 | +166.3 |
+| Feels MAIN Man | 466 | 829.8 | +17.0 | +180.3 |
+| Spin da block | 465 | 830.0 | +17.2 | +167.7 |
+| 69 | 464 | 832.3 | +19.5 | +174.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Comeback Bandits | 355 | +347.8 | +333.0 | +32.2 |
+| Macs Snacks | 359 | +341.1 | +312.9 | +32.1 |
+| 99 Thieves | 354 | +349.5 | +332.1 | +32.0 |
+| Aers Money Crew | 360 | +340.4 | +321.7 | +31.8 |
+| Temple of Swing | 362 | +334.6 | +316.7 | +31.4 |
+| MINDTRIP | 361 | +336.8 | +327.5 | +31.3 |
+| RH Help Desk | 358 | +345.7 | +358.2 | +31.2 |
+| WaterDrinkers | 364 | +333.3 | +333.5 | +30.8 |
+| OnThaGear | 363 | +333.6 | +334.9 | +30.8 |
+| Line Steppers | 367 | +326.0 | +308.2 | +30.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs We Just Pug (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.04]
@@ -55,14 +72,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +307.8 | Andooby, ObMmM, Tspencer1, danwill77, k4rmaa_ |
-| 2026-05-20 | GoopT | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -102.0 | Andooby, ObMmM, Shadowbladex, Tspencer1, k4rmaa_ |
+| 2026-05-22 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +307.9 | Andooby, ObMmM, Tspencer1, danwill77, k4rmaa_ |
+| 2026-05-20 | GoopT | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -102.1 | Andooby, ObMmM, Shadowbladex, Tspencer1, k4rmaa_ |
 | 2026-05-15 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +186.6 | Andooby, ObMmM, Shadowbladex, Tspencer1, danwill77 |
 | 2026-05-13 | Dapper North | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -367.0 | Andooby, ObMmM, Shadowbladex, Tatankalanka, danwill77 |
 | 2026-05-08 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -47.8 | Andooby, Shadowbladex, Tatankalanka, Tspencer1, k4rmaa_ |
 | 2026-05-06 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -12.4 | ObMmM, Shadowbladex, Tatankalanka, Tspencer1, k4rmaa_ |
 | 2026-05-01 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -46.3 | Andooby, ObMmM, Shadowbladex, danwill77, k4rmaa_ |
-| 2026-04-29 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -280.5 | Andooby, ObMmM, Shadowbladex, danwill77, k4rmaa_ |
+| 2026-04-29 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -280.6 | Andooby, ObMmM, Shadowbladex, danwill77, k4rmaa_ |
 | 2026-04-24 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +245.1 | Andooby, ObMmM, Shadowbladex, Tspencer1, k4rmaa_ |
 | 2026-04-22 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -184.4 | Andooby, ObMmM, Tatankalanka, Tspencer1, k4rmaa_ |
 

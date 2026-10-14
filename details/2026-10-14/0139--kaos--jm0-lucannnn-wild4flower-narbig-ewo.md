@@ -25,25 +25,42 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.139 | 1295.1 | - |
-| +30 days | 0.117 | 1263.8 | -31.3 |
+| +30 days | 0.117 | 1263.7 | -31.3 |
 | +60 days | 0.106 | 1248.7 | -46.4 |
 | +90 days | 0.090 | 1226.1 | -69.0 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.416 vs 0.551 average, gap -0.135). Matching that average is worth about 47.2 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.416 vs 0.550 average, gap -0.134). Matching that average is worth about 46.9 seed points.
 
 - Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-28) 1.02; S59 NA Main A - Regular Season (2026-10-08) 1.02; S57 NA Main Central - Regular Season (2026-05-22) 0.26
 - Quality Wins drivers: beat penazoid at S59 NA Main A - Regular Season (2026-10-08) 0.12; beat Pugging4Pumpkin at S58 NA Main B - Regular Season (2026-08-19) 0.09; beat GOOZPEEK at S58 NA Main B - Regular Season (2026-08-21) 0.08
-- Opponent Network drivers: beat penazoid at S59 NA Main A - Regular Season (2026-10-08) 1.02; beat GOOZPEEK at S58 NA Main B - Regular Season (2026-08-21) 0.97; beat Pugging4Pumpkin at S58 NA Main B - Regular Season (2026-08-19) 0.96
+- Opponent Network drivers: beat penazoid at S59 NA Main A - Regular Season (2026-10-08) 1.02; beat GOOZPEEK at S58 NA Main B - Regular Season (2026-08-21) 0.97; beat Pugging4Pumpkin at S58 NA Main B - Regular Season (2026-08-19) 0.95
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +545.2 |
-| SportsBetExpert | 6 | 2671.6 | +541.2 |
-| M80 | 2 | 3081.4 | +535.4 |
-| Wildcard | 3 | 2911.9 | +530.7 |
-| Liquid | 1 | 3103.3 | +527.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| SquadUp | 138 | 1613.8 | +3.0 | +142.4 |
+| KODEX ESPORTS | 137 | 1616.5 | +5.7 | +159.6 |
+| Wolves | 136 | 1616.5 | +5.7 | +148.4 |
+| counterstrike Team | 135 | 1617.5 | +6.7 | +147.1 |
+| 5Frag Gaming | 134 | 1621.4 | +10.6 | +156.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Wanted Goons | 43 | +322.3 | +340.8 | +24.7 |
+| Swole Patrol | 45 | +303.5 | +234.9 | +23.7 |
+| Xiaoma Gaming | 46 | +300.6 | +304.2 | +22.7 |
+| FLOW STATE | 47 | +286.6 | +284.8 | +21.1 |
+| Zealous | 42 | +330.8 | +242.2 | +20.4 |
+| No Future Lifes Over | 50 | +276.3 | +259.4 | +19.7 |
+| DESPAIR | 49 | +277.9 | +259.9 | +19.6 |
+| Phantom Sense | 51 | +272.9 | +306.2 | +18.9 |
+| TheMotherLovers | 53 | +267.1 | +264.1 | +18.0 |
+| Locally Hated | 41 | +335.7 | +302.7 | +17.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +528.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -62,21 +79,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Kinetic | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -48.8 | AronJ, Narbig, ewo, geese, jm0 |
 | 2026-08-26 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -71.1 | AronJ, Narbig, Purple2124, ewo, jm0 |
 | 2026-08-21 | GOOZPEEK | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.08 | 0.97 | +65.4 | Narbig, Purple2124, WILD4FLOWER, ewo, jm0 |
-| 2026-08-19 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.96 | 0.09 | 0.96 | +111.5 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
+| 2026-08-19 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.09 | 0.95 | +111.5 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-08-15 | Lynnsanity | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -158.2 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-08-12 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.04 | 0.90 | +61.3 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-08-07 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.04 | 0.86 | +116.5 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
-| 2026-08-05 | Macs Snacks | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -119.8 | Lucannnn, Narbig, Purple2124, ewo, jm0 |
+| 2026-08-05 | Macs Snacks | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -119.9 | Lucannnn, Narbig, Purple2124, ewo, jm0 |
 | 2026-07-29 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.04 | 0.79 | +41.2 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
-| 2026-07-23 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -37.0 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
+| 2026-07-23 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -36.9 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-07-21 | Crimson Vortex | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.63 | 1.16 | 1.00 | 0.73 | 0.00 | 0.00 | -2.1 | AronJ, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-07-17 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -12.9 | AronJ, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-07-16 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -28.3 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
-| 2026-05-22 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.01 | 0.26 | +53.6 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
-| 2026-05-21 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.26 | 0.04 | 0.26 | +36.6 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
+| 2026-05-22 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.01 | 0.26 | +53.5 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
+| 2026-05-21 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.26 | 0.04 | 0.26 | +36.5 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-05-21 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +207.5 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
-| 2026-05-20 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -136.0 | Lucannnn, Narbig, Purple2124, ewo, jm0 |
-| 2026-05-11 | Sassy Sunshines | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -296.4 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
+| 2026-05-20 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -135.9 | Lucannnn, Narbig, Purple2124, ewo, jm0 |
+| 2026-05-11 | Sassy Sunshines | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -296.5 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-04-29 | The Homies | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +32.1 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-04-27 | Macs Snacks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.01 | 0.07 | +407.9 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-04-23 | Zealous | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -296.1 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |

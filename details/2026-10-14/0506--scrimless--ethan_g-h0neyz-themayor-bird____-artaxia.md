@@ -3,11 +3,11 @@ Team Name: Scrimless
 Roster: Ethan_G, h0NEYz, TheMayor, bird____, Artaxian
 NARS Rank: 506 of 506
 
-Final Rating: 260.2
+Final Rating: 260.1
 Seeded Start: 1105.7
-H2H Adjustment: -845.5
+H2H Adjustment: -845.6 (capped at +-300, raw -845.7)
 
-Final Rating (260.2) = Seeded Start (1105.7) + H2H Adjustment (-845.5)
+Final Rating (260.1) = Seeded Start (1105.7) + H2H Adjustment (-845.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.007 vs 0.056 aver
 - Quality Wins drivers: beat Climbers at S57 NA Main Central - Regular Season (2026-05-01) 0.00
 - Opponent Network drivers: beat Climbers at S57 NA Main Central - Regular Season (2026-05-01) 0.10
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| North Forge | 38 | 1971.1 | +667.3 |
-| Wanted Goons | 43 | 1933.1 | +667.1 |
-| NRG | 4 | 2835.7 | +664.7 |
-| SportsBetExpert | 6 | 2671.6 | +664.7 |
-| Zomblers | 22 | 2114.7 | +663.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| 3 Feet Of Meat | 505 | 339.4 | +79.3 | +188.2 |
+| shirtcockin | 504 | 381.7 | +121.6 | +203.0 |
+| Courage | 503 | 403.9 | +143.8 | +210.9 |
+| SixSevenZaZa | 502 | 459.5 | +199.4 | +231.4 |
+| Shaq Diesel | 501 | 508.6 | +248.5 | +250.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Solbound | 496 | +294.9 | +286.4 | +26.3 |
+| SuperSoakerClub | 493 | +321.5 | +278.0 | +24.3 |
+| Dapper North | 498 | +293.3 | +267.1 | +24.0 |
+| we get it back | 494 | +310.1 | +273.6 | +23.7 |
+| After Peak | 500 | +273.5 | +284.4 | +22.2 |
+| Brothers United | 497 | +294.3 | +267.6 | +16.2 |
+| GOMI dot CLUB | 492 | +345.0 | +286.9 | +12.3 |
+| RejexEsports | 495 | +297.7 | +268.8 | +10.0 |
+| Old Dads Banging | 499 | +290.2 | +265.9 | +6.3 |
+| 3 Feet Of Meat | 505 | +79.3 | +188.2 | -1.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs Climbers (2026-05-01): expires in 13 days [Quality Wins 0.00, Opponent Network 0.10]
@@ -55,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Wealth Reduction | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -13.6 | Artaxian, TheMayor, Werydan1, bird____, h0NEYz |
-| 2026-05-20 | Courage | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -283.8 | Artaxian, TheMayor, Werydan1, bird____, h0NEYz |
+| 2026-05-20 | Courage | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -283.9 | Artaxian, TheMayor, Werydan1, bird____, h0NEYz |
 | 2026-05-14 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -5.5 | Artaxian, Ethan_G, TheMayor, bird____, h0NEYz |
 | 2026-05-13 | gooshedd | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -144.2 | Artaxian, TheMayor, aidanxi, bird____, h0NEYz |
 | 2026-05-08 | TEMPR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -186.6 | Artaxian, Ethan_G, TheMayor, bird____, h0NEYz |

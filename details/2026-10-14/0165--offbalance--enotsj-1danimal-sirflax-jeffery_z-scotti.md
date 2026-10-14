@@ -4,14 +4,14 @@ Roster: enotsJ, 1DANimal, SirFlax, Jeffery_z, Scottiyio
 NARS Rank: 165 of 506
 
 Final Rating: 1542.3
-Seeded Start: 1343.2
-H2H Adjustment: +199.1
+Seeded Start: 1343.1
+H2H Adjustment: +199.2
 
-Final Rating (1542.3) = Seeded Start (1343.2) + H2H Adjustment (+199.1)
+Final Rating (1542.3) = Seeded Start (1343.1) + H2H Adjustment (+199.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.174 x 1400 = 1343.2
+                = 1100 + 0.174 x 1400 = 1343.1
 
 seed_factor 0.174 = 0.25 x Tier Exposure (0.119) + 0.50 x Quality Wins (0.043) + 0.25 x Opponent Network (0.491)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.174 | 1343.2 | - |
+| Now | 0.174 | 1343.1 | - |
 | +30 days | 0.157 | 1320.1 | -23.0 |
 | +60 days | 0.142 | 1299.5 | -43.7 |
 | +90 days | 0.118 | 1265.9 | -77.3 |
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.043 vs 0.037 average,
 - Quality Wins drivers: beat Aers Money Crew at S59 NA Main A - Regular Season (2026-10-09) 0.12; beat Ninjas In Boxer at S58 NA Intermediate A - Regular Season (2026-08-19) 0.09; beat Torii at S58 NA Intermediate A - Regular Season (2026-08-13) 0.09
 - Opponent Network drivers: beat Aers Money Crew at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat Void at S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.93; beat Dynasty at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.92
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +408.1 |
-| SportsBetExpert | 6 | 2671.6 | +406.4 |
-| M80 | 2 | 3081.4 | +400.1 |
-| LAG Gaming | 8 | 2507.4 | +397.4 |
-| Wildcard | 3 | 2911.9 | +397.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| SquishysAngels | 164 | 1543.5 | +1.2 | +113.8 |
+| Team Auspex | 163 | 1544.2 | +1.9 | +115.0 |
+| 1001 Fragrance | 162 | 1549.0 | +6.7 | +121.6 |
+| Rejects | 161 | 1553.6 | +11.3 | +129.3 |
+| TOP SHELF WHIFFERS | 160 | 1556.3 | +14.0 | +127.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| No Future Lifes Over | 50 | +344.8 | +228.6 | +21.9 |
+| DESPAIR | 49 | +346.4 | +228.9 | +21.6 |
+| TheMotherLovers | 53 | +335.6 | +234.9 | +21.2 |
+| Phantom Sense | 51 | +341.4 | +278.6 | +20.7 |
+| Omen Esports | 57 | +315.5 | +246.2 | +19.1 |
+| flat earth | 64 | +284.2 | +217.8 | +17.1 |
+| Endless Esports | 65 | +283.7 | +219.6 | +17.0 |
+| GG | 52 | +339.1 | +192.6 | +17.0 |
+| DUMBO | 63 | +284.8 | +240.4 | +16.6 |
+| WhalersOnDaMoon | 66 | +279.5 | +222.2 | +15.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +394.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -58,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Aers Money Crew | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +30.3 | 1DANimal, ALSUNDAN, Jeffery_z, PNDLM-, Scottiyio |
 | 2026-09-06 | Rejects | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -50.3 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
-| 2026-09-04 | Void | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +142.9 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
+| 2026-09-04 | Void | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +143.0 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-09-02 | Dynasty | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.08 | 0.92 | +72.2 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-28 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -10.0 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-26 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -65.3 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
@@ -72,10 +89,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +139.1 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-07-15 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -6.6 | 1DANimal, Jeffery_z, SirFlax, enotsJ, kswizzle87 |
 | 2026-06-05 | Sleepers | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -77.4 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
-| 2026-05-22 | Kushtaka | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +336.4 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
-| 2026-05-20 | strawberry poptarts | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -42.7 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
+| 2026-05-22 | Kushtaka | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +336.5 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
+| 2026-05-20 | strawberry poptarts | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -42.6 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
 | 2026-05-15 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -400.7 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
-| 2026-04-29 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -356.7 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
+| 2026-04-29 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -356.8 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
 | 2026-04-24 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +2.1 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
 | 2026-04-22 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +233.8 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
 

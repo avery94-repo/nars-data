@@ -5,7 +5,7 @@ NARS Rank: 127 of 506
 
 Final Rating: 1635.0
 Seeded Start: 1135.2
-H2H Adjustment: +499.8
+H2H Adjustment: +499.8 (capped at +-300, raw +499.9)
 
 Final Rating (1635.0) = Seeded Start (1135.2) + H2H Adjustment (+499.8)
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.062 vs 0.530 aver
 - Quality Wins drivers: beat 5Frag Gaming at S57 NA Main Central - Playoffs (2026-05-31) 0.05; beat Wolves at S57 NA Main Central - Regular Season (2026-05-20) 0.04; beat Lynnsanity at S57 NA Main Central - Regular Season (2026-05-22) 0.02
 - Opponent Network drivers: beat 5Frag Gaming at S57 NA Main Central - Playoffs (2026-05-31) 0.36; beat Lynnsanity at S57 NA Main Central - Regular Season (2026-05-22) 0.26; beat Wolves at S57 NA Main Central - Regular Season (2026-05-20) 0.25
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +660.2 |
-| SportsBetExpert | 6 | 2671.6 | +653.8 |
-| M80 | 2 | 3081.4 | +649.0 |
-| Wildcard | 3 | 2911.9 | +642.9 |
-| Liquid | 1 | 3103.3 | +640.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Team Team Name | 126 | 1637.1 | +2.1 | +164.5 |
+| Sassy Sunshines | 125 | 1637.7 | +2.7 | +165.6 |
+| absolute cinema | 124 | 1638.7 | +3.7 | +169.7 |
+| Void | 123 | 1638.9 | +3.9 | +164.7 |
+| The Burger People | 122 | 1642.3 | +7.3 | +172.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| unreal nightmare | 37 | +341.6 | +326.3 | +32.1 |
+| EMPIRE | 36 | +348.6 | +382.8 | +30.9 |
+| North Forge | 38 | +336.2 | +401.5 | +29.4 |
+| ZETTA | 39 | +335.0 | +337.3 | +26.3 |
+| Wanted Goons | 43 | +298.1 | +371.6 | +25.7 |
+| Swole Patrol | 45 | +279.3 | +263.1 | +23.2 |
+| Xiaoma Gaming | 46 | +276.4 | +332.2 | +22.0 |
+| Zealous | 42 | +306.6 | +272.2 | +20.7 |
+| FLOW STATE | 47 | +262.4 | +311.4 | +19.3 |
+| Locally Hated | 41 | +311.5 | +334.8 | +17.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -60,15 +77,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-02 | YHUBEPCAM | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -70.1 | JKSN, Yu1u, bandit0, ioioCS, noa |
-| 2026-05-31 | 5Frag Gaming | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.05 | 0.36 | +153.8 | JKSN, Yu1u, bandit0, ioioCS, noa |
-| 2026-05-27 | TheMotherLovers | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -154.1 | JKSN, Milkman_eh, Yu1u, bandit0, ioioCS, mc-130h, noa |
-| 2026-05-22 | Lynnsanity | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +338.0 | JKSN, Milkman_eh, Yu1u, bandit0, ioioCS, noa |
+| 2026-05-31 | 5Frag Gaming | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.05 | 0.36 | +153.9 | JKSN, Yu1u, bandit0, ioioCS, noa |
+| 2026-05-27 | TheMotherLovers | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -154.2 | JKSN, Milkman_eh, Yu1u, bandit0, ioioCS, mc-130h, noa |
+| 2026-05-22 | Lynnsanity | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +338.1 | JKSN, Milkman_eh, Yu1u, bandit0, ioioCS, noa |
 | 2026-05-20 | Wolves | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.04 | 0.25 | +227.8 | JKSN, Milkman_eh, Yu1u, bandit0, ioioCS, mc-130h, noa |
 | 2026-05-14 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -4.7 | JKSN, Yu1u, bandit0, ioioCS, noa |
 | 2026-05-13 | Resurgence | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -53.1 | JKSN, Yu1u, bandit0, ioioCS, noa |
 | 2026-05-06 | 027fam | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -7.8 | JKSN, Yu1u, bandit0, ioioCS, noa |
 | 2026-05-01 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -172.1 | JKSN, Yu1u, bandit0, ioioCS, mc-130h, noa |
 | 2026-04-29 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.02 | 0.09 | +454.1 | JKSN, Yu1u, bandit0, ioioCS, noa |
-| 2026-04-24 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -212.0 | Chilli-_-, Yu1u, bandit0, ioioCS, mc-130h, noa |
+| 2026-04-24 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -212.1 | Chilli-_-, Yu1u, bandit0, ioioCS, mc-130h, noa |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

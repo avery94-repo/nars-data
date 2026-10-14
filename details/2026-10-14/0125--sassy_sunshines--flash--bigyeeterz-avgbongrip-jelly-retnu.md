@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.195 | 1372.4 | - |
-| +30 days | 0.170 | 1338.6 | -33.9 |
+| +30 days | 0.170 | 1338.5 | -33.8 |
 | +60 days | 0.155 | 1316.5 | -55.9 |
 | +90 days | 0.126 | 1276.5 | -95.9 |
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.084 vs 0.104 average
 - Quality Wins drivers: beat SwagMonkeyHats at S58 NA Main Central - Playoffs B (2026-09-02) 0.18; beat Macs Snacks at S58 NA Main Central - Playoffs B (2026-09-08) 0.14; beat Shaboing Boing Bandits at S58 NA Main B - Regular Season (2026-08-28) 0.14
 - Opponent Network drivers: beat Macs Snacks at S58 NA Main Central - Playoffs B (2026-09-08) 1.14; beat strawberry poptarts at S58 NA Main Central - Playoffs B (2026-09-07) 1.13; beat SwagMonkeyHats at S58 NA Main Central - Playoffs B (2026-09-02) 1.09
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +566.7 |
-| SportsBetExpert | 6 | 2671.6 | +561.7 |
-| M80 | 2 | 3081.4 | +556.8 |
-| Wildcard | 3 | 2911.9 | +551.7 |
-| Liquid | 1 | 3103.3 | +549.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| absolute cinema | 124 | 1638.7 | +1.0 | +152.7 |
+| Void | 123 | 1638.9 | +1.2 | +147.3 |
+| The Burger People | 122 | 1642.3 | +4.6 | +154.9 |
+| F1lthy Puggers | 121 | 1643.8 | +6.1 | +148.3 |
+| Conscious Gaming | 120 | 1646.8 | +9.1 | +152.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| unreal nightmare | 37 | +338.9 | +289.7 | +28.5 |
+| EMPIRE | 36 | +345.9 | +340.8 | +27.6 |
+| North Forge | 38 | +333.5 | +358.3 | +26.2 |
+| ZETTA | 39 | +332.3 | +300.0 | +23.3 |
+| Wanted Goons | 43 | +295.4 | +333.0 | +22.8 |
+| Swole Patrol | 45 | +276.6 | +233.5 | +20.1 |
+| Xiaoma Gaming | 46 | +273.7 | +297.7 | +19.4 |
+| Zealous | 42 | +303.9 | +241.3 | +18.0 |
+| FLOW STATE | 47 | +259.7 | +279.1 | +16.8 |
+| Locally Hated | 41 | +308.8 | +298.6 | +15.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +549.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -70,7 +87,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.03 | 0.75 | +0.2 | Angry-_-, Flash-, Jelly, Retnuh, metroJS |
 | 2026-07-17 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -315.4 | -Stuwu-, Angry-_-, AvgBongRip, Jelly, Retnuh |
 | 2026-07-15 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -32.8 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
-| 2026-05-20 | Conscious Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.04 | 0.25 | +346.4 | Angry-_-, BigYeeterz, Flash-, Jelly, Retnuh |
+| 2026-05-20 | Conscious Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.04 | 0.25 | +346.5 | Angry-_-, BigYeeterz, Flash-, Jelly, Retnuh |
 | 2026-05-15 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -235.4 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
 | 2026-05-13 | goofball gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +6.7 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
 | 2026-05-11 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.01 | 0.18 | +292.2 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |

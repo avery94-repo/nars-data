@@ -3,11 +3,11 @@ Team Name: Atlantis eSports
 Roster: QuagerDoodle, -Arkham-, Yoel, crames_, Renim
 NARS Rank: 422 of 506
 
-Final Rating: 997.6
+Final Rating: 997.5
 Seeded Start: 1189.5
-H2H Adjustment: -191.9
+H2H Adjustment: -192.0
 
-Final Rating (997.6) = Seeded Start (1189.5) + H2H Adjustment (-191.9)
+Final Rating (997.5) = Seeded Start (1189.5) + H2H Adjustment (-192.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.064 | 1189.5 | - |
 | +30 days | 0.046 | 1164.5 | -25.0 |
 | +60 days | 0.031 | 1143.2 | -46.4 |
-| +90 days | 0.015 | 1120.6 | -69.0 |
+| +90 days | 0.015 | 1120.6 | -68.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.189 vs 0.275 average, gap -0.086). Matching that average is worth about 30.1 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.189 vs 0.275 aver
 - Quality Wins drivers: beat Benadryl Abusers at S58 NA Intermediate B - Regular Season (2026-08-07) 0.08; beat It Doesnt Matter at S58 NA Intermediate B - Regular Season (2026-07-15) 0.06; beat Muncle at S58 NA Intermediate B - Regular Season (2026-07-30) 0.06
 - Opponent Network drivers: beat Benadryl Abusers at S58 NA Intermediate B - Regular Season (2026-08-07) 0.74; beat Muncle at S58 NA Intermediate B - Regular Season (2026-07-30) 0.69; beat It Doesnt Matter at S58 NA Intermediate B - Regular Season (2026-07-15) 0.59
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.3 |
-| regain | 12 | 2256.1 | +657.8 |
-| Zomblers | 22 | 2114.7 | +656.9 |
-| LAG Gaming | 8 | 2507.4 | +656.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Specter Esports | 421 | 999.7 | +2.2 | +163.0 |
+| Strafe | 420 | 1002.2 | +4.7 | +171.8 |
+| puggin4seb | 419 | 1002.8 | +5.3 | +172.0 |
+| Kodaks Lettuce | 418 | 1011.4 | +13.9 | +172.3 |
+| Mace Lindu Ruff Rebound | 417 | 1017.3 | +19.8 | +172.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Saltcrew | 276 | +323.3 | +307.3 | +30.2 |
+| Chopped | 277 | +322.3 | +333.9 | +29.5 |
+| Demolition | 279 | +318.5 | +305.7 | +29.5 |
+| Adria eSports | 281 | +316.7 | +342.3 | +28.5 |
+| ItAintOverYet | 284 | +305.1 | +295.1 | +27.9 |
+| Entertainment Cheese | 285 | +303.3 | +322.9 | +27.1 |
+| Midwest Farmers | 286 | +298.8 | +318.5 | +26.5 |
+| Imperium | 283 | +308.0 | +272.8 | +26.4 |
+| 55TH ST | 288 | +293.8 | +322.0 | +25.6 |
+| Resurgence | 290 | +286.1 | +294.6 | +24.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.2).
 
@@ -63,10 +80,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -215.0 | -Arkham-, Rellac, Renim, Yoel, crames_ |
 | 2026-07-30 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.06 | 0.69 | +25.4 | -Arkham-, -Hatty, Rellac, Yoel, crames_ |
 | 2026-07-29 | VeryBigDoogoos | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -27.2 | -Arkham-, -Hatty, Rellac, Yoel, crames_ |
-| 2026-07-24 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -292.4 | -Arkham-, Rellac, Renim, Yoel, crames_ |
-| 2026-07-22 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -356.1 | -Arkham-, Rellac, Renim, Yoel, crames_ |
+| 2026-07-24 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -292.5 | -Arkham-, Rellac, Renim, Yoel, crames_ |
+| 2026-07-22 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -356.2 | -Arkham-, Rellac, Renim, Yoel, crames_ |
 | 2026-07-15 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.06 | 0.59 | +137.6 | -Arkham-, Rellac, Renim, Yoel, crames_ |
-| 2026-06-05 | MommySports | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.32 | +205.1 | -Arkham-, QuagerDoodle, Renim, Yoel, crames_ |
+| 2026-06-05 | MommySports | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.32 | +205.2 | -Arkham-, QuagerDoodle, Renim, Yoel, crames_ |
 | 2026-05-29 | superkai64 | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +184.6 | -Arkham-, QuagerDoodle, Rellac, Renim, crames_ |
 | 2026-05-27 | GEDifferent | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +176.8 | -Arkham-, QuagerDoodle, Renim, Yoel, crames_ |
 

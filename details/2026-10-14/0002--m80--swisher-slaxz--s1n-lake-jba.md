@@ -35,15 +35,19 @@ Weakest lever vs the 1 teams ranked above: Opponent Network (0.155 vs 0.565 aver
 - Quality Wins drivers: beat Legacy at ESL Pro League Season 24 (2026-10-06) 3.12; beat TYLOO at ESL Pro League Season 24 (2026-10-05) 3.12; beat GAMERLEGION at VRS-tracked 2026-09 (2026-09-17) 2.40
 - Opponent Network drivers: beat LAG Gaming at VRS-tracked 2026-07 (2026-07-10) 0.89; beat NRG at VRS-tracked 2026-06 (2026-06-04) 0.50; beat Voca at VRS-tracked 2026-05 (2026-05-28) 0.43
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| Liquid | 1 | 3103.3 | +43.5 |
-| Wildcard | 3 | 2911.9 | +24.5 |
-| NRG | 4 | 2835.7 | +14.3 |
-| Voca | 5 | 2796.5 | +9.9 |
-| SportsBetExpert | 6 | 2671.6 | +2.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Liquid | 1 | 3103.3 | +21.9 | +43.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Liquid | 1 | +21.9 | +43.6 | -0.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +43.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Automatic HQ (+0.0), babaG (+0.0), Hairy Scary Bandits (+0.0), Chicken Coop (+0.0), Slimy Boogermen (+0.0).
 
@@ -81,25 +85,25 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-13 | LUMINOSITY | L |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.58 | 0.00 | 0.00 | -65.8 | core 3/5 |
 | 2026-09-12 | IBERIAN SOUL | W |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 2.36 | 0.00 | +48.2 | core 3/5 |
 | 2026-09-11 | 6666 | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 0.83 | 0.00 | +0.0 | core 3/5 |
-| 2026-08-30 | AURORA | L |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.43 | 0.00 | 0.00 | -43.5 | core 3/5 |
+| 2026-08-30 | AURORA | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 0.00 | 0.00 | -43.5 | core 3/5 |
 | 2026-08-28 | FURIA | L |  | VRS-tracked 2026-08 | A | vrs | 0.88 | 1.60 | 1.00 | 1.41 | 0.00 | 0.00 | -37.0 | core 3/5 |
-| 2026-08-26 | NATUS VINCERE | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 2.08 | 0.00 | +182.5 | core 3/5 |
+| 2026-08-26 | NATUS VINCERE | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 2.08 | 0.00 | +182.6 | core 3/5 |
 | 2026-08-13 | AURORA | L |  | VRS-tracked 2026-08 | A | vrs | 0.78 | 1.60 | 1.00 | 1.25 | 0.00 | 0.00 | -49.0 | core 3/5 |
-| 2026-08-12 | G2 | L |  | VRS-tracked 2026-08 | A | vrs | 0.78 | 1.60 | 1.00 | 1.24 | 0.00 | 0.00 | -38.1 | core 3/5 |
+| 2026-08-12 | G2 | L |  | VRS-tracked 2026-08 | A | vrs | 0.77 | 1.60 | 1.00 | 1.24 | 0.00 | 0.00 | -38.1 | core 3/5 |
 | 2026-07-21 | NINJAS IN PYJAMAS | L |  | VRS-tracked 2026-07 | A | vrs | 0.63 | 1.60 | 1.00 | 1.01 | 0.00 | 0.00 | -210.4 | core 3/5 |
-| 2026-07-11 | Voca | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.90 | 0.53 | 0.00 | +154.8 | core 3/5 |
-| 2026-07-10 | LAG Gaming | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.89 | 0.87 | 0.89 | +1.0 | core 3/5 |
+| 2026-07-11 | Voca | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.90 | 0.53 | 0.00 | +154.9 | core 3/5 |
+| 2026-07-10 | LAG Gaming | W |  | VRS-tracked 2026-07 | A | vrs | 0.55 | 1.60 | 1.00 | 0.89 | 0.87 | 0.89 | +1.0 | core 3/5 |
 | 2026-07-09 | WINNERS | W |  | VRS-tracked 2026-07 | A | vrs | 0.55 | 1.60 | 1.00 | 0.88 | 0.66 | 0.00 | +0.1 | core 3/5 |
 | 2026-06-08 | Legacy | L |  | VRS-tracked 2026-06 | A | vrs | 0.34 | 1.60 | 1.00 | 0.55 | 0.00 | 0.00 | -19.8 | core 3/5 |
-| 2026-06-07 | BETBOOM | L |  | VRS-tracked 2026-06 | A | vrs | 0.34 | 1.60 | 1.00 | 0.54 | 0.00 | 0.00 | -128.5 | core 3/5 |
+| 2026-06-07 | BETBOOM | L |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.54 | 0.00 | 0.00 | -128.6 | core 3/5 |
 | 2026-06-06 | B8 | W |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.53 | 0.79 | 0.00 | +158.9 | core 3/5 |
-| 2026-06-06 | G2 | L |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.53 | 0.00 | 0.00 | -85.5 | core 3/5 |
-| 2026-06-04 | NRG | W |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.50 | 0.31 | 0.50 | +113.7 | core 3/5 |
-| 2026-06-03 | B8 | L |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.00 | 0.00 | -254.4 | core 3/5 |
+| 2026-06-06 | G2 | L |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.53 | 0.00 | 0.00 | -85.6 | core 3/5 |
+| 2026-06-04 | NRG | W |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.50 | 0.31 | 0.50 | +113.8 | core 3/5 |
+| 2026-06-03 | B8 | L |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.00 | 0.00 | -254.5 | core 3/5 |
 | 2026-06-02 | DENDELE | W |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.72 | 0.00 | +130.0 | core 3/5 |
 | 2026-06-02 | LYNN VISION | W |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.72 | 0.00 | +6.3 | core 3/5 |
 | 2026-05-28 | Voca | W |  | VRS-tracked 2026-05 | A | vrs | 0.27 | 1.60 | 1.00 | 0.43 | 0.25 | 0.43 | +192.7 | core 3/5 |
-| 2026-05-26 | Iowa Stormboar | W |  | VRS-tracked 2026-05 | A | vrs | 0.26 | 1.60 | 1.00 | 0.41 | 0.28 | 0.00 | +0.0 | core 3/5 |
+| 2026-05-26 | Iowa Stormboar | W |  | VRS-tracked 2026-05 | A | vrs | 0.25 | 1.60 | 1.00 | 0.41 | 0.28 | 0.00 | +0.0 | core 3/5 |
 | 2026-05-21 | MOUZ | L |  | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.35 | 0.00 | 0.00 | -44.9 | core 3/5 |
 | 2026-05-20 | Falcons | L |  | VRS-tracked 2026-05 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.00 | 0.00 | -2.7 | core 3/5 |
 | 2026-05-20 | PAIN | W |  | VRS-tracked 2026-05 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.52 | 0.00 | +578.8 | core 3/5 |
@@ -107,9 +111,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-11 | Legacy | L |  | VRS-tracked 2026-05 | A | vrs | 0.15 | 1.60 | 1.00 | 0.25 | 0.00 | 0.00 | -15.1 | core 3/5 |
 | 2026-05-03 | Wildcard | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.10 | 0.16 | +425.9 | core 3/5 |
 | 2026-05-03 | Zomblers | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.14 | 0.16 | +105.0 | core 3/5 |
-| 2026-05-02 | Incognito | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.15 | 0.03 | 0.15 | +2.0 | core 3/5 |
-| 2026-04-25 | Iowa Stormboar | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.05 | 0.08 | +231.9 | core 3/5 |
-| 2026-04-25 | IT'S A SECRET | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.06 | 0.00 | +184.7 | core 3/5 |
-| 2026-04-25 | Marsborne | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -229.9 | core 3/5 |
+| 2026-05-02 | Incognito | W |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.03 | 0.15 | +2.0 | core 3/5 |
+| 2026-04-25 | Iowa Stormboar | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.05 | 0.08 | +231.8 | core 3/5 |
+| 2026-04-25 | IT'S A SECRET | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.06 | 0.00 | +184.8 | core 3/5 |
+| 2026-04-25 | Marsborne | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -230.0 | core 3/5 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

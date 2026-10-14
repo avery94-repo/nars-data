@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.006 vs 0.013 average,
 - Quality Wins drivers: beat Uncs United at S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.03; beat Employed at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.03; beat Ablert and Co at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.03
 - Opponent Network drivers: beat Uncs United at S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.96; beat Employed at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94; beat Ablert and Co at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +304.8 |
-| SportsBetExpert | 6 | 2671.6 | +304.6 |
-| LAG Gaming | 8 | 2507.4 | +300.6 |
-| regain | 12 | 2256.1 | +300.6 |
-| Zomblers | 22 | 2114.7 | +298.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Stubbys | 336 | 1201.2 | +0.4 | +89.7 |
+| TEMPR | 335 | 1202.7 | +1.9 | +89.9 |
+| CLUE IN | 334 | 1210.6 | +9.8 | +93.0 |
+| The Agarthans | 333 | 1212.0 | +11.2 | +91.6 |
+| Solace | 332 | 1213.1 | +12.3 | +92.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| offBalance | 165 | +341.5 | +171.5 | +17.0 |
+| BucketJonsBoys | 172 | +332.3 | +166.1 | +16.7 |
+| Pug Palace | 167 | +335.0 | +174.7 | +16.6 |
+| Shaboing Boing Bandits | 173 | +329.8 | +182.6 | +16.4 |
+| Firstwave | 175 | +326.2 | +165.8 | +16.3 |
+| Armored Talent | 174 | +329.0 | +187.3 | +16.2 |
+| APEX | 176 | +321.1 | +170.9 | +16.0 |
+| GOOZPEEK | 182 | +312.3 | +174.8 | +15.4 |
+| LAF | 183 | +310.5 | +166.3 | +15.4 |
+| Shadow Wizard Money Gang | 180 | +315.1 | +199.0 | +15.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +294.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.3), SixSevenZaZa (+0.6).
 

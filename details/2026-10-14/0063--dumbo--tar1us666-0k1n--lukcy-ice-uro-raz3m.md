@@ -3,11 +3,11 @@ Team Name: DUMBO
 Roster: Tar1us666, 0K1N-, Lukcy-Ice, uro, RaZ3M
 NARS Rank: 63 of 506
 
-Final Rating: 1827.0
+Final Rating: 1827.1
 Seeded Start: 1415.0
-H2H Adjustment: +412.0
+H2H Adjustment: +412.1 (capped at +-300, raw +412.0)
 
-Final Rating (1827.0) = Seeded Start (1415.0) + H2H Adjustment (+412.0)
+Final Rating (1827.1) = Seeded Start (1415.0) + H2H Adjustment (+412.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.064 vs 0.239 average,
 - Quality Wins drivers: beat Rejects at S58 NA Intermediate Central - Playoffs A (2026-09-15) 0.16; beat Shadow Wizard Money Gang at S59 NA Advanced Central - Regular Season (2026-10-09) 0.15; beat AURA Esports at S58 NA Intermediate Central - Playoffs A (2026-09-17) 0.13
 - Opponent Network drivers: beat Shadow Wizard Money Gang at S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; beat Rejects at S58 NA Intermediate Central - Playoffs A (2026-09-15) 1.00; beat MommySports at S58 NA Intermediate Central - Playoffs A (2026-09-18) 1.00
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +142.3 |
-| SportsBetExpert | 6 | 2671.6 | +140.8 |
-| M80 | 2 | 3081.4 | +140.0 |
-| Wildcard | 3 | 2911.9 | +138.6 |
-| Liquid | 1 | 3103.3 | +138.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| academy 4 gifted children | 62 | 1829.0 | +1.9 | +52.7 |
+| Sedated | 61 | 1831.7 | +4.6 | +52.8 |
+| F5 Esports | 60 | 1835.3 | +8.2 | +56.6 |
+| Beyond Limits | 59 | 1852.4 | +25.3 | +57.6 |
+| feet67 | 58 | 1857.4 | +30.3 | +58.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| NuTorious | 17 | +338.6 | +83.6 | +8.6 |
+| Old Meta | 15 | +349.0 | +101.7 | +8.6 |
+| FarmVille | 16 | +340.5 | +112.8 | +8.3 |
+| Villainous | 18 | +333.6 | +110.8 | +8.1 |
+| Iowa Stormboar | 21 | +288.7 | +106.2 | +7.2 |
+| Zomblers | 22 | +287.6 | +106.5 | +7.1 |
+| qcclan | 20 | +319.0 | +90.1 | +5.4 |
+| MASTER ONE | 19 | +332.3 | +86.9 | +4.7 |
+| duck crew | 23 | +268.9 | +69.9 | +1.8 |
+| Olympus | 25 | +212.5 | +80.6 | +1.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +138.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
 
@@ -65,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | redtyfguhoj | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.07 | 0.92 | +23.5 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-28 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -50.2 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-27 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -117.8 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
-| 2026-08-21 | offBalance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.10 | 0.84 | +63.6 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
+| 2026-08-21 | offBalance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.10 | 0.84 | +63.7 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-20 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -59.1 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-14 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.09 | 0.79 | +8.7 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-12 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +87.0 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |

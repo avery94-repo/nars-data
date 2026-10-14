@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.058 | 1181.6 | - |
-| +30 days | 0.040 | 1155.4 | -26.3 |
+| +30 days | 0.040 | 1155.4 | -26.2 |
 | +60 days | 0.038 | 1152.5 | -29.1 |
 | +90 days | 0.035 | 1149.4 | -32.2 |
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.176 vs 0.274 aver
 - Quality Wins drivers: beat Sable at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.04; beat Uncs United at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.03; beat Kaos at S57 NA Main Central - Regular Season (2026-05-20) 0.02
 - Opponent Network drivers: beat Sable at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93; beat Uncs United at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92; beat Kaos at S57 NA Main Central - Regular Season (2026-05-20) 0.25
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.1 |
-| SportsBetExpert | 6 | 2671.6 | +663.2 |
-| LAG Gaming | 8 | 2507.4 | +653.1 |
-| M80 | 2 | 3081.4 | +650.2 |
-| regain | 12 | 2256.1 | +646.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Diamond Mental | 299 | 1269.9 | +0.9 | +162.7 |
+| Mud Wizards | 298 | 1270.0 | +1.0 | +172.7 |
+| Meepins | 297 | 1271.2 | +2.2 | +164.9 |
+| University of Cincinnati | 296 | 1278.3 | +9.3 | +165.2 |
+| COGNITIVE | 295 | 1279.1 | +10.1 | +171.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Kaos | 139 | +341.8 | +300.5 | +32.3 |
+| KODEX ESPORTS | 137 | +347.5 | +406.2 | +30.0 |
+| Team Amplus | 145 | +325.2 | +330.9 | +29.9 |
+| Kevin James Fan Club | 148 | +311.9 | +314.2 | +28.6 |
+| Biggie Cheese Fan Club | 151 | +307.6 | +287.5 | +28.4 |
+| WhiteBoyWinter | 155 | +297.7 | +296.2 | +26.7 |
+| offBalance | 165 | +273.3 | +288.2 | +22.1 |
+| Order Zero | 156 | +295.7 | +268.1 | +22.1 |
+| Oath | 142 | +333.2 | +282.4 | +21.9 |
+| Pug Palace | 167 | +266.8 | +290.9 | +20.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.6).
 
@@ -61,14 +78,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-10 | Team Zhao | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -136.5 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
-| 2026-09-04 | Sable | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.04 | 0.93 | +109.8 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
-| 2026-09-02 | Uncs United | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +169.3 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
-| 2026-05-22 | 2THRiLL | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -351.7 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
+| 2026-09-04 | Sable | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.04 | 0.93 | +109.9 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
+| 2026-09-02 | Uncs United | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +169.4 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
+| 2026-05-22 | 2THRiLL | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -351.8 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-20 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +135.2 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-15 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.21 | +3.1 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
-| 2026-05-08 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +222.8 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
-| 2026-05-06 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +343.4 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
-| 2026-05-01 | Aers Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -380.2 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
+| 2026-05-08 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +222.9 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
+| 2026-05-06 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +343.5 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
+| 2026-05-01 | Aers Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -380.3 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-04-30 | Temple of Swing | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +393.8 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-04-24 | CLUE IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -251.1 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-04-22 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -170.6 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |

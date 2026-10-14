@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.070 vs 0.072 average
 - Quality Wins drivers: beat Kahoot Squad at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.07; beat Thrash at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07; beat Line Steppers at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.07
 - Opponent Network drivers: beat Thrash at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; beat Line Steppers at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94; beat BANANA PASTE at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +266.8 |
-| SportsBetExpert | 6 | 2671.6 | +266.6 |
-| LAG Gaming | 8 | 2507.4 | +263.2 |
-| regain | 12 | 2256.1 | +263.1 |
-| Zomblers | 22 | 2114.7 | +261.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Transcended | 326 | 1223.3 | +0.8 | +85.2 |
+| innerFire | 325 | 1224.3 | +1.8 | +85.0 |
+| Sultans of Swing | 324 | 1225.0 | +2.5 | +80.6 |
+| NetanYAHOO | 323 | 1227.3 | +4.8 | +93.7 |
+| The Ohio Meat Wagon | 322 | 1228.2 | +5.7 | +81.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| WhiteBoyWinter | 155 | +344.2 | +150.7 | +15.3 |
+| offBalance | 165 | +319.8 | +148.9 | +14.2 |
+| Pug Palace | 167 | +313.3 | +151.7 | +13.8 |
+| BucketJonsBoys | 172 | +310.6 | +144.2 | +13.7 |
+| Shaboing Boing Bandits | 173 | +308.1 | +158.5 | +13.5 |
+| Armored Talent | 174 | +307.3 | +162.6 | +13.4 |
+| Firstwave | 175 | +304.5 | +143.9 | +13.3 |
+| Order Zero | 156 | +342.2 | +133.4 | +13.1 |
+| APEX | 176 | +299.4 | +148.4 | +13.0 |
+| Shadow Wizard Money Gang | 180 | +293.4 | +172.6 | +12.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +257.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.4).
 
@@ -58,6 +75,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | No Future Lifes Over | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -94.9 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
 | 2026-09-06 | Line Steppers | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +119.2 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
 | 2026-09-04 | BANANA PASTE | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +154.1 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
-| 2026-09-02 | Kahoot Squad | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.07 | 0.92 | +23.4 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
+| 2026-09-02 | Kahoot Squad | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.07 | 0.92 | +23.3 | CT-9978, EllyM-, Fiphfil, Gloofs, PoggyPoggy1 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

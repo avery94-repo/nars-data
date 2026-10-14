@@ -3,11 +3,11 @@ Team Name: THE GUILD
 Roster: PeePeePooPoo, Kats, _Hiki_, yourlimiter, suityan
 NARS Rank: 264 of 506
 
-Final Rating: 1359.1
+Final Rating: 1359.0
 Seeded Start: 1275.8
-H2H Adjustment: +83.3
+H2H Adjustment: +83.2
 
-Final Rating (1359.1) = Seeded Start (1275.8) + H2H Adjustment (+83.3)
+Final Rating (1359.0) = Seeded Start (1275.8) + H2H Adjustment (+83.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.126 | 1275.8 | - |
-| +30 days | 0.109 | 1252.9 | -23.0 |
+| +30 days | 0.109 | 1252.8 | -23.0 |
 | +60 days | 0.102 | 1242.3 | -33.5 |
-| +90 days | 0.089 | 1224.8 | -51.1 |
+| +90 days | 0.089 | 1224.7 | -51.1 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.103 average, gap -0.027). Matching that average is worth about 9.5 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.103 average
 - Quality Wins drivers: beat Exnitas at S59 NA Main A - Regular Season (2026-10-09) 0.13; beat NYX at S58 NA Main A - Regular Season (2026-07-18) 0.08; beat After Peak at S58 NA Main A - Regular Season (2026-08-28) 0.08
 - Opponent Network drivers: beat Exnitas at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat After Peak at S58 NA Main A - Regular Season (2026-08-28) 0.90; beat Wealth Reduction at S58 NA Main A - Regular Season (2026-08-26) 0.89
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +495.3 |
-| SportsBetExpert | 6 | 2671.6 | +494.3 |
-| LAG Gaming | 8 | 2507.4 | +486.4 |
-| M80 | 2 | 3081.4 | +485.0 |
-| Wildcard | 3 | 2911.9 | +481.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| ASCEND | 263 | 1360.1 | +1.1 | +140.8 |
+| DUI | 262 | 1361.0 | +2.0 | +132.0 |
+| DadDick Esports | 261 | 1362.4 | +3.4 | +143.5 |
+| Kinetic | 260 | 1364.2 | +5.2 | +144.8 |
+| The Sweepers | 259 | 1365.8 | +6.8 | +134.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Axial | 101 | +347.4 | +260.9 | +25.5 |
+| Addice | 102 | +343.5 | +302.4 | +24.4 |
+| New Legends | 103 | +336.3 | +306.6 | +23.8 |
+| Holy Squid Empire | 108 | +319.7 | +255.2 | +23.6 |
+| Black Dragon Society | 109 | +311.7 | +272.3 | +22.6 |
+| Read You Like a Kindle | 116 | +295.7 | +268.0 | +20.8 |
+| eefsports | 112 | +305.2 | +216.3 | +20.1 |
+| ODIN | 119 | +288.1 | +260.4 | +19.5 |
+| Northern District | 106 | +325.0 | +221.8 | +17.7 |
+| Team GREAT | 128 | +270.2 | +221.3 | +17.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +478.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -60,22 +77,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Exnitas | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.13 | 1.02 | +302.0 | BushDid4-20, J3llyz, Kats, suityan, yourlimiter |
 | 2026-08-28 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.08 | 0.90 | +14.4 | Kats, PeePeePooPoo, To4sT, suityan, yourlimiter |
-| 2026-08-26 | Wealth Reduction | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.04 | 0.89 | +80.1 | Kats, PeePeePooPoo, To4sT, suityan, yourlimiter |
-| 2026-08-21 | Baja Blasters | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -102.1 | Kats, PeePeePooPoo, To4sT, suityan, yourlimiter |
+| 2026-08-26 | Wealth Reduction | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.04 | 0.89 | +80.2 | Kats, PeePeePooPoo, To4sT, suityan, yourlimiter |
+| 2026-08-21 | Baja Blasters | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -102.2 | Kats, PeePeePooPoo, To4sT, suityan, yourlimiter |
 | 2026-08-19 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.04 | 0.84 | +8.3 | Kats, PeePeePooPoo, To4sT, suityan, yourlimiter |
 | 2026-08-14 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.07 | 0.81 | +144.5 | Kats, PeePeePooPoo, To4sT, suityan, yourlimiter |
 | 2026-08-12 | Schadenfreude | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -144.9 | Daybe, Kats, PeePeePooPoo, suityan, yourlimiter |
 | 2026-07-31 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -1.3 | Kats, To4sT, _Hiki_, suityan, yourlimiter |
-| 2026-07-29 | Les Ptis Jus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -206.1 | Kats, To4sT, _Hiki_, suityan, yourlimiter |
+| 2026-07-29 | Les Ptis Jus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -206.2 | Kats, To4sT, _Hiki_, suityan, yourlimiter |
 | 2026-07-24 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -83.6 | Kats, To4sT, _Hiki_, suityan, yourlimiter |
 | 2026-07-22 | DKR Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -3.5 | Kats, NotRyce, _Hiki_, suityan, yourlimiter |
 | 2026-07-18 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.02 | 1.00 | 0.62 | 0.08 | 0.62 | +27.2 | Kats, NotRyce, _Hiki_, suityan, yourlimiter |
-| 2026-05-20 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +232.4 | Kats, PeePeePooPoo, _Hiki_, suityan, yourlimiter |
+| 2026-05-20 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +232.5 | Kats, PeePeePooPoo, _Hiki_, suityan, yourlimiter |
 | 2026-05-15 | qcclan | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -199.2 | Kats, PeePeePooPoo, _Hiki_, suityan, yourlimiter |
-| 2026-05-12 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -293.1 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan, yourlimiter |
-| 2026-05-08 | Shaboing Boing Bandits | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -218.0 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
-| 2026-05-06 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +379.8 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
-| 2026-05-01 | Salsas Mazzin Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +273.9 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
+| 2026-05-12 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -293.2 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan, yourlimiter |
+| 2026-05-08 | Shaboing Boing Bandits | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -218.1 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
+| 2026-05-06 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +379.9 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
+| 2026-05-01 | Salsas Mazzin Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +274.0 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
 | 2026-04-29 | Wealth Reduction | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -393.9 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
 | 2026-04-23 | Order Zero | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +266.4 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
 

@@ -3,11 +3,11 @@ Team Name: 69
 Roster: Lustikkk, Entityy, v1tezzzzz, welldonskiy, _STRILOK_
 NARS Rank: 464 of 506
 
-Final Rating: 832.4
+Final Rating: 832.3
 Seeded Start: 1208.0
-H2H Adjustment: -375.6
+H2H Adjustment: -375.7
 
-Final Rating (832.4) = Seeded Start (1208.0) + H2H Adjustment (-375.6)
+Final Rating (832.3) = Seeded Start (1208.0) + H2H Adjustment (-375.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.077 | 1208.0 | - |
 | +30 days | 0.058 | 1180.6 | -27.4 |
 | +60 days | 0.040 | 1155.6 | -52.4 |
-| +90 days | 0.033 | 1146.5 | -61.5 |
+| +90 days | 0.033 | 1146.5 | -61.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.207 vs 0.263 average, gap -0.056). Matching that average is worth about 19.6 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.207 vs 0.263 aver
 - Quality Wins drivers: beat AURA Esports at S58 NA Intermediate A - Regular Season (2026-08-05) 0.09; beat Conduit eSports at S58 NA Intermediate A - Regular Season (2026-08-21) 0.06; beat BD Lamron at S57 NA Open1-8 Central - Playoffs (2026-05-30) 0.01
 - Opponent Network drivers: beat Conduit eSports at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat AURA Esports at S58 NA Intermediate A - Regular Season (2026-08-05) 0.73; beat Evade Gaming at S57 NA Open1-8 Central - Playoffs (2026-06-12) 0.37
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +464.3 |
-| SportsBetExpert | 6 | 2671.6 | +464.2 |
-| North Forge | 38 | 1971.1 | +463.0 |
-| Zomblers | 22 | 2114.7 | +462.2 |
-| Wanted Goons | 43 | 1933.1 | +462.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| de_throne | 463 | 834.8 | +2.5 | +126.6 |
+| dogwater | 462 | 835.5 | +3.2 | +139.3 |
+| Remnant | 461 | 836.7 | +4.4 | +132.6 |
+| Absent Minded | 460 | 845.1 | +12.8 | +134.6 |
+| Puddle Pirates | 459 | 848.8 | +16.5 | +129.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Samantha 4 | 351 | +345.7 | +240.9 | +24.5 |
+| RunTheDamnBall | 352 | +334.8 | +253.1 | +23.6 |
+| DeathMark E-Sports | 353 | +334.2 | +261.0 | +23.3 |
+| Comeback Bandits | 355 | +328.3 | +245.8 | +23.2 |
+| 99 Thieves | 354 | +330.0 | +245.0 | +23.0 |
+| Macs Snacks | 359 | +321.6 | +230.7 | +22.8 |
+| Aers Money Crew | 360 | +320.9 | +237.4 | +22.7 |
+| RH Help Desk | 358 | +326.2 | +265.1 | +22.6 |
+| MINDTRIP | 361 | +317.3 | +242.1 | +22.3 |
+| Temple of Swing | 362 | +315.1 | +233.8 | +22.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +448.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Open1-8 Central - Playoffs vs Chippys Ahoy (2026-05-29): expires in 41 days [Quality Wins 0.00, Opponent Network 0.28]
@@ -62,18 +79,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -78.4 | DOOR_1, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
 | 2026-08-26 | Team Deathgrip | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -108.3 | DOOR_1, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
 | 2026-08-21 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +75.0 | DOOR_1, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
-| 2026-08-19 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -69.4 | DOOR_1, Entityy, Lustikkk, v1tezzzzz, welldonskiy |
+| 2026-08-19 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -69.5 | DOOR_1, Entityy, Lustikkk, v1tezzzzz, welldonskiy |
 | 2026-08-14 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -48.1 | Entityy, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
 | 2026-08-12 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -93.2 | DOOR_1, Yappi_1, _STRILOK_, v1tezzzzz, welldonskiy |
 | 2026-08-07 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -72.4 | DOOR_1, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
-| 2026-08-05 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.09 | 0.73 | +151.8 | DOOR_1, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
+| 2026-08-05 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.09 | 0.73 | +151.9 | DOOR_1, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
 | 2026-07-17 | Climbers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -419.9 | DOOR_1, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
-| 2026-07-15 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -455.5 | FobIa_aSalo, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
-| 2026-06-15 | Conduit eSports | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -133.1 | Danchesko, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
+| 2026-07-15 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -455.6 | FobIa_aSalo, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
+| 2026-06-15 | Conduit eSports | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -133.2 | Danchesko, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
 | 2026-06-12 | Evade Gaming | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.37 | +158.1 | BITCOIN223, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
-| 2026-06-08 | We Wont Implode This Time | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.34 | +203.8 | Danchesko, Entityy, Lustikkk, _STRILOK_, v1tezzzzz, welldonskiy |
+| 2026-06-08 | We Wont Implode This Time | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.34 | +203.9 | Danchesko, Entityy, Lustikkk, _STRILOK_, v1tezzzzz, welldonskiy |
 | 2026-06-06 | RichMoneyAcademy | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.33 | +64.4 | ALEX_PLUS1, Danchesko, Lustikkk, _STRILOK_, v1tezzzzz |
-| 2026-05-30 | BD Lamron | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +227.0 | Danchesko, Entityy, Lustikkk, v1tezzzzz, welldonskiy |
+| 2026-05-30 | BD Lamron | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +227.1 | Danchesko, Entityy, Lustikkk, v1tezzzzz, welldonskiy |
 | 2026-05-29 | Chippys Ahoy | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +262.1 | Danchesko, Lustikkk, _STRILOK_, v1tezzzzz, welldonskiy |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

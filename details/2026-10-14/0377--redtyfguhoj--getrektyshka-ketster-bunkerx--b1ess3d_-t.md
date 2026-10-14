@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.315 vs 0.350 aver
 - Quality Wins drivers: beat Epochal Esports at S58 NA Intermediate A - Regular Season (2026-07-15) 0.09; beat GoonAssOldheads at S58 NA Intermediate A - Regular Season (2026-08-05) 0.09; beat GoopT at S58 NA Intermediate A - Regular Season (2026-08-21) 0.06
 - Opponent Network drivers: beat GoopT at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat on disability at S58 NA Intermediate A - Regular Season (2026-08-19) 0.82; beat Conduit eSports at S58 NA Intermediate A - Regular Season (2026-08-14) 0.79
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.5 |
-| SportsBetExpert | 6 | 2671.6 | +664.0 |
-| LAG Gaming | 8 | 2507.4 | +655.4 |
-| regain | 12 | 2256.1 | +655.2 |
-| Zomblers | 22 | 2114.7 | +651.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Shadow Wizard Money Gang | 376 | 1107.8 | +3.3 | +171.0 |
+| NYX | 375 | 1115.3 | +10.8 | +170.6 |
+| in for Blood | 374 | 1116.3 | +11.8 | +166.0 |
+| Team Zhao | 373 | 1116.4 | +11.9 | +177.4 |
+| Qinorhwat | 372 | 1120.5 | +16.0 | +167.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| GOYPEEKING | 216 | +345.5 | +317.2 | +32.4 |
+| Defaulting | 215 | +347.2 | +349.8 | +31.6 |
+| Cortex Jellies | 222 | +332.9 | +293.9 | +31.6 |
+| VARTOVIK | 217 | +345.4 | +365.4 | +30.9 |
+| 1NT | 221 | +334.5 | +328.4 | +30.9 |
+| Binky | 220 | +334.8 | +356.5 | +30.2 |
+| penazoid | 226 | +323.5 | +311.3 | +30.2 |
+| UltimateDarklordWizardz | 227 | +322.6 | +342.4 | +29.3 |
+| YHTR | 235 | +309.2 | +327.5 | +27.9 |
+| Fortis Fortuna Adiuvat | 237 | +301.8 | +310.8 | +27.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+0.9), shirtcockin (+1.4), Courage (+1.7).
 
@@ -62,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +10.7 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 | 2026-08-19 | on disability | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.03 | 0.82 | +71.3 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 | 2026-08-14 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.05 | 0.79 | +77.9 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
-| 2026-08-12 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -123.9 | Ketster, Tek, bunkerX-, getrektyshka, sensh |
+| 2026-08-12 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -124.0 | Ketster, Tek, bunkerX-, getrektyshka, sensh |
 | 2026-08-07 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +70.4 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 | 2026-08-05 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.09 | 0.73 | +147.8 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 | 2026-07-31 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -131.7 | Tek, b1ess3d_, bunkerX-, getrektyshka, toshiiiro |

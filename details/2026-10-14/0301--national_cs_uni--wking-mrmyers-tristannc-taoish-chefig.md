@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.027 vs 0.016 average,
 - Quality Wins drivers: beat dogwater at S58 NA Intermediate A - Regular Season (2026-08-19) 0.09; beat Dead Pixel at S58 NA Intermediate A - Regular Season (2026-08-28) 0.07; beat Team Nyx at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07
 - Opponent Network drivers: beat Team Nyx at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat Dead Pixel at S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; beat dogwater at S58 NA Intermediate A - Regular Season (2026-08-19) 0.82
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +407.5 |
-| SportsBetExpert | 6 | 2671.6 | +407.1 |
-| LAG Gaming | 8 | 2507.4 | +401.4 |
-| regain | 12 | 2256.1 | +399.5 |
-| M80 | 2 | 3081.4 | +398.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| RAZED | 300 | 1269.0 | +2.9 | +113.9 |
+| Diamond Mental | 299 | 1269.9 | +3.8 | +114.2 |
+| Mud Wizards | 298 | 1270.0 | +3.9 | +126.8 |
+| Meepins | 297 | 1271.2 | +5.1 | +116.5 |
+| University of Cincinnati | 296 | 1278.3 | +12.2 | +116.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Kaos | 139 | +344.7 | +204.3 | +22.0 |
+| Team Amplus | 145 | +328.1 | +228.5 | +20.8 |
+| Kevin James Fan Club | 148 | +314.8 | +217.0 | +19.9 |
+| Biggie Cheese Fan Club | 151 | +310.5 | +196.9 | +19.6 |
+| WhiteBoyWinter | 155 | +300.6 | +204.4 | +18.7 |
+| offBalance | 165 | +276.2 | +200.3 | +15.7 |
+| Order Zero | 156 | +298.6 | +182.8 | +15.3 |
+| Oath | 142 | +336.1 | +191.3 | +15.0 |
+| Pug Palace | 167 | +269.7 | +203.0 | +14.7 |
+| BucketJonsBoys | 172 | +267.0 | +194.0 | +14.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +393.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.4).
 
@@ -61,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Team Nyx | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +279.0 | MrMyers, SoIaris, StaticBubble, taoish, wKING |
+| 2026-10-09 | Team Nyx | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +279.1 | MrMyers, SoIaris, StaticBubble, taoish, wKING |
 | 2026-08-28 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +106.5 | MrMyers, SoIaris, StaticBubble, taoish, wKING |
 | 2026-08-26 | Team TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -79.3 | MrMyers, SoIaris, taoish, tristanNC, wKING |
 | 2026-08-21 | Mace Lindu Ruff Rebound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -63.7 | Chefig, MrMyers, StaticBubble, taoish, tristanNC |
@@ -70,18 +87,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -63.4 | Chefig, MAced, SoIaris, taoish, tristanNC |
 | 2026-08-05 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.05 | 0.73 | +35.1 | Chefig, SoIaris, StaticBubble, tristanNC, wKING |
 | 2026-07-31 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -173.8 | MrMyers, StaticBubble, taoish, tristanNC, wKING |
-| 2026-07-22 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -216.6 | Chefig, MrMyers, SoIaris, taoish, tristanNC |
-| 2026-07-17 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.07 | 0.60 | +118.2 | Chefig, MrMyers, StaticBubble, tristanNC, wKING |
-| 2026-07-15 | wabbit2 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.02 | 0.59 | +114.4 | Chefig, SoIaris, taoish, tristanNC, wKING |
-| 2026-06-07 | In Our Prime | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -147.5 | Chefig, MrMyers, SoIaris, elec, wKING |
+| 2026-07-22 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -216.5 | Chefig, MrMyers, SoIaris, taoish, tristanNC |
+| 2026-07-17 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.07 | 0.60 | +118.3 | Chefig, MrMyers, StaticBubble, tristanNC, wKING |
+| 2026-07-15 | wabbit2 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.02 | 0.59 | +114.3 | Chefig, SoIaris, taoish, tristanNC, wKING |
+| 2026-06-07 | In Our Prime | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -147.6 | Chefig, MrMyers, SoIaris, elec, wKING |
 | 2026-06-03 | Tractors | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -162.0 | Chefig, MrMyers, taoish, tristanNC, wKING |
 | 2026-05-29 | Midwest Farmers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.03 | 0.28 | +81.2 | Chefig, MrMyers, elec, taoish, wKING |
-| 2026-05-22 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +278.6 | Chefig, MrMyers, StaticBubble, taoish, wKING |
-| 2026-05-20 | CounterStreakrs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +243.5 | Chefig, StaticBubble, taoish, tristanNC, wKING |
+| 2026-05-22 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +278.8 | Chefig, MrMyers, StaticBubble, taoish, wKING |
+| 2026-05-20 | CounterStreakrs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +243.6 | Chefig, StaticBubble, taoish, tristanNC, wKING |
 | 2026-05-13 | TahMeow | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -254.6 | MrMyers, SoIaris, taoish, tristanNC, wKING |
 | 2026-05-13 | Lan Bears | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -109.5 | MrMyers, SoIaris, taoish, tristanNC, wKING |
 | 2026-05-08 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +106.1 | Chefig, MrMyers, taoish, tristanNC, wKING |
-| 2026-05-01 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +184.4 | MAced, MrMyers, SoIaris, taoish, wKING |
+| 2026-05-01 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +184.5 | MAced, MrMyers, SoIaris, taoish, wKING |
 | 2026-04-29 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -10.8 | MAced, MrMyers, taoish, tristanNC, wKING |
 | 2026-04-24 | Les Ptis Jus | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -12.1 | MAced, SoIaris, taoish, tristanNC, wKING |
 | 2026-04-22 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -237.7 | Chefig, MrMyers, SoIaris, taoish, tristanNC |

@@ -35,21 +35,38 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.031 average,
 - Quality Wins drivers: beat ThirdSite at S58 NA Main Central - Playoffs A (2026-09-06) 0.23; beat enigma at S58 NA Main A - Regular Season (2026-08-05) 0.11; beat Florida Man at S59 NA Main A - Regular Season (2026-10-09) 0.09
 - Opponent Network drivers: beat Florida Man at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat Bird Lickers at S58 NA Main Central - Playoffs A (2026-09-08) 0.99; beat ThirdSite at S58 NA Main Central - Playoffs A (2026-09-06) 0.98
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +207.5 |
-| SportsBetExpert | 6 | 2671.6 | +207.3 |
-| LAG Gaming | 8 | 2507.4 | +204.2 |
-| M80 | 2 | 3081.4 | +203.1 |
-| regain | 12 | 2256.1 | +202.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| strawberry poptarts | 251 | 1377.7 | +0.2 | +65.8 |
+| The Kerbins | 250 | 1378.6 | +1.1 | +74.1 |
+| deez | 249 | 1383.5 | +6.0 | +70.0 |
+| Ninjas In Boxer | 248 | 1384.1 | +6.6 | +65.6 |
+| Mach 5 | 247 | 1386.1 | +8.6 | +67.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| NineFlyeSports | 96 | +347.6 | +136.9 | +12.3 |
+| FlyQuest RED | 97 | +343.2 | +142.3 | +11.6 |
+| Axial | 101 | +328.9 | +121.6 | +11.6 |
+| Addice | 102 | +325.0 | +143.0 | +11.3 |
+| New Legends | 103 | +317.8 | +145.6 | +11.1 |
+| Holy Squid Empire | 108 | +301.2 | +120.0 | +10.5 |
+| Black Dragon Society | 109 | +293.2 | +129.4 | +10.1 |
+| Hadouken | 100 | +332.3 | +105.3 | +9.3 |
+| Read You Like a Kindle | 116 | +277.2 | +128.2 | +9.0 |
+| Bills | 99 | +334.5 | +105.5 | +8.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +200.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season (2026-05-22): expires in 34 days [Tier Exposure 0.26]
-- S57 NA Main Central - Playoffs (2026-06-02): expires in 45 days [Tier Exposure 0.38]
+- S57 NA Main Central - Playoffs (2026-06-02): expires in 45 days [Tier Exposure 0.37]
 
 #### Matches (33 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -71,23 +88,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -84.4 | -Anarchyz, LordOPies, rise, sascha, twinkinator |
 | 2026-08-07 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -168.0 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-08-05 | enigma | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.11 | 0.74 | +9.3 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
-| 2026-07-31 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -13.1 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
+| 2026-07-31 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -13.0 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-24 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.08 | 0.66 | +22.1 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-22 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.06 | 0.65 | +54.3 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-17 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.03 | 0.61 | +0.1 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
-| 2026-07-15 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.02 | 0.60 | +91.6 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
-| 2026-06-02 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -135.9 | -Anarchyz, AGN, LordOPies, rise, sascha |
+| 2026-07-15 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.02 | 0.60 | +91.7 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
+| 2026-06-02 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.37 | 0.00 | 0.00 | -136.0 | -Anarchyz, AGN, LordOPies, rise, sascha |
 | 2026-05-31 | DKR Esports | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.04 | 0.36 | +159.6 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-05-27 | Tall Ocean Rats | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -208.4 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-05-22 | FRAGDEMONS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +230.1 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-05-20 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -191.3 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-05-15 | Tall Ocean Rats | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +333.3 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-05-27 | Tall Ocean Rats | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -208.5 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-05-22 | FRAGDEMONS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +230.2 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-05-20 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -191.4 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-05-15 | Tall Ocean Rats | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +333.4 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-15 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -145.6 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-08 | DUI | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +440.7 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-05-06 | DKR Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -327.2 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-05-06 | DKR Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -327.3 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-01 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -0.1 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-04-30 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -183.7 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-04-29 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +299.3 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-04-29 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +299.4 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-04-28 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.15 | 1.00 | 0.08 | 0.00 | 0.00 | -89.6 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

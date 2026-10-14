@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.096 | 1233.9 | - |
 | +30 days | 0.093 | 1229.8 | -4.0 |
 | +60 days | 0.092 | 1228.5 | -5.4 |
-| +90 days | 0.090 | 1225.5 | -8.3 |
+| +90 days | 0.090 | 1225.5 | -8.4 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.035 vs 0.096 average, gap -0.061). Matching that average is worth about 21.3 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.035 vs 0.096 average
 - Quality Wins drivers: beat LAF at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.08; beat KIS at S58 NA Open9-10 East - Playoffs A (2026-09-15) 0.07; beat Kodaks Lettuce at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.06
 - Opponent Network drivers: beat KIS at S58 NA Open9-10 East - Playoffs A (2026-09-15) 1.00; beat Vibe Check at S58 NA Open9-10 East - Playoffs A (2026-09-17) 1.00; beat LAF at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +384.8 |
-| SportsBetExpert | 6 | 2671.6 | +383.1 |
-| M80 | 2 | 3081.4 | +377.3 |
-| LAG Gaming | 8 | 2507.4 | +374.4 |
-| Wildcard | 3 | 2911.9 | +374.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Order Zero | 156 | 1564.7 | +4.0 | +109.4 |
+| WhiteBoyWinter | 155 | 1566.7 | +6.0 | +116.4 |
+| ASYCS KITTENS | 154 | 1569.5 | +8.8 | +113.7 |
+| MINDTRIP | 153 | 1569.7 | +9.0 | +110.4 |
+| Celestial Esports | 152 | 1574.5 | +13.8 | +121.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| FLOW STATE | 47 | +336.7 | +235.5 | +20.0 |
+| No Future Lifes Over | 50 | +326.4 | +212.8 | +19.9 |
+| DESPAIR | 49 | +328.0 | +213.1 | +19.7 |
+| TheMotherLovers | 53 | +317.2 | +218.5 | +19.1 |
+| Phantom Sense | 51 | +323.0 | +258.6 | +19.0 |
+| Omen Esports | 57 | +297.1 | +228.5 | +16.8 |
+| GG | 52 | +320.7 | +179.5 | +14.9 |
+| flat earth | 64 | +265.8 | +202.2 | +13.9 |
+| Endless Esports | 65 | +265.3 | +203.8 | +13.8 |
+| DUMBO | 63 | +266.4 | +222.8 | +13.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +372.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 
@@ -52,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-18 | fih hou | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -67.7 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
+| 2026-09-18 | fih hou | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -67.8 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
 | 2026-09-17 | Vibe Check | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +80.3 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
 | 2026-09-15 | KIS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +88.1 | 1Cyrix, Gonzo_, Seb, _MD_, sniperclub01 |
 | 2026-09-08 | Trap Castle | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -99.8 | 1Cyrix, FurDaddy, Perree, _MD_, sniperclub01 |

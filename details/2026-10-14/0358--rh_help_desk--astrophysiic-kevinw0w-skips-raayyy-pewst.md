@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.136 vs 0.280 aver
 - Quality Wins drivers: beat Defaulting at S58 NA Open9-10 West - Playoffs (2026-09-06) 0.08; beat Purple Reign at S58 NA Open9-10 West - Playoffs (2026-09-04) 0.04
 - Opponent Network drivers: beat Defaulting at S58 NA Open9-10 West - Playoffs (2026-09-06) 1.04; beat Purple Reign at S58 NA Open9-10 West - Playoffs (2026-09-04) 1.03
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +237.1 |
-| SportsBetExpert | 6 | 2671.6 | +237.0 |
-| regain | 12 | 2256.1 | +234.4 |
-| LAG Gaming | 8 | 2507.4 | +234.0 |
-| Zomblers | 22 | 2114.7 | +233.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Kurrupted Mindz | 357 | 1159.7 | +1.2 | +72.7 |
+| katzwitgunz | 356 | 1159.8 | +1.3 | +72.7 |
+| Comeback Bandits | 355 | 1160.6 | +2.1 | +80.4 |
+| 99 Thieves | 354 | 1162.3 | +3.8 | +80.4 |
+| DeathMark E-Sports | 353 | 1166.5 | +8.0 | +84.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| KIS | 185 | +348.1 | +131.6 | +13.9 |
+| Lynnsanity | 189 | +341.5 | +149.8 | +13.5 |
+| No Leaders Please | 190 | +340.9 | +149.7 | +13.5 |
+| ClanAgain | 195 | +334.8 | +130.3 | +13.5 |
+| teamington | 192 | +339.6 | +137.2 | +13.4 |
+| Alternate Earth | 186 | +345.5 | +159.5 | +13.4 |
+| ABG Esports | 196 | +330.2 | +147.3 | +13.4 |
+| UncsStillGotIt | 191 | +340.8 | +158.5 | +13.3 |
+| O Fire | 198 | +330.0 | +152.2 | +13.1 |
+| Bad Jawn | 200 | +323.6 | +149.9 | +12.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +228.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.6).
 

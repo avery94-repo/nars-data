@@ -3,11 +3,11 @@ Team Name: onliners
 Roster: Primal-_-, Sufrad, Nathaniel, syth, -Josh
 NARS Rank: 456 of 506
 
-Final Rating: 870.3
+Final Rating: 870.2
 Seeded Start: 1112.9
-H2H Adjustment: -242.6
+H2H Adjustment: -242.7
 
-Final Rating (870.3) = Seeded Start (1112.9) + H2H Adjustment (-242.6)
+Final Rating (870.2) = Seeded Start (1112.9) + H2H Adjustment (-242.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.025 vs 0.121 aver
 - Quality Wins drivers: beat Chopped at S57 NA Main Central - Regular Season (2026-05-13) 0.02; beat The Homies at S57 NA Main Central - Regular Season (2026-05-01) 0.01; beat Courage at S57 NA Main Central - Regular Season (2026-04-29) 0.00
 - Opponent Network drivers: beat Chopped at S57 NA Main Central - Regular Season (2026-05-13) 0.19; beat The Homies at S57 NA Main Central - Regular Season (2026-05-01) 0.10; beat Courage at S57 NA Main Central - Regular Season (2026-04-29) 0.09
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.7 |
-| SportsBetExpert | 6 | 2671.6 | +664.5 |
-| Zomblers | 22 | 2114.7 | +660.4 |
-| North Forge | 38 | 1971.1 | +660.0 |
-| regain | 12 | 2256.1 | +659.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| girl kissers | 455 | 883.6 | +13.4 | +166.5 |
+| Cause and Effect Gaming | 454 | 884.7 | +14.5 | +166.8 |
+| insane players | 453 | 889.7 | +19.5 | +168.5 |
+| GoopT | 452 | 894.5 | +24.3 | +181.1 |
+| on disability | 451 | 894.9 | +24.7 | +170.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Brobies | 330 | +345.2 | +366.3 | +30.8 |
+| MONARCH | 337 | +330.6 | +334.9 | +30.2 |
+| Boop Boop Gang | 340 | +325.4 | +303.9 | +30.2 |
+| MadaNASCAR | 341 | +325.1 | +329.9 | +29.9 |
+| Florida Man | 345 | +316.0 | +345.2 | +28.4 |
+| Tall Ocean Rats | 331 | +344.0 | +286.5 | +28.2 |
+| Samantha 4 | 351 | +307.8 | +300.6 | +28.2 |
+| RunTheDamnBall | 352 | +296.9 | +312.3 | +26.3 |
+| DeathMark E-Sports | 353 | +296.3 | +320.7 | +26.1 |
+| Comeback Bandits | 355 | +290.4 | +303.5 | +25.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs Courage (2026-04-29): expires in 11 days [Quality Wins 0.00, Opponent Network 0.09]
@@ -57,9 +74,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-15 | 1NT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -203.0 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
-| 2026-05-13 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +369.3 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
-| 2026-05-08 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -239.3 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
-| 2026-05-06 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -415.4 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
+| 2026-05-13 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +369.4 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
+| 2026-05-08 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -239.4 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
+| 2026-05-06 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -415.5 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
 | 2026-05-01 | The Homies | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +60.3 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
 | 2026-04-29 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +424.1 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
 | 2026-04-24 | Fortis Fortuna Adiuvat | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -1.6 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |

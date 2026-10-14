@@ -3,11 +3,11 @@ Team Name: 027fam
 Roster: JKronic, veygo, makku, Peachy-, Kranoli-
 NARS Rank: 287 of 506
 
-Final Rating: 1296.1
+Final Rating: 1296.0
 Seeded Start: 1268.0
-H2H Adjustment: +28.1
+H2H Adjustment: +28.0
 
-Final Rating (1296.1) = Seeded Start (1268.0) + H2H Adjustment (+28.1)
+Final Rating (1296.0) = Seeded Start (1268.0) + H2H Adjustment (+28.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,25 +25,42 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.120 | 1268.0 | - |
-| +30 days | 0.080 | 1211.7 | -56.3 |
+| +30 days | 0.080 | 1211.6 | -56.3 |
 | +60 days | 0.050 | 1170.5 | -97.5 |
-| +90 days | 0.029 | 1140.0 | -128.0 |
+| +90 days | 0.029 | 1139.9 | -128.0 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.071 vs 0.096 average, gap -0.025). Matching that average is worth about 8.7 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.071 vs 0.096 average, gap -0.025). Matching that average is worth about 8.8 seed points.
 
 - Tier Exposure drivers: S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; S57 NA Main Central - Playoffs (2026-06-15) 0.48; S57 NA Main Central - Regular Season (2026-05-22) 0.26
 - Quality Wins drivers: beat Pug Palace at S58 NA Advanced Central - Regular Season (2026-08-14) 0.12; beat GRIT at S58 NA Advanced Central - Regular Season (2026-07-31) 0.11; beat Team Hyper at S58 NA Advanced Central - Regular Season (2026-07-17) 0.09
 - Opponent Network drivers: beat Pug Palace at S58 NA Advanced Central - Regular Season (2026-08-14) 1.15; beat GRIT at S58 NA Advanced Central - Regular Season (2026-07-31) 1.01; beat Team Hyper at S58 NA Advanced Central - Regular Season (2026-07-17) 0.87
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.0 |
-| SportsBetExpert | 6 | 2671.6 | +662.9 |
-| LAG Gaming | 8 | 2507.4 | +652.5 |
-| M80 | 2 | 3081.4 | +650.1 |
-| Wildcard | 3 | 2911.9 | +645.7 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Midwest Farmers | 286 | 1296.3 | +0.3 | +171.3 |
+| Entertainment Cheese | 285 | 1300.8 | +4.8 | +173.3 |
+| ItAintOverYet | 284 | 1302.6 | +6.6 | +169.5 |
+| Imperium | 283 | 1305.5 | +9.5 | +165.3 |
+| Aetheris | 282 | 1313.0 | +17.0 | +170.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Team GREAT | 128 | +333.2 | +303.4 | +31.5 |
+| Torii | 129 | +332.0 | +335.1 | +30.6 |
+| 5Frag Gaming | 134 | +325.4 | +340.5 | +29.7 |
+| Kaos | 139 | +314.8 | +289.0 | +29.2 |
+| KODEX ESPORTS | 137 | +320.5 | +385.5 | +28.2 |
+| Team Amplus | 145 | +298.2 | +316.1 | +26.5 |
+| Kevin James Fan Club | 148 | +284.9 | +300.3 | +24.4 |
+| DNA | 127 | +339.0 | +284.6 | +23.8 |
+| Biggie Cheese Fan Club | 151 | +280.6 | +275.9 | +23.7 |
+| WhiteBoyWinter | 155 | +270.7 | +283.4 | +21.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.2), Courage (+0.3), SixSevenZaZa (+0.5).
 
@@ -67,24 +84,24 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | North Forge | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -14.4 | -Nik, JKronic, Peachy-, makku, veygo |
 | 2026-08-20 | NineFlyeSports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.45 | 1.00 | 1.20 | 0.00 | 0.00 | -11.9 | -Nik, JKronic, Peachy-, makku, veygo |
 | 2026-08-19 | academy 4 gifted children | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -0.5 | -Nik, JKronic, Peachy-, makku, veygo |
-| 2026-08-18 | dead team | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.18 | 0.00 | 0.00 | -70.3 | -Nik, JKronic, Peachy-, makku, veygo |
+| 2026-08-18 | dead team | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.18 | 0.00 | 0.00 | -70.4 | -Nik, JKronic, Peachy-, makku, veygo |
 | 2026-08-14 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.12 | 1.15 | +63.6 | JKronic, Peachy-, ST7, makku, veygo |
 | 2026-08-05 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -170.1 | JKronic, Peachy-, ST7, makku, veygo |
 | 2026-07-31 | GRIT | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.11 | 1.01 | +143.1 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-07-30 | firesale | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.45 | 1.00 | 1.00 | 0.00 | 0.00 | -137.7 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-07-23 | Holly Molly | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.93 | 0.00 | 0.00 | -298.2 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-07-30 | firesale | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.45 | 1.00 | 1.00 | 0.00 | 0.00 | -137.8 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-07-23 | Holly Molly | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.93 | 0.00 | 0.00 | -298.3 | JKronic, Kranoli-, Peachy-, makku, veygo |
 | 2026-07-17 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.09 | 0.87 | +1.1 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-07-16 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -344.0 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-06-15 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.39 | 1.24 | 1.00 | 0.48 | 0.00 | 0.00 | -199.0 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-06-13 | Elation | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.38 | 1.24 | 1.00 | 0.47 | 0.03 | 0.47 | +215.6 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-06-09 | Crimson Vortex | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.35 | 1.24 | 1.00 | 0.43 | 0.04 | 0.43 | +189.4 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-06-02 | Slimy Boogermen | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -141.2 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-05-31 | SquadUp | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.07 | 0.36 | +235.5 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-05-29 | DESPAIR | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.05 | 0.34 | +292.6 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-05-27 | Hadouken | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.01 | 0.33 | +344.2 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-05-22 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -178.6 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-05-20 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -207.9 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-05-15 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -335.7 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-07-16 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -344.1 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-06-15 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.39 | 1.24 | 1.00 | 0.48 | 0.00 | 0.00 | -199.1 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-06-13 | Elation | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.38 | 1.24 | 1.00 | 0.47 | 0.03 | 0.47 | +215.7 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-06-09 | Crimson Vortex | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.35 | 1.24 | 1.00 | 0.43 | 0.04 | 0.43 | +189.5 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-06-02 | Slimy Boogermen | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -141.3 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-05-31 | SquadUp | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.07 | 0.36 | +235.6 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-05-29 | DESPAIR | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.05 | 0.34 | +292.7 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-05-27 | Hadouken | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.01 | 0.33 | +344.3 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-05-22 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -178.7 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-05-20 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -208.0 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-05-15 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -335.8 | JKronic, Kranoli-, Peachy-, makku, veygo |
 | 2026-05-13 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -12.9 | JKronic, Kranoli-, Peachy-, makku, veygo |
 | 2026-05-08 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +187.9 | JKronic, Kranoli-, Peachy-, makku, veygo |
 | 2026-05-06 | DNA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +7.8 | JKronic, Kranoli-, Peachy-, makku, veygo |

@@ -26,24 +26,41 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.032 | 1145.4 | - |
 | +30 days | 0.027 | 1137.2 | -8.1 |
-| +60 days | 0.023 | 1131.7 | -13.7 |
+| +60 days | 0.023 | 1131.7 | -13.6 |
 | +90 days | 0.021 | 1129.6 | -15.7 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.081 vs 0.272 average, gap -0.191). Matching that average is worth about 66.9 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.081 vs 0.272 average, gap -0.191). Matching that average is worth about 66.8 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31
 - Quality Wins drivers: beat Vantage at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.03; beat MSU MAROON at S57 NA Open9-10 Central - Playoffs B (2026-06-02) 0.00
 - Opponent Network drivers: beat Vantage at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.93; beat MSU MAROON at S57 NA Open9-10 Central - Playoffs B (2026-06-02) 0.30
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.3 |
-| regain | 12 | 2256.1 | +657.3 |
-| LAG Gaming | 8 | 2507.4 | +656.0 |
-| Zomblers | 22 | 2114.7 | +655.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| MakeYouSayLate | 414 | 1026.9 | +5.2 | +169.8 |
+| Epochal Esports | 413 | 1036.1 | +14.4 | +175.6 |
+| Moniseum | 412 | 1036.4 | +14.7 | +166.9 |
+| Duality Zero | 411 | 1036.4 | +14.7 | +166.9 |
+| STIM | 410 | 1036.9 | +15.2 | +167.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| GoonAssOldheads | 258 | +348.1 | +317.6 | +32.7 |
+| THE GUILD | 264 | +337.3 | +305.9 | +31.9 |
+| DadDick Esports | 261 | +340.7 | +344.5 | +31.2 |
+| Wiggle Peeks | 265 | +335.1 | +326.2 | +31.2 |
+| Kinetic | 260 | +342.5 | +350.8 | +31.1 |
+| ASCEND | 263 | +338.4 | +330.4 | +31.0 |
+| PASSION | 269 | +327.7 | +333.1 | +30.2 |
+| DUI | 262 | +339.3 | +284.7 | +27.6 |
+| Saltcrew | 276 | +299.1 | +295.9 | +26.9 |
+| Chopped | 277 | +298.1 | +320.2 | +26.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.0), 3 Feet Of Meat (+2.0).
 

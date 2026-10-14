@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.261 vs 0.403 aver
 - Quality Wins drivers: beat Feels MAIN Man at S59 NA Intermediate A - Regular Season (2026-10-09) 0.09; beat AscendentEsport at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07; beat PSDN White at S58 NA Open9-10 East - Playoffs B (2026-09-07) 0.05
 - Opponent Network drivers: beat AscendentEsport at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; beat Feels MAIN Man at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat UKY Blue at S58 NA Open9-10 East - Playoffs B (2026-09-08) 0.99
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +207.4 |
-| SportsBetExpert | 6 | 2671.6 | +207.1 |
-| LAG Gaming | 8 | 2507.4 | +204.0 |
-| M80 | 2 | 3081.4 | +203.1 |
-| regain | 12 | 2256.1 | +202.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Fortis Fortuna Adiuvat | 237 | 1406.3 | +0.4 | +72.0 |
+| BD Lamron | 236 | 1409.6 | +3.7 | +65.0 |
+| YHTR | 235 | 1413.7 | +7.8 | +75.3 |
+| UnitedStatesArmy Esports | 234 | 1419.2 | +13.3 | +69.9 |
+| The Skins | 233 | 1419.7 | +13.8 | +66.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Fire Nation | 90 | +343.8 | +122.5 | +12.2 |
+| Fathom Gaming | 91 | +339.4 | +119.7 | +12.2 |
+| Overtake Sector | 89 | +344.9 | +159.0 | +11.8 |
+| NineFlyeSports | 96 | +319.2 | +132.4 | +11.5 |
+| Elusive | 93 | +325.7 | +143.2 | +11.5 |
+| Green Grove Retirement | 94 | +322.7 | +127.3 | +11.5 |
+| PROFECO | 87 | +349.2 | +107.0 | +10.9 |
+| FlyQuest RED | 97 | +314.8 | +137.6 | +10.8 |
+| Axial | 101 | +300.5 | +117.7 | +10.3 |
+| Addice | 102 | +296.6 | +137.9 | +10.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +200.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -57,6 +74,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | ClanAgain | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.00 | 0.00 | -86.3 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-09-08 | UKY Blue | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +31.0 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-09-07 | PSDN White | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.05 | 0.99 | +150.9 | -fakez, -larry, HugoElite, OSKAVELIw0w-, Panda1__, armali |
-| 2026-09-04 | O Fire | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.00 | 0.00 | -69.8 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
+| 2026-09-04 | O Fire | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -69.8 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -4,14 +4,14 @@ Roster: Jackpot, JGamby, alloy, enfohip, samR-
 NARS Rank: 227 of 506
 
 Final Rating: 1427.1
-Seeded Start: 1448.6
-H2H Adjustment: -21.5
+Seeded Start: 1448.5
+H2H Adjustment: -21.4
 
-Final Rating (1427.1) = Seeded Start (1448.6) + H2H Adjustment (-21.5)
+Final Rating (1427.1) = Seeded Start (1448.5) + H2H Adjustment (-21.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.249 x 1400 = 1448.6
+                = 1100 + 0.249 x 1400 = 1448.5
 
 seed_factor 0.249 = 0.25 x Tier Exposure (0.202) + 0.50 x Quality Wins (0.077) + 0.25 x Opponent Network (0.639)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.249 | 1448.6 | - |
-| +30 days | 0.231 | 1423.9 | -24.7 |
-| +60 days | 0.217 | 1403.2 | -45.4 |
-| +90 days | 0.192 | 1368.1 | -80.5 |
+| Now | 0.249 | 1448.5 | - |
+| +30 days | 0.231 | 1423.8 | -24.7 |
+| +60 days | 0.217 | 1403.1 | -45.4 |
+| +90 days | 0.191 | 1368.0 | -80.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.077 vs 0.026 average, gap +0.051). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.077 vs 0.026 average,
 - Quality Wins drivers: beat KODEX ESPORTS at NSTLGA League | Ruby Conference (2026-08-20) 0.24; beat FUELED BY HATE at Group Stage - CROSSFIRE Season 6 (2026-09-09) 0.21; beat HeadShot Esports at NSTLGA League | Ruby Conference (2026-08-27) 0.18
 - Opponent Network drivers: beat FUELED BY HATE at Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; beat HeadShot Esports at NSTLGA League | Ruby Conference (2026-08-27) 1.28; beat KODEX ESPORTS at NSTLGA League | Ruby Conference (2026-08-20) 1.21
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +245.6 |
-| SportsBetExpert | 6 | 2671.6 | +245.2 |
-| LAG Gaming | 8 | 2507.4 | +241.3 |
-| M80 | 2 | 3081.4 | +240.5 |
-| Wildcard | 3 | 2911.9 | +238.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| penazoid | 226 | 1428.0 | +0.9 | +81.0 |
+| Elisir Esports | 225 | 1428.5 | +1.4 | +75.0 |
+| TahMeow | 224 | 1429.4 | +2.3 | +75.1 |
+| Beam Tinky | 223 | 1434.2 | +7.1 | +76.7 |
+| Cortex Jellies | 222 | 1437.4 | +10.3 | +78.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| firesale | 82 | +341.1 | +150.9 | +14.2 |
+| Diggers | 86 | +336.3 | +134.8 | +14.1 |
+| Fire Nation | 90 | +322.6 | +139.1 | +13.4 |
+| Fathom Gaming | 91 | +318.2 | +136.0 | +13.3 |
+| Overtake Sector | 89 | +323.7 | +179.4 | +13.2 |
+| Elusive | 93 | +304.5 | +161.5 | +12.4 |
+| Green Grove Retirement | 94 | +301.5 | +144.0 | +12.2 |
+| NineFlyeSports | 96 | +298.0 | +149.5 | +12.2 |
+| PROFECO | 87 | +328.0 | +122.1 | +11.9 |
+| FlyQuest RED | 97 | +293.6 | +155.0 | +11.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +237.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
 
@@ -66,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | It Doesnt Matter | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.10 | 0.92 | +0.2 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-28 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +61.4 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-27 | HeadShot Esports | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.28 | 0.18 | 1.28 | +2.6 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-08-27 | Over Your Head | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.28 | 0.00 | 0.00 | -35.2 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-08-27 | Over Your Head | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.27 | 0.00 | 0.00 | -35.2 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-26 | ABG Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.11 | 0.87 | +43.0 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-21 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.09 | 0.84 | +1.7 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-20 | KODEX ESPORTS | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.24 | 1.21 | +123.1 | JGamby, Jackpot, alloy, enfohip, samR- |
@@ -84,7 +101,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +213.1 | Avacate, JGamby, Jackpot, alloy, enfohip |
 | 2026-07-15 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +0.1 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-06-05 | Team TahMeow | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.32 | +161.8 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-06-02 | FAT CHUDS BRO | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +147.1 | JGamby, Jackpot, alwayslucky-, enfohip, samR- |
+| 2026-06-02 | FAT CHUDS BRO | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +147.2 | JGamby, Jackpot, alwayslucky-, enfohip, samR- |
 | 2026-05-27 | MSU MAROON | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +41.0 | ALDEN_, JGamby, Jackpot, enfohip, samR- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

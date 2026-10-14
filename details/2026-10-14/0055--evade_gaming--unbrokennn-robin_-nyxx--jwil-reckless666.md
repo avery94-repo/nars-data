@@ -5,7 +5,7 @@ NARS Rank: 55 of 506
 
 Final Rating: 1865.0
 Seeded Start: 1141.0
-H2H Adjustment: +724.0
+H2H Adjustment: +724.0 (capped at +-300, raw +724.1)
 
 Final Rating (1865.0) = Seeded Start (1141.0) + H2H Adjustment (+724.0)
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.100 vs 0.508 aver
 - Quality Wins drivers: beat Only Goys at S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.01; beat Calm Cocktails at S57 NA Open1-8 Central - Playoffs (2026-05-29) 0.01; beat Northern District at S57 NA Open1-8 Central - Playoffs (2026-06-10) 0.00
 - Opponent Network drivers: beat Northern District at S57 NA Open1-8 Central - Playoffs (2026-06-10) 0.36; beat 4fun at S57 NA Open1-8 Central - Playoffs (2026-06-05) 0.32; beat Only Goys at S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.31
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +649.3 |
-| M80 | 2 | 3081.4 | +645.8 |
-| Liquid | 1 | 3103.3 | +637.0 |
-| Wildcard | 3 | 2911.9 | +635.0 |
-| SportsBetExpert | 6 | 2671.6 | +628.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Sharp | 54 | 1867.8 | +2.8 | +173.5 |
+| TheMotherLovers | 53 | 1877.9 | +12.9 | +176.6 |
+| GG | 52 | 1881.4 | +16.4 | +167.5 |
+| Phantom Sense | 51 | 1883.7 | +18.7 | +183.8 |
+| No Future Lifes Over | 50 | 1887.1 | +22.1 | +178.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Brahmas | 14 | +342.4 | +307.6 | +32.7 |
+| Old Meta | 15 | +311.1 | +345.0 | +27.7 |
+| NuTorious | 17 | +300.7 | +293.0 | +27.2 |
+| FarmVille | 16 | +302.6 | +371.5 | +25.9 |
+| Villainous | 18 | +295.7 | +363.4 | +24.6 |
+| Iowa Stormboar | 21 | +250.8 | +332.2 | +16.6 |
+| Zomblers | 22 | +249.7 | +332.4 | +16.5 |
+| qcclan | 20 | +281.1 | +305.0 | +13.9 |
+| MASTER ONE | 19 | +294.4 | +300.2 | +12.4 |
+| Phantom Sense | 51 | +18.7 | +183.8 | -0.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +637.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0).
 
@@ -60,9 +77,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-12 | 69 | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -151.4 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
-| 2026-06-10 | Northern District | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.36 | +135.4 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
-| 2026-06-05 | 4fun | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.32 | +166.1 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
+| 2026-06-12 | 69 | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -151.5 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
+| 2026-06-10 | Northern District | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.36 | +135.5 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
+| 2026-06-05 | 4fun | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.32 | +166.2 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
 | 2026-06-03 | Only Goys | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +182.8 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
 | 2026-05-29 | Calm Cocktails | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +195.3 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |
 | 2026-05-27 | Snail Trail | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +195.7 | Jwil, Reckless666, RoBiN_, UnbrokeNNN, nyxx- |

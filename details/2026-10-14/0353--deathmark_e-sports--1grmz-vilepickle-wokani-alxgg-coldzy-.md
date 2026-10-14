@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.130 | 1282.3 | - |
 | +30 days | 0.109 | 1253.1 | -29.2 |
-| +60 days | 0.086 | 1220.1 | -62.3 |
+| +60 days | 0.086 | 1220.0 | -62.3 |
 | +90 days | 0.061 | 1185.9 | -96.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.028 vs 0.022 average, gap +0.006). Matching that average is worth about 0.0 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.028 vs 0.022 average,
 - Quality Wins drivers: beat ABG Esports at S58 NA Intermediate B - Regular Season (2026-08-05) 0.09; beat Benadryl Abusers at S58 NA Intermediate B - Regular Season (2026-08-21) 0.09; beat DadDick Esports at S58 NA Intermediate B - Regular Season (2026-07-29) 0.08
 - Opponent Network drivers: beat High-Tech Performance at S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; beat Benadryl Abusers at S58 NA Intermediate B - Regular Season (2026-08-21) 0.84; beat ABG Esports at S58 NA Intermediate B - Regular Season (2026-08-05) 0.73
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +278.4 |
-| SportsBetExpert | 6 | 2671.6 | +278.3 |
-| regain | 12 | 2256.1 | +275.1 |
-| LAG Gaming | 8 | 2507.4 | +274.7 |
-| Zomblers | 22 | 2114.7 | +274.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| RunTheDamnBall | 352 | 1167.1 | +0.6 | +92.3 |
+| Samantha 4 | 351 | 1178.0 | +11.5 | +91.1 |
+| SOLA | 350 | 1178.1 | +11.6 | +85.0 |
+| PPWesports | 349 | 1179.7 | +13.2 | +100.5 |
+| Will of Dih | 348 | 1181.1 | +14.6 | +85.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| LAF | 183 | +344.8 | +160.3 | +15.8 |
+| GOOZPEEK | 182 | +346.6 | +168.8 | +15.8 |
+| KIS | 185 | +340.1 | +150.4 | +15.8 |
+| Lynnsanity | 189 | +333.5 | +170.7 | +15.3 |
+| Shadow Wizard Money Gang | 180 | +349.4 | +193.0 | +15.2 |
+| No Leaders Please | 190 | +332.9 | +170.6 | +15.2 |
+| Alternate Earth | 186 | +337.5 | +181.7 | +15.2 |
+| teamington | 192 | +331.6 | +156.6 | +15.2 |
+| ClanAgain | 195 | +326.8 | +148.8 | +15.2 |
+| UncsStillGotIt | 191 | +332.8 | +180.4 | +15.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +268.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
 
@@ -62,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | D1NK Esports | L | 0-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -34.4 | 1GRMZ, CoLdZy-, VilePickle, aLxGG, donPepitoo |
 | 2026-09-04 | UltimateDarklordWizardz | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -9.5 | 1GRMZ, CoLdZy-, VilePickle, aLxGG, donPepitoo |
 | 2026-08-28 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +65.9 | 1GRMZ, CoLdZy-, VilePickle, aLxGG, donPepitoo |
-| 2026-08-21 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.09 | 0.84 | +48.0 | 1GRMZ, CoLdZy-, VilePickle, aLxGG, donPepitoo |
+| 2026-08-21 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.09 | 0.84 | +48.1 | 1GRMZ, CoLdZy-, VilePickle, aLxGG, donPepitoo |
 | 2026-08-19 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -103.5 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
 | 2026-08-14 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -89.4 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
 | 2026-08-12 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -92.0 | CoLdZy-, SwiCH-, VilePickle, Wokani, aLxGG |
@@ -73,9 +90,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.02 | 0.64 | +0.0 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
 | 2026-07-17 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +2.7 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
 | 2026-07-15 | After Hours | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -164.0 | 1GRMZ, VilePickle, Wokani, aLxGG, donPepitoo |
-| 2026-06-12 | Sultans of Swing | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.02 | 0.37 | +195.4 | CoLdZy-, Irulan, VilePickle, _Nebbe, aLxGG |
+| 2026-06-12 | Sultans of Swing | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.02 | 0.37 | +195.5 | CoLdZy-, Irulan, VilePickle, _Nebbe, aLxGG |
 | 2026-06-10 | Puddle Pirates | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.02 | 0.36 | +182.7 | CoLdZy-, Irulan, VilePickle, _Nebbe, aLxGG |
-| 2026-06-03 | Pixel Peek | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +253.2 | CoLdZy-, Irulan, VilePickle, Wokani, aLxGG |
+| 2026-06-03 | Pixel Peek | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +253.3 | CoLdZy-, Irulan, VilePickle, Wokani, aLxGG |
 | 2026-05-27 | Beef Wrappers | L | 0-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -281.1 | CoLdZy-, VilePickle, Wokani, _Nebbe, aLxGG |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

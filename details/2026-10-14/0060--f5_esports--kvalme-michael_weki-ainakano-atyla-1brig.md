@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.365 | 1611.1 | - |
 | +30 days | 0.343 | 1580.3 | -30.8 |
 | +60 days | 0.326 | 1556.2 | -54.9 |
-| +90 days | 0.297 | 1516.5 | -94.7 |
+| +90 days | 0.297 | 1516.4 | -94.7 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.215 vs 0.238 average, gap -0.023). Matching that average is worth about 16.1 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.215 vs 0.238 average,
 - Quality Wins drivers: beat Fathom Gaming at CROSSFIRE Season 6 - Playoffs (2026-09-24) 0.56; beat FlyQuest RED at Group Stage - CROSSFIRE Season 6 (2026-09-08) 0.56; beat Axial at NSTLGA League | Sapphire Conference (2026-08-19) 0.53
 - Opponent Network drivers: beat Omen Esports at CROSSFIRE Season 6 - Playoffs (2026-09-21) 1.55; beat Fathom Gaming at CROSSFIRE Season 6 - Playoffs (2026-09-24) 1.55; beat academy 4 gifted children at Playoff - CROSSFIRE Season 6 (2026-09-14) 1.45
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +220.8 |
-| SportsBetExpert | 6 | 2671.6 | +217.7 |
-| M80 | 2 | 3081.4 | +217.4 |
-| Wildcard | 3 | 2911.9 | +215.1 |
-| Liquid | 1 | 3103.3 | +214.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Beyond Limits | 59 | 1852.4 | +17.1 | +82.1 |
+| feet67 | 58 | 1857.4 | +22.1 | +83.8 |
+| Omen Esports | 57 | 1857.8 | +22.5 | +86.4 |
+| Bird Squishers | 56 | 1863.8 | +28.5 | +79.5 |
+| Evade Gaming | 55 | 1865.0 | +29.7 | +72.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Old Meta | 15 | +340.8 | +150.2 | +12.6 |
+| NuTorious | 17 | +330.4 | +124.1 | +12.6 |
+| FarmVille | 16 | +332.3 | +165.9 | +12.1 |
+| Villainous | 18 | +325.4 | +162.9 | +11.8 |
+| Iowa Stormboar | 21 | +280.5 | +154.6 | +10.0 |
+| Zomblers | 22 | +279.4 | +155.0 | +10.0 |
+| qcclan | 20 | +310.8 | +133.0 | +7.6 |
+| MASTER ONE | 19 | +324.1 | +128.7 | +6.7 |
+| duck crew | 23 | +260.7 | +103.6 | +1.9 |
+| Olympus | 25 | +204.3 | +117.1 | +0.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +214.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0), RejexEsports (+0.0).
 
@@ -52,24 +69,24 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-26 | ThirdSite | L |  | SOFLO SLAM 3 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -91.8 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
+| 2026-09-26 | ThirdSite | L |  | SOFLO SLAM 3 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -91.9 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-25 | Without a Roof | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -0.5 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-24 | Fathom Gaming | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.56 | 1.55 | +54.1 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
-| 2026-09-21 | Omen Esports | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.53 | 1.55 | +79.4 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
+| 2026-09-21 | Omen Esports | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.53 | 1.55 | +79.5 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-18 | Overtake Sector | L | 1-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -0.6 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-14 | academy 4 gifted children | L |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -68.1 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-14 | academy 4 gifted children | W | 2-1 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 1.00 | 1.46 | 1.00 | 1.45 | 0.44 | 1.45 | +62.1 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
-| 2026-09-08 | FlyQuest RED | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.27 | 0.56 | 1.27 | +105.0 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
-| 2026-09-07 | Wolves | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.27 | 0.20 | 1.27 | +99.9 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
+| 2026-09-08 | FlyQuest RED | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.27 | 0.56 | 1.27 | +105.1 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
+| 2026-09-07 | Wolves | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.26 | 0.20 | 1.26 | +99.9 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-05 | Demolition | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.33 | 1.00 | 1.25 | 0.19 | 1.25 | +51.8 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-08-23 | Entertainment Cheese | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -140.2 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 | 2026-08-23 | Elusive | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -82.0 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 | 2026-08-23 | Olympus | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -1.4 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
-| 2026-08-23 | ThirdSite | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -186.7 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
+| 2026-08-23 | ThirdSite | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -186.8 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 | 2026-08-19 | Axial | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.82 | 1.20 | 1.00 | 0.99 | 0.53 | 0.99 | +0.4 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 | 2026-08-08 | Epochal Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.75 | 1.20 | 1.00 | 0.90 | 0.14 | 0.90 | +0.2 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 | 2026-08-03 | NuTorious | L | 1-2 | SoFlo Slam 2 | C | faceit-tournament | 0.72 | 1.19 | 1.00 | 0.85 | 0.00 | 0.00 | -116.3 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 | 2026-08-01 | Tacos Tiramisu and Lies | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.84 | 0.19 | 0.84 | +195.0 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
-| 2026-08-01 | Asoka | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.84 | 0.18 | 0.84 | +263.8 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
+| 2026-08-01 | Asoka | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.84 | 0.18 | 0.84 | +263.9 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

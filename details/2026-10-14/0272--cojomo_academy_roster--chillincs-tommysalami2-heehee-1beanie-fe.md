@@ -3,11 +3,11 @@ Team Name: Cojomo Academy Roster
 Roster: chillincs, TommySalami2, heehee, 1Beanie, Females
 NARS Rank: 272 of 506
 
-Final Rating: 1336.2
+Final Rating: 1336.1
 Seeded Start: 1266.3
-H2H Adjustment: +69.9
+H2H Adjustment: +69.8
 
-Final Rating (1336.2) = Seeded Start (1266.3) + H2H Adjustment (+69.9)
+Final Rating (1336.1) = Seeded Start (1266.3) + H2H Adjustment (+69.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.042 vs 0.058 average
 - Quality Wins drivers: beat Lan Bears at S58 NA Intermediate A - Regular Season (2026-08-26) 0.07; beat ItAintOverYet at S58 NA Intermediate A - Regular Season (2026-08-19) 0.07; beat NATIONAL CS UNI at S58 NA Intermediate A - Regular Season (2026-08-12) 0.07
 - Opponent Network drivers: beat Climbers at S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; beat Lan Bears at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat ItAintOverYet at S58 NA Intermediate A - Regular Season (2026-08-19) 0.82
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +663.8 |
-| SportsBetExpert | 6 | 2671.6 | +662.5 |
-| LAG Gaming | 8 | 2507.4 | +651.5 |
-| M80 | 2 | 3081.4 | +650.1 |
-| Wildcard | 3 | 2911.9 | +645.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Gloobers | 271 | 1342.8 | +6.7 | +169.5 |
+| Bird Lickers | 270 | 1342.8 | +6.7 | +166.4 |
+| PASSION | 269 | 1349.4 | +13.3 | +176.3 |
+| the dragon warrior scroll | 268 | 1351.4 | +15.3 | +167.1 |
+| Glockwork | 267 | 1353.3 | +17.2 | +167.8 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Holy Squid Empire | 108 | +342.6 | +329.9 | +31.6 |
+| Black Dragon Society | 109 | +334.6 | +351.1 | +30.4 |
+| Read You Like a Kindle | 116 | +318.6 | +345.0 | +28.7 |
+| eefsports | 112 | +328.1 | +280.4 | +28.2 |
+| ODIN | 119 | +311.0 | +335.2 | +27.4 |
+| Team GREAT | 128 | +293.1 | +285.6 | +26.0 |
+| Torii | 129 | +291.9 | +313.1 | +25.4 |
+| Northern District | 106 | +347.9 | +288.0 | +24.5 |
+| 5Frag Gaming | 134 | +285.3 | +317.2 | +24.1 |
+| Shimmer | 111 | +331.0 | +293.1 | +24.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.3).
 
@@ -59,16 +76,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-28 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.04 | 0.88 | +8.4 | 1Beanie, Dale, Females, b00mslang, kandren |
-| 2026-08-26 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +63.3 | 1Beanie, Dale, Females, b00mslang, kandren |
+| 2026-08-26 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +63.4 | 1Beanie, Dale, Females, b00mslang, kandren |
 | 2026-08-21 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -78.8 | 1Beanie, Dale, Females, b00mslang, kandren |
 | 2026-08-19 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.07 | 0.82 | +51.5 | 1Beanie, Dale, Females, b00mslang, kandren |
 | 2026-08-14 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +1.1 | 1Beanie, Dale, Females, b00mslang, kandren |
 | 2026-08-12 | NATIONAL CS UNI | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.07 | 0.78 | +44.1 | 1Beanie, Dale, Females, b00mslang, kandren |
 | 2026-07-31 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -19.8 | 1Beanie, Dale, Females, b00mslang, kandren |
 | 2026-07-24 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -92.2 | 1Beanie, Dale, Females, R1GEL, kandren |
-| 2026-07-22 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -387.4 | 1Beanie, ArcticLights, Dale, Females, kandren |
+| 2026-07-22 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -387.5 | 1Beanie, ArcticLights, Dale, Females, kandren |
 | 2026-07-17 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +0.0 | 1Beanie, Dale, Females, R1GEL, kandren |
-| 2026-07-15 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +430.4 | 1Beanie, ArcticLights, Dale, Females, kandren |
+| 2026-07-15 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +430.5 | 1Beanie, ArcticLights, Dale, Females, kandren |
 | 2026-06-05 | After Hours | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -156.3 | Dale, Females, TommySalami2, cmepci, kandren |
 | 2026-05-29 | steph curry of our hood | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +44.4 | Dale, Females, TommySalami2, cmepci, kandren |
 | 2026-05-27 | WannaBeMovement | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +161.1 | Dale, Females, TommySalami2, cmepci, kandren |

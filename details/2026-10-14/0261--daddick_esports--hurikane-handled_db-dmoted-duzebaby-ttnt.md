@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.178 | 1349.5 | - |
 | +30 days | 0.168 | 1335.0 | -14.6 |
 | +60 days | 0.153 | 1313.8 | -35.8 |
-| +90 days | 0.135 | 1288.4 | -61.2 |
+| +90 days | 0.135 | 1288.3 | -61.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.043 vs 0.030 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.043 vs 0.030 average,
 - Quality Wins drivers: beat D1NK Esports at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.12; beat Chopped at S59 NA Main A - Regular Season (2026-10-09) 0.11; beat Benadryl Abusers at S58 NA Intermediate B - Regular Season (2026-08-19) 0.09
 - Opponent Network drivers: beat HUMA at S59 NA Main A - Regular Season (2026-10-07) 1.02; beat Chopped at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat D1NK Esports at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.92
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +285.1 |
-| SportsBetExpert | 6 | 2671.6 | +284.7 |
-| LAG Gaming | 8 | 2507.4 | +280.4 |
-| M80 | 2 | 3081.4 | +279.1 |
-| regain | 12 | 2256.1 | +278.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Kinetic | 260 | 1364.2 | +1.8 | +96.5 |
+| The Sweepers | 259 | 1365.8 | +3.4 | +86.2 |
+| GoonAssOldheads | 258 | 1369.8 | +7.4 | +91.7 |
+| Only Goys | 257 | 1369.9 | +7.5 | +86.0 |
+| Real Hustle Club | 256 | 1372.5 | +10.1 | +86.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Axial | 101 | +344.0 | +163.8 | +15.9 |
+| Addice | 102 | +340.1 | +191.9 | +15.4 |
+| New Legends | 103 | +332.9 | +195.3 | +15.1 |
+| Holy Squid Empire | 108 | +316.3 | +161.4 | +14.8 |
+| Black Dragon Society | 109 | +308.3 | +173.6 | +14.3 |
+| Read You Like a Kindle | 116 | +292.3 | +171.7 | +13.1 |
+| Hadouken | 100 | +347.4 | +142.3 | +13.1 |
+| eefsports | 112 | +301.8 | +135.2 | +12.3 |
+| Bills | 99 | +349.6 | +142.6 | +12.3 |
+| ODIN | 119 | +284.7 | +166.9 | +12.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +275.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 

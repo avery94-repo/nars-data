@@ -5,7 +5,7 @@ NARS Rank: 50 of 506
 
 Final Rating: 1887.1
 Seeded Start: 1305.8
-H2H Adjustment: +581.3
+H2H Adjustment: +581.3 (capped at +-300, raw +581.4)
 
 Final Rating (1887.1) = Seeded Start (1305.8) + H2H Adjustment (+581.3)
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.448 vs 0.628 aver
 - Quality Wins drivers: beat Epochal Esports at S59 NA Main A - Regular Season (2026-10-09) 0.16; beat Benadryl Abusers at S59 NA Main A - Regular Season (2026-10-07) 0.11; beat fih hou at S58 NA Open9-10 East - Playoffs A (2026-09-21) 0.07
 - Opponent Network drivers: beat Benadryl Abusers at S59 NA Main A - Regular Season (2026-10-07) 1.02; beat Epochal Esports at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat fih hou at S58 NA Open9-10 East - Playoffs A (2026-09-21) 1.00
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +344.4 |
-| M80 | 2 | 3081.4 | +340.9 |
-| SportsBetExpert | 6 | 2671.6 | +336.4 |
-| Liquid | 1 | 3103.3 | +336.2 |
-| Wildcard | 3 | 2911.9 | +336.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| DESPAIR | 49 | 1888.7 | +1.6 | +109.7 |
+| Skyline | 48 | 1895.4 | +8.3 | +110.9 |
+| FLOW STATE | 47 | 1897.4 | +10.3 | +116.5 |
+| Xiaoma Gaming | 46 | 1911.4 | +24.3 | +122.9 |
+| Swole Patrol | 45 | 1914.3 | +27.2 | +106.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Brahmas | 14 | +320.3 | +178.8 | +18.2 |
+| Old Meta | 15 | +289.0 | +205.2 | +15.2 |
+| FarmVille | 16 | +280.5 | +223.3 | +14.2 |
+| NuTorious | 17 | +278.6 | +171.9 | +14.2 |
+| Villainous | 18 | +273.6 | +218.8 | +13.2 |
+| Iowa Stormboar | 21 | +228.7 | +203.2 | +6.7 |
+| Zomblers | 22 | +227.6 | +203.5 | +6.5 |
+| qcclan | 20 | +259.0 | +181.4 | +5.8 |
+| MASTER ONE | 19 | +272.3 | +177.2 | +5.2 |
+| DESPAIR | 49 | +1.6 | +109.7 | -0.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +336.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Grandpa Berets (+0.0), Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0).
 
@@ -56,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Benadryl Abusers | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +0.3 | Polkan, THADCATSLE, Taysak, The_Zucc, fdoud |
 | 2026-09-21 | fih hou | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +33.9 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
 | 2026-09-16 | Trap Castle | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +77.7 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
-| 2026-09-10 | fih hou | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.07 | 0.00 | +94.9 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
+| 2026-09-10 | fih hou | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.07 | 0.00 | +95.0 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
 | 2026-09-08 | PogSquad | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.07 | 0.96 | +96.1 | IceyKL, Polkan, THADCATSLE, Taysak, fdoud |
 | 2026-09-05 | OPOZIT | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +167.0 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
 | 2026-09-02 | Outer Haven | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +111.3 | IceyKL, Polkan, THADCATSLE, Taysak, fdoud |

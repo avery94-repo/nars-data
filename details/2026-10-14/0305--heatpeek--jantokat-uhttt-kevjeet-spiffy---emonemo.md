@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.115 vs 0.255 aver
 - Quality Wins drivers: beat Smile Team Six at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.03; beat The Peninsula at S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.01; beat YoungBlood at S57 NA Open1-8 Central - Playoffs (2026-05-29) 0.00
 - Opponent Network drivers: beat Smile Team Six at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.92; beat The Peninsula at S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.31; beat YoungBlood at S57 NA Open1-8 Central - Playoffs (2026-05-29) 0.28
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.1 |
-| SportsBetExpert | 6 | 2671.6 | +663.2 |
-| LAG Gaming | 8 | 2507.4 | +653.3 |
-| M80 | 2 | 3081.4 | +650.2 |
-| regain | 12 | 2256.1 | +647.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Guangzhou Loong Lions | 304 | 1259.9 | +1.3 | +169.5 |
+| TELETUBEASTS | 303 | 1263.2 | +4.6 | +174.2 |
+| DingTone | 302 | 1263.8 | +5.2 | +172.1 |
+| NATIONAL CS UNI | 301 | 1266.1 | +7.5 | +171.4 |
+| RAZED | 300 | 1269.0 | +10.4 | +165.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Team Amplus | 145 | +335.6 | +336.6 | +30.9 |
+| Kevin James Fan Club | 148 | +322.3 | +319.6 | +29.9 |
+| Biggie Cheese Fan Club | 151 | +318.0 | +292.0 | +29.8 |
+| WhiteBoyWinter | 155 | +308.1 | +301.1 | +28.3 |
+| offBalance | 165 | +283.7 | +293.3 | +24.2 |
+| Order Zero | 156 | +306.1 | +272.1 | +23.8 |
+| Oath | 142 | +343.6 | +286.4 | +22.9 |
+| Pug Palace | 167 | +277.2 | +296.2 | +22.7 |
+| BucketJonsBoys | 172 | +274.5 | +284.1 | +22.4 |
+| Shaboing Boing Bandits | 173 | +272.0 | +305.4 | +21.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
 
@@ -60,8 +77,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-04 | Rogue Dungeon | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -170.6 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
 | 2026-09-02 | Smile Team Six | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +84.4 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
-| 2026-07-26 | Tractors | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -155.4 | EMOnEMO, Jantokat, Slimm_, Uhttt, spartanbooby |
-| 2026-06-05 | We Wont Implode This Time | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -211.0 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
+| 2026-07-26 | Tractors | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -155.5 | EMOnEMO, Jantokat, Slimm_, Uhttt, spartanbooby |
+| 2026-06-05 | We Wont Implode This Time | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -211.1 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 | 2026-06-03 | The Peninsula | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +172.0 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 | 2026-05-29 | YoungBlood | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +187.3 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 | 2026-05-27 | Team Unknown | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +185.7 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |

@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.121 vs 0.270 aver
 - Quality Wins drivers: beat antiGrav at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.06; beat team leader must 1v9 or L at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.03
 - Opponent Network drivers: beat team leader must 1v9 or L at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.93; beat antiGrav at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.92
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.3 |
-| SportsBetExpert | 6 | 2671.6 | +663.7 |
-| LAG Gaming | 8 | 2507.4 | +654.5 |
-| regain | 12 | 2256.1 | +652.0 |
-| M80 | 2 | 3081.4 | +650.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Florida Man | 345 | 1186.2 | +1.0 | +173.3 |
+| Onsite has Oil | 344 | 1191.0 | +5.8 | +164.1 |
+| T Shirt Material | 343 | 1191.6 | +6.4 | +164.3 |
+| Wide Swinging Wizards | 342 | 1191.6 | +6.4 | +164.3 |
+| MadaNASCAR | 341 | 1195.3 | +10.1 | +174.8 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| BucketJonsBoys | 172 | +347.9 | +318.6 | +32.6 |
+| Firstwave | 175 | +341.8 | +317.3 | +32.1 |
+| Shaboing Boing Bandits | 173 | +345.4 | +346.7 | +31.6 |
+| APEX | 176 | +336.7 | +325.4 | +31.4 |
+| Armored Talent | 174 | +344.6 | +354.7 | +31.2 |
+| LAF | 183 | +326.1 | +316.0 | +30.4 |
+| GOOZPEEK | 182 | +327.9 | +330.6 | +30.3 |
+| KIS | 185 | +321.4 | +298.6 | +30.1 |
+| Shadow Wizard Money Gang | 180 | +330.7 | +372.2 | +29.2 |
+| Lynnsanity | 189 | +314.8 | +331.0 | +28.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.5), shirtcockin (+0.7), Courage (+0.8), SixSevenZaZa (+1.3).
 

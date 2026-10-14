@@ -3,11 +3,11 @@ Team Name: CLUE IN
 Roster: alliV-, 7eVaN, NVS, Little_F, el_jack0
 NARS Rank: 334 of 506
 
-Final Rating: 1210.7
+Final Rating: 1210.6
 Seeded Start: 1173.6
-H2H Adjustment: +37.1
+H2H Adjustment: +37.0
 
-Final Rating (1210.7) = Seeded Start (1173.6) + H2H Adjustment (+37.1)
+Final Rating (1210.6) = Seeded Start (1173.6) + H2H Adjustment (+37.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.053 | 1173.6 | - |
-| +30 days | 0.041 | 1157.9 | -15.8 |
+| +30 days | 0.041 | 1157.9 | -15.7 |
 | +60 days | 0.040 | 1155.6 | -18.0 |
 | +90 days | 0.038 | 1152.6 | -21.0 |
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.044 vs 0.057 average
 - Quality Wins drivers: beat Mud Wizards at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.07; beat UsingCodefArt25atSCL at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.03; beat penazoid at S57 NA Main Central - Regular Season (2026-05-06) 0.02
 - Opponent Network drivers: beat UsingCodefArt25atSCL at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.95; beat Mud Wizards at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.94; beat iNSTINCT at S57 NA Main Central - Regular Season (2026-05-19) 0.24
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +601.5 |
-| SportsBetExpert | 6 | 2671.6 | +600.9 |
-| LAG Gaming | 8 | 2507.4 | +592.5 |
-| regain | 12 | 2256.1 | +589.8 |
-| M80 | 2 | 3081.4 | +588.7 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| The Agarthans | 333 | 1212.0 | +1.4 | +151.9 |
+| Solace | 332 | 1213.1 | +2.5 | +153.1 |
+| Tall Ocean Rats | 331 | 1214.2 | +3.6 | +152.6 |
+| Brobies | 330 | 1215.4 | +4.8 | +165.3 |
+| Double Dink | 329 | 1220.6 | +10.0 | +156.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| offBalance | 165 | +331.7 | +294.3 | +28.8 |
+| BucketJonsBoys | 172 | +322.5 | +285.0 | +28.0 |
+| Pug Palace | 167 | +325.2 | +298.3 | +27.9 |
+| Firstwave | 175 | +316.4 | +283.8 | +27.3 |
+| Shaboing Boing Bandits | 173 | +320.0 | +309.5 | +27.2 |
+| Armored Talent | 174 | +319.2 | +316.5 | +27.0 |
+| APEX | 176 | +311.3 | +290.8 | +26.6 |
+| GOOZPEEK | 182 | +302.5 | +295.2 | +25.3 |
+| LAF | 183 | +300.7 | +282.4 | +25.2 |
+| Shadow Wizard Money Gang | 180 | +305.3 | +331.2 | +24.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +581.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 
@@ -63,9 +80,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | UsingCodefArt25atSCL | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +150.5 | 7eVaN, Little_F, NVS, el_jack0, xner |
 | 2026-09-02 | Mud Wizards | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.07 | 0.94 | +180.1 | 7eVaN, Little_F, NVS, el_jack0, xner |
 | 2026-05-22 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -35.0 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
-| 2026-05-22 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -385.4 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
+| 2026-05-22 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -385.5 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
 | 2026-05-19 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.00 | 0.24 | +185.3 | Little_F, Slove, alliV-, el_jack0, xner |
-| 2026-05-06 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +322.1 | 7eVaN, Little_F, alliV-, el_jack0, xner |
+| 2026-05-06 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +322.2 | 7eVaN, Little_F, alliV-, el_jack0, xner |
 | 2026-04-29 | DingTone | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -168.9 | 7eVaN, Little_F, Slove, alliV-, el_jack0 |
 | 2026-04-24 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +251.1 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
 | 2026-04-22 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -209.8 | 7eVaN, Little_F, Osodank, Slove, alliV- |

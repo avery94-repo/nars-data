@@ -3,11 +3,11 @@ Team Name: Brick Layers
 Roster: BrokenWild, mted1921, Toasty777, Drotex, macchiata
 NARS Rank: 477 of 506
 
-Final Rating: 764.3
+Final Rating: 764.2
 Seeded Start: 1103.4
-H2H Adjustment: -339.1
+H2H Adjustment: -339.2
 
-Final Rating (764.3) = Seeded Start (1103.4) + H2H Adjustment (-339.1)
+Final Rating (764.2) = Seeded Start (1103.4) + H2H Adjustment (-339.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.002 vs 0.118 aver
 - Quality Wins drivers: beat The Ohio Meat Wagon at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.00
 - Opponent Network drivers: beat The Ohio Meat Wagon at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.03
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.7 |
-| SportsBetExpert | 6 | 2671.6 | +664.6 |
-| North Forge | 38 | 1971.1 | +663.3 |
-| Wanted Goons | 43 | 1933.1 | +662.2 |
-| Zomblers | 22 | 2114.7 | +661.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Sleepers | 476 | 776.3 | +12.1 | +166.1 |
+| Iron Horse | 475 | 780.1 | +15.9 | +167.3 |
+| Another Day in Paradise | 474 | 780.3 | +16.1 | +167.4 |
+| AML | 473 | 793.6 | +29.4 | +172.7 |
+| Therapist | 472 | 797.4 | +33.2 | +172.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Zamgaa Anime Aimers | 378 | +339.9 | +311.9 | +32.0 |
+| Shadow Wizard Money Gang | 376 | +343.6 | +331.0 | +31.9 |
+| Costco Family | 382 | +338.3 | +313.7 | +31.8 |
+| We Play Naked | 380 | +339.1 | +330.5 | +31.4 |
+| Texas Orange | 383 | +333.3 | +314.1 | +31.3 |
+| Goyim Gladiators | 379 | +339.7 | +342.8 | +31.1 |
+| Exnitas | 385 | +329.0 | +299.7 | +31.1 |
+| Kahoot Squad | 388 | +318.4 | +301.9 | +29.7 |
+| Flow Esports | 387 | +319.4 | +316.3 | +29.2 |
+| MXA | 386 | +326.6 | +279.9 | +27.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs The Ohio Meat Wagon (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]

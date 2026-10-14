@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.039 vs 0.065 average
 - Quality Wins drivers: beat RH Help Desk at S58 NA Open9-10 West - Playoffs (2026-09-15) 0.08; beat house at S58 NA Open9-10 West - Playoffs (2026-09-10) 0.08; beat Gloobers at S58 NA Open9-10 West - Playoffs (2026-09-17) 0.04
 - Opponent Network drivers: beat Gloobers at S58 NA Open9-10 West - Playoffs (2026-09-17) 1.11; beat RH Help Desk at S58 NA Open9-10 West - Playoffs (2026-09-15) 1.11; beat house at S58 NA Open9-10 West - Playoffs (2026-09-10) 1.07
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +321.8 |
-| SportsBetExpert | 6 | 2671.6 | +320.6 |
-| M80 | 2 | 3081.4 | +315.5 |
-| LAG Gaming | 8 | 2507.4 | +313.8 |
-| Wildcard | 3 | 2911.9 | +313.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| AURA Esports | 159 | 1558.1 | +1.8 | +102.7 |
+| BONK | 158 | 1559.4 | +3.1 | +97.8 |
+| Fourth Quarter | 157 | 1560.7 | +4.4 | +102.6 |
+| Order Zero | 156 | 1564.7 | +8.4 | +95.5 |
+| WhiteBoyWinter | 155 | 1566.7 | +10.4 | +102.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| FLOW STATE | 47 | +341.1 | +204.3 | +17.4 |
+| No Future Lifes Over | 50 | +330.8 | +184.3 | +17.3 |
+| DESPAIR | 49 | +332.4 | +184.6 | +17.2 |
+| TheMotherLovers | 53 | +321.6 | +189.6 | +16.8 |
+| Phantom Sense | 51 | +327.4 | +225.3 | +16.6 |
+| Omen Esports | 57 | +301.5 | +199.2 | +14.9 |
+| GG | 52 | +325.1 | +154.8 | +13.1 |
+| flat earth | 64 | +270.2 | +176.3 | +12.6 |
+| Endless Esports | 65 | +269.7 | +177.8 | +12.5 |
+| DUMBO | 63 | +270.8 | +195.1 | +12.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +311.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 

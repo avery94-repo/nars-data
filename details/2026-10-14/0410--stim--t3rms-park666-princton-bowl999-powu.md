@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.135 vs 0.193 aver
 - Quality Wins drivers: beat Cause and Effect Gaming at S58 NA Open9-10 West - Playoffs (2026-09-02) 0.13; beat Washed at S58 NA Open9-10 West - Playoffs (2026-09-07) 0.04
 - Opponent Network drivers: beat Washed at S58 NA Open9-10 West - Playoffs (2026-09-07) 1.05; beat Cause and Effect Gaming at S58 NA Open9-10 West - Playoffs (2026-09-02) 1.01
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.2 |
-| regain | 12 | 2256.1 | +657.0 |
-| LAG Gaming | 8 | 2507.4 | +655.9 |
-| Zomblers | 22 | 2114.7 | +655.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Team Hyper | 409 | 1037.3 | +0.4 | +174.4 |
+| PSDN White | 408 | 1040.3 | +3.4 | +163.4 |
+| VeryBigDoogoos | 407 | 1043.8 | +6.9 | +164.5 |
+| Ubiquiti | 406 | 1043.8 | +6.9 | +166.0 |
+| Shock Value | 405 | 1046.6 | +9.7 | +165.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| GoonAssOldheads | 258 | +332.9 | +310.5 | +31.3 |
+| The Kerbins | 250 | +341.7 | +345.6 | +31.2 |
+| Eightball | 253 | +338.7 | +334.9 | +30.9 |
+| Dude Picks | 252 | +340.6 | +362.2 | +30.6 |
+| 2THRiLL | 246 | +349.7 | +288.7 | +30.5 |
+| drunk cigs dont count | 255 | +336.2 | +351.8 | +30.5 |
+| THE GUILD | 264 | +322.1 | +299.2 | +30.2 |
+| Kinetic | 260 | +327.3 | +342.0 | +29.9 |
+| DadDick Esports | 261 | +325.5 | +335.9 | +29.8 |
+| Wiggle Peeks | 265 | +319.9 | +318.4 | +29.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.7).
 

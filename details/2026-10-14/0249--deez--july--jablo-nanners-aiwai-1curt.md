@@ -3,11 +3,11 @@ Team Name: deez
 Roster: july-, jablo, nanners, aiwai, 1curt
 NARS Rank: 249 of 506
 
-Final Rating: 1383.4
+Final Rating: 1383.5
 Seeded Start: 1226.1
-H2H Adjustment: +157.3
+H2H Adjustment: +157.4
 
-Final Rating (1383.4) = Seeded Start (1226.1) + H2H Adjustment (+157.3)
+Final Rating (1383.5) = Seeded Start (1226.1) + H2H Adjustment (+157.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,23 +27,40 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.090 | 1226.1 | - |
 | +30 days | 0.086 | 1220.7 | -5.4 |
 | +60 days | 0.085 | 1218.4 | -7.8 |
-| +90 days | 0.082 | 1214.7 | -11.5 |
+| +90 days | 0.082 | 1214.6 | -11.5 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.248 vs 0.395 average, gap -0.147). Matching that average is worth about 51.4 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.248 vs 0.395 average, gap -0.147). Matching that average is worth about 51.5 seed points.
 
 - Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; S58 NA Open9-10 East - Playoffs A (2026-09-15) 1.00
 - Quality Wins drivers: beat Zamgaa Anime Aimers at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.08; beat LAF at S58 NA Open9-10 East - Playoffs A (2026-09-12) 0.08; beat MONARCH at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.06
 - Opponent Network drivers: beat LAF at S58 NA Open9-10 East - Playoffs A (2026-09-12) 0.98; beat Zamgaa Anime Aimers at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97; beat MONARCH at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +461.8 |
-| SportsBetExpert | 6 | 2671.6 | +460.8 |
-| LAG Gaming | 8 | 2507.4 | +453.2 |
-| M80 | 2 | 3081.4 | +452.2 |
-| Wildcard | 3 | 2911.9 | +449.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Ninjas In Boxer | 248 | 1384.1 | +0.6 | +125.2 |
+| Mach 5 | 247 | 1386.1 | +2.6 | +128.1 |
+| 2THRiLL | 246 | 1386.6 | +3.1 | +125.6 |
+| NOVAIR | 245 | 1391.8 | +8.3 | +126.9 |
+| D1NK Esports | 244 | 1392.8 | +9.3 | +130.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Green Grove Retirement | 94 | +345.1 | +258.5 | +24.0 |
+| NineFlyeSports | 96 | +341.6 | +267.9 | +24.0 |
+| Elusive | 93 | +348.1 | +289.0 | +23.5 |
+| FlyQuest RED | 97 | +337.2 | +277.1 | +22.6 |
+| Axial | 101 | +322.9 | +238.8 | +22.5 |
+| Addice | 102 | +319.0 | +275.8 | +21.7 |
+| New Legends | 103 | +311.8 | +279.4 | +20.9 |
+| Holy Squid Empire | 108 | +295.2 | +233.2 | +19.8 |
+| Black Dragon Society | 109 | +287.2 | +248.2 | +18.8 |
+| Hadouken | 100 | +326.3 | +210.0 | +18.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +446.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 

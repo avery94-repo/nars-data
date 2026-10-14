@@ -5,7 +5,7 @@ NARS Rank: 106 of 506
 
 Final Rating: 1684.0
 Seeded Start: 1132.4
-H2H Adjustment: +551.6
+H2H Adjustment: +551.6 (capped at +-300, raw +551.7)
 
 Final Rating (1684.0) = Seeded Start (1132.4) + H2H Adjustment (+551.6)
 
@@ -25,25 +25,42 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.023 | 1132.4 | - |
-| +30 days | 0.009 | 1112.8 | -19.6 |
+| +30 days | 0.009 | 1112.7 | -19.6 |
 | +60 days | 0.000 | 1100.0 | -32.4 |
 | +90 days | 0.000 | 1100.0 | -32.4 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.076 vs 0.685 average, gap -0.609). Matching that average is worth about 213.2 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.076 vs 0.684 average, gap -0.608). Matching that average is worth about 212.8 seed points.
 
 - Tier Exposure drivers: S57 NA Open1-8 Central - Playoffs (2026-06-10) 0.36
 - Quality Wins drivers: beat NEWAR at S57 NA Open1-8 Central - Playoffs (2026-06-05) 0.01; beat BIG at S57 NA Open1-8 Central - Playoffs (2026-05-28) 0.01; beat Reckless Palms at S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.00
 - Opponent Network drivers: beat NEWAR at S57 NA Open1-8 Central - Playoffs (2026-06-05) 0.32; beat Reckless Palms at S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.31; beat BIG at S57 NA Open1-8 Central - Playoffs (2026-05-28) 0.27
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +658.9 |
-| SportsBetExpert | 6 | 2671.6 | +650.6 |
-| M80 | 2 | 3081.4 | +648.6 |
-| Wildcard | 3 | 2911.9 | +641.9 |
-| Liquid | 1 | 3103.3 | +639.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Tacos Tiramisu and Lies | 105 | 1687.3 | +3.3 | +167.6 |
+| NineFly Esports | 104 | 1689.1 | +5.1 | +163.9 |
+| New Legends | 103 | 1695.3 | +11.3 | +179.4 |
+| Addice | 102 | 1702.5 | +18.5 | +182.0 |
+| Axial | 101 | 1706.4 | +22.4 | +177.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Automatic HQ | 27 | +346.8 | +367.0 | +30.9 |
+| VOID ALUNE | 29 | +323.8 | +278.9 | +30.6 |
+| Hairy Scary Bandits | 32 | +315.4 | +335.4 | +29.1 |
+| Chicken Coop | 33 | +314.2 | +381.7 | +27.6 |
+| Holly Molly | 35 | +304.4 | +314.0 | +27.5 |
+| EMPIRE | 36 | +299.6 | +349.6 | +26.3 |
+| unreal nightmare | 37 | +292.6 | +301.6 | +26.1 |
+| North Forge | 38 | +287.2 | +363.1 | +24.1 |
+| Priority | 30 | +320.7 | +277.6 | +21.7 |
+| babaG | 28 | +324.7 | +356.6 | +20.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +639.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
 

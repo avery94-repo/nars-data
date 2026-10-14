@@ -33,17 +33,34 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.101 vs 0.192 aver
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs B (2026-09-07) 0.99; S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
 - Quality Wins drivers: beat 5_gamers_wrong_game at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.03; beat Smuckers at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.01; beat Made in Abergavenny at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.00
-- Opponent Network drivers: beat 5_gamers_wrong_game at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.97; beat Made in Abergavenny at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31; beat Smuckers at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.26
+- Opponent Network drivers: beat 5_gamers_wrong_game at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.96; beat Made in Abergavenny at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31; beat Smuckers at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.26
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.2 |
-| regain | 12 | 2256.1 | +656.9 |
-| LAG Gaming | 8 | 2507.4 | +655.9 |
-| Zomblers | 22 | 2114.7 | +655.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| VeryBigDoogoos | 407 | 1043.8 | +3.5 | +163.4 |
+| Ubiquiti | 406 | 1043.8 | +3.5 | +164.9 |
+| Shock Value | 405 | 1046.6 | +6.3 | +164.3 |
+| DownTown | 404 | 1047.0 | +6.7 | +164.4 |
+| house | 403 | 1048.9 | +8.6 | +175.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| The Kerbins | 250 | +338.3 | +343.7 | +31.0 |
+| GoonAssOldheads | 258 | +329.5 | +308.9 | +30.9 |
+| Eightball | 253 | +335.3 | +333.1 | +30.6 |
+| Dude Picks | 252 | +337.2 | +360.0 | +30.3 |
+| 2THRiLL | 246 | +346.3 | +287.4 | +30.2 |
+| drunk cigs dont count | 255 | +332.8 | +349.8 | +30.2 |
+| THE GUILD | 264 | +318.7 | +297.6 | +29.8 |
+| Kinetic | 260 | +323.9 | +340.0 | +29.5 |
+| DadDick Esports | 261 | +322.1 | +334.0 | +29.5 |
+| Wiggle Peeks | 265 | +316.5 | +316.6 | +29.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.7).
 
@@ -58,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-07 | Casual Mature Gamers | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -145.5 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
-| 2026-09-04 | 5_gamers_wrong_game | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +170.5 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
+| 2026-09-04 | 5_gamers_wrong_game | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +170.5 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
 | 2026-09-02 | pnks pretty princesses | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.00 | 0.00 | -189.7 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
 | 2026-06-10 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -165.8 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
 | 2026-06-03 | Made in Abergavenny | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +175.7 | GoNo, Rabbitt-, Vye-, k0na-, seabass |

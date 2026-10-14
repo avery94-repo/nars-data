@@ -3,17 +3,17 @@ Team Name: 773Revival
 Roster: JaZo, SepehrS, assyrianMOT, SPERMY, NAKIB
 NARS Rank: 319 of 506
 
-Final Rating: 1238.3
+Final Rating: 1238.2
 Seeded Start: 1225.5
-H2H Adjustment: +12.8
+H2H Adjustment: +12.7
 
-Final Rating (1238.3) = Seeded Start (1225.5) + H2H Adjustment (+12.8)
+Final Rating (1238.2) = Seeded Start (1225.5) + H2H Adjustment (+12.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.090 x 1400 = 1225.5
 
-seed_factor 0.090 = 0.25 x Tier Exposure (0.044) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.281)
+seed_factor 0.090 = 0.25 x Tier Exposure (0.044) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.280)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.017 vs 0.006 average,
 - Quality Wins drivers: beat MASTER ONE at S58 NA Main B - Regular Season (2026-07-16) 0.08; beat Square1 at S58 NA Main B - Regular Season (2026-08-21) 0.05; beat Emerald Isle at S58 NA Main B - Regular Season (2026-08-19) 0.05
 - Opponent Network drivers: beat Square1 at S58 NA Main B - Regular Season (2026-08-21) 0.97; beat Emerald Isle at S58 NA Main B - Regular Season (2026-08-19) 0.95; beat ALL IN at S58 NA Main B - Regular Season (2026-07-29) 0.79
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.2 |
-| SportsBetExpert | 6 | 2671.6 | +663.4 |
-| LAG Gaming | 8 | 2507.4 | +653.7 |
-| M80 | 2 | 3081.4 | +650.2 |
-| regain | 12 | 2256.1 | +649.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| fiveB | 318 | 1238.5 | +0.3 | +168.8 |
+| Team Phys | 317 | 1238.6 | +0.4 | +162.4 |
+| Relativity | 316 | 1238.9 | +0.7 | +162.5 |
+| Once Divine Gaming | 315 | 1239.8 | +1.6 | +162.8 |
+| Baatarz | 314 | 1241.4 | +3.2 | +163.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Biggie Cheese Fan Club | 151 | +338.4 | +300.7 | +32.1 |
+| Kevin James Fan Club | 148 | +342.7 | +330.0 | +31.8 |
+| WhiteBoyWinter | 155 | +328.5 | +310.8 | +30.8 |
+| offBalance | 165 | +304.1 | +303.2 | +27.6 |
+| Order Zero | 156 | +326.5 | +279.8 | +26.4 |
+| Pug Palace | 167 | +297.6 | +306.6 | +26.3 |
+| BucketJonsBoys | 172 | +294.9 | +293.7 | +26.2 |
+| Shaboing Boing Bandits | 173 | +292.4 | +316.9 | +25.5 |
+| Armored Talent | 174 | +291.6 | +323.4 | +25.2 |
+| Firstwave | 175 | +288.8 | +292.2 | +25.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.4), Courage (+0.5), SixSevenZaZa (+0.8).
 
@@ -70,7 +87,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Manx Recovery Program | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -81.9 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
 | 2026-07-29 | ALL IN | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.04 | 0.79 | +167.0 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
 | 2026-07-24 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -138.5 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
-| 2026-07-16 | MASTER ONE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.08 | 0.69 | +171.5 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
+| 2026-07-16 | MASTER ONE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.08 | 0.69 | +171.6 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
 | 2026-07-15 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -180.4 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
 | 2026-05-21 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -196.5 | JaZo, NAKIB, SPERMY, SepehrS, assyrianMOT |
 | 2026-05-20 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +1.0 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |

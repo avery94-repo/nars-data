@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.248 vs 0.456 aver
 - Quality Wins drivers: beat club ghoul at S58 NA Open1-8 Central - Playoffs (2026-09-11) 0.03; beat Yum Yum Cigarettes at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.03; beat 49th Parallel at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.03
 - Opponent Network drivers: beat club ghoul at S58 NA Open1-8 Central - Playoffs (2026-09-11) 0.98; beat Yum Yum Cigarettes at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.96; beat 49th Parallel at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.93
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +481.7 |
-| SportsBetExpert | 6 | 2671.6 | +478.9 |
-| M80 | 2 | 3081.4 | +472.5 |
-| Wildcard | 3 | 2911.9 | +468.7 |
-| LAG Gaming | 8 | 2507.4 | +466.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Kevin James Fan Club | 148 | 1580.9 | +3.0 | +138.6 |
+| MommySports | 147 | 1587.1 | +9.2 | +140.0 |
+| JPG | 146 | 1588.0 | +10.1 | +138.9 |
+| Team Amplus | 145 | 1594.2 | +16.3 | +144.6 |
+| pew pew | 144 | 1596.7 | +18.8 | +135.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Swole Patrol | 45 | +336.4 | +221.9 | +24.7 |
+| Xiaoma Gaming | 46 | +333.5 | +293.2 | +23.4 |
+| FLOW STATE | 47 | +319.5 | +274.3 | +22.8 |
+| No Future Lifes Over | 50 | +309.2 | +248.6 | +22.2 |
+| DESPAIR | 49 | +310.8 | +249.1 | +22.1 |
+| Phantom Sense | 51 | +305.8 | +298.5 | +21.3 |
+| TheMotherLovers | 53 | +300.0 | +254.3 | +21.1 |
+| Omen Esports | 57 | +279.9 | +263.8 | +17.8 |
+| GG | 52 | +303.5 | +211.6 | +16.2 |
+| Sharp | 54 | +289.9 | +257.6 | +13.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +466.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 
@@ -56,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | club ghoul | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.03 | 0.98 | +97.0 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
 | 2026-09-09 | Yum Yum Cigarettes | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +117.1 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
 | 2026-09-04 | 49th Parallel | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +168.8 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
-| 2026-09-02 | Icebreakers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +176.2 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
+| 2026-09-02 | Icebreakers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +176.3 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
 | 2026-07-26 | VOID ALUNE | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -130.9 | Andooby, Chrisalish, Chubbers_, NotcockG, svn-iwnl |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

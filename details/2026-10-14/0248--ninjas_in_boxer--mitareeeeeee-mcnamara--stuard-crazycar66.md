@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.165 | 1331.0 | - |
 | +30 days | 0.139 | 1294.6 | -36.4 |
 | +60 days | 0.115 | 1261.0 | -70.0 |
-| +90 days | 0.074 | 1204.3 | -126.8 |
+| +90 days | 0.074 | 1204.2 | -126.8 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.043 vs 0.029 average, gap +0.014). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.043 vs 0.029 average,
 - Quality Wins drivers: beat Armored Talent at S58 NA Intermediate A - Regular Season (2026-08-07) 0.13; beat MadaNASCAR at S58 NA Intermediate A - Regular Season (2026-08-21) 0.12; beat GoonAssOldheads at S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.11
 - Opponent Network drivers: beat On The Spectrum at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-08) 0.94; beat GoonAssOldheads at S58 NA Intermediate Central - Playoffs A (2026-09-04) 0.93; beat MadaNASCAR at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +655.5 |
-| SportsBetExpert | 6 | 2671.6 | +653.8 |
-| M80 | 2 | 3081.4 | +642.1 |
-| LAG Gaming | 8 | 2507.4 | +642.0 |
-| Wildcard | 3 | 2911.9 | +637.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Mach 5 | 247 | 1386.1 | +2.0 | +164.0 |
+| 2THRiLL | 246 | 1386.6 | +2.5 | +161.8 |
+| NOVAIR | 245 | 1391.8 | +7.7 | +163.4 |
+| D1NK Esports | 244 | 1392.8 | +8.7 | +166.4 |
+| OPOZIT | 243 | 1394.8 | +10.7 | +169.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Green Grove Retirement | 94 | +344.5 | +338.0 | +31.4 |
+| NineFlyeSports | 96 | +341.0 | +349.2 | +31.3 |
+| Elusive | 93 | +347.5 | +376.0 | +30.6 |
+| FlyQuest RED | 97 | +336.6 | +360.1 | +29.3 |
+| Axial | 101 | +322.3 | +311.9 | +29.3 |
+| Addice | 102 | +318.4 | +356.4 | +28.0 |
+| New Legends | 103 | +311.2 | +359.9 | +26.9 |
+| Holy Squid Empire | 108 | +294.6 | +302.8 | +25.6 |
+| Hadouken | 100 | +325.7 | +277.1 | +24.1 |
+| Black Dragon Society | 109 | +286.6 | +319.9 | +24.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +633.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -66,20 +83,20 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -57.7 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
 | 2026-08-16 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -63.3 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
 | 2026-08-12 | Goyim Gladiators | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.09 | 0.78 | +77.8 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
-| 2026-08-09 | FLOW STATE | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -125.3 | -JOSE-, CRAZYCAR66, Mcnamara, Mitareeeeeee, themuska |
+| 2026-08-09 | FLOW STATE | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -125.4 | -JOSE-, CRAZYCAR66, Mcnamara, Mitareeeeeee, themuska |
 | 2026-08-08 | On The Spectrum | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.75 | 1.25 | 1.00 | 0.94 | 0.03 | 0.94 | +15.5 | -JOSE-, CRAZYCAR66, Mcnamara, Mitareeeeeee, themuska |
 | 2026-08-07 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.13 | 0.74 | +46.3 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
 | 2026-08-05 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -83.1 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
 | 2026-07-29 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +36.3 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
-| 2026-07-24 | Moniseum | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +233.6 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
+| 2026-07-24 | Moniseum | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +233.7 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
 | 2026-07-22 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -320.9 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
 | 2026-07-17 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +384.4 | -JOSE-, -stuard, Mcnamara, VelmontPX, blazti |
 | 2026-07-15 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +7.0 | -JOSE-, -stuard, Mcnamara, Mitareeeeeee, blazti |
 | 2026-05-31 | The Sweepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -129.5 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
-| 2026-05-29 | strawberry poptarts | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -187.0 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
+| 2026-05-29 | strawberry poptarts | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -187.1 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 | 2026-05-27 | Duality Zero | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +7.7 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
-| 2026-05-22 | Tractors | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.05 | 0.23 | +315.0 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
-| 2026-05-20 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -322.6 | -stuard, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
+| 2026-05-22 | Tractors | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.05 | 0.23 | +315.1 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
+| 2026-05-20 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -322.7 | -stuard, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
 | 2026-05-15 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +39.8 | CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
 | 2026-05-13 | Famas OP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +0.6 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 | 2026-05-08 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +178.8 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |

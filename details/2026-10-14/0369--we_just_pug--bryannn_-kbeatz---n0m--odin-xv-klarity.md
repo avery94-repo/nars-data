@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.022 | 1131.2 | - |
-| +30 days | 0.004 | 1105.7 | -25.6 |
+| +30 days | 0.004 | 1105.7 | -25.5 |
 | +60 days | 0.000 | 1100.0 | -31.2 |
 | +90 days | 0.000 | 1100.0 | -31.2 |
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.064 vs 0.243 aver
 - Quality Wins drivers: beat After Peak at S57 NA Intermediate Central - Playoffs B (2026-05-29) 0.02; beat AML at S57 NA Intermediate Central - Regular Season (2026-04-29) 0.01; beat SixSevenZaZa at S57 NA Intermediate Central - Regular Season (2026-05-13) 0.01
 - Opponent Network drivers: beat After Peak at S57 NA Intermediate Central - Playoffs B (2026-05-29) 0.28; beat SuperSoakerClub at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23; beat SixSevenZaZa at S57 NA Intermediate Central - Regular Season (2026-05-13) 0.17
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.4 |
-| SportsBetExpert | 6 | 2671.6 | +664.0 |
-| LAG Gaming | 8 | 2507.4 | +655.1 |
-| regain | 12 | 2256.1 | +654.2 |
-| M80 | 2 | 3081.4 | +650.3 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Top One Percent | 368 | 1137.0 | +4.4 | +163.7 |
+| Line Steppers | 367 | 1138.8 | +6.2 | +170.0 |
+| Mongolian Tractor | 366 | 1138.9 | +6.3 | +171.7 |
+| iNSTINCT | 365 | 1145.9 | +13.3 | +166.5 |
+| WaterDrinkers | 364 | 1146.1 | +13.5 | +176.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| GRIT | 201 | +348.5 | +306.4 | +32.6 |
+| Bad Jawn | 200 | +349.5 | +357.5 | +31.5 |
+| noname | 208 | +334.7 | +328.8 | +31.1 |
+| Kings Gambit | 210 | +329.3 | +329.9 | +30.4 |
+| AscendentEsport | 207 | +335.2 | +354.0 | +29.8 |
+| Veniversum | 211 | +326.8 | +347.9 | +29.6 |
+| FlockMunchers | 212 | +326.5 | +347.9 | +29.6 |
+| GOYPEEKING | 216 | +317.4 | +304.1 | +29.5 |
+| Defaulting | 215 | +319.1 | +333.9 | +29.1 |
+| VARTOVIK | 217 | +317.3 | +347.9 | +28.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.7), shirtcockin (+1.1), Courage (+1.3).
 
@@ -63,16 +80,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-07 | Sleepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -86.7 | Odin-xv, bryaNNN_, kBeatz-, klarity, mateckz |
 | 2026-06-03 | strawberry poptarts | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -21.2 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
-| 2026-05-29 | After Peak | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +337.1 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
-| 2026-05-22 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +209.6 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
-| 2026-05-20 | Kennesaw State Gold 2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -253.0 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
-| 2026-05-15 | Mach 10 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -250.1 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
+| 2026-05-29 | After Peak | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +337.2 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
+| 2026-05-22 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +209.7 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
+| 2026-05-20 | Kennesaw State Gold 2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -253.1 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
+| 2026-05-15 | Mach 10 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -250.2 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
 | 2026-05-13 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +17.6 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
-| 2026-05-08 | Power of Friendship | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +194.1 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
+| 2026-05-08 | Power of Friendship | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +194.2 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
 | 2026-05-06 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -281.8 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
 | 2026-05-01 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +225.8 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
 | 2026-04-29 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +323.2 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
-| 2026-04-24 | Gambling and Young | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -245.1 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
+| 2026-04-24 | Gambling and Young | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -245.2 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
 | 2026-04-22 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -168.1 | -N0M-, Odin-xv, bryaNNN_, kBeatz-, klarity |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

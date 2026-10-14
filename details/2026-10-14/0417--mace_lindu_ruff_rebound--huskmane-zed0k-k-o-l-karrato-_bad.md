@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.081 | 1213.9 | - |
-| +30 days | 0.069 | 1197.0 | -16.9 |
+| +30 days | 0.069 | 1196.9 | -16.9 |
 | +60 days | 0.062 | 1186.8 | -27.1 |
 | +90 days | 0.050 | 1170.0 | -43.8 |
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.225 vs 0.261 aver
 - Quality Wins drivers: beat NATIONAL CS UNI at S58 NA Intermediate A - Regular Season (2026-08-21) 0.07; beat Team TahMeow at S58 NA Intermediate A - Regular Season (2026-07-31) 0.05; beat Climbers at S58 NA Intermediate A - Regular Season (2026-08-19) 0.03
 - Opponent Network drivers: beat NATIONAL CS UNI at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat Climbers at S58 NA Intermediate A - Regular Season (2026-08-19) 0.82; beat GOMI dot CLUB at S58 NA Intermediate A - Regular Season (2026-08-12) 0.78
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +535.8 |
-| SportsBetExpert | 6 | 2671.6 | +535.6 |
-| regain | 12 | 2256.1 | +530.4 |
-| Zomblers | 22 | 2114.7 | +529.8 |
-| LAG Gaming | 8 | 2507.4 | +528.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| HigherEducation | 416 | 1017.5 | +0.2 | +139.3 |
+| Boomhogs 2 | 415 | 1021.7 | +4.4 | +140.5 |
+| MakeYouSayLate | 414 | 1026.9 | +9.6 | +148.5 |
+| Epochal Esports | 413 | 1036.1 | +18.8 | +154.4 |
+| Moniseum | 412 | 1036.4 | +19.1 | +144.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| THE GUILD | 264 | +341.7 | +260.8 | +27.3 |
+| Wiggle Peeks | 265 | +339.5 | +279.1 | +26.8 |
+| DadDick Esports | 261 | +345.1 | +295.2 | +26.8 |
+| Kinetic | 260 | +346.9 | +300.7 | +26.8 |
+| ASCEND | 263 | +342.8 | +282.8 | +26.6 |
+| PASSION | 269 | +332.1 | +285.8 | +26.1 |
+| DUI | 262 | +343.7 | +241.8 | +23.7 |
+| Saltcrew | 276 | +303.5 | +253.7 | +23.5 |
+| Chopped | 277 | +302.5 | +276.0 | +23.1 |
+| Demolition | 279 | +298.7 | +252.5 | +22.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +517.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.7).
 
@@ -62,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -57.2 | George_Feeny, _bad, huskmane, k-o-L, zed0K |
 | 2026-08-21 | NATIONAL CS UNI | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +63.4 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
 | 2026-08-19 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.03 | 0.82 | +84.0 | Karrato, _bad, huskmane, k-o-L, zed0K |
-| 2026-08-14 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -57.0 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
+| 2026-08-14 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -57.1 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
 | 2026-08-12 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.03 | 0.78 | +56.9 | Karrato, Vulcanium, _bad, k-o-L, zed0K |
 | 2026-08-07 | redtyfguhoj | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -72.1 | CripserOG, Karrato, _bad, k-o-L, zed0K |
 | 2026-07-31 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +251.3 | Karrato, Vulcanium, _bad, k-o-L, zed0K |
@@ -70,13 +87,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | on disability | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -2.4 | CripserOG, Vulcanium, _bad, huskmane, zed0K |
 | 2026-07-17 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -1.1 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
 | 2026-07-15 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -100.0 | Karrato, _bad, huskmane, k-o-L, zed0K |
-| 2026-05-22 | GoopT | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +334.0 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
+| 2026-05-22 | GoopT | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +334.1 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
 | 2026-05-20 | AURA Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -3.8 | CripserOG, Karrato, _bad, k-o-L, zed0K |
 | 2026-05-15 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -71.4 | CripserOG, Karrato, _bad, k-o-L, zed0K |
-| 2026-05-13 | SwagMonkeyHats | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -277.9 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
+| 2026-05-13 | SwagMonkeyHats | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -278.0 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
 | 2026-05-06 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -45.1 | Karrato, _bad, huskmane, k-o-L, zed0K |
 | 2026-05-01 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -339.8 | Karrato, Vulcanium, _bad, k-o-L, zed0K |
 | 2026-04-29 | Ninjas In Boxer | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +234.2 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
-| 2026-04-22 | Kevin James Fan Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -167.7 | CripserOG, Karrato, Vulcanium, _bad, k-o-L |
+| 2026-04-22 | Kevin James Fan Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -167.8 | CripserOG, Karrato, Vulcanium, _bad, k-o-L |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

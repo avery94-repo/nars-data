@@ -4,14 +4,14 @@ Roster: Sam_Handwich, cSanityy, --Carnage-, BasedMeower, smshunt
 NARS Rank: 347 of 506
 
 Final Rating: 1184.6
-Seeded Start: 1272.6
-H2H Adjustment: -88.0
+Seeded Start: 1272.5
+H2H Adjustment: -87.9
 
-Final Rating (1184.6) = Seeded Start (1272.6) + H2H Adjustment (-88.0)
+Final Rating (1184.6) = Seeded Start (1272.5) + H2H Adjustment (-87.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.123 x 1400 = 1272.6
+                = 1100 + 0.123 x 1400 = 1272.5
 
 seed_factor 0.123 = 0.25 x Tier Exposure (0.085) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.360)
 
@@ -24,9 +24,9 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.123 | 1272.6 | - |
-| +30 days | 0.093 | 1230.4 | -42.2 |
-| +60 days | 0.077 | 1207.7 | -64.9 |
+| Now | 0.123 | 1272.5 | - |
+| +30 days | 0.093 | 1230.3 | -42.2 |
+| +60 days | 0.077 | 1207.7 | -64.8 |
 | +90 days | 0.053 | 1174.4 | -98.1 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.024 vs 0.013 average, gap +0.011). Matching that average is worth about 0.0 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.024 vs 0.013 average,
 - Quality Wins drivers: beat Chopped at S58 NA Main A - Regular Season (2026-07-24) 0.07; beat Wiggle Peeks at S58 NA Main A - Regular Season (2026-07-22) 0.07; beat Braindead at S58 NA Main A - Regular Season (2026-08-21) 0.04
 - Opponent Network drivers: beat Braindead at S58 NA Main A - Regular Season (2026-08-21) 0.85; beat REPORT MASSIVE at S58 NA Main A - Regular Season (2026-08-19) 0.84; beat Baja Blasters at S58 NA Main A - Regular Season (2026-08-14) 0.81
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +651.5 |
-| SportsBetExpert | 6 | 2671.6 | +650.9 |
-| LAG Gaming | 8 | 2507.4 | +641.9 |
-| regain | 12 | 2256.1 | +639.5 |
-| M80 | 2 | 3081.4 | +637.7 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| The Jits | 346 | 1185.2 | +0.6 | +160.4 |
+| Florida Man | 345 | 1186.2 | +1.6 | +171.7 |
+| Onsite has Oil | 344 | 1191.0 | +6.4 | +162.2 |
+| T Shirt Material | 343 | 1191.6 | +7.0 | +162.4 |
+| Wide Swinging Wizards | 342 | 1191.6 | +7.0 | +162.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| BucketJonsBoys | 172 | +348.5 | +314.5 | +32.2 |
+| Firstwave | 175 | +342.4 | +313.2 | +31.7 |
+| Shaboing Boing Bandits | 173 | +346.0 | +342.3 | +31.2 |
+| APEX | 176 | +337.3 | +321.2 | +31.0 |
+| Armored Talent | 174 | +345.2 | +350.3 | +30.8 |
+| LAF | 183 | +326.7 | +312.0 | +30.1 |
+| GOOZPEEK | 182 | +328.5 | +326.5 | +29.9 |
+| KIS | 185 | +322.0 | +294.8 | +29.8 |
+| Shadow Wizard Money Gang | 180 | +331.3 | +367.8 | +28.9 |
+| Lynnsanity | 189 | +315.4 | +326.9 | +28.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +629.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.5), shirtcockin (+0.7), Courage (+0.8), SixSevenZaZa (+1.3).
 
@@ -67,7 +84,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.04 | 0.85 | +64.2 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-08-19 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.03 | 0.84 | +44.0 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-08-14 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.04 | 0.81 | +65.1 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
-| 2026-08-12 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.04 | 0.79 | +111.7 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
+| 2026-08-12 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.04 | 0.79 | +111.8 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-08-07 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -21.4 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-08-05 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -158.9 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-07-31 | Resurgence | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -101.9 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
@@ -84,7 +101,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | The Agarthans | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +24.0 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-05-13 | Midwest Farmers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +292.6 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-05-08 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -316.6 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
-| 2026-05-06 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +226.3 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
+| 2026-05-06 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +226.4 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-04-30 | katzwitgunz | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +109.1 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-04-29 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +171.8 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-04-24 | CVC Retirement | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +204.1 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |

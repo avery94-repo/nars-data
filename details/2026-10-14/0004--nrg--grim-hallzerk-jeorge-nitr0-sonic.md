@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.761 | 2166.0 | - |
 | +30 days | 0.745 | 2143.4 | -22.6 |
-| +60 days | 0.715 | 2100.3 | -65.6 |
+| +60 days | 0.715 | 2100.3 | -65.7 |
 | +90 days | 0.660 | 2024.2 | -141.8 |
 
 Weakest lever vs the 3 teams ranked above: Quality Wins (0.842 vs 1.000 average, gap -0.158). Matching that average is worth about 110.6 seed points.
@@ -35,15 +35,23 @@ Weakest lever vs the 3 teams ranked above: Quality Wins (0.842 vs 1.000 average,
 - Quality Wins drivers: beat MOUZ at VRS-tracked 2026-09 (2026-09-17) 2.40; beat ACEND at VRS-tracked 2026-08 (2026-08-08) 1.79; beat SportsBetExpert at FRAG University 2026 (2026-10-11) 1.73
 - Opponent Network drivers: beat Wildcard at VRS-tracked 2026-09 (2026-09-25) 1.60; beat unreal nightmare at FRAG University 2026 (2026-10-10) 1.60; beat Liquid at VRS-tracked 2026-09 (2026-09-11) 1.56
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| Liquid | 1 | 3103.3 | +50.3 |
-| M80 | 2 | 3081.4 | +49.8 |
-| Wildcard | 3 | 2911.9 | +36.8 |
-| Voca | 5 | 2796.5 | +27.2 |
-| SportsBetExpert | 6 | 2671.6 | +18.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Wildcard | 3 | 2911.9 | +76.2 | +36.8 |
+| M80 | 2 | 3081.4 | +245.7 | +49.8 |
+| Liquid | 1 | 3103.3 | +267.6 | +50.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Liquid | 1 | +267.6 | +50.3 | +3.1 |
+| M80 | 2 | +245.7 | +49.8 | +2.2 |
+| Wildcard | 3 | +76.2 | +36.8 | -0.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +50.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): DUMBO (+0.0), GeneticDiff (+0.0), fih hou (+0.0), mas paspas (+0.0), Club 333 (+0.0).
 
@@ -71,20 +79,20 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | Liquid | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 0.96 | 1.56 | +123.7 | core 3/5 |
 | 2026-09-10 | Voca | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.92 | 0.00 | +166.6 | core 3/5 |
 | 2026-09-09 | Without a Roof | W |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.54 | 1.54 | 1.54 | +9.9 | core 3/5 |
-| 2026-08-09 | PHANTOM | L |  | VRS-tracked 2026-08 | A | vrs | 0.76 | 1.60 | 1.00 | 1.21 | 0.00 | 0.00 | -147.1 | core 3/5 |
-| 2026-08-08 | ACEND | W |  | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.20 | 1.79 | 0.00 | +31.4 | core 3/5 |
+| 2026-08-09 | PHANTOM | L |  | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.21 | 0.00 | 0.00 | -147.2 | core 3/5 |
+| 2026-08-08 | ACEND | W |  | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.20 | 1.79 | 0.00 | +31.3 | core 3/5 |
 | 2026-08-07 | SPIRIT HU | W |  | VRS-tracked 2026-08 | A | vrs | 0.74 | 1.60 | 1.00 | 1.19 | 0.65 | 0.00 | +0.0 | core 3/5 |
 | 2026-08-02 | SportsBetExpert | W |  | VRS-tracked 2026-08 | A | vrs | 0.71 | 1.60 | 1.00 | 1.13 | 1.02 | 0.00 | +123.8 | core 3/5 |
 | 2026-08-02 | Voca | W |  | VRS-tracked 2026-08 | A | vrs | 0.71 | 1.60 | 1.00 | 1.13 | 0.67 | 1.13 | +115.0 | core 3/5 |
 | 2026-08-01 | Voca | L |  | VRS-tracked 2026-08 | A | vrs | 0.70 | 1.60 | 1.00 | 1.12 | 0.00 | 0.00 | -111.7 | core 3/5 |
-| 2026-07-29 | Marsborne | W |  | VRS-tracked 2026-07 | A | vrs | 0.68 | 1.60 | 1.00 | 1.09 | 1.06 | 1.09 | +131.6 | core 3/5 |
-| 2026-07-28 | Iowa Stormboar | W |  | VRS-tracked 2026-07 | A | vrs | 0.68 | 1.60 | 1.00 | 1.08 | 0.74 | 1.08 | +71.2 | core 3/5 |
+| 2026-07-29 | Marsborne | W |  | VRS-tracked 2026-07 | A | vrs | 0.68 | 1.60 | 1.00 | 1.09 | 1.06 | 1.09 | +131.7 | core 3/5 |
+| 2026-07-28 | Iowa Stormboar | W |  | VRS-tracked 2026-07 | A | vrs | 0.67 | 1.60 | 1.00 | 1.08 | 0.74 | 1.08 | +71.3 | core 3/5 |
 | 2026-07-12 | EH | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.68 | 0.00 | +25.0 | core 3/5 |
 | 2026-07-12 | NuTorious | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.82 | 0.91 | +0.8 | core 3/5 |
 | 2026-07-12 | SportsBetExpert | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.82 | 0.91 | +113.3 | core 3/5 |
-| 2026-06-05 | BIG | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.51 | 0.00 | 0.00 | -261.2 | core 3/5 |
-| 2026-06-04 | M80 | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.50 | 0.00 | 0.00 | -118.7 | core 3/5 |
-| 2026-06-03 | FlyQuest | W |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.67 | 0.00 | +252.9 | core 3/5 |
+| 2026-06-05 | BIG | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.51 | 0.00 | 0.00 | -261.3 | core 3/5 |
+| 2026-06-04 | M80 | L |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.50 | 0.00 | 0.00 | -118.7 | core 3/5 |
+| 2026-06-03 | FlyQuest | W |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.67 | 0.00 | +253.0 | core 3/5 |
 | 2026-06-02 | GAMERLEGION | L |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.00 | 0.00 | -2.6 | core 3/5 |
 | 2026-06-02 | SINNERS | W |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.72 | 0.00 | +647.2 | core 3/5 |
 | 2026-05-20 | MOUZ | L |  | VRS-tracked 2026-05 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.00 | 0.00 | -0.3 | core 3/5 |
@@ -93,6 +101,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-11 | FUT | L |  | VRS-tracked 2026-05 | A | vrs | 0.15 | 1.60 | 1.00 | 0.25 | 0.00 | 0.00 | -0.5 | core 3/5 |
 | 2026-04-25 | KODEX | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.06 | 0.00 | +295.1 | core 3/5 |
 | 2026-04-25 | LAG Gaming | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.08 | 0.08 | +36.1 | core 3/5 |
-| 2026-04-25 | PASSION UA | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -498.2 | core 3/5 |
+| 2026-04-25 | PASSION UA | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -498.3 | core 3/5 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.049 vs 0.445 aver
 - Quality Wins drivers: beat Addice at S57 NA Advanced Central - Regular Season (2026-05-12) 0.04; beat NYX at S57 NA Advanced Central - Regular Season (2026-04-22) 0.00; beat Once Divine Gaming at S57 NA Advanced Central - Regular Season (2026-05-22) 0.00
 - Opponent Network drivers: beat Once Divine Gaming at S57 NA Advanced Central - Regular Season (2026-05-22) 0.31; beat Addice at S57 NA Advanced Central - Regular Season (2026-05-12) 0.22; beat Asian Invasion at S57 NA Advanced Central - Regular Season (2026-05-08) 0.18
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +659.5 |
-| SportsBetExpert | 6 | 2671.6 | +652.0 |
-| M80 | 2 | 3081.4 | +648.8 |
-| Wildcard | 3 | 2911.9 | +642.3 |
-| Liquid | 1 | 3103.3 | +639.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Shimmer | 111 | 1667.1 | +2.9 | +165.7 |
+| Drip or Drown | 110 | 1669.0 | +4.8 | +172.0 |
+| Black Dragon Society | 109 | 1670.7 | +6.5 | +175.1 |
+| Holy Squid Empire | 108 | 1678.7 | +14.5 | +175.2 |
+| Evil Reunion | 107 | 1683.5 | +19.3 | +171.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| VOID ALUNE | 29 | +343.6 | +286.4 | +32.8 |
+| Hairy Scary Bandits | 32 | +335.2 | +347.0 | +31.1 |
+| Holly Molly | 35 | +324.2 | +324.5 | +30.0 |
+| Chicken Coop | 33 | +334.0 | +397.0 | +29.3 |
+| unreal nightmare | 37 | +312.4 | +311.6 | +29.0 |
+| EMPIRE | 36 | +319.4 | +363.0 | +28.7 |
+| North Forge | 38 | +307.0 | +378.6 | +26.8 |
+| Priority | 30 | +340.5 | +285.2 | +23.8 |
+| ZETTA | 39 | +305.8 | +321.2 | +23.1 |
+| babaG | 28 | +344.5 | +369.3 | +22.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +639.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), After Peak (+0.0).
 
@@ -58,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.31 | +200.7 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
+| 2026-05-22 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.31 | +200.8 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
 | 2026-05-12 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.04 | 0.22 | +58.1 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
 | 2026-05-08 | Asian Invasion | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.18 | +386.8 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
 | 2026-04-30 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -0.0 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |

@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.221 | 1409.9 | - |
-| +30 days | 0.196 | 1374.4 | -35.5 |
-| +60 days | 0.173 | 1342.6 | -67.3 |
-| +90 days | 0.136 | 1290.7 | -119.3 |
+| +30 days | 0.196 | 1374.3 | -35.5 |
+| +60 days | 0.173 | 1342.5 | -67.3 |
+| +90 days | 0.136 | 1290.6 | -119.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.057 vs 0.096 average, gap -0.039). Matching that average is worth about 27.3 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.057 vs 0.096 average,
 - Quality Wins drivers: beat ASCEND at Group Stage - CROSSFIRE Season 6 (2026-09-09) 0.19; beat Dude Picks at S58 NA Main Central - Playoffs A (2026-09-04) 0.12; beat makeSHIFT at Counter Strike 2 at 2026 Esports Nations Cup: United States of America (2026-07-14) 0.11
 - Opponent Network drivers: beat ASCEND at Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; beat Dude Picks at S58 NA Main Central - Playoffs A (2026-09-04) 0.96; beat Knox Esports at NSTLGA League | Sapphire Conference (2026-08-11) 0.92
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +660.2 |
-| SportsBetExpert | 6 | 2671.6 | +654.5 |
-| M80 | 2 | 3081.4 | +648.7 |
-| Wildcard | 3 | 2911.9 | +642.8 |
-| Liquid | 1 | 3103.3 | +639.7 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| KODEX ESPORTS | 137 | 1616.5 | +2.7 | +176.1 |
+| Wolves | 136 | 1616.5 | +2.7 | +167.9 |
+| counterstrike Team | 135 | 1617.5 | +3.7 | +166.8 |
+| 5Frag Gaming | 134 | 1621.4 | +7.6 | +175.0 |
+| Trap Castle | 133 | 1621.8 | +8.0 | +173.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Wanted Goons | 43 | +319.3 | +388.3 | +28.1 |
+| Swole Patrol | 45 | +300.5 | +271.3 | +27.0 |
+| Xiaoma Gaming | 46 | +297.6 | +346.5 | +25.6 |
+| FLOW STATE | 47 | +283.6 | +324.4 | +23.7 |
+| Zealous | 42 | +327.8 | +280.4 | +23.4 |
+| No Future Lifes Over | 50 | +273.3 | +296.5 | +22.1 |
+| DESPAIR | 49 | +274.9 | +297.1 | +22.0 |
+| Phantom Sense | 51 | +269.9 | +346.2 | +20.9 |
+| Locally Hated | 41 | +332.7 | +347.3 | +20.1 |
+| TheMotherLovers | 53 | +264.1 | +300.9 | +19.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 
@@ -57,16 +74,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-09 | ASCEND | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.19 | 1.28 | +77.6 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-09-09 | ASCEND | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.19 | 1.28 | +77.7 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-09-07 | Locally Hated | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.27 | 0.00 | 0.00 | -21.0 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-09-06 | Hairy Scary Bandits | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -13.7 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-09-04 | Dude Picks | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.12 | 0.96 | +92.2 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-08-31 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.20 | 1.00 | 1.08 | 0.00 | 0.00 | -64.0 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-08-31 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.90 | 1.20 | 1.00 | 1.08 | 0.00 | 0.00 | -64.1 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-28 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -95.0 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-27 | Fathom Gaming | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.00 | 0.00 | -17.5 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-26 | DKR Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.10 | 0.89 | +95.2 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-21 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.09 | 0.85 | +67.8 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-08-20 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -178.6 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-08-20 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -178.7 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-19 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.06 | 0.84 | +122.3 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-18 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.82 | 1.20 | 1.00 | 0.98 | 0.00 | 0.00 | -6.7 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-08-14 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.03 | 0.81 | +10.7 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
@@ -80,12 +97,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.07 | 0.65 | +117.5 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-07-15 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.02 | 0.60 | +0.0 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-07-14 | makeSHIFT | W |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.75 | 0.11 | 0.75 | +75.5 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
-| 2026-06-04 | NXG Esports | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -182.9 | ApolloZ, C0br4, boa, henry-, kkyle |
-| 2026-05-31 | 027fam | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -228.9 | ApolloZ, C0br4, boa, henry-, kkyle |
+| 2026-06-04 | NXG Esports | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -183.0 | ApolloZ, C0br4, boa, henry-, kkyle |
+| 2026-05-31 | 027fam | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -229.0 | ApolloZ, C0br4, boa, henry-, kkyle |
 | 2026-05-29 | Automatic HQ | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.05 | 0.34 | +205.3 | ApolloZ, C0br4, boa, henry-, kkyle |
 | 2026-05-27 | Team Amplus | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.06 | 0.33 | +224.0 | ApolloZ, C0br4, boa, henry-, kkyle |
 | 2026-05-22 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +0.1 | ApolloZ, C0br4, boa, henry-, kkyle |
-| 2026-05-20 | Resurgence | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +247.3 | ApolloZ, C0br4, boa, henry-, kkyle |
+| 2026-05-20 | Resurgence | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +247.4 | ApolloZ, C0br4, boa, henry-, kkyle |
 | 2026-05-15 | Zealous | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -57.2 | Aimbot--, ApolloZ, C0br4, henry-, kkyle |
 | 2026-05-13 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -159.7 | Aimbot--, ApolloZ, C0br4, henry-, kkyle |
 | 2026-05-08 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.02 | 0.16 | +1.3 | Aimbot--, ApolloZ, C0br4, henry-, kkyle |

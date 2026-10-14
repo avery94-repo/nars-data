@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.055 vs 0.019 average,
 - Quality Wins drivers: beat F5 Esports at NSTLGA League | Sapphire Conference (2026-08-23) 0.26; beat Binky at S58 NA Main B - Regular Season (2026-08-28) 0.12; beat Macs Snacks at S58 NA Main B - Regular Season (2026-08-19) 0.11
 - Opponent Network drivers: beat Binky at S58 NA Main B - Regular Season (2026-08-28) 1.02; beat F5 Esports at NSTLGA League | Sapphire Conference (2026-08-23) 1.02; beat Goyim Gladiators at S59 NA Main A - Regular Season (2026-10-09) 1.02
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +288.0 |
-| SportsBetExpert | 6 | 2671.6 | +287.7 |
-| LAG Gaming | 8 | 2507.4 | +283.7 |
-| regain | 12 | 2256.1 | +282.5 |
-| M80 | 2 | 3081.4 | +281.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| ItAintOverYet | 284 | 1302.6 | +1.8 | +90.9 |
+| Imperium | 283 | 1305.5 | +4.7 | +86.3 |
+| Aetheris | 282 | 1313.0 | +12.2 | +90.3 |
+| Adria eSports | 281 | 1314.2 | +13.4 | +101.1 |
+| Aurofox | 280 | 1315.4 | +14.6 | +87.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| ODIN | 119 | +346.3 | +182.7 | +15.8 |
+| Team GREAT | 128 | +328.4 | +152.7 | +15.7 |
+| Torii | 129 | +327.2 | +171.1 | +15.5 |
+| 5Frag Gaming | 134 | +320.6 | +175.0 | +15.1 |
+| KODEX ESPORTS | 137 | +315.7 | +201.9 | +14.7 |
+| Kaos | 139 | +310.0 | +145.8 | +14.5 |
+| Team Amplus | 145 | +293.4 | +163.5 | +13.4 |
+| Kevin James Fan Club | 148 | +280.1 | +155.2 | +12.2 |
+| DNA | 127 | +334.2 | +141.5 | +11.7 |
+| Biggie Cheese Fan Club | 151 | +275.8 | +140.5 | +11.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +278.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -64,22 +81,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.12 | 1.02 | +103.0 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-25 | Olympus | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.86 | 1.20 | 1.00 | 1.03 | 0.00 | 0.00 | -0.0 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-23 | F5 Esports | W |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.26 | 1.02 | +140.7 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-08-21 | Diamond Mental | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -60.4 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-08-21 | Diamond Mental | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -60.5 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-20 | Elusive | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -2.5 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-08-19 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.11 | 0.95 | +167.6 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-08-19 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.11 | 0.95 | +167.7 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-18 | Epochal Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.82 | 1.20 | 1.00 | 0.98 | 0.00 | 0.00 | -55.6 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-14 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -5.8 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-08-13 | Axial | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -155.0 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-08-13 | Axial | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -155.1 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-13 | ThirdSite | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -157.8 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-08-12 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -106.7 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-08-05 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.07 | 0.85 | +92.0 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-08-05 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.07 | 0.85 | +92.1 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-07-31 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -246.5 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-07-29 | Florida Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.07 | 0.79 | +99.5 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-07-24 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.03 | 0.75 | +284.0 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
-| 2026-07-17 | Backshot Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -176.8 | BenjiBeatsu, SugarPea, TAAKY0N, sephB, syper |
-| 2026-07-15 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.08 | 0.68 | +109.2 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-07-24 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.03 | 0.75 | +284.1 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
+| 2026-07-17 | Backshot Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -176.9 | BenjiBeatsu, SugarPea, TAAKY0N, sephB, syper |
+| 2026-07-15 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.08 | 0.68 | +109.1 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-05-20 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +139.4 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
-| 2026-05-15 | Temple of Swing | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +222.0 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
+| 2026-05-15 | Temple of Swing | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +222.1 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
 | 2026-05-13 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -127.8 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
 | 2026-05-08 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +255.2 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
 | 2026-05-08 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -11.7 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |

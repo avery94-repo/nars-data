@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.206 vs 0.303 aver
 - Quality Wins drivers: beat Zamgaa Anime Aimers at S59 NA Intermediate A - Regular Season (2026-10-09) 0.08; beat GodFather Gaming at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.04; beat Boomhogs 2 at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.04
 - Opponent Network drivers: beat Zamgaa Anime Aimers at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat Boomhogs 2 at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.95; beat GodFather Gaming at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.93
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +445.8 |
-| SportsBetExpert | 6 | 2671.6 | +444.6 |
-| M80 | 2 | 3081.4 | +436.8 |
-| LAG Gaming | 8 | 2507.4 | +436.4 |
-| Wildcard | 3 | 2911.9 | +433.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Defaulting | 215 | 1451.7 | +1.7 | +133.3 |
+| HiveMind | 214 | 1456.6 | +6.6 | +132.8 |
+| Nomadic Tactics | 213 | 1456.6 | +6.6 | +124.2 |
+| FlockMunchers | 212 | 1459.1 | +9.1 | +137.2 |
+| Veniversum | 211 | 1459.4 | +9.4 | +137.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| GeneticDiff | 70 | +342.9 | +247.6 | +23.3 |
+| Asoka | 74 | +333.3 | +230.9 | +23.0 |
+| Kairo | 79 | +328.9 | +227.0 | +22.7 |
+| fih hou | 73 | +335.7 | +257.3 | +22.6 |
+| Club 333 | 76 | +332.2 | +278.3 | +22.0 |
+| firesale | 82 | +318.2 | +241.6 | +22.0 |
+| CNCS Last Hope | 72 | +338.6 | +207.1 | +21.8 |
+| Diggers | 86 | +313.4 | +217.8 | +21.7 |
+| mas paspas | 75 | +332.9 | +267.4 | +21.5 |
+| Fire Nation | 90 | +299.7 | +222.8 | +19.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +430.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
 

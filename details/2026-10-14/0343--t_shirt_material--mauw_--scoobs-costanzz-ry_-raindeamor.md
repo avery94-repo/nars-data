@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.139 vs 0.335 aver
 - Quality Wins drivers: beat Bottom Fraggers Anonymous at S58 NA Open9-10 East - Playoffs A (2026-09-07) 0.03; beat GOD SPEED at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.03; beat Cortex Jellies at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.02
 - Opponent Network drivers: beat Bottom Fraggers Anonymous at S58 NA Open9-10 East - Playoffs A (2026-09-07) 0.95; beat GOD SPEED at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92; beat Cortex Jellies at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.26
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.3 |
-| SportsBetExpert | 6 | 2671.6 | +663.7 |
-| LAG Gaming | 8 | 2507.4 | +654.4 |
-| regain | 12 | 2256.1 | +651.6 |
-| M80 | 2 | 3081.4 | +650.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Wide Swinging Wizards | 342 | 1191.6 | +0.0 | +162.3 |
+| MadaNASCAR | 341 | 1195.3 | +3.7 | +172.3 |
+| Boop Boop Gang | 340 | 1195.6 | +4.0 | +168.5 |
+| Kennesaw State Gold 2025 | 339 | 1195.9 | +4.3 | +163.6 |
+| Braindead | 338 | 1199.3 | +7.7 | +164.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| BucketJonsBoys | 172 | +341.5 | +315.6 | +32.1 |
+| Pug Palace | 167 | +344.2 | +330.5 | +31.8 |
+| Firstwave | 175 | +335.4 | +314.3 | +31.5 |
+| Shaboing Boing Bandits | 173 | +339.0 | +343.1 | +31.1 |
+| APEX | 176 | +330.3 | +322.1 | +30.8 |
+| Armored Talent | 174 | +338.2 | +350.9 | +30.7 |
+| LAF | 183 | +319.7 | +312.8 | +29.7 |
+| GOOZPEEK | 182 | +321.5 | +327.1 | +29.6 |
+| KIS | 185 | +315.0 | +295.7 | +29.3 |
+| Shadow Wizard Money Gang | 180 | +324.3 | +367.8 | +28.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.8), SixSevenZaZa (+1.3).
 

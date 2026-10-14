@@ -33,17 +33,34 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.190 vs 0.420 aver
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs B (2026-09-15) 1.04
 - Quality Wins drivers: beat GOBLINS at S58 NA Open9-10 East - Playoffs B (2026-09-07) 0.05; beat Russians In Brooklyn at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.03; beat Eggonomics at S58 NA Open9-10 East - Playoffs B (2026-09-02) 0.03
-- Opponent Network drivers: beat GOBLINS at S58 NA Open9-10 East - Playoffs B (2026-09-07) 0.99; beat Russians In Brooklyn at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.97; beat Eggonomics at S58 NA Open9-10 East - Playoffs B (2026-09-02) 0.95
+- Opponent Network drivers: beat GOBLINS at S58 NA Open9-10 East - Playoffs B (2026-09-07) 0.99; beat Russians In Brooklyn at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.96; beat Eggonomics at S58 NA Open9-10 East - Playoffs B (2026-09-02) 0.95
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +581.7 |
-| SportsBetExpert | 6 | 2671.6 | +579.2 |
-| M80 | 2 | 3081.4 | +570.2 |
-| LAG Gaming | 8 | 2507.4 | +566.3 |
-| Wildcard | 3 | 2911.9 | +565.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| 91AshLiu | 193 | 1497.0 | +0.0 | +148.2 |
+| teamington | 192 | 1498.1 | +1.1 | +155.4 |
+| UncsStillGotIt | 191 | 1499.3 | +2.3 | +161.2 |
+| No Leaders Please | 190 | 1499.4 | +2.4 | +159.3 |
+| Lynnsanity | 189 | 1500.0 | +3.0 | +159.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| flat earth | 64 | +329.5 | +306.9 | +28.0 |
+| Endless Esports | 65 | +329.0 | +309.5 | +27.8 |
+| NZ Gaming | 69 | +316.2 | +282.6 | +26.6 |
+| DUMBO | 63 | +330.1 | +339.1 | +26.5 |
+| WhalersOnDaMoon | 66 | +324.8 | +313.0 | +26.4 |
+| GeneticDiff | 70 | +295.9 | +283.4 | +23.8 |
+| fih hou | 73 | +288.7 | +292.3 | +22.6 |
+| Asoka | 74 | +286.3 | +265.5 | +22.5 |
+| F5 Esports | 60 | +338.3 | +324.7 | +22.1 |
+| Club 333 | 76 | +285.2 | +312.6 | +21.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +562.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -55,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-15 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -124.3 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
 | 2026-09-08 | FarmVille | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -0.4 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
 | 2026-09-07 | GOBLINS | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.05 | 0.99 | +160.8 | Krumpa, ReeeeeLaX-, _BrX, maxie, wAKKa |
-| 2026-09-04 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +132.4 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent, wAKKa |
+| 2026-09-04 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +132.4 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent, wAKKa |
 | 2026-09-02 | Eggonomics | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +144.5 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

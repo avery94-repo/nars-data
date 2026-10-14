@@ -3,11 +3,11 @@ Team Name: ItAintOverYet
 Roster: Dipppz, --Slider, SaxyLlama, Strafe, -kaya
 NARS Rank: 284 of 506
 
-Final Rating: 1302.7
+Final Rating: 1302.6
 Seeded Start: 1262.6
-H2H Adjustment: +40.1
+H2H Adjustment: +40.0
 
-Final Rating (1302.7) = Seeded Start (1262.6) + H2H Adjustment (+40.1)
+Final Rating (1302.6) = Seeded Start (1262.6) + H2H Adjustment (+40.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.116 | 1262.6 | - |
-| +30 days | 0.104 | 1245.9 | -16.7 |
+| +30 days | 0.104 | 1245.8 | -16.7 |
 | +60 days | 0.091 | 1227.1 | -35.5 |
 | +90 days | 0.075 | 1205.7 | -56.9 |
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.020 vs 0.019 average,
 - Quality Wins drivers: beat AML at S58 NA Intermediate A - Regular Season (2026-08-12) 0.08; beat Transcended at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07; beat Mace Lindu Ruff Rebound at S58 NA Intermediate A - Regular Season (2026-08-14) 0.06
 - Opponent Network drivers: beat Transcended at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat Mace Lindu Ruff Rebound at S58 NA Intermediate A - Regular Season (2026-08-14) 0.79; beat AML at S58 NA Intermediate A - Regular Season (2026-08-12) 0.78
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +469.1 |
-| SportsBetExpert | 6 | 2671.6 | +468.4 |
-| LAG Gaming | 8 | 2507.4 | +461.5 |
-| M80 | 2 | 3081.4 | +459.2 |
-| regain | 12 | 2256.1 | +457.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Imperium | 283 | 1305.5 | +2.9 | +126.9 |
+| Aetheris | 282 | 1313.0 | +10.4 | +131.8 |
+| Adria eSports | 281 | 1314.2 | +11.6 | +142.8 |
+| Aurofox | 280 | 1315.4 | +12.8 | +129.3 |
+| Demolition | 279 | 1316.0 | +13.4 | +136.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| ODIN | 119 | +344.5 | +272.8 | +23.6 |
+| Team GREAT | 128 | +326.6 | +229.5 | +23.5 |
+| Torii | 129 | +325.4 | +255.1 | +23.0 |
+| 5Frag Gaming | 134 | +318.8 | +259.9 | +22.4 |
+| Kaos | 139 | +308.2 | +218.8 | +21.6 |
+| KODEX ESPORTS | 137 | +313.9 | +296.5 | +21.5 |
+| Team Amplus | 145 | +291.6 | +241.9 | +19.7 |
+| Kevin James Fan Club | 148 | +278.3 | +229.8 | +17.9 |
+| DNA | 127 | +332.4 | +214.1 | +17.6 |
+| Biggie Cheese Fan Club | 151 | +274.0 | +209.8 | +17.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +452.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.3).
 
@@ -58,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Transcended | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +309.0 | --Slider, -kaya, Dipppz, Psyychotik, SaxyLlama |
+| 2026-10-09 | Transcended | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +309.1 | --Slider, -kaya, Dipppz, Psyychotik, SaxyLlama |
 | 2026-10-07 | Swole Patrol | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -0.2 | --Slider, -kaya, Dipppz, Psyychotik, SaxyLlama |
 | 2026-09-17 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -73.2 | --Slider, Dipppz, Psyychotik, Strafe, st0rm_- |
 | 2026-08-26 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -53.6 | --Slider, Dipppz, Psyychotik, Strafe, st0rm_- |
@@ -67,7 +84,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.08 | 0.78 | +101.1 | --Slider, -kaya, Dipppz, Psyychotik, Strafe |
 | 2026-08-07 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.03 | 0.74 | +84.1 | --Slider, -kaya, Dipppz, Psyychotik, Strafe |
 | 2026-08-05 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.05 | 0.73 | +110.7 | --Slider, -kaya, Dipppz, Psyychotik, Strafe |
-| 2026-07-31 | 37U Passion | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -330.6 | --Slider, -kaya, Psyychotik, Strafe, st0rm_- |
+| 2026-07-31 | 37U Passion | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -330.7 | --Slider, -kaya, Psyychotik, Strafe, st0rm_- |
 | 2026-07-24 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -25.9 | --Slider, -kaya, Psyychotik, Strafe, st0rm_- |
 | 2026-07-22 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -0.8 | --Slider, -kaya, Psyychotik, Strafe, st0rm_- |
 | 2026-07-17 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -159.4 | --Slider, -kaya, Psyychotik, Strafe, st0rm_- |

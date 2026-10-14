@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.269 vs 0.374 aver
 - Quality Wins drivers: beat Muncle at S59 NA Intermediate A - Regular Season (2026-10-09) 0.08; beat GoopT at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07; beat Puddle Pirates at S58 NA Open9-10 West - Playoffs (2026-09-06) 0.05
 - Opponent Network drivers: beat Piggy LLC at S58 NA Open9-10 West - Playoffs (2026-09-08) 1.06; beat Puddle Pirates at S58 NA Open9-10 West - Playoffs (2026-09-06) 1.04; beat GoopT at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +527.9 |
-| SportsBetExpert | 6 | 2671.6 | +527.2 |
-| LAG Gaming | 8 | 2507.4 | +519.4 |
-| M80 | 2 | 3081.4 | +516.8 |
-| regain | 12 | 2256.1 | +515.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Tractors | 292 | 1283.0 | +0.6 | +147.8 |
+| SwagMonkeyHats | 291 | 1283.2 | +0.8 | +148.1 |
+| Resurgence | 290 | 1283.6 | +1.2 | +145.4 |
+| Les Ptis Jus | 289 | 1291.2 | +8.8 | +140.2 |
+| 55TH ST | 288 | 1291.3 | +8.9 | +152.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Team GREAT | 128 | +346.8 | +259.1 | +27.4 |
+| Torii | 129 | +345.6 | +288.1 | +26.7 |
+| 5Frag Gaming | 134 | +339.0 | +293.6 | +26.0 |
+| Kaos | 139 | +328.4 | +247.0 | +25.9 |
+| KODEX ESPORTS | 137 | +334.1 | +335.6 | +24.8 |
+| Team Amplus | 145 | +311.8 | +273.3 | +24.0 |
+| Kevin James Fan Club | 148 | +298.5 | +259.6 | +22.5 |
+| Biggie Cheese Fan Club | 151 | +294.2 | +236.9 | +22.1 |
+| WhiteBoyWinter | 155 | +284.3 | +244.6 | +20.6 |
+| Oath | 142 | +319.8 | +231.9 | +17.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +509.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.3), SixSevenZaZa (+0.5).
 

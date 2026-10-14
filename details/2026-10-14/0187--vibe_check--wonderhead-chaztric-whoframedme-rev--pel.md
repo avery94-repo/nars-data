@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.076 | 1205.9 | - |
-| +30 days | 0.073 | 1202.0 | -3.9 |
+| +30 days | 0.073 | 1201.9 | -3.9 |
 | +60 days | 0.072 | 1200.3 | -5.6 |
 | +90 days | 0.069 | 1196.6 | -9.3 |
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.248 vs 0.325 aver
 - Quality Wins drivers: beat Brobies at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.07; beat OPOZIT at S58 NA Open9-10 East - Playoffs A (2026-09-15) 0.04; beat NorEasters at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.03
 - Opponent Network drivers: beat OPOZIT at S58 NA Open9-10 East - Playoffs A (2026-09-15) 1.00; beat Brobies at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94; beat NorEasters at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +427.0 |
-| SportsBetExpert | 6 | 2671.6 | +425.5 |
-| M80 | 2 | 3081.4 | +418.5 |
-| LAG Gaming | 8 | 2507.4 | +416.8 |
-| Wildcard | 3 | 2911.9 | +415.3 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Alternate Earth | 186 | 1504.0 | +0.1 | +131.5 |
+| KIS | 185 | 1506.6 | +2.7 | +123.0 |
+| QUPMANACS | 184 | 1510.3 | +6.4 | +119.8 |
+| LAF | 183 | 1511.3 | +7.4 | +127.4 |
+| GOOZPEEK | 182 | 1513.1 | +9.2 | +130.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| flat earth | 64 | +322.6 | +239.2 | +21.5 |
+| Endless Esports | 65 | +322.1 | +241.3 | +21.4 |
+| DUMBO | 63 | +323.2 | +265.3 | +20.6 |
+| WhalersOnDaMoon | 66 | +317.9 | +244.4 | +20.3 |
+| NZ Gaming | 69 | +309.3 | +219.9 | +20.3 |
+| GeneticDiff | 70 | +289.0 | +221.6 | +18.0 |
+| F5 Esports | 60 | +331.4 | +253.1 | +17.1 |
+| fih hou | 73 | +281.8 | +229.3 | +17.0 |
+| Asoka | 74 | +279.4 | +207.1 | +16.8 |
+| Club 333 | 76 | +278.3 | +246.4 | +16.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +413.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 

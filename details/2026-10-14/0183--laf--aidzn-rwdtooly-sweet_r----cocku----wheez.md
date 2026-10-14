@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.275 vs 0.308 aver
 - Quality Wins drivers: beat Sodium at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07; beat Mongolian Tractor at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07; beat Will of Dih at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.04
 - Opponent Network drivers: beat Sodium at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; beat Mongolian Tractor at S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; beat Will of Dih at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +396.0 |
-| SportsBetExpert | 6 | 2671.6 | +394.6 |
-| M80 | 2 | 3081.4 | +388.1 |
-| LAG Gaming | 8 | 2507.4 | +386.6 |
-| Wildcard | 3 | 2911.9 | +385.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| GOOZPEEK | 182 | 1513.1 | +1.8 | +121.4 |
+| NEWAR | 181 | 1513.2 | +1.9 | +111.8 |
+| Shadow Wizard Money Gang | 180 | 1515.9 | +4.6 | +128.1 |
+| ALL IN | 179 | 1516.6 | +5.3 | +112.0 |
+| FoxtrotAlpha | 178 | 1518.8 | +7.5 | +112.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Omen Esports | 57 | +346.5 | +251.5 | +20.2 |
+| flat earth | 64 | +315.2 | +222.6 | +19.7 |
+| Endless Esports | 65 | +314.7 | +224.6 | +19.6 |
+| DUMBO | 63 | +315.8 | +246.9 | +18.9 |
+| WhalersOnDaMoon | 66 | +310.5 | +227.5 | +18.6 |
+| NZ Gaming | 69 | +301.9 | +204.7 | +18.4 |
+| GeneticDiff | 70 | +281.6 | +206.3 | +16.1 |
+| F5 Esports | 60 | +324.0 | +235.6 | +15.6 |
+| fih hou | 73 | +274.4 | +213.5 | +15.1 |
+| Asoka | 74 | +272.0 | +192.8 | +14.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +382.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -61,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | deez | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -76.0 | ---Cocku---, AIdzn, WheezyT, rwdtooly, sweet_R |
 | 2026-09-10 | Will of Dih | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.04 | 0.97 | +115.9 | ---Cocku---, AIdzn, WheezyT, rwdtooly, sweet_R |
 | 2026-09-06 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -64.0 | ---Cocku---, Little-E, WheezyT, rwdtooly, sweet_R |
-| 2026-09-04 | FaZe  Up Next | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +306.0 | ---Cocku---, Little-E, WheezyT, rwdtooly, sweet_R |
+| 2026-09-04 | FaZe  Up Next | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +306.1 | ---Cocku---, Little-E, WheezyT, rwdtooly, sweet_R |
 | 2026-06-03 | AXEN | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -198.4 | AIdzn, Little-E, MikoshiGG, rwdtooly, sweet_R |
 | 2026-06-02 | The Jits | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.01 | 0.30 | +206.2 | AIdzn, MikoshiGG, _21Savage, rwdtooly, sweet_R |
 | 2026-05-27 | Retired Aimers | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -258.6 | AIdzn, MikoshiGG, microflakes, rwdtooly, sweet_R |

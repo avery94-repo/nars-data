@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.069 vs 0.087 average
 - Quality Wins drivers: beat Line Steppers at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.07; beat FaZe  Up Next at S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.03; beat Lost in the Plot at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.03
 - Opponent Network drivers: beat Line Steppers at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97; beat FaZe  Up Next at S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.96; beat Lost in the Plot at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +463.9 |
-| SportsBetExpert | 6 | 2671.6 | +463.7 |
-| regain | 12 | 2256.1 | +459.6 |
-| Zomblers | 22 | 2114.7 | +459.4 |
-| FarmVille | 16 | 2167.6 | +458.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Mace Lindu Ruff Rebound | 417 | 1017.3 | +5.9 | +130.2 |
+| HigherEducation | 416 | 1017.5 | +6.1 | +126.6 |
+| Boomhogs 2 | 415 | 1021.7 | +10.3 | +127.6 |
+| MakeYouSayLate | 414 | 1026.9 | +15.5 | +135.9 |
+| Epochal Esports | 413 | 1036.1 | +24.7 | +141.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| THE GUILD | 264 | +347.6 | +234.2 | +24.7 |
+| Wiggle Peeks | 265 | +345.4 | +251.2 | +24.3 |
+| ASCEND | 263 | +348.7 | +254.5 | +24.1 |
+| PASSION | 269 | +338.0 | +257.6 | +23.7 |
+| Saltcrew | 276 | +309.4 | +228.7 | +21.6 |
+| DUI | 262 | +349.6 | +216.5 | +21.4 |
+| Chopped | 277 | +308.4 | +249.6 | +21.3 |
+| Demolition | 279 | +304.6 | +227.6 | +21.0 |
+| Adria eSports | 281 | +302.8 | +256.6 | +20.6 |
+| ItAintOverYet | 284 | +291.2 | +219.9 | +19.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +447.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.6).
 

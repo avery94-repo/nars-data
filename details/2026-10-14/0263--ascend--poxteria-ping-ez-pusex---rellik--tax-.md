@@ -27,23 +27,40 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.126 | 1276.2 | - |
 | +30 days | 0.129 | 1281.2 | +5.0 |
 | +60 days | 0.131 | 1283.1 | +6.9 |
-| +90 days | 0.134 | 1287.7 | +11.5 |
+| +90 days | 0.134 | 1287.7 | +11.6 |
 
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.015 vs 0.027 average, gap -0.012). Matching that average is worth about 8.4 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.323 vs 0.379 average, gap -0.056). Matching that average is worth about 19.6 seed points.
 
 - Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; S58 NA Open9-10 East - Playoffs B (2026-09-10) 1.01; S59 NA Intermediate A - Regular Season (2026-10-02) 1.00
 - Quality Wins drivers: beat 69 at S59 NA Intermediate A - Regular Season (2026-10-02) 0.08; beat OnThaGear at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07; beat Russians In Brooklyn at S58 NA Open9-10 East - Playoffs B (2026-09-08) 0.03
 - Opponent Network drivers: beat 69 at S59 NA Intermediate A - Regular Season (2026-10-02) 1.00; beat OnThaGear at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; beat Russians In Brooklyn at S58 NA Open9-10 East - Playoffs B (2026-09-08) 0.99
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +349.5 |
-| SportsBetExpert | 6 | 2671.6 | +348.9 |
-| LAG Gaming | 8 | 2507.4 | +343.6 |
-| M80 | 2 | 3081.4 | +342.1 |
-| regain | 12 | 2256.1 | +340.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| DUI | 262 | 1361.0 | +0.9 | +100.5 |
+| DadDick Esports | 261 | 1362.4 | +2.3 | +111.9 |
+| Kinetic | 260 | 1364.2 | +4.1 | +113.2 |
+| The Sweepers | 259 | 1365.8 | +5.7 | +102.3 |
+| GoonAssOldheads | 258 | 1369.8 | +9.7 | +108.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Axial | 101 | +346.3 | +195.7 | +19.1 |
+| Addice | 102 | +342.4 | +228.5 | +18.4 |
+| New Legends | 103 | +335.2 | +232.2 | +18.0 |
+| Holy Squid Empire | 108 | +318.6 | +192.3 | +17.7 |
+| Black Dragon Society | 109 | +310.6 | +206.4 | +17.1 |
+| Read You Like a Kindle | 116 | +294.6 | +203.8 | +15.8 |
+| Hadouken | 100 | +349.7 | +170.5 | +15.7 |
+| eefsports | 112 | +304.1 | +161.8 | +14.9 |
+| ODIN | 119 | +287.0 | +198.1 | +14.8 |
+| Northern District | 106 | +323.9 | +165.6 | +13.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +337.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -58,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | WhiteBoyWinter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.00 | 0.00 | -92.2 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
 | 2026-09-09 | SquadUp | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.00 | 0.00 | -76.5 | -RelliK-, 5c4f1d9d, PiNG-ez, Poxteria, tax- |
 | 2026-09-08 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +78.9 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
-| 2026-09-06 | Against Odds | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.03 | 0.98 | +68.0 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
+| 2026-09-06 | Against Odds | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.03 | 0.98 | +68.1 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
 | 2026-09-05 | Locally Hated | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.33 | 1.00 | 1.25 | 0.00 | 0.00 | -1.7 | -RelliK-, PiNG-ez, Poxteria, kozume, tax- |
 | 2026-09-04 | GOBLINS | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.00 | 0.00 | -89.5 | Chick3n, PiNG-ez, Poxteria, naj-dobrija, tax- |
 | 2026-09-02 | OGNuggs | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +113.1 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |

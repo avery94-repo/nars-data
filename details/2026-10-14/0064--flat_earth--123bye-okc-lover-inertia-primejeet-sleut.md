@@ -3,11 +3,11 @@ Team Name: flat earth
 Roster: 123bye, okc-lover, inertia, PrimeJeet, sleuth
 NARS Rank: 64 of 506
 
-Final Rating: 1826.4
+Final Rating: 1826.5
 Seeded Start: 1402.5
-H2H Adjustment: +423.9
+H2H Adjustment: +424.0 (capped at +-300, raw +423.9)
 
-Final Rating (1826.4) = Seeded Start (1402.5) + H2H Adjustment (+423.9)
+Final Rating (1826.5) = Seeded Start (1402.5) + H2H Adjustment (+424.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.234 average,
 - Quality Wins drivers: beat NXG Esports at S59 NA Advanced Central - Regular Season (2026-10-13) 0.24; beat Rejects at S58 NA Intermediate Central - Playoffs A (2026-09-09) 0.15; beat Ninjas In Boxer at S58 NA Intermediate A - Regular Season (2026-08-16) 0.09
 - Opponent Network drivers: beat NXG Esports at S59 NA Advanced Central - Regular Season (2026-10-13) 1.43; beat MommySports at S58 NA Intermediate Central - Playoffs A (2026-09-10) 0.97; beat Rejects at S58 NA Intermediate Central - Playoffs A (2026-09-09) 0.96
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +285.0 |
-| M80 | 2 | 3081.4 | +280.9 |
-| SportsBetExpert | 6 | 2671.6 | +280.7 |
-| Wildcard | 3 | 2911.9 | +277.8 |
-| Liquid | 1 | 3103.3 | +277.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| DUMBO | 63 | 1827.1 | +0.6 | +101.0 |
+| academy 4 gifted children | 62 | 1829.0 | +2.5 | +94.6 |
+| Sedated | 61 | 1831.7 | +5.2 | +95.0 |
+| F5 Esports | 60 | 1835.3 | +8.8 | +100.2 |
+| Beyond Limits | 59 | 1852.4 | +25.9 | +102.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| NuTorious | 17 | +339.2 | +157.1 | +16.2 |
+| Old Meta | 15 | +349.6 | +189.7 | +16.0 |
+| FarmVille | 16 | +341.1 | +209.0 | +15.3 |
+| Villainous | 18 | +334.2 | +205.1 | +14.9 |
+| Iowa Stormboar | 21 | +289.3 | +194.0 | +13.1 |
+| Zomblers | 22 | +288.2 | +194.4 | +13.1 |
+| qcclan | 20 | +319.6 | +167.9 | +10.0 |
+| MASTER ONE | 19 | +332.9 | +162.7 | +8.8 |
+| duck crew | 23 | +269.5 | +131.2 | +3.4 |
+| Olympus | 25 | +213.1 | +147.0 | +2.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +277.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): we get it back (+0.0), RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0), Dapper North (+0.0).
 
@@ -63,9 +80,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Sound of Arthritis | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +66.0 | 123bye, _NVme, inertia, okc-lover, sleuth |
 | 2026-08-28 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +0.0 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |
 | 2026-08-26 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +0.1 | 123bye, PrimeJeet, pungsy, redtext, sleuth |
-| 2026-08-21 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +108.3 | 123bye, inertia, okc-lover, redtext, sleuth |
+| 2026-08-21 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +108.4 | 123bye, inertia, okc-lover, redtext, sleuth |
 | 2026-08-19 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.06 | 0.82 | +39.7 | 123bye, inertia, okc-lover, pungsy, sleuth |
-| 2026-08-16 | The Vicious Kitties | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.81 | +128.4 | 123bye, PrimeJeet, inertia, okc-lover, sigh |
+| 2026-08-16 | The Vicious Kitties | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.81 | +128.5 | 123bye, PrimeJeet, inertia, okc-lover, sigh |
 | 2026-08-16 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.00 | +62.5 | 123bye, PrimeJeet, okc-lover, sigh, sleuth |
 | 2026-08-16 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.00 | +47.9 | 123bye, PrimeJeet, okc-lover, sigh, sleuth |
 | 2026-08-16 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.09 | 0.81 | +66.9 | 123bye, inertia, okc-lover, sigh, sleuth |

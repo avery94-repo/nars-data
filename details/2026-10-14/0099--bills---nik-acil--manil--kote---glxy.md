@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.085 vs 0.513 aver
 - Quality Wins drivers: beat Skyline at S57 NA Main Central - Regular Season (2026-05-21) 0.09; beat Slimy Boogermen at S57 NA Main Central - Regular Season (2026-05-22) 0.05; beat Evil Reunion at S57 NA Main Central - Playoffs (2026-05-31) 0.04
 - Opponent Network drivers: beat Evil Reunion at S57 NA Main Central - Playoffs (2026-05-31) 0.36; beat Slimy Boogermen at S57 NA Main Central - Regular Season (2026-05-22) 0.26; beat Skyline at S57 NA Main Central - Regular Season (2026-05-21) 0.25
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +657.9 |
-| M80 | 2 | 3081.4 | +648.3 |
-| SportsBetExpert | 6 | 2671.6 | +648.3 |
-| Wildcard | 3 | 2911.9 | +641.2 |
-| Liquid | 1 | 3103.3 | +639.3 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| goofball gaming | 98 | 1719.5 | +7.5 | +170.8 |
+| FlyQuest RED | 97 | 1720.7 | +8.7 | +177.0 |
+| NineFlyeSports | 96 | 1725.1 | +13.1 | +177.6 |
+| Crimson Vortex | 95 | 1727.4 | +15.4 | +169.9 |
+| Green Grove Retirement | 94 | 1728.6 | +16.6 | +177.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Olympus | 25 | +327.6 | +337.1 | +30.5 |
+| Automatic HQ | 27 | +318.8 | +349.5 | +28.6 |
+| VOID ALUNE | 29 | +295.8 | +268.2 | +26.5 |
+| Hairy Scary Bandits | 32 | +287.4 | +319.1 | +25.0 |
+| Chicken Coop | 33 | +286.2 | +360.1 | +23.9 |
+| Holly Molly | 35 | +276.4 | +299.3 | +22.7 |
+| EMPIRE | 36 | +271.6 | +330.6 | +21.5 |
+| unreal nightmare | 37 | +264.6 | +287.6 | +20.5 |
+| Festina Lente | 24 | +330.8 | +281.5 | +19.7 |
+| North Forge | 38 | +259.2 | +341.2 | +18.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +639.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0).
 
@@ -62,10 +79,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-02 | The Skins | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -219.7 | -MANIL-, -Nik, ACIL, glxy, jorkin_it |
+| 2026-06-02 | The Skins | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -219.8 | -MANIL-, -Nik, ACIL, glxy, jorkin_it |
 | 2026-05-31 | Evil Reunion | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.04 | 0.36 | +1.8 | -MANIL-, -Nik, ACIL, Kote--, glxy |
-| 2026-05-29 | Squeegee | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -178.3 | -MANIL-, -Nik, ACIL, Kote--, glxy, jorkin_it |
-| 2026-05-22 | Slimy Boogermen | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.05 | 0.26 | +299.5 | -MANIL-, -Nik, ACIL, Kote--, glxy |
+| 2026-05-29 | Squeegee | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -178.4 | -MANIL-, -Nik, ACIL, Kote--, glxy, jorkin_it |
+| 2026-05-22 | Slimy Boogermen | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.05 | 0.26 | +299.6 | -MANIL-, -Nik, ACIL, Kote--, glxy |
 | 2026-05-21 | Skyline | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.09 | 0.25 | +15.2 | -MANIL-, -Nik, ACIL, Kote--, glxy |
 | 2026-05-13 | Automatic HQ | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -168.2 | -MANIL-, -Nik, ACIL, Kote--, glxy, raymer |
 | 2026-05-08 | BUCK NASTY | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +30.4 | -MANIL-, -Nik, ACIL, glxy, jorkin_it |

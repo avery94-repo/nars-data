@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.248 vs 0.371 aver
 - Quality Wins drivers: beat Kodaks Lettuce at S58 NA Open9-10 East - Playoffs A (2026-09-11) 0.07; beat MONARCH at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.07; beat Sultans of Swing at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.04
 - Opponent Network drivers: beat Kodaks Lettuce at S58 NA Open9-10 East - Playoffs A (2026-09-11) 0.98; beat MONARCH at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97; beat Sultans of Swing at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +494.6 |
-| SportsBetExpert | 6 | 2671.6 | +493.6 |
-| LAG Gaming | 8 | 2507.4 | +485.1 |
-| M80 | 2 | 3081.4 | +484.4 |
-| Wildcard | 3 | 2911.9 | +481.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| NXG Esports | 242 | 1404.0 | +9.2 | +145.4 |
+| FUELED BY HATE | 241 | 1404.3 | +9.5 | +139.5 |
+| enigma | 240 | 1405.4 | +10.6 | +137.7 |
+| brb grinding minecraft | 239 | 1405.5 | +10.7 | +147.5 |
+| Casual Mature Gamers | 238 | 1405.9 | +11.1 | +148.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Green Grove Retirement | 94 | +333.8 | +268.6 | +24.7 |
+| NineFlyeSports | 96 | +330.3 | +278.0 | +24.6 |
+| Elusive | 93 | +336.8 | +299.6 | +24.3 |
+| FlyQuest RED | 97 | +325.9 | +287.1 | +23.1 |
+| Axial | 101 | +311.6 | +248.1 | +22.7 |
+| Addice | 102 | +307.7 | +285.2 | +21.9 |
+| New Legends | 103 | +300.5 | +288.4 | +21.0 |
+| Holy Squid Empire | 108 | +283.9 | +241.7 | +19.3 |
+| Hadouken | 100 | +315.0 | +219.0 | +18.3 |
+| Black Dragon Society | 109 | +275.9 | +256.5 | +18.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +478.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -52,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-15 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -77.2 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
+| 2026-09-15 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -77.3 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
 | 2026-09-11 | Kodaks Lettuce | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +91.0 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
 | 2026-09-10 | MONARCH | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.07 | 0.97 | +50.2 | 6IXTYEIGHT, Aexc1d7, clrrrr, laze0, zoenn |
 | 2026-09-05 | No Future Lifes Over | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -160.0 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, flowzsq, laze0, zoenn |

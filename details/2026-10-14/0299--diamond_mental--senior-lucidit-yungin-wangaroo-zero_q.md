@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.036 vs 0.020 average,
 - Quality Wins drivers: beat Entertainment Cheese at S58 NA Main B - Regular Season (2026-08-21) 0.15; beat Aers Money Crew at S58 NA Main B - Regular Season (2026-08-07) 0.10; beat Friendly Fire at S58 NA Main B - Regular Season (2026-08-14) 0.05
 - Opponent Network drivers: beat Entertainment Cheese at S58 NA Main B - Regular Season (2026-08-21) 0.97; beat NADIYA at S58 NA Main B - Regular Season (2026-08-19) 0.95; beat Friendly Fire at S58 NA Main B - Regular Season (2026-08-14) 0.92
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +660.1 |
-| SportsBetExpert | 6 | 2671.6 | +659.1 |
-| LAG Gaming | 8 | 2507.4 | +649.2 |
-| M80 | 2 | 3081.4 | +646.2 |
-| regain | 12 | 2256.1 | +642.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Mud Wizards | 298 | 1270.0 | +0.1 | +171.8 |
+| Meepins | 297 | 1271.2 | +1.3 | +164.0 |
+| University of Cincinnati | 296 | 1278.3 | +8.4 | +164.4 |
+| COGNITIVE | 295 | 1279.1 | +9.2 | +170.8 |
+| Dynasty | 294 | 1279.9 | +10.0 | +167.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Kaos | 139 | +340.9 | +298.9 | +32.1 |
+| KODEX ESPORTS | 137 | +346.6 | +404.0 | +29.9 |
+| Team Amplus | 145 | +324.3 | +329.2 | +29.7 |
+| Kevin James Fan Club | 148 | +311.0 | +312.6 | +28.4 |
+| Biggie Cheese Fan Club | 151 | +306.7 | +286.0 | +28.1 |
+| WhiteBoyWinter | 155 | +296.8 | +294.7 | +26.4 |
+| Order Zero | 156 | +294.8 | +266.7 | +21.9 |
+| offBalance | 165 | +272.4 | +286.7 | +21.9 |
+| Oath | 142 | +332.3 | +281.0 | +21.7 |
+| Pug Palace | 167 | +265.9 | +289.4 | +20.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +637.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.6).
 
@@ -70,23 +87,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | 5Frag Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -184.5 | Wangaroo, Yungin, ZerO_Q, adrjac, senior |
 | 2026-07-31 | RejexEsports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.04 | 0.81 | +92.9 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-07-29 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -59.9 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
-| 2026-07-24 | Top One Percent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -198.7 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
+| 2026-07-24 | Top One Percent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -198.8 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-07-22 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.03 | 0.74 | +135.4 | LucidiT, Wangaroo, ZerO_Q, adrjac, senior |
-| 2026-07-17 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -171.2 | LucidiT, Wangaroo, Yungin, adrjac, senior |
+| 2026-07-17 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -171.3 | LucidiT, Wangaroo, Yungin, adrjac, senior |
 | 2026-07-15 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -169.8 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
-| 2026-06-07 | NOVAIR | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.03 | 0.34 | +241.5 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
-| 2026-06-05 | WaterDrinkers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.04 | 0.32 | +225.3 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
-| 2026-05-29 | Feels MAIN Man | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -147.0 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
+| 2026-06-07 | NOVAIR | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.03 | 0.34 | +241.6 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
+| 2026-06-05 | WaterDrinkers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.04 | 0.32 | +225.4 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
+| 2026-05-29 | Feels MAIN Man | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -147.1 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-05-27 | Strafe | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.05 | 0.26 | +5.5 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
-| 2026-05-23 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.01 | 1.00 | 0.24 | 0.00 | 0.24 | +114.1 | 1bryan, LucidiT, Wangaroo, Yungin, ZerO_Q, adrjac, senior |
-| 2026-05-22 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -163.3 | 1bryan, LucidiT, Wangaroo, Yungin, ZerO_Q |
+| 2026-05-23 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.01 | 1.00 | 0.24 | 0.00 | 0.24 | +114.2 | 1bryan, LucidiT, Wangaroo, Yungin, ZerO_Q, adrjac, senior |
+| 2026-05-22 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -163.4 | 1bryan, LucidiT, Wangaroo, Yungin, ZerO_Q |
 | 2026-05-20 | Lan Bears | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +193.7 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
-| 2026-05-15 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +303.6 | 1bryan, LucidiT, Wangaroo, Yungin, adrjac |
-| 2026-05-13 | Kushtaka | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -398.2 | LucidiT, Wangaroo, Yungin, adrjac, senior |
+| 2026-05-15 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +303.7 | 1bryan, LucidiT, Wangaroo, Yungin, adrjac |
+| 2026-05-13 | Kushtaka | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -398.3 | LucidiT, Wangaroo, Yungin, adrjac, senior |
 | 2026-05-06 | Mace Lindu Ruff Rebound | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +45.1 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-05-01 | Gambling and Young | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +46.3 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-04-29 | Power of Friendship | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +147.9 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-04-24 | Midwest Farmers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -16.8 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
-| 2026-04-22 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -224.1 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
+| 2026-04-22 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -224.2 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

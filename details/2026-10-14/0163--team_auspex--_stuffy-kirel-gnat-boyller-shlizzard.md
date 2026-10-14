@@ -3,11 +3,11 @@ Team Name: Team Auspex
 Roster: _Stuffy, Kirel, Gnat, Boyller, SHLiZZarD
 NARS Rank: 163 of 506
 
-Final Rating: 1544.3
+Final Rating: 1544.2
 Seeded Start: 1348.0
-H2H Adjustment: +196.3
+H2H Adjustment: +196.2
 
-Final Rating (1544.3) = Seeded Start (1348.0) + H2H Adjustment (+196.3)
+Final Rating (1544.2) = Seeded Start (1348.0) + H2H Adjustment (+196.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.177 | 1348.0 | - |
 | +30 days | 0.157 | 1320.2 | -27.8 |
-| +60 days | 0.139 | 1294.4 | -53.7 |
-| +90 days | 0.105 | 1247.4 | -100.6 |
+| +60 days | 0.139 | 1294.3 | -53.7 |
+| +90 days | 0.105 | 1247.4 | -100.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.096 average, gap -0.022). Matching that average is worth about 7.7 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.096 average
 - Quality Wins drivers: beat UltimateDarklordWizardz at S58 NA Intermediate B - Regular Season (2026-07-24) 0.13; beat Firstwave at S58 NA Intermediate B - Regular Season (2026-08-12) 0.11; beat Sharp at S58 NA Intermediate B - Regular Season (2026-08-19) 0.11
 - Opponent Network drivers: beat Mach 10 at S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.94; beat After Hours at S58 NA Intermediate Central - Playoffs B (2026-09-02) 0.92; beat katzwitgunz at S58 NA Intermediate B - Regular Season (2026-08-28) 0.88
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +624.8 |
-| SportsBetExpert | 6 | 2671.6 | +621.2 |
-| M80 | 2 | 3081.4 | +613.0 |
-| Wildcard | 3 | 2911.9 | +607.9 |
-| LAG Gaming | 8 | 2507.4 | +605.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| 1001 Fragrance | 162 | 1549.0 | +4.8 | +163.4 |
+| Rejects | 161 | 1553.6 | +9.4 | +170.2 |
+| TOP SHELF WHIFFERS | 160 | 1556.3 | +12.1 | +169.3 |
+| AURA Esports | 159 | 1558.1 | +13.9 | +168.8 |
+| BONK | 158 | 1559.4 | +15.2 | +164.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| No Future Lifes Over | 50 | +342.9 | +318.9 | +30.4 |
+| DESPAIR | 49 | +344.5 | +319.5 | +30.1 |
+| TheMotherLovers | 53 | +333.7 | +326.2 | +29.4 |
+| Phantom Sense | 51 | +339.5 | +383.6 | +28.5 |
+| Omen Esports | 57 | +313.6 | +338.2 | +26.2 |
+| GG | 52 | +337.2 | +271.7 | +23.8 |
+| flat earth | 64 | +282.3 | +298.9 | +23.2 |
+| Endless Esports | 65 | +281.8 | +301.1 | +23.0 |
+| DUMBO | 63 | +282.9 | +326.8 | +22.3 |
+| WhalersOnDaMoon | 66 | +277.6 | +303.7 | +21.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +605.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -66,10 +83,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.11 | 0.78 | +3.8 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-08-07 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.10 | 0.74 | +103.2 | Boyller, Carter, Gnat, _Stuffy, hoogs |
 | 2026-08-05 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.09 | 0.73 | +17.3 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
-| 2026-07-29 | Kevin James Fan Club | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.68 | +144.6 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
+| 2026-07-29 | Kevin James Fan Club | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.68 | +144.7 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-07-29 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -238.6 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
-| 2026-07-24 | UltimateDarklordWizardz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.13 | 0.65 | +158.4 | Carter, Gnat, Kirel, SHLiZZarD, _Stuffy |
-| 2026-07-22 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.02 | 0.64 | +356.5 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
+| 2026-07-24 | UltimateDarklordWizardz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.13 | 0.65 | +158.5 | Carter, Gnat, Kirel, SHLiZZarD, _Stuffy |
+| 2026-07-22 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.02 | 0.64 | +356.6 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-07-15 | Big Kahuna Gaming | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.02 | 0.59 | +132.6 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-05-27 | BONK | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.05 | 1.00 | 0.28 | 0.00 | 0.00 | -214.4 | Boyller, Gnat, Kirel, XM06, _Stuffy |
 

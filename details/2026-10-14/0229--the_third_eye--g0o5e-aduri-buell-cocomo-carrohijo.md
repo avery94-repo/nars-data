@@ -25,8 +25,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.037 | 1151.3 | - |
-| +30 days | 0.022 | 1131.1 | -20.2 |
-| +60 days | 0.009 | 1112.9 | -38.5 |
+| +30 days | 0.022 | 1131.1 | -20.3 |
+| +60 days | 0.009 | 1112.9 | -38.4 |
 | +90 days | 0.001 | 1101.5 | -49.8 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.099 vs 0.361 average, gap -0.262). Matching that average is worth about 91.7 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.099 vs 0.361 aver
 - Quality Wins drivers: beat Muncle at S58 NA Intermediate B - Regular Season (2026-07-15) 0.05; beat COGNITIVE at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.03; beat GodFather Gaming at S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.02
 - Opponent Network drivers: beat Muncle at S58 NA Intermediate B - Regular Season (2026-07-15) 0.59; beat GodFather Gaming at S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36; beat Robert Gaming at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +663.3 |
-| SportsBetExpert | 6 | 2671.6 | +661.1 |
-| M80 | 2 | 3081.4 | +649.9 |
-| LAG Gaming | 8 | 2507.4 | +648.1 |
-| Wildcard | 3 | 2911.9 | +645.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| FRAGDEMONS | 228 | 1426.4 | +0.9 | +162.6 |
+| UltimateDarklordWizardz | 227 | 1427.1 | +1.6 | +172.9 |
+| penazoid | 226 | 1428.0 | +2.5 | +169.3 |
+| Elisir Esports | 225 | 1428.5 | +3.0 | +163.2 |
+| TahMeow | 224 | 1429.4 | +3.9 | +163.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Diggers | 86 | +337.9 | +307.1 | +32.3 |
+| firesale | 82 | +342.7 | +339.5 | +32.0 |
+| Fire Nation | 90 | +324.2 | +313.1 | +30.2 |
+| Fathom Gaming | 91 | +319.8 | +306.4 | +30.0 |
+| Overtake Sector | 89 | +325.3 | +390.8 | +28.7 |
+| PROFECO | 87 | +329.6 | +281.0 | +27.4 |
+| Green Grove Retirement | 94 | +303.1 | +318.3 | +27.2 |
+| Elusive | 93 | +306.1 | +351.4 | +27.1 |
+| NineFlyeSports | 96 | +299.6 | +327.7 | +27.0 |
+| FlyQuest RED | 97 | +295.2 | +336.6 | +24.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 

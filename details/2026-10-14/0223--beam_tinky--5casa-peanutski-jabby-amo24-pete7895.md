@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.184 vs 0.404 aver
 - Quality Wins drivers: beat Belladonna at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.06; beat USAE Academy at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.03; beat New York City Ballas CS at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.03
 - Opponent Network drivers: beat USAE Academy at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.96; beat New York City Ballas CS at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.93; beat Belladonna at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.92
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +625.4 |
-| SportsBetExpert | 6 | 2671.6 | +623.4 |
-| M80 | 2 | 3081.4 | +612.8 |
-| LAG Gaming | 8 | 2507.4 | +611.1 |
-| Wildcard | 3 | 2911.9 | +608.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Cortex Jellies | 222 | 1437.4 | +3.2 | +159.4 |
+| 1NT | 221 | 1439.0 | +4.8 | +165.8 |
+| Binky | 220 | 1439.3 | +5.1 | +169.1 |
+| Bald | 219 | 1443.1 | +8.9 | +162.7 |
+| Koi Pond | 218 | 1446.0 | +11.8 | +164.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Asoka | 74 | +349.1 | +308.1 | +31.2 |
+| Kairo | 79 | +344.7 | +302.8 | +31.0 |
+| Diggers | 86 | +329.2 | +290.3 | +30.1 |
+| firesale | 82 | +334.0 | +320.9 | +30.0 |
+| Club 333 | 76 | +348.0 | +369.1 | +29.4 |
+| mas paspas | 75 | +348.7 | +354.9 | +28.8 |
+| Fire Nation | 90 | +315.5 | +296.0 | +28.0 |
+| Fathom Gaming | 91 | +311.1 | +289.7 | +27.7 |
+| Overtake Sector | 89 | +316.6 | +369.1 | +26.9 |
+| PROFECO | 87 | +320.9 | +265.7 | +25.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +604.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -57,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-11 | gunked | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -65.7 | 5casa, Amo24, Peanutski, jabby, pete7895 |
 | 2026-09-09 | USAE Academy | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +177.2 | 5casa, Amo24, Peanutski, jabby, pete7895 |
-| 2026-09-04 | New York City Ballas CS | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +145.8 | 5casa, Amo24, CaptainToro, jabby, pete7895 |
+| 2026-09-04 | New York City Ballas CS | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +145.9 | 5casa, Amo24, CaptainToro, jabby, pete7895 |
 | 2026-09-02 | Belladonna | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.06 | 0.92 | +227.6 | 5casa, Amo24, Ebbs, Peanutski, jabby |
 | 2026-05-27 | 4fun | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -235.6 | 5casa, MC_Double, Peanutski, jabby, pete7895 |
 

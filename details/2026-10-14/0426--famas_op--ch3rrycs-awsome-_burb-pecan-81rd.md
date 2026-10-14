@@ -3,11 +3,11 @@ Team Name: Famas OP
 Roster: Ch3rrycs, Awsome, _burb, pecan, 81rd
 NARS Rank: 426 of 506
 
-Final Rating: 985.0
+Final Rating: 984.9
 Seeded Start: 1124.9
-H2H Adjustment: -139.9
+H2H Adjustment: -140.0
 
-Final Rating (985.0) = Seeded Start (1124.9) + H2H Adjustment (-139.9)
+Final Rating (984.9) = Seeded Start (1124.9) + H2H Adjustment (-140.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -31,19 +31,36 @@ Where this team's points come from and where they can grow. Projections are esti
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.045 vs 0.214 average, gap -0.169). Matching that average is worth about 59.1 seed points.
 
-- Tier Exposure drivers: S57 NA Intermediate Central - Playoffs B (2026-06-01) 0.30; S57 NA Intermediate Central - Regular Season (2026-05-20) 0.22
+- Tier Exposure drivers: S57 NA Intermediate Central - Playoffs B (2026-06-01) 0.29; S57 NA Intermediate Central - Regular Season (2026-05-20) 0.22
 - Quality Wins drivers: beat The Sweepers at S57 NA Intermediate Central - Playoffs B (2026-05-27) 0.03; beat Benadryl Abusers at S57 NA Intermediate Central - Regular Season (2026-05-20) 0.02; beat Shaq Diesel at S57 NA Intermediate Central - Regular Season (2026-05-15) 0.01
 - Opponent Network drivers: beat The Sweepers at S57 NA Intermediate Central - Playoffs B (2026-05-27) 0.26; beat Benadryl Abusers at S57 NA Intermediate Central - Regular Season (2026-05-20) 0.22; beat Shaq Diesel at S57 NA Intermediate Central - Regular Season (2026-05-15) 0.18
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.4 |
-| regain | 12 | 2256.1 | +658.0 |
-| Zomblers | 22 | 2114.7 | +657.3 |
-| LAG Gaming | 8 | 2507.4 | +656.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Climbers | 425 | 986.0 | +1.1 | +162.6 |
+| Evil Space Wizards | 424 | 988.0 | +3.1 | +163.3 |
+| Halcyon | 423 | 993.8 | +8.9 | +165.1 |
+| Atlantis eSports | 422 | 997.5 | +12.6 | +166.3 |
+| Specter Esports | 421 | 999.7 | +14.8 | +167.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Saltcrew | 276 | +335.9 | +313.2 | +31.6 |
+| Demolition | 279 | +331.1 | +311.7 | +30.9 |
+| Chopped | 277 | +334.9 | +340.9 | +30.7 |
+| Adria eSports | 281 | +329.3 | +349.9 | +29.8 |
+| ItAintOverYet | 284 | +317.7 | +300.9 | +29.6 |
+| Entertainment Cheese | 285 | +315.9 | +330.0 | +28.8 |
+| Midwest Farmers | 286 | +311.4 | +325.5 | +28.3 |
+| Imperium | 283 | +320.6 | +277.6 | +28.1 |
+| 55TH ST | 288 | +306.4 | +329.3 | +27.4 |
+| Resurgence | 290 | +298.7 | +300.7 | +26.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.4).
 
@@ -52,16 +69,16 @@ Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs Shaq Diesel (2026-05-15): expires in 27 days [Quality Wins 0.01, Opponent Network 0.18]
 - S57 NA Intermediate Central - Regular Season vs Benadryl Abusers (2026-05-20): expires in 32 days [Tier Exposure 0.22, Quality Wins 0.02, Opponent Network 0.22]
 - S57 NA Intermediate Central - Playoffs B vs The Sweepers (2026-05-27): expires in 39 days [Quality Wins 0.03, Opponent Network 0.26]
-- S57 NA Intermediate Central - Playoffs B (2026-06-01): expires in 44 days [Tier Exposure 0.30]
+- S57 NA Intermediate Central - Playoffs B (2026-06-01): expires in 44 days [Tier Exposure 0.29]
 
 #### Matches (10 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-01 | Duality Zero | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -286.6 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
-| 2026-05-29 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -196.5 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
-| 2026-05-27 | The Sweepers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +334.4 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
+| 2026-06-01 | Duality Zero | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -286.8 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
+| 2026-05-29 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -196.6 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
+| 2026-05-27 | The Sweepers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +334.5 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
 | 2026-05-20 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +255.2 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
 | 2026-05-15 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +284.1 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
 | 2026-05-13 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -0.6 | 81rd, Ch3rrycs, Hedge, _burb, pecan |

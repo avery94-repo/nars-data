@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.043 vs 0.434 aver
 - Quality Wins drivers: beat Bird Lickers at S57 NA Main Central - Regular Season (2026-05-20) 0.02; beat RAZED at S57 NA Main Central - Regular Season (2026-05-22) 0.01; beat Sedated at S57 NA Main Central - Regular Season (2026-04-24) 0.01
 - Opponent Network drivers: beat RAZED at S57 NA Main Central - Regular Season (2026-05-22) 0.26; beat Bird Lickers at S57 NA Main Central - Regular Season (2026-05-20) 0.25; beat NADIYA at S57 NA Main Central - Regular Season (2026-05-01) 0.10
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +663.6 |
-| SportsBetExpert | 6 | 2671.6 | +661.8 |
-| M80 | 2 | 3081.4 | +650.0 |
-| LAG Gaming | 8 | 2507.4 | +649.8 |
-| Wildcard | 3 | 2911.9 | +645.3 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| NOVAIR | 245 | 1391.8 | +5.2 | +163.9 |
+| D1NK Esports | 244 | 1392.8 | +6.2 | +166.8 |
+| OPOZIT | 243 | 1394.8 | +8.2 | +169.4 |
+| NXG Esports | 242 | 1404.0 | +17.4 | +178.5 |
+| FUELED BY HATE | 241 | 1404.3 | +17.7 | +173.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Green Grove Retirement | 94 | +342.0 | +339.5 | +31.5 |
+| NineFlyeSports | 96 | +338.5 | +350.6 | +31.3 |
+| Elusive | 93 | +345.0 | +377.4 | +30.7 |
+| FlyQuest RED | 97 | +334.1 | +361.5 | +29.4 |
+| Axial | 101 | +319.8 | +313.3 | +29.3 |
+| Addice | 102 | +315.9 | +357.6 | +27.9 |
+| New Legends | 103 | +308.7 | +360.9 | +26.9 |
+| Holy Squid Empire | 108 | +292.1 | +304.0 | +25.4 |
+| Hadouken | 100 | +323.2 | +278.6 | +24.0 |
+| Black Dragon Society | 109 | +284.1 | +320.9 | +23.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 

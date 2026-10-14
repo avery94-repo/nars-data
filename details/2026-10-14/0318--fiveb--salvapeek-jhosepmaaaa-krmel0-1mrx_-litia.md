@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.006 vs 0.006 average,
 - Quality Wins drivers: beat Team Zhao at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.06; beat TeamFlashGaming at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.03
 - Opponent Network drivers: beat Team Zhao at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.93; beat TeamFlashGaming at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +408.3 |
-| SportsBetExpert | 6 | 2671.6 | +407.9 |
-| LAG Gaming | 8 | 2507.4 | +402.4 |
-| regain | 12 | 2256.1 | +401.1 |
-| M80 | 2 | 3081.4 | +399.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Team Phys | 317 | 1238.6 | +0.1 | +113.5 |
+| Relativity | 316 | 1238.9 | +0.4 | +113.5 |
+| Once Divine Gaming | 315 | 1239.8 | +1.3 | +113.7 |
+| Baatarz | 314 | 1241.4 | +2.9 | +114.0 |
+| Better at WOT | 313 | 1246.5 | +8.0 | +117.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Biggie Cheese Fan Club | 151 | +338.1 | +204.2 | +21.8 |
+| Kevin James Fan Club | 148 | +342.4 | +225.6 | +21.8 |
+| WhiteBoyWinter | 155 | +328.2 | +212.4 | +21.0 |
+| offBalance | 165 | +303.8 | +208.7 | +19.0 |
+| Pug Palace | 167 | +297.3 | +211.8 | +18.2 |
+| BucketJonsBoys | 172 | +294.6 | +202.1 | +18.0 |
+| Order Zero | 156 | +326.2 | +189.4 | +17.9 |
+| Shaboing Boing Bandits | 173 | +292.1 | +220.2 | +17.7 |
+| Armored Talent | 174 | +291.3 | +225.4 | +17.5 |
+| Firstwave | 175 | +288.5 | +201.4 | +17.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +394.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.3), SixSevenZaZa (+0.5).
 
@@ -53,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Fire Nation | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -6.4 | 4MoB, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
-| 2026-09-10 | TELETUBEASTS | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -95.9 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4 |
+| 2026-09-10 | TELETUBEASTS | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -96.0 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4 |
 | 2026-09-06 | pew pew | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -100.8 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
 | 2026-09-04 | Team Zhao | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.06 | 0.93 | +122.8 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4 |
 | 2026-09-02 | TeamFlashGaming | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +148.4 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4, salvapeek |

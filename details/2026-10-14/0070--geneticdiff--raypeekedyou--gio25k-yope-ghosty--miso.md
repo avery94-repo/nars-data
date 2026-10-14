@@ -25,8 +25,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.214 | 1399.4 | - |
-| +30 days | 0.202 | 1382.9 | -16.5 |
-| +60 days | 0.191 | 1367.4 | -32.0 |
+| +30 days | 0.202 | 1382.9 | -16.4 |
+| +60 days | 0.191 | 1367.3 | -32.0 |
 | +90 days | 0.174 | 1343.3 | -56.1 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.074 vs 0.092 average, gap -0.018). Matching that average is worth about 12.6 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.074 vs 0.092 average,
 - Quality Wins drivers: beat ThirdSite at S58 NA Main A - Regular Season (2026-08-26) 0.21; beat Wolves at S58 NA Main Central - Playoffs A (2026-09-12) 0.16; beat SquadUp at S58 NA Main A - Regular Season (2026-08-05) 0.15
 - Opponent Network drivers: beat Wolves at S58 NA Main Central - Playoffs A (2026-09-12) 1.02; beat We Play Naked at S59 NA Main A - Regular Season (2026-10-07) 1.02; beat Kings Gambit at S59 NA Main A - Regular Season (2026-10-09) 1.02
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +328.5 |
-| SportsBetExpert | 6 | 2671.6 | +324.0 |
-| M80 | 2 | 3081.4 | +323.6 |
-| Wildcard | 3 | 2911.9 | +320.1 |
-| Liquid | 1 | 3103.3 | +319.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| NZ Gaming | 69 | 1813.2 | +20.3 | +108.1 |
+| Whiff City | 68 | 1817.6 | +24.7 | +110.9 |
+| Playing for fun | 67 | 1819.3 | +26.4 | +105.3 |
+| WhalersOnDaMoon | 66 | 1821.8 | +28.9 | +115.9 |
+| Endless Esports | 65 | 1826.0 | +33.1 | +115.8 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Iowa Stormboar | 21 | +322.9 | +229.2 | +16.8 |
+| Zomblers | 22 | +321.8 | +229.8 | +16.8 |
+| Olympus | 25 | +246.7 | +174.0 | +9.5 |
+| Automatic HQ | 27 | +237.9 | +180.7 | +7.8 |
+| duck crew | 23 | +303.1 | +154.4 | +7.2 |
+| Festina Lente | 24 | +249.9 | +144.3 | +3.3 |
+| VOID ALUNE | 29 | +214.9 | +137.6 | +3.2 |
+| Hairy Scary Bandits | 32 | +206.5 | +165.3 | +1.6 |
+| Chicken Coop | 33 | +205.3 | +186.7 | +1.3 |
+| flat earth | 64 | +33.6 | +115.4 | -0.0 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +319.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0).
 
@@ -71,18 +88,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | SquadUp | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.15 | 0.74 | +161.2 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-31 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -141.0 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-29 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -41.5 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
-| 2026-07-24 | DKR Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.08 | 0.66 | +147.4 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
+| 2026-07-24 | DKR Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.08 | 0.66 | +147.5 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-22 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.07 | 0.65 | +159.2 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-17 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.02 | 0.61 | +0.2 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-15 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.03 | 0.60 | +192.5 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-05-31 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -125.8 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-05-27 | Crimson Vortex | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -40.4 | -Gio25k, Yope, b4m, ghosty-, miso |
-| 2026-05-22 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.06 | 0.26 | +215.3 | -Gio25k, Yope, b4m, ghosty-, miso |
-| 2026-05-20 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -231.2 | -Gio25k, Yope, b4m, ghosty-, miso |
+| 2026-05-22 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.06 | 0.26 | +215.4 | -Gio25k, Yope, b4m, ghosty-, miso |
+| 2026-05-20 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -231.3 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-05-13 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +2.0 | -Gio25k, Yope, b4m, ghosty-, miso |
-| 2026-05-08 | BucketJonsBoys | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.04 | 0.16 | +261.9 | -Gio25k, Yope, b4m, ghosty-, miso |
+| 2026-05-08 | BucketJonsBoys | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.04 | 0.16 | +262.0 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-05-06 | Shaboing Boing Bandits | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -147.8 | -Gio25k, Yope, b4m, ghosty-, miso |
-| 2026-05-01 | Zealous | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +368.8 | -Gio25k, Yope, b4m, ghosty-, miso |
+| 2026-05-01 | Zealous | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +368.9 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-04-29 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -205.0 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-04-24 | DKR Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -182.0 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-04-22 | James Bond Bois | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +71.3 | -Gio25k, Yope, b4m, ghosty-, miso |

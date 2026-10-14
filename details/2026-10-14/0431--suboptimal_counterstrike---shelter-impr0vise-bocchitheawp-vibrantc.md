@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.065 vs 0.134 aver
 - Quality Wins drivers: beat Belladonna at Brace For Impact: NA Women's Cash Cup September 2026 (2026-09-20) 0.07
 - Opponent Network drivers: beat Belladonna at Brace For Impact: NA Women's Cash Cup September 2026 (2026-09-20) 1.00
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +483.4 |
-| SportsBetExpert | 6 | 2671.6 | +483.3 |
-| Zomblers | 22 | 2114.7 | +479.6 |
-| regain | 12 | 2256.1 | +479.3 |
-| North Forge | 38 | 1971.1 | +478.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| REPORT MASSIVE | 430 | 963.0 | +1.2 | +129.4 |
+| Conduit eSports | 429 | 968.6 | +6.8 | +130.8 |
+| GodFather Gaming | 428 | 983.8 | +22.0 | +134.7 |
+| Knox Esports | 427 | 984.1 | +22.3 | +134.7 |
+| Famas OP | 426 | 984.9 | +23.1 | +134.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| ItAintOverYet | 284 | +340.8 | +243.4 | +25.1 |
+| Entertainment Cheese | 285 | +339.0 | +269.7 | +24.4 |
+| Midwest Farmers | 286 | +334.5 | +266.1 | +24.2 |
+| Imperium | 283 | +343.7 | +222.5 | +23.8 |
+| 55TH ST | 288 | +329.5 | +270.2 | +23.7 |
+| Cream Team | 293 | +320.6 | +230.0 | +23.6 |
+| Resurgence | 290 | +321.8 | +245.0 | +23.5 |
+| Tractors | 292 | +321.2 | +258.3 | +23.3 |
+| COGNITIVE | 295 | +317.3 | +240.0 | +23.2 |
+| Mud Wizards | 298 | +308.2 | +264.3 | +21.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +466.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.2).
 

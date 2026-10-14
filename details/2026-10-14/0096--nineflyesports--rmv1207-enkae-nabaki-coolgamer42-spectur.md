@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.209 | 1392.8 | - |
-| +30 days | 0.182 | 1354.2 | -38.6 |
-| +60 days | 0.164 | 1329.9 | -62.9 |
-| +90 days | 0.135 | 1288.5 | -104.4 |
+| +30 days | 0.182 | 1354.1 | -38.6 |
+| +60 days | 0.164 | 1329.9 | -62.8 |
+| +90 days | 0.135 | 1288.4 | -104.3 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.496 vs 0.557 average, gap -0.061). Matching that average is worth about 21.4 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.496 vs 0.557 aver
 - Quality Wins drivers: beat EXODIA at S58 NA Advanced Central - Playoffs (2026-09-05) 0.83; beat Demolition at S58 NA Advanced Central - Regular Season (2026-08-26) 0.19; beat NXG Esports at S58 NA Advanced Central - Regular Season (2026-08-04) 0.17
 - Opponent Network drivers: beat EXODIA at S58 NA Advanced Central - Playoffs (2026-09-05) 1.45; beat Demolition at S58 NA Advanced Central - Regular Season (2026-08-26) 1.26; beat 027fam at S58 NA Advanced Central - Regular Season (2026-08-20) 1.20
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +249.7 |
-| SportsBetExpert | 6 | 2671.6 | +247.7 |
-| M80 | 2 | 3081.4 | +245.3 |
-| Wildcard | 3 | 2911.9 | +243.1 |
-| Liquid | 1 | 3103.3 | +241.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Crimson Vortex | 95 | 1727.4 | +2.3 | +78.7 |
+| Green Grove Retirement | 94 | 1728.6 | +3.5 | +86.0 |
+| Elusive | 93 | 1731.6 | +6.5 | +91.8 |
+| Toomers | 92 | 1742.5 | +17.4 | +85.6 |
+| Fathom Gaming | 91 | 1745.3 | +20.2 | +85.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Olympus | 25 | +314.5 | +151.8 | +13.4 |
+| Automatic HQ | 27 | +305.7 | +159.2 | +12.6 |
+| VOID ALUNE | 29 | +282.7 | +118.2 | +10.8 |
+| Hairy Scary Bandits | 32 | +274.3 | +146.5 | +10.6 |
+| Chicken Coop | 33 | +273.1 | +169.3 | +10.4 |
+| Holly Molly | 35 | +263.3 | +136.7 | +9.3 |
+| EMPIRE | 36 | +258.5 | +154.9 | +9.0 |
+| Festina Lente | 24 | +317.7 | +123.0 | +8.1 |
+| unreal nightmare | 37 | +251.5 | +131.3 | +8.1 |
+| North Forge | 38 | +246.1 | +163.1 | +7.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +241.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0).
 
@@ -64,13 +81,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-03 | LAG Gaming | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.92 | 1.55 | 1.00 | 1.43 | 0.00 | 0.00 | -0.0 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-08-26 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.19 | 1.26 | +11.7 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-08-20 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.45 | 1.00 | 1.20 | 0.09 | 1.20 | +11.8 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
-| 2026-08-12 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.07 | 1.13 | +133.2 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
+| 2026-08-12 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.07 | 1.13 | +133.3 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-08-11 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.45 | 1.00 | 1.12 | 0.00 | 0.00 | -0.1 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-08-06 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.07 | 0.00 | 0.00 | -99.3 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-08-05 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.05 | 1.06 | +23.6 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-08-04 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.45 | 1.00 | 1.05 | 0.17 | 1.05 | +423.5 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-05-21 | Imperium | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -318.6 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
-| 2026-05-21 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.06 | 0.30 | +161.2 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
+| 2026-05-21 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.06 | 0.30 | +161.3 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
 | 2026-05-20 | Desi Boyz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -72.6 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
 | 2026-05-15 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -0.9 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
 | 2026-05-14 | EMPIRE | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -168.5 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |

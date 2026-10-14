@@ -25,25 +25,42 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.028 | 1138.7 | - |
-| +30 days | 0.025 | 1134.9 | -3.9 |
+| +30 days | 0.025 | 1134.9 | -3.8 |
 | +60 days | 0.023 | 1132.3 | -6.5 |
 | +90 days | 0.022 | 1130.5 | -8.3 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.062 vs 0.107 average, gap -0.045). Matching that average is worth about 15.7 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.062 vs 0.107 average, gap -0.045). Matching that average is worth about 15.8 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-04) 0.32
 - Quality Wins drivers: beat BlueberryFuego at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.03
 - Opponent Network drivers: beat BlueberryFuego at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.95
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.4 |
-| Zomblers | 22 | 2114.7 | +658.8 |
-| regain | 12 | 2256.1 | +658.7 |
-| FarmVille | 16 | 2167.6 | +657.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Square1 | 436 | 940.4 | +3.5 | +163.4 |
+| Counter Legends | 435 | 941.5 | +4.6 | +163.7 |
+| The Bobs | 434 | 946.1 | +9.2 | +165.2 |
+| The Homies | 433 | 954.0 | +17.1 | +167.7 |
+| Seven ate Nine | 432 | 955.9 | +19.0 | +168.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Cream Team | 293 | +345.5 | +304.8 | +32.7 |
+| Resurgence | 290 | +346.7 | +324.1 | +32.4 |
+| COGNITIVE | 295 | +342.2 | +317.4 | +32.1 |
+| Tractors | 292 | +346.1 | +341.2 | +31.8 |
+| NATIONAL CS UNI | 301 | +329.2 | +315.7 | +30.8 |
+| Mud Wizards | 298 | +333.1 | +348.4 | +30.3 |
+| DingTone | 302 | +326.9 | +324.4 | +29.9 |
+| Guangzhou Loong Lions | 304 | +323.0 | +314.8 | +29.7 |
+| Team Nyx | 307 | +316.3 | +309.2 | +29.3 |
+| TELETUBEASTS | 303 | +326.3 | +345.3 | +29.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Open9-10 Central - Playoffs B (2026-06-04): expires in 47 days [Tier Exposure 0.32]
@@ -56,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Team Nyx | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -61.2 | Ophion, barrett, lace-, mothify, sneeze1337 |
 | 2026-09-04 | BlueberryFuego | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +211.4 | Ophion, barrett, lace-, mothify, sneeze1337 |
 | 2026-09-02 | Align Esports | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.00 | 0.00 | -50.8 | Ophion, barrett, lace-, mothify, sneeze1337 |
-| 2026-06-04 | Vexation Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -140.0 | Miv, _yuri, lace-, mothify, sneeze1337 |
+| 2026-06-04 | Vexation Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -140.1 | Miv, _yuri, lace-, mothify, sneeze1337 |
 | 2026-05-27 | Cojomo Academy Roster | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -161.1 | Miv, _yuri, lace-, mothify, sneeze1337 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

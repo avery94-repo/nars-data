@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: Only Goys
 Roster: kRc5, SirRev, realYahu, Lil_Cig_, Bloatedd
-NARS Rank: 258 of 506
+NARS Rank: 257 of 506
 
 Final Rating: 1369.9
 Seeded Start: 1174.5
@@ -29,21 +29,38 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.038 | 1153.0 | -21.5 |
 | +90 days | 0.035 | 1149.3 | -25.2 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.156 vs 0.271 average, gap -0.115). Matching that average is worth about 40.3 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.156 vs 0.298 average, gap -0.142). Matching that average is worth about 49.7 seed points.
 
 - Tier Exposure drivers: S58 NA Open1-8 Central - Playoffs (2026-09-08) 0.96; S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.31
 - Quality Wins drivers: beat ARES GAMING at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.06; beat Crashouts Anonymous at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.03; beat Knight Shift at S57 NA Open1-8 Central - Playoffs (2026-05-29) 0.01
 - Opponent Network drivers: beat Crashouts Anonymous at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.93; beat ARES GAMING at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.92; beat Knight Shift at S57 NA Open1-8 Central - Playoffs (2026-05-29) 0.28
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +663.7 |
-| SportsBetExpert | 6 | 2671.6 | +662.1 |
-| LAG Gaming | 8 | 2507.4 | +650.4 |
-| M80 | 2 | 3081.4 | +650.0 |
-| Wildcard | 3 | 2911.9 | +645.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Real Hustle Club | 256 | 1372.5 | +2.6 | +163.1 |
+| drunk cigs dont count | 255 | 1373.1 | +3.2 | +173.7 |
+| N w G | 254 | 1375.1 | +5.2 | +163.9 |
+| Eightball | 253 | 1375.6 | +5.7 | +172.8 |
+| Dude Picks | 252 | 1377.5 | +7.6 | +176.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Axial | 101 | +336.5 | +321.6 | +31.0 |
+| Addice | 102 | +332.6 | +368.8 | +29.5 |
+| New Legends | 103 | +325.4 | +372.7 | +28.6 |
+| Holy Squid Empire | 108 | +308.8 | +312.6 | +28.0 |
+| Black Dragon Society | 109 | +300.8 | +330.9 | +26.6 |
+| Hadouken | 100 | +339.9 | +284.9 | +25.8 |
+| Bills | 99 | +342.1 | +285.8 | +24.3 |
+| Read You Like a Kindle | 116 | +284.8 | +324.3 | +23.9 |
+| eefsports | 112 | +294.3 | +267.5 | +23.5 |
+| ODIN | 119 | +277.2 | +315.2 | +22.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 

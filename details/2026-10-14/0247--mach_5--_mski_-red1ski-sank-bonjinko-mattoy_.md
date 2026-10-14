@@ -4,14 +4,14 @@ Roster: _Mski_, red1ski, sank, BonJinko, Mattoy_
 NARS Rank: 247 of 506
 
 Final Rating: 1386.1
-Seeded Start: 1337.1
-H2H Adjustment: +49.0
+Seeded Start: 1337.0
+H2H Adjustment: +49.1
 
-Final Rating (1386.1) = Seeded Start (1337.1) + H2H Adjustment (+49.0)
+Final Rating (1386.1) = Seeded Start (1337.0) + H2H Adjustment (+49.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.169 x 1400 = 1337.1
+                = 1100 + 0.169 x 1400 = 1337.0
 
 seed_factor 0.169 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.043) + 0.25 x Opponent Network (0.517)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.169 | 1337.1 | - |
+| Now | 0.169 | 1337.0 | - |
 | +30 days | 0.151 | 1311.6 | -25.5 |
 | +60 days | 0.134 | 1287.0 | -50.1 |
-| +90 days | 0.101 | 1241.9 | -95.2 |
+| +90 days | 0.101 | 1241.8 | -95.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.085 average, gap -0.011). Matching that average is worth about 3.9 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.085 average
 - Quality Wins drivers: beat We Play Naked at S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.11; beat Benadryl Abusers at S58 NA Intermediate Central - Playoffs B (2026-09-07) 0.10; beat Flow Esports at S58 NA Intermediate B - Regular Season (2026-08-19) 0.09
 - Opponent Network drivers: beat We Play Naked at S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.96; beat Benadryl Abusers at S58 NA Intermediate Central - Playoffs B (2026-09-07) 0.95; beat katzwitgunz at S58 NA Intermediate B - Regular Season (2026-08-26) 0.87
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +569.8 |
-| SportsBetExpert | 6 | 2671.6 | +568.5 |
-| LAG Gaming | 8 | 2507.4 | +558.5 |
-| M80 | 2 | 3081.4 | +558.1 |
-| Wildcard | 3 | 2911.9 | +554.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| 2THRiLL | 246 | 1386.6 | +0.5 | +146.1 |
+| NOVAIR | 245 | 1391.8 | +5.7 | +147.5 |
+| D1NK Esports | 244 | 1392.8 | +6.7 | +150.5 |
+| OPOZIT | 243 | 1394.8 | +8.7 | +153.2 |
+| NXG Esports | 242 | 1404.0 | +17.9 | +162.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Green Grove Retirement | 94 | +342.5 | +303.5 | +28.1 |
+| NineFlyeSports | 96 | +339.0 | +313.9 | +28.1 |
+| Elusive | 93 | +345.5 | +338.2 | +27.5 |
+| FlyQuest RED | 97 | +334.6 | +324.0 | +26.3 |
+| Axial | 101 | +320.3 | +280.2 | +26.2 |
+| Addice | 102 | +316.4 | +321.4 | +25.1 |
+| New Legends | 103 | +309.2 | +324.9 | +24.2 |
+| Holy Squid Empire | 108 | +292.6 | +272.6 | +22.9 |
+| Black Dragon Society | 109 | +284.6 | +288.8 | +21.5 |
+| Hadouken | 100 | +323.7 | +247.9 | +21.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +550.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -62,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +87.2 | BonJinko, Mattoy_, insightz, red1ski, sank |
 | 2026-08-21 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -48.6 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, insightz |
 | 2026-08-19 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.09 | 0.82 | +83.6 | Mattoy_, _Mski_, insightz, red1ski, sank |
-| 2026-08-14 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.09 | 0.79 | +139.0 | Mattoy_, _Mski_, insightz, red1ski, sank |
+| 2026-08-14 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.09 | 0.79 | +139.1 | Mattoy_, _Mski_, insightz, red1ski, sank |
 | 2026-08-12 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.03 | 0.78 | +0.5 | BonJinko, Mattoy_, _Mski_, insightz, sank |
 | 2026-08-07 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +11.5 | BonJinko, Mattoy_, _Mski_, insightz, sank |
 | 2026-08-05 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.05 | 0.73 | +7.7 | BonJinko, Mattoy_, _Mski_, red1ski, sank |

@@ -3,11 +3,11 @@ Team Name: dogwater
 Roster: HI_IM_TOM, Sykess, JesseP_, Tailz, Cyynn
 NARS Rank: 462 of 506
 
-Final Rating: 835.6
+Final Rating: 835.5
 Seeded Start: 1220.9
-H2H Adjustment: -385.3
+H2H Adjustment: -385.4 (capped at +-300, raw -385.3)
 
-Final Rating (835.6) = Seeded Start (1220.9) + H2H Adjustment (-385.3)
+Final Rating (835.5) = Seeded Start (1220.9) + H2H Adjustment (-385.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.086 | 1220.9 | - |
 | +30 days | 0.075 | 1204.9 | -16.0 |
-| +60 days | 0.066 | 1193.0 | -27.9 |
+| +60 days | 0.066 | 1193.0 | -27.8 |
 | +90 days | 0.052 | 1173.0 | -47.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.213 vs 0.261 average, gap -0.048). Matching that average is worth about 16.8 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.213 vs 0.261 aver
 - Quality Wins drivers: beat MakeYouSayLate at S58 NA Intermediate A - Regular Season (2026-07-22) 0.08; beat Team TahMeow at S58 NA Intermediate A - Regular Season (2026-08-21) 0.07; beat Casipanther at S58 NA Intermediate A - Regular Season (2026-08-26) 0.04
 - Opponent Network drivers: beat Casipanther at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat Team TahMeow at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat 37U Passion at S58 NA Intermediate A - Regular Season (2026-07-29) 0.68
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +218.8 |
-| SportsBetExpert | 6 | 2671.6 | +218.8 |
-| North Forge | 38 | 1971.1 | +218.8 |
-| Wanted Goons | 43 | 1933.1 | +218.5 |
-| Zomblers | 22 | 2114.7 | +218.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Remnant | 461 | 836.7 | +1.2 | +72.9 |
+| Absent Minded | 460 | 845.1 | +9.6 | +73.8 |
+| Puddle Pirates | 459 | 848.8 | +13.3 | +69.3 |
+| Thrash | 458 | 860.9 | +25.4 | +80.4 |
+| Cadillac F1 eSports Team | 457 | 863.1 | +27.6 | +75.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Samantha 4 | 351 | +342.5 | +125.8 | +12.8 |
+| RunTheDamnBall | 352 | +331.6 | +133.3 | +12.4 |
+| DeathMark E-Sports | 353 | +331.0 | +137.9 | +12.3 |
+| Comeback Bandits | 355 | +325.1 | +129.5 | +12.2 |
+| 99 Thieves | 354 | +326.8 | +128.9 | +12.1 |
+| RH Help Desk | 358 | +323.0 | +140.8 | +12.0 |
+| Macs Snacks | 359 | +318.4 | +121.0 | +11.9 |
+| Aers Money Crew | 360 | +317.7 | +125.0 | +11.9 |
+| MINDTRIP | 361 | +314.1 | +127.9 | +11.7 |
+| Temple of Swing | 362 | +311.9 | +123.2 | +11.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +211.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.8).
 
@@ -67,15 +84,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | on disability | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -3.4 | Cyynn, HI_IM_TOM, JesseP_, Tailz, wafis |
 | 2026-07-31 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -40.4 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-07-29 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.03 | 0.68 | +79.8 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-07-22 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.08 | 0.64 | +240.4 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-05-22 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +239.7 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-05-20 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -150.2 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-07-22 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.08 | 0.64 | +240.5 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-05-22 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +239.8 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-05-20 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -150.3 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-15 | Team Deathgrip | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -183.3 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-13 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -7.8 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-05-08 | Brothers United | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -405.0 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-05-01 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | +361.9 | Cyynn, HI_IM_TOM, Sykess, Tailz, cancel |
+| 2026-05-08 | Brothers United | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -405.1 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-05-01 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | +362.0 | Cyynn, HI_IM_TOM, Sykess, Tailz, cancel |
 | 2026-04-29 | EZ2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -11.7 | Cyynn, HI_IM_TOM, Sykess, Tailz, cancel |
-| 2026-04-24 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -210.2 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-04-24 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -210.3 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-04-22 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -275.7 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

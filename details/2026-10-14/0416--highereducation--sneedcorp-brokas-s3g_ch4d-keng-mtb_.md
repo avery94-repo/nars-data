@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.021 | 1129.7 | - |
 | +30 days | 0.013 | 1117.8 | -11.9 |
 | +60 days | 0.008 | 1111.0 | -18.7 |
-| +90 days | 0.008 | 1110.6 | -19.1 |
+| +90 days | 0.008 | 1110.6 | -19.0 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.035 vs 0.261 average, gap -0.226). Matching that average is worth about 79.1 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.035 vs 0.261 aver
 - Quality Wins drivers: beat Vexation Esports at S57 NA Open9-10 Central - Playoffs B (2026-05-29) 0.01; beat Seven ate Nine at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.01
 - Opponent Network drivers: beat Vexation Esports at S57 NA Open9-10 Central - Playoffs B (2026-05-29) 0.28; beat Seven ate Nine at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.26
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.3 |
-| regain | 12 | 2256.1 | +657.4 |
-| Zomblers | 22 | 2114.7 | +656.1 |
-| LAG Gaming | 8 | 2507.4 | +656.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Boomhogs 2 | 415 | 1021.7 | +4.2 | +163.6 |
+| MakeYouSayLate | 414 | 1026.9 | +9.4 | +171.3 |
+| Epochal Esports | 413 | 1036.1 | +18.6 | +177.2 |
+| Moniseum | 412 | 1036.4 | +18.9 | +168.3 |
+| Duality Zero | 411 | 1036.4 | +18.9 | +168.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| THE GUILD | 264 | +341.5 | +307.8 | +32.2 |
+| Wiggle Peeks | 265 | +339.3 | +328.3 | +31.5 |
+| DadDick Esports | 261 | +344.9 | +346.8 | +31.5 |
+| Kinetic | 260 | +346.7 | +353.2 | +31.4 |
+| ASCEND | 263 | +342.6 | +332.6 | +31.3 |
+| PASSION | 269 | +331.9 | +335.4 | +30.6 |
+| DUI | 262 | +343.5 | +286.3 | +28.0 |
+| Saltcrew | 276 | +303.3 | +297.9 | +27.6 |
+| Chopped | 277 | +302.3 | +322.6 | +27.0 |
+| Demolition | 279 | +298.5 | +296.2 | +26.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.0).
 
@@ -58,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-06 | FlockMunchers | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -239.4 | Brokas, Keng, MtB_, S3G_CH4D, fample |
-| 2026-06-12 | VeryBigDoogoos | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -97.4 | Brokas, Keng, MtB_, S3G_CH4D, SneedCorp |
+| 2026-06-12 | VeryBigDoogoos | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -97.5 | Brokas, Keng, MtB_, S3G_CH4D, SneedCorp |
 | 2026-06-05 | Geass Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -177.8 | Brokas, Keng, MtB_, S3G_CH4D, SneedCorp |
 | 2026-05-29 | Vexation Esports | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +191.6 | Brokas, Keng, MtB_, S3G_CH4D, SneedCorp |
 | 2026-05-27 | Seven ate Nine | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +210.9 | Brokas, Keng, MtB_, S3G_CH4D, SneedCorp |

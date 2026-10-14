@@ -3,11 +3,11 @@ Team Name: Feels MAIN Man
 Roster: goose_x5, Feebz, MUDFLAPS, BigBadJohn, petex9
 NARS Rank: 466 of 506
 
-Final Rating: 829.9
+Final Rating: 829.8
 Seeded Start: 1212.8
-H2H Adjustment: -382.9
+H2H Adjustment: -383.0
 
-Final Rating (829.9) = Seeded Start (1212.8) + H2H Adjustment (-382.9)
+Final Rating (829.8) = Seeded Start (1212.8) + H2H Adjustment (-383.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.081 | 1212.8 | - |
 | +30 days | 0.051 | 1171.9 | -40.9 |
 | +60 days | 0.040 | 1155.8 | -57.0 |
-| +90 days | 0.031 | 1143.9 | -69.0 |
+| +90 days | 0.031 | 1143.9 | -68.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.207 vs 0.273 average, gap -0.066). Matching that average is worth about 23.1 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.207 vs 0.273 aver
 - Quality Wins drivers: beat RejexEsports at S58 NA Main B - Regular Season (2026-08-21) 0.05; beat ALL IN at S58 NA Main B - Regular Season (2026-07-18) 0.03; beat Diamond Mental at S57 NA Intermediate Central - Playoffs B (2026-05-29) 0.03
 - Opponent Network drivers: beat RejexEsports at S58 NA Main B - Regular Season (2026-08-21) 0.97; beat ALL IN at S58 NA Main B - Regular Season (2026-07-18) 0.71; beat MINDTRIP at S57 NA Intermediate Central - Playoffs B (2026-06-03) 0.31
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| North Forge | 38 | 1971.1 | +207.9 |
-| NRG | 4 | 2835.7 | +207.8 |
-| SportsBetExpert | 6 | 2671.6 | +207.8 |
-| Wanted Goons | 43 | 1933.1 | +207.6 |
-| Zomblers | 22 | 2114.7 | +207.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Spin da block | 465 | 830.0 | +0.2 | +64.7 |
+| 69 | 464 | 832.3 | +2.5 | +69.5 |
+| de_throne | 463 | 834.8 | +5.0 | +65.9 |
+| dogwater | 462 | 835.5 | +5.7 | +77.0 |
+| Remnant | 461 | 836.7 | +6.9 | +70.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Samantha 4 | 351 | +348.2 | +120.9 | +12.3 |
+| RunTheDamnBall | 352 | +337.3 | +128.2 | +12.0 |
+| DeathMark E-Sports | 353 | +336.7 | +132.6 | +11.9 |
+| Comeback Bandits | 355 | +330.8 | +124.5 | +11.8 |
+| 99 Thieves | 354 | +332.5 | +124.0 | +11.7 |
+| RH Help Desk | 358 | +328.7 | +135.5 | +11.6 |
+| Macs Snacks | 359 | +324.1 | +116.3 | +11.6 |
+| Aers Money Crew | 360 | +323.4 | +120.2 | +11.6 |
+| MINDTRIP | 361 | +319.8 | +123.0 | +11.4 |
+| Temple of Swing | 362 | +317.6 | +118.4 | +11.3 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +200.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.8).
 
@@ -67,10 +84,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Cadillac F1 eSports Team | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -69.9 | Feebz, MUDFLAPS, goose_x5, petex9, titter |
 | 2026-08-21 | RejexEsports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.05 | 0.97 | +12.9 | Feebz, MUDFLAPS, goose_x5, petex9, titter |
 | 2026-08-19 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -77.7 | Feebz, MUDFLAPS, goose_x5, nax, titter |
-| 2026-08-14 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -103.7 | Feebz, GureT, MUDFLAPS, goose_x5, nax |
-| 2026-08-12 | Top One Percent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -71.5 | Feebz, MUDFLAPS, goose_x5, nax, petex9 |
+| 2026-08-14 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -103.8 | Feebz, GureT, MUDFLAPS, goose_x5, nax |
+| 2026-08-12 | Top One Percent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -71.6 | Feebz, MUDFLAPS, goose_x5, nax, petex9 |
 | 2026-08-07 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -66.3 | -Retro-, Feebz, MUDFLAPS, goose_x5, nax |
-| 2026-08-05 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -150.5 | Feebz, MUDFLAPS, goose_x5, nax, petex9 |
+| 2026-08-05 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -150.6 | Feebz, MUDFLAPS, goose_x5, nax, petex9 |
 | 2026-07-31 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -43.8 | -Retro-, Feebz, goose_x5, nax, petex9 |
 | 2026-07-29 | The Skins | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -137.4 | -Retro-, Feebz, GureT, MUDFLAPS, goose_x5 |
 | 2026-07-24 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -201.2 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
@@ -78,13 +95,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-03 | MINDTRIP | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +168.4 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
 | 2026-05-29 | Diamond Mental | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.03 | 0.28 | +150.4 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
 | 2026-05-27 | Mach 10 | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +20.2 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
-| 2026-05-20 | RunTheDamnBall | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +341.5 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
-| 2026-05-15 | Strafe | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -377.6 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
+| 2026-05-20 | RunTheDamnBall | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +341.6 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
+| 2026-05-15 | Strafe | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -377.7 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
 | 2026-05-13 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +198.6 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
-| 2026-05-08 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -283.8 | BigBadJohn, Feebz, GureT, MUDFLAPS, goose_x5, petex9 |
-| 2026-05-06 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +331.7 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
+| 2026-05-08 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -283.9 | BigBadJohn, Feebz, GureT, MUDFLAPS, goose_x5, petex9 |
+| 2026-05-06 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +331.8 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
 | 2026-05-01 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +14.0 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
-| 2026-04-29 | Grandpa Berets | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -271.2 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
+| 2026-04-29 | Grandpa Berets | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -271.3 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
 | 2026-04-24 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +28.9 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
 | 2026-04-22 | Distinguished Ducks | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +259.7 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
 

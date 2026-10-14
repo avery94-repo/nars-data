@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.043 vs 0.302 aver
 - Quality Wins drivers: beat EZ2025 at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.02; beat dogwater at S57 NA Intermediate Central - Regular Season (2026-05-13) 0.02; beat SixSevenZaZa at S57 NA Intermediate Central - Regular Season (2026-05-06) 0.00
 - Opponent Network drivers: beat EZ2025 at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23; beat dogwater at S57 NA Intermediate Central - Regular Season (2026-05-13) 0.17; beat Gambling and Young at S57 NA Intermediate Central - Regular Season (2026-05-08) 0.14
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.3 |
-| SportsBetExpert | 6 | 2671.6 | +663.7 |
-| LAG Gaming | 8 | 2507.4 | +654.4 |
-| regain | 12 | 2256.1 | +651.7 |
-| M80 | 2 | 3081.4 | +650.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| T Shirt Material | 343 | 1191.6 | +0.6 | +162.5 |
+| Wide Swinging Wizards | 342 | 1191.6 | +0.6 | +162.5 |
+| MadaNASCAR | 341 | 1195.3 | +4.3 | +172.5 |
+| Boop Boop Gang | 340 | 1195.6 | +4.6 | +168.7 |
+| Kennesaw State Gold 2025 | 339 | 1195.9 | +4.9 | +163.8 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| BucketJonsBoys | 172 | +342.1 | +315.9 | +32.1 |
+| Pug Palace | 167 | +344.8 | +330.8 | +31.8 |
+| Firstwave | 175 | +336.0 | +314.6 | +31.5 |
+| Shaboing Boing Bandits | 173 | +339.6 | +343.4 | +31.1 |
+| APEX | 176 | +330.9 | +322.4 | +30.8 |
+| Armored Talent | 174 | +338.8 | +351.3 | +30.8 |
+| LAF | 183 | +320.3 | +313.1 | +29.8 |
+| GOOZPEEK | 182 | +322.1 | +327.5 | +29.6 |
+| KIS | 185 | +315.6 | +296.0 | +29.4 |
+| Shadow Wizard Money Gang | 180 | +324.9 | +368.2 | +28.7 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.8), SixSevenZaZa (+1.3).
 
@@ -58,8 +75,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | EZ2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +277.1 | 9abzoni18, JustKing, VadYga, flatline7, lapo-extazzy |
-| 2026-05-20 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -124.8 | 9abzoni18, JustKing, VadYga, d31t, lapo-extazzy |
+| 2026-05-22 | EZ2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +277.3 | 9abzoni18, JustKing, VadYga, flatline7, lapo-extazzy |
+| 2026-05-20 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -124.9 | 9abzoni18, JustKing, VadYga, d31t, lapo-extazzy |
 | 2026-05-14 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -172.5 | 9abzoni18, IIlIllIlIIll, JustKing, d31t, lapo-extazzy |
 | 2026-05-13 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +7.9 | 9abzoni18, JustKing, VadYga, d31t, lapo-extazzy |
 | 2026-05-08 | Gambling and Young | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +47.8 | 9abzoni18, JustKing, VadYga, d31t, lapo-extazzy |

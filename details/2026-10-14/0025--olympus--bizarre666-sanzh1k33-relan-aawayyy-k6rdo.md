@@ -4,14 +4,14 @@ Roster: Bizarre666, Sanzh1k33, relan, aawayyy, k6rdon
 NARS Rank: 25 of 506
 
 Final Rating: 2039.6
-Seeded Start: 2123.4
-H2H Adjustment: -83.8
+Seeded Start: 2123.3
+H2H Adjustment: -83.7
 
-Final Rating (2039.6) = Seeded Start (2123.4) + H2H Adjustment (-83.8)
+Final Rating (2039.6) = Seeded Start (2123.3) + H2H Adjustment (-83.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.731 x 1400 = 2123.4
+                = 1100 + 0.731 x 1400 = 2123.3
 
 seed_factor 0.731 = 0.25 x Tier Exposure (0.647) + 0.50 x Quality Wins (0.694) + 0.25 x Opponent Network (0.889)
 
@@ -24,9 +24,9 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.731 | 2123.4 | - |
-| +30 days | 0.681 | 2054.0 | -69.4 |
-| +60 days | 0.650 | 2010.6 | -112.8 |
+| Now | 0.731 | 2123.3 | - |
+| +30 days | 0.681 | 2053.9 | -69.4 |
+| +60 days | 0.650 | 2010.6 | -112.7 |
 | +90 days | 0.623 | 1971.6 | -151.8 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.647 vs 0.365 average, gap +0.282). Matching that average is worth about 0.0 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.647 vs 0.365 average
 - Quality Wins drivers: beat Wanted Goons at VRS-tracked 2026-09 (2026-09-14) 1.59; beat Wanted Goons at S58 NA Advanced Central - Playoffs (2026-09-15) 1.55; beat DETONATE at CROSSFIRE Season 6 - Playoffs (2026-09-20) 1.55
 - Opponent Network drivers: beat Wanted Goons at S58 NA Advanced Central - Playoffs (2026-09-15) 1.55; beat DETONATE at CROSSFIRE Season 6 - Playoffs (2026-09-20) 1.55; beat BucketJonsBoys at CROSSFIRE Season 6 - Playoffs (2026-09-16) 1.55
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| M80 | 2 | 3081.4 | +276.9 |
-| NRG | 4 | 2835.7 | +276.5 |
-| Liquid | 1 | 3103.3 | +273.2 |
-| Wildcard | 3 | 2911.9 | +271.2 |
-| SportsBetExpert | 6 | 2671.6 | +264.3 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Festina Lente | 24 | 2042.8 | +3.2 | +85.4 |
+| duck crew | 23 | 2096.0 | +56.4 | +94.3 |
+| Zomblers | 22 | 2114.7 | +75.1 | +125.0 |
+| Iowa Stormboar | 21 | 2115.8 | +76.2 | +125.1 |
+| qcclan | 20 | 2146.1 | +106.5 | +118.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Overtake Sector | 10 | +332.5 | +178.8 | +15.4 |
+| Desi Boyz | 11 | +292.9 | +168.6 | +9.5 |
+| regain | 12 | +216.5 | +169.8 | +3.5 |
+| Zomblers | 22 | +75.1 | +125.0 | -0.0 |
+| Brahmas | 14 | +167.8 | +121.4 | -0.0 |
+| Iowa Stormboar | 21 | +76.2 | +125.1 | -0.0 |
+| Festina Lente | 24 | +3.2 | +85.4 | -0.1 |
+| NuTorious | 17 | +126.1 | +114.7 | -0.1 |
+| FarmVille | 16 | +128.0 | +141.2 | -0.2 |
+| Old Meta | 15 | +136.5 | +133.3 | -0.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +273.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Thrash (+0.0), dogwater (+0.0), Feels MAIN Man (+0.0), AML (+0.0), Another Day in Paradise (+0.0).
 
@@ -75,13 +92,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | Marsborne | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.98 | 1.55 | 1.00 | 1.51 | 0.00 | 0.00 | -36.7 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-09-10 | Beyond Limits | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.33 | 1.00 | 1.29 | 0.85 | 1.29 | +206.4 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-09-10 | Marsborne | L |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -1.1 | core 3/5 |
-| 2026-09-09 | dice | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.00 | 0.00 | -155.1 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
+| 2026-09-09 | dice | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.00 | 0.00 | -155.2 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-09-06 | Tractors | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.33 | 1.00 | 1.26 | 0.25 | 1.26 | +0.0 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-09-03 | Desi Boyz | L | 0-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.54 | 1.00 | 1.42 | 0.00 | 0.00 | -37.6 | Bizarre666, Sanzh1k33, k6rdon, relan, tarturb0b |
 | 2026-09-02 | counterstrike Team | W | 2-0 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.54 | 1.00 | 1.41 | 0.26 | 0.00 | +1.6 | Bizarre666, Sanzh1k33, k6rdon, relan, tarturb0b |
 | 2026-09-02 | Desi Boyz | L | 1-2 | NSTLGA League S2 \| Stage 1 Sapphire Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.54 | 1.00 | 1.41 | 0.00 | 0.00 | -52.3 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-30 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.45 | 1.00 | 1.31 | 0.00 | 0.00 | -4.8 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
-| 2026-08-30 | Overtake Sector | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.45 | 1.00 | 1.30 | 0.00 | 0.00 | -44.9 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
+| 2026-08-30 | Overtake Sector | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.89 | 1.45 | 1.00 | 1.30 | 0.00 | 0.00 | -44.9 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-27 | Axial | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.57 | 0.00 | +0.2 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-27 | ThirdSite | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.24 | 1.05 | +0.1 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-08-27 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.27 | 0.00 | 0.00 | -64.5 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
@@ -100,22 +117,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.00 | 0.00 | -372.9 | Bizarre666, Sanzh1k33, k6rdon, relan, tarturb0b |
 | 2026-07-23 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.93 | 0.00 | 0.00 | -17.6 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
 | 2026-07-22 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.10 | 0.92 | +3.2 | Bizarre666, Sanzh1k33, aawayyy, k6rdon, relan |
-| 2026-06-15 | Club 333 | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.39 | 1.50 | 1.00 | 0.58 | 0.00 | 0.00 | -130.0 | Bizarre666, botanix666, k6rdon, relan, tarturb0b |
+| 2026-06-15 | Club 333 | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.39 | 1.50 | 1.00 | 0.58 | 0.00 | 0.00 | -130.1 | Bizarre666, botanix666, k6rdon, relan, tarturb0b |
 | 2026-06-14 | Wanted Goons | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.38 | 1.50 | 1.00 | 0.57 | 0.57 | 0.00 | +101.0 | -tw1nkl3, Bizarre666, k6rdon, relan, tarturb0b |
-| 2026-06-14 | Club 333 | L |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.00 | 0.00 | -234.9 | core 3/5 |
+| 2026-06-14 | Club 333 | L |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.00 | 0.00 | -235.0 | core 3/5 |
 | 2026-06-13 | LAG Gaming | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.38 | 1.50 | 1.00 | 0.56 | 0.55 | 0.56 | +23.2 | Bizarre666, botanix666, k6rdon, relan, tarturb0b |
-| 2026-06-13 | Wanted Goons | W |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.60 | 0.60 | 0.00 | +80.5 | core 3/5 |
-| 2026-06-12 | LAG Gaming | W |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.58 | 0.00 | +170.3 | core 3/5 |
-| 2026-06-11 | EMPIRE | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.54 | 0.45 | 0.54 | +177.2 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
+| 2026-06-13 | Wanted Goons | W |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.60 | 0.00 | +80.5 | core 3/5 |
+| 2026-06-12 | LAG Gaming | W |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.58 | 0.00 | +170.4 | core 3/5 |
+| 2026-06-11 | EMPIRE | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.54 | 0.45 | 0.54 | +177.3 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
 | 2026-06-09 | NineFly Esports | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.08 | 0.52 | +166.1 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
 | 2026-06-04 | Chicken Coop | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.00 | 0.00 | -0.0 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
-| 2026-06-02 | Omen Esports | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.15 | 0.45 | +320.0 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
+| 2026-06-02 | Omen Esports | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.15 | 0.45 | +320.1 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
 | 2026-05-21 | EMPIRE | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -181.6 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
 | 2026-05-19 | Addice | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -429.1 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
 | 2026-05-14 | dead team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.01 | 0.24 | +15.5 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
 | 2026-05-14 | NZ Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.02 | 0.24 | +185.8 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
 | 2026-05-07 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -73.5 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
-| 2026-05-05 | unreal nightmare | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -312.0 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
+| 2026-05-05 | unreal nightmare | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -312.1 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
 | 2026-05-01 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.01 | 0.12 | +2.7 | aawayyy, botanix666, k6rdon, relan, tarturb0b |
 | 2026-04-23 | Holy Squid Empire | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.01 | 0.05 | +0.9 | Bizarre666, aawayyy, botanix666, k6rdon, relan |
 | 2026-04-22 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.35 | 1.00 | 0.04 | 0.01 | 0.04 | +1.7 | Bizarre666, botanix666, k6rdon, relan, tarturb0b |

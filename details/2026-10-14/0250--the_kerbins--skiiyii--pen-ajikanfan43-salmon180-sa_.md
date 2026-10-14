@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.190 vs 0.345 aver
 - Quality Wins drivers: beat Drip or Drown at S58 NA Open9-10 East - Playoffs B (2026-09-08) 0.11; beat Team Canada CS2 at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.03; beat Against Odds at S58 NA Open9-10 East - Playoffs B (2026-09-02) 0.03
 - Opponent Network drivers: beat Drip or Drown at S58 NA Open9-10 East - Playoffs B (2026-09-08) 0.99; beat Team Canada CS2 at S58 NA Open9-10 East - Playoffs B (2026-09-04) 0.97; beat Against Odds at S58 NA Open9-10 East - Playoffs B (2026-09-02) 0.95
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +282.4 |
-| SportsBetExpert | 6 | 2671.6 | +282.0 |
-| LAG Gaming | 8 | 2507.4 | +277.8 |
-| M80 | 2 | 3081.4 | +276.5 |
-| regain | 12 | 2256.1 | +275.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| deez | 249 | 1383.5 | +4.9 | +90.2 |
+| Ninjas In Boxer | 248 | 1384.1 | +5.5 | +85.2 |
+| Mach 5 | 247 | 1386.1 | +7.5 | +87.7 |
+| 2THRiLL | 246 | 1386.6 | +8.0 | +85.5 |
+| NOVAIR | 245 | 1391.8 | +13.2 | +86.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| NineFlyeSports | 96 | +346.5 | +179.3 | +16.1 |
+| Green Grove Retirement | 94 | +350.0 | +172.4 | +16.1 |
+| FlyQuest RED | 97 | +342.1 | +186.1 | +15.2 |
+| Axial | 101 | +327.8 | +159.4 | +15.2 |
+| Addice | 102 | +323.9 | +186.4 | +14.8 |
+| New Legends | 103 | +316.7 | +189.6 | +14.3 |
+| Holy Squid Empire | 108 | +300.1 | +156.8 | +13.6 |
+| Black Dragon Society | 109 | +292.1 | +168.4 | +13.0 |
+| Hadouken | 100 | +331.2 | +138.7 | +12.3 |
+| Read You Like a Kindle | 116 | +276.1 | +166.4 | +11.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +272.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 

@@ -3,15 +3,15 @@ Team Name: Bad Jawn
 Roster: Dong_Model, williamL, pcaL, superv1llain, Zantle
 NARS Rank: 200 of 506
 
-Final Rating: 1482.0
-Seeded Start: 1240.3
-H2H Adjustment: +241.7
+Final Rating: 1482.1
+Seeded Start: 1240.2
+H2H Adjustment: +241.9
 
-Final Rating (1482.0) = Seeded Start (1240.3) + H2H Adjustment (+241.7)
+Final Rating (1482.1) = Seeded Start (1240.2) + H2H Adjustment (+241.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.100 x 1400 = 1240.3
+                = 1100 + 0.100 x 1400 = 1240.2
 
 seed_factor 0.100 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.291)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.100 | 1240.3 | - |
+| Now | 0.100 | 1240.2 | - |
 | +30 days | 0.089 | 1225.3 | -15.0 |
 | +60 days | 0.090 | 1226.1 | -14.2 |
-| +90 days | 0.091 | 1228.0 | -12.3 |
+| +90 days | 0.091 | 1228.0 | -12.2 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.291 vs 0.327 average, gap -0.036). Matching that average is worth about 12.6 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.291 vs 0.327 aver
 - Quality Wins drivers: beat Team Zhao at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07; beat APEX at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.07; beat GodFather Gaming at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.04
 - Opponent Network drivers: beat Team Zhao at S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; beat No Excuses at S58 NA Open9-10 East - Playoffs C (2026-09-10) 0.99; beat GodFather Gaming at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +248.8 |
-| SportsBetExpert | 6 | 2671.6 | +248.3 |
-| LAG Gaming | 8 | 2507.4 | +244.0 |
-| M80 | 2 | 3081.4 | +243.7 |
-| Wildcard | 3 | 2911.9 | +242.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| GOBLINS | 199 | 1486.4 | +4.3 | +76.3 |
+| O Fire | 198 | 1488.5 | +6.4 | +88.5 |
+| Storm Surge | 197 | 1488.6 | +6.5 | +76.8 |
+| ABG Esports | 196 | 1488.7 | +6.6 | +87.0 |
+| ClanAgain | 195 | 1493.3 | +11.2 | +81.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| flat earth | 64 | +344.4 | +156.1 | +14.4 |
+| Endless Esports | 65 | +343.9 | +157.6 | +14.4 |
+| NZ Gaming | 69 | +331.1 | +143.2 | +13.9 |
+| DUMBO | 63 | +345.0 | +174.6 | +13.8 |
+| WhalersOnDaMoon | 66 | +339.7 | +160.1 | +13.8 |
+| GeneticDiff | 70 | +310.8 | +145.6 | +12.9 |
+| fih hou | 73 | +303.6 | +151.8 | +12.5 |
+| Asoka | 74 | +301.2 | +135.6 | +12.3 |
+| Club 333 | 76 | +300.1 | +164.8 | +12.3 |
+| Kairo | 79 | +296.8 | +133.2 | +12.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +240.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -65,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | No Excuses | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.03 | 0.99 | +67.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-09-06 | GodFather Gaming | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.04 | 0.96 | +6.7 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-09-02 | APEX | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.07 | 0.93 | +144.0 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-05-14 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +147.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-05-14 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +147.5 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-13 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -214.2 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-08 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +12.3 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-06 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +242.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |

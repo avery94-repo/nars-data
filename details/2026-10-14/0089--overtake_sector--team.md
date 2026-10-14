@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.274 | 1483.2 | - |
 | +30 days | 0.319 | 1546.6 | +63.4 |
-| +60 days | 0.335 | 1569.2 | +86.1 |
+| +60 days | 0.335 | 1569.2 | +86.0 |
 | +90 days | 0.367 | 1613.8 | +130.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.054 vs 0.072 average, gap -0.018). Matching that average is worth about 6.3 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.054 vs 0.072 average
 - Quality Wins drivers: beat FarmVille at ESL Challenger League Season 52 North America Cup 3 (2026-10-08) 1.55; beat Zomblers at ESL Challenger League Season 52 North America Cup 3 (2026-10-14) 1.36; beat regain at ESL Challenger League Season 52 North America Cup 3 (2026-10-12) 1.22
 - Opponent Network drivers: beat FarmVille at ESL Challenger League Season 52 North America Cup 3 (2026-10-08) 1.55; beat regain at ESL Challenger League Season 52 North America Cup 3 (2026-10-12) 1.55; beat Iowa Stormboar at ESL Challenger League Season 52 North America Cup 3 (2026-10-12) 1.55
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +69.7 |
-| SportsBetExpert | 6 | 2671.6 | +69.3 |
-| M80 | 2 | 3081.4 | +68.4 |
-| Wildcard | 3 | 2911.9 | +67.8 |
-| LAG Gaming | 8 | 2507.4 | +67.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Manx Recovery Program | 88 | 1751.4 | +0.6 | +25.5 |
+| PROFECO | 87 | 1755.1 | +4.3 | +23.9 |
+| Diggers | 86 | 1763.4 | +12.6 | +26.1 |
+| makeSHIFT | 85 | 1764.1 | +13.3 | +28.3 |
+| Orbit | 84 | 1765.3 | +14.5 | +24.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Olympus | 25 | +288.8 | +45.5 | +3.6 |
+| Automatic HQ | 27 | +280.0 | +48.1 | +3.4 |
+| VOID ALUNE | 29 | +257.0 | +34.9 | +2.5 |
+| Chicken Coop | 33 | +247.4 | +52.0 | +2.5 |
+| Hairy Scary Bandits | 32 | +248.6 | +44.3 | +2.5 |
+| duck crew | 23 | +345.2 | +38.1 | +2.3 |
+| Festina Lente | 24 | +292.0 | +36.2 | +2.0 |
+| Holly Molly | 35 | +237.6 | +41.2 | +1.9 |
+| EMPIRE | 36 | +232.8 | +47.5 | +1.8 |
+| babaG | 28 | +257.9 | +47.4 | +1.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +67.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
 

@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.075 vs 0.296 average,
 - Quality Wins drivers: beat Old Meta at S58 NA Main Central - Playoffs B (2026-09-20) 0.16; beat Shaboing Boing Bandits at S58 NA Main Central - Playoffs B (2026-09-04) 0.15; beat TheMotherLovers at S58 NA Main B - Regular Season (2026-08-21) 0.13
 - Opponent Network drivers: beat Old Meta at S58 NA Main Central - Playoffs B (2026-09-20) 1.19; beat Bird Squishers at S58 NA Main Central - Playoffs B (2026-09-19) 1.19; beat Team Team Name at S58 NA Main Central - Playoffs B (2026-09-07) 1.13
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +198.5 |
-| M80 | 2 | 3081.4 | +197.9 |
-| Liquid | 1 | 3103.3 | +195.2 |
-| Wildcard | 3 | 2911.9 | +194.3 |
-| SportsBetExpert | 6 | 2671.6 | +191.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| raisedbypixels | 26 | 2034.4 | +3.6 | +64.0 |
+| Olympus | 25 | 2039.6 | +8.8 | +74.2 |
+| Festina Lente | 24 | 2042.8 | +12.0 | +65.0 |
+| duck crew | 23 | 2096.0 | +65.2 | +71.6 |
+| Zomblers | 22 | 2114.7 | +83.9 | +98.7 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Overtake Sector | 10 | +341.3 | +134.4 | +11.7 |
+| Desi Boyz | 11 | +301.7 | +127.4 | +7.5 |
+| regain | 12 | +225.3 | +131.1 | +3.9 |
+| Zomblers | 22 | +83.9 | +98.7 | -0.0 |
+| Olympus | 25 | +8.8 | +74.2 | -0.0 |
+| Brahmas | 14 | +176.6 | +92.2 | -0.0 |
+| Iowa Stormboar | 21 | +85.0 | +98.7 | -0.0 |
+| NuTorious | 17 | +134.9 | +87.5 | -0.1 |
+| raisedbypixels | 26 | +3.6 | +64.0 | -0.1 |
+| FarmVille | 16 | +136.8 | +110.7 | -0.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +195.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): GoopT (+0.0), Thrash (+0.0), Absent Minded (+0.0), Remnant (+0.0), dogwater (+0.0).
 
@@ -69,7 +86,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.13 | 0.00 | +12.8 | -CNR, DrMrFish, Senpall, theguy, wishy |
 | 2026-08-14 | Over Your Head | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.12 | 0.92 | +23.0 | -CNR, DrMrFish, Senpall, theguy, wishy |
 | 2026-08-12 | goofball gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.08 | 0.90 | +9.8 | -CNR, DrMrFish, Senpall, theguy, wishy |
-| 2026-08-07 | Nomadic Tactics | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.08 | 0.86 | +168.9 | -CNR, DrMrFish, Senpall, theguy, wishy |
+| 2026-08-07 | Nomadic Tactics | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.08 | 0.86 | +169.0 | -CNR, DrMrFish, Senpall, theguy, wishy |
 | 2026-08-05 | WhalersOnDaMoon | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.11 | 0.85 | +12.2 | -CNR, DrMrFish, Senpall, theguy, wishy |
 | 2026-07-31 | Feels MAIN Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.07 | 0.81 | +43.7 | -CNR, DrMrFish, Senpall, Tr15taN, theguy |
 | 2026-07-29 | Storm Surge | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.11 | 0.79 | +49.7 | -CNR, DrMrFish, Senpall, theguy, wishy |
@@ -78,11 +95,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Evil Space Wizards | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -378.6 | -CNR, DrMrFish, Senpall, theguy, wishy |
 | 2026-07-15 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.07 | 0.68 | +169.8 | -CNR, DrMrFish, Senpall, theguy, wishy |
 | 2026-06-04 | Elation | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -67.0 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
-| 2026-06-03 | Storm Surge | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.24 | 1.00 | 0.38 | 0.05 | 0.00 | +36.1 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
+| 2026-06-03 | Storm Surge | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.24 | 1.00 | 0.38 | 0.05 | 0.00 | +36.2 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-31 | Shaboing Boing Bandits | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.05 | 0.00 | +20.5 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-29 | SquadUp | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -207.1 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-22 | NXG Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.04 | 0.26 | +45.4 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
-| 2026-05-20 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -304.8 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
+| 2026-05-20 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -304.9 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-13 | Bills | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +168.5 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-08 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -33.1 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |
 | 2026-05-06 | Priority | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +316.5 | -CNR, DrMrFish, raypeekedyou, theguy, wishy |

@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.207 | 1389.7 | - |
 | +30 days | 0.195 | 1373.7 | -16.0 |
-| +60 days | 0.180 | 1351.4 | -38.3 |
+| +60 days | 0.180 | 1351.3 | -38.3 |
 | +90 days | 0.154 | 1315.8 | -73.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.080 average, gap -0.020). Matching that average is worth about 14.0 seed points.
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.080 average,
 - Quality Wins drivers: beat UltimateDarklordWizardz at S59 NA Main A - Regular Season (2026-10-09) 0.21; beat MadaNASCAR at NA Revival (2026-09-27) 0.15; beat AURA Esports at S58 NA Intermediate A - Regular Season (2026-08-26) 0.11
 - Opponent Network drivers: beat UltimateDarklordWizardz at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat MadaNASCAR at NA Revival (2026-09-27) 1.01; beat Kennesaw State Gold 2025 at S58 NA Intermediate Central - Playoffs A (2026-09-02) 0.92
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +248.7 |
-| SportsBetExpert | 6 | 2671.6 | +248.0 |
-| M80 | 2 | 3081.4 | +243.7 |
-| LAG Gaming | 8 | 2507.4 | +243.3 |
-| Wildcard | 3 | 2911.9 | +241.9 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Shaboing Boing Bandits | 173 | 1530.6 | +0.8 | +85.8 |
+| BucketJonsBoys | 172 | 1533.1 | +3.3 | +81.6 |
+| Abusement Park | 171 | 1533.8 | +4.0 | +79.3 |
+| Salsas Mazzin Crew | 170 | 1534.5 | +4.7 | +80.9 |
+| Zenano | 169 | 1535.2 | +5.4 | +76.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| TheMotherLovers | 53 | +348.1 | +156.8 | +14.3 |
+| Omen Esports | 57 | +328.0 | +166.0 | +13.2 |
+| flat earth | 64 | +296.7 | +147.1 | +12.3 |
+| Endless Esports | 65 | +296.2 | +148.5 | +12.2 |
+| DUMBO | 63 | +297.3 | +163.9 | +11.9 |
+| WhalersOnDaMoon | 66 | +292.0 | +150.7 | +11.5 |
+| NZ Gaming | 69 | +283.4 | +135.0 | +11.0 |
+| Sharp | 54 | +338.0 | +160.2 | +10.5 |
+| F5 Esports | 60 | +305.5 | +155.8 | +9.7 |
+| Evade Gaming | 55 | +335.2 | +124.5 | +9.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +240.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -60,11 +77,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | WhalersOnDaMoon | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -7.0 | SEIK0X-, chinobrown, f0Nes2, laggistv, pRediii |
 | 2026-09-27 | mas paspas | L | 0-0 | NA Revival | C | faceit-tournament | 1.00 | 1.01 | 1.00 | 1.01 | 0.00 | 0.00 | -1.6 | SEIK0X-, chinobrown, f0Nes2, laggistv, pRediii |
 | 2026-09-27 | MadaNASCAR | W | 1-0 | NA Revival | C | faceit-tournament | 1.00 | 1.01 | 1.00 | 1.01 | 0.15 | 1.01 | +144.3 | SEIK0X-, chinobrown, f0Nes2, laggistv, pRediii |
-| 2026-09-06 | Ubiquiti | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -109.1 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
+| 2026-09-06 | Ubiquiti | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -109.2 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
 | 2026-09-04 | Bald | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -59.6 | SEIK0X-, f0Nes2, g0tfr4g, laggistv, pRediii |
 | 2026-09-02 | Kennesaw State Gold 2025 | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.06 | 0.92 | +39.9 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
 | 2026-08-28 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +49.8 | Doow4, SEIK0X-, g0tfr4g, hotzzinho_-, laggistv |
-| 2026-08-26 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.11 | 0.87 | +114.1 | Doow4, SEIK0X-, g0tfr4g, hotzzinho_-, laggistv |
+| 2026-08-26 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.11 | 0.87 | +114.2 | Doow4, SEIK0X-, g0tfr4g, hotzzinho_-, laggistv |
 | 2026-08-21 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -108.6 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
 | 2026-08-14 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +48.2 | Doow4, SEIK0X-, f0Nes2, hotzzinho_-, laggistv |
 | 2026-08-12 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.09 | 0.78 | +143.4 | Doow4, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
@@ -72,11 +89,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -148.4 | NovaSun, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-31 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.03 | 0.70 | +56.5 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
 | 2026-07-29 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -52.1 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
-| 2026-07-25 | AML | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -293.1 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
+| 2026-07-25 | AML | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -293.2 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-24 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.10 | 0.65 | +199.2 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-22 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -177.4 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-15 | offBalance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +6.6 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
-| 2026-06-12 | makeSHIFT | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.05 | 0.37 | +248.8 | Doow4, NovaSun, f0Nes2, g0tfr4g, laggistv |
+| 2026-06-12 | makeSHIFT | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.05 | 0.37 | +248.9 | Doow4, NovaSun, f0Nes2, g0tfr4g, laggistv |
 | 2026-06-05 | 1001 Fragrance | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -128.5 | Doow4, f0Nes2, g0tfr4g, laggistv, pRediii |
 | 2026-05-29 | AAA | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +77.9 | Doow4, f0Nes2, g0tfr4g, laggistv, pRediii |
 

@@ -3,11 +3,11 @@ Team Name: Biggie Cheese Fan Club
 Roster: prospekt-, korra, SHADOWHAWK47, galy, kiss
 NARS Rank: 151 of 506
 
-Final Rating: 1576.5
+Final Rating: 1576.6
 Seeded Start: 1302.2
-H2H Adjustment: +274.3
+H2H Adjustment: +274.4
 
-Final Rating (1576.5) = Seeded Start (1302.2) + H2H Adjustment (+274.3)
+Final Rating (1576.6) = Seeded Start (1302.2) + H2H Adjustment (+274.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,25 +25,42 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.144 | 1302.2 | - |
-| +30 days | 0.149 | 1308.1 | +5.8 |
+| +30 days | 0.149 | 1308.0 | +5.8 |
 | +60 days | 0.151 | 1310.8 | +8.6 |
 | +90 days | 0.155 | 1317.2 | +15.0 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.412 vs 0.429 average, gap -0.017). Matching that average is worth about 6.0 seed points.
 
-- Tier Exposure drivers: S58 NA Open9-10 West - Playoffs (2026-09-15) 1.11; Bish Bash Bosh ( knife giveaway live) (2026-08-30) 1.06; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
+- Tier Exposure drivers: S58 NA Open9-10 West - Playoffs (2026-09-15) 1.11; Bish Bash Bosh ( knife giveaway live) (2026-08-30) 1.05; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 - Quality Wins drivers: beat COGNITIVE at S58 NA Open9-10 West - Playoffs (2026-09-15) 0.13; beat de_throne at S59 NA Intermediate A - Regular Season (2026-10-07) 0.09; beat The ESEA Clout Tokens at S58 NA Open9-10 West - Playoffs (2026-09-06) 0.08
 - Opponent Network drivers: beat COGNITIVE at S58 NA Open9-10 West - Playoffs (2026-09-15) 1.11; beat CN Chill Boyz at S58 NA Open9-10 West - Playoffs (2026-09-18) 1.11; beat The ESEA Clout Tokens at S58 NA Open9-10 West - Playoffs (2026-09-06) 1.04
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +533.6 |
-| SportsBetExpert | 6 | 2671.6 | +530.4 |
-| M80 | 2 | 3081.4 | +523.6 |
-| Wildcard | 3 | 2911.9 | +519.2 |
-| Liquid | 1 | 3103.3 | +516.3 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| UsingCodefArt25atSCL | 150 | 1577.8 | +1.2 | +147.2 |
+| Appalachian Apes | 149 | 1577.9 | +1.3 | +144.7 |
+| Kevin James Fan Club | 148 | 1580.9 | +4.3 | +149.1 |
+| MommySports | 147 | 1587.1 | +10.5 | +150.6 |
+| JPG | 146 | 1588.0 | +11.4 | +149.6 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Swole Patrol | 45 | +337.7 | +241.4 | +27.0 |
+| Xiaoma Gaming | 46 | +334.8 | +317.5 | +25.3 |
+| FLOW STATE | 47 | +320.8 | +297.0 | +24.7 |
+| No Future Lifes Over | 50 | +310.5 | +269.4 | +24.2 |
+| DESPAIR | 49 | +312.1 | +269.9 | +24.0 |
+| Phantom Sense | 51 | +307.1 | +322.4 | +23.1 |
+| TheMotherLovers | 53 | +301.3 | +275.3 | +23.0 |
+| Omen Esports | 57 | +281.2 | +284.8 | +19.4 |
+| GG | 52 | +304.8 | +230.0 | +17.8 |
+| Sharp | 54 | +291.2 | +278.5 | +15.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +516.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 
@@ -58,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-15 | COGNITIVE | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.11 | 1.00 | 1.11 | 0.13 | 1.11 | +101.3 | Kybrid, galy, kiss, korra, prospekt- |
 | 2026-09-08 | Good Vibes Gaming | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.00 | 0.00 | -94.2 | Kybrid, SHADOWHAWK47, kiss, korra, prospekt- |
 | 2026-09-06 | The ESEA Clout Tokens | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.08 | 1.04 | +78.0 | SHADOWHAWK47, galy, kiss, korra, prospekt- |
-| 2026-09-04 | ERICKFARRAR | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.04 | 1.03 | +102.8 | SHADOWHAWK47, galy, kiss, korra, prospekt- |
-| 2026-08-30 | YHUBEPCAM | L | 1-2 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.90 | 1.18 | 1.00 | 1.06 | 0.00 | 0.00 | -0.6 | Owen, SHADOWHAWK47, galy, korra, prospekt- |
+| 2026-09-04 | ERICKFARRAR | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.04 | 1.03 | +102.9 | SHADOWHAWK47, galy, kiss, korra, prospekt- |
+| 2026-08-30 | YHUBEPCAM | L | 1-2 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.90 | 1.18 | 1.00 | 1.05 | 0.00 | 0.00 | -0.6 | Owen, SHADOWHAWK47, galy, korra, prospekt- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

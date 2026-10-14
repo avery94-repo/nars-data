@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.214 | 1399.6 | - |
-| +30 days | 0.188 | 1363.3 | -36.4 |
+| +30 days | 0.188 | 1363.2 | -36.4 |
 | +60 days | 0.168 | 1334.7 | -64.9 |
 | +90 days | 0.135 | 1289.1 | -110.5 |
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.075 vs 0.031 average,
 - Quality Wins drivers: beat Skyline at S58 NA Main B - Regular Season (2026-08-28) 0.36; beat Entertainment Cheese at S58 NA Main Central - Playoffs B (2026-09-02) 0.17; beat Binky at S58 NA Main Central - Playoffs B (2026-09-06) 0.14
 - Opponent Network drivers: beat Binky at S58 NA Main Central - Playoffs B (2026-09-06) 1.12; beat Entertainment Cheese at S58 NA Main Central - Playoffs B (2026-09-02) 1.09; beat Skyline at S58 NA Main B - Regular Season (2026-08-28) 1.02
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +261.8 |
-| SportsBetExpert | 6 | 2671.6 | +260.5 |
-| M80 | 2 | 3081.4 | +256.7 |
-| Wildcard | 3 | 2911.9 | +254.7 |
-| LAG Gaming | 8 | 2507.4 | +254.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Trap Castle | 133 | 1621.8 | +0.4 | +88.5 |
+| gunked | 132 | 1622.7 | +1.3 | +83.7 |
+| SAFIR | 131 | 1624.7 | +3.3 | +83.8 |
+| Quality | 130 | 1626.1 | +4.7 | +79.8 |
+| Torii | 129 | 1628.0 | +6.6 | +90.0 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| North Forge | 38 | +349.8 | +197.7 | +14.4 |
+| Wanted Goons | 43 | +311.7 | +187.7 | +13.4 |
+| ZETTA | 39 | +348.6 | +162.3 | +12.9 |
+| Swole Patrol | 45 | +292.9 | +125.2 | +12.0 |
+| Xiaoma Gaming | 46 | +290.0 | +167.8 | +12.0 |
+| FLOW STATE | 47 | +276.0 | +157.0 | +10.9 |
+| Zealous | 42 | +320.2 | +128.4 | +10.4 |
+| No Future Lifes Over | 50 | +265.7 | +141.8 | +9.9 |
+| DESPAIR | 49 | +267.3 | +142.1 | +9.8 |
+| Phantom Sense | 51 | +262.3 | +171.9 | +9.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +253.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), After Peak (+0.0), SixSevenZaZa (+0.0).
 
@@ -77,15 +94,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-23 | Over Your Head | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -6.4 | Swaey, gDP, kommizu, modz, zit |
 | 2026-07-22 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -339.5 | Swaey, gDP, kommizu, modz, zit |
 | 2026-07-17 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +225.7 | Swaey, gDP, kommizu, modz, zit |
-| 2026-05-31 | DNA | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -153.4 | Desiiign, Swaey, gDP, kommizu, modz |
+| 2026-05-31 | DNA | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -153.5 | Desiiign, Swaey, gDP, kommizu, modz |
 | 2026-05-29 | teamington | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -44.0 | Desiiign, Swaey, gDP, kommizu, modz |
-| 2026-05-27 | Down To Frag | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.03 | 0.33 | +26.3 | Desiiign, Swaey, gDP, kommizu, modz |
-| 2026-05-22 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -157.3 | Desiiign, Swaey, gDP, kommizu, modz |
-| 2026-05-20 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.05 | 0.25 | +350.8 | Desiiign, Swaey, gDP, kommizu, modz |
+| 2026-05-27 | Down To Frag | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.03 | 0.33 | +26.2 | Desiiign, Swaey, gDP, kommizu, modz |
+| 2026-05-22 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -157.4 | Desiiign, Swaey, gDP, kommizu, modz |
+| 2026-05-20 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.05 | 0.25 | +350.9 | Desiiign, Swaey, gDP, kommizu, modz |
 | 2026-05-13 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.04 | 0.19 | +263.2 | Desiiign, Swaey, gDP, kommizu, modz |
-| 2026-05-08 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -86.6 | Desiiign, MaTriick, Swaey, kommizu, modz |
-| 2026-05-06 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -304.9 | Desiiign, MaTriick, Swaey, kommizu, modz |
-| 2026-04-30 | Team Team Name | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +288.2 | Desiiign, MaTriick, Swaey, kommizu, modz |
+| 2026-05-08 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -86.6 | Desiiign, MaTriick, Swaey, kommizu, modz |
+| 2026-05-06 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -305.0 | Desiiign, MaTriick, Swaey, kommizu, modz |
+| 2026-04-30 | Team Team Name | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +288.3 | Desiiign, MaTriick, Swaey, kommizu, modz |
 | 2026-04-29 | Dude Picks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -298.2 | Desiiign, MaTriick, Swaey, kommizu, modz |
 | 2026-04-28 | BucketJonsBoys | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.15 | 1.00 | 0.08 | 0.02 | 0.08 | +241.4 | Desiiign, MaTriick, Swaey, kommizu, modz |
 | 2026-04-24 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -246.7 | Desiiign, MaTriick, Swaey, kommizu, modz |

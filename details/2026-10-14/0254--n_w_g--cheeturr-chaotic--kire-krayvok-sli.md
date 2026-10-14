@@ -4,14 +4,14 @@ Roster: cHEEturr, chaotic-, KIRE, krayvok, sLi
 NARS Rank: 254 of 506
 
 Final Rating: 1375.1
-Seeded Start: 1124.4
-H2H Adjustment: +250.7
+Seeded Start: 1124.3
+H2H Adjustment: +250.8
 
-Final Rating (1375.1) = Seeded Start (1124.4) + H2H Adjustment (+250.7)
+Final Rating (1375.1) = Seeded Start (1124.3) + H2H Adjustment (+250.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.017 x 1400 = 1124.4
+                = 1100 + 0.017 x 1400 = 1124.3
 
 seed_factor 0.017 = 0.25 x Tier Exposure (0.009) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.053)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.017 | 1124.4 | - |
+| Now | 0.017 | 1124.3 | - |
 | +30 days | 0.001 | 1101.5 | -22.9 |
-| +60 days | 0.000 | 1100.0 | -24.4 |
-| +90 days | 0.000 | 1100.0 | -24.4 |
+| +60 days | 0.000 | 1100.0 | -24.3 |
+| +90 days | 0.000 | 1100.0 | -24.3 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.053 vs 0.341 average, gap -0.288). Matching that average is worth about 100.8 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.053 vs 0.341 aver
 - Quality Wins drivers: beat No Leaders Please at S57 NA Main Central - Regular Season (2026-05-08) 0.02; beat Entertainment Cheese at S57 NA Main Central - Regular Season (2026-05-01) 0.02; beat juked at S57 NA Main Central - Regular Season (2026-05-15) 0.02
 - Opponent Network drivers: beat Backshot Gaming at S57 NA Main Central - Regular Season (2026-05-22) 0.26; beat juked at S57 NA Main Central - Regular Season (2026-05-15) 0.21; beat No Leaders Please at S57 NA Main Central - Regular Season (2026-05-08) 0.16
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +663.6 |
-| SportsBetExpert | 6 | 2671.6 | +662.0 |
-| LAG Gaming | 8 | 2507.4 | +650.2 |
-| M80 | 2 | 3081.4 | +650.0 |
-| Wildcard | 3 | 2911.9 | +645.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Eightball | 253 | 1375.6 | +0.5 | +170.7 |
+| Dude Picks | 252 | 1377.5 | +2.4 | +174.0 |
+| strawberry poptarts | 251 | 1377.7 | +2.6 | +164.6 |
+| The Kerbins | 250 | 1378.6 | +3.5 | +172.9 |
+| deez | 249 | 1383.5 | +8.4 | +170.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| NineFlyeSports | 96 | +350.0 | +357.4 | +32.1 |
+| Axial | 101 | +331.3 | +319.0 | +30.5 |
+| FlyQuest RED | 97 | +345.6 | +368.7 | +30.2 |
+| Addice | 102 | +327.4 | +365.3 | +29.1 |
+| New Legends | 103 | +320.2 | +369.0 | +28.1 |
+| Holy Squid Empire | 108 | +303.6 | +309.9 | +27.3 |
+| Black Dragon Society | 109 | +295.6 | +327.8 | +25.8 |
+| Hadouken | 100 | +334.7 | +282.9 | +25.3 |
+| Bills | 99 | +336.9 | +283.8 | +23.8 |
+| Read You Like a Kindle | 116 | +279.6 | +321.1 | +22.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -63,8 +80,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.01 | 0.26 | +272.3 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
 | 2026-05-20 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -134.4 | KIRE, cHEEturr, chaotic-, daylily, sLi |
 | 2026-05-15 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +262.7 | ChinGoo, KIRE, chaotic-, krayvok, sLi |
-| 2026-05-14 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -345.5 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
-| 2026-05-08 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.02 | 0.16 | +298.4 | KIRE, cHEEturr, chaotic-, daylily, sLi |
+| 2026-05-14 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -345.6 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
+| 2026-05-08 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.02 | 0.16 | +298.5 | KIRE, cHEEturr, chaotic-, daylily, sLi |
 | 2026-05-07 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -364.2 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
 | 2026-05-01 | Entertainment Cheese | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.02 | 0.10 | +16.3 | Jacob_-, KIRE, chaotic-, krayvok, sLi |
 | 2026-04-24 | Free Frugz | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +13.8 | ChinGoo, KIRE, cHEEturr, chaotic-, sLi |

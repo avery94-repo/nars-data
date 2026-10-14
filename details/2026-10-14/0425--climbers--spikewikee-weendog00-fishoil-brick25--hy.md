@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.082 | 1215.4 | - |
 | +30 days | 0.068 | 1194.7 | -20.7 |
 | +60 days | 0.056 | 1178.2 | -37.2 |
-| +90 days | 0.034 | 1147.6 | -67.9 |
+| +90 days | 0.034 | 1147.5 | -67.9 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.040 vs 0.068 average, gap -0.028). Matching that average is worth about 9.8 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.040 vs 0.068 average
 - Quality Wins drivers: beat Torii at S58 NA Intermediate A - Regular Season (2026-08-21) 0.09; beat dogwater at S58 NA Intermediate A - Regular Season (2026-08-14) 0.08; beat Dead Pixel at S58 NA Intermediate A - Regular Season (2026-07-24) 0.05
 - Opponent Network drivers: beat Torii at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat dogwater at S58 NA Intermediate A - Regular Season (2026-08-14) 0.79; beat Conduit eSports at S58 NA Intermediate A - Regular Season (2026-08-05) 0.73
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.4 |
-| regain | 12 | 2256.1 | +658.0 |
-| Zomblers | 22 | 2114.7 | +657.3 |
-| LAG Gaming | 8 | 2507.4 | +656.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Evil Space Wizards | 424 | 988.0 | +2.0 | +162.9 |
+| Halcyon | 423 | 993.8 | +7.8 | +164.8 |
+| Atlantis eSports | 422 | 997.5 | +11.5 | +165.9 |
+| Specter Esports | 421 | 999.7 | +13.7 | +166.6 |
+| Strafe | 420 | 1002.2 | +16.2 | +176.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Saltcrew | 276 | +334.8 | +312.7 | +31.5 |
+| Demolition | 279 | +330.0 | +311.2 | +30.8 |
+| Chopped | 277 | +333.8 | +340.3 | +30.6 |
+| Adria eSports | 281 | +328.2 | +349.2 | +29.7 |
+| ItAintOverYet | 284 | +316.6 | +300.4 | +29.5 |
+| Entertainment Cheese | 285 | +314.8 | +329.4 | +28.6 |
+| Midwest Farmers | 286 | +310.3 | +324.8 | +28.1 |
+| Imperium | 283 | +319.5 | +277.2 | +28.0 |
+| 55TH ST | 288 | +305.3 | +328.7 | +27.3 |
+| Resurgence | 290 | +297.6 | +300.2 | +26.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.3).
 
@@ -65,13 +82,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -94.0 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-08-05 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.05 | 0.73 | +138.3 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-07-31 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -56.5 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
-| 2026-07-29 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -217.8 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
+| 2026-07-29 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -217.9 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-07-24 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +176.4 | -Hyp3r-, Brick25, FishOil, funco67, weendog00 |
 | 2026-07-17 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +413.0 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-07-15 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -2.6 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-05-22 | SNOWPLOWERS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -29.0 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-05-20 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -23.8 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
-| 2026-05-13 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +332.5 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
+| 2026-05-13 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +332.6 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-05-08 | The Homies | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -35.6 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-05-01 | Scrimless | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -160.9 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-04-29 | Free Frugz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -194.7 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |

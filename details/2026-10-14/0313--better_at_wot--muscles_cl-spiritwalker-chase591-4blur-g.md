@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.187 vs 0.315 aver
 - Quality Wins drivers: beat counter strokin at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.04; beat Crab Rangooners at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.03; beat Seven ate Nine at S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.02
 - Opponent Network drivers: beat Crab Rangooners at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; beat counter strokin at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.95; beat Seven ate Nine at S57 NA Open9-10 Central - Playoffs B (2026-06-10) 0.36
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +566.8 |
-| SportsBetExpert | 6 | 2671.6 | +566.1 |
-| LAG Gaming | 8 | 2507.4 | +558.0 |
-| M80 | 2 | 3081.4 | +554.8 |
-| regain | 12 | 2256.1 | +554.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| juked | 312 | 1246.5 | +0.0 | +146.7 |
+| Yogaball Frags | 311 | 1246.7 | +0.2 | +145.3 |
+| Mach 10 | 310 | 1246.7 | +0.2 | +145.3 |
+| FLying PiGs | 309 | 1250.4 | +3.9 | +146.9 |
+| Asian Invasion | 308 | 1250.7 | +4.2 | +146.4 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Team Amplus | 145 | +347.7 | +304.9 | +28.3 |
+| Biggie Cheese Fan Club | 151 | +330.1 | +263.4 | +27.7 |
+| Kevin James Fan Club | 148 | +334.4 | +289.5 | +27.6 |
+| WhiteBoyWinter | 155 | +320.2 | +272.7 | +26.5 |
+| offBalance | 165 | +295.8 | +266.5 | +23.5 |
+| Order Zero | 156 | +318.2 | +244.9 | +22.5 |
+| Pug Palace | 167 | +289.3 | +269.7 | +22.3 |
+| BucketJonsBoys | 172 | +286.6 | +258.1 | +22.1 |
+| Shaboing Boing Bandits | 173 | +284.1 | +279.1 | +21.5 |
+| Armored Talent | 174 | +283.3 | +285.0 | +21.2 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +547.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
 
@@ -61,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | 99 Thieves | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -45.4 | 4blur, Brizzy_, Chase591, Gater, Muscles_CL |
 | 2026-09-06 | Crab Rangooners | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.03 | 0.96 | +126.8 | 4blur, Brizzy_, Chase591, Gater, Muscles_CL |
 | 2026-09-04 | counter strokin | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.04 | 0.95 | +103.6 | 4blur, Chase591, Gater, Sil, Spiritwalker |
-| 2026-09-02 | Double Poop Cheeseburger | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.00 | 0.00 | -215.5 | 4blur, Brizzy_, Chase591, Gater, Spiritwalker |
+| 2026-09-02 | Double Poop Cheeseburger | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.00 | 0.00 | -215.6 | 4blur, Brizzy_, Chase591, Gater, Spiritwalker |
 | 2026-06-12 | MommySports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -186.3 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
 | 2026-06-10 | Seven ate Nine | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.02 | 0.36 | +152.1 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |
 | 2026-06-03 | BAN ANCIENT | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +185.8 | 4blur, Chase591, Guest_0-2, Muscles_CL, Spiritwalker |

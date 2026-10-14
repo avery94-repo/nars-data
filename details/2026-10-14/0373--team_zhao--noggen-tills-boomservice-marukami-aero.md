@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.010 vs 0.016 average,
 - Quality Wins drivers: beat T Shirt Material at S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.04; beat RAZED at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.04; beat Duality Gaming at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.04
 - Opponent Network drivers: beat RAZED at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97; beat T Shirt Material at S58 NA Open9-10 East - Playoffs A (2026-09-08) 0.96; beat Symbiose at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +238.8 |
-| SportsBetExpert | 6 | 2671.6 | +238.7 |
-| regain | 12 | 2256.1 | +236.4 |
-| Zomblers | 22 | 2114.7 | +236.2 |
-| LAG Gaming | 8 | 2507.4 | +235.8 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Qinorhwat | 372 | 1120.5 | +4.1 | +73.5 |
+| grogu | 371 | 1124.0 | +7.6 | +74.0 |
+| STALLOONS BALLOONS | 370 | 1131.5 | +15.1 | +75.1 |
+| We Just Pug | 369 | 1132.6 | +16.2 | +75.2 |
+| Top One Percent | 368 | 1137.0 | +20.6 | +75.9 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Kings Gambit | 210 | +345.5 | +146.6 | +13.8 |
+| Veniversum | 211 | +343.0 | +156.3 | +13.5 |
+| FlockMunchers | 212 | +342.7 | +156.4 | +13.5 |
+| GOYPEEKING | 216 | +333.6 | +134.2 | +13.5 |
+| Defaulting | 215 | +335.3 | +149.9 | +13.4 |
+| VARTOVIK | 217 | +333.5 | +157.7 | +13.2 |
+| 1NT | 221 | +322.6 | +140.6 | +12.9 |
+| Cortex Jellies | 222 | +321.0 | +123.8 | +12.9 |
+| Binky | 220 | +322.9 | +154.5 | +12.9 |
+| penazoid | 226 | +311.6 | +133.1 | +12.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +230.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+0.9).
 

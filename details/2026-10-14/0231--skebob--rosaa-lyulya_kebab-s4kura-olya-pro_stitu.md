@@ -3,11 +3,11 @@ Team Name: skebob
 Roster: Rosaa, lyulya_kebab, S4KURA, olya, PRO_stitutk4
 NARS Rank: 231 of 506
 
-Final Rating: 1420.9
+Final Rating: 1420.7
 Seeded Start: 1136.3
-H2H Adjustment: +284.6
+H2H Adjustment: +284.4
 
-Final Rating (1420.9) = Seeded Start (1136.3) + H2H Adjustment (+284.6)
+Final Rating (1420.7) = Seeded Start (1136.3) + H2H Adjustment (+284.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.054 vs 0.356 aver
 - Quality Wins drivers: beat KODEX ESPORTS at S57 NA Advanced Central - Regular Season (2026-05-07) 0.03; beat firesale at S57 NA Advanced Central - Regular Season (2026-05-05) 0.02; beat House Platypus ESC at S57 NA Advanced Central - Regular Season (2026-05-12) 0.01
 - Opponent Network drivers: beat girl kissers at S57 NA Advanced Central - Regular Season (2026-05-19) 0.28; beat House Platypus ESC at S57 NA Advanced Central - Regular Season (2026-05-12) 0.22; beat KODEX ESPORTS at S57 NA Advanced Central - Regular Season (2026-05-07) 0.17
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +663.3 |
-| SportsBetExpert | 6 | 2671.6 | +661.2 |
-| M80 | 2 | 3081.4 | +649.9 |
-| LAG Gaming | 8 | 2507.4 | +648.3 |
-| Wildcard | 3 | 2911.9 | +645.1 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| walkthemdown | 230 | 1424.6 | +3.9 | +164.7 |
+| The Third Eye | 229 | 1425.5 | +4.8 | +163.8 |
+| FRAGDEMONS | 228 | 1426.4 | +5.7 | +164.1 |
+| UltimateDarklordWizardz | 227 | 1427.1 | +6.4 | +174.9 |
+| penazoid | 226 | 1428.0 | +7.3 | +171.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Diggers | 86 | +342.7 | +309.2 | +32.7 |
+| firesale | 82 | +347.5 | +342.1 | +32.4 |
+| Fire Nation | 90 | +329.0 | +315.4 | +30.8 |
+| Fathom Gaming | 91 | +324.6 | +308.6 | +30.6 |
+| Overtake Sector | 89 | +330.1 | +394.5 | +29.1 |
+| PROFECO | 87 | +334.4 | +282.8 | +28.0 |
+| Green Grove Retirement | 94 | +307.9 | +320.9 | +27.9 |
+| Elusive | 93 | +310.9 | +354.6 | +27.7 |
+| NineFlyeSports | 96 | +304.4 | +330.5 | +27.6 |
+| FlyQuest RED | 97 | +300.0 | +339.7 | +25.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -63,7 +80,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Overtake Sector | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -4.8 | PRO_stitutk4, Rosaa, lyulya_kebab, madss, olya |
 | 2026-05-21 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -155.7 | PRO_stitutk4, S4KURA, blesd, lyulya_kebab, olya |
 | 2026-05-19 | girl kissers | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.01 | 0.28 | +0.0 | PRO_stitutk4, Rosaa, S4KURA, lyulya_kebab, olya |
-| 2026-05-14 | Omen Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -330.9 | PRO_stitutk4, Rosaa, S4KURA, lyulya_kebab, olya |
+| 2026-05-14 | Omen Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -331.0 | PRO_stitutk4, Rosaa, S4KURA, lyulya_kebab, olya |
 | 2026-05-12 | House Platypus ESC | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.01 | 0.22 | +163.7 | Rosaa, S4KURA, blesd, lyulya_kebab, olya |
 | 2026-05-07 | KODEX ESPORTS | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.03 | 0.17 | +220.7 | PRO_stitutk4, Rosaa, S4KURA, lyulya_kebab, olya |
 | 2026-05-05 | firesale | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.02 | 0.16 | +394.1 | PRO_stitutk4, Rosaa, S4KURA, lyulya_kebab, olya |

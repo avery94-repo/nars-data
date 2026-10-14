@@ -5,7 +5,7 @@ NARS Rank: 68 of 506
 
 Final Rating: 1817.6
 Seeded Start: 1255.0
-H2H Adjustment: +562.6 (capped at +-300, raw +562.5)
+H2H Adjustment: +562.6
 
 Final Rating (1817.6) = Seeded Start (1255.0) + H2H Adjustment (+562.6)
 
@@ -13,7 +13,7 @@ Final Rating (1817.6) = Seeded Start (1255.0) + H2H Adjustment (+562.6)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.111 x 1400 = 1255.0
 
-seed_factor 0.111 = 0.25 x Tier Exposure (0.035) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.380)
+seed_factor 0.111 = 0.25 x Tier Exposure (0.035) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.381)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -29,21 +29,38 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.108 | 1251.0 | -4.1 |
 | +90 days | 0.107 | 1249.6 | -5.4 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.380 vs 0.631 average, gap -0.251). Matching that average is worth about 87.8 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.381 vs 0.630 average, gap -0.249). Matching that average is worth about 87.2 seed points.
 
 - Tier Exposure drivers: S58 NA Open1-8 Central - Playoffs (2026-09-18) 1.00
 - Quality Wins drivers: beat Los Pollos Hermanos at S58 NA Open1-8 Central - Playoffs (2026-09-18) 0.04; beat Core 5 at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.04; beat Chud Esports at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.04
 - Opponent Network drivers: beat Los Pollos Hermanos at S58 NA Open1-8 Central - Playoffs (2026-09-18) 1.00; beat Over 30 at S58 NA Open1-8 Central - Playoffs (2026-09-21) 1.00; beat Lesotho Space Force at S58 NA Open1-8 Central - Playoffs (2026-09-16) 1.00
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +342.4 |
-| M80 | 2 | 3081.4 | +337.7 |
-| SportsBetExpert | 6 | 2671.6 | +336.9 |
-| Wildcard | 3 | 2911.9 | +333.8 |
-| Liquid | 1 | 3103.3 | +333.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Playing for fun | 67 | 1819.3 | +1.7 | +103.7 |
+| WhalersOnDaMoon | 66 | 1821.8 | +4.2 | +113.0 |
+| Endless Esports | 65 | 1826.0 | +8.4 | +113.1 |
+| flat earth | 64 | 1826.5 | +8.9 | +112.7 |
+| DUMBO | 63 | 1827.1 | +9.5 | +118.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| NuTorious | 17 | +348.1 | +186.2 | +19.4 |
+| FarmVille | 16 | +350.0 | +246.9 | +18.1 |
+| Villainous | 18 | +343.1 | +242.2 | +17.7 |
+| Iowa Stormboar | 21 | +298.2 | +228.4 | +15.9 |
+| Zomblers | 22 | +297.1 | +228.9 | +15.9 |
+| qcclan | 20 | +328.5 | +198.6 | +12.2 |
+| MASTER ONE | 19 | +341.8 | +192.7 | +10.7 |
+| Olympus | 25 | +222.0 | +173.0 | +5.2 |
+| duck crew | 23 | +278.4 | +155.4 | +5.0 |
+| Automatic HQ | 27 | +213.2 | +179.0 | +2.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +333.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), Old Dads Banging (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0).
 

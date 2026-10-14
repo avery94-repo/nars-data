@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.146 | 1304.2 | - |
 | +30 days | 0.131 | 1283.3 | -20.9 |
-| +60 days | 0.118 | 1265.5 | -38.8 |
-| +90 days | 0.095 | 1233.7 | -70.6 |
+| +60 days | 0.118 | 1265.4 | -38.8 |
+| +90 days | 0.095 | 1233.6 | -70.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.068 average, gap +0.006). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.068 average
 - Quality Wins drivers: beat D1NK Esports at S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.13; beat We Play Naked at S58 NA Intermediate B - Regular Season (2026-08-26) 0.10; beat Big Fish at S58 NA Intermediate B - Regular Season (2026-08-19) 0.09
 - Opponent Network drivers: beat D1NK Esports at S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.96; beat Anchors Anonymous at S58 NA Intermediate Central - Playoffs B (2026-09-06) 0.94; beat We Play Naked at S58 NA Intermediate B - Regular Season (2026-08-26) 0.87
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +525.5 |
-| SportsBetExpert | 6 | 2671.6 | +524.6 |
-| LAG Gaming | 8 | 2507.4 | +516.4 |
-| M80 | 2 | 3081.4 | +514.5 |
-| Wildcard | 3 | 2911.9 | +511.0 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| TenToesDown | 274 | 1329.7 | +0.0 | +137.5 |
+| House Platypus ESC | 273 | 1332.4 | +2.7 | +138.2 |
+| Cojomo Academy Roster | 272 | 1336.1 | +6.4 | +139.2 |
+| Gloobers | 271 | 1342.8 | +13.1 | +146.8 |
+| Bird Lickers | 270 | 1342.8 | +13.1 | +143.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Holy Squid Empire | 108 | +349.0 | +278.9 | +26.9 |
+| Black Dragon Society | 109 | +341.0 | +298.4 | +25.9 |
+| Read You Like a Kindle | 116 | +325.0 | +294.2 | +24.8 |
+| eefsports | 112 | +334.5 | +235.6 | +24.1 |
+| ODIN | 119 | +317.4 | +285.9 | +23.8 |
+| Team GREAT | 128 | +299.5 | +242.0 | +22.7 |
+| Torii | 129 | +298.3 | +267.2 | +22.3 |
+| 5Frag Gaming | 134 | +291.7 | +271.4 | +21.4 |
+| Shimmer | 111 | +337.4 | +246.8 | +20.6 |
+| KODEX ESPORTS | 137 | +286.8 | +306.5 | +20.4 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +507.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
 

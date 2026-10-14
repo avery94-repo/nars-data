@@ -3,11 +3,11 @@ Team Name: Potential to Stack Dough
 Roster: sleepykt, 5eb, -jakk, TalonGarbage, toldman
 NARS Rank: 488 of 506
 
-Final Rating: 686.1
+Final Rating: 686.0
 Seeded Start: 1116.4
-H2H Adjustment: -430.3
+H2H Adjustment: -430.4
 
-Final Rating (686.1) = Seeded Start (1116.4) + H2H Adjustment (-430.3)
+Final Rating (686.0) = Seeded Start (1116.4) + H2H Adjustment (-430.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.005 vs 0.158 aver
 - Quality Wins drivers: beat Remnant at S57 NA Intermediate Central - Regular Season (2026-04-28) 0.01
 - Opponent Network drivers: beat Remnant at S57 NA Intermediate Central - Regular Season (2026-04-28) 0.07
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| North Forge | 38 | 1971.1 | +664.8 |
-| NRG | 4 | 2835.7 | +664.7 |
-| SportsBetExpert | 6 | 2671.6 | +664.6 |
-| Wanted Goons | 43 | 1933.1 | +664.0 |
-| Zomblers | 22 | 2114.7 | +662.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Grandpa Berets | 487 | 691.1 | +5.1 | +172.8 |
+| Knight Owls | 486 | 693.4 | +7.4 | +164.6 |
+| monitor off | 485 | 714.4 | +28.4 | +183.2 |
+| Power of Friendship | 484 | 720.1 | +34.1 | +173.2 |
+| EZ2025 | 483 | 721.3 | +35.3 | +187.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| MakeYouSayLate | 414 | +340.9 | +316.1 | +32.0 |
+| Mace Lindu Ruff Rebound | 417 | +331.3 | +297.6 | +31.3 |
+| Kodaks Lettuce | 418 | +325.4 | +305.2 | +30.5 |
+| puggin4seb | 419 | +316.8 | +318.4 | +29.2 |
+| Strafe | 420 | +316.2 | +318.9 | +28.9 |
+| HigherEducation | 416 | +331.5 | +281.8 | +24.6 |
+| Halcyon | 423 | +307.8 | +272.7 | +22.7 |
+| Famas OP | 426 | +298.9 | +269.3 | +21.4 |
+| GodFather Gaming | 428 | +297.8 | +268.9 | +19.4 |
+| Boomhogs 2 | 415 | +335.7 | +283.3 | +18.6 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs Remnant (2026-04-28): expires in 10 days [Quality Wins 0.01, Opponent Network 0.07]

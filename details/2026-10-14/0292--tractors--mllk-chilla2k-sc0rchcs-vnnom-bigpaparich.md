@@ -4,16 +4,16 @@ Roster: MlLK, Chilla2k, Sc0rchcs, Vnnom, BigPapaRich
 NARS Rank: 292 of 506
 
 Final Rating: 1283.0
-Seeded Start: 1349.7
-H2H Adjustment: -66.7
+Seeded Start: 1349.6
+H2H Adjustment: -66.6
 
-Final Rating (1283.0) = Seeded Start (1349.7) + H2H Adjustment (-66.7)
+Final Rating (1283.0) = Seeded Start (1349.6) + H2H Adjustment (-66.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.178 x 1400 = 1349.7
+                = 1100 + 0.178 x 1400 = 1349.6
 
-seed_factor 0.178 = 0.25 x Tier Exposure (0.199) + 0.50 x Quality Wins (0.036) + 0.25 x Opponent Network (0.444)
+seed_factor 0.178 = 0.25 x Tier Exposure (0.199) + 0.50 x Quality Wins (0.035) + 0.25 x Opponent Network (0.444)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,26 +24,43 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.178 | 1349.7 | - |
-| +30 days | 0.155 | 1316.6 | -33.1 |
-| +60 days | 0.134 | 1287.8 | -61.9 |
-| +90 days | 0.109 | 1252.0 | -97.7 |
+| Now | 0.178 | 1349.6 | - |
+| +30 days | 0.155 | 1316.5 | -33.1 |
+| +60 days | 0.134 | 1287.7 | -61.9 |
+| +90 days | 0.108 | 1251.9 | -97.7 |
 
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.036 vs 0.031 average, gap +0.005). Matching that average is worth about 0.0 seed points.
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.035 vs 0.031 average, gap +0.004). Matching that average is worth about 0.0 seed points.
 
-- Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-06) 1.26; NSTLGA League | Ruby Conference (2026-08-25) 1.26; S59 NA Main A - Regular Season (2026-10-07) 1.02
+- Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-06) 1.26; NSTLGA League | Ruby Conference (2026-08-25) 1.25; S59 NA Main A - Regular Season (2026-10-07) 1.02
 - Quality Wins drivers: beat TenToesDown at NSTLGA League | Ruby Conference (2026-08-24) 0.16; beat WaterDrinkers at S59 NA Main A - Regular Season (2026-10-09) 0.13; beat puggin4seb at S58 NA Main A - Regular Season (2026-08-26) 0.07
-- Opponent Network drivers: beat TenToesDown at NSTLGA League | Ruby Conference (2026-08-24) 1.26; beat WaterDrinkers at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat puggin4seb at S58 NA Main A - Regular Season (2026-08-26) 0.89
+- Opponent Network drivers: beat TenToesDown at NSTLGA League | Ruby Conference (2026-08-24) 1.25; beat WaterDrinkers at S59 NA Main A - Regular Season (2026-10-09) 1.02; beat puggin4seb at S58 NA Main A - Regular Season (2026-08-26) 0.89
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +315.2 |
-| SportsBetExpert | 6 | 2671.6 | +314.9 |
-| LAG Gaming | 8 | 2507.4 | +310.6 |
-| regain | 12 | 2256.1 | +309.4 |
-| M80 | 2 | 3081.4 | +308.5 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| SwagMonkeyHats | 291 | 1283.2 | +0.2 | +102.2 |
+| Resurgence | 290 | 1283.6 | +0.6 | +99.2 |
+| Les Ptis Jus | 289 | 1291.2 | +8.2 | +93.6 |
+| 55TH ST | 288 | 1291.3 | +8.3 | +105.7 |
+| 027fam | 287 | 1296.0 | +13.0 | +94.5 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Team GREAT | 128 | +346.2 | +168.6 | +17.8 |
+| Torii | 129 | +345.0 | +189.0 | +17.5 |
+| 5Frag Gaming | 134 | +338.4 | +193.3 | +17.1 |
+| Kaos | 139 | +327.8 | +160.9 | +16.9 |
+| KODEX ESPORTS | 137 | +333.5 | +223.2 | +16.5 |
+| Team Amplus | 145 | +311.2 | +180.7 | +15.8 |
+| Kevin James Fan Club | 148 | +297.9 | +171.6 | +14.8 |
+| Biggie Cheese Fan Club | 151 | +293.6 | +155.3 | +14.4 |
+| WhiteBoyWinter | 155 | +283.7 | +161.5 | +13.5 |
+| Trap Castle | 133 | +338.8 | +186.6 | +11.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +304.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
 
@@ -66,28 +83,28 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-03 | dice | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.23 | 0.00 | 0.00 | -1.8 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-28 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -53.6 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-26 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.07 | 0.89 | +55.0 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
-| 2026-08-25 | NineFly Esports | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.26 | 0.00 | 0.00 | -7.2 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
-| 2026-08-24 | TenToesDown | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.26 | 0.16 | 1.26 | +229.2 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
+| 2026-08-25 | NineFly Esports | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.25 | 0.00 | 0.00 | -7.2 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
+| 2026-08-24 | TenToesDown | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.25 | 0.16 | 1.25 | +229.2 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-20 | babaG | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.00 | 0.00 | -0.0 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-20 | DETONATE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.00 | 0.00 | -0.0 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
-| 2026-08-19 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -52.7 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
+| 2026-08-19 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -52.8 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-18 | unreal nightmare | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -0.0 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-14 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -21.2 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-11 | Phantom Sense | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.46 | 1.00 | 1.12 | 0.00 | 0.00 | -0.5 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
-| 2026-08-10 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.02 | 1.00 | 0.78 | 0.00 | 0.00 | -137.1 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
+| 2026-08-10 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.02 | 1.00 | 0.78 | 0.00 | 0.00 | -137.2 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-08-07 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.03 | 0.76 | +77.3 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-07-31 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -90.6 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-07-29 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -220.7 | Chilla2k, DKP-, MlLK, Sc0rchcs, Vnnom |
-| 2026-07-26 | FLOW STATE | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -176.0 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
-| 2026-07-26 | HeatPeek | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.05 | 0.70 | +135.7 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
+| 2026-07-26 | FLOW STATE | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -176.1 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
+| 2026-07-26 | HeatPeek | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.05 | 0.70 | +135.8 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-07-24 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.03 | 0.66 | +26.8 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-07-22 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +147.6 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
-| 2026-07-17 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -134.3 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
+| 2026-07-17 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -134.3 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
 | 2026-07-15 | Texas Orange | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -396.8 | BigPapaRich, Chilla2k, MlLK, Sc0rchcs, Vnnom |
-| 2026-06-03 | NATIONAL CS UNI | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.31 | +159.2 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
+| 2026-06-03 | NATIONAL CS UNI | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.31 | +159.3 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-29 | EZ2025 | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +101.0 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
-| 2026-05-27 | wabbit2 | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +306.2 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
-| 2026-05-22 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -309.3 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
+| 2026-05-27 | wabbit2 | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +306.3 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
+| 2026-05-22 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -309.4 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-20 | Shock Value | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +176.7 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-15 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +5.2 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-14 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +125.4 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |

@@ -3,15 +3,15 @@ Team Name: Lan Bears
 Roster: gm0ney, Nigh-T, Slattz, Sp00b, seans
 NARS Rank: 392 of 506
 
-Final Rating: 1072.6
-Seeded Start: 1272.9
+Final Rating: 1072.5
+Seeded Start: 1272.8
 H2H Adjustment: -200.3
 
-Final Rating (1072.6) = Seeded Start (1272.9) + H2H Adjustment (-200.3)
+Final Rating (1072.5) = Seeded Start (1272.8) + H2H Adjustment (-200.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.123 x 1400 = 1272.9
+                = 1100 + 0.123 x 1400 = 1272.8
 
 seed_factor 0.123 = 0.25 x Tier Exposure (0.085) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.369)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.123 | 1272.9 | - |
+| Now | 0.123 | 1272.8 | - |
 | +30 days | 0.098 | 1237.4 | -35.4 |
-| +60 days | 0.081 | 1213.5 | -59.4 |
-| +90 days | 0.053 | 1174.3 | -98.6 |
+| +60 days | 0.081 | 1213.5 | -59.3 |
+| +90 days | 0.053 | 1174.2 | -98.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.020 vs 0.011 average, gap +0.009). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.020 vs 0.011 average,
 - Quality Wins drivers: beat Solbound at S58 NA Intermediate A - Regular Season (2026-08-07) 0.06; beat Team TahMeow at S58 NA Intermediate A - Regular Season (2026-08-05) 0.06; beat Kennesaw State Gold 2025 at S58 NA Intermediate A - Regular Season (2026-07-31) 0.05
 - Opponent Network drivers: beat TahMeow at S58 NA Intermediate A - Regular Season (2026-08-21) 0.84; beat Climbers at S58 NA Intermediate A - Regular Season (2026-08-12) 0.78; beat Solbound at S58 NA Intermediate A - Regular Season (2026-08-07) 0.74
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +447.2 |
-| SportsBetExpert | 6 | 2671.6 | +447.0 |
-| regain | 12 | 2256.1 | +442.3 |
-| Zomblers | 22 | 2114.7 | +441.4 |
-| LAG Gaming | 8 | 2507.4 | +441.4 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| High T Low E | 391 | 1073.4 | +0.9 | +121.9 |
+| Sable | 390 | 1080.2 | +7.7 | +123.5 |
+| Second Nature | 389 | 1082.1 | +9.6 | +124.0 |
+| Kahoot Squad | 388 | 1082.6 | +10.1 | +130.1 |
+| Flow Esports | 387 | 1083.6 | +11.1 | +133.2 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| YHTR | 235 | +341.2 | +255.6 | +23.1 |
+| FUELED BY HATE | 241 | +331.8 | +225.0 | +23.0 |
+| NXG Esports | 242 | +331.5 | +251.2 | +22.9 |
+| Fortis Fortuna Adiuvat | 237 | +333.8 | +241.7 | +22.9 |
+| brb grinding minecraft | 239 | +333.0 | +260.4 | +22.8 |
+| Casual Mature Gamers | 238 | +333.4 | +265.8 | +22.3 |
+| The Kerbins | 250 | +306.1 | +242.5 | +20.5 |
+| skebob | 231 | +348.2 | +209.8 | +20.2 |
+| Dude Picks | 252 | +305.0 | +254.3 | +20.2 |
+| Eightball | 253 | +303.1 | +234.9 | +19.9 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +431.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.9), shirtcockin (+1.3), Courage (+1.5).
 
@@ -64,29 +81,29 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-17 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -68.2 | Nigh-T, Slattz, Sp00b, aam, glimpus- |
 | 2026-09-02 | Bald | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -22.3 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-08-28 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -54.2 | Nigh-T, Sp00b, aam, glimpus-, seans |
-| 2026-08-26 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -62.9 | Nigh-T, Sp00b, aam, glimpus-, seans |
+| 2026-08-26 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -63.0 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-08-21 | TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +95.2 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-08-19 | Bald | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -42.8 | Nigh-T, Sp00b, aam, glimpus-, seans |
-| 2026-08-12 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.03 | 0.78 | +56.7 | Nigh-T, Sp00b, aam, glimpus-, seans |
-| 2026-08-12 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -28.5 | Nigh-T, Sp00b, aam, glimpus-, seans |
+| 2026-08-12 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.03 | 0.78 | +56.8 | Nigh-T, Sp00b, aam, glimpus-, seans |
+| 2026-08-12 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -28.4 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-08-07 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +61.0 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-08-05 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.06 | 0.73 | +53.5 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-07-31 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +169.4 | Slattz, Sp00b, aam, glimpus-, seans |
-| 2026-07-29 | Brothers United | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.02 | 0.68 | +40.1 | Nigh-T, Sp00b, aam, glimpus-, seans |
+| 2026-07-29 | Brothers United | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.02 | 0.68 | +40.2 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-07-22 | Conduit eSports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -5.2 | Nigh-T, Slattz, Sp00b, aam, glimpus- |
 | 2026-07-17 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +87.6 | Nigh-T, Slattz, Sp00b, aam, glimpus- |
 | 2026-07-15 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -169.7 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-05-31 | Sleepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -109.1 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
-| 2026-05-29 | Power of Friendship | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +185.0 | -Hatty, Slattz, Sp00b, b5b, seans |
+| 2026-05-29 | Power of Friendship | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +185.1 | -Hatty, Slattz, Sp00b, b5b, seans |
 | 2026-05-27 | WaterDrinkers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -154.9 | Nigh-T, Slattz, Sp00b, b5b, seans |
 | 2026-05-22 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -3.6 | -Hatty, Nigh-T, Slattz, seans, shane666 |
 | 2026-05-20 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -196.8 | -Hatty, Nigh-T, Slattz, seans, shane666 |
-| 2026-05-13 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -395.6 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
+| 2026-05-13 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -395.7 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
 | 2026-05-13 | NATIONAL CS UNI | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +109.6 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
 | 2026-05-08 | High T Low E | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +2.8 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
 | 2026-05-06 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +0.8 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
 | 2026-05-01 | EZ2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +178.4 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
 | 2026-04-29 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +348.9 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
-| 2026-04-22 | monitor off | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -275.6 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
+| 2026-04-22 | monitor off | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -275.7 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.023 vs 0.009 average,
 - Quality Wins drivers: beat FLOW STATE at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.22; beat Wuff Widas at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.09; beat STIM at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.08
 - Opponent Network drivers: beat FLOW STATE at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.94; beat Wuff Widas at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.94; beat STIM at MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) (2026-08-09) 0.94
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.4 |
-| SportsBetExpert | 6 | 2671.6 | +664.0 |
-| LAG Gaming | 8 | 2507.4 | +655.1 |
-| regain | 12 | 2256.1 | +654.2 |
-| M80 | 2 | 3081.4 | +650.3 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| We Just Pug | 369 | 1132.6 | +1.1 | +162.6 |
+| Top One Percent | 368 | 1137.0 | +5.5 | +164.0 |
+| Line Steppers | 367 | 1138.8 | +7.3 | +170.4 |
+| Mongolian Tractor | 366 | 1138.9 | +7.4 | +172.1 |
+| iNSTINCT | 365 | 1145.9 | +14.4 | +166.8 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| GRIT | 201 | +349.6 | +306.9 | +32.7 |
+| noname | 208 | +335.8 | +329.3 | +31.2 |
+| Kings Gambit | 210 | +330.4 | +330.5 | +30.5 |
+| AscendentEsport | 207 | +336.3 | +354.7 | +29.9 |
+| Veniversum | 211 | +327.9 | +348.5 | +29.7 |
+| FlockMunchers | 212 | +327.6 | +348.6 | +29.7 |
+| GOYPEEKING | 216 | +318.5 | +304.6 | +29.7 |
+| Defaulting | 215 | +320.2 | +334.5 | +29.2 |
+| VARTOVIK | 217 | +318.4 | +348.6 | +28.6 |
+| Cortex Jellies | 222 | +305.9 | +282.7 | +28.1 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.7), shirtcockin (+1.1), Courage (+1.3).
 
@@ -52,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | Adria eSports | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -151.7 | -que, My_Name_Luke, S1n3star, bardley, emarosa, goose_ |
+| 2026-09-08 | Adria eSports | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -151.8 | -que, My_Name_Luke, S1n3star, bardley, emarosa, goose_ |
 | 2026-09-02 | ReGen | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.00 | 0.00 | -216.9 | -que, My_Name_Luke, S1n3star, bardley, emarosa |
 | 2026-08-09 | DETONATE | L | 0-2 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -0.3 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-09 | FLOW STATE | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.22 | 0.94 | +107.5 | -que, 1stallion, ashtin, bardley, emarosa |

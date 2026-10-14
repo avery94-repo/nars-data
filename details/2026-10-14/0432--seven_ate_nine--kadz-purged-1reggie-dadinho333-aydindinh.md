@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.138 aver
 - Quality Wins drivers: beat steph curry of our hood at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.00; beat Dust II Bandits at S57 NA Open9-10 Central - Playoffs B (2026-05-30) 0.00
 - Opponent Network drivers: beat steph curry of our hood at S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31; beat Dust II Bandits at S57 NA Open9-10 Central - Playoffs B (2026-05-30) 0.28
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +664.6 |
-| SportsBetExpert | 6 | 2671.6 | +664.4 |
-| regain | 12 | 2256.1 | +658.5 |
-| Zomblers | 22 | 2114.7 | +658.3 |
-| FarmVille | 16 | 2167.6 | +656.6 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Suboptimal counterstrike | 431 | 961.8 | +5.9 | +168.9 |
+| REPORT MASSIVE | 430 | 963.0 | +7.1 | +164.5 |
+| Conduit eSports | 429 | 968.6 | +12.7 | +166.3 |
+| GodFather Gaming | 428 | 983.8 | +27.9 | +171.2 |
+| Knox Esports | 427 | 984.1 | +28.2 | +171.3 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| ItAintOverYet | 284 | +346.7 | +314.1 | +32.6 |
+| Entertainment Cheese | 285 | +344.9 | +346.2 | +31.5 |
+| Midwest Farmers | 286 | +340.4 | +341.5 | +31.3 |
+| Imperium | 283 | +349.6 | +288.7 | +31.2 |
+| Cream Team | 293 | +326.5 | +296.6 | +30.8 |
+| Resurgence | 290 | +327.7 | +314.9 | +30.6 |
+| 55TH ST | 288 | +335.4 | +346.1 | +30.6 |
+| COGNITIVE | 295 | +323.2 | +308.5 | +30.2 |
+| Tractors | 292 | +327.1 | +331.0 | +30.2 |
+| NATIONAL CS UNI | 301 | +310.2 | +306.4 | +28.5 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.7).
 
@@ -59,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-04 | Team NK | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -159.7 | 1REGGIE, 1pierce, OGAIPlayer, cthoni, redh3ad |
 | 2026-09-01 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.91 | 1.02 | 1.00 | 0.93 | 0.00 | 0.00 | -0.4 | 1REGGIE, 1pierce, Conquest_--, OGAIPlayer, cthoni |
-| 2026-06-10 | Better at WOT | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -152.0 | 1REGGIE, Dadinho333, Kadz, aydindinho, purGed |
+| 2026-06-10 | Better at WOT | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -152.1 | 1REGGIE, Dadinho333, Kadz, aydindinho, purGed |
 | 2026-06-03 | steph curry of our hood | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +161.1 | 1REGGIE, Dadinho333, Kadz, aydindinho, purGed |
 | 2026-05-30 | Dust II Bandits | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +188.1 | 1REGGIE, Dadinho333, Kadz, aydindinho, purGed |
 | 2026-05-27 | HigherEducation | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -210.9 | 1REGGIE, Dadinho333, Kadz, aydindinho, purGed |

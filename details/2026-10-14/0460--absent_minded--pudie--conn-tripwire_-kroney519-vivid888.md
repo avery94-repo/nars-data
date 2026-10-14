@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.131 | 1283.1 | - |
 | +30 days | 0.100 | 1240.7 | -42.4 |
 | +60 days | 0.083 | 1216.1 | -67.0 |
-| +90 days | 0.065 | 1190.9 | -92.2 |
+| +90 days | 0.065 | 1190.8 | -92.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.024 vs 0.008 average, gap +0.016). Matching that average is worth about 0.0 seed points.
 
@@ -35,15 +35,32 @@ Weakest lever vs the 5 teams ranked above: Quality Wins (0.024 vs 0.008 average,
 - Quality Wins drivers: beat Temple of Swing at S58 NA Main B - Regular Season (2026-08-28) 0.08; beat Cadillac F1 eSports Team at S58 NA Main B - Regular Season (2026-07-29) 0.06; beat Friendly Fire at S58 NA Main B - Regular Season (2026-08-26) 0.05
 - Opponent Network drivers: beat Temple of Swing at S58 NA Main B - Regular Season (2026-08-28) 1.02; beat Friendly Fire at S58 NA Main B - Regular Season (2026-08-26) 1.01; beat Square1 at S58 NA Main B - Regular Season (2026-08-19) 0.95
 
-Best upside opponents (projected H2H gain for one win, estimate at current ratings):
+Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
-| Opponent | Rank | Rating | Projected gain |
-| :- | -: | -: | -: |
-| NRG | 4 | 2835.7 | +457.5 |
-| SportsBetExpert | 6 | 2671.6 | +457.4 |
-| North Forge | 38 | 1971.1 | +456.0 |
-| Zomblers | 22 | 2114.7 | +455.4 |
-| Wanted Goons | 43 | 1933.1 | +455.2 |
+| Opponent | Rank | Rating | Gap | Projected gain |
+| :- | -: | -: | -: | -: |
+| Puddle Pirates | 459 | 848.8 | +3.7 | +124.7 |
+| Thrash | 458 | 860.9 | +15.8 | +138.5 |
+| Cadillac F1 eSports Team | 457 | 863.1 | +18.0 | +133.0 |
+| onliners | 456 | 870.2 | +25.1 | +129.8 |
+| girl kissers | 455 | 883.6 | +38.5 | +133.1 |
+
+Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
+
+| Opponent | Rank | Gap | Win gain | Expected value |
+| :- | -: | -: | -: | -: |
+| Samantha 4 | 351 | +332.9 | +234.0 | +23.4 |
+| Florida Man | 345 | +341.1 | +272.1 | +23.1 |
+| RunTheDamnBall | 352 | +322.0 | +245.6 | +22.4 |
+| DeathMark E-Sports | 353 | +321.4 | +253.1 | +22.2 |
+| Comeback Bandits | 355 | +315.5 | +238.5 | +21.9 |
+| 99 Thieves | 354 | +317.2 | +237.8 | +21.8 |
+| RH Help Desk | 358 | +313.4 | +256.9 | +21.4 |
+| Macs Snacks | 359 | +308.8 | +223.9 | +21.4 |
+| Aers Money Crew | 360 | +308.1 | +230.4 | +21.2 |
+| MINDTRIP | 361 | +304.5 | +234.8 | +20.8 |
+
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +441.5 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs AURA Esports (2026-05-06): expires in 18 days [Quality Wins 0.02]
@@ -61,34 +78,34 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | Wiggle Peeks | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -138.7 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-08-28 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.08 | 1.02 | +59.1 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-08-28 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.08 | 1.02 | +59.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-08-26 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.05 | 1.01 | +106.6 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-08-21 | Evil Space Wizards | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -62.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-08-19 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.05 | 0.95 | +122.3 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-08-19 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.05 | 0.95 | +122.4 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-08-14 | Aers Money Crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -75.3 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-08-12 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -118.4 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-08-07 | Macs Snacks | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -12.6 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-08-05 | NADIYA | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -201.2 | -coNN, Kroney519, ViviD888, YvnggDexx, tRIPwire_ |
-| 2026-07-31 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -193.1 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-07-31 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -193.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-07-29 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.06 | 0.79 | +0.6 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-07-24 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.03 | 0.75 | +104.5 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-07-22 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -310.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-07-22 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -310.3 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-07-17 | The Skins | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -86.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-07-15 | Manx Recovery Program | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -348.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-06-11 | YHTR | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.36 | 1.03 | 1.00 | 0.37 | 0.00 | 0.00 | -96.6 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-06-02 | academy 4 gifted children | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -124.1 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-05-31 | TenToesDown | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.04 | 0.30 | +128.1 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-05-29 | HammerHeads | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.02 | 0.28 | +132.0 | -coNN, Hercccc, Kroney519, Pudie, ViviD888 |
+| 2026-05-29 | HammerHeads | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.02 | 0.28 | +132.1 | -coNN, Hercccc, Kroney519, Pudie, ViviD888 |
 | 2026-05-27 | Braindead | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.01 | 0.27 | +23.7 | Hercccc, Kroney519, Pudie, ViviD888, YvnggDexx |
 | 2026-05-22 | MINDTRIP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +93.0 | Hercccc, Pudie, ViviD888, YvnggDexx, tRIPwire_ |
-| 2026-05-20 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +219.8 | Hercccc, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-05-20 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +219.9 | Hercccc, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-05-15 | Solbound | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +220.1 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-05-13 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +316.9 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-05-13 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +317.0 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-05-08 | The Agarthans | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -391.6 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-05-06 | AURA Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +247.7 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-05-01 | Counter Legends | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +413.8 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-04-29 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -1.5 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
-| 2026-04-24 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -212.2 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-04-24 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -212.3 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-04-22 | Top One Percent | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -254.3 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_
