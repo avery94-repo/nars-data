@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.3 |
-| SportsBetExpert | 6 | 2672.3 | +662.8 |
-| LAG Gaming | 8 | 2507.3 | +650.7 |
-| M80 | 2 | 3081.4 | +650.1 |
+| NRG | 4 | 2835.7 | +663.7 |
+| SportsBetExpert | 6 | 2671.6 | +662.2 |
+| LAG Gaming | 8 | 2507.4 | +650.7 |
+| M80 | 2 | 3081.4 | +650.0 |
 | Wildcard | 3 | 2911.9 | +645.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
@@ -67,7 +67,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.04 | 0.19 | +298.5 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
 | 2026-05-08 | Dude Picks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -432.0 | -syN-_-, Aim-_, Clavis, LaiNN-, RoLLo, deeLN |
 | 2026-05-07 | BucketJonsBoys | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.15 | 1.00 | 0.15 | 0.04 | 0.15 | +247.4 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
-| 2026-05-01 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +258.8 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
+| 2026-05-01 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +258.9 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
 | 2026-04-29 | Wiggle Peeks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +333.5 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
 | 2026-04-23 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -329.8 | Aim-_, Clavis, LaiNN-, RoLLo, deeLN |
 | 2026-04-22 | Free Frugz | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +223.3 | Clavis, LaiNN-, RoLLo, deeLN, splix- |

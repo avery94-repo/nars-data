@@ -3,11 +3,11 @@ Team Name: Team Deathgrip
 Roster: FlYiN_ElVIS, Combz, eztupac, NoDamage, yesvil
 NARS Rank: 448 of 506
 
-Final Rating: 904.2
+Final Rating: 904.1
 Seeded Start: 1210.9
-H2H Adjustment: -306.7
+H2H Adjustment: -306.8
 
-Final Rating (904.2) = Seeded Start (1210.9) + H2H Adjustment (-306.7)
+Final Rating (904.1) = Seeded Start (1210.9) + H2H Adjustment (-306.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.062 | 1186.9 | -24.0 |
 | +90 days | 0.050 | 1170.3 | -40.6 |
 
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.013 vs 0.012 average, gap +0.001). Matching that average is worth about 0.0 seed points.
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.013 vs 0.011 average, gap +0.002). Matching that average is worth about 0.0 seed points.
 
 - Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
 - Quality Wins drivers: beat FourStrokeGang at S58 NA Intermediate A - Regular Season (2026-08-21) 0.07; beat 69 at S58 NA Intermediate A - Regular Season (2026-08-26) 0.07; beat 37U Passion at S58 NA Intermediate A - Regular Season (2026-08-12) 0.03
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +565.9 |
-| SportsBetExpert | 6 | 2672.3 | +565.7 |
+| NRG | 4 | 2835.7 | +565.5 |
+| SportsBetExpert | 6 | 2671.6 | +565.3 |
 | Zomblers | 22 | 2114.7 | +561.6 |
-| North Forge | 38 | 1971.1 | +561.0 |
-| regain | 12 | 2256.1 | +560.9 |
+| North Forge | 38 | 1971.1 | +561.1 |
+| regain | 12 | 2256.1 | +561.0 |
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs dogwater (2026-05-15): expires in 27 days [Quality Wins 0.02, Opponent Network 0.18]
@@ -55,8 +55,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Cortex Jellies | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -7.0 | Combz, FlYiN_ElVIS, JbenCS, eztupac, yesvil |
-| 2026-08-26 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +109.6 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
-| 2026-08-21 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +91.2 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
+| 2026-08-26 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +109.7 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
+| 2026-08-21 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +91.3 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-08-14 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -1.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-08-12 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.03 | 0.78 | +99.8 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-08-05 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -110.2 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
@@ -66,8 +66,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -0.2 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-07-17 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -0.4 | Combz, FlYiN_ElVIS, JbenCS, NoDamage, yesvil |
 | 2026-07-15 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -14.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
-| 2026-05-22 | innerFire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -312.9 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
-| 2026-05-15 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +186.9 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
+| 2026-05-22 | innerFire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -313.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
+| 2026-05-15 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +187.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-05-13 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -22.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-05-06 | Shaq Diesel | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -46.1 | Combz, FlYiN_ElVIS, eztupac, rlxthegreat, yesvil |
 | 2026-04-29 | Kennesaw State Gold 2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -2.8 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |

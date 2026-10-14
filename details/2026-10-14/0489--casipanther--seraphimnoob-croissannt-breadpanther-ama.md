@@ -5,7 +5,7 @@ NARS Rank: 489 of 506
 
 Final Rating: 639.1
 Seeded Start: 1170.8
-H2H Adjustment: -531.7
+H2H Adjustment: -531.7 (capped at +-300, raw -531.8)
 
 Final Rating (639.1) = Seeded Start (1170.8) + H2H Adjustment (-531.7)
 
@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.051 | 1170.8 | - |
 | +30 days | 0.043 | 1160.7 | -10.1 |
-| +60 days | 0.037 | 1151.6 | -19.3 |
+| +60 days | 0.037 | 1151.5 | -19.3 |
 | +90 days | 0.025 | 1135.4 | -35.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.041 vs 0.053 average, gap -0.012). Matching that average is worth about 4.2 seed points.
@@ -40,9 +40,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
 | North Forge | 38 | 1971.1 | +665.4 |
-| NRG | 4 | 2836.4 | +665.3 |
-| SportsBetExpert | 6 | 2672.3 | +665.2 |
 | Wanted Goons | 43 | 1933.1 | +664.8 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.6 |
 | Zomblers | 22 | 2114.7 | +662.9 |
 
 Seed inputs expiring within 90 days:

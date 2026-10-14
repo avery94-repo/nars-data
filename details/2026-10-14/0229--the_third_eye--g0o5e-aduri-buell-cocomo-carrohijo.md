@@ -4,14 +4,14 @@ Roster: G0o5e, Aduri, Buell, cocomo, CarroHijo
 NARS Rank: 229 of 506
 
 Final Rating: 1425.5
-Seeded Start: 1151.4
-H2H Adjustment: +274.1
+Seeded Start: 1151.3
+H2H Adjustment: +274.2
 
-Final Rating (1425.5) = Seeded Start (1151.4) + H2H Adjustment (+274.1)
+Final Rating (1425.5) = Seeded Start (1151.3) + H2H Adjustment (+274.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.037 x 1400 = 1151.4
+                = 1100 + 0.037 x 1400 = 1151.3
 
 seed_factor 0.037 = 0.25 x Tier Exposure (0.035) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.099)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.037 | 1151.4 | - |
+| Now | 0.037 | 1151.3 | - |
 | +30 days | 0.022 | 1131.1 | -20.2 |
 | +60 days | 0.009 | 1112.9 | -38.5 |
-| +90 days | 0.001 | 1101.5 | -49.9 |
+| +90 days | 0.001 | 1101.5 | -49.8 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.099 vs 0.361 average, gap -0.262). Matching that average is worth about 91.7 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +663.9 |
-| SportsBetExpert | 6 | 2672.3 | +661.7 |
-| M80 | 2 | 3081.4 | +650.0 |
-| LAG Gaming | 8 | 2507.3 | +648.1 |
+| NRG | 4 | 2835.7 | +663.3 |
+| SportsBetExpert | 6 | 2671.6 | +661.1 |
+| M80 | 2 | 3081.4 | +649.9 |
+| LAG Gaming | 8 | 2507.4 | +648.1 |
 | Wildcard | 3 | 2911.9 | +645.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
@@ -58,7 +58,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-24 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -175.0 | Aduri, Buell, CarroHijo, G0o5e, OGYodaa |
+| 2026-07-24 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -175.1 | Aduri, Buell, CarroHijo, G0o5e, OGYodaa |
 | 2026-07-15 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +1.0 | Aduri, Buell, CarroHijo, G0o5e, OGYodaa |
 | 2026-06-10 | GodFather Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.02 | 0.36 | +144.7 | Buell, CarroHijo, G0o5e, cocomo, iced00 |
 | 2026-06-03 | Robert Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +245.4 | Buell, CarroHijo, G0o5e, cocomo, iced00 |

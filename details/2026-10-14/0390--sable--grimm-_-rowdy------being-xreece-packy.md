@@ -3,11 +3,11 @@ Team Name: Sable
 Roster: Grimm-_, ROWDY-----, being, xReeCe, Packy
 NARS Rank: 390 of 506
 
-Final Rating: 1080.3
+Final Rating: 1080.2
 Seeded Start: 1152.9
-H2H Adjustment: -72.6
+H2H Adjustment: -72.7
 
-Final Rating (1080.3) = Seeded Start (1152.9) + H2H Adjustment (-72.6)
+Final Rating (1080.2) = Seeded Start (1152.9) + H2H Adjustment (-72.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.038 | 1152.9 | - |
 | +30 days | 0.029 | 1140.6 | -12.4 |
 | +60 days | 0.023 | 1132.4 | -20.5 |
-| +90 days | 0.022 | 1131.0 | -21.9 |
+| +90 days | 0.022 | 1131.1 | -21.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.099 vs 0.244 average, gap -0.145). Matching that average is worth about 50.8 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.7 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.1 |
 | regain | 12 | 2256.1 | +655.9 |
-| LAG Gaming | 8 | 2507.3 | +655.6 |
+| LAG Gaming | 8 | 2507.4 | +655.6 |
 | Zomblers | 22 | 2114.7 | +652.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.6), 3 Feet Of Meat (+1.2), shirtcockin (+1.7).

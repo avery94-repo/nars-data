@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.201 | 1381.6 | - |
 | +30 days | 0.187 | 1361.7 | -19.9 |
 | +60 days | 0.173 | 1342.7 | -38.9 |
-| +90 days | 0.152 | 1312.1 | -69.5 |
+| +90 days | 0.152 | 1312.3 | -69.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.059 vs 0.028 average, gap +0.031). Matching that average is worth about 0.0 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +284.0 |
-| SportsBetExpert | 6 | 2672.3 | +283.3 |
-| LAG Gaming | 8 | 2507.3 | +278.0 |
+| NRG | 4 | 2835.7 | +283.8 |
+| SportsBetExpert | 6 | 2671.6 | +283.1 |
+| LAG Gaming | 8 | 2507.4 | +278.1 |
 | M80 | 2 | 3081.4 | +278.0 |
 | Wildcard | 3 | 2911.9 | +276.0 |
 

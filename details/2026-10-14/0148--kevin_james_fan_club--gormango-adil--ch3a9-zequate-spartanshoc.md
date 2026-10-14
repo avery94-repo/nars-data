@@ -4,14 +4,14 @@ Roster: GORMANGO, ADIL-, CH3A9, zequate, SpartanShock
 NARS Rank: 148 of 506
 
 Final Rating: 1580.9
-Seeded Start: 1363.8
-H2H Adjustment: +217.1
+Seeded Start: 1363.7
+H2H Adjustment: +217.2
 
-Final Rating (1580.9) = Seeded Start (1363.8) + H2H Adjustment (+217.1)
+Final Rating (1580.9) = Seeded Start (1363.7) + H2H Adjustment (+217.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.188 x 1400 = 1363.8
+                = 1100 + 0.188 x 1400 = 1363.7
 
 seed_factor 0.188 = 0.25 x Tier Exposure (0.121) + 0.50 x Quality Wins (0.050) + 0.25 x Opponent Network (0.532)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.188 | 1363.8 | - |
+| Now | 0.188 | 1363.7 | - |
 | +30 days | 0.178 | 1348.7 | -15.0 |
 | +60 days | 0.163 | 1328.6 | -35.1 |
-| +90 days | 0.140 | 1295.9 | -67.9 |
+| +90 days | 0.140 | 1296.0 | -67.7 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.050 vs 0.036 average, gap +0.014). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +363.4 |
-| SportsBetExpert | 6 | 2672.3 | +361.7 |
+| NRG | 4 | 2835.7 | +363.2 |
+| SportsBetExpert | 6 | 2671.6 | +361.4 |
 | M80 | 2 | 3081.4 | +356.1 |
-| Wildcard | 3 | 2911.9 | +353.2 |
-| LAG Gaming | 8 | 2507.3 | +352.9 |
+| Wildcard | 3 | 2911.9 | +353.3 |
+| LAG Gaming | 8 | 2507.4 | +352.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -68,7 +68,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | VeryBigDoogoos | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.04 | 0.87 | +3.1 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-08-19 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -20.3 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-08-14 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -86.8 | ADIL-, CH3A9, GORMANGO, Muzic, zequate |
-| 2026-08-12 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.10 | 0.78 | +135.5 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
+| 2026-08-12 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.10 | 0.78 | +135.6 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-07-29 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -143.6 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-07-29 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.68 | +78.8 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-07-24 | The Third Eye | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.02 | 0.65 | +155.8 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
@@ -77,7 +77,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +15.9 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-06-07 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -128.2 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
 | 2026-05-29 | The Plague | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +192.3 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
-| 2026-05-22 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -300.1 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
+| 2026-05-22 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -300.2 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
 | 2026-05-20 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -231.8 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
 | 2026-05-08 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +344.6 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
 | 2026-05-06 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -283.9 | ADIL-, Billy, CH3A9, Muzic, SpartanShock |

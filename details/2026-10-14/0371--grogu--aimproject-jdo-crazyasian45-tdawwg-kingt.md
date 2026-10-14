@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.0 |
-| SportsBetExpert | 6 | 2672.3 | +664.6 |
-| LAG Gaming | 8 | 2507.3 | +655.2 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.0 |
+| LAG Gaming | 8 | 2507.4 | +655.2 |
 | regain | 12 | 2256.1 | +654.5 |
 | M80 | 2 | 3081.4 | +650.3 |
 
@@ -58,9 +58,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -161.9 | aimproject, jdo, kaokao, kingtony, tdawwg |
+| 2026-05-22 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -162.0 | aimproject, jdo, kaokao, kingtony, tdawwg |
 | 2026-05-20 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +294.7 | crazyasian45, jdo, kaokao, kingtony, tdawwg |
-| 2026-05-14 | goofball gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -325.5 | aimproject, crazyasian45, jdo, kingtony, tdawwg |
+| 2026-05-14 | goofball gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -325.6 | aimproject, crazyasian45, jdo, kingtony, tdawwg |
 | 2026-05-13 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +212.7 | aimproject, crazyasian45, jdo, kingtony, tdawwg |
 | 2026-05-08 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -74.8 | aimproject, jdo, kaokao, kingtony, tdawwg |
 | 2026-05-06 | SquadUp | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -74.4 | aimproject, crazyasian45, jdo, kingtony, tdawwg |

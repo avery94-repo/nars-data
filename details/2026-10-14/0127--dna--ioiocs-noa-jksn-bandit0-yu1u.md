@@ -13,7 +13,7 @@ Final Rating (1635.0) = Seeded Start (1135.2) + H2H Adjustment (+499.8)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.025 x 1400 = 1135.2
 
-seed_factor 0.025 = 0.25 x Tier Exposure (0.022) + 0.50 x Quality Wins (0.008) + 0.25 x Opponent Network (0.063)
+seed_factor 0.025 = 0.25 x Tier Exposure (0.022) + 0.50 x Quality Wins (0.008) + 0.25 x Opponent Network (0.062)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.000 | 1100.0 | -35.2 |
 | +90 days | 0.000 | 1100.0 | -35.2 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.063 vs 0.530 average, gap -0.467). Matching that average is worth about 163.4 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.062 vs 0.530 average, gap -0.468). Matching that average is worth about 163.8 seed points.
 
 - Tier Exposure drivers: S57 NA Main Central - Playoffs (2026-06-02) 0.38; S57 NA Main Central - Regular Season (2026-05-22) 0.26
 - Quality Wins drivers: beat 5Frag Gaming at S57 NA Main Central - Playoffs (2026-05-31) 0.05; beat Wolves at S57 NA Main Central - Regular Season (2026-05-20) 0.04; beat Lynnsanity at S57 NA Main Central - Regular Season (2026-05-22) 0.02
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +660.8 |
-| SportsBetExpert | 6 | 2672.3 | +654.4 |
-| M80 | 2 | 3081.4 | +649.1 |
+| NRG | 4 | 2835.7 | +660.2 |
+| SportsBetExpert | 6 | 2671.6 | +653.8 |
+| M80 | 2 | 3081.4 | +649.0 |
 | Wildcard | 3 | 2911.9 | +642.9 |
 | Liquid | 1 | 3103.3 | +640.0 |
 
@@ -59,11 +59,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-02 | YHUBEPCAM | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -70.0 | JKSN, Yu1u, bandit0, ioioCS, noa |
+| 2026-06-02 | YHUBEPCAM | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -70.1 | JKSN, Yu1u, bandit0, ioioCS, noa |
 | 2026-05-31 | 5Frag Gaming | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.05 | 0.36 | +153.8 | JKSN, Yu1u, bandit0, ioioCS, noa |
-| 2026-05-27 | TheMotherLovers | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -154.0 | JKSN, Milkman_eh, Yu1u, bandit0, ioioCS, mc-130h, noa |
-| 2026-05-22 | Lynnsanity | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +337.9 | JKSN, Milkman_eh, Yu1u, bandit0, ioioCS, noa |
-| 2026-05-20 | Wolves | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.04 | 0.25 | +227.7 | JKSN, Milkman_eh, Yu1u, bandit0, ioioCS, mc-130h, noa |
+| 2026-05-27 | TheMotherLovers | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -154.1 | JKSN, Milkman_eh, Yu1u, bandit0, ioioCS, mc-130h, noa |
+| 2026-05-22 | Lynnsanity | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +338.0 | JKSN, Milkman_eh, Yu1u, bandit0, ioioCS, noa |
+| 2026-05-20 | Wolves | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.04 | 0.25 | +227.8 | JKSN, Milkman_eh, Yu1u, bandit0, ioioCS, mc-130h, noa |
 | 2026-05-14 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -4.7 | JKSN, Yu1u, bandit0, ioioCS, noa |
 | 2026-05-13 | Resurgence | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -53.1 | JKSN, Yu1u, bandit0, ioioCS, noa |
 | 2026-05-06 | 027fam | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -7.8 | JKSN, Yu1u, bandit0, ioioCS, noa |

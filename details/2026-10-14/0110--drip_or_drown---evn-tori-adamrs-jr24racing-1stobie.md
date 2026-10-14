@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.160 | 1324.2 | - |
 | +30 days | 0.148 | 1307.7 | -16.5 |
 | +60 days | 0.138 | 1293.7 | -30.6 |
-| +90 days | 0.119 | 1266.8 | -57.4 |
+| +90 days | 0.119 | 1266.9 | -57.3 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.111 vs 0.116 average, gap -0.005). Matching that average is worth about 1.8 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +342.1 |
-| SportsBetExpert | 6 | 2672.3 | +339.7 |
-| M80 | 2 | 3081.4 | +335.7 |
-| Wildcard | 3 | 2911.9 | +332.7 |
-| Liquid | 1 | 3103.3 | +331.0 |
+| NRG | 4 | 2835.7 | +342.2 |
+| SportsBetExpert | 6 | 2671.6 | +339.7 |
+| M80 | 2 | 3081.4 | +336.0 |
+| Wildcard | 3 | 2911.9 | +333.1 |
+| Liquid | 1 | 3103.3 | +331.3 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), After Peak (+0.0).
 
@@ -52,7 +52,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-17 | drunk cigs dont count | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -59.0 | -evN, 1stobie, AdamRS, Tori, jr24racing |
+| 2026-09-17 | drunk cigs dont count | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -59.1 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-15 | brb grinding minecraft | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +5.6 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-09 | DETONATE | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.00 | 0.00 | -0.5 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-08 | The Kerbins | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -200.9 | -evN, 1stobie, AdamRS, Tori, jr24racing |

@@ -5,7 +5,7 @@ NARS Rank: 5 of 506
 
 Final Rating: 2796.5
 Seeded Start: 2240.5
-H2H Adjustment: +556.0
+H2H Adjustment: +556.0 (capped at +-300, raw +556.1)
 
 Final Rating (2796.5) = Seeded Start (2240.5) + H2H Adjustment (+556.0)
 
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.815 | 2240.5 | - |
 | +30 days | 0.803 | 2224.3 | -16.2 |
 | +60 days | 0.788 | 2203.1 | -37.4 |
-| +90 days | 0.758 | 2160.9 | -79.6 |
+| +90 days | 0.762 | 2167.2 | -73.3 |
 
 Weakest lever vs the 4 teams ranked above: Tier Exposure (0.593 vs 0.614 average, gap -0.021). Matching that average is worth about 7.3 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| Liquid | 1 | 3103.3 | +91.0 |
+| Liquid | 1 | 3103.3 | +91.1 |
 | M80 | 2 | 3081.4 | +90.2 |
 | Wildcard | 3 | 2911.9 | +67.8 |
-| NRG | 4 | 2836.4 | +58.6 |
-| SportsBetExpert | 6 | 2672.3 | +36.2 |
+| NRG | 4 | 2835.7 | +58.5 |
+| SportsBetExpert | 6 | 2671.6 | +36.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Overtake Sector (+0.0), Elusive (+0.0), FlyQuest RED (+0.0), Addice (+0.0), New Legends (+0.0).
 
@@ -66,10 +66,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-02 | SASHI | W |  | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.26 | 0.00 | +24.2 | core 3/5 |
 | 2026-09-26 | M80 | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -27.4 | core 3/5 |
 | 2026-09-25 | BESTIA | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.38 | 0.00 | +70.3 | core 3/5 |
-| 2026-09-25 | DENDELE | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -76.3 | core 3/5 |
-| 2026-09-12 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -46.8 | core 3/5 |
-| 2026-09-11 | ANTIVALUE | W |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.56 | 1.17 | 0.00 | +0.5 | core 3/5 |
-| 2026-09-11 | Without a Roof | W |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.56 | 1.56 | 1.56 | +51.6 | core 3/5 |
+| 2026-09-25 | DENDELE | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -76.4 | core 3/5 |
+| 2026-09-12 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -46.9 | core 3/5 |
+| 2026-09-11 | ANTIVALUE | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 1.17 | 0.00 | +0.5 | core 3/5 |
+| 2026-09-11 | Without a Roof | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 1.56 | 1.56 | +51.6 | core 3/5 |
 | 2026-09-10 | NRG | L |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -155.3 | core 3/5 |
 | 2026-09-09 | Villainous | W |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.54 | 1.33 | 1.54 | +0.0 | core 3/5 |
 | 2026-09-01 | Marsborne | W |  | VRS-tracked 2026-09 | A | vrs | 0.91 | 1.60 | 1.00 | 1.45 | 1.41 | 0.00 | +27.9 | core 3/5 |
@@ -82,16 +82,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-30 | SportsBetExpert | W |  | VRS-tracked 2026-07 | A | vrs | 0.69 | 1.60 | 1.00 | 1.10 | 0.99 | 1.10 | +10.8 | core 3/5 |
 | 2026-07-28 | regain | W |  | VRS-tracked 2026-07 | A | vrs | 0.68 | 1.60 | 1.00 | 1.08 | 0.85 | 0.00 | +16.4 | core 3/5 |
 | 2026-07-16 | Without a Roof | W | 2-1 | Esports Nations Cup 2026: American Qualifier | C | liquipedia | 0.60 | 1.60 | 1.00 | 0.96 | 0.96 | 0.00 | +38.0 | Momo, junior, mason, nosraC, snav |
-| 2026-07-11 | M80 | L |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.90 | 0.00 | 0.00 | -153.4 | core 3/5 |
-| 2026-07-10 | regain | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.89 | 0.70 | 0.89 | +282.4 | core 3/5 |
+| 2026-07-11 | M80 | L |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.90 | 0.00 | 0.00 | -153.5 | core 3/5 |
+| 2026-07-10 | regain | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.89 | 0.70 | 0.89 | +282.5 | core 3/5 |
 | 2026-07-09 | NuTorious | W |  | VRS-tracked 2026-07 | A | vrs | 0.55 | 1.60 | 1.00 | 0.88 | 0.79 | 0.88 | +0.2 | core 3/5 |
 | 2026-05-28 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.27 | 1.60 | 1.00 | 0.43 | 0.00 | 0.00 | -194.5 | core 3/5 |
 | 2026-05-27 | Chicken Coop | W |  | VRS-tracked 2026-05 | A | vrs | 0.26 | 1.60 | 1.00 | 0.42 | 0.38 | 0.00 | +6.3 | core 3/5 |
-| 2026-05-03 | Wildcard | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.10 | 0.16 | +91.5 | core 3/5 |
-| 2026-05-02 | Zomblers | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.15 | 0.13 | 0.00 | +297.9 | core 3/5 |
-| 2026-05-01 | Wildcard | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.00 | 0.00 | -215.3 | core 3/5 |
-| 2026-04-29 | Zomblers | W |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.12 | 0.10 | 0.12 | +357.1 | core 3/5 |
-| 2026-04-27 | Chicken Coop | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.09 | 0.10 | +171.7 | core 3/5 |
+| 2026-05-03 | Wildcard | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.16 | 0.10 | 0.16 | +91.4 | core 3/5 |
+| 2026-05-02 | Zomblers | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.15 | 0.13 | 0.00 | +298.0 | core 3/5 |
+| 2026-05-01 | Wildcard | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.00 | 0.00 | -215.4 | core 3/5 |
+| 2026-04-29 | Zomblers | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.12 | 0.10 | 0.12 | +357.2 | core 3/5 |
+| 2026-04-27 | Chicken Coop | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.09 | 0.10 | +171.8 | core 3/5 |
 | 2026-04-26 | New Legends | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.09 | 0.06 | 0.09 | +50.3 | core 3/5 |
 | 2026-04-25 | Marsborne | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.07 | 0.08 | +408.5 | core 3/5 |
 | 2026-04-25 | Marsborne | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -367.5 | core 3/5 |

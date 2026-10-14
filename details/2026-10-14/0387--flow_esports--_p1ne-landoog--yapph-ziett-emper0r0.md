@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.139 | 1294.4 | - |
-| +30 days | 0.120 | 1267.5 | -26.9 |
+| +30 days | 0.120 | 1267.5 | -26.8 |
 | +60 days | 0.100 | 1240.4 | -54.0 |
 | +90 days | 0.075 | 1204.8 | -89.6 |
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +375.1 |
-| SportsBetExpert | 6 | 2672.3 | +374.9 |
+| NRG | 4 | 2835.7 | +374.9 |
+| SportsBetExpert | 6 | 2671.6 | +374.7 |
 | regain | 12 | 2256.1 | +370.9 |
-| Zomblers | 22 | 2114.7 | +370.2 |
-| LAG Gaming | 8 | 2507.3 | +370.0 |
+| Zomblers | 22 | 2114.7 | +370.3 |
+| LAG Gaming | 8 | 2507.4 | +370.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.7), shirtcockin (+1.0), Courage (+1.2), SixSevenZaZa (+1.9).
 
@@ -60,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | walkthemdown | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -21.7 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
 | 2026-09-04 | Big Fish | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.10 | 0.93 | +79.7 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
 | 2026-09-02 | Kevin James Fan Club | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -2.2 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
-| 2026-08-28 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -84.5 | -chb, LandoOG, MrJFaTaL, emper0r0, ziett |
+| 2026-08-28 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -84.6 | -chb, LandoOG, MrJFaTaL, emper0r0, ziett |
 | 2026-08-26 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +96.2 | -chb, LandoOG, MrJFaTaL, emper0r0, ziett |
 | 2026-08-21 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -1.5 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
 | 2026-08-19 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -85.1 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
@@ -69,8 +69,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.08 | 0.73 | +227.1 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 | 2026-07-31 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -108.5 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 | 2026-07-29 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -112.7 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
-| 2026-07-24 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -263.8 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
-| 2026-07-22 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.02 | 0.64 | +20.6 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
+| 2026-07-24 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -263.9 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
+| 2026-07-22 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.02 | 0.64 | +20.5 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
 | 2026-07-17 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.07 | 0.60 | +268.8 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
 | 2026-07-15 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -394.5 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
 | 2026-06-10 | Slime Time | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.36 | +175.5 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |

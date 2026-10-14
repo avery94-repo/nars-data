@@ -3,15 +3,15 @@ Team Name: RAZED
 Roster: ruggi33, Noah___, Vipum, _Hoba, jR-NASTY
 NARS Rank: 300 of 506
 
-Final Rating: 1269.1
-Seeded Start: 1181.7
+Final Rating: 1269.0
+Seeded Start: 1181.6
 H2H Adjustment: +87.4
 
-Final Rating (1269.1) = Seeded Start (1181.7) + H2H Adjustment (+87.4)
+Final Rating (1269.0) = Seeded Start (1181.6) + H2H Adjustment (+87.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.058 x 1400 = 1181.7
+                = 1100 + 0.058 x 1400 = 1181.6
 
 seed_factor 0.058 = 0.25 x Tier Exposure (0.043) + 0.50 x Quality Wins (0.007) + 0.25 x Opponent Network (0.176)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.058 | 1181.7 | - |
+| Now | 0.058 | 1181.6 | - |
 | +30 days | 0.040 | 1155.4 | -26.3 |
 | +60 days | 0.038 | 1152.5 | -29.1 |
-| +90 days | 0.035 | 1149.4 | -32.3 |
+| +90 days | 0.035 | 1149.4 | -32.2 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.176 vs 0.274 average, gap -0.098). Matching that average is worth about 34.3 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.7 |
-| SportsBetExpert | 6 | 2672.3 | +663.7 |
-| LAG Gaming | 8 | 2507.3 | +653.2 |
+| NRG | 4 | 2835.7 | +664.1 |
+| SportsBetExpert | 6 | 2671.6 | +663.2 |
+| LAG Gaming | 8 | 2507.4 | +653.1 |
 | M80 | 2 | 3081.4 | +650.2 |
 | regain | 12 | 2256.1 | +646.8 |
 
@@ -64,7 +64,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Sable | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.04 | 0.93 | +109.8 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
 | 2026-09-02 | Uncs United | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +169.3 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
 | 2026-05-22 | 2THRiLL | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -351.7 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
-| 2026-05-20 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +135.3 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
+| 2026-05-20 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +135.2 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-15 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.21 | +3.1 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-08 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +222.8 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-06 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +343.4 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |

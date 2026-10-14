@@ -3,11 +3,11 @@ Team Name: gunked
 Roster: st3viray, Pufflezao, pprpl_pngn, sebzy, kbk1337
 NARS Rank: 132 of 506
 
-Final Rating: 1622.6
+Final Rating: 1622.7
 Seeded Start: 1214.8
-H2H Adjustment: +407.8
+H2H Adjustment: +407.9
 
-Final Rating (1622.6) = Seeded Start (1214.8) + H2H Adjustment (+407.8)
+Final Rating (1622.7) = Seeded Start (1214.8) + H2H Adjustment (+407.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.082 | 1214.8 | - |
 | +30 days | 0.074 | 1203.1 | -11.7 |
 | +60 days | 0.070 | 1198.3 | -16.5 |
-| +90 days | 0.067 | 1194.3 | -20.5 |
+| +90 days | 0.067 | 1194.4 | -20.5 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.265 vs 0.342 average, gap -0.077). Matching that average is worth about 27.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +485.7 |
-| SportsBetExpert | 6 | 2672.3 | +482.2 |
-| M80 | 2 | 3081.4 | +476.5 |
-| Wildcard | 3 | 2911.9 | +472.3 |
-| Liquid | 1 | 3103.3 | +469.8 |
+| NRG | 4 | 2835.7 | +485.6 |
+| SportsBetExpert | 6 | 2671.6 | +482.1 |
+| M80 | 2 | 3081.4 | +476.8 |
+| Wildcard | 3 | 2911.9 | +472.6 |
+| Liquid | 1 | 3103.3 | +470.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 

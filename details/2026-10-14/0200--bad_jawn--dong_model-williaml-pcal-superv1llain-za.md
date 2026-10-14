@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.100 | 1240.3 | - |
 | +30 days | 0.089 | 1225.3 | -15.0 |
 | +60 days | 0.090 | 1226.1 | -14.2 |
-| +90 days | 0.091 | 1227.9 | -12.4 |
+| +90 days | 0.091 | 1228.0 | -12.3 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.291 vs 0.327 average, gap -0.036). Matching that average is worth about 12.6 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +249.0 |
-| SportsBetExpert | 6 | 2672.3 | +248.4 |
-| LAG Gaming | 8 | 2507.3 | +243.9 |
+| NRG | 4 | 2835.7 | +248.8 |
+| SportsBetExpert | 6 | 2671.6 | +248.3 |
+| LAG Gaming | 8 | 2507.4 | +244.0 |
 | M80 | 2 | 3081.4 | +243.7 |
-| Wildcard | 3 | 2911.9 | +241.9 |
+| Wildcard | 3 | 2911.9 | +242.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -68,8 +68,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-14 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +147.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-13 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -214.2 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-08 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +12.3 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-05-06 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +242.3 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-05-01 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -371.2 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-05-06 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +242.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-05-01 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -371.3 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-04-29 | monitor off | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +18.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-04-24 | Ninjas In Boxer | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +271.8 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 

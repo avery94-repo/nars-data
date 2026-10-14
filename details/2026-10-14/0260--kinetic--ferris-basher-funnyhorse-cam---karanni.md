@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.159 | 1322.8 | - |
 | +30 days | 0.134 | 1287.6 | -35.2 |
-| +60 days | 0.113 | 1258.9 | -63.9 |
-| +90 days | 0.084 | 1216.9 | -105.9 |
+| +60 days | 0.113 | 1258.8 | -63.9 |
+| +90 days | 0.084 | 1217.0 | -105.8 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.040 vs 0.026 average, gap +0.014). Matching that average is worth about 0.0 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +260.7 |
-| SportsBetExpert | 6 | 2672.3 | +260.4 |
-| LAG Gaming | 8 | 2507.3 | +256.4 |
-| M80 | 2 | 3081.4 | +255.0 |
+| NRG | 4 | 2835.7 | +260.6 |
+| SportsBetExpert | 6 | 2671.6 | +260.2 |
+| LAG Gaming | 8 | 2507.4 | +256.4 |
+| M80 | 2 | 3081.4 | +255.1 |
 | regain | 12 | 2256.1 | +254.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
@@ -75,11 +75,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -10.8 | Basher, Funnyhorse, Karanni, TheBanker, cam-- |
 | 2026-07-24 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -389.7 | Basher, Funnyhorse, Karanni, cam--, thanny |
 | 2026-07-23 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.07 | 0.75 | +0.9 | Basher, Funnyhorse, Karanni, TheBanker, cam-- |
-| 2026-07-17 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.12 | 0.70 | +150.6 | Basher, Funnyhorse, Karanni, TheBanker, cam-- |
+| 2026-07-17 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.12 | 0.70 | +150.7 | Basher, Funnyhorse, Karanni, TheBanker, cam-- |
 | 2026-07-15 | HammerHeads | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.04 | 0.68 | +192.1 | Ferris, Funnyhorse, Karanni, TheBanker, cam-- |
-| 2026-06-04 | Real Hustle Club | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.03 | 1.00 | 0.33 | 0.00 | 0.00 | -137.6 | Basher, Ferris, Funnyhorse, TheBanker, cam-- |
+| 2026-06-04 | Real Hustle Club | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.03 | 1.00 | 0.33 | 0.00 | 0.00 | -137.7 | Basher, Ferris, Funnyhorse, TheBanker, cam-- |
 | 2026-06-02 | Distinguished Ducks | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.03 | 0.31 | +244.2 | Basher, Ferris, Funnyhorse, cam--, senplic |
-| 2026-05-31 | RejexEsports | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.02 | 0.00 | +192.3 | Basher, Ferris, Funnyhorse, Salvare, senplic |
+| 2026-05-31 | RejexEsports | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.02 | 0.00 | +192.4 | Basher, Ferris, Funnyhorse, Salvare, senplic |
 | 2026-05-27 | academy 4 gifted children | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -18.6 | Basher, Ferris, Funnyhorse, PatheticJon, cam-- |
 | 2026-05-22 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -135.0 | Basher, Ferris, Funnyhorse, TheBanker, cam-- |
 | 2026-05-20 | RejexEsports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.22 | +80.9 | Basher, Ferris, Funnyhorse, PatheticJon, cam-- |
@@ -87,7 +87,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +178.7 | Basher, Ferris, Funnyhorse, Salvare, senplic |
 | 2026-05-08 | Brick Layers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +14.7 | Basher, Ferris, Funnyhorse, cam--, senplic |
 | 2026-05-06 | Braindead | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +395.4 | Basher, Ferris, Funnyhorse, cam--, senplic |
-| 2026-04-29 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -238.7 | Ferris, Funnyhorse, Salvare, cam--, senplic |
+| 2026-04-29 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -238.8 | Ferris, Funnyhorse, Salvare, cam--, senplic |
 | 2026-04-24 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +212.2 | Ferris, Funnyhorse, Salvare, cam--, senplic |
 | 2026-04-22 | TahMeow | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -253.9 | Basher, Ferris, Funnyhorse, Salvare, cam-- |
 

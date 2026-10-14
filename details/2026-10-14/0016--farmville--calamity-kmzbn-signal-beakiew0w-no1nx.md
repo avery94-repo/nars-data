@@ -3,11 +3,11 @@ Team Name: FarmVille
 Roster: calamity, kmzbn, Signal, BeaKiew0w, no1nx
 NARS Rank: 16 of 506
 
-Final Rating: 2167.5
+Final Rating: 2167.6
 Seeded Start: 2321.1
-H2H Adjustment: -153.6
+H2H Adjustment: -153.5
 
-Final Rating (2167.5) = Seeded Start (2321.1) + H2H Adjustment (-153.6)
+Final Rating (2167.6) = Seeded Start (2321.1) + H2H Adjustment (-153.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.872 | 2321.1 | - |
 | +30 days | 0.854 | 2296.2 | -24.9 |
 | +60 days | 0.841 | 2277.8 | -43.2 |
-| +90 days | 0.825 | 2254.3 | -66.8 |
+| +90 days | 0.827 | 2258.5 | -62.6 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (1.000 vs 0.852 average, gap +0.148). Matching that average is worth about 0.0 seed points.
 
@@ -40,10 +40,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
 | M80 | 2 | 3081.4 | +73.1 |
-| NRG | 4 | 2836.4 | +72.8 |
+| NRG | 4 | 2835.7 | +72.8 |
 | Liquid | 1 | 3103.3 | +72.1 |
-| Wildcard | 3 | 2911.9 | +71.4 |
-| SportsBetExpert | 6 | 2672.3 | +69.3 |
+| Wildcard | 3 | 2911.9 | +71.5 |
+| SportsBetExpert | 6 | 2671.6 | +69.3 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Team Zhao (+0.0), Shadow Wizard Money Gang (+0.0), Goyim Gladiators (+0.0), We Play Naked (+0.0), Texas Orange (+0.0).
 
@@ -66,9 +66,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-14 | Celestial Esports | W |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.46 | 1.54 | +0.4 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-14 | Celestial Esports | W | 2-0 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 1.00 | 1.46 | 1.00 | 1.45 | 0.43 | 0.00 | +0.6 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-12 | feet67 | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.04 | 1.02 | +2.9 | BeaKiew0w, Signal, browNNNNN-, kmzbn, no1nx, sava9e |
-| 2026-09-12 | Overtake Sector | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -37.1 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
+| 2026-09-12 | Overtake Sector | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -37.2 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-11 | SportsBetExpert | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.98 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -1.1 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
-| 2026-09-11 | Overtake Sector | L |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -64.1 | core 3/5 |
+| 2026-09-11 | Overtake Sector | L |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -64.1 | core 3/5 |
 | 2026-09-10 | makeSHIFT | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.14 | 1.01 | +0.6 | BeaKiew0w, LiLScoop_, Signal, kmzbn, sava9e |
 | 2026-09-10 | SportsBetExpert | L |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -2.9 | core 3/5 |
 | 2026-09-09 | counterstrike Team | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.24 | 1.28 | +0.2 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
@@ -78,12 +78,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | O Fire | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.12 | 0.98 | +0.0 | BeaKiew0w, LiLScoop_, Signal, kmzbn, sava9e |
 | 2026-09-06 | DETONATE | L |  | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.50 | 0.00 | 0.00 | -36.2 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-06 | DETONATE | L | 0-1 | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 0.00 | 0.00 | -53.4 | BeaKiew0w, Signal, calamity, slugy, z0rka- |
-| 2026-09-06 | Beyond Limits | W |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 0.99 | 0.00 | +52.4 | core 3/5 |
+| 2026-09-06 | Beyond Limits | W |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 0.99 | 0.00 | +52.5 | core 3/5 |
 | 2026-09-05 | DETONATE | L |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.50 | 0.00 | 0.00 | -39.4 | core 3/5 |
 | 2026-09-04 | Packet Loss | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +0.0 | BeaKiew0w, Signal, kmzbn, sava9e, z0rka- |
 | 2026-09-04 | Marsborne | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.93 | 1.60 | 1.00 | 1.48 | 0.00 | 0.00 | -2.2 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-04 | regain | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 1.17 | 1.49 | +19.8 | core 3/5 |
-| 2026-09-03 | Without a Roof | L |  | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 0.00 | 0.00 | -25.0 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
+| 2026-09-03 | Without a Roof | L |  | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 0.00 | 0.00 | -25.1 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-03 | babaG | W | 2-1 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 0.61 | 1.47 | +36.0 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-03 | BucketJonsBoys | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.23 | 0.32 | 1.23 | +0.5 | BeaKiew0w, Signal, kmzbn, slugy, z0rka- |
 | 2026-09-03 | Marsborne | L |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 0.00 | 0.00 | -5.8 | core 3/5 |
@@ -96,14 +96,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-25 | Club 333 | W |  | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 1.07 | 1.38 | +114.6 | core 3/5 |
 | 2026-08-24 | Rejects | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.25 | 0.20 | 1.25 | +0.7 | BeaKiew0w, Signal, kmzbn, no1nx, z0rka- |
 | 2026-08-23 | Skyline | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.46 | 1.00 | 1.24 | 0.43 | 1.24 | +8.7 | BeaKiew0w, Signal, kmzbn, no1nx, z0rka- |
-| 2026-08-17 | Zomblers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.46 | 1.00 | 1.18 | 1.03 | 1.18 | +109.7 | BeaKiew0w, Signal, kmzbn, no1nx, z0rka- |
+| 2026-08-17 | Zomblers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.46 | 1.00 | 1.18 | 1.03 | 1.18 | +109.8 | BeaKiew0w, Signal, kmzbn, no1nx, z0rka- |
 | 2026-08-13 | dice | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.19 | 1.14 | +33.1 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
 | 2026-08-11 | Hairy Scary Bandits | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.13 | 0.00 | 0.00 | -159.8 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
 | 2026-05-01 | Wildcard | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.00 | 0.00 | -17.3 | core 3/5 |
 | 2026-04-30 | regain | L |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.00 | 0.00 | -6.7 | core 3/5 |
 | 2026-04-30 | Shimmer | W |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.05 | 0.13 | +265.6 | core 3/5 |
-| 2026-04-29 | Wildcard | L |  | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.12 | 0.00 | 0.00 | -1.7 | core 3/5 |
-| 2026-04-28 | EX-AETHER | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.00 | 0.00 | -539.3 | core 3/5 |
+| 2026-04-29 | Wildcard | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.12 | 0.00 | 0.00 | -1.7 | core 3/5 |
+| 2026-04-28 | EX-AETHER | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.00 | 0.00 | -539.4 | core 3/5 |
 | 2026-04-27 | Reign Above | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.07 | 0.00 | +21.9 | core 3/5 |
 | 2026-04-26 | OVERKNIGHT | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.09 | 0.07 | 0.00 | +174.7 | core 3/5 |
 | 2026-04-26 | insane players | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.09 | 0.00 | 0.09 | +0.2 | core 3/5 |

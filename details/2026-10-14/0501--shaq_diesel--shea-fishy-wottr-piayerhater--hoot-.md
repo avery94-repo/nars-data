@@ -5,7 +5,7 @@ NARS Rank: 501 of 506
 
 Final Rating: 508.7
 Seeded Start: 1157.4
-H2H Adjustment: -648.7 (capped at +-300, raw -648.6)
+H2H Adjustment: -648.7
 
 Final Rating (508.7) = Seeded Start (1157.4) + H2H Adjustment (-648.7)
 
@@ -41,8 +41,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 | :- | -: | -: | -: |
 | North Forge | 38 | 1971.1 | +666.5 |
 | Wanted Goons | 43 | 1933.1 | +666.2 |
-| NRG | 4 | 2836.4 | +665.3 |
-| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.6 |
 | Zomblers | 22 | 2114.7 | +663.5 |
 
 Seed inputs expiring within 90 days:
@@ -68,7 +68,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -121.2 | Conzor, Fishy, PIayerhater, PhilLesh-, shea |
 | 2026-07-15 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -9.1 | -HooT-, Conzor, PIayerhater, Wottr, shea |
 | 2026-05-22 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -34.7 | -HooT-, Conzor, PIayerhater, Wottr, mook |
-| 2026-05-15 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -268.4 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |
+| 2026-05-15 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -268.5 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |
 | 2026-05-14 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -126.1 | -HooT-, Conzor, Fishy, PIayerhater, Wottr |
 | 2026-05-08 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -179.0 | -HooT-, Conzor, Fishy, PIayerhater, PhilLesh- |
 | 2026-05-06 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +46.1 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |

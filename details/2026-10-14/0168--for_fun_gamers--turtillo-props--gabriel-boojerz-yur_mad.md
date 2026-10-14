@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: For Fun Gamers
 Roster: turtillo, Props, -gABRIEL, boojerz, Yur_Mad
-NARS Rank: 169 of 506
+NARS Rank: 168 of 506
 
 Final Rating: 1535.3
 Seeded Start: 1210.2
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.074 | 1204.1 | -6.1 |
 | +90 days | 0.072 | 1200.4 | -9.8 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.036 vs 0.071 average, gap -0.035). Matching that average is worth about 12.2 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.253 vs 0.366 average, gap -0.113). Matching that average is worth about 39.5 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-15) 1.02
 - Quality Wins drivers: beat GOYPEEKING at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.08; beat Eightball at S58 NA Open9-10 East - Playoffs C (2026-09-15) 0.07; beat NKBasketWeavers at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.03
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +425.7 |
-| SportsBetExpert | 6 | 2672.3 | +423.9 |
-| M80 | 2 | 3081.4 | +417.0 |
-| LAG Gaming | 8 | 2507.3 | +414.2 |
-| Wildcard | 3 | 2911.9 | +413.7 |
+| NRG | 4 | 2835.7 | +425.7 |
+| SportsBetExpert | 6 | 2671.6 | +423.9 |
+| M80 | 2 | 3081.4 | +417.3 |
+| LAG Gaming | 8 | 2507.4 | +414.5 |
+| Wildcard | 3 | 2911.9 | +414.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 

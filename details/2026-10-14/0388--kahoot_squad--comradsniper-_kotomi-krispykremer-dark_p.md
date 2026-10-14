@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.052 | 1172.3 | - |
 | +30 days | 0.050 | 1169.6 | -2.7 |
 | +60 days | 0.049 | 1168.9 | -3.4 |
-| +90 days | 0.048 | 1167.5 | -4.7 |
+| +90 days | 0.048 | 1167.6 | -4.7 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.122 vs 0.274 average, gap -0.152). Matching that average is worth about 53.2 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +464.7 |
-| SportsBetExpert | 6 | 2672.3 | +464.5 |
-| regain | 12 | 2256.1 | +459.1 |
-| LAG Gaming | 8 | 2507.3 | +458.3 |
-| Zomblers | 22 | 2114.7 | +457.9 |
+| NRG | 4 | 2835.7 | +464.4 |
+| SportsBetExpert | 6 | 2671.6 | +464.2 |
+| regain | 12 | 2256.1 | +459.2 |
+| LAG Gaming | 8 | 2507.4 | +458.4 |
+| Zomblers | 22 | 2114.7 | +458.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.8), shirtcockin (+1.2), Courage (+1.5).
 
@@ -55,10 +55,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | ClanAgain | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -102.7 | COMRADSNIPER, Hayvo, KrispyKremer, TheSwaggyMc, sleepykt |
-| 2026-09-05 | Knox Esports | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +180.9 | COMRADSNIPER, Hayvo, KrispyKremer, k1re, vexxey |
+| 2026-10-09 | ClanAgain | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -102.6 | COMRADSNIPER, Hayvo, KrispyKremer, TheSwaggyMc, sleepykt |
+| 2026-09-05 | Knox Esports | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +181.0 | COMRADSNIPER, Hayvo, KrispyKremer, k1re, vexxey |
 | 2026-09-04 | 105mm Dong | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +199.6 | COMRADSNIPER, Hayvo, KrispyKremer, TheSwaggyMc, vexxey |
 | 2026-09-02 | PogSquad | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -23.4 | COMRADSNIPER, Hayvo, TheSwaggyMc, k1re, vexxey |
-| 2026-05-06 | NADIYA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -344.2 | COMRADSNIPER, Dark_Potato, Dios, KrispyKremer, TalonGarbage |
+| 2026-05-06 | NADIYA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -344.3 | COMRADSNIPER, Dark_Potato, Dios, KrispyKremer, TalonGarbage |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

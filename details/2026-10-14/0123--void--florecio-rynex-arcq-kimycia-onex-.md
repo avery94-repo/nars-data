@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.173 | 1342.2 | - |
 | +30 days | 0.154 | 1315.1 | -27.1 |
 | +60 days | 0.135 | 1288.6 | -53.6 |
-| +90 days | 0.100 | 1239.8 | -102.4 |
+| +90 days | 0.100 | 1239.9 | -102.3 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.092 average, gap -0.018). Matching that average is worth about 6.3 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +614.4 |
-| SportsBetExpert | 6 | 2672.3 | +608.7 |
-| M80 | 2 | 3081.4 | +603.4 |
-| Wildcard | 3 | 2911.9 | +597.7 |
-| Liquid | 1 | 3103.3 | +595.0 |
+| NRG | 4 | 2835.7 | +614.3 |
+| SportsBetExpert | 6 | 2671.6 | +608.6 |
+| M80 | 2 | 3081.4 | +603.8 |
+| Wildcard | 3 | 2911.9 | +598.1 |
+| Liquid | 1 | 3103.3 | +595.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -62,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.14 | 0.87 | +13.8 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-08-21 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -108.8 | ABLojKa, ArcQ, florecio, kimycia, on_experienc |
 | 2026-08-19 | QUPMANACS | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.06 | 0.82 | +77.1 | ABLojKa, ArcQ, florecio, kimycia, on_experienc |
-| 2026-08-14 | Sound of Arthritis | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +110.8 | ABLojKa, ArcQ, florecio, kimycia, on_experienc |
+| 2026-08-14 | Sound of Arthritis | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +110.9 | ABLojKa, ArcQ, florecio, kimycia, on_experienc |
 | 2026-08-12 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +76.6 | ArcQ, Frezz, florecio, kimycia, on_experienc |
 | 2026-08-11 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.00 | 0.00 | -88.3 | -kuwaka, ArcQ, florecio, kimycia, on_experienc |
 | 2026-08-05 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.09 | 0.73 | +75.9 | ArcQ, Frezz, Rynex, florecio, on_experienc |

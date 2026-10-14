@@ -3,11 +3,11 @@ Team Name: The Bobs
 Roster: sloth, maldbob, emobob, goonbob, fartbob
 NARS Rank: 434 of 506
 
-Final Rating: 946.3
+Final Rating: 946.2
 Seeded Start: 1106.3
-H2H Adjustment: -160.0
+H2H Adjustment: -160.1
 
-Final Rating (946.3) = Seeded Start (1106.3) + H2H Adjustment (-160.0)
+Final Rating (946.2) = Seeded Start (1106.3) + H2H Adjustment (-160.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -31,7 +31,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.007 vs 0.175 average, gap -0.168). Matching that average is worth about 58.8 seed points.
 
-- Tier Exposure drivers: S57 NA Main Central - Regular Season (2026-05-21) 0.26
+- Tier Exposure drivers: S57 NA Main Central - Regular Season (2026-05-21) 0.25
 - Quality Wins drivers: beat NXG Esports at S57 NA Main Central - Regular Season (2026-04-27) 0.01; beat Asoka at S57 NA Main Central - Regular Season (2026-04-22) 0.01
 - Opponent Network drivers: beat NXG Esports at S57 NA Main Central - Regular Season (2026-04-27) 0.07; beat Asoka at S57 NA Main Central - Regular Season (2026-04-22) 0.03
 
@@ -39,25 +39,25 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.4 |
 | regain | 12 | 2256.1 | +658.6 |
 | Zomblers | 22 | 2114.7 | +658.6 |
-| FarmVille | 16 | 2167.5 | +656.8 |
+| FarmVille | 16 | 2167.6 | +656.8 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.9).
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs Asoka (2026-04-22): expires in 4 days [Quality Wins 0.01, Opponent Network 0.03]
 - S57 NA Main Central - Regular Season vs NXG Esports (2026-04-27): expires in 9 days [Quality Wins 0.01, Opponent Network 0.07]
-- S57 NA Main Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.26]
+- S57 NA Main Central - Regular Season (2026-05-21): expires in 33 days [Tier Exposure 0.25]
 
 #### Matches (8 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-21 | Resurgence | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -39.8 | TokiKeef, emobob, fartbob, kola, sloth |
+| 2026-05-21 | Resurgence | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -39.8 | TokiKeef, emobob, fartbob, kola, sloth |
 | 2026-05-20 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -0.9 | TokiKeef, emobob, fartbob, kola, neverhappi |
 | 2026-05-13 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -233.1 | TokiKeef, emobob, fartbob, kola, neverhappi |
 | 2026-05-06 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -107.5 | TokiKeef, emobob, fartbob, kola, sloth |

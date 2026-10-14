@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.058 | 1181.4 | - |
 | +30 days | 0.054 | 1176.1 | -5.3 |
 | +60 days | 0.053 | 1174.3 | -7.1 |
-| +90 days | 0.053 | 1174.1 | -7.3 |
+| +90 days | 0.053 | 1174.2 | -7.2 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.134 vs 0.290 average, gap -0.156). Matching that average is worth about 54.6 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +481.7 |
-| SportsBetExpert | 6 | 2672.3 | +481.2 |
-| LAG Gaming | 8 | 2507.3 | +474.2 |
-| regain | 12 | 2256.1 | +472.5 |
+| NRG | 4 | 2835.7 | +481.4 |
+| SportsBetExpert | 6 | 2671.6 | +480.9 |
+| LAG Gaming | 8 | 2507.4 | +474.3 |
+| regain | 12 | 2256.1 | +472.6 |
 | M80 | 2 | 3081.4 | +471.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
@@ -56,7 +56,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Team GREAT | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -32.6 | Feez-, Gabimaruu, c0da, cabo, ma1N |
+| 2026-10-09 | Team GREAT | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -32.5 | Feez-, Gabimaruu, c0da, cabo, ma1N |
 | 2026-10-07 | COGNITIVE | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | +606.5 | Feez-, Gabimaruu, c0da, cabo, ma1N |
 | 2026-08-26 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -20.6 | -itzFrosty, Feez-, Gabimaruu, c0da, ma1N |
 | 2026-08-21 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -0.4 | -itzFrosty, Feez-, Gabimaruu, c0da, ma1N |
@@ -67,7 +67,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -172.9 | -itzFrosty, Feez-, Gabimaruu, apik, ma1N |
 | 2026-07-17 | DeathMark E-Sports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -2.5 | Evil_Cheese, Gabimaruu, c0da, ma1N, seth |
 | 2026-07-15 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -0.1 | Gabimaruu, _EyeZ, ma1N, seth, wpn_Blur |
-| 2026-05-22 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +309.5 | Evil_Cheese, _Tweekz_, c0da, ma1N, wpn_Blur |
+| 2026-05-22 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +309.6 | Evil_Cheese, _Tweekz_, c0da, ma1N, wpn_Blur |
 | 2026-05-20 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -173.2 | Evil_Cheese, Gabimaruu, c0da, ma1N, rypeexd, wpn_Blur |
 | 2026-05-15 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -182.8 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
 | 2026-05-13 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -46.3 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
@@ -76,6 +76,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | NOVAIR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -424.9 | Feez-, _Tweekz_, c0da, ma1N, wpn_Blur |
 | 2026-04-29 | Akatsuki | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -128.1 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
 | 2026-04-23 | Real Hustle Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +377.8 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
-| 2026-04-22 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -32.2 | Feez-, _Tweekz_, c0da, ma1N, wpn_Blur |
+| 2026-04-22 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -32.3 | Feez-, _Tweekz_, c0da, ma1N, wpn_Blur |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.279 | 1490.5 | - |
 | +30 days | 0.250 | 1450.3 | -40.2 |
 | +60 days | 0.226 | 1416.1 | -74.4 |
-| +90 days | 0.179 | 1351.2 | -139.3 |
+| +90 days | 0.180 | 1351.6 | -138.8 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.140 vs 0.054 average, gap +0.086). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +531.1 |
-| SportsBetExpert | 6 | 2672.3 | +526.5 |
-| M80 | 2 | 3081.4 | +521.4 |
-| Wildcard | 3 | 2911.9 | +516.6 |
-| Liquid | 1 | 3103.3 | +514.1 |
+| NRG | 4 | 2835.7 | +531.1 |
+| SportsBetExpert | 6 | 2671.6 | +526.4 |
+| M80 | 2 | 3081.4 | +521.8 |
+| Wildcard | 3 | 2911.9 | +517.0 |
+| Liquid | 1 | 3103.3 | +514.5 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), After Peak (+0.0).
 
@@ -57,11 +57,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-12 | Bird Squishers | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.98 | 1.19 | 1.00 | 1.17 | 0.00 | 0.00 | -78.7 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-09-10 | DETONATE | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.97 | 1.33 | 1.00 | 1.30 | 0.00 | 0.00 | -1.3 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
-| 2026-09-06 | bubibabu | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.13 | 0.00 | 0.00 | -74.9 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
+| 2026-09-06 | bubibabu | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.12 | 0.00 | 0.00 | -74.9 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-09-03 | crescent | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.10 | 0.11 | 1.10 | +124.8 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
-| 2026-09-01 | Drip or Drown | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.91 | 1.33 | 1.00 | 1.21 | 0.00 | 0.00 | -220.8 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
+| 2026-09-01 | Drip or Drown | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.91 | 1.33 | 1.00 | 1.21 | 0.00 | 0.00 | -220.9 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-28 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -100.3 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
-| 2026-08-27 | Overtake Sector | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.28 | 1.28 | 1.28 | +97.2 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
+| 2026-08-27 | Overtake Sector | W |  | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.28 | 1.28 | 1.28 | +97.3 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-27 | North Forge | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.28 | 0.00 | 0.00 | -174.1 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-26 | Storm Surge | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.14 | 1.01 | +41.1 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-21 | Evil Reunion | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.10 | 0.97 | +183.9 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
@@ -69,19 +69,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-18 | Holly Molly | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 0.23 | 1.19 | +18.8 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-18 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -2.0 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-14 | MASTER ONE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.11 | 0.92 | +128.6 | -Burn, 1Mute, Hobo, SyKe---, Tr1ck |
-| 2026-08-13 | Tacos Tiramisu and Lies | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.00 | 0.00 | -124.7 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
+| 2026-08-13 | Tacos Tiramisu and Lies | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.00 | 0.00 | -124.8 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-12 | Nomadic Tactics | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.09 | 0.90 | +135.2 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
 | 2026-08-11 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.46 | 1.00 | 1.12 | 0.13 | 1.12 | +15.6 | -Burn, 1Mute, SyKe---, Tr1ck, lay_ |
-| 2026-07-31 | Florida Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.07 | 0.81 | +31.6 | -Burn, Hobo, SyKe---, Tr1ck, lay_ |
+| 2026-07-31 | Florida Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.07 | 0.81 | +31.7 | -Burn, Hobo, SyKe---, Tr1ck, lay_ |
 | 2026-07-29 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.03 | 0.79 | +98.9 | -Burn, Hobo, SyKe---, Tr1ck, lay_ |
-| 2026-07-24 | Over Your Head | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -90.0 | -Burn, Hobo, SyKe---, Tr1ck, lay_ |
+| 2026-07-24 | Over Your Head | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -90.1 | -Burn, Hobo, SyKe---, Tr1ck, lay_ |
 | 2026-07-22 | RejexEsports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.04 | 0.74 | +5.1 | -Burn, Hobo, SyKe---, Tr1ck, lay_ |
 | 2026-07-17 | HammerHeads | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.04 | 0.70 | +189.1 | Hobo, JuL-_-, SyKe---, Tr1ck, lay_ |
 | 2026-07-15 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -140.2 | -Burn, 1Mute, JuL-_-, SyKe---, lay_ |
 | 2026-05-22 | OnlyFans | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +156.6 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
-| 2026-05-20 | Sassy Sunshines | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -347.7 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
-| 2026-05-13 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +276.9 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
-| 2026-05-08 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +219.9 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
+| 2026-05-20 | Sassy Sunshines | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -347.8 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
+| 2026-05-13 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +277.0 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
+| 2026-05-08 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +220.0 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
 | 2026-05-06 | CNCS Last Hope | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -324.5 | 1Mute, SyKe---, Z-_-Z, haysz, lay_ |
 | 2026-05-01 | YHUBEPCAM | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -160.9 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |
 | 2026-04-24 | TheMotherLovers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +276.9 | 1Mute, Hobo, SyKe---, Z-_-Z, lay_ |

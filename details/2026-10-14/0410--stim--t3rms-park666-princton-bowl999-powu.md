@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.2 |
 | regain | 12 | 2256.1 | +657.0 |
-| LAG Gaming | 8 | 2507.3 | +655.9 |
+| LAG Gaming | 8 | 2507.4 | +655.9 |
 | Zomblers | 22 | 2114.7 | +655.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.7).
@@ -58,7 +58,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | Sodium | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.00 | 0.00 | -118.1 | Bowl999, H8R, T3RMS, park666, powu |
 | 2026-09-07 | Washed | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.04 | 1.05 | +230.7 | Bowl999, H8R, T3RMS, park666, powu |
 | 2026-09-04 | Gloobers | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -122.0 | Bowl999, Princton, T3RMS, park666, powu |
-| 2026-09-02 | Cause and Effect Gaming | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.13 | 1.01 | +232.8 | Bowl999, Princton, T3RMS, park666, powu |
+| 2026-09-02 | Cause and Effect Gaming | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.13 | 1.01 | +232.9 | Bowl999, Princton, T3RMS, park666, powu |
 | 2026-08-09 | STALLOONS BALLOONS | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -131.7 | Bowl999, T3RMS, park666, powu, yardy |
 | 2026-05-31 | Robert Gaming | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -237.6 | -virtue_, Princton, R3kt_U_M8, T3RMS, park666 |
 

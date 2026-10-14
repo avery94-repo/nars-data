@@ -4,14 +4,14 @@ Roster: deso1ation, -Ramen_, Rubley_, c0nsy, cubed
 NARS Rank: 197 of 506
 
 Final Rating: 1488.6
-Seeded Start: 1290.7
-H2H Adjustment: +197.9
+Seeded Start: 1290.6
+H2H Adjustment: +198.0
 
-Final Rating (1488.6) = Seeded Start (1290.7) + H2H Adjustment (+197.9)
+Final Rating (1488.6) = Seeded Start (1290.6) + H2H Adjustment (+198.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.136 x 1400 = 1290.7
+                = 1100 + 0.136 x 1400 = 1290.6
 
 seed_factor 0.136 = 0.25 x Tier Exposure (0.139) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.357)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.136 | 1290.7 | - |
+| Now | 0.136 | 1290.6 | - |
 | +30 days | 0.103 | 1244.7 | -45.9 |
-| +60 days | 0.087 | 1222.0 | -68.7 |
-| +90 days | 0.064 | 1189.1 | -101.5 |
+| +60 days | 0.087 | 1221.9 | -68.7 |
+| +90 days | 0.064 | 1189.2 | -101.5 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.357 vs 0.391 average, gap -0.034). Matching that average is worth about 11.9 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +651.0 |
-| SportsBetExpert | 6 | 2672.3 | +648.2 |
-| M80 | 2 | 3081.4 | +637.8 |
-| LAG Gaming | 8 | 2507.3 | +632.9 |
-| Wildcard | 3 | 2911.9 | +632.8 |
+| NRG | 4 | 2835.7 | +651.0 |
+| SportsBetExpert | 6 | 2671.6 | +648.1 |
+| M80 | 2 | 3081.4 | +638.2 |
+| LAG Gaming | 8 | 2507.4 | +633.4 |
+| Wildcard | 3 | 2911.9 | +633.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -71,16 +71,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Top One Percent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.04 | 0.81 | +131.2 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-07-29 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -49.6 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-07-24 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -18.6 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
-| 2026-06-03 | Automatic HQ | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -35.9 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
+| 2026-06-03 | Automatic HQ | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -36.0 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-05-27 | SquishysAngels | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -136.7 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-05-24 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.15 | 1.00 | 0.28 | 0.00 | 0.28 | +0.1 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
-| 2026-05-22 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +237.3 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
-| 2026-05-20 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +301.2 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
-| 2026-05-15 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.03 | 0.21 | +291.2 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
-| 2026-05-13 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -168.6 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
+| 2026-05-22 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +237.4 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
+| 2026-05-20 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +301.3 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
+| 2026-05-15 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.03 | 0.21 | +291.3 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
+| 2026-05-13 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -168.7 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-08 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -82.9 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-06 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -73.7 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
-| 2026-05-01 | Gregs New Cut | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -279.3 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
+| 2026-05-01 | Gregs New Cut | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -279.4 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-04-29 | Bills | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -145.4 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-04-22 | butt | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +228.6 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 

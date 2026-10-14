@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.175 | 1344.6 | - |
 | +30 days | 0.145 | 1303.2 | -41.4 |
 | +60 days | 0.125 | 1275.2 | -69.4 |
-| +90 days | 0.090 | 1226.5 | -118.1 |
+| +90 days | 0.090 | 1226.6 | -118.0 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.055 vs 0.041 average, gap +0.014). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +485.8 |
-| SportsBetExpert | 6 | 2672.3 | +478.9 |
-| M80 | 2 | 3081.4 | +478.3 |
-| Wildcard | 3 | 2911.9 | +473.0 |
-| Liquid | 1 | 3103.3 | +471.6 |
+| NRG | 4 | 2835.7 | +485.8 |
+| SportsBetExpert | 6 | 2671.6 | +478.8 |
+| M80 | 2 | 3081.4 | +478.7 |
+| Wildcard | 3 | 2911.9 | +473.4 |
+| Liquid | 1 | 3103.3 | +472.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), RejexEsports (+0.0).
 
@@ -68,7 +68,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -91.1 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-08-07 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.04 | 0.86 | +81.0 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-08-05 | YHUBEPCAM | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -34.7 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
-| 2026-07-31 | Crimson Vortex | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -186.6 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
+| 2026-07-31 | Crimson Vortex | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -186.7 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-07-30 | crescent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.16 | 1.00 | 0.80 | 0.08 | 0.00 | +103.2 | Bluebear, Manx, TaZ_--, Yin69yang, ke2ues |
 | 2026-07-29 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -162.7 | Bluebear, Manx, TaZ_--, Yin69yang, ke2ues |
 | 2026-07-22 | Exnitas | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.09 | 0.74 | +5.5 | Bluebear, Manx, TaZ_--, Yin69yang, ke2ues |
@@ -77,11 +77,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +285.2 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-05-20 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.06 | 0.25 | +116.3 | Bluebear, GodlyGodZ, Manx, Titans-_-, Yin69yang |
 | 2026-05-15 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -171.3 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
-| 2026-05-13 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -194.4 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
+| 2026-05-13 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -194.5 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-05-08 | grogu | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +74.9 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-05-06 | Bird Squishers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +9.2 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-05-01 | Fortis Fortuna Adiuvat | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -288.2 | Bluebear, GodlyGodZ, Manx, TaZ_--, Titans-_- |
-| 2026-04-29 | Salsas Mazzin Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +184.2 | Bluebear, GodlyGodZ, Manx, TaZ_--, Titans-_- |
+| 2026-04-29 | Salsas Mazzin Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +184.3 | Bluebear, GodlyGodZ, Manx, TaZ_--, Titans-_- |
 | 2026-04-21 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +202.3 | Bluebear, GodlyGodZ, Manx, TaZ_--, Titans-_- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

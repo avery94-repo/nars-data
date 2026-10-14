@@ -3,11 +3,11 @@ Team Name: Hadouken
 Roster: 1snkzinho_, cruzN, JStevenC, -Close, points
 NARS Rank: 100 of 506
 
-Final Rating: 1709.7
+Final Rating: 1709.8
 Seeded Start: 1159.2
-H2H Adjustment: +550.5
+H2H Adjustment: +550.6
 
-Final Rating (1709.7) = Seeded Start (1159.2) + H2H Adjustment (+550.5)
+Final Rating (1709.8) = Seeded Start (1159.2) + H2H Adjustment (+550.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,8 +39,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +658.6 |
-| SportsBetExpert | 6 | 2672.3 | +649.2 |
+| NRG | 4 | 2835.7 | +658.0 |
+| SportsBetExpert | 6 | 2671.6 | +648.5 |
 | M80 | 2 | 3081.4 | +648.4 |
 | Wildcard | 3 | 2911.9 | +641.2 |
 | Liquid | 1 | 3103.3 | +639.4 |
@@ -62,8 +62,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-04 | Fathom Gaming | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -173.4 | -Close, 1snkzinho_, JStevenC, cruzN, points |
-| 2026-06-02 | Team Amplus | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.06 | 0.38 | +155.5 | -Close, 1snkzinho_, JStevenC, cruzN, points |
+| 2026-06-04 | Fathom Gaming | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -173.5 | -Close, 1snkzinho_, JStevenC, cruzN, points |
+| 2026-06-02 | Team Amplus | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.06 | 0.38 | +155.6 | -Close, 1snkzinho_, JStevenC, cruzN, points |
 | 2026-05-31 | SquishysAngels | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.01 | 0.36 | +307.2 | -Close, 1snkzinho_, JStevenC, StAgE-_, points |
 | 2026-05-27 | 027fam | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -350.1 | -Close, 1snkzinho_, JStevenC, StAgE-_, points |
 | 2026-05-22 | DUI | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +34.9 | -Close, 1snkzinho_, JStevenC, cruzN, points |

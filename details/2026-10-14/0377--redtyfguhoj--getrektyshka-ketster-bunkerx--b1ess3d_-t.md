@@ -3,15 +3,15 @@ Team Name: redtyfguhoj
 Roster: getrektyshka, Ketster, bunkerX-, b1ess3d_, Tek
 NARS Rank: 377 of 506
 
-Final Rating: 1104.6
-Seeded Start: 1253.4
+Final Rating: 1104.5
+Seeded Start: 1253.3
 H2H Adjustment: -148.8
 
-Final Rating (1104.6) = Seeded Start (1253.4) + H2H Adjustment (-148.8)
+Final Rating (1104.5) = Seeded Start (1253.3) + H2H Adjustment (-148.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.110 x 1400 = 1253.4
+                = 1100 + 0.110 x 1400 = 1253.3
 
 seed_factor 0.110 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.315)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.110 | 1253.4 | - |
+| Now | 0.110 | 1253.3 | - |
 | +30 days | 0.093 | 1230.2 | -23.1 |
 | +60 days | 0.077 | 1208.2 | -45.2 |
-| +90 days | 0.054 | 1175.1 | -78.3 |
+| +90 days | 0.054 | 1175.1 | -78.2 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.315 vs 0.350 average, gap -0.035). Matching that average is worth about 12.2 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.0 |
-| SportsBetExpert | 6 | 2672.3 | +664.6 |
-| LAG Gaming | 8 | 2507.3 | +655.4 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.0 |
+| LAG Gaming | 8 | 2507.4 | +655.4 |
 | regain | 12 | 2256.1 | +655.2 |
 | Zomblers | 22 | 2114.7 | +651.4 |
 
@@ -64,10 +64,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.05 | 0.79 | +77.9 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 | 2026-08-12 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -123.9 | Ketster, Tek, bunkerX-, getrektyshka, sensh |
 | 2026-08-07 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +70.4 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
-| 2026-08-05 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.09 | 0.73 | +147.7 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
+| 2026-08-05 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.09 | 0.73 | +147.8 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 | 2026-07-31 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -131.7 | Tek, b1ess3d_, bunkerX-, getrektyshka, toshiiiro |
 | 2026-07-29 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -36.3 | Ketster, b1ess3d_, bunkerX-, getrektyshka, sensh |
-| 2026-07-24 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -131.7 | Ketster, bunkerX-, getrektyshka, sensh, toshiiiro |
+| 2026-07-24 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -131.8 | Ketster, bunkerX-, getrektyshka, sensh, toshiiiro |
 | 2026-07-22 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -198.7 | Ketster, b1ess3d_, bunkerX-, getrektyshka, sensh |
 | 2026-07-15 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.09 | 0.59 | +162.7 | Ketster, b1ess3d_, getrektyshka, sensh, toshiiiro |
 | 2026-06-01 | The Vicious Kitties | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.31 | 0.02 | 0.31 | +212.8 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |

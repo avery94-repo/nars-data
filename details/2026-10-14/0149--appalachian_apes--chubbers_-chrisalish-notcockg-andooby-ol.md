@@ -5,7 +5,7 @@ NARS Rank: 149 of 506
 
 Final Rating: 1577.9
 Seeded Start: 1212.9
-H2H Adjustment: +365.0 (capped at +-300, raw +364.9)
+H2H Adjustment: +365.0
 
 Final Rating (1577.9) = Seeded Start (1212.9) + H2H Adjustment (+365.0)
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +481.7 |
-| SportsBetExpert | 6 | 2672.3 | +479.0 |
-| M80 | 2 | 3081.4 | +472.2 |
-| Wildcard | 3 | 2911.9 | +468.3 |
-| LAG Gaming | 8 | 2507.3 | +466.3 |
+| NRG | 4 | 2835.7 | +481.7 |
+| SportsBetExpert | 6 | 2671.6 | +478.9 |
+| M80 | 2 | 3081.4 | +472.5 |
+| Wildcard | 3 | 2911.9 | +468.7 |
+| LAG Gaming | 8 | 2507.4 | +466.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 
@@ -53,7 +53,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-16 | Toomers | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -63.2 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
-| 2026-09-11 | club ghoul | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.03 | 0.98 | +96.9 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
+| 2026-09-11 | club ghoul | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.03 | 0.98 | +97.0 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
 | 2026-09-09 | Yum Yum Cigarettes | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +117.1 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
 | 2026-09-04 | 49th Parallel | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +168.8 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
 | 2026-09-02 | Icebreakers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +176.2 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |

@@ -3,17 +3,17 @@ Team Name: Schadenfreude
 Roster: HappE, Ancros, jss666, GrandpaDave, blake704
 NARS Rank: 447 of 506
 
-Final Rating: 909.5
+Final Rating: 909.4
 Seeded Start: 1232.3
-H2H Adjustment: -322.8
+H2H Adjustment: -322.9
 
-Final Rating (909.5) = Seeded Start (1232.3) + H2H Adjustment (-322.8)
+Final Rating (909.4) = Seeded Start (1232.3) + H2H Adjustment (-322.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.095 x 1400 = 1232.3
+                = 1100 + 0.094 x 1400 = 1232.3
 
-seed_factor 0.095 = 0.25 x Tier Exposure (0.050) + 0.50 x Quality Wins (0.019) + 0.25 x Opponent Network (0.291)
+seed_factor 0.094 = 0.25 x Tier Exposure (0.050) + 0.50 x Quality Wins (0.019) + 0.25 x Opponent Network (0.291)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,12 +24,12 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.095 | 1232.3 | - |
+| Now | 0.094 | 1232.3 | - |
 | +30 days | 0.072 | 1200.6 | -31.7 |
 | +60 days | 0.061 | 1184.7 | -47.6 |
 | +90 days | 0.041 | 1157.8 | -74.5 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.050 vs 0.065 average, gap -0.015). Matching that average is worth about 5.3 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.050 vs 0.066 average, gap -0.016). Matching that average is worth about 5.6 seed points.
 
 - Tier Exposure drivers: S58 NA Main A - Regular Season (2026-08-28) 0.90; S57 NA Intermediate Central - Playoffs A (2026-05-31) 0.30; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
 - Quality Wins drivers: beat Wiggle Peeks at S58 NA Main A - Regular Season (2026-08-21) 0.09; beat After Peak at S58 NA Main A - Regular Season (2026-08-05) 0.06; beat THE GUILD at S58 NA Main A - Regular Season (2026-08-12) 0.06
@@ -39,8 +39,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.5 |
 | Zomblers | 22 | 2114.7 | +659.5 |
 | regain | 12 | 2256.1 | +659.1 |
 | North Forge | 38 | 1971.1 | +658.2 |
@@ -59,7 +59,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-28 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -67.3 | Ancros, GrandpaDave, HappE, blake704, jss666 |
+| 2026-08-28 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -67.4 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-08-26 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -82.1 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-08-21 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.09 | 0.85 | +109.2 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-08-19 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -110.4 | Ancros, GrandpaDave, HappE, blake704, jss666 |
@@ -71,17 +71,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.03 | 0.70 | +4.1 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-07-24 | Tractors | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -26.6 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-07-22 | Sleepers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -283.0 | Ancros, GrandpaDave, HappE, blake704, jss666 |
-| 2026-07-17 | Quality | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -15.3 | Ancros, GrandpaDave, HappE, blake704, jss666 |
+| 2026-07-17 | Quality | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -15.3 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-07-15 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -0.7 | Ancros, GrandpaDave, HappE, blake704, jss666 |
-| 2026-05-31 | Emerald Isle | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.00 | 0.00 | -76.0 | Ancros, Doinks_s, GrandpaDave, RanglerGuy, blake704, jss666 |
-| 2026-05-27 | Square1 | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -279.1 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
+| 2026-05-31 | Emerald Isle | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.00 | 0.00 | -75.9 | Ancros, Doinks_s, GrandpaDave, RanglerGuy, blake704, jss666 |
+| 2026-05-27 | Square1 | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -279.2 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-05-22 | Friendly Fire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -116.1 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
-| 2026-05-20 | Wide Swinging Wizards | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.22 | +323.1 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
-| 2026-05-15 | RejexEsports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +369.5 | Ancros, GrandpaDave, HappE, blake704, jss666 |
+| 2026-05-20 | Wide Swinging Wizards | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.22 | +323.2 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
+| 2026-05-15 | RejexEsports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +369.6 | Ancros, GrandpaDave, HappE, blake704, jss666 |
 | 2026-05-13 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -0.3 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-05-08 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -309.7 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-05-06 | Brick Layers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +77.4 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
-| 2026-04-29 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -392.7 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
+| 2026-04-29 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -392.8 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-04-24 | HammerHeads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +192.6 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 | 2026-04-22 | STFDYSAB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +297.1 | Ancros, Doinks_s, GrandpaDave, HappE, blake704 |
 

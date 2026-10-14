@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.204 | 1385.5 | - |
-| +30 days | 0.189 | 1364.0 | -21.6 |
+| +30 days | 0.189 | 1363.9 | -21.6 |
 | +60 days | 0.175 | 1344.9 | -40.6 |
-| +90 days | 0.153 | 1314.0 | -71.6 |
+| +90 days | 0.153 | 1314.1 | -71.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.031 average, gap +0.029). Matching that average is worth about 0.0 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +207.6 |
-| SportsBetExpert | 6 | 2672.3 | +207.4 |
-| LAG Gaming | 8 | 2507.3 | +204.2 |
+| NRG | 4 | 2835.7 | +207.5 |
+| SportsBetExpert | 6 | 2671.6 | +207.3 |
+| LAG Gaming | 8 | 2507.4 | +204.2 |
 | M80 | 2 | 3081.4 | +203.1 |
 | regain | 12 | 2256.1 | +202.8 |
 
@@ -60,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Binky | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -231.1 | -Anarchyz, Acheron, LordOPies, Zazz_, twinkinator |
 | 2026-09-10 | GeneticDiff | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.03 | 1.00 | 1.00 | 0.00 | 0.00 | -36.9 | -Anarchyz, LordOPies, rise, sascha, twinkinator |
 | 2026-09-08 | Bird Lickers | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.07 | 0.99 | +37.1 | -Anarchyz, LordOPies, rise, sascha, twinkinator |
-| 2026-09-06 | ThirdSite | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.23 | 0.98 | +59.5 | -Anarchyz, LordOPies, rise, sascha, twinkinator |
+| 2026-09-06 | ThirdSite | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.23 | 0.98 | +59.6 | -Anarchyz, LordOPies, rise, sascha, twinkinator |
 | 2026-09-04 | SquadUp | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.00 | 0.00 | -88.4 | -Anarchyz, LordOPies, rise, sascha, twinkinator |
 | 2026-09-02 | Distinguished Ducks | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.03 | 1.00 | 0.95 | 0.08 | 0.95 | +6.4 | -Anarchyz, LordOPies, rise, sascha, twinkinator |
 | 2026-08-28 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.00 | 0.00 | -57.3 | -Anarchyz, AGN, LordOPies, rise, twinkinator |
@@ -69,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.09 | 0.84 | +31.4 | AGN, LordOPies, rise, sascha, twinkinator |
 | 2026-08-14 | Read You Like a Kindle | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.09 | 0.81 | +53.2 | -Anarchyz, LordOPies, rise, sascha, twinkinator |
 | 2026-08-12 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -84.4 | -Anarchyz, LordOPies, rise, sascha, twinkinator |
-| 2026-08-07 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -167.9 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
+| 2026-08-07 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -168.0 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-08-05 | enigma | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.11 | 0.74 | +9.3 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-31 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -13.1 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-24 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.08 | 0.66 | +22.1 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
@@ -77,16 +77,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.03 | 0.61 | +0.1 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-15 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.02 | 0.60 | +91.6 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-06-02 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -135.9 | -Anarchyz, AGN, LordOPies, rise, sascha |
-| 2026-05-31 | DKR Esports | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.04 | 0.36 | +159.5 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-05-31 | DKR Esports | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.04 | 0.36 | +159.6 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-27 | Tall Ocean Rats | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -208.4 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-05-22 | FRAGDEMONS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +230.0 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-05-20 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -191.2 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-05-15 | Tall Ocean Rats | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +333.2 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-05-22 | FRAGDEMONS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +230.1 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-05-20 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -191.3 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-05-15 | Tall Ocean Rats | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +333.3 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-15 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -145.6 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-08 | DUI | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +440.7 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-06 | DKR Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -327.2 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-05-01 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -0.1 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
-| 2026-04-30 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -183.6 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
+| 2026-04-30 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -183.7 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-04-29 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +299.3 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 | 2026-04-28 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.15 | 1.00 | 0.08 | 0.00 | 0.00 | -89.6 | -Anarchyz, AGN, JMZ, LordOPies, sascha |
 

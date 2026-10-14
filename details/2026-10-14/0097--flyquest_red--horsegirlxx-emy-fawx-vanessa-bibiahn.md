@@ -4,14 +4,14 @@ Roster: horsegirlxx, emy, Fawx, vanessa, bibiahn
 NARS Rank: 97 of 506
 
 Final Rating: 1720.7
-Seeded Start: 1590.6
-H2H Adjustment: +130.1
+Seeded Start: 1590.5
+H2H Adjustment: +130.2
 
-Final Rating (1720.7) = Seeded Start (1590.6) + H2H Adjustment (+130.1)
+Final Rating (1720.7) = Seeded Start (1590.5) + H2H Adjustment (+130.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.350 x 1400 = 1590.6
+                = 1100 + 0.350 x 1400 = 1590.5
 
 seed_factor 0.350 = 0.25 x Tier Exposure (0.437) + 0.50 x Quality Wins (0.177) + 0.25 x Opponent Network (0.611)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.350 | 1590.6 | - |
+| Now | 0.350 | 1590.5 | - |
 | +30 days | 0.304 | 1525.3 | -65.3 |
 | +60 days | 0.278 | 1488.8 | -101.8 |
-| +90 days | 0.242 | 1438.7 | -151.8 |
+| +90 days | 0.242 | 1439.3 | -151.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.177 vs 0.103 average, gap +0.074). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +193.1 |
-| SportsBetExpert | 6 | 2672.3 | +191.7 |
-| M80 | 2 | 3081.4 | +189.4 |
-| Wildcard | 3 | 2911.9 | +187.7 |
-| Liquid | 1 | 3103.3 | +186.7 |
+| NRG | 4 | 2835.7 | +193.0 |
+| SportsBetExpert | 6 | 2671.6 | +191.7 |
+| M80 | 2 | 3081.4 | +189.5 |
+| Wildcard | 3 | 2911.9 | +187.8 |
+| Liquid | 1 | 3103.3 | +186.8 |
 
 Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
 
@@ -82,9 +82,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.00 | 0.00 | -0.5 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-07-22 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -3.4 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-07-21 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.63 | 1.45 | 1.00 | 0.91 | 0.10 | 0.91 | +17.8 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
-| 2026-06-09 | Axial | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.00 | 0.00 | -195.3 | Fawx, Shakezullah, bibiahn, emy, horsegirlxx, vanessa |
+| 2026-06-09 | Axial | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.00 | 0.00 | -195.4 | Fawx, Shakezullah, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-06-04 | Wanted Goons | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.00 | 0.00 | -130.6 | Fawx, Shakezullah, bibiahn, emy, vanessa |
-| 2026-06-02 | Elisir Esports | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.01 | 0.45 | +30.9 | Fawx, Shakezullah, bibiahn, emy, vanessa |
+| 2026-06-02 | Elisir Esports | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.01 | 0.45 | +30.8 | Fawx, Shakezullah, bibiahn, emy, vanessa |
 | 2026-05-21 | NZ Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.03 | 0.30 | +1.1 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-05-18 | Demolition | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.04 | 0.28 | +230.7 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-05-14 | KODEX ESPORTS | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.05 | 0.24 | +1.3 | Fawx, Shakezullah, bibiahn, emy, vanessa |
@@ -93,7 +93,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-07 | Holy Squid Empire | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -347.2 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-05-06 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.15 | 0.16 | +28.6 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-05-01 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.00 | -118.4 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
-| 2026-04-23 | Axial | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.03 | 0.05 | +279.5 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
+| 2026-04-23 | Axial | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.03 | 0.05 | +279.6 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-04-22 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.35 | 1.00 | 0.04 | 0.00 | 0.00 | -13.0 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-04-21 | Team Hyper | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.35 | 1.00 | 0.03 | 0.00 | 0.03 | +22.9 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 

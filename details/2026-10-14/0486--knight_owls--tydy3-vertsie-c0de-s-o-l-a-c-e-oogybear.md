@@ -3,11 +3,11 @@ Team Name: Knight Owls
 Roster: tydy3, vertsie, c0de, S-O-L-A-C-E, OogybeAr
 NARS Rank: 486 of 506
 
-Final Rating: 693.6
+Final Rating: 693.5
 Seeded Start: 1162.6
-H2H Adjustment: -469.0
+H2H Adjustment: -469.1
 
-Final Rating (693.6) = Seeded Start (1162.6) + H2H Adjustment (-469.0)
+Final Rating (693.5) = Seeded Start (1162.6) + H2H Adjustment (-469.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.045 | 1162.6 | - |
 | +30 days | 0.036 | 1150.5 | -12.1 |
 | +60 days | 0.033 | 1146.4 | -16.2 |
-| +90 days | 0.028 | 1139.4 | -23.2 |
+| +90 days | 0.028 | 1139.4 | -23.1 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.125 vs 0.137 average, gap -0.012). Matching that average is worth about 4.2 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.3 |
-| SportsBetExpert | 6 | 2672.3 | +665.2 |
-| North Forge | 38 | 1971.1 | +664.7 |
+| NRG | 4 | 2835.7 | +664.7 |
+| North Forge | 38 | 1971.1 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.6 |
 | Wanted Goons | 43 | 1933.1 | +663.9 |
 | Zomblers | 22 | 2114.7 | +662.6 |
 
@@ -70,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -9.7 | OogybeAr, S-O-L-A-C-E, c0de, tydy3, vertsie |
 | 2026-05-06 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -285.0 | OogybeAr, S-O-L-A-C-E, cohen, tydy3, vertsie |
 | 2026-05-01 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -19.9 | S-O-L-A-C-E, c0de, cohen, tydy3, vertsie |
-| 2026-04-29 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -320.7 | OogybeAr, S-O-L-A-C-E, c0de, tydy3, vertsie |
+| 2026-04-29 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -320.8 | OogybeAr, S-O-L-A-C-E, c0de, tydy3, vertsie |
 | 2026-04-22 | MakeYouSayLate | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +299.3 | OogybeAr, S-O-L-A-C-E, c0de, tydy3, vertsie |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

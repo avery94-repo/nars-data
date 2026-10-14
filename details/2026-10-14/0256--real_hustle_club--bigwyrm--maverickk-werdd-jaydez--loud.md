@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.124 | 1273.2 | - |
 | +30 days | 0.092 | 1228.7 | -44.5 |
 | +60 days | 0.068 | 1194.7 | -78.5 |
-| +90 days | 0.039 | 1154.5 | -118.8 |
+| +90 days | 0.039 | 1154.5 | -118.7 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.028 vs 0.028 average, gap +0.000). Matching that average is worth about 0.0 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.2 |
-| SportsBetExpert | 6 | 2672.3 | +662.6 |
-| LAG Gaming | 8 | 2507.3 | +650.3 |
-| M80 | 2 | 3081.4 | +650.1 |
+| NRG | 4 | 2835.7 | +663.6 |
+| SportsBetExpert | 6 | 2671.6 | +662.0 |
+| LAG Gaming | 8 | 2507.4 | +650.3 |
+| M80 | 2 | 3081.4 | +650.0 |
 | Wildcard | 3 | 2911.9 | +645.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
@@ -69,11 +69,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -212.3 | -Maverickk, BIGwyrm, CloudCS, jaydez, werdd |
 | 2026-08-07 | Wide Swinging Wizards | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.04 | 0.76 | +3.6 | -Maverickk, BIGwyrm, CloudCS, jaydez, mezcs_ |
 | 2026-08-05 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.04 | 0.74 | +51.1 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
-| 2026-07-31 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -118.5 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
+| 2026-07-31 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -118.6 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-07-29 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -163.5 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-07-24 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.05 | 0.66 | +141.2 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-07-17 | The Homies | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.08 | 0.61 | +1.8 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
-| 2026-07-16 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.07 | 0.61 | +2.7 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
+| 2026-07-16 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.07 | 0.61 | +2.6 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-06-06 | TenToesDown | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.33 | 1.03 | 1.00 | 0.34 | 0.00 | 0.00 | -179.3 | -LOUD, -Maverickk, BIGwyrm, jaydez, moos |
 | 2026-06-04 | Kinetic | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.03 | 1.00 | 0.33 | 0.04 | 0.33 | +134.6 | -LOUD, -Maverickk, BIGwyrm, jaydez, moos |
 | 2026-06-02 | Les Ptis Jus | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.03 | 0.31 | +1.3 | -LOUD, -Maverickk, BIGwyrm, jaydez, moos |
@@ -86,7 +86,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-06 | CounterStreakrs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +328.2 | -LOUD, -Maverickk, JLE, h3l, jaydez |
 | 2026-05-01 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -279.3 | -LOUD, -Maverickk, BIGwyrm, Bearsboys, jaydez |
 | 2026-04-29 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +258.2 | -LOUD, -Maverickk, BIGwyrm, JLE, jaydez |
-| 2026-04-23 | innerFire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -377.1 | -LOUD, -Maverickk, BIGwyrm, jaydez, werdd |
-| 2026-04-22 | strawberry poptarts | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +252.9 | -LOUD, -Maverickk, BIGwyrm, JLE, jaydez |
+| 2026-04-23 | innerFire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -377.2 | -LOUD, -Maverickk, BIGwyrm, jaydez, werdd |
+| 2026-04-22 | strawberry poptarts | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +253.0 | -LOUD, -Maverickk, BIGwyrm, JLE, jaydez |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

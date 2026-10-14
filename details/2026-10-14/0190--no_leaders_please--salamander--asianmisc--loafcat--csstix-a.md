@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.173 | 1342.2 | - |
 | +30 days | 0.155 | 1317.3 | -24.9 |
 | +60 days | 0.140 | 1295.9 | -46.3 |
-| +90 days | 0.112 | 1256.3 | -86.0 |
+| +90 days | 0.112 | 1256.4 | -85.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.049 vs 0.016 average, gap +0.033). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +278.8 |
-| SportsBetExpert | 6 | 2672.3 | +278.1 |
+| NRG | 4 | 2835.7 | +278.6 |
+| SportsBetExpert | 6 | 2671.6 | +277.9 |
 | M80 | 2 | 3081.4 | +272.9 |
-| LAG Gaming | 8 | 2507.3 | +272.8 |
-| Wildcard | 3 | 2911.9 | +270.9 |
+| LAG Gaming | 8 | 2507.4 | +272.8 |
+| Wildcard | 3 | 2911.9 | +271.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -69,16 +69,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Hack-A-Shaq | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -194.2 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-08-05 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.08 | 0.74 | +119.3 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-07-31 | TEMPR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -146.5 | -LoafCat-, Battitz, Salamander-, asianmisc, auti_ |
-| 2026-07-29 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.18 | 0.70 | +135.6 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
+| 2026-07-29 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.18 | 0.70 | +135.7 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-07-24 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.05 | 0.66 | +116.2 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
-| 2026-07-17 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -14.8 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
+| 2026-07-17 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -14.8 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-07-15 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.05 | 0.60 | +29.1 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-05-22 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -15.4 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-05-20 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -228.6 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-05-15 | BucketJonsBoys | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.05 | 0.00 | +253.2 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
-| 2026-05-13 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +336.1 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
+| 2026-05-13 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +336.2 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-05-08 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -295.4 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
-| 2026-05-06 | ASYCS KITTENS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +306.5 | -LoafCat-, CSStix, S4msonite, Salamander-, asianmisc |
+| 2026-05-06 | ASYCS KITTENS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +306.6 | -LoafCat-, CSStix, S4msonite, Salamander-, asianmisc |
 | 2026-05-01 | Locally Hated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -0.6 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-04-29 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -18.4 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-04-24 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -161.7 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |

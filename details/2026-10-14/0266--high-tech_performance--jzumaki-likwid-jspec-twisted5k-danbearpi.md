@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +500.7 |
-| SportsBetExpert | 6 | 2672.3 | +499.8 |
-| LAG Gaming | 8 | 2507.3 | +491.4 |
-| M80 | 2 | 3081.4 | +489.9 |
-| Wildcard | 3 | 2911.9 | +486.5 |
+| NRG | 4 | 2835.7 | +500.7 |
+| SportsBetExpert | 6 | 2671.6 | +499.8 |
+| LAG Gaming | 8 | 2507.4 | +491.7 |
+| M80 | 2 | 3081.4 | +490.3 |
+| Wildcard | 3 | 2911.9 | +486.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -62,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | JPG | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -16.3 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-09-06 | UltimateDarklordWizardz | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -18.0 | danbearpig, jspec, jzumaki, likwid, sw1rve |
 | 2026-09-04 | Anchors Anonymous | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +103.3 | danbearpig, jspec, jzumaki, likwid, sw1rve |
-| 2026-09-02 | Midwest Farmers | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.11 | 0.92 | +105.0 | danbearpig, jspec, jzumaki, likwid, sw1rve |
+| 2026-09-02 | Midwest Farmers | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.11 | 0.92 | +105.1 | danbearpig, jspec, jzumaki, likwid, sw1rve |
 | 2026-08-28 | DeathMark E-Sports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -65.2 | danbearpig, jspec, jzumaki, likwid, sw1rve |
 | 2026-08-26 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -112.2 | Twisted5k, danbearpig, jzumaki, likwid, sw1rve |
 | 2026-08-21 | The Ohio Meat Wagon | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +70.6 | danbearpig, jspec, jzumaki, likwid, sw1rve |
@@ -73,19 +73,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +207.8 | Twisted5k, danbearpig, jzumaki, likwid, prophet03 |
 | 2026-07-29 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.03 | 0.68 | +2.9 | 1v5, danbearpig, jzumaki, likwid, prophet03 |
 | 2026-07-24 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.07 | 0.65 | +258.6 | Twisted5k, jspec, jzumaki, likwid, sw1rve |
-| 2026-07-22 | VeryBigDoogoos | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -30.4 | danbearpig, jspec, jzumaki, likwid, sw1rve |
+| 2026-07-22 | VeryBigDoogoos | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -30.3 | danbearpig, jspec, jzumaki, likwid, sw1rve |
 | 2026-07-17 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -263.1 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
-| 2026-07-15 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +303.8 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
-| 2026-05-31 | FLying PiGs | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -173.3 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
-| 2026-05-29 | SwagMonkeyHats | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -167.5 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
+| 2026-07-15 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +303.9 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
+| 2026-05-31 | FLying PiGs | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -173.4 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
+| 2026-05-29 | SwagMonkeyHats | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -167.6 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-27 | Muncle | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +198.6 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-22 | Top One Percent | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -13.3 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-20 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -3.5 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-15 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -200.1 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
-| 2026-05-08 | AURA Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +164.7 | bpbt, danbearpig, jspec, jzumaki, sw1rve |
+| 2026-05-08 | AURA Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +164.8 | bpbt, danbearpig, jspec, jzumaki, sw1rve |
 | 2026-05-06 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +193.6 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-01 | Midwest Farmers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -4.1 | JackY_b, danbearpig, jspec, jzumaki, likwid |
-| 2026-04-29 | Duality Zero | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -21.8 | JackY_b, Twisted5k, danbearpig, jspec, jzumaki |
-| 2026-04-24 | STFDYSAB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -322.7 | JackY_b, danbearpig, jspec, jzumaki, likwid |
+| 2026-04-29 | Duality Zero | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -21.7 | JackY_b, Twisted5k, danbearpig, jspec, jzumaki |
+| 2026-04-24 | STFDYSAB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -322.8 | JackY_b, danbearpig, jspec, jzumaki, likwid |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

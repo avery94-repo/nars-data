@@ -3,11 +3,11 @@ Team Name: Swole Patrol
 Roster: JASONR, fenom, Pol0, freakazoid, Cooper
 NARS Rank: 45 of 506
 
-Final Rating: 1914.2
+Final Rating: 1914.3
 Seeded Start: 1417.3
-H2H Adjustment: +496.9
+H2H Adjustment: +497.0
 
-Final Rating (1914.2) = Seeded Start (1417.3) + H2H Adjustment (+496.9)
+Final Rating (1914.3) = Seeded Start (1417.3) + H2H Adjustment (+497.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,11 +25,11 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.227 | 1417.3 | - |
-| +30 days | 0.223 | 1411.7 | -5.7 |
+| +30 days | 0.223 | 1411.7 | -5.6 |
 | +60 days | 0.217 | 1403.5 | -13.8 |
-| +90 days | 0.207 | 1389.3 | -28.0 |
+| +90 days | 0.207 | 1389.6 | -27.7 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.108 vs 0.295 average, gap -0.187). Matching that average is worth about 65.5 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.108 vs 0.295 average, gap -0.187). Matching that average is worth about 65.4 seed points.
 
 - Tier Exposure drivers: NSTLGA League | Sapphire Conference (2026-08-29) 1.07; S58 NA Open9-10 East - Playoffs C (2026-09-20) 1.02; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 - Quality Wins drivers: beat Fathom Gaming at NSTLGA League | Sapphire Conference (2026-08-27) 0.38; beat SquadUp at NSTLGA League | Sapphire Conference (2026-08-20) 0.20; beat Firstwave at NSTLGA League | Sapphire Conference (2026-08-13) 0.14
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +632.6 |
-| M80 | 2 | 3081.4 | +631.5 |
-| Liquid | 1 | 3103.3 | +622.9 |
-| Wildcard | 3 | 2911.9 | +619.2 |
-| SportsBetExpert | 6 | 2672.3 | +607.2 |
+| NRG | 4 | 2835.7 | +632.0 |
+| M80 | 2 | 3081.4 | +631.6 |
+| Liquid | 1 | 3103.3 | +623.0 |
+| Wildcard | 3 | 2911.9 | +619.3 |
+| SportsBetExpert | 6 | 2671.6 | +606.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): SuperSoakerClub (+0.0), we get it back (+0.0), RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0).
 
@@ -63,7 +63,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-29 | Knox Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.20 | 1.00 | 1.07 | 0.07 | 1.07 | +0.5 | JASONR, Pol0, ayjin, d06b03e4, fenom |
 | 2026-08-27 | Fathom Gaming | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.38 | 1.05 | +173.3 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-08-24 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.86 | 1.20 | 1.00 | 1.03 | 0.00 | 0.00 | -7.5 | JASONR, Pol0, ayjin, fenom, freakazoid |
-| 2026-08-20 | SquadUp | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.20 | 0.99 | +163.4 | JASONR, Pol0, ayjin, fenom, freakazoid |
+| 2026-08-20 | SquadUp | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.20 | 0.99 | +163.5 | JASONR, Pol0, ayjin, fenom, freakazoid |
 | 2026-08-17 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.20 | 1.00 | 0.97 | 0.00 | 0.00 | -57.3 | Cooper, JASONR, Pol0, fenom, freakazoid |
 | 2026-08-13 | Firstwave | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.14 | 0.94 | +121.5 | Cooper, JASONR, Pol0, fenom, freakazoid |
 

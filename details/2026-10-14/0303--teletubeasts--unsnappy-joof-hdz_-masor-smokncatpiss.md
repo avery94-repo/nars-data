@@ -4,14 +4,14 @@ Roster: unsnappy, joof, hdz_, MASOR, smokncatpiss
 NARS Rank: 303 of 506
 
 Final Rating: 1263.2
-Seeded Start: 1195.5
-H2H Adjustment: +67.7
+Seeded Start: 1195.4
+H2H Adjustment: +67.8
 
-Final Rating (1263.2) = Seeded Start (1195.5) + H2H Adjustment (+67.7)
+Final Rating (1263.2) = Seeded Start (1195.4) + H2H Adjustment (+67.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.068 x 1400 = 1195.5
+                = 1100 + 0.068 x 1400 = 1195.4
 
 seed_factor 0.068 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.009) + 0.25 x Opponent Network (0.186)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.068 | 1195.5 | - |
+| Now | 0.068 | 1195.4 | - |
 | +30 days | 0.067 | 1193.7 | -1.8 |
 | +60 days | 0.066 | 1192.8 | -2.6 |
-| +90 days | 0.065 | 1191.7 | -3.8 |
+| +90 days | 0.066 | 1191.7 | -3.7 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.186 vs 0.296 average, gap -0.110). Matching that average is worth about 38.5 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +242.5 |
-| SportsBetExpert | 6 | 2672.3 | +242.3 |
-| LAG Gaming | 8 | 2507.3 | +238.9 |
-| regain | 12 | 2256.1 | +238.5 |
-| M80 | 2 | 3081.4 | +237.1 |
+| NRG | 4 | 2835.7 | +242.4 |
+| SportsBetExpert | 6 | 2671.6 | +242.2 |
+| LAG Gaming | 8 | 2507.4 | +239.0 |
+| regain | 12 | 2256.1 | +238.6 |
+| M80 | 2 | 3081.4 | +237.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 

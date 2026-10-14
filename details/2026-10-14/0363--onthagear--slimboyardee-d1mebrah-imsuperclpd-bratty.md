@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +313.2 |
-| SportsBetExpert | 6 | 2672.3 | +313.1 |
-| regain | 12 | 2256.1 | +309.3 |
-| LAG Gaming | 8 | 2507.3 | +308.9 |
-| Zomblers | 22 | 2114.7 | +308.3 |
+| NRG | 4 | 2835.7 | +313.0 |
+| SportsBetExpert | 6 | 2671.6 | +312.9 |
+| regain | 12 | 2256.1 | +309.4 |
+| LAG Gaming | 8 | 2507.4 | +308.9 |
+| Zomblers | 22 | 2114.7 | +308.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+0.9).
 
@@ -56,6 +56,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | ASCEND | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -149.6 | -Muck, Bratty, d1mebrah, esjay, slimboyardee |
 | 2026-09-08 | Stubbys | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.05 | 0.98 | +135.0 | Bratty, d1mebrah, esjay, imsuperclpd, slimboyardee |
 | 2026-09-06 | Align Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.03 | 0.96 | +141.9 | Bratty, d1mebrah, esjay, imsuperclpd, slimboyardee |
-| 2026-09-02 | Team Nyx | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.00 | 0.00 | -150.9 | Bratty, d1mebrah, esjay, imsuperclpd, slimboyardee |
+| 2026-09-02 | Team Nyx | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.00 | 0.00 | -151.0 | Bratty, d1mebrah, esjay, imsuperclpd, slimboyardee |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

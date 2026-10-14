@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.040 | 1156.4 | -14.2 |
 | +90 days | 0.036 | 1151.0 | -19.7 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.094 vs 0.185 average, gap -0.091). Matching that average is worth about 31.9 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.094 vs 0.185 average, gap -0.091). Matching that average is worth about 31.8 seed points.
 
 - Tier Exposure drivers: S59 NA Advanced Central - Regular Season (2026-10-07) 1.43; S58 NA Advanced Central - Regular Season (2026-08-25) 1.25; S57 NA Advanced Central - Regular Season (2026-05-08) 0.18
 - Quality Wins drivers: beat Room Temp IQs at S58 NA Advanced Central - Regular Season (2026-08-12) 0.06; beat Solar Gravity at S57 NA Advanced Central - Regular Season (2026-05-01) 0.01; beat girl kissers at S57 NA Advanced Central - Regular Season (2026-05-08) 0.00
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +130.4 |
-| SportsBetExpert | 6 | 2672.3 | +130.4 |
-| Zomblers | 22 | 2114.7 | +129.5 |
-| North Forge | 38 | 1971.1 | +129.5 |
-| regain | 12 | 2256.1 | +129.3 |
+| NRG | 4 | 2835.7 | +130.4 |
+| SportsBetExpert | 6 | 2671.6 | +130.3 |
+| Zomblers | 22 | 2114.7 | +129.6 |
+| North Forge | 38 | 1971.1 | +129.6 |
+| regain | 12 | 2256.1 | +129.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.5), Courage (+0.7), SixSevenZaZa (+1.1).
 
@@ -60,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Diggers | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 0.00 | 0.00 | -1.2 | Mustang_TV, bgmx, hipposaver, intox_, warBlood-x- |
 | 2026-08-25 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 0.00 | 0.00 | -0.1 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
 | 2026-08-14 | Addice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.00 | 0.00 | -57.5 | Mustang_TV, hipposaver, intox_, jblumz, xpEEzY |
-| 2026-08-12 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.06 | 1.13 | +198.1 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
+| 2026-08-12 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.06 | 1.13 | +198.2 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
 | 2026-08-07 | SOLA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.00 | 0.00 | -33.0 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
 | 2026-08-05 | New Legends | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -138.0 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
 | 2026-07-29 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -4.6 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
@@ -69,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Playing for fun | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -0.1 | Mustang_TV, Trento, bgmx, hipposaver, warBlood-x- |
 | 2026-05-08 | girl kissers | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.18 | +143.8 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
 | 2026-05-05 | Demolition | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -227.9 | JohnnyWadd, Mustang_TV, bgmx, jblumz, warBlood-x- |
-| 2026-05-01 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.01 | 0.12 | +237.1 | Mustang_TV, bgmx, jblumz, warBlood-x-, waterfallez |
+| 2026-05-01 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.01 | 0.12 | +237.2 | Mustang_TV, bgmx, jblumz, warBlood-x-, waterfallez |
 | 2026-04-29 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.10 | 0.00 | 0.00 | -2.6 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
 | 2026-04-23 | House Platypus ESC | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -217.0 | Mustang_TV, bgmx, hipposaver, jblumz, waterfallez |
 | 2026-04-21 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.35 | 1.00 | 0.03 | 0.00 | 0.00 | -22.9 | bgmx, hipposaver, jblumz, warBlood-x-, waterfallez |

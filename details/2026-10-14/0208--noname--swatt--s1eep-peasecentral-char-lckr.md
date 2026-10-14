@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.187 | 1361.5 | - |
 | +30 days | 0.170 | 1337.6 | -23.8 |
 | +60 days | 0.152 | 1312.3 | -49.2 |
-| +90 days | 0.118 | 1265.7 | -95.7 |
+| +90 days | 0.118 | 1265.9 | -95.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.059 vs 0.042 average, gap +0.017). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +348.2 |
-| SportsBetExpert | 6 | 2672.3 | +347.3 |
+| NRG | 4 | 2835.7 | +347.9 |
+| SportsBetExpert | 6 | 2671.6 | +347.1 |
 | M80 | 2 | 3081.4 | +340.8 |
-| LAG Gaming | 8 | 2507.3 | +340.8 |
-| Wildcard | 3 | 2911.9 | +338.3 |
+| LAG Gaming | 8 | 2507.4 | +340.8 |
+| Wildcard | 3 | 2911.9 | +338.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
 
@@ -72,13 +72,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | GeneticDiff | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.09 | 0.70 | +41.6 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-24 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.07 | 0.66 | +1.1 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-22 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +0.0 | Char, PeaseCentral, S1eep, Swatt-, lckr |
-| 2026-07-17 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.03 | 0.62 | +0.8 | Char, PeaseCentral, S1eep, Swatt-, lckr |
+| 2026-07-17 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.03 | 0.61 | +0.8 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-15 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.03 | 0.60 | +0.7 | Char, PeaseCentral, S1eep, Swatt-, lckr |
-| 2026-05-20 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +287.8 | Nomad, S1eep, Swatt-, ikwards, lckr |
+| 2026-05-20 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +287.9 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-15 | Pugging4Pumpkin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +53.6 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-13 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +68.5 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-08 | 2THRiLL | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +2.3 | Nomad, S1eep, Swatt-, ikwards, lckr |
-| 2026-05-06 | DESPAIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +36.5 | Nomad, S1eep, Swatt-, ikwards, lckr |
+| 2026-05-06 | DESPAIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +36.4 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-01 | DNA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +172.5 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-04-23 | the dragon warrior scroll | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.04 | +362.7 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-04-22 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -224.1 | Nomad, S1eep, Swatt-, ikwards, lckr |

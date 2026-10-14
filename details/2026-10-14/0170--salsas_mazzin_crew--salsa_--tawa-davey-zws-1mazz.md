@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.160 | 1323.4 | - |
 | +30 days | 0.136 | 1290.6 | -32.8 |
 | +60 days | 0.124 | 1273.3 | -50.1 |
-| +90 days | 0.102 | 1243.5 | -79.9 |
+| +90 days | 0.103 | 1243.6 | -79.8 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.074 average, gap +0.002). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +476.9 |
-| SportsBetExpert | 6 | 2672.3 | +474.8 |
-| M80 | 2 | 3081.4 | +467.2 |
-| Wildcard | 3 | 2911.9 | +463.5 |
-| LAG Gaming | 8 | 2507.3 | +463.5 |
+| NRG | 4 | 2835.7 | +476.9 |
+| SportsBetExpert | 6 | 2671.6 | +474.8 |
+| M80 | 2 | 3081.4 | +467.6 |
+| Wildcard | 3 | 2911.9 | +463.9 |
+| LAG Gaming | 8 | 2507.4 | +463.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -62,20 +62,20 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Solace | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.07 | 0.98 | +31.3 | Plokii, XYoshiZ, salsa_-, tawa, zws |
 | 2026-09-04 | Kairo | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.00 | 0.00 | -24.5 | DAVEY, Plokii, XYoshiZ, salsa_-, tawa |
 | 2026-08-26 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.10 | 0.89 | +120.3 | DAVEY, XYoshiZ, rock, salsa_-, tawa |
-| 2026-08-25 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.00 | 0.00 | -25.2 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
-| 2026-08-21 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -109.9 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
+| 2026-08-25 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.00 | 0.00 | -25.1 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
+| 2026-08-21 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -110.0 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
 | 2026-08-19 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.07 | 0.84 | +35.6 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
 | 2026-08-11 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.02 | 1.00 | 0.79 | 0.06 | 0.79 | +122.7 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
 | 2026-08-07 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.04 | 0.76 | +208.9 | 1Mazz, DAVEY, ScoobyMoose, salsa_-, tawa |
 | 2026-08-05 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -153.8 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
 | 2026-07-30 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -2.5 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
 | 2026-07-24 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -3.9 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
-| 2026-07-17 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.05 | 0.62 | +35.1 | DAVEY, ScoobyMoose, rock, salsa_-, tawa |
+| 2026-07-17 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +35.1 | DAVEY, ScoobyMoose, rock, salsa_-, tawa |
 | 2026-05-22 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +47.0 | 1Mazz, DAVEY, XYoshiZ, salsa_-, tawa |
-| 2026-05-20 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +257.3 | 1Mazz, DAVEY, salsa_-, tawa, zws |
-| 2026-05-15 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +128.1 | 1Mazz, DAVEY, XYoshiZ, tawa, zws |
-| 2026-05-14 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +266.4 | 1Mazz, DAVEY, salsa_-, tawa, zws |
-| 2026-05-08 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -270.2 | 1Mazz, DAVEY, salsa_-, tawa, zws |
+| 2026-05-20 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +257.4 | 1Mazz, DAVEY, salsa_-, tawa, zws |
+| 2026-05-15 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +128.2 | 1Mazz, DAVEY, XYoshiZ, tawa, zws |
+| 2026-05-14 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +266.5 | 1Mazz, DAVEY, salsa_-, tawa, zws |
+| 2026-05-08 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -270.3 | 1Mazz, DAVEY, salsa_-, tawa, zws |
 | 2026-05-06 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -203.5 | 1Mazz, DAVEY, salsa_-, tawa, zws |
 | 2026-05-01 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -272.8 | 1Mazz, DAVEY, salsa_-, tawa, zws |
 | 2026-04-29 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -184.2 | 1Mazz, DAVEY, salsa_-, tawa, zws |

@@ -4,14 +4,14 @@ Roster: Zitrone_, sil_, solid37, tomjr88, WOWITSMEHI
 NARS Rank: 483 of 506
 
 Final Rating: 721.4
-Seeded Start: 1238.8
-H2H Adjustment: -517.4 (capped at +-300, raw -517.3)
+Seeded Start: 1238.7
+H2H Adjustment: -517.3 (capped at +-300, raw -517.4)
 
-Final Rating (721.4) = Seeded Start (1238.8) + H2H Adjustment (-517.4)
+Final Rating (721.4) = Seeded Start (1238.7) + H2H Adjustment (-517.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.099 x 1400 = 1238.8
+                = 1100 + 0.099 x 1400 = 1238.7
 
 seed_factor 0.099 = 0.25 x Tier Exposure (0.085) + 0.50 x Quality Wins (0.021) + 0.25 x Opponent Network (0.269)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.099 | 1238.8 | - |
-| +30 days | 0.074 | 1204.1 | -34.7 |
+| Now | 0.099 | 1238.7 | - |
+| +30 days | 0.074 | 1204.1 | -34.6 |
 | +60 days | 0.062 | 1187.2 | -51.5 |
-| +90 days | 0.050 | 1169.9 | -68.8 |
+| +90 days | 0.050 | 1170.0 | -68.8 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.021 vs 0.008 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| North Forge | 38 | 1971.1 | +237.3 |
+| North Forge | 38 | 1971.1 | +237.4 |
 | Wanted Goons | 43 | 1933.1 | +237.2 |
-| NRG | 4 | 2836.4 | +237.1 |
-| SportsBetExpert | 6 | 2672.3 | +237.1 |
+| NRG | 4 | 2835.7 | +237.0 |
+| SportsBetExpert | 6 | 2671.6 | +236.9 |
 | Zomblers | 22 | 2114.7 | +236.4 |
 
 Seed inputs expiring within 90 days:
@@ -68,23 +68,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.07 | 0.79 | +66.3 | WOWITSMEHI, Zitrone_, hayter, sil_, solid37, tomjr88 |
 | 2026-08-12 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -27.3 | Zitrone_, hayter, sil_, solid37, tomjr88 |
 | 2026-08-07 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -102.9 | Zitrone_, hayter, sil_, solid37, tomjr88 |
-| 2026-08-05 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.03 | 0.73 | +15.5 | WOWITSMEHI, hayter, sil_, solid37, tomjr88 |
+| 2026-08-05 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.03 | 0.73 | +15.4 | WOWITSMEHI, hayter, sil_, solid37, tomjr88 |
 | 2026-07-31 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +19.8 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-07-29 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -53.1 | Zitrone_, abnormal--, sil_, solid37, tomjr88 |
 | 2026-07-24 | Big Kahuna Gaming | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -256.9 | Zitrone_, abnormal--, hayter, sil_, solid37 |
 | 2026-07-17 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -15.3 | WOWITSMEHI, Zitrone_, hayter, sil_, solid37 |
 | 2026-07-15 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -3.8 | WOWITSMEHI, hayter, sil_, solid37, tomjr88 |
 | 2026-06-05 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -141.8 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
-| 2026-05-31 | Costco Family | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.03 | 0.29 | +160.8 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
+| 2026-05-31 | Costco Family | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.03 | 0.29 | +160.9 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-05-29 | Tractors | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -101.3 | Zitrone_, brettttttttt, sil_, solid37, tomjr88 |
-| 2026-05-27 | GoonAssOldheads | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +321.3 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
+| 2026-05-27 | GoonAssOldheads | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +321.4 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-05-22 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -291.6 | WOWITSMEHI, Zitrone_, brettttttttt, solid37, tomjr88 |
 | 2026-05-20 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +190.9 | SNEAKK, WOWITSMEHI, Zitrone_, solid37, tomjr88 |
 | 2026-05-08 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -439.4 | 1eric, WOWITSMEHI, Zitrone_, sil_, solid37 |
 | 2026-05-06 | We Play Naked | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +428.2 | 1eric, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-05-01 | Lan Bears | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -178.2 | 1eric, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-04-29 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +11.7 | 1eric, WOWITSMEHI, sil_, solid37, tomjr88 |
-| 2026-04-24 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +236.9 | 1eric, WOWITSMEHI, Zitrone_, sil_, solid37 |
+| 2026-04-24 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +237.0 | 1eric, WOWITSMEHI, Zitrone_, sil_, solid37 |
 | 2026-04-22 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -247.9 | 1eric, WOWITSMEHI, sil_, solid37, tomjr88 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

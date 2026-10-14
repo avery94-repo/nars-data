@@ -4,14 +4,14 @@ Roster: DETER-, -ems-, DARKQ-1, msGee, BR8
 NARS Rank: 312 of 506
 
 Final Rating: 1246.6
-Seeded Start: 1259.4
-H2H Adjustment: -12.8
+Seeded Start: 1259.3
+H2H Adjustment: -12.7
 
-Final Rating (1246.6) = Seeded Start (1259.4) + H2H Adjustment (-12.8)
+Final Rating (1246.6) = Seeded Start (1259.3) + H2H Adjustment (-12.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.114 x 1400 = 1259.4
+                = 1100 + 0.114 x 1400 = 1259.3
 
 seed_factor 0.114 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.032) + 0.25 x Opponent Network (0.316)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.114 | 1259.4 | - |
+| Now | 0.114 | 1259.3 | - |
 | +30 days | 0.096 | 1234.7 | -24.7 |
-| +60 days | 0.083 | 1216.8 | -42.6 |
-| +90 days | 0.059 | 1182.9 | -76.4 |
+| +60 days | 0.083 | 1216.8 | -42.5 |
+| +90 days | 0.059 | 1183.0 | -76.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.032 vs 0.024 average, gap +0.008). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +608.5 |
-| SportsBetExpert | 6 | 2672.3 | +607.8 |
-| LAG Gaming | 8 | 2507.3 | +598.5 |
-| M80 | 2 | 3081.4 | +595.2 |
-| regain | 12 | 2256.1 | +594.3 |
+| NRG | 4 | 2835.7 | +608.5 |
+| SportsBetExpert | 6 | 2671.6 | +607.8 |
+| LAG Gaming | 8 | 2507.4 | +598.9 |
+| M80 | 2 | 3081.4 | +595.6 |
+| regain | 12 | 2256.1 | +594.8 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
 
@@ -63,7 +63,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.07 | 0.90 | +117.6 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-08-26 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -55.8 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-08-21 | enigma | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -89.6 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
-| 2026-08-19 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -129.9 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
+| 2026-08-19 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -130.0 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-08-13 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.80 | 0.21 | 0.80 | +121.3 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-08-12 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.07 | 0.79 | +205.9 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-08-07 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -96.6 | -ems-, DARKQ-1, DETER-, Juant0n1o, eyeMSG |
@@ -72,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Sedated | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.08 | 0.70 | +351.7 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-07-24 | teamington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -0.0 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-07-22 | Qinorhwat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -0.0 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
-| 2026-07-17 | Wealth Reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -213.4 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
+| 2026-07-17 | Wealth Reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -213.4 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-05-22 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -47.0 | -ems-, BR8, DARKQ-1, DETER-, Juant0n1o |
 | 2026-05-20 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -2.6 | -ems-, BR8, DARKQ-1, DETER-, Juant0n1o |
 | 2026-05-15 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -266.1 | -ems-, BR8, DARKQ-1, DETER-, woRrom |

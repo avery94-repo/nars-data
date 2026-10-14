@@ -13,7 +13,7 @@ Final Rating (1315.5) = Seeded Start (1128.3) + H2H Adjustment (+187.2)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.020 x 1400 = 1128.3
 
-seed_factor 0.020 = 0.25 x Tier Exposure (0.009) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.060)
+seed_factor 0.020 = 0.25 x Tier Exposure (0.009) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.059)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.000 | 1100.0 | -28.3 |
 | +90 days | 0.000 | 1100.0 | -28.3 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.060 vs 0.387 average, gap -0.327). Matching that average is worth about 114.5 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.059 vs 0.387 average, gap -0.328). Matching that average is worth about 114.8 seed points.
 
 - Tier Exposure drivers: S57 NA Main Central - Regular Season (2026-05-22) 0.26
 - Quality Wins drivers: beat enigma at S57 NA Main Central - Regular Season (2026-05-21) 0.04; beat Wolves at S57 NA Main Central - Regular Season (2026-05-15) 0.03; beat Yogaball Frags at S57 NA Main Central - Regular Season (2026-05-08) 0.01
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.5 |
-| SportsBetExpert | 6 | 2672.3 | +663.3 |
-| LAG Gaming | 8 | 2507.3 | +652.1 |
-| M80 | 2 | 3081.4 | +650.2 |
+| NRG | 4 | 2835.7 | +663.9 |
+| SportsBetExpert | 6 | 2671.6 | +662.7 |
+| LAG Gaming | 8 | 2507.4 | +652.0 |
+| M80 | 2 | 3081.4 | +650.1 |
 | Wildcard | 3 | 2911.9 | +645.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.4).
@@ -61,12 +61,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -289.9 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
+| 2026-05-22 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -290.0 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-21 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.04 | 0.25 | +1.2 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-15 | Wolves | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.03 | 0.21 | +260.7 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
-| 2026-05-13 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -200.4 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
+| 2026-05-13 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -200.5 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-08 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +182.6 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
-| 2026-05-06 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +20.7 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
+| 2026-05-06 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +20.6 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-01 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +410.5 | Kr0ssz, _Morph, danilov, ke2ues, varnbarn |
 | 2026-04-29 | iNSTINCT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -437.0 | Bipp, Kr0ssz, danilov, ke2ues, varnbarn |
 | 2026-04-24 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +414.5 | Bipp, Kr0ssz, danilov, ke2ues, varnbarn |

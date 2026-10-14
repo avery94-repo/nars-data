@@ -3,11 +3,11 @@ Team Name: Northern District
 Roster: WaltJr, Deaaaan, KenT5, McNash, PayneC
 NARS Rank: 106 of 506
 
-Final Rating: 1683.9
+Final Rating: 1684.0
 Seeded Start: 1132.4
-H2H Adjustment: +551.5 (capped at +-300, raw +551.6)
+H2H Adjustment: +551.6
 
-Final Rating (1683.9) = Seeded Start (1132.4) + H2H Adjustment (+551.5)
+Final Rating (1684.0) = Seeded Start (1132.4) + H2H Adjustment (+551.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +659.5 |
-| SportsBetExpert | 6 | 2672.3 | +651.2 |
-| M80 | 2 | 3081.4 | +648.7 |
+| NRG | 4 | 2835.7 | +658.9 |
+| SportsBetExpert | 6 | 2671.6 | +650.6 |
+| M80 | 2 | 3081.4 | +648.6 |
 | Wildcard | 3 | 2911.9 | +641.9 |
 | Liquid | 1 | 3103.3 | +639.6 |
 

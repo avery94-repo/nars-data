@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.193 | 1370.1 | - |
 | +30 days | 0.176 | 1346.3 | -23.9 |
 | +60 days | 0.167 | 1334.5 | -35.6 |
-| +90 days | 0.163 | 1327.5 | -42.6 |
+| +90 days | 0.163 | 1328.3 | -41.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.798 average, gap -0.759). Matching that average is worth about 265.6 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +297.7 |
-| M80 | 2 | 3081.4 | +295.9 |
-| Liquid | 1 | 3103.3 | +291.9 |
-| Wildcard | 3 | 2911.9 | +290.9 |
-| SportsBetExpert | 6 | 2672.3 | +288.1 |
+| NRG | 4 | 2835.7 | +297.6 |
+| M80 | 2 | 3081.4 | +296.1 |
+| Liquid | 1 | 3103.3 | +292.1 |
+| Wildcard | 3 | 2911.9 | +291.1 |
+| SportsBetExpert | 6 | 2671.6 | +288.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Knight Owls (+0.0), Grandpa Berets (+0.0).
 
@@ -67,7 +67,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-31 | DAMAJUANA | L |  | VRS-tracked 2026-08 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 0.00 | 0.00 | -135.4 | core 3/5 |
 | 2026-08-29 | PROCYON | L |  | VRS-tracked 2026-08 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 0.00 | 0.00 | -66.8 | core 3/5 |
 | 2026-08-26 | BESTIA ACADEMY | L |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.00 | 0.00 | -16.1 | core 3/5 |
-| 2026-08-26 | PUGDESONESTO | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 1.04 | 0.00 | +528.6 | core 3/5 |
+| 2026-08-26 | PUGDESONESTO | W |  | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 1.04 | 0.00 | +528.7 | core 3/5 |
 | 2026-06-09 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.35 | 1.05 | 1.00 | 0.37 | 0.00 | 0.00 | -56.0 | 1ayalaK, BabyRage_S, Slayerh-, sebasgamer11, zockie |
 | 2026-06-02 | Its a Secret | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -254.6 | 1ayalaK, BabyRage_S, Slayerh-, sebasgamer11, zockie |
 | 2026-05-31 | 100 BMI MENACES | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.00 | 0.30 | +22.7 | 1ayalaK, BabyRage_S, Slayerh-, sebasgamer11, zockie |

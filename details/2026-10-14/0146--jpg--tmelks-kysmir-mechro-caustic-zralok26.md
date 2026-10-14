@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.175 | 1344.5 | - |
 | +30 days | 0.155 | 1316.6 | -27.9 |
-| +60 days | 0.135 | 1289.4 | -55.1 |
-| +90 days | 0.101 | 1241.3 | -103.2 |
+| +60 days | 0.135 | 1289.3 | -55.1 |
+| +90 days | 0.101 | 1241.4 | -103.0 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.077 vs 0.073 average, gap +0.004). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +421.5 |
-| SportsBetExpert | 6 | 2672.3 | +419.2 |
-| M80 | 2 | 3081.4 | +413.1 |
-| Wildcard | 3 | 2911.9 | +409.8 |
-| LAG Gaming | 8 | 2507.3 | +408.3 |
+| NRG | 4 | 2835.7 | +421.5 |
+| SportsBetExpert | 6 | 2671.6 | +419.2 |
+| M80 | 2 | 3081.4 | +413.5 |
+| Wildcard | 3 | 2911.9 | +410.1 |
+| LAG Gaming | 8 | 2507.4 | +408.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -61,9 +61,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Aetheris | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.08 | 0.97 | +12.9 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-09-04 | Firstwave | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.14 | 0.93 | +30.2 | Zralok26, caustic, malexic, mechro, tmelks |
 | 2026-09-02 | Costco Family | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.11 | 0.00 | +6.7 | caustic, kysmir, malexic, mechro, tmelks |
-| 2026-08-28 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.13 | 0.00 | +51.7 | MITSUMI, Zralok26, caustic, mechro, tmelks |
+| 2026-08-28 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.13 | 0.00 | +51.8 | MITSUMI, Zralok26, caustic, mechro, tmelks |
 | 2026-08-26 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -30.2 | MITSUMI, Zralok26, caustic, kysmir, mechro |
-| 2026-08-21 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -90.1 | MITSUMI, caustic, kysmir, mechro, tmelks |
+| 2026-08-21 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -90.2 | MITSUMI, caustic, kysmir, mechro, tmelks |
 | 2026-08-19 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.07 | 0.00 | +9.6 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-08-14 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.07 | 0.79 | +41.7 | Zralok26, caustic, malexic, mechro, tmelks |
 | 2026-08-12 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.09 | 0.78 | +9.4 | Zralok26, caustic, malexic, mechro, tmelks |

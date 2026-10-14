@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.088 | 1223.7 | - |
 | +30 days | 0.090 | 1226.5 | +2.7 |
 | +60 days | 0.091 | 1227.5 | +3.8 |
-| +90 days | 0.092 | 1229.3 | +5.6 |
+| +90 days | 0.092 | 1229.4 | +5.7 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.257 vs 0.378 average, gap -0.121). Matching that average is worth about 42.4 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +488.8 |
-| SportsBetExpert | 6 | 2672.3 | +487.0 |
+| NRG | 4 | 2835.7 | +488.4 |
+| SportsBetExpert | 6 | 2671.6 | +486.6 |
 | M80 | 2 | 3081.4 | +478.7 |
-| LAG Gaming | 8 | 2507.3 | +476.4 |
-| Wildcard | 3 | 2911.9 | +475.0 |
+| LAG Gaming | 8 | 2507.4 | +476.5 |
+| Wildcard | 3 | 2911.9 | +475.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -53,8 +53,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Kahoot Squad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +103.5 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
-| 2026-09-12 | WhiteBoyWinter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.00 | 0.00 | -78.3 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
-| 2026-09-10 | Casual Mature Gamers | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.07 | 1.01 | +86.5 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
+| 2026-09-12 | WhiteBoyWinter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.00 | 0.00 | -78.4 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
+| 2026-09-10 | Casual Mature Gamers | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.07 | 1.01 | +86.6 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-06 | feet67 | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.00 | 0.00 | -96.1 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-04 | KylianDictator | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +120.8 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-02 | lofi hip hop radio | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +133.1 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |

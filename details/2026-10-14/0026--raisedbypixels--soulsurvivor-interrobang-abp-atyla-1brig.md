@@ -4,14 +4,14 @@ Roster: soulsurvivor, Interrobang, abp, atyla, 1bright
 NARS Rank: 26 of 506
 
 Final Rating: 2034.4
-Seeded Start: 1234.1
-H2H Adjustment: +800.3
+Seeded Start: 1234.0
+H2H Adjustment: +800.4
 
-Final Rating (2034.4) = Seeded Start (1234.1) + H2H Adjustment (+800.3)
+Final Rating (2034.4) = Seeded Start (1234.0) + H2H Adjustment (+800.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.096 x 1400 = 1234.1
+                = 1100 + 0.096 x 1400 = 1234.0
 
 seed_factor 0.096 = 0.25 x Tier Exposure (0.152) + 0.50 x Quality Wins (0.044) + 0.25 x Opponent Network (0.144)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.096 | 1234.1 | - |
+| Now | 0.096 | 1234.0 | - |
 | +30 days | 0.036 | 1149.8 | -84.3 |
-| +60 days | 0.011 | 1115.1 | -119.0 |
-| +90 days | 0.000 | 1100.0 | -134.1 |
+| +60 days | 0.011 | 1115.0 | -119.0 |
+| +90 days | 0.000 | 1100.0 | -134.0 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.144 vs 0.612 average, gap -0.468). Matching that average is worth about 163.8 seed points.
 
@@ -41,9 +41,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 | :- | -: | -: | -: |
 | M80 | 2 | 3081.4 | +639.4 |
 | Liquid | 1 | 3103.3 | +631.0 |
-| NRG | 4 | 2836.4 | +628.4 |
+| NRG | 4 | 2835.7 | +627.6 |
 | Wildcard | 3 | 2911.9 | +619.7 |
-| Voca | 5 | 2796.5 | +589.0 |
+| Voca | 5 | 2796.5 | +588.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Knight Owls (+0.0), Grandpa Berets (+0.0).
 
@@ -64,8 +64,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-07 | Overtake Sector | L |  | VRS-tracked 2026-07 | A | vrs | 0.54 | 1.60 | 1.00 | 0.86 | 0.00 | 0.00 | -72.0 | core 3/5 |
 | 2026-07-02 | regain | L |  | VRS-tracked 2026-07 | A | vrs | 0.50 | 1.60 | 1.00 | 0.80 | 0.00 | 0.00 | -10.2 | core 3/5 |
-| 2026-06-29 | Festina Lente | W |  | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.10 | 0.77 | +212.2 | core 3/5 |
-| 2026-06-12 | OMEN | L |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.00 | 0.00 | -161.7 | core 3/5 |
+| 2026-06-29 | Festina Lente | W |  | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.10 | 0.77 | +212.3 | core 3/5 |
+| 2026-06-12 | OMEN | L |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.00 | 0.00 | -161.8 | core 3/5 |
 | 2026-06-07 | Club 333 | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.34 | 1.50 | 1.00 | 0.50 | 0.00 | 0.00 | -9.6 | 1bright, Interrobang, atyla, kvalme, soulsurvivor |
 | 2026-06-06 | Club 333 | L |  | VRS-tracked 2026-06 | A | vrs | 0.33 | 1.60 | 1.00 | 0.53 | 0.00 | 0.00 | -13.0 | core 3/5 |
 | 2026-05-21 | unreal nightmare | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.21 | 0.30 | +102.1 | 1bright, Interrobang, abp, atyla, soulsurvivor |

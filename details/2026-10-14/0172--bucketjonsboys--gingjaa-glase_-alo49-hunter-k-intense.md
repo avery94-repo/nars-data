@@ -4,14 +4,14 @@ Roster: Gingjaa, glase_, Alo49, hunter-k, Intense
 NARS Rank: 172 of 506
 
 Final Rating: 1533.1
-Seeded Start: 1577.2
-H2H Adjustment: -44.1
+Seeded Start: 1577.1
+H2H Adjustment: -44.0
 
-Final Rating (1533.1) = Seeded Start (1577.2) + H2H Adjustment (-44.1)
+Final Rating (1533.1) = Seeded Start (1577.1) + H2H Adjustment (-44.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.341 x 1400 = 1577.2
+                = 1100 + 0.341 x 1400 = 1577.1
 
 seed_factor 0.341 = 0.25 x Tier Exposure (0.261) + 0.50 x Quality Wins (0.225) + 0.25 x Opponent Network (0.654)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.341 | 1577.2 | - |
+| Now | 0.341 | 1577.1 | - |
 | +30 days | 0.319 | 1546.6 | -30.5 |
-| +60 days | 0.305 | 1527.3 | -49.9 |
-| +90 days | 0.281 | 1492.8 | -84.3 |
+| +60 days | 0.305 | 1527.2 | -49.9 |
+| +90 days | 0.281 | 1493.8 | -83.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.225 vs 0.032 average, gap +0.193). Matching that average is worth about 0.0 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +443.8 |
-| SportsBetExpert | 6 | 2672.3 | +441.9 |
+| NRG | 4 | 2835.7 | +443.5 |
+| SportsBetExpert | 6 | 2671.6 | +441.6 |
 | M80 | 2 | 3081.4 | +434.8 |
-| LAG Gaming | 8 | 2507.3 | +431.8 |
+| LAG Gaming | 8 | 2507.4 | +431.8 |
 | Wildcard | 3 | 2911.9 | +431.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
@@ -70,16 +70,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.04 | 0.89 | +17.0 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-08-21 | Texas Orange | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.06 | 0.85 | +76.7 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-08-19 | Braindead | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -135.8 | Alo49, Gingjaa, Intense, glase_, hunter-k |
-| 2026-08-13 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.80 | 0.00 | 0.00 | -116.7 | Alo49, Gingjaa, Intense, glase_, hunter-k |
+| 2026-08-13 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.80 | 0.00 | 0.00 | -116.8 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-08-12 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.03 | 0.79 | +23.1 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-08-07 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.08 | 0.76 | +3.5 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-08-05 | Wide Swinging Wizards | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.04 | 0.74 | +171.8 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-07-31 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -33.4 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-07-29 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -135.8 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-07-24 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.03 | 0.66 | +186.8 | Alo49, Gingjaa, Intense, glase_, hunter-k |
-| 2026-07-22 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +359.6 | -EVZ-, Alo49, Intense, glase_, hunter-k |
-| 2026-07-17 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -297.3 | Alo49, Gingjaa, Intense, glase_, hunter-k |
-| 2026-07-15 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -198.6 | Alo49, Gingjaa, Intense, glase_, hunter-k |
+| 2026-07-22 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +359.7 | -EVZ-, Alo49, Intense, glase_, hunter-k |
+| 2026-07-17 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -297.3 | Alo49, Gingjaa, Intense, glase_, hunter-k |
+| 2026-07-15 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -198.7 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-05-22 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.04 | 0.26 | +7.7 | --Pleb--, Alo49, Gingjaa, Intense, glase_ |
 | 2026-05-20 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +253.2 | Alo49, Gingjaa, Intense, glase_, stecs_ |
 | 2026-05-15 | No Leaders Please | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -245.7 | Alo49, Gingjaa, Intense, glase_, stecs_ |

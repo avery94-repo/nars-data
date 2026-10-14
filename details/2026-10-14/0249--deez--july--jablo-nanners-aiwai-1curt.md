@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.090 | 1226.1 | - |
 | +30 days | 0.086 | 1220.7 | -5.4 |
 | +60 days | 0.085 | 1218.4 | -7.8 |
-| +90 days | 0.082 | 1214.6 | -11.6 |
+| +90 days | 0.082 | 1214.7 | -11.5 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.248 vs 0.395 average, gap -0.147). Matching that average is worth about 51.5 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.248 vs 0.395 average, gap -0.147). Matching that average is worth about 51.4 seed points.
 
 - Tier Exposure drivers: Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28; S58 NA Open9-10 East - Playoffs A (2026-09-15) 1.00
 - Quality Wins drivers: beat Zamgaa Anime Aimers at S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.08; beat LAF at S58 NA Open9-10 East - Playoffs A (2026-09-12) 0.08; beat MONARCH at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.06
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +461.8 |
-| SportsBetExpert | 6 | 2672.3 | +460.9 |
-| LAG Gaming | 8 | 2507.3 | +452.9 |
-| M80 | 2 | 3081.4 | +451.9 |
-| Wildcard | 3 | 2911.9 | +448.7 |
+| NRG | 4 | 2835.7 | +461.8 |
+| SportsBetExpert | 6 | 2671.6 | +460.8 |
+| LAG Gaming | 8 | 2507.4 | +453.2 |
+| M80 | 2 | 3081.4 | +452.2 |
+| Wildcard | 3 | 2911.9 | +449.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 

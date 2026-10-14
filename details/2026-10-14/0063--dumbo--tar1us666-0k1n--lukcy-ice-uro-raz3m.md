@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.225 | 1415.0 | - |
 | +30 days | 0.220 | 1407.4 | -7.6 |
 | +60 days | 0.215 | 1401.0 | -14.1 |
-| +90 days | 0.211 | 1395.3 | -19.7 |
+| +90 days | 0.211 | 1395.6 | -19.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.064 vs 0.239 average, gap -0.175). Matching that average is worth about 122.5 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +142.4 |
-| SportsBetExpert | 6 | 2672.3 | +140.9 |
-| M80 | 2 | 3081.4 | +139.9 |
+| NRG | 4 | 2835.7 | +142.3 |
+| SportsBetExpert | 6 | 2671.6 | +140.8 |
+| M80 | 2 | 3081.4 | +140.0 |
 | Wildcard | 3 | 2911.9 | +138.6 |
-| Liquid | 1 | 3103.3 | +138.0 |
+| Liquid | 1 | 3103.3 | +138.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
 
@@ -72,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -64.8 | Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
 | 2026-08-05 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -76.4 | Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
 | 2026-07-29 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.06 | 0.68 | +78.8 | KobeSucker67, Lukcy-Ice, RaZ3M, SlothCrash, uro |
-| 2026-07-29 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.00 | +198.7 | 0K1N-, Lukcy-Ice, RaZ3M, uro, yx_x |
+| 2026-07-29 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.00 | +198.8 | 0K1N-, Lukcy-Ice, RaZ3M, uro, yx_x |
 | 2026-07-24 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.08 | 0.65 | +20.8 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-07-22 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -146.5 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-07-17 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +270.3 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |

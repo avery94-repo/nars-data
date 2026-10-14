@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.184 | 1357.3 | - |
-| +30 days | 0.159 | 1322.6 | -34.8 |
+| +30 days | 0.159 | 1322.5 | -34.8 |
 | +60 days | 0.139 | 1294.1 | -63.2 |
-| +90 days | 0.103 | 1244.5 | -112.8 |
+| +90 days | 0.103 | 1244.6 | -112.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.089 vs 0.075 average, gap +0.014). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +495.7 |
-| SportsBetExpert | 6 | 2672.3 | +492.0 |
-| M80 | 2 | 3081.4 | +486.3 |
-| Wildcard | 3 | 2911.9 | +482.0 |
-| Liquid | 1 | 3103.3 | +479.5 |
+| NRG | 4 | 2835.7 | +495.6 |
+| SportsBetExpert | 6 | 2671.6 | +491.9 |
+| M80 | 2 | 3081.4 | +486.7 |
+| Wildcard | 3 | 2911.9 | +482.4 |
+| Liquid | 1 | 3103.3 | +479.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -71,18 +71,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -146.5 | -Btu, G3DITOR, HypeRRR, klq0nxS, luntaxE |
 | 2026-07-31 | GeneticDiff | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.09 | 0.71 | +150.4 | -Btu, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-07-30 | Salsas Mazzin Crew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.02 | 1.00 | 0.70 | 0.05 | 0.70 | +2.7 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
-| 2026-07-24 | TenToesDown | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.09 | 0.66 | +252.9 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
+| 2026-07-24 | TenToesDown | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.09 | 0.66 | +253.0 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-07-22 | FLOW STATE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.15 | 0.65 | +65.5 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
-| 2026-07-17 | Read You Like a Kindle | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.07 | 0.62 | +4.6 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
+| 2026-07-17 | Read You Like a Kindle | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.07 | 0.61 | +4.5 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-07-15 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.05 | 0.60 | +1.6 | G3DITOR, HypeRRR, Vuesqa, klq0nxS, luntaxE |
 | 2026-06-01 | Locally Hated | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.37 | 0.10 | 0.37 | +290.1 | HypeRRR, Jabbawockez-, N4HS1, Vuesqa, klq0nxS |
 | 2026-05-27 | WhalersOnDaMoon | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -44.8 | HypeRRR, N4HS1, Vuesqa, klq0nxS, luntaxE |
 | 2026-05-22 | CLUE IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.01 | 0.26 | +387.3 | HypeRRR, Sophist, Vuesqa, klq0nxS, luntaxE |
 | 2026-05-15 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -0.4 | HypeRRR, REOVA, Vuesqa, klq0nxS, luntaxE |
-| 2026-05-13 | BucketJonsBoys | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -154.0 | HypeRRR, REOVA, Vuesqa, klq0nxS, luntaxE |
+| 2026-05-13 | BucketJonsBoys | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -154.1 | HypeRRR, REOVA, Vuesqa, klq0nxS, luntaxE |
 | 2026-05-08 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -28.9 | HypeRRR, Sophist, Vuesqa, klq0nxS, luntaxE |
-| 2026-05-06 | Asoka | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -269.4 | HypeRRR, Jabbawockez-, REOVA, klq0nxS, luntaxE |
-| 2026-05-01 | Bird Squishers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +254.7 | HypeRRR, N4HS1, REOVA, klq0nxS, luntaxE |
+| 2026-05-06 | Asoka | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -269.5 | HypeRRR, Jabbawockez-, REOVA, klq0nxS, luntaxE |
+| 2026-05-01 | Bird Squishers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +254.8 | HypeRRR, N4HS1, REOVA, klq0nxS, luntaxE |
 | 2026-04-29 | goofball gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +269.5 | HypeRRR, REOVA, Vuesqa, klq0nxS, luntaxE |
 | 2026-04-24 | butt | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -235.3 | HypeRRR, REOVA, Vuesqa, klq0nxS, luntaxE |
 | 2026-04-22 | Gregs New Cut | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -293.0 | HypeRRR, REOVA, Vuesqa, klq0nxS, luntaxE |

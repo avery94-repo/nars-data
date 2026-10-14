@@ -4,14 +4,14 @@ Roster: LemonCitrus, ReesePuf, cs_AsSaSs1n, aavsen, pg0
 NARS Rank: 396 of 506
 
 Final Rating: 1061.3
-Seeded Start: 1287.8
-H2H Adjustment: -226.5
+Seeded Start: 1287.7
+H2H Adjustment: -226.4
 
-Final Rating (1061.3) = Seeded Start (1287.8) + H2H Adjustment (-226.5)
+Final Rating (1061.3) = Seeded Start (1287.7) + H2H Adjustment (-226.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.134 x 1400 = 1287.8
+                = 1100 + 0.134 x 1400 = 1287.7
 
 seed_factor 0.134 = 0.25 x Tier Exposure (0.108) + 0.50 x Quality Wins (0.031) + 0.25 x Opponent Network (0.368)
 
@@ -24,12 +24,12 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.134 | 1287.8 | - |
+| Now | 0.134 | 1287.7 | - |
 | +30 days | 0.115 | 1261.4 | -26.3 |
 | +60 days | 0.101 | 1241.1 | -46.6 |
-| +90 days | 0.075 | 1205.0 | -82.8 |
+| +90 days | 0.075 | 1205.0 | -82.7 |
 
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.031 vs 0.012 average, gap +0.019). Matching that average is worth about 0.0 seed points.
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.031 vs 0.011 average, gap +0.020). Matching that average is worth about 0.0 seed points.
 
 - Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Intermediate Central - Playoffs B (2026-09-07) 0.95; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88
 - Quality Wins drivers: beat Strafe at S58 NA Intermediate B - Regular Season (2026-08-05) 0.13; beat Flow Esports at S58 NA Intermediate B - Regular Season (2026-07-31) 0.08; beat katzwitgunz at S58 NA Intermediate Central - Playoffs B (2026-09-04) 0.08
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +435.6 |
-| SportsBetExpert | 6 | 2672.3 | +435.5 |
-| regain | 12 | 2256.1 | +430.8 |
-| Zomblers | 22 | 2114.7 | +430.1 |
-| LAG Gaming | 8 | 2507.3 | +429.7 |
+| NRG | 4 | 2835.7 | +435.4 |
+| SportsBetExpert | 6 | 2671.6 | +435.2 |
+| regain | 12 | 2256.1 | +430.9 |
+| Zomblers | 22 | 2114.7 | +430.2 |
+| LAG Gaming | 8 | 2507.4 | +429.8 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+0.9), shirtcockin (+1.4), Courage (+1.7).
 
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +198.4 | LemonCitrus, ReesePuf, aavsen, cs_AsSaSs1n, pg0 |
 | 2026-07-17 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -8.4 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-07-15 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -193.0 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
-| 2026-05-22 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +201.1 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |
+| 2026-05-22 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +201.2 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |
 | 2026-05-20 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -259.3 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |
 | 2026-05-15 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -39.9 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |
 | 2026-05-13 | DownTown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -109.0 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |

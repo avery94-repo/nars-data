@@ -4,14 +4,14 @@ Roster: Ludo67, Munchzorr, DanGugly, Wooziful, Jase_797
 NARS Rank: 394 of 506
 
 Final Rating: 1066.7
-Seeded Start: 1200.2
-H2H Adjustment: -133.5
+Seeded Start: 1200.1
+H2H Adjustment: -133.4
 
-Final Rating (1066.7) = Seeded Start (1200.2) + H2H Adjustment (-133.5)
+Final Rating (1066.7) = Seeded Start (1200.1) + H2H Adjustment (-133.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.072 x 1400 = 1200.2
+                = 1100 + 0.072 x 1400 = 1200.1
 
 seed_factor 0.072 = 0.25 x Tier Exposure (0.045) + 0.50 x Quality Wins (0.021) + 0.25 x Opponent Network (0.200)
 
@@ -24,12 +24,12 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.072 | 1200.2 | - |
+| Now | 0.072 | 1200.1 | - |
 | +30 days | 0.052 | 1172.8 | -27.3 |
 | +60 days | 0.042 | 1158.5 | -41.6 |
 | +90 days | 0.025 | 1134.8 | -65.4 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.200 vs 0.215 average, gap -0.015). Matching that average is worth about 5.2 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.200 vs 0.215 average, gap -0.015). Matching that average is worth about 5.3 seed points.
 
 - Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-28) 1.02; S57 NA Main Central - Regular Season (2026-05-22) 0.26
 - Quality Wins drivers: beat VOID ALUNE at S58 NA Main B - Regular Season (2026-07-24) 0.15; beat TheMotherLovers at S58 NA Main B - Regular Season (2026-07-15) 0.09; beat Cadillac F1 eSports Team at S58 NA Main B - Regular Season (2026-08-28) 0.08
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.7 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.2 |
 | regain | 12 | 2256.1 | +656.3 |
-| LAG Gaming | 8 | 2507.3 | +655.7 |
+| LAG Gaming | 8 | 2507.4 | +655.7 |
 | Zomblers | 22 | 2114.7 | +653.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.7), 3 Feet Of Meat (+1.3), shirtcockin (+1.9).
@@ -67,11 +67,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Storm Surge | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -89.6 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-08-05 | US Navy Esports | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -1.9 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-07-31 | YHUBEPCAM | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -3.8 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
-| 2026-07-24 | VOID ALUNE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.15 | 0.75 | +235.6 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
+| 2026-07-24 | VOID ALUNE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.15 | 0.75 | +235.7 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-07-22 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -191.3 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-07-15 | TheMotherLovers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.09 | 0.68 | +447.2 | Avoreon, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-05-22 | Specter Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.01 | 0.26 | +250.7 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
-| 2026-05-21 | SNOWPLOWERS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -321.8 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
+| 2026-05-21 | SNOWPLOWERS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -321.9 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-05-13 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +143.0 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-05-13 | Read You Like a Kindle | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -153.5 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-05-08 | DingTone | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -309.8 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |

@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: Zenano
 Roster: smove, 1mprovee2, floorine9, 1dkary, Rooda
-NARS Rank: 168 of 506
+NARS Rank: 169 of 506
 
-Final Rating: 1535.3
+Final Rating: 1535.2
 Seeded Start: 1123.5
-H2H Adjustment: +411.8 (capped at +-300, raw +411.7)
+H2H Adjustment: +411.7
 
-Final Rating (1535.3) = Seeded Start (1123.5) + H2H Adjustment (+411.8)
+Final Rating (1535.2) = Seeded Start (1123.5) + H2H Adjustment (+411.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.000 | 1100.0 | -23.5 |
 | +90 days | 0.000 | 1100.0 | -23.5 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.046 vs 0.366 average, gap -0.320). Matching that average is worth about 112.0 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.046 vs 0.312 average, gap -0.266). Matching that average is worth about 93.1 seed points.
 
 - Tier Exposure drivers: S57 NA Intermediate Central - Playoffs A (2026-05-27) 0.27; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
 - Quality Wins drivers: beat Costco Family at S57 NA Intermediate Central - Regular Season (2026-05-01) 0.01; beat Qinorhwat at S57 NA Intermediate Central - Regular Season (2026-05-15) 0.01; beat NOVAIR at S57 NA Intermediate Central - Regular Season (2026-04-27) 0.01
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +662.7 |
-| SportsBetExpert | 6 | 2672.3 | +658.9 |
+| NRG | 4 | 2835.7 | +662.1 |
+| SportsBetExpert | 6 | 2671.6 | +658.3 |
 | M80 | 2 | 3081.4 | +649.6 |
 | Wildcard | 3 | 2911.9 | +644.2 |
-| LAG Gaming | 8 | 2507.3 | +641.2 |
+| LAG Gaming | 8 | 2507.4 | +641.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
 
@@ -63,13 +63,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-27 | Nomadic Tactics | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -5.6 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
-| 2026-05-22 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -278.6 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
+| 2026-05-22 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -278.7 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-05-20 | Relativity | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +119.6 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-05-15 | Qinorhwat | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +296.2 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
-| 2026-05-13 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -126.9 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
+| 2026-05-13 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -127.0 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-05-08 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -31.9 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-05-06 | Counter Legends | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +3.8 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
-| 2026-05-01 | Costco Family | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +383.1 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
+| 2026-05-01 | Costco Family | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +383.2 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-04-27 | NOVAIR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.06 | 0.01 | 0.06 | +49.3 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-04-24 | The Agarthans | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -224.5 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-04-22 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +227.3 | 1dkary, 1mprovee2, Rooda, floorine9, smove |

@@ -3,11 +3,11 @@ Team Name: onliners
 Roster: Primal-_-, Sufrad, Nathaniel, syth, -Josh
 NARS Rank: 456 of 506
 
-Final Rating: 870.4
+Final Rating: 870.3
 Seeded Start: 1112.9
-H2H Adjustment: -242.5
+H2H Adjustment: -242.6
 
-Final Rating (870.4) = Seeded Start (1112.9) + H2H Adjustment (-242.5)
+Final Rating (870.3) = Seeded Start (1112.9) + H2H Adjustment (-242.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,8 +39,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.1 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.5 |
 | Zomblers | 22 | 2114.7 | +660.4 |
 | North Forge | 38 | 1971.1 | +660.0 |
 | regain | 12 | 2256.1 | +659.5 |
@@ -57,8 +57,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-15 | 1NT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -203.0 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
-| 2026-05-13 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +369.2 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
-| 2026-05-08 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -239.2 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
+| 2026-05-13 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +369.3 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
+| 2026-05-08 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -239.3 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
 | 2026-05-06 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -415.4 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
 | 2026-05-01 | The Homies | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +60.3 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |
 | 2026-04-29 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +424.1 | -Josh, Nathaniel, Primal-_-, Sufrad, syth |

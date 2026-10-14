@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.142 | 1298.2 | - |
-| +30 days | 0.131 | 1283.7 | -14.5 |
+| +30 days | 0.131 | 1283.6 | -14.5 |
 | +60 days | 0.120 | 1268.1 | -30.1 |
-| +90 days | 0.100 | 1239.7 | -58.5 |
+| +90 days | 0.100 | 1239.8 | -58.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.036 vs 0.023 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +319.0 |
-| SportsBetExpert | 6 | 2672.3 | +318.0 |
-| M80 | 2 | 3081.4 | +312.3 |
-| LAG Gaming | 8 | 2507.3 | +311.6 |
-| Wildcard | 3 | 2911.9 | +310.0 |
+| NRG | 4 | 2835.7 | +318.8 |
+| SportsBetExpert | 6 | 2671.6 | +317.8 |
+| M80 | 2 | 3081.4 | +312.4 |
+| LAG Gaming | 8 | 2507.4 | +311.7 |
+| Wildcard | 3 | 2911.9 | +310.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -63,12 +63,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.04 | 1.01 | +95.7 | 1ja_, Albatroazzz, Stea1thy, Weath, kimsurro |
 | 2026-08-21 | Kaos | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -64.5 | Albatroazzz, King_Balls, Stea1thy, Weath, kimsurro |
 | 2026-08-19 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -61.0 | Albatroazzz, King_Balls, Stea1thy, Weath, kimsurro |
-| 2026-08-12 | DingTone | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -134.5 | Albatroazzz, King_Balls, Stea1thy, Weath, cheyney |
+| 2026-08-12 | DingTone | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -134.6 | Albatroazzz, King_Balls, Stea1thy, Weath, cheyney |
 | 2026-08-07 | Florida Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.08 | 0.86 | +75.2 | 1moopey, Albatroazzz, Stea1thy, Weath, kimsurro |
 | 2026-08-05 | Feels MAIN Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.08 | 0.85 | +154.4 | 1moopey, Albatroazzz, King_Balls, Stea1thy, Weath |
 | 2026-07-31 | Exnitas | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -87.9 | Albatroazzz, King_Balls, Stea1thy, Weath, kimsurro |
-| 2026-07-24 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -181.1 | 1moopey, Albatroazzz, Stea1thy, Weath, gupr |
-| 2026-07-22 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -97.4 | 1moopey, Albatroazzz, King_Balls, Stea1thy, gupr |
+| 2026-07-24 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -181.2 | 1moopey, Albatroazzz, Stea1thy, Weath, gupr |
+| 2026-07-22 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -97.3 | 1moopey, Albatroazzz, King_Balls, Stea1thy, gupr |
 | 2026-07-17 | Sassy Sunshines | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +333.6 | Albatroazzz, King_Balls, Stea1thy, Weath, gupr |
 | 2026-07-15 | WhalersOnDaMoon | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.09 | 0.68 | +394.0 | Albatroazzz, Stea1thy, Weath, gupr, kimsurro |
 | 2026-05-22 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -233.7 | Albatroazzz, King_Balls, Stea1thy, Weath, kimsurro |

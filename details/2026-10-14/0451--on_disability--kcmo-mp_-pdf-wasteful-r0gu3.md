@@ -3,11 +3,11 @@ Team Name: on disability
 Roster: kcmo, mp_, PDF, WASTEFUL, r0gu3
 NARS Rank: 451 of 506
 
-Final Rating: 895.1
+Final Rating: 895.0
 Seeded Start: 1188.0
-H2H Adjustment: -292.9
+H2H Adjustment: -293.0
 
-Final Rating (895.1) = Seeded Start (1188.0) + H2H Adjustment (-292.9)
+Final Rating (895.0) = Seeded Start (1188.0) + H2H Adjustment (-293.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,8 +39,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.5 |
 | Zomblers | 22 | 2114.7 | +659.9 |
 | regain | 12 | 2256.1 | +659.2 |
 | North Forge | 38 | 1971.1 | +658.9 |
@@ -50,7 +50,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-28 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +54.8 | 9rwsB-, PDF, WASTEFUL, mp_, r0gu3 |
+| 2026-08-28 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +54.9 | 9rwsB-, PDF, WASTEFUL, mp_, r0gu3 |
 | 2026-08-26 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -95.1 | PDF, WASTEFUL, envy, mp_, r0gu3 |
 | 2026-08-21 | Kennesaw State Gold 2025 | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -66.3 | bliu-, envy, kcmo, mp_, r0gu3 |
 | 2026-08-19 | redtyfguhoj | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -72.2 | bliu-, envy, kcmo, mp_, r0gu3 |

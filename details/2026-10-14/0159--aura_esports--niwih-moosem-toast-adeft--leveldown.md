@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.191 | 1366.7 | - |
 | +30 days | 0.165 | 1331.5 | -35.2 |
 | +60 days | 0.147 | 1305.4 | -61.3 |
-| +90 days | 0.119 | 1266.1 | -100.6 |
+| +90 days | 0.119 | 1266.3 | -100.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.062 vs 0.028 average, gap +0.034). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +363.8 |
-| SportsBetExpert | 6 | 2672.3 | +362.3 |
-| M80 | 2 | 3081.4 | +356.4 |
-| LAG Gaming | 8 | 2507.3 | +354.0 |
-| Wildcard | 3 | 2911.9 | +353.6 |
+| NRG | 4 | 2835.7 | +363.9 |
+| SportsBetExpert | 6 | 2671.6 | +362.3 |
+| M80 | 2 | 3081.4 | +356.7 |
+| LAG Gaming | 8 | 2507.4 | +354.3 |
+| Wildcard | 3 | 2911.9 | +353.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -59,7 +59,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-17 | DUMBO | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -29.6 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
+| 2026-09-17 | DUMBO | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -29.7 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-09-15 | 1001 Fragrance | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +83.4 | Adeft-, KillerSway, LevelDown, NIWIH, Toast |
 | 2026-09-12 | WaterDrinkers | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.12 | 0.98 | +95.4 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-09-04 | The Vicious Kitties | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -4.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
@@ -80,7 +80,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +169.7 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-05-31 | WaterDrinkers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -160.3 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-29 | Kushtaka | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +34.4 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
-| 2026-05-27 | Sleepers | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -203.4 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
+| 2026-05-27 | Sleepers | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -203.5 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-27 | TheMilkMen | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +194.1 | Cutterika, Psych, akayoungman, itzKeeb, sensed |
 | 2026-05-20 | Mace Lindu Ruff Rebound | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +3.9 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-15 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +270.7 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
@@ -88,8 +88,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | High-Tech Performance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -165.6 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-06 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -245.2 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 | 2026-05-01 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -72.7 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
-| 2026-04-29 | Famas OP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +157.2 | Adeft-, LevelDown, NIWIH, Rofilian, Spartan-CRPT |
+| 2026-04-29 | Famas OP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +157.3 | Adeft-, LevelDown, NIWIH, Rofilian, Spartan-CRPT |
 | 2026-04-24 | Brothers United | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +168.4 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
-| 2026-04-22 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -335.7 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
+| 2026-04-22 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -335.8 | Adeft-, Duckyy, LevelDown, NIWIH, Rofilian |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -3,11 +3,11 @@ Team Name: James Bond Bois
 Roster: wBz, Floamy, RobbieReyes, bean-DIP, AMPedd
 NARS Rank: 401 of 506
 
-Final Rating: 1052.1
+Final Rating: 1052.0
 Seeded Start: 1111.7
-H2H Adjustment: -59.6
+H2H Adjustment: -59.7
 
-Final Rating (1052.1) = Seeded Start (1111.7) + H2H Adjustment (-59.6)
+Final Rating (1052.0) = Seeded Start (1111.7) + H2H Adjustment (-59.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.008 | 1111.7 | - |
-| +30 days | 0.000 | 1100.3 | -11.5 |
+| +30 days | 0.000 | 1100.3 | -11.4 |
 | +60 days | 0.000 | 1100.0 | -11.7 |
 | +90 days | 0.000 | 1100.0 | -11.7 |
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.2 |
 | regain | 12 | 2256.1 | +656.6 |
-| LAG Gaming | 8 | 2507.3 | +655.8 |
+| LAG Gaming | 8 | 2507.4 | +655.8 |
 | Zomblers | 22 | 2114.7 | +654.5 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.7), 3 Feet Of Meat (+1.5).

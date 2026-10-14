@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.012 | 1116.4 | - |
 | +30 days | 0.009 | 1112.3 | -4.1 |
-| +60 days | 0.009 | 1112.1 | -4.4 |
+| +60 days | 0.009 | 1112.1 | -4.3 |
 | +90 days | 0.008 | 1111.8 | -4.6 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.005 vs 0.158 average, gap -0.153). Matching that average is worth about 53.5 seed points.
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.3 |
-| SportsBetExpert | 6 | 2672.3 | +665.2 |
 | North Forge | 38 | 1971.1 | +664.8 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.6 |
 | Wanted Goons | 43 | 1933.1 | +664.0 |
 | Zomblers | 22 | 2114.7 | +662.6 |
 
@@ -54,10 +54,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-07 | No pain No aim | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.00 | 0.00 | -28.3 | -CraM-, -jakk, sleepykt, the-Supreme, toldman |
+| 2026-09-07 | No pain No aim | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.00 | 0.00 | -28.2 | -CraM-, -jakk, sleepykt, the-Supreme, toldman |
 | 2026-09-03 | house | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.00 | 0.00 | -14.8 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
-| 2026-05-08 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -161.3 | -jakk, 5eb, Bernurd, sleepykt, toldman |
-| 2026-05-08 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -366.4 | -jakk, 5eb, Bernurd, sleepykt, toldman |
+| 2026-05-08 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -161.4 | -jakk, 5eb, Bernurd, sleepykt, toldman |
+| 2026-05-08 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -366.5 | -jakk, 5eb, Bernurd, sleepykt, toldman |
 | 2026-05-01 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -22.9 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
 | 2026-04-28 | Remnant | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.01 | 0.07 | +163.4 | -jakk, 5eb, TalonGarbage, sleepykt, toldman |
 

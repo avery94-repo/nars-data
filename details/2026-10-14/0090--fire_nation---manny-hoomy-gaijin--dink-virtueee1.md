@@ -13,7 +13,7 @@ Final Rating (1749.7) = Seeded Start (1307.1) + H2H Adjustment (+442.6)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.148 x 1400 = 1307.1
 
-seed_factor 0.148 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.030) + 0.25 x Opponent Network (0.461)
+seed_factor 0.148 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.030) + 0.25 x Opponent Network (0.461)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.148 | 1307.1 | - |
 | +30 days | 0.153 | 1314.3 | +7.2 |
 | +60 days | 0.155 | 1317.7 | +10.6 |
-| +90 days | 0.160 | 1324.4 | +17.3 |
+| +90 days | 0.160 | 1324.6 | +17.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.030 vs 0.104 average, gap -0.074). Matching that average is worth about 51.8 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +405.7 |
-| SportsBetExpert | 6 | 2672.3 | +400.7 |
+| NRG | 4 | 2835.7 | +405.4 |
+| SportsBetExpert | 6 | 2671.6 | +400.4 |
 | M80 | 2 | 3081.4 | +399.1 |
-| Wildcard | 3 | 2911.9 | +394.9 |
-| Liquid | 1 | 3103.3 | +393.5 |
+| Wildcard | 3 | 2911.9 | +395.0 |
+| Liquid | 1 | 3103.3 | +393.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0).
 
@@ -52,7 +52,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | fiveB | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +6.6 | -dink, -manny, Virtueee1, gaijin, hoomy |
+| 2026-10-09 | fiveB | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +6.5 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-10-07 | Boop Boop Gang | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +5.2 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-19 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -83.5 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-18 | The Kerbins | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +41.1 | -dink, -manny, Virtueee1, gaijin, hoomy |

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.140 | 1295.3 | - |
 | +30 days | 0.130 | 1282.5 | -12.8 |
 | +60 days | 0.125 | 1274.5 | -20.8 |
-| +90 days | 0.119 | 1266.5 | -28.8 |
+| +90 days | 0.119 | 1266.6 | -28.7 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.035 vs 0.023 average, gap +0.012). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +290.5 |
-| SportsBetExpert | 6 | 2672.3 | +290.4 |
-| regain | 12 | 2256.1 | +287.3 |
+| NRG | 4 | 2835.7 | +290.3 |
+| SportsBetExpert | 6 | 2671.6 | +290.2 |
+| regain | 12 | 2256.1 | +287.4 |
 | Zomblers | 22 | 2114.7 | +286.9 |
-| LAG Gaming | 8 | 2507.3 | +286.5 |
+| LAG Gaming | 8 | 2507.4 | +286.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.8), SixSevenZaZa (+1.3).
 
@@ -59,7 +59,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | YHTR | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -85.7 | ElijahReborn, HowHowHowHow, SoFHunter, Sp1cy_NA, m0s9 |
 | 2026-09-17 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +15.8 | Copier, ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter |
 | 2026-09-17 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.09 | 1.00 | +66.8 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
-| 2026-09-17 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | +115.0 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
+| 2026-09-17 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | +115.1 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
 | 2026-09-17 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +68.9 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
 | 2026-09-04 | WaterDrinkers | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -18.6 | Experior, HowHowHowHow, Juiceyyyy, Matsuno, SoFHunter, Zazonky |
 | 2026-09-02 | Rejects | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -2.3 | Experior, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
@@ -70,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | NATIONAL CS UNI | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +64.0 | Copier, ElijahReborn, HowHowHowHow, SoFHunter, Sp1cy_NA |
 | 2026-08-05 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.13 | 0.73 | +175.0 | ElijahReborn, HowHowHowHow, Matsuno, SoFHunter, Sp1cy_NA |
 | 2026-07-31 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -10.9 | HowHowHowHow, Juiceyyyy, Matsuno, SoFHunter, Sp1cy_NA |
-| 2026-07-15 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -400.6 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
+| 2026-07-15 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -400.7 | ElijahReborn, HowHowHowHow, Juiceyyyy, SoFHunter, Sp1cy_NA |
 | 2026-05-27 | The Jits | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +158.9 | ElijahReborn, HowHowHowHow, Juiceyyyy, ReverendX, SoFHunter, Sp1cy_NA |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

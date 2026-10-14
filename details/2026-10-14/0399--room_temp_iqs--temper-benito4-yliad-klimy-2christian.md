@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.083 | 1215.6 | - |
 | +30 days | 0.060 | 1183.9 | -31.7 |
 | +60 days | 0.049 | 1168.1 | -47.5 |
-| +90 days | 0.029 | 1140.5 | -75.1 |
+| +90 days | 0.029 | 1140.6 | -75.0 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.178 vs 0.187 average, gap -0.009). Matching that average is worth about 3.2 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.2 |
 | regain | 12 | 2256.1 | +656.5 |
-| LAG Gaming | 8 | 2507.3 | +655.8 |
+| LAG Gaming | 8 | 2507.4 | +655.8 |
 | Zomblers | 22 | 2114.7 | +654.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.7), 3 Feet Of Meat (+1.4).
@@ -63,12 +63,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -0.9 | 2christian, Benito4, enN, klimy, yLiaD |
 | 2026-07-31 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.11 | 1.01 | +351.0 | 2christian, Benito4, RhyDaR, klimy, yLiaD |
 | 2026-07-29 | Axial | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -0.0 | 2christian, Benito4, RhyDaR, klimy, yLiaD |
-| 2026-07-22 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -148.1 | 2christian, Benito4, TeMPeR, klimy, yLiaD |
-| 2026-07-15 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -340.9 | 2christian, Benito4, TOP50RIFLER, TeMPeR, yLiaD |
+| 2026-07-22 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -148.2 | 2christian, Benito4, TeMPeR, klimy, yLiaD |
+| 2026-07-15 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -341.0 | 2christian, Benito4, TOP50RIFLER, TeMPeR, yLiaD |
 | 2026-05-21 | GRIT | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.03 | 0.30 | +383.8 | 2christian, Benito4, TeMPeR, klimy, yLiaD |
 | 2026-05-19 | Omen Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -0.2 | 2christian, Benito4, Storm-X, TeMPeR, klimy |
 | 2026-05-14 | girl kissers | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.01 | 0.24 | +124.9 | 1Code, Benito4, Storm-X, TeMPeR, klimy |
-| 2026-05-12 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -176.0 | 1Code, Benito4, Storm-X, TeMPeR, klimy |
+| 2026-05-12 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -176.1 | 1Code, Benito4, Storm-X, TeMPeR, klimy |
 | 2026-05-07 | Celestial Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -6.1 | 2christian, Benito4, TeMPeR, klimy, yLiaD |
 | 2026-05-05 | Holy Squid Empire | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -204.1 | 2christian, Benito4, Storm-X, TeMPeR, klimy |
 | 2026-04-30 | Elisir Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -357.4 | 2christian, Benito4, Storm-X, TeMPeR, klimy, yuppy- |

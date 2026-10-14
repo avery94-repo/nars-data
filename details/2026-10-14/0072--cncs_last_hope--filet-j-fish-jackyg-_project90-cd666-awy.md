@@ -3,15 +3,15 @@ Team Name: CNCS Last Hope
 Roster: Filet-J-Fish, JaCkyG, _Project90, Cd666, AwY_E8
 NARS Rank: 72 of 506
 
-Final Rating: 1788.5
-Seeded Start: 1112.1
-H2H Adjustment: +676.4
+Final Rating: 1788.6
+Seeded Start: 1112.0
+H2H Adjustment: +676.6 (capped at +-300, raw +676.5)
 
-Final Rating (1788.5) = Seeded Start (1112.1) + H2H Adjustment (+676.4)
+Final Rating (1788.6) = Seeded Start (1112.0) + H2H Adjustment (+676.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.009 x 1400 = 1112.1
+                = 1100 + 0.009 x 1400 = 1112.0
 
 seed_factor 0.009 = 0.25 x Tier Exposure (0.005) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.025)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.009 | 1112.1 | - |
-| +30 days | 0.000 | 1100.0 | -12.1 |
-| +60 days | 0.000 | 1100.0 | -12.1 |
-| +90 days | 0.000 | 1100.0 | -12.1 |
+| Now | 0.009 | 1112.0 | - |
+| +30 days | 0.000 | 1100.0 | -12.0 |
+| +60 days | 0.000 | 1100.0 | -12.0 |
+| +90 days | 0.000 | 1100.0 | -12.0 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.025 vs 0.539 average, gap -0.514). Matching that average is worth about 179.9 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +655.1 |
-| M80 | 2 | 3081.4 | +647.4 |
-| SportsBetExpert | 6 | 2672.3 | +641.0 |
+| NRG | 4 | 2835.7 | +654.5 |
+| M80 | 2 | 3081.4 | +647.3 |
+| SportsBetExpert | 6 | 2671.6 | +640.3 |
 | Wildcard | 3 | 2911.9 | +638.7 |
 | Liquid | 1 | 3103.3 | +638.4 |
 
@@ -57,7 +57,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-08 | Order Zero | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +136.7 | AwY_E8, Cd666, Filet-J-Fish, JaCkyG, _Project90 |
+| 2026-05-08 | Order Zero | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +136.8 | AwY_E8, Cd666, Filet-J-Fish, JaCkyG, _Project90 |
 | 2026-05-06 | Conscious Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +326.2 | AwY_E8, Cd666, Filet-J-Fish, JaCkyG, _Project90 |
 | 2026-05-01 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -34.2 | AwY_E8, Cd666, Filet-J-Fish, JaCkyG, _Project90 |
 | 2026-04-29 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +399.1 | AwY_E8, Cd666, Filet-J-Fish, JaCkyG, _Project90 |

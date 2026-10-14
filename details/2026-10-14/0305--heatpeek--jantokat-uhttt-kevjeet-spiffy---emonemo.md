@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.7 |
-| SportsBetExpert | 6 | 2672.3 | +663.8 |
-| LAG Gaming | 8 | 2507.3 | +653.4 |
+| NRG | 4 | 2835.7 | +664.1 |
+| SportsBetExpert | 6 | 2671.6 | +663.2 |
+| LAG Gaming | 8 | 2507.4 | +653.3 |
 | M80 | 2 | 3081.4 | +650.2 |
 | regain | 12 | 2256.1 | +647.6 |
 
@@ -62,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Smile Team Six | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +84.4 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
 | 2026-07-26 | Tractors | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -155.4 | EMOnEMO, Jantokat, Slimm_, Uhttt, spartanbooby |
 | 2026-06-05 | We Wont Implode This Time | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -211.0 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
-| 2026-06-03 | The Peninsula | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +171.9 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
+| 2026-06-03 | The Peninsula | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +172.0 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 | 2026-05-29 | YoungBlood | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +187.3 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 | 2026-05-27 | Team Unknown | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +185.7 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 

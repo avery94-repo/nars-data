@@ -3,11 +3,11 @@ Team Name: Old Dads Banging
 Roster: Extremogato, beanNess, The5Head, B0nkBro, meola
 NARS Rank: 499 of 506
 
-Final Rating: 550.5
+Final Rating: 550.4
 Seeded Start: 1180.5
-H2H Adjustment: -630.0
+H2H Adjustment: -630.1
 
-Final Rating (550.5) = Seeded Start (1180.5) + H2H Adjustment (-630.0)
+Final Rating (550.4) = Seeded Start (1180.5) + H2H Adjustment (-630.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.057 | 1180.5 | - |
-| +30 days | 0.045 | 1162.3 | -18.2 |
+| +30 days | 0.044 | 1162.3 | -18.2 |
 | +60 days | 0.036 | 1151.1 | -29.4 |
-| +90 days | 0.023 | 1131.9 | -48.6 |
+| +90 days | 0.023 | 1131.9 | -48.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.041 vs 0.037 average, gap +0.004). Matching that average is worth about 0.0 seed points.
 
@@ -41,8 +41,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 | :- | -: | -: | -: |
 | North Forge | 38 | 1971.1 | +666.2 |
 | Wanted Goons | 43 | 1933.1 | +665.8 |
-| NRG | 4 | 2836.4 | +665.3 |
-| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.6 |
 | Zomblers | 22 | 2114.7 | +663.3 |
 
 Seed inputs expiring within 90 days:
@@ -68,12 +68,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +178.2 | B0nkBro, Extremogato, b-enj-i, beanNess, meola |
 | 2026-07-17 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -0.1 | B0nkBro, Extremogato, The5Head, Vitalityy_, meola |
 | 2026-07-15 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -0.0 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
-| 2026-05-22 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +329.8 | B0nkBro, Extremogato, M4rT1n, The5Head, meola |
+| 2026-05-22 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +329.9 | B0nkBro, Extremogato, M4rT1n, The5Head, meola |
 | 2026-05-20 | Wealth Reduction | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -181.4 | B0nkBro, Extremogato, M4rT1n, Vongola, meola |
 | 2026-05-15 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -129.4 | B0nkBro, Extremogato, M4rT1n, The5Head, meola |
 | 2026-05-13 | 1NT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -144.7 | B0nkBro, Extremogato, M4rT1n, Vongola, meola |
 | 2026-05-08 | UnitedStatesArmy Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -10.4 | B0nkBro, Extremogato, M4rT1n, The5Head, meola |
-| 2026-05-06 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -250.4 | B0nkBro, Extremogato, M4rT1n, The5Head, Vongola |
+| 2026-05-06 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -250.5 | B0nkBro, Extremogato, M4rT1n, The5Head, Vongola |
 | 2026-04-29 | gooshedd | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -185.5 | B0nkBro, Extremogato, M4rT1n, The5Head, meola |
 | 2026-04-24 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +282.5 | B0nkBro, Extremogato, M4rT1n, Vongola, meola |
 | 2026-04-22 | Another Day in Paradise | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -266.5 | B0nkBro, Extremogato, M4rT1n, The5Head, meola |

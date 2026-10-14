@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.268 | 1475.8 | - |
 | +30 days | 0.250 | 1449.7 | -26.1 |
 | +60 days | 0.236 | 1429.9 | -45.9 |
-| +90 days | 0.214 | 1400.0 | -75.8 |
+| +90 days | 0.215 | 1400.3 | -75.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.095 vs 0.244 average, gap -0.149). Matching that average is worth about 104.3 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| M80 | 2 | 3081.4 | +640.0 |
-| NRG | 4 | 2836.4 | +632.3 |
+| M80 | 2 | 3081.4 | +640.1 |
 | Liquid | 1 | 3103.3 | +631.6 |
-| Wildcard | 3 | 2911.9 | +622.2 |
-| Voca | 5 | 2796.5 | +594.0 |
+| NRG | 4 | 2835.7 | +631.6 |
+| Wildcard | 3 | 2911.9 | +622.3 |
+| Voca | 5 | 2796.5 | +593.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0).
 
@@ -57,7 +57,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Spin da block | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.09 | 1.02 | +0.0 | -Tacho-, Don_therian, Ichigo, Znorux, sum_ke |
-| 2026-09-19 | Old Meta | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.19 | 1.00 | 1.19 | 0.00 | 0.00 | -48.5 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
+| 2026-09-19 | Old Meta | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.19 | 1.00 | 1.19 | 0.00 | 0.00 | -48.6 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-09-17 | bubibabu | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.19 | 1.00 | 1.19 | 0.11 | 1.19 | +73.0 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-09-15 | DESPAIR | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.19 | 1.00 | 1.19 | 0.16 | 1.19 | +44.2 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-09-08 | qcclan | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.19 | 1.00 | 1.14 | 0.00 | 0.00 | -62.7 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-08 | Strafe | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.16 | 0.94 | +0.3 | -Tacho-, -lnsane-, Liuxplay, _De1v_, sum_ke |
 | 2026-08-07 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.07 | 0.86 | +7.3 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-08-05 | crescent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.08 | 0.85 | +142.0 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
-| 2026-07-31 | WhalersOnDaMoon | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.11 | 0.81 | +215.8 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
+| 2026-07-31 | WhalersOnDaMoon | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.11 | 0.81 | +215.9 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-29 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -105.0 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-26 | Appalachian Apes | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.04 | 0.70 | +121.8 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-24 | gooshedd | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -239.1 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
@@ -81,11 +81,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.03 | 0.70 | +5.4 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-15 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.08 | 0.68 | +122.9 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-06-04 | YHUBEPCAM | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -80.7 | -Tacho-, -lnsane-, Don_therian, Liuxplay, _De1v_, sum_ke |
-| 2026-05-31 | Slimy Boogermen | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -184.0 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
-| 2026-05-29 | butt | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.03 | 0.34 | +237.9 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
+| 2026-05-31 | Slimy Boogermen | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -184.1 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
+| 2026-05-29 | butt | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.03 | 0.34 | +238.0 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
 | 2026-05-27 | Team Team Name | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.03 | 0.33 | +9.1 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
 | 2026-05-22 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +2.5 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
-| 2026-05-20 | Skyline | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.09 | 0.00 | +190.9 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
+| 2026-05-20 | Skyline | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.09 | 0.00 | +191.0 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
 | 2026-05-15 | Texas Orange | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +70.4 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
 | 2026-05-13 | Evil Reunion | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +362.1 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |
 | 2026-05-08 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -132.7 | -Tacho-, -lnsane-, Don_therian, Liuxplay, sum_ke |

@@ -3,11 +3,11 @@ Team Name: Armored Talent
 Roster: f0Nes2, laggistv, SEIK0X-, g0tfr4g, Doow4
 NARS Rank: 174 of 506
 
-Final Rating: 1529.9
+Final Rating: 1529.8
 Seeded Start: 1389.7
-H2H Adjustment: +140.2
+H2H Adjustment: +140.1
 
-Final Rating (1529.9) = Seeded Start (1389.7) + H2H Adjustment (+140.2)
+Final Rating (1529.8) = Seeded Start (1389.7) + H2H Adjustment (+140.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.207 | 1389.7 | - |
 | +30 days | 0.195 | 1373.7 | -16.0 |
 | +60 days | 0.180 | 1351.4 | -38.3 |
-| +90 days | 0.154 | 1315.6 | -74.1 |
+| +90 days | 0.154 | 1315.8 | -73.9 |
 
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.082 average, gap -0.022). Matching that average is worth about 15.4 seed points.
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.080 average, gap -0.020). Matching that average is worth about 14.0 seed points.
 
 - Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; NA Revival (2026-09-27) 1.01; S58 NA Intermediate Central - Playoffs A (2026-09-06) 0.94
 - Quality Wins drivers: beat UltimateDarklordWizardz at S59 NA Main A - Regular Season (2026-10-09) 0.21; beat MadaNASCAR at NA Revival (2026-09-27) 0.15; beat AURA Esports at S58 NA Intermediate A - Regular Season (2026-08-26) 0.11
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +248.8 |
-| SportsBetExpert | 6 | 2672.3 | +248.1 |
-| M80 | 2 | 3081.4 | +243.6 |
-| LAG Gaming | 8 | 2507.3 | +243.2 |
-| Wildcard | 3 | 2911.9 | +241.8 |
+| NRG | 4 | 2835.7 | +248.7 |
+| SportsBetExpert | 6 | 2671.6 | +248.0 |
+| M80 | 2 | 3081.4 | +243.7 |
+| LAG Gaming | 8 | 2507.4 | +243.3 |
+| Wildcard | 3 | 2911.9 | +241.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -52.1 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-25 | AML | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -293.1 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-24 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.10 | 0.65 | +199.2 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
-| 2026-07-22 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -177.3 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
+| 2026-07-22 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -177.4 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-15 | offBalance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +6.6 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-06-12 | makeSHIFT | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.05 | 0.37 | +248.8 | Doow4, NovaSun, f0Nes2, g0tfr4g, laggistv |
 | 2026-06-05 | 1001 Fragrance | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -128.5 | Doow4, f0Nes2, g0tfr4g, laggistv, pRediii |

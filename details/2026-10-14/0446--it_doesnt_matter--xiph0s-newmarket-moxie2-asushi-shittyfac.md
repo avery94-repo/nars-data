@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +474.6 |
-| SportsBetExpert | 6 | 2672.3 | +474.4 |
-| Zomblers | 22 | 2114.7 | +471.2 |
-| North Forge | 38 | 1971.1 | +471.0 |
-| regain | 12 | 2256.1 | +470.5 |
+| NRG | 4 | 2835.7 | +474.2 |
+| SportsBetExpert | 6 | 2671.6 | +474.1 |
+| Zomblers | 22 | 2114.7 | +471.3 |
+| North Forge | 38 | 1971.1 | +471.1 |
+| regain | 12 | 2256.1 | +470.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.9).
 
@@ -73,6 +73,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +78.5 | Newmarket, Shittyfaceit, asushi, xiph0s, zeep_glorp |
 | 2026-07-15 | Atlantis eSports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -137.6 | Moxie2, Newmarket, Shittyfaceit, asushi, xiph0s |
 | 2026-06-03 | T Shirt Material | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +191.7 | 1peko, Moxie2, Newmarket, Shittyfaceit, xiph0s |
-| 2026-05-27 | Rush Hour | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +145.8 | 1peko, Moxie2, Newmarket, Shittyfaceit, xiph0s |
+| 2026-05-27 | Rush Hour | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +145.9 | 1peko, Moxie2, Newmarket, Shittyfaceit, xiph0s |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

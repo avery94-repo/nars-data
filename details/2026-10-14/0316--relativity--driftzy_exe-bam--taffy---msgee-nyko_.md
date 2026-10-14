@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.8 |
-| SportsBetExpert | 6 | 2672.3 | +664.0 |
-| LAG Gaming | 8 | 2507.3 | +653.7 |
+| NRG | 4 | 2835.7 | +664.2 |
+| SportsBetExpert | 6 | 2671.6 | +663.4 |
+| LAG Gaming | 8 | 2507.4 | +653.7 |
 | M80 | 2 | 3081.4 | +650.2 |
 | regain | 12 | 2256.1 | +648.9 |
 
@@ -64,7 +64,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -141.3 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-20 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -120.0 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-14 | Midwest Farmers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +200.6 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
-| 2026-05-13 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -414.9 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
+| 2026-05-13 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -415.0 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-08 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +27.6 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-06 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +1.8 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-01 | Qinorhwat | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +271.6 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |

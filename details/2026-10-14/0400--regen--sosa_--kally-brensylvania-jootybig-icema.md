@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +414.2 |
-| SportsBetExpert | 6 | 2672.3 | +414.1 |
-| regain | 12 | 2256.1 | +409.8 |
-| Zomblers | 22 | 2114.7 | +409.3 |
-| LAG Gaming | 8 | 2507.3 | +408.6 |
+| NRG | 4 | 2835.7 | +414.0 |
+| SportsBetExpert | 6 | 2671.6 | +413.8 |
+| regain | 12 | 2256.1 | +409.9 |
+| Zomblers | 22 | 2114.7 | +409.4 |
+| LAG Gaming | 8 | 2507.4 | +408.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+1.0), shirtcockin (+1.4), Courage (+1.7).
 
@@ -52,10 +52,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Team TahMeow | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -249.1 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
+| 2026-10-09 | Team TahMeow | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -249.2 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
 | 2026-10-07 | KIS | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -120.8 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
 | 2026-09-08 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +31.6 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
 | 2026-09-03 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -20.9 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
-| 2026-09-02 | STALLOONS BALLOONS | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.09 | 0.95 | +237.7 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
+| 2026-09-02 | STALLOONS BALLOONS | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.09 | 0.95 | +237.8 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

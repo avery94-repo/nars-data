@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: brb grinding minecraft
 Roster: phiLm9yne, OJISBAE, 1ferda, mineman97, riizzy
-NARS Rank: 240 of 506
+NARS Rank: 239 of 506
 
 Final Rating: 1405.5
 Seeded Start: 1253.5
@@ -13,7 +13,7 @@ Final Rating (1405.5) = Seeded Start (1253.5) + H2H Adjustment (+152.0)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.110 x 1400 = 1253.5
 
-seed_factor 0.110 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.324)
+seed_factor 0.110 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.324)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.110 | 1253.5 | - |
 | +30 days | 0.115 | 1261.5 | +8.0 |
 | +60 days | 0.118 | 1264.5 | +11.0 |
-| +90 days | 0.122 | 1271.2 | +17.7 |
+| +90 days | 0.122 | 1271.3 | +17.9 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.071 vs 0.108 average, gap -0.037). Matching that average is worth about 13.0 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.324 vs 0.365 average, gap -0.041). Matching that average is worth about 14.3 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs B (2026-09-15) 1.04; S59 NA Intermediate A - Regular Season (2026-10-09) 1.00
 - Quality Wins drivers: beat O Fire at S58 NA Open9-10 East - Playoffs B (2026-09-09) 0.13; beat EZ2025 at S59 NA Intermediate A - Regular Season (2026-10-13) 0.09; beat house at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +235.7 |
-| SportsBetExpert | 6 | 2672.3 | +235.4 |
-| LAG Gaming | 8 | 2507.3 | +231.6 |
+| NRG | 4 | 2835.7 | +235.6 |
+| SportsBetExpert | 6 | 2671.6 | +235.2 |
+| LAG Gaming | 8 | 2507.4 | +231.6 |
 | M80 | 2 | 3081.4 | +230.6 |
-| regain | 12 | 2256.1 | +229.2 |
+| regain | 12 | 2256.1 | +229.3 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 

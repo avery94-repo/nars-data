@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.036 | 1150.1 | - |
 | +30 days | 0.030 | 1141.5 | -8.7 |
 | +60 days | 0.025 | 1134.5 | -15.6 |
-| +90 days | 0.023 | 1132.3 | -17.9 |
+| +90 days | 0.023 | 1132.3 | -17.8 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.087 vs 0.130 average, gap -0.043). Matching that average is worth about 15.1 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.1 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.5 |
 | North Forge | 38 | 1971.1 | +660.8 |
 | Zomblers | 22 | 2114.7 | +660.8 |
-| regain | 12 | 2256.1 | +659.7 |
+| regain | 12 | 2256.1 | +659.6 |
 
 Seed inputs expiring within 90 days:
 - S57 NA Open9-10 Central - Playoffs B vs Guangzhou Loong Lions (2026-06-03): expires in 46 days [Quality Wins 0.03, Opponent Network 0.31]

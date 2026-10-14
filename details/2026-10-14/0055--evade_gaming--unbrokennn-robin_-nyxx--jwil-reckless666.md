@@ -3,11 +3,11 @@ Team Name: Evade Gaming
 Roster: UnbrokeNNN, RoBiN_, nyxx-, Jwil, Reckless666
 NARS Rank: 55 of 506
 
-Final Rating: 1864.9
+Final Rating: 1865.0
 Seeded Start: 1141.0
-H2H Adjustment: +723.9
+H2H Adjustment: +724.0
 
-Final Rating (1864.9) = Seeded Start (1141.0) + H2H Adjustment (+723.9)
+Final Rating (1865.0) = Seeded Start (1141.0) + H2H Adjustment (+724.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +650.0 |
-| M80 | 2 | 3081.4 | +645.9 |
+| NRG | 4 | 2835.7 | +649.3 |
+| M80 | 2 | 3081.4 | +645.8 |
 | Liquid | 1 | 3103.3 | +637.0 |
 | Wildcard | 3 | 2911.9 | +635.0 |
-| SportsBetExpert | 6 | 2672.3 | +629.3 |
+| SportsBetExpert | 6 | 2671.6 | +628.5 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0).
 

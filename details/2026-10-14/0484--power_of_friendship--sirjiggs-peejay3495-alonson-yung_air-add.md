@@ -5,7 +5,7 @@ NARS Rank: 484 of 506
 
 Final Rating: 720.2
 Seeded Start: 1120.6
-H2H Adjustment: -400.4 (capped at +-300, raw -400.3)
+H2H Adjustment: -400.4
 
 Final Rating (720.2) = Seeded Start (1120.6) + H2H Adjustment (-400.4)
 
@@ -39,8 +39,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.3 |
-| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.6 |
 | North Forge | 38 | 1971.1 | +664.2 |
 | Wanted Goons | 43 | 1933.1 | +663.3 |
 | Zomblers | 22 | 2114.7 | +662.4 |
@@ -56,12 +56,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-29 | Lan Bears | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -186.0 | AddySandwich, PeeJay3495, swim5alive, tuesdayatlan, yung_air |
+| 2026-05-29 | Lan Bears | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -186.1 | AddySandwich, PeeJay3495, swim5alive, tuesdayatlan, yung_air |
 | 2026-05-27 | MINDTRIP | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -3.5 | AddySandwich, PeeJay3495, sirjiggs, tuesdayatlan, yung_air |
-| 2026-05-22 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +171.7 | AddySandwich, PeeJay3495, swim5alive, tuesdayatlan, yung_air |
-| 2026-05-20 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +151.3 | AddySandwich, PeeJay3495, sirjiggs, tuesdayatlan, yung_air |
-| 2026-05-13 | MakeYouSayLate | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -166.0 | AddySandwich, PeeJay3495, sirjiggs, tuesdayatlan, yung_air |
-| 2026-05-08 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -195.5 | AddySandwich, PeeJay3495, sirjiggs, tuesdayatlan, yung_air |
+| 2026-05-22 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +171.8 | AddySandwich, PeeJay3495, swim5alive, tuesdayatlan, yung_air |
+| 2026-05-20 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +151.4 | AddySandwich, PeeJay3495, sirjiggs, tuesdayatlan, yung_air |
+| 2026-05-13 | MakeYouSayLate | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -166.1 | AddySandwich, PeeJay3495, sirjiggs, tuesdayatlan, yung_air |
+| 2026-05-08 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -195.6 | AddySandwich, PeeJay3495, sirjiggs, tuesdayatlan, yung_air |
 | 2026-05-06 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -72.8 | 1Leb, AddySandwich, PeeJay3495, b4ze, yung_air |
 | 2026-05-01 | Famas OP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +282.2 | 1Leb, AddySandwich, PeeJay3495, sirjiggs, swim5alive |
 | 2026-04-29 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -148.0 | 1Leb, AddySandwich, PeeJay3495, sirjiggs, yung_air |

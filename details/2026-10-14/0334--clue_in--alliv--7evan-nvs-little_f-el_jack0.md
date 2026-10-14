@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +601.6 |
-| SportsBetExpert | 6 | 2672.3 | +601.0 |
-| LAG Gaming | 8 | 2507.3 | +592.1 |
-| regain | 12 | 2256.1 | +589.4 |
-| M80 | 2 | 3081.4 | +588.4 |
+| NRG | 4 | 2835.7 | +601.5 |
+| SportsBetExpert | 6 | 2671.6 | +600.9 |
+| LAG Gaming | 8 | 2507.4 | +592.5 |
+| regain | 12 | 2256.1 | +589.8 |
+| M80 | 2 | 3081.4 | +588.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 
@@ -60,14 +60,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-12 | Eightball | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.00 | 0.00 | -90.6 | Little_F, NVS, Osodank, alliV-, el_jack0 |
 | 2026-09-06 | Veniversum | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -162.3 | 7eVaN, Little_F, NVS, el_jack0, xner |
-| 2026-09-04 | UsingCodefArt25atSCL | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +150.4 | 7eVaN, Little_F, NVS, el_jack0, xner |
+| 2026-09-04 | UsingCodefArt25atSCL | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +150.5 | 7eVaN, Little_F, NVS, el_jack0, xner |
 | 2026-09-02 | Mud Wizards | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.07 | 0.94 | +180.1 | 7eVaN, Little_F, NVS, el_jack0, xner |
 | 2026-05-22 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -35.0 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
-| 2026-05-22 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -385.3 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
+| 2026-05-22 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -385.4 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
 | 2026-05-19 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.00 | 0.24 | +185.3 | Little_F, Slove, alliV-, el_jack0, xner |
 | 2026-05-06 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +322.1 | 7eVaN, Little_F, alliV-, el_jack0, xner |
 | 2026-04-29 | DingTone | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -168.9 | 7eVaN, Little_F, Slove, alliV-, el_jack0 |
-| 2026-04-24 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +251.0 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
+| 2026-04-24 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +251.1 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
 | 2026-04-22 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -209.8 | 7eVaN, Little_F, Osodank, Slove, alliV- |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.4 |
 | regain | 12 | 2256.1 | +658.4 |
-| Zomblers | 22 | 2114.7 | +658.1 |
-| FarmVille | 16 | 2167.5 | +656.4 |
+| Zomblers | 22 | 2114.7 | +658.0 |
+| FarmVille | 16 | 2167.6 | +656.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.6).
 
@@ -62,15 +62,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Distinguished Ducks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -43.9 | HENBOOGA, dr3xd, gnilia, millie, othelloo |
 | 2026-08-14 | Wealth Reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -102.5 | HENBOOGA, cortado, gnilia, millie, othelloo |
 | 2026-08-12 | BucketJonsBoys | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -22.9 | HENBOOGA, cortado, gnilia, millie, othelloo |
-| 2026-08-07 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -191.8 | HENBOOGA, cortado, gnilia, millie, othelloo |
+| 2026-08-07 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -191.9 | HENBOOGA, cortado, gnilia, millie, othelloo |
 | 2026-08-05 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +62.8 | HENBOOGA, cortado, gnilia, millie, othelloo |
-| 2026-07-31 | Hack-A-Shaq | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -174.9 | HENBOOGA, cortado, gnilia, millie, othelloo |
+| 2026-07-31 | Hack-A-Shaq | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -175.0 | HENBOOGA, cortado, gnilia, millie, othelloo |
 | 2026-07-29 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -118.3 | 1noonzee, HENBOOGA, cortado, othelloo, uncouth |
 | 2026-07-24 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.03 | 0.66 | +0.7 | 1noonzee, HENBOOGA, dr3xd, millie, othelloo |
 | 2026-07-22 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +314.3 | 1noonzee, HENBOOGA, dr3xd, millie, othelloo |
 | 2026-07-15 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -91.6 | HENBOOGA, dr3xd, millie, nucIear, othelloo |
-| 2026-05-20 | MASTER ONE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +340.9 | cortado, dr3xd, millie, nucIear, uncouth |
-| 2026-05-08 | qcclan | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -360.5 | HENBOOGA, dr3xd, millie, othelloo, uncouth |
+| 2026-05-20 | MASTER ONE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +341.0 | cortado, dr3xd, millie, nucIear, uncouth |
+| 2026-05-08 | qcclan | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -360.6 | HENBOOGA, dr3xd, millie, othelloo, uncouth |
 | 2026-05-06 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +7.7 | HENBOOGA, dr3xd, millie, othelloo, uncouth |
 | 2026-05-01 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +18.3 | 1noonzee, dr3xd, millie, othelloo, uncouth |
 | 2026-04-29 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +101.9 | HENBOOGA, dr3xd, millie, othelloo, uncouth |

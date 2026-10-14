@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.249 | 1448.6 | - |
 | +30 days | 0.231 | 1423.9 | -24.7 |
 | +60 days | 0.217 | 1403.2 | -45.4 |
-| +90 days | 0.191 | 1367.9 | -80.8 |
+| +90 days | 0.192 | 1368.1 | -80.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.077 vs 0.026 average, gap +0.051). Matching that average is worth about 0.0 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +245.8 |
-| SportsBetExpert | 6 | 2672.3 | +245.3 |
-| LAG Gaming | 8 | 2507.3 | +241.3 |
-| M80 | 2 | 3081.4 | +240.4 |
+| NRG | 4 | 2835.7 | +245.6 |
+| SportsBetExpert | 6 | 2671.6 | +245.2 |
+| LAG Gaming | 8 | 2507.4 | +241.3 |
+| M80 | 2 | 3081.4 | +240.5 |
 | Wildcard | 3 | 2911.9 | +238.8 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
@@ -74,14 +74,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.07 | 0.82 | +84.9 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-12 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -91.1 | ALDEN_, JGamby, Jackpot, alloy, enfohip |
 | 2026-08-07 | EMPIRE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.74 | 1.46 | 1.00 | 1.08 | 0.00 | 0.00 | -8.8 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-08-07 | New Legends | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.74 | 1.46 | 1.00 | 1.08 | 0.00 | 0.00 | -223.0 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-08-07 | New Legends | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.74 | 1.46 | 1.00 | 1.08 | 0.00 | 0.00 | -223.1 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-07 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +37.1 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-05 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.08 | 0.73 | +10.7 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-07-29 | JPG | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +207.1 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-07-29 | NoPrac | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +3.9 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-07-24 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -159.7 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-07-23 | The Ohio Meat Wagon | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -375.6 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-07-17 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +213.0 | Avacate, JGamby, Jackpot, alloy, enfohip |
+| 2026-07-23 | The Ohio Meat Wagon | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -375.7 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-07-17 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +213.1 | Avacate, JGamby, Jackpot, alloy, enfohip |
 | 2026-07-15 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +0.1 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-06-05 | Team TahMeow | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.32 | +161.8 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-06-02 | FAT CHUDS BRO | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +147.1 | JGamby, Jackpot, alwayslucky-, enfohip, samR- |

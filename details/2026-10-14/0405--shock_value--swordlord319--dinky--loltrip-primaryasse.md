@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.2 |
 | regain | 12 | 2256.1 | +656.8 |
-| LAG Gaming | 8 | 2507.3 | +655.9 |
+| LAG Gaming | 8 | 2507.4 | +655.8 |
 | Zomblers | 22 | 2114.7 | +654.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.6).
@@ -59,7 +59,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-20 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -179.8 | -dinky-, MichaeI_Weki, PrimaryAsset, Swordlord319, loltrip |
-| 2026-05-08 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -181.0 | -dinky-, M1D, PrimaryAsset, Swordlord319, loltrip |
+| 2026-05-08 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -181.1 | -dinky-, M1D, PrimaryAsset, Swordlord319, loltrip |
 | 2026-05-01 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -17.3 | Blurted, M1D, PrimaryAsset, Swordlord319, loltrip |
 | 2026-04-29 | 91AshLiu | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +3.6 | -dinky-, Blurted, M1D, PrimaryAsset, Swordlord319 |
 | 2026-04-24 | Happy Feed | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +12.6 | -dinky-, Blurted, PrimaryAsset, Swordlord319, loltrip |

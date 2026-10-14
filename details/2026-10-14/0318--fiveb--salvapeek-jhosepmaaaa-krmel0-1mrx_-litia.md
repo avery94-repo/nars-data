@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +408.6 |
-| SportsBetExpert | 6 | 2672.3 | +408.2 |
-| LAG Gaming | 8 | 2507.3 | +402.3 |
-| regain | 12 | 2256.1 | +401.0 |
+| NRG | 4 | 2835.7 | +408.3 |
+| SportsBetExpert | 6 | 2671.6 | +407.9 |
+| LAG Gaming | 8 | 2507.4 | +402.4 |
+| regain | 12 | 2256.1 | +401.1 |
 | M80 | 2 | 3081.4 | +399.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.3), SixSevenZaZa (+0.5).
@@ -54,7 +54,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Fire Nation | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -6.4 | 4MoB, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
 | 2026-09-10 | TELETUBEASTS | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -95.9 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4 |
-| 2026-09-06 | pew pew | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -100.7 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
+| 2026-09-06 | pew pew | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -100.8 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
 | 2026-09-04 | Team Zhao | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.06 | 0.93 | +122.8 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4 |
 | 2026-09-02 | TeamFlashGaming | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +148.4 | 1mrx_, BonesNeit0r, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
 

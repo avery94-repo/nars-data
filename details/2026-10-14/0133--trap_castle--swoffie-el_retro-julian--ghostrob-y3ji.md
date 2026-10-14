@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.092 | 1228.9 | - |
 | +30 days | 0.088 | 1223.8 | -5.1 |
 | +60 days | 0.087 | 1221.4 | -7.4 |
-| +90 days | 0.083 | 1216.2 | -12.7 |
+| +90 days | 0.083 | 1216.3 | -12.6 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.308 vs 0.383 average, gap -0.075). Matching that average is worth about 26.3 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +313.9 |
-| SportsBetExpert | 6 | 2672.3 | +312.2 |
-| M80 | 2 | 3081.4 | +307.7 |
-| Wildcard | 3 | 2911.9 | +305.2 |
-| LAG Gaming | 8 | 2507.3 | +304.1 |
+| NRG | 4 | 2835.7 | +313.9 |
+| SportsBetExpert | 6 | 2671.6 | +312.2 |
+| M80 | 2 | 3081.4 | +307.9 |
+| Wildcard | 3 | 2911.9 | +305.4 |
+| LAG Gaming | 8 | 2507.4 | +304.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
 
@@ -55,7 +55,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-20 | fih hou | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -44.0 | El_RETRO, GhostRob, Julian-, crsh, y3ji |
 | 2026-09-16 | No Future Lifes Over | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -76.7 | El_RETRO, GhostRob, Julian-, crsh, y3ji |
 | 2026-09-10 | pew pew | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.03 | 0.97 | +89.6 | El_RETRO, GhostRob, Julian-, crsh, y3ji |
-| 2026-09-08 | Fourth Quarter | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +98.9 | El_RETRO, GhostRob, Julian-, crsh, y3ji |
+| 2026-09-08 | Fourth Quarter | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +99.0 | El_RETRO, GhostRob, Julian-, crsh, y3ji |
 | 2026-09-06 | deez | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.08 | 0.94 | +73.1 | El_RETRO, GhostRob, Julian-, crsh, y3ji |
 | 2026-09-04 | Team Fraiche | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +120.4 | El_RETRO, GhostRob, Julian-, crsh, y3ji |
 | 2026-09-02 | Kitzune Division | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +131.6 | El_RETRO, GhostRob, Julian-, Swoffie, y3ji |

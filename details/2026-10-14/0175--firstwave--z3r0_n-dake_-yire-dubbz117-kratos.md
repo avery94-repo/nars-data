@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.222 | 1411.5 | - |
 | +30 days | 0.210 | 1393.6 | -17.9 |
 | +60 days | 0.194 | 1371.8 | -39.7 |
-| +90 days | 0.168 | 1334.9 | -76.5 |
+| +90 days | 0.168 | 1335.3 | -76.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.147 vs 0.146 average, gap +0.001). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +434.2 |
-| SportsBetExpert | 6 | 2672.3 | +432.4 |
+| NRG | 4 | 2835.7 | +433.9 |
+| SportsBetExpert | 6 | 2671.6 | +432.1 |
 | M80 | 2 | 3081.4 | +425.3 |
-| LAG Gaming | 8 | 2507.3 | +422.7 |
-| Wildcard | 3 | 2911.9 | +422.0 |
+| LAG Gaming | 8 | 2507.4 | +422.8 |
+| Wildcard | 3 | 2911.9 | +422.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -55,7 +55,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | Costco Family | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +17.8 | Anzio, Dubbz117, Kratos, Yire, crames_ |
+| 2026-10-09 | Costco Family | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +17.7 | Anzio, Dubbz117, Kratos, Yire, crames_ |
 | 2026-10-07 | dogwater | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +1.9 | Anzio, Dubbz117, Kratos, Yire, crames_ |
 | 2026-09-17 | ABG Esports | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -34.3 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-09-15 | UltimateDarklordWizardz | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.20 | 1.00 | +64.3 | Dubbz117, Kratos, Yire, urz, z3r0_N |
@@ -66,7 +66,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -51.9 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-08-20 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -14.0 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-08-20 | Fathom Gaming | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -11.0 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
-| 2026-08-13 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -100.5 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
+| 2026-08-13 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -100.6 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-08-13 | Beyond Limits | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.61 | 0.94 | +218.1 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-08-12 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -3.8 | Dubbz117, Kratos, LOVERzera, Yire, z3r0_N |
 | 2026-08-07 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -124.8 | Dubbz117, Kratos, Yire, based, z3r0_N |

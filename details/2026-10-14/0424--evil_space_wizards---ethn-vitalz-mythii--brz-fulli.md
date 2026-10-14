@@ -4,14 +4,14 @@ Roster: -ethn, Vitalz, mythii, -brz, fuLLi
 NARS Rank: 424 of 506
 
 Final Rating: 988.1
-Seeded Start: 1229.7
-H2H Adjustment: -241.6
+Seeded Start: 1229.6
+H2H Adjustment: -241.5
 
-Final Rating (988.1) = Seeded Start (1229.7) + H2H Adjustment (-241.6)
+Final Rating (988.1) = Seeded Start (1229.6) + H2H Adjustment (-241.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.093 x 1400 = 1229.7
+                = 1100 + 0.093 x 1400 = 1229.6
 
 seed_factor 0.093 = 0.25 x Tier Exposure (0.043) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.280)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.093 | 1229.7 | - |
+| Now | 0.093 | 1229.6 | - |
 | +30 days | 0.065 | 1191.1 | -38.5 |
 | +60 days | 0.053 | 1174.0 | -55.7 |
 | +90 days | 0.031 | 1143.9 | -85.8 |
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +664.9 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.4 |
 | regain | 12 | 2256.1 | +658.0 |
 | Zomblers | 22 | 2114.7 | +657.2 |
-| LAG Gaming | 8 | 2507.3 | +656.2 |
+| LAG Gaming | 8 | 2507.4 | +656.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.3).
 
@@ -52,7 +52,7 @@ Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs Kurrupted Mindz (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.05]
 - S57 NA Main Central - Regular Season vs onliners (2026-05-08): expires in 20 days [Quality Wins 0.00, Opponent Network 0.16]
 - S57 NA Main Central - Regular Season vs Scrimless (2026-05-14): expires in 26 days [Quality Wins 0.00, Opponent Network 0.20]
-- S57 NA Main Central - Regular Season vs Aers Money Crew (2026-05-15): expires in 27 days [Quality Wins 0.03, Opponent Network 0.21]
+- S57 NA Main Central - Regular Season vs Aers Money Crew (2026-05-15): expires in 27 days [Quality Wins 0.02, Opponent Network 0.21]
 - S57 NA Main Central - Regular Season vs GOOZPEEK (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.02, Opponent Network 0.26]
 
 #### Matches (22 qualifying)
@@ -62,21 +62,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-21 | Absent Minded | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.09 | 0.97 | +63.6 | -brz, -ethn, Vitalz, basspumpin_, fuLLi |
 | 2026-08-19 | RejexEsports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.05 | 0.95 | +31.5 | -brz, -ethn, Vitalz, basspumpin_, fuLLi |
-| 2026-08-14 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -134.3 | -brz, -ethn, Vitalz, basspumpin_, fuLLi |
+| 2026-08-14 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -134.4 | -brz, -ethn, Vitalz, basspumpin_, fuLLi |
 | 2026-08-12 | Kaos | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -61.5 | -brz, Vitalz, basspumpin_, fuLLi, mythii |
 | 2026-08-07 | 5Frag Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -76.8 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-08-05 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -140.1 | -brz, Vitalz, basspumpin_, fuLLi, mythii |
+| 2026-08-05 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -140.2 | -brz, Vitalz, basspumpin_, fuLLi, mythii |
 | 2026-07-31 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -0.6 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-07-29 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -99.9 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-07-24 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -273.4 | -ethn, Vitalz, fuLLi, kaleq, mythii |
-| 2026-07-22 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.09 | 0.74 | +233.1 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-07-24 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -273.5 | -ethn, Vitalz, fuLLi, kaleq, mythii |
+| 2026-07-22 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.09 | 0.74 | +233.2 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-07-17 | Automatic HQ | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.11 | 0.70 | +380.1 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-07-15 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -136.6 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-05-22 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +233.8 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-05-20 | grogu | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -291.3 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-05-15 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.03 | 0.21 | +134.4 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-05-22 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +233.9 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-05-20 | grogu | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -291.4 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-05-15 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +134.5 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-05-14 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +5.4 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-05-08 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +238.5 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-05-08 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +238.6 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-05-06 | Yogaball Frags | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -299.7 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-05-01 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -258.3 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-04-29 | YHUBEPCAM | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -173.0 | -brz, -ethn, Vitalz, fuLLi, mythii |

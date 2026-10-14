@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +421.8 |
-| SportsBetExpert | 6 | 2672.3 | +419.4 |
-| M80 | 2 | 3081.4 | +413.5 |
-| Wildcard | 3 | 2911.9 | +410.1 |
-| LAG Gaming | 8 | 2507.3 | +408.2 |
+| NRG | 4 | 2835.7 | +421.8 |
+| SportsBetExpert | 6 | 2671.6 | +419.4 |
+| M80 | 2 | 3081.4 | +413.8 |
+| Wildcard | 3 | 2911.9 | +410.4 |
+| LAG Gaming | 8 | 2507.4 | +408.5 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -60,6 +60,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | Juiced Up | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.03 | 0.98 | +123.6 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
 | 2026-09-09 | TriangleTraders | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +168.0 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
 | 2026-09-04 | Booday | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.04 | 0.93 | +324.7 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
-| 2026-05-27 | House Platypus | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -253.0 | BeetlePiimp, Piggy67, RamxRanch, Rob--, cawfee, dieloooon |
+| 2026-05-27 | House Platypus | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -253.1 | BeetlePiimp, Piggy67, RamxRanch, Rob--, cawfee, dieloooon |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

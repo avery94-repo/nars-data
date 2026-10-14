@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +513.6 |
-| SportsBetExpert | 6 | 2672.3 | +513.3 |
+| NRG | 4 | 2835.7 | +513.2 |
+| SportsBetExpert | 6 | 2671.6 | +513.0 |
 | regain | 12 | 2256.1 | +507.0 |
-| LAG Gaming | 8 | 2507.3 | +506.4 |
+| LAG Gaming | 8 | 2507.4 | +506.4 |
 | Zomblers | 22 | 2114.7 | +505.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.8), shirtcockin (+1.2), Courage (+1.5).
@@ -77,11 +77,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -266.4 | BeZus, BobbyCritz, Orb1t-CS, Ryougi, kitchN |
 | 2026-05-27 | Quality | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -4.5 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-22 | monitor off | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +178.0 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
-| 2026-05-20 | NOVAIR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +243.2 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
+| 2026-05-20 | NOVAIR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +243.3 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-15 | Costco Family | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +47.8 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-13 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -215.8 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-08 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +123.3 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
-| 2026-05-06 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -426.9 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
+| 2026-05-06 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -427.0 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-01 | AURA Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +72.7 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-04-29 | THE WEST COAST GRINDERS | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +242.2 | BeZus, BobbyCritz, M3-, benGEEE, kitchN |
 | 2026-04-23 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +409.2 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |

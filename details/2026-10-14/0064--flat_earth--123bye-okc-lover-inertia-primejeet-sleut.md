@@ -4,14 +4,14 @@ Roster: 123bye, okc-lover, inertia, PrimeJeet, sleuth
 NARS Rank: 64 of 506
 
 Final Rating: 1826.4
-Seeded Start: 1402.6
-H2H Adjustment: +423.8 (capped at +-300, raw +423.9)
+Seeded Start: 1402.5
+H2H Adjustment: +423.9
 
-Final Rating (1826.4) = Seeded Start (1402.6) + H2H Adjustment (+423.8)
+Final Rating (1826.4) = Seeded Start (1402.5) + H2H Adjustment (+423.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.216 x 1400 = 1402.6
+                = 1100 + 0.216 x 1400 = 1402.5
 
 seed_factor 0.216 = 0.25 x Tier Exposure (0.125) + 0.50 x Quality Wins (0.060) + 0.25 x Opponent Network (0.618)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.216 | 1402.6 | - |
-| +30 days | 0.210 | 1393.9 | -8.7 |
+| Now | 0.216 | 1402.5 | - |
+| +30 days | 0.210 | 1393.8 | -8.7 |
 | +60 days | 0.202 | 1383.4 | -19.1 |
-| +90 days | 0.193 | 1369.9 | -32.6 |
+| +90 days | 0.193 | 1370.2 | -32.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.234 average, gap -0.174). Matching that average is worth about 121.8 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +285.2 |
-| SportsBetExpert | 6 | 2672.3 | +281.0 |
+| NRG | 4 | 2835.7 | +285.0 |
 | M80 | 2 | 3081.4 | +280.9 |
+| SportsBetExpert | 6 | 2671.6 | +280.7 |
 | Wildcard | 3 | 2911.9 | +277.8 |
 | Liquid | 1 | 3103.3 | +277.0 |
 
@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.09 | 0.68 | +12.8 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |
 | 2026-07-24 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +25.8 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |
 | 2026-07-22 | Moniseum | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +366.2 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |
-| 2026-07-15 | Brothers United | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.02 | 0.59 | +238.7 | 123bye, PrimeJeet, altar, inertia, okc-lover |
+| 2026-07-15 | Brothers United | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.02 | 0.59 | +238.8 | 123bye, PrimeJeet, altar, inertia, okc-lover |
 | 2026-05-31 | Anchors Anonymous | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.00 | 0.00 | -277.5 | 123bye, PrimeJeet, altar, inertia, sleuth |
 | 2026-05-29 | Heptasea | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.00 | 0.00 | -382.4 | 123bye, PrimeJeet, altar, inertia, sigh, sleuth |
 | 2026-05-27 | The Vicious Kitties | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.05 | 1.00 | 0.28 | 0.02 | 0.00 | +187.3 | 123bye, PrimeJeet, altar, inertia, sigh |

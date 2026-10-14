@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.034 | 1147.0 | - |
 | +30 days | 0.027 | 1138.1 | -8.9 |
 | +60 days | 0.020 | 1128.6 | -18.4 |
-| +90 days | 0.009 | 1112.6 | -34.3 |
+| +90 days | 0.009 | 1112.6 | -34.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.088 vs 0.100 average, gap -0.012). Matching that average is worth about 4.2 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.4 |
 | Zomblers | 22 | 2114.7 | +659.0 |
 | regain | 12 | 2256.1 | +658.8 |
-| FarmVille | 16 | 2167.5 | +657.1 |
+| FarmVille | 16 | 2167.6 | +657.1 |
 
 Seed inputs expiring within 90 days:
 - S57 NA Open9-10 Central - Playoffs A (2026-05-31): expires in 43 days [Tier Exposure 0.30]

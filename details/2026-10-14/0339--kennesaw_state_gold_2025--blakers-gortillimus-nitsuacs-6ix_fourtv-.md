@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.140 | 1296.1 | - |
 | +30 days | 0.119 | 1266.7 | -29.4 |
 | +60 days | 0.105 | 1247.0 | -49.1 |
-| +90 days | 0.079 | 1210.0 | -86.1 |
+| +90 days | 0.079 | 1210.1 | -86.0 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.027 vs 0.014 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.9 |
-| SportsBetExpert | 6 | 2672.3 | +664.2 |
-| LAG Gaming | 8 | 2507.3 | +654.4 |
+| NRG | 4 | 2835.7 | +664.3 |
+| SportsBetExpert | 6 | 2671.6 | +663.6 |
+| LAG Gaming | 8 | 2507.4 | +654.4 |
 | regain | 12 | 2256.1 | +651.4 |
-| M80 | 2 | 3081.4 | +650.3 |
+| M80 | 2 | 3081.4 | +650.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.7), SixSevenZaZa (+1.2).
 
@@ -62,18 +62,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.03 | 0.87 | +54.3 | -Or1x, 6ix_FourTV, Blakers, Gortillimus, nitsuACS |
 | 2026-08-21 | on disability | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +66.1 | -Or1x, 6ix_FourTV, Blakers, Gortillimus, nitsuACS |
 | 2026-08-19 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.03 | 0.82 | +16.2 | -Or1x, 6ix_FourTV, Blakers, Gortillimus, nitsuACS |
-| 2026-08-14 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.07 | 0.79 | +94.7 | -Or1x, 6ix_FourTV, Blakers, Gortillimus, nitsuACS |
+| 2026-08-14 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.07 | 0.79 | +94.8 | -Or1x, 6ix_FourTV, Blakers, Gortillimus, nitsuACS |
 | 2026-08-12 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.09 | 0.78 | +102.5 | -Or1x, 6ix_FourTV, Blakers, Gortillimus, nitsuACS |
 | 2026-08-07 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -96.1 | 6ix_FourTV, Blakers, Gortillimus, Iilo, nitsuACS |
 | 2026-08-05 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -14.0 | 6ix_FourTV, Blakers, Gortillimus, Iilo, nitsuACS |
-| 2026-07-31 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -170.4 | -Or1x, 6ix_FourTV, Blakers, Gortillimus, nitsuACS |
+| 2026-07-31 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -170.5 | -Or1x, 6ix_FourTV, Blakers, Gortillimus, nitsuACS |
 | 2026-07-29 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.03 | 0.68 | +17.6 | -Or1x, 6ix_FourTV, Blakers, Gortillimus, nitsuACS |
 | 2026-07-24 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -9.7 | -Or1x, 6ix_FourTV, Blakers, Gortillimus, nitsuACS |
 | 2026-07-22 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +276.1 | -Or1x, -anby-, 6ix_FourTV, Gortillimus, nitsuACS |
 | 2026-07-18 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -146.8 | -Or1x, -anby-, 6ix_FourTV, Gortillimus, nitsuACS |
 | 2026-07-15 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -39.7 | -Or1x, -anby-, 6ix_FourTV, Gortillimus, nitsuACS |
-| 2026-05-20 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +257.0 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
-| 2026-05-15 | SuperSoakerClub | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -314.5 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
+| 2026-05-20 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +257.1 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
+| 2026-05-15 | SuperSoakerClub | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -314.6 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
 | 2026-05-08 | GoopT | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +49.5 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
 | 2026-05-05 | Brothers United | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +12.8 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
 | 2026-05-01 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -415.1 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |

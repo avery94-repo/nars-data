@@ -3,11 +3,11 @@ Team Name: Counter Legends
 Roster: Queenofcemen, k0nGbu, whiko, chengemeima, M1ng
 NARS Rank: 435 of 506
 
-Final Rating: 941.6
+Final Rating: 941.5
 Seeded Start: 1104.4
-H2H Adjustment: -162.8
+H2H Adjustment: -162.9
 
-Final Rating (941.6) = Seeded Start (1104.4) + H2H Adjustment (-162.8)
+Final Rating (941.5) = Seeded Start (1104.4) + H2H Adjustment (-162.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.4 |
 | Zomblers | 22 | 2114.7 | +658.7 |
 | regain | 12 | 2256.1 | +658.7 |
-| FarmVille | 16 | 2167.5 | +656.9 |
+| FarmVille | 16 | 2167.6 | +656.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+2.0).
 

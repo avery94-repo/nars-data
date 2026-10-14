@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.220 | 1408.3 | - |
 | +30 days | 0.206 | 1388.1 | -20.2 |
 | +60 days | 0.191 | 1367.6 | -40.7 |
-| +90 days | 0.168 | 1335.0 | -73.4 |
+| +90 days | 0.168 | 1335.2 | -73.1 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.135 vs 0.181 average, gap -0.046). Matching that average is worth about 16.1 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +284.0 |
-| M80 | 2 | 3081.4 | +280.4 |
-| SportsBetExpert | 6 | 2672.3 | +278.5 |
-| Wildcard | 3 | 2911.9 | +276.8 |
-| Liquid | 1 | 3103.3 | +276.5 |
+| NRG | 4 | 2835.7 | +283.8 |
+| M80 | 2 | 3081.4 | +280.5 |
+| SportsBetExpert | 6 | 2671.6 | +278.3 |
+| Wildcard | 3 | 2911.9 | +276.9 |
+| Liquid | 1 | 3103.3 | +276.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), Grandpa Berets (+0.0), Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0).
 
@@ -63,7 +63,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | WhalersOnDaMoon | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.13 | 0.00 | 0.00 | -107.2 | Buttermilk, Flynn, Pure_Penguin, ballen, pand3 |
 | 2026-09-04 | Bird Squishers | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.10 | 1.11 | +0.6 | Buttermilk, Fuji, Pure_Penguin, Rezistance, mild, pand3 |
 | 2026-08-28 | Down To Frag | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.10 | 1.02 | +54.0 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-08-26 | US Navy Esports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.10 | 1.01 | +112.2 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-08-26 | US Navy Esports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.10 | 1.01 | +112.3 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-08-21 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -77.5 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-08-14 | DESPAIR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.12 | 0.92 | +124.0 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-08-12 | OnlyFans | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.08 | 0.90 | +26.5 | B0oM202, Fuji, Pure_Penguin, mild, pand3 |
@@ -79,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-04 | Asoka | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.09 | 0.39 | +34.3 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-05-31 | Squeegee | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -100.5 | Buttermilk, Pure_Penguin, dawz, mild, pand3 |
 | 2026-05-29 | The Skins | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.03 | 0.34 | +157.7 | Buttermilk, Flynn, Fuji, mild, pand3 |
-| 2026-05-27 | DNA | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.01 | 0.33 | +152.3 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-05-27 | DNA | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.01 | 0.33 | +152.4 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-05-22 | Skyline | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.09 | 0.26 | +19.3 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-05-20 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +7.2 | Buttermilk, Flynn, Fuji, mild, pand3 |
 | 2026-05-15 | SAFIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +0.3 | Buttermilk, Flynn, Fuji, Pure_Penguin, pand3 |

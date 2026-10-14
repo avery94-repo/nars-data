@@ -3,11 +3,11 @@ Team Name: Festina Lente
 Roster: gamble, JonjiJLC, Fruitcupx, FRIZZY, Maxuel
 NARS Rank: 24 of 506
 
-Final Rating: 2042.7
+Final Rating: 2042.8
 Seeded Start: 1247.0
-H2H Adjustment: +795.7
+H2H Adjustment: +795.8
 
-Final Rating (2042.7) = Seeded Start (1247.0) + H2H Adjustment (+795.7)
+Final Rating (2042.8) = Seeded Start (1247.0) + H2H Adjustment (+795.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.105 | 1247.0 | - |
-| +30 days | 0.055 | 1177.5 | -69.5 |
+| +30 days | 0.055 | 1177.4 | -69.5 |
 | +60 days | 0.002 | 1102.6 | -144.4 |
 | +90 days | 0.000 | 1100.0 | -147.0 |
 
@@ -41,7 +41,7 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 | :- | -: | -: | -: |
 | M80 | 2 | 3081.4 | +638.9 |
 | Liquid | 1 | 3103.3 | +630.6 |
-| NRG | 4 | 2836.4 | +626.8 |
+| NRG | 4 | 2835.7 | +626.0 |
 | Wildcard | 3 | 2911.9 | +618.5 |
 | Voca | 5 | 2796.5 | +587.0 |
 
@@ -62,9 +62,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-29 | raisedbypixels | L |  | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.00 | 0.00 | -191.7 | core 3/5 |
-| 2026-06-14 | Iowa Stormboar | L |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.00 | 0.00 | -106.3 | core 3/5 |
-| 2026-06-13 | Marsborne | L |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.60 | 0.00 | 0.00 | -48.1 | core 3/5 |
+| 2026-06-29 | raisedbypixels | L |  | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.00 | 0.00 | -191.8 | core 3/5 |
+| 2026-06-14 | Iowa Stormboar | L |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.00 | 0.00 | -106.4 | core 3/5 |
+| 2026-06-13 | Marsborne | L |  | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.60 | 0.00 | 0.00 | -47.9 | core 3/5 |
 | 2026-06-12 | DETONATE | W |  | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.59 | 0.59 | +123.1 | core 3/5 |
 | 2026-06-11 | GG | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.36 | 1.05 | 1.00 | 0.38 | 0.01 | 0.38 | +74.2 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
 | 2026-06-11 | Club 333 | W |  | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.58 | 0.45 | 0.58 | +364.3 | core 3/5 |

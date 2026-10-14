@@ -3,15 +3,15 @@ Team Name: monitor off
 Roster: OkayKris, -RYL, Poonshi, -cel_, HASHIRA
 NARS Rank: 485 of 506
 
-Final Rating: 714.6
-Seeded Start: 1177.0
+Final Rating: 714.5
+Seeded Start: 1176.9
 H2H Adjustment: -462.4
 
-Final Rating (714.6) = Seeded Start (1177.0) + H2H Adjustment (-462.4)
+Final Rating (714.5) = Seeded Start (1176.9) + H2H Adjustment (-462.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.055 x 1400 = 1177.0
+                = 1100 + 0.055 x 1400 = 1176.9
 
 seed_factor 0.055 = 0.25 x Tier Exposure (0.083) + 0.50 x Quality Wins (0.008) + 0.25 x Opponent Network (0.120)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.055 | 1177.0 | - |
+| Now | 0.055 | 1176.9 | - |
 | +30 days | 0.044 | 1161.8 | -15.2 |
 | +60 days | 0.040 | 1156.3 | -20.6 |
 | +90 days | 0.035 | 1148.8 | -28.2 |
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| North Forge | 38 | 1971.1 | +281.0 |
-| NRG | 4 | 2836.4 | +280.8 |
-| Wanted Goons | 43 | 1933.1 | +280.8 |
-| SportsBetExpert | 6 | 2672.3 | +280.8 |
-| Zomblers | 22 | 2114.7 | +279.9 |
+| North Forge | 38 | 1971.1 | +281.1 |
+| Wanted Goons | 43 | 1933.1 | +280.9 |
+| NRG | 4 | 2835.7 | +280.6 |
+| SportsBetExpert | 6 | 2671.6 | +280.6 |
+| Zomblers | 22 | 2114.7 | +280.0 |
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs Lan Bears (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]

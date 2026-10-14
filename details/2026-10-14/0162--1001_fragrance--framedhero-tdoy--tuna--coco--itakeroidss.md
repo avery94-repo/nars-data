@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.177 | 1347.2 | - |
 | +30 days | 0.158 | 1321.0 | -26.2 |
 | +60 days | 0.140 | 1296.1 | -51.1 |
-| +90 days | 0.109 | 1252.3 | -94.9 |
+| +90 days | 0.109 | 1252.4 | -94.8 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.077 vs 0.088 average, gap -0.011). Matching that average is worth about 3.9 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +440.0 |
-| SportsBetExpert | 6 | 2672.3 | +438.0 |
-| M80 | 2 | 3081.4 | +431.1 |
-| Wildcard | 3 | 2911.9 | +427.7 |
-| LAG Gaming | 8 | 2507.3 | +427.5 |
+| NRG | 4 | 2835.7 | +440.0 |
+| SportsBetExpert | 6 | 2671.6 | +438.0 |
+| M80 | 2 | 3081.4 | +431.4 |
+| Wildcard | 3 | 2911.9 | +428.0 |
+| LAG Gaming | 8 | 2507.4 | +427.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -68,7 +68,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -202.2 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-07 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.09 | 0.74 | +37.5 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-05 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.06 | 0.73 | +102.1 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
-| 2026-07-29 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -288.4 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
+| 2026-07-29 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -288.5 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-29 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -202.7 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-24 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.08 | 0.00 | +55.0 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-22 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +0.8 | -Tuna-, Coco-, framedHERO, hohozao, tdoy |

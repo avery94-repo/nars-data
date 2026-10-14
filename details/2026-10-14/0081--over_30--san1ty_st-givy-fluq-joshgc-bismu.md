@@ -3,11 +3,11 @@ Team Name: Over 30
 Roster: san1ty_st, givy, Fluq, joshgc, Bismu
 NARS Rank: 81 of 506
 
-Final Rating: 1771.4
+Final Rating: 1771.5
 Seeded Start: 1232.3
-H2H Adjustment: +539.1 (capped at +-300, raw +539.2)
+H2H Adjustment: +539.2
 
-Final Rating (1771.4) = Seeded Start (1232.3) + H2H Adjustment (+539.1)
+Final Rating (1771.5) = Seeded Start (1232.3) + H2H Adjustment (+539.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +343.7 |
-| SportsBetExpert | 6 | 2672.3 | +339.4 |
-| M80 | 2 | 3081.4 | +338.1 |
-| Wildcard | 3 | 2911.9 | +334.5 |
-| Liquid | 1 | 3103.3 | +333.4 |
+| NRG | 4 | 2835.7 | +343.7 |
+| SportsBetExpert | 6 | 2671.6 | +339.3 |
+| M80 | 2 | 3081.4 | +338.3 |
+| Wildcard | 3 | 2911.9 | +334.8 |
+| Liquid | 1 | 3103.3 | +333.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0).
 

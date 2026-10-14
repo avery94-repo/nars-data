@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.159 | 1322.5 | - |
 | +30 days | 0.165 | 1331.1 | +8.6 |
 | +60 days | 0.168 | 1335.5 | +12.9 |
-| +90 days | 0.174 | 1343.2 | +20.7 |
+| +90 days | 0.174 | 1343.4 | +20.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.027 vs 0.077 average, gap -0.050). Matching that average is worth about 35.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +254.4 |
-| SportsBetExpert | 6 | 2672.3 | +251.6 |
-| M80 | 2 | 3081.4 | +250.1 |
-| Wildcard | 3 | 2911.9 | +247.6 |
-| Liquid | 1 | 3103.3 | +246.6 |
+| NRG | 4 | 2835.7 | +254.3 |
+| SportsBetExpert | 6 | 2671.6 | +251.4 |
+| M80 | 2 | 3081.4 | +250.2 |
+| Wildcard | 3 | 2911.9 | +247.7 |
+| Liquid | 1 | 3103.3 | +246.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), Old Dads Banging (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0).
 

@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +664.9 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.3 |
 | regain | 12 | 2256.1 | +657.8 |
 | Zomblers | 22 | 2114.7 | +656.9 |
-| LAG Gaming | 8 | 2507.3 | +656.1 |
+| LAG Gaming | 8 | 2507.4 | +656.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.2).
 
@@ -58,7 +58,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-13 | Strafe | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -209.9 | -Arkham-, -Hatty, Rellac, Renim, crames_ |
+| 2026-08-13 | Strafe | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -210.0 | -Arkham-, -Hatty, Rellac, Renim, crames_ |
 | 2026-08-07 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.08 | 0.74 | +179.2 | -Arkham-, Rellac, Renim, Yoel, crames_ |
 | 2026-08-05 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -215.0 | -Arkham-, Rellac, Renim, Yoel, crames_ |
 | 2026-07-30 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.06 | 0.69 | +25.4 | -Arkham-, -Hatty, Rellac, Yoel, crames_ |

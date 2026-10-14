@@ -3,15 +3,15 @@ Team Name: Overtake Sector
 Roster: (unknown)
 NARS Rank: 89 of 506
 
-Final Rating: 1750.7
-Seeded Start: 1483.1
+Final Rating: 1750.8
+Seeded Start: 1483.2
 H2H Adjustment: +267.6
 
-Final Rating (1750.7) = Seeded Start (1483.1) + H2H Adjustment (+267.6)
+Final Rating (1750.8) = Seeded Start (1483.2) + H2H Adjustment (+267.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.274 x 1400 = 1483.1
+                = 1100 + 0.274 x 1400 = 1483.2
 
 seed_factor 0.274 = 0.25 x Tier Exposure (0.054) + 0.50 x Quality Wins (0.317) + 0.25 x Opponent Network (0.406)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.274 | 1483.1 | - |
+| Now | 0.274 | 1483.2 | - |
 | +30 days | 0.319 | 1546.6 | +63.4 |
 | +60 days | 0.335 | 1569.2 | +86.1 |
-| +90 days | 0.365 | 1611.2 | +128.0 |
+| +90 days | 0.367 | 1613.8 | +130.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.054 vs 0.072 average, gap -0.018). Matching that average is worth about 6.3 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +69.7 |
-| SportsBetExpert | 6 | 2672.3 | +69.4 |
+| NRG | 4 | 2835.7 | +69.7 |
+| SportsBetExpert | 6 | 2671.6 | +69.3 |
 | M80 | 2 | 3081.4 | +68.4 |
 | Wildcard | 3 | 2911.9 | +67.8 |
-| LAG Gaming | 8 | 2507.3 | +67.5 |
+| LAG Gaming | 8 | 2507.4 | +67.5 |
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
 

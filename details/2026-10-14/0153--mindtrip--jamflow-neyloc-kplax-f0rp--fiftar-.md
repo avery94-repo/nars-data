@@ -3,11 +3,11 @@ Team Name: MINDTRIP
 Roster: jamflow, neyloc, kplax, f0rp-, FiftaR-
 NARS Rank: 153 of 506
 
-Final Rating: 1569.6
+Final Rating: 1569.7
 Seeded Start: 1140.1
-H2H Adjustment: +429.5
+H2H Adjustment: +429.6 (capped at +-300, raw +429.5)
 
-Final Rating (1569.6) = Seeded Start (1140.1) + H2H Adjustment (+429.5)
+Final Rating (1569.7) = Seeded Start (1140.1) + H2H Adjustment (+429.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.029 | 1140.1 | - |
-| +30 days | 0.008 | 1110.6 | -29.6 |
+| +30 days | 0.008 | 1110.6 | -29.5 |
 | +60 days | 0.000 | 1100.0 | -40.1 |
 | +90 days | 0.000 | 1100.0 | -40.1 |
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +662.1 |
-| SportsBetExpert | 6 | 2672.3 | +657.6 |
-| M80 | 2 | 3081.4 | +649.5 |
+| NRG | 4 | 2835.7 | +661.6 |
+| SportsBetExpert | 6 | 2671.6 | +657.0 |
+| M80 | 2 | 3081.4 | +649.4 |
 | Wildcard | 3 | 2911.9 | +643.8 |
 | Liquid | 1 | 3103.3 | +640.4 |
 
@@ -64,16 +64,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-07 | The Agarthans | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.01 | 0.34 | +121.4 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-06-03 | Feels MAIN Man | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -168.7 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
-| 2026-05-29 | WaterDrinkers | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.03 | 0.28 | +101.6 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
+| 2026-05-29 | WaterDrinkers | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.03 | 0.28 | +101.5 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-05-27 | Power of Friendship | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +3.4 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-05-22 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -93.8 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-05-20 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -6.3 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-05-15 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -59.2 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
-| 2026-05-13 | HammerHeads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +216.4 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
+| 2026-05-13 | HammerHeads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +216.5 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-05-08 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -149.1 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
-| 2026-05-06 | Top One Percent | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +95.0 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
+| 2026-05-06 | Top One Percent | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +94.9 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-05-01 | Baja Blasters | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +435.8 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
-| 2026-04-30 | Les Ptis Jus | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -234.6 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
+| 2026-04-30 | Les Ptis Jus | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -234.7 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-04-24 | Braindead | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +196.0 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-04-22 | Friendly Fire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -312.5 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-04-20 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.02 | +284.3 | FiftaR-, f0rp-, jamflow, kplax, neyloc |

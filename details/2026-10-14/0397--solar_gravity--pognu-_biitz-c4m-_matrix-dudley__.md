@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.2 |
 | regain | 12 | 2256.1 | +656.4 |
-| LAG Gaming | 8 | 2507.3 | +655.8 |
+| LAG Gaming | 8 | 2507.4 | +655.7 |
 | Zomblers | 22 | 2114.7 | +654.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.7), 3 Feet Of Meat (+1.4).
@@ -59,7 +59,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-28 | Qinorhwat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.05 | 0.90 | +98.5 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-08-26 | BucketJonsBoys | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -17.0 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
-| 2026-08-21 | Wealth Reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -82.4 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
+| 2026-08-21 | Wealth Reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -82.5 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-08-19 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.04 | 0.84 | +66.3 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-08-14 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.03 | 0.81 | +16.9 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-08-12 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.07 | 0.79 | +217.1 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
@@ -73,9 +73,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.05 | 0.60 | +403.7 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-05-22 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.00 | -2.6 | C4M, Dudley__, Pognu, Virifucx, _Matrix |
 | 2026-05-21 | Addice | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -0.8 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
-| 2026-05-20 | girl kissers | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -374.3 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
+| 2026-05-20 | girl kissers | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -374.4 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-05-14 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -1.7 | Dudley__, Pognu, Virifucx, _Matrix, _bIitz |
-| 2026-05-06 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.02 | 0.16 | +296.9 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
+| 2026-05-06 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.02 | 0.16 | +297.0 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-05-01 | Team Hyper | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.00 | -236.5 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-04-28 | counterstrike Team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.00 | 0.00 | -53.2 | C4M, Dudley__, Virifucx, _Matrix, _bIitz |
 | 2026-04-27 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.35 | 1.00 | 0.08 | 0.00 | 0.00 | -0.0 | C4M, Dudley__, Virifucx, _Matrix, _bIitz |

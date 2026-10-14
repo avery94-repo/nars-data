@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.128 | 1279.1 | - |
 | +30 days | 0.108 | 1251.9 | -27.2 |
-| +60 days | 0.100 | 1240.0 | -39.1 |
+| +60 days | 0.100 | 1240.0 | -39.0 |
 | +90 days | 0.086 | 1219.9 | -59.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.023 vs 0.022 average, gap +0.001). Matching that average is worth about 0.0 seed points.
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +405.1 |
-| SportsBetExpert | 6 | 2672.3 | +404.9 |
-| regain | 12 | 2256.1 | +399.4 |
-| LAG Gaming | 8 | 2507.3 | +399.3 |
-| Zomblers | 22 | 2114.7 | +397.5 |
+| NRG | 4 | 2835.7 | +404.8 |
+| SportsBetExpert | 6 | 2671.6 | +404.6 |
+| regain | 12 | 2256.1 | +399.5 |
+| LAG Gaming | 8 | 2507.4 | +399.4 |
+| Zomblers | 22 | 2114.7 | +397.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.7), SixSevenZaZa (+1.1).
 
@@ -65,16 +65,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Yogaball Frags | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -32.0 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-08-19 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.08 | 0.95 | +98.9 | Aerexon, BiggyJ, ChrisXCross, FR0STBITE_, phwn |
 | 2026-08-14 | Absent Minded | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.08 | 0.92 | +75.4 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
-| 2026-08-12 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.05 | 0.90 | +187.8 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
+| 2026-08-12 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.05 | 0.90 | +187.9 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-08-07 | Diamond Mental | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -8.6 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-08-05 | Backshot Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -1.2 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-07-31 | FUELED BY HATE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -2.0 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-07-29 | NADIYA | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -243.7 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-07-17 | 91AshLiu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -94.6 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-07-15 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -109.2 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
-| 2026-05-20 | 1NT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +350.6 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
+| 2026-05-20 | 1NT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +350.7 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-05-15 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -135.5 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
-| 2026-05-13 | iNSTINCT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -312.3 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
+| 2026-05-13 | iNSTINCT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -312.4 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-05-06 | The Homies | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +146.3 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-05-01 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +379.5 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-04-29 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -19.7 | -eckz, BiggyJ, ChrisXCross, FR0STBITE_, phwn |

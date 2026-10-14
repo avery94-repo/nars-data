@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.3 |
-| SportsBetExpert | 6 | 2672.3 | +665.1 |
-| North Forge | 38 | 1971.1 | +663.5 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.6 |
+| North Forge | 38 | 1971.1 | +663.4 |
 | Wanted Goons | 43 | 1933.1 | +662.4 |
 | Zomblers | 22 | 2114.7 | +662.0 |
 
@@ -61,10 +61,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | AURA Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -34.2 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 | 2026-05-27 | de_throne | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -31.6 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 | 2026-05-22 | offBalance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -342.9 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
-| 2026-05-13 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +394.7 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
-| 2026-05-08 | Aetheris | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -375.3 | JoNeSY, Kiki76, Suki_Noski, asmodeus, l0vely |
+| 2026-05-13 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +394.8 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
+| 2026-05-08 | Aetheris | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -375.4 | JoNeSY, Kiki76, Suki_Noski, asmodeus, l0vely |
 | 2026-05-06 | Hack-A-Shaq | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +299.2 | JoNeSY, Kiki76, Suki_Noski, asmodeus, l0vely |
-| 2026-05-01 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -230.6 | JoNeSY, Nat3G, Suki_Noski, asmodeus, l0vely |
+| 2026-05-01 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -230.7 | JoNeSY, Nat3G, Suki_Noski, asmodeus, l0vely |
 | 2026-04-29 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -10.4 | JoNeSY, Nat3G, Suki_Noski, asmodeus, l0vely |
 | 2026-04-24 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -30.6 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 

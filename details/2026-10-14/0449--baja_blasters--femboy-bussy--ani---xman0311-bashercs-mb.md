@@ -3,15 +3,15 @@ Team Name: Baja Blasters
 Roster: femboy-bussy, -Ani--, Xman0311, BasherCS, mbyy_
 NARS Rank: 449 of 506
 
-Final Rating: 903.8
-Seeded Start: 1254.8
+Final Rating: 903.7
+Seeded Start: 1254.7
 H2H Adjustment: -351.0
 
-Final Rating (903.8) = Seeded Start (1254.8) + H2H Adjustment (-351.0)
+Final Rating (903.7) = Seeded Start (1254.7) + H2H Adjustment (-351.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.111 x 1400 = 1254.8
+                = 1100 + 0.111 x 1400 = 1254.7
 
 seed_factor 0.111 = 0.25 x Tier Exposure (0.052) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.342)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.111 | 1254.8 | - |
+| Now | 0.111 | 1254.7 | - |
 | +30 days | 0.080 | 1212.6 | -42.2 |
 | +60 days | 0.066 | 1192.3 | -62.4 |
 | +90 days | 0.049 | 1169.0 | -85.8 |
@@ -39,8 +39,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.5 |
 | Zomblers | 22 | 2114.7 | +659.7 |
 | regain | 12 | 2256.1 | +659.1 |
 | North Forge | 38 | 1971.1 | +658.5 |
@@ -67,7 +67,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.07 | 0.76 | +94.9 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-08-05 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +7.6 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-07-31 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -6.4 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
-| 2026-07-29 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -249.4 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
+| 2026-07-29 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -249.5 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-07-24 | BucketJonsBoys | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -185.7 | -Ani--, AlphaOwl, BasherCS, Xman0311, mbyy_ |
 | 2026-07-22 | REPORT MASSIVE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -294.7 | -Ani--, AlphaOwl, BasherCS, Xman0311, femboy-bussy |
 | 2026-07-15 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -247.1 | -Ani--, AlphaOwl, BasherCS, femboy-bussy, mbyy_ |
@@ -76,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | Distinguished Ducks | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.02 | 0.28 | +121.5 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-05-27 | Abusement Park | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.02 | 0.27 | +2.2 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-05-22 | Akatsuki | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +5.0 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
-| 2026-05-20 | Real Hustle Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +201.1 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
+| 2026-05-20 | Real Hustle Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +201.2 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-05-15 | Kinetic | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +153.4 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-05-13 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +10.3 | AlphaOwl, Wh1rlwind, Xman0311, femboy-bussy, mbyy_ |
 | 2026-05-08 | Square1 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +289.9 | AlphaOwl, Wh1rlwind, Xman0311, femboy-bussy, mbyy_ |

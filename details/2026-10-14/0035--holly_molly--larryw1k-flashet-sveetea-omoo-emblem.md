@@ -5,7 +5,7 @@ NARS Rank: 35 of 506
 
 Final Rating: 1988.3
 Seeded Start: 1485.1
-H2H Adjustment: +503.2
+H2H Adjustment: +503.2 (capped at +-300, raw +503.3)
 
 Final Rating (1988.3) = Seeded Start (1485.1) + H2H Adjustment (+503.2)
 
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.275 | 1485.1 | - |
 | +30 days | 0.255 | 1456.5 | -28.6 |
 | +60 days | 0.240 | 1435.4 | -49.7 |
-| +90 days | 0.214 | 1400.2 | -84.9 |
+| +90 days | 0.215 | 1400.6 | -84.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.117 vs 0.224 average, gap -0.107). Matching that average is worth about 74.9 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +332.6 |
-| M80 | 2 | 3081.4 | +331.6 |
-| Liquid | 1 | 3103.3 | +327.1 |
-| Wildcard | 3 | 2911.9 | +325.4 |
-| SportsBetExpert | 6 | 2672.3 | +320.0 |
+| NRG | 4 | 2835.7 | +332.3 |
+| M80 | 2 | 3081.4 | +331.7 |
+| Liquid | 1 | 3103.3 | +327.2 |
+| Wildcard | 3 | 2911.9 | +325.5 |
+| SportsBetExpert | 6 | 2671.6 | +319.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), Power of Friendship (+0.0), monitor off (+0.0), Knight Owls (+0.0).
 
@@ -72,10 +72,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | North Forge | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.13 | 0.00 | 0.00 | -2.2 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-12 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.61 | 1.13 | +330.4 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-07 | Celestial Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.00 | 0.00 | -5.4 | FlashET, Larryw1k, emblem, sveetea, terrk1s |
-| 2026-08-05 | NXG Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -91.5 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-07-31 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -109.3 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-07-29 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -166.0 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-07-23 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.93 | 0.07 | 0.93 | +315.4 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
+| 2026-08-05 | NXG Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -91.6 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-07-31 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -109.4 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-07-29 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -166.1 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-07-23 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.93 | 0.07 | 0.93 | +315.5 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
 | 2026-07-15 | SOLA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -328.7 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-05-21 | firesale | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.03 | 0.30 | +243.5 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-05-19 | unreal nightmare | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -43.0 | FlashET, Larryw1k, TeaPotMan, omoo, sveetea |
@@ -85,6 +85,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-04-30 | eefsports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.11 | +420.0 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-04-29 | Celestial Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.10 | 0.00 | 0.00 | -236.8 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-04-27 | NZ Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.35 | 1.00 | 0.08 | 0.00 | 0.00 | -7.2 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-04-23 | Baatarz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -371.9 | FlashET, Kado, emblem, omoo, sveetea |
+| 2026-04-23 | Baatarz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -372.0 | FlashET, Kado, emblem, omoo, sveetea |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.135 | 1288.7 | - |
-| +30 days | 0.114 | 1259.3 | -29.4 |
+| +30 days | 0.114 | 1259.2 | -29.4 |
 | +60 days | 0.093 | 1230.0 | -58.7 |
-| +90 days | 0.059 | 1183.0 | -105.7 |
+| +90 days | 0.059 | 1183.0 | -105.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.075 vs 0.078 average, gap -0.003). Matching that average is worth about 1.1 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +658.4 |
-| SportsBetExpert | 6 | 2672.3 | +657.5 |
-| LAG Gaming | 8 | 2507.3 | +647.2 |
-| M80 | 2 | 3081.4 | +644.0 |
-| regain | 12 | 2256.1 | +641.7 |
+| NRG | 4 | 2835.7 | +658.3 |
+| SportsBetExpert | 6 | 2671.6 | +657.4 |
+| LAG Gaming | 8 | 2507.4 | +647.6 |
+| M80 | 2 | 3081.4 | +644.5 |
+| regain | 12 | 2256.1 | +642.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
 
@@ -56,17 +56,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-06 | NoPrac | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -92.4 | Jamiee07, M4NUP, Ouija, Steezy_, hierro |
-| 2026-09-04 | High-Tech Performance | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -107.9 | Jamiee07, KyeGo02, M4NUP, Steezy_, hierro |
+| 2026-09-06 | NoPrac | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -92.5 | Jamiee07, M4NUP, Ouija, Steezy_, hierro |
+| 2026-09-04 | High-Tech Performance | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -108.0 | Jamiee07, KyeGo02, M4NUP, Steezy_, hierro |
 | 2026-09-02 | Mach 10 | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.07 | 0.92 | +37.2 | Jamiee07, KyeGo02, M4NUP, Steezy_, hierro |
 | 2026-08-28 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -60.6 | Jamiee07, KyeGo02, Steezy_, TsportyA, hierro |
 | 2026-08-26 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -30.5 | KyeGo02, Ouija, Steezy_, TsportyA, hierro |
 | 2026-08-21 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -7.4 | Jamiee07, KyeGo02, M4NUP, Ouija, hierro |
-| 2026-08-19 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -91.6 | Jamiee07, KyeGo02, M4NUP, Ouija, hierro |
-| 2026-08-14 | walkthemdown | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +56.9 | Jamiee07, KyeGo02, M4NUP, Ouija, Steezy_ |
+| 2026-08-19 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -91.7 | Jamiee07, KyeGo02, M4NUP, Ouija, hierro |
+| 2026-08-14 | walkthemdown | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +57.0 | Jamiee07, KyeGo02, M4NUP, Ouija, Steezy_ |
 | 2026-08-12 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.09 | 0.78 | +92.0 | Jamiee07, KyeGo02, M4NUP, Ouija, hierro |
 | 2026-08-07 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -163.6 | Jamiee07, KyeGo02, M4NUP, Ouija, hierro |
-| 2026-08-05 | VeryBigDoogoos | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.03 | 0.73 | +25.4 | Jamiee07, KyeGo02, M4NUP, Ouija, hierro |
+| 2026-08-05 | VeryBigDoogoos | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.03 | 0.73 | +25.3 | Jamiee07, KyeGo02, M4NUP, Ouija, hierro |
 | 2026-07-31 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.08 | 0.70 | +81.5 | Jamiee07, KyeGo02, M4NUP, Ouija, Steezy_ |
 | 2026-07-29 | Team Auspex | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +226.9 | Jamiee07, KyeGo02, M4NUP, Ouija, Steezy_ |
 | 2026-07-24 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -29.0 | Jamiee07, KyeGo02, Steezy_, TsportyA, hierro |

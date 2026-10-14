@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.9 |
-| SportsBetExpert | 6 | 2672.3 | +664.2 |
-| LAG Gaming | 8 | 2507.3 | +654.5 |
+| NRG | 4 | 2835.7 | +664.3 |
+| SportsBetExpert | 6 | 2671.6 | +663.7 |
+| LAG Gaming | 8 | 2507.4 | +654.4 |
 | regain | 12 | 2256.1 | +651.6 |
-| M80 | 2 | 3081.4 | +650.3 |
+| M80 | 2 | 3081.4 | +650.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.8), SixSevenZaZa (+1.3).
 

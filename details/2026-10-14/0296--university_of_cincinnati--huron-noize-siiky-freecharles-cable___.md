@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.023 | 1131.7 | - |
 | +30 days | 0.011 | 1115.4 | -16.3 |
 | +60 days | 0.003 | 1104.0 | -27.7 |
-| +90 days | 0.000 | 1100.1 | -31.7 |
+| +90 days | 0.000 | 1100.1 | -31.6 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.057 vs 0.387 average, gap -0.330). Matching that average is worth about 115.5 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.6 |
-| SportsBetExpert | 6 | 2672.3 | +663.7 |
-| LAG Gaming | 8 | 2507.3 | +653.0 |
+| NRG | 4 | 2835.7 | +664.1 |
+| SportsBetExpert | 6 | 2671.6 | +663.1 |
+| LAG Gaming | 8 | 2507.4 | +652.9 |
 | M80 | 2 | 3081.4 | +650.2 |
 | regain | 12 | 2256.1 | +646.1 |
 

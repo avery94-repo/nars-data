@@ -3,15 +3,15 @@ Team Name: puggin4seb
 Roster: BentIie, estrojin, soogyum, zr0, acekr
 NARS Rank: 419 of 506
 
-Final Rating: 1002.9
-Seeded Start: 1270.1
+Final Rating: 1002.8
+Seeded Start: 1270.0
 H2H Adjustment: -267.2
 
-Final Rating (1002.9) = Seeded Start (1270.1) + H2H Adjustment (-267.2)
+Final Rating (1002.8) = Seeded Start (1270.0) + H2H Adjustment (-267.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.121 x 1400 = 1270.1
+                = 1100 + 0.121 x 1400 = 1270.0
 
 seed_factor 0.121 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.361)
 
@@ -24,12 +24,12 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.121 | 1270.1 | - |
+| Now | 0.121 | 1270.0 | - |
 | +30 days | 0.095 | 1232.4 | -37.6 |
 | +60 days | 0.082 | 1214.5 | -55.6 |
 | +90 days | 0.060 | 1183.7 | -86.3 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.071 average, gap +0.005). Matching that average is worth about 0.0 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.070 average, gap +0.006). Matching that average is worth about 0.0 seed points.
 
 - Tier Exposure drivers: S59 NA Main A - Regular Season (2026-10-07) 1.02; S58 NA Main A - Regular Season (2026-08-28) 0.90; S57 NA Main Central - Regular Season (2026-05-22) 0.26
 - Quality Wins drivers: beat NYX at S58 NA Main A - Regular Season (2026-08-28) 0.11; beat Wiggle Peeks at S58 NA Main A - Regular Season (2026-07-31) 0.08; beat in for Blood at S58 NA Main A - Regular Season (2026-07-24) 0.06
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +354.8 |
-| SportsBetExpert | 6 | 2672.3 | +354.7 |
-| Zomblers | 22 | 2114.7 | +351.7 |
-| regain | 12 | 2256.1 | +351.5 |
-| North Forge | 38 | 1971.1 | +350.8 |
+| NRG | 4 | 2835.7 | +354.6 |
+| SportsBetExpert | 6 | 2671.6 | +354.5 |
+| Zomblers | 22 | 2114.7 | +351.8 |
+| regain | 12 | 2256.1 | +351.6 |
+| North Forge | 38 | 1971.1 | +350.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.6), 3 Feet Of Meat (+1.3), shirtcockin (+1.9).
 
@@ -67,18 +67,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -103.8 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-08-12 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -66.6 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-08-07 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -34.2 | BentIie, MOD8sf, acekr, estrojin, zr0 |
-| 2026-08-05 | REPORT MASSIVE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -62.2 | BentIie, MOD8sf, acekr, estrojin, zr0 |
+| 2026-08-05 | REPORT MASSIVE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -62.3 | BentIie, MOD8sf, acekr, estrojin, zr0 |
 | 2026-07-31 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.08 | 0.71 | +149.9 | MOD8sf, acekr, estrojin, timotheon, zr0 |
 | 2026-07-29 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -195.5 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-07-24 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.06 | 0.66 | +20.9 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-07-22 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +132.3 | BentIie, MOD8sf, acekr, estrojin, soogyum, zr0 |
-| 2026-07-17 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -1.8 | BentIie, MOD8sf, acekr, soogyum, zr0 |
-| 2026-07-15 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -161.5 | acekr, estrojin, soogyum, timotheon, zr0 |
+| 2026-07-17 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -1.8 | BentIie, MOD8sf, acekr, soogyum, zr0 |
+| 2026-07-15 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -161.6 | acekr, estrojin, soogyum, timotheon, zr0 |
 | 2026-05-22 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +12.7 | BentIie, MOD8sf, estrojin, soogyum, zr0 |
 | 2026-05-20 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +23.7 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-05-13 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +0.9 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-05-13 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +5.2 | BentIie, acekr, estrojin, soogyum, zr0 |
-| 2026-05-06 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +414.9 | BentIie, acekr, estrojin, soogyum, zr0 |
+| 2026-05-06 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +415.0 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-05-01 | shirtcockin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -265.9 | SKript269, acekr, estrojin, soogyum, zr0 |
 | 2026-04-24 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -122.2 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-04-22 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -169.1 | BentIie, MOD8sf, acekr, estrojin, soogyum, zr0 |

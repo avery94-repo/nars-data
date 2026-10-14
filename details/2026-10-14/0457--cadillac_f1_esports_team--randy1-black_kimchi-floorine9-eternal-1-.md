@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +507.4 |
-| SportsBetExpert | 6 | 2672.3 | +507.3 |
-| North Forge | 38 | 1971.1 | +504.7 |
-| Zomblers | 22 | 2114.7 | +504.3 |
+| NRG | 4 | 2835.7 | +507.1 |
+| SportsBetExpert | 6 | 2671.6 | +507.0 |
+| North Forge | 38 | 1971.1 | +504.8 |
+| Zomblers | 22 | 2114.7 | +504.4 |
 | Wanted Goons | 43 | 1933.1 | +503.6 |
 
 Seed inputs expiring within 90 days:
@@ -71,8 +71,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Lynnsanity | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -29.4 | BLACK_KIMCHI, Eternal-1, Randy1, Spr3ad, floorine9 |
 | 2026-07-15 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -0.0 | BLACK_KIMCHI, Eternal-1, Randy1, Spr3ad, floorine9 |
 | 2026-05-22 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -12.7 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
-| 2026-05-15 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -299.2 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
-| 2026-05-13 | Specter Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +366.9 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
+| 2026-05-15 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -299.3 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
+| 2026-05-13 | Specter Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +367.0 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
 | 2026-05-06 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -1.0 | BenjiBeatsu, Eternal-1, Randy1, Spr3ad, j4b |
 | 2026-05-01 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -240.2 | Eternal-1, MyKeys, Randy1, Spr3ad, j4b |
 | 2026-04-29 | Texas Orange | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -218.3 | Eternal-1, MyKeys, Randy1, Spr3ad, j4b |

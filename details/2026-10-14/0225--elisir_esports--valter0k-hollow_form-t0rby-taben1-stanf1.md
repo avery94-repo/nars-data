@@ -3,11 +3,11 @@ Team Name: Elisir Esports
 Roster: Valter0k, hollow_form, T0rby, tAben1, stanf1x
 NARS Rank: 225 of 506
 
-Final Rating: 1428.7
+Final Rating: 1428.6
 Seeded Start: 1131.2
-H2H Adjustment: +297.5
+H2H Adjustment: +297.4
 
-Final Rating (1428.7) = Seeded Start (1131.2) + H2H Adjustment (+297.5)
+Final Rating (1428.6) = Seeded Start (1131.2) + H2H Adjustment (+297.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.022 | 1131.2 | - |
-| +30 days | 0.003 | 1104.0 | -27.2 |
+| +30 days | 0.003 | 1103.9 | -27.2 |
 | +60 days | 0.000 | 1100.0 | -31.2 |
 | +90 days | 0.000 | 1100.0 | -31.2 |
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +663.8 |
-| SportsBetExpert | 6 | 2672.3 | +661.7 |
-| M80 | 2 | 3081.4 | +650.0 |
-| LAG Gaming | 8 | 2507.3 | +648.0 |
+| NRG | 4 | 2835.7 | +663.2 |
+| SportsBetExpert | 6 | 2671.6 | +661.1 |
+| M80 | 2 | 3081.4 | +649.9 |
+| LAG Gaming | 8 | 2507.4 | +648.0 |
 | Wildcard | 3 | 2911.9 | +645.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
@@ -61,13 +61,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-09 | EMPIRE | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.00 | 0.00 | -114.5 | 322Coach, T0rby, Valter0k, hollow_form, stanf1x |
-| 2026-06-02 | FlyQuest RED | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.00 | 0.00 | -31.1 | T0rby, Valter0k, hollow_form, stanf1x, tAben1 |
-| 2026-05-20 | Xiaoma Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -213.9 | 322Coach, S0ph3R, T0rby, Valter0k, hollow_form |
+| 2026-06-09 | EMPIRE | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.00 | 0.00 | -114.6 | 322Coach, T0rby, Valter0k, hollow_form, stanf1x |
+| 2026-06-02 | FlyQuest RED | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.00 | 0.00 | -31.0 | T0rby, Valter0k, hollow_form, stanf1x, tAben1 |
+| 2026-05-20 | Xiaoma Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -214.0 | 322Coach, S0ph3R, T0rby, Valter0k, hollow_form |
 | 2026-05-19 | Asian Invasion | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.28 | +9.2 | 322Coach, T0rby, Valter0k, hollow_form, tAben1 |
 | 2026-05-14 | House Platypus ESC | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.01 | 0.24 | +133.5 | S0ph3R, T0rby, Valter0k, stanf1x, tAben1 |
 | 2026-05-07 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.02 | 0.17 | +197.9 | T0rby, Valter0k, hollow_form, stanf1x, tAben1 |
-| 2026-05-05 | Shimmer | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -137.2 | T0rby, Valter0k, hollow_form, stanf1x, tAben1 |
+| 2026-05-05 | Shimmer | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -137.3 | T0rby, Valter0k, hollow_form, stanf1x, tAben1 |
 | 2026-04-30 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.01 | 0.11 | +358.6 | S0ph3R, T0rby, Valter0k, hollow_form, tAben1 |
 | 2026-04-28 | Club 333 | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.00 | 0.00 | -0.1 | T0rby, Valter0k, hollow_form, stanf1x, tAben1 |
 | 2026-04-23 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.05 | +320.9 | S0ph3R, T0rby, Valter0k, stanf1x, tAben1 |

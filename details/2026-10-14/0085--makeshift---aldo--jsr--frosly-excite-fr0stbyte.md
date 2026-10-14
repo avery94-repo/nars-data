@@ -4,14 +4,14 @@ Roster: -aldo-, jsr-, frosly, excite, fr0stbyte
 NARS Rank: 85 of 506
 
 Final Rating: 1764.1
-Seeded Start: 1386.6
-H2H Adjustment: +377.5
+Seeded Start: 1386.5
+H2H Adjustment: +377.6 (capped at +-300, raw +377.5)
 
-Final Rating (1764.1) = Seeded Start (1386.6) + H2H Adjustment (+377.5)
+Final Rating (1764.1) = Seeded Start (1386.5) + H2H Adjustment (+377.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.205 x 1400 = 1386.6
+                = 1100 + 0.205 x 1400 = 1386.5
 
 seed_factor 0.205 = 0.25 x Tier Exposure (0.144) + 0.50 x Quality Wins (0.059) + 0.25 x Opponent Network (0.557)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.205 | 1386.6 | - |
+| Now | 0.205 | 1386.5 | - |
 | +30 days | 0.181 | 1353.2 | -33.4 |
 | +60 days | 0.161 | 1325.0 | -61.6 |
-| +90 days | 0.141 | 1297.9 | -88.7 |
+| +90 days | 0.142 | 1298.1 | -88.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.059 vs 0.089 average, gap -0.030). Matching that average is worth about 21.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +321.9 |
-| SportsBetExpert | 6 | 2672.3 | +318.2 |
-| M80 | 2 | 3081.4 | +316.5 |
-| Wildcard | 3 | 2911.9 | +313.3 |
-| Liquid | 1 | 3103.3 | +312.1 |
+| NRG | 4 | 2835.7 | +321.9 |
+| SportsBetExpert | 6 | 2671.6 | +318.2 |
+| M80 | 2 | 3081.4 | +316.8 |
+| Wildcard | 3 | 2911.9 | +313.6 |
+| Liquid | 1 | 3103.3 | +312.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0).
 
@@ -75,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-13 | Celestial Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.28 | 0.94 | +60.5 | -aldo-, Jumble, excite, fr0stbyte, jsr- |
 | 2026-08-12 | Playing for fun | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.93 | 0.16 | 0.93 | +526.9 | -aldo-, argy, fr0stbyte, frosly, jsr- |
 | 2026-07-14 | SquadUp | L |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.75 | 0.00 | 0.00 | -75.5 | -aldo-, excite, fr0stbyte, frosly, jsr- |
-| 2026-06-12 | Armored Talent | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -239.0 | -aldo-, Chkemi, M0nroe_, fr0stbyte, jsr- |
+| 2026-06-12 | Armored Talent | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -239.1 | -aldo-, Chkemi, M0nroe_, fr0stbyte, jsr- |
 | 2026-06-10 | Retired Aimers | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.36 | +150.2 | -aldo-, Chkemi, M0nroe_, fr0stbyte, jsr- |
 | 2026-06-03 | Octane | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +30.0 | -aldo-, Griffin, brooks, fr0stbyte, jsr- |
 | 2026-05-30 | LAG Gaming | L |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -0.0 | core 3/5 |

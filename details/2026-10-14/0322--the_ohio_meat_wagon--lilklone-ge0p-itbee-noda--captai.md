@@ -13,7 +13,7 @@ Final Rating (1228.3) = Seeded Start (1275.1) + H2H Adjustment (-46.8)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.125 x 1400 = 1275.1
 
-seed_factor 0.125 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.349)
+seed_factor 0.125 = 0.25 x Tier Exposure (0.083) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.349)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.125 | 1275.1 | - |
 | +30 days | 0.095 | 1232.9 | -42.2 |
 | +60 days | 0.075 | 1205.6 | -69.5 |
-| +90 days | 0.049 | 1168.6 | -106.6 |
+| +90 days | 0.049 | 1168.6 | -106.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.034 vs 0.017 average, gap +0.017). Matching that average is worth about 0.0 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.8 |
-| SportsBetExpert | 6 | 2672.3 | +664.0 |
-| LAG Gaming | 8 | 2507.3 | +653.9 |
+| NRG | 4 | 2835.7 | +664.2 |
+| SportsBetExpert | 6 | 2671.6 | +663.5 |
+| LAG Gaming | 8 | 2507.4 | +653.9 |
 | M80 | 2 | 3081.4 | +650.2 |
 | regain | 12 | 2256.1 | +649.6 |
 
@@ -62,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-04 | D1NK Esports | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -39.5 | Noda-, captai, ge0p, itBee, solflame |
 | 2026-09-02 | ABG Esports | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -40.4 | Noda-, captai, ge0p, itBee, solflame |
-| 2026-08-28 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +70.8 | captai, ge0p, itBee, lilklone, solflame |
+| 2026-08-28 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +70.9 | captai, ge0p, itBee, lilklone, solflame |
 | 2026-08-21 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -71.9 | Noda-, captai, ge0p, itBee, solflame |
 | 2026-08-14 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -67.7 | Noda-, captai, ge0p, itBee, solflame |
 | 2026-08-13 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -132.9 | Noda-, captai, ge0p, itBee, solflame |
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-23 | UltimateDarklordWizardz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.13 | 0.64 | +388.9 | Noda-, captai, ge0p, lilklone, solflame |
 | 2026-07-17 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +11.1 | Noda-, captai, ge0p, lilklone, solflame |
 | 2026-06-08 | Wide Swinging Wizards | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -124.6 | Noda-, captai, ge0p, itBee, lilklone |
-| 2026-06-03 | SwagMonkeyHats | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -266.5 | Noda-, captai, ge0p, itBee, lilklone |
+| 2026-06-03 | SwagMonkeyHats | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -266.6 | Noda-, captai, ge0p, itBee, lilklone |
 | 2026-05-29 | Epochal Esports | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.04 | 0.28 | +42.0 | Noda-, captai, ge0p, itBee, lilklone |
 | 2026-05-27 | FourStrokeGang | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +0.5 | Noda-, captai, ge0p, itBee, lilklone |
 | 2026-05-22 | Relativity | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +143.1 | Noda-, captai, ge0p, itBee, lilklone |

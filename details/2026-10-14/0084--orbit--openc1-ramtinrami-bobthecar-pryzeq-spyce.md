@@ -5,7 +5,7 @@ NARS Rank: 84 of 506
 
 Final Rating: 1765.2
 Seeded Start: 1131.8
-H2H Adjustment: +633.4 (capped at +-300, raw +633.3)
+H2H Adjustment: +633.4
 
 Final Rating (1765.2) = Seeded Start (1131.8) + H2H Adjustment (+633.4)
 
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.000 | 1100.0 | -31.8 |
 | +90 days | 0.000 | 1100.0 | -31.8 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.077 vs 0.504 average, gap -0.427). Matching that average is worth about 149.4 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.077 vs 0.504 average, gap -0.427). Matching that average is worth about 149.5 seed points.
 
 - Tier Exposure drivers: S57 NA Open1-8 Central - Playoffs (2026-06-12) 0.37
 - Quality Wins drivers: beat Gangy eSports at S57 NA Open1-8 Central - Playoffs (2026-06-05) 0.00; beat 2006 Toyota Corolla XRS at S57 NA Open1-8 Central - Playoffs (2026-06-03) 0.00; beat TeddyBearBunch at S57 NA Open1-8 Central - Playoffs (2026-05-29) 0.00
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +656.3 |
+| NRG | 4 | 2835.7 | +655.7 |
 | M80 | 2 | 3081.4 | +647.7 |
-| SportsBetExpert | 6 | 2672.3 | +643.8 |
-| Wildcard | 3 | 2911.9 | +639.6 |
+| SportsBetExpert | 6 | 2671.6 | +643.1 |
+| Wildcard | 3 | 2911.9 | +639.5 |
 | Liquid | 1 | 3103.3 | +638.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), Solbound (+0.0).
@@ -61,7 +61,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-12 | Conduit eSports | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -93.4 | Openc1, Pryzeq, RAMTINRAMI, Spycey, bobthecar |
 | 2026-06-05 | Gangy eSports | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.32 | +155.1 | Openc1, Pryzeq, RAMTINRAMI, Spycey, bobthecar |
-| 2026-06-03 | 2006 Toyota Corolla XRS | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +180.9 | Openc1, Pryzeq, RAMTINRAMI, bobthecar, platanoo |
+| 2026-06-03 | 2006 Toyota Corolla XRS | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +181.0 | Openc1, Pryzeq, RAMTINRAMI, bobthecar, platanoo |
 | 2026-05-29 | TeddyBearBunch | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +191.3 | Openc1, Pryzeq, RAMTINRAMI, Spycey, bobthecar |
 | 2026-05-27 | Calculated Aggression | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +199.4 | BOOM_TAKA, Openc1, Pryzeq, RAMTINRAMI, Spycey, bobthecar |
 

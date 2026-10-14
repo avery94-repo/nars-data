@@ -3,11 +3,11 @@ Team Name: Thrash
 Roster: Tread, gibbyy_, enoshi, xaan, Gyokusai
 NARS Rank: 458 of 506
 
-Final Rating: 861.0
+Final Rating: 860.9
 Seeded Start: 1194.9
-H2H Adjustment: -333.9
+H2H Adjustment: -334.0
 
-Final Rating (861.0) = Seeded Start (1194.9) + H2H Adjustment (-333.9)
+Final Rating (860.9) = Seeded Start (1194.9) + H2H Adjustment (-334.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.068 | 1194.9 | - |
 | +30 days | 0.069 | 1196.3 | +1.4 |
 | +60 days | 0.068 | 1195.0 | +0.1 |
-| +90 days | 0.067 | 1193.3 | -1.6 |
+| +90 days | 0.067 | 1193.4 | -1.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.014 vs 0.006 average, gap +0.008). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +322.8 |
-| SportsBetExpert | 6 | 2672.3 | +322.7 |
-| North Forge | 38 | 1971.1 | +321.8 |
-| Wanted Goons | 43 | 1933.1 | +321.3 |
-| Zomblers | 22 | 2114.7 | +321.1 |
+| NRG | 4 | 2835.7 | +322.6 |
+| SportsBetExpert | 6 | 2671.6 | +322.5 |
+| North Forge | 38 | 1971.1 | +321.9 |
+| Wanted Goons | 43 | 1933.1 | +321.4 |
+| Zomblers | 22 | 2114.7 | +321.2 |
 
 #### Matches (13 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

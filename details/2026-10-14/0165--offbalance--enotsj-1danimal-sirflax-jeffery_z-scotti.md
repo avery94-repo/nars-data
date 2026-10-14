@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.174 | 1343.2 | - |
-| +30 days | 0.157 | 1320.2 | -23.0 |
+| +30 days | 0.157 | 1320.1 | -23.0 |
 | +60 days | 0.142 | 1299.5 | -43.7 |
-| +90 days | 0.118 | 1265.8 | -77.4 |
+| +90 days | 0.118 | 1265.9 | -77.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.043 vs 0.037 average, gap +0.006). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +408.4 |
-| SportsBetExpert | 6 | 2672.3 | +406.7 |
-| M80 | 2 | 3081.4 | +400.0 |
-| LAG Gaming | 8 | 2507.3 | +397.3 |
-| Wildcard | 3 | 2911.9 | +396.9 |
+| NRG | 4 | 2835.7 | +408.1 |
+| SportsBetExpert | 6 | 2671.6 | +406.4 |
+| M80 | 2 | 3081.4 | +400.1 |
+| LAG Gaming | 8 | 2507.4 | +397.4 |
+| Wildcard | 3 | 2911.9 | +397.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -65,7 +65,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -63.1 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-19 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.09 | 0.82 | +58.8 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-13 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.09 | 0.78 | +75.7 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
-| 2026-08-12 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +206.8 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
+| 2026-08-12 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +206.9 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-08-07 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -84.9 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-07-31 | dogwater | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.07 | 0.70 | +40.2 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-07-29 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +18.4 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |

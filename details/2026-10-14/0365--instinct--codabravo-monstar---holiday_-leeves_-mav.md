@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.0 |
-| SportsBetExpert | 6 | 2672.3 | +664.5 |
-| LAG Gaming | 8 | 2507.3 | +655.0 |
+| NRG | 4 | 2835.7 | +664.4 |
+| SportsBetExpert | 6 | 2671.6 | +663.9 |
+| LAG Gaming | 8 | 2507.4 | +655.0 |
 | regain | 12 | 2256.1 | +653.7 |
 | M80 | 2 | 3081.4 | +650.3 |
 
@@ -65,7 +65,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +314.1 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-05-08 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +191.1 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-04-30 | UnitedStatesArmy Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -251.5 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, mav9, monstar-- |
-| 2026-04-29 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +434.9 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, monstar-- |
+| 2026-04-29 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +435.0 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, monstar-- |
 | 2026-04-24 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -255.8 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-04-22 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -231.4 | HOLIDAY_, bERTMANE, codabravo, mav9, monstar-- |
 

@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.347 | 1586.3 | - |
 | +30 days | 0.319 | 1546.3 | -40.0 |
 | +60 days | 0.303 | 1524.3 | -62.0 |
-| +90 days | 0.277 | 1487.8 | -98.5 |
+| +90 days | 0.278 | 1488.7 | -97.6 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.204 vs 0.222 average, gap -0.018). Matching that average is worth about 6.3 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.204 vs 0.221 average, gap -0.017). Matching that average is worth about 5.9 seed points.
 
 - Tier Exposure drivers: CROSSFIRE Season 6 - Playoffs (2026-09-22) 1.55; S59 NA Advanced Central - Regular Season (2026-10-09) 1.43; Group Stage - CROSSFIRE Season 6 (2026-09-09) 1.28
 - Quality Wins drivers: beat New Legends at S58 NA Advanced Central - Regular Season (2026-08-25) 0.80; beat FlyQuest RED at CROSSFIRE Season 6 - Playoffs (2026-09-17) 0.68; beat Locally Hated at CROSSFIRE Season 6 - Playoffs (2026-09-22) 0.43
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +161.4 |
-| SportsBetExpert | 6 | 2672.3 | +160.4 |
-| M80 | 2 | 3081.4 | +158.2 |
-| Wildcard | 3 | 2911.9 | +156.9 |
-| LAG Gaming | 8 | 2507.3 | +156.2 |
+| NRG | 4 | 2835.7 | +161.3 |
+| SportsBetExpert | 6 | 2671.6 | +160.4 |
+| M80 | 2 | 3081.4 | +158.3 |
+| Wildcard | 3 | 2911.9 | +157.0 |
+| LAG Gaming | 8 | 2507.4 | +156.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
 
@@ -57,16 +57,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Xiaoma Gaming | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 0.00 | 0.00 | -46.5 | 2Panic, KrakenS, P3nnyCS, Ryno, _mdn |
-| 2026-09-22 | Locally Hated | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.43 | 1.55 | +62.5 | 2Panic, AJaxz-, KrakenS, P3nnyCS, Ryno |
+| 2026-09-22 | Locally Hated | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.43 | 1.55 | +62.6 | 2Panic, AJaxz-, KrakenS, P3nnyCS, Ryno |
 | 2026-09-21 | BucketJonsBoys | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.40 | 1.55 | +35.6 | 2Panic, AJaxz-, KrakenS, P3nnyCS, Ryno |
 | 2026-09-17 | FlyQuest RED | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.68 | 1.55 | +76.8 | 2Panic, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-09-15 | regain | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -1.3 | 2Panic, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-09-09 | NXG Esports | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.21 | 0.00 | +20.4 | 2Panic, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-09-07 | Wanted Goons | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.27 | 0.00 | 0.00 | -0.6 | 2Panic, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-09-03 | deez | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.23 | 0.10 | 1.23 | +42.7 | 2Panic, AJaxz-, BATSPEED, KrakenS, P3nnyCS |
-| 2026-08-26 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.00 | 0.00 | -9.5 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
+| 2026-08-26 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.00 | 0.00 | -9.6 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-08-25 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 0.80 | 1.25 | +146.1 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
-| 2026-08-21 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.20 | 1.21 | +133.9 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
+| 2026-08-21 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.20 | 1.21 | +134.0 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-08-19 | Axial | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -102.0 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-08-14 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.11 | 1.15 | +57.2 | AJaxz-, BATSPEED, KrakenS, Ryno, _mdn |
 | 2026-08-12 | Pug Palace | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.00 | 0.00 | -65.7 | AJaxz-, BATSPEED, P3nnyCS, Ryno, _mdn |
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-12 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -58.1 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-07 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -347.9 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-05 | GRIT | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.02 | 0.16 | +13.2 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
-| 2026-04-30 | SOLA | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.01 | 0.11 | +183.5 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
+| 2026-04-30 | SOLA | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.01 | 0.11 | +183.6 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-04-28 | raisedbypixels | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.00 | 0.00 | -317.5 | 1hades, KrakenS, Ryno, _mdn, linko |
 | 2026-04-22 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.35 | 1.00 | 0.04 | 0.00 | 0.00 | -10.6 | 1hades, AJaxz-, KrakenS, Ryno, linko |
 

@@ -3,11 +3,11 @@ Team Name: feet67
 Roster: accela, dake_, 1mprovee2, -67swing, -anby-
 NARS Rank: 58 of 506
 
-Final Rating: 1857.3
+Final Rating: 1857.4
 Seeded Start: 1310.9
-H2H Adjustment: +546.4 (capped at +-300, raw +546.5)
+H2H Adjustment: +546.5
 
-Final Rating (1857.3) = Seeded Start (1310.9) + H2H Adjustment (+546.4)
+Final Rating (1857.4) = Seeded Start (1310.9) + H2H Adjustment (+546.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.151 | 1310.9 | - |
 | +30 days | 0.147 | 1306.3 | -4.6 |
 | +60 days | 0.146 | 1304.1 | -6.8 |
-| +90 days | 0.143 | 1299.6 | -11.3 |
+| +90 days | 0.143 | 1300.1 | -10.8 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.391 vs 0.570 average, gap -0.179). Matching that average is worth about 62.6 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +241.9 |
-| M80 | 2 | 3081.4 | +238.4 |
-| SportsBetExpert | 6 | 2672.3 | +238.1 |
-| Wildcard | 3 | 2911.9 | +235.7 |
-| Liquid | 1 | 3103.3 | +235.1 |
+| NRG | 4 | 2835.7 | +242.0 |
+| M80 | 2 | 3081.4 | +238.7 |
+| SportsBetExpert | 6 | 2671.6 | +238.1 |
+| Wildcard | 3 | 2911.9 | +235.9 |
+| Liquid | 1 | 3103.3 | +235.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Grandpa Berets (+0.0), Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0).
 
@@ -55,7 +55,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-21 | FarmVille | W | 3-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 1.04 | 1.04 | +46.7 | -67swing, -anby-, 1mprovee2, accela, dake_, ev2 |
 | 2026-09-20 | makeSHIFT | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.15 | 1.04 | +64.4 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-12 | FarmVille | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.00 | 0.00 | -2.7 | -67swing, -anby-, 1mprovee2, accela, dake_ |
-| 2026-09-10 | The Kerbins | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.07 | 1.01 | +103.4 | -67swing, -anby-, 1mprovee2, accela, dake_ |
+| 2026-09-10 | The Kerbins | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.07 | 1.01 | +103.5 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-06 | ClanAgain | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.07 | 0.98 | +96.3 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-03 | brb grinding minecraft | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.96 | 0.07 | 0.96 | +128.3 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-02 | Booty | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +110.1 | -67swing, -anby-, 1mprovee2, accela, dake_ |

@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.186 | 1359.9 | - |
 | +30 days | 0.164 | 1329.2 | -30.7 |
-| +60 days | 0.147 | 1305.7 | -54.3 |
-| +90 days | 0.117 | 1263.3 | -96.6 |
+| +60 days | 0.147 | 1305.6 | -54.3 |
+| +90 days | 0.117 | 1263.4 | -96.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.047 vs 0.025 average, gap +0.022). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +477.0 |
-| SportsBetExpert | 6 | 2672.3 | +475.9 |
-| LAG Gaming | 8 | 2507.3 | +467.3 |
-| M80 | 2 | 3081.4 | +466.8 |
-| Wildcard | 3 | 2911.9 | +463.5 |
+| NRG | 4 | 2835.7 | +476.7 |
+| SportsBetExpert | 6 | 2671.6 | +475.6 |
+| LAG Gaming | 8 | 2507.4 | +467.4 |
+| M80 | 2 | 3081.4 | +466.9 |
+| Wildcard | 3 | 2911.9 | +463.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -70,20 +70,20 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-18 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -0.8 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-08-12 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -1.6 | CHAMONE, Jiff, Swifter, YaboDuulio, claasic |
 | 2026-08-07 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -112.6 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
-| 2026-08-05 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.10 | 0.85 | +130.4 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
+| 2026-08-05 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.10 | 0.85 | +130.5 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-07-31 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.10 | 0.81 | +2.1 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
-| 2026-07-29 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.13 | 0.79 | +136.1 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
+| 2026-07-29 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.13 | 0.79 | +136.2 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-07-24 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +178.3 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-07-22 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.04 | 0.74 | +379.2 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
-| 2026-07-15 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -143.2 | CHAMONE, Jiff, Swifter, YaboDuulio, bxdEMON, claasic |
-| 2026-05-22 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -230.6 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
+| 2026-07-15 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -143.3 | CHAMONE, Jiff, Swifter, YaboDuulio, bxdEMON, claasic |
+| 2026-05-22 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -230.7 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-20 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +275.0 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-15 | Storm Surge | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -294.5 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
-| 2026-05-13 | Sedated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -120.8 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
+| 2026-05-13 | Sedated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -120.7 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-06 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +33.4 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
-| 2026-05-01 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -45.5 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
-| 2026-04-29 | OnlyFans | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -399.5 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
+| 2026-05-01 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -45.4 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
+| 2026-04-29 | OnlyFans | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -399.6 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-04-23 | UnitedStatesArmy Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.04 | +9.5 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
-| 2026-04-22 | Specter Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +181.2 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
+| 2026-04-22 | Specter Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +181.3 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

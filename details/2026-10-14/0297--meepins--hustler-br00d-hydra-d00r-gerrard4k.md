@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.126 | 1275.8 | - |
 | +30 days | 0.096 | 1234.5 | -41.3 |
-| +60 days | 0.081 | 1213.8 | -62.0 |
-| +90 days | 0.059 | 1182.2 | -93.6 |
+| +60 days | 0.081 | 1213.7 | -62.0 |
+| +90 days | 0.059 | 1182.2 | -93.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.085 vs 0.101 average, gap -0.016). Matching that average is worth about 5.6 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +589.2 |
-| SportsBetExpert | 6 | 2672.3 | +588.4 |
-| LAG Gaming | 8 | 2507.3 | +579.2 |
-| M80 | 2 | 3081.4 | +576.4 |
-| regain | 12 | 2256.1 | +574.3 |
+| NRG | 4 | 2835.7 | +589.2 |
+| SportsBetExpert | 6 | 2671.6 | +588.4 |
+| LAG Gaming | 8 | 2507.4 | +579.6 |
+| M80 | 2 | 3081.4 | +576.8 |
+| regain | 12 | 2256.1 | +574.8 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.3), SixSevenZaZa (+0.6).
 
@@ -66,10 +66,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | The Burger People | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.03 | 1.00 | 0.95 | 0.00 | 0.00 | -39.7 | D00R, Hydra, NEXTDAYAIR-, hustler, shohei |
 | 2026-08-26 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -9.5 | D00R, Hydra, NEXTDAYAIR-, hustler, shohei |
 | 2026-08-21 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -101.3 | D00R, Hydra, br00d, hustler, shohei |
-| 2026-08-19 | Wide Swinging Wizards | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.04 | 0.84 | +90.8 | D00R, Hydra, NEXTDAYAIR-, hustler, shohei |
-| 2026-08-14 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.04 | 0.81 | +106.0 | D00R, Hydra, br00d, hustler, shohei |
+| 2026-08-19 | Wide Swinging Wizards | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.04 | 0.84 | +90.9 | D00R, Hydra, NEXTDAYAIR-, hustler, shohei |
+| 2026-08-14 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.04 | 0.81 | +106.1 | D00R, Hydra, br00d, hustler, shohei |
 | 2026-08-12 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -4.2 | D00R, Hydra, NEXTDAYAIR-, hustler, shohei |
-| 2026-08-07 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -92.9 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
+| 2026-08-07 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -93.0 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
 | 2026-07-31 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.05 | 0.71 | +0.2 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-07-29 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.06 | 0.70 | +6.6 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-07-24 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.06 | 0.66 | +111.3 | D00R, Gerrard4K, Hydra, br00d, hustler |
@@ -78,8 +78,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -195.6 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-06-02 | YHTR | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -137.8 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-05-29 | TenToesDown | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.00 | 0.00 | -54.9 | D00R, Hydra, NEXTDAYAIR-, bertmas, hustler |
-| 2026-05-27 | in for Blood | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.02 | 0.27 | +129.4 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
-| 2026-05-22 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -300.4 | D00R, Hydra, bertmas, br00d, hustler |
+| 2026-05-27 | in for Blood | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.02 | 0.27 | +129.5 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
+| 2026-05-22 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -300.5 | D00R, Hydra, bertmas, br00d, hustler |
 | 2026-05-19 | Square1 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.21 | 1.01 | 1.00 | 0.21 | 0.01 | 0.21 | +11.4 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-05-15 | YHTR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.03 | 0.18 | +11.7 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-05-13 | GoonAssOldheads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +2.3 | D00R, Gerrard4K, Hydra, br00d, hustler |

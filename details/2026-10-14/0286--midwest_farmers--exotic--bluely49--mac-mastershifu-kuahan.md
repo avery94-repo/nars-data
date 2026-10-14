@@ -4,14 +4,14 @@ Roster: exotic-, Bluely49, -MaC, MasterShifu, Kuahana
 NARS Rank: 286 of 506
 
 Final Rating: 1296.3
-Seeded Start: 1290.4
-H2H Adjustment: +5.9
+Seeded Start: 1290.3
+H2H Adjustment: +6.0
 
-Final Rating (1296.3) = Seeded Start (1290.4) + H2H Adjustment (+5.9)
+Final Rating (1296.3) = Seeded Start (1290.3) + H2H Adjustment (+6.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.136 x 1400 = 1290.4
+                = 1100 + 0.136 x 1400 = 1290.3
 
 seed_factor 0.136 = 0.25 x Tier Exposure (0.117) + 0.50 x Quality Wins (0.033) + 0.25 x Opponent Network (0.362)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.136 | 1290.4 | - |
-| +30 days | 0.112 | 1256.8 | -33.6 |
+| Now | 0.136 | 1290.3 | - |
+| +30 days | 0.112 | 1256.8 | -33.5 |
 | +60 days | 0.094 | 1231.5 | -58.9 |
-| +90 days | 0.065 | 1191.1 | -99.3 |
+| +90 days | 0.065 | 1191.1 | -99.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.033 vs 0.029 average, gap +0.004). Matching that average is worth about 0.0 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +298.6 |
-| SportsBetExpert | 6 | 2672.3 | +298.4 |
-| LAG Gaming | 8 | 2507.3 | +294.0 |
-| regain | 12 | 2256.1 | +292.7 |
+| NRG | 4 | 2835.7 | +298.5 |
+| SportsBetExpert | 6 | 2671.6 | +298.2 |
+| LAG Gaming | 8 | 2507.4 | +294.0 |
+| regain | 12 | 2256.1 | +292.8 |
 | M80 | 2 | 3081.4 | +292.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
@@ -67,7 +67,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -36.0 | Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-08-26 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -38.9 | -MaC, Bezerker, Bluely49, MasterShifu, exotic- |
 | 2026-08-21 | JPG | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +89.4 | -MaC, Bezerker, Bluely49, MasterShifu, exotic- |
-| 2026-08-19 | walkthemdown | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.06 | 0.82 | +53.2 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
+| 2026-08-19 | walkthemdown | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.06 | 0.82 | +53.3 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-08-14 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -94.7 | Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-08-12 | UltimateDarklordWizardz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.16 | 0.78 | +90.4 | -MaC, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-08-07 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +162.1 | -MaC, Bluely49, Kuahana, MasterShifu, exotic- |
@@ -75,9 +75,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -79.0 | -MaC, Bezerker, Bluely49, MasterShifu, exotic- |
 | 2026-07-24 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +106.8 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |
 | 2026-07-22 | NoPrac | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +85.0 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |
-| 2026-07-15 | Mach 10 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +230.1 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu |
-| 2026-05-31 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -135.6 | -MaC, Bluely49, Kuahana, MasterShifu, exotic- |
-| 2026-05-29 | NATIONAL CS UNI | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -81.5 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |
+| 2026-07-15 | Mach 10 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +230.2 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu |
+| 2026-05-31 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -135.7 | -MaC, Bluely49, Kuahana, MasterShifu, exotic- |
+| 2026-05-29 | NATIONAL CS UNI | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -81.4 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |
 | 2026-05-27 | We Play Naked | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +150.5 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |
 | 2026-05-22 | Hairy Scary Bandits | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -5.1 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |
 | 2026-05-14 | Relativity | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -201.5 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu |

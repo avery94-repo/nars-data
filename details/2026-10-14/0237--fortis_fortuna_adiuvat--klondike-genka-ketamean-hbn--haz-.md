@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.172 | 1341.4 | - |
-| +30 days | 0.155 | 1316.5 | -24.9 |
+| +30 days | 0.155 | 1316.4 | -24.9 |
 | +60 days | 0.137 | 1292.0 | -49.4 |
-| +90 days | 0.106 | 1248.7 | -92.7 |
+| +90 days | 0.106 | 1248.9 | -92.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.051 vs 0.034 average, gap +0.017). Matching that average is worth about 0.0 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +353.6 |
-| SportsBetExpert | 6 | 2672.3 | +353.0 |
-| LAG Gaming | 8 | 2507.3 | +346.9 |
-| M80 | 2 | 3081.4 | +346.0 |
+| NRG | 4 | 2835.7 | +353.4 |
+| SportsBetExpert | 6 | 2671.6 | +352.7 |
+| LAG Gaming | 8 | 2507.4 | +347.0 |
+| M80 | 2 | 3081.4 | +346.1 |
 | Wildcard | 3 | 2911.9 | +343.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
@@ -71,15 +71,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Braindead | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -189.7 | -Haz-, Klondike, fambino, genka, ketamean |
 | 2026-07-29 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.03 | 0.70 | +0.6 | -Haz-, Deepako, Klondike, genka, ketamean |
 | 2026-07-24 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -1.3 | -Haz-, Klondike, fambino, genka, ketamean |
-| 2026-07-22 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -152.1 | -Haz-, Klondike, fambino, genka, ketamean |
-| 2026-07-17 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.12 | 0.62 | +134.0 | -Haz-, HBN, Klondike, fambino, genka |
+| 2026-07-22 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -152.2 | -Haz-, Klondike, fambino, genka, ketamean |
+| 2026-07-17 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.12 | 0.62 | +134.1 | -Haz-, HBN, Klondike, fambino, genka |
 | 2026-07-15 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.05 | 0.60 | +378.2 | -Haz-, HBN, Klondike, fambino, genka |
 | 2026-05-22 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +7.9 | -Haz-, HBN, Klondike, STF_-, ketamean |
 | 2026-05-20 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +127.5 | -Haz-, DMinish, HBN, Klondike, ketamean |
 | 2026-05-15 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -103.3 | -Haz-, DMinish, HBN, Klondike, ketamean |
 | 2026-05-13 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -127.2 | -Haz-, DMinish, HBN, Klondike, ketamean |
 | 2026-05-08 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -316.5 | -Haz-, DMinish, HBN, Klondike, ketamean |
-| 2026-05-06 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -382.0 | -Haz-, DMinish, HBN, Klondike, ketamean |
+| 2026-05-06 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -382.1 | -Haz-, DMinish, HBN, Klondike, ketamean |
 | 2026-05-01 | Manx Recovery Program | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +291.0 | -Haz-, DMinish, HBN, Klondike, ketamean |
 | 2026-04-24 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +1.6 | -Haz-, DMinish, HBN, Klondike, ketamean |
 | 2026-04-23 | Sassy Sunshines | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.04 | +246.2 | -Haz-, DMinish, HBN, Klondike, ketamean |

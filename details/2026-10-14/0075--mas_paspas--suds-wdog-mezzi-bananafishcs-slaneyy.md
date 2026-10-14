@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.251 | 1450.8 | - |
 | +30 days | 0.248 | 1447.2 | -3.6 |
 | +60 days | 0.246 | 1443.9 | -7.0 |
-| +90 days | 0.244 | 1440.9 | -9.9 |
+| +90 days | 0.244 | 1441.3 | -9.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.084 vs 0.078 average, gap +0.006). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +194.8 |
-| SportsBetExpert | 6 | 2672.3 | +192.9 |
-| M80 | 2 | 3081.4 | +191.3 |
-| Wildcard | 3 | 2911.9 | +189.5 |
-| Liquid | 1 | 3103.3 | +188.7 |
+| NRG | 4 | 2835.7 | +194.7 |
+| SportsBetExpert | 6 | 2671.6 | +192.8 |
+| M80 | 2 | 3081.4 | +191.4 |
+| Wildcard | 3 | 2911.9 | +189.6 |
+| Liquid | 1 | 3103.3 | +188.8 |
 
 Low value wins at current ratings (projected gain under 2.0 points): we get it back (+0.0), RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0), Dapper North (+0.0).
 
@@ -64,7 +64,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | SAFIR | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.03 | 1.00 | 1.02 | 0.09 | 1.02 | +48.9 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-09-10 | Team Amplus | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.03 | 1.00 | 1.00 | 0.17 | 1.00 | +36.6 | BananaFishCS, Mezzi, crazed, slaneyy, suds, wdog |
 | 2026-09-08 | butt | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.09 | 0.99 | +53.0 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
-| 2026-09-04 | PASSION | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.00 | 0.00 | -166.0 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
+| 2026-09-04 | PASSION | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.00 | 0.00 | -166.1 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-26 | Akatsuki | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.04 | 0.89 | +73.7 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-19 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.06 | 0.84 | +22.1 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-14 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.08 | 0.81 | +60.8 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
@@ -78,8 +78,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-26 | Conduit eSports | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.05 | 0.70 | +147.9 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-07-25 | VILLAGE | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.02 | 0.70 | +86.9 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-07-24 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.03 | 0.66 | +133.2 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
-| 2026-07-22 | Wealth Reduction | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +147.8 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
-| 2026-07-17 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -323.2 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
+| 2026-07-22 | Wealth Reduction | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +147.9 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
+| 2026-07-17 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -323.2 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-07-15 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -144.4 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

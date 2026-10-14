@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.365 | 1611.1 | - |
-| +30 days | 0.343 | 1580.4 | -30.8 |
+| +30 days | 0.343 | 1580.3 | -30.8 |
 | +60 days | 0.326 | 1556.2 | -54.9 |
-| +90 days | 0.297 | 1515.5 | -95.6 |
+| +90 days | 0.297 | 1516.5 | -94.7 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.215 vs 0.238 average, gap -0.023). Matching that average is worth about 16.1 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +220.7 |
-| SportsBetExpert | 6 | 2672.3 | +217.7 |
-| M80 | 2 | 3081.4 | +217.2 |
-| Wildcard | 3 | 2911.9 | +214.9 |
-| Liquid | 1 | 3103.3 | +214.2 |
+| NRG | 4 | 2835.7 | +220.8 |
+| SportsBetExpert | 6 | 2671.6 | +217.7 |
+| M80 | 2 | 3081.4 | +217.4 |
+| Wildcard | 3 | 2911.9 | +215.1 |
+| Liquid | 1 | 3103.3 | +214.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0), RejexEsports (+0.0).
 
@@ -57,12 +57,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-24 | Fathom Gaming | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.56 | 1.55 | +54.1 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-21 | Omen Esports | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.53 | 1.55 | +79.4 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-18 | Overtake Sector | L | 1-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -0.6 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
-| 2026-09-14 | academy 4 gifted children | L |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -68.0 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
+| 2026-09-14 | academy 4 gifted children | L |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -68.1 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-14 | academy 4 gifted children | W | 2-1 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 1.00 | 1.46 | 1.00 | 1.45 | 0.44 | 1.45 | +62.1 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-08 | FlyQuest RED | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.27 | 0.56 | 1.27 | +105.0 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-07 | Wolves | W |  | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.27 | 0.20 | 1.27 | +99.9 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-05 | Demolition | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.33 | 1.00 | 1.25 | 0.19 | 1.25 | +51.8 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
-| 2026-08-23 | Entertainment Cheese | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -140.1 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
+| 2026-08-23 | Entertainment Cheese | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -140.2 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 | 2026-08-23 | Elusive | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -82.0 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 | 2026-08-23 | Olympus | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -1.4 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 | 2026-08-23 | ThirdSite | L |  | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -186.7 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |

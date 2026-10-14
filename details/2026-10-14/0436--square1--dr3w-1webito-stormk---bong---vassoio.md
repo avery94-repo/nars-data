@@ -39,11 +39,13 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.4 |
 | Zomblers | 22 | 2114.7 | +658.7 |
 | regain | 12 | 2256.1 | +658.7 |
-| FarmVille | 16 | 2167.5 | +657.0 |
+| FarmVille | 16 | 2167.6 | +656.9 |
+
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+2.0).
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs 91AshLiu (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.04]
@@ -73,11 +75,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | bubibabu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -166.7 | --BONG--, 1webito, Vassoio, dr3w, stormK |
 | 2026-06-02 | US Navy Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -117.2 | --BONG--, 1webito, Vassoio, dr3w, museifu, stormK |
 | 2026-05-29 | Endless Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.00 | 0.00 | -0.8 | --BONG--, 1webito, Vassoio, dr3w, stormK |
-| 2026-05-27 | Schadenfreude | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.01 | 0.27 | +288.2 | --BONG--, 1webito, Vassoio, dr3w, stormK |
+| 2026-05-27 | Schadenfreude | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.01 | 0.27 | +288.3 | --BONG--, 1webito, Vassoio, dr3w, stormK |
 | 2026-05-19 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.21 | 1.01 | 1.00 | 0.21 | 0.00 | 0.00 | -11.6 | 1webito, Vassoio, dr3w, ping0n, stormK |
-| 2026-05-15 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -340.7 | 1webito, Vassoio, dr3w, ping0n, stormK |
-| 2026-05-13 | STFDYSAB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +393.6 | 1webito, Vassoio, dr3w, ping0n, stormK |
-| 2026-05-08 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -284.8 | --BONG--, 1webito, Vassoio, dr3w, stormK |
+| 2026-05-15 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -340.8 | 1webito, Vassoio, dr3w, ping0n, stormK |
+| 2026-05-13 | STFDYSAB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +393.7 | 1webito, Vassoio, dr3w, ping0n, stormK |
+| 2026-05-08 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -284.9 | --BONG--, 1webito, Vassoio, dr3w, stormK |
 | 2026-05-06 | Wide Swinging Wizards | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +205.1 | --BONG--, 1webito, Vassoio, dr3w, stormK |
 | 2026-05-01 | The Agarthans | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +203.8 | 1webito, Vassoio, dr3w, ping0n, stormK |
 | 2026-04-29 | Friendly Fire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -57.3 | --BONG--, 1webito, Vassoio, dr3w, stormK |

@@ -3,15 +3,15 @@ Team Name: NineFly Esports
 Roster: dash-, ronin7, zBanss, JTrops, Meechu
 NARS Rank: 104 of 506
 
-Final Rating: 1689.0
-Seeded Start: 1469.8
-H2H Adjustment: +219.2
+Final Rating: 1689.1
+Seeded Start: 1469.7
+H2H Adjustment: +219.4
 
-Final Rating (1689.0) = Seeded Start (1469.8) + H2H Adjustment (+219.2)
+Final Rating (1689.1) = Seeded Start (1469.7) + H2H Adjustment (+219.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.264 x 1400 = 1469.8
+                = 1100 + 0.264 x 1400 = 1469.7
 
 seed_factor 0.264 = 0.25 x Tier Exposure (0.160) + 0.50 x Quality Wins (0.184) + 0.25 x Opponent Network (0.527)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.264 | 1469.8 | - |
-| +30 days | 0.211 | 1395.8 | -74.0 |
+| Now | 0.264 | 1469.7 | - |
+| +30 days | 0.211 | 1395.7 | -74.0 |
 | +60 days | 0.188 | 1362.5 | -107.2 |
-| +90 days | 0.150 | 1309.7 | -160.1 |
+| +90 days | 0.150 | 1310.2 | -159.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.160 vs 0.285 average, gap -0.125). Matching that average is worth about 43.8 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +659.3 |
-| SportsBetExpert | 6 | 2672.3 | +650.8 |
+| NRG | 4 | 2835.7 | +658.7 |
+| SportsBetExpert | 6 | 2671.6 | +650.2 |
 | M80 | 2 | 3081.4 | +648.6 |
-| Wildcard | 3 | 2911.9 | +641.8 |
+| Wildcard | 3 | 2911.9 | +641.7 |
 | Liquid | 1 | 3103.3 | +639.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0).
@@ -68,19 +68,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | New Legends | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -90.0 | Griffin, JTrops, brooks, dash-, zBanss |
 | 2026-08-20 | Phantom Sense | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.00 | 0.00 | -72.1 | Griffin, JTrops, brooks, dash-, zBanss |
 | 2026-08-18 | DETONATE | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 1.19 | 1.19 | +212.1 | Griffin, JTrops, brooks, dash-, zBanss |
-| 2026-08-14 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.62 | 1.15 | +76.9 | Griffin, JTrops, brooks, dash-, zBanss |
+| 2026-08-14 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.62 | 1.15 | +77.0 | Griffin, JTrops, brooks, dash-, zBanss |
 | 2026-08-13 | unreal nightmare | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.00 | 0.00 | -10.8 | Griffin, JTrops, brooks, dash-, zBanss |
-| 2026-08-12 | firesale | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.00 | 0.00 | -103.7 | Griffin, JTrops, brooks, dash-, zBanss |
+| 2026-08-12 | firesale | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.00 | 0.00 | -103.8 | Griffin, JTrops, brooks, dash-, zBanss |
 | 2026-08-10 | TenToesDown | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.76 | 1.46 | 1.00 | 1.11 | 0.14 | 1.11 | +183.0 | Griffin, JTrops, brooks, dash-, zBanss |
 | 2026-08-05 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -20.9 | -Nks, JTrops, brooks, dash-, zBanss |
 | 2026-07-31 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -0.2 | -Nks, JTrops, brooks, dash-, zBanss |
-| 2026-07-29 | Pug Palace | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -121.5 | -Nks, JTrops, brooks, dash-, zBanss |
+| 2026-07-29 | Pug Palace | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -121.4 | -Nks, JTrops, brooks, dash-, zBanss |
 | 2026-07-17 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -17.1 | -Nks, -_AJ, JTrops, dash-, zBanss |
-| 2026-06-09 | Olympus | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.00 | 0.00 | -169.8 | JTrops, Meechu, dash-, ronin7, zBanss |
-| 2026-06-03 | Brahmas | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.31 | 1.50 | 1.00 | 0.46 | 0.00 | 0.00 | -165.3 | JTrops, Meechu, dash-, ronin7, zBanss |
+| 2026-06-09 | Olympus | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.00 | 0.00 | -169.9 | JTrops, Meechu, dash-, ronin7, zBanss |
+| 2026-06-03 | Brahmas | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.31 | 1.50 | 1.00 | 0.46 | 0.00 | 0.00 | -165.4 | JTrops, Meechu, dash-, ronin7, zBanss |
 | 2026-05-20 | dead team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.02 | 0.29 | +45.9 | JTrops, Meechu, dash-, ronin7, zBanss |
-| 2026-05-19 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.25 | 0.28 | +234.8 | JTrops, Meechu, dash-, ronin7, zBanss |
-| 2026-05-14 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.04 | 0.24 | +265.9 | JTrops, Meechu, dash-, ronin7, zBanss |
+| 2026-05-19 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.25 | 0.28 | +234.9 | JTrops, Meechu, dash-, ronin7, zBanss |
+| 2026-05-14 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.04 | 0.24 | +266.0 | JTrops, Meechu, dash-, ronin7, zBanss |
 | 2026-05-13 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -251.3 | JTrops, Meechu, dash-, ronin7, zBanss |
 | 2026-05-07 | Axial | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.09 | 0.00 | +350.2 | JTrops, Meechu, dash-, ronin7, zBanss |
 | 2026-04-29 | NineFlyeSports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.10 | 0.00 | 0.00 | -144.8 | JTrops, Meechu, dash-, ronin7, zBanss |

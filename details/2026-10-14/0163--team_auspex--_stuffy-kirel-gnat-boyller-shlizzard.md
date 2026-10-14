@@ -4,14 +4,14 @@ Roster: _Stuffy, Kirel, Gnat, Boyller, SHLiZZarD
 NARS Rank: 163 of 506
 
 Final Rating: 1544.3
-Seeded Start: 1348.1
-H2H Adjustment: +196.2
+Seeded Start: 1348.0
+H2H Adjustment: +196.3
 
-Final Rating (1544.3) = Seeded Start (1348.1) + H2H Adjustment (+196.2)
+Final Rating (1544.3) = Seeded Start (1348.0) + H2H Adjustment (+196.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.177 x 1400 = 1348.1
+                = 1100 + 0.177 x 1400 = 1348.0
 
 seed_factor 0.177 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.055) + 0.25 x Opponent Network (0.524)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.177 | 1348.1 | - |
+| Now | 0.177 | 1348.0 | - |
 | +30 days | 0.157 | 1320.2 | -27.8 |
 | +60 days | 0.139 | 1294.4 | -53.7 |
-| +90 days | 0.105 | 1247.3 | -100.7 |
+| +90 days | 0.105 | 1247.4 | -100.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.096 average, gap -0.022). Matching that average is worth about 7.7 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +624.9 |
-| SportsBetExpert | 6 | 2672.3 | +621.3 |
-| M80 | 2 | 3081.4 | +612.5 |
-| Wildcard | 3 | 2911.9 | +607.5 |
-| LAG Gaming | 8 | 2507.3 | +604.6 |
+| NRG | 4 | 2835.7 | +624.8 |
+| SportsBetExpert | 6 | 2671.6 | +621.2 |
+| M80 | 2 | 3081.4 | +613.0 |
+| Wildcard | 3 | 2911.9 | +607.9 |
+| LAG Gaming | 8 | 2507.4 | +605.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -60,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | The Sweepers | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -163.2 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-09-02 | After Hours | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.07 | 0.92 | +0.0 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-08-28 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +1.7 | Boyller, Eryyie, Gnat, SHLiZZarD, _Stuffy |
-| 2026-08-26 | JPG | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +30.1 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
+| 2026-08-26 | JPG | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +30.0 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-08-19 | Sharp | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.11 | 0.82 | +101.8 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-08-14 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -96.7 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-08-12 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.11 | 0.78 | +3.8 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |

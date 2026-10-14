@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.181 | 1353.6 | - |
 | +30 days | 0.168 | 1334.9 | -18.7 |
 | +60 days | 0.153 | 1314.1 | -39.5 |
-| +90 days | 0.125 | 1274.7 | -78.9 |
+| +90 days | 0.125 | 1274.8 | -78.8 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.042 vs 0.031 average, gap +0.011). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +286.7 |
-| SportsBetExpert | 6 | 2672.3 | +286.4 |
-| LAG Gaming | 8 | 2507.3 | +282.1 |
+| NRG | 4 | 2835.7 | +286.5 |
+| SportsBetExpert | 6 | 2671.6 | +286.2 |
+| LAG Gaming | 8 | 2507.4 | +282.2 |
 | regain | 12 | 2256.1 | +280.6 |
-| M80 | 2 | 3081.4 | +280.4 |
+| M80 | 2 | 3081.4 | +280.5 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -71,13 +71,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.03 | 0.71 | +0.6 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-07-29 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.05 | 0.70 | +197.1 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-07-24 | Distinguished Ducks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -4.0 | Casteeya, FullyLaced, Homie, _aido_, fatchud |
-| 2026-07-22 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +220.9 | Casteeya, FullyLaced, Homie, Merle, fatchud |
+| 2026-07-22 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +221.0 | Casteeya, FullyLaced, Homie, Merle, fatchud |
 | 2026-07-17 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -81.6 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-07-15 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -1.9 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
-| 2026-05-22 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -252.6 | Casteeya, FullyLaced, Homie, Merle, _aido_ |
+| 2026-05-22 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -252.7 | Casteeya, FullyLaced, Homie, Merle, _aido_ |
 | 2026-05-20 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +36.5 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
-| 2026-05-15 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +298.7 | FullyLaced, Homie, Merle, _aido_, fatchud |
-| 2026-05-13 | onliners | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -376.0 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
+| 2026-05-15 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +298.8 | FullyLaced, Homie, Merle, _aido_, fatchud |
+| 2026-05-13 | onliners | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -376.1 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-05-06 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.00 | +264.6 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-05-01 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -18.3 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-04-29 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -246.4 | Casteeya, FullyLaced, Merle, _aido_, fatchud |

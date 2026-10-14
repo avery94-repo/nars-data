@@ -3,11 +3,11 @@ Team Name: After Hours
 Roster: angles, Tsczmire, c0w, Treat-PhD, Gamer4shame
 NARS Rank: 440 of 506
 
-Final Rating: 931.6
+Final Rating: 931.5
 Seeded Start: 1185.5
-H2H Adjustment: -253.9
+H2H Adjustment: -254.0
 
-Final Rating (931.6) = Seeded Start (1185.5) + H2H Adjustment (-253.9)
+Final Rating (931.5) = Seeded Start (1185.5) + H2H Adjustment (-254.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.4 |
 | Zomblers | 22 | 2114.7 | +659.0 |
 | regain | 12 | 2256.1 | +658.8 |
-| FarmVille | 16 | 2167.5 | +657.1 |
+| FarmVille | 16 | 2167.6 | +657.1 |
 
 Seed inputs expiring within 90 days:
 - S57 NA Open9-10 Central - Playoffs B vs Team Rocket (2026-05-27): expires in 39 days [Quality Wins 0.00, Opponent Network 0.26]
@@ -57,17 +57,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-02 | Team Auspex | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -0.0 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
-| 2026-08-28 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -37.9 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
-| 2026-08-26 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -73.4 | Gamer4shame, Treat-PhD, Tsczmire, angles, bryanth |
+| 2026-08-28 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -38.0 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
+| 2026-08-26 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -73.5 | Gamer4shame, Treat-PhD, Tsczmire, angles, bryanth |
 | 2026-08-19 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.09 | 0.82 | +128.6 | Gamer4shame, KingOfKings, Treat-PhD, Tsczmire, c0w |
 | 2026-08-14 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -69.5 | KingOfKings, Treat-PhD, angles, bryanth, c0w |
 | 2026-08-12 | VeryBigDoogoos | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -66.6 | Gamer4shame, KingOfKings, Treat-PhD, angles, c0w |
 | 2026-08-07 | NoPrac | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -151.2 | Gamer4shame, KingOfKings, Treat-PhD, angles, c0w |
-| 2026-07-31 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -214.7 | Gamer4shame, KingOfKings, Treat-PhD, Tsczmire, c0w |
+| 2026-07-31 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -214.8 | Gamer4shame, KingOfKings, Treat-PhD, Tsczmire, c0w |
 | 2026-07-22 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -238.5 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
 | 2026-07-17 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -205.3 | Treat-PhD, Tsczmire, angles, c0w, ele-ment |
 | 2026-07-15 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +164.0 | Gamer4shame, KingOfKings, Treat-PhD, Tsczmire, angles |
-| 2026-06-05 | Cojomo Academy Roster | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.01 | 0.32 | +155.2 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
+| 2026-06-05 | Cojomo Academy Roster | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.01 | 0.32 | +155.3 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
 | 2026-05-29 | BAN ANCIENT | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +177.2 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
 | 2026-05-27 | Team Rocket | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +178.2 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
 

@@ -5,7 +5,7 @@ NARS Rank: 49 of 506
 
 Final Rating: 1888.6
 Seeded Start: 1442.0
-H2H Adjustment: +446.6
+H2H Adjustment: +446.6 (capped at +-300, raw +446.7)
 
 Final Rating (1888.6) = Seeded Start (1442.0) + H2H Adjustment (+446.6)
 
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.244 | 1442.0 | - |
 | +30 days | 0.228 | 1418.9 | -23.1 |
 | +60 days | 0.216 | 1402.9 | -39.0 |
-| +90 days | 0.198 | 1377.6 | -64.4 |
+| +90 days | 0.199 | 1378.0 | -64.0 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.134 vs 0.191 average, gap -0.057). Matching that average is worth about 19.9 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +345.4 |
-| M80 | 2 | 3081.4 | +341.7 |
-| SportsBetExpert | 6 | 2672.3 | +337.4 |
-| Liquid | 1 | 3103.3 | +337.0 |
-| Wildcard | 3 | 2911.9 | +337.0 |
+| NRG | 4 | 2835.7 | +345.2 |
+| M80 | 2 | 3081.4 | +341.8 |
+| SportsBetExpert | 6 | 2671.6 | +337.2 |
+| Liquid | 1 | 3103.3 | +337.1 |
+| Wildcard | 3 | 2911.9 | +337.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Grandpa Berets (+0.0), Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0).
 
@@ -59,7 +59,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | 5Frag Gaming | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.14 | 1.02 | +62.1 | Cloud-Ame, ScooterPeek, _Wilson_, coley, dytram |
 | 2026-09-15 | VOID ALUNE | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.19 | 1.00 | 1.19 | 0.00 | 0.00 | -44.1 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-09-12 | Manx Recovery Program | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.98 | 1.19 | 1.00 | 1.17 | 0.10 | 1.17 | +56.1 | ScooterPeek, _Wilson_, aphasia, coley, mang0 |
-| 2026-09-10 | TheMotherLovers | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.97 | 1.19 | 1.00 | 1.16 | 0.16 | 1.16 | +96.2 | ScooterPeek, aphasia, coley, dytram, mang0 |
+| 2026-09-10 | TheMotherLovers | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.97 | 1.19 | 1.00 | 1.16 | 0.16 | 1.16 | +96.3 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-09-08 | Shaboing Boing Bandits | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.19 | 1.00 | 1.14 | 0.15 | 1.14 | +36.6 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-09-06 | Entertainment Cheese | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.13 | 0.18 | 1.13 | +12.3 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-09-04 | Team Team Name | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.00 | 0.00 | -76.9 | ScooterPeek, _Wilson_, coley, dytram, mang0 |
@@ -77,7 +77,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.04 | 0.74 | +18.9 | ScooterPeek, aphasia, coley, dytram, skrimp |
 | 2026-07-17 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +0.8 | ScooterPeek, aphasia, coley, dytram, skrimp |
 | 2026-07-15 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.03 | 0.68 | +180.4 | ScooterPeek, aphasia, coley, dytram, skrimp |
-| 2026-05-29 | 027fam | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -298.8 | ScooterPeek, aphasia, coley, dytram, mang0 |
+| 2026-05-29 | 027fam | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -298.9 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-05-22 | Evil Reunion | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.03 | 0.26 | +30.8 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-05-20 | crescent | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +19.8 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-05-15 | Dude Picks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.03 | 0.21 | +143.4 | ScooterPeek, aphasia, coley, dytram, mang0 |
@@ -86,7 +86,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-06 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -36.5 | ScooterPeek, _Wilson_, aphasia, coley, mang0 |
 | 2026-04-30 | three11 | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -69.3 | TranQuille-, aphasia, coley, dytram, mang0 |
 | 2026-04-29 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +18.4 | Cloud-Ame, ScooterPeek, _Wilson_, aphasia, dytram |
-| 2026-04-25 | goofball gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.06 | +86.6 | ScooterPeek, aphasia, coley, dytram, mang0 |
+| 2026-04-25 | goofball gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.06 | +86.7 | ScooterPeek, aphasia, coley, dytram, mang0 |
 | 2026-04-24 | Team Team Name | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -164.0 | ScooterPeek, aphasia, coley, dytram, mang0 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

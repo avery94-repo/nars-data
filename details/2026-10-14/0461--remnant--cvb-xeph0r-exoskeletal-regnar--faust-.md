@@ -3,11 +3,11 @@ Team Name: Remnant
 Roster: cvb, Xeph0r, Exoskeletal, Regnar, -Faust-
 NARS Rank: 461 of 506
 
-Final Rating: 836.8
+Final Rating: 836.7
 Seeded Start: 1264.8
-H2H Adjustment: -428.0
+H2H Adjustment: -428.1
 
-Final Rating (836.8) = Seeded Start (1264.8) + H2H Adjustment (-428.0)
+Final Rating (836.7) = Seeded Start (1264.8) + H2H Adjustment (-428.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +444.8 |
-| SportsBetExpert | 6 | 2672.3 | +444.7 |
-| North Forge | 38 | 1971.1 | +443.2 |
+| NRG | 4 | 2835.7 | +444.5 |
+| SportsBetExpert | 6 | 2671.6 | +444.4 |
+| North Forge | 38 | 1971.1 | +443.3 |
 | Zomblers | 22 | 2114.7 | +442.5 |
-| Wanted Goons | 43 | 1933.1 | +442.4 |
+| Wanted Goons | 43 | 1933.1 | +442.5 |
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs Brothers United (2026-04-29): expires in 11 days [Quality Wins 0.00]
@@ -64,23 +64,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Samantha 4 | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -4.0 | Arch1ves, Exoskeletal, Regnar, Rellac, cvb |
 | 2026-08-28 | Thrash | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -81.6 | -Faust-, Exoskeletal, Gettooled, Regnar, cvb |
 | 2026-08-26 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.03 | 0.87 | +52.5 | -Faust-, Gettooled, Regnar, Xeph0r, cvb |
-| 2026-08-19 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -125.2 | -Faust-, Exoskeletal, Gettooled, Regnar, Xeph0r |
+| 2026-08-19 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -125.3 | -Faust-, Exoskeletal, Gettooled, Regnar, Xeph0r |
 | 2026-08-14 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.03 | 0.79 | +8.0 | -Faust-, Exoskeletal, Gettooled, Regnar, cvb |
 | 2026-08-12 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -92.6 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
 | 2026-08-07 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +90.4 | -Faust-, Exoskeletal, Gettooled, Regnar, cvb |
 | 2026-08-05 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -18.9 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |
 | 2026-07-31 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -127.0 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |
 | 2026-07-29 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -131.4 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |
-| 2026-07-24 | walkthemdown | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -300.5 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
-| 2026-07-22 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +253.1 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
-| 2026-07-17 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -78.6 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
+| 2026-07-24 | walkthemdown | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -300.6 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
+| 2026-07-22 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +253.2 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
+| 2026-07-17 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -78.5 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
 | 2026-07-15 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +394.5 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |
-| 2026-05-29 | DownTown | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -140.0 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
+| 2026-05-29 | DownTown | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -140.1 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
 | 2026-05-27 | Ubiquiti | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -261.4 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
-| 2026-05-22 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -347.8 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
+| 2026-05-22 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -347.9 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
 | 2026-05-15 | Brick Layers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +3.3 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
-| 2026-05-13 | Grandpa Berets | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +227.3 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
-| 2026-05-08 | Knight Owls | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +9.7 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
+| 2026-05-13 | Grandpa Berets | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +227.4 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
+| 2026-05-08 | Knight Owls | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +9.6 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
 | 2026-05-06 | Gambling and Young | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +12.4 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
 | 2026-05-01 | Mace Lindu Ruff Rebound | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +338.4 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |
 | 2026-04-29 | Brothers United | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +191.9 | -Faust-, Exoskeletal, Kobey, Xeph0r, cvb |

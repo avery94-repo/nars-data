@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.149 | 1308.8 | - |
 | +30 days | 0.126 | 1276.3 | -32.5 |
-| +60 days | 0.111 | 1255.7 | -53.2 |
-| +90 days | 0.088 | 1223.9 | -85.0 |
+| +60 days | 0.111 | 1255.7 | -53.1 |
+| +90 days | 0.089 | 1223.9 | -84.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.030 vs 0.019 average, gap +0.011). Matching that average is worth about 0.0 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.8 |
-| SportsBetExpert | 6 | 2672.3 | +663.9 |
-| LAG Gaming | 8 | 2507.3 | +653.6 |
+| NRG | 4 | 2835.7 | +664.2 |
+| SportsBetExpert | 6 | 2671.6 | +663.3 |
+| LAG Gaming | 8 | 2507.4 | +653.6 |
 | M80 | 2 | 3081.4 | +650.2 |
 | regain | 12 | 2256.1 | +648.4 |
 
@@ -62,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Midwest Farmers | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.11 | 0.93 | +92.9 | 1rektum, Gurtz, MEWTWO-, __Adept__, lizard_mwbd |
 | 2026-09-02 | Anchors Anonymous | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -37.2 | 1sc0ut, Gurtz, MEWTWO-, __Adept__, lizard_mwbd |
 | 2026-08-28 | VeryBigDoogoos | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.04 | 0.88 | +63.5 | 1rektum, Gurtz, MEWTWO-, __Adept__, lizard_mwbd |
-| 2026-08-26 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.06 | 0.87 | +73.5 | 1rektum, 1sc0ut, BlueKey-JMU, Gurtz, __Adept__ |
+| 2026-08-26 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.06 | 0.87 | +73.6 | 1rektum, 1sc0ut, BlueKey-JMU, Gurtz, __Adept__ |
 | 2026-08-21 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +54.4 | 1rektum, DDirocco, Gurtz, MEWTWO-, lizard_mwbd |
 | 2026-08-19 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.03 | 0.82 | +1.1 | 1rektum, 1sc0ut, Gurtz, MEWTWO-, __Adept__ |
 | 2026-08-14 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.05 | 0.79 | +22.6 | DDirocco, Gurtz, MEWTWO-, __Adept__, lizard_mwbd |
@@ -71,13 +71,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.03 | 0.73 | +206.2 | 1rektum, 1sc0ut, Gurtz, MEWTWO-, __Adept__ |
 | 2026-07-31 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -161.5 | 1rektum, DDirocco, MEWTWO-, __Adept__, avi-- |
 | 2026-07-24 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.03 | 0.65 | +168.3 | 1rektum, 1sc0ut, DDirocco, Gurtz, lizard_mwbd |
-| 2026-07-15 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -230.1 | 1rektum, 1sc0ut, BlueKey-JMU, Gurtz, __Adept__ |
-| 2026-05-29 | Strafe | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.05 | 0.28 | +101.0 | 1rektum, 1sc0ut, Gurtz, MEWTWO-, __Adept__ |
+| 2026-07-15 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -230.2 | 1rektum, 1sc0ut, BlueKey-JMU, Gurtz, __Adept__ |
+| 2026-05-29 | Strafe | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.05 | 0.28 | +101.1 | 1rektum, 1sc0ut, Gurtz, MEWTWO-, __Adept__ |
 | 2026-05-27 | Feels MAIN Man | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -20.3 | 1rektum, 1sc0ut, DDirocco, Gurtz, MEWTWO-, __Adept__ |
-| 2026-05-20 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -261.7 | 1rektum, 1sc0ut, BlueKey-JMU, Gurtz, __Adept__ |
-| 2026-05-15 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +250.1 | 1rektum, 1sc0ut, Gurtz, MEWTWO-, __Adept__ |
+| 2026-05-20 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -261.8 | 1rektum, 1sc0ut, BlueKey-JMU, Gurtz, __Adept__ |
+| 2026-05-15 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +250.2 | 1rektum, 1sc0ut, Gurtz, MEWTWO-, __Adept__ |
 | 2026-05-13 | We Play Naked | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +336.6 | 1rektum, 1sc0ut, BlueKey-JMU, Gurtz, __Adept__ |
-| 2026-05-08 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -376.1 | 1rektum, 1sc0ut, BlueKey-JMU, DDirocco, __Adept__ |
+| 2026-05-08 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -376.2 | 1rektum, 1sc0ut, BlueKey-JMU, DDirocco, __Adept__ |
 | 2026-05-06 | GoonAssOldheads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -69.4 | 1rektum, 1sc0ut, BlueKey-JMU, MEWTWO-, __Adept__ |
 | 2026-05-01 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -94.6 | 1rektum, 1sc0ut, BlueKey-JMU, DDirocco, MEWTWO- |
 | 2026-04-29 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -250.1 | 1rektum, 1sc0ut, BlueKey-JMU, MEWTWO-, __Adept__ |

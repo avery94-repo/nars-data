@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.212 | 1396.3 | - |
-| +30 days | 0.192 | 1368.2 | -28.2 |
+| +30 days | 0.192 | 1368.1 | -28.2 |
 | +60 days | 0.170 | 1337.5 | -58.8 |
-| +90 days | 0.139 | 1294.0 | -102.4 |
+| +90 days | 0.139 | 1294.1 | -102.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.058 vs 0.027 average, gap +0.031). Matching that average is worth about 0.0 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +280.8 |
-| SportsBetExpert | 6 | 2672.3 | +280.4 |
-| LAG Gaming | 8 | 2507.3 | +275.7 |
+| NRG | 4 | 2835.7 | +280.7 |
+| SportsBetExpert | 6 | 2671.6 | +280.2 |
+| LAG Gaming | 8 | 2507.4 | +275.8 |
 | M80 | 2 | 3081.4 | +274.8 |
 | Wildcard | 3 | 2911.9 | +272.9 |
 
@@ -60,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Lynnsanity | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -166.9 | Blad3, L1ghtw8, RCS2, coastin, shlenny |
 | 2026-10-07 | Goyim Gladiators | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +85.9 | Blad3, L1ghtw8, RCS2, coastin, shlenny |
 | 2026-09-08 | penazoid | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.19 | 1.00 | 1.14 | 0.00 | 0.00 | -85.5 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
-| 2026-09-06 | Yogaball Frags | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.13 | 0.09 | 0.00 | +19.4 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
+| 2026-09-06 | Yogaball Frags | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.12 | 0.09 | 0.00 | +19.4 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
 | 2026-09-04 | Crimson Vortex | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.00 | 0.00 | -61.3 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
 | 2026-09-02 | Exnitas | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.09 | 0.14 | 1.09 | +39.9 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
 | 2026-08-28 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.08 | 1.02 | +3.4 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
@@ -74,16 +74,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-01 | NuTorious | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.84 | 0.00 | 0.00 | -4.0 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
 | 2026-08-01 | 99 Thieves | W | 1-0 | SoFlo Slam 2 | C | faceit-tournament | 0.71 | 1.19 | 1.00 | 0.84 | 0.08 | 0.84 | +13.9 | Blad3, Madbeetle, RCS2, coastin, m0NDAY |
 | 2026-07-29 | YHUBEPCAM | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -45.3 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
-| 2026-07-24 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -270.1 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
+| 2026-07-24 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -270.2 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
 | 2026-07-22 | Over Your Head | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -459.2 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
 | 2026-07-17 | STFDYSAB | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.09 | 0.00 | +0.8 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
 | 2026-07-15 | Top One Percent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.04 | 0.68 | +0.2 | Blad3, L1ghtw8, RCS2, coastin, m0NDAY |
 | 2026-06-11 | Absent Minded | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.36 | 1.03 | 1.00 | 0.37 | 0.03 | 0.37 | +95.4 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
-| 2026-06-09 | STFDYSAB | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.35 | 1.03 | 1.00 | 0.36 | 0.04 | 0.36 | +119.8 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
-| 2026-06-06 | Baja Blasters | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.33 | 1.03 | 1.00 | 0.34 | 0.02 | 0.34 | +174.4 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
+| 2026-06-09 | STFDYSAB | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.35 | 1.03 | 1.00 | 0.36 | 0.04 | 0.36 | +119.9 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
+| 2026-06-06 | Baja Blasters | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.33 | 1.03 | 1.00 | 0.34 | 0.02 | 0.34 | +174.5 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
 | 2026-06-04 | HammerHeads | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.03 | 1.00 | 0.33 | 0.02 | 0.33 | +164.8 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
 | 2026-06-02 | Meepins | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.03 | 0.31 | +138.0 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
-| 2026-05-31 | Spin da block | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.03 | 0.30 | +135.6 | Blad3, L1ghtw8, Madbeetle, coastin, m0NDAY |
+| 2026-05-31 | Spin da block | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.03 | 0.30 | +135.7 | Blad3, L1ghtw8, Madbeetle, coastin, m0NDAY |
 | 2026-05-27 | Oath | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -280.0 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
 | 2026-05-22 | Zenano | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +280.0 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
 | 2026-05-20 | Qinorhwat | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.22 | +200.0 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
@@ -92,7 +92,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | Friendly Fire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -419.4 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
 | 2026-05-06 | In Our Prime | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +20.3 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
 | 2026-05-01 | Wide Swinging Wizards | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +145.2 | L1ghtw8, Madbeetle, coastin, m0NDAY, nawny |
-| 2026-04-29 | Mach 10 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +249.5 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
+| 2026-04-29 | Mach 10 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +249.6 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
 | 2026-04-24 | Brick Layers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +355.4 | Blad3, L1ghtw8, Madbeetle, coastin, m0NDAY, nawny |
 | 2026-04-22 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -295.2 | Blad3, L1ghtw8, Madbeetle, coastin, m0NDAY |
 

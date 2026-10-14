@@ -39,8 +39,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +660.0 |
-| SportsBetExpert | 6 | 2672.3 | +652.6 |
+| NRG | 4 | 2835.7 | +659.5 |
+| SportsBetExpert | 6 | 2671.6 | +652.0 |
 | M80 | 2 | 3081.4 | +648.8 |
 | Wildcard | 3 | 2911.9 | +642.3 |
 | Liquid | 1 | 3103.3 | +639.8 |
@@ -59,7 +59,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.31 | +200.7 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
-| 2026-05-12 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.04 | 0.22 | +58.2 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
+| 2026-05-12 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.04 | 0.22 | +58.1 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
 | 2026-05-08 | Asian Invasion | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.18 | +386.8 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
 | 2026-04-30 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -0.0 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
 | 2026-04-30 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -425.3 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |

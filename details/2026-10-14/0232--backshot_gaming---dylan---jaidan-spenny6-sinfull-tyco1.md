@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.120 | 1267.5 | - |
-| +30 days | 0.092 | 1229.1 | -38.4 |
+| +30 days | 0.092 | 1229.0 | -38.4 |
 | +60 days | 0.076 | 1206.5 | -61.0 |
-| +90 days | 0.046 | 1163.8 | -103.7 |
+| +90 days | 0.046 | 1163.8 | -103.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.045 vs 0.072 average, gap -0.027). Matching that average is worth about 9.4 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +663.9 |
-| SportsBetExpert | 6 | 2672.3 | +661.8 |
-| M80 | 2 | 3081.4 | +650.0 |
-| LAG Gaming | 8 | 2507.3 | +648.4 |
+| NRG | 4 | 2835.7 | +663.3 |
+| SportsBetExpert | 6 | 2671.6 | +661.2 |
+| M80 | 2 | 3081.4 | +649.9 |
+| LAG Gaming | 8 | 2507.4 | +648.4 |
 | Wildcard | 3 | 2911.9 | +645.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
@@ -73,14 +73,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | 91AshLiu | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.04 | 0.68 | +382.0 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-05-22 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -275.1 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-05-20 | Bird Squishers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -346.0 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
-| 2026-05-15 | Macs Snacks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.03 | 0.21 | +310.8 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
-| 2026-05-13 | Conscious Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -279.6 | -Dylan--, Jaidan, Raspubot, spenny6, tyco1 |
+| 2026-05-15 | Macs Snacks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.03 | 0.21 | +310.9 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
+| 2026-05-13 | Conscious Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -279.7 | -Dylan--, Jaidan, Raspubot, spenny6, tyco1 |
 | 2026-05-08 | Temple of Swing | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +3.3 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
-| 2026-05-06 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +311.7 | -Dylan--, Jaidan, Raspubot, spenny6, tyco1 |
+| 2026-05-06 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +311.8 | -Dylan--, Jaidan, Raspubot, spenny6, tyco1 |
 | 2026-05-01 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +359.0 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-04-29 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -167.1 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-04-24 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -104.1 | -Dylan--, BeerFade, Jaidan, Sinfull, tyco1 |
 | 2026-04-23 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.04 | +283.7 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
-| 2026-04-22 | Pro Lapse | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -269.7 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
+| 2026-04-22 | Pro Lapse | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -269.8 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

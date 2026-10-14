@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +664.9 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.4 |
 | regain | 12 | 2256.1 | +658.0 |
 | Zomblers | 22 | 2114.7 | +657.4 |
-| LAG Gaming | 8 | 2507.3 | +656.2 |
+| LAG Gaming | 8 | 2507.4 | +656.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.4).
 
@@ -52,7 +52,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-05 | Kahoot Squad | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -185.6 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |
+| 2026-09-05 | Kahoot Squad | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -185.7 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |
 | 2026-09-04 | Brobies | L | 0-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -35.3 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |
 | 2026-09-02 | The Wizards | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +66.0 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |
 | 2026-08-29 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.20 | 1.00 | 1.07 | 0.00 | 0.00 | -0.5 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |

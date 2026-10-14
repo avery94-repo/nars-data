@@ -3,11 +3,11 @@ Team Name: insane players
 Roster: (unknown)
 NARS Rank: 453 of 506
 
-Final Rating: 890.0
+Final Rating: 889.9
 Seeded Start: 1105.6
-H2H Adjustment: -215.6
+H2H Adjustment: -215.7
 
-Final Rating (890.0) = Seeded Start (1105.6) + H2H Adjustment (-215.6)
+Final Rating (889.9) = Seeded Start (1105.6) + H2H Adjustment (-215.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,8 +39,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.5 |
 | Zomblers | 22 | 2114.7 | +660.0 |
 | regain | 12 | 2256.1 | +659.3 |
 | North Forge | 38 | 1971.1 | +659.1 |

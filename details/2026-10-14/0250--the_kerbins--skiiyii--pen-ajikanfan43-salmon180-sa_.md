@@ -13,7 +13,7 @@ Final Rating (1378.6) = Seeded Start (1199.2) + H2H Adjustment (+179.4)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.071 x 1400 = 1199.2
 
-seed_factor 0.071 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.190)
+seed_factor 0.071 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.190)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +282.6 |
-| SportsBetExpert | 6 | 2672.3 | +282.2 |
-| LAG Gaming | 8 | 2507.3 | +277.7 |
-| M80 | 2 | 3081.4 | +276.4 |
+| NRG | 4 | 2835.7 | +282.4 |
+| SportsBetExpert | 6 | 2671.6 | +282.0 |
+| LAG Gaming | 8 | 2507.4 | +277.8 |
+| M80 | 2 | 3081.4 | +276.5 |
 | regain | 12 | 2256.1 | +275.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).

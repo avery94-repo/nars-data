@@ -3,11 +3,11 @@ Team Name: Defaulting
 Roster: noostie, The_Cam3l, YRV, DavyG, MillerL
 NARS Rank: 215 of 506
 
-Final Rating: 1451.6
+Final Rating: 1451.7
 Seeded Start: 1229.6
-H2H Adjustment: +222.0
+H2H Adjustment: +222.1
 
-Final Rating (1451.6) = Seeded Start (1229.6) + H2H Adjustment (+222.0)
+Final Rating (1451.7) = Seeded Start (1229.6) + H2H Adjustment (+222.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.093 | 1229.6 | - |
 | +30 days | 0.095 | 1232.4 | +2.8 |
 | +60 days | 0.095 | 1233.4 | +3.8 |
-| +90 days | 0.097 | 1235.1 | +5.5 |
+| +90 days | 0.097 | 1235.2 | +5.6 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.270 vs 0.354 average, gap -0.084). Matching that average is worth about 29.4 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.270 vs 0.353 average, gap -0.083). Matching that average is worth about 29.0 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 West - Playoffs (2026-09-12) 1.09; S59 NA Intermediate A - Regular Season (2026-10-09) 1.00
 - Quality Wins drivers: beat Mongolian Tractor at S58 NA Open9-10 West - Playoffs (2026-09-10) 0.08; beat The Kerbins at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07; beat No pain No aim at S58 NA Open9-10 West - Playoffs (2026-09-04) 0.04
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +277.2 |
-| SportsBetExpert | 6 | 2672.3 | +276.6 |
-| LAG Gaming | 8 | 2507.3 | +271.8 |
+| NRG | 4 | 2835.7 | +277.1 |
+| SportsBetExpert | 6 | 2671.6 | +276.5 |
+| LAG Gaming | 8 | 2507.4 | +271.9 |
 | M80 | 2 | 3081.4 | +271.3 |
 | Wildcard | 3 | 2911.9 | +269.4 |
 
@@ -54,7 +54,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +168.9 | DavyG, JCIV, MTL_, YRV, noostie |
 | 2026-09-12 | COGNITIVE | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.09 | 0.00 | 0.00 | -119.1 | DavyG, MTL_, The_Cam3l, YRV, santanamolly |
-| 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.08 | 1.07 | +96.0 | DavyG, EndMeThx, JCIV, MTL_, YRV |
+| 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.08 | 1.07 | +96.1 | DavyG, EndMeThx, JCIV, MTL_, YRV |
 | 2026-09-06 | RH Help Desk | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.00 | 0.00 | -147.3 | DavyG, EndMeThx, MTL_, The_Cam3l, YRV |
 | 2026-09-04 | No pain No aim | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.04 | 1.03 | +91.8 | DavyG, EndMeThx, JCIV, The_Cam3l, YRV |
 | 2026-09-02 | Zero Remorse | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.04 | 1.01 | +131.7 | JCIV, MTL_, The_Cam3l, YRV, noostie |

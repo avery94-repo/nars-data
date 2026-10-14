@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.099 | 1238.1 | - |
 | +30 days | 0.081 | 1213.5 | -24.6 |
 | +60 days | 0.069 | 1196.6 | -41.5 |
-| +90 days | 0.047 | 1165.5 | -72.7 |
+| +90 days | 0.047 | 1165.6 | -72.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.050 vs 0.067 average, gap -0.017). Matching that average is worth about 6.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.9 |
-| SportsBetExpert | 6 | 2672.3 | +664.3 |
-| LAG Gaming | 8 | 2507.3 | +654.6 |
+| NRG | 4 | 2835.7 | +664.4 |
+| SportsBetExpert | 6 | 2671.6 | +663.8 |
+| LAG Gaming | 8 | 2507.4 | +654.6 |
 | regain | 12 | 2256.1 | +652.3 |
-| M80 | 2 | 3081.4 | +650.3 |
+| M80 | 2 | 3081.4 | +650.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.5), shirtcockin (+0.7), Courage (+0.9), SixSevenZaZa (+1.4).
 
@@ -58,7 +58,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-27 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.27 | 0.68 | 1.27 | +148.7 | 1LEFTY, Darke-, FromBehind, Meechu, nrb |
+| 2026-08-27 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.27 | 0.68 | 1.27 | +148.8 | 1LEFTY, Darke-, FromBehind, Meechu, nrb |
 | 2026-08-26 | firesale | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.00 | 0.00 | -1.5 | 1LEFTY, Darke-, FromBehind, Meechu, nrb |
 | 2026-08-19 | Shimmer | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -0.3 | 1LEFTY, Darke-, FromBehind, Meechu, nrb |
 | 2026-08-14 | New Legends | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.00 | 0.00 | -3.1 | 1LEFTY, Darke-, FromBehind, Meechu, nrb |

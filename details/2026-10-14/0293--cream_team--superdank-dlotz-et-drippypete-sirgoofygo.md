@@ -4,14 +4,14 @@ Roster: SuperDank, Dlotz, Et, DrippyPete, SirGoofyGoon
 NARS Rank: 293 of 506
 
 Final Rating: 1282.4
-Seeded Start: 1230.1
-H2H Adjustment: +52.3
+Seeded Start: 1230.2
+H2H Adjustment: +52.2
 
-Final Rating (1282.4) = Seeded Start (1230.1) + H2H Adjustment (+52.3)
+Final Rating (1282.4) = Seeded Start (1230.2) + H2H Adjustment (+52.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.093 x 1400 = 1230.1
+                = 1100 + 0.093 x 1400 = 1230.2
 
 seed_factor 0.093 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.015) + 0.25 x Opponent Network (0.269)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.093 | 1230.1 | - |
+| Now | 0.093 | 1230.2 | - |
 | +30 days | 0.098 | 1236.9 | +6.7 |
 | +60 days | 0.100 | 1239.6 | +9.5 |
-| +90 days | 0.104 | 1245.9 | +15.7 |
+| +90 days | 0.104 | 1246.0 | +15.8 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.269 vs 0.374 average, gap -0.105). Matching that average is worth about 36.7 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +528.2 |
-| SportsBetExpert | 6 | 2672.3 | +527.6 |
-| LAG Gaming | 8 | 2507.3 | +519.3 |
-| M80 | 2 | 3081.4 | +516.7 |
-| regain | 12 | 2256.1 | +515.1 |
+| NRG | 4 | 2835.7 | +527.9 |
+| SportsBetExpert | 6 | 2671.6 | +527.2 |
+| LAG Gaming | 8 | 2507.4 | +519.4 |
+| M80 | 2 | 3081.4 | +516.8 |
+| regain | 12 | 2256.1 | +515.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.3), SixSevenZaZa (+0.5).
 

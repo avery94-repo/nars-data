@@ -4,16 +4,16 @@ Roster: destind2lose, MrOllie200, SirOdawg, Mythik, Shoodyman
 NARS Rank: 275 of 506
 
 Final Rating: 1329.7
-Seeded Start: 1304.3
-H2H Adjustment: +25.4
+Seeded Start: 1304.2
+H2H Adjustment: +25.5
 
-Final Rating (1329.7) = Seeded Start (1304.3) + H2H Adjustment (+25.4)
+Final Rating (1329.7) = Seeded Start (1304.2) + H2H Adjustment (+25.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.146 x 1400 = 1304.3
+                = 1100 + 0.146 x 1400 = 1304.2
 
-seed_factor 0.146 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.038) + 0.25 x Opponent Network (0.433)
+seed_factor 0.146 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.038) + 0.25 x Opponent Network (0.433)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,12 +24,12 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.146 | 1304.3 | - |
-| +30 days | 0.131 | 1283.4 | -20.9 |
+| Now | 0.146 | 1304.2 | - |
+| +30 days | 0.131 | 1283.3 | -20.9 |
 | +60 days | 0.118 | 1265.5 | -38.8 |
-| +90 days | 0.095 | 1233.6 | -70.7 |
+| +90 days | 0.095 | 1233.7 | -70.6 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.075 vs 0.068 average, gap +0.007). Matching that average is worth about 0.0 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.068 average, gap +0.006). Matching that average is worth about 0.0 seed points.
 
 - Tier Exposure drivers: S58 NA Intermediate Central - Playoffs B (2026-09-10) 0.97; S58 NA Intermediate B - Regular Season (2026-08-28) 0.88; S57 NA Open9-10 Central - Playoffs A (2026-05-27) 0.28
 - Quality Wins drivers: beat D1NK Esports at S58 NA Intermediate Central - Playoffs B (2026-09-08) 0.13; beat We Play Naked at S58 NA Intermediate B - Regular Season (2026-08-26) 0.10; beat Big Fish at S58 NA Intermediate B - Regular Season (2026-08-19) 0.09
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +525.5 |
-| SportsBetExpert | 6 | 2672.3 | +524.6 |
-| LAG Gaming | 8 | 2507.3 | +516.0 |
-| M80 | 2 | 3081.4 | +514.1 |
-| Wildcard | 3 | 2911.9 | +510.6 |
+| NRG | 4 | 2835.7 | +525.5 |
+| SportsBetExpert | 6 | 2671.6 | +524.6 |
+| LAG Gaming | 8 | 2507.4 | +516.4 |
+| M80 | 2 | 3081.4 | +514.5 |
+| Wildcard | 3 | 2911.9 | +511.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
 

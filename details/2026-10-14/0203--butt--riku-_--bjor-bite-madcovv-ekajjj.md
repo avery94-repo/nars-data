@@ -13,7 +13,7 @@ Final Rating (1476.2) = Seeded Start (1280.8) + H2H Adjustment (+195.4)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.129 x 1400 = 1280.8
 
-seed_factor 0.129 = 0.25 x Tier Exposure (0.089) + 0.50 x Quality Wins (0.036) + 0.25 x Opponent Network (0.357)
+seed_factor 0.129 = 0.25 x Tier Exposure (0.089) + 0.50 x Quality Wins (0.035) + 0.25 x Opponent Network (0.357)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.129 | 1280.8 | - |
 | +30 days | 0.096 | 1234.0 | -46.8 |
-| +60 days | 0.072 | 1201.5 | -79.4 |
-| +90 days | 0.046 | 1163.8 | -117.0 |
+| +60 days | 0.072 | 1201.5 | -79.3 |
+| +90 days | 0.046 | 1163.9 | -116.9 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.089 vs 0.117 average, gap -0.028). Matching that average is worth about 9.8 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +635.0 |
-| SportsBetExpert | 6 | 2672.3 | +632.5 |
-| M80 | 2 | 3081.4 | +622.0 |
-| LAG Gaming | 8 | 2507.3 | +618.1 |
-| Wildcard | 3 | 2911.9 | +617.2 |
+| NRG | 4 | 2835.7 | +635.0 |
+| SportsBetExpert | 6 | 2671.6 | +632.4 |
+| M80 | 2 | 3081.4 | +622.4 |
+| LAG Gaming | 8 | 2507.4 | +618.6 |
+| Wildcard | 3 | 2911.9 | +617.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -63,22 +63,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | mas paspas | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.00 | 0.00 | -52.9 | bite, bjor, ekajjj, madcovv, riku-_- |
-| 2026-09-05 | The Burger People | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.00 | 0.00 | -133.4 | bite, bjor, ekajjj, madcovv, riku-_- |
+| 2026-09-05 | The Burger People | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.00 | 0.00 | -133.5 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-08-26 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -134.5 | HAHAHAHAHAA, bjor, madcovv, riku-_-, zachaweee |
 | 2026-08-19 | GeneticDiff | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.10 | 0.84 | +94.5 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-08-19 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.06 | 0.84 | +46.4 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-08-14 | Kairo | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.10 | 0.81 | +111.0 | bite, bjor, ekajjj, madcovv, riku-_- |
-| 2026-08-07 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -168.4 | bite, bjor, ekajjj, madcovv, riku-_- |
+| 2026-08-07 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -168.5 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-07-24 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -235.8 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-07-22 | absolute cinema | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.07 | 0.65 | +5.6 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-07-16 | Meepins | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +2.3 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-07-15 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.03 | 0.60 | +38.0 | 1jiffy, bite, bjor, ekajjj, madcovv |
 | 2026-06-05 | Elation | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.40 | 0.00 | 0.00 | -110.6 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-06-04 | teamington | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.05 | 0.39 | +103.7 | bite, bjor, ekajjj, madcovv, riku-_- |
-| 2026-06-02 | Dude Picks | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.05 | 0.38 | +137.3 | bite, bjor, ekajjj, madcovv, riku-_- |
+| 2026-06-02 | Dude Picks | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.05 | 0.38 | +137.4 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-31 | GeneticDiff | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.04 | 0.00 | +126.0 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-29 | VOID ALUNE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -241.1 | bite, bjor, ekajjj, madcovv, riku-_- |
-| 2026-05-22 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -193.1 | bite, bjor, ekajjj, madcovv, riku-_- |
+| 2026-05-22 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -193.2 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-19 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.00 | 0.00 | -28.8 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-12 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +7.3 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-08 | The Skins | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.02 | 0.16 | +142.4 | bite, bjor, ekajjj, madcovv, riku-_- |

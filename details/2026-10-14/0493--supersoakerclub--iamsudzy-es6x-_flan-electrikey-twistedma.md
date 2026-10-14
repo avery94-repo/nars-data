@@ -3,11 +3,11 @@ Team Name: SuperSoakerClub
 Roster: IamSudzy, Es6x, _flan, Electrikey, TwistedMango
 NARS Rank: 493 of 506
 
-Final Rating: 581.9
+Final Rating: 581.8
 Seeded Start: 1110.8
-H2H Adjustment: -528.9
+H2H Adjustment: -529.0
 
-Final Rating (581.9) = Seeded Start (1110.8) + H2H Adjustment (-528.9)
+Final Rating (581.8) = Seeded Start (1110.8) + H2H Adjustment (-529.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -41,8 +41,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 | :- | -: | -: | -: |
 | North Forge | 38 | 1971.1 | +666.0 |
 | Wanted Goons | 43 | 1933.1 | +665.5 |
-| NRG | 4 | 2836.4 | +665.3 |
-| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.6 |
 | Zomblers | 22 | 2114.7 | +663.2 |
 
 Seed inputs expiring within 90 days:
@@ -56,14 +56,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -212.8 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
-| 2026-05-20 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -285.4 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
-| 2026-05-15 | Kennesaw State Gold 2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +308.2 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-22 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -212.9 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-20 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -285.5 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-15 | Kennesaw State Gold 2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +308.3 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-05-13 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -87.8 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-05-08 | NATIONAL CS UNI | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -105.6 | Es6x, IamSudzy, TwistedMango, _flan, warpN |
 | 2026-05-06 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -204.8 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-05-01 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -328.3 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
-| 2026-04-29 | RunTheDamnBall | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +378.3 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-04-29 | RunTheDamnBall | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +378.4 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-04-24 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +236.4 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-04-22 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -227.3 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 

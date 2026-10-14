@@ -3,15 +3,15 @@ Team Name: Solbound
 Roster: sveninaden, cowboy-, GetGunked, _Dank-, Tokar
 NARS Rank: 496 of 506
 
-Final Rating: 555.1
-Seeded Start: 1205.5
-H2H Adjustment: -650.4 (capped at +-300, raw -650.3)
+Final Rating: 555.0
+Seeded Start: 1205.4
+H2H Adjustment: -650.4
 
-Final Rating (555.1) = Seeded Start (1205.5) + H2H Adjustment (-650.4)
+Final Rating (555.0) = Seeded Start (1205.4) + H2H Adjustment (-650.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.075 x 1400 = 1205.5
+                = 1100 + 0.075 x 1400 = 1205.4
 
 seed_factor 0.075 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.019) + 0.25 x Opponent Network (0.180)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.075 | 1205.5 | - |
+| Now | 0.075 | 1205.4 | - |
 | +30 days | 0.054 | 1176.1 | -29.3 |
 | +60 days | 0.045 | 1163.3 | -42.2 |
 | +90 days | 0.031 | 1143.9 | -61.6 |
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| North Forge | 38 | 1971.1 | +502.2 |
-| Wanted Goons | 43 | 1933.1 | +501.9 |
-| NRG | 4 | 2836.4 | +501.3 |
-| SportsBetExpert | 6 | 2672.3 | +501.2 |
-| Zomblers | 22 | 2114.7 | +499.9 |
+| North Forge | 38 | 1971.1 | +502.3 |
+| Wanted Goons | 43 | 1933.1 | +502.0 |
+| NRG | 4 | 2835.7 | +500.9 |
+| SportsBetExpert | 6 | 2671.6 | +500.9 |
+| Zomblers | 22 | 2114.7 | +500.0 |
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs EZ2025 (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
@@ -69,21 +69,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Kennesaw State Gold 2025 | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -96.0 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-08-12 | dogwater | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.08 | 0.78 | +94.5 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-08-07 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -61.0 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
-| 2026-08-05 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -238.6 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
+| 2026-08-05 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -238.7 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-07-31 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.11 | 0.70 | +41.3 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-07-29 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -6.8 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-07-24 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -24.4 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-07-22 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -230.7 | GetGunked, Ghosterize, Tokar, cowboy-, sveninaden |
 | 2026-07-15 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.06 | 0.59 | +399.1 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-05-29 | The Sweepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -135.1 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
-| 2026-05-27 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -305.7 | GetGunked, Ghosterize, Tokar, cowboy-, sveninaden |
-| 2026-05-22 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +189.7 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
+| 2026-05-27 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -305.8 | GetGunked, Ghosterize, Tokar, cowboy-, sveninaden |
+| 2026-05-22 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +189.8 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
 | 2026-05-15 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -219.6 | -Rasta-, Ghosterize, Tokar, _Dank-, sveninaden |
-| 2026-05-13 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -305.4 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
+| 2026-05-13 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -305.5 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
 | 2026-05-08 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +6.0 | -Rasta-, GetGunked, Tokar, _Dank-, sveninaden |
 | 2026-05-06 | RunTheDamnBall | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +204.6 | -Rasta-, GetGunked, Tokar, _Dank-, sveninaden |
 | 2026-05-01 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +0.1 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
-| 2026-04-29 | Knight Owls | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +319.1 | Crvdg, GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
+| 2026-04-29 | Knight Owls | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +319.2 | Crvdg, GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
 | 2026-04-24 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -218.3 | GetGunked, Ghosterize, Tokar, _Dank-, sveninaden |
 | 2026-04-22 | EZ2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +247.9 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 

@@ -27,23 +27,23 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.173 | 1341.6 | - |
 | +30 days | 0.143 | 1299.8 | -41.8 |
 | +60 days | 0.119 | 1266.4 | -75.2 |
-| +90 days | 0.089 | 1225.2 | -116.5 |
+| +90 days | 0.089 | 1225.3 | -116.3 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.090 vs 0.367 average, gap -0.277). Matching that average is worth about 97.0 seed points.
 
 - Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-15) 1.19; S58 NA Main B - Regular Season (2026-08-26) 1.01; S57 NA Open9-10 Central - Playoffs A (2026-06-09) 0.37
 - Quality Wins drivers: beat Skyline at S58 NA Main B - Regular Season (2026-08-05) 0.29; beat Conscious Gaming at S58 NA Main Central - Playoffs B (2026-09-06) 0.20; beat Over Your Head at S58 NA Main Central - Playoffs B (2026-09-15) 0.16
-- Opponent Network drivers: beat Over Your Head at S58 NA Main Central - Playoffs B (2026-09-15) 1.19; beat Conscious Gaming at S58 NA Main Central - Playoffs B (2026-09-06) 1.13; beat STFDYSAB at S58 NA Main Central - Playoffs B (2026-09-04) 1.11
+- Opponent Network drivers: beat Over Your Head at S58 NA Main Central - Playoffs B (2026-09-15) 1.19; beat Conscious Gaming at S58 NA Main Central - Playoffs B (2026-09-06) 1.12; beat STFDYSAB at S58 NA Main Central - Playoffs B (2026-09-04) 1.11
 
 Best upside opponents (projected H2H gain for one win, estimate at current ratings):
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +404.2 |
-| M80 | 2 | 3081.4 | +401.6 |
-| Liquid | 1 | 3103.3 | +396.1 |
-| Wildcard | 3 | 2911.9 | +394.9 |
-| SportsBetExpert | 6 | 2672.3 | +391.5 |
+| NRG | 4 | 2835.7 | +404.1 |
+| M80 | 2 | 3081.4 | +401.9 |
+| Liquid | 1 | 3103.3 | +396.4 |
+| Wildcard | 3 | 2911.9 | +395.3 |
+| SportsBetExpert | 6 | 2671.6 | +391.3 |
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
 
@@ -61,7 +61,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-17 | VOID ALUNE | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.19 | 1.00 | 1.19 | 0.00 | 0.00 | -75.5 | ByeMyHeaven, Leapold, ivan2008, k0vi4_, maIfik |
 | 2026-09-15 | Over Your Head | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.19 | 1.00 | 1.19 | 0.16 | 1.19 | +66.5 | ByeMyHeaven, Leapold, ivan2008, k0vi4_, maIfik |
-| 2026-09-06 | Conscious Gaming | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.13 | 0.20 | 1.13 | +74.3 | ByeMyHeaven, Leapold, ivan2008, k0vi4_, maIfik |
+| 2026-09-06 | Conscious Gaming | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.12 | 0.20 | 1.12 | +74.3 | ByeMyHeaven, Leapold, ivan2008, k0vi4_, maIfik |
 | 2026-09-04 | STFDYSAB | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.14 | 1.11 | +46.5 | ByeMyHeaven, Leapold, ivan2008, k0vi4_, maIfik |
 | 2026-08-26 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -76.8 | ByeMyHeaven, Leapold, ivan2008, k0vi4_, maIfik |
 | 2026-08-05 | Skyline | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.29 | 0.85 | +99.5 | ByeMyHeaven, Leapold, ivan2008, k0vi4_, maIfik |

@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.7 |
-| SportsBetExpert | 6 | 2672.3 | +663.9 |
-| LAG Gaming | 8 | 2507.3 | +653.5 |
+| NRG | 4 | 2835.7 | +664.2 |
+| SportsBetExpert | 6 | 2671.6 | +663.3 |
+| LAG Gaming | 8 | 2507.4 | +653.5 |
 | M80 | 2 | 3081.4 | +650.2 |
 | regain | 12 | 2256.1 | +648.1 |
 

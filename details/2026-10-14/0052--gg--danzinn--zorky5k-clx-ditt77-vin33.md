@@ -5,7 +5,7 @@ NARS Rank: 52 of 506
 
 Final Rating: 1881.4
 Seeded Start: 1153.2
-H2H Adjustment: +728.2
+H2H Adjustment: +728.2 (capped at +-300, raw +728.3)
 
 Final Rating (1881.4) = Seeded Start (1153.2) + H2H Adjustment (+728.2)
 
@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.038 | 1153.2 | - |
-| +30 days | 0.016 | 1123.0 | -30.2 |
+| +30 days | 0.016 | 1122.9 | -30.2 |
 | +60 days | 0.000 | 1100.0 | -53.2 |
 | +90 days | 0.000 | 1100.0 | -53.2 |
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +648.6 |
-| M80 | 2 | 3081.4 | +645.5 |
+| NRG | 4 | 2835.7 | +647.9 |
+| M80 | 2 | 3081.4 | +645.4 |
 | Liquid | 1 | 3103.3 | +636.6 |
-| Wildcard | 3 | 2911.9 | +634.1 |
-| SportsBetExpert | 6 | 2672.3 | +626.1 |
+| Wildcard | 3 | 2911.9 | +634.0 |
+| SportsBetExpert | 6 | 2671.6 | +625.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0), Courage (+0.0).
 
@@ -62,8 +62,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-11 | Festina Lente | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.36 | 1.05 | 1.00 | 0.38 | 0.00 | 0.00 | -74.1 | Zorky5k, clx, danzinn-, ditt77, vin33 |
 | 2026-06-09 | Zetta | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.35 | 1.05 | 1.00 | 0.37 | 0.16 | 0.37 | +56.0 | Zorky5k, clx, danzinn-, ditt77, vin33 |
-| 2026-06-05 | GOBLINS | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.34 | 0.02 | 0.34 | +193.7 | Zorky5k, clx, danzinn-, ditt77, vin33 |
-| 2026-06-04 | Rejects | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.05 | 0.33 | +139.7 | clx, danzinn-, ditt77, kyozao77, vin33 |
+| 2026-06-05 | GOBLINS | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.34 | 0.02 | 0.34 | +193.8 | Zorky5k, clx, danzinn-, ditt77, vin33 |
+| 2026-06-04 | Rejects | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.05 | 0.33 | +139.8 | clx, danzinn-, ditt77, kyozao77, vin33 |
 | 2026-05-29 | redtyfguhoj | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.02 | 0.29 | +146.3 | EnriqueW, Zorky5k, clx, danzinn-, vin33 |
 | 2026-05-27 | Anchors Anonymous | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.05 | 1.00 | 0.28 | 0.02 | 0.28 | +266.6 | Zorky5k, clx, danzinn-, ditt77, vin33 |
 

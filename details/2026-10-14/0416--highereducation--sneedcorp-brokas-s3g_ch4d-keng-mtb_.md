@@ -3,11 +3,11 @@ Team Name: HigherEducation
 Roster: SneedCorp, Brokas, S3G_CH4D, Keng, MtB_
 NARS Rank: 416 of 506
 
-Final Rating: 1017.6
+Final Rating: 1017.5
 Seeded Start: 1129.7
-H2H Adjustment: -112.1
+H2H Adjustment: -112.2
 
-Final Rating (1017.6) = Seeded Start (1129.7) + H2H Adjustment (-112.1)
+Final Rating (1017.5) = Seeded Start (1129.7) + H2H Adjustment (-112.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.9 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.3 |
 | regain | 12 | 2256.1 | +657.4 |
 | Zomblers | 22 | 2114.7 | +656.1 |
-| LAG Gaming | 8 | 2507.3 | +656.0 |
+| LAG Gaming | 8 | 2507.4 | +656.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.0).
 

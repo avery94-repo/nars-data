@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.053 | 1174.8 | -21.9 |
 | +90 days | 0.051 | 1170.9 | -25.8 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.219 vs 0.272 average, gap -0.053). Matching that average is worth about 18.5 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.219 vs 0.272 average, gap -0.053). Matching that average is worth about 18.6 seed points.
 
 - Tier Exposure drivers: S58 NA Open1-8 Central - Playoffs (2026-09-11) 0.98; S57 NA Open1-8 Central - Playoffs (2026-06-05) 0.32
 - Quality Wins drivers: beat LXIX at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.03; beat VORA at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.03; beat Pixel Click at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.03
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +644.9 |
-| SportsBetExpert | 6 | 2672.3 | +641.7 |
-| M80 | 2 | 3081.4 | +632.0 |
-| Wildcard | 3 | 2911.9 | +626.9 |
-| LAG Gaming | 8 | 2507.3 | +625.7 |
+| NRG | 4 | 2835.7 | +644.8 |
+| SportsBetExpert | 6 | 2671.6 | +641.5 |
+| M80 | 2 | 3081.4 | +632.4 |
+| Wildcard | 3 | 2911.9 | +627.3 |
+| LAG Gaming | 8 | 2507.4 | +626.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 

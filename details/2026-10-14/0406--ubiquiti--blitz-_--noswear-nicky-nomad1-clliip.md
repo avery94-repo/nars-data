@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: Ubiquiti
 Roster: blitz-_-, NoSwear, nicky, nomad1, cllIIp
-NARS Rank: 407 of 506
+NARS Rank: 406 of 506
 
 Final Rating: 1043.8
 Seeded Start: 1293.3
@@ -26,10 +26,10 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.138 | 1293.3 | - |
 | +30 days | 0.112 | 1256.5 | -36.8 |
-| +60 days | 0.096 | 1235.0 | -58.4 |
-| +90 days | 0.072 | 1201.3 | -92.1 |
+| +60 days | 0.096 | 1234.9 | -58.3 |
+| +90 days | 0.072 | 1201.3 | -92.0 |
 
-Weakest lever vs the 5 teams ranked above: Quality Wins (0.034 vs 0.014 average, gap +0.020). Matching that average is worth about 0.0 seed points.
+Weakest lever vs the 5 teams ranked above: Quality Wins (0.034 vs 0.009 average, gap +0.025). Matching that average is worth about 0.0 seed points.
 
 - Tier Exposure drivers: S58 NA Intermediate Central - Playoffs A (2026-09-08) 0.96; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Intermediate Central - Playoffs B (2026-05-27) 0.26
 - Quality Wins drivers: beat Armored Talent at S58 NA Intermediate Central - Playoffs A (2026-09-06) 0.16; beat Epochal Esports at S58 NA Intermediate A - Regular Season (2026-07-22) 0.10; beat AML at S58 NA Intermediate A - Regular Season (2026-08-28) 0.09
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +605.0 |
-| SportsBetExpert | 6 | 2672.3 | +604.8 |
-| regain | 12 | 2256.1 | +597.8 |
-| LAG Gaming | 8 | 2507.3 | +596.7 |
-| Zomblers | 22 | 2114.7 | +596.3 |
+| NRG | 4 | 2835.7 | +605.0 |
+| SportsBetExpert | 6 | 2671.6 | +604.7 |
+| regain | 12 | 2256.1 | +598.2 |
+| LAG Gaming | 8 | 2507.4 | +597.1 |
+| Zomblers | 22 | 2114.7 | +596.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.7), 3 Feet Of Meat (+1.5).
 
@@ -77,8 +77,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +355.4 | D0ZER, NoSwear, blitz-_-, cllIIp, nicky |
 | 2026-07-15 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -255.1 | D0ZER, NoSwear, blitz-_-, nicky, sLickiticus |
 | 2026-05-27 | Remnant | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +254.5 | HOTdish, NoSwear, blitz-_-, cllIIp, nomad1 |
-| 2026-05-22 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -189.3 | NoSwear, blitz-_-, cllIIp, nomad1, sLickiticus |
-| 2026-05-21 | MakeYouSayLate | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +177.8 | HOTdish, NoSwear, blitz-_-, cllIIp, nomad1 |
+| 2026-05-22 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -189.4 | NoSwear, blitz-_-, cllIIp, nomad1, sLickiticus |
+| 2026-05-21 | MakeYouSayLate | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +177.9 | HOTdish, NoSwear, blitz-_-, cllIIp, nomad1 |
 | 2026-05-13 | CVC Retirement | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +109.6 | NoSwear, Trefla-, blitz-_-, nomad1, sLickiticus |
 | 2026-05-08 | Muncle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -415.5 | NoSwear, blitz-_-, cllIIp, nomad1, sLickiticus |
 | 2026-05-06 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +279.4 | NoSwear, blitz-_-, cllIIp, nomad1, sLickiticus |

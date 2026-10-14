@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.096 | 1234.6 | - |
 | +30 days | 0.097 | 1236.0 | +1.4 |
 | +60 days | 0.096 | 1234.7 | +0.1 |
-| +90 days | 0.101 | 1241.7 | +7.1 |
+| +90 days | 0.101 | 1241.8 | +7.2 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.275 vs 0.308 average, gap -0.033). Matching that average is worth about 11.5 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +396.2 |
-| SportsBetExpert | 6 | 2672.3 | +394.9 |
-| M80 | 2 | 3081.4 | +388.0 |
-| LAG Gaming | 8 | 2507.3 | +386.5 |
+| NRG | 4 | 2835.7 | +396.0 |
+| SportsBetExpert | 6 | 2671.6 | +394.6 |
+| M80 | 2 | 3081.4 | +388.1 |
+| LAG Gaming | 8 | 2507.4 | +386.6 |
 | Wildcard | 3 | 2911.9 | +385.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
@@ -62,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Will of Dih | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.04 | 0.97 | +115.9 | ---Cocku---, AIdzn, WheezyT, rwdtooly, sweet_R |
 | 2026-09-06 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -64.0 | ---Cocku---, Little-E, WheezyT, rwdtooly, sweet_R |
 | 2026-09-04 | FaZe  Up Next | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +306.0 | ---Cocku---, Little-E, WheezyT, rwdtooly, sweet_R |
-| 2026-06-03 | AXEN | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -198.3 | AIdzn, Little-E, MikoshiGG, rwdtooly, sweet_R |
+| 2026-06-03 | AXEN | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -198.4 | AIdzn, Little-E, MikoshiGG, rwdtooly, sweet_R |
 | 2026-06-02 | The Jits | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.01 | 0.30 | +206.2 | AIdzn, MikoshiGG, _21Savage, rwdtooly, sweet_R |
 | 2026-05-27 | Retired Aimers | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -258.6 | AIdzn, MikoshiGG, microflakes, rwdtooly, sweet_R |
 

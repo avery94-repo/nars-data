@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.8 |
-| SportsBetExpert | 6 | 2672.3 | +664.1 |
-| LAG Gaming | 8 | 2507.3 | +654.1 |
+| NRG | 4 | 2835.7 | +664.3 |
+| SportsBetExpert | 6 | 2671.6 | +663.5 |
+| LAG Gaming | 8 | 2507.4 | +654.1 |
 | regain | 12 | 2256.1 | +650.4 |
-| M80 | 2 | 3081.4 | +650.3 |
+| M80 | 2 | 3081.4 | +650.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 
@@ -63,16 +63,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-24 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -262.5 | Danski, akinn, cHemo, stewj, xpEEzY |
-| 2026-06-01 | Asoka | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.37 | 0.00 | 0.00 | -367.1 | CTzmdx, akinn, robby1, stewj, xpEEzY |
+| 2026-06-01 | Asoka | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.37 | 0.00 | 0.00 | -367.2 | CTzmdx, akinn, robby1, stewj, xpEEzY |
 | 2026-05-29 | Priority | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -16.6 | akinn, cHemo, robby1, sherps, stewj |
 | 2026-05-27 | Dude Picks | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.04 | 0.33 | +208.9 | akinn, cHemo, robby1, sherps, stewj |
-| 2026-05-20 | GeneticDiff | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +221.3 | akinn, cHemo, sherps, stewj, xpEEzY |
+| 2026-05-20 | GeneticDiff | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +221.4 | akinn, cHemo, sherps, stewj, xpEEzY |
 | 2026-05-20 | Team Team Name | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +24.0 | 81Kobe, akinn, cHemo, sherps, stewj, xpEEzY |
-| 2026-05-15 | Dude Picks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -340.8 | CH4RG3R, akinn, cHemo, robby1, stewj |
-| 2026-05-15 | OnlyFans | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +408.5 | CH4RG3R, akinn, cHemo, robby1, stewj |
-| 2026-05-08 | Down To Frag | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.02 | 0.16 | +323.3 | akinn, cHemo, robby1, sherps, stewj |
+| 2026-05-15 | Dude Picks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -340.9 | CH4RG3R, akinn, cHemo, robby1, stewj |
+| 2026-05-15 | OnlyFans | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +408.6 | CH4RG3R, akinn, cHemo, robby1, stewj |
+| 2026-05-08 | Down To Frag | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.02 | 0.16 | +323.4 | akinn, cHemo, robby1, sherps, stewj |
 | 2026-05-01 | Goon Squad | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -261.1 | akinn, cHemo, robby1, sherps, stewj |
-| 2026-04-29 | BucketJonsBoys | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -438.9 | akinn, cHemo, damms, robby1, stewj |
+| 2026-04-29 | BucketJonsBoys | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -439.0 | akinn, cHemo, damms, robby1, stewj |
 | 2026-04-24 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +214.8 | CH4RG3R, akinn, cHemo, robby1, stewj |
 | 2026-04-22 | Bird Squishers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +349.1 | akinn, cHemo, robby1, sherps, stewj |
 

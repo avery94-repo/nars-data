@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.107 | 1250.1 | - |
 | +30 days | 0.112 | 1256.9 | +6.8 |
 | +60 days | 0.114 | 1259.1 | +8.9 |
-| +90 days | 0.117 | 1264.0 | +13.9 |
+| +90 days | 0.117 | 1264.2 | +14.1 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.317 vs 0.429 average, gap -0.112). Matching that average is worth about 39.2 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.317 vs 0.428 average, gap -0.111). Matching that average is worth about 38.8 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-15) 1.02; S59 NA Intermediate A - Regular Season (2026-10-09) 1.00
 - Quality Wins drivers: beat Boop Boop Gang at S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.08; beat innerFire at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07; beat Kodaks Lettuce at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +498.3 |
-| SportsBetExpert | 6 | 2672.3 | +494.6 |
+| NRG | 4 | 2835.7 | +498.0 |
+| SportsBetExpert | 6 | 2671.6 | +494.2 |
 | M80 | 2 | 3081.4 | +489.0 |
-| Wildcard | 3 | 2911.9 | +484.6 |
-| Liquid | 1 | 3103.3 | +482.1 |
+| Wildcard | 3 | 2911.9 | +484.7 |
+| Liquid | 1 | 3103.3 | +482.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), After Peak (+0.0).
 

@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +661.5 |
-| SportsBetExpert | 6 | 2672.3 | +656.2 |
-| M80 | 2 | 3081.4 | +649.3 |
+| NRG | 4 | 2835.7 | +661.0 |
+| SportsBetExpert | 6 | 2671.6 | +655.5 |
+| M80 | 2 | 3081.4 | +649.2 |
 | Wildcard | 3 | 2911.9 | +643.4 |
 | Liquid | 1 | 3103.3 | +640.2 |
 
@@ -62,12 +62,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-04 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.03 | 1.00 | 0.33 | 0.00 | 0.00 | -88.0 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
+| 2026-06-04 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.03 | 1.00 | 0.33 | 0.00 | 0.00 | -88.1 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
 | 2026-06-02 | in for Blood | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.03 | 0.31 | +21.6 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
 | 2026-05-28 | STFDYSAB | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.27 | 1.03 | 1.00 | 0.28 | 0.00 | 0.00 | -163.8 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
 | 2026-05-27 | YHTR | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.04 | 0.27 | +284.5 | Conquest_--, Ghost_Wraith, Hymn_, PeaseCentral, Starfy |
-| 2026-05-22 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -220.2 | Conquest_--, Hymn_, PeaseCentral, Shoor1c, Starfy |
-| 2026-05-20 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +267.5 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
+| 2026-05-22 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -220.3 | Conquest_--, Hymn_, PeaseCentral, Shoor1c, Starfy |
+| 2026-05-20 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +267.6 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
 | 2026-05-15 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -2.2 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
 | 2026-05-13 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -406.2 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |
 | 2026-05-06 | Nomadic Tactics | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +306.6 | Hymn_, PeaseCentral, Shoor1c, Starfy, dyLL- |

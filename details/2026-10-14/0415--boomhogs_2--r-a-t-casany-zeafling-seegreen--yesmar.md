@@ -13,7 +13,7 @@ Final Rating (1021.7) = Seeded Start (1145.4) + H2H Adjustment (-123.7)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.032 x 1400 = 1145.4
 
-seed_factor 0.032 = 0.25 x Tier Exposure (0.045) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.081)
+seed_factor 0.032 = 0.25 x Tier Exposure (0.044) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.081)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.023 | 1131.7 | -13.7 |
 | +90 days | 0.021 | 1129.6 | -15.7 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.081 vs 0.272 average, gap -0.191). Matching that average is worth about 66.8 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.081 vs 0.272 average, gap -0.191). Matching that average is worth about 66.9 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31
 - Quality Wins drivers: beat Vantage at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.03; beat MSU MAROON at S57 NA Open9-10 Central - Playoffs B (2026-06-02) 0.00
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.9 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.3 |
 | regain | 12 | 2256.1 | +657.3 |
-| LAG Gaming | 8 | 2507.3 | +656.0 |
+| LAG Gaming | 8 | 2507.4 | +656.0 |
 | Zomblers | 22 | 2114.7 | +655.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.0), 3 Feet Of Meat (+2.0).
@@ -60,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | GOYPEEKING | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -125.2 | -yesmar, Casany, Zeafling, r-a-t, seegreen |
 | 2026-09-02 | Vantage | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.93 | 0.03 | 0.93 | +189.3 | -yesmar, Casany, Zeafling, r-a-t, seegreen |
 | 2026-06-03 | Stubbys | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -129.3 | Casany, Grogn, Zeafling, r-a-t, seegreen |
-| 2026-06-02 | MSU MAROON | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +245.7 | Casany, Grogn, Zeafling, r-a-t, seegreen |
+| 2026-06-02 | MSU MAROON | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +245.8 | Casany, Grogn, Zeafling, r-a-t, seegreen |
 | 2026-05-27 | FAT CHUDS BRO | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -218.2 | Casany, NotStruggle, Zeafling, r-a-t, seegreen |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

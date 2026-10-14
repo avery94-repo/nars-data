@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +663.3 |
-| SportsBetExpert | 6 | 2672.3 | +660.4 |
+| NRG | 4 | 2835.7 | +662.7 |
+| SportsBetExpert | 6 | 2671.6 | +659.8 |
 | M80 | 2 | 3081.4 | +649.8 |
-| LAG Gaming | 8 | 2507.3 | +644.8 |
+| LAG Gaming | 8 | 2507.4 | +644.8 |
 | Wildcard | 3 | 2911.9 | +644.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
@@ -58,9 +58,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-07 | MEET THE WALL | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -161.0 | 1icarus, Zaakaa, ctrn, egaK, mock |
-| 2026-09-04 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.15 | 0.97 | +89.9 | 1icarus, ctrn, egaK, lelgfnoob, mock |
+| 2026-09-04 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.15 | 0.97 | +90.0 | 1icarus, ctrn, egaK, lelgfnoob, mock |
 | 2026-09-02 | Lemon Party | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +17.5 | 1icarus, CH4RG3R, Johnny316, ctrn, egaK |
-| 2026-06-05 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.34 | 0.00 | 0.00 | -202.5 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |
+| 2026-06-05 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.34 | 0.00 | 0.00 | -202.6 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |
 | 2026-06-04 | ItAintOverYet | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.05 | 1.00 | 0.33 | 0.03 | 0.33 | +192.8 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |
 | 2026-05-29 | BONK | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.02 | 0.29 | +365.4 | 1icarus, Oak---, Redman_-, ctrn, lelgfnoob |
 

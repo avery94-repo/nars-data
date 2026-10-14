@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.059 | 1182.1 | - |
-| +30 days | 0.040 | 1156.4 | -25.8 |
+| +30 days | 0.040 | 1156.3 | -25.8 |
 | +60 days | 0.031 | 1143.6 | -38.5 |
 | +90 days | 0.014 | 1119.2 | -62.9 |
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.4 |
-| SportsBetExpert | 6 | 2672.3 | +663.1 |
-| LAG Gaming | 8 | 2507.3 | +651.6 |
+| NRG | 4 | 2835.7 | +663.9 |
+| SportsBetExpert | 6 | 2671.6 | +662.5 |
+| LAG Gaming | 8 | 2507.4 | +651.6 |
 | M80 | 2 | 3081.4 | +650.1 |
 | Wildcard | 3 | 2911.9 | +645.5 |
 
@@ -62,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-25 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 0.00 | 0.00 | -81.6 | Latt, M0nstr, PurnrplPanda, _-JAKEY-_, yreva |
 | 2026-08-19 | Endless Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -3.6 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
 | 2026-07-31 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -85.6 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
-| 2026-07-29 | dead team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.05 | 0.99 | +168.7 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
+| 2026-07-29 | dead team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.05 | 0.99 | +168.8 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
 | 2026-07-17 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.13 | 0.87 | +335.0 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
 | 2026-07-15 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -0.0 | Latt, M0nstr, PurnrplPanda, nicejobteam, yreva |
 | 2026-05-21 | Once Divine Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -131.2 | Bruse, Latt, M0nstr, tangz, yreva |

@@ -3,11 +3,11 @@ Team Name: UsingCodefArt25atSCL
 Roster: _Section, Clum, texture, bingus, brian
 NARS Rank: 150 of 506
 
-Final Rating: 1577.7
+Final Rating: 1577.8
 Seeded Start: 1263.1
-H2H Adjustment: +314.6 (capped at +-300, raw +314.7)
+H2H Adjustment: +314.7
 
-Final Rating (1577.7) = Seeded Start (1263.1) + H2H Adjustment (+314.6)
+Final Rating (1577.8) = Seeded Start (1263.1) + H2H Adjustment (+314.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.116 | 1263.1 | - |
 | +30 days | 0.113 | 1258.6 | -4.4 |
 | +60 days | 0.113 | 1258.1 | -4.9 |
-| +90 days | 0.112 | 1256.3 | -6.8 |
+| +90 days | 0.112 | 1256.4 | -6.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.036 vs 0.101 average, gap -0.065). Matching that average is worth about 22.8 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +392.2 |
-| SportsBetExpert | 6 | 2672.3 | +390.3 |
-| M80 | 2 | 3081.4 | +384.4 |
-| Wildcard | 3 | 2911.9 | +381.3 |
-| LAG Gaming | 8 | 2507.3 | +380.7 |
+| NRG | 4 | 2835.7 | +392.2 |
+| SportsBetExpert | 6 | 2671.6 | +390.3 |
+| M80 | 2 | 3081.4 | +384.7 |
+| Wildcard | 3 | 2911.9 | +381.6 |
+| LAG Gaming | 8 | 2507.4 | +381.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 

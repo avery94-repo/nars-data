@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.174 | 1344.1 | - |
 | +30 days | 0.149 | 1308.3 | -35.8 |
-| +60 days | 0.131 | 1283.7 | -60.5 |
-| +90 days | 0.098 | 1237.9 | -106.3 |
+| +60 days | 0.131 | 1283.6 | -60.5 |
+| +90 days | 0.099 | 1237.9 | -106.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.041 vs 0.015 average, gap +0.026). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +460.9 |
-| SportsBetExpert | 6 | 2672.3 | +460.6 |
-| LAG Gaming | 8 | 2507.3 | +454.2 |
-| regain | 12 | 2256.1 | +454.1 |
-| Zomblers | 22 | 2114.7 | +451.5 |
+| NRG | 4 | 2835.7 | +460.6 |
+| SportsBetExpert | 6 | 2671.6 | +460.3 |
+| LAG Gaming | 8 | 2507.4 | +454.3 |
+| regain | 12 | 2256.1 | +454.2 |
+| Zomblers | 22 | 2114.7 | +451.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.8), SixSevenZaZa (+1.3).
 
@@ -72,12 +72,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | HammerHeads | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.04 | 0.81 | +41.0 | Char_, Snakelore, bo0m, cdiixon, hollyw00d |
 | 2026-07-29 | Second Nature | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -210.4 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan, hollyw00d |
 | 2026-07-24 | YHUBEPCAM | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -11.5 | SkinBugs, Snakelore, bo0m, cdiixon, chilled_dan |
-| 2026-07-22 | Evil Space Wizards | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -225.5 | SkinBugs, Snakelore, cdiixon, chilled_dan, hollyw00d |
+| 2026-07-22 | Evil Space Wizards | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -225.6 | SkinBugs, Snakelore, cdiixon, chilled_dan, hollyw00d |
 | 2026-07-17 | goofball gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +241.2 | SkinBugs, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-07-15 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -122.9 | SkinBugs, Snakelore, bo0m, cdiixon, chilled_dan |
-| 2026-05-20 | N w G | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +134.2 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan |
-| 2026-05-15 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -313.3 | Char_, Snakelore, bo0m, cdiixon, chilled_dan |
-| 2026-05-13 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +299.0 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan |
+| 2026-05-20 | N w G | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +134.3 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan |
+| 2026-05-15 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -313.4 | Char_, Snakelore, bo0m, cdiixon, chilled_dan |
+| 2026-05-13 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +299.1 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-05-07 | 1NT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.15 | 1.00 | 0.15 | 0.02 | 0.15 | +133.5 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-05-06 | SNOWPLOWERS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +10.1 | BlueSky-_-, Snakelore, bo0m, cdiixon, chilled_dan |
 | 2026-05-01 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +202.2 | Snakelore, bo0m, cdiixon, chilled_dan, hollyw00d |

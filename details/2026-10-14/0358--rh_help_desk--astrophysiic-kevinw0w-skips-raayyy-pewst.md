@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.056 | 1178.2 | - |
 | +30 days | 0.055 | 1177.5 | -0.7 |
 | +60 days | 0.055 | 1177.2 | -1.0 |
-| +90 days | 0.055 | 1176.7 | -1.5 |
+| +90 days | 0.055 | 1176.8 | -1.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.136 vs 0.280 average, gap -0.144). Matching that average is worth about 50.4 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +237.2 |
-| SportsBetExpert | 6 | 2672.3 | +237.1 |
+| NRG | 4 | 2835.7 | +237.1 |
+| SportsBetExpert | 6 | 2671.6 | +237.0 |
 | regain | 12 | 2256.1 | +234.4 |
-| LAG Gaming | 8 | 2507.3 | +233.9 |
+| LAG Gaming | 8 | 2507.4 | +234.0 |
 | Zomblers | 22 | 2114.7 | +233.8 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.6).
@@ -55,7 +55,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Adria eSports | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -99.3 | Astrophysiic, Skips, V1RuS, kevinw0w, raayyy, samuel |
 | 2026-10-07 | Black Dragon Society | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -58.6 | Astrophysiic, Skips, kevinw0w, raayyy, samuel |
 | 2026-09-15 | TOP SHELF WHIFFERS | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.11 | 1.00 | 1.11 | 0.00 | 0.00 | -110.4 | Astrophysiic, Pewster, V1RuS, kevinw0w, raayyy |
-| 2026-09-08 | Arnes Wit Attitudes | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.00 | 0.00 | -114.4 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
+| 2026-09-08 | Arnes Wit Attitudes | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.00 | 0.00 | -114.5 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
 | 2026-09-06 | Defaulting | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.08 | 1.04 | +145.6 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
 | 2026-09-04 | Purple Reign | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.04 | 1.03 | +217.5 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
 

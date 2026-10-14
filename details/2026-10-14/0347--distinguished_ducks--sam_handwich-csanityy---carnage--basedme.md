@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.123 | 1272.6 | - |
 | +30 days | 0.093 | 1230.4 | -42.2 |
 | +60 days | 0.077 | 1207.7 | -64.9 |
-| +90 days | 0.053 | 1174.4 | -98.2 |
+| +90 days | 0.053 | 1174.4 | -98.1 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.024 vs 0.013 average, gap +0.011). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +651.6 |
-| SportsBetExpert | 6 | 2672.3 | +651.0 |
-| LAG Gaming | 8 | 2507.3 | +641.5 |
-| regain | 12 | 2256.1 | +639.0 |
-| M80 | 2 | 3081.4 | +637.2 |
+| NRG | 4 | 2835.7 | +651.5 |
+| SportsBetExpert | 6 | 2671.6 | +650.9 |
+| LAG Gaming | 8 | 2507.4 | +641.9 |
+| regain | 12 | 2256.1 | +639.5 |
+| M80 | 2 | 3081.4 | +637.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.5), shirtcockin (+0.7), Courage (+0.8), SixSevenZaZa (+1.3).
 
@@ -71,20 +71,20 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -21.4 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-08-05 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -158.9 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-07-31 | Resurgence | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -101.9 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
-| 2026-07-29 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -264.7 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
+| 2026-07-29 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -264.8 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-07-24 | Chopped | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.07 | 0.66 | +3.9 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-07-22 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.07 | 0.65 | +31.9 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
-| 2026-07-17 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -52.1 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
+| 2026-07-17 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -52.1 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-07-15 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -17.5 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
-| 2026-06-02 | Kinetic | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -247.3 | --Carnage-, BasedMeower, Orion23, Sam_Handwich, smshunt |
+| 2026-06-02 | Kinetic | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -247.4 | --Carnage-, BasedMeower, Orion23, Sam_Handwich, smshunt |
 | 2026-05-29 | Baja Blasters | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.00 | 0.00 | -121.1 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-05-27 | Full White | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.02 | 0.27 | +75.2 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-05-22 | Kinetic | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.03 | 0.23 | +136.9 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-05-20 | High-Tech Performance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +3.4 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-05-15 | The Agarthans | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +24.0 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
-| 2026-05-13 | Midwest Farmers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +292.5 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
-| 2026-05-08 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -316.5 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
-| 2026-05-06 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +226.2 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
+| 2026-05-13 | Midwest Farmers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +292.6 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
+| 2026-05-08 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -316.6 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
+| 2026-05-06 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +226.3 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-04-30 | katzwitgunz | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +109.1 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-04-29 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +171.8 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-04-24 | CVC Retirement | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +204.1 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |

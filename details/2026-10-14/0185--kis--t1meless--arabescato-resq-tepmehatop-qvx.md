@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.089 | 1225.1 | - |
 | +30 days | 0.095 | 1233.1 | +8.0 |
 | +60 days | 0.098 | 1236.7 | +11.6 |
-| +90 days | 0.103 | 1244.1 | +19.0 |
+| +90 days | 0.103 | 1244.2 | +19.1 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.256 vs 0.362 average, gap -0.106). Matching that average is worth about 37.1 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +496.9 |
-| SportsBetExpert | 6 | 2672.3 | +494.9 |
-| M80 | 2 | 3081.4 | +486.6 |
-| LAG Gaming | 8 | 2507.3 | +483.8 |
-| Wildcard | 3 | 2911.9 | +482.9 |
+| NRG | 4 | 2835.7 | +496.5 |
+| SportsBetExpert | 6 | 2671.6 | +494.5 |
+| M80 | 2 | 3081.4 | +486.7 |
+| LAG Gaming | 8 | 2507.4 | +483.8 |
+| Wildcard | 3 | 2911.9 | +483.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
 

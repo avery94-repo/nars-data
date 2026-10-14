@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.113 | 1258.5 | - |
 | +30 days | 0.114 | 1259.8 | +1.2 |
 | +60 days | 0.115 | 1260.9 | +2.4 |
-| +90 days | 0.117 | 1263.1 | +4.6 |
+| +90 days | 0.117 | 1263.2 | +4.7 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.017 vs 0.019 average, gap -0.002). Matching that average is worth about 1.4 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +439.9 |
-| SportsBetExpert | 6 | 2672.3 | +439.6 |
-| LAG Gaming | 8 | 2507.3 | +433.5 |
+| NRG | 4 | 2835.7 | +439.6 |
+| SportsBetExpert | 6 | 2671.6 | +439.3 |
+| LAG Gaming | 8 | 2507.4 | +433.5 |
 | regain | 12 | 2256.1 | +433.1 |
-| FarmVille | 16 | 2167.5 | +430.3 |
+| FarmVille | 16 | 2167.6 | +430.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 
@@ -56,7 +56,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Remnant | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 1.00 | +4.5 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
 | 2026-09-15 | Gloobers | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.11 | 1.00 | 1.11 | 0.00 | 0.00 | -162.0 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
 | 2026-09-12 | UncsStillGotIt | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.09 | 0.08 | 1.09 | +33.3 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
-| 2026-09-10 | muntos minions | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.04 | 1.07 | +99.4 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
+| 2026-09-10 | muntos minions | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.04 | 1.07 | +99.5 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
 | 2026-09-08 | No pain No aim | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.04 | 1.06 | +87.9 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
 | 2026-09-06 | Purple Reign | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.04 | 1.04 | +143.7 | DingTheBuddy, ElBoonga, Prot, WALTUH, m2803 |
 | 2026-09-02 | Heavens Gate | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.00 | 0.00 | -198.2 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |

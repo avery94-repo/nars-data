@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +438.8 |
-| SportsBetExpert | 6 | 2672.3 | +438.2 |
-| LAG Gaming | 8 | 2507.3 | +431.3 |
-| M80 | 2 | 3081.4 | +429.2 |
-| regain | 12 | 2256.1 | +427.5 |
+| NRG | 4 | 2835.7 | +438.5 |
+| SportsBetExpert | 6 | 2671.6 | +437.9 |
+| LAG Gaming | 8 | 2507.4 | +431.4 |
+| M80 | 2 | 3081.4 | +429.3 |
+| regain | 12 | 2256.1 | +427.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
 
@@ -74,13 +74,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.07 | 0.99 | +312.3 | bustahh, chroma, heekz, ilssuN, myriad |
 | 2026-07-22 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.05 | 0.92 | +147.5 | bustahh, chroma, heekz, ilssuN, myriad |
 | 2026-07-17 | House Platypus ESC | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -315.0 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-07-15 | Shimmer | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -2.1 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-07-15 | Shimmer | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -2.1 | bustahh, chroma, heekz, ilssuN, myriad |
 | 2026-05-21 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -178.0 | bustahh, chroma, false, ilssuN, myriad |
-| 2026-05-18 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -232.5 | bustahh, chroma, false, ilssuN, myriad |
+| 2026-05-18 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -232.6 | bustahh, chroma, false, ilssuN, myriad |
 | 2026-05-12 | GRIT | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.02 | 0.22 | +135.2 | bustahh, chroma, false, ilssuN, myriad |
 | 2026-05-07 | Holly Molly | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.03 | 0.17 | +286.0 | bustahh, chroma, false, ilssuN, myriad |
 | 2026-05-05 | Team Hyper | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.02 | 0.16 | +229.3 | bustahh, chroma, false, ilssuN, myriad |
-| 2026-04-30 | KODEX ESPORTS | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -62.7 | bustahh, chroma, false, ilssuN, myriad |
+| 2026-04-30 | KODEX ESPORTS | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -62.8 | bustahh, chroma, false, ilssuN, myriad |
 | 2026-04-28 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.00 | 0.00 | -0.3 | bustahh, chroma, false, ilssuN, myriad |
 | 2026-04-23 | EMPIRE | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -0.3 | bustahh, chroma, false, ilssuN, myriad |
 | 2026-04-22 | North Forge | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.35 | 1.00 | 0.04 | 0.00 | 0.00 | -21.4 | bustahh, chroma, false, ilssuN, myriad |

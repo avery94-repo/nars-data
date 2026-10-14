@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.323 | 1552.1 | - |
 | +30 days | 0.278 | 1489.9 | -62.2 |
 | +60 days | 0.232 | 1425.3 | -126.8 |
-| +90 days | 0.166 | 1333.1 | -219.0 |
+| +90 days | 0.167 | 1333.6 | -218.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.170 vs 0.114 average, gap +0.056). Matching that average is worth about 0.0 seed points.
 
@@ -39,18 +39,18 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +609.3 |
-| M80 | 2 | 3081.4 | +601.9 |
-| SportsBetExpert | 6 | 2672.3 | +596.7 |
-| Wildcard | 3 | 2911.9 | +594.0 |
-| Liquid | 1 | 3103.3 | +593.5 |
+| NRG | 4 | 2835.7 | +609.2 |
+| M80 | 2 | 3081.4 | +602.3 |
+| SportsBetExpert | 6 | 2671.6 | +596.5 |
+| Wildcard | 3 | 2911.9 | +594.4 |
+| Liquid | 1 | 3103.3 | +594.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0).
 
 Seed inputs expiring within 90 days:
 - S57 NA Open9-10 Central - Playoffs A vs BONK (2026-06-11): expires in 54 days [Tier Exposure 0.38, Quality Wins 0.03, Opponent Network 0.38]
 - VRS-tracked 2026-06 (2026-06-19): expires in 62 days [Tier Exposure 0.66]
-- S58 NA Advanced Central - Regular Season vs Chicken Coop (2026-07-15): expires in 88 days [Quality Wins 0.77, Opponent Network 0.86]
+- S58 NA Advanced Central - Regular Season vs Chicken Coop (2026-07-15): expires in 88 days [Quality Wins 0.77, Opponent Network 0.85]
 
 #### Matches (23 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
@@ -72,13 +72,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-13 | FarmVille | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.00 | 0.00 | -33.4 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
 | 2026-08-08 | DETONATE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.45 | 1.00 | 1.09 | 0.00 | 0.00 | -5.3 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
 | 2026-08-05 | North Forge | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -101.6 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
-| 2026-07-31 | EMPIRE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.83 | 1.01 | +235.7 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
-| 2026-07-29 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -133.3 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
-| 2026-07-24 | Pug Palace | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.00 | 0.00 | -466.7 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
+| 2026-07-31 | EMPIRE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.83 | 1.01 | +235.8 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
+| 2026-07-29 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -133.4 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
+| 2026-07-24 | Pug Palace | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.00 | 0.00 | -466.8 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
 | 2026-07-17 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.09 | 0.87 | +0.3 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
-| 2026-07-15 | Chicken Coop | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.86 | 0.77 | 0.86 | +500.6 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
-| 2026-06-19 | Chicken Coop | L |  | VRS-tracked 2026-06 | A | vrs | 0.42 | 1.60 | 1.00 | 0.66 | 0.00 | 0.00 | -0.0 | core 3/5 |
-| 2026-06-11 | BONK | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.36 | 1.05 | 1.00 | 0.38 | 0.03 | 0.38 | +261.3 | brett, cr1ng3, nicotine, s3rum_, xrs0 |
+| 2026-07-15 | Chicken Coop | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.77 | 0.85 | +500.7 | LUKE4k, brett, cr1ng3, nicotine, s3rum_ |
+| 2026-06-19 | Chicken Coop | L |  | VRS-tracked 2026-06 | A | vrs | 0.41 | 1.60 | 1.00 | 0.66 | 0.00 | 0.00 | -0.0 | core 3/5 |
+| 2026-06-11 | BONK | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.36 | 1.05 | 1.00 | 0.38 | 0.03 | 0.38 | +261.4 | brett, cr1ng3, nicotine, s3rum_, xrs0 |
 | 2026-06-02 | Diggers | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -54.3 | brett, cr1ng3, nicotine, s3rum_, xrs0 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

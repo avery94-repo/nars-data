@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.035 | 1149.3 | - |
 | +30 days | 0.035 | 1149.1 | -0.2 |
 | +60 days | 0.035 | 1149.4 | +0.1 |
-| +90 days | 0.036 | 1150.1 | +0.8 |
+| +90 days | 0.036 | 1150.1 | +0.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.065 vs 0.134 average, gap -0.069). Matching that average is worth about 24.2 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +483.5 |
-| SportsBetExpert | 6 | 2672.3 | +483.4 |
-| Zomblers | 22 | 2114.7 | +479.3 |
-| regain | 12 | 2256.1 | +479.0 |
-| North Forge | 38 | 1971.1 | +478.1 |
+| NRG | 4 | 2835.7 | +483.4 |
+| SportsBetExpert | 6 | 2671.6 | +483.3 |
+| Zomblers | 22 | 2114.7 | +479.6 |
+| regain | 12 | 2256.1 | +479.3 |
+| North Forge | 38 | 1971.1 | +478.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.2).
 

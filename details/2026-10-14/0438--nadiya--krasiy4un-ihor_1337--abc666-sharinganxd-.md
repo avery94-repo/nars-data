@@ -3,11 +3,11 @@ Team Name: NADIYA
 Roster: krasiy4un, ihor_1337, -abc666, SharinganXD, dek1ing
 NARS Rank: 438 of 506
 
-Final Rating: 933.3
+Final Rating: 933.2
 Seeded Start: 1189.3
-H2H Adjustment: -256.0
+H2H Adjustment: -256.1
 
-Final Rating (933.3) = Seeded Start (1189.3) + H2H Adjustment (-256.0)
+Final Rating (933.2) = Seeded Start (1189.3) + H2H Adjustment (-256.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.4 |
 | Zomblers | 22 | 2114.7 | +658.9 |
 | regain | 12 | 2256.1 | +658.8 |
-| FarmVille | 16 | 2167.5 | +657.1 |
+| FarmVille | 16 | 2167.6 | +657.1 |
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs Kahoot Squad (2026-05-06): expires in 18 days [Quality Wins 0.01, Opponent Network 0.14]
@@ -66,7 +66,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Exnitas | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -0.8 | -abc666, L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337 |
 | 2026-07-22 | DingTone | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -302.2 | -abc666, L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337, krasiy4un |
 | 2026-07-15 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -1.9 | -abc666, L1Gh7n1nG1, SharinganXD, dek1ing, krasiy4un |
-| 2026-05-20 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +275.6 | -abc666, SharinganXD, dek1ing, ihor_1337, krasiy4un |
+| 2026-05-20 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +275.7 | -abc666, SharinganXD, dek1ing, ihor_1337, krasiy4un |
 | 2026-05-15 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -153.2 | -abc666, 4Ekat1L0, SharinganXD, dek1ing, krasiy4un |
 | 2026-05-08 | Read You Like a Kindle | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -354.5 | 4Ekat1L0, SharinganXD, dek1ing, ihor_1337, krasiy4un |
 | 2026-05-06 | Kahoot Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +339.4 | CR7MENTAL7T, SharinganXD, dek1ing, ihor_1337, krasiy4un |

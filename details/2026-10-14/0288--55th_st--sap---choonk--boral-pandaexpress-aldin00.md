@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: 55TH ST
 Roster: Sap--, choonk-, boral, PandaExpress, aldin00
-NARS Rank: 289 of 506
+NARS Rank: 288 of 506
 
 Final Rating: 1291.3
 Seeded Start: 1223.3
@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.088 | 1223.3 | - |
 | +30 days | 0.090 | 1226.1 | +2.8 |
 | +60 days | 0.091 | 1227.0 | +3.7 |
-| +90 days | 0.092 | 1228.6 | +5.3 |
+| +90 days | 0.092 | 1228.7 | +5.4 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.254 vs 0.381 average, gap -0.127). Matching that average is worth about 44.5 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.254 vs 0.325 average, gap -0.071). Matching that average is worth about 24.9 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-12) 1.00; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 - Quality Wins drivers: beat 99 Thieves at S58 NA Open9-10 East - Playoffs C (2026-09-10) 0.10; beat PogSquad at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07; beat Perseverance at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.03
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +263.4 |
-| SportsBetExpert | 6 | 2672.3 | +263.2 |
-| LAG Gaming | 8 | 2507.3 | +259.4 |
-| regain | 12 | 2256.1 | +258.5 |
-| M80 | 2 | 3081.4 | +257.6 |
+| NRG | 4 | 2835.7 | +263.3 |
+| SportsBetExpert | 6 | 2671.6 | +263.1 |
+| LAG Gaming | 8 | 2507.4 | +259.5 |
+| regain | 12 | 2256.1 | +258.6 |
+| M80 | 2 | 3081.4 | +257.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -53,7 +53,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | PogSquad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +160.9 | PandaExpress, Sap--, aldin00, boral, choonk- |
-| 2026-10-07 | Grandpa Berets | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -274.5 | PandaExpress, Sap--, aldin00, boral, choonk- |
+| 2026-10-07 | Grandpa Berets | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -274.6 | PandaExpress, Sap--, aldin00, boral, choonk- |
 | 2026-09-12 | Team Nyx | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.00 | 0.00 | -118.2 | PandaExpress, Sap--, aldin00, boral, choonk- |
 | 2026-09-10 | 99 Thieves | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.10 | 0.99 | +58.3 | PandaExpress, Sap--, aldin00, boral, choonk- |
 | 2026-09-06 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -14.1 | Dill-, Sap--, aldin00, boral, choonk- |

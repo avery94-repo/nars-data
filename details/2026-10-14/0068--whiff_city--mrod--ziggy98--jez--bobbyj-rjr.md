@@ -3,11 +3,11 @@ Team Name: Whiff City
 Roster: mROD-, Ziggy98, -jez-, BobbyJ, RJR
 NARS Rank: 68 of 506
 
-Final Rating: 1817.5
+Final Rating: 1817.6
 Seeded Start: 1255.0
-H2H Adjustment: +562.5
+H2H Adjustment: +562.6 (capped at +-300, raw +562.5)
 
-Final Rating (1817.5) = Seeded Start (1255.0) + H2H Adjustment (+562.5)
+Final Rating (1817.6) = Seeded Start (1255.0) + H2H Adjustment (+562.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.111 | 1255.0 | - |
 | +30 days | 0.108 | 1251.6 | -3.4 |
 | +60 days | 0.108 | 1251.0 | -4.1 |
-| +90 days | 0.107 | 1249.5 | -5.5 |
+| +90 days | 0.107 | 1249.6 | -5.4 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.380 vs 0.631 average, gap -0.251). Matching that average is worth about 87.9 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.380 vs 0.631 average, gap -0.251). Matching that average is worth about 87.8 seed points.
 
 - Tier Exposure drivers: S58 NA Open1-8 Central - Playoffs (2026-09-18) 1.00
 - Quality Wins drivers: beat Los Pollos Hermanos at S58 NA Open1-8 Central - Playoffs (2026-09-18) 0.04; beat Core 5 at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.04; beat Chud Esports at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.04
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +342.4 |
-| M80 | 2 | 3081.4 | +337.4 |
-| SportsBetExpert | 6 | 2672.3 | +337.0 |
-| Wildcard | 3 | 2911.9 | +333.5 |
-| Liquid | 1 | 3103.3 | +332.7 |
+| NRG | 4 | 2835.7 | +342.4 |
+| M80 | 2 | 3081.4 | +337.7 |
+| SportsBetExpert | 6 | 2671.6 | +336.9 |
+| Wildcard | 3 | 2911.9 | +333.8 |
+| Liquid | 1 | 3103.3 | +333.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), Old Dads Banging (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0).
 

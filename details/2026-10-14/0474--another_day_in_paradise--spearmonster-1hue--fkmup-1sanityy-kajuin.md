@@ -3,11 +3,11 @@ Team Name: Another Day in Paradise
 Roster: spearMONSTER, 1Hue-, fkmup, 1Sanityy, Kajuin
 NARS Rank: 474 of 506
 
-Final Rating: 780.5
+Final Rating: 780.4
 Seeded Start: 1105.3
-H2H Adjustment: -324.8
+H2H Adjustment: -324.9
 
-Final Rating (780.5) = Seeded Start (1105.3) + H2H Adjustment (-324.8)
+Final Rating (780.4) = Seeded Start (1105.3) + H2H Adjustment (-324.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,8 +39,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.1 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.6 |
 | North Forge | 38 | 1971.1 | +662.9 |
 | Zomblers | 22 | 2114.7 | +661.8 |
 | Wanted Goons | 43 | 1933.1 | +661.7 |

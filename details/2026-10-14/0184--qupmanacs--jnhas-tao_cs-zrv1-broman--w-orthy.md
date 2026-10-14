@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.165 | 1331.0 | - |
 | +30 days | 0.144 | 1302.2 | -28.8 |
 | +60 days | 0.123 | 1271.9 | -59.1 |
-| +90 days | 0.083 | 1216.4 | -114.6 |
+| +90 days | 0.083 | 1216.4 | -114.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.075 vs 0.071 average, gap +0.004). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +637.6 |
-| SportsBetExpert | 6 | 2672.3 | +634.5 |
-| M80 | 2 | 3081.4 | +624.8 |
-| Wildcard | 3 | 2911.9 | +619.8 |
-| LAG Gaming | 8 | 2507.3 | +618.9 |
+| NRG | 4 | 2835.7 | +637.5 |
+| SportsBetExpert | 6 | 2671.6 | +634.4 |
+| M80 | 2 | 3081.4 | +625.2 |
+| Wildcard | 3 | 2911.9 | +620.2 |
+| LAG Gaming | 8 | 2507.4 | +619.3 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -57,7 +57,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-06 | WaterDrinkers | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -91.2 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
-| 2026-09-04 | DUMBO | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -97.0 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
+| 2026-09-04 | DUMBO | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -97.1 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-09-02 | Epochal Esports | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.14 | 0.92 | +1.2 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-28 | offBalance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +9.9 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-26 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -42.8 | Broman-, JayEm24k, Tao_cs, worthy1, zrv1 |
@@ -68,9 +68,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.09 | 0.74 | +64.8 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-05 | TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.03 | 0.73 | +15.8 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-07-31 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +131.5 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
-| 2026-07-29 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +310.2 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
+| 2026-07-29 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +310.3 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-07-24 | Bald | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -221.7 | Jnhas, Tao_cs, hawkeg, worthy1, zrv1 |
-| 2026-07-22 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.07 | 0.64 | +300.6 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
+| 2026-07-22 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.07 | 0.64 | +300.7 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-07-20 | Brothers United | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.02 | 0.62 | +59.9 | Broman-, Jnhas, hawkeg, worthy1, zrv1 |
 | 2026-07-15 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.02 | 0.59 | +112.7 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-05-31 | Rejects | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.00 | 0.00 | -162.5 | Jnhas, ReddVoid, donPepitoo, worthy1, zrv1 |

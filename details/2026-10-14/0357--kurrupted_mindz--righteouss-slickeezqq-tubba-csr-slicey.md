@@ -4,14 +4,14 @@ Roster: righteouss, slickeezQQ, Tubba, csR, slicey
 NARS Rank: 357 of 506
 
 Final Rating: 1159.8
-Seeded Start: 1249.4
-H2H Adjustment: -89.6
+Seeded Start: 1249.3
+H2H Adjustment: -89.5
 
-Final Rating (1159.8) = Seeded Start (1249.4) + H2H Adjustment (-89.6)
+Final Rating (1159.8) = Seeded Start (1249.3) + H2H Adjustment (-89.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.107 x 1400 = 1249.4
+                = 1100 + 0.107 x 1400 = 1249.3
 
 seed_factor 0.107 = 0.25 x Tier Exposure (0.053) + 0.50 x Quality Wins (0.026) + 0.25 x Opponent Network (0.322)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.107 | 1249.4 | - |
+| Now | 0.107 | 1249.3 | - |
 | +30 days | 0.075 | 1205.7 | -43.7 |
-| +60 days | 0.063 | 1187.6 | -61.8 |
-| +90 days | 0.043 | 1159.6 | -89.8 |
+| +60 days | 0.063 | 1187.5 | -61.8 |
+| +90 days | 0.043 | 1159.6 | -89.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.053 vs 0.096 average, gap -0.043). Matching that average is worth about 15.0 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.0 |
-| SportsBetExpert | 6 | 2672.3 | +664.4 |
-| LAG Gaming | 8 | 2507.3 | +654.9 |
+| NRG | 4 | 2835.7 | +664.4 |
+| SportsBetExpert | 6 | 2671.6 | +663.8 |
+| LAG Gaming | 8 | 2507.4 | +654.8 |
 | regain | 12 | 2256.1 | +653.1 |
 | M80 | 2 | 3081.4 | +650.3 |
 
@@ -65,8 +65,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.04 | 0.85 | +126.9 | Tubba, csR, righteouss, slicey, slickeezQQ |
 | 2026-08-19 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.17 | 0.84 | +53.9 | Tubba, csR, righteouss, slicey, slickeezQQ |
 | 2026-08-14 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.06 | 0.81 | +102.5 | Tubba, csR, ndz_, righteouss, slickeezQQ |
-| 2026-08-12 | Distinguished Ducks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -109.3 | Tubba, ndz_, righteouss, slicey, slickeezQQ |
-| 2026-08-07 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.04 | 0.76 | +107.1 | Tubba, csR, righteouss, slicey, slickeezQQ |
+| 2026-08-12 | Distinguished Ducks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -109.4 | Tubba, ndz_, righteouss, slicey, slickeezQQ |
+| 2026-08-07 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.04 | 0.76 | +107.2 | Tubba, csR, righteouss, slicey, slickeezQQ |
 | 2026-08-05 | TEMPR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -1.1 | Tubba, csR, righteouss, slicey, slickeezQQ |
 | 2026-07-31 | Wealth Reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -230.1 | Tubba, csR, ndz_, righteouss, slickeezQQ |
 | 2026-07-29 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -68.7 | chinner, csR, ndz_, righteouss, slickeezQQ |
@@ -78,8 +78,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | ASYCS KITTENS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +26.5 | Tubba, chinner, csR, righteouss, slickeezQQ |
 | 2026-05-20 | James Bond Bois | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +1.0 | Tubba, chinner, csR, righteouss, slicey |
 | 2026-05-14 | Order Zero | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.20 | +59.9 | Tubba, ZNP_, csR, righteouss, slicey |
-| 2026-05-13 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +204.7 | Tubba, chinner, csR, righteouss, slicey |
-| 2026-05-06 | 1NT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +171.1 | Tubba, chinner, csR, righteouss, slicey |
+| 2026-05-13 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +204.8 | Tubba, chinner, csR, righteouss, slicey |
+| 2026-05-06 | 1NT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +171.2 | Tubba, chinner, csR, righteouss, slicey |
 | 2026-05-01 | Free Frugz | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +161.2 | Tubba, csR, kennyea, righteouss, slickeezQQ |
 | 2026-04-29 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +19.6 | Tubba, chinner, csR, righteouss, slicey |
 | 2026-04-24 | Evil Space Wizards | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -63.0 | Tubba, chinner, csR, righteouss, slicey |

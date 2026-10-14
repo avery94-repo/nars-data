@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.156 | 1318.2 | - |
-| +30 days | 0.125 | 1274.6 | -43.6 |
+| +30 days | 0.125 | 1274.5 | -43.6 |
 | +60 days | 0.110 | 1253.9 | -64.3 |
-| +90 days | 0.083 | 1216.1 | -102.0 |
+| +90 days | 0.083 | 1216.2 | -101.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.053 vs 0.034 average, gap +0.019). Matching that average is worth about 0.0 seed points.
 
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +144.7 |
-| SportsBetExpert | 6 | 2672.3 | +144.4 |
-| LAG Gaming | 8 | 2507.3 | +141.8 |
+| NRG | 4 | 2835.7 | +144.6 |
+| SportsBetExpert | 6 | 2671.6 | +144.3 |
+| LAG Gaming | 8 | 2507.4 | +141.9 |
 | M80 | 2 | 3081.4 | +141.6 |
 | Wildcard | 3 | 2911.9 | +140.6 |
 
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-21 | Omen Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.63 | 1.45 | 1.00 | 0.91 | 0.00 | 0.00 | -2.2 | -Tech, Noahh-, Tophr, soap, torii |
 | 2026-07-17 | dice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -0.3 | Noahh-, Tophr, soap, sportz, torii |
 | 2026-05-21 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.03 | 0.00 | +16.1 | -Tech, CMitch, Tophr, soap, sportz |
-| 2026-05-19 | Phantom Sense | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -338.6 | CMitch, Noahh-, Tophr, soap, sportz |
+| 2026-05-19 | Phantom Sense | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -338.7 | CMitch, Noahh-, Tophr, soap, sportz |
 | 2026-05-14 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.01 | 0.24 | +1.7 | -Tech, CMitch, Noahh-, soap, sportz |
 | 2026-05-13 | NineFly Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.04 | 0.23 | +249.7 | -Tech, Noahh-, Tophr, soap, sportz |
 | 2026-05-07 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.04 | 0.17 | +348.5 | -Jonesy, CMitch, Noahh-, soap, sportz |

@@ -3,15 +3,15 @@ Team Name: Qinorhwat
 Roster: StevD, Yuvertington, aIex, Dakaizer, Velly
 NARS Rank: 372 of 506
 
-Final Rating: 1120.6
-Seeded Start: 1236.4
+Final Rating: 1120.5
+Seeded Start: 1236.3
 H2H Adjustment: -115.8
 
-Final Rating (1120.6) = Seeded Start (1236.4) + H2H Adjustment (-115.8)
+Final Rating (1120.5) = Seeded Start (1236.3) + H2H Adjustment (-115.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.097 x 1400 = 1236.4
+                = 1100 + 0.097 x 1400 = 1236.3
 
 seed_factor 0.097 = 0.25 x Tier Exposure (0.050) + 0.50 x Quality Wins (0.031) + 0.25 x Opponent Network (0.278)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.097 | 1236.4 | - |
+| Now | 0.097 | 1236.3 | - |
 | +30 days | 0.068 | 1195.3 | -41.0 |
 | +60 days | 0.049 | 1168.1 | -68.3 |
-| +90 days | 0.021 | 1129.5 | -106.9 |
+| +90 days | 0.021 | 1129.5 | -106.8 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.050 vs 0.051 average, gap -0.001). Matching that average is worth about 0.4 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.0 |
-| SportsBetExpert | 6 | 2672.3 | +664.6 |
-| LAG Gaming | 8 | 2507.3 | +655.3 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.0 |
+| LAG Gaming | 8 | 2507.4 | +655.2 |
 | regain | 12 | 2256.1 | +654.6 |
-| FarmVille | 16 | 2167.5 | +650.5 |
+| FarmVille | 16 | 2167.6 | +650.5 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.8), shirtcockin (+1.2), Courage (+1.4).
 
@@ -67,18 +67,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Bird Lickers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -81.5 | Dakaizer, StevD, Velly, Yuvertington, aIex |
 | 2026-08-19 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -60.2 | Dakaizer, StevD, Velly, Yuvertington, aIex |
 | 2026-08-14 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -119.5 | Dakaizer, StevD, Velly, Yuvertington, aIex |
-| 2026-08-12 | SquadUp | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.16 | 0.79 | +153.2 | Dakaizer, StevD, Velly, Yuvertington, aIex |
+| 2026-08-12 | SquadUp | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.16 | 0.79 | +153.3 | Dakaizer, StevD, Velly, Yuvertington, aIex |
 | 2026-08-07 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -2.8 | Dakaizer, StevD, Velly, Yuvertington, aIex |
 | 2026-08-05 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -33.0 | Dakaizer, StevD, Velly, Yuvertington, aIex |
 | 2026-08-04 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -8.7 | Dakaizer, StevD, Velly, Yuvertington, aIex |
 | 2026-07-31 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.06 | 0.71 | +213.2 | Dakaizer, StevD, Velly, Yuvertington, aIex |
 | 2026-07-23 | enigma | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -435.4 | Dakaizer, StevD, Yuvertington, Zuvey, aIex |
 | 2026-07-22 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +0.0 | Dakaizer, StevD, Velly, Yuvertington, aIex |
-| 2026-07-17 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.07 | 0.62 | +8.6 | StevD, Velly, Yuvertington, Zuvey, aIex |
+| 2026-07-17 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.07 | 0.61 | +8.6 | StevD, Velly, Yuvertington, Zuvey, aIex |
 | 2026-07-15 | The Homies | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.08 | 0.60 | +8.8 | Dakaizer, StevD, Velly, Yuvertington, aIex |
-| 2026-06-03 | Florida Man | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.00 | +170.9 | BANYE, StevD, Velly, Yuvertington, aIex |
+| 2026-06-03 | Florida Man | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.03 | 0.00 | +171.0 | BANYE, StevD, Velly, Yuvertington, aIex |
 | 2026-05-29 | Aetheris | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +26.2 | BANYE, StevD, Velly, Yuvertington, aIex |
-| 2026-05-27 | Dynasty | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +327.7 | Dakaizer, StevD, Velly, Yuvertington, aIex |
+| 2026-05-27 | Dynasty | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +327.8 | Dakaizer, StevD, Velly, Yuvertington, aIex |
 | 2026-05-22 | Hack-A-Shaq | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -23.2 | BANYE, StevD, Velly, Yuvertington, aIex |
 | 2026-05-20 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -198.6 | BANYE, Dakaizer, Velly, Yuvertington, aIex |
 | 2026-05-15 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -299.9 | BANYE, StevD, Velly, Yuvertington, aIex |

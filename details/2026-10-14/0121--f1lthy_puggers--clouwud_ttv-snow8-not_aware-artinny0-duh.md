@@ -5,7 +5,7 @@ NARS Rank: 121 of 506
 
 Final Rating: 1643.7
 Seeded Start: 1307.2
-H2H Adjustment: +336.5
+H2H Adjustment: +336.5 (capped at +-300, raw +336.6)
 
 Final Rating (1643.7) = Seeded Start (1307.2) + H2H Adjustment (+336.5)
 
@@ -25,11 +25,11 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.148 | 1307.2 | - |
-| +30 days | 0.130 | 1281.8 | -25.4 |
+| +30 days | 0.130 | 1281.7 | -25.4 |
 | +60 days | 0.116 | 1261.9 | -45.3 |
-| +90 days | 0.089 | 1224.4 | -82.8 |
+| +90 days | 0.089 | 1224.5 | -82.7 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.430 vs 0.522 average, gap -0.092). Matching that average is worth about 32.2 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.430 vs 0.521 average, gap -0.091). Matching that average is worth about 31.8 seed points.
 
 - Tier Exposure drivers: S58 NA Main Central - Playoffs B (2026-09-08) 1.14; S58 NA Main B - Regular Season (2026-08-27) 1.02; S57 NA Main Central - Regular Season (2026-05-20) 0.25
 - Quality Wins drivers: beat FUELED BY HATE at S58 NA Main Central - Playoffs B (2026-09-08) 0.19; beat Exnitas at S58 NA Main B - Regular Season (2026-08-19) 0.12; beat US Navy Esports at S58 NA Main Central - Playoffs B (2026-09-07) 0.11
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +631.6 |
-| SportsBetExpert | 6 | 2672.3 | +625.5 |
-| M80 | 2 | 3081.4 | +620.4 |
-| Wildcard | 3 | 2911.9 | +614.5 |
-| Liquid | 1 | 3103.3 | +611.8 |
+| NRG | 4 | 2835.7 | +631.5 |
+| SportsBetExpert | 6 | 2671.6 | +625.3 |
+| M80 | 2 | 3081.4 | +620.9 |
+| Wildcard | 3 | 2911.9 | +614.9 |
+| Liquid | 1 | 3103.3 | +612.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -67,9 +67,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.04 | 0.90 | +54.4 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
 | 2026-07-31 | Kinetic | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -35.0 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
 | 2026-07-29 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -37.7 | D1m1_bot, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-07-24 | Crimson Vortex | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.07 | 0.75 | +330.9 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-07-22 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -207.0 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
-| 2026-07-16 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.06 | 0.69 | +362.0 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-07-24 | Crimson Vortex | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.07 | 0.75 | +331.0 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-07-22 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -207.1 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
+| 2026-07-16 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.06 | 0.69 | +362.1 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
 | 2026-05-20 | Entertainment Cheese | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -140.6 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
 | 2026-05-13 | Old Meta | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -51.9 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |
 | 2026-05-08 | Lynnsanity | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -17.5 | Snow8, artinny0, clouwud_ttv, duhman258, not_aware |

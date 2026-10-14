@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.109 | 1252.3 | -62.4 |
 | +90 days | 0.073 | 1201.7 | -113.0 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.082 vs 0.123 average, gap -0.041). Matching that average is worth about 14.4 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.082 vs 0.126 average, gap -0.044). Matching that average is worth about 15.4 seed points.
 
 - Tier Exposure drivers: S58 NA Intermediate Central - Playoffs A (2026-09-09) 0.96; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; S57 NA Intermediate Central - Playoffs B (2026-05-29) 0.28
 - Quality Wins drivers: beat Armored Talent at S58 NA Intermediate A - Regular Season (2026-07-29) 0.12; beat Kings Gambit at S58 NA Intermediate A - Regular Season (2026-08-28) 0.10; beat Goyim Gladiators at S58 NA Intermediate A - Regular Season (2026-08-14) 0.09
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +562.8 |
-| SportsBetExpert | 6 | 2672.3 | +562.0 |
-| LAG Gaming | 8 | 2507.3 | +553.2 |
-| M80 | 2 | 3081.4 | +550.5 |
-| regain | 12 | 2256.1 | +548.4 |
+| NRG | 4 | 2835.7 | +562.7 |
+| SportsBetExpert | 6 | 2671.6 | +562.0 |
+| LAG Gaming | 8 | 2507.4 | +553.6 |
+| M80 | 2 | 3081.4 | +550.9 |
+| regain | 12 | 2256.1 | +548.8 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.2), Courage (+0.3), SixSevenZaZa (+0.5).
 
@@ -75,15 +75,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.03 | 0.64 | +363.7 | BrodyJ, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-07-17 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -3.1 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-07-15 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +205.1 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
-| 2026-05-29 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -272.8 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
+| 2026-05-29 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -272.9 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-05-27 | Qinorhwat | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -328.6 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-05-22 | The Agarthans | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +254.9 | -Toucan, BrodyJ, Crev, ItsJJ_, KC_ |
-| 2026-05-20 | Onsite has Oil | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +125.4 | -Toucan, Crev, ItsJJ_, KC_, M4CKY |
+| 2026-05-20 | Onsite has Oil | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +125.5 | -Toucan, Crev, ItsJJ_, KC_, M4CKY |
 | 2026-05-15 | We Play Naked | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +15.9 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-05-13 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +87.5 | -Toucan, BrodyJ, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-05-08 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -177.7 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-05-06 | Abusement Park | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +288.4 | -Toucan, BrodyJ, ItsJJ_, J0YBOY, KC_ |
-| 2026-05-01 | monitor off | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -336.2 | BrodyJ, CreamSlinger, ItsJJ_, J0YBOY, KC_ |
+| 2026-05-01 | monitor off | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -336.3 | BrodyJ, CreamSlinger, ItsJJ_, J0YBOY, KC_ |
 | 2026-04-29 | Gambling and Young | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +281.7 | BrodyJ, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-04-22 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -260.3 | BrodyJ, Crev, ItsJJ_, J0YBOY, KC_ |
 

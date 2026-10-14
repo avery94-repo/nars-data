@@ -3,11 +3,11 @@ Team Name: DeathMark E-Sports
 Roster: 1GRMZ, VilePickle, Wokani, aLxGG, CoLdZy-
 NARS Rank: 353 of 506
 
-Final Rating: 1166.6
+Final Rating: 1166.5
 Seeded Start: 1282.3
-H2H Adjustment: -115.7
+H2H Adjustment: -115.8
 
-Final Rating (1166.6) = Seeded Start (1282.3) + H2H Adjustment (-115.7)
+Final Rating (1166.5) = Seeded Start (1282.3) + H2H Adjustment (-115.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.130 | 1282.3 | - |
-| +30 days | 0.109 | 1253.2 | -29.2 |
+| +30 days | 0.109 | 1253.1 | -29.2 |
 | +60 days | 0.086 | 1220.1 | -62.3 |
-| +90 days | 0.061 | 1185.9 | -96.5 |
+| +90 days | 0.061 | 1185.9 | -96.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.028 vs 0.022 average, gap +0.006). Matching that average is worth about 0.0 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +278.6 |
-| SportsBetExpert | 6 | 2672.3 | +278.4 |
-| regain | 12 | 2256.1 | +275.0 |
-| LAG Gaming | 8 | 2507.3 | +274.7 |
+| NRG | 4 | 2835.7 | +278.4 |
+| SportsBetExpert | 6 | 2671.6 | +278.3 |
+| regain | 12 | 2256.1 | +275.1 |
+| LAG Gaming | 8 | 2507.4 | +274.7 |
 | Zomblers | 22 | 2114.7 | +274.1 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
@@ -57,7 +57,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | No Leaders Please | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -40.5 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
+| 2026-10-09 | No Leaders Please | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -40.4 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
 | 2026-10-07 | Shaboing Boing Bandits | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -53.9 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
 | 2026-09-06 | D1NK Esports | L | 0-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -34.4 | 1GRMZ, CoLdZy-, VilePickle, aLxGG, donPepitoo |
 | 2026-09-04 | UltimateDarklordWizardz | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -9.5 | 1GRMZ, CoLdZy-, VilePickle, aLxGG, donPepitoo |

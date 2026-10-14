@@ -3,11 +3,11 @@ Team Name: PSDN White
 Roster: GoNo, Rabbitt-, seabass, Vye-, k0na-
 NARS Rank: 408 of 506
 
-Final Rating: 1040.4
+Final Rating: 1040.3
 Seeded Start: 1153.7
-H2H Adjustment: -113.3
+H2H Adjustment: -113.4
 
-Final Rating (1040.4) = Seeded Start (1153.7) + H2H Adjustment (-113.3)
+Final Rating (1040.3) = Seeded Start (1153.7) + H2H Adjustment (-113.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.038 | 1153.7 | - |
 | +30 days | 0.029 | 1141.1 | -12.6 |
 | +60 days | 0.024 | 1133.0 | -20.7 |
-| +90 days | 0.022 | 1131.2 | -22.5 |
+| +90 days | 0.022 | 1131.2 | -22.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.101 vs 0.192 average, gap -0.091). Matching that average is worth about 31.8 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.2 |
 | regain | 12 | 2256.1 | +656.9 |
-| LAG Gaming | 8 | 2507.3 | +655.9 |
+| LAG Gaming | 8 | 2507.4 | +655.9 |
 | Zomblers | 22 | 2114.7 | +655.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.7).
@@ -62,7 +62,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | pnks pretty princesses | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.00 | 0.00 | -189.7 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
 | 2026-06-10 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -165.8 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
 | 2026-06-03 | Made in Abergavenny | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +175.7 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
-| 2026-05-29 | ABG Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -154.0 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
-| 2026-05-27 | Smuckers | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +195.5 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
+| 2026-05-29 | ABG Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -154.1 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
+| 2026-05-27 | Smuckers | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +195.6 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

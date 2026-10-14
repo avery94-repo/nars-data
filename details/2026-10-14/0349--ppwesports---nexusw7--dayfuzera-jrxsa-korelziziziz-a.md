@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.052 | 1172.7 | +1.6 |
 | +90 days | 0.053 | 1173.9 | +2.8 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.127 vs 0.211 average, gap -0.084). Matching that average is worth about 29.4 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.127 vs 0.210 average, gap -0.083). Matching that average is worth about 29.0 seed points.
 
 - Tier Exposure drivers: NA Revival (2026-09-27) 1.01; S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.94
 - Quality Wins drivers: beat Soul Misfits at NA Revival (2026-09-27) 0.04; beat GOD SPEED at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.03
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +175.1 |
-| SportsBetExpert | 6 | 2672.3 | +175.1 |
-| regain | 12 | 2256.1 | +173.1 |
-| LAG Gaming | 8 | 2507.3 | +172.7 |
-| Zomblers | 22 | 2114.7 | +172.7 |
+| NRG | 4 | 2835.7 | +175.2 |
+| SportsBetExpert | 6 | 2671.6 | +175.1 |
+| regain | 12 | 2256.1 | +173.3 |
+| LAG Gaming | 8 | 2507.4 | +172.9 |
+| Zomblers | 22 | 2114.7 | +172.9 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.4).
 

@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.208 | 1391.0 | - |
 | +30 days | 0.182 | 1354.3 | -36.7 |
-| +60 days | 0.159 | 1322.0 | -69.0 |
-| +90 days | 0.120 | 1268.3 | -122.7 |
+| +60 days | 0.159 | 1322.0 | -68.9 |
+| +90 days | 0.120 | 1268.5 | -122.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.083 vs 0.066 average, gap +0.017). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +287.0 |
-| SportsBetExpert | 6 | 2672.3 | +286.1 |
-| M80 | 2 | 3081.4 | +281.0 |
-| LAG Gaming | 8 | 2507.3 | +280.3 |
-| Wildcard | 3 | 2911.9 | +278.9 |
+| NRG | 4 | 2835.7 | +286.9 |
+| SportsBetExpert | 6 | 2671.6 | +286.0 |
+| M80 | 2 | 3081.4 | +281.1 |
+| LAG Gaming | 8 | 2507.4 | +280.4 |
+| Wildcard | 3 | 2911.9 | +279.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 
@@ -66,21 +66,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -70.1 | Donut, TOY-, You-A-QT, h0NEYz, pr- |
 | 2026-08-21 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -76.9 | Donut, TOY-, You-A-QT, h0NEYz, squirb |
 | 2026-08-19 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -12.6 | Donut, TOY-, You-A-QT, brinbran, h0NEYz |
-| 2026-08-14 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -177.0 | Donut, TOY-, You-A-QT, brinbran, h0NEYz |
+| 2026-08-14 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -177.1 | Donut, TOY-, You-A-QT, brinbran, h0NEYz |
 | 2026-08-12 | ALL IN | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.04 | 0.90 | +19.4 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
-| 2026-08-07 | Skyline | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.30 | 0.00 | +119.7 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
-| 2026-08-05 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -181.7 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
+| 2026-08-07 | Skyline | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.30 | 0.00 | +119.8 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
+| 2026-08-05 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -181.8 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
 | 2026-07-31 | goofball gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.07 | 0.81 | +80.7 | TOY-, You-A-QT, brinbran, h0NEYz, pr-, thraz |
 | 2026-07-29 | F1lthy Puggers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.07 | 0.79 | +38.0 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
-| 2026-07-24 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.12 | 0.75 | +243.5 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
+| 2026-07-24 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.12 | 0.75 | +243.6 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
 | 2026-07-22 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -191.4 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
-| 2026-07-17 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.07 | 0.70 | +171.6 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
+| 2026-07-17 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.07 | 0.70 | +171.7 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
 | 2026-07-15 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.03 | 0.68 | +136.6 | TOY-, You-A-QT, brinbran, h0NEYz, pr- |
 | 2026-05-31 | Automatic HQ | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -20.4 | TOY-, You-A-QT, brinbran, pr-, squirb |
-| 2026-05-27 | the dragon warrior scroll | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -185.0 | TOY-, You-A-QT, brinbran, pr-, squirb |
+| 2026-05-27 | the dragon warrior scroll | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -185.1 | TOY-, You-A-QT, brinbran, pr-, squirb |
 | 2026-05-22 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.06 | 0.26 | +1.1 | TOY-, You-A-QT, brinbran, pr-, squirb |
-| 2026-05-21 | Over Your Head | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +216.8 | Donut, TOY-, You-A-QT, brinbran, squirb |
-| 2026-05-15 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -376.6 | TOY-, You-A-QT, brinbran, pr-, squirb |
+| 2026-05-21 | Over Your Head | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +216.9 | Donut, TOY-, You-A-QT, brinbran, squirb |
+| 2026-05-15 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -376.7 | TOY-, You-A-QT, brinbran, pr-, squirb |
 | 2026-05-13 | OnlyFans | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -289.7 | TOY-, You-A-QT, brinbran, pr-, squirb |
 | 2026-05-08 | THE GUILD | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +219.0 | Donut, TOY-, You-A-QT, brinbran, squirb |
 | 2026-05-06 | GeneticDiff | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +148.2 | TOY-, You-A-QT, brinbran, pr-, squirb |

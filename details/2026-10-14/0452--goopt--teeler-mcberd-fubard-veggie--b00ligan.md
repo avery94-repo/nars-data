@@ -3,11 +3,11 @@ Team Name: GoopT
 Roster: Teeler, Mcberd, fubard, Veggie-, B00LIGAN
 NARS Rank: 452 of 506
 
-Final Rating: 894.6
+Final Rating: 894.5
 Seeded Start: 1236.6
-H2H Adjustment: -342.0
+H2H Adjustment: -342.1 (capped at +-300, raw -342.0)
 
-Final Rating (894.6) = Seeded Start (1236.6) + H2H Adjustment (-342.0)
+Final Rating (894.5) = Seeded Start (1236.6) + H2H Adjustment (-342.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.098 | 1236.6 | - |
 | +30 days | 0.082 | 1215.2 | -21.4 |
-| +60 days | 0.073 | 1202.2 | -34.4 |
-| +90 days | 0.057 | 1179.2 | -57.3 |
+| +60 days | 0.073 | 1202.2 | -34.3 |
+| +90 days | 0.057 | 1179.3 | -57.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.019 vs 0.018 average, gap +0.001). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +296.6 |
-| SportsBetExpert | 6 | 2672.3 | +296.5 |
-| North Forge | 38 | 1971.1 | +295.4 |
-| Zomblers | 22 | 2114.7 | +295.0 |
-| Wanted Goons | 43 | 1933.1 | +294.9 |
+| NRG | 4 | 2835.7 | +296.4 |
+| SportsBetExpert | 6 | 2671.6 | +296.4 |
+| North Forge | 38 | 1971.1 | +295.5 |
+| Zomblers | 22 | 2114.7 | +295.1 |
+| Wanted Goons | 43 | 1933.1 | +295.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.4).
 

@@ -3,11 +3,11 @@ Team Name: Goon Squad
 Roster: jssmitty, --nayR--, -keviN, crabsy, ReyRey-
 NARS Rank: 328 of 506
 
-Final Rating: 1222.1
+Final Rating: 1222.0
 Seeded Start: 1113.0
-H2H Adjustment: +109.1
+H2H Adjustment: +109.0
 
-Final Rating (1222.1) = Seeded Start (1113.0) + H2H Adjustment (+109.1)
+Final Rating (1222.0) = Seeded Start (1113.0) + H2H Adjustment (+109.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.8 |
-| SportsBetExpert | 6 | 2672.3 | +664.1 |
-| LAG Gaming | 8 | 2507.3 | +654.0 |
-| M80 | 2 | 3081.4 | +650.3 |
+| NRG | 4 | 2835.7 | +664.2 |
+| SportsBetExpert | 6 | 2671.6 | +663.5 |
+| LAG Gaming | 8 | 2507.4 | +654.0 |
+| M80 | 2 | 3081.4 | +650.2 |
 | regain | 12 | 2256.1 | +650.0 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
@@ -59,14 +59,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -187.7 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
+| 2026-05-22 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -187.8 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-05-20 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -25.0 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
-| 2026-05-15 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +399.5 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
-| 2026-05-14 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -276.2 | --nayR--, ReyRey-, crabsy, jssmitty, uziburger |
-| 2026-05-06 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -126.9 | --nayR--, -keviN, ReyRey-, crabsy, uziburger |
+| 2026-05-15 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +399.6 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
+| 2026-05-14 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -276.3 | --nayR--, ReyRey-, crabsy, jssmitty, uziburger |
+| 2026-05-06 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -127.0 | --nayR--, -keviN, ReyRey-, crabsy, uziburger |
 | 2026-05-01 | Tall Ocean Rats | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +258.9 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-04-29 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -225.5 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-04-24 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +11.1 | --nayR--, Miranite, ReyRey-, crabsy, jssmitty |
-| 2026-04-22 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +280.9 | --nayR--, ReyRey-, crabsy, jssmitty, uziburger |
+| 2026-04-22 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +281.0 | --nayR--, ReyRey-, crabsy, jssmitty, uziburger |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -3,17 +3,17 @@ Team Name: Order Zero
 Roster: F0ur-, luck257, YodeR_8, Zander01, Josw1ck
 NARS Rank: 156 of 506
 
-Final Rating: 1564.6
+Final Rating: 1564.7
 Seeded Start: 1128.0
-H2H Adjustment: +436.6
+H2H Adjustment: +436.7
 
-Final Rating (1564.6) = Seeded Start (1128.0) + H2H Adjustment (+436.6)
+Final Rating (1564.7) = Seeded Start (1128.0) + H2H Adjustment (+436.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.020 x 1400 = 1128.0
 
-seed_factor 0.020 = 0.25 x Tier Exposure (0.009) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.063)
+seed_factor 0.020 = 0.25 x Tier Exposure (0.009) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.062)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.000 | 1100.0 | -28.0 |
 | +90 days | 0.000 | 1100.0 | -28.0 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.063 vs 0.417 average, gap -0.354). Matching that average is worth about 123.9 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.062 vs 0.417 average, gap -0.355). Matching that average is worth about 124.2 seed points.
 
 - Tier Exposure drivers: S57 NA Main Central - Regular Season (2026-05-21) 0.25
 - Quality Wins drivers: beat Entertainment Cheese at S57 NA Main Central - Regular Season (2026-05-13) 0.03; beat GOOZPEEK at S57 NA Main Central - Regular Season (2026-05-20) 0.02; beat MASTER ONE at S57 NA Main Central - Regular Season (2026-05-06) 0.02
@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +662.2 |
-| SportsBetExpert | 6 | 2672.3 | +657.8 |
-| M80 | 2 | 3081.4 | +649.5 |
+| NRG | 4 | 2835.7 | +661.6 |
+| SportsBetExpert | 6 | 2671.6 | +657.2 |
+| M80 | 2 | 3081.4 | +649.4 |
 | Wildcard | 3 | 2911.9 | +643.9 |
 | Liquid | 1 | 3103.3 | +640.4 |
 
@@ -64,7 +64,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +134.7 | F0ur-, YodeR_8, Zander01, coding, luck257 |
 | 2026-05-14 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -59.9 | F0ur-, Josw1ck, YodeR_8, Zander01, luck257 |
 | 2026-05-13 | Entertainment Cheese | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.03 | 0.19 | +127.0 | F0ur-, Josw1ck, YodeR_8, Zander01, luck257 |
-| 2026-05-08 | CNCS Last Hope | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -137.7 | F0ur-, Josw1ck, Zander01, coding, luck257 |
+| 2026-05-08 | CNCS Last Hope | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -137.8 | F0ur-, Josw1ck, Zander01, coding, luck257 |
 | 2026-05-06 | MASTER ONE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +425.6 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |
 | 2026-05-01 | Sedated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -398.5 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |
 | 2026-04-29 | James Bond Bois | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +357.6 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |

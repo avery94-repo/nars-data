@@ -3,11 +3,11 @@ Team Name: 2THRiLL
 Roster: Stro_-, Yunniie, frankfurda, Xevikan, _n8
 NARS Rank: 246 of 506
 
-Final Rating: 1386.7
+Final Rating: 1386.6
 Seeded Start: 1120.0
-H2H Adjustment: +266.7
+H2H Adjustment: +266.6
 
-Final Rating (1386.7) = Seeded Start (1120.0) + H2H Adjustment (+266.7)
+Final Rating (1386.6) = Seeded Start (1120.0) + H2H Adjustment (+266.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.1 |
-| SportsBetExpert | 6 | 2672.3 | +662.4 |
+| NRG | 4 | 2835.7 | +663.6 |
+| SportsBetExpert | 6 | 2671.6 | +661.8 |
 | M80 | 2 | 3081.4 | +650.0 |
-| LAG Gaming | 8 | 2507.3 | +649.8 |
+| LAG Gaming | 8 | 2507.4 | +649.8 |
 | Wildcard | 3 | 2911.9 | +645.3 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
@@ -58,13 +58,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.01 | 0.26 | +349.2 | GOOOOOOOOOOF, Xevikan, Yunniie, _n8, frankfurda |
-| 2026-05-20 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +234.3 | GOOOOOOOOOOF, Xevikan, Yunniie, _n8, frankfurda |
-| 2026-05-15 | Solace | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -241.9 | GOOOOOOOOOOF, Xevikan, Yunniie, _n8, frankfurda |
+| 2026-05-22 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.01 | 0.26 | +349.3 | GOOOOOOOOOOF, Xevikan, Yunniie, _n8, frankfurda |
+| 2026-05-20 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +234.4 | GOOOOOOOOOOF, Xevikan, Yunniie, _n8, frankfurda |
+| 2026-05-15 | Solace | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -242.0 | GOOOOOOOOOOF, Xevikan, Yunniie, _n8, frankfurda |
 | 2026-05-08 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -2.4 | CloudCS, Xevikan, Yunniie, _n8, frankfurda |
 | 2026-05-06 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -264.2 | KyIar, Stro_-, Yunniie, _n8, frankfurda |
 | 2026-05-01 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +21.4 | Stro_-, Xevikan, Yunniie, _n8, frankfurda |
-| 2026-04-24 | Sedated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +418.1 | CloudCS, Stro_-, Yunniie, _n8, frankfurda |
-| 2026-04-23 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -248.0 | Stro_-, Xevikan, Yunniie, _n8, frankfurda |
+| 2026-04-24 | Sedated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +418.2 | CloudCS, Stro_-, Yunniie, _n8, frankfurda |
+| 2026-04-23 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -248.1 | Stro_-, Xevikan, Yunniie, _n8, frankfurda |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

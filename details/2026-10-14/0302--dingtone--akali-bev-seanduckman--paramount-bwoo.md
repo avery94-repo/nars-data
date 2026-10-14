@@ -3,15 +3,15 @@ Team Name: DingTone
 Roster: akali, bev, seanduckman, -paramount, BwOo
 NARS Rank: 302 of 506
 
-Final Rating: 1263.9
-Seeded Start: 1271.3
+Final Rating: 1263.8
+Seeded Start: 1271.2
 H2H Adjustment: -7.4
 
-Final Rating (1263.9) = Seeded Start (1271.3) + H2H Adjustment (-7.4)
+Final Rating (1263.8) = Seeded Start (1271.2) + H2H Adjustment (-7.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.122 x 1400 = 1271.3
+                = 1100 + 0.122 x 1400 = 1271.2
 
 seed_factor 0.122 = 0.25 x Tier Exposure (0.081) + 0.50 x Quality Wins (0.027) + 0.25 x Opponent Network (0.354)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.122 | 1271.3 | - |
-| +30 days | 0.108 | 1251.2 | -20.1 |
+| Now | 0.122 | 1271.2 | - |
+| +30 days | 0.108 | 1251.2 | -20.0 |
 | +60 days | 0.096 | 1234.6 | -36.7 |
-| +90 days | 0.074 | 1203.2 | -68.1 |
+| +90 days | 0.074 | 1203.3 | -68.0 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.081 vs 0.076 average, gap +0.005). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +350.2 |
-| SportsBetExpert | 6 | 2672.3 | +349.9 |
-| LAG Gaming | 8 | 2507.3 | +344.8 |
-| regain | 12 | 2256.1 | +343.6 |
-| M80 | 2 | 3081.4 | +342.5 |
+| NRG | 4 | 2835.7 | +350.0 |
+| SportsBetExpert | 6 | 2671.6 | +349.7 |
+| LAG Gaming | 8 | 2507.4 | +344.9 |
+| regain | 12 | 2256.1 | +343.7 |
+| M80 | 2 | 3081.4 | +342.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.4).
 
@@ -60,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | Epochal Esports | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.16 | 1.02 | +142.3 | -paramount, BwOo, akali, bev, div3ci |
 | 2026-08-28 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -37.9 | -paramount, BwOo, akali, bev, seanduckman |
-| 2026-08-26 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -66.2 | -paramount, BwOo, akali, bev, seanduckman |
+| 2026-08-26 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -66.3 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-08-21 | Exnitas | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -46.9 | -paramount, BwOo, bev, bryaNNN_, seanduckman |
 | 2026-08-19 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -90.2 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-08-14 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.05 | 0.92 | +34.8 | -paramount, akali, bev, bryaNNN_, seanduckman |
@@ -77,7 +77,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Fortis Fortuna Adiuvat | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -127.1 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-15 | Binky | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -122.2 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-13 | Bird Squishers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -302.8 | -paramount, BwOo, akali, bev, seanduckman |
-| 2026-05-12 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -215.4 | -paramount, BwOo, akali, bev, seanduckman |
+| 2026-05-12 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -215.5 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-08 | gooshedd | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +313.4 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-01 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -407.9 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-04-29 | CLUE IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +168.9 | -paramount, BwOo, akali, bev, seanduckman |

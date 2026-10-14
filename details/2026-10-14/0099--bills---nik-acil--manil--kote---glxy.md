@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +658.5 |
-| SportsBetExpert | 6 | 2672.3 | +649.0 |
-| M80 | 2 | 3081.4 | +648.4 |
+| NRG | 4 | 2835.7 | +657.9 |
+| M80 | 2 | 3081.4 | +648.3 |
+| SportsBetExpert | 6 | 2671.6 | +648.3 |
 | Wildcard | 3 | 2911.9 | +641.2 |
-| Liquid | 1 | 3103.3 | +639.4 |
+| Liquid | 1 | 3103.3 | +639.3 |
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0).
 
@@ -63,9 +63,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-02 | The Skins | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -219.7 | -MANIL-, -Nik, ACIL, glxy, jorkin_it |
-| 2026-05-31 | Evil Reunion | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.04 | 0.36 | +1.9 | -MANIL-, -Nik, ACIL, Kote--, glxy |
+| 2026-05-31 | Evil Reunion | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.04 | 0.36 | +1.8 | -MANIL-, -Nik, ACIL, Kote--, glxy |
 | 2026-05-29 | Squeegee | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -178.3 | -MANIL-, -Nik, ACIL, Kote--, glxy, jorkin_it |
-| 2026-05-22 | Slimy Boogermen | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.05 | 0.26 | +299.4 | -MANIL-, -Nik, ACIL, Kote--, glxy |
+| 2026-05-22 | Slimy Boogermen | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.05 | 0.26 | +299.5 | -MANIL-, -Nik, ACIL, Kote--, glxy |
 | 2026-05-21 | Skyline | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.09 | 0.25 | +15.2 | -MANIL-, -Nik, ACIL, Kote--, glxy |
 | 2026-05-13 | Automatic HQ | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -168.2 | -MANIL-, -Nik, ACIL, Kote--, glxy, raymer |
 | 2026-05-08 | BUCK NASTY | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +30.4 | -MANIL-, -Nik, ACIL, glxy, jorkin_it |

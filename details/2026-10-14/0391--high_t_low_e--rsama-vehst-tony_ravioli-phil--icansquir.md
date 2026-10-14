@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.7 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.1 |
 | regain | 12 | 2256.1 | +656.1 |
-| LAG Gaming | 8 | 2507.3 | +655.7 |
+| LAG Gaming | 8 | 2507.4 | +655.6 |
 | Zomblers | 22 | 2114.7 | +653.3 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.6), 3 Feet Of Meat (+1.2), shirtcockin (+1.8).
@@ -63,9 +63,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-18 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.20 | 0.00 | 0.00 | -10.2 | Phil-, Tony_Ravioli, Vehst, iCanSquirt, xdchet |
 | 2026-05-13 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -18.6 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
 | 2026-05-08 | Lan Bears | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -2.7 | Phil-, RSama, Tony_Ravioli, iCanSquirt, xdchet |
-| 2026-04-30 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -361.1 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
+| 2026-04-30 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -361.2 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
 | 2026-04-29 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -420.0 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
-| 2026-04-24 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +307.5 | Phil-, RSama, Tony_Ravioli, iCanSquirt, xdchet |
-| 2026-04-22 | Onsite has Oil | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +235.5 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
+| 2026-04-24 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +307.6 | Phil-, RSama, Tony_Ravioli, iCanSquirt, xdchet |
+| 2026-04-22 | Onsite has Oil | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +235.6 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

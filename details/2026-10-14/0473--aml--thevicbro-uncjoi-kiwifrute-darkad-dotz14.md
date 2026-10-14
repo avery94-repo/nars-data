@@ -3,11 +3,11 @@ Team Name: AML
 Roster: TheVicBro, uncjoi, KiWiFrute, darkAD, dotz14
 NARS Rank: 473 of 506
 
-Final Rating: 793.8
+Final Rating: 793.7
 Seeded Start: 1221.3
-H2H Adjustment: -427.5
+H2H Adjustment: -427.6 (capped at +-300, raw -427.5)
 
-Final Rating (793.8) = Seeded Start (1221.3) + H2H Adjustment (-427.5)
+Final Rating (793.7) = Seeded Start (1221.3) + H2H Adjustment (-427.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,23 +27,23 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.087 | 1221.3 | - |
 | +30 days | 0.074 | 1203.2 | -18.1 |
 | +60 days | 0.063 | 1188.4 | -32.9 |
-| +90 days | 0.043 | 1160.8 | -60.5 |
+| +90 days | 0.043 | 1160.8 | -60.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.019 vs 0.008 average, gap +0.011). Matching that average is worth about 0.0 seed points.
 
 - Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Intermediate A - Regular Season (2026-08-28) 0.88; Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-26) 0.71
 - Quality Wins drivers: beat Armored Talent at Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-25) 0.12; beat Cause and Effect Gaming at Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-26) 0.09; beat Solbound at S58 NA Intermediate A - Regular Season (2026-08-26) 0.07
-- Opponent Network drivers: beat Solbound at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat 37U Passion at S58 NA Intermediate A - Regular Season (2026-08-05) 0.73; beat Cause and Effect Gaming at Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-26) 0.71
+- Opponent Network drivers: beat Solbound at S58 NA Intermediate A - Regular Season (2026-08-26) 0.87; beat 37U Passion at S58 NA Intermediate A - Regular Season (2026-08-05) 0.73; beat Cause and Effect Gaming at Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) (2026-07-26) 0.70
 
 Best upside opponents (projected H2H gain for one win, estimate at current ratings):
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +629.8 |
-| SportsBetExpert | 6 | 2672.3 | +629.6 |
-| North Forge | 38 | 1971.1 | +627.4 |
-| Zomblers | 22 | 2114.7 | +626.4 |
-| Wanted Goons | 43 | 1933.1 | +626.2 |
+| NRG | 4 | 2835.7 | +629.3 |
+| SportsBetExpert | 6 | 2671.6 | +629.2 |
+| North Forge | 38 | 1971.1 | +627.5 |
+| Zomblers | 22 | 2114.7 | +626.5 |
+| Wanted Goons | 43 | 1933.1 | +626.4 |
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs CVC Retirement (2026-05-15): expires in 27 days [Quality Wins 0.00, Opponent Network 0.18]
@@ -57,22 +57,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -1.1 | Kelpomelpo, KiWiFrute, TheVicBro, darkAD, uncjoi |
 | 2026-08-28 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -58.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-08-26 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +57.5 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
-| 2026-08-14 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -121.3 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-08-14 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -121.4 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-08-12 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -104.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-08-05 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.03 | 0.73 | +120.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-29 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -177.6 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-26 | mas paspas | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -9.3 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
-| 2026-07-26 | Cause and Effect Gaming | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.09 | 0.71 | +332.5 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-07-26 | Cause and Effect Gaming | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.09 | 0.70 | +332.5 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-25 | Armored Talent | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.12 | 0.70 | +304.5 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
-| 2026-07-22 | Brothers United | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -62.8 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-07-22 | Brothers United | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -62.7 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-17 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -0.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-15 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -1.8 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
-| 2026-05-22 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -174.9 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
-| 2026-05-15 | CVC Retirement | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +283.9 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-05-22 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -175.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-05-15 | CVC Retirement | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +284.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-05-13 | Muncle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -2.7 | KiWiFrute, TheVicBro, csr_ph, darkAD, uncjoi |
-| 2026-05-12 | MakeYouSayLate | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -190.5 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-05-12 | MakeYouSayLate | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -190.6 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-05-06 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -19.1 | KiWiFrute, TheVicBro, csr_ph, darkAD, uncjoi |
 | 2026-04-29 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -324.7 | KiWiFrute, TheVicBro, csr_ph, darkAD, uncjoi, yullD |
-| 2026-04-22 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -277.9 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-04-22 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -278.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

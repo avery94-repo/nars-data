@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.8 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.2 |
 | regain | 12 | 2256.1 | +657.0 |
-| LAG Gaming | 8 | 2507.3 | +655.9 |
+| LAG Gaming | 8 | 2507.4 | +655.9 |
 | Zomblers | 22 | 2114.7 | +655.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.7).
@@ -60,12 +60,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-05 | The Agarthans | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -195.5 | KPak, M1xman, beast9, is_o, obiik1ng |
-| 2026-06-01 | Famas OP | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.01 | 0.30 | +292.3 | KPak, M1xman, beast9, is_o, obiik1ng |
+| 2026-06-05 | The Agarthans | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -195.6 | KPak, M1xman, beast9, is_o, obiik1ng |
+| 2026-06-01 | Famas OP | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.01 | 0.30 | +292.4 | KPak, M1xman, beast9, is_o, obiik1ng |
 | 2026-05-27 | Ninjas In Boxer | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -7.8 | KPak, M1xman, beast9, is_o, obiik1ng |
-| 2026-05-21 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -262.9 | Certified, M1xman, beast9, is_o, obiik1ng |
-| 2026-05-20 | GoonAssOldheads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -366.2 | Certified, M1xman, beast9, is_o, obiik1ng |
-| 2026-05-15 | The Sweepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +348.9 | KPak, M1xman, beast9, is_o, obiik1ng |
+| 2026-05-21 | Sleepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -263.0 | Certified, M1xman, beast9, is_o, obiik1ng |
+| 2026-05-20 | GoonAssOldheads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -366.3 | Certified, M1xman, beast9, is_o, obiik1ng |
+| 2026-05-15 | The Sweepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +349.0 | KPak, M1xman, beast9, is_o, obiik1ng |
 | 2026-05-13 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -10.3 | M1xman, beast9, fceitGOONING, is_o, obiik1ng |
 | 2026-05-08 | STFDYSAB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -3.3 | M1xman, beast9, fceitGOONING, is_o, obiik1ng |
 | 2026-05-05 | Hairy Scary Bandits | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -34.4 | M1xman, beast9, fceitGOONING, is_o, obiik1ng |

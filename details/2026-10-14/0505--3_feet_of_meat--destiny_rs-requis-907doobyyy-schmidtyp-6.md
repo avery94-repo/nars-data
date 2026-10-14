@@ -3,11 +3,11 @@ Team Name: 3 Feet Of Meat
 Roster: Destiny_Rs, requis, 907doobyyy, SchmidtyP, 6evan
 NARS Rank: 505 of 506
 
-Final Rating: 339.7
+Final Rating: 339.6
 Seeded Start: 1104.0
-H2H Adjustment: -764.3
+H2H Adjustment: -764.4
 
-Final Rating (339.7) = Seeded Start (1104.0) + H2H Adjustment (-764.3)
+Final Rating (339.6) = Seeded Start (1104.0) + H2H Adjustment (-764.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -41,8 +41,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 | :- | -: | -: | -: |
 | North Forge | 38 | 1971.1 | +667.2 |
 | Wanted Goons | 43 | 1933.1 | +667.0 |
-| NRG | 4 | 2836.4 | +665.3 |
-| SportsBetExpert | 6 | 2672.3 | +665.2 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.7 |
 | Zomblers | 22 | 2114.7 | +663.8 |
 
 Seed inputs expiring within 90 days:
@@ -54,7 +54,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Old Dads Banging | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -329.2 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
+| 2026-05-22 | Old Dads Banging | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -329.3 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
 | 2026-05-20 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -36.4 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
 | 2026-05-15 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -3.1 | 6evan, 907doobyyy, Destiny_Rs, Polarrberry, SchmidtyP |
 | 2026-05-13 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -9.6 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |

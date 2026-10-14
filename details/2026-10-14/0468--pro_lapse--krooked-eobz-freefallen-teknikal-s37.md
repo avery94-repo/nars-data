@@ -3,11 +3,11 @@ Team Name: Pro Lapse
 Roster: Krooked, eobz, freefallen, teknikal, S37
 NARS Rank: 468 of 506
 
-Final Rating: 822.4
+Final Rating: 822.3
 Seeded Start: 1185.0
-H2H Adjustment: -362.6 (capped at +-300, raw -362.7)
+H2H Adjustment: -362.7
 
-Final Rating (822.4) = Seeded Start (1185.0) + H2H Adjustment (-362.6)
+Final Rating (822.3) = Seeded Start (1185.0) + H2H Adjustment (-362.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.061 | 1185.0 | - |
 | +30 days | 0.045 | 1163.5 | -21.6 |
 | +60 days | 0.039 | 1154.7 | -30.4 |
-| +90 days | 0.027 | 1138.3 | -46.8 |
+| +90 days | 0.027 | 1138.3 | -46.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.041 vs 0.077 average, gap -0.036). Matching that average is worth about 12.6 seed points.
 
@@ -39,8 +39,8 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.1 |
+| NRG | 4 | 2835.7 | +664.7 |
+| SportsBetExpert | 6 | 2671.6 | +664.5 |
 | North Forge | 38 | 1971.1 | +661.7 |
 | Zomblers | 22 | 2114.7 | +661.2 |
 | Wanted Goons | 43 | 1933.1 | +660.3 |
@@ -71,13 +71,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -24.8 | Krooked, S37, eobz, freefallen, teknikal |
 | 2026-05-22 | Kaos | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -53.6 | BAU3R, Krooked, diatomic_, eobz, teknikal |
 | 2026-05-20 | BucketJonsBoys | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -247.1 | BAU3R, Krooked, diatomic_, eobz, teknikal |
-| 2026-05-15 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -255.7 | BAU3R, Krooked, S37, eobz, teknikal |
-| 2026-05-13 | Second Nature | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +377.1 | BAU3R, Krooked, S37, diatomic_, teknikal |
-| 2026-05-08 | Conscious Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -220.6 | BAU3R, Krooked, S37, freefallen, teknikal |
-| 2026-05-06 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +227.5 | BAU3R, Krooked, S37, eobz, teknikal |
+| 2026-05-15 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -255.8 | BAU3R, Krooked, S37, eobz, teknikal |
+| 2026-05-13 | Second Nature | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +377.2 | BAU3R, Krooked, S37, diatomic_, teknikal |
+| 2026-05-08 | Conscious Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -220.7 | BAU3R, Krooked, S37, freefallen, teknikal |
+| 2026-05-06 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +227.6 | BAU3R, Krooked, S37, eobz, teknikal |
 | 2026-05-01 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -84.7 | BAU3R, Krooked, S37, eobz, teknikal |
 | 2026-04-29 | SquadUp | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -384.0 | BAU3R, Krooked, S37, eobz, teknikal |
-| 2026-04-24 | Squeegee | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +99.1 | BAU3R, Krooked, diatomic_, eobz, teknikal |
-| 2026-04-22 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +269.7 | BAU3R, Krooked, diatomic_, eobz, teknikal |
+| 2026-04-24 | Squeegee | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +99.0 | BAU3R, Krooked, diatomic_, eobz, teknikal |
+| 2026-04-22 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +269.8 | BAU3R, Krooked, diatomic_, eobz, teknikal |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

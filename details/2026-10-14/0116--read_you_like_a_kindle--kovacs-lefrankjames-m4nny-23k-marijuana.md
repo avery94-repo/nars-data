@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.208 | 1390.9 | - |
 | +30 days | 0.200 | 1380.6 | -10.3 |
 | +60 days | 0.193 | 1370.9 | -20.0 |
-| +90 days | 0.181 | 1353.4 | -37.5 |
+| +90 days | 0.181 | 1353.7 | -37.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.112 vs 0.159 average, gap -0.047). Matching that average is worth about 16.5 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +221.9 |
-| SportsBetExpert | 6 | 2672.3 | +220.8 |
-| M80 | 2 | 3081.4 | +217.5 |
-| Wildcard | 3 | 2911.9 | +215.7 |
-| LAG Gaming | 8 | 2507.3 | +215.1 |
+| NRG | 4 | 2835.7 | +221.8 |
+| SportsBetExpert | 6 | 2671.6 | +220.6 |
+| M80 | 2 | 3081.4 | +217.6 |
+| Wildcard | 3 | 2911.9 | +215.8 |
+| LAG Gaming | 8 | 2507.4 | +215.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), Solbound (+0.0).
 
@@ -58,7 +58,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Binky | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +72.3 | El_RETRO, Kovacs, Marijuana, lefrankjames, m4nny |
 | 2026-10-07 | Florida Man | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.09 | 1.02 | +42.3 | El_RETRO, Kovacs, Marijuana, lefrankjames, m4nny |
 | 2026-09-15 | Asoka | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -22.8 | Kovacs, Marijuana, hotspitta, lefrankjames, m4nny |
-| 2026-09-12 | Salsas Mazzin Crew | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.03 | 1.00 | 1.02 | 0.08 | 1.02 | +65.5 | Kovacs, Marijuana, hotspitta, lefrankjames, m4nny |
+| 2026-09-12 | Salsas Mazzin Crew | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.03 | 1.00 | 1.02 | 0.08 | 1.02 | +65.6 | Kovacs, Marijuana, hotspitta, lefrankjames, m4nny |
 | 2026-09-10 | BucketJonsBoys | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.03 | 1.00 | 1.00 | 0.26 | 1.00 | +82.3 | Kovacs, Marijuana, hotspitta, lefrankjames, m4nny |
 | 2026-09-02 | Wiggle Peeks | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.03 | 1.00 | 0.95 | 0.10 | 0.95 | +9.2 | Kovacs, Marijuana, hotspitta, lefrankjames, m4nny |
 | 2026-08-28 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.07 | 0.90 | +33.8 | Kovacs, Marijuana, hotspitta, lefrankjames, m4nny |
@@ -70,16 +70,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -1.3 | 23k, Marijuana, lefrankjames, m4nny, notta |
 | 2026-07-31 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -195.9 | 23k, Marijuana, lefrankjames, m4nny, notta |
 | 2026-07-29 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.09 | 0.70 | +128.9 | 23k, Marijuana, lefrankjames, m4nny, notta |
-| 2026-07-24 | Les Ptis Jus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.06 | 0.66 | +384.5 | 23k, Marijuana, lefrankjames, m4nny, notta |
-| 2026-07-17 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -4.5 | 23k, c4ble, gray_hat, lefrankjames, m4nny |
+| 2026-07-24 | Les Ptis Jus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.06 | 0.66 | +384.6 | 23k, Marijuana, lefrankjames, m4nny, notta |
+| 2026-07-17 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -4.5 | 23k, c4ble, gray_hat, lefrankjames, m4nny |
 | 2026-07-15 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.05 | 0.60 | +434.7 | 23k, c4ble, gray_hat, lefrankjames, m4nny |
 | 2026-05-21 | TEMPR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -149.2 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
-| 2026-05-20 | FUELED BY HATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -276.2 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
-| 2026-05-15 | HUMA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -368.7 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
+| 2026-05-20 | FUELED BY HATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -276.3 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
+| 2026-05-15 | HUMA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -368.8 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
 | 2026-05-13 | gooshedd | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +152.8 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
-| 2026-05-08 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +354.8 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
+| 2026-05-08 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +354.9 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
 | 2026-05-06 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -7.7 | 23k, Marijuana, c4ble, lefrankjames, m4nny |
-| 2026-05-01 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -202.6 | 23k, Marijuana, c4ble, lefrankjames, m4nny |
+| 2026-05-01 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -202.7 | 23k, Marijuana, c4ble, lefrankjames, m4nny |
 | 2026-04-29 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -4.1 | 23k, Marijuana, c4ble, lefrankjames, m4nny |
 | 2026-04-24 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -374.8 | 23k, Marijuana, c4ble, lefrankjames, m4nny |
 

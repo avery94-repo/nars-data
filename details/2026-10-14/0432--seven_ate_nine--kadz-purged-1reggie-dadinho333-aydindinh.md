@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.2 |
-| SportsBetExpert | 6 | 2672.3 | +665.0 |
+| NRG | 4 | 2835.7 | +664.6 |
+| SportsBetExpert | 6 | 2671.6 | +664.4 |
 | regain | 12 | 2256.1 | +658.5 |
 | Zomblers | 22 | 2114.7 | +658.3 |
-| FarmVille | 16 | 2167.5 | +656.6 |
+| FarmVille | 16 | 2167.6 | +656.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.7).
 
@@ -60,8 +60,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Team NK | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -159.7 | 1REGGIE, 1pierce, OGAIPlayer, cthoni, redh3ad |
 | 2026-09-01 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.91 | 1.02 | 1.00 | 0.93 | 0.00 | 0.00 | -0.4 | 1REGGIE, 1pierce, Conquest_--, OGAIPlayer, cthoni |
 | 2026-06-10 | Better at WOT | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.00 | -152.0 | 1REGGIE, Dadinho333, Kadz, aydindinho, purGed |
-| 2026-06-03 | steph curry of our hood | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +161.0 | 1REGGIE, Dadinho333, Kadz, aydindinho, purGed |
-| 2026-05-30 | Dust II Bandits | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +188.0 | 1REGGIE, Dadinho333, Kadz, aydindinho, purGed |
+| 2026-06-03 | steph curry of our hood | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +161.1 | 1REGGIE, Dadinho333, Kadz, aydindinho, purGed |
+| 2026-05-30 | Dust II Bandits | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +188.1 | 1REGGIE, Dadinho333, Kadz, aydindinho, purGed |
 | 2026-05-27 | HigherEducation | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -210.9 | 1REGGIE, Dadinho333, Kadz, aydindinho, purGed |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

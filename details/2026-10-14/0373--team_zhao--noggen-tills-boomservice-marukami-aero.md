@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +239.0 |
-| SportsBetExpert | 6 | 2672.3 | +238.9 |
+| NRG | 4 | 2835.7 | +238.8 |
+| SportsBetExpert | 6 | 2671.6 | +238.7 |
 | regain | 12 | 2256.1 | +236.4 |
-| Zomblers | 22 | 2114.7 | +236.1 |
-| LAG Gaming | 8 | 2507.3 | +235.7 |
+| Zomblers | 22 | 2114.7 | +236.2 |
+| LAG Gaming | 8 | 2507.4 | +235.8 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+0.9).
 
@@ -59,6 +59,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | T Shirt Material | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.04 | 0.96 | +102.5 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-06 | Symbiose | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +98.1 | Marukami, Tills, aero, noggen, s4bre |
 | 2026-09-04 | fiveB | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -123.6 | BoomService, Marukami, Tills, aero, noggen, signifcnt |
-| 2026-09-02 | Duality Gaming | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.04 | 0.92 | +60.0 | BoomService, Marukami, Tills, aero, signifcnt |
+| 2026-09-02 | Duality Gaming | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.04 | 0.92 | +59.9 | BoomService, Marukami, Tills, aero, signifcnt |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.221 | 1409.7 | - |
-| +30 days | 0.198 | 1377.1 | -32.7 |
-| +60 days | 0.179 | 1350.6 | -59.2 |
-| +90 days | 0.144 | 1302.0 | -107.7 |
+| +30 days | 0.198 | 1377.0 | -32.7 |
+| +60 days | 0.179 | 1350.5 | -59.2 |
+| +90 days | 0.144 | 1302.2 | -107.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.077 vs 0.050 average, gap +0.027). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +476.5 |
-| SportsBetExpert | 6 | 2672.3 | +473.2 |
-| M80 | 2 | 3081.4 | +467.4 |
-| Wildcard | 3 | 2911.9 | +463.4 |
-| Liquid | 1 | 3103.3 | +460.9 |
+| NRG | 4 | 2835.7 | +476.5 |
+| SportsBetExpert | 6 | 2671.6 | +473.2 |
+| M80 | 2 | 3081.4 | +467.8 |
+| Wildcard | 3 | 2911.9 | +463.8 |
+| Liquid | 1 | 3103.3 | +461.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -55,7 +55,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-12 | GeneticDiff | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.03 | 1.00 | 1.02 | 0.00 | 0.00 | -44.0 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
+| 2026-09-12 | GeneticDiff | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.03 | 1.00 | 1.02 | 0.00 | 0.00 | -44.1 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-09-11 | FlyQuest RED | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.33 | 1.00 | 1.30 | 0.00 | 0.00 | -40.7 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-09-10 | BONK | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.03 | 1.00 | 1.00 | 0.08 | 1.00 | +50.6 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-09-08 | Demolition | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.27 | 0.19 | 1.27 | +13.1 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
@@ -75,17 +75,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.00 | +53.4 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-07-31 | Kairo | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.09 | 0.71 | +221.3 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-07-29 | Quality | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.05 | 0.70 | +148.7 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
-| 2026-07-24 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.05 | 0.66 | +87.7 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
+| 2026-07-24 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.05 | 0.66 | +87.8 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-07-22 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +144.7 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
-| 2026-07-17 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.03 | 0.61 | +269.4 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
+| 2026-07-17 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.03 | 0.61 | +269.5 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-05-20 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -222.4 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-15 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -262.3 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
-| 2026-05-13 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +127.5 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
+| 2026-05-13 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +127.4 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-08 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +1.5 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-06 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +1.0 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-01 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +400.1 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-04-29 | Another Day in Paradise | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -41.6 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-04-23 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -31.5 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
-| 2026-04-22 | three11 | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -355.7 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
+| 2026-04-22 | three11 | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -355.8 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

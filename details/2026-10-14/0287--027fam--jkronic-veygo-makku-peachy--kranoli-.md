@@ -3,11 +3,11 @@ Team Name: 027fam
 Roster: JKronic, veygo, makku, Peachy-, Kranoli-
 NARS Rank: 287 of 506
 
-Final Rating: 1296.2
+Final Rating: 1296.1
 Seeded Start: 1268.0
-H2H Adjustment: +28.2
+H2H Adjustment: +28.1
 
-Final Rating (1296.2) = Seeded Start (1268.0) + H2H Adjustment (+28.2)
+Final Rating (1296.1) = Seeded Start (1268.0) + H2H Adjustment (+28.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.120 | 1268.0 | - |
 | +30 days | 0.080 | 1211.7 | -56.3 |
 | +60 days | 0.050 | 1170.5 | -97.5 |
-| +90 days | 0.029 | 1139.9 | -128.1 |
+| +90 days | 0.029 | 1140.0 | -128.0 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.071 vs 0.096 average, gap -0.025). Matching that average is worth about 8.8 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.071 vs 0.096 average, gap -0.025). Matching that average is worth about 8.7 seed points.
 
 - Tier Exposure drivers: S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; S57 NA Main Central - Playoffs (2026-06-15) 0.48; S57 NA Main Central - Regular Season (2026-05-22) 0.26
 - Quality Wins drivers: beat Pug Palace at S58 NA Advanced Central - Regular Season (2026-08-14) 0.12; beat GRIT at S58 NA Advanced Central - Regular Season (2026-07-31) 0.11; beat Team Hyper at S58 NA Advanced Central - Regular Season (2026-07-17) 0.09
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +664.6 |
-| SportsBetExpert | 6 | 2672.3 | +663.5 |
-| LAG Gaming | 8 | 2507.3 | +652.6 |
-| M80 | 2 | 3081.4 | +650.2 |
+| NRG | 4 | 2835.7 | +664.0 |
+| SportsBetExpert | 6 | 2671.6 | +662.9 |
+| LAG Gaming | 8 | 2507.4 | +652.5 |
+| M80 | 2 | 3081.4 | +650.1 |
 | Wildcard | 3 | 2911.9 | +645.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.2), Courage (+0.3), SixSevenZaZa (+0.5).
@@ -74,8 +74,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-30 | firesale | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.45 | 1.00 | 1.00 | 0.00 | 0.00 | -137.7 | JKronic, Kranoli-, Peachy-, makku, veygo |
 | 2026-07-23 | Holly Molly | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.93 | 0.00 | 0.00 | -298.2 | JKronic, Kranoli-, Peachy-, makku, veygo |
 | 2026-07-17 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.09 | 0.87 | +1.1 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-07-16 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -343.9 | JKronic, Kranoli-, Peachy-, makku, veygo |
-| 2026-06-15 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.39 | 1.24 | 1.00 | 0.48 | 0.00 | 0.00 | -198.9 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-07-16 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -344.0 | JKronic, Kranoli-, Peachy-, makku, veygo |
+| 2026-06-15 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.39 | 1.24 | 1.00 | 0.48 | 0.00 | 0.00 | -199.0 | JKronic, Kranoli-, Peachy-, makku, veygo |
 | 2026-06-13 | Elation | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.38 | 1.24 | 1.00 | 0.47 | 0.03 | 0.47 | +215.6 | JKronic, Kranoli-, Peachy-, makku, veygo |
 | 2026-06-09 | Crimson Vortex | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.35 | 1.24 | 1.00 | 0.43 | 0.04 | 0.43 | +189.4 | JKronic, Kranoli-, Peachy-, makku, veygo |
 | 2026-06-02 | Slimy Boogermen | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -141.2 | JKronic, Kranoli-, Peachy-, makku, veygo |

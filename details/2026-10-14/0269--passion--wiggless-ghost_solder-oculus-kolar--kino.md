@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.159 | 1322.7 | - |
 | +30 days | 0.136 | 1290.5 | -32.2 |
-| +60 days | 0.120 | 1268.5 | -54.3 |
-| +90 days | 0.094 | 1231.3 | -91.4 |
+| +60 days | 0.120 | 1268.4 | -54.3 |
+| +90 days | 0.094 | 1231.4 | -91.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.037 vs 0.022 average, gap +0.015). Matching that average is worth about 0.0 seed points.
 
@@ -39,18 +39,18 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +305.7 |
-| SportsBetExpert | 6 | 2672.3 | +305.3 |
-| LAG Gaming | 8 | 2507.3 | +300.6 |
-| M80 | 2 | 3081.4 | +299.0 |
+| NRG | 4 | 2835.7 | +305.5 |
+| SportsBetExpert | 6 | 2671.6 | +305.1 |
+| LAG Gaming | 8 | 2507.4 | +300.6 |
+| M80 | 2 | 3081.4 | +299.1 |
 | regain | 12 | 2256.1 | +298.2 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs UnitedStatesArmy Esports (2026-05-20): expires in 32 days [Quality Wins 0.02]
-- S57 NA Main Central - Regular Season vs CLUE IN (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.01, Opponent Network 0.26]
 - S57 NA Main Central - Regular Season vs grogu (2026-05-22): expires in 34 days [Opponent Network 0.26]
+- S57 NA Main Central - Regular Season vs CLUE IN (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.01, Opponent Network 0.26]
 - S58 NA Main A - Regular Season vs Chopped (2026-07-15): expires in 88 days [Quality Wins 0.07, Opponent Network 0.60]
 
 #### Matches (21 qualifying)
@@ -69,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.07 | 0.84 | +139.0 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-08-14 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -7.6 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-08-12 | Bird Lickers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -167.5 | -Kino-, Kolar, Rybreadd, ghost_solder, wiggless |
-| 2026-08-07 | Dude Picks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.09 | 0.76 | +156.6 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
+| 2026-08-07 | Dude Picks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.09 | 0.76 | +156.7 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-08-05 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -118.2 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-07-31 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.03 | 0.71 | +0.4 | -Kino-, Kolar, ghost_solder, oculus, wiggless |
 | 2026-07-29 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.04 | 0.70 | +68.0 | -Kino-, Kolar, ghost_solder, oculus, wiggless |

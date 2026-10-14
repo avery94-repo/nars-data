@@ -3,15 +3,15 @@ Team Name: Slimy Boogermen
 Roster: Mikeyz, balogna, mexicanMAGE, chaseJESUS, thanosboy
 NARS Rank: 34 of 506
 
-Final Rating: 1997.3
-Seeded Start: 1598.1
-H2H Adjustment: +399.2 (capped at +-300, raw +399.3)
+Final Rating: 1997.4
+Seeded Start: 1598.0
+H2H Adjustment: +399.4 (capped at +-300, raw +399.3)
 
-Final Rating (1997.3) = Seeded Start (1598.1) + H2H Adjustment (+399.2)
+Final Rating (1997.4) = Seeded Start (1598.0) + H2H Adjustment (+399.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.356 x 1400 = 1598.1
+                = 1100 + 0.356 x 1400 = 1598.0
 
 seed_factor 0.356 = 0.25 x Tier Exposure (0.179) + 0.50 x Quality Wins (0.231) + 0.25 x Opponent Network (0.782)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.356 | 1598.1 | - |
+| Now | 0.356 | 1598.0 | - |
 | +30 days | 0.316 | 1543.0 | -55.1 |
 | +60 days | 0.283 | 1496.7 | -101.3 |
-| +90 days | 0.227 | 1417.2 | -180.9 |
+| +90 days | 0.227 | 1417.9 | -180.1 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.179 vs 0.277 average, gap -0.098). Matching that average is worth about 34.3 seed points.
 
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +329.3 |
-| M80 | 2 | 3081.4 | +328.6 |
-| Liquid | 1 | 3103.3 | +324.1 |
-| Wildcard | 3 | 2911.9 | +322.3 |
-| SportsBetExpert | 6 | 2672.3 | +316.4 |
+| NRG | 4 | 2835.7 | +329.3 |
+| M80 | 2 | 3081.4 | +328.9 |
+| Liquid | 1 | 3103.3 | +324.5 |
+| Wildcard | 3 | 2911.9 | +322.6 |
+| SportsBetExpert | 6 | 2671.6 | +316.3 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Feels MAIN Man (+0.0), FourStrokeGang (+0.0), HUMA (+0.0), SNOWPLOWERS (+0.0), EZ2025 (+0.0).
 
@@ -60,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-15 | NuTorious | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -41.2 | core 3/5 |
 | 2026-09-13 | Holy Squid Empire | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.99 | 1.55 | 1.00 | 1.54 | 0.27 | 1.54 | +64.1 | --perhaps, Mikeyz, balogna, siN_ZJ, thanosboy |
 | 2026-09-04 | Endless Esports | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.93 | 1.55 | 1.00 | 1.44 | 0.24 | 1.44 | +58.4 | Mikeyz, balogna, chaseJESUS, siN_ZJ, thanosboy |
-| 2026-09-03 | Club 333 | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.92 | 1.55 | 1.00 | 1.43 | 0.00 | 0.00 | -115.4 | CHIMPPP, Mikeyz, balogna, siN_ZJ, thanosboy |
+| 2026-09-03 | Club 333 | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.92 | 1.55 | 1.00 | 1.43 | 0.00 | 0.00 | -115.5 | CHIMPPP, Mikeyz, balogna, siN_ZJ, thanosboy |
 | 2026-08-29 | EMPIRE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.45 | 1.00 | 1.30 | 1.07 | 1.30 | +146.4 | --perhaps, Mikeyz, balogna, chaseJESUS, thanosboy |
 | 2026-08-26 | NuTorious | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.00 | 0.00 | -5.8 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
 | 2026-08-21 | Aspyre | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.12 | 1.21 | +4.3 | Mikeyz, balogna, chaseJESUS, siN_ZJ, thanosboy |
@@ -76,19 +76,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Shimmer | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -356.8 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
 | 2026-07-15 | House Platypus ESC | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.05 | 0.85 | +0.0 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
 | 2026-06-04 | Squeegee | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.03 | 0.39 | +193.3 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
-| 2026-06-02 | 027fam | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.03 | 0.38 | +141.5 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
-| 2026-05-31 | VOID ALUNE | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.07 | 0.36 | +181.0 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
+| 2026-06-02 | 027fam | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.03 | 0.38 | +141.6 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
+| 2026-05-31 | VOID ALUNE | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.07 | 0.36 | +181.1 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
 | 2026-05-29 | DKR Esports | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.04 | 0.34 | +53.9 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
-| 2026-05-22 | Bills | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -303.3 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
-| 2026-05-20 | Automatic HQ | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.04 | 0.25 | +298.1 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
-| 2026-05-15 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -248.3 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
+| 2026-05-22 | Bills | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -303.4 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
+| 2026-05-20 | Automatic HQ | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.04 | 0.25 | +298.2 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
+| 2026-05-15 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -248.4 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
 | 2026-05-13 | WhalersOnDaMoon | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.03 | 0.19 | +159.2 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
 | 2026-05-08 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.04 | 0.16 | +185.5 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
-| 2026-05-06 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +127.4 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
-| 2026-05-01 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.00 | +155.7 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
+| 2026-05-06 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +127.5 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
+| 2026-05-01 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.00 | +155.8 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
 | 2026-04-29 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -184.1 | Mikeyz, chaseJESUS, mexicanMAGE, siN_ZJ, thanosboy |
 | 2026-04-28 | qcclan | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.15 | 1.00 | 0.08 | 0.01 | 0.08 | +271.0 | Mikeyz, balogna, chaseJESUS, mexicanMAGE, thanosboy |
-| 2026-04-24 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +161.7 | balogna, chaseJESUS, mexicanMAGE, siN_ZJ, thanosboy |
+| 2026-04-24 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +161.8 | balogna, chaseJESUS, mexicanMAGE, siN_ZJ, thanosboy |
 | 2026-04-22 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -352.6 | Mikeyz, balogna, chaseJESUS, siN_ZJ, thanosboy |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -4,14 +4,14 @@ Roster: Catcracker, HunterCruzer, zulan, Flap, P4nda
 NARS Rank: 374 of 506
 
 Final Rating: 1116.3
-Seeded Start: 1284.1
-H2H Adjustment: -167.8
+Seeded Start: 1284.0
+H2H Adjustment: -167.7
 
-Final Rating (1116.3) = Seeded Start (1284.1) + H2H Adjustment (-167.8)
+Final Rating (1116.3) = Seeded Start (1284.0) + H2H Adjustment (-167.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.131 x 1400 = 1284.1
+                = 1100 + 0.131 x 1400 = 1284.0
 
 seed_factor 0.131 = 0.25 x Tier Exposure (0.085) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.393)
 
@@ -24,9 +24,9 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.131 | 1284.1 | - |
+| Now | 0.131 | 1284.0 | - |
 | +30 days | 0.109 | 1251.9 | -32.1 |
-| +60 days | 0.095 | 1233.2 | -50.9 |
+| +60 days | 0.095 | 1233.2 | -50.8 |
 | +90 days | 0.072 | 1200.8 | -83.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.024 vs 0.014 average, gap +0.010). Matching that average is worth about 0.0 seed points.
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.0 |
-| SportsBetExpert | 6 | 2672.3 | +664.6 |
-| LAG Gaming | 8 | 2507.3 | +655.3 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.0 |
+| LAG Gaming | 8 | 2507.4 | +655.3 |
 | regain | 12 | 2256.1 | +654.8 |
-| FarmVille | 16 | 2167.5 | +650.7 |
+| FarmVille | 16 | 2167.6 | +650.7 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.8), shirtcockin (+1.2), Courage (+1.5).
 
@@ -68,17 +68,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -121.3 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-08-07 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -214.9 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-08-05 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.04 | 0.74 | +75.6 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
-| 2026-07-31 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.06 | 0.71 | +188.3 | Catcracker, Cypher64, Flap, HunterCruzer, P4nda |
+| 2026-07-31 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.06 | 0.71 | +188.4 | Catcracker, Cypher64, Flap, HunterCruzer, P4nda |
 | 2026-07-29 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.04 | 0.70 | +251.0 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-07-24 | puggin4seb | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -21.3 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-07-22 | MINDTRIP | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -67.1 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
-| 2026-07-17 | Salsas Mazzin Crew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -35.3 | Cypher64, Flap, Kohnert, P4nda, zulan |
+| 2026-07-17 | Salsas Mazzin Crew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -35.2 | Cypher64, Flap, Kohnert, P4nda, zulan |
 | 2026-07-15 | Solar Gravity | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -403.7 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-06-02 | Oath | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -21.5 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-05-27 | Meepins | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -131.0 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-05-20 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.00 | +35.3 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-05-15 | 91AshLiu | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -77.7 | Cypher64, Flap, HunterCruzer, P4nda, zulan |
-| 2026-05-13 | Relativity | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +408.8 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
+| 2026-05-13 | Relativity | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +408.9 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-05-08 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -342.0 | Cypher64, Flap, HunterCruzer, P4nda, zulan |
 | 2026-05-06 | strawberry poptarts | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +172.7 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-04-30 | High T Low E | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +357.4 | Catcracker, Flap, HunterCruzer, P4nda, zulan |

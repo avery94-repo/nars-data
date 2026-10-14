@@ -13,7 +13,7 @@ Final Rating (1566.7) = Seeded Start (1280.6) + H2H Adjustment (+286.1)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.129 x 1400 = 1280.6
 
-seed_factor 0.129 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.389)
+seed_factor 0.129 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.389)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.129 | 1280.6 | - |
 | +30 days | 0.133 | 1286.3 | +5.7 |
 | +60 days | 0.135 | 1288.7 | +8.2 |
-| +90 days | 0.138 | 1293.6 | +13.0 |
+| +90 days | 0.138 | 1293.8 | +13.2 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.071 vs 0.110 average, gap -0.039). Matching that average is worth about 13.7 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.072 vs 0.110 average, gap -0.038). Matching that average is worth about 13.3 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs B (2026-09-15) 1.04; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00
 - Quality Wins drivers: beat ASCEND at S58 NA Open9-10 East - Playoffs B (2026-09-10) 0.15; beat After Peak at S59 NA Intermediate A - Regular Season (2026-10-07) 0.09; beat Samantha 4 at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07
@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +435.5 |
-| SportsBetExpert | 6 | 2672.3 | +433.3 |
-| M80 | 2 | 3081.4 | +426.7 |
-| Wildcard | 3 | 2911.9 | +423.3 |
-| LAG Gaming | 8 | 2507.3 | +422.5 |
+| NRG | 4 | 2835.7 | +435.2 |
+| SportsBetExpert | 6 | 2671.6 | +433.0 |
+| M80 | 2 | 3081.4 | +426.8 |
+| Wildcard | 3 | 2911.9 | +423.4 |
+| LAG Gaming | 8 | 2507.4 | +422.6 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 
@@ -58,7 +58,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | ClanAgain | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.07 | 1.02 | +78.2 | LightPat, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-10 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.15 | 1.01 | +93.8 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-06 | Afterimage | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.00 | 0.00 | -130.4 | -DacS-, dirtydan, kDuffy, kryph, ronin7 |
-| 2026-09-04 | WhiteWASHED | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +113.3 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
+| 2026-09-04 | WhiteWASHED | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +113.3 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-02 | Bone Smokers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +117.8 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

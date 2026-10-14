@@ -39,11 +39,11 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +484.6 |
-| SportsBetExpert | 6 | 2672.3 | +484.3 |
-| regain | 12 | 2256.1 | +478.1 |
-| LAG Gaming | 8 | 2507.3 | +477.7 |
-| Zomblers | 22 | 2114.7 | +476.1 |
+| NRG | 4 | 2835.7 | +484.5 |
+| SportsBetExpert | 6 | 2671.6 | +484.2 |
+| regain | 12 | 2256.1 | +478.4 |
+| LAG Gaming | 8 | 2507.4 | +478.0 |
+| Zomblers | 22 | 2114.7 | +476.4 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.3), 3 Feet Of Meat (+0.6), shirtcockin (+0.9), Courage (+1.1), SixSevenZaZa (+1.9).
 
@@ -75,12 +75,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -22.1 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-07-22 | Wide Swinging Wizards | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +243.5 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-07-19 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -0.0 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
-| 2026-07-19 | Empressive | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.03 | 0.62 | +191.7 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
-| 2026-07-19 | Koi Pond | L | 0-1 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -15.8 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
+| 2026-07-19 | Empressive | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.03 | 0.62 | +191.8 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
+| 2026-07-19 | Koi Pond | L | 0-1 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -15.7 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
 | 2026-07-18 | THE GUILD | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.02 | 1.00 | 0.62 | 0.00 | 0.00 | -27.6 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-07-17 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +338.0 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-05-19 | dead team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -0.5 | AuroraVeee, Bouchyy, PippySippy, Space-Bogan, adk |
-| 2026-05-06 | Solar Gravity | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -294.3 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
+| 2026-05-06 | Solar Gravity | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -294.4 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-05-05 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -11.1 | AuroraVeee, Bouchyy, PippySippy, Space-Bogan, adk |
 | 2026-04-30 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -42.2 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-04-29 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.10 | 0.00 | 0.00 | -0.0 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |

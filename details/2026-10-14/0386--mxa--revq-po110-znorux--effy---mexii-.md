@@ -4,14 +4,14 @@ Roster: Revq, po110, Znorux, -effy-, -Mexii-
 NARS Rank: 386 of 506
 
 Final Rating: 1090.8
-Seeded Start: 1114.2
-H2H Adjustment: -23.4
+Seeded Start: 1114.1
+H2H Adjustment: -23.3
 
-Final Rating (1090.8) = Seeded Start (1114.2) + H2H Adjustment (-23.4)
+Final Rating (1090.8) = Seeded Start (1114.1) + H2H Adjustment (-23.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.010 x 1400 = 1114.2
+                = 1100 + 0.010 x 1400 = 1114.1
 
 seed_factor 0.010 = 0.25 x Tier Exposure (0.009) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.028)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.010 | 1114.2 | - |
+| Now | 0.010 | 1114.1 | - |
 | +30 days | 0.000 | 1100.5 | -13.7 |
-| +60 days | 0.000 | 1100.0 | -14.2 |
-| +90 days | 0.000 | 1100.0 | -14.2 |
+| +60 days | 0.000 | 1100.0 | -14.1 |
+| +90 days | 0.000 | 1100.0 | -14.1 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.028 vs 0.350 average, gap -0.322). Matching that average is worth about 112.7 seed points.
 
@@ -39,10 +39,10 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +665.1 |
-| SportsBetExpert | 6 | 2672.3 | +664.7 |
+| NRG | 4 | 2835.7 | +664.5 |
+| SportsBetExpert | 6 | 2671.6 | +664.1 |
 | regain | 12 | 2256.1 | +655.6 |
-| LAG Gaming | 8 | 2507.3 | +655.5 |
+| LAG Gaming | 8 | 2507.4 | +655.5 |
 | Zomblers | 22 | 2114.7 | +652.3 |
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+1.1), shirtcockin (+1.6), Courage (+1.9).
@@ -64,8 +64,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -293.9 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-12 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +219.1 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-01 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +71.0 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-04-29 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +245.1 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-04-24 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +255.5 | -Mexii-, -effy-, 1Tenshi, Znorux, po110 |
+| 2026-04-29 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +245.2 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-04-24 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +255.6 | -Mexii-, -effy-, 1Tenshi, Znorux, po110 |
 | 2026-04-23 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -284.7 | -Mexii-, -effy-, 1Tenshi, Znorux, po110 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

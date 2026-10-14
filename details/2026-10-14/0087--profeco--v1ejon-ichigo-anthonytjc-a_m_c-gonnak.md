@@ -39,9 +39,9 @@ Best upside opponents (projected H2H gain for one win, estimate at current ratin
 
 | Opponent | Rank | Rating | Projected gain |
 | :- | -: | -: | -: |
-| NRG | 4 | 2836.4 | +656.8 |
-| M80 | 2 | 3081.4 | +647.9 |
-| SportsBetExpert | 6 | 2672.3 | +644.9 |
+| NRG | 4 | 2835.7 | +656.1 |
+| M80 | 2 | 3081.4 | +647.8 |
+| SportsBetExpert | 6 | 2671.6 | +644.2 |
 | Wildcard | 3 | 2911.9 | +639.9 |
 | Liquid | 1 | 3103.3 | +638.9 |
 
@@ -61,7 +61,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Bird Squishers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +233.3 | AnthonyTJC, CULIACAN, Flack--, Ichigo, Nivek1ngg, V1ejon |
 | 2026-05-20 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +222.9 | AnthonyTJC, Ichigo, Kai206, V1ejon, a_m_c |
-| 2026-05-13 | the dragon warrior scroll | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -237.3 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
+| 2026-05-13 | the dragon warrior scroll | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -237.4 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
 | 2026-05-08 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.02 | 0.16 | +313.8 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
 | 2026-05-06 | Salsas Mazzin Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +205.4 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
 | 2026-04-29 | GOOZPEEK | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -381.1 | AnthonyTJC, Gonnak, Ichigo, V1ejon, a_m_c |
