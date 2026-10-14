@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.122 | 1271.2 | - |
 | +30 days | 0.108 | 1251.2 | -20.0 |
 | +60 days | 0.096 | 1234.5 | -36.6 |
-| +90 days | 0.074 | 1203.2 | -68.0 |
+| +90 days | 0.074 | 1203.2 | -67.9 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.081 vs 0.076 average, gap +0.005). Matching that average is worth about 0.0 seed points.
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Kaos | 139 | +347.0 | +180.1 | +19.5 |
-| Team Amplus | 145 | +330.4 | +202.4 | +18.5 |
-| Kevin James Fan Club | 148 | +317.1 | +192.2 | +17.7 |
+| Kaos | 138 | +347.0 | +180.2 | +19.5 |
+| Elusive | 141 | +340.6 | +227.3 | +18.6 |
+| Team Amplus | 145 | +330.5 | +202.4 | +18.5 |
+| Kevin James Fan Club | 148 | +317.1 | +192.2 | +17.8 |
 | Biggie Cheese Fan Club | 151 | +312.8 | +174.0 | +17.5 |
 | WhiteBoyWinter | 155 | +302.9 | +181.0 | +16.7 |
 | offBalance | 165 | +278.5 | +177.7 | +14.2 |
 | Order Zero | 156 | +301.0 | +161.4 | +13.7 |
 | Oath | 142 | +338.4 | +168.6 | +13.3 |
-| Pug Palace | 167 | +272.0 | +180.3 | +13.3 |
-| BucketJonsBoys | 172 | +269.2 | +172.1 | +13.0 |
+| Pug Palace | 167 | +272.1 | +180.4 | +13.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +338.1 points at current ratings.
 
@@ -76,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | Epochal Esports | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.16 | 1.02 | +142.4 | -paramount, BwOo, akali, bev, div3ci |
-| 2026-08-28 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -37.9 | -paramount, BwOo, akali, bev, seanduckman |
+| 2026-08-28 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -38.0 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-08-26 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -66.3 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-08-21 | Exnitas | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -46.9 | -paramount, BwOo, bev, bryaNNN_, seanduckman |
 | 2026-08-19 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -90.3 | -paramount, BwOo, akali, bev, seanduckman |
@@ -92,12 +92,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -5.5 | -paramount, akali, bev, div3ci, seanduckman |
 | 2026-05-22 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -38.3 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-20 | Fortis Fortuna Adiuvat | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -127.1 | -paramount, BwOo, akali, bev, seanduckman |
-| 2026-05-15 | Binky | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -122.2 | -paramount, BwOo, akali, bev, seanduckman |
+| 2026-05-15 | Binky | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -122.3 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-13 | Bird Squishers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -303.0 | -paramount, BwOo, akali, bev, seanduckman |
-| 2026-05-12 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -215.6 | -paramount, BwOo, akali, bev, seanduckman |
+| 2026-05-12 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -215.7 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-08 | gooshedd | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.01 | 0.15 | +313.6 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-01 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -408.1 | -paramount, BwOo, akali, bev, seanduckman |
-| 2026-04-29 | CLUE IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +168.9 | -paramount, BwOo, akali, bev, seanduckman |
+| 2026-04-29 | CLUE IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +169.0 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-04-24 | SNOWPLOWERS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +295.3 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-04-22 | F1lthy Puggers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -216.9 | -paramount, BwOo, akali, bev, seanduckman |
 

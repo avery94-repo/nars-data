@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.178 | 1348.6 | - |
 | +30 days | 0.165 | 1331.0 | -17.6 |
 | +60 days | 0.154 | 1315.4 | -33.2 |
-| +90 days | 0.133 | 1285.8 | -62.9 |
+| +90 days | 0.133 | 1285.9 | -62.7 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.062 vs 0.022 average, gap +0.040). Matching that average is worth about 0.0 seed points.
 
@@ -42,7 +42,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | VARTOVIK | 217 | 1449.9 | +3.9 | +143.5 |
 | GOYPEEKING | 216 | 1450.0 | +4.0 | +136.2 |
 | Defaulting | 215 | 1451.7 | +5.7 | +141.9 |
-| HiveMind | 214 | 1456.6 | +10.6 | +141.4 |
+| HiveMind | 214 | 1456.6 | +10.6 | +141.5 |
 | Nomadic Tactics | 213 | 1456.6 | +10.6 | +132.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,17 +50,17 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | GeneticDiff | 70 | +346.9 | +264.9 | +25.0 |
-| Asoka | 74 | +337.3 | +247.1 | +24.7 |
-| Kairo | 79 | +332.9 | +242.9 | +24.5 |
-| fih hou | 73 | +339.7 | +275.1 | +24.3 |
-| firesale | 82 | +322.2 | +258.3 | +23.7 |
-| Club 333 | 76 | +336.3 | +297.4 | +23.6 |
-| CNCS Last Hope | 72 | +342.7 | +221.8 | +23.5 |
-| Diggers | 86 | +317.4 | +233.0 | +23.5 |
-| mas paspas | 75 | +337.0 | +285.8 | +23.1 |
-| Fire Nation | 90 | +303.7 | +238.2 | +21.7 |
+| Asoka | 74 | +337.3 | +247.2 | +24.7 |
+| Kairo | 79 | +333.0 | +243.0 | +24.5 |
+| fih hou | 73 | +339.7 | +275.2 | +24.3 |
+| firesale | 82 | +322.3 | +258.4 | +23.7 |
+| Club 333 | 76 | +336.4 | +297.6 | +23.6 |
+| CNCS Last Hope | 72 | +342.7 | +221.9 | +23.5 |
+| Diggers | 86 | +317.6 | +233.2 | +23.5 |
+| mas paspas | 75 | +337.0 | +285.9 | +23.1 |
+| Fire Nation | 90 | +303.7 | +238.3 | +21.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +465.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +465.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -69,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-20 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.13 | 0.00 | +62.4 | Minxy, Rush_X, Syn, madss, torii |
+| 2026-09-20 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.13 | 0.00 | +62.3 | Minxy, Rush_X, Syn, madss, torii |
 | 2026-09-20 | Belladonna | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +1.6 | Minxy, Rush_X, Syn, madss, torii |
 | 2026-09-20 | Suboptimal counterstrike | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +24.1 | Minxy, Rush_X, Syn, madss, torii |
 | 2026-09-20 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -35.5 | Minxy, Rush_X, Syn, madss, torii |

@@ -3,11 +3,11 @@ Team Name: YHUBEPCAM
 Roster: swayy, Offnik322, Bongo-_-, zdoroviy666, Naswai
 NARS Rank: 31 of 506
 
-Final Rating: 2004.1
+Final Rating: 2004.2
 Seeded Start: 1353.6
-H2H Adjustment: +650.5
+H2H Adjustment: +650.6 (capped at +-300, raw +650.5)
 
-Final Rating (2004.1) = Seeded Start (1353.6) + H2H Adjustment (+650.5)
+Final Rating (2004.2) = Seeded Start (1353.6) + H2H Adjustment (+650.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.181 | 1353.6 | - |
 | +30 days | 0.149 | 1308.5 | -45.1 |
-| +60 days | 0.120 | 1268.0 | -85.7 |
-| +90 days | 0.080 | 1212.5 | -141.1 |
+| +60 days | 0.120 | 1268.0 | -85.6 |
+| +90 days | 0.080 | 1212.6 | -141.0 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.091 vs 0.188 average, gap -0.097). Matching that average is worth about 33.9 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Priority | 30 | 2004.8 | +0.7 | +162.5 |
-| VOID ALUNE | 29 | 2007.9 | +3.8 | +163.5 |
-| babaG | 28 | 2008.8 | +4.7 | +175.3 |
-| Automatic HQ | 27 | 2030.9 | +26.8 | +184.7 |
-| raisedbypixels | 26 | 2034.4 | +30.3 | +171.9 |
+| Priority | 30 | 2004.8 | +0.6 | +162.5 |
+| VOID ALUNE | 29 | 2007.9 | +3.7 | +163.5 |
+| babaG | 28 | 2009.0 | +4.8 | +175.4 |
+| Automatic HQ | 27 | 2030.9 | +26.7 | +184.7 |
+| raisedbypixels | 26 | 2034.6 | +30.4 | +172.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Desi Boyz | 11 | +328.4 | +344.4 | +22.5 |
-| regain | 12 | +252.1 | +333.0 | +17.0 |
-| Detonate | 13 | +242.6 | +299.1 | +7.8 |
-| Brahmas | 14 | +203.4 | +246.2 | +1.4 |
-| Zomblers | 22 | +110.6 | +235.1 | -0.0 |
-| VOID ALUNE | 29 | +3.8 | +163.5 | -0.0 |
-| Olympus | 25 | +35.6 | +186.1 | -0.0 |
-| Priority | 30 | +0.7 | +162.5 | -0.0 |
-| Iowa Stormboar | 21 | +111.8 | +235.5 | -0.1 |
-| Automatic HQ | 27 | +26.8 | +184.7 | -0.1 |
+| Desi Boyz | 11 | +328.6 | +344.5 | +22.5 |
+| regain | 12 | +252.2 | +333.1 | +17.0 |
+| Detonate | 13 | +242.8 | +299.2 | +7.9 |
+| Brahmas | 14 | +203.5 | +246.3 | +1.4 |
+| Zomblers | 22 | +110.7 | +235.2 | -0.0 |
+| VOID ALUNE | 29 | +3.7 | +163.5 | -0.0 |
+| Olympus | 25 | +35.6 | +186.2 | -0.0 |
+| Priority | 30 | +0.6 | +162.5 | -0.0 |
+| Iowa Stormboar | 21 | +111.9 | +235.6 | -0.1 |
+| Automatic HQ | 27 | +26.7 | +184.7 | -0.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +632.5 points at current ratings.
 
@@ -88,7 +88,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-04 | VOID ALUNE | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.08 | 0.39 | +80.4 | Bongo-_-, Diodor, Naswai, Offnik322, swayy |
 | 2026-06-02 | DNA | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.37 | 0.01 | 0.37 | +70.1 | Bongo-_-, Naswai, Offnik322, Ot7o, swayy, zdoroviy666 |
 | 2026-05-31 | Kurrupted Mindz | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.02 | 0.36 | +121.2 | Bongo-_-, Naswai, Offnik322, Ot7o, swayy, zdoroviy666 |
-| 2026-05-29 | Skyline | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -319.2 | Bongo-_-, Offnik322, Ot7o, swayy, zdoroviy666 |
+| 2026-05-29 | Skyline | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -319.3 | Bongo-_-, Offnik322, Ot7o, swayy, zdoroviy666 |
 | 2026-05-23 | Team Amplus | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.24 | 1.15 | 1.00 | 0.27 | 0.05 | 0.27 | +150.5 | Bongo-_-, Naswai, Offnik322, swayy, zdoroviy666 |
 | 2026-05-20 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +212.4 | Bongo-_-, Offnik322, Ot7o, swayy, zdoroviy666 |
 | 2026-05-15 | Asoka | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -421.9 | Bongo-_-, Naswai, Offnik322, swayy, zdoroviy666 |

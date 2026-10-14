@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.093 | 1230.2 | - |
 | +30 days | 0.091 | 1227.8 | -2.4 |
 | +60 days | 0.091 | 1226.8 | -3.4 |
-| +90 days | 0.089 | 1224.6 | -5.6 |
+| +90 days | 0.089 | 1224.6 | -5.5 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.259 vs 0.301 average, gap -0.042). Matching that average is worth about 14.7 seed points.
 
@@ -39,9 +39,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| N w G | 254 | 1375.2 | +2.1 | +73.5 |
+| N w G | 254 | 1375.2 | +2.1 | +73.6 |
 | Eightball | 253 | 1375.6 | +2.5 | +82.3 |
-| Dude Picks | 252 | 1377.5 | +4.4 | +86.5 |
+| Dude Picks | 252 | 1377.5 | +4.4 | +86.6 |
 | strawberry poptarts | 251 | 1377.7 | +4.6 | +75.2 |
 | The Kerbins | 250 | 1378.6 | +5.5 | +84.3 |
 
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Axial | 101 | +333.3 | +139.1 | +13.3 |
-| FlyQuest RED | 97 | +347.6 | +162.6 | +13.3 |
-| Addice | 102 | +329.4 | +163.2 | +13.0 |
-| New Legends | 103 | +322.3 | +166.1 | +12.7 |
-| Holy Squid Empire | 108 | +305.6 | +137.1 | +12.1 |
-| Black Dragon Society | 109 | +297.6 | +147.7 | +11.7 |
-| Hadouken | 100 | +336.7 | +120.6 | +10.8 |
-| Read You Like a Kindle | 116 | +281.6 | +146.2 | +10.6 |
-| Bills | 99 | +338.8 | +120.8 | +10.2 |
-| eefsports | 112 | +291.1 | +114.7 | +9.9 |
+| Axial | 100 | +333.5 | +139.1 | +13.4 |
+| FlyQuest RED | 96 | +347.7 | +162.6 | +13.3 |
+| Addice | 101 | +329.6 | +163.3 | +13.0 |
+| New Legends | 102 | +322.4 | +166.2 | +12.7 |
+| Holy Squid Empire | 107 | +305.8 | +137.1 | +12.2 |
+| Black Dragon Society | 108 | +297.6 | +147.7 | +11.7 |
+| Hadouken | 99 | +336.7 | +120.6 | +10.8 |
+| Read You Like a Kindle | 115 | +281.6 | +146.2 | +10.6 |
+| Bills | 98 | +338.8 | +120.9 | +10.2 |
+| eefsports | 111 | +291.1 | +114.7 | +9.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +231.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +231.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
 

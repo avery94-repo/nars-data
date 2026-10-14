@@ -3,11 +3,11 @@ Team Name: Asian Invasion
 Roster: shlenny, 1stobie, dKim, Muppet, SwigglyP
 NARS Rank: 308 of 506
 
-Final Rating: 1250.7
+Final Rating: 1250.8
 Seeded Start: 1123.1
-H2H Adjustment: +127.6
+H2H Adjustment: +127.7
 
-Final Rating (1250.7) = Seeded Start (1123.1) + H2H Adjustment (+127.6)
+Final Rating (1250.8) = Seeded Start (1123.1) + H2H Adjustment (+127.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Team Nyx | 307 | 1253.2 | +2.5 | +169.6 |
-| Anchors Anonymous | 306 | 1256.2 | +5.5 | +164.1 |
-| HeatPeek | 305 | 1258.6 | +7.9 | +164.8 |
-| Guangzhou Loong Lions | 304 | 1259.9 | +9.2 | +172.4 |
-| TELETUBEASTS | 303 | 1263.2 | +12.5 | +177.5 |
+| Team Nyx | 307 | 1253.2 | +2.4 | +169.6 |
+| Anchors Anonymous | 306 | 1256.1 | +5.3 | +164.1 |
+| HeatPeek | 305 | 1258.6 | +7.8 | +164.7 |
+| Guangzhou Loong Lions | 304 | 1259.9 | +9.1 | +172.4 |
+| TELETUBEASTS | 303 | 1263.2 | +12.4 | +177.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Team Amplus | 145 | +343.5 | +340.9 | +31.6 |
-| Biggie Cheese Fan Club | 151 | +325.9 | +295.3 | +30.7 |
-| Kevin James Fan Club | 148 | +330.2 | +323.6 | +30.7 |
-| WhiteBoyWinter | 155 | +316.0 | +304.8 | +29.3 |
-| offBalance | 165 | +291.6 | +297.1 | +25.6 |
-| Order Zero | 156 | +314.1 | +275.1 | +24.9 |
-| Pug Palace | 167 | +285.1 | +300.2 | +24.2 |
+| Biggie Cheese Fan Club | 151 | +325.8 | +295.3 | +30.7 |
+| Kevin James Fan Club | 148 | +330.1 | +323.5 | +30.7 |
+| WhiteBoyWinter | 155 | +315.9 | +304.8 | +29.3 |
+| offBalance | 165 | +291.5 | +297.1 | +25.6 |
+| Order Zero | 156 | +314.0 | +275.1 | +24.9 |
+| Pug Palace | 167 | +285.1 | +300.3 | +24.2 |
 | BucketJonsBoys | 172 | +282.3 | +287.8 | +24.0 |
-| Shaboing Boing Bandits | 173 | +279.9 | +309.8 | +23.2 |
-| Armored Talent | 174 | +279.1 | +316.0 | +22.9 |
+| Shaboing Boing Bandits | 173 | +279.8 | +309.8 | +23.2 |
+| Armored Talent | 174 | +279.1 | +315.9 | +22.9 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -82,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-12 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.01 | 0.22 | +179.8 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-05-08 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -379.8 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-05-05 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.35 | 1.00 | 0.15 | 0.02 | 0.15 | +11.2 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
-| 2026-05-01 | KODEX ESPORTS | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.02 | 0.12 | +405.3 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
+| 2026-05-01 | KODEX ESPORTS | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.02 | 0.12 | +405.4 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-04-30 | counterstrike Team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -63.4 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-04-24 | SOLA | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.06 | 0.00 | 0.00 | -42.1 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.053 | 1173.6 | - |
 | +30 days | 0.041 | 1157.8 | -15.7 |
 | +60 days | 0.040 | 1155.6 | -17.9 |
-| +90 days | 0.038 | 1152.6 | -21.0 |
+| +90 days | 0.038 | 1152.6 | -20.9 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.044 vs 0.057 average, gap -0.013). Matching that average is worth about 4.6 seed points.
 
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| The Agarthans | 333 | 1212.0 | +1.4 | +152.0 |
+| The Agarthans | 333 | 1212.0 | +1.4 | +152.1 |
 | Solace | 332 | 1213.1 | +2.5 | +153.2 |
 | Tall Ocean Rats | 331 | 1214.2 | +3.6 | +152.7 |
 | Brobies | 330 | 1215.4 | +4.8 | +165.4 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| offBalance | 165 | +331.7 | +294.5 | +28.9 |
-| BucketJonsBoys | 172 | +322.4 | +285.2 | +28.0 |
-| Pug Palace | 167 | +325.2 | +298.5 | +27.9 |
-| Firstwave | 175 | +316.4 | +284.0 | +27.3 |
-| Shaboing Boing Bandits | 173 | +320.0 | +309.7 | +27.3 |
-| Armored Talent | 174 | +319.2 | +316.7 | +27.0 |
+| offBalance | 165 | +331.7 | +294.6 | +28.9 |
+| BucketJonsBoys | 172 | +322.5 | +285.3 | +28.0 |
+| Pug Palace | 167 | +325.3 | +298.7 | +27.9 |
+| Firstwave | 175 | +316.4 | +284.1 | +27.3 |
+| Shaboing Boing Bandits | 173 | +320.0 | +309.8 | +27.3 |
+| Armored Talent | 174 | +319.3 | +316.8 | +27.0 |
 | APEX | 176 | +311.3 | +291.0 | +26.6 |
 | GOOZPEEK | 182 | +302.5 | +295.4 | +25.3 |
-| LAF | 183 | +300.7 | +282.6 | +25.2 |
-| Shadow Wizard Money Gang | 180 | +305.3 | +331.5 | +24.8 |
+| LAF | 183 | +300.7 | +282.7 | +25.2 |
+| Shadow Wizard Money Gang | 180 | +305.5 | +331.6 | +24.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +581.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +581.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 

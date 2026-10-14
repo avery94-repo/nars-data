@@ -11,9 +11,9 @@ Final Rating (1239.7) = Seeded Start (1121.7) + H2H Adjustment (+118.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.016 x 1400 = 1121.7
+                = 1100 + 0.015 x 1400 = 1121.7
 
-seed_factor 0.016 = 0.25 x Tier Exposure (0.011) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.045)
+seed_factor 0.015 = 0.25 x Tier Exposure (0.011) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.045)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,12 +24,12 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.016 | 1121.7 | - |
+| Now | 0.015 | 1121.7 | - |
 | +30 days | 0.001 | 1101.8 | -19.9 |
 | +60 days | 0.000 | 1100.0 | -21.7 |
 | +90 days | 0.000 | 1100.0 | -21.7 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.045 vs 0.260 average, gap -0.215). Matching that average is worth about 75.2 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.045 vs 0.260 average, gap -0.215). Matching that average is worth about 75.3 seed points.
 
 - Tier Exposure drivers: S57 NA Advanced Central - Regular Season (2026-05-22) 0.31
 - Quality Wins drivers: beat Pug Palace at S57 NA Advanced Central - Regular Season (2026-05-19) 0.03; beat House Platypus ESC at S57 NA Advanced Central - Regular Season (2026-05-21) 0.02; beat Baatarz at S57 NA Advanced Central - Regular Season (2026-04-30) 0.00
@@ -39,9 +39,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Baatarz | 314 | 1241.2 | +1.5 | +162.8 |
+| Baatarz | 314 | 1241.5 | +1.8 | +162.8 |
 | Better at WOT | 313 | 1246.5 | +6.8 | +167.0 |
-| juked | 312 | 1246.5 | +6.8 | +165.9 |
+| juked | 312 | 1246.5 | +6.8 | +165.8 |
 | Yogaball Frags | 311 | 1246.7 | +7.0 | +164.5 |
 | Mach 10 | 310 | 1246.7 | +7.0 | +164.5 |
 
@@ -51,13 +51,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | Biggie Cheese Fan Club | 151 | +336.9 | +300.0 | +31.9 |
 | Kevin James Fan Club | 148 | +341.2 | +329.2 | +31.7 |
-| WhiteBoyWinter | 155 | +327.0 | +310.1 | +30.6 |
+| WhiteBoyWinter | 155 | +327.0 | +310.0 | +30.6 |
 | offBalance | 165 | +302.6 | +302.5 | +27.4 |
 | Order Zero | 156 | +325.1 | +279.3 | +26.2 |
-| Pug Palace | 167 | +296.1 | +305.9 | +26.1 |
-| BucketJonsBoys | 172 | +293.3 | +293.0 | +26.0 |
+| Pug Palace | 167 | +296.2 | +305.9 | +26.1 |
+| BucketJonsBoys | 172 | +293.4 | +293.0 | +26.0 |
 | Shaboing Boing Bandits | 173 | +290.9 | +316.0 | +25.2 |
-| Armored Talent | 174 | +290.1 | +322.5 | +24.9 |
+| Armored Talent | 174 | +290.2 | +322.5 | +24.9 |
 | Firstwave | 175 | +287.3 | +291.4 | +24.9 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
@@ -75,14 +75,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.00 | -191.3 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
+| 2026-05-22 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.00 | 0.00 | -191.4 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
 | 2026-05-21 | House Platypus ESC | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.02 | 0.30 | +133.2 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
-| 2026-05-20 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -184.3 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
+| 2026-05-20 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -184.2 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
 | 2026-05-19 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.03 | 0.28 | +442.5 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
 | 2026-05-13 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -2.1 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, mikey_xx |
 | 2026-05-07 | Aspyre | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -26.6 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
 | 2026-05-01 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.00 | -185.7 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
-| 2026-04-30 | Baatarz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.11 | +454.7 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
+| 2026-04-30 | Baatarz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.11 | +454.8 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
 | 2026-04-28 | Villainous | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.00 | 0.00 | -0.1 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
 | 2026-04-23 | Elisir Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.00 | 0.00 | -322.3 | FearlesBeatl, ODG_LUSIDD, Saintz, _SnowMan-, finite |
 

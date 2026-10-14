@@ -3,11 +3,11 @@ Team Name: mokey mokey
 Roster: iggy, trey-, russtbh, stattik, hayden1502
 NARS Rank: 188 of 506
 
-Final Rating: 1503.7
+Final Rating: 1503.8
 Seeded Start: 1210.2
-H2H Adjustment: +293.5
+H2H Adjustment: +293.6
 
-Final Rating (1503.7) = Seeded Start (1210.2) + H2H Adjustment (+293.5)
+Final Rating (1503.8) = Seeded Start (1210.2) + H2H Adjustment (+293.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Vibe Check | 187 | 1503.9 | +0.2 | +167.3 |
-| Alternate Earth | 186 | 1504.0 | +0.3 | +172.4 |
-| KIS | 185 | 1506.7 | +3.0 | +166.6 |
-| QUPMANACS | 184 | 1510.3 | +6.6 | +164.0 |
-| LAF | 183 | 1511.3 | +7.6 | +170.9 |
+| Vibe Check | 187 | 1503.9 | +0.1 | +167.4 |
+| Alternate Earth | 186 | 1504.0 | +0.2 | +172.4 |
+| KIS | 185 | 1506.7 | +2.9 | +166.6 |
+| QUPMANACS | 184 | 1510.3 | +6.5 | +164.1 |
+| LAF | 183 | 1511.3 | +7.5 | +170.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +322.8 | +331.8 | +29.9 |
-| Endless Esports | 65 | +322.3 | +334.4 | +29.7 |
-| DUMBO | 63 | +323.4 | +365.3 | +28.4 |
-| NZ Gaming | 69 | +309.5 | +305.9 | +28.2 |
-| WhalersOnDaMoon | 66 | +318.2 | +337.9 | +28.1 |
-| GeneticDiff | 70 | +289.2 | +305.8 | +24.9 |
-| F5 Esports | 60 | +331.6 | +350.7 | +23.7 |
-| fih hou | 73 | +282.0 | +314.5 | +23.4 |
-| Asoka | 74 | +279.6 | +286.9 | +23.3 |
-| Club 333 | 76 | +278.6 | +335.1 | +22.5 |
+| flat earth | 64 | +322.8 | +331.9 | +29.9 |
+| Endless Esports | 65 | +322.3 | +334.6 | +29.7 |
+| DUMBO | 63 | +323.3 | +365.4 | +28.4 |
+| NZ Gaming | 69 | +309.6 | +306.1 | +28.2 |
+| WhalersOnDaMoon | 66 | +318.1 | +338.0 | +28.1 |
+| GeneticDiff | 70 | +289.1 | +305.9 | +24.9 |
+| F5 Esports | 60 | +331.7 | +350.9 | +23.7 |
+| fih hou | 73 | +281.9 | +314.6 | +23.4 |
+| Asoka | 74 | +279.5 | +286.9 | +23.3 |
+| Club 333 | 76 | +278.6 | +335.2 | +22.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +635.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +635.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
 
@@ -70,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-10 | Cortex Jellies | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.08 | 1.01 | +98.9 | hayden1502, iggy, russtbh, stattik, trey- |
-| 2026-09-08 | Coop De Grace | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +77.1 | hayden1502, iggy, russtbh, stattik, trey- |
+| 2026-09-08 | Coop De Grace | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +77.2 | hayden1502, iggy, russtbh, stattik, trey- |
 | 2026-09-06 | Pocket Snatchers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.03 | 0.98 | +88.2 | USToaster, hayden1502, iggy, russtbh, stattik |
 | 2026-09-04 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -107.6 | hayden1502, iggy, russtbh, stattik, trey- |
 | 2026-09-02 | Trinity | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +136.9 | hayden1502, iggy, russtbh, stattik, trey- |

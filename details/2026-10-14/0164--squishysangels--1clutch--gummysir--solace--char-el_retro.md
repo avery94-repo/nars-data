@@ -52,15 +52,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | No Future Lifes Over | 50 | +343.7 | +333.1 | +31.8 |
 | DESPAIR | 49 | +345.2 | +333.7 | +31.5 |
 | TheMotherLovers | 53 | +334.5 | +340.4 | +30.7 |
-| Phantom Sense | 51 | +340.3 | +400.0 | +29.7 |
-| Omen Esports | 57 | +314.3 | +352.5 | +27.3 |
-| GG | 52 | +338.0 | +284.2 | +25.0 |
-| flat earth | 64 | +283.0 | +311.5 | +24.3 |
-| Endless Esports | 65 | +282.5 | +313.7 | +24.1 |
-| DUMBO | 63 | +283.6 | +340.1 | +23.3 |
+| Phantom Sense | 51 | +340.4 | +400.1 | +29.7 |
+| Omen Esports | 57 | +314.5 | +352.6 | +27.3 |
+| GG | 52 | +338.0 | +284.3 | +25.0 |
+| flat earth | 64 | +283.1 | +311.5 | +24.3 |
+| Endless Esports | 65 | +282.6 | +313.8 | +24.1 |
+| DUMBO | 63 | +283.6 | +340.2 | +23.3 |
 | WhalersOnDaMoon | 66 | +278.4 | +316.3 | +22.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -79,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-31 | Hadouken | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -312.1 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir, y3ji |
+| 2026-05-31 | Hadouken | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -312.2 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir, y3ji |
 | 2026-05-29 | DETONATE | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -11.6 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |
 | 2026-05-27 | Storm Surge | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.32 | 0.05 | 0.00 | +136.8 | -solacE-, Char, El_RETRO, GummySir, y3ji |
 | 2026-05-22 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.03 | 0.26 | +15.3 | -solacE-, 1Clutch-, Char, El_RETRO, GummySir |

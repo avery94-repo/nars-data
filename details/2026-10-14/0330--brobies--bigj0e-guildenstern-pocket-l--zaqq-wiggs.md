@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.051 | 1171.0 | - |
 | +30 days | 0.050 | 1169.8 | -1.2 |
 | +60 days | 0.049 | 1168.8 | -2.2 |
-| +90 days | 0.048 | 1167.5 | -3.6 |
+| +90 days | 0.048 | 1167.5 | -3.5 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.121 vs 0.173 average, gap -0.052). Matching that average is worth about 18.2 seed points.
 
@@ -40,8 +40,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Double Dink | 329 | 1220.6 | +5.2 | +65.4 |
-| Goon Squad | 328 | 1221.9 | +6.5 | +64.0 |
-| PogSquad | 327 | 1222.5 | +7.1 | +74.1 |
+| Goon Squad | 328 | 1221.8 | +6.4 | +64.0 |
+| PogSquad | 327 | 1222.5 | +7.1 | +74.2 |
 | Transcended | 326 | 1223.3 | +7.9 | +68.6 |
 | innerFire | 325 | 1224.2 | +8.8 | +68.5 |
 
@@ -49,15 +49,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| offBalance | 165 | +326.9 | +117.6 | +11.4 |
-| Pug Palace | 167 | +320.4 | +120.0 | +11.1 |
-| BucketJonsBoys | 172 | +317.6 | +114.0 | +11.1 |
+| offBalance | 165 | +326.9 | +117.7 | +11.4 |
+| Pug Palace | 167 | +320.5 | +120.0 | +11.1 |
+| BucketJonsBoys | 172 | +317.7 | +114.0 | +11.1 |
 | Shaboing Boing Bandits | 173 | +315.2 | +125.7 | +10.9 |
-| Armored Talent | 174 | +314.4 | +129.1 | +10.9 |
+| Armored Talent | 174 | +314.5 | +129.1 | +10.9 |
 | Firstwave | 175 | +311.6 | +113.8 | +10.8 |
 | APEX | 176 | +306.5 | +117.5 | +10.6 |
-| Order Zero | 156 | +349.4 | +104.7 | +10.4 |
-| Shadow Wizard Money Gang | 180 | +300.5 | +137.6 | +10.1 |
+| Order Zero | 156 | +349.4 | +104.8 | +10.4 |
+| Shadow Wizard Money Gang | 180 | +300.7 | +137.7 | +10.2 |
 | GOOZPEEK | 182 | +297.7 | +120.4 | +10.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +195.6 points at current ratings.
@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | VARTOVIK | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -57.8 | Guildenstern, PinkTM, Pocket-l-, Swerv0, ZAQQ |
 | 2026-09-10 | AscendentEsport | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -106.8 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
 | 2026-09-06 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -134.6 | BIGJ0E, Guildenstern, Tristy_, WiggSplitter, ZAQQ |
-| 2026-09-04 | Knox Esports | W | 1-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +32.3 | BIGJ0E, Guildenstern, TheArtist, WiggSplitter, ZAQQ |
+| 2026-09-04 | Knox Esports | W | 1-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +32.4 | BIGJ0E, Guildenstern, TheArtist, WiggSplitter, ZAQQ |
 | 2026-09-02 | Will of Dih | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.04 | 0.92 | +360.6 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

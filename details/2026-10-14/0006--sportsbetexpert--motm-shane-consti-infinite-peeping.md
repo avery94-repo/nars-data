@@ -3,11 +3,11 @@ Team Name: SportsBetExpert
 Roster: motm, shane, consti, Infinite, Peeping
 NARS Rank: 6 of 506
 
-Final Rating: 2671.7
+Final Rating: 2671.9
 Seeded Start: 2460.1
-H2H Adjustment: +211.6
+H2H Adjustment: +211.8
 
-Final Rating (2671.7) = Seeded Start (2460.1) + H2H Adjustment (+211.6)
+Final Rating (2671.9) = Seeded Start (2460.1) + H2H Adjustment (+211.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,19 +39,19 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Voca | 5 | 2796.5 | +124.8 | +40.1 |
-| NRG | 4 | 2835.7 | +164.0 | +45.2 |
-| Wildcard | 3 | 2912.0 | +240.3 | +49.2 |
-| M80 | 2 | 3081.4 | +409.7 | +58.5 |
-| Liquid | 1 | 3103.3 | +431.6 | +58.3 |
+| Voca | 5 | 2796.6 | +124.7 | +40.1 |
+| NRG | 4 | 2835.8 | +163.9 | +45.2 |
+| Wildcard | 3 | 2911.9 | +240.0 | +49.1 |
+| M80 | 2 | 3081.4 | +409.5 | +58.5 |
+| Liquid | 1 | 3103.4 | +431.5 | +58.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Wildcard | 3 | +240.3 | +49.2 | +2.1 |
-| NRG | 4 | +164.0 | +45.2 | -0.0 |
-| Voca | 5 | +124.8 | +40.1 | -0.4 |
+| Wildcard | 3 | +240.0 | +49.1 | +2.1 |
+| NRG | 4 | +163.9 | +45.2 | -0.0 |
+| Voca | 5 | +124.7 | +40.1 | -0.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +58.3 points at current ratings.
 
@@ -87,7 +87,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 1.06 | 0.00 | +9.3 | core 3/5 |
 | 2026-09-10 | FarmVille | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 1.55 | 0.00 | +2.9 | core 3/5 |
 | 2026-09-06 | LAG Gaming | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 1.48 | 0.00 | +38.6 | Infinite, Peeping, consti, motm, shane |
-| 2026-09-06 | Marsborne | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 1.47 | 1.51 | +71.9 | Infinite, Peeping, consti, motm, shane |
+| 2026-09-06 | Marsborne | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 1.47 | 1.51 | +72.0 | Infinite, Peeping, consti, motm, shane |
 | 2026-09-05 | Club 333 | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.94 | 1.55 | 1.00 | 1.45 | 1.12 | 1.45 | +0.8 | Infinite, Peeping, consti, motm, shane |
 | 2026-09-05 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.50 | 1.02 | 1.50 | +22.3 | core 3/5 |
 | 2026-09-04 | Desi Boyz | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.93 | 1.60 | 1.00 | 1.49 | 1.26 | 1.49 | +19.4 | Infinite, Peeping, consti, motm, shane |
@@ -104,7 +104,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | LAG Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 1.23 | 1.26 | +149.0 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-21 | EMPIRE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.45 | 1.00 | 1.21 | 1.00 | 1.21 | +15.8 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-17 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.45 | 1.00 | 1.17 | 1.17 | 1.17 | +21.4 | Infinite, Peeping, consti, motm, shane |
-| 2026-08-14 | Zomblers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.14 | 1.00 | 1.14 | +67.5 | Infinite, Peeping, consti, motm, shane |
+| 2026-08-14 | Zomblers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.14 | 1.00 | 1.14 | +67.6 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-13 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.14 | 0.00 | 0.00 | -100.5 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-07 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.00 | 0.00 | -257.8 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-02 | Marsborne | W | 2-0 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.71 | 1.60 | 1.00 | 1.13 | 1.10 | 0.00 | +57.0 | Infinite, Peeping, consti, motm, shane |
@@ -121,13 +121,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-23 | Olympus | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.93 | 0.60 | 0.93 | +18.3 | Infinite, Peeping, consti, motm, shane |
 | 2026-07-12 | NRG | L | 1-3 | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.00 | 0.00 | -115.5 | core 3/5 |
 | 2026-07-12 | Desi Boyz | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.77 | 0.00 | +8.7 | core 3/5 |
-| 2026-07-12 | Villainous | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.79 | 0.91 | +103.0 | core 3/5 |
-| 2026-05-31 | Marsborne | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.00 | 0.00 | -214.1 | core 3/5 |
-| 2026-05-31 | Reign Above | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.32 | 0.00 | +83.0 | core 3/5 |
-| 2026-05-30 | Chicken Coop | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -267.0 | core 3/5 |
-| 2026-05-30 | LAG Gaming | W |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.44 | 0.00 | +216.4 | core 3/5 |
-| 2026-05-30 | NXG | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.34 | 0.00 | +23.9 | core 3/5 |
+| 2026-07-12 | Villainous | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.79 | 0.91 | +103.1 | core 3/5 |
+| 2026-05-31 | Marsborne | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.00 | 0.00 | -214.0 | core 3/5 |
+| 2026-05-31 | Reign Above | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.32 | 0.00 | +82.5 | core 3/5 |
+| 2026-05-30 | Chicken Coop | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -266.6 | core 3/5 |
+| 2026-05-30 | LAG Gaming | W |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.44 | 0.00 | +216.3 | core 3/5 |
+| 2026-05-30 | NXG | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.34 | 0.00 | +23.7 | core 3/5 |
 | 2026-05-24 | EX-AETHER | W |  | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.31 | 0.00 | +70.0 | core 3/5 |
-| 2026-05-24 | Marsborne | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.38 | 0.00 | +15.5 | core 3/5 |
+| 2026-05-24 | Marsborne | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.38 | 0.00 | +15.9 | core 3/5 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -43,22 +43,22 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | UncsStillGotIt | 191 | 1499.3 | +2.2 | +174.0 |
 | No Leaders Please | 190 | 1499.4 | +2.3 | +172.5 |
 | Lynnsanity | 189 | 1500.0 | +2.9 | +172.8 |
-| mokey mokey | 188 | 1503.7 | +6.6 | +164.5 |
+| mokey mokey | 188 | 1503.8 | +6.7 | +164.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +329.4 | +337.6 | +30.8 |
-| Endless Esports | 65 | +328.9 | +340.3 | +30.6 |
-| NZ Gaming | 69 | +316.1 | +311.1 | +29.2 |
+| flat earth | 64 | +329.5 | +337.6 | +30.8 |
+| Endless Esports | 65 | +329.0 | +340.4 | +30.6 |
+| NZ Gaming | 69 | +316.3 | +311.2 | +29.3 |
 | DUMBO | 63 | +330.0 | +372.1 | +29.1 |
 | WhalersOnDaMoon | 66 | +324.8 | +343.9 | +29.0 |
 | GeneticDiff | 70 | +295.8 | +311.2 | +26.2 |
 | Asoka | 74 | +286.2 | +291.8 | +24.7 |
 | fih hou | 73 | +288.6 | +320.3 | +24.7 |
-| F5 Esports | 60 | +338.2 | +356.9 | +24.3 |
-| Kairo | 79 | +281.8 | +287.0 | +23.9 |
+| F5 Esports | 60 | +338.4 | +357.0 | +24.3 |
+| Kairo | 79 | +281.9 | +287.0 | +23.9 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.6 points at current ratings.
 
@@ -76,11 +76,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-26 | penazoid | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.12 | 1.01 | +51.0 | A1Sh1, Ash-1, Karmua, MilkDragon, s1nKr |
+| 2026-08-26 | penazoid | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.12 | 1.01 | +51.1 | A1Sh1, Ash-1, Karmua, MilkDragon, s1nKr |
 | 2026-08-21 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.16 | 0.97 | +87.0 | A1Sh1, Ash-1, Karmua, MilkDragon, s1nKr |
 | 2026-08-19 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -65.1 | A1Sh1, Karmua, MilkDragon, RushYourB, s1nKr |
-| 2026-08-14 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -85.4 | -Joyce666-, A1Sh1, MilkDragon, RushYourB, s1nKr |
-| 2026-08-12 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -156.2 | A1Sh1, Karmua, MilkDragon, RushYourB, s1nKr |
+| 2026-08-14 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -85.5 | -Joyce666-, A1Sh1, MilkDragon, RushYourB, s1nKr |
+| 2026-08-12 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -156.3 | A1Sh1, Karmua, MilkDragon, RushYourB, s1nKr |
 | 2026-08-07 | DingTone | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.07 | 0.86 | +6.0 | A1Sh1, Karmua, MaidSakuya, RushYourB, s1nKr |
 | 2026-08-05 | Exnitas | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.11 | 0.85 | +158.2 | A1Sh1, Karmua, MaidSakuya, RushYourB, s1nKr |
 | 2026-07-24 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +144.9 | A1Sh1, Karmua, MaidSakuya, RushYourB, s1nKr |
@@ -89,7 +89,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-07 | Kevin James Fan Club | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.04 | 0.34 | +125.8 | A1Sh1, Karmua, me1zz, nixiankaide, s1nKr |
 | 2026-06-05 | EZ2025 | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.32 | +141.1 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-05-31 | Midwest Farmers | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.03 | 0.29 | +134.9 | -Joyce666-, A1Sh1, Karmua, me1zz, nixiankaide |
-| 2026-05-29 | Dynasty | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +272.6 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
+| 2026-05-29 | Dynasty | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +272.7 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-05-27 | Aetheris | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -345.4 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-05-22 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -286.7 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-05-20 | Friendly Fire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -206.4 | A1Sh1, Karmua, me1zz, nixiankaide, s1nKr |
@@ -97,9 +97,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | In Our Prime | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +195.0 | -Joyce666-, A1Sh1, me1zz, nixiankaide, s1nKr |
 | 2026-05-08 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +307.7 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-05-06 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +21.4 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
-| 2026-05-01 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +413.5 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
+| 2026-05-01 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +413.6 | -Joyce666-, A1Sh1, Karmua, me1zz, s1nKr |
 | 2026-04-29 | Shock Value | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -3.6 | A1Sh1, Ash-1, Karmua, me1zz, s1nKr |
-| 2026-04-24 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -246.2 | A1Sh1, Ash-1, Karmua, me1zz, s1nKr |
+| 2026-04-24 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -246.3 | A1Sh1, Ash-1, Karmua, me1zz, s1nKr |
 | 2026-04-22 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -253.1 | A1Sh1, Ash-1, Karmua, me1zz, s1nKr |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

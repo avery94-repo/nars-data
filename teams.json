@@ -459,11 +459,6 @@
   "matches": 6,
   "wins": 5
  },
- "f325c1ed-13d5-4f8c-b5e2-c53de50193c8": {
-  "name": "Elusive",
-  "matches": 29,
-  "wins": 13
- },
  "80a83eb0-9e8a-4b41-9d88-c420f0bb746c": {
   "name": "Green Grove Retirement",
   "matches": 9,
@@ -674,15 +669,15 @@
   "matches": 30,
   "wins": 11
  },
- "008c1679-7183-49ad-9f67-06b320a63ee8": {
-  "name": "Wolves",
-  "matches": 32,
-  "wins": 17
- },
  "89c49e4a-9bc2-4c7d-97e0-a4465f10222a": {
   "name": "KODEX ESPORTS",
   "matches": 26,
   "wins": 10
+ },
+ "008c1679-7183-49ad-9f67-06b320a63ee8": {
+  "name": "Wolves",
+  "matches": 32,
+  "wins": 17
  },
  "bacb2438-5a57-4126-9f03-60e21cca202c": {
   "name": "SquadUp",
@@ -703,6 +698,11 @@
   "name": "US Navy Esports",
   "matches": 26,
   "wins": 17
+ },
+ "f325c1ed-13d5-4f8c-b5e2-c53de50193c8": {
+  "name": "Elusive",
+  "matches": 29,
+  "wins": 13
  },
  "ece00cfc-6cf7-4464-83f2-ec2d9860d148": {
   "name": "Oath",
@@ -1024,15 +1024,15 @@
   "matches": 34,
   "wins": 20
  },
- "a62d17d7-2da7-4126-8cdc-3aa7d8b9b32b": {
-  "name": "AscendentEsport",
-  "matches": 10,
-  "wins": 7
- },
  "23448281-caeb-4415-8082-eb7c30395dd6": {
   "name": "Squeegee",
   "matches": 23,
   "wins": 11
+ },
+ "a62d17d7-2da7-4126-8cdc-3aa7d8b9b32b": {
+  "name": "AscendentEsport",
+  "matches": 10,
+  "wins": 7
  },
  "98769025-a80f-48e4-b785-b99c8a20851d": {
   "name": "noname",
@@ -2049,15 +2049,15 @@
   "matches": 6,
   "wins": 2
  },
- "24cd252a-e45b-48a1-abf3-696f2f83248b": {
-  "name": "Moniseum",
-  "matches": 17,
-  "wins": 8
- },
  "6d4e1091-40ca-4bfc-be8a-0c2d448007f8": {
   "name": "Duality Zero",
   "matches": 12,
   "wins": 4
+ },
+ "24cd252a-e45b-48a1-abf3-696f2f83248b": {
+  "name": "Moniseum",
+  "matches": 17,
+  "wins": 8
  },
  "ae4200ce-13f1-4114-8e5f-905b5347bf1a": {
   "name": "Epochal Esports",

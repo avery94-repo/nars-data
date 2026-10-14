@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.023 | 1132.3 | -6.5 |
 | +90 days | 0.022 | 1130.5 | -8.3 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.062 vs 0.107 average, gap -0.045). Matching that average is worth about 15.8 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.062 vs 0.107 average, gap -0.045). Matching that average is worth about 15.7 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs C (2026-09-06) 0.96; S57 NA Open9-10 Central - Playoffs B (2026-06-04) 0.32
 - Quality Wins drivers: beat BlueberryFuego at S58 NA Open9-10 East - Playoffs C (2026-09-04) 0.03
@@ -57,7 +57,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Mud Wizards | 298 | +333.1 | +348.4 | +30.3 |
 | DingTone | 302 | +326.9 | +324.4 | +29.9 |
 | Guangzhou Loong Lions | 304 | +323.0 | +314.8 | +29.6 |
-| Team Nyx | 307 | +316.3 | +309.2 | +29.3 |
+| Team Nyx | 307 | +316.3 | +309.1 | +29.3 |
 | TELETUBEASTS | 303 | +326.3 | +345.3 | +29.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.

@@ -13,7 +13,7 @@ Final Rating (1199.3) = Seeded Start (1244.6) + H2H Adjustment (-45.3)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.103 x 1400 = 1244.6
 
-seed_factor 0.103 = 0.25 x Tier Exposure (0.050) + 0.50 x Quality Wins (0.031) + 0.25 x Opponent Network (0.301)
+seed_factor 0.103 = 0.25 x Tier Exposure (0.050) + 0.50 x Quality Wins (0.031) + 0.25 x Opponent Network (0.300)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.103 | 1244.6 | - |
 | +30 days | 0.075 | 1205.2 | -39.3 |
 | +60 days | 0.062 | 1187.2 | -57.4 |
-| +90 days | 0.041 | 1157.0 | -87.6 |
+| +90 days | 0.041 | 1157.0 | -87.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.050 vs 0.051 average, gap -0.001). Matching that average is worth about 0.4 seed points.
 
@@ -50,11 +50,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | offBalance | 165 | +343.0 | +322.2 | +32.1 |
-| BucketJonsBoys | 172 | +333.7 | +312.0 | +31.4 |
-| Pug Palace | 167 | +336.5 | +326.6 | +31.1 |
+| BucketJonsBoys | 172 | +333.8 | +312.0 | +31.4 |
+| Pug Palace | 167 | +336.6 | +326.6 | +31.1 |
 | Firstwave | 175 | +327.7 | +310.6 | +30.7 |
 | Shaboing Boing Bandits | 173 | +331.3 | +338.8 | +30.4 |
-| Armored Talent | 174 | +330.5 | +346.4 | +30.1 |
+| Armored Talent | 174 | +330.6 | +346.4 | +30.1 |
 | APEX | 176 | +322.6 | +318.2 | +29.9 |
 | LAF | 183 | +312.0 | +309.0 | +28.7 |
 | GOOZPEEK | 182 | +313.8 | +323.0 | +28.7 |
@@ -85,9 +85,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-13 | TEMPR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.80 | 0.00 | 0.00 | -94.4 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
 | 2026-08-07 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -97.2 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
 | 2026-08-05 | Real Hustle Club | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -50.9 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
-| 2026-07-31 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.08 | 0.71 | +191.2 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
+| 2026-07-31 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.08 | 0.71 | +191.3 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
 | 2026-07-29 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.05 | 0.70 | +99.3 | Equ1pment_, He1st-, aoaoaohuan, nyIong, ss-_ |
-| 2026-07-22 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +193.6 | Equ1pment_, Fridayy, He1st-, nyIong, ss-_ |
+| 2026-07-22 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.05 | 0.65 | +193.7 | Equ1pment_, Fridayy, He1st-, nyIong, ss-_ |
 | 2026-07-17 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -255.4 | Equ1pment_, He1st-, XxcL1, ss-_, xGonv |
 | 2026-07-15 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -192.5 | Equ1pment_, He1st-, XxcL1, ss-_, xGonv |
 | 2026-05-31 | US Navy Esports | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.00 | 0.00 | -140.7 | Equ1pment_, He1st-, n1_0, ss-_, xGonv |

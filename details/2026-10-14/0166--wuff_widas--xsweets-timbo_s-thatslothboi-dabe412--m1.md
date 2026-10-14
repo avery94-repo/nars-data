@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.141 | 1298.0 | - |
 | +30 days | 0.129 | 1280.6 | -17.4 |
 | +60 days | 0.117 | 1263.9 | -34.1 |
-| +90 days | 0.094 | 1231.2 | -66.9 |
+| +90 days | 0.094 | 1231.2 | -66.8 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.028 vs 0.041 average, gap -0.013). Matching that average is worth about 9.1 seed points.
 
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| No Future Lifes Over | 50 | +347.6 | +271.8 | +26.1 |
-| DESPAIR | 49 | +349.1 | +272.2 | +25.8 |
+| No Future Lifes Over | 50 | +347.6 | +271.9 | +26.1 |
+| DESPAIR | 49 | +349.1 | +272.3 | +25.8 |
 | TheMotherLovers | 53 | +338.4 | +278.8 | +25.2 |
-| Phantom Sense | 51 | +344.2 | +329.6 | +24.4 |
-| Omen Esports | 57 | +318.2 | +290.9 | +22.7 |
-| flat earth | 64 | +286.9 | +257.2 | +20.5 |
-| GG | 52 | +341.9 | +230.0 | +20.4 |
-| Endless Esports | 65 | +286.4 | +259.2 | +20.4 |
-| DUMBO | 63 | +287.5 | +282.8 | +19.7 |
-| WhalersOnDaMoon | 66 | +282.3 | +261.9 | +18.9 |
+| Phantom Sense | 51 | +344.3 | +329.8 | +24.5 |
+| Omen Esports | 57 | +318.4 | +291.0 | +22.7 |
+| flat earth | 64 | +287.0 | +257.3 | +20.5 |
+| GG | 52 | +341.9 | +230.1 | +20.4 |
+| Endless Esports | 65 | +286.5 | +259.4 | +20.4 |
+| DUMBO | 63 | +287.5 | +282.9 | +19.7 |
+| WhalersOnDaMoon | 66 | +282.3 | +262.0 | +18.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +487.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +487.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-09 | Rogue Dungeon | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.03 | 0.96 | +124.5 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-09-04 | Team Dobeg | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.04 | 0.93 | +75.6 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-09-02 | FlatEarthers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +110.3 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-08-09 | STALLOONS BALLOONS | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.76 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -231.8 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-08-09 | STALLOONS BALLOONS | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.75 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -231.8 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-08-09 | enigma | W | W/O | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.75 | 1.25 | 1.00 | 0.94 | 0.14 | 0.94 | +85.3 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-08-09 | ARES GAMING | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.75 | 1.25 | 1.00 | 0.94 | 0.06 | 0.94 | +99.3 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-07-26 | Omen Esports | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -1.5 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |

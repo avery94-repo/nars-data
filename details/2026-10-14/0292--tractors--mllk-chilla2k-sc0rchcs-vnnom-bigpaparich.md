@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.178 | 1349.6 | - |
 | +30 days | 0.155 | 1316.5 | -33.1 |
 | +60 days | 0.134 | 1287.7 | -61.9 |
-| +90 days | 0.108 | 1251.9 | -97.8 |
+| +90 days | 0.109 | 1251.9 | -97.7 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.035 vs 0.031 average, gap +0.004). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| SwagMonkeyHats | 291 | 1283.2 | +0.2 | +102.2 |
+| SwagMonkeyHats | 291 | 1283.2 | +0.2 | +102.3 |
 | Resurgence | 290 | 1283.6 | +0.6 | +99.3 |
 | Les Ptis Jus | 289 | 1291.2 | +8.2 | +93.7 |
 | 55TH ST | 288 | 1291.3 | +8.3 | +105.8 |
-| 027fam | 287 | 1296.0 | +13.0 | +94.5 |
+| 027fam | 287 | 1296.1 | +13.1 | +94.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team GREAT | 128 | +346.2 | +168.6 | +17.8 |
-| Torii | 129 | +345.0 | +189.0 | +17.5 |
-| 5Frag Gaming | 134 | +338.4 | +193.3 | +17.1 |
-| Kaos | 139 | +327.8 | +161.0 | +16.9 |
-| KODEX ESPORTS | 137 | +333.5 | +223.3 | +16.5 |
-| Team Amplus | 145 | +311.2 | +180.7 | +15.8 |
+| Team GREAT | 127 | +346.2 | +168.6 | +17.8 |
+| Torii | 128 | +345.1 | +189.1 | +17.5 |
+| 5Frag Gaming | 133 | +338.4 | +193.3 | +17.1 |
+| Kaos | 138 | +327.8 | +161.0 | +16.9 |
+| KODEX ESPORTS | 135 | +333.7 | +223.4 | +16.5 |
+| Elusive | 141 | +321.4 | +202.9 | +16.3 |
+| Team Amplus | 145 | +311.3 | +180.8 | +15.8 |
 | Kevin James Fan Club | 148 | +297.9 | +171.6 | +14.9 |
 | Biggie Cheese Fan Club | 151 | +293.6 | +155.4 | +14.4 |
 | WhiteBoyWinter | 155 | +283.7 | +161.6 | +13.5 |
-| Trap Castle | 133 | +338.8 | +186.6 | +11.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +304.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +304.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
 
@@ -107,8 +107,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -309.6 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-20 | Shock Value | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +176.7 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-15 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +5.2 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
-| 2026-05-14 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +125.4 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
-| 2026-05-08 | Potential to Stack Dough | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +161.0 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
+| 2026-05-14 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +125.5 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
+| 2026-05-08 | Potential to Stack Dough | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +161.1 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-08 | Mach 10 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +377.7 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-04 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -151.9 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-02 | Strafe | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.00 | -287.6 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |

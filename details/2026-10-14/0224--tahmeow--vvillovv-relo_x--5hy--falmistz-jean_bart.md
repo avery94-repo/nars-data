@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.126 | 1276.0 | - |
 | +30 days | 0.102 | 1242.8 | -33.2 |
-| +60 days | 0.084 | 1217.1 | -58.9 |
-| +90 days | 0.049 | 1168.7 | -107.3 |
+| +60 days | 0.084 | 1217.0 | -58.9 |
+| +90 days | 0.049 | 1168.7 | -107.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.038 vs 0.088 average, gap -0.050). Matching that average is worth about 17.5 seed points.
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Kairo | 79 | +349.5 | +318.5 | +32.7 |
-| Diggers | 86 | +334.0 | +305.4 | +31.9 |
-| firesale | 82 | +338.8 | +337.4 | +31.7 |
+| Kairo | 79 | +349.6 | +318.5 | +32.7 |
+| Diggers | 86 | +334.2 | +305.4 | +31.9 |
+| firesale | 82 | +338.9 | +337.4 | +31.7 |
 | Fire Nation | 90 | +320.3 | +311.2 | +29.8 |
-| Fathom Gaming | 91 | +315.9 | +304.5 | +29.5 |
-| Overtake Sector | 89 | +321.5 | +387.8 | +28.4 |
+| Fathom Gaming | 91 | +316.0 | +304.6 | +29.5 |
+| Overtake Sector | 89 | +321.5 | +387.9 | +28.4 |
 | PROFECO | 87 | +325.8 | +279.6 | +27.0 |
-| Green Grove Retirement | 94 | +299.2 | +316.2 | +26.6 |
-| Elusive | 93 | +302.2 | +348.8 | +26.6 |
-| NineFlyeSports | 96 | +295.7 | +325.4 | +26.4 |
+| Green Grove Retirement | 93 | +299.2 | +316.2 | +26.6 |
+| NineFlyeSports | 95 | +295.8 | +325.5 | +26.4 |
+| EXODIA | 80 | +348.9 | +332.7 | +24.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.8 points at current ratings.
 
@@ -89,8 +89,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-18 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +147.5 | Cd666, Fr3nk1e, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-07-15 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +14.0 | Fr3nk1e, IC3R, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-05-22 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -252.4 | -5hy-, Falmistz, Jean_Bart_B, NixDoc, vvillovv |
-| 2026-05-20 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -321.5 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-05-15 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +300.3 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-05-20 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -321.6 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-05-15 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +300.4 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-05-13 | NATIONAL CS UNI | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +260.2 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-05-08 | DownTown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -349.5 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-05-06 | Grandpa Berets | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +432.5 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |

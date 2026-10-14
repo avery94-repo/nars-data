@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Qinorhwat | 372 | 1120.5 | +4.1 | +73.5 |
-| grogu | 371 | 1124.0 | +7.6 | +74.0 |
+| Qinorhwat | 372 | 1120.4 | +4.0 | +73.6 |
+| grogu | 371 | 1124.0 | +7.6 | +74.1 |
 | STALLOONS BALLOONS | 370 | 1131.5 | +15.1 | +75.1 |
 | We Just Pug | 369 | 1132.6 | +16.2 | +75.3 |
-| Top One Percent | 368 | 1137.0 | +20.6 | +75.9 |
+| Top One Percent | 368 | 1136.9 | +20.5 | +75.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Kings Gambit | 210 | +345.5 | +146.6 | +13.8 |
+| Kings Gambit | 210 | +345.5 | +146.7 | +13.8 |
 | Veniversum | 211 | +343.0 | +156.4 | +13.5 |
-| FlockMunchers | 212 | +342.7 | +156.4 | +13.5 |
+| FlockMunchers | 212 | +342.7 | +156.5 | +13.5 |
 | GOYPEEKING | 216 | +333.6 | +134.3 | +13.5 |
 | Defaulting | 215 | +335.3 | +150.0 | +13.4 |
 | VARTOVIK | 217 | +333.5 | +157.7 | +13.2 |
-| 1NT | 221 | +322.6 | +140.7 | +12.9 |
 | Cortex Jellies | 222 | +321.0 | +123.8 | +12.9 |
+| 1NT | 221 | +322.6 | +140.7 | +12.9 |
 | Binky | 220 | +322.9 | +154.5 | +12.9 |
 | penazoid | 226 | +311.5 | +133.1 | +12.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +230.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +230.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+0.9).
 
@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Bad Jawn | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -88.7 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-12 | KIS | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -149.2 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-10 | RAZED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.04 | 0.97 | +129.0 | BoomService, Marukami, Tills, aero, noggen |
-| 2026-09-08 | T Shirt Material | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.04 | 0.96 | +102.5 | BoomService, Marukami, Tills, aero, noggen |
+| 2026-09-08 | T Shirt Material | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.04 | 0.96 | +102.6 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-06 | Symbiose | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +98.1 | Marukami, Tills, aero, noggen, s4bre |
 | 2026-09-04 | fiveB | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -123.6 | BoomService, Marukami, Tills, aero, noggen, signifcnt |
 | 2026-09-02 | Duality Gaming | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.04 | 0.92 | +59.9 | BoomService, Marukami, Tills, aero, signifcnt |

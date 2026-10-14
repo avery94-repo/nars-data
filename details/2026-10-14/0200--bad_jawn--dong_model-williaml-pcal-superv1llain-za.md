@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.100 | 1240.2 | - |
 | +30 days | 0.089 | 1225.3 | -15.0 |
-| +60 days | 0.090 | 1226.1 | -14.2 |
-| +90 days | 0.091 | 1228.0 | -12.2 |
+| +60 days | 0.090 | 1226.1 | -14.1 |
+| +90 days | 0.091 | 1228.1 | -12.1 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.291 vs 0.327 average, gap -0.036). Matching that average is worth about 12.6 seed points.
 
@@ -40,25 +40,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | GOBLINS | 199 | 1486.4 | +4.3 | +76.3 |
-| O Fire | 198 | 1488.5 | +6.4 | +88.5 |
+| O Fire | 198 | 1488.5 | +6.4 | +88.6 |
 | Storm Surge | 197 | 1488.6 | +6.5 | +76.9 |
-| ABG Esports | 196 | 1488.7 | +6.6 | +87.1 |
+| ABG Esports | 196 | 1488.8 | +6.7 | +87.1 |
 | ClanAgain | 195 | 1493.3 | +11.2 | +81.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +344.4 | +156.2 | +14.4 |
-| Endless Esports | 65 | +343.9 | +157.7 | +14.4 |
-| NZ Gaming | 69 | +331.1 | +143.2 | +13.9 |
+| flat earth | 64 | +344.5 | +156.2 | +14.4 |
+| Endless Esports | 65 | +344.0 | +157.7 | +14.4 |
+| NZ Gaming | 69 | +331.3 | +143.3 | +13.9 |
 | DUMBO | 63 | +345.0 | +174.7 | +13.8 |
 | WhalersOnDaMoon | 66 | +339.8 | +160.2 | +13.8 |
-| GeneticDiff | 70 | +310.8 | +145.6 | +12.9 |
-| fih hou | 73 | +303.6 | +151.8 | +12.5 |
-| Asoka | 74 | +301.2 | +135.6 | +12.3 |
-| Club 333 | 76 | +300.2 | +164.9 | +12.3 |
-| Kairo | 79 | +296.8 | +133.3 | +12.1 |
+| GeneticDiff | 70 | +310.8 | +145.7 | +12.9 |
+| fih hou | 73 | +303.6 | +151.9 | +12.5 |
+| Asoka | 74 | +301.2 | +135.6 | +12.4 |
+| Club 333 | 76 | +300.3 | +164.9 | +12.3 |
+| Kairo | 79 | +296.9 | +133.3 | +12.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +240.5 points at current ratings.
 
@@ -86,7 +86,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -214.3 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-08 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +12.3 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-06 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +242.5 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-05-01 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -371.3 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-05-01 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -371.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-04-29 | monitor off | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +18.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-04-24 | Ninjas In Boxer | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +271.8 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 

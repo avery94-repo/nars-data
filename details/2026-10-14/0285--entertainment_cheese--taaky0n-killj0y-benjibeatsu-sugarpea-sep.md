@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.190 | 1366.1 | - |
 | +30 days | 0.168 | 1334.9 | -31.1 |
 | +60 days | 0.151 | 1311.9 | -54.1 |
-| +90 days | 0.121 | 1269.5 | -96.5 |
+| +90 days | 0.121 | 1269.6 | -96.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.055 vs 0.019 average, gap +0.036). Matching that average is worth about 0.0 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | ItAintOverYet | 284 | 1302.6 | +1.8 | +90.9 |
-| Imperium | 283 | 1305.5 | +4.7 | +86.3 |
+| Imperium | 283 | 1305.6 | +4.8 | +86.3 |
 | Aetheris | 282 | 1313.0 | +12.2 | +90.3 |
 | Adria eSports | 281 | 1314.2 | +13.4 | +101.1 |
-| Aurofox | 280 | 1315.3 | +14.5 | +87.9 |
+| Aurofox | 280 | 1315.3 | +14.5 | +88.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| ODIN | 119 | +346.3 | +182.8 | +15.8 |
-| Team GREAT | 128 | +328.4 | +152.7 | +15.7 |
-| Torii | 129 | +327.2 | +171.2 | +15.5 |
-| 5Frag Gaming | 134 | +320.6 | +175.0 | +15.1 |
-| KODEX ESPORTS | 137 | +315.7 | +201.9 | +14.7 |
-| Kaos | 139 | +310.0 | +145.8 | +14.5 |
-| Team Amplus | 145 | +293.4 | +163.5 | +13.4 |
-| Kevin James Fan Club | 148 | +280.1 | +155.2 | +12.2 |
-| DNA | 127 | +334.3 | +141.6 | +11.7 |
-| Biggie Cheese Fan Club | 151 | +275.8 | +140.6 | +11.7 |
+| ODIN | 118 | +346.3 | +182.8 | +15.8 |
+| Team GREAT | 127 | +328.4 | +152.7 | +15.7 |
+| Torii | 128 | +327.3 | +171.2 | +15.5 |
+| 5Frag Gaming | 133 | +320.6 | +175.0 | +15.1 |
+| KODEX ESPORTS | 135 | +315.9 | +202.0 | +14.7 |
+| Kaos | 138 | +310.0 | +145.8 | +14.5 |
+| Elusive | 141 | +303.6 | +183.5 | +14.1 |
+| Team Amplus | 145 | +293.5 | +163.5 | +13.4 |
+| Kevin James Fan Club | 148 | +280.1 | +155.3 | +12.2 |
+| DNA | 126 | +334.3 | +141.6 | +11.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +278.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +278.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -97,7 +97,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.08 | 0.68 | +109.1 | BenjiBeatsu, Killj0y, SugarPea, TAAKY0N, sephB |
 | 2026-05-20 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +139.4 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
 | 2026-05-15 | Temple of Swing | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +222.2 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
-| 2026-05-13 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -127.8 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
+| 2026-05-13 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -127.9 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
 | 2026-05-08 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.16 | +255.3 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
 | 2026-05-08 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -11.7 | Killj0y, Marson, SugarPea, TAAKY0N, sephB |
 | 2026-05-01 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -16.3 | Marson, Shokei, SugarPea, TAAKY0N, sephB |

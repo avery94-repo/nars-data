@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.125 | 1275.1 | - |
 | +30 days | 0.102 | 1243.3 | -31.9 |
-| +60 days | 0.089 | 1224.3 | -50.9 |
-| +90 days | 0.068 | 1195.1 | -80.1 |
+| +60 days | 0.089 | 1224.2 | -50.9 |
+| +90 days | 0.068 | 1195.1 | -80.0 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.334 vs 0.336 average, gap -0.002). Matching that average is worth about 0.7 seed points.
 
@@ -41,8 +41,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Goyim Gladiators | 379 | 1103.9 | +0.7 | +111.7 |
 | Zamgaa Anime Aimers | 378 | 1104.0 | +0.8 | +106.4 |
-| redtyfguhoj | 377 | 1104.5 | +1.3 | +100.9 |
-| Shadow Wizard Money Gang | 376 | 1107.8 | +4.6 | +110.4 |
+| redtyfguhoj | 377 | 1104.4 | +1.2 | +100.9 |
+| Shadow Wizard Money Gang | 376 | 1107.7 | +4.5 | +110.4 |
 | NYX | 375 | 1115.2 | +12.0 | +108.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -54,7 +54,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Cortex Jellies | 222 | +334.2 | +176.1 | +19.0 |
 | VARTOVIK | 217 | +346.7 | +222.9 | +18.8 |
 | 1NT | 221 | +335.8 | +199.2 | +18.7 |
-| Binky | 220 | +336.1 | +218.1 | +18.5 |
+| Binky | 220 | +336.1 | +218.2 | +18.5 |
 | penazoid | 226 | +324.7 | +188.6 | +18.3 |
 | UltimateDarklordWizardz | 227 | +323.9 | +210.0 | +18.0 |
 | YHTR | 235 | +310.5 | +201.3 | +17.2 |
@@ -99,7 +99,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +34.7 | Boketto253, spriggan, strmzyy, xSilky, yerm |
 | 2026-05-20 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +175.1 | Boketto253, spriggan, strmzyy, xSilky, yerm |
 | 2026-05-15 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -16.0 | Boketto253, spriggan, strmzyy, xSilky, yerm |
-| 2026-05-13 | Mach 10 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -332.7 | Boketto253, spriggan, strmzyy, xSilky, yerm |
+| 2026-05-13 | Mach 10 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -332.8 | Boketto253, spriggan, strmzyy, xSilky, yerm |
 | 2026-05-08 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -199.2 | Boketto253, spriggan, strmzyy, xSilky, yerm |
 | 2026-05-06 | EZ2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -433.2 | Boketto253, spriggan, strmzyy, xSilky, yerm |
 | 2026-05-01 | Potential to Stack Dough | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +22.8 | Boketto253, spriggan, strmzyy, xSilky, yerm |

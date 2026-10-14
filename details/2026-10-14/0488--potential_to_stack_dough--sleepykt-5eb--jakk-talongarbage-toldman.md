@@ -3,11 +3,11 @@ Team Name: Potential to Stack Dough
 Roster: sleepykt, 5eb, -jakk, TalonGarbage, toldman
 NARS Rank: 488 of 506
 
-Final Rating: 686.0
+Final Rating: 685.9
 Seeded Start: 1116.4
-H2H Adjustment: -430.4
+H2H Adjustment: -430.5 (capped at +-300, raw -430.4)
 
-Final Rating (686.0) = Seeded Start (1116.4) + H2H Adjustment (-430.4)
+Final Rating (685.9) = Seeded Start (1116.4) + H2H Adjustment (-430.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Grandpa Berets | 487 | 691.1 | +5.1 | +172.8 |
-| Knight Owls | 486 | 693.4 | +7.4 | +164.6 |
-| monitor off | 485 | 714.4 | +28.4 | +183.2 |
-| Power of Friendship | 484 | 720.0 | +34.0 | +173.2 |
-| EZ2025 | 483 | 721.2 | +35.2 | +187.5 |
+| Grandpa Berets | 487 | 691.0 | +5.1 | +172.8 |
+| Knight Owls | 486 | 693.3 | +7.4 | +164.6 |
+| monitor off | 485 | 714.3 | +28.4 | +183.2 |
+| Power of Friendship | 484 | 720.0 | +34.1 | +173.2 |
+| EZ2025 | 483 | 721.2 | +35.3 | +187.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Epochal Esports | 413 | +350.0 | +336.5 | +32.3 |
-| MakeYouSayLate | 414 | +340.9 | +316.1 | +32.0 |
-| Mace Lindu Ruff Rebound | 417 | +331.2 | +297.6 | +31.3 |
-| Kodaks Lettuce | 418 | +325.4 | +305.2 | +30.5 |
-| puggin4seb | 419 | +316.8 | +318.4 | +29.2 |
-| Strafe | 420 | +316.1 | +318.9 | +28.9 |
-| HigherEducation | 416 | +331.5 | +281.8 | +24.6 |
-| Halcyon | 423 | +307.8 | +272.7 | +22.7 |
-| Famas OP | 426 | +298.8 | +269.2 | +21.4 |
-| GodFather Gaming | 428 | +297.8 | +268.9 | +19.4 |
+| MakeYouSayLate | 414 | +341.0 | +316.1 | +32.0 |
+| Mace Lindu Ruff Rebound | 417 | +331.3 | +297.6 | +31.3 |
+| Kodaks Lettuce | 418 | +325.5 | +305.2 | +30.5 |
+| puggin4seb | 419 | +316.9 | +318.4 | +29.2 |
+| Strafe | 420 | +316.2 | +318.9 | +28.9 |
+| HigherEducation | 416 | +331.6 | +281.8 | +24.6 |
+| Halcyon | 423 | +307.9 | +272.7 | +22.7 |
+| Famas OP | 426 | +298.9 | +269.2 | +21.4 |
+| GodFather Gaming | 428 | +297.9 | +268.9 | +19.4 |
+| Boomhogs 2 | 415 | +335.8 | +283.4 | +18.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 

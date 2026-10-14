@@ -5,7 +5,7 @@ NARS Rank: 477 of 506
 
 Final Rating: 764.1
 Seeded Start: 1103.4
-H2H Adjustment: -339.3
+H2H Adjustment: -339.3 (capped at +-300, raw -339.4)
 
 Final Rating (764.1) = Seeded Start (1103.4) + H2H Adjustment (-339.3)
 
@@ -42,7 +42,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Sleepers | 476 | 776.2 | +12.1 | +166.1 |
 | Iron Horse | 475 | 779.9 | +15.8 | +167.3 |
 | Another Day in Paradise | 474 | 780.1 | +16.0 | +167.3 |
-| AML | 473 | 793.6 | +29.5 | +172.7 |
+| AML | 473 | 793.5 | +29.4 | +172.7 |
 | Therapist | 472 | 797.3 | +33.2 | +172.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,14 +50,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Zamgaa Anime Aimers | 378 | +339.9 | +311.9 | +32.0 |
-| Shadow Wizard Money Gang | 376 | +343.7 | +331.0 | +31.9 |
+| Shadow Wizard Money Gang | 376 | +343.6 | +331.0 | +31.9 |
 | Costco Family | 382 | +338.4 | +313.7 | +31.8 |
 | We Play Naked | 380 | +339.1 | +330.5 | +31.5 |
-| Texas Orange | 383 | +333.4 | +314.1 | +31.3 |
+| Texas Orange | 383 | +333.3 | +314.1 | +31.3 |
 | Goyim Gladiators | 379 | +339.8 | +342.9 | +31.1 |
 | Exnitas | 385 | +329.1 | +299.8 | +31.1 |
-| Kahoot Squad | 388 | +318.5 | +301.9 | +29.7 |
-| Flow Esports | 387 | +319.5 | +316.3 | +29.2 |
+| Kahoot Squad | 388 | +318.5 | +302.0 | +29.7 |
+| Flow Esports | 387 | +319.4 | +316.3 | +29.2 |
 | MXA | 386 | +326.6 | +279.9 | +27.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.

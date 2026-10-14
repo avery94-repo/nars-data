@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.076 | 1207.1 | - |
 | +30 days | 0.077 | 1207.6 | +0.6 |
 | +60 days | 0.076 | 1206.9 | -0.2 |
-| +90 days | 0.078 | 1208.6 | +1.5 |
+| +90 days | 0.078 | 1208.7 | +1.6 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.201 vs 0.308 average, gap -0.107). Matching that average is worth about 37.4 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.201 vs 0.307 average, gap -0.106). Matching that average is worth about 37.1 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 West - Playoffs (2026-09-10) 1.07; S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S57 NA Open9-10 Central - Playoffs B (2026-06-03) 0.31
 - Quality Wins drivers: beat Line Steppers at S59 NA Intermediate A - Regular Season (2026-10-07) 0.07; beat LUMA at S58 NA Open9-10 West - Playoffs (2026-09-08) 0.07; beat SSP at S58 NA Open9-10 West - Playoffs (2026-09-02) 0.04
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Amplus | 145 | +334.3 | +224.5 | +20.6 |
-| Kevin James Fan Club | 148 | +321.0 | +213.2 | +19.9 |
+| Elusive | 141 | +344.5 | +252.1 | +20.6 |
+| Team Amplus | 145 | +334.4 | +224.6 | +20.6 |
+| Kevin James Fan Club | 148 | +321.0 | +213.3 | +19.9 |
 | Biggie Cheese Fan Club | 151 | +316.7 | +193.3 | +19.6 |
 | WhiteBoyWinter | 155 | +306.8 | +200.8 | +18.8 |
-| offBalance | 165 | +282.4 | +196.9 | +16.1 |
+| offBalance | 165 | +282.4 | +197.0 | +16.1 |
 | Order Zero | 156 | +304.9 | +179.4 | +15.6 |
-| Pug Palace | 167 | +275.9 | +199.8 | +15.2 |
+| Pug Palace | 167 | +276.0 | +199.9 | +15.2 |
 | Oath | 142 | +342.3 | +187.6 | +14.9 |
-| BucketJonsBoys | 172 | +273.1 | +190.7 | +14.9 |
-| Shaboing Boing Bandits | 173 | +270.7 | +207.4 | +14.6 |
+| BucketJonsBoys | 172 | +273.2 | +190.8 | +14.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +381.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +381.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.4).
 
@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | Line Steppers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +179.2 | Maccce, _Ericcc_, _real, bubbIes, spencer--- |
-| 2026-09-10 | COGNITIVE | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.00 | 0.00 | -119.9 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
+| 2026-09-10 | COGNITIVE | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.00 | 0.00 | -120.0 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
 | 2026-09-08 | LUMA | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.96 | 1.11 | 1.00 | 1.06 | 0.07 | 1.06 | +221.2 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
 | 2026-09-04 | UncsStillGotIt | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -129.2 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
 | 2026-09-02 | SSP | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.04 | 1.01 | +262.9 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |

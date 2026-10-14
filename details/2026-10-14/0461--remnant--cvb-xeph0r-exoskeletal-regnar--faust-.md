@@ -3,15 +3,15 @@ Team Name: Remnant
 Roster: cvb, Xeph0r, Exoskeletal, Regnar, -Faust-
 NARS Rank: 461 of 506
 
-Final Rating: 836.6
-Seeded Start: 1264.8
+Final Rating: 836.5
+Seeded Start: 1264.7
 H2H Adjustment: -428.2
 
-Final Rating (836.6) = Seeded Start (1264.8) + H2H Adjustment (-428.2)
+Final Rating (836.5) = Seeded Start (1264.7) + H2H Adjustment (-428.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.118 x 1400 = 1264.8
+                = 1100 + 0.118 x 1400 = 1264.7
 
 seed_factor 0.118 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.343)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.118 | 1264.8 | - |
+| Now | 0.118 | 1264.7 | - |
 | +30 days | 0.098 | 1237.4 | -27.4 |
 | +60 days | 0.088 | 1223.0 | -41.8 |
-| +90 days | 0.071 | 1199.4 | -65.4 |
+| +90 days | 0.071 | 1199.4 | -65.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.022 vs 0.013 average, gap +0.009). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Absent Minded | 460 | 845.0 | +8.4 | +129.2 |
-| Puddle Pirates | 459 | 848.7 | +12.1 | +124.0 |
-| Thrash | 458 | 860.8 | +24.2 | +138.4 |
-| Cadillac F1 eSports Team | 457 | 863.0 | +26.4 | +132.4 |
-| onliners | 456 | 870.1 | +33.5 | +129.1 |
+| Absent Minded | 460 | 845.0 | +8.5 | +129.2 |
+| Puddle Pirates | 459 | 848.7 | +12.2 | +124.0 |
+| Thrash | 458 | 860.8 | +24.3 | +138.4 |
+| Cadillac F1 eSports Team | 457 | 863.0 | +26.5 | +132.5 |
+| onliners | 456 | 870.1 | +33.6 | +129.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Samantha 4 | 351 | +341.4 | +231.2 | +23.4 |
-| Florida Man | 345 | +349.6 | +269.3 | +23.0 |
-| RunTheDamnBall | 352 | +330.5 | +242.9 | +22.5 |
-| DeathMark E-Sports | 353 | +329.9 | +250.6 | +22.3 |
-| Comeback Bandits | 355 | +324.0 | +236.0 | +22.1 |
-| 99 Thieves | 354 | +325.7 | +235.2 | +21.9 |
-| Macs Snacks | 359 | +317.3 | +221.4 | +21.7 |
-| RH Help Desk | 358 | +321.9 | +254.6 | +21.6 |
-| Aers Money Crew | 360 | +316.6 | +227.9 | +21.6 |
-| MINDTRIP | 361 | +312.9 | +232.4 | +21.2 |
+| Samantha 4 | 351 | +341.5 | +231.2 | +23.4 |
+| Florida Man | 345 | +349.7 | +269.3 | +23.0 |
+| RunTheDamnBall | 352 | +330.6 | +243.0 | +22.5 |
+| DeathMark E-Sports | 353 | +330.0 | +250.6 | +22.3 |
+| Comeback Bandits | 355 | +324.1 | +236.0 | +22.1 |
+| 99 Thieves | 354 | +325.8 | +235.2 | +21.9 |
+| Macs Snacks | 359 | +317.4 | +221.4 | +21.7 |
+| RH Help Desk | 358 | +322.1 | +254.6 | +21.6 |
+| Aers Money Crew | 360 | +316.7 | +227.9 | +21.6 |
+| MINDTRIP | 361 | +313.0 | +232.4 | +21.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +429.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +429.1 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs Brothers United (2026-04-29): expires in 11 days [Quality Wins 0.00]
@@ -81,10 +81,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Samantha 4 | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -4.0 | Arch1ves, Exoskeletal, Regnar, Rellac, cvb |
 | 2026-08-28 | Thrash | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -81.6 | -Faust-, Exoskeletal, Gettooled, Regnar, cvb |
 | 2026-08-26 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.03 | 0.87 | +52.5 | -Faust-, Gettooled, Regnar, Xeph0r, cvb |
-| 2026-08-19 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -125.3 | -Faust-, Exoskeletal, Gettooled, Regnar, Xeph0r |
+| 2026-08-19 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -125.4 | -Faust-, Exoskeletal, Gettooled, Regnar, Xeph0r |
 | 2026-08-14 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.03 | 0.79 | +8.0 | -Faust-, Exoskeletal, Gettooled, Regnar, cvb |
 | 2026-08-12 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -92.6 | Exoskeletal, Gettooled, Regnar, Xeph0r, cvb |
-| 2026-08-07 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +90.4 | -Faust-, Exoskeletal, Gettooled, Regnar, cvb |
+| 2026-08-07 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +90.5 | -Faust-, Exoskeletal, Gettooled, Regnar, cvb |
 | 2026-08-05 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -18.9 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |
 | 2026-07-31 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -127.1 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |
 | 2026-07-29 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -131.5 | -Faust-, Exoskeletal, Regnar, Xeph0r, cvb |

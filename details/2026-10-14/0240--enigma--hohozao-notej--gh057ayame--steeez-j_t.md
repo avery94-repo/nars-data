@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.129 | 1281.1 | - |
 | +30 days | 0.116 | 1262.5 | -18.6 |
 | +60 days | 0.107 | 1250.1 | -31.0 |
-| +90 days | 0.091 | 1227.7 | -53.4 |
+| +90 days | 0.091 | 1227.8 | -53.3 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.303 vs 0.357 average, gap -0.054). Matching that average is worth about 18.9 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | brb grinding minecraft | 239 | 1405.5 | +0.1 | +153.4 |
-| Casual Mature Gamers | 238 | 1405.9 | +0.5 | +154.2 |
-| Fortis Fortuna Adiuvat | 237 | 1406.3 | +0.9 | +150.4 |
-| BD Lamron | 236 | 1409.6 | +4.2 | +142.7 |
+| Casual Mature Gamers | 238 | 1405.9 | +0.5 | +154.3 |
+| Fortis Fortuna Adiuvat | 237 | 1406.3 | +0.9 | +150.5 |
+| BD Lamron | 236 | 1409.6 | +4.2 | +142.8 |
 | YHTR | 235 | 1413.7 | +8.3 | +155.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Fire Nation | 90 | +344.3 | +278.7 | +27.8 |
-| Fathom Gaming | 91 | +339.9 | +272.6 | +27.7 |
-| Overtake Sector | 89 | +345.5 | +353.2 | +26.1 |
-| Green Grove Retirement | 94 | +323.2 | +285.5 | +25.8 |
-| NineFlyeSports | 96 | +319.7 | +294.9 | +25.7 |
-| Elusive | 93 | +326.2 | +317.4 | +25.5 |
-| PROFECO | 87 | +349.8 | +248.0 | +25.2 |
-| FlyQuest RED | 97 | +315.3 | +304.1 | +24.0 |
-| Axial | 101 | +301.0 | +263.6 | +23.2 |
-| Addice | 102 | +297.1 | +301.3 | +22.3 |
+| Fire Nation | 90 | +344.3 | +278.8 | +27.8 |
+| Fathom Gaming | 91 | +340.0 | +272.8 | +27.7 |
+| Overtake Sector | 89 | +345.5 | +353.4 | +26.1 |
+| Green Grove Retirement | 93 | +323.2 | +285.6 | +25.8 |
+| NineFlyeSports | 95 | +319.8 | +295.1 | +25.7 |
+| PROFECO | 87 | +349.8 | +248.1 | +25.3 |
+| FlyQuest RED | 96 | +315.4 | +304.3 | +24.0 |
+| Axial | 100 | +301.2 | +263.8 | +23.2 |
+| Addice | 101 | +297.3 | +301.4 | +22.3 |
+| New Legends | 102 | +290.1 | +304.4 | +21.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +528.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +528.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -90,10 +90,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -0.8 | -GH057ayame-, gTurrbo, hohozao, notej, steeez |
 | 2026-07-29 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -7.0 | -GH057ayame-, gTurrbo, notej, shige, steeez |
 | 2026-07-23 | Qinorhwat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.66 | 0.03 | 0.66 | +463.1 | -GH057ayame-, gTurrbo, notej, shige, steeez |
-| 2026-05-22 | BucketJonsBoys | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -7.8 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
+| 2026-05-22 | BucketJonsBoys | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -7.9 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
 | 2026-05-21 | Kaos | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -36.3 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
 | 2026-05-21 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -1.1 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
-| 2026-05-08 | SquadUp | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -1.3 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
+| 2026-05-08 | SquadUp | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -1.3 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
 | 2026-05-06 | Pro Lapse | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -229.6 | -GH057ayame-, J_T, graphiteee, notej, steeez |
 | 2026-04-27 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.15 | 1.00 | 0.08 | 0.00 | 0.00 | -0.0 | -GH057ayame-, graphiteee, notej, pizza-, steeez |
 | 2026-04-24 | Courage | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -387.6 | -GH057ayame-, graphiteee, notej, pizza-, steeez |

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.148 | 1307.1 | - |
 | +30 days | 0.153 | 1314.3 | +7.2 |
 | +60 days | 0.155 | 1317.7 | +10.6 |
-| +90 days | 0.160 | 1324.7 | +17.5 |
+| +90 days | 0.161 | 1324.8 | +17.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.030 vs 0.104 average, gap -0.074). Matching that average is worth about 51.8 seed points.
 
@@ -42,25 +42,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Overtake Sector | 89 | 1750.9 | +1.2 | +132.0 |
 | Manx Recovery Program | 88 | 1751.4 | +1.7 | +118.8 |
 | PROFECO | 87 | 1755.2 | +5.5 | +114.8 |
-| Diggers | 86 | 1763.4 | +13.7 | +121.8 |
+| Diggers | 86 | 1763.6 | +13.9 | +121.9 |
 | makeSHIFT | 85 | 1764.1 | +14.4 | +127.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Olympus | 25 | +290.0 | +220.0 | +17.7 |
-| Automatic HQ | 27 | +281.2 | +228.8 | +16.3 |
-| VOID ALUNE | 29 | +258.2 | +173.8 | +12.8 |
-| Hairy Scary Bandits | 32 | +249.7 | +209.6 | +11.8 |
+| Olympus | 25 | +290.1 | +220.1 | +17.8 |
+| Automatic HQ | 27 | +281.2 | +228.9 | +16.3 |
+| VOID ALUNE | 29 | +258.2 | +173.9 | +12.8 |
+| Hairy Scary Bandits | 32 | +249.8 | +209.7 | +11.9 |
 | duck crew | 23 | +346.4 | +194.2 | +11.8 |
-| Chicken Coop | 33 | +248.5 | +237.7 | +11.5 |
-| Festina Lente | 24 | +293.1 | +182.0 | +10.0 |
-| Holly Molly | 35 | +238.7 | +196.3 | +9.3 |
-| EMPIRE | 36 | +233.9 | +218.3 | +8.6 |
-| babaG | 28 | +259.1 | +222.5 | +7.4 |
+| Chicken Coop | 33 | +248.7 | +237.8 | +11.5 |
+| Festina Lente | 24 | +293.4 | +182.1 | +10.0 |
+| Holly Molly | 35 | +238.8 | +196.4 | +9.3 |
+| EMPIRE | 36 | +234.1 | +218.4 | +8.6 |
+| babaG | 28 | +259.3 | +222.6 | +7.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +393.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +393.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0).
 

@@ -13,7 +13,7 @@ Final Rating (2096.1) = Seeded Start (1276.7) + H2H Adjustment (+819.4)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.126 x 1400 = 1276.7
 
-seed_factor 0.126 = 0.25 x Tier Exposure (0.039) + 0.50 x Quality Wins (0.040) + 0.25 x Opponent Network (0.386)
+seed_factor 0.126 = 0.25 x Tier Exposure (0.039) + 0.50 x Quality Wins (0.040) + 0.25 x Opponent Network (0.385)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | 2114.7 | +18.6 | +183.8 |
-| Iowa Stormboar | 21 | 2115.9 | +19.8 | +184.4 |
+| Zomblers | 22 | 2114.9 | +18.8 | +183.9 |
+| Iowa Stormboar | 21 | 2116.1 | +20.0 | +184.4 |
 | qcclan | 20 | 2146.2 | +50.1 | +191.0 |
 | MASTER ONE | 19 | 2159.5 | +63.4 | +193.5 |
-| Villainous | 18 | 2160.7 | +64.6 | +207.4 |
+| Villainous | 18 | 2160.9 | +64.8 | +207.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Overtake Sector | 10 | +276.0 | +315.1 | +22.2 |
-| Desi Boyz | 11 | +236.4 | +290.5 | +5.7 |
-| Zomblers | 22 | +18.6 | +183.8 | -0.0 |
-| Iowa Stormboar | 21 | +19.8 | +184.4 | -0.0 |
-| Brahmas | 14 | +111.4 | +207.9 | -0.0 |
-| regain | 12 | +160.1 | +266.7 | -0.1 |
-| NuTorious | 17 | +69.6 | +192.9 | -0.1 |
-| FarmVille | 16 | +71.5 | +211.7 | -0.2 |
+| Overtake Sector | 10 | +276.2 | +315.2 | +22.2 |
+| Desi Boyz | 11 | +236.7 | +290.6 | +5.8 |
+| Zomblers | 22 | +18.8 | +183.9 | -0.0 |
+| Iowa Stormboar | 21 | +20.0 | +184.4 | -0.0 |
+| Brahmas | 14 | +111.6 | +208.0 | -0.0 |
+| regain | 12 | +160.3 | +266.8 | -0.1 |
+| NuTorious | 17 | +69.8 | +193.0 | -0.1 |
+| FarmVille | 16 | +71.8 | +211.8 | -0.2 |
 | Old Meta | 15 | +80.1 | +210.0 | -0.3 |
-| Villainous | 18 | +64.6 | +207.4 | -0.3 |
+| Villainous | 18 | +64.8 | +207.5 | -0.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +627.2 points at current ratings.
 
@@ -80,8 +80,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -72.4 | Cynxz, F0ur-, L33TG4M3R_, WhiteShadew, bandit0 |
 | 2026-07-31 | Over Your Head | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.11 | 0.81 | +139.1 | Cynxz, F0ur-, L33TG4M3R_, bandit0, pierson |
 | 2026-07-29 | OnlyFans | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.07 | 0.79 | +109.5 | Cynxz, F0ur-, L33TG4M3R_, pierson, soulsurvivor |
-| 2026-07-24 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.10 | 0.75 | +350.7 | Cynxz, F0ur-, L33TG4M3R_, pierson, soulsurvivor |
-| 2026-07-22 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.07 | 0.74 | +191.3 | Cynxz, L33TG4M3R_, bandit0, pierson, soulsurvivor |
+| 2026-07-24 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.10 | 0.75 | +350.8 | Cynxz, F0ur-, L33TG4M3R_, pierson, soulsurvivor |
+| 2026-07-22 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.07 | 0.74 | +191.4 | Cynxz, L33TG4M3R_, bandit0, pierson, soulsurvivor |
 | 2026-07-17 | Bird Squishers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +215.6 | Cynxz, L33TG4M3R_, pierson, soulsurvivor, soulsurvivor |
 | 2026-07-15 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.11 | 0.68 | +143.3 | Cynxz, L33TG4M3R_, pierson, soulsurvivor, soulsurvivor |
 | 2026-05-22 | absolute cinema | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -183.9 | FusionQQQ, L33TG4M3R_, WhiteShadew, Zynxx, pierson |

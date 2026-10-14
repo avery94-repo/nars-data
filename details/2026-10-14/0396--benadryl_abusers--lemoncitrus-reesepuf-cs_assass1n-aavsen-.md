@@ -3,11 +3,11 @@ Team Name: Benadryl Abusers
 Roster: LemonCitrus, ReesePuf, cs_AsSaSs1n, aavsen, pg0
 NARS Rank: 396 of 506
 
-Final Rating: 1061.2
+Final Rating: 1061.1
 Seeded Start: 1287.7
-H2H Adjustment: -226.5
+H2H Adjustment: -226.6
 
-Final Rating (1061.2) = Seeded Start (1287.7) + H2H Adjustment (-226.5)
+Final Rating (1061.1) = Seeded Start (1287.7) + H2H Adjustment (-226.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.134 | 1287.7 | - |
 | +30 days | 0.115 | 1261.4 | -26.3 |
 | +60 days | 0.101 | 1241.1 | -46.6 |
-| +90 days | 0.075 | 1204.9 | -82.8 |
+| +90 days | 0.075 | 1204.9 | -82.7 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.030 vs 0.011 average, gap +0.019). Matching that average is worth about 0.0 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| The Plague | 395 | 1062.3 | +1.1 | +119.5 |
-| gooshedd | 394 | 1066.6 | +5.4 | +120.5 |
-| Wealth Reduction | 393 | 1071.6 | +10.4 | +121.6 |
-| Lan Bears | 392 | 1072.5 | +11.3 | +128.4 |
-| High T Low E | 391 | 1073.4 | +12.2 | +122.0 |
+| The Plague | 395 | 1062.3 | +1.2 | +119.5 |
+| gooshedd | 394 | 1066.6 | +5.5 | +120.5 |
+| Wealth Reduction | 393 | 1071.6 | +10.5 | +121.7 |
+| Lan Bears | 392 | 1072.4 | +11.3 | +128.4 |
+| High T Low E | 391 | 1073.4 | +12.3 | +122.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| FUELED BY HATE | 241 | +343.1 | +223.3 | +23.2 |
-| NXG Esports | 242 | +342.8 | +249.8 | +23.1 |
-| Fortis Fortuna Adiuvat | 237 | +345.1 | +240.1 | +23.0 |
-| brb grinding minecraft | 239 | +344.3 | +259.1 | +22.9 |
-| Casual Mature Gamers | 238 | +344.7 | +264.5 | +22.4 |
-| The Kerbins | 250 | +317.4 | +241.4 | +21.1 |
-| Dude Picks | 252 | +316.3 | +253.5 | +20.7 |
-| Eightball | 253 | +314.4 | +233.8 | +20.6 |
-| GoonAssOldheads | 258 | +308.6 | +216.2 | +20.5 |
-| drunk cigs dont count | 255 | +311.9 | +246.2 | +20.5 |
+| FUELED BY HATE | 241 | +343.2 | +223.3 | +23.2 |
+| NXG Esports | 242 | +343.0 | +249.9 | +23.1 |
+| Fortis Fortuna Adiuvat | 237 | +345.2 | +240.2 | +23.0 |
+| brb grinding minecraft | 239 | +344.4 | +259.1 | +22.9 |
+| Casual Mature Gamers | 238 | +344.8 | +264.6 | +22.4 |
+| The Kerbins | 250 | +317.5 | +241.5 | +21.1 |
+| Dude Picks | 252 | +316.4 | +253.5 | +20.7 |
+| Eightball | 253 | +314.5 | +233.8 | +20.6 |
+| GoonAssOldheads | 258 | +308.7 | +216.2 | +20.5 |
+| drunk cigs dont count | 255 | +312.0 | +246.3 | +20.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +420.4 points at current ratings.
 
@@ -88,9 +88,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.13 | 0.73 | +81.1 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-07-31 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.08 | 0.70 | +111.1 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-07-24 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +46.2 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
-| 2026-07-22 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +198.4 | LemonCitrus, ReesePuf, aavsen, cs_AsSaSs1n, pg0 |
+| 2026-07-22 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +198.5 | LemonCitrus, ReesePuf, aavsen, cs_AsSaSs1n, pg0 |
 | 2026-07-17 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -8.4 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
-| 2026-07-15 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -193.0 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
+| 2026-07-15 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -193.1 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-05-22 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +201.3 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |
 | 2026-05-20 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -259.5 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |
 | 2026-05-15 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -39.9 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.096 | 1233.9 | - |
 | +30 days | 0.093 | 1229.8 | -4.0 |
 | +60 days | 0.092 | 1228.5 | -5.4 |
-| +90 days | 0.090 | 1225.5 | -8.4 |
+| +90 days | 0.090 | 1225.6 | -8.3 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.035 vs 0.096 average, gap -0.061). Matching that average is worth about 21.3 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Order Zero | 156 | 1564.8 | +4.0 | +109.5 |
-| WhiteBoyWinter | 155 | 1566.7 | +5.9 | +116.5 |
-| ASYCS KITTENS | 154 | 1569.5 | +8.7 | +113.8 |
-| MINDTRIP | 153 | 1569.7 | +8.9 | +110.5 |
-| Celestial Esports | 152 | 1574.5 | +13.7 | +121.2 |
+| WhiteBoyWinter | 155 | 1566.7 | +5.9 | +116.6 |
+| ASYCS KITTENS | 154 | 1569.6 | +8.8 | +113.8 |
+| MINDTRIP | 153 | 1569.7 | +8.9 | +110.6 |
+| Celestial Esports | 152 | 1574.6 | +13.8 | +121.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| FLOW STATE | 47 | +336.6 | +235.8 | +20.0 |
-| No Future Lifes Over | 50 | +326.4 | +213.0 | +19.9 |
-| DESPAIR | 49 | +327.9 | +213.3 | +19.7 |
-| TheMotherLovers | 53 | +317.2 | +218.7 | +19.1 |
-| Phantom Sense | 51 | +323.0 | +258.8 | +19.0 |
-| Omen Esports | 57 | +297.0 | +228.7 | +16.8 |
-| GG | 52 | +320.7 | +179.7 | +15.0 |
-| flat earth | 64 | +265.7 | +202.4 | +13.9 |
-| Endless Esports | 65 | +265.2 | +204.0 | +13.8 |
-| DUMBO | 63 | +266.3 | +223.0 | +13.5 |
+| FLOW STATE | 47 | +336.6 | +235.9 | +20.0 |
+| No Future Lifes Over | 50 | +326.4 | +213.1 | +19.9 |
+| DESPAIR | 49 | +327.9 | +213.4 | +19.7 |
+| TheMotherLovers | 53 | +317.2 | +218.8 | +19.1 |
+| Phantom Sense | 51 | +323.1 | +258.9 | +19.0 |
+| Omen Esports | 57 | +297.2 | +228.9 | +16.8 |
+| GG | 52 | +320.7 | +179.8 | +15.0 |
+| flat earth | 64 | +265.8 | +202.5 | +13.9 |
+| Endless Esports | 65 | +265.3 | +204.1 | +13.8 |
+| DUMBO | 63 | +266.3 | +223.1 | +13.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +372.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +373.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 
@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-17 | Vibe Check | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +80.3 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
 | 2026-09-15 | KIS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +88.1 | 1Cyrix, Gonzo_, Seb, _MD_, sniperclub01 |
 | 2026-09-08 | Trap Castle | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -99.8 | 1Cyrix, FurDaddy, Perree, _MD_, sniperclub01 |
-| 2026-09-06 | LAF | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.08 | 0.94 | +63.7 | 1Cyrix, DJF, FurDaddy, _MD_, sniperclub01 |
+| 2026-09-06 | LAF | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.08 | 0.94 | +63.6 | 1Cyrix, DJF, FurDaddy, _MD_, sniperclub01 |
 | 2026-09-04 | Kodaks Lettuce | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.06 | 0.93 | +132.4 | 1Cyrix, FurDaddy, TheMrCleanup, _MD_, sniperclub01 |
 | 2026-09-03 | Propaniacs | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +129.9 | 1Cyrix, Gonzo_, Perree, _MD_, sniperclub01 |
 

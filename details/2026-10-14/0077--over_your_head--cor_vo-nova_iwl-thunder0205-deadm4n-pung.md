@@ -3,11 +3,11 @@ Team Name: Over Your Head
 Roster: cor_vo, nova_iwl, ThuNdeR0205, DEADM4N, Pungents
 NARS Rank: 77 of 506
 
-Final Rating: 1781.7
+Final Rating: 1781.8
 Seeded Start: 1497.4
-H2H Adjustment: +284.3
+H2H Adjustment: +284.4
 
-Final Rating (1781.7) = Seeded Start (1497.4) + H2H Adjustment (+284.3)
+Final Rating (1781.8) = Seeded Start (1497.4) + H2H Adjustment (+284.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.284 | 1497.4 | - |
 | +30 days | 0.259 | 1461.9 | -35.5 |
 | +60 days | 0.241 | 1437.6 | -59.8 |
-| +90 days | 0.211 | 1395.6 | -101.8 |
+| +90 days | 0.211 | 1395.9 | -101.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.132 vs 0.249 average, gap -0.117). Matching that average is worth about 40.9 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Club 333 | 76 | 1782.3 | +0.6 | +146.1 |
-| mas paspas | 75 | 1783.0 | +1.3 | +144.8 |
-| Asoka | 74 | 1783.3 | +1.6 | +138.1 |
-| fih hou | 73 | 1785.7 | +4.0 | +144.0 |
-| CNCS Last Hope | 72 | 1788.7 | +7.0 | +132.7 |
+| Club 333 | 76 | 1782.4 | +0.6 | +146.2 |
+| mas paspas | 75 | 1783.0 | +1.2 | +144.9 |
+| Asoka | 74 | 1783.3 | +1.5 | +138.1 |
+| fih hou | 73 | 1785.7 | +3.9 | +144.0 |
+| CNCS Last Hope | 72 | 1788.7 | +6.9 | +132.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | +333.0 | +319.4 | +23.6 |
-| Iowa Stormboar | 21 | +334.2 | +318.7 | +23.6 |
-| Olympus | 25 | +258.0 | +240.8 | +15.2 |
-| Automatic HQ | 27 | +249.2 | +248.7 | +13.0 |
-| duck crew | 23 | +314.4 | +217.8 | +11.2 |
-| VOID ALUNE | 29 | +226.2 | +192.8 | +7.5 |
-| Festina Lente | 24 | +261.1 | +202.8 | +6.7 |
-| Hairy Scary Bandits | 32 | +217.7 | +227.3 | +5.6 |
-| Chicken Coop | 33 | +216.5 | +253.6 | +5.1 |
-| raisedbypixels | 26 | +252.7 | +200.4 | +2.1 |
+| Zomblers | 22 | +333.1 | +319.6 | +23.6 |
+| Iowa Stormboar | 21 | +334.3 | +318.9 | +23.6 |
+| Olympus | 25 | +258.0 | +240.9 | +15.3 |
+| Automatic HQ | 27 | +249.1 | +248.8 | +13.0 |
+| duck crew | 23 | +314.3 | +217.9 | +11.2 |
+| VOID ALUNE | 29 | +226.1 | +192.9 | +7.5 |
+| Festina Lente | 24 | +261.3 | +202.9 | +6.7 |
+| Hairy Scary Bandits | 32 | +217.7 | +227.4 | +5.6 |
+| Chicken Coop | 33 | +216.6 | +253.7 | +5.2 |
+| raisedbypixels | 26 | +252.8 | +200.5 | +2.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +474.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +474.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0).
 
@@ -79,12 +79,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Diamond Mental | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.12 | 0.11 | 1.12 | +2.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-09-04 | Down To Frag | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.00 | 0.00 | -67.5 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-09-02 | FUELED BY HATE | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.09 | 0.18 | 1.09 | +3.2 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl, smove |
-| 2026-08-28 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -44.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
+| 2026-08-28 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -44.5 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-27 | UltimateDarklordWizardz | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.28 | 0.26 | 1.28 | +35.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-26 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -2.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-25 | KODEX ESPORTS | W | W/O | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.26 | 0.25 | 1.26 | +38.8 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-21 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -60.1 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
-| 2026-08-20 | academy 4 gifted children | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.37 | 1.21 | +125.6 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
+| 2026-08-20 | academy 4 gifted children | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.37 | 1.21 | +125.7 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-19 | Skyline | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.33 | 0.95 | +128.1 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-18 | EMPIRE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -54.2 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-08-14 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -22.7 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
@@ -95,16 +95,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -77.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-07-31 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -138.9 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, smove |
 | 2026-07-28 | Crimson Vortex | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.78 | 0.08 | 0.78 | +40.6 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
-| 2026-07-24 | Conscious Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.13 | 0.75 | +92.0 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
+| 2026-07-24 | Conscious Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.13 | 0.75 | +92.1 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-07-23 | 5Frag Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.75 | 0.10 | 0.75 | +6.3 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-07-22 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.12 | 0.74 | +436.5 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-07-21 | penazoid | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.63 | 1.16 | 1.00 | 0.73 | 0.09 | 0.00 | +121.5 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-05-22 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.01 | 0.26 | +72.7 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-05-21 | Shaboing Boing Bandits | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -222.1 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
-| 2026-05-15 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +259.8 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
-| 2026-05-08 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -173.8 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
+| 2026-05-15 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +259.9 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
+| 2026-05-08 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -173.9 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-05-01 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -424.6 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
-| 2026-04-29 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +202.0 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
+| 2026-04-29 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +202.1 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-04-24 | grogu | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +20.3 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-04-22 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -0.3 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 

@@ -40,25 +40,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | NOVAIR | 245 | 1391.8 | +5.2 | +163.9 |
-| D1NK Esports | 244 | 1392.8 | +6.2 | +166.8 |
+| D1NK Esports | 244 | 1392.7 | +6.1 | +166.8 |
 | OPOZIT | 243 | 1394.8 | +8.2 | +169.4 |
-| NXG Esports | 242 | 1404.0 | +17.4 | +178.5 |
+| NXG Esports | 242 | 1404.1 | +17.5 | +178.5 |
 | FUELED BY HATE | 241 | 1404.3 | +17.7 | +173.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Green Grove Retirement | 94 | +342.0 | +339.5 | +31.5 |
-| NineFlyeSports | 96 | +338.5 | +350.6 | +31.3 |
-| Elusive | 93 | +345.0 | +377.4 | +30.7 |
-| FlyQuest RED | 97 | +334.1 | +361.4 | +29.4 |
-| Axial | 101 | +319.8 | +313.3 | +29.3 |
-| Addice | 102 | +315.9 | +357.6 | +27.9 |
-| New Legends | 103 | +308.8 | +360.9 | +26.9 |
-| Holy Squid Empire | 108 | +292.1 | +304.0 | +25.4 |
-| Hadouken | 100 | +323.2 | +278.6 | +24.0 |
-| Black Dragon Society | 109 | +284.1 | +320.9 | +23.9 |
+| Green Grove Retirement | 93 | +342.0 | +339.5 | +31.5 |
+| NineFlyeSports | 95 | +338.6 | +350.8 | +31.3 |
+| FlyQuest RED | 96 | +334.2 | +361.5 | +29.4 |
+| Axial | 100 | +320.0 | +313.4 | +29.3 |
+| Addice | 101 | +316.1 | +357.7 | +27.9 |
+| New Legends | 102 | +308.9 | +361.1 | +26.9 |
+| Holy Squid Empire | 107 | +292.3 | +304.1 | +25.5 |
+| Hadouken | 99 | +323.2 | +278.6 | +24.0 |
+| Black Dragon Society | 108 | +284.1 | +320.9 | +23.9 |
+| Bills | 98 | +325.3 | +279.4 | +22.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.9 points at current ratings.
 

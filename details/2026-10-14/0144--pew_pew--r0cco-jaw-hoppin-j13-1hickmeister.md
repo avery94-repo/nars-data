@@ -3,11 +3,11 @@ Team Name: pew pew
 Roster: R0cco, jaw, Hoppin, J13, 1HickMEISTER
 NARS Rank: 144 of 506
 
-Final Rating: 1596.7
+Final Rating: 1596.8
 Seeded Start: 1206.3
-H2H Adjustment: +390.4
+H2H Adjustment: +390.5 (capped at +-300, raw +390.4)
 
-Final Rating (1596.7) = Seeded Start (1206.3) + H2H Adjustment (+390.4)
+Final Rating (1596.8) = Seeded Start (1206.3) + H2H Adjustment (+390.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.071 | 1198.9 | -7.4 |
 | +90 days | 0.067 | 1193.8 | -12.6 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.245 vs 0.330 average, gap -0.085). Matching that average is worth about 29.8 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.245 vs 0.401 average, gap -0.156). Matching that average is worth about 54.6 seed points.
 
 - Tier Exposure drivers: S58 NA Open9-10 East - Playoffs A (2026-09-10) 0.97
 - Quality Wins drivers: beat fiveB at S58 NA Open9-10 East - Playoffs A (2026-09-06) 0.07; beat PPWesports at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.06; beat T Shirt Material at S58 NA Open9-10 East - Playoffs A (2026-09-04) 0.04
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Los Pollos Hermanos | 143 | 1598.2 | +1.5 | +158.7 |
-| Oath | 142 | 1602.2 | +5.5 | +153.5 |
-| US Navy Esports | 141 | 1605.0 | +8.3 | +154.3 |
-| crescent | 140 | 1608.4 | +11.7 | +158.2 |
-| Kaos | 139 | 1610.8 | +14.1 | +159.4 |
+| Los Pollos Hermanos | 143 | 1598.2 | +1.4 | +158.8 |
+| Oath | 142 | 1602.2 | +5.4 | +153.5 |
+| Elusive | 141 | 1604.4 | +7.6 | +167.6 |
+| US Navy Esports | 140 | 1605.0 | +8.2 | +154.3 |
+| crescent | 139 | 1608.4 | +11.6 | +158.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Swole Patrol | 45 | +317.7 | +258.4 | +27.5 |
-| Wanted Goons | 43 | +336.4 | +375.4 | +27.5 |
-| Xiaoma Gaming | 46 | +314.8 | +334.8 | +26.0 |
-| FLOW STATE | 47 | +300.7 | +313.3 | +24.7 |
-| No Future Lifes Over | 50 | +290.5 | +285.2 | +23.6 |
-| DESPAIR | 49 | +292.0 | +285.8 | +23.5 |
-| Zealous | 42 | +345.0 | +266.4 | +23.3 |
-| Phantom Sense | 51 | +287.1 | +337.0 | +22.5 |
-| TheMotherLovers | 53 | +281.3 | +290.4 | +22.0 |
-| Locally Hated | 41 | +349.9 | +333.0 | +19.9 |
+| Swole Patrol | 45 | +317.7 | +258.5 | +27.5 |
+| Wanted Goons | 43 | +336.5 | +375.6 | +27.5 |
+| Xiaoma Gaming | 46 | +314.9 | +335.0 | +26.0 |
+| FLOW STATE | 47 | +300.6 | +313.4 | +24.7 |
+| No Future Lifes Over | 50 | +290.4 | +285.3 | +23.6 |
+| DESPAIR | 49 | +291.9 | +285.9 | +23.5 |
+| Zealous | 42 | +345.0 | +266.5 | +23.3 |
+| Phantom Sense | 51 | +287.1 | +337.2 | +22.6 |
+| TheMotherLovers | 53 | +281.2 | +290.5 | +22.0 |
+| Locally Hated | 41 | +349.9 | +333.1 | +19.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +582.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +582.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 

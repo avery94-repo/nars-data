@@ -3,11 +3,11 @@ Team Name: Abusement Park
 Roster: -HuNTeR-, t4urtus, dyragu, -copey, LaRoLdInHo
 NARS Rank: 171 of 506
 
-Final Rating: 1533.7
+Final Rating: 1533.8
 Seeded Start: 1330.7
-H2H Adjustment: +203.0
+H2H Adjustment: +203.1
 
-Final Rating (1533.7) = Seeded Start (1330.7) + H2H Adjustment (+203.0)
+Final Rating (1533.8) = Seeded Start (1330.7) + H2H Adjustment (+203.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.165 | 1330.7 | - |
 | +30 days | 0.140 | 1295.5 | -35.2 |
 | +60 days | 0.116 | 1262.2 | -68.5 |
-| +90 days | 0.080 | 1212.0 | -118.7 |
+| +90 days | 0.080 | 1212.1 | -118.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.086 vs 0.065 average, gap +0.021). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Salsas Mazzin Crew | 170 | 1534.5 | +0.8 | +144.5 |
-| Zenano | 169 | 1535.2 | +1.5 | +139.5 |
-| For Fun Gamers | 168 | 1535.4 | +1.7 | +146.2 |
-| Pug Palace | 167 | 1535.8 | +2.1 | +148.1 |
-| Wuff Widas | 166 | 1539.6 | +5.9 | +145.3 |
+| Salsas Mazzin Crew | 170 | 1534.5 | +0.7 | +144.5 |
+| Zenano | 169 | 1535.2 | +1.4 | +139.6 |
+| For Fun Gamers | 168 | 1535.4 | +1.6 | +146.3 |
+| Pug Palace | 167 | 1535.9 | +2.1 | +148.2 |
+| Wuff Widas | 166 | 1539.6 | +5.8 | +145.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| TheMotherLovers | 53 | +344.3 | +294.0 | +26.8 |
-| Omen Esports | 57 | +324.1 | +306.7 | +24.2 |
-| flat earth | 64 | +292.8 | +271.1 | +22.2 |
-| Endless Esports | 65 | +292.3 | +273.2 | +22.1 |
-| GG | 52 | +347.8 | +242.8 | +21.8 |
-| DUMBO | 63 | +293.4 | +298.1 | +21.4 |
-| WhalersOnDaMoon | 66 | +288.2 | +276.1 | +20.6 |
-| NZ Gaming | 69 | +279.5 | +250.1 | +19.9 |
-| Sharp | 54 | +334.1 | +298.4 | +19.4 |
-| Evade Gaming | 55 | +331.4 | +237.8 | +18.1 |
+| TheMotherLovers | 53 | +344.2 | +294.1 | +26.8 |
+| Omen Esports | 57 | +324.2 | +306.9 | +24.2 |
+| flat earth | 64 | +292.8 | +271.2 | +22.3 |
+| Endless Esports | 65 | +292.3 | +273.4 | +22.1 |
+| GG | 52 | +347.7 | +242.8 | +21.8 |
+| DUMBO | 63 | +293.3 | +298.2 | +21.4 |
+| WhalersOnDaMoon | 66 | +288.1 | +276.1 | +20.6 |
+| NZ Gaming | 69 | +279.6 | +250.2 | +20.0 |
+| Sharp | 54 | +334.1 | +298.5 | +19.4 |
+| Evade Gaming | 55 | +331.3 | +237.9 | +18.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +515.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +516.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -81,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.10 | 0.89 | +44.3 | -HuNTeR-, -copey, LaRoLdInHo, den1s, dyragu |
 | 2026-08-21 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.07 | 0.85 | +40.9 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-08-19 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.04 | 0.84 | +68.8 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
-| 2026-08-14 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -218.5 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
+| 2026-08-14 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -218.6 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-08-07 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -144.1 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-08-05 | mas paspas | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.13 | 0.74 | +104.6 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-31 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.05 | 0.71 | +1.4 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
@@ -91,7 +91,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -284.0 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-15 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.03 | 0.60 | +127.2 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-06-06 | STFDYSAB | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.33 | 1.03 | 1.00 | 0.34 | 0.00 | 0.00 | -105.5 | -HuNTeR-, -copey, GordiBoi, dyragu, t4urtus |
-| 2026-06-04 | Hairy Scary Bandits | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.03 | 1.00 | 0.33 | 0.06 | 0.33 | +189.5 | -HuNTeR-, -copey, GordiBoi, _37, dyragu |
+| 2026-06-04 | Hairy Scary Bandits | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.32 | 1.03 | 1.00 | 0.33 | 0.06 | 0.33 | +189.6 | -HuNTeR-, -copey, GordiBoi, _37, dyragu |
 | 2026-05-31 | Full White | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.02 | 0.30 | +203.6 | -HuNTeR-, -copey, GordiBoi, dyragu, t4urtus |
 | 2026-05-27 | Baja Blasters | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -2.2 | -HuNTeR-, -copey, GordiBoi, dyragu, t4urtus |
 | 2026-05-22 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.23 | +152.9 | -HuNTeR-, -copey, GordiBoi, _37, dyragu |

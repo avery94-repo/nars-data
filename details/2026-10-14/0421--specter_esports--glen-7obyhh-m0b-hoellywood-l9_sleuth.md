@@ -3,11 +3,11 @@ Team Name: Specter Esports
 Roster: Glen, 7obyhh, M0B, Hoellywood, L9_Sleuth
 NARS Rank: 421 of 506
 
-Final Rating: 999.7
+Final Rating: 999.6
 Seeded Start: 1242.3
-H2H Adjustment: -242.6
+H2H Adjustment: -242.7
 
-Final Rating (999.7) = Seeded Start (1242.3) + H2H Adjustment (-242.6)
+Final Rating (999.6) = Seeded Start (1242.3) + H2H Adjustment (-242.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Strafe | 420 | 1002.1 | +2.4 | +171.0 |
-| puggin4seb | 419 | 1002.8 | +3.1 | +171.1 |
-| Kodaks Lettuce | 418 | 1011.4 | +11.7 | +171.5 |
-| Mace Lindu Ruff Rebound | 417 | 1017.2 | +17.5 | +171.5 |
-| HigherEducation | 416 | 1017.5 | +17.8 | +167.9 |
+| Strafe | 420 | 1002.1 | +2.5 | +171.0 |
+| puggin4seb | 419 | 1002.8 | +3.2 | +171.1 |
+| Kodaks Lettuce | 418 | 1011.4 | +11.8 | +171.5 |
+| Mace Lindu Ruff Rebound | 417 | 1017.2 | +17.6 | +171.6 |
+| HigherEducation | 416 | 1017.5 | +17.9 | +167.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| PASSION | 269 | +349.7 | +345.1 | +32.0 |
-| Saltcrew | 276 | +321.1 | +306.3 | +30.0 |
-| Chopped | 277 | +320.1 | +332.6 | +29.3 |
-| Demolition | 279 | +316.3 | +304.7 | +29.2 |
-| Adria eSports | 281 | +314.5 | +340.9 | +28.3 |
-| ItAintOverYet | 284 | +302.9 | +294.1 | +27.6 |
-| Entertainment Cheese | 285 | +301.1 | +321.6 | +26.8 |
-| Midwest Farmers | 286 | +296.5 | +317.2 | +26.2 |
-| Imperium | 283 | +305.8 | +271.9 | +26.1 |
-| 55TH ST | 288 | +291.6 | +320.7 | +25.2 |
+| PASSION | 269 | +349.8 | +345.1 | +32.0 |
+| Saltcrew | 276 | +321.2 | +306.3 | +30.0 |
+| Chopped | 277 | +320.2 | +332.6 | +29.3 |
+| Demolition | 279 | +316.5 | +304.7 | +29.2 |
+| Adria eSports | 281 | +314.6 | +340.9 | +28.3 |
+| ItAintOverYet | 284 | +303.0 | +294.1 | +27.6 |
+| Entertainment Cheese | 285 | +301.2 | +321.6 | +26.8 |
+| Midwest Farmers | 286 | +296.6 | +317.2 | +26.2 |
+| Imperium | 283 | +306.0 | +272.0 | +26.1 |
+| 55TH ST | 288 | +291.7 | +320.7 | +25.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -88,9 +88,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Wiggle Peeks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -3.2 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
 | 2026-07-15 | DKR Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -0.6 | 7obyhh, Glen, Hoellywood, L9_Sleuth, M0B |
 | 2026-05-22 | gooshedd | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -246.0 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
-| 2026-05-20 | The Homies | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -307.8 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
-| 2026-05-15 | Wiggle Peeks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +416.5 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
-| 2026-05-13 | Cadillac F1 eSports Team | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -372.6 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
+| 2026-05-20 | The Homies | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -307.9 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
+| 2026-05-15 | Wiggle Peeks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +416.6 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
+| 2026-05-13 | Cadillac F1 eSports Team | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -372.7 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
 | 2026-04-22 | FUELED BY HATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -181.3 | 7obyhh, Glen, Gliss, Hoellywood, ScoobX |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

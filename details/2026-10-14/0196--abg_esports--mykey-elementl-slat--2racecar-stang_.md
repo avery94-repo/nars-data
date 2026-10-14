@@ -3,11 +3,11 @@ Team Name: ABG Esports
 Roster: mykey, EleMentL, slat-, 2RACECAR, Stang_
 NARS Rank: 196 of 506
 
-Final Rating: 1488.7
+Final Rating: 1488.8
 Seeded Start: 1381.6
-H2H Adjustment: +107.1
+H2H Adjustment: +107.2
 
-Final Rating (1488.7) = Seeded Start (1381.6) + H2H Adjustment (+107.1)
+Final Rating (1488.8) = Seeded Start (1381.6) + H2H Adjustment (+107.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.201 | 1381.6 | - |
 | +30 days | 0.187 | 1361.7 | -19.9 |
 | +60 days | 0.173 | 1342.7 | -38.9 |
-| +90 days | 0.152 | 1312.2 | -69.4 |
+| +90 days | 0.152 | 1312.3 | -69.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.059 vs 0.028 average, gap +0.031). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| ClanAgain | 195 | 1493.3 | +4.6 | +89.9 |
-| MEET THE WALL | 194 | 1497.0 | +8.3 | +88.0 |
-| 91AshLiu | 193 | 1497.1 | +8.4 | +85.9 |
-| teamington | 192 | 1498.0 | +9.3 | +93.1 |
-| UncsStillGotIt | 191 | 1499.3 | +10.6 | +100.4 |
+| ClanAgain | 195 | 1493.3 | +4.5 | +89.8 |
+| MEET THE WALL | 194 | 1497.0 | +8.2 | +88.0 |
+| 91AshLiu | 193 | 1497.1 | +8.3 | +85.9 |
+| teamington | 192 | 1498.0 | +9.2 | +93.1 |
+| UncsStillGotIt | 191 | 1499.3 | +10.5 | +100.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | flat earth | 64 | +337.8 | +173.7 | +16.0 |
-| Endless Esports | 65 | +337.3 | +175.3 | +15.9 |
-| NZ Gaming | 69 | +324.5 | +159.4 | +15.3 |
-| DUMBO | 63 | +338.4 | +193.9 | +15.3 |
-| WhalersOnDaMoon | 66 | +333.2 | +178.0 | +15.2 |
-| GeneticDiff | 70 | +304.2 | +161.7 | +14.1 |
-| fih hou | 73 | +297.0 | +168.3 | +13.5 |
-| Asoka | 74 | +294.6 | +150.7 | +13.3 |
+| Endless Esports | 65 | +337.3 | +175.4 | +15.9 |
+| NZ Gaming | 69 | +324.6 | +159.4 | +15.3 |
+| DUMBO | 63 | +338.3 | +193.9 | +15.3 |
+| WhalersOnDaMoon | 66 | +333.1 | +178.0 | +15.2 |
+| GeneticDiff | 70 | +304.1 | +161.7 | +14.1 |
+| fih hou | 73 | +296.9 | +168.3 | +13.5 |
+| Asoka | 74 | +294.5 | +150.7 | +13.3 |
 | Club 333 | 76 | +293.6 | +182.4 | +13.2 |
-| Kairo | 79 | +290.2 | +148.1 | +13.0 |
+| Kairo | 79 | +290.2 | +148.1 | +12.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +274.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +274.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.238 | 1433.5 | - |
 | +30 days | 0.217 | 1403.9 | -29.6 |
 | +60 days | 0.203 | 1384.2 | -49.3 |
-| +90 days | 0.179 | 1350.0 | -83.5 |
+| +90 days | 0.179 | 1350.2 | -83.3 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.087 vs 0.486 average, gap -0.399). Matching that average is worth about 139.7 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | ZETTA | 39 | 1970.0 | +23.0 | +122.8 |
-| North Forge | 38 | 1971.2 | +24.2 | +133.0 |
-| unreal nightmare | 37 | 1976.6 | +29.6 | +121.7 |
-| EMPIRE | 36 | 1983.6 | +36.6 | +133.3 |
-| Holly Molly | 35 | 1988.4 | +41.4 | +126.4 |
+| North Forge | 38 | 1971.4 | +24.4 | +133.1 |
+| unreal nightmare | 37 | 1976.8 | +29.8 | +121.8 |
+| EMPIRE | 36 | 1983.8 | +36.8 | +133.4 |
+| Holly Molly | 35 | 1988.5 | +41.5 | +126.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| regain | 12 | +309.2 | +247.5 | +17.8 |
-| Detonate | 13 | +299.7 | +217.7 | +12.7 |
-| Brahmas | 14 | +260.5 | +174.9 | +12.6 |
-| Old Meta | 15 | +229.2 | +196.0 | +6.8 |
-| FarmVille | 16 | +220.6 | +210.4 | +5.0 |
-| NuTorious | 17 | +218.7 | +166.6 | +4.5 |
-| Villainous | 18 | +213.7 | +205.9 | +3.0 |
-| Zomblers | 22 | +167.7 | +188.7 | -0.0 |
-| Hairy Scary Bandits | 32 | +52.4 | +133.2 | -0.0 |
-| North Forge | 38 | +24.2 | +133.0 | -0.0 |
+| regain | 12 | +309.4 | +247.7 | +17.8 |
+| Detonate | 13 | +300.0 | +217.9 | +12.7 |
+| Brahmas | 14 | +260.7 | +175.0 | +12.7 |
+| Old Meta | 15 | +229.2 | +196.1 | +6.8 |
+| FarmVille | 16 | +220.9 | +210.6 | +5.1 |
+| NuTorious | 17 | +218.9 | +166.7 | +4.5 |
+| Villainous | 18 | +213.9 | +206.1 | +3.1 |
+| Zomblers | 22 | +167.9 | +188.9 | -0.0 |
+| Hairy Scary Bandits | 32 | +52.5 | +133.2 | -0.0 |
+| North Forge | 38 | +24.4 | +133.1 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +359.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +359.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
 
@@ -81,18 +81,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | goofball gaming | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.00 | 0.00 | -144.9 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-08-28 | Old Meta | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.14 | 1.02 | +141.1 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-08-26 | 1NT | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.12 | 1.01 | +89.3 | Hunterzone, Kryptic999, fina, pancake, xsj |
-| 2026-08-21 | STFDYSAB | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.12 | 0.97 | +54.2 | Hunterzone, Kryptic999, fina, pancake, xsj |
+| 2026-08-21 | STFDYSAB | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.12 | 0.97 | +54.3 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-08-19 | penazoid | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.12 | 0.95 | +34.6 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-08-14 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.12 | 0.92 | +191.4 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-08-12 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -26.0 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-08-07 | Over Your Head | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -96.9 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-08-05 | Evil Reunion | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -135.0 | Hunterzone, Kryptic999, fina, pancake, xsj |
-| 2026-07-31 | qcclan | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.08 | 0.81 | +181.4 | Hunterzone, Kryptic999, fina, icetray, pancake |
+| 2026-07-31 | qcclan | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.08 | 0.81 | +181.5 | Hunterzone, Kryptic999, fina, icetray, pancake |
 | 2026-07-29 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -109.5 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-07-24 | 5Frag Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.10 | 0.75 | +24.4 | Hunterzone, Kryptic999, fina, icetray, xsj |
 | 2026-07-22 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.12 | 0.74 | +416.7 | Hunterzone, Kryptic999, fina, icetray, xsj |
 | 2026-05-22 | Conscious Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -155.6 | Hunterzone, KYAL, Kryptic999, fina, pancake |
-| 2026-05-20 | DKR Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -343.5 | Hunterzone, KYAL, Kryptic999, fina, pancake |
+| 2026-05-20 | DKR Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -343.6 | Hunterzone, KYAL, Kryptic999, fina, pancake |
 | 2026-05-15 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -403.2 | Hunterzone, KYAL, Kryptic999, fina, pancake |
 | 2026-05-13 | Shaboing Boing Bandits | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.03 | 0.00 | +294.4 | Hunterzone, KYAL, Kryptic999, fina, pancake |
 | 2026-05-08 | Bird Squishers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.01 | 0.15 | +0.3 | Hunterzone, KYAL, Kryptic999, fina, pancake |

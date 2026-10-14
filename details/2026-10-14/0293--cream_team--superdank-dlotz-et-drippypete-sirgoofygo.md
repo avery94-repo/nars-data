@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.093 | 1230.2 | - |
 | +30 days | 0.098 | 1236.9 | +6.7 |
-| +60 days | 0.100 | 1239.6 | +9.5 |
-| +90 days | 0.104 | 1246.0 | +15.8 |
+| +60 days | 0.100 | 1239.7 | +9.5 |
+| +90 days | 0.104 | 1246.0 | +15.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.269 vs 0.374 average, gap -0.105). Matching that average is worth about 36.7 seed points.
 
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Tractors | 292 | 1283.0 | +0.6 | +147.8 |
+| Tractors | 292 | 1283.0 | +0.6 | +147.9 |
 | SwagMonkeyHats | 291 | 1283.2 | +0.8 | +148.1 |
 | Resurgence | 290 | 1283.6 | +1.2 | +145.4 |
 | Les Ptis Jus | 289 | 1291.2 | +8.8 | +140.2 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team GREAT | 128 | +346.8 | +259.1 | +27.4 |
-| Torii | 129 | +345.6 | +288.1 | +26.7 |
-| 5Frag Gaming | 134 | +339.0 | +293.6 | +26.0 |
-| Kaos | 139 | +328.4 | +247.1 | +25.9 |
-| KODEX ESPORTS | 137 | +334.1 | +335.7 | +24.8 |
-| Team Amplus | 145 | +311.8 | +273.4 | +24.0 |
+| Team GREAT | 127 | +346.8 | +259.1 | +27.4 |
+| Torii | 128 | +345.7 | +288.2 | +26.7 |
+| 5Frag Gaming | 133 | +339.0 | +293.7 | +26.0 |
+| Kaos | 138 | +328.4 | +247.1 | +25.9 |
+| KODEX ESPORTS | 135 | +334.3 | +335.8 | +24.8 |
+| Elusive | 141 | +322.0 | +305.4 | +24.5 |
+| Team Amplus | 145 | +311.9 | +273.4 | +24.0 |
 | Kevin James Fan Club | 148 | +298.5 | +259.6 | +22.5 |
-| Biggie Cheese Fan Club | 151 | +294.2 | +236.9 | +22.1 |
+| Biggie Cheese Fan Club | 151 | +294.2 | +237.0 | +22.1 |
 | WhiteBoyWinter | 155 | +284.3 | +244.7 | +20.6 |
-| Oath | 142 | +319.8 | +232.0 | +17.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +509.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +509.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.3), SixSevenZaZa (+0.5).
 

@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.124 | 1273.4 | - |
 | +30 days | 0.128 | 1279.4 | +6.0 |
 | +60 days | 0.130 | 1281.8 | +8.4 |
-| +90 days | 0.133 | 1286.9 | +13.5 |
+| +90 days | 0.134 | 1287.0 | +13.6 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.385 vs 0.550 average, gap -0.165). Matching that average is worth about 57.8 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.385 vs 0.550 average, gap -0.165). Matching that average is worth about 57.7 seed points.
 
 - Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-09) 1.00; S58 NA Open9-10 East - Playoffs C (2026-09-12) 1.00
 - Quality Wins drivers: beat Boop Boop Gang at S58 NA Open9-10 East - Playoffs C (2026-09-10) 0.08; beat Comeback Bandits at S59 NA Intermediate A - Regular Season (2026-10-09) 0.07; beat MONARCH at S59 NA Intermediate A - Regular Season (2026-10-08) 0.07
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Firstwave | 175 | 1527.0 | +5.1 | +113.2 |
-| Armored Talent | 174 | 1529.8 | +7.9 | +120.1 |
+| Armored Talent | 174 | 1529.9 | +8.0 | +120.1 |
 | Shaboing Boing Bandits | 173 | 1530.6 | +8.7 | +119.0 |
-| BucketJonsBoys | 172 | 1533.0 | +11.1 | +114.4 |
-| Abusement Park | 171 | 1533.7 | +11.8 | +111.8 |
+| BucketJonsBoys | 172 | 1533.1 | +11.2 | +114.4 |
+| Abusement Park | 171 | 1533.8 | +11.9 | +111.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Omen Esports | 57 | +335.9 | +235.6 | +18.9 |
-| flat earth | 64 | +304.6 | +208.6 | +17.9 |
-| Endless Esports | 65 | +304.1 | +210.4 | +17.8 |
+| Omen Esports | 57 | +336.1 | +235.7 | +18.9 |
+| flat earth | 64 | +304.7 | +208.6 | +17.9 |
+| Endless Esports | 65 | +304.2 | +210.5 | +17.8 |
 | DUMBO | 63 | +305.2 | +231.3 | +17.3 |
-| WhalersOnDaMoon | 66 | +300.0 | +213.1 | +16.8 |
-| NZ Gaming | 69 | +291.3 | +191.8 | +16.4 |
-| Sharp | 54 | +345.9 | +228.1 | +15.1 |
-| F5 Esports | 60 | +313.4 | +220.7 | +14.2 |
+| WhalersOnDaMoon | 66 | +300.0 | +213.2 | +16.8 |
+| NZ Gaming | 69 | +291.5 | +191.9 | +16.4 |
+| Sharp | 54 | +346.0 | +228.1 | +15.1 |
+| F5 Esports | 60 | +313.6 | +220.7 | +14.2 |
 | Evade Gaming | 55 | +343.2 | +178.9 | +14.1 |
-| GeneticDiff | 70 | +271.0 | +193.2 | +13.9 |
+| GeneticDiff | 70 | +271.0 | +193.2 | +14.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +359.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +359.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 

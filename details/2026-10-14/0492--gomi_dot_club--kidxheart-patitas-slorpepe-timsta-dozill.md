@@ -4,14 +4,14 @@ Roster: KiDxHeart, patitas, slorpepe, timsta, DOZILLA
 NARS Rank: 492 of 506
 
 Final Rating: 605.0
-Seeded Start: 1176.6
-H2H Adjustment: -571.6
+Seeded Start: 1176.5
+H2H Adjustment: -571.5 (capped at +-300, raw -571.6)
 
-Final Rating (605.0) = Seeded Start (1176.6) + H2H Adjustment (-571.6)
+Final Rating (605.0) = Seeded Start (1176.5) + H2H Adjustment (-571.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.055 x 1400 = 1176.6
+                = 1100 + 0.055 x 1400 = 1176.5
 
 seed_factor 0.055 = 0.25 x Tier Exposure (0.039) + 0.50 x Quality Wins (0.007) + 0.25 x Opponent Network (0.165)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.055 | 1176.6 | - |
+| Now | 0.055 | 1176.5 | - |
 | +30 days | 0.041 | 1157.9 | -18.6 |
 | +60 days | 0.034 | 1148.1 | -28.5 |
 | +90 days | 0.022 | 1130.8 | -45.8 |
@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Muncle | 491 | 633.1 | +28.1 | +175.3 |
+| Muncle | 491 | 633.0 | +28.0 | +175.3 |
 | 37U Passion | 490 | 637.3 | +32.3 | +172.6 |
 | Casipanther | 489 | 638.9 | +33.9 | +173.1 |
-| Potential to Stack Dough | 488 | 686.0 | +81.0 | +188.8 |
-| Grandpa Berets | 487 | 691.1 | +86.1 | +207.0 |
+| Potential to Stack Dough | 488 | 685.9 | +80.9 | +188.8 |
+| Grandpa Berets | 487 | 691.0 | +86.0 | +207.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,10 +51,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | Counter Legends | 435 | +336.4 | +283.6 | +31.2 |
 | Dead Pixel | 443 | +318.2 | +334.1 | +29.0 |
-| It Doesnt Matter | 446 | +304.4 | +294.1 | +27.8 |
+| It Doesnt Matter | 446 | +304.3 | +294.1 | +27.8 |
 | The Bobs | 434 | +341.0 | +285.4 | +27.1 |
 | Team Deathgrip | 448 | +299.1 | +280.3 | +27.1 |
-| wabbit2 | 445 | +307.5 | +272.6 | +25.0 |
+| wabbit2 | 445 | +307.4 | +272.6 | +25.0 |
 | GoopT | 452 | +289.4 | +313.6 | +24.5 |
 | Vexation Esports | 444 | +309.0 | +273.1 | +23.1 |
 | insane players | 453 | +284.5 | +263.8 | +22.4 |
@@ -81,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -120.4 | DOZILLA, KiDxHeart, poon, slorpepe, timsta |
 | 2026-08-05 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -45.5 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
 | 2026-07-31 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +271.6 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
-| 2026-07-29 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -71.9 | DOZILLA, KiDxHeart, _m00se_, slorpepe, timsta |
+| 2026-07-29 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -71.8 | DOZILLA, KiDxHeart, _m00se_, slorpepe, timsta |
 | 2026-07-24 | Brothers United | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.02 | 0.65 | +249.0 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
 | 2026-07-22 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -0.0 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
 | 2026-07-17 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -88.2 | DOZILLA, KiDxHeart, patitas, poon, slorpepe |

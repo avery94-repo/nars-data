@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.144 | 1301.9 | - |
 | +30 days | 0.122 | 1270.9 | -31.0 |
 | +60 days | 0.108 | 1251.0 | -50.9 |
-| +90 days | 0.084 | 1218.2 | -83.7 |
+| +90 days | 0.084 | 1218.3 | -83.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.042 vs 0.029 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -42,7 +42,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Bald | 219 | 1443.1 | +3.8 | +70.8 |
 | Koi Pond | 218 | 1446.0 | +6.7 | +72.0 |
 | VARTOVIK | 217 | 1449.9 | +10.6 | +80.9 |
-| GOYPEEKING | 216 | 1450.0 | +10.7 | +73.5 |
+| GOYPEEKING | 216 | 1450.0 | +10.7 | +73.6 |
 | Defaulting | 215 | 1451.7 | +12.4 | +78.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,15 +50,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Asoka | 74 | +344.0 | +125.5 | +12.7 |
-| Kairo | 79 | +339.6 | +123.4 | +12.6 |
+| Kairo | 79 | +339.7 | +123.4 | +12.6 |
 | fih hou | 73 | +346.4 | +141.2 | +12.5 |
-| firesale | 82 | +328.9 | +132.8 | +12.3 |
-| Club 333 | 76 | +343.0 | +154.0 | +12.3 |
-| Diggers | 86 | +324.1 | +118.6 | +12.2 |
-| mas paspas | 75 | +343.7 | +147.3 | +11.9 |
+| firesale | 82 | +329.0 | +132.8 | +12.3 |
+| Club 333 | 76 | +343.1 | +154.0 | +12.3 |
+| Diggers | 86 | +324.3 | +118.6 | +12.2 |
+| mas paspas | 75 | +343.7 | +147.4 | +11.9 |
 | CNCS Last Hope | 72 | +349.4 | +111.1 | +11.9 |
 | Overtake Sector | 89 | +311.6 | +158.0 | +11.4 |
-| Fire Nation | 90 | +310.4 | +122.3 | +11.4 |
+| Fire Nation | 90 | +310.4 | +122.4 | +11.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +208.6 points at current ratings.
 
@@ -90,19 +90,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -70.9 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-08-05 | FUELED BY HATE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -123.3 | Copes-, Zazu, cass, chnce, spooky77 |
 | 2026-07-31 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -104.7 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
-| 2026-07-29 | VOID ALUNE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.15 | 0.79 | +106.1 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
+| 2026-07-29 | VOID ALUNE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.15 | 0.79 | +106.2 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-07-24 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -10.6 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-07-22 | ASYCS KITTENS | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -334.5 | Copes-, Zazu, blegh, chnce, spooky77 |
 | 2026-07-16 | Top One Percent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.04 | 0.69 | +45.3 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-07-15 | STFDYSAB | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.08 | 0.68 | +438.0 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-05-22 | qcclan | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.03 | 0.26 | +311.2 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
-| 2026-05-20 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -227.1 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
+| 2026-05-20 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -227.2 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-05-15 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +122.2 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-05-13 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -71.7 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-05-08 | Asoka | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -113.4 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-05-06 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -106.5 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
-| 2026-05-01 | James Bond Bois | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +134.3 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
-| 2026-04-29 | Over Your Head | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -201.9 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
+| 2026-05-01 | James Bond Bois | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +134.4 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
+| 2026-04-29 | Over Your Head | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -202.0 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-04-24 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +404.2 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-04-22 | 027fam | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -248.3 | -sly, 1phant0m, Zazu, chnce, spooky77 |
 

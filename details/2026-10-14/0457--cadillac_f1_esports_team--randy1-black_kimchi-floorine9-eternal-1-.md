@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.108 | 1251.7 | - |
 | +30 days | 0.094 | 1231.5 | -20.2 |
 | +60 days | 0.085 | 1218.5 | -33.3 |
-| +90 days | 0.068 | 1194.6 | -57.2 |
+| +90 days | 0.068 | 1194.6 | -57.1 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.019 vs 0.006 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -55,12 +55,12 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Florida Man | 345 | +323.2 | +286.7 | +23.9 |
 | Samantha 4 | 351 | +315.0 | +247.7 | +23.8 |
 | RunTheDamnBall | 352 | +304.1 | +259.0 | +22.4 |
-| DeathMark E-Sports | 353 | +303.5 | +266.5 | +22.2 |
+| DeathMark E-Sports | 353 | +303.5 | +266.6 | +22.3 |
 | Comeback Bandits | 355 | +297.6 | +251.6 | +21.7 |
 | 99 Thieves | 354 | +299.3 | +250.9 | +21.6 |
-| RH Help Desk | 358 | +295.5 | +270.0 | +21.2 |
+| RH Help Desk | 358 | +295.6 | +270.0 | +21.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +489.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +489.5 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs Aers Money Crew (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
@@ -88,7 +88,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Lynnsanity | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -29.4 | BLACK_KIMCHI, Eternal-1, Randy1, Spr3ad, floorine9 |
 | 2026-07-15 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -0.0 | BLACK_KIMCHI, Eternal-1, Randy1, Spr3ad, floorine9 |
 | 2026-05-22 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -12.7 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
-| 2026-05-15 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -299.5 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
+| 2026-05-15 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -299.6 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
 | 2026-05-13 | Specter Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +367.2 | BenjiBeatsu, Eternal-1, MyKeys, Randy1, Spr3ad |
 | 2026-05-06 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -1.0 | BenjiBeatsu, Eternal-1, Randy1, Spr3ad, j4b |
 | 2026-05-01 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -240.3 | Eternal-1, MyKeys, Randy1, Spr3ad, j4b |

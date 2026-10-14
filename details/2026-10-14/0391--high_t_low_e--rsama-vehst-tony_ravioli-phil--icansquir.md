@@ -42,22 +42,22 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Sable | 390 | 1080.2 | +6.8 | +164.4 |
 | Second Nature | 389 | 1082.1 | +8.7 | +165.0 |
 | Kahoot Squad | 388 | 1082.6 | +9.2 | +170.6 |
-| Flow Esports | 387 | 1083.6 | +10.2 | +173.3 |
+| Flow Esports | 387 | 1083.5 | +10.1 | +173.3 |
 | MXA | 386 | 1090.7 | +17.3 | +167.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| FUELED BY HATE | 241 | +330.9 | +305.8 | +31.2 |
+| FUELED BY HATE | 241 | +330.9 | +305.7 | +31.2 |
 | YHTR | 235 | +340.3 | +345.1 | +31.1 |
 | Fortis Fortuna Adiuvat | 237 | +332.9 | +326.9 | +30.9 |
-| NXG Esports | 242 | +330.6 | +338.6 | +30.9 |
+| NXG Esports | 242 | +330.7 | +338.6 | +30.9 |
 | brb grinding minecraft | 239 | +332.1 | +350.4 | +30.7 |
 | Casual Mature Gamers | 238 | +332.5 | +357.1 | +29.9 |
-| skebob | 231 | +347.3 | +287.8 | +27.6 |
+| skebob | 231 | +347.5 | +287.9 | +27.6 |
 | The Kerbins | 250 | +305.2 | +325.0 | +27.4 |
-| Dude Picks | 252 | +304.1 | +339.4 | +26.8 |
+| Dude Picks | 252 | +304.1 | +339.3 | +26.8 |
 | Eightball | 253 | +302.2 | +315.3 | +26.7 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
@@ -80,7 +80,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-18 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.20 | 0.00 | 0.00 | -10.2 | Phil-, Tony_Ravioli, Vehst, iCanSquirt, xdchet |
 | 2026-05-13 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -18.6 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
 | 2026-05-08 | Lan Bears | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -2.7 | Phil-, RSama, Tony_Ravioli, iCanSquirt, xdchet |
-| 2026-04-30 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -361.3 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
+| 2026-04-30 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -361.4 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
 | 2026-04-29 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -420.1 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
 | 2026-04-24 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +307.6 | Phil-, RSama, Tony_Ravioli, iCanSquirt, xdchet |
 | 2026-04-22 | Onsite has Oil | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +235.6 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |

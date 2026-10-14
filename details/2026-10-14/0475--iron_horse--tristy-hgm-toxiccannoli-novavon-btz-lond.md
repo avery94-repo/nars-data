@@ -5,7 +5,7 @@ NARS Rank: 475 of 506
 
 Final Rating: 779.9
 Seeded Start: 1115.5
-H2H Adjustment: -335.6 (capped at +-300, raw -335.5)
+H2H Adjustment: -335.6
 
 Final Rating (779.9) = Seeded Start (1115.5) + H2H Adjustment (-335.6)
 
@@ -40,9 +40,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Another Day in Paradise | 474 | 780.1 | +0.2 | +162.4 |
-| AML | 473 | 793.6 | +13.7 | +167.6 |
+| AML | 473 | 793.5 | +13.6 | +167.6 |
 | Therapist | 472 | 797.3 | +17.4 | +167.8 |
-| CounterStreakrs | 471 | 808.2 | +28.3 | +171.3 |
+| CounterStreakrs | 471 | 808.1 | +28.2 | +171.3 |
 | In Our Prime | 470 | 811.1 | +31.2 | +172.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,15 +50,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Team Zhao | 373 | +336.5 | +352.2 | +30.5 |
-| Shadow Wizard Money Gang | 376 | +327.9 | +322.9 | +30.4 |
+| Shadow Wizard Money Gang | 376 | +327.8 | +322.9 | +30.4 |
 | Zamgaa Anime Aimers | 378 | +324.1 | +304.7 | +30.4 |
 | Costco Family | 382 | +322.6 | +306.3 | +30.2 |
 | We Play Naked | 380 | +323.3 | +322.3 | +29.9 |
-| Goyim Gladiators | 379 | +324.0 | +334.0 | +29.7 |
-| Texas Orange | 383 | +317.6 | +306.6 | +29.5 |
-| Exnitas | 385 | +313.3 | +292.8 | +29.1 |
-| grogu | 371 | +344.1 | +286.5 | +27.7 |
-| Kahoot Squad | 388 | +302.7 | +294.6 | +27.5 |
+| Goyim Gladiators | 379 | +324.0 | +334.1 | +29.7 |
+| Texas Orange | 383 | +317.5 | +306.6 | +29.5 |
+| Exnitas | 385 | +313.3 | +292.9 | +29.1 |
+| grogu | 371 | +344.1 | +286.6 | +27.7 |
+| Kahoot Squad | 388 | +302.7 | +294.7 | +27.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -75,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-29 | FLying PiGs | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -176.0 | -DAMFIE, Lilkreutz, NoVaVoN, ToxicCannoli, btz |
-| 2026-05-23 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.01 | 1.00 | 0.24 | 0.00 | 0.00 | -113.8 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
+| 2026-05-23 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.01 | 1.00 | 0.24 | 0.00 | 0.00 | -113.9 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
 | 2026-05-22 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -151.6 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
 | 2026-05-20 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -89.0 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |
 | 2026-05-15 | TahMeow | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -304.1 | London, NoVaVoN, TRISTY-HGM, ToxicCannoli, btz |

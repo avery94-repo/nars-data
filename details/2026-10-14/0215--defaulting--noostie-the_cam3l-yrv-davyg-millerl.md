@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.093 | 1229.6 | - |
 | +30 days | 0.095 | 1232.4 | +2.8 |
 | +60 days | 0.095 | 1233.4 | +3.8 |
-| +90 days | 0.097 | 1235.2 | +5.6 |
+| +90 days | 0.097 | 1235.3 | +5.7 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.270 vs 0.353 average, gap -0.083). Matching that average is worth about 29.0 seed points.
 
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GeneticDiff | 70 | +341.2 | +165.8 | +15.6 |
+| GeneticDiff | 70 | +341.2 | +165.9 | +15.6 |
 | Asoka | 74 | +331.6 | +154.4 | +15.3 |
 | fih hou | 73 | +334.0 | +173.1 | +15.2 |
-| Kairo | 79 | +327.2 | +151.8 | +15.1 |
-| Club 333 | 76 | +330.6 | +188.3 | +14.9 |
-| firesale | 82 | +316.5 | +162.7 | +14.7 |
+| Kairo | 79 | +327.3 | +151.8 | +15.1 |
+| Club 333 | 76 | +330.7 | +188.3 | +14.9 |
+| firesale | 82 | +316.6 | +162.8 | +14.8 |
 | mas paspas | 75 | +331.3 | +180.4 | +14.5 |
-| Diggers | 86 | +311.7 | +145.8 | +14.4 |
+| Diggers | 86 | +311.9 | +145.8 | +14.4 |
 | CNCS Last Hope | 72 | +337.0 | +137.3 | +14.4 |
 | Overtake Sector | 89 | +299.2 | +191.8 | +13.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +267.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +267.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -69,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +168.9 | DavyG, JCIV, MTL_, YRV, noostie |
+| 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +169.0 | DavyG, JCIV, MTL_, YRV, noostie |
 | 2026-09-12 | COGNITIVE | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.09 | 0.00 | 0.00 | -119.1 | DavyG, MTL_, The_Cam3l, YRV, santanamolly |
 | 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.08 | 1.07 | +96.1 | DavyG, EndMeThx, JCIV, MTL_, YRV |
 | 2026-09-06 | RH Help Desk | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.00 | 0.00 | -147.4 | DavyG, EndMeThx, MTL_, The_Cam3l, YRV |

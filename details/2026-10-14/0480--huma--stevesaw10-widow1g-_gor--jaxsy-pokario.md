@@ -5,7 +5,7 @@ NARS Rank: 480 of 506
 
 Final Rating: 747.3
 Seeded Start: 1221.1
-H2H Adjustment: -473.8
+H2H Adjustment: -473.8 (capped at +-300, raw -473.9)
 
 Final Rating (747.3) = Seeded Start (1221.1) + H2H Adjustment (-473.8)
 
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.087 | 1221.1 | - |
 | +30 days | 0.075 | 1205.5 | -15.7 |
 | +60 days | 0.070 | 1197.9 | -23.2 |
-| +90 days | 0.060 | 1184.7 | -36.5 |
+| +90 days | 0.060 | 1184.7 | -36.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.017 vs 0.006 average, gap +0.011). Matching that average is worth about 0.0 seed points.
 
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| FourStrokeGang | 479 | 748.4 | +1.1 | +95.3 |
+| FourStrokeGang | 479 | 748.3 | +1.0 | +95.3 |
 | Kushtaka | 478 | 757.5 | +10.2 | +93.8 |
 | Brick Layers | 477 | 764.1 | +16.8 | +95.0 |
 | Sleepers | 476 | 776.2 | +28.9 | +97.1 |
@@ -49,15 +49,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Exnitas | 385 | +345.9 | +166.9 | +17.8 |
+| Exnitas | 385 | +345.9 | +167.0 | +17.8 |
 | Kahoot Squad | 388 | +335.3 | +169.4 | +17.3 |
-| Flow Esports | 387 | +336.3 | +178.7 | +17.0 |
-| Benadryl Abusers | 396 | +313.9 | +167.7 | +15.8 |
+| Flow Esports | 387 | +336.2 | +178.7 | +17.0 |
+| Benadryl Abusers | 396 | +313.8 | +167.7 | +15.8 |
 | MXA | 386 | +343.4 | +154.4 | +15.5 |
 | ReGen | 400 | +305.6 | +168.0 | +15.4 |
 | Big Fish | 402 | +303.7 | +167.3 | +15.3 |
 | house | 403 | +301.6 | +185.2 | +15.0 |
-| James Bond Bois | 401 | +304.7 | +147.7 | +14.6 |
+| James Bond Bois | 401 | +304.6 | +147.8 | +14.6 |
 | Epochal Esports | 413 | +288.7 | +170.6 | +14.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +303.6 points at current ratings.
@@ -85,9 +85,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Old Dads Banging | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -176.4 | 7urroN, JaXsy, SteveSaw10, WIDOW1g, nkSitow |
 | 2026-07-17 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -153.7 | 7urroN, JaXsy, Pokario, SteveSaw10, WIDOW1g |
 | 2026-07-15 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -1.6 | 7urroN, FLa_FLa, Pokario, SteveSaw10, WIDOW1g |
-| 2026-05-20 | Yogaball Frags | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -273.4 | 7urroN, Pokario, SteveSaw10, WIDOW1g, _GOR- |
-| 2026-05-15 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +376.9 | 7urroN, JaXsy, Pokario, WIDOW1g, nkSitow |
-| 2026-05-08 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -186.8 | 7urroN, JaXsy, Pokario, SteveSaw10, WIDOW1g |
+| 2026-05-20 | Yogaball Frags | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -273.5 | 7urroN, Pokario, SteveSaw10, WIDOW1g, _GOR- |
+| 2026-05-15 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +377.0 | 7urroN, JaXsy, Pokario, WIDOW1g, nkSitow |
+| 2026-05-08 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -186.9 | 7urroN, JaXsy, Pokario, SteveSaw10, WIDOW1g |
 | 2026-04-30 | SquadUp | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -3.8 | 1nvert-, JaXsy, Pokario, SteveSaw10, WIDOW1g |
 | 2026-04-29 | VOID ALUNE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -1.3 | JaXsy, Pokario, SteveSaw10, WIDOW1g, _GOR- |
 | 2026-04-24 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -29.5 | -Nando--, JaXsy, Pokario, WIDOW1g, _GOR- |

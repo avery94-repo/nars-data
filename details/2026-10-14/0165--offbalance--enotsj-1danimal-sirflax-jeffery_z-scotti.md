@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.174 | 1343.1 | - |
 | +30 days | 0.157 | 1320.1 | -23.0 |
 | +60 days | 0.142 | 1299.4 | -43.7 |
-| +90 days | 0.118 | 1265.8 | -77.3 |
+| +90 days | 0.118 | 1265.9 | -77.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.043 vs 0.037 average, gap +0.006). Matching that average is worth about 0.0 seed points.
 
@@ -52,10 +52,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | No Future Lifes Over | 50 | +344.9 | +228.7 | +21.9 |
 | DESPAIR | 49 | +346.4 | +229.0 | +21.6 |
 | TheMotherLovers | 53 | +335.7 | +235.0 | +21.2 |
-| Phantom Sense | 51 | +341.5 | +278.7 | +20.7 |
-| Omen Esports | 57 | +315.5 | +246.2 | +19.1 |
-| flat earth | 64 | +284.2 | +217.9 | +17.1 |
-| Endless Esports | 65 | +283.7 | +219.7 | +17.0 |
+| Phantom Sense | 51 | +341.6 | +278.7 | +20.7 |
+| Omen Esports | 57 | +315.7 | +246.3 | +19.1 |
+| flat earth | 64 | +284.3 | +217.9 | +17.1 |
+| Endless Esports | 65 | +283.8 | +219.7 | +17.0 |
 | GG | 52 | +339.2 | +192.7 | +17.0 |
 | DUMBO | 63 | +284.8 | +240.5 | +16.6 |
 | WhalersOnDaMoon | 66 | +279.6 | +222.2 | +15.8 |
@@ -94,6 +94,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -400.7 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
 | 2026-04-29 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -356.8 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
 | 2026-04-24 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +2.1 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
-| 2026-04-22 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +233.8 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
+| 2026-04-22 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +233.9 | ANJAROOO, Jeffery_z, Loop619, SirFlax, enotsJ |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.231 | 1423.0 | - |
 | +30 days | 0.213 | 1398.3 | -24.7 |
 | +60 days | 0.198 | 1377.1 | -46.0 |
-| +90 days | 0.173 | 1342.7 | -80.3 |
+| +90 days | 0.173 | 1342.8 | -80.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.134 vs 0.167 average, gap -0.033). Matching that average is worth about 11.6 seed points.
 
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Endless Esports | 65 | 1826.0 | +4.1 | +85.7 |
-| flat earth | 64 | 1826.5 | +4.6 | +85.3 |
-| DUMBO | 63 | 1827.1 | +5.2 | +90.4 |
-| academy 4 gifted children | 62 | 1829.1 | +7.2 | +84.0 |
-| Sedated | 61 | 1831.7 | +9.8 | +84.3 |
+| Endless Esports | 65 | 1826.1 | +4.2 | +85.8 |
+| flat earth | 64 | 1826.6 | +4.7 | +85.4 |
+| DUMBO | 63 | 1827.1 | +5.2 | +90.5 |
+| academy 4 gifted children | 62 | 1829.2 | +7.3 | +84.0 |
+| Sedated | 61 | 1831.8 | +9.9 | +84.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NuTorious | 17 | +343.8 | +137.0 | +14.2 |
-| FarmVille | 16 | +345.7 | +183.1 | +13.4 |
-| Villainous | 18 | +338.8 | +179.8 | +13.1 |
-| Iowa Stormboar | 21 | +294.0 | +170.8 | +11.7 |
-| Zomblers | 22 | +292.8 | +171.2 | +11.7 |
-| qcclan | 20 | +324.3 | +146.8 | +8.9 |
+| NuTorious | 17 | +344.0 | +137.1 | +14.2 |
+| FarmVille | 16 | +346.0 | +183.1 | +13.4 |
+| Villainous | 18 | +339.0 | +179.8 | +13.1 |
+| Iowa Stormboar | 21 | +294.2 | +170.9 | +11.8 |
+| Zomblers | 22 | +293.0 | +171.3 | +11.7 |
+| qcclan | 20 | +324.3 | +146.9 | +8.9 |
 | MASTER ONE | 19 | +337.6 | +142.0 | +7.8 |
 | duck crew | 23 | +274.2 | +114.5 | +3.4 |
-| Olympus | 25 | +217.8 | +129.6 | +3.2 |
+| Olympus | 25 | +217.9 | +129.6 | +3.2 |
 | Automatic HQ | 27 | +209.0 | +134.7 | +1.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +235.9 points at current ratings.
@@ -75,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | Armored Talent | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.18 | 1.02 | +6.8 | BukZacH, Invertdwhale, Superman, hossmarkboss, seon |
 | 2026-09-15 | OnlyFans | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 1.00 | 1.19 | 1.00 | 1.19 | 0.00 | 0.00 | -38.3 | BukZacH, Invertdwhale, KYAL, Superman, seon |
-| 2026-09-10 | Old Meta | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.97 | 1.19 | 1.00 | 1.16 | 0.00 | 0.00 | -13.7 | BukZacH, Invertdwhale, KYAL, Superman, seon |
+| 2026-09-10 | Old Meta | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.97 | 1.19 | 1.00 | 1.16 | 0.00 | 0.00 | -13.8 | BukZacH, Invertdwhale, KYAL, Superman, seon |
 | 2026-09-06 | TheMotherLovers | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.19 | 1.00 | 1.12 | 0.15 | 1.12 | +112.9 | BukZacH, Invertdwhale, KYAL, Superman, seon |
 | 2026-09-04 | Storm Surge | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.15 | 1.11 | +126.6 | Carbyn, Invertdwhale, KYAL, Superman, seon |
 | 2026-09-03 | Yogaball Frags | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.10 | 0.09 | 1.10 | +7.7 | BukZacH, Invertdwhale, KYAL, Superman, seon |
@@ -87,16 +87,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.05 | 0.90 | +6.6 | BukZacH, Invertdwhale, KYAL, Superman, seon |
 | 2026-08-07 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.14 | 0.86 | +177.1 | BukZacH, Invertdwhale, KYAL, Superman, seon |
 | 2026-08-05 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -12.1 | BukZacH, Invertdwhale, KYAL, Superman, seon |
-| 2026-07-31 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -220.3 | BukZacH, Invertdwhale, Superman, aXXa, seon |
+| 2026-07-31 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -220.4 | BukZacH, Invertdwhale, Superman, aXXa, seon |
 | 2026-07-29 | Top One Percent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.04 | 0.79 | +202.2 | BukZacH, Invertdwhale, KYAL, Superman, seon |
 | 2026-07-22 | Absent Minded | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.07 | 0.74 | +313.6 | BukZacH, KYAL, Superman, aXXa, seon |
 | 2026-07-17 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -0.1 | BukZacH, KYAL, Superman, devyn, seon |
 | 2026-07-15 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -394.1 | BukZacH, KYAL, Superman, devyn, seon |
-| 2026-05-29 | Zealous | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -172.5 | BukZacH, Invertdwhale, Superman, devyn, seon |
+| 2026-05-29 | Zealous | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -172.6 | BukZacH, Invertdwhale, Superman, devyn, seon |
 | 2026-05-27 | SAFIR | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.03 | 0.33 | +44.9 | BukZacH, Invertdwhale, Superman, devyn, seon |
-| 2026-05-22 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +187.3 | BukZacH, Invertdwhale, Katalyst---, Superman, seon |
+| 2026-05-22 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +187.4 | BukZacH, Invertdwhale, Katalyst---, Superman, seon |
 | 2026-05-20 | Zealous | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -31.0 | BukZacH, Invertdwhale, Superman, hossmarkboss, seon |
-| 2026-05-15 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -258.1 | BukZacH, Invertdwhale, Superman, devyn, seon |
+| 2026-05-15 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -258.2 | BukZacH, Invertdwhale, Superman, devyn, seon |
 | 2026-05-13 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -160.4 | BukZacH, Invertdwhale, Superman, devyn, seon |
 | 2026-05-08 | SquishysAngels | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.15 | +0.6 | BukZacH, Invertdwhale, Superman, devyn, seon |
 | 2026-05-06 | crescent | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +225.5 | BukZacH, Invertdwhale, Superman, devyn, seon |

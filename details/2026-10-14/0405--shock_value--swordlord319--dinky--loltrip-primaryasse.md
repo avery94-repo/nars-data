@@ -42,8 +42,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | DownTown | 404 | 1046.8 | +0.3 | +162.4 |
 | house | 403 | 1048.9 | +2.4 | +173.2 |
 | Big Fish | 402 | 1051.0 | +4.5 | +170.1 |
-| James Bond Bois | 401 | 1052.0 | +5.5 | +164.0 |
-| ReGen | 400 | 1052.9 | +6.4 | +170.8 |
+| James Bond Bois | 401 | 1051.9 | +5.4 | +164.0 |
+| ReGen | 400 | 1052.9 | +6.4 | +170.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -54,10 +54,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Eightball | 253 | +329.1 | +329.7 | +30.0 |
 | Dude Picks | 252 | +331.0 | +356.1 | +29.8 |
 | 2THRiLL | 246 | +340.1 | +285.0 | +29.7 |
-| drunk cigs dont count | 255 | +326.6 | +346.0 | +29.6 |
+| drunk cigs dont count | 255 | +326.6 | +346.1 | +29.6 |
 | THE GUILD | 264 | +312.5 | +294.8 | +29.0 |
 | Kinetic | 260 | +317.7 | +336.4 | +28.8 |
-| DadDick Esports | 261 | +315.9 | +330.4 | +28.8 |
+| DadDick Esports | 261 | +315.9 | +330.5 | +28.8 |
 | Wiggle Peeks | 265 | +310.2 | +313.4 | +28.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.

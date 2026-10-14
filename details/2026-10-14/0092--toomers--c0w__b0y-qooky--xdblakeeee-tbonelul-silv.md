@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Fathom Gaming | 91 | 1745.3 | +2.7 | +121.2 |
-| Fire Nation | 90 | 1749.7 | +7.1 | +123.3 |
-| Overtake Sector | 89 | 1750.9 | +8.3 | +135.1 |
+| Fathom Gaming | 91 | 1745.4 | +2.8 | +121.3 |
+| Fire Nation | 90 | 1749.7 | +7.1 | +123.4 |
+| Overtake Sector | 89 | 1750.9 | +8.3 | +135.2 |
 | Manx Recovery Program | 88 | 1751.4 | +8.8 | +121.2 |
-| PROFECO | 87 | 1755.2 | +12.6 | +116.9 |
+| PROFECO | 87 | 1755.2 | +12.6 | +117.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Olympus | 25 | +297.1 | +223.6 | +18.6 |
-| Automatic HQ | 27 | +288.3 | +232.7 | +17.2 |
-| VOID ALUNE | 29 | +265.3 | +176.5 | +14.0 |
-| Hairy Scary Bandits | 32 | +256.8 | +213.2 | +13.2 |
-| Chicken Coop | 33 | +255.6 | +242.2 | +12.8 |
-| Festina Lente | 24 | +300.2 | +184.7 | +10.8 |
-| Holly Molly | 35 | +245.8 | +199.7 | +10.8 |
-| EMPIRE | 36 | +241.0 | +222.3 | +10.1 |
-| unreal nightmare | 37 | +234.0 | +191.8 | +8.6 |
-| babaG | 28 | +266.2 | +226.4 | +8.6 |
+| Olympus | 25 | +297.2 | +223.7 | +18.6 |
+| Automatic HQ | 27 | +288.3 | +232.8 | +17.2 |
+| VOID ALUNE | 29 | +265.3 | +176.6 | +14.0 |
+| Hairy Scary Bandits | 32 | +256.9 | +213.3 | +13.2 |
+| Chicken Coop | 33 | +255.8 | +242.3 | +12.8 |
+| Festina Lente | 24 | +300.5 | +184.8 | +10.9 |
+| Holly Molly | 35 | +245.9 | +199.7 | +10.8 |
+| EMPIRE | 36 | +241.2 | +222.5 | +10.2 |
+| unreal nightmare | 37 | +234.2 | +191.9 | +8.6 |
+| babaG | 28 | +266.4 | +226.6 | +8.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +396.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +396.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), we get it back (+0.0).
 

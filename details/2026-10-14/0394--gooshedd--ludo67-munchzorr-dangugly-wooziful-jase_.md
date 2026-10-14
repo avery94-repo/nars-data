@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.071 | 1200.1 | - |
 | +30 days | 0.052 | 1172.8 | -27.3 |
 | +60 days | 0.042 | 1158.5 | -41.6 |
-| +90 days | 0.025 | 1134.7 | -65.3 |
+| +90 days | 0.025 | 1134.8 | -65.3 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.200 vs 0.215 average, gap -0.015). Matching that average is worth about 5.3 seed points.
 
@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Wealth Reduction | 393 | 1071.6 | +5.0 | +163.9 |
-| Lan Bears | 392 | 1072.5 | +5.9 | +169.8 |
+| Lan Bears | 392 | 1072.4 | +5.8 | +169.8 |
 | High T Low E | 391 | 1073.4 | +6.8 | +164.4 |
 | Sable | 390 | 1080.2 | +13.6 | +166.6 |
 | Second Nature | 389 | 1082.1 | +15.5 | +167.2 |
@@ -52,7 +52,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | FUELED BY HATE | 241 | +337.7 | +308.8 | +31.9 |
 | YHTR | 235 | +347.1 | +349.0 | +31.6 |
 | Fortis Fortuna Adiuvat | 237 | +339.7 | +330.4 | +31.5 |
-| NXG Esports | 242 | +337.4 | +342.4 | +31.4 |
+| NXG Esports | 242 | +337.5 | +342.5 | +31.5 |
 | brb grinding minecraft | 239 | +338.9 | +354.4 | +31.3 |
 | Casual Mature Gamers | 238 | +339.3 | +361.4 | +30.5 |
 | The Kerbins | 250 | +312.0 | +328.8 | +28.3 |
@@ -93,7 +93,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | Read You Like a Kindle | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -153.5 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-05-08 | DingTone | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -310.0 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-05-06 | OnlyFans | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -143.1 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
-| 2026-04-29 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +185.5 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
+| 2026-04-29 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +185.6 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-04-24 | 19MPH | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +260.7 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-04-22 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -170.2 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 

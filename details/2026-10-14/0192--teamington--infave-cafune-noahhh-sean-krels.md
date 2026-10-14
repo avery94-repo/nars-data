@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.192 | 1368.8 | - |
 | +30 days | 0.175 | 1345.0 | -23.8 |
 | +60 days | 0.157 | 1320.1 | -48.7 |
-| +90 days | 0.127 | 1277.7 | -91.1 |
+| +90 days | 0.127 | 1277.8 | -91.0 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.056 vs 0.025 average, gap +0.031). Matching that average is worth about 0.0 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| UncsStillGotIt | 191 | 1499.3 | +1.3 | +127.9 |
+| UncsStillGotIt | 191 | 1499.3 | +1.3 | +128.0 |
 | No Leaders Please | 190 | 1499.4 | +1.4 | +125.5 |
-| Lynnsanity | 189 | 1500.0 | +2.0 | +125.6 |
-| mokey mokey | 188 | 1503.7 | +5.7 | +115.2 |
+| Lynnsanity | 189 | 1500.0 | +2.0 | +125.7 |
+| mokey mokey | 188 | 1503.8 | +5.8 | +115.2 |
 | Vibe Check | 187 | 1503.9 | +5.9 | +122.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +328.5 | +232.9 | +21.2 |
-| Endless Esports | 65 | +328.0 | +235.0 | +21.1 |
+| flat earth | 64 | +328.6 | +233.0 | +21.2 |
+| Endless Esports | 65 | +328.1 | +235.1 | +21.1 |
 | DUMBO | 63 | +329.1 | +258.7 | +20.2 |
-| NZ Gaming | 69 | +315.2 | +214.1 | +20.1 |
-| WhalersOnDaMoon | 66 | +323.9 | +238.1 | +20.0 |
-| GeneticDiff | 70 | +294.9 | +215.9 | +18.1 |
-| fih hou | 73 | +287.7 | +223.7 | +17.2 |
-| Asoka | 74 | +285.3 | +201.7 | +17.0 |
-| F5 Esports | 60 | +337.3 | +246.5 | +16.8 |
-| Club 333 | 76 | +284.3 | +240.8 | +16.7 |
+| NZ Gaming | 69 | +315.4 | +214.2 | +20.1 |
+| WhalersOnDaMoon | 66 | +323.9 | +238.2 | +20.0 |
+| GeneticDiff | 70 | +294.9 | +216.0 | +18.1 |
+| fih hou | 73 | +287.7 | +223.8 | +17.2 |
+| Asoka | 74 | +285.3 | +201.8 | +17.0 |
+| F5 Esports | 60 | +337.5 | +246.6 | +16.8 |
+| Club 333 | 76 | +284.4 | +240.9 | +16.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +395.5 points at current ratings.
 
@@ -84,23 +84,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-20 | Resurgence | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.83 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -90.8 | Noahhh, Renim, SEAN, blegh, infave |
 | 2026-08-16 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.02 | 1.00 | 0.82 | 0.07 | 0.82 | +39.4 | Noahhh, Renim, SEAN, blegh, infave |
 | 2026-08-12 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -72.7 | Krels, Noahhh, SEAN, blegh, infave |
-| 2026-08-05 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +37.2 | Noahhh, SEAN, TOXIC_PATROL, blegh, infave |
-| 2026-07-29 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -302.8 | Krels, Noahhh, SEAN, TOXIC_PATROL, infave |
+| 2026-08-05 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +37.3 | Noahhh, SEAN, TOXIC_PATROL, blegh, infave |
+| 2026-07-29 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -302.9 | Krels, Noahhh, SEAN, TOXIC_PATROL, infave |
 | 2026-07-24 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.05 | 0.66 | +0.0 | --toasty, Krels, Noahhh, SEAN, infave |
 | 2026-07-17 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +134.0 | --toasty, Krels, OJISBAE, SEAN, infave |
 | 2026-07-15 | ThirdSite | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.14 | 0.60 | +0.6 | --toasty, Krels, Noahhh, SEAN, phamzyy |
 | 2026-06-04 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.00 | 0.00 | -104.5 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
 | 2026-05-31 | Skyline | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -140.0 | Krels, SEAN, cafune, infave, phamzyy |
 | 2026-05-29 | 5Frag Gaming | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.05 | 0.34 | +43.9 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
-| 2026-05-20 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -278.3 | Krels, Noahhh, SEAN, cafune, infave |
-| 2026-05-19 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.02 | 0.24 | +281.6 | Krels, SEAN, cafune, infave, phamzyy |
-| 2026-05-15 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +333.6 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-20 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -278.4 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-19 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.02 | 0.24 | +281.7 | Krels, SEAN, cafune, infave, phamzyy |
+| 2026-05-15 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +333.7 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-13 | NXG Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -185.6 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-08 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.01 | 0.15 | +50.4 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-06 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +107.5 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-01 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -173.7 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-04-29 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -1.7 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-04-28 | Dude Picks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.15 | 1.00 | 0.08 | 0.01 | 0.08 | +89.5 | Krels, Noahhh, SEAN, cafune, infave |
-| 2026-04-24 | BUCK NASTY | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +273.7 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-04-24 | BUCK NASTY | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +273.8 | Krels, Noahhh, SEAN, cafune, infave |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

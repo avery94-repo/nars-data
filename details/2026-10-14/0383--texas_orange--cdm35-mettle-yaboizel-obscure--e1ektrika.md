@@ -3,11 +3,11 @@ Team Name: Texas Orange
 Roster: cdm35, METTLE, YaBoiZel, obscure-, E1EKTRIKA
 NARS Rank: 383 of 506
 
-Final Rating: 1097.5
+Final Rating: 1097.4
 Seeded Start: 1249.6
-H2H Adjustment: -152.1
+H2H Adjustment: -152.2
 
-Final Rating (1097.5) = Seeded Start (1249.6) + H2H Adjustment (-152.1)
+Final Rating (1097.4) = Seeded Start (1249.6) + H2H Adjustment (-152.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Costco Family | 382 | 1102.5 | +5.0 | +125.5 |
-| HammerHeads | 381 | 1102.7 | +5.2 | +119.3 |
-| We Play Naked | 380 | 1103.2 | +5.7 | +128.8 |
-| Goyim Gladiators | 379 | 1103.9 | +6.4 | +131.0 |
-| Zamgaa Anime Aimers | 378 | 1104.0 | +6.5 | +125.5 |
+| Costco Family | 382 | 1102.5 | +5.1 | +125.6 |
+| HammerHeads | 381 | 1102.7 | +5.3 | +119.3 |
+| We Play Naked | 380 | 1103.2 | +5.8 | +128.8 |
+| Goyim Gladiators | 379 | 1103.9 | +6.5 | +131.0 |
+| Zamgaa Anime Aimers | 378 | 1104.0 | +6.6 | +125.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Cortex Jellies | 222 | +339.9 | +210.1 | +22.9 |
-| 1NT | 221 | +341.5 | +237.1 | +22.5 |
-| penazoid | 226 | +330.4 | +224.5 | +22.1 |
-| Binky | 220 | +341.8 | +259.2 | +22.1 |
-| UltimateDarklordWizardz | 227 | +329.6 | +249.4 | +21.6 |
-| YHTR | 235 | +316.2 | +238.9 | +20.7 |
-| brb grinding minecraft | 239 | +308.0 | +243.1 | +20.3 |
-| NXG Esports | 242 | +306.5 | +234.7 | +20.3 |
-| Fortis Fortuna Adiuvat | 237 | +308.8 | +226.1 | +20.2 |
-| FUELED BY HATE | 241 | +306.8 | +210.8 | +20.1 |
+| Cortex Jellies | 222 | +340.0 | +210.2 | +22.9 |
+| 1NT | 221 | +341.6 | +237.1 | +22.5 |
+| penazoid | 226 | +330.5 | +224.6 | +22.1 |
+| Binky | 220 | +341.9 | +259.2 | +22.1 |
+| UltimateDarklordWizardz | 227 | +329.7 | +249.4 | +21.6 |
+| YHTR | 235 | +316.3 | +238.9 | +20.7 |
+| brb grinding minecraft | 239 | +308.1 | +243.2 | +20.3 |
+| NXG Esports | 242 | +306.7 | +234.8 | +20.3 |
+| Fortis Fortuna Adiuvat | 237 | +308.9 | +226.1 | +20.2 |
+| FUELED BY HATE | 241 | +306.9 | +210.8 | +20.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +415.2 points at current ratings.
 

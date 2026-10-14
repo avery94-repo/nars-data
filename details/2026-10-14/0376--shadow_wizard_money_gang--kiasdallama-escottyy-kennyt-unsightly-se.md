@@ -3,11 +3,11 @@ Team Name: Shadow Wizard Money Gang
 Roster: KiasDaLlama, EScottyy, KennyT, unsightly, SethP
 NARS Rank: 376 of 506
 
-Final Rating: 1107.8
+Final Rating: 1107.7
 Seeded Start: 1276.8
-H2H Adjustment: -169.0
+H2H Adjustment: -169.1
 
-Final Rating (1107.8) = Seeded Start (1276.8) + H2H Adjustment (-169.0)
+Final Rating (1107.7) = Seeded Start (1276.8) + H2H Adjustment (-169.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.126 | 1276.8 | - |
 | +30 days | 0.112 | 1256.6 | -20.1 |
 | +60 days | 0.099 | 1239.0 | -37.8 |
-| +90 days | 0.075 | 1205.6 | -71.2 |
+| +90 days | 0.075 | 1205.6 | -71.1 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.068 average, gap +0.008). Matching that average is worth about 0.0 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| NYX | 375 | 1115.2 | +7.4 | +109.5 |
-| in for Blood | 374 | 1116.2 | +8.4 | +104.6 |
-| Team Zhao | 373 | 1116.4 | +8.6 | +117.9 |
-| Qinorhwat | 372 | 1120.5 | +12.7 | +105.5 |
-| grogu | 371 | 1124.0 | +16.2 | +106.2 |
+| NYX | 375 | 1115.2 | +7.5 | +109.5 |
+| in for Blood | 374 | 1116.2 | +8.5 | +104.6 |
+| Team Zhao | 373 | 1116.4 | +8.7 | +117.9 |
+| Qinorhwat | 372 | 1120.4 | +12.7 | +105.5 |
+| grogu | 371 | 1124.0 | +16.3 | +106.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GOYPEEKING | 216 | +342.2 | +194.2 | +19.8 |
-| Defaulting | 215 | +343.9 | +216.0 | +19.5 |
-| Cortex Jellies | 222 | +329.6 | +179.3 | +19.1 |
-| VARTOVIK | 217 | +342.1 | +226.7 | +19.1 |
-| 1NT | 221 | +331.2 | +202.7 | +18.9 |
-| Binky | 220 | +331.5 | +221.8 | +18.7 |
-| penazoid | 226 | +320.1 | +191.9 | +18.5 |
-| UltimateDarklordWizardz | 227 | +319.3 | +213.5 | +18.1 |
-| YHTR | 235 | +305.9 | +204.6 | +17.2 |
-| brb grinding minecraft | 239 | +297.7 | +208.4 | +16.8 |
+| GOYPEEKING | 216 | +342.3 | +194.2 | +19.8 |
+| Defaulting | 215 | +344.0 | +216.0 | +19.5 |
+| Cortex Jellies | 222 | +329.7 | +179.3 | +19.1 |
+| VARTOVIK | 217 | +342.2 | +226.7 | +19.1 |
+| 1NT | 221 | +331.3 | +202.7 | +18.9 |
+| Binky | 220 | +331.6 | +221.8 | +18.7 |
+| penazoid | 226 | +320.2 | +191.9 | +18.5 |
+| UltimateDarklordWizardz | 227 | +319.4 | +213.5 | +18.1 |
+| YHTR | 235 | +306.0 | +204.6 | +17.2 |
+| brb grinding minecraft | 239 | +297.8 | +208.4 | +16.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +348.8 points at current ratings.
 
@@ -81,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -103.8 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-08-21 | Meepins | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.07 | 0.85 | +100.9 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-08-19 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -113.4 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
-| 2026-08-14 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.06 | 0.81 | +102.1 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
+| 2026-08-14 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.06 | 0.81 | +102.2 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-08-11 | Salsas Mazzin Crew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.02 | 1.00 | 0.78 | 0.00 | 0.00 | -121.6 | KennyT, KiasDaLlama, Moosezera, SethP, unsightly |
 | 2026-08-07 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.10 | 0.76 | +182.6 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-08-05 | teamington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -37.8 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
@@ -90,8 +90,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.04 | 0.66 | +242.3 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-07-22 | Tractors | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -148.3 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-07-17 | mas paspas | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.11 | 0.61 | +330.4 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
-| 2026-07-15 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -29.1 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
-| 2026-05-21 | Kaos | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -199.3 | KennyT, KiasDaLlama, Moosezera, SethP, reverbz |
+| 2026-07-15 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -29.0 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
+| 2026-05-21 | Kaos | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -199.4 | KennyT, KiasDaLlama, Moosezera, SethP, reverbz |
 | 2026-05-20 | ASYCS KITTENS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -219.8 | KennyT, KiasDaLlama, Moosezera, SethP, reverbz |
 | 2026-05-06 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -307.1 | KennyT, KiasDaLlama, SethP, Taps1_, reverbz |
 | 2026-05-06 | Sassy Sunshines | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +367.4 | KennyT, KiasDaLlama, SethP, Taps1_, reverbz |

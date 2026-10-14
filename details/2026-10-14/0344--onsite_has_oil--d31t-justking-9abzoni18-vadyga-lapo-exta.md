@@ -3,11 +3,11 @@ Team Name: Onsite has Oil
 Roster: d31t, JustKing, 9abzoni18, VadYga, lapo-extazzy
 NARS Rank: 344 of 506
 
-Final Rating: 1191.0
+Final Rating: 1191.1
 Seeded Start: 1119.8
-H2H Adjustment: +71.2
+H2H Adjustment: +71.3
 
-Final Rating (1191.0) = Seeded Start (1119.8) + H2H Adjustment (+71.2)
+Final Rating (1191.1) = Seeded Start (1119.8) + H2H Adjustment (+71.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| T Shirt Material | 343 | 1191.6 | +0.6 | +162.5 |
-| Wide Swinging Wizards | 342 | 1191.6 | +0.6 | +162.5 |
-| MadaNASCAR | 341 | 1195.2 | +4.2 | +172.5 |
-| Boop Boop Gang | 340 | 1195.6 | +4.6 | +168.7 |
-| Kennesaw State Gold 2025 | 339 | 1195.9 | +4.9 | +163.8 |
+| T Shirt Material | 343 | 1191.6 | +0.5 | +162.5 |
+| Wide Swinging Wizards | 342 | 1191.6 | +0.5 | +162.4 |
+| MadaNASCAR | 341 | 1195.2 | +4.1 | +172.5 |
+| Boop Boop Gang | 340 | 1195.6 | +4.5 | +168.7 |
+| Kennesaw State Gold 2025 | 339 | 1195.9 | +4.8 | +163.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,14 +51,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | BucketJonsBoys | 172 | +342.0 | +315.8 | +32.1 |
 | Pug Palace | 167 | +344.8 | +330.8 | +31.8 |
-| Firstwave | 175 | +336.0 | +314.5 | +31.5 |
-| Shaboing Boing Bandits | 173 | +339.6 | +343.4 | +31.1 |
-| APEX | 176 | +330.9 | +322.4 | +30.8 |
+| Firstwave | 175 | +335.9 | +314.5 | +31.5 |
+| Shaboing Boing Bandits | 173 | +339.5 | +343.4 | +31.1 |
+| APEX | 176 | +330.8 | +322.4 | +30.8 |
 | Armored Talent | 174 | +338.8 | +351.2 | +30.8 |
-| LAF | 183 | +320.3 | +313.1 | +29.8 |
-| GOOZPEEK | 182 | +322.1 | +327.4 | +29.6 |
-| KIS | 185 | +315.7 | +296.0 | +29.4 |
-| Shadow Wizard Money Gang | 180 | +324.9 | +368.1 | +28.7 |
+| LAF | 183 | +320.2 | +313.1 | +29.8 |
+| GOOZPEEK | 182 | +322.0 | +327.4 | +29.6 |
+| KIS | 185 | +315.6 | +296.0 | +29.4 |
+| Shadow Wizard Money Gang | 180 | +325.0 | +368.2 | +28.7 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 

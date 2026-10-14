@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Diggers | 86 | 1763.4 | +8.2 | +169.6 |
+| Diggers | 86 | 1763.6 | +8.4 | +169.6 |
 | makeSHIFT | 85 | 1764.1 | +8.9 | +174.1 |
 | Orbit | 84 | 1765.3 | +10.1 | +165.5 |
-| Sound of Arthritis | 83 | 1766.7 | +11.5 | +169.2 |
-| firesale | 82 | 1768.2 | +13.0 | +176.0 |
+| Sound of Arthritis | 83 | 1766.7 | +11.5 | +169.1 |
+| firesale | 82 | 1768.3 | +13.1 | +176.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Olympus | 25 | +284.5 | +312.7 | +24.5 |
+| Olympus | 25 | +284.6 | +312.8 | +24.5 |
 | Automatic HQ | 27 | +275.7 | +322.3 | +22.1 |
 | VOID ALUNE | 29 | +252.7 | +251.6 | +17.2 |
 | duck crew | 23 | +340.9 | +285.3 | +17.0 |
-| Hairy Scary Bandits | 32 | +244.2 | +294.1 | +15.3 |
-| Chicken Coop | 33 | +243.0 | +326.9 | +14.6 |
-| Festina Lente | 24 | +287.6 | +264.9 | +13.7 |
-| Holly Molly | 35 | +233.2 | +276.8 | +11.6 |
-| EMPIRE | 36 | +228.4 | +301.6 | +10.3 |
-| babaG | 28 | +253.6 | +311.0 | +9.2 |
+| Hairy Scary Bandits | 32 | +244.3 | +294.1 | +15.3 |
+| Chicken Coop | 33 | +243.2 | +327.0 | +14.6 |
+| Festina Lente | 24 | +287.9 | +265.0 | +13.8 |
+| Holly Molly | 35 | +233.3 | +276.8 | +11.6 |
+| EMPIRE | 36 | +228.6 | +301.7 | +10.3 |
+| babaG | 28 | +253.8 | +311.1 | +9.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +638.8 points at current ratings.
 

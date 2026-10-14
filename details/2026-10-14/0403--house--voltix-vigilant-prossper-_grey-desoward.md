@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.055 | 1177.4 | - |
 | +30 days | 0.054 | 1176.3 | -1.2 |
-| +60 days | 0.054 | 1175.6 | -1.9 |
+| +60 days | 0.054 | 1175.5 | -1.9 |
 | +90 days | 0.053 | 1174.2 | -3.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.007 vs 0.019 average, gap -0.012). Matching that average is worth about 8.4 seed points.
@@ -40,17 +40,17 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Big Fish | 402 | 1051.0 | +2.1 | +82.3 |
-| James Bond Bois | 401 | 1052.0 | +3.1 | +76.2 |
+| James Bond Bois | 401 | 1051.9 | +3.0 | +76.2 |
 | ReGen | 400 | 1052.9 | +4.0 | +82.7 |
-| Room Temp IQs | 399 | 1056.4 | +7.5 | +76.9 |
-| three11 | 398 | 1057.0 | +8.1 | +77.0 |
+| Room Temp IQs | 399 | 1056.5 | +7.6 | +76.9 |
+| three11 | 398 | 1056.9 | +8.0 | +77.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | The Kerbins | 250 | +329.7 | +154.3 | +13.8 |
-| Dude Picks | 252 | +328.6 | +162.7 | +13.6 |
+| Dude Picks | 252 | +328.6 | +162.8 | +13.6 |
 | Eightball | 253 | +326.7 | +149.1 | +13.5 |
 | GoonAssOldheads | 258 | +320.9 | +137.2 | +13.5 |
 | drunk cigs dont count | 255 | +324.2 | +158.0 | +13.5 |

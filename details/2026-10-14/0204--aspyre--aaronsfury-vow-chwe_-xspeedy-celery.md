@@ -3,11 +3,11 @@ Team Name: Aspyre
 Roster: aaronsfury, vow, ChwE_, xSpeedy, celery
 NARS Rank: 204 of 506
 
-Final Rating: 1475.4
+Final Rating: 1475.5
 Seeded Start: 1305.3
-H2H Adjustment: +170.1
+H2H Adjustment: +170.2
 
-Final Rating (1475.4) = Seeded Start (1305.3) + H2H Adjustment (+170.1)
+Final Rating (1475.5) = Seeded Start (1305.3) + H2H Adjustment (+170.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.147 | 1305.3 | - |
 | +30 days | 0.120 | 1267.5 | -37.8 |
 | +60 days | 0.096 | 1234.5 | -70.8 |
-| +90 days | 0.054 | 1175.3 | -130.0 |
+| +90 days | 0.054 | 1175.4 | -130.0 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.101 vs 0.110 average, gap -0.009). Matching that average is worth about 3.2 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| butt | 203 | 1476.2 | +0.8 | +148.0 |
-| ThirdSite | 202 | 1479.0 | +3.6 | +160.2 |
-| GRIT | 201 | 1481.1 | +5.7 | +152.6 |
-| Bad Jawn | 200 | 1482.1 | +6.7 | +160.7 |
-| GOBLINS | 199 | 1486.4 | +11.0 | +150.2 |
+| butt | 203 | 1476.1 | +0.6 | +148.0 |
+| ThirdSite | 202 | 1479.0 | +3.5 | +160.2 |
+| GRIT | 201 | 1481.2 | +5.7 | +152.6 |
+| Bad Jawn | 200 | 1482.1 | +6.6 | +160.7 |
+| GOBLINS | 199 | 1486.4 | +10.9 | +150.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NZ Gaming | 69 | +337.8 | +289.6 | +28.4 |
-| WhalersOnDaMoon | 66 | +346.5 | +321.6 | +27.7 |
-| GeneticDiff | 70 | +317.5 | +291.2 | +26.3 |
-| Asoka | 74 | +307.9 | +272.3 | +25.4 |
-| fih hou | 73 | +310.3 | +301.0 | +25.2 |
+| NZ Gaming | 69 | +337.9 | +289.7 | +28.4 |
+| WhalersOnDaMoon | 66 | +346.4 | +321.6 | +27.7 |
+| GeneticDiff | 70 | +317.4 | +291.2 | +26.3 |
+| Asoka | 74 | +307.8 | +272.4 | +25.4 |
+| fih hou | 73 | +310.2 | +301.0 | +25.2 |
 | Kairo | 79 | +303.5 | +267.8 | +24.9 |
-| Club 333 | 76 | +306.9 | +323.1 | +24.5 |
-| CNCS Last Hope | 72 | +313.3 | +246.7 | +24.2 |
-| mas paspas | 75 | +307.6 | +311.5 | +23.8 |
-| firesale | 82 | +292.8 | +282.5 | +23.6 |
+| Club 333 | 76 | +306.9 | +323.2 | +24.5 |
+| CNCS Last Hope | 72 | +313.2 | +246.8 | +24.2 |
+| mas paspas | 75 | +307.5 | +311.5 | +23.8 |
+| firesale | 82 | +292.8 | +282.6 | +23.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +556.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +557.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -82,16 +82,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | firesale | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.28 | 0.00 | 0.00 | -46.0 | ChwE_, Ounk, aaronsfury, celery, vow |
 | 2026-08-21 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -4.0 | ChwE_, Ounk, aaronsfury, celery, vow |
 | 2026-08-19 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -144.5 | ChwE_, Ounk, aaronsfury, celery, vow |
-| 2026-08-05 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.11 | 1.06 | +115.7 | ChwE_, Ounk, aaronsfury, celery, vow |
+| 2026-08-05 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.11 | 1.06 | +115.8 | ChwE_, Ounk, aaronsfury, celery, vow |
 | 2026-07-30 | Elation | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.45 | 1.00 | 1.00 | 0.00 | 0.00 | -129.7 | ChwE_, Ounk, aaronsfury, celery, vow |
-| 2026-07-24 | EXODIA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.54 | 0.94 | +148.6 | ChwE_, Ounk, aaronsfury, celery, vow |
+| 2026-07-24 | EXODIA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.54 | 0.94 | +148.5 | ChwE_, Ounk, aaronsfury, celery, vow |
 | 2026-07-22 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -30.3 | ChwE_, Ounk, aaronsfury, celery, vow |
 | 2026-07-17 | Celestial Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.26 | 0.87 | +258.9 | ChwE_, Ounk, aaronsfury, celery, vow |
-| 2026-07-15 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.04 | 0.85 | +341.1 | ChwE_, Ounk, aaronsfury, celery, vow |
-| 2026-05-21 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -16.0 | ChwE_, aaronsfury, celery, vow, xSpeedy |
+| 2026-07-15 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.04 | 0.85 | +341.0 | ChwE_, Ounk, aaronsfury, celery, vow |
+| 2026-05-21 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -16.1 | ChwE_, aaronsfury, celery, vow, xSpeedy |
 | 2026-05-20 | Shimmer | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -1.1 | ChwE_, aaronsfury, celery, vow, xSpeedy |
-| 2026-05-19 | counterstrike Team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -140.4 | ChwE_, aaronsfury, celery, vow, xSpeedy |
-| 2026-05-15 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -85.9 | ChwE_, aaronsfury, celery, vow, xSpeedy |
+| 2026-05-19 | counterstrike Team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -140.6 | ChwE_, aaronsfury, celery, vow, xSpeedy |
+| 2026-05-15 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -85.5 | ChwE_, aaronsfury, celery, vow, xSpeedy |
 | 2026-05-08 | Pug Palace | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -328.6 | ChwE_, aaronsfury, celery, vow, xSpeedy |
 | 2026-05-07 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.17 | +26.5 | ChwE_, aaronsfury, celery, vow, xSpeedy |
 | 2026-05-01 | Olympus | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.35 | 1.00 | 0.12 | 0.00 | 0.00 | -2.7 | aaronsfury, celery, jawk, vow, xSpeedy |

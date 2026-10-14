@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.094 | 1232.3 | - |
 | +30 days | 0.092 | 1228.6 | -3.7 |
 | +60 days | 0.091 | 1227.9 | -4.4 |
-| +90 days | 0.091 | 1226.8 | -5.5 |
+| +90 days | 0.091 | 1226.9 | -5.4 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.035 vs 0.340 average, gap -0.305). Matching that average is worth about 106.8 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| EXODIA | 80 | 1778.2 | +6.6 | +109.7 |
-| Kairo | 79 | 1778.9 | +7.3 | +107.3 |
+| EXODIA | 80 | 1778.3 | +6.7 | +109.8 |
+| Kairo | 79 | 1779.0 | +7.4 | +107.3 |
 | Down To Frag | 78 | 1779.5 | +7.9 | +105.2 |
-| Over Your Head | 77 | 1781.7 | +10.1 | +106.6 |
-| Club 333 | 76 | 1782.3 | +10.7 | +118.8 |
+| Over Your Head | 77 | 1781.8 | +10.2 | +106.6 |
+| Club 333 | 76 | 1782.4 | +10.8 | +118.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | +343.1 | +246.3 | +18.2 |
-| Iowa Stormboar | 21 | +344.3 | +245.7 | +18.2 |
-| Olympus | 25 | +268.1 | +186.7 | +13.1 |
-| Automatic HQ | 27 | +259.3 | +194.2 | +11.6 |
-| duck crew | 23 | +324.5 | +164.7 | +9.1 |
-| VOID ALUNE | 29 | +236.3 | +147.4 | +7.5 |
-| Hairy Scary Bandits | 32 | +227.8 | +177.9 | +6.5 |
-| Festina Lente | 24 | +271.2 | +154.3 | +6.3 |
-| Chicken Coop | 33 | +226.6 | +201.7 | +6.2 |
-| Holly Molly | 35 | +216.8 | +166.6 | +3.8 |
+| Zomblers | 22 | +343.3 | +246.4 | +18.2 |
+| Iowa Stormboar | 21 | +344.5 | +245.8 | +18.2 |
+| Olympus | 25 | +268.2 | +186.8 | +13.1 |
+| Automatic HQ | 27 | +259.3 | +194.3 | +11.6 |
+| duck crew | 23 | +324.5 | +164.8 | +9.1 |
+| VOID ALUNE | 29 | +236.3 | +147.4 | +7.6 |
+| Hairy Scary Bandits | 32 | +227.9 | +178.0 | +6.5 |
+| Festina Lente | 24 | +271.5 | +154.4 | +6.4 |
+| Chicken Coop | 33 | +226.8 | +201.8 | +6.2 |
+| Holly Molly | 35 | +216.9 | +166.7 | +3.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +334.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +334.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0).
 

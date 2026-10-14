@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Koi Pond | 218 | 1446.0 | +2.9 | +141.3 |
+| Koi Pond | 218 | 1446.0 | +2.9 | +141.4 |
 | VARTOVIK | 217 | 1449.9 | +6.8 | +150.8 |
 | GOYPEEKING | 216 | 1450.0 | +6.9 | +143.6 |
 | Defaulting | 215 | 1451.7 | +8.6 | +149.3 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GeneticDiff | 70 | +349.8 | +280.2 | +26.5 |
-| Asoka | 74 | +340.2 | +261.5 | +26.3 |
-| Kairo | 79 | +335.8 | +257.1 | +26.0 |
-| fih hou | 73 | +342.6 | +291.0 | +25.7 |
-| firesale | 82 | +325.1 | +273.1 | +25.2 |
-| CNCS Last Hope | 72 | +345.6 | +235.0 | +25.0 |
-| Diggers | 86 | +320.3 | +246.6 | +25.0 |
-| Club 333 | 76 | +339.2 | +314.4 | +25.0 |
-| mas paspas | 75 | +339.9 | +302.1 | +24.4 |
-| Fire Nation | 90 | +306.6 | +251.9 | +23.2 |
+| GeneticDiff | 70 | +349.8 | +280.3 | +26.5 |
+| Asoka | 74 | +340.2 | +261.6 | +26.3 |
+| Kairo | 79 | +335.9 | +257.1 | +26.0 |
+| fih hou | 73 | +342.6 | +291.1 | +25.7 |
+| firesale | 82 | +325.2 | +273.2 | +25.2 |
+| CNCS Last Hope | 72 | +345.6 | +235.1 | +25.1 |
+| Diggers | 86 | +320.5 | +246.7 | +25.1 |
+| Club 333 | 76 | +339.3 | +314.5 | +25.0 |
+| mas paspas | 75 | +339.9 | +302.2 | +24.4 |
+| Fire Nation | 90 | +306.6 | +252.0 | +23.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +497.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +497.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 

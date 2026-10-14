@@ -3,11 +3,11 @@ Team Name: shirtcockin
 Roster: boshy32, DUM0RE, delphiki, xstk, Cjoshum
 NARS Rank: 504 of 506
 
-Final Rating: 381.6
+Final Rating: 381.5
 Seeded Start: 1116.9
-H2H Adjustment: -735.3
+H2H Adjustment: -735.4
 
-Final Rating (381.6) = Seeded Start (1116.9) + H2H Adjustment (-735.3)
+Final Rating (381.5) = Seeded Start (1116.9) + H2H Adjustment (-735.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Courage | 503 | 403.8 | +22.2 | +169.3 |
-| SixSevenZaZa | 502 | 459.4 | +77.8 | +187.7 |
-| Shaq Diesel | 501 | 508.5 | +126.9 | +204.8 |
-| After Peak | 500 | 533.5 | +151.9 | +228.7 |
-| Old Dads Banging | 499 | 550.2 | +168.6 | +220.0 |
+| Courage | 503 | 403.7 | +22.2 | +169.3 |
+| SixSevenZaZa | 502 | 459.3 | +77.8 | +187.7 |
+| Shaq Diesel | 501 | 508.4 | +126.9 | +204.8 |
+| After Peak | 500 | 533.5 | +152.0 | +228.7 |
+| Old Dads Banging | 499 | 550.1 | +168.6 | +220.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| EZ2025 | 483 | +339.6 | +354.6 | +31.3 |
+| EZ2025 | 483 | +339.7 | +354.6 | +31.3 |
 | monitor off | 485 | +332.8 | +340.9 | +30.0 |
 | Grandpa Berets | 487 | +309.5 | +321.3 | +28.1 |
-| Power of Friendship | 484 | +338.4 | +284.4 | +26.5 |
+| Power of Friendship | 484 | +338.5 | +284.4 | +26.5 |
 | Potential to Stack Dough | 488 | +304.4 | +271.4 | +19.2 |
 | Muncle | 491 | +251.5 | +263.8 | +16.9 |
-| SNOWPLOWERS | 482 | +349.7 | +288.7 | +13.3 |
+| SNOWPLOWERS | 482 | +349.8 | +288.7 | +13.3 |
 | Knight Owls | 486 | +311.8 | +274.2 | +10.8 |
-| Solbound | 496 | +173.2 | +233.2 | -0.3 |
-| After Peak | 500 | +151.9 | +228.7 | -0.3 |
+| Solbound | 496 | +173.3 | +233.2 | -0.3 |
+| After Peak | 500 | +152.0 | +228.7 | -0.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -71,7 +71,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-12 | Cadillac F1 eSports Team | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -2.7 | Cjoshum, DUM0RE, boshy32, delphiki, xstk |
+| 2026-08-12 | Cadillac F1 eSports Team | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -2.6 | Cjoshum, DUM0RE, boshy32, delphiki, xstk |
 | 2026-08-07 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -47.5 | Cjoshum, DUM0RE, cadius-, delphiki, xstk |
 | 2026-08-05 | Friendly Fire | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -0.8 | Cjoshum, boshy32, cadius-, delphiki, xstk |
 | 2026-07-29 | NADIYA | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -9.2 | Cjoshum, boshy32, delphiki, oberon, xstk |
@@ -87,6 +87,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | puggin4seb | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +264.0 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
 | 2026-04-29 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -102.0 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
 | 2026-04-24 | F1lthy Puggers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -8.1 | Cjoshum, buckshott, delphiki, oberon, xstk |
-| 2026-04-22 | ASYCS KITTENS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -128.6 | Cjoshum, Jesperere, delphiki, ventake, xstk |
+| 2026-04-22 | ASYCS KITTENS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -128.7 | Cjoshum, Jesperere, delphiki, ventake, xstk |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

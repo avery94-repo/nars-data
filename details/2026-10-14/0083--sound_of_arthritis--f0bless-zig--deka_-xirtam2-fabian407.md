@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.176 | 1346.1 | - |
 | +30 days | 0.156 | 1318.9 | -27.2 |
 | +60 days | 0.138 | 1292.7 | -53.4 |
-| +90 days | 0.105 | 1247.1 | -99.0 |
+| +90 days | 0.105 | 1247.2 | -98.9 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.076 vs 0.187 average, gap -0.111). Matching that average is worth about 38.8 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| firesale | 82 | 1768.2 | +1.5 | +151.5 |
-| Over 30 | 81 | 1771.6 | +4.9 | +151.7 |
-| EXODIA | 80 | 1778.2 | +11.5 | +153.4 |
-| Kairo | 79 | 1778.9 | +12.2 | +151.1 |
+| firesale | 82 | 1768.3 | +1.6 | +151.6 |
+| Over 30 | 81 | 1771.6 | +4.9 | +151.8 |
+| EXODIA | 80 | 1778.3 | +11.6 | +153.5 |
+| Kairo | 79 | 1779.0 | +12.3 | +151.2 |
 | Down To Frag | 78 | 1779.5 | +12.8 | +149.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | +348.0 | +354.2 | +26.2 |
-| Iowa Stormboar | 21 | +349.2 | +353.5 | +26.2 |
-| Olympus | 25 | +273.0 | +266.7 | +19.4 |
-| Automatic HQ | 27 | +264.2 | +275.5 | +17.2 |
-| duck crew | 23 | +329.4 | +241.3 | +13.6 |
-| VOID ALUNE | 29 | +241.2 | +213.6 | +12.1 |
-| Hairy Scary Bandits | 32 | +232.7 | +251.6 | +10.4 |
-| Festina Lente | 24 | +276.1 | +224.6 | +10.0 |
-| Chicken Coop | 33 | +231.5 | +280.9 | +9.9 |
-| Holly Molly | 35 | +221.7 | +236.6 | +6.8 |
+| Zomblers | 22 | +348.2 | +354.4 | +26.2 |
+| Iowa Stormboar | 21 | +349.4 | +353.7 | +26.2 |
+| Olympus | 25 | +273.1 | +266.8 | +19.4 |
+| Automatic HQ | 27 | +264.2 | +275.6 | +17.2 |
+| duck crew | 23 | +329.4 | +241.4 | +13.6 |
+| VOID ALUNE | 29 | +241.2 | +213.7 | +12.1 |
+| Hairy Scary Bandits | 32 | +232.8 | +251.8 | +10.4 |
+| Festina Lente | 24 | +276.4 | +224.8 | +10.0 |
+| Chicken Coop | 33 | +231.7 | +281.1 | +10.0 |
+| Holly Molly | 35 | +221.8 | +236.7 | +6.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +525.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +525.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Scrimless (+0.0), we get it back (+0.0).
 
@@ -72,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | DUMBO | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -101.8 | UltRaLeX, dAVE, f0bless, xirtaM2, xyphx, zig- |
+| 2026-09-10 | DUMBO | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -101.9 | UltRaLeX, dAVE, f0bless, xirtaM2, xyphx, zig- |
 | 2026-09-08 | Ubiquiti | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.08 | 0.00 | +0.1 | DeKa_, UltRaLeX, f0bless, xirtaM2, xyphx, zig- |
 | 2026-09-06 | Ninjas In Boxer | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.11 | 0.00 | +2.2 | DeKa_, UltRaLeX, f0bless, xirtaM2, zig- |
 | 2026-09-04 | flat earth | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -66.8 | DeKa_, f0bless, swilLy, xirtaM2, zig- |

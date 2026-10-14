@@ -3,11 +3,11 @@ Team Name: Whiff City
 Roster: mROD-, Ziggy98, -jez-, BobbyJ, RJR
 NARS Rank: 68 of 506
 
-Final Rating: 1817.6
+Final Rating: 1817.7
 Seeded Start: 1255.0
-H2H Adjustment: +562.6
+H2H Adjustment: +562.7 (capped at +-300, raw +562.6)
 
-Final Rating (1817.6) = Seeded Start (1255.0) + H2H Adjustment (+562.6)
+Final Rating (1817.7) = Seeded Start (1255.0) + H2H Adjustment (+562.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.108 | 1251.0 | -4.1 |
 | +90 days | 0.107 | 1249.6 | -5.4 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.381 vs 0.630 average, gap -0.249). Matching that average is worth about 87.1 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.381 vs 0.630 average, gap -0.249). Matching that average is worth about 87.2 seed points.
 
 - Tier Exposure drivers: S58 NA Open1-8 Central - Playoffs (2026-09-18) 1.00
 - Quality Wins drivers: beat Los Pollos Hermanos at S58 NA Open1-8 Central - Playoffs (2026-09-18) 0.04; beat Core 5 at S58 NA Open1-8 Central - Playoffs (2026-09-09) 0.04; beat Chud Esports at S58 NA Open1-8 Central - Playoffs (2026-09-02) 0.04
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Playing for fun | 67 | 1819.3 | +1.7 | +103.8 |
-| WhalersOnDaMoon | 66 | 1821.9 | +4.3 | +113.1 |
-| Endless Esports | 65 | 1826.0 | +8.4 | +113.2 |
-| flat earth | 64 | 1826.5 | +8.9 | +112.8 |
-| DUMBO | 63 | 1827.1 | +9.5 | +118.2 |
+| Playing for fun | 67 | 1819.4 | +1.7 | +103.8 |
+| WhalersOnDaMoon | 66 | 1821.9 | +4.2 | +113.1 |
+| Endless Esports | 65 | 1826.1 | +8.4 | +113.3 |
+| flat earth | 64 | 1826.6 | +8.9 | +112.9 |
+| DUMBO | 63 | 1827.1 | +9.4 | +118.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NuTorious | 17 | +348.1 | +186.4 | +19.4 |
-| FarmVille | 16 | +350.0 | +247.1 | +18.1 |
-| Villainous | 18 | +343.1 | +242.5 | +17.7 |
-| Iowa Stormboar | 21 | +298.3 | +228.6 | +15.9 |
-| Zomblers | 22 | +297.1 | +229.1 | +15.9 |
-| qcclan | 20 | +328.6 | +198.8 | +12.2 |
-| MASTER ONE | 19 | +341.9 | +192.9 | +10.7 |
-| Olympus | 25 | +222.1 | +173.2 | +5.2 |
-| duck crew | 23 | +278.5 | +155.6 | +5.0 |
-| Automatic HQ | 27 | +213.3 | +179.2 | +2.9 |
+| NuTorious | 17 | +348.2 | +186.5 | +19.4 |
+| Villainous | 18 | +343.2 | +242.6 | +17.7 |
+| Iowa Stormboar | 21 | +298.4 | +228.8 | +16.0 |
+| Zomblers | 22 | +297.2 | +229.3 | +15.9 |
+| qcclan | 20 | +328.5 | +198.8 | +12.2 |
+| MASTER ONE | 19 | +341.8 | +192.9 | +10.7 |
+| Olympus | 25 | +222.1 | +173.3 | +5.2 |
+| duck crew | 23 | +278.4 | +155.7 | +5.0 |
+| Automatic HQ | 27 | +213.2 | +179.2 | +2.9 |
+| flat earth | 64 | +8.9 | +112.9 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +333.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +333.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Solbound (+0.0), Old Dads Banging (+0.0), After Peak (+0.0), Shaq Diesel (+0.0), SixSevenZaZa (+0.0).
 

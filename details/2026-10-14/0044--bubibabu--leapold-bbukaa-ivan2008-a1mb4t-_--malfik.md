@@ -3,11 +3,11 @@ Team Name: bubibabu
 Roster: Leapold, bbukaa, ivan2008, a1mb4t-_-, malfik
 NARS Rank: 44 of 506
 
-Final Rating: 1928.6
+Final Rating: 1928.7
 Seeded Start: 1341.5
-H2H Adjustment: +587.1
+H2H Adjustment: +587.2 (capped at +-300, raw +587.1)
 
-Final Rating (1928.6) = Seeded Start (1341.5) + H2H Adjustment (+587.1)
+Final Rating (1928.7) = Seeded Start (1341.5) + H2H Adjustment (+587.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.173 | 1341.5 | - |
 | +30 days | 0.143 | 1299.7 | -41.8 |
 | +60 days | 0.119 | 1266.3 | -75.2 |
-| +90 days | 0.089 | 1225.2 | -116.3 |
+| +90 days | 0.089 | 1225.3 | -116.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.090 vs 0.367 average, gap -0.277). Matching that average is worth about 97.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Wanted Goons | 43 | 1933.1 | +4.5 | +134.5 |
-| Zealous | 42 | 1941.7 | +13.1 | +117.6 |
-| Locally Hated | 41 | 1946.6 | +18.0 | +132.4 |
-| OnlyFans | 40 | 1947.0 | +18.4 | +128.1 |
-| ZETTA | 39 | 1970.0 | +41.4 | +137.4 |
+| Wanted Goons | 43 | 1933.3 | +4.6 | +134.6 |
+| Zealous | 42 | 1941.8 | +13.1 | +117.7 |
+| Locally Hated | 41 | 1946.7 | +18.0 | +132.5 |
+| OnlyFans | 40 | 1947.0 | +18.3 | +128.1 |
+| ZETTA | 39 | 1970.0 | +41.3 | +137.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| regain | 12 | +327.6 | +275.7 | +20.3 |
-| Brahmas | 14 | +278.9 | +194.6 | +16.5 |
-| Detonate | 13 | +318.1 | +242.3 | +15.2 |
-| Old Meta | 15 | +247.6 | +218.4 | +11.2 |
-| FarmVille | 16 | +239.0 | +234.8 | +9.6 |
-| NuTorious | 17 | +237.1 | +185.5 | +9.1 |
-| Villainous | 18 | +232.1 | +229.8 | +7.7 |
-| Zomblers | 22 | +186.1 | +210.8 | -0.0 |
-| Wanted Goons | 43 | +4.5 | +134.5 | -0.0 |
-| Hairy Scary Bandits | 32 | +70.8 | +148.9 | -0.0 |
+| regain | 12 | +327.7 | +275.9 | +20.4 |
+| Brahmas | 14 | +279.0 | +194.7 | +16.5 |
+| Detonate | 13 | +318.3 | +242.5 | +15.2 |
+| Old Meta | 15 | +247.5 | +218.5 | +11.2 |
+| FarmVille | 16 | +239.2 | +234.9 | +9.6 |
+| NuTorious | 17 | +237.2 | +185.6 | +9.1 |
+| Villainous | 18 | +232.2 | +229.9 | +7.8 |
+| Zomblers | 22 | +186.2 | +210.9 | -0.0 |
+| Wanted Goons | 43 | +4.6 | +134.6 | -0.0 |
+| Hairy Scary Bandits | 32 | +70.8 | +149.0 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +397.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +397.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
 

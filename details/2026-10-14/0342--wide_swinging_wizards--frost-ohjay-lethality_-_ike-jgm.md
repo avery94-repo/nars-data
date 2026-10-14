@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| BucketJonsBoys | 172 | +341.4 | +315.6 | +32.1 |
-| Pug Palace | 167 | +344.2 | +330.5 | +31.8 |
+| BucketJonsBoys | 172 | +341.5 | +315.6 | +32.1 |
+| Pug Palace | 167 | +344.3 | +330.6 | +31.8 |
 | Firstwave | 175 | +335.4 | +314.3 | +31.5 |
 | Shaboing Boing Bandits | 173 | +339.0 | +343.1 | +31.1 |
 | APEX | 176 | +330.3 | +322.1 | +30.8 |
-| Armored Talent | 174 | +338.2 | +350.9 | +30.7 |
+| Armored Talent | 174 | +338.3 | +350.9 | +30.7 |
 | LAF | 183 | +319.7 | +312.9 | +29.7 |
 | GOOZPEEK | 182 | +321.5 | +327.1 | +29.6 |
-| KIS | 185 | +315.1 | +295.7 | +29.3 |
-| Shadow Wizard Money Gang | 180 | +324.3 | +367.8 | +28.6 |
+| KIS | 185 | +315.1 | +295.7 | +29.4 |
+| Shadow Wizard Money Gang | 180 | +324.5 | +367.9 | +28.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -86,7 +86,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Real Hustle Club | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -3.6 | Frost, JGM, Lethality_, Ohjay, _ike |
 | 2026-08-05 | BucketJonsBoys | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.00 | 0.00 | -169.4 | Frost, JGM, Lethality_, Ohjay, _ike |
 | 2026-07-31 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.04 | 0.71 | +6.3 | Frost, JGM, Lethality_, Ohjay, _ike |
-| 2026-07-29 | Distinguished Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.06 | 0.70 | +267.3 | Frost, JGM, Ohjay, SaxyLlama, _ike |
+| 2026-07-29 | Distinguished Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.06 | 0.70 | +267.4 | Frost, JGM, Ohjay, SaxyLlama, _ike |
 | 2026-07-22 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -255.5 | Frost, JGM, Ohjay, SaxyLlama, _ike |
 | 2026-07-17 | TEMPR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -294.3 | Frost, JGM, Lethality_, Ohjay, SaxyLlama |
 | 2026-07-15 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.02 | 0.60 | +7.6 | Frost, JGM, Lethality_, Ohjay, SaxyLlama, _ike |
@@ -96,9 +96,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | Florida Man | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -311.2 | Frost, JGM, Ohjay, _ike, asani |
 | 2026-05-27 | CounterStreakrs | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +4.2 | Frost, JGM, Lethality_, Ohjay, _ike |
 | 2026-05-22 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +165.6 | Frost, JGM, Lethality_, Ohjay, _ike |
-| 2026-05-20 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -323.4 | BIaze_, Frost, JGM, Ohjay, _ike |
+| 2026-05-20 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -323.5 | BIaze_, Frost, JGM, Ohjay, _ike |
 | 2026-05-13 | Solbound | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +303.9 | BIaze_, Frost, JGM, Ohjay, _ike |
-| 2026-05-08 | GoonAssOldheads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +344.2 | Frost, JGM, Lethality_, Ohjay, _ike |
+| 2026-05-08 | GoonAssOldheads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +344.3 | Frost, JGM, Lethality_, Ohjay, _ike |
 | 2026-05-06 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -205.7 | BIaze_, Frost, JGM, Ohjay, _ike |
 | 2026-05-01 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -145.6 | BIaze_, Frost, Lethality_, Ohjay, _ike |
 | 2026-04-29 | The Ohio Meat Wagon | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.00 | +8.1 | BIaze_, Frost, Lethality_, Ohjay, _ike |

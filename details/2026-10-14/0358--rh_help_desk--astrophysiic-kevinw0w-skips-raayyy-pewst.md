@@ -3,11 +3,11 @@ Team Name: RH Help Desk
 Roster: Astrophysiic, kevinw0w, Skips, raayyy, Pewster
 NARS Rank: 358 of 506
 
-Final Rating: 1158.5
+Final Rating: 1158.6
 Seeded Start: 1178.2
-H2H Adjustment: -19.7
+H2H Adjustment: -19.6
 
-Final Rating (1158.5) = Seeded Start (1178.2) + H2H Adjustment (-19.7)
+Final Rating (1158.6) = Seeded Start (1178.2) + H2H Adjustment (-19.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Kurrupted Mindz | 357 | 1159.7 | +1.2 | +72.7 |
-| katzwitgunz | 356 | 1159.8 | +1.3 | +72.7 |
-| Comeback Bandits | 355 | 1160.6 | +2.1 | +80.4 |
-| 99 Thieves | 354 | 1162.3 | +3.8 | +80.4 |
-| DeathMark E-Sports | 353 | 1166.5 | +8.0 | +84.1 |
+| Kurrupted Mindz | 357 | 1159.7 | +1.1 | +72.7 |
+| katzwitgunz | 356 | 1159.8 | +1.2 | +72.7 |
+| Comeback Bandits | 355 | 1160.6 | +2.0 | +80.4 |
+| 99 Thieves | 354 | 1162.3 | +3.7 | +80.5 |
+| DeathMark E-Sports | 353 | 1166.5 | +7.9 | +84.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| KIS | 185 | +348.2 | +131.6 | +13.9 |
-| Lynnsanity | 189 | +341.5 | +149.8 | +13.5 |
-| No Leaders Please | 190 | +340.9 | +149.8 | +13.5 |
-| ClanAgain | 195 | +334.8 | +130.3 | +13.5 |
-| teamington | 192 | +339.5 | +137.2 | +13.4 |
-| Alternate Earth | 186 | +345.5 | +159.6 | +13.4 |
+| KIS | 185 | +348.1 | +131.6 | +13.9 |
+| Lynnsanity | 189 | +341.4 | +149.8 | +13.5 |
+| No Leaders Please | 190 | +340.8 | +149.8 | +13.5 |
+| ClanAgain | 195 | +334.7 | +130.3 | +13.5 |
+| teamington | 192 | +339.4 | +137.3 | +13.4 |
+| Alternate Earth | 186 | +345.4 | +159.6 | +13.4 |
 | ABG Esports | 196 | +330.2 | +147.4 | +13.4 |
-| UncsStillGotIt | 191 | +340.8 | +158.6 | +13.3 |
-| O Fire | 198 | +330.0 | +152.3 | +13.1 |
-| Bad Jawn | 200 | +323.6 | +149.9 | +12.9 |
+| UncsStillGotIt | 191 | +340.7 | +158.6 | +13.3 |
+| O Fire | 198 | +329.9 | +152.3 | +13.1 |
+| Bad Jawn | 200 | +323.5 | +149.9 | +12.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +228.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +229.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.6).
 

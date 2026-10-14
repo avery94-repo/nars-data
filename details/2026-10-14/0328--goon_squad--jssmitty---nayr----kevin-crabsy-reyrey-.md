@@ -3,11 +3,11 @@ Team Name: Goon Squad
 Roster: jssmitty, --nayR--, -keviN, crabsy, ReyRey-
 NARS Rank: 328 of 506
 
-Final Rating: 1221.9
+Final Rating: 1221.8
 Seeded Start: 1113.0
-H2H Adjustment: +108.9
+H2H Adjustment: +108.8
 
-Final Rating (1221.9) = Seeded Start (1113.0) + H2H Adjustment (+108.9)
+Final Rating (1221.8) = Seeded Start (1113.0) + H2H Adjustment (+108.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| PogSquad | 327 | 1222.5 | +0.6 | +172.1 |
-| Transcended | 326 | 1223.3 | +1.4 | +167.7 |
-| innerFire | 325 | 1224.2 | +2.3 | +167.7 |
-| Sultans of Swing | 324 | 1225.0 | +3.1 | +163.3 |
-| NetanYAHOO | 323 | 1227.3 | +5.4 | +175.1 |
+| PogSquad | 327 | 1222.5 | +0.7 | +172.1 |
+| Transcended | 326 | 1223.3 | +1.5 | +167.7 |
+| innerFire | 325 | 1224.2 | +2.4 | +167.7 |
+| Sultans of Swing | 324 | 1225.0 | +3.2 | +163.3 |
+| NetanYAHOO | 323 | 1227.3 | +5.5 | +175.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| WhiteBoyWinter | 155 | +344.8 | +318.5 | +32.3 |
-| offBalance | 165 | +320.4 | +311.2 | +29.8 |
-| BucketJonsBoys | 172 | +311.1 | +301.4 | +28.7 |
-| Pug Palace | 167 | +313.9 | +315.0 | +28.7 |
-| Order Zero | 156 | +342.9 | +286.1 | +28.1 |
-| Shaboing Boing Bandits | 173 | +308.7 | +326.0 | +27.9 |
-| Firstwave | 175 | +305.1 | +299.9 | +27.8 |
-| Armored Talent | 174 | +307.9 | +333.0 | +27.6 |
-| APEX | 176 | +300.0 | +306.7 | +26.9 |
-| GOOZPEEK | 182 | +291.2 | +310.7 | +25.4 |
+| WhiteBoyWinter | 155 | +344.9 | +318.5 | +32.3 |
+| offBalance | 165 | +320.5 | +311.2 | +29.8 |
+| BucketJonsBoys | 172 | +311.3 | +301.4 | +28.7 |
+| Pug Palace | 167 | +314.1 | +315.1 | +28.7 |
+| Order Zero | 156 | +343.0 | +286.1 | +28.1 |
+| Shaboing Boing Bandits | 173 | +308.8 | +326.1 | +27.9 |
+| Firstwave | 175 | +305.2 | +299.9 | +27.8 |
+| Armored Talent | 174 | +308.1 | +333.1 | +27.6 |
+| APEX | 176 | +300.1 | +306.7 | +26.9 |
+| GOOZPEEK | 182 | +291.3 | +310.7 | +25.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -76,13 +76,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -187.9 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
+| 2026-05-22 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -188.0 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-05-20 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -25.0 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
-| 2026-05-15 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +399.8 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
+| 2026-05-15 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +399.9 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-05-14 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -276.4 | --nayR--, ReyRey-, crabsy, jssmitty, uziburger |
 | 2026-05-06 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -127.1 | --nayR--, -keviN, ReyRey-, crabsy, uziburger |
 | 2026-05-01 | Tall Ocean Rats | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +259.1 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
-| 2026-04-29 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -225.6 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
+| 2026-04-29 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -225.7 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-04-24 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +11.1 | --nayR--, Miranite, ReyRey-, crabsy, jssmitty |
 | 2026-04-22 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +281.0 | --nayR--, ReyRey-, crabsy, jssmitty, uziburger |
 

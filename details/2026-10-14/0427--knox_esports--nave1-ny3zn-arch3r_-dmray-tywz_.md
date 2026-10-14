@@ -31,7 +31,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.060 vs 0.160 average, gap -0.100). Matching that average is worth about 35.0 seed points.
 
-- Tier Exposure drivers: NSTLGA League | Sapphire Conference (2026-08-29) 1.07; S58 NA Open9-10 East - Playoffs A (2026-09-05) 0.94
+- Tier Exposure drivers: NSTLGA League | Sapphire Conference (2026-08-29) 1.06; S58 NA Open9-10 East - Playoffs A (2026-09-05) 0.94
 - Quality Wins drivers: beat The Wizards at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.03
 - Opponent Network drivers: beat The Wizards at S58 NA Open9-10 East - Playoffs A (2026-09-02) 0.92
 
@@ -50,13 +50,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Saltcrew | 276 | +336.7 | +313.6 | +31.6 |
-| Demolition | 279 | +331.9 | +312.0 | +31.0 |
+| Demolition | 279 | +332.0 | +312.1 | +31.0 |
 | Chopped | 277 | +335.7 | +341.3 | +30.8 |
 | Adria eSports | 281 | +330.1 | +350.4 | +29.9 |
 | ItAintOverYet | 284 | +318.5 | +301.2 | +29.7 |
 | Entertainment Cheese | 285 | +316.7 | +330.4 | +28.9 |
 | Midwest Farmers | 286 | +312.1 | +325.9 | +28.4 |
-| Imperium | 283 | +321.4 | +277.9 | +28.2 |
+| Imperium | 283 | +321.5 | +277.9 | +28.2 |
 | 55TH ST | 288 | +307.2 | +329.8 | +27.6 |
 | Resurgence | 290 | +299.5 | +301.1 | +26.9 |
 
@@ -72,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-05 | Kahoot Squad | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -185.7 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |
 | 2026-09-04 | Brobies | L | 0-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -35.3 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |
 | 2026-09-02 | The Wizards | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +66.0 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |
-| 2026-08-29 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.20 | 1.00 | 1.07 | 0.00 | 0.00 | -0.5 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |
+| 2026-08-29 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.89 | 1.20 | 1.00 | 1.06 | 0.00 | 0.00 | -0.5 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |
 | 2026-08-27 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.87 | 1.20 | 1.00 | 1.05 | 0.00 | 0.00 | -3.5 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |
 | 2026-08-20 | Fathom Gaming | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -0.5 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |
 | 2026-08-13 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.00 | 0.00 | -0.9 | Arch3r_, Ny3zn, Tywz_, dmray, nave1 |

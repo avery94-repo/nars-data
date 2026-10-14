@@ -3,11 +3,11 @@ Team Name: BucketJonsBoys
 Roster: Gingjaa, glase_, Alo49, hunter-k, Intense
 NARS Rank: 172 of 506
 
-Final Rating: 1533.0
+Final Rating: 1533.1
 Seeded Start: 1577.0
-H2H Adjustment: -44.0
+H2H Adjustment: -43.9
 
-Final Rating (1533.0) = Seeded Start (1577.0) + H2H Adjustment (-44.0)
+Final Rating (1533.1) = Seeded Start (1577.0) + H2H Adjustment (-43.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.341 | 1577.0 | - |
 | +30 days | 0.319 | 1546.6 | -30.5 |
 | +60 days | 0.305 | 1527.2 | -49.8 |
-| +90 days | 0.281 | 1493.8 | -83.3 |
+| +90 days | 0.282 | 1494.4 | -82.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.224 vs 0.032 average, gap +0.192). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Abusement Park | 171 | 1533.7 | +0.7 | +124.9 |
-| Salsas Mazzin Crew | 170 | 1534.5 | +1.5 | +126.8 |
-| Zenano | 169 | 1535.2 | +2.2 | +121.7 |
-| For Fun Gamers | 168 | 1535.4 | +2.4 | +128.5 |
-| Pug Palace | 167 | 1535.8 | +2.8 | +130.5 |
+| Abusement Park | 171 | 1533.8 | +0.7 | +124.9 |
+| Salsas Mazzin Crew | 170 | 1534.5 | +1.4 | +126.8 |
+| Zenano | 169 | 1535.2 | +2.1 | +121.7 |
+| For Fun Gamers | 168 | 1535.4 | +2.3 | +128.5 |
+| Pug Palace | 167 | 1535.9 | +2.8 | +130.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| TheMotherLovers | 53 | +345.0 | +254.5 | +23.2 |
-| Omen Esports | 57 | +324.8 | +266.6 | +21.1 |
+| TheMotherLovers | 53 | +344.9 | +254.5 | +23.2 |
+| Omen Esports | 57 | +324.9 | +266.7 | +21.1 |
 | flat earth | 64 | +293.5 | +235.9 | +19.4 |
-| Endless Esports | 65 | +293.0 | +237.8 | +19.3 |
-| GG | 52 | +348.5 | +208.8 | +18.8 |
-| DUMBO | 63 | +294.1 | +260.3 | +18.7 |
-| WhalersOnDaMoon | 66 | +288.9 | +240.6 | +18.1 |
-| NZ Gaming | 69 | +280.2 | +217.2 | +17.4 |
+| Endless Esports | 65 | +293.0 | +237.9 | +19.3 |
+| GG | 52 | +348.4 | +208.8 | +18.8 |
+| DUMBO | 63 | +294.0 | +260.3 | +18.7 |
+| WhalersOnDaMoon | 66 | +288.8 | +240.6 | +18.0 |
+| NZ Gaming | 69 | +280.3 | +217.3 | +17.4 |
 | Sharp | 54 | +334.8 | +258.9 | +16.9 |
-| Evade Gaming | 55 | +332.1 | +204.8 | +15.6 |
+| Evade Gaming | 55 | +332.0 | +204.8 | +15.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +428.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +429.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 

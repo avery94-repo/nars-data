@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | FlockMunchers | 212 | 1459.1 | +2.5 | +167.7 |
-| Veniversum | 211 | 1459.4 | +2.8 | +167.7 |
+| Veniversum | 211 | 1459.4 | +2.8 | +167.8 |
 | Kings Gambit | 210 | 1461.9 | +5.3 | +166.4 |
-| Pugging4Pumpkin | 209 | 1463.6 | +7.0 | +159.7 |
+| Pugging4Pumpkin | 209 | 1463.6 | +7.0 | +159.8 |
 | noname | 208 | 1467.3 | +10.7 | +167.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GeneticDiff | 70 | +336.3 | +318.6 | +29.8 |
-| Asoka | 74 | +326.7 | +297.8 | +29.3 |
-| Kairo | 79 | +322.3 | +292.8 | +28.9 |
-| fih hou | 73 | +329.1 | +329.6 | +28.7 |
-| CNCS Last Hope | 72 | +332.1 | +269.5 | +28.0 |
-| Club 333 | 76 | +325.7 | +354.4 | +27.9 |
-| firesale | 82 | +311.6 | +309.2 | +27.7 |
-| Diggers | 86 | +306.8 | +280.7 | +27.3 |
-| mas paspas | 75 | +326.4 | +341.4 | +27.2 |
-| Fire Nation | 90 | +293.1 | +285.5 | +24.8 |
+| GeneticDiff | 70 | +336.3 | +318.7 | +29.8 |
+| Asoka | 74 | +326.7 | +297.9 | +29.3 |
+| Kairo | 79 | +322.4 | +292.9 | +28.9 |
+| fih hou | 73 | +329.1 | +329.7 | +28.8 |
+| CNCS Last Hope | 72 | +332.1 | +269.6 | +28.0 |
+| Club 333 | 76 | +325.8 | +354.6 | +27.9 |
+| firesale | 82 | +311.7 | +309.4 | +27.7 |
+| Diggers | 86 | +307.0 | +280.8 | +27.4 |
+| mas paspas | 75 | +326.4 | +341.5 | +27.2 |
+| Fire Nation | 90 | +293.1 | +285.6 | +24.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +604.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +604.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -61.1 | 1000in1, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
 | 2026-08-26 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -84.2 | Archer1223, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
 | 2026-08-21 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.16 | 0.97 | +54.8 | Reddot_ENGA, blink404, ck1337-, rdN_-, tMACCCCC |
-| 2026-08-19 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -142.4 | Reddot_ENGA, argy, blink404, ck1337-, rdN_- |
+| 2026-08-19 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -142.5 | Reddot_ENGA, argy, blink404, ck1337-, rdN_- |
 | 2026-08-14 | ALL IN | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.04 | 0.92 | +17.3 | Reddot_ENGA, argy, blink404, rdN_-, tMACCCCC |
 | 2026-08-12 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -115.7 | 1000in1, Reddot_ENGA, ck1337-, rdN_-, tMACCCCC |
 | 2026-08-07 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -170.4 | 1000in1, Reddot_ENGA, blink404, ck1337-, rdN_- |
@@ -92,17 +92,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -320.3 | Reddot_ENGA, blink404, ck1337-, rdN_-, tMACCCCC |
 | 2026-07-22 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.06 | 0.74 | +0.0 | Reddot_ENGA, blink404, ck1337-, rdN_-, tMACCCCC |
 | 2026-07-15 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.06 | 0.68 | +0.0 | Reddot_ENGA, blink404, ck1337-, rdN_-, tMACCCCC |
-| 2026-06-11 | TenToesDown | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.36 | 1.03 | 1.00 | 0.37 | 0.05 | 0.00 | +120.5 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
+| 2026-06-11 | TenToesDown | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.36 | 1.03 | 1.00 | 0.37 | 0.05 | 0.00 | +120.6 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
 | 2026-06-02 | Endless Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -139.9 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
 | 2026-05-31 | Baja Blasters | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.02 | 0.30 | +181.1 | Archer1223, MuBaGanG, Reddot_ENGA, blink404, rdN_- |
 | 2026-05-29 | Real Hustle Club | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.02 | 0.28 | +125.4 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
 | 2026-05-27 | Zenano | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.27 | +5.8 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
 | 2026-05-22 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -183.4 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
 | 2026-05-20 | TenToesDown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +227.8 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
-| 2026-05-15 | MINDTRIP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +59.2 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
+| 2026-05-15 | MINDTRIP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +59.3 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
 | 2026-05-13 | Hairy Scary Bandits | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.03 | 0.17 | +167.6 | Archer1223, MuBaGanG, Reddot_ENGA, blink404, tMACCCCC |
 | 2026-05-08 | The Plague | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +296.6 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
-| 2026-05-06 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -302.3 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
+| 2026-05-06 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -302.4 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
 | 2026-05-01 | Friendly Fire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +256.2 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |
 | 2026-04-29 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +1.5 | Archer1223, MuBaGanG, Reddot_ENGA, blink404, tMACCCCC |
 | 2026-04-24 | Kushtaka | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +30.6 | MuBaGanG, Reddot_ENGA, blink404, rdN_-, tMACCCCC |

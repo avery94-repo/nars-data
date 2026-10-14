@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.099 | 1238.7 | - |
 | +30 days | 0.074 | 1204.0 | -34.6 |
 | +60 days | 0.062 | 1187.2 | -51.5 |
-| +90 days | 0.050 | 1169.9 | -68.8 |
+| +90 days | 0.050 | 1169.9 | -68.7 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.021 vs 0.008 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| SNOWPLOWERS | 482 | 731.3 | +10.1 | +73.8 |
+| SNOWPLOWERS | 482 | 731.3 | +10.1 | +73.9 |
 | CVC Retirement | 481 | 742.1 | +20.9 | +75.4 |
 | HUMA | 480 | 747.3 | +26.1 | +86.3 |
-| FourStrokeGang | 479 | 748.4 | +27.2 | +79.4 |
-| Kushtaka | 478 | 757.5 | +36.3 | +77.5 |
+| FourStrokeGang | 479 | 748.3 | +27.1 | +79.4 |
+| Kushtaka | 478 | 757.5 | +36.3 | +77.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Benadryl Abusers | 396 | +340.0 | +135.1 | +13.5 |
+| Benadryl Abusers | 396 | +339.9 | +135.1 | +13.5 |
 | ReGen | 400 | +331.7 | +135.6 | +13.3 |
-| Big Fish | 402 | +329.8 | +135.1 | +13.2 |
+| Big Fish | 402 | +329.8 | +135.1 | +13.3 |
 | house | 403 | +327.7 | +150.5 | +13.0 |
-| James Bond Bois | 401 | +330.8 | +118.4 | +12.7 |
+| James Bond Bois | 401 | +330.7 | +118.4 | +12.7 |
 | Epochal Esports | 413 | +314.8 | +138.4 | +12.6 |
-| Team Hyper | 409 | +316.1 | +162.9 | +12.3 |
+| Team Hyper | 409 | +316.2 | +162.9 | +12.3 |
 | MakeYouSayLate | 414 | +305.7 | +129.6 | +12.1 |
-| three11 | 398 | +335.8 | +119.1 | +12.0 |
+| three11 | 398 | +335.7 | +119.1 | +12.0 |
 | Shock Value | 405 | +325.3 | +117.8 | +11.9 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +228.7 points at current ratings.
@@ -95,13 +95,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-31 | Costco Family | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.03 | 0.29 | +160.9 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-05-29 | Tractors | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -101.2 | Zitrone_, brettttttttt, sil_, solid37, tomjr88 |
 | 2026-05-27 | GoonAssOldheads | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +321.6 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
-| 2026-05-22 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -291.8 | WOWITSMEHI, Zitrone_, brettttttttt, solid37, tomjr88 |
+| 2026-05-22 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -291.9 | WOWITSMEHI, Zitrone_, brettttttttt, solid37, tomjr88 |
 | 2026-05-20 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +190.9 | SNEAKK, WOWITSMEHI, Zitrone_, solid37, tomjr88 |
 | 2026-05-08 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -439.6 | 1eric, WOWITSMEHI, Zitrone_, sil_, solid37 |
-| 2026-05-06 | We Play Naked | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +428.3 | 1eric, Zitrone_, sil_, solid37, tomjr88 |
+| 2026-05-06 | We Play Naked | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +428.4 | 1eric, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-05-01 | Lan Bears | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -178.2 | 1eric, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-04-29 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +11.7 | 1eric, WOWITSMEHI, sil_, solid37, tomjr88 |
-| 2026-04-24 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +237.0 | 1eric, WOWITSMEHI, Zitrone_, sil_, solid37 |
+| 2026-04-24 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +237.1 | 1eric, WOWITSMEHI, Zitrone_, sil_, solid37 |
 | 2026-04-22 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -248.0 | 1eric, WOWITSMEHI, sil_, solid37, tomjr88 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.076 | 1206.8 | - |
 | +30 days | 0.060 | 1183.3 | -23.4 |
 | +60 days | 0.051 | 1171.3 | -35.5 |
-| +90 days | 0.037 | 1151.9 | -54.9 |
+| +90 days | 0.037 | 1151.9 | -54.8 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.041 vs 0.043 average, gap -0.002). Matching that average is worth about 0.7 seed points.
 
@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | CVC Retirement | 481 | 742.1 | +10.8 | +165.7 |
 | HUMA | 480 | 747.3 | +16.0 | +177.2 |
-| FourStrokeGang | 479 | 748.4 | +17.1 | +171.1 |
+| FourStrokeGang | 479 | 748.3 | +17.0 | +171.1 |
 | Kushtaka | 478 | 757.5 | +26.2 | +170.6 |
 | Brick Layers | 477 | 764.1 | +32.8 | +172.8 |
 
@@ -49,15 +49,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Benadryl Abusers | 396 | +329.9 | +311.6 | +30.6 |
-| ReGen | 400 | +321.6 | +311.0 | +29.9 |
+| Benadryl Abusers | 396 | +329.8 | +311.6 | +30.6 |
+| ReGen | 400 | +321.6 | +311.0 | +30.0 |
 | Big Fish | 402 | +319.7 | +309.7 | +29.7 |
-| James Bond Bois | 401 | +320.7 | +277.6 | +29.0 |
+| James Bond Bois | 401 | +320.6 | +277.6 | +29.0 |
 | house | 403 | +317.6 | +338.6 | +28.8 |
 | Epochal Esports | 413 | +304.7 | +312.9 | +27.6 |
-| three11 | 398 | +325.7 | +279.5 | +27.4 |
+| three11 | 398 | +325.6 | +279.5 | +27.4 |
 | Shock Value | 405 | +315.2 | +275.6 | +26.9 |
-| Team Hyper | 409 | +306.0 | +358.9 | +26.5 |
+| Team Hyper | 409 | +306.1 | +358.9 | +26.5 |
 | High T Low E | 391 | +342.1 | +285.8 | +26.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.

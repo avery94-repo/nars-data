@@ -5,7 +5,7 @@ NARS Rank: 56 of 506
 
 Final Rating: 1863.9
 Seeded Start: 1432.3
-H2H Adjustment: +431.6 (capped at +-300, raw +431.5)
+H2H Adjustment: +431.6
 
 Final Rating (1863.9) = Seeded Start (1432.3) + H2H Adjustment (+431.6)
 
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.237 | 1432.3 | - |
 | +30 days | 0.221 | 1409.0 | -23.4 |
 | +60 days | 0.212 | 1397.0 | -35.4 |
-| +90 days | 0.197 | 1376.1 | -56.3 |
+| +90 days | 0.197 | 1376.2 | -56.1 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.087 vs 0.127 average, gap -0.040). Matching that average is worth about 14.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Evade Gaming | 55 | 1865.1 | +1.2 | +113.9 |
-| Sharp | 54 | 1867.8 | +3.9 | +127.4 |
+| Evade Gaming | 55 | 1865.1 | +1.2 | +114.0 |
+| Sharp | 54 | 1867.9 | +4.0 | +127.4 |
 | TheMotherLovers | 53 | 1878.0 | +14.1 | +128.8 |
-| GG | 52 | 1881.5 | +17.6 | +117.5 |
-| Phantom Sense | 51 | 1883.8 | +19.9 | +138.6 |
+| GG | 52 | 1881.5 | +17.6 | +117.6 |
+| Phantom Sense | 51 | 1883.9 | +20.0 | +138.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | +343.6 | +209.9 | +22.4 |
-| Old Meta | 15 | +312.3 | +240.9 | +19.4 |
-| NuTorious | 17 | +301.8 | +201.8 | +18.9 |
-| FarmVille | 16 | +303.7 | +262.4 | +18.4 |
-| Villainous | 18 | +296.8 | +257.1 | +17.4 |
-| Iowa Stormboar | 21 | +252.0 | +238.9 | +12.2 |
-| Zomblers | 22 | +250.8 | +239.2 | +12.0 |
+| Brahmas | 14 | +343.8 | +210.0 | +22.4 |
+| Old Meta | 15 | +312.3 | +241.0 | +19.4 |
+| NuTorious | 17 | +302.0 | +201.9 | +18.9 |
+| FarmVille | 16 | +304.0 | +262.6 | +18.4 |
+| Villainous | 18 | +297.0 | +257.3 | +17.5 |
+| Iowa Stormboar | 21 | +252.2 | +239.1 | +12.2 |
+| Zomblers | 22 | +251.0 | +239.4 | +12.1 |
 | qcclan | 20 | +282.3 | +213.0 | +9.8 |
-| MASTER ONE | 19 | +295.6 | +207.9 | +8.7 |
-| Phantom Sense | 51 | +19.9 | +138.6 | -0.0 |
+| MASTER ONE | 19 | +295.6 | +208.0 | +8.7 |
+| Phantom Sense | 51 | +20.0 | +138.7 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +393.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +393.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): we get it back (+0.0), RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0), Dapper North (+0.0).
 
@@ -83,20 +83,20 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Exnitas | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.13 | 1.02 | +83.3 | -Red, deez_tyson, jorker, n0na, yuppy- |
 | 2026-08-26 | DingTone | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.08 | 1.01 | +67.1 | -Red, deez_tyson, jorker, n0na, yuppy- |
 | 2026-08-21 | NADIYA | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.04 | 0.97 | +46.0 | -Red, deez_tyson, jorker, n0na, yuppy- |
-| 2026-08-19 | Top One Percent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.05 | 0.95 | +121.4 | -Red, deez_tyson, jorker, n0na, yuppy- |
+| 2026-08-19 | Top One Percent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.05 | 0.95 | +121.5 | -Red, deez_tyson, jorker, n0na, yuppy- |
 | 2026-08-14 | Feels MAIN Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.08 | 0.92 | +105.9 | -Red, deez_tyson, jorker, n0na, yuppy- |
 | 2026-08-12 | Absent Minded | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.08 | 0.90 | +116.8 | -Red, deez_tyson, jorker, n0na, yuppy- |
 | 2026-08-05 | Emerald Isle | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -71.3 | -Red, Scrubian, jorker, n0na, yuppy- |
 | 2026-07-31 | Friendly Fire | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -270.2 | -Red, Stu, deez_tyson, jorker, n0na |
 | 2026-07-29 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.03 | 0.79 | +0.7 | -Red, Stu, deez_tyson, jorker, n0na |
-| 2026-07-24 | HammerHeads | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +263.5 | -Red, Stu, deez_tyson, jorker, n0na |
+| 2026-07-24 | HammerHeads | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +263.6 | -Red, Stu, deez_tyson, jorker, n0na |
 | 2026-07-22 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -40.9 | -Red, Stu, deez_tyson, jorker, n0na |
-| 2026-07-17 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -215.0 | -Red, Stu, deez_tyson, jorker, n0na |
-| 2026-07-15 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -184.5 | -Red, Stu, deez_tyson, jorker, n0na |
+| 2026-07-17 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -215.1 | -Red, Stu, deez_tyson, jorker, n0na |
+| 2026-07-15 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -184.6 | -Red, Stu, deez_tyson, jorker, n0na |
 | 2026-05-22 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -229.1 | -Red, Scrubian, Stu, deez_tyson, n0na |
-| 2026-05-20 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +342.1 | -Red, Scrubian, Stu, deez_tyson, n0na |
+| 2026-05-20 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +342.2 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-15 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +40.8 | -Red, Scrubian, Stu, deez_tyson, n0na |
-| 2026-05-13 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.00 | +310.6 | -Red, Scrubian, Stu, deez_tyson, n0na |
+| 2026-05-13 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.00 | +310.7 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-08 | OnlyFans | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -0.3 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-06 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -9.2 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-01 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -254.8 | -Red, Scrubian, Stu, deez_tyson, n0na |

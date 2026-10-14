@@ -41,9 +41,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | house | 403 | 1048.9 | +2.1 | +173.0 |
 | Big Fish | 402 | 1051.0 | +4.2 | +170.0 |
-| James Bond Bois | 401 | 1052.0 | +5.2 | +163.9 |
-| ReGen | 400 | 1052.9 | +6.1 | +170.7 |
-| Room Temp IQs | 399 | 1056.4 | +9.6 | +165.3 |
+| James Bond Bois | 401 | 1051.9 | +5.1 | +163.9 |
+| ReGen | 400 | 1052.9 | +6.1 | +170.8 |
+| Room Temp IQs | 399 | 1056.5 | +9.7 | +165.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,11 +51,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | The Kerbins | 250 | +331.8 | +340.0 | +30.4 |
 | GoonAssOldheads | 258 | +323.0 | +305.9 | +30.2 |
-| Eightball | 253 | +328.8 | +329.5 | +29.9 |
-| Dude Picks | 252 | +330.7 | +355.9 | +29.8 |
+| Eightball | 253 | +328.8 | +329.6 | +29.9 |
+| Dude Picks | 252 | +330.7 | +356.0 | +29.8 |
 | 2THRiLL | 246 | +339.8 | +284.9 | +29.6 |
 | drunk cigs dont count | 255 | +326.3 | +345.9 | +29.6 |
-| THE GUILD | 264 | +312.2 | +294.7 | +28.9 |
+| THE GUILD | 264 | +312.2 | +294.7 | +29.0 |
 | Kinetic | 260 | +317.4 | +336.2 | +28.8 |
 | DadDick Esports | 261 | +315.6 | +330.3 | +28.7 |
 | Wiggle Peeks | 265 | +309.9 | +313.3 | +28.3 |
@@ -79,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-31 | After Peak | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -158.4 | Jakey777, Johnnydown, Kermey, Oathsworn, Ripsi |
-| 2026-05-29 | Remnant | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +139.7 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-05-29 | Remnant | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.02 | 0.28 | +139.8 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-05-27 | Saltcrew | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -260.3 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-05-22 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -336.7 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-05-15 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +137.1 | Jakey777, Johnnydown, Kermey, Ripsi, hyun |
@@ -89,6 +89,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | WaterDrinkers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -235.2 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-04-29 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +423.1 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-04-24 | offBalance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -2.1 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-04-22 | The Plague | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -236.1 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-04-22 | The Plague | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -236.2 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

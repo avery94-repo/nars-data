@@ -3,11 +3,11 @@ Team Name: AML
 Roster: TheVicBro, uncjoi, KiWiFrute, darkAD, dotz14
 NARS Rank: 473 of 506
 
-Final Rating: 793.6
+Final Rating: 793.5
 Seeded Start: 1221.2
-H2H Adjustment: -427.6 (capped at +-300, raw -427.7)
+H2H Adjustment: -427.7
 
-Final Rating (793.6) = Seeded Start (1221.2) + H2H Adjustment (-427.6)
+Final Rating (793.5) = Seeded Start (1221.2) + H2H Adjustment (-427.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.087 | 1221.2 | - |
 | +30 days | 0.074 | 1203.2 | -18.0 |
 | +60 days | 0.063 | 1188.3 | -32.9 |
-| +90 days | 0.043 | 1160.8 | -60.5 |
+| +90 days | 0.043 | 1160.8 | -60.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.019 vs 0.008 average, gap +0.011). Matching that average is worth about 0.0 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Therapist | 472 | 797.3 | +3.7 | +157.4 |
-| CounterStreakrs | 471 | 808.2 | +14.6 | +160.7 |
-| In Our Prime | 470 | 811.1 | +17.5 | +161.6 |
-| Gambling and Young | 469 | 812.8 | +19.2 | +162.2 |
-| Pro Lapse | 468 | 822.2 | +28.6 | +165.1 |
+| Therapist | 472 | 797.3 | +3.8 | +157.5 |
+| CounterStreakrs | 471 | 808.1 | +14.6 | +160.8 |
+| In Our Prime | 470 | 811.1 | +17.6 | +161.7 |
+| Gambling and Young | 469 | 812.8 | +19.3 | +162.2 |
+| Pro Lapse | 468 | 822.1 | +28.6 | +165.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Line Steppers | 367 | +345.2 | +304.5 | +31.1 |
-| Mongolian Tractor | 366 | +345.3 | +315.4 | +30.8 |
-| Team Zhao | 373 | +322.8 | +330.9 | +28.1 |
+| Line Steppers | 367 | +345.3 | +304.5 | +31.1 |
+| Mongolian Tractor | 366 | +345.4 | +315.4 | +30.8 |
+| Team Zhao | 373 | +322.9 | +331.0 | +28.1 |
 | Shadow Wizard Money Gang | 376 | +314.2 | +303.7 | +27.8 |
-| Zamgaa Anime Aimers | 378 | +310.4 | +286.7 | +27.5 |
-| Costco Family | 382 | +308.9 | +288.2 | +27.3 |
-| We Play Naked | 380 | +309.6 | +303.1 | +27.2 |
-| Goyim Gladiators | 379 | +310.3 | +314.0 | +27.0 |
+| Zamgaa Anime Aimers | 378 | +310.5 | +286.7 | +27.5 |
+| Costco Family | 382 | +309.0 | +288.2 | +27.3 |
+| We Play Naked | 380 | +309.7 | +303.1 | +27.2 |
+| Goyim Gladiators | 379 | +310.4 | +314.0 | +27.0 |
 | Texas Orange | 383 | +303.9 | +288.4 | +26.6 |
-| Exnitas | 385 | +299.6 | +275.6 | +26.0 |
+| Exnitas | 385 | +299.7 | +275.6 | +26.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +607.4 points at current ratings.
 
@@ -72,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -1.1 | Kelpomelpo, KiWiFrute, TheVicBro, darkAD, uncjoi |
-| 2026-08-28 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -58.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-08-28 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -58.1 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-08-26 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +57.6 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-08-14 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -121.4 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-08-12 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -104.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |

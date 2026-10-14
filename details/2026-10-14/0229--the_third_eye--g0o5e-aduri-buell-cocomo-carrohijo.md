@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.037 | 1151.3 | - |
-| +30 days | 0.022 | 1131.1 | -20.3 |
+| +30 days | 0.022 | 1131.0 | -20.3 |
 | +60 days | 0.009 | 1112.9 | -38.4 |
 | +90 days | 0.001 | 1101.5 | -49.8 |
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| FRAGDEMONS | 228 | 1426.4 | +0.9 | +162.6 |
+| FRAGDEMONS | 228 | 1426.3 | +0.8 | +162.6 |
 | UltimateDarklordWizardz | 227 | 1427.1 | +1.6 | +172.9 |
 | penazoid | 226 | 1427.9 | +2.4 | +169.3 |
-| Elisir Esports | 225 | 1428.4 | +2.9 | +163.2 |
+| Elisir Esports | 225 | 1428.5 | +3.0 | +163.2 |
 | TahMeow | 224 | 1429.4 | +3.9 | +163.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Diggers | 86 | +337.9 | +307.1 | +32.3 |
-| firesale | 82 | +342.7 | +339.5 | +32.0 |
+| Diggers | 86 | +338.1 | +307.2 | +32.3 |
+| firesale | 82 | +342.8 | +339.6 | +32.0 |
 | Fire Nation | 90 | +324.2 | +313.1 | +30.2 |
-| Fathom Gaming | 91 | +319.8 | +306.4 | +30.0 |
+| Fathom Gaming | 91 | +319.9 | +306.4 | +30.0 |
 | Overtake Sector | 89 | +325.4 | +390.9 | +28.7 |
 | PROFECO | 87 | +329.7 | +281.1 | +27.5 |
-| Green Grove Retirement | 94 | +303.1 | +318.3 | +27.2 |
-| Elusive | 93 | +306.1 | +351.4 | +27.1 |
-| NineFlyeSports | 96 | +299.6 | +327.7 | +27.0 |
-| FlyQuest RED | 97 | +295.2 | +336.6 | +24.9 |
+| Green Grove Retirement | 93 | +303.1 | +318.4 | +27.2 |
+| NineFlyeSports | 95 | +299.7 | +327.8 | +27.0 |
+| FlyQuest RED | 96 | +295.3 | +336.7 | +24.9 |
+| Axial | 100 | +281.1 | +294.1 | +23.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.8 points at current ratings.
 
@@ -75,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-24 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -175.1 | Aduri, Buell, CarroHijo, G0o5e, OGYodaa |
+| 2026-07-24 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -175.2 | Aduri, Buell, CarroHijo, G0o5e, OGYodaa |
 | 2026-07-15 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +1.0 | Aduri, Buell, CarroHijo, G0o5e, OGYodaa |
 | 2026-06-10 | GodFather Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.02 | 0.36 | +144.8 | Buell, CarroHijo, G0o5e, cocomo, iced00 |
 | 2026-06-03 | Robert Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.31 | +245.5 | Buell, CarroHijo, G0o5e, cocomo, iced00 |

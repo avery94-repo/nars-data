@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.178 | 1349.5 | - |
 | +30 days | 0.168 | 1334.9 | -14.6 |
-| +60 days | 0.153 | 1313.8 | -35.7 |
-| +90 days | 0.134 | 1288.3 | -61.2 |
+| +60 days | 0.153 | 1313.7 | -35.7 |
+| +90 days | 0.135 | 1288.4 | -61.1 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.043 vs 0.030 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Kinetic | 260 | 1364.2 | +1.8 | +96.5 |
+| Kinetic | 260 | 1364.2 | +1.8 | +96.6 |
 | The Sweepers | 259 | 1365.8 | +3.4 | +86.3 |
 | GoonAssOldheads | 258 | 1369.8 | +7.4 | +91.8 |
 | Only Goys | 257 | 1369.9 | +7.5 | +86.1 |
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Axial | 101 | +344.0 | +163.9 | +15.9 |
-| Addice | 102 | +340.1 | +192.0 | +15.4 |
-| New Legends | 103 | +333.0 | +195.4 | +15.1 |
-| Holy Squid Empire | 108 | +316.3 | +161.4 | +14.8 |
-| Black Dragon Society | 109 | +308.3 | +173.7 | +14.3 |
-| Read You Like a Kindle | 116 | +292.3 | +171.8 | +13.1 |
-| Hadouken | 100 | +347.4 | +142.3 | +13.1 |
-| eefsports | 112 | +301.8 | +135.3 | +12.4 |
-| Bills | 99 | +349.5 | +142.6 | +12.3 |
-| ODIN | 119 | +284.7 | +167.0 | +12.3 |
+| Axial | 100 | +344.2 | +163.9 | +16.0 |
+| Addice | 101 | +340.3 | +192.1 | +15.4 |
+| New Legends | 102 | +333.1 | +195.4 | +15.1 |
+| Holy Squid Empire | 107 | +316.5 | +161.5 | +14.8 |
+| Black Dragon Society | 108 | +308.3 | +173.7 | +14.3 |
+| Read You Like a Kindle | 115 | +292.3 | +171.8 | +13.2 |
+| Hadouken | 99 | +347.4 | +142.3 | +13.1 |
+| eefsports | 111 | +301.8 | +135.3 | +12.4 |
+| Bills | 98 | +349.5 | +142.7 | +12.3 |
+| ODIN | 118 | +284.7 | +167.0 | +12.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +275.4 points at current ratings.
 

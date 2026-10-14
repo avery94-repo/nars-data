@@ -3,11 +3,11 @@ Team Name: Sharp
 Roster: EchoBHOP, -solacE-, NotGoob, hoggot, Wittifer
 NARS Rank: 54 of 506
 
-Final Rating: 1867.8
+Final Rating: 1867.9
 Seeded Start: 1397.4
-H2H Adjustment: +470.4 (capped at +-300, raw +470.5)
+H2H Adjustment: +470.5
 
-Final Rating (1867.8) = Seeded Start (1397.4) + H2H Adjustment (+470.4)
+Final Rating (1867.9) = Seeded Start (1397.4) + H2H Adjustment (+470.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.212 | 1397.4 | - |
 | +30 days | 0.194 | 1371.5 | -25.9 |
 | +60 days | 0.178 | 1349.7 | -47.7 |
-| +90 days | 0.154 | 1315.3 | -82.1 |
+| +90 days | 0.154 | 1315.4 | -81.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.078 vs 0.096 average, gap -0.018). Matching that average is worth about 12.6 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| TheMotherLovers | 53 | 1878.0 | +10.2 | +85.4 |
-| GG | 52 | 1881.5 | +13.7 | +75.5 |
-| Phantom Sense | 51 | 1883.8 | +16.0 | +94.6 |
-| No Future Lifes Over | 50 | 1887.2 | +19.4 | +85.1 |
-| DESPAIR | 49 | 1888.7 | +20.9 | +85.3 |
+| TheMotherLovers | 53 | 1878.0 | +10.1 | +85.4 |
+| GG | 52 | 1881.5 | +13.6 | +75.6 |
+| Phantom Sense | 51 | 1883.9 | +16.0 | +94.6 |
+| No Future Lifes Over | 50 | 1887.2 | +19.3 | +85.1 |
+| DESPAIR | 49 | 1888.7 | +20.8 | +85.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | +339.7 | +132.3 | +14.0 |
-| Old Meta | 15 | +308.4 | +154.6 | +12.3 |
-| NuTorious | 17 | +297.9 | +128.2 | +11.8 |
-| FarmVille | 16 | +299.8 | +169.9 | +11.8 |
-| Villainous | 18 | +292.9 | +166.6 | +11.1 |
-| Iowa Stormboar | 21 | +248.1 | +156.9 | +7.6 |
-| Zomblers | 22 | +246.9 | +157.2 | +7.5 |
-| qcclan | 20 | +278.4 | +136.6 | +6.0 |
-| MASTER ONE | 19 | +291.7 | +132.6 | +5.3 |
+| Brahmas | 14 | +339.8 | +132.4 | +14.0 |
+| Old Meta | 15 | +308.3 | +154.7 | +12.3 |
+| NuTorious | 17 | +298.0 | +128.3 | +11.8 |
+| FarmVille | 16 | +300.0 | +170.0 | +11.8 |
+| Villainous | 18 | +293.0 | +166.8 | +11.2 |
+| Iowa Stormboar | 21 | +248.2 | +157.0 | +7.6 |
+| Zomblers | 22 | +247.0 | +157.3 | +7.5 |
+| qcclan | 20 | +278.3 | +136.7 | +6.0 |
+| MASTER ONE | 19 | +291.6 | +132.7 | +5.3 |
 | Hairy Scary Bandits | 32 | +131.6 | +111.8 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +232.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +232.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
 
@@ -87,7 +87,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-11 | Tacos Tiramisu and Lies | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.17 | 0.77 | +178.7 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
 | 2026-08-05 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -106.6 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
 | 2026-07-31 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.08 | 0.70 | +5.6 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
-| 2026-07-29 | The Ohio Meat Wagon | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.06 | 0.68 | +176.6 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-07-29 | The Ohio Meat Wagon | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.06 | 0.68 | +176.7 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
 | 2026-07-24 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.03 | 0.65 | +290.4 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
 | 2026-07-22 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.11 | 0.00 | +7.4 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
 | 2026-07-17 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +35.4 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |

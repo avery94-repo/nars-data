@@ -4,14 +4,14 @@ Roster: NOWAH, Hydra1k, Chad_Kirbo, Ultimatebean, TinNeR
 NARS Rank: 441 of 506
 
 Final Rating: 928.1
-Seeded Start: 1214.5
-H2H Adjustment: -286.4
+Seeded Start: 1214.4
+H2H Adjustment: -286.3
 
-Final Rating (928.1) = Seeded Start (1214.5) + H2H Adjustment (-286.4)
+Final Rating (928.1) = Seeded Start (1214.4) + H2H Adjustment (-286.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.082 x 1400 = 1214.5
+                = 1100 + 0.082 x 1400 = 1214.4
 
 seed_factor 0.082 = 0.25 x Tier Exposure (0.053) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.239)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.082 | 1214.5 | - |
+| Now | 0.082 | 1214.4 | - |
 | +30 days | 0.050 | 1169.8 | -44.7 |
 | +60 days | 0.037 | 1151.4 | -63.1 |
 | +90 days | 0.019 | 1127.0 | -87.5 |
@@ -57,7 +57,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | TELETUBEASTS | 303 | +335.1 | +350.5 | +29.9 |
 | fiveB | 318 | +310.4 | +306.4 | +28.5 |
 | Team TahMeow | 321 | +307.6 | +305.7 | +28.1 |
-| Asian Invasion | 308 | +322.6 | +278.4 | +26.9 |
+| Asian Invasion | 308 | +322.7 | +278.4 | +26.9 |
 | innerFire | 325 | +296.1 | +289.3 | +26.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
@@ -93,7 +93,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-27 | Endless Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -0.7 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
 | 2026-05-22 | Lan Bears | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +3.6 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
 | 2026-05-20 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +89.2 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
-| 2026-05-15 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.03 | 0.18 | +209.0 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
+| 2026-05-15 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.03 | 0.18 | +209.1 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
 | 2026-05-13 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.03 | 0.17 | +35.2 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
 | 2026-05-08 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -8.6 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
 | 2026-05-06 | FourStrokeGang | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -287.3 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |

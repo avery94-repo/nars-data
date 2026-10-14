@@ -58,7 +58,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Comeback Bandits | 355 | +311.9 | +314.6 | +28.6 |
 | 99 Thieves | 354 | +313.6 | +313.8 | +28.4 |
 | Macs Snacks | 359 | +305.2 | +296.3 | +27.9 |
-| RH Help Desk | 358 | +309.8 | +336.6 | +27.8 |
+| RH Help Desk | 358 | +309.9 | +336.6 | +27.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 

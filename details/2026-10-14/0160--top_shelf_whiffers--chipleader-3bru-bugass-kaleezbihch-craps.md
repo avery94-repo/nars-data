@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.124 | 1273.8 | - |
 | +30 days | 0.121 | 1268.9 | -4.8 |
 | +60 days | 0.120 | 1267.6 | -6.2 |
-| +90 days | 0.117 | 1264.3 | -9.5 |
+| +90 days | 0.117 | 1264.3 | -9.4 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.039 vs 0.065 average, gap -0.026). Matching that average is worth about 9.1 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | AURA Esports | 159 | 1558.1 | +1.7 | +102.8 |
-| BONK | 158 | 1559.4 | +3.0 | +97.8 |
-| Fourth Quarter | 157 | 1560.8 | +4.4 | +102.7 |
-| Order Zero | 156 | 1564.8 | +8.4 | +95.6 |
+| BONK | 158 | 1559.4 | +3.0 | +97.9 |
+| Fourth Quarter | 157 | 1560.8 | +4.4 | +102.8 |
+| Order Zero | 156 | 1564.8 | +8.4 | +95.7 |
 | WhiteBoyWinter | 155 | 1566.7 | +10.3 | +102.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| FLOW STATE | 47 | +341.0 | +204.5 | +17.4 |
-| No Future Lifes Over | 50 | +330.8 | +184.5 | +17.4 |
+| FLOW STATE | 47 | +341.0 | +204.6 | +17.4 |
+| No Future Lifes Over | 50 | +330.8 | +184.6 | +17.4 |
 | DESPAIR | 49 | +332.3 | +184.8 | +17.2 |
-| TheMotherLovers | 53 | +321.6 | +189.8 | +16.8 |
-| Phantom Sense | 51 | +327.4 | +225.5 | +16.6 |
-| Omen Esports | 57 | +301.4 | +199.4 | +14.9 |
-| GG | 52 | +325.1 | +155.0 | +13.1 |
-| flat earth | 64 | +270.1 | +176.5 | +12.6 |
-| Endless Esports | 65 | +269.6 | +178.0 | +12.5 |
+| TheMotherLovers | 53 | +321.6 | +189.9 | +16.8 |
+| Phantom Sense | 51 | +327.5 | +225.7 | +16.6 |
+| Omen Esports | 57 | +301.6 | +199.6 | +14.9 |
+| GG | 52 | +325.1 | +155.1 | +13.1 |
+| flat earth | 64 | +270.2 | +176.6 | +12.6 |
+| Endless Esports | 65 | +269.7 | +178.1 | +12.5 |
 | DUMBO | 63 | +270.7 | +195.3 | +12.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +311.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +312.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 

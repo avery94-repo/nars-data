@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Sultans of Swing | 324 | 1225.0 | +0.8 | +128.9 |
-| NetanYAHOO | 323 | 1227.3 | +3.1 | +142.6 |
-| The Ohio Meat Wagon | 322 | 1228.2 | +4.0 | +129.7 |
-| Team TahMeow | 321 | 1235.7 | +11.5 | +139.5 |
+| NetanYAHOO | 323 | 1227.3 | +3.1 | +142.7 |
+| The Ohio Meat Wagon | 322 | 1228.1 | +3.9 | +129.7 |
+| Team TahMeow | 321 | 1235.7 | +11.5 | +139.6 |
 | Full White | 320 | 1236.9 | +12.7 | +131.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| WhiteBoyWinter | 155 | +342.5 | +247.4 | +25.1 |
+| WhiteBoyWinter | 155 | +342.5 | +247.5 | +25.1 |
 | offBalance | 165 | +318.1 | +242.9 | +23.1 |
-| Pug Palace | 167 | +311.6 | +246.4 | +22.3 |
-| BucketJonsBoys | 172 | +308.8 | +235.2 | +22.2 |
+| Pug Palace | 167 | +311.7 | +246.5 | +22.3 |
+| BucketJonsBoys | 172 | +308.9 | +235.2 | +22.2 |
 | Shaboing Boing Bandits | 173 | +306.4 | +256.1 | +21.7 |
-| Order Zero | 156 | +340.6 | +220.9 | +21.6 |
-| Firstwave | 175 | +302.8 | +234.3 | +21.6 |
-| Armored Talent | 174 | +305.6 | +262.0 | +21.5 |
+| Order Zero | 156 | +340.6 | +221.0 | +21.6 |
+| Firstwave | 175 | +302.8 | +234.4 | +21.6 |
+| Armored Talent | 174 | +305.7 | +262.0 | +21.6 |
 | APEX | 176 | +297.7 | +240.4 | +20.9 |
 | GOOZPEEK | 182 | +288.9 | +244.4 | +19.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +464.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +464.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.4), SixSevenZaZa (+0.7).
 

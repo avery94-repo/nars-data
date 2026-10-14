@@ -3,11 +3,11 @@ Team Name: dogwater
 Roster: HI_IM_TOM, Sykess, JesseP_, Tailz, Cyynn
 NARS Rank: 462 of 506
 
-Final Rating: 835.5
+Final Rating: 835.4
 Seeded Start: 1220.8
-H2H Adjustment: -385.3 (capped at +-300, raw -385.4)
+H2H Adjustment: -385.4
 
-Final Rating (835.5) = Seeded Start (1220.8) + H2H Adjustment (-385.3)
+Final Rating (835.4) = Seeded Start (1220.8) + H2H Adjustment (-385.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Remnant | 461 | 836.6 | +1.1 | +72.9 |
-| Absent Minded | 460 | 845.0 | +9.5 | +73.9 |
-| Puddle Pirates | 459 | 848.7 | +13.2 | +69.4 |
-| Thrash | 458 | 860.8 | +25.3 | +80.5 |
-| Cadillac F1 eSports Team | 457 | 863.0 | +27.5 | +75.2 |
+| Remnant | 461 | 836.5 | +1.1 | +72.9 |
+| Absent Minded | 460 | 845.0 | +9.6 | +73.9 |
+| Puddle Pirates | 459 | 848.7 | +13.3 | +69.4 |
+| Thrash | 458 | 860.8 | +25.4 | +80.5 |
+| Cadillac F1 eSports Team | 457 | 863.0 | +27.6 | +75.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Samantha 4 | 351 | +342.5 | +125.9 | +12.8 |
-| RunTheDamnBall | 352 | +331.6 | +133.4 | +12.4 |
-| DeathMark E-Sports | 353 | +331.0 | +138.0 | +12.3 |
-| Comeback Bandits | 355 | +325.1 | +129.6 | +12.2 |
-| 99 Thieves | 354 | +326.8 | +129.0 | +12.1 |
-| RH Help Desk | 358 | +323.0 | +140.9 | +12.0 |
-| Macs Snacks | 359 | +318.4 | +121.1 | +11.9 |
-| Aers Money Crew | 360 | +317.7 | +125.1 | +11.9 |
-| MINDTRIP | 361 | +314.0 | +128.0 | +11.7 |
-| Temple of Swing | 362 | +311.9 | +123.2 | +11.6 |
+| Samantha 4 | 351 | +342.6 | +125.9 | +12.8 |
+| RunTheDamnBall | 352 | +331.7 | +133.4 | +12.4 |
+| DeathMark E-Sports | 353 | +331.1 | +138.0 | +12.3 |
+| Comeback Bandits | 355 | +325.2 | +129.6 | +12.2 |
+| 99 Thieves | 354 | +326.9 | +129.0 | +12.1 |
+| RH Help Desk | 358 | +323.2 | +140.9 | +12.0 |
+| Macs Snacks | 359 | +318.5 | +121.1 | +11.9 |
+| Aers Money Crew | 360 | +317.8 | +125.1 | +11.9 |
+| MINDTRIP | 361 | +314.1 | +128.0 | +11.7 |
+| Temple of Swing | 362 | +312.0 | +123.2 | +11.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +211.3 points at current ratings.
 
@@ -85,7 +85,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -40.4 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-07-29 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.03 | 0.68 | +79.8 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-07-22 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.08 | 0.64 | +240.5 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-05-22 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +239.9 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-05-22 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.01 | 0.23 | +240.0 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-20 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -150.3 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-15 | Team Deathgrip | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -183.4 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-13 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -7.8 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |

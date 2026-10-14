@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.131 | 1283.2 | - |
 | +30 days | 0.130 | 1281.8 | -1.4 |
 | +60 days | 0.129 | 1280.7 | -2.6 |
-| +90 days | 0.134 | 1287.0 | +3.7 |
+| +90 days | 0.134 | 1287.0 | +3.8 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.358 vs 0.395 average, gap -0.037). Matching that average is worth about 13.0 seed points.
 
@@ -39,9 +39,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Dynasty | 294 | 1279.9 | +0.8 | +122.2 |
+| Dynasty | 294 | 1279.8 | +0.7 | +122.2 |
 | Cream Team | 293 | 1282.4 | +3.3 | +123.8 |
-| Tractors | 292 | 1283.0 | +3.9 | +130.5 |
+| Tractors | 292 | 1283.0 | +3.9 | +130.6 |
 | SwagMonkeyHats | 291 | 1283.2 | +4.1 | +130.8 |
 | Resurgence | 290 | 1283.6 | +4.5 | +127.8 |
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Torii | 129 | +348.9 | +248.4 | +23.0 |
-| 5Frag Gaming | 134 | +342.3 | +253.6 | +22.6 |
-| Kaos | 139 | +331.7 | +212.3 | +22.4 |
-| KODEX ESPORTS | 137 | +337.4 | +291.3 | +21.6 |
-| Team Amplus | 145 | +315.1 | +236.5 | +20.9 |
+| Torii | 128 | +349.0 | +248.4 | +23.0 |
+| 5Frag Gaming | 133 | +342.3 | +253.6 | +22.6 |
+| Kaos | 138 | +331.7 | +212.3 | +22.4 |
+| KODEX ESPORTS | 135 | +337.6 | +291.4 | +21.6 |
+| Elusive | 141 | +325.3 | +264.8 | +21.4 |
+| Team Amplus | 145 | +315.2 | +236.5 | +20.9 |
 | Kevin James Fan Club | 148 | +301.8 | +224.6 | +19.8 |
-| Biggie Cheese Fan Club | 151 | +297.5 | +204.2 | +19.3 |
+| Biggie Cheese Fan Club | 151 | +297.5 | +204.3 | +19.3 |
 | WhiteBoyWinter | 155 | +287.6 | +211.6 | +18.1 |
 | Oath | 142 | +323.1 | +199.1 | +14.9 |
-| gunked | 132 | +343.6 | +222.1 | +14.7 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +420.3 points at current ratings.
 

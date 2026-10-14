@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.089 | 1225.1 | - |
 | +30 days | 0.095 | 1233.1 | +8.0 |
 | +60 days | 0.098 | 1236.7 | +11.6 |
-| +90 days | 0.103 | 1244.2 | +19.1 |
+| +90 days | 0.103 | 1244.3 | +19.2 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.256 vs 0.362 average, gap -0.106). Matching that average is worth about 37.1 seed points.
 
@@ -43,22 +43,22 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | LAF | 183 | 1511.3 | +4.6 | +140.9 |
 | GOOZPEEK | 182 | 1513.1 | +6.4 | +143.8 |
 | NEWAR | 181 | 1513.2 | +6.5 | +134.1 |
-| Shadow Wizard Money Gang | 180 | 1515.9 | +9.2 | +150.2 |
+| Shadow Wizard Money Gang | 180 | 1516.1 | +9.4 | +150.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +319.8 | +268.1 | +24.0 |
-| Endless Esports | 65 | +319.3 | +270.3 | +23.9 |
-| DUMBO | 63 | +320.4 | +296.4 | +22.9 |
+| flat earth | 64 | +319.9 | +268.1 | +24.0 |
+| Endless Esports | 65 | +319.4 | +270.4 | +23.9 |
+| DUMBO | 63 | +320.4 | +296.5 | +22.9 |
 | WhalersOnDaMoon | 66 | +315.2 | +273.6 | +22.6 |
-| NZ Gaming | 69 | +306.5 | +246.7 | +22.5 |
+| NZ Gaming | 69 | +306.7 | +246.8 | +22.5 |
 | GeneticDiff | 70 | +286.2 | +247.8 | +19.9 |
-| F5 Esports | 60 | +328.6 | +283.5 | +19.0 |
+| F5 Esports | 60 | +328.8 | +283.6 | +19.0 |
 | fih hou | 73 | +279.0 | +255.9 | +18.7 |
 | Asoka | 74 | +276.6 | +232.0 | +18.4 |
-| Club 333 | 76 | +275.6 | +274.1 | +18.1 |
+| Club 333 | 76 | +275.7 | +274.2 | +18.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +480.1 points at current ratings.
 

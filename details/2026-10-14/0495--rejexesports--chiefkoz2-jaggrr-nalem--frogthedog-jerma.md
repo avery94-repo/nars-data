@@ -3,15 +3,15 @@ Team Name: RejexEsports
 Roster: ChiefKoz2, Jaggrr, nalem-, FrogTheDog, Jermaine
 NARS Rank: 495 of 506
 
-Final Rating: 557.7
-Seeded Start: 1137.0
+Final Rating: 557.6
+Seeded Start: 1136.9
 H2H Adjustment: -579.3
 
-Final Rating (557.7) = Seeded Start (1137.0) + H2H Adjustment (-579.3)
+Final Rating (557.6) = Seeded Start (1136.9) + H2H Adjustment (-579.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.026 x 1400 = 1137.0
+                = 1100 + 0.026 x 1400 = 1136.9
 
 seed_factor 0.026 = 0.25 x Tier Exposure (0.054) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.045)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.026 | 1137.0 | - |
+| Now | 0.026 | 1136.9 | - |
 | +30 days | 0.010 | 1114.2 | -22.7 |
 | +60 days | 0.008 | 1110.8 | -26.2 |
-| +90 days | 0.007 | 1109.5 | -27.5 |
+| +90 days | 0.007 | 1109.5 | -27.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.045 vs 0.123 average, gap -0.078). Matching that average is worth about 27.3 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| we get it back | 494 | 570.1 | +12.4 | +166.2 |
-| SuperSoakerClub | 493 | 581.4 | +23.7 | +169.8 |
-| GOMI dot CLUB | 492 | 605.0 | +47.3 | +177.5 |
-| Muncle | 491 | 633.1 | +75.4 | +192.4 |
-| 37U Passion | 490 | 637.3 | +79.6 | +188.4 |
+| we get it back | 494 | 570.1 | +12.5 | +166.2 |
+| SuperSoakerClub | 493 | 581.4 | +23.8 | +169.8 |
+| GOMI dot CLUB | 492 | 605.0 | +47.4 | +177.5 |
+| Muncle | 491 | 633.0 | +75.4 | +192.4 |
+| 37U Passion | 490 | 637.3 | +79.7 | +188.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Deathgrip | 448 | +346.4 | +300.0 | +32.9 |
-| GoopT | 452 | +336.7 | +339.9 | +30.5 |
-| insane players | 453 | +331.8 | +281.9 | +29.3 |
-| girl kissers | 455 | +325.9 | +279.6 | +28.5 |
-| Cadillac F1 eSports Team | 457 | +305.3 | +290.2 | +27.7 |
-| Thrash | 458 | +303.1 | +316.6 | +27.2 |
-| onliners | 456 | +312.4 | +274.5 | +26.6 |
-| Absent Minded | 460 | +287.3 | +288.5 | +24.6 |
+| Team Deathgrip | 448 | +346.5 | +300.0 | +32.9 |
+| GoopT | 452 | +336.8 | +339.9 | +30.5 |
+| insane players | 453 | +331.9 | +281.9 | +29.3 |
+| girl kissers | 455 | +326.0 | +279.6 | +28.5 |
+| Cadillac F1 eSports Team | 457 | +305.4 | +290.2 | +27.7 |
+| Thrash | 458 | +303.2 | +316.6 | +27.2 |
+| onliners | 456 | +312.5 | +274.5 | +26.6 |
+| Absent Minded | 460 | +287.4 | +288.5 | +24.6 |
 | Remnant | 461 | +278.9 | +286.2 | +23.3 |
-| de_throne | 463 | +277.0 | +263.8 | +22.7 |
+| de_throne | 463 | +277.1 | +263.8 | +22.7 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -88,9 +88,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | bubibabu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -152.3 | Jaggrr, Jermaine, dammahom, droot, nalem- |
 | 2026-05-31 | Kinetic | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.00 | 0.00 | -194.1 | ChiefKoz2, Jaggrr, Jermaine, m1k3y-, nalem- |
 | 2026-05-27 | Friendly Fire | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -2.0 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
-| 2026-05-22 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.03 | 0.23 | +302.3 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
+| 2026-05-22 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.03 | 0.23 | +302.4 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-20 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -81.0 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
-| 2026-05-15 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -372.7 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
+| 2026-05-15 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -372.8 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-13 | Top One Percent | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +15.8 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-06 | NOVAIR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +27.5 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-01 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +328.1 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |

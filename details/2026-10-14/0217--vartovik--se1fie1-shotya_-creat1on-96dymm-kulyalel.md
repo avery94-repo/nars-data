@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.105 | 1247.6 | - |
-| +30 days | 0.107 | 1249.7 | +2.2 |
+| +30 days | 0.107 | 1249.7 | +2.1 |
 | +60 days | 0.108 | 1250.7 | +3.1 |
-| +90 days | 0.109 | 1252.4 | +4.8 |
+| +90 days | 0.109 | 1252.5 | +4.9 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.070 vs 0.088 average, gap -0.018). Matching that average is worth about 6.3 seed points.
 
@@ -43,7 +43,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Defaulting | 215 | 1451.7 | +1.8 | +74.1 |
 | HiveMind | 214 | 1456.6 | +6.7 | +73.0 |
 | Nomadic Tactics | 213 | 1456.6 | +6.7 | +66.0 |
-| FlockMunchers | 212 | 1459.1 | +9.2 | +76.8 |
+| FlockMunchers | 212 | 1459.1 | +9.2 | +76.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,14 +51,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | GeneticDiff | 70 | +343.0 | +128.1 | +12.1 |
 | Asoka | 74 | +333.4 | +119.1 | +11.8 |
-| fih hou | 73 | +335.8 | +133.9 | +11.8 |
-| Kairo | 79 | +329.0 | +117.1 | +11.7 |
-| Club 333 | 76 | +332.4 | +146.1 | +11.6 |
-| firesale | 82 | +318.3 | +126.0 | +11.5 |
+| fih hou | 73 | +335.8 | +134.0 | +11.8 |
+| Kairo | 79 | +329.1 | +117.1 | +11.7 |
+| Club 333 | 76 | +332.5 | +146.1 | +11.6 |
+| firesale | 82 | +318.4 | +126.0 | +11.5 |
 | mas paspas | 75 | +333.1 | +139.8 | +11.2 |
-| Diggers | 86 | +313.5 | +112.5 | +11.2 |
+| Diggers | 86 | +313.7 | +112.5 | +11.2 |
 | CNCS Last Hope | 72 | +338.8 | +105.5 | +11.1 |
-| Overtake Sector | 89 | +301.0 | +149.7 | +10.5 |
+| Overtake Sector | 89 | +301.0 | +149.8 | +10.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +199.4 points at current ratings.
 
@@ -76,6 +76,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | fih hou | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -137.9 | -f1Z, 96dymm, Zaoro, kulyalele, se1fie1, shotya_ |
 | 2026-09-06 | KIS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +105.7 | -f1Z, 96dymm, Zaoro, kulyalele, se1fie1 |
 | 2026-09-04 | AscendentEsport | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +142.7 | -f1Z, 96dymm, kulyalele, se1fie1, shotya_ |
-| 2026-09-02 | Lost in the Plot | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +133.8 | -f1Z, creat1on, kulyalele, se1fie1, shotya_ |
+| 2026-09-02 | Lost in the Plot | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +133.9 | -f1Z, creat1on, kulyalele, se1fie1, shotya_ |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

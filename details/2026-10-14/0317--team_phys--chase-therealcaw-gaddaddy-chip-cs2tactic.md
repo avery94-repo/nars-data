@@ -39,9 +39,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Relativity | 316 | 1238.9 | +0.3 | +162.4 |
+| Relativity | 316 | 1238.8 | +0.2 | +162.4 |
 | Once Divine Gaming | 315 | 1239.7 | +1.1 | +162.6 |
-| Baatarz | 314 | 1241.2 | +2.6 | +163.1 |
+| Baatarz | 314 | 1241.5 | +2.9 | +163.2 |
 | Better at WOT | 313 | 1246.5 | +7.9 | +167.3 |
 | juked | 312 | 1246.5 | +7.9 | +166.2 |
 
@@ -54,10 +54,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | WhiteBoyWinter | 155 | +328.1 | +310.6 | +30.8 |
 | offBalance | 165 | +303.7 | +303.0 | +27.6 |
 | Order Zero | 156 | +326.2 | +279.7 | +26.4 |
-| Pug Palace | 167 | +297.2 | +306.4 | +26.3 |
-| BucketJonsBoys | 172 | +294.4 | +293.5 | +26.2 |
+| Pug Palace | 167 | +297.3 | +306.5 | +26.3 |
+| BucketJonsBoys | 172 | +294.5 | +293.5 | +26.2 |
 | Shaboing Boing Bandits | 173 | +292.0 | +316.6 | +25.4 |
-| Armored Talent | 174 | +291.2 | +323.1 | +25.1 |
+| Armored Talent | 174 | +291.3 | +323.1 | +25.1 |
 | Firstwave | 175 | +288.4 | +291.9 | +25.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
@@ -76,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-04 | Trinity | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.03 | 0.96 | +91.6 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
 | 2026-09-03 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -196.8 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
-| 2026-06-03 | Head Trauma | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -183.5 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
+| 2026-06-03 | Head Trauma | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.00 | 0.00 | -183.6 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
 | 2026-05-29 | Midnight Club | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +184.6 | CS2Tactics, Chase, Chip, Isbop, TheRealCaw |
 | 2026-05-28 | Freebrax | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +191.0 | CS2Tactics, Chase, Chip, GadDaddy, TheRealCaw |
 

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.090 | 1226.1 | - |
 | +30 days | 0.086 | 1220.7 | -5.4 |
 | +60 days | 0.085 | 1218.4 | -7.8 |
-| +90 days | 0.082 | 1214.6 | -11.5 |
+| +90 days | 0.082 | 1214.7 | -11.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.248 vs 0.395 average, gap -0.147). Matching that average is worth about 51.5 seed points.
 
@@ -41,26 +41,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Ninjas In Boxer | 248 | 1384.1 | +0.6 | +125.3 |
 | Mach 5 | 247 | 1386.0 | +2.5 | +128.2 |
-| 2THRiLL | 246 | 1386.6 | +3.1 | +125.7 |
+| 2THRiLL | 246 | 1386.6 | +3.1 | +125.8 |
 | NOVAIR | 245 | 1391.8 | +8.3 | +127.0 |
-| D1NK Esports | 244 | 1392.8 | +9.3 | +130.0 |
+| D1NK Esports | 244 | 1392.7 | +9.2 | +130.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Green Grove Retirement | 94 | +345.1 | +258.8 | +24.0 |
-| NineFlyeSports | 96 | +341.6 | +268.1 | +24.0 |
-| Elusive | 93 | +348.1 | +289.2 | +23.5 |
-| FlyQuest RED | 97 | +337.2 | +277.3 | +22.6 |
-| Axial | 101 | +322.9 | +239.0 | +22.5 |
-| Addice | 102 | +319.0 | +276.1 | +21.7 |
-| New Legends | 103 | +311.9 | +279.6 | +21.0 |
-| Holy Squid Empire | 108 | +295.2 | +233.4 | +19.8 |
-| Black Dragon Society | 109 | +287.2 | +248.5 | +18.8 |
-| Hadouken | 100 | +326.3 | +210.2 | +18.3 |
+| Green Grove Retirement | 93 | +345.1 | +258.9 | +24.1 |
+| NineFlyeSports | 95 | +341.7 | +268.3 | +24.0 |
+| FlyQuest RED | 96 | +337.3 | +277.5 | +22.6 |
+| Axial | 100 | +323.1 | +239.1 | +22.5 |
+| Addice | 101 | +319.2 | +276.2 | +21.7 |
+| New Legends | 102 | +312.0 | +279.7 | +21.0 |
+| Holy Squid Empire | 107 | +295.4 | +233.5 | +19.9 |
+| Black Dragon Society | 108 | +287.2 | +248.5 | +18.8 |
+| Hadouken | 99 | +326.3 | +210.3 | +18.3 |
+| Bills | 98 | +328.4 | +210.8 | +17.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +446.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +447.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -71,7 +71,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-15 | VARTOVIK | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -59.2 | 1curt, aiwai, jablo, july-, nanners |
 | 2026-09-12 | LAF | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.08 | 0.98 | +76.0 | 1curt, aiwai, jablo, july-, nanners |
-| 2026-09-10 | Zamgaa Anime Aimers | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.08 | 0.97 | +132.2 | 1curt, aiwai, jablo, july-, nanners |
+| 2026-09-10 | Zamgaa Anime Aimers | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.08 | 0.97 | +132.3 | 1curt, aiwai, jablo, july-, nanners |
 | 2026-09-09 | Wanted Goons | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.00 | 0.00 | -0.1 | Darian, aiwai, jablo, july-, nanners |
 | 2026-09-06 | Trap Castle | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -72.8 | 1curt, aiwai, jablo, july-, nanners |
 | 2026-09-05 | NXG Esports | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.33 | 1.00 | 1.25 | 0.00 | 0.00 | -55.8 | 1curt, aiwai, jablo, july-, nanners |

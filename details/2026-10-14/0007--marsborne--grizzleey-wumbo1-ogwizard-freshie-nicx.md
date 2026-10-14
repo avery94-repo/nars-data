@@ -3,11 +3,11 @@ Team Name: Marsborne
 Roster: Grizzleey, WUMBO1, ogwizard, freshie, nicx
 NARS Rank: 7 of 506
 
-Final Rating: 2613.1
+Final Rating: 2613.2
 Seeded Start: 2460.7
-H2H Adjustment: +152.4
+H2H Adjustment: +152.5
 
-Final Rating (2613.1) = Seeded Start (2460.7) + H2H Adjustment (+152.4)
+Final Rating (2613.2) = Seeded Start (2460.7) + H2H Adjustment (+152.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.972 | 2460.7 | - |
 | +30 days | 0.977 | 2467.2 | +6.5 |
-| +60 days | 0.972 | 2460.5 | -0.2 |
-| +90 days | 0.966 | 2452.9 | -7.8 |
+| +60 days | 0.972 | 2460.5 | -0.3 |
+| +90 days | 0.969 | 2456.5 | -4.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.958 vs 0.968 average, gap -0.010). Matching that average is worth about 7.0 seed points.
 
@@ -39,22 +39,22 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| SportsBetExpert | 6 | 2671.7 | +58.6 | +68.1 |
-| Voca | 5 | 2796.5 | +183.4 | +84.6 |
-| NRG | 4 | 2835.7 | +222.6 | +94.7 |
-| Wildcard | 3 | 2912.0 | +298.9 | +102.0 |
-| M80 | 2 | 3081.4 | +468.3 | +119.8 |
+| SportsBetExpert | 6 | 2671.9 | +58.7 | +68.2 |
+| Voca | 5 | 2796.6 | +183.4 | +84.6 |
+| NRG | 4 | 2835.8 | +222.6 | +94.7 |
+| Wildcard | 3 | 2911.9 | +298.7 | +101.9 |
+| M80 | 2 | 3081.4 | +468.2 | +119.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Wildcard | 3 | +298.9 | +102.0 | +7.3 |
+| Wildcard | 3 | +298.7 | +101.9 | +7.3 |
 | NRG | 4 | +222.6 | +94.7 | +2.5 |
-| SportsBetExpert | 6 | +58.6 | +68.1 | -0.0 |
+| SportsBetExpert | 6 | +58.7 | +68.2 | -0.0 |
 | Voca | 5 | +183.4 | +84.6 | -1.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +119.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +119.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Shadow Wizard Money Gang (+0.0), Alternate Earth (+0.0), Lynnsanity (+0.0), No Leaders Please (+0.0), UncsStillGotIt (+0.0).
 
@@ -65,8 +65,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-10 | SportsBetExpert | L | 0-2 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.00 | 0.00 | -18.2 | core 3/5 |
 | 2026-10-10 | Elusive | W | 2-0 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.91 | 0.00 | +0.1 | core 3/5 |
-| 2026-10-10 | DENDELE | L | 2-13 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.00 | 0.00 | -17.6 | core 3/5 |
-| 2026-10-10 | Without a Roof | W | 1-0 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 1.92 | 0.00 | +98.5 | core 3/5 |
+| 2026-10-10 | DENDELE | L | 2-13 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.00 | 0.00 | -17.7 | core 3/5 |
+| 2026-10-10 | Without a Roof | W | 1-0 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 1.92 | 0.00 | +98.3 | core 3/5 |
 | 2026-10-08 | Without a Roof | L | 2-3 | CROSSFIRE Season 6 | B | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -22.3 | core 3/5 |
 | 2026-10-02 | Overtake Sector | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 1.55 | 0.00 | +16.5 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-09-29 | LAG Gaming | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.57 | 0.00 | +33.9 | core 3/5 |
@@ -80,14 +80,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-22 | FlyQuest RED | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.70 | 1.60 | +0.5 | core 3/5 |
 | 2026-09-15 | Fathom Gaming | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.56 | 1.55 | +0.2 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-09-13 | Desi Boyz | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.99 | 1.55 | 1.00 | 1.54 | 1.30 | 0.00 | +31.0 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
-| 2026-09-12 | Desi Boyz | W | 2-1 | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 1.33 | 0.00 | +41.9 | core 3/5 |
+| 2026-09-12 | Desi Boyz | W | 2-1 | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 1.33 | 0.00 | +42.0 | core 3/5 |
 | 2026-09-12 | Iowa Stormboar | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -75.6 | core 3/5 |
 | 2026-09-11 | regain | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.98 | 1.60 | 1.00 | 1.57 | 1.23 | 0.00 | +12.1 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
-| 2026-09-11 | Olympus | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.98 | 1.55 | 1.00 | 1.51 | 0.98 | 1.51 | +36.6 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
+| 2026-09-11 | Olympus | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.97 | 1.55 | 1.00 | 1.51 | 0.98 | 1.51 | +36.6 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-09-11 | Without a Roof | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -72.7 | core 3/5 |
 | 2026-09-10 | Without a Roof | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -188.5 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-09-10 | Holy Squid Empire | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.97 | 1.55 | 1.00 | 1.50 | 0.27 | 1.50 | +0.6 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
-| 2026-09-10 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -31.2 | core 3/5 |
+| 2026-09-10 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -31.3 | core 3/5 |
 | 2026-09-10 | Olympus | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 1.00 | 0.00 | +0.8 | core 3/5 |
 | 2026-09-09 | Chicken Coop | W |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.54 | 1.38 | 0.00 | +0.2 | core 3/5 |
 | 2026-09-06 | SportsBetExpert | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -70.2 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
@@ -110,34 +110,34 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.95 | 0.00 | +2.8 | core 3/5 |
 | 2026-08-25 | Elusive | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.66 | 0.00 | +0.1 | core 3/5 |
 | 2026-08-21 | LAG Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.45 | 1.00 | 1.21 | 1.19 | 1.21 | +62.4 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
-| 2026-08-19 | Elusive | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.57 | 1.19 | +1.3 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
+| 2026-08-19 | Elusive | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.57 | 1.19 | +1.2 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-08-18 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.94 | 1.19 | +17.9 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-08-13 | SportsBetExpert | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.14 | 1.03 | 1.14 | +101.1 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-08-13 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.14 | 0.00 | 0.00 | -65.5 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-08-07 | academy 4 gifted children | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.33 | 1.08 | +127.3 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-08-02 | SportsBetExpert | L | 0-2 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.71 | 1.60 | 1.00 | 1.13 | 0.00 | 0.00 | -56.4 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
-| 2026-08-01 | regain | W | 2-0 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.70 | 1.60 | 1.00 | 1.12 | 0.88 | 0.00 | +58.1 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
+| 2026-08-01 | regain | W | 2-0 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.70 | 1.60 | 1.00 | 1.12 | 0.88 | 0.00 | +58.2 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-08-01 | SportsBetExpert | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.70 | 1.60 | 1.00 | 1.12 | 0.00 | 0.00 | -165.0 | core 3/5 |
-| 2026-07-31 | regain | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.69 | 1.60 | 1.00 | 1.11 | 0.87 | 0.00 | +52.3 | core 3/5 |
+| 2026-07-31 | regain | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.69 | 1.60 | 1.00 | 1.11 | 0.87 | 0.00 | +52.4 | core 3/5 |
 | 2026-07-29 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.17 | 0.99 | +19.7 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-07-29 | NRG | L | 1-2 | VRS-tracked 2026-07 | A | vrs | 0.68 | 1.60 | 1.00 | 1.09 | 0.00 | 0.00 | -129.7 | core 3/5 |
 | 2026-07-28 | LAG Gaming | W | 2-0 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.68 | 1.60 | 1.00 | 1.09 | 1.07 | 0.00 | +132.7 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-07-28 | Phantom Sense | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.98 | 0.33 | 0.98 | +0.1 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-07-24 | GRIT | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.10 | 0.94 | +0.0 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
-| 2026-07-22 | counterstrike Team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.17 | 0.92 | +0.0 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
+| 2026-07-22 | counterstrike Team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.63 | 1.45 | 1.00 | 0.92 | 0.17 | 0.92 | +0.0 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-07-15 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.06 | 0.85 | +24.0 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
-| 2026-07-09 | regain | L | 1-2 | VRS-tracked 2026-07 | A | vrs | 0.55 | 1.60 | 1.00 | 0.88 | 0.00 | 0.00 | -227.1 | core 3/5 |
+| 2026-07-09 | regain | L | 1-2 | VRS-tracked 2026-07 | A | vrs | 0.55 | 1.60 | 1.00 | 0.88 | 0.00 | 0.00 | -227.0 | core 3/5 |
 | 2026-06-14 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.42 | 0.61 | +58.9 | core 3/5 |
-| 2026-06-13 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.07 | 0.60 | +48.0 | core 3/5 |
-| 2026-06-12 | Overtake Sector | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.59 | 0.00 | +96.3 | core 3/5 |
+| 2026-06-13 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.07 | 0.60 | +47.7 | core 3/5 |
+| 2026-06-12 | Overtake Sector | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.59 | 0.00 | +96.1 | core 3/5 |
 | 2026-06-11 | NuTorious | W |  | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.58 | 0.52 | 0.58 | +3.6 | core 3/5 |
 | 2026-05-31 | Chicken Coop | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.00 | 0.00 | -126.3 | core 3/5 |
-| 2026-05-31 | SportsBetExpert | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.42 | 0.00 | +217.3 | core 3/5 |
-| 2026-05-30 | LAG Gaming | W |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.44 | 0.00 | +357.4 | core 3/5 |
-| 2026-05-30 | Reign Above | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.31 | 0.00 | +35.2 | core 3/5 |
-| 2026-05-24 | Overtake Sector | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.39 | 0.00 | +493.2 | core 3/5 |
-| 2026-05-24 | SportsBetExpert | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.00 | 0.00 | -15.2 | core 3/5 |
-| 2026-04-28 | Chicken Coop | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.00 | 0.00 | -159.4 | core 3/5 |
+| 2026-05-31 | SportsBetExpert | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.42 | 0.00 | +217.1 | core 3/5 |
+| 2026-05-30 | LAG Gaming | W |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.44 | 0.00 | +356.7 | core 3/5 |
+| 2026-05-30 | Reign Above | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.31 | 0.00 | +34.6 | core 3/5 |
+| 2026-05-24 | Overtake Sector | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.39 | 0.00 | +493.1 | core 3/5 |
+| 2026-05-24 | SportsBetExpert | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.00 | 0.00 | -15.6 | core 3/5 |
+| 2026-04-28 | Chicken Coop | L |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.00 | 0.00 | -156.3 | core 3/5 |
 | 2026-04-27 | insane players | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.10 | +8.3 | core 3/5 |
 | 2026-04-26 | FISHER COLLEGE | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -573.4 | core 3/5 |
 | 2026-04-26 | PASSION UA | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -203.4 | core 3/5 |

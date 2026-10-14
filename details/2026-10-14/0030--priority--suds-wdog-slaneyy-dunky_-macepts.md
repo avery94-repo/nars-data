@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.031 | 1143.5 | - |
-| +30 days | 0.005 | 1107.5 | -36.0 |
+| +30 days | 0.005 | 1107.4 | -36.0 |
 | +60 days | 0.000 | 1100.0 | -43.5 |
 | +90 days | 0.000 | 1100.0 | -43.5 |
 
@@ -40,25 +40,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | VOID ALUNE | 29 | 2007.9 | +3.1 | +163.3 |
-| babaG | 28 | 2008.8 | +4.0 | +175.0 |
+| babaG | 28 | 2009.0 | +4.2 | +175.1 |
 | Automatic HQ | 27 | 2030.9 | +26.1 | +184.4 |
-| raisedbypixels | 26 | 2034.4 | +29.6 | +171.7 |
-| Olympus | 25 | 2039.7 | +34.9 | +185.8 |
+| raisedbypixels | 26 | 2034.6 | +29.8 | +171.8 |
+| Olympus | 25 | 2039.8 | +35.0 | +185.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Desi Boyz | 11 | +327.7 | +344.0 | +22.5 |
-| regain | 12 | +251.4 | +332.5 | +16.8 |
-| Detonate | 13 | +241.9 | +298.7 | +7.6 |
-| Brahmas | 14 | +202.7 | +245.9 | +1.1 |
-| Zomblers | 22 | +109.9 | +234.7 | -0.0 |
+| Desi Boyz | 11 | +328.0 | +344.1 | +22.5 |
+| regain | 12 | +251.6 | +332.7 | +16.9 |
+| Detonate | 13 | +242.2 | +298.9 | +7.7 |
+| Brahmas | 14 | +202.9 | +246.0 | +1.2 |
+| Zomblers | 22 | +110.1 | +234.8 | -0.0 |
 | VOID ALUNE | 29 | +3.1 | +163.3 | -0.0 |
-| Olympus | 25 | +34.9 | +185.8 | -0.0 |
-| Iowa Stormboar | 21 | +111.1 | +235.1 | -0.1 |
+| Olympus | 25 | +35.0 | +185.9 | -0.0 |
+| Iowa Stormboar | 21 | +111.3 | +235.2 | -0.1 |
 | Automatic HQ | 27 | +26.1 | +184.4 | -0.1 |
-| babaG | 28 | +4.0 | +175.0 | -0.2 |
+| babaG | 28 | +4.2 | +175.1 | -0.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +632.5 points at current ratings.
 
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-02 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.37 | 0.00 | 0.00 | -171.2 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-06-01 | Crimson Vortex | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.37 | 0.04 | 0.00 | +72.0 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-05-29 | Tall Ocean Rats | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.02 | 0.34 | +16.2 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-05-22 | butt | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +190.0 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-05-22 | butt | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +190.1 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-05-20 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -126.7 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-05-15 | Slimy Boogermen | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.04 | 0.21 | +250.7 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-05-13 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -10.1 | Dunky_, macepts, slaneyy, suds, wdog |
@@ -91,7 +91,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-06 | Automatic HQ | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -315.4 | Dunky_, icetray, macepts, slaneyy, suds, wdog |
 | 2026-05-01 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +172.5 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-04-29 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.09 | +151.2 | Dunky_, macepts, slaneyy, suds, wdog |
-| 2026-04-24 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +245.8 | Dunky_, macepts, slaneyy, suds, wdog |
+| 2026-04-24 | 5Frag Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +245.9 | Dunky_, macepts, slaneyy, suds, wdog |
 | 2026-04-23 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.04 | +299.9 | Dunky_, macepts, slaneyy, suds, wdog |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

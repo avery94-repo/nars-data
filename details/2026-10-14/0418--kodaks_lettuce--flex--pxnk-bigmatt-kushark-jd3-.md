@@ -56,13 +56,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Saltcrew | 276 | +309.4 | +228.7 | +21.6 |
 | DUI | 262 | +349.6 | +216.6 | +21.4 |
 | Chopped | 277 | +308.4 | +249.6 | +21.3 |
-| Demolition | 279 | +304.6 | +227.7 | +21.0 |
+| Demolition | 279 | +304.7 | +227.7 | +21.0 |
 | Adria eSports | 281 | +302.8 | +256.6 | +20.6 |
 | ItAintOverYet | 284 | +291.2 | +219.9 | +19.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +447.8 points at current ratings.
 
-Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.6).
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.8), 3 Feet Of Meat (+1.5).
 
 #### Matches (8 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.145 | 1302.6 | - |
 | +30 days | 0.116 | 1262.3 | -40.3 |
 | +60 days | 0.101 | 1241.1 | -61.5 |
-| +90 days | 0.075 | 1205.0 | -97.6 |
+| +90 days | 0.075 | 1205.1 | -97.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.029 vs 0.024 average, gap +0.005). Matching that average is worth about 0.0 seed points.
 
@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Gregs New Cut | 384 | 1096.6 | +3.4 | +135.9 |
-| Texas Orange | 383 | 1097.5 | +4.3 | +142.8 |
+| Texas Orange | 383 | 1097.4 | +4.2 | +142.8 |
 | Costco Family | 382 | 1102.5 | +9.3 | +143.8 |
 | HammerHeads | 381 | 1102.7 | +9.5 | +137.5 |
 | We Play Naked | 380 | 1103.2 | +10.0 | +147.1 |
@@ -49,20 +49,20 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Cortex Jellies | 222 | +344.2 | +244.0 | +26.7 |
+| Cortex Jellies | 222 | +344.2 | +244.1 | +26.7 |
 | 1NT | 221 | +345.8 | +274.6 | +26.1 |
 | penazoid | 226 | +334.7 | +260.1 | +25.8 |
 | Binky | 220 | +346.1 | +299.7 | +25.6 |
 | UltimateDarklordWizardz | 227 | +333.9 | +288.2 | +25.1 |
 | YHTR | 235 | +320.5 | +275.9 | +24.2 |
 | brb grinding minecraft | 239 | +312.3 | +280.4 | +23.7 |
+| NXG Esports | 242 | +310.9 | +270.9 | +23.7 |
 | Fortis Fortuna Adiuvat | 237 | +313.1 | +261.3 | +23.7 |
-| NXG Esports | 242 | +310.8 | +270.9 | +23.7 |
 | FUELED BY HATE | 241 | +311.1 | +244.0 | +23.7 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +495.4 points at current ratings.
 
-Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.8), shirtcockin (+1.2), Courage (+1.5).
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.8), shirtcockin (+1.2), Courage (+1.4).
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs AURA Esports (2026-05-01): expires in 13 days [Quality Wins 0.01]
@@ -77,13 +77,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-09 | THE GUILD | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -273.3 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
-| 2026-10-07 | Asoka | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -21.8 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
+| 2026-10-09 | THE GUILD | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -273.4 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
+| 2026-10-07 | Asoka | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -21.7 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
 | 2026-09-02 | YHTR | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.19 | 1.00 | 1.09 | 0.00 | 0.00 | -39.8 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
 | 2026-08-28 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -81.9 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
 | 2026-08-26 | Backshot Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.04 | 1.01 | +69.3 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
 | 2026-08-21 | DingTone | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.08 | 0.97 | +47.0 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
-| 2026-08-19 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -79.0 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
+| 2026-08-19 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -79.1 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
 | 2026-08-14 | Sassy Sunshines | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.08 | 0.92 | +127.9 | BeZus, BobbyCritz, disk777, kitchN, sK1PP- |
 | 2026-08-12 | ASYCS KITTENS | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -77.1 | BeZus, BobbyCritz, Orb1t-CS, disk777, kitchN |
 | 2026-08-05 | 91AshLiu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -154.0 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
@@ -94,7 +94,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -266.4 | BeZus, BobbyCritz, Orb1t-CS, Ryougi, kitchN |
 | 2026-05-27 | Quality | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -4.5 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-22 | monitor off | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +178.0 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
-| 2026-05-20 | NOVAIR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +243.4 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
+| 2026-05-20 | NOVAIR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +243.5 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-15 | Costco Family | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +47.8 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-13 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -216.0 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-08 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +123.3 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |

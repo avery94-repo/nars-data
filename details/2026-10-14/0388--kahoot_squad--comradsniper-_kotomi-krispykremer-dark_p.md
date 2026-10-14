@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Flow Esports | 387 | 1083.6 | +1.0 | +133.8 |
+| Flow Esports | 387 | 1083.5 | +0.9 | +133.8 |
 | MXA | 386 | 1090.7 | +8.1 | +127.2 |
 | Exnitas | 385 | 1093.2 | +10.6 | +132.3 |
 | Gregs New Cut | 384 | 1096.6 | +14.0 | +128.7 |
-| Texas Orange | 383 | 1097.5 | +14.9 | +136.1 |
+| Texas Orange | 383 | 1097.4 | +14.8 | +136.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -52,13 +52,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | penazoid | 226 | +345.3 | +243.7 | +24.4 |
 | UltimateDarklordWizardz | 227 | +344.5 | +270.8 | +23.8 |
 | YHTR | 235 | +331.1 | +259.4 | +23.1 |
-| NXG Esports | 242 | +321.4 | +254.9 | +22.9 |
+| NXG Esports | 242 | +321.5 | +254.9 | +22.9 |
 | FUELED BY HATE | 241 | +321.7 | +228.8 | +22.9 |
 | Fortis Fortuna Adiuvat | 237 | +323.7 | +245.4 | +22.8 |
 | brb grinding minecraft | 239 | +322.9 | +264.1 | +22.8 |
 | Casual Mature Gamers | 238 | +323.3 | +269.4 | +22.3 |
-| Elisir Esports | 225 | +345.8 | +215.8 | +20.9 |
-| FRAGDEMONS | 228 | +343.8 | +215.3 | +20.5 |
+| Elisir Esports | 225 | +345.9 | +215.8 | +20.9 |
+| FRAGDEMONS | 228 | +343.7 | +215.3 | +20.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +448.3 points at current ratings.
 

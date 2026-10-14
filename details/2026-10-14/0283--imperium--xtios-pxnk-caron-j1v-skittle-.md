@@ -3,11 +3,11 @@ Team Name: Imperium
 Roster: xtios, pxnk, caron, j1v, skittle-
 NARS Rank: 283 of 506
 
-Final Rating: 1305.5
+Final Rating: 1305.6
 Seeded Start: 1147.5
-H2H Adjustment: +158.0
+H2H Adjustment: +158.1
 
-Final Rating (1305.5) = Seeded Start (1147.5) + H2H Adjustment (+158.0)
+Final Rating (1305.6) = Seeded Start (1147.5) + H2H Adjustment (+158.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Aetheris | 282 | 1313.0 | +7.5 | +167.4 |
-| Adria eSports | 281 | 1314.2 | +8.7 | +176.2 |
-| Aurofox | 280 | 1315.3 | +9.8 | +165.4 |
-| Demolition | 279 | 1316.0 | +10.5 | +171.7 |
-| dead team | 278 | 1318.8 | +13.3 | +166.5 |
+| Aetheris | 282 | 1313.0 | +7.4 | +167.4 |
+| Adria eSports | 281 | 1314.2 | +8.6 | +176.2 |
+| Aurofox | 280 | 1315.3 | +9.7 | +165.3 |
+| Demolition | 279 | 1316.1 | +10.5 | +171.8 |
+| dead team | 278 | 1318.9 | +13.3 | +166.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Read You Like a Kindle | 116 | +349.2 | +363.7 | +31.3 |
-| ODIN | 119 | +341.6 | +353.3 | +30.4 |
-| Team GREAT | 128 | +323.7 | +299.1 | +30.4 |
-| Torii | 129 | +322.5 | +329.9 | +29.6 |
-| 5Frag Gaming | 134 | +315.9 | +335.0 | +28.6 |
-| Kaos | 139 | +305.3 | +285.0 | +27.9 |
-| KODEX ESPORTS | 137 | +311.0 | +378.2 | +27.2 |
+| Read You Like a Kindle | 115 | +349.1 | +363.7 | +31.3 |
+| ODIN | 118 | +341.5 | +353.2 | +30.4 |
+| Team GREAT | 127 | +323.6 | +299.1 | +30.4 |
+| Torii | 128 | +322.5 | +329.9 | +29.6 |
+| 5Frag Gaming | 133 | +315.8 | +334.9 | +28.6 |
+| Kaos | 138 | +305.2 | +285.0 | +27.9 |
+| KODEX ESPORTS | 135 | +311.1 | +378.2 | +27.2 |
+| Elusive | 141 | +298.8 | +345.0 | +26.1 |
 | Team Amplus | 145 | +288.7 | +310.9 | +24.9 |
-| DNA | 127 | +329.6 | +281.0 | +22.8 |
-| Kevin James Fan Club | 148 | +275.4 | +295.4 | +22.5 |
+| DNA | 126 | +329.5 | +281.0 | +22.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
 
@@ -76,13 +76,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-16 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -350.5 | Usotsuki, caron, pxnk, skittle-, xtios |
+| 2026-07-16 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -350.5 | Usotsuki, caron, pxnk, skittle-, xtios |
 | 2026-07-15 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.06 | 0.85 | +442.1 | Usotsuki, caron, pxnk, skittle-, xtios |
-| 2026-05-21 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.05 | 0.30 | +333.4 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-05-21 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.05 | 0.30 | +333.5 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-14 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -49.6 | Usotsuki, caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-12 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -122.3 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-06 | GRIT | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -78.2 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-05-05 | Celestial Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.15 | 0.00 | 0.00 | -89.9 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-05-05 | Celestial Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.35 | 1.00 | 0.15 | 0.00 | 0.00 | -89.9 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-04-30 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -0.5 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-04-28 | Baatarz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.00 | 0.00 | -188.0 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-04-23 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.01 | 0.05 | +35.8 | caron, j1v, pxnk, skittle-, xtios |

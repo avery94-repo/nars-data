@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.061 | 1185.5 | - |
 | +30 days | 0.045 | 1163.6 | -21.9 |
 | +60 days | 0.033 | 1146.7 | -38.8 |
-| +90 days | 0.023 | 1132.8 | -52.7 |
+| +90 days | 0.023 | 1132.8 | -52.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.011 vs 0.007 average, gap +0.004). Matching that average is worth about 0.0 seed points.
 
@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Big Kahuna Gaming | 439 | 931.8 | +0.4 | +162.4 |
-| NADIYA | 438 | 933.2 | +1.8 | +162.8 |
+| NADIYA | 438 | 933.2 | +1.8 | +162.9 |
 | WannaBeMovement | 437 | 936.9 | +5.5 | +164.0 |
 | Square1 | 436 | 940.3 | +8.9 | +165.1 |
 | Counter Legends | 435 | 941.4 | +10.0 | +165.4 |

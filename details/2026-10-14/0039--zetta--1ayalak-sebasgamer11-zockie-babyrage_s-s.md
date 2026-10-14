@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.193 | 1370.1 | - |
 | +30 days | 0.176 | 1346.2 | -23.9 |
 | +60 days | 0.167 | 1334.5 | -35.6 |
-| +90 days | 0.163 | 1328.2 | -41.8 |
+| +90 days | 0.163 | 1328.7 | -41.4 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.798 average, gap -0.759). Matching that average is worth about 265.7 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.039 vs 0.798 average, gap -0.759). Matching that average is worth about 265.6 seed points.
 
 - Tier Exposure drivers: S57 NA Open9-10 Central - Playoffs A (2026-06-09) 0.37; VRS-tracked 2026-09 (2026-09-22) 1.60; VRS-tracked 2026-09 (2026-09-24) 1.60
 - Quality Wins drivers: beat YOUR END at VRS-tracked 2026-09 (2026-09-26) 1.16; beat PUGDESONESTO at VRS-tracked 2026-08 (2026-08-26) 1.04; beat FLOW STATE at S57 NA Open9-10 Central - Playoffs A (2026-05-29) 0.07
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| North Forge | 38 | 1971.2 | +1.2 | +108.5 |
-| unreal nightmare | 37 | 1976.6 | +6.6 | +98.8 |
-| EMPIRE | 36 | 1983.6 | +13.6 | +108.7 |
-| Holly Molly | 35 | 1988.4 | +18.4 | +102.8 |
-| Slimy Boogermen | 34 | 1997.4 | +27.4 | +104.9 |
+| North Forge | 38 | 1971.4 | +1.4 | +108.6 |
+| unreal nightmare | 37 | 1976.8 | +6.8 | +98.9 |
+| EMPIRE | 36 | 1983.8 | +13.8 | +108.8 |
+| Holly Molly | 35 | 1988.5 | +18.5 | +102.8 |
+| Slimy Boogermen | 34 | 1997.6 | +27.6 | +104.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| regain | 12 | +286.2 | +202.2 | +13.5 |
-| Detonate | 13 | +276.7 | +177.9 | +8.7 |
-| Brahmas | 14 | +237.5 | +142.7 | +7.3 |
-| Old Meta | 15 | +206.2 | +160.2 | +1.1 |
-| Zomblers | 22 | +144.7 | +154.5 | -0.0 |
-| Hairy Scary Bandits | 32 | +29.4 | +108.5 | -0.0 |
-| unreal nightmare | 37 | +6.6 | +98.8 | -0.0 |
-| North Forge | 38 | +1.2 | +108.5 | -0.0 |
-| Chicken Coop | 33 | +28.2 | +116.3 | -0.0 |
-| EMPIRE | 36 | +13.6 | +108.7 | -0.0 |
+| regain | 12 | +286.4 | +202.3 | +13.5 |
+| Detonate | 13 | +277.0 | +178.0 | +8.7 |
+| Brahmas | 14 | +237.7 | +142.7 | +7.3 |
+| Old Meta | 15 | +206.2 | +160.3 | +1.1 |
+| Zomblers | 22 | +144.9 | +154.6 | -0.0 |
+| Hairy Scary Bandits | 32 | +29.5 | +108.5 | -0.0 |
+| unreal nightmare | 37 | +6.8 | +98.9 | -0.0 |
+| North Forge | 38 | +1.4 | +108.6 | -0.0 |
+| Chicken Coop | 33 | +28.4 | +116.4 | -0.0 |
+| EMPIRE | 36 | +13.8 | +108.8 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +292.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +292.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Knight Owls (+0.0), Grandpa Berets (+0.0).
 

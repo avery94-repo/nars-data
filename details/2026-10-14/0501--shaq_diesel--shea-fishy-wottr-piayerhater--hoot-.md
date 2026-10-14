@@ -3,11 +3,11 @@ Team Name: Shaq Diesel
 Roster: shea, Fishy, Wottr, PIayerhater, -HooT-
 NARS Rank: 501 of 506
 
-Final Rating: 508.5
+Final Rating: 508.4
 Seeded Start: 1157.3
-H2H Adjustment: -648.8 (capped at +-300, raw -648.9)
+H2H Adjustment: -648.9
 
-Final Rating (508.5) = Seeded Start (1157.3) + H2H Adjustment (-648.8)
+Final Rating (508.4) = Seeded Start (1157.3) + H2H Adjustment (-648.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.041 | 1157.3 | - |
 | +30 days | 0.033 | 1146.9 | -10.5 |
-| +60 days | 0.029 | 1141.2 | -16.2 |
+| +60 days | 0.029 | 1141.1 | -16.2 |
 | +90 days | 0.022 | 1130.8 | -26.6 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.110 vs 0.132 average, gap -0.022). Matching that average is worth about 7.7 seed points.
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| After Peak | 500 | 533.5 | +25.0 | +177.1 |
-| Old Dads Banging | 499 | 550.2 | +41.7 | +175.7 |
-| Dapper North | 498 | 553.2 | +44.7 | +176.7 |
-| Brothers United | 497 | 554.3 | +45.8 | +177.0 |
-| Solbound | 496 | 554.8 | +46.3 | +182.9 |
+| After Peak | 500 | 533.5 | +25.1 | +177.1 |
+| Old Dads Banging | 499 | 550.1 | +41.7 | +175.7 |
+| Dapper North | 498 | 553.2 | +44.8 | +176.7 |
+| Brothers United | 497 | 554.3 | +45.9 | +177.0 |
+| Solbound | 496 | 554.8 | +46.4 | +182.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Absent Minded | 460 | +336.5 | +311.3 | +31.3 |
+| Absent Minded | 460 | +336.6 | +311.3 | +31.3 |
 | Remnant | 461 | +328.1 | +309.4 | +30.8 |
-| de_throne | 463 | +326.2 | +283.1 | +30.6 |
+| de_throne | 463 | +326.3 | +283.1 | +30.6 |
 | Spin da block | 465 | +321.5 | +277.9 | +30.5 |
 | dogwater | 462 | +327.0 | +351.1 | +29.5 |
 | Feels MAIN Man | 466 | +321.3 | +350.1 | +28.9 |
 | 69 | 464 | +323.8 | +304.4 | +28.6 |
-| AML | 473 | +285.1 | +267.6 | +24.3 |
-| Gambling and Young | 469 | +304.3 | +271.4 | +22.9 |
+| AML | 473 | +285.1 | +267.5 | +24.3 |
+| Gambling and Young | 469 | +304.4 | +271.4 | +22.9 |
 | CounterStreakrs | 471 | +299.7 | +269.6 | +22.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
@@ -85,8 +85,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -121.2 | Conzor, Fishy, PIayerhater, PhilLesh-, shea |
 | 2026-07-15 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -9.1 | -HooT-, Conzor, PIayerhater, Wottr, shea |
 | 2026-05-22 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -34.7 | -HooT-, Conzor, PIayerhater, Wottr, mook |
-| 2026-05-15 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -268.6 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |
-| 2026-05-14 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -126.1 | -HooT-, Conzor, Fishy, PIayerhater, Wottr |
+| 2026-05-15 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -268.7 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |
+| 2026-05-14 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -126.2 | -HooT-, Conzor, Fishy, PIayerhater, Wottr |
 | 2026-05-08 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -179.0 | -HooT-, Conzor, Fishy, PIayerhater, PhilLesh- |
 | 2026-05-06 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +46.1 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |
 | 2026-04-24 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -54.9 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.181 | 1353.8 | - |
 | +30 days | 0.168 | 1335.6 | -18.2 |
 | +60 days | 0.153 | 1314.1 | -39.7 |
-| +90 days | 0.125 | 1274.8 | -79.0 |
+| +90 days | 0.125 | 1274.8 | -78.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.047 vs 0.040 average, gap +0.007). Matching that average is worth about 0.0 seed points.
 
@@ -39,10 +39,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Pugging4Pumpkin | 209 | 1463.6 | +1.7 | +97.0 |
+| Pugging4Pumpkin | 209 | 1463.6 | +1.7 | +97.1 |
 | noname | 208 | 1467.3 | +5.4 | +105.1 |
-| Squeegee | 207 | 1467.8 | +5.9 | +96.1 |
-| AscendentEsport | 206 | 1467.9 | +6.0 | +109.4 |
+| AscendentEsport | 207 | 1467.9 | +6.0 | +109.4 |
+| Squeegee | 206 | 1468.0 | +6.1 | +96.1 |
 | STFDYSAB | 205 | 1470.1 | +8.2 | +96.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -52,12 +52,12 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | GeneticDiff | 70 | +331.0 | +188.6 | +17.5 |
 | Asoka | 74 | +321.4 | +175.8 | +17.1 |
 | fih hou | 73 | +323.8 | +196.5 | +17.0 |
-| Kairo | 79 | +317.0 | +172.8 | +16.8 |
-| Club 333 | 76 | +320.4 | +213.1 | +16.6 |
-| firesale | 82 | +306.3 | +184.6 | +16.2 |
-| mas paspas | 75 | +321.1 | +204.4 | +16.1 |
+| Kairo | 79 | +317.1 | +172.8 | +16.8 |
+| Club 333 | 76 | +320.5 | +213.1 | +16.6 |
+| firesale | 82 | +306.4 | +184.6 | +16.3 |
+| mas paspas | 75 | +321.1 | +204.5 | +16.1 |
 | CNCS Last Hope | 72 | +326.8 | +156.9 | +16.1 |
-| Diggers | 86 | +301.5 | +165.8 | +15.8 |
+| Diggers | 86 | +301.7 | +165.9 | +15.8 |
 | Overtake Sector | 89 | +289.0 | +215.8 | +14.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +315.7 points at current ratings.

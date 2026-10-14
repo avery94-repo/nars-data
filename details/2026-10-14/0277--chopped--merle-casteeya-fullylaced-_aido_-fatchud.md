@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.181 | 1353.6 | - |
 | +30 days | 0.168 | 1334.8 | -18.7 |
 | +60 days | 0.153 | 1314.0 | -39.5 |
-| +90 days | 0.125 | 1274.7 | -78.8 |
+| +90 days | 0.125 | 1274.8 | -78.8 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.042 vs 0.031 average, gap +0.011). Matching that average is worth about 0.0 seed points.
 
@@ -42,25 +42,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Saltcrew | 276 | 1320.8 | +1.0 | +91.1 |
 | NoPrac | 275 | 1329.7 | +9.9 | +90.5 |
 | TenToesDown | 274 | 1329.7 | +9.9 | +86.8 |
-| House Platypus ESC | 273 | 1332.3 | +12.5 | +87.2 |
+| House Platypus ESC | 273 | 1332.4 | +12.6 | +87.3 |
 | Cojomo Academy Roster | 272 | 1336.1 | +16.3 | +87.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Read You Like a Kindle | 116 | +334.9 | +182.7 | +15.6 |
-| ODIN | 119 | +327.3 | +177.7 | +15.1 |
-| eefsports | 112 | +344.4 | +142.5 | +14.9 |
-| Team GREAT | 128 | +309.4 | +148.7 | +14.5 |
-| Torii | 129 | +308.2 | +166.3 | +14.4 |
-| 5Frag Gaming | 134 | +301.6 | +169.9 | +13.9 |
-| KODEX ESPORTS | 137 | +296.7 | +195.4 | +13.6 |
-| Kaos | 139 | +291.0 | +141.8 | +13.0 |
-| Shimmer | 111 | +347.3 | +149.8 | +12.7 |
-| Team Amplus | 145 | +274.4 | +158.6 | +11.6 |
+| Read You Like a Kindle | 115 | +334.9 | +182.7 | +15.6 |
+| ODIN | 118 | +327.3 | +177.7 | +15.1 |
+| eefsports | 111 | +344.4 | +142.5 | +14.9 |
+| Team GREAT | 127 | +309.4 | +148.7 | +14.5 |
+| Torii | 128 | +308.3 | +166.4 | +14.4 |
+| 5Frag Gaming | 133 | +301.6 | +169.9 | +13.9 |
+| KODEX ESPORTS | 135 | +296.9 | +195.5 | +13.6 |
+| Kaos | 138 | +291.0 | +141.8 | +13.0 |
+| Shimmer | 110 | +347.3 | +149.8 | +12.7 |
+| Elusive | 141 | +284.6 | +177.8 | +12.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +276.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +276.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -82,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.10 | 0.85 | +62.2 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-08-19 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.06 | 0.84 | +130.2 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-08-14 | Resurgence | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -85.9 | Casteeya, FullyLaced, Homie, Merle, fatchud |
-| 2026-08-12 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -102.2 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
+| 2026-08-12 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -102.3 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-08-07 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.06 | 0.76 | +164.6 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-08-05 | Wealth Reduction | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.03 | 0.74 | +90.8 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-07-31 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.03 | 0.71 | +0.6 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
@@ -91,9 +91,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +221.0 | Casteeya, FullyLaced, Homie, Merle, fatchud |
 | 2026-07-17 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -81.5 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-07-15 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -1.9 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
-| 2026-05-22 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -252.8 | Casteeya, FullyLaced, Homie, Merle, _aido_ |
+| 2026-05-22 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -252.9 | Casteeya, FullyLaced, Homie, Merle, _aido_ |
 | 2026-05-20 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +36.5 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
-| 2026-05-15 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +299.0 | FullyLaced, Homie, Merle, _aido_, fatchud |
+| 2026-05-15 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +299.1 | FullyLaced, Homie, Merle, _aido_, fatchud |
 | 2026-05-13 | onliners | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -376.3 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-05-06 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.00 | +264.8 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-05-01 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -18.3 | Casteeya, FullyLaced, Merle, _aido_, fatchud |

@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Florida Man | 345 | 1186.2 | +1.0 | +173.3 |
-| Onsite has Oil | 344 | 1191.0 | +5.8 | +164.1 |
+| Onsite has Oil | 344 | 1191.1 | +5.9 | +164.1 |
 | T Shirt Material | 343 | 1191.6 | +6.4 | +164.3 |
 | Wide Swinging Wizards | 342 | 1191.6 | +6.4 | +164.3 |
 | MadaNASCAR | 341 | 1195.2 | +10.0 | +174.8 |
@@ -49,15 +49,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| BucketJonsBoys | 172 | +347.8 | +318.6 | +32.6 |
+| BucketJonsBoys | 172 | +347.9 | +318.6 | +32.6 |
 | Firstwave | 175 | +341.8 | +317.3 | +32.1 |
 | Shaboing Boing Bandits | 173 | +345.4 | +346.6 | +31.6 |
 | APEX | 176 | +336.7 | +325.4 | +31.4 |
-| Armored Talent | 174 | +344.6 | +354.7 | +31.2 |
+| Armored Talent | 174 | +344.7 | +354.7 | +31.2 |
 | LAF | 183 | +326.1 | +316.0 | +30.4 |
 | GOOZPEEK | 182 | +327.9 | +330.6 | +30.2 |
 | KIS | 185 | +321.5 | +298.6 | +30.1 |
-| Shadow Wizard Money Gang | 180 | +330.7 | +372.1 | +29.2 |
+| Shadow Wizard Money Gang | 180 | +330.9 | +372.2 | +29.2 |
 | Lynnsanity | 189 | +314.8 | +330.9 | +28.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.

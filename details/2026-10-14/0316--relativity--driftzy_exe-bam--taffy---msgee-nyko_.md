@@ -3,11 +3,11 @@ Team Name: Relativity
 Roster: Driftzy_EXE, Bam, -Taffy--, msGee, NyKo_
 NARS Rank: 316 of 506
 
-Final Rating: 1238.9
+Final Rating: 1238.8
 Seeded Start: 1119.0
-H2H Adjustment: +119.9
+H2H Adjustment: +119.8
 
-Final Rating (1238.9) = Seeded Start (1119.0) + H2H Adjustment (+119.9)
+Final Rating (1238.8) = Seeded Start (1119.0) + H2H Adjustment (+119.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Once Divine Gaming | 315 | 1239.7 | +0.8 | +162.6 |
-| Baatarz | 314 | 1241.2 | +2.3 | +163.0 |
-| Better at WOT | 313 | 1246.5 | +7.6 | +167.3 |
-| juked | 312 | 1246.5 | +7.6 | +166.2 |
-| Yogaball Frags | 311 | 1246.7 | +7.8 | +164.8 |
+| Once Divine Gaming | 315 | 1239.7 | +0.9 | +162.6 |
+| Baatarz | 314 | 1241.5 | +2.7 | +163.1 |
+| Better at WOT | 313 | 1246.5 | +7.7 | +167.3 |
+| juked | 312 | 1246.5 | +7.7 | +166.2 |
+| Yogaball Frags | 311 | 1246.7 | +7.9 | +164.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Biggie Cheese Fan Club | 151 | +337.7 | +300.4 | +32.0 |
-| Kevin James Fan Club | 148 | +342.0 | +329.6 | +31.8 |
-| WhiteBoyWinter | 155 | +327.8 | +310.5 | +30.7 |
-| offBalance | 165 | +303.4 | +302.9 | +27.5 |
-| Order Zero | 156 | +325.9 | +279.6 | +26.4 |
-| Pug Palace | 167 | +296.9 | +306.3 | +26.2 |
-| BucketJonsBoys | 172 | +294.1 | +293.4 | +26.1 |
-| Shaboing Boing Bandits | 173 | +291.7 | +316.5 | +25.4 |
-| Armored Talent | 174 | +290.9 | +323.0 | +25.1 |
-| Firstwave | 175 | +288.1 | +291.8 | +25.1 |
+| Biggie Cheese Fan Club | 151 | +337.8 | +300.4 | +32.0 |
+| Kevin James Fan Club | 148 | +342.1 | +329.6 | +31.8 |
+| WhiteBoyWinter | 155 | +327.9 | +310.5 | +30.7 |
+| offBalance | 165 | +303.5 | +302.9 | +27.5 |
+| Order Zero | 156 | +326.0 | +279.6 | +26.4 |
+| Pug Palace | 167 | +297.1 | +306.4 | +26.3 |
+| BucketJonsBoys | 172 | +294.3 | +293.4 | +26.1 |
+| Shaboing Boing Bandits | 173 | +291.8 | +316.5 | +25.4 |
+| Armored Talent | 174 | +291.1 | +323.0 | +25.1 |
+| Firstwave | 175 | +288.2 | +291.8 | +25.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 

@@ -42,7 +42,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Evil Space Wizards | 424 | 987.9 | +2.0 | +162.9 |
 | Halcyon | 423 | 993.8 | +7.9 | +164.8 |
 | Atlantis eSports | 422 | 997.4 | +11.5 | +165.9 |
-| Specter Esports | 421 | 999.7 | +13.8 | +166.6 |
+| Specter Esports | 421 | 999.6 | +13.7 | +166.6 |
 | Strafe | 420 | 1002.1 | +16.2 | +176.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,13 +50,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Saltcrew | 276 | +334.9 | +312.7 | +31.5 |
-| Demolition | 279 | +330.1 | +311.1 | +30.8 |
+| Demolition | 279 | +330.2 | +311.2 | +30.8 |
 | Chopped | 277 | +333.9 | +340.3 | +30.6 |
 | Adria eSports | 281 | +328.3 | +349.2 | +29.7 |
 | ItAintOverYet | 284 | +316.7 | +300.4 | +29.5 |
 | Entertainment Cheese | 285 | +314.9 | +329.4 | +28.6 |
 | Midwest Farmers | 286 | +310.3 | +324.8 | +28.1 |
-| Imperium | 283 | +319.6 | +277.2 | +28.0 |
+| Imperium | 283 | +319.7 | +277.2 | +28.0 |
 | 55TH ST | 288 | +305.4 | +328.7 | +27.3 |
 | Resurgence | 290 | +297.7 | +300.2 | +26.6 |
 
@@ -82,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -94.0 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-08-05 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.05 | 0.73 | +138.3 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-07-31 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -56.5 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
-| 2026-07-29 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -217.9 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
+| 2026-07-29 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -218.0 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-07-24 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +176.4 | -Hyp3r-, Brick25, FishOil, funco67, weendog00 |
 | 2026-07-17 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +413.0 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-07-15 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -2.6 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
@@ -90,9 +90,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -23.8 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-05-13 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +332.6 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-05-08 | The Homies | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -35.6 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
-| 2026-05-01 | Scrimless | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -160.9 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
+| 2026-05-01 | Scrimless | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -161.0 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 | 2026-04-29 | Free Frugz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -194.8 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
-| 2026-04-24 | Sassy Sunshines | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -151.2 | -Hyp3r-, Brick25, LazerRadical, Spikewikee, weendog00 |
+| 2026-04-24 | Sassy Sunshines | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -151.3 | -Hyp3r-, Brick25, LazerRadical, Spikewikee, weendog00 |
 | 2026-04-22 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -273.4 | -Hyp3r-, Brick25, FishOil, Spikewikee, weendog00 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

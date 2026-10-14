@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.173 | 1342.2 | - |
 | +30 days | 0.155 | 1317.3 | -24.9 |
 | +60 days | 0.140 | 1295.9 | -46.3 |
-| +90 days | 0.112 | 1256.3 | -85.9 |
+| +90 days | 0.112 | 1256.4 | -85.8 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.049 vs 0.016 average, gap +0.033). Matching that average is worth about 0.0 seed points.
 
@@ -39,8 +39,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Lynnsanity | 189 | 1500.0 | +0.6 | +94.0 |
-| mokey mokey | 188 | 1503.7 | +4.3 | +84.1 |
+| Lynnsanity | 189 | 1500.0 | +0.6 | +94.1 |
+| mokey mokey | 188 | 1503.8 | +4.4 | +84.1 |
 | Vibe Check | 187 | 1503.9 | +4.5 | +90.3 |
 | Alternate Earth | 186 | 1504.0 | +4.6 | +97.6 |
 | KIS | 185 | 1506.7 | +7.3 | +88.8 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +327.1 | +168.8 | +15.3 |
-| Endless Esports | 65 | +326.6 | +170.3 | +15.2 |
+| flat earth | 64 | +327.2 | +168.8 | +15.3 |
+| Endless Esports | 65 | +326.7 | +170.4 | +15.2 |
 | DUMBO | 63 | +327.7 | +188.3 | +14.7 |
 | WhalersOnDaMoon | 66 | +322.5 | +172.9 | +14.5 |
-| NZ Gaming | 69 | +313.8 | +154.9 | +14.5 |
+| NZ Gaming | 69 | +314.0 | +154.9 | +14.5 |
 | GeneticDiff | 70 | +293.5 | +157.0 | +13.1 |
 | fih hou | 73 | +286.3 | +163.3 | +12.4 |
 | Asoka | 74 | +283.9 | +146.3 | +12.2 |
-| Club 333 | 76 | +282.9 | +176.8 | +12.2 |
-| F5 Esports | 60 | +335.9 | +178.7 | +12.1 |
+| Club 333 | 76 | +283.0 | +176.9 | +12.2 |
+| F5 Esports | 60 | +336.1 | +178.7 | +12.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +269.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +269.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -89,7 +89,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.18 | 0.70 | +135.7 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-07-24 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.05 | 0.66 | +116.2 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-07-17 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -14.8 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
-| 2026-07-15 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.05 | 0.60 | +29.1 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
+| 2026-07-15 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.05 | 0.60 | +29.0 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-05-22 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -15.4 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-05-20 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -228.6 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-05-15 | BucketJonsBoys | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.05 | 0.00 | +253.2 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |

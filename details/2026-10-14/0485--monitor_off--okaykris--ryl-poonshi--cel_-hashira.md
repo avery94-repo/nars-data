@@ -3,11 +3,11 @@ Team Name: monitor off
 Roster: OkayKris, -RYL, Poonshi, -cel_, HASHIRA
 NARS Rank: 485 of 506
 
-Final Rating: 714.4
+Final Rating: 714.3
 Seeded Start: 1176.9
-H2H Adjustment: -462.5 (capped at +-300, raw -462.6)
+H2H Adjustment: -462.6
 
-Final Rating (714.4) = Seeded Start (1176.9) + H2H Adjustment (-462.5)
+Final Rating (714.3) = Seeded Start (1176.9) + H2H Adjustment (-462.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Power of Friendship | 484 | 720.0 | +5.6 | +84.6 |
-| EZ2025 | 483 | 721.2 | +6.8 | +97.3 |
-| SNOWPLOWERS | 482 | 731.3 | +16.9 | +86.4 |
-| CVC Retirement | 481 | 742.1 | +27.7 | +88.2 |
-| HUMA | 480 | 747.3 | +32.9 | +100.4 |
+| Power of Friendship | 484 | 720.0 | +5.7 | +84.6 |
+| EZ2025 | 483 | 721.2 | +6.9 | +97.3 |
+| SNOWPLOWERS | 482 | 731.3 | +17.0 | +86.5 |
+| CVC Retirement | 481 | 742.1 | +27.8 | +88.2 |
+| HUMA | 480 | 747.3 | +33.0 | +100.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Benadryl Abusers | 396 | +346.8 | +158.2 | +15.9 |
-| ReGen | 400 | +338.5 | +158.7 | +15.8 |
-| Big Fish | 402 | +336.6 | +158.1 | +15.7 |
-| house | 403 | +334.5 | +175.8 | +15.3 |
-| James Bond Bois | 401 | +337.6 | +138.8 | +15.1 |
-| Epochal Esports | 413 | +321.6 | +161.8 | +14.9 |
-| Team Hyper | 409 | +322.9 | +190.0 | +14.5 |
-| MakeYouSayLate | 414 | +312.5 | +151.5 | +14.5 |
+| ReGen | 400 | +338.6 | +158.7 | +15.8 |
+| Big Fish | 402 | +336.7 | +158.1 | +15.7 |
+| house | 403 | +334.6 | +175.9 | +15.3 |
+| James Bond Bois | 401 | +337.6 | +138.9 | +15.1 |
+| Epochal Esports | 413 | +321.7 | +161.8 | +14.9 |
+| Team Hyper | 409 | +323.1 | +190.1 | +14.6 |
+| MakeYouSayLate | 414 | +312.6 | +151.6 | +14.5 |
 | three11 | 398 | +342.6 | +139.6 | +14.3 |
-| Shock Value | 405 | +332.1 | +138.0 | +14.2 |
+| Shock Value | 405 | +332.2 | +138.1 | +14.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +271.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +271.1 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs Lan Bears (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
@@ -84,7 +84,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -191.4 | -RYL, -cel_, HASHIRA, OkayKris, crazed |
 | 2026-07-17 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -0.9 | -RYL, -cel_, AMSmooth, HASHIRA, OkayKris |
 | 2026-07-15 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -140.8 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
-| 2026-05-27 | strawberry poptarts | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -168.1 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
+| 2026-05-27 | strawberry poptarts | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -168.2 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 | 2026-05-22 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -183.8 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 | 2026-05-08 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +2.9 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 | 2026-05-01 | Dynasty | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +337.5 | -RYL, -cel_, AMSmooth, BananaFishCS, OkayKris |

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.225 | 1415.0 | - |
 | +30 days | 0.220 | 1407.4 | -7.6 |
 | +60 days | 0.215 | 1401.0 | -14.1 |
-| +90 days | 0.211 | 1395.6 | -19.4 |
+| +90 days | 0.211 | 1395.8 | -19.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.064 vs 0.239 average, gap -0.175). Matching that average is worth about 122.5 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| academy 4 gifted children | 62 | 1829.1 | +2.0 | +52.7 |
-| Sedated | 61 | 1831.7 | +4.6 | +52.9 |
-| F5 Esports | 60 | 1835.3 | +8.2 | +56.6 |
-| Beyond Limits | 59 | 1852.5 | +25.4 | +57.6 |
+| academy 4 gifted children | 62 | 1829.2 | +2.1 | +52.7 |
+| Sedated | 61 | 1831.8 | +4.7 | +52.9 |
+| F5 Esports | 60 | 1835.5 | +8.4 | +56.6 |
+| Beyond Limits | 59 | 1852.7 | +25.6 | +57.6 |
 | feet67 | 58 | 1857.5 | +30.4 | +58.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NuTorious | 17 | +338.6 | +83.7 | +8.6 |
-| Old Meta | 15 | +349.1 | +101.7 | +8.6 |
-| FarmVille | 16 | +340.5 | +112.8 | +8.3 |
-| Villainous | 18 | +333.6 | +110.9 | +8.1 |
-| Iowa Stormboar | 21 | +288.8 | +106.3 | +7.2 |
-| Zomblers | 22 | +287.6 | +106.6 | +7.2 |
+| NuTorious | 17 | +338.8 | +83.7 | +8.6 |
+| Old Meta | 15 | +349.1 | +101.8 | +8.6 |
+| FarmVille | 16 | +340.8 | +112.9 | +8.3 |
+| Villainous | 18 | +333.8 | +111.0 | +8.1 |
+| Iowa Stormboar | 21 | +289.0 | +106.3 | +7.2 |
+| Zomblers | 22 | +287.8 | +106.6 | +7.2 |
 | qcclan | 20 | +319.1 | +90.2 | +5.4 |
 | MASTER ONE | 19 | +332.4 | +86.9 | +4.7 |
 | duck crew | 23 | +269.0 | +70.0 | +1.8 |
-| Olympus | 25 | +212.6 | +80.7 | +1.4 |
+| Olympus | 25 | +212.7 | +80.7 | +1.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +138.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +138.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0), 37U Passion (+0.0).
 
@@ -91,7 +91,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.06 | 0.68 | +78.8 | KobeSucker67, Lukcy-Ice, RaZ3M, SlothCrash, uro |
 | 2026-07-29 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.00 | +198.9 | 0K1N-, Lukcy-Ice, RaZ3M, uro, yx_x |
 | 2026-07-24 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.08 | 0.65 | +20.8 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
-| 2026-07-22 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -146.5 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
+| 2026-07-22 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -146.6 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-07-17 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +270.4 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-07-15 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.06 | 0.59 | +1.8 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-06-02 | rondon | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -270.4 | Lukcy-Ice, RaZ3M, Tar1us666, uro, yx_x |

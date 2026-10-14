@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Mach 5 | 247 | 1386.0 | +1.9 | +164.2 |
-| 2THRiLL | 246 | 1386.6 | +2.5 | +161.9 |
-| NOVAIR | 245 | 1391.8 | +7.7 | +163.5 |
-| D1NK Esports | 244 | 1392.8 | +8.7 | +166.5 |
-| OPOZIT | 243 | 1394.8 | +10.7 | +169.1 |
+| 2THRiLL | 246 | 1386.6 | +2.5 | +162.0 |
+| NOVAIR | 245 | 1391.8 | +7.7 | +163.6 |
+| D1NK Esports | 244 | 1392.7 | +8.6 | +166.5 |
+| OPOZIT | 243 | 1394.8 | +10.7 | +169.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Green Grove Retirement | 94 | +344.5 | +338.3 | +31.4 |
-| NineFlyeSports | 96 | +341.0 | +349.5 | +31.3 |
-| Elusive | 93 | +347.5 | +376.3 | +30.6 |
-| Axial | 101 | +322.3 | +312.2 | +29.3 |
-| FlyQuest RED | 97 | +336.6 | +360.4 | +29.3 |
-| Addice | 102 | +318.4 | +356.7 | +28.0 |
-| New Legends | 103 | +311.3 | +360.1 | +27.0 |
-| Holy Squid Empire | 108 | +294.6 | +303.0 | +25.7 |
-| Hadouken | 100 | +325.7 | +277.4 | +24.1 |
-| Black Dragon Society | 109 | +286.6 | +320.1 | +24.1 |
+| Green Grove Retirement | 93 | +344.5 | +338.4 | +31.4 |
+| NineFlyeSports | 95 | +341.1 | +349.7 | +31.3 |
+| Axial | 100 | +322.5 | +312.4 | +29.4 |
+| FlyQuest RED | 96 | +336.7 | +360.6 | +29.4 |
+| Addice | 101 | +318.6 | +356.9 | +28.0 |
+| New Legends | 102 | +311.4 | +360.3 | +27.0 |
+| Holy Squid Empire | 107 | +294.8 | +303.2 | +25.7 |
+| Hadouken | 99 | +325.7 | +277.4 | +24.1 |
+| Black Dragon Society | 108 | +286.6 | +320.2 | +24.1 |
+| Bills | 98 | +327.8 | +278.2 | +22.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +634.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +634.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -92,7 +92,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -321.0 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
 | 2026-07-17 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +384.5 | -JOSE-, -stuard, Mcnamara, VelmontPX, blazti |
 | 2026-07-15 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +7.0 | -JOSE-, -stuard, Mcnamara, Mitareeeeeee, blazti |
-| 2026-05-31 | The Sweepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -129.5 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
+| 2026-05-31 | The Sweepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -129.6 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 | 2026-05-29 | strawberry poptarts | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -187.1 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 | 2026-05-27 | Duality Zero | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +7.7 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
 | 2026-05-22 | Tractors | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.05 | 0.23 | +315.2 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |

@@ -3,11 +3,11 @@ Team Name: EMPIRE
 Roster: Walco, C0C0-, BAGELgod, twigsbn, ayaneuu
 NARS Rank: 36 of 506
 
-Final Rating: 1983.6
+Final Rating: 1983.8
 Seeded Start: 2107.0
-H2H Adjustment: -123.4
+H2H Adjustment: -123.2
 
-Final Rating (1983.6) = Seeded Start (2107.0) + H2H Adjustment (-123.4)
+Final Rating (1983.8) = Seeded Start (2107.0) + H2H Adjustment (-123.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.719 | 2107.0 | - |
-| +30 days | 0.675 | 2045.3 | -61.7 |
+| +30 days | 0.675 | 2045.3 | -61.6 |
 | +60 days | 0.640 | 1995.5 | -111.5 |
-| +90 days | 0.588 | 1923.2 | -183.8 |
+| +90 days | 0.589 | 1924.8 | -182.1 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.871 vs 0.715 average, gap +0.156). Matching that average is worth about 0.0 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Holly Molly | 35 | 1988.4 | +4.8 | +55.3 |
-| Slimy Boogermen | 34 | 1997.4 | +13.8 | +56.5 |
-| Chicken Coop | 33 | 1998.2 | +14.6 | +64.8 |
-| Hairy Scary Bandits | 32 | 1999.4 | +15.8 | +58.9 |
-| YHUBEPCAM | 31 | 2004.1 | +20.5 | +50.3 |
+| Holly Molly | 35 | 1988.5 | +4.7 | +55.3 |
+| Slimy Boogermen | 34 | 1997.6 | +13.8 | +56.5 |
+| Chicken Coop | 33 | 1998.4 | +14.6 | +64.8 |
+| Hairy Scary Bandits | 32 | 1999.5 | +15.7 | +58.9 |
+| YHUBEPCAM | 31 | 2004.2 | +20.4 | +50.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Desi Boyz | 11 | +348.9 | +102.0 | +6.9 |
-| regain | 12 | +272.6 | +108.2 | +6.7 |
-| Detonate | 13 | +263.1 | +94.6 | +3.9 |
+| Desi Boyz | 11 | +349.0 | +102.0 | +6.9 |
+| regain | 12 | +272.6 | +108.3 | +6.7 |
+| Detonate | 13 | +263.2 | +94.6 | +3.9 |
 | Brahmas | 14 | +223.9 | +75.1 | +2.6 |
 | Zomblers | 22 | +131.1 | +85.3 | -0.0 |
-| Hairy Scary Bandits | 32 | +15.8 | +58.9 | -0.0 |
+| Hairy Scary Bandits | 32 | +15.7 | +58.9 | -0.0 |
 | Chicken Coop | 33 | +14.6 | +64.8 | -0.0 |
-| Holly Molly | 35 | +4.8 | +55.3 | -0.0 |
-| Olympus | 25 | +56.1 | +63.5 | -0.0 |
-| VOID ALUNE | 29 | +24.3 | +50.7 | -0.0 |
+| Holly Molly | 35 | +4.7 | +55.3 | -0.0 |
+| Olympus | 25 | +56.0 | +63.5 | -0.0 |
+| VOID ALUNE | 29 | +24.1 | +50.7 | -0.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +144.2 points at current ratings.
 
@@ -80,7 +80,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-08 | DETONATE | L | 0-2 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -113.0 | core 3/5 |
 | 2026-10-08 | unreal nightmare | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 1.00 | 0.00 | +69.3 | BAGELgod, C0C0-, Walco, ayaneuu, kmrn |
 | 2026-09-14 | Zomblers | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -16.4 | BAGELgod, C0C0-, Walco, ayaneuu, kmrn |
-| 2026-09-14 | BucketJonsBoys | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -65.7 | BAGELgod, C0C0-, Walco, ayaneuu, kmrn |
+| 2026-09-14 | BucketJonsBoys | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -65.8 | BAGELgod, C0C0-, Walco, ayaneuu, kmrn |
 | 2026-09-13 | Wanted Goons | L | 1-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.99 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -31.7 | BAGELgod, C0C0-, Walco, ayaneuu, twigsbn |
 | 2026-09-12 | BucketJonsBoys | L | 0-2 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 0.99 | 1.46 | 1.00 | 1.44 | 0.00 | 0.00 | -75.9 | BAGELgod, C0C0-, Walco, ayaneuu, kmrn |
 | 2026-09-11 | Team Amplus | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.98 | 1.33 | 1.00 | 1.30 | 0.22 | 1.30 | +0.3 | BAGELgod, C0C0-, Walco, ayaneuu, kmrn |
@@ -103,33 +103,33 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-24 | New Legends | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.25 | 0.79 | 1.25 | +7.6 | BAGELgod, C0C0-, Walco, ayaneuu, twigsbn |
 | 2026-08-21 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -14.7 | 1shawta, BAGELgod, C0C0-, Walco, twigsbn |
 | 2026-08-19 | Brahmas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.28 | 1.19 | +167.1 | BAGELgod, C0C0-, Walco, ayaneuu, twigsbn |
-| 2026-08-18 | Over Your Head | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 0.16 | 1.19 | +53.9 | BAGELgod, C0C0-, Walco, ayaneuu, twigsbn |
+| 2026-08-18 | Over Your Head | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 0.16 | 1.19 | +53.8 | BAGELgod, C0C0-, Walco, ayaneuu, twigsbn |
 | 2026-08-18 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.18 | 0.00 | 0.00 | -106.8 | BAGELgod, C0C0-, Walco, ayaneuu, twigsbn |
 | 2026-08-15 | HeadShot Esports | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.46 | 1.00 | 1.16 | 0.16 | 1.16 | +0.2 | BAGELgod, C0C0-, Walco, ayaneuu, twigsbn |
 | 2026-08-12 | Phantom Sense | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.38 | 1.13 | +16.9 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
-| 2026-08-08 | KODEX ESPORTS | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.75 | 1.46 | 1.00 | 1.09 | 0.22 | 1.09 | +31.4 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
+| 2026-08-08 | KODEX ESPORTS | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.75 | 1.46 | 1.00 | 1.09 | 0.22 | 1.09 | +31.3 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
 | 2026-08-07 | UltimateDarklordWizardz | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.74 | 1.46 | 1.00 | 1.08 | 0.22 | 1.08 | +8.6 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
-| 2026-08-07 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.16 | 1.08 | +25.8 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
+| 2026-08-07 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.16 | 1.08 | +25.9 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
 | 2026-08-06 | unreal nightmare | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.07 | 0.75 | 1.07 | +134.2 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
-| 2026-07-31 | dice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -228.9 | BAGELgod, C0C0-, DCReaper, Walco, twigsbn |
+| 2026-07-31 | dice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -228.9 | BAGELgod, C0C0-, DCReaper, Walco, twigsbn |
 | 2026-07-29 | counterstrike Team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.18 | 0.99 | +0.4 | BAGELgod, C0C0-, DCReaper, Walco, twigsbn |
 | 2026-07-24 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.06 | 0.94 | +126.7 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
 | 2026-07-22 | GRIT | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.10 | 0.92 | +1.7 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
 | 2026-07-17 | Playing for fun | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -157.1 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
-| 2026-07-16 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.06 | 0.86 | +349.2 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
-| 2026-06-11 | Olympus | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.54 | 0.00 | 0.00 | -182.4 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
+| 2026-07-16 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.06 | 0.86 | +349.1 | BAGELgod, C0C0-, Walco, kmrn, twigsbn |
+| 2026-06-11 | Olympus | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.36 | 1.50 | 1.00 | 0.54 | 0.00 | 0.00 | -182.3 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
 | 2026-06-09 | Elisir Esports | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.01 | 0.52 | +114.2 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
 | 2026-06-04 | North Forge | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.00 | 0.00 | -204.5 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
-| 2026-06-02 | Axial | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.24 | 0.45 | +194.5 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
-| 2026-05-21 | Olympus | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.19 | 0.30 | +176.3 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
-| 2026-05-19 | raisedbypixels | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -130.5 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
-| 2026-05-15 | Desi Boyz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -198.3 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
+| 2026-06-02 | Axial | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.24 | 0.45 | +194.4 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
+| 2026-05-21 | Olympus | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.19 | 0.30 | +176.4 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
+| 2026-05-19 | raisedbypixels | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -130.3 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
+| 2026-05-15 | Desi Boyz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -198.4 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
 | 2026-05-14 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.24 | 0.04 | 0.24 | +168.4 | BAGELgod, C0C0-, Walco, no1nx, twigsbn |
-| 2026-05-05 | Wanted Goons | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -8.0 | 1shawta, BAGELgod, C0C0-, no1nx, twigsbn |
-| 2026-04-30 | Xiaoma Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.02 | 0.00 | +74.4 | 1shawta, BAGELgod, C0C0-, no1nx, twigsbn |
-| 2026-04-30 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -164.4 | 1shawta, BAGELgod, C0C0-, no1nx, twigsbn |
-| 2026-04-27 | Wanted Goons | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.00 | -49.6 | core 3/5 |
-| 2026-04-26 | EX-AETHER | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -335.3 | core 3/5 |
+| 2026-05-05 | Wanted Goons | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.15 | 0.00 | 0.00 | -8.0 | 1shawta, BAGELgod, C0C0-, no1nx, twigsbn |
+| 2026-04-30 | Xiaoma Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.02 | 0.00 | +74.3 | 1shawta, BAGELgod, C0C0-, no1nx, twigsbn |
+| 2026-04-30 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -164.6 | 1shawta, BAGELgod, C0C0-, no1nx, twigsbn |
+| 2026-04-27 | Wanted Goons | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.00 | -49.2 | core 3/5 |
+| 2026-04-26 | EX-AETHER | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -335.4 | core 3/5 |
 | 2026-04-25 | KODEX | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.06 | 0.00 | +343.6 | core 3/5 |
 | 2026-04-25 | LAG Gaming | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -235.6 | core 3/5 |
 | 2026-04-23 | Demolition | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.01 | 0.00 | +0.3 | BAGELgod, C0C0-, kmzbn, no1nx, twigsbn |

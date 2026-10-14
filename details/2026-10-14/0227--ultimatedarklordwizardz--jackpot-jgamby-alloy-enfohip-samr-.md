@@ -4,14 +4,14 @@ Roster: Jackpot, JGamby, alloy, enfohip, samR-
 NARS Rank: 227 of 506
 
 Final Rating: 1427.1
-Seeded Start: 1448.6
-H2H Adjustment: -21.5
+Seeded Start: 1448.5
+H2H Adjustment: -21.4
 
-Final Rating (1427.1) = Seeded Start (1448.6) + H2H Adjustment (-21.5)
+Final Rating (1427.1) = Seeded Start (1448.5) + H2H Adjustment (-21.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.249 x 1400 = 1448.6
+                = 1100 + 0.249 x 1400 = 1448.5
 
 seed_factor 0.249 = 0.25 x Tier Exposure (0.202) + 0.50 x Quality Wins (0.077) + 0.25 x Opponent Network (0.639)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.249 | 1448.6 | - |
+| Now | 0.249 | 1448.5 | - |
 | +30 days | 0.231 | 1423.9 | -24.7 |
 | +60 days | 0.217 | 1403.2 | -45.4 |
-| +90 days | 0.191 | 1368.0 | -80.5 |
+| +90 days | 0.192 | 1368.2 | -80.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.077 vs 0.026 average, gap +0.051). Matching that average is worth about 0.0 seed points.
 
@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | penazoid | 226 | 1427.9 | +0.8 | +81.0 |
-| Elisir Esports | 225 | 1428.4 | +1.3 | +75.0 |
+| Elisir Esports | 225 | 1428.5 | +1.4 | +75.0 |
 | TahMeow | 224 | 1429.4 | +2.3 | +75.2 |
 | Beam Tinky | 223 | 1434.2 | +7.1 | +76.7 |
 | Cortex Jellies | 222 | 1437.4 | +10.3 | +78.6 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| firesale | 82 | +341.1 | +150.9 | +14.2 |
-| Diggers | 86 | +336.3 | +134.9 | +14.1 |
+| firesale | 82 | +341.2 | +151.0 | +14.2 |
+| Diggers | 86 | +336.5 | +134.9 | +14.2 |
 | Fire Nation | 90 | +322.6 | +139.1 | +13.4 |
-| Fathom Gaming | 91 | +318.2 | +136.0 | +13.3 |
+| Fathom Gaming | 91 | +318.3 | +136.1 | +13.3 |
 | Overtake Sector | 89 | +323.8 | +179.5 | +13.2 |
-| Elusive | 93 | +304.5 | +161.6 | +12.4 |
-| Green Grove Retirement | 94 | +301.5 | +144.0 | +12.2 |
-| NineFlyeSports | 96 | +298.0 | +149.5 | +12.2 |
-| PROFECO | 87 | +328.1 | +122.1 | +11.9 |
-| FlyQuest RED | 97 | +293.6 | +155.0 | +11.4 |
+| Green Grove Retirement | 93 | +301.5 | +144.1 | +12.2 |
+| NineFlyeSports | 95 | +298.1 | +149.6 | +12.2 |
+| PROFECO | 87 | +328.1 | +122.2 | +11.9 |
+| FlyQuest RED | 96 | +293.7 | +155.1 | +11.4 |
+| Axial | 100 | +279.5 | +133.1 | +10.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +237.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +237.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
 
@@ -75,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Armored Talent | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -149.0 | JGamby, alloy, enfohip, samR-, xSpeedy |
 | 2026-09-15 | Firstwave | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -64.4 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-09-09 | FUELED BY HATE | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.21 | 1.28 | +22.9 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-09-08 | Tacos Tiramisu and Lies | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -39.9 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-09-08 | Tacos Tiramisu and Lies | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -40.0 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-09-07 | Phantom Sense | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.27 | 0.00 | 0.00 | -28.6 | Avacate, JGamby, Jackpot, enfohip, samR- |
 | 2026-09-06 | High-Tech Performance | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.08 | 0.00 | +17.9 | D1Nk_57, JGamby, Jackpot, enfohip, samR- |
 | 2026-09-04 | DeathMark E-Sports | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.10 | 0.93 | +9.4 | Avacate, Jackpot, alloy, enfohip, samR- |
@@ -100,7 +100,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-23 | The Ohio Meat Wagon | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -375.8 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-07-17 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +213.1 | Avacate, JGamby, Jackpot, alloy, enfohip |
 | 2026-07-15 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +0.1 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-06-05 | Team TahMeow | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.32 | +161.8 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-06-05 | Team TahMeow | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.03 | 0.32 | +161.9 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-06-02 | FAT CHUDS BRO | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +147.2 | JGamby, Jackpot, alwayslucky-, enfohip, samR- |
 | 2026-05-27 | MSU MAROON | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +41.0 | ALDEN_, JGamby, Jackpot, enfohip, samR- |
 

@@ -41,8 +41,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | The Bobs | 434 | 946.0 | +4.6 | +163.7 |
 | The Homies | 433 | 953.9 | +12.5 | +166.2 |
-| Seven ate Nine | 432 | 955.8 | +14.4 | +166.8 |
-| Suboptimal counterstrike | 431 | 961.8 | +20.4 | +174.0 |
+| Seven ate Nine | 432 | 955.8 | +14.4 | +166.9 |
+| Suboptimal counterstrike | 431 | 961.8 | +20.4 | +174.1 |
 | REPORT MASSIVE | 430 | 962.9 | +21.5 | +169.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -53,7 +53,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Resurgence | 290 | +342.2 | +321.9 | +32.0 |
 | COGNITIVE | 295 | +337.7 | +315.3 | +31.7 |
 | 55TH ST | 288 | +349.9 | +354.5 | +31.7 |
-| Tractors | 292 | +341.6 | +338.8 | +31.4 |
+| Tractors | 292 | +341.6 | +338.8 | +31.5 |
 | NATIONAL CS UNI | 301 | +324.6 | +313.5 | +30.3 |
 | Mud Wizards | 298 | +328.6 | +345.8 | +29.9 |
 | DingTone | 302 | +322.4 | +322.0 | +29.4 |

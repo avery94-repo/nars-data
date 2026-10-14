@@ -3,15 +3,15 @@ Team Name: Feels MAIN Man
 Roster: goose_x5, Feebz, MUDFLAPS, BigBadJohn, petex9
 NARS Rank: 466 of 506
 
-Final Rating: 829.8
-Seeded Start: 1212.8
+Final Rating: 829.7
+Seeded Start: 1212.7
 H2H Adjustment: -383.0
 
-Final Rating (829.8) = Seeded Start (1212.8) + H2H Adjustment (-383.0)
+Final Rating (829.7) = Seeded Start (1212.7) + H2H Adjustment (-383.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.081 x 1400 = 1212.8
+                = 1100 + 0.081 x 1400 = 1212.7
 
 seed_factor 0.081 = 0.25 x Tier Exposure (0.089) + 0.50 x Quality Wins (0.013) + 0.25 x Opponent Network (0.207)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.081 | 1212.8 | - |
+| Now | 0.081 | 1212.7 | - |
 | +30 days | 0.051 | 1171.9 | -40.9 |
 | +60 days | 0.040 | 1155.8 | -57.0 |
-| +90 days | 0.031 | 1143.9 | -68.9 |
+| +90 days | 0.031 | 1143.8 | -68.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.207 vs 0.272 average, gap -0.065). Matching that average is worth about 22.8 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Spin da block | 465 | 830.0 | +0.2 | +64.7 |
-| 69 | 464 | 832.3 | +2.5 | +69.5 |
-| de_throne | 463 | 834.7 | +4.9 | +65.9 |
-| dogwater | 462 | 835.5 | +5.7 | +77.0 |
-| Remnant | 461 | 836.6 | +6.8 | +70.6 |
+| Spin da block | 465 | 829.9 | +0.2 | +64.7 |
+| 69 | 464 | 832.2 | +2.5 | +69.5 |
+| de_throne | 463 | 834.7 | +5.0 | +65.9 |
+| dogwater | 462 | 835.4 | +5.7 | +77.0 |
+| Remnant | 461 | 836.5 | +6.8 | +70.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Samantha 4 | 351 | +348.2 | +120.9 | +12.3 |
-| RunTheDamnBall | 352 | +337.3 | +128.2 | +12.0 |
-| DeathMark E-Sports | 353 | +336.7 | +132.7 | +11.9 |
-| Comeback Bandits | 355 | +330.8 | +124.5 | +11.8 |
-| 99 Thieves | 354 | +332.5 | +124.0 | +11.7 |
-| RH Help Desk | 358 | +328.7 | +135.5 | +11.6 |
-| Macs Snacks | 359 | +324.1 | +116.4 | +11.6 |
-| Aers Money Crew | 360 | +323.4 | +120.2 | +11.6 |
-| MINDTRIP | 361 | +319.7 | +123.1 | +11.4 |
-| Temple of Swing | 362 | +317.6 | +118.5 | +11.3 |
+| Samantha 4 | 351 | +348.3 | +121.0 | +12.3 |
+| RunTheDamnBall | 352 | +337.4 | +128.3 | +12.0 |
+| DeathMark E-Sports | 353 | +336.8 | +132.7 | +11.9 |
+| Comeback Bandits | 355 | +330.9 | +124.6 | +11.8 |
+| 99 Thieves | 354 | +332.6 | +124.0 | +11.7 |
+| RH Help Desk | 358 | +328.9 | +135.6 | +11.6 |
+| Macs Snacks | 359 | +324.2 | +116.4 | +11.6 |
+| Aers Money Crew | 360 | +323.5 | +120.3 | +11.6 |
+| MINDTRIP | 361 | +319.8 | +123.1 | +11.4 |
+| Temple of Swing | 362 | +317.7 | +118.5 | +11.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +200.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +200.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.8).
 
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Square1 | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.88 | 1.16 | 1.00 | 1.02 | 0.00 | 0.00 | -57.3 | Feebz, GureT, MUDFLAPS, petex9, titter |
 | 2026-08-26 | Cadillac F1 eSports Team | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -69.9 | Feebz, MUDFLAPS, goose_x5, petex9, titter |
 | 2026-08-21 | RejexEsports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.05 | 0.97 | +12.8 | Feebz, MUDFLAPS, goose_x5, petex9, titter |
-| 2026-08-19 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -77.7 | Feebz, MUDFLAPS, goose_x5, nax, titter |
+| 2026-08-19 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -77.8 | Feebz, MUDFLAPS, goose_x5, nax, titter |
 | 2026-08-14 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -103.8 | Feebz, GureT, MUDFLAPS, goose_x5, nax |
 | 2026-08-12 | Top One Percent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -71.6 | Feebz, MUDFLAPS, goose_x5, nax, petex9 |
 | 2026-08-07 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -66.3 | -Retro-, Feebz, MUDFLAPS, goose_x5, nax |
@@ -97,8 +97,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-27 | Mach 10 | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +20.2 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
 | 2026-05-20 | RunTheDamnBall | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.03 | 0.22 | +341.8 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
 | 2026-05-15 | Strafe | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -377.8 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
-| 2026-05-13 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +198.6 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
-| 2026-05-08 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -283.9 | BigBadJohn, Feebz, GureT, MUDFLAPS, goose_x5, petex9 |
+| 2026-05-13 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +198.7 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
+| 2026-05-08 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -284.0 | BigBadJohn, Feebz, GureT, MUDFLAPS, goose_x5, petex9 |
 | 2026-05-06 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +331.8 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
 | 2026-05-01 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +14.0 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |
 | 2026-04-29 | Grandpa Berets | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -271.3 | BigBadJohn, Feebz, MUDFLAPS, goose_x5, petex9 |

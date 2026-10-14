@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.274 | 1483.2 | - |
-| +30 days | 0.319 | 1546.6 | +63.4 |
+| +30 days | 0.319 | 1546.6 | +63.3 |
 | +60 days | 0.335 | 1569.3 | +86.0 |
-| +90 days | 0.367 | 1613.9 | +130.6 |
+| +90 days | 0.368 | 1615.4 | +132.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.054 vs 0.072 average, gap -0.018). Matching that average is worth about 6.3 seed points.
 
@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Manx Recovery Program | 88 | 1751.4 | +0.5 | +25.5 |
 | PROFECO | 87 | 1755.2 | +4.3 | +23.9 |
-| Diggers | 86 | 1763.4 | +12.5 | +26.1 |
+| Diggers | 86 | 1763.6 | +12.7 | +26.1 |
 | makeSHIFT | 85 | 1764.1 | +13.2 | +28.3 |
 | Orbit | 84 | 1765.3 | +14.4 | +24.4 |
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Olympus | 25 | +288.8 | +45.5 | +3.6 |
+| Olympus | 25 | +288.9 | +45.5 | +3.6 |
 | Automatic HQ | 27 | +280.0 | +48.1 | +3.4 |
 | VOID ALUNE | 29 | +257.0 | +34.9 | +2.5 |
-| Chicken Coop | 33 | +247.3 | +52.0 | +2.5 |
-| Hairy Scary Bandits | 32 | +248.5 | +44.3 | +2.5 |
+| Chicken Coop | 33 | +247.5 | +52.1 | +2.5 |
+| Hairy Scary Bandits | 32 | +248.6 | +44.4 | +2.5 |
 | duck crew | 23 | +345.2 | +38.1 | +2.3 |
-| Festina Lente | 24 | +291.9 | +36.2 | +2.0 |
-| Holly Molly | 35 | +237.5 | +41.2 | +1.9 |
-| EMPIRE | 36 | +232.7 | +47.5 | +1.8 |
-| babaG | 28 | +257.9 | +47.4 | +1.6 |
+| Festina Lente | 24 | +292.2 | +36.2 | +2.0 |
+| Holly Molly | 35 | +237.6 | +41.2 | +1.9 |
+| EMPIRE | 36 | +232.9 | +47.5 | +1.8 |
+| babaG | 28 | +258.1 | +47.4 | +1.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +67.4 points at current ratings.
 
@@ -70,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-14 | Zomblers | W | 2-0 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 1.36 | 1.55 | +64.7 | core 3/5 |
-| 2026-10-12 | regain | W | 2-1 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 1.22 | 1.55 | +67.1 | core 3/5 |
+| 2026-10-12 | regain | W | 2-1 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 1.22 | 1.55 | +67.2 | core 3/5 |
 | 2026-10-12 | Iowa Stormboar | W | 2-0 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 1.06 | 1.55 | +69.1 | core 3/5 |
 | 2026-10-11 | Chicken Coop | L | 0-2 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -3.2 | core 3/5 |
 | 2026-10-08 | FarmVille | W | 1-0 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.55 | 1.00 | 1.55 | 1.55 | 1.55 | +69.8 | core 3/5 |

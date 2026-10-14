@@ -43,7 +43,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | DeathMark E-Sports | 353 | 1166.5 | +5.9 | +116.0 |
 | RunTheDamnBall | 352 | 1167.1 | +6.5 | +114.5 |
 | Samantha 4 | 351 | 1178.0 | +17.4 | +113.5 |
-| SOLA | 350 | 1178.0 | +17.4 | +106.6 |
+| SOLA | 350 | 1178.1 | +17.5 | +106.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,14 +51,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | KIS | 185 | +346.1 | +190.1 | +20.1 |
 | Lynnsanity | 189 | +339.4 | +214.8 | +19.3 |
-| ClanAgain | 195 | +332.7 | +187.8 | +19.3 |
+| ClanAgain | 195 | +332.7 | +187.9 | +19.3 |
 | No Leaders Please | 190 | +338.8 | +214.7 | +19.3 |
 | teamington | 192 | +337.4 | +197.5 | +19.3 |
 | Alternate Earth | 186 | +343.4 | +228.4 | +19.2 |
-| ABG Esports | 196 | +328.1 | +210.9 | +19.1 |
+| ABG Esports | 196 | +328.2 | +211.0 | +19.1 |
 | UncsStillGotIt | 191 | +338.7 | +226.8 | +19.0 |
 | O Fire | 198 | +327.9 | +217.6 | +18.6 |
-| GRIT | 201 | +320.5 | +181.6 | +18.4 |
+| GRIT | 201 | +320.6 | +181.6 | +18.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +349.6 points at current ratings.
 

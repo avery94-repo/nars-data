@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| University of Cincinnati | 296 | 1278.3 | +7.2 | +151.5 |
-| COGNITIVE | 295 | 1279.1 | +8.0 | +158.2 |
-| Dynasty | 294 | 1279.9 | +8.8 | +154.8 |
-| Cream Team | 293 | 1282.4 | +11.3 | +156.6 |
+| University of Cincinnati | 296 | 1278.3 | +7.2 | +151.6 |
+| COGNITIVE | 295 | 1279.1 | +8.0 | +158.3 |
+| Dynasty | 294 | 1279.8 | +8.7 | +154.8 |
+| Cream Team | 293 | 1282.4 | +11.3 | +156.7 |
 | Tractors | 292 | 1283.0 | +11.9 | +163.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Kaos | 139 | +339.7 | +273.7 | +29.3 |
-| KODEX ESPORTS | 137 | +345.4 | +371.7 | +27.5 |
-| Team Amplus | 145 | +323.1 | +302.6 | +27.2 |
-| Kevin James Fan Club | 148 | +309.8 | +287.3 | +26.0 |
+| Kaos | 138 | +339.7 | +273.8 | +29.3 |
+| KODEX ESPORTS | 135 | +345.6 | +371.9 | +27.5 |
+| Elusive | 141 | +333.3 | +338.0 | +27.5 |
+| Team Amplus | 145 | +323.2 | +302.6 | +27.3 |
+| Kevin James Fan Club | 148 | +309.8 | +287.4 | +26.0 |
 | Biggie Cheese Fan Club | 151 | +305.5 | +262.4 | +25.7 |
 | WhiteBoyWinter | 155 | +295.6 | +270.8 | +24.2 |
+| Order Zero | 156 | +293.7 | +244.5 | +19.9 |
 | offBalance | 165 | +271.2 | +263.9 | +19.9 |
-| Order Zero | 156 | +293.7 | +244.4 | +19.9 |
-| Oath | 142 | +331.1 | +257.1 | +19.8 |
-| Pug Palace | 167 | +264.7 | +266.6 | +18.4 |
+| Oath | 142 | +331.1 | +257.2 | +19.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +569.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +570.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.3), Courage (+0.3), SixSevenZaZa (+0.6).
 
@@ -91,19 +91,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.06 | 0.70 | +6.6 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-07-24 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.06 | 0.66 | +111.4 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-07-22 | Les Ptis Jus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -150.8 | Gerrard4K, Hydra, NEXTDAYAIR-, br00d, hustler |
-| 2026-07-16 | butt | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -2.4 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
+| 2026-07-16 | butt | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -2.4 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
 | 2026-07-15 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -195.6 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-06-02 | YHTR | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -137.9 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-05-29 | TenToesDown | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.00 | 0.00 | -54.9 | D00R, Hydra, NEXTDAYAIR-, bertmas, hustler |
-| 2026-05-27 | in for Blood | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.02 | 0.27 | +129.6 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
+| 2026-05-27 | in for Blood | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.02 | 0.27 | +129.7 | D00R, Gerrard4K, Hydra, NEXTDAYAIR-, hustler |
 | 2026-05-22 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -300.7 | D00R, Hydra, bertmas, br00d, hustler |
 | 2026-05-19 | Square1 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.21 | 1.01 | 1.00 | 0.21 | 0.01 | 0.21 | +11.4 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-05-15 | YHTR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.03 | 0.18 | +11.7 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-05-13 | GoonAssOldheads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +2.3 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-05-08 | Emerald Isle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +8.5 | D00R, Hydra, bertmas, br00d, hustler |
-| 2026-05-06 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +285.7 | D00R, Gerrard4K, Hydra, br00d, hustler |
+| 2026-05-06 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +285.8 | D00R, Gerrard4K, Hydra, br00d, hustler |
 | 2026-04-29 | NATIONAL CS UNI | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +10.8 | Gerrard4K, Hydra, bertmas, br00d, hustler |
 | 2026-04-24 | GoopT | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +10.2 | D00R, Gerrard4K, Hydra, br00d, hustler |
-| 2026-04-22 | Kennesaw State Gold 2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +242.1 | D00R, Gerrard4K, Hydra, br00d, hustler |
+| 2026-04-22 | Kennesaw State Gold 2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +242.2 | D00R, Gerrard4K, Hydra, br00d, hustler |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

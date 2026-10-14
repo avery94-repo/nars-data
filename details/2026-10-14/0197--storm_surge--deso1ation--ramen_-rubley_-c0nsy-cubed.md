@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.136 | 1290.5 | - |
 | +30 days | 0.103 | 1244.6 | -45.9 |
 | +60 days | 0.087 | 1221.9 | -68.6 |
-| +90 days | 0.064 | 1189.1 | -101.5 |
+| +90 days | 0.064 | 1189.1 | -101.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.357 vs 0.391 average, gap -0.034). Matching that average is worth about 11.9 seed points.
 
@@ -39,9 +39,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| ABG Esports | 196 | 1488.7 | +0.1 | +169.9 |
+| ABG Esports | 196 | 1488.8 | +0.2 | +170.0 |
 | ClanAgain | 195 | 1493.3 | +4.7 | +166.6 |
-| MEET THE WALL | 194 | 1497.0 | +8.4 | +165.3 |
+| MEET THE WALL | 194 | 1497.0 | +8.4 | +165.4 |
 | 91AshLiu | 193 | 1497.1 | +8.5 | +163.2 |
 | teamington | 192 | 1498.0 | +9.4 | +170.4 |
 
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +337.9 | +338.4 | +31.1 |
-| Endless Esports | 65 | +337.4 | +341.1 | +30.9 |
-| NZ Gaming | 69 | +324.6 | +311.6 | +29.9 |
-| WhalersOnDaMoon | 66 | +333.3 | +345.0 | +29.4 |
-| DUMBO | 63 | +338.5 | +373.6 | +29.4 |
-| GeneticDiff | 70 | +304.3 | +312.1 | +27.1 |
+| flat earth | 64 | +338.0 | +338.5 | +31.2 |
+| Endless Esports | 65 | +337.5 | +341.3 | +31.0 |
+| NZ Gaming | 69 | +324.8 | +311.8 | +29.9 |
+| WhalersOnDaMoon | 66 | +333.3 | +345.1 | +29.4 |
+| DUMBO | 63 | +338.5 | +373.7 | +29.4 |
+| GeneticDiff | 70 | +304.3 | +312.2 | +27.1 |
 | Asoka | 74 | +294.7 | +292.5 | +25.9 |
-| fih hou | 73 | +297.1 | +321.6 | +25.8 |
-| Kairo | 79 | +290.3 | +287.6 | +25.2 |
-| Club 333 | 76 | +293.7 | +343.7 | +24.9 |
+| fih hou | 73 | +297.1 | +321.7 | +25.8 |
+| Kairo | 79 | +290.4 | +287.7 | +25.2 |
+| Club 333 | 76 | +293.8 | +343.8 | +25.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +630.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +630.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -78,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | Bird Squishers | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.96 | 1.19 | 1.00 | 1.14 | 0.00 | 0.00 | -116.3 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
-| 2026-09-04 | WhalersOnDaMoon | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.00 | 0.00 | -138.5 | -Ramen_, J3llyz, Rubley_, cubed, deso1ation |
+| 2026-09-04 | WhalersOnDaMoon | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.19 | 1.00 | 1.11 | 0.00 | 0.00 | -138.6 | -Ramen_, J3llyz, Rubley_, cubed, deso1ation |
 | 2026-08-26 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -41.1 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-08-19 | The Skins | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.09 | 0.95 | +116.3 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-08-15 | Skyline | L | 0-2 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.80 | 1.45 | 1.00 | 1.16 | 0.00 | 0.00 | -20.1 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
@@ -89,7 +89,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -49.6 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-07-24 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -18.6 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-06-03 | Automatic HQ | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.31 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -36.1 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
-| 2026-05-27 | SquishysAngels | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.32 | 0.00 | 0.00 | -136.8 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
+| 2026-05-27 | SquishysAngels | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.32 | 0.00 | 0.00 | -136.9 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-05-24 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.25 | 1.15 | 1.00 | 0.28 | 0.00 | 0.28 | +0.1 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-22 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +237.5 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-20 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +301.5 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |

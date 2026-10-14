@@ -41,9 +41,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | fiveB | 318 | 1238.5 | +0.3 | +168.8 |
 | Team Phys | 317 | 1238.6 | +0.4 | +162.4 |
-| Relativity | 316 | 1238.9 | +0.7 | +162.5 |
+| Relativity | 316 | 1238.8 | +0.6 | +162.5 |
 | Once Divine Gaming | 315 | 1239.7 | +1.5 | +162.8 |
-| Baatarz | 314 | 1241.2 | +3.0 | +163.3 |
+| Baatarz | 314 | 1241.5 | +3.3 | +163.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -54,10 +54,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | WhiteBoyWinter | 155 | +328.5 | +310.8 | +30.8 |
 | offBalance | 165 | +304.1 | +303.2 | +27.6 |
 | Order Zero | 156 | +326.6 | +279.9 | +26.4 |
-| Pug Palace | 167 | +297.6 | +306.6 | +26.3 |
-| BucketJonsBoys | 172 | +294.8 | +293.7 | +26.2 |
+| Pug Palace | 167 | +297.7 | +306.7 | +26.4 |
+| BucketJonsBoys | 172 | +294.9 | +293.7 | +26.2 |
 | Shaboing Boing Bandits | 173 | +292.4 | +316.9 | +25.5 |
-| Armored Talent | 174 | +291.6 | +323.4 | +25.2 |
+| Armored Talent | 174 | +291.7 | +323.4 | +25.2 |
 | Firstwave | 175 | +288.8 | +292.2 | +25.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
@@ -88,12 +88,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | ALL IN | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.04 | 0.79 | +167.1 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
 | 2026-07-24 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -138.5 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
 | 2026-07-16 | MASTER ONE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.08 | 0.69 | +171.6 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
-| 2026-07-15 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -180.4 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
+| 2026-07-15 | DESPAIR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -180.5 | 1KoR, JaZo, NAKIB, SepehrS, assyrianMOT |
 | 2026-05-21 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -196.5 | JaZo, NAKIB, SPERMY, SepehrS, assyrianMOT |
 | 2026-05-20 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +1.0 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
 | 2026-05-15 | Sassy Sunshines | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +229.7 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
-| 2026-05-13 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +71.6 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
-| 2026-05-08 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -270.4 | Banadoora, JaZo, NAKIB, SPERMY, assyrianMOT |
+| 2026-05-13 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.19 | +71.7 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
+| 2026-05-08 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -270.4 | Banadoora, JaZo, NAKIB, SPERMY, assyrianMOT |
 | 2026-05-06 | YHUBEPCAM | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -54.2 | JaZo, NAKIB, SPERMY, SepehrS, assyrianMOT |
 | 2026-05-01 | CNCS Last Hope | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +34.2 | 1KoR, JaZo, NAKIB, SPERMY, SepehrS |
 | 2026-04-30 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +292.5 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |

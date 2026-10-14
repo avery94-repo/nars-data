@@ -3,11 +3,11 @@ Team Name: It Doesnt Matter
 Roster: xiph0s, Newmarket, Moxie2, asushi, Shittyfaceit
 NARS Rank: 446 of 506
 
-Final Rating: 909.4
+Final Rating: 909.3
 Seeded Start: 1273.0
-H2H Adjustment: -363.6
+H2H Adjustment: -363.7
 
-Final Rating (909.4) = Seeded Start (1273.0) + H2H Adjustment (-363.6)
+Final Rating (909.3) = Seeded Start (1273.0) + H2H Adjustment (-363.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| wabbit2 | 445 | 912.5 | +3.1 | +128.0 |
-| Vexation Esports | 444 | 914.0 | +4.6 | +128.4 |
-| Dead Pixel | 443 | 923.2 | +13.8 | +143.1 |
-| Hack-A-Shaq | 442 | 928.0 | +18.6 | +131.8 |
-| Emerald Isle | 441 | 928.1 | +18.7 | +131.9 |
+| wabbit2 | 445 | 912.4 | +3.1 | +128.0 |
+| Vexation Esports | 444 | 914.0 | +4.7 | +128.4 |
+| Dead Pixel | 443 | 923.2 | +13.9 | +143.1 |
+| Hack-A-Shaq | 442 | 928.0 | +18.7 | +131.9 |
+| Emerald Isle | 441 | 928.1 | +18.8 | +131.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Nyx | 307 | +343.8 | +248.6 | +24.8 |
-| fiveB | 318 | +329.1 | +243.8 | +23.8 |
-| Team TahMeow | 321 | +326.3 | +243.4 | +23.5 |
-| innerFire | 325 | +314.8 | +229.9 | +22.6 |
-| Transcended | 326 | +313.9 | +231.0 | +22.5 |
-| NetanYAHOO | 323 | +317.9 | +269.3 | +22.3 |
-| Asian Invasion | 308 | +341.3 | +218.4 | +22.1 |
-| PogSquad | 327 | +313.1 | +259.0 | +22.1 |
-| Double Dink | 329 | +311.2 | +217.0 | +22.0 |
-| Once Divine Gaming | 315 | +330.3 | +215.4 | +22.0 |
+| Team Nyx | 307 | +343.9 | +248.6 | +24.8 |
+| fiveB | 318 | +329.2 | +243.8 | +23.8 |
+| Team TahMeow | 321 | +326.4 | +243.4 | +23.6 |
+| innerFire | 325 | +314.9 | +230.0 | +22.6 |
+| Transcended | 326 | +314.0 | +231.0 | +22.5 |
+| NetanYAHOO | 323 | +318.0 | +269.4 | +22.3 |
+| Asian Invasion | 308 | +341.5 | +218.4 | +22.1 |
+| PogSquad | 327 | +313.2 | +259.0 | +22.1 |
+| Double Dink | 329 | +311.3 | +217.0 | +22.0 |
+| Once Divine Gaming | 315 | +330.4 | +215.5 | +22.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +457.8 points at current ratings.
 

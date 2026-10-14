@@ -4,14 +4,14 @@ Roster: UnbrokeNNN, RoBiN_, nyxx-, Jwil, Reckless666
 NARS Rank: 55 of 506
 
 Final Rating: 1865.1
-Seeded Start: 1141.0
-H2H Adjustment: +724.1
+Seeded Start: 1140.9
+H2H Adjustment: +724.2
 
-Final Rating (1865.1) = Seeded Start (1141.0) + H2H Adjustment (+724.1)
+Final Rating (1865.1) = Seeded Start (1140.9) + H2H Adjustment (+724.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.029 x 1400 = 1141.0
+                = 1100 + 0.029 x 1400 = 1140.9
 
 seed_factor 0.029 = 0.25 x Tier Exposure (0.013) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.100)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.029 | 1141.0 | - |
+| Now | 0.029 | 1140.9 | - |
 | +30 days | 0.013 | 1117.5 | -23.4 |
-| +60 days | 0.000 | 1100.0 | -41.0 |
-| +90 days | 0.000 | 1100.0 | -41.0 |
+| +60 days | 0.000 | 1100.0 | -40.9 |
+| +90 days | 0.000 | 1100.0 | -40.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.100 vs 0.508 average, gap -0.408). Matching that average is worth about 142.8 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Sharp | 54 | 1867.8 | +2.7 | +173.5 |
+| Sharp | 54 | 1867.9 | +2.8 | +173.5 |
 | TheMotherLovers | 53 | 1878.0 | +12.9 | +176.6 |
 | GG | 52 | 1881.5 | +16.4 | +167.5 |
-| Phantom Sense | 51 | 1883.8 | +18.7 | +183.8 |
+| Phantom Sense | 51 | 1883.9 | +18.8 | +183.8 |
 | No Future Lifes Over | 50 | 1887.2 | +22.1 | +178.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | +342.4 | +307.6 | +32.7 |
+| Brahmas | 14 | +342.6 | +307.7 | +32.7 |
 | Old Meta | 15 | +311.1 | +344.9 | +27.7 |
-| NuTorious | 17 | +300.6 | +292.9 | +27.2 |
-| FarmVille | 16 | +302.5 | +371.5 | +25.9 |
-| Villainous | 18 | +295.6 | +363.4 | +24.6 |
-| Iowa Stormboar | 21 | +250.8 | +332.2 | +16.6 |
-| Zomblers | 22 | +249.6 | +332.3 | +16.5 |
+| NuTorious | 17 | +300.8 | +293.0 | +27.2 |
+| FarmVille | 16 | +302.8 | +371.6 | +26.0 |
+| Villainous | 18 | +295.8 | +363.5 | +24.6 |
+| Iowa Stormboar | 21 | +251.0 | +332.3 | +16.7 |
+| Zomblers | 22 | +249.8 | +332.4 | +16.5 |
 | qcclan | 20 | +281.1 | +304.9 | +13.9 |
 | MASTER ONE | 19 | +294.4 | +300.1 | +12.4 |
-| Phantom Sense | 51 | +18.7 | +183.8 | -0.0 |
+| Phantom Sense | 51 | +18.8 | +183.8 | -0.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +637.0 points at current ratings.
 

@@ -3,15 +3,15 @@ Team Name: wabbit2
 Roster: kerflompnatr, AIDAN_, PG37, CJsInferno, Verzuh
 NARS Rank: 445 of 506
 
-Final Rating: 912.5
-Seeded Start: 1136.0
+Final Rating: 912.4
+Seeded Start: 1135.9
 H2H Adjustment: -223.5
 
-Final Rating (912.5) = Seeded Start (1136.0) + H2H Adjustment (-223.5)
+Final Rating (912.4) = Seeded Start (1135.9) + H2H Adjustment (-223.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.026 x 1400 = 1136.0
+                = 1100 + 0.026 x 1400 = 1135.9
 
 seed_factor 0.026 = 0.25 x Tier Exposure (0.038) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.057)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.026 | 1136.0 | - |
+| Now | 0.026 | 1135.9 | - |
 | +30 days | 0.006 | 1108.7 | -27.2 |
 | +60 days | 0.003 | 1103.7 | -32.2 |
-| +90 days | 0.000 | 1100.0 | -36.0 |
+| +90 days | 0.000 | 1100.0 | -35.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.057 vs 0.190 average, gap -0.133). Matching that average is worth about 46.6 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Vexation Esports | 444 | 914.0 | +1.5 | +162.8 |
-| Dead Pixel | 443 | 923.2 | +10.7 | +176.1 |
-| Hack-A-Shaq | 442 | 928.0 | +15.5 | +167.2 |
-| Emerald Isle | 441 | 928.1 | +15.6 | +167.2 |
-| After Hours | 440 | 931.4 | +18.9 | +168.3 |
+| Vexation Esports | 444 | 914.0 | +1.6 | +162.8 |
+| Dead Pixel | 443 | 923.2 | +10.8 | +176.1 |
+| Hack-A-Shaq | 442 | 928.0 | +15.6 | +167.2 |
+| Emerald Isle | 441 | 928.1 | +15.7 | +167.2 |
+| After Hours | 440 | 931.4 | +19.0 | +168.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Guangzhou Loong Lions | 304 | +347.4 | +326.8 | +31.9 |
-| Team Nyx | 307 | +340.7 | +321.0 | +31.9 |
-| fiveB | 318 | +326.0 | +314.1 | +30.4 |
-| Team TahMeow | 321 | +323.2 | +313.4 | +30.1 |
-| innerFire | 325 | +311.7 | +296.4 | +28.9 |
-| Transcended | 326 | +310.8 | +297.6 | +28.7 |
-| Asian Invasion | 308 | +338.2 | +284.3 | +28.6 |
-| Once Divine Gaming | 315 | +327.2 | +280.1 | +28.4 |
-| NetanYAHOO | 323 | +314.8 | +343.5 | +28.2 |
-| Double Dink | 329 | +308.1 | +280.7 | +28.2 |
+| Guangzhou Loong Lions | 304 | +347.5 | +326.8 | +31.9 |
+| Team Nyx | 307 | +340.8 | +321.1 | +31.9 |
+| fiveB | 318 | +326.1 | +314.1 | +30.4 |
+| Team TahMeow | 321 | +323.3 | +313.4 | +30.1 |
+| innerFire | 325 | +311.8 | +296.4 | +28.9 |
+| Transcended | 326 | +310.9 | +297.6 | +28.7 |
+| Asian Invasion | 308 | +338.4 | +284.4 | +28.6 |
+| Once Divine Gaming | 315 | +327.3 | +280.1 | +28.4 |
+| NetanYAHOO | 323 | +314.9 | +343.5 | +28.2 |
+| Double Dink | 329 | +308.2 | +280.7 | +28.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -77,10 +77,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-15 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -114.2 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
-| 2026-05-29 | GoonAssOldheads | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -247.8 | AIDAN_, CJsInferno, Verzuh, c1n, kerflompnatr |
-| 2026-05-27 | Tractors | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -298.7 | AIDAN_, CJsInferno, PG37, Verzuh, c1n, kerflompnatr |
+| 2026-05-29 | GoonAssOldheads | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -247.9 | AIDAN_, CJsInferno, Verzuh, c1n, kerflompnatr |
+| 2026-05-27 | Tractors | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -298.8 | AIDAN_, CJsInferno, PG37, Verzuh, c1n, kerflompnatr |
 | 2026-05-22 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.03 | 0.23 | +22.0 | AIDAN_, CJsInferno, PG37, Verzuh, c1n |
-| 2026-05-20 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.22 | +324.0 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
+| 2026-05-20 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.22 | +324.1 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
 | 2026-05-15 | DownTown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -137.2 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
 | 2026-05-13 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.01 | 0.17 | +157.6 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
 | 2026-05-08 | Potential to Stack Dough | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +360.4 | AIDAN_, CJsInferno, PG37, Verzuh, c1n |

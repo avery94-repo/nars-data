@@ -4,14 +4,14 @@ Roster: righteouss, slickeezQQ, Tubba, csR, slicey
 NARS Rank: 357 of 506
 
 Final Rating: 1159.7
-Seeded Start: 1249.3
-H2H Adjustment: -89.6
+Seeded Start: 1249.2
+H2H Adjustment: -89.5
 
-Final Rating (1159.7) = Seeded Start (1249.3) + H2H Adjustment (-89.6)
+Final Rating (1159.7) = Seeded Start (1249.2) + H2H Adjustment (-89.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.107 x 1400 = 1249.3
+                = 1100 + 0.107 x 1400 = 1249.2
 
 seed_factor 0.107 = 0.25 x Tier Exposure (0.053) + 0.50 x Quality Wins (0.026) + 0.25 x Opponent Network (0.322)
 
@@ -24,9 +24,9 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.107 | 1249.3 | - |
+| Now | 0.107 | 1249.2 | - |
 | +30 days | 0.075 | 1205.6 | -43.7 |
-| +60 days | 0.063 | 1187.5 | -61.8 |
+| +60 days | 0.063 | 1187.5 | -61.7 |
 | +90 days | 0.043 | 1159.6 | -89.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.053 vs 0.096 average, gap -0.043). Matching that average is worth about 15.0 seed points.
@@ -55,10 +55,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Lynnsanity | 189 | +340.3 | +345.4 | +31.1 |
 | No Leaders Please | 190 | +339.7 | +345.2 | +31.1 |
 | Alternate Earth | 186 | +344.3 | +366.1 | +30.8 |
-| ABG Esports | 196 | +329.0 | +338.1 | +30.6 |
+| ABG Esports | 196 | +329.1 | +338.1 | +30.6 |
 | UncsStillGotIt | 191 | +339.6 | +362.9 | +30.4 |
-| GRIT | 201 | +321.4 | +294.7 | +29.9 |
-| O Fire | 198 | +328.8 | +347.7 | +29.8 |
+| GRIT | 201 | +321.5 | +294.7 | +29.9 |
+| O Fire | 198 | +328.8 | +347.8 | +29.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -79,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-27 | Real Hustle Club | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -39.9 | Tubba, csR, righteouss, slicey, slickeezQQ |
-| 2026-08-21 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.04 | 0.85 | +126.9 | Tubba, csR, righteouss, slicey, slickeezQQ |
+| 2026-08-21 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.04 | 0.85 | +127.0 | Tubba, csR, righteouss, slicey, slickeezQQ |
 | 2026-08-19 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.17 | 0.84 | +54.0 | Tubba, csR, righteouss, slicey, slickeezQQ |
 | 2026-08-14 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.06 | 0.81 | +102.6 | Tubba, csR, ndz_, righteouss, slickeezQQ |
 | 2026-08-12 | Distinguished Ducks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -109.4 | Tubba, ndz_, righteouss, slicey, slickeezQQ |

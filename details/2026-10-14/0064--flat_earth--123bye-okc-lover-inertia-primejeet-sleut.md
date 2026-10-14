@@ -3,11 +3,11 @@ Team Name: flat earth
 Roster: 123bye, okc-lover, inertia, PrimeJeet, sleuth
 NARS Rank: 64 of 506
 
-Final Rating: 1826.5
+Final Rating: 1826.6
 Seeded Start: 1402.5
-H2H Adjustment: +424.0
+H2H Adjustment: +424.1
 
-Final Rating (1826.5) = Seeded Start (1402.5) + H2H Adjustment (+424.0)
+Final Rating (1826.6) = Seeded Start (1402.5) + H2H Adjustment (+424.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.216 | 1402.5 | - |
 | +30 days | 0.210 | 1393.8 | -8.7 |
 | +60 days | 0.202 | 1383.4 | -19.1 |
-| +90 days | 0.193 | 1370.2 | -32.3 |
+| +90 days | 0.193 | 1370.3 | -32.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.234 average, gap -0.174). Matching that average is worth about 121.8 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| DUMBO | 63 | 1827.1 | +0.6 | +101.0 |
-| academy 4 gifted children | 62 | 1829.1 | +2.6 | +94.6 |
-| Sedated | 61 | 1831.7 | +5.2 | +95.0 |
-| F5 Esports | 60 | 1835.3 | +8.8 | +100.2 |
-| Beyond Limits | 59 | 1852.5 | +26.0 | +102.6 |
+| DUMBO | 63 | 1827.1 | +0.5 | +101.0 |
+| academy 4 gifted children | 62 | 1829.2 | +2.6 | +94.6 |
+| Sedated | 61 | 1831.8 | +5.2 | +95.0 |
+| F5 Esports | 60 | 1835.5 | +8.9 | +100.2 |
+| Beyond Limits | 59 | 1852.7 | +26.1 | +102.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NuTorious | 17 | +339.2 | +157.1 | +16.2 |
-| Old Meta | 15 | +349.7 | +189.7 | +16.0 |
-| FarmVille | 16 | +341.1 | +209.0 | +15.3 |
-| Villainous | 18 | +334.2 | +205.1 | +14.9 |
-| Iowa Stormboar | 21 | +289.4 | +194.0 | +13.1 |
-| Zomblers | 22 | +288.2 | +194.4 | +13.1 |
-| qcclan | 20 | +319.7 | +167.9 | +10.0 |
-| MASTER ONE | 19 | +333.0 | +162.7 | +8.8 |
-| duck crew | 23 | +269.6 | +131.2 | +3.4 |
-| Olympus | 25 | +213.2 | +147.0 | +2.7 |
+| NuTorious | 17 | +339.3 | +157.2 | +16.2 |
+| Old Meta | 15 | +349.6 | +189.7 | +16.0 |
+| FarmVille | 16 | +341.3 | +209.0 | +15.3 |
+| Villainous | 18 | +334.3 | +205.2 | +14.9 |
+| Iowa Stormboar | 21 | +289.5 | +194.0 | +13.1 |
+| Zomblers | 22 | +288.3 | +194.4 | +13.1 |
+| qcclan | 20 | +319.6 | +167.9 | +10.0 |
+| MASTER ONE | 19 | +332.9 | +162.7 | +8.7 |
+| duck crew | 23 | +269.5 | +131.2 | +3.4 |
+| Olympus | 25 | +213.2 | +147.0 | +2.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +277.1 points at current ratings.
 
@@ -84,7 +84,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.06 | 0.82 | +39.7 | 123bye, inertia, okc-lover, pungsy, sleuth |
 | 2026-08-16 | The Vicious Kitties | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.81 | +128.5 | 123bye, PrimeJeet, inertia, okc-lover, sigh |
 | 2026-08-16 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.00 | +62.5 | 123bye, PrimeJeet, okc-lover, sigh, sleuth |
-| 2026-08-16 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.00 | +47.9 | 123bye, PrimeJeet, okc-lover, sigh, sleuth |
+| 2026-08-16 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.00 | +48.0 | 123bye, PrimeJeet, okc-lover, sigh, sleuth |
 | 2026-08-16 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.09 | 0.81 | +66.9 | 123bye, inertia, okc-lover, sigh, sleuth |
 | 2026-08-12 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -94.2 | PrimeJeet, altar, inertia, okc-lover, sigh |
 | 2026-07-29 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.09 | 0.68 | +12.8 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |

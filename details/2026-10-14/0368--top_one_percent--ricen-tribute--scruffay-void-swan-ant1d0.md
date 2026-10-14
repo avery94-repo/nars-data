@@ -3,11 +3,11 @@ Team Name: Top One Percent
 Roster: ricen, Tribute-, Scruffay, Void-Swan, Ant1d0te_cs
 NARS Rank: 368 of 506
 
-Final Rating: 1137.0
+Final Rating: 1136.9
 Seeded Start: 1235.5
-H2H Adjustment: -98.5
+H2H Adjustment: -98.6
 
-Final Rating (1137.0) = Seeded Start (1235.5) + H2H Adjustment (-98.5)
+Final Rating (1136.9) = Seeded Start (1235.5) + H2H Adjustment (-98.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Line Steppers | 367 | 1138.8 | +1.8 | +168.4 |
-| Mongolian Tractor | 366 | 1138.9 | +1.9 | +170.1 |
-| iNSTINCT | 365 | 1145.9 | +8.9 | +165.1 |
-| WaterDrinkers | 364 | 1146.1 | +9.1 | +174.3 |
-| OnThaGear | 363 | 1146.4 | +9.4 | +174.6 |
+| Line Steppers | 367 | 1138.8 | +1.9 | +168.4 |
+| Mongolian Tractor | 366 | 1138.9 | +2.0 | +170.1 |
+| iNSTINCT | 365 | 1145.9 | +9.0 | +165.1 |
+| WaterDrinkers | 364 | 1146.1 | +9.2 | +174.3 |
+| OnThaGear | 363 | 1146.4 | +9.5 | +174.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GRIT | 201 | +344.1 | +304.5 | +32.2 |
-| Bad Jawn | 200 | +345.1 | +354.9 | +31.2 |
-| noname | 208 | +330.3 | +326.5 | +30.6 |
-| Kings Gambit | 210 | +324.9 | +327.5 | +30.0 |
-| AscendentEsport | 206 | +330.9 | +351.4 | +29.4 |
-| Veniversum | 211 | +322.4 | +345.2 | +29.2 |
-| FlockMunchers | 212 | +322.1 | +345.3 | +29.1 |
-| GOYPEEKING | 216 | +313.0 | +302.0 | +29.0 |
-| Defaulting | 215 | +314.7 | +331.4 | +28.6 |
-| VARTOVIK | 217 | +312.9 | +345.1 | +27.9 |
+| GRIT | 201 | +344.3 | +304.6 | +32.2 |
+| Bad Jawn | 200 | +345.2 | +354.9 | +31.2 |
+| noname | 208 | +330.4 | +326.5 | +30.6 |
+| Kings Gambit | 210 | +325.0 | +327.5 | +30.0 |
+| AscendentEsport | 207 | +331.0 | +351.4 | +29.4 |
+| Veniversum | 211 | +322.5 | +345.2 | +29.2 |
+| FlockMunchers | 212 | +322.2 | +345.3 | +29.1 |
+| GOYPEEKING | 216 | +313.1 | +302.0 | +29.0 |
+| Defaulting | 215 | +314.8 | +331.4 | +28.6 |
+| VARTOVIK | 217 | +313.0 | +345.1 | +27.9 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -84,7 +84,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Feels MAIN Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.08 | 0.90 | +72.4 | Ant1d0te_cs, Tribute-, Void-Swan, ricen, stephhxx |
 | 2026-08-07 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.05 | 0.86 | +63.4 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, stephhxx |
 | 2026-08-05 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -54.2 | Ant1d0te_cs, Scruffay, Tribute-, Void-Swan, stephhxx |
-| 2026-07-31 | Storm Surge | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -132.3 | Ant1d0te_cs, Scruffay, Tribute-, ricen, stephhxx |
+| 2026-07-31 | Storm Surge | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -132.4 | Ant1d0te_cs, Scruffay, Tribute-, ricen, stephhxx |
 | 2026-07-29 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -198.1 | Ant1d0te_cs, Scruffay, Tribute-, ricen, stephhxx |
 | 2026-07-24 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.07 | 0.75 | +210.0 | Ant1d0te_cs, Tribute-, Void-Swan, ricen, stephhxx |
 | 2026-07-16 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -45.2 | Ant1d0te_cs, Scruffay, Tribute-, ricen, stephhxx |

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.147 | 1305.8 | - |
 | +30 days | 0.153 | 1313.8 | +8.0 |
 | +60 days | 0.155 | 1317.4 | +11.6 |
-| +90 days | 0.160 | 1324.6 | +18.8 |
+| +90 days | 0.161 | 1324.7 | +19.0 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.448 vs 0.628 average, gap -0.180). Matching that average is worth about 63.0 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | DESPAIR | 49 | 1888.7 | +1.5 | +109.7 |
-| Skyline | 48 | 1895.5 | +8.3 | +110.9 |
+| Skyline | 48 | 1895.6 | +8.4 | +111.0 |
 | FLOW STATE | 47 | 1897.4 | +10.2 | +116.5 |
-| Xiaoma Gaming | 46 | 1911.5 | +24.3 | +122.9 |
-| Swole Patrol | 45 | 1914.4 | +27.2 | +106.1 |
+| Xiaoma Gaming | 46 | 1911.7 | +24.5 | +123.0 |
+| Swole Patrol | 45 | 1914.5 | +27.3 | +106.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | +320.3 | +178.9 | +18.2 |
+| Brahmas | 14 | +320.5 | +179.0 | +18.3 |
 | Old Meta | 15 | +289.0 | +205.2 | +15.2 |
-| FarmVille | 16 | +280.4 | +223.4 | +14.2 |
-| NuTorious | 17 | +278.5 | +172.0 | +14.2 |
-| Villainous | 18 | +273.5 | +218.8 | +13.2 |
-| Iowa Stormboar | 21 | +228.7 | +203.3 | +6.7 |
-| Zomblers | 22 | +227.5 | +203.5 | +6.5 |
+| FarmVille | 16 | +280.7 | +223.4 | +14.3 |
+| NuTorious | 17 | +278.7 | +172.0 | +14.2 |
+| Villainous | 18 | +273.7 | +218.9 | +13.2 |
+| Iowa Stormboar | 21 | +228.9 | +203.4 | +6.7 |
+| Zomblers | 22 | +227.7 | +203.6 | +6.5 |
 | qcclan | 20 | +259.0 | +181.4 | +5.8 |
 | MASTER ONE | 19 | +272.3 | +177.2 | +5.2 |
 | DESPAIR | 49 | +1.5 | +109.7 | -0.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +336.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +336.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Grandpa Berets (+0.0), Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0).
 

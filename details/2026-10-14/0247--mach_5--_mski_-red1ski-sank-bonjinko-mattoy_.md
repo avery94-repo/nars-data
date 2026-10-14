@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.169 | 1337.0 | - |
-| +30 days | 0.151 | 1311.6 | -25.5 |
+| +30 days | 0.151 | 1311.5 | -25.4 |
 | +60 days | 0.134 | 1286.9 | -50.1 |
-| +90 days | 0.101 | 1241.8 | -95.2 |
+| +90 days | 0.101 | 1241.9 | -95.1 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.085 average, gap -0.011). Matching that average is worth about 3.9 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | 2THRiLL | 246 | 1386.6 | +0.6 | +146.2 |
-| NOVAIR | 245 | 1391.8 | +5.8 | +147.6 |
-| D1NK Esports | 244 | 1392.8 | +6.8 | +150.6 |
+| NOVAIR | 245 | 1391.8 | +5.8 | +147.7 |
+| D1NK Esports | 244 | 1392.7 | +6.7 | +150.7 |
 | OPOZIT | 243 | 1394.8 | +8.8 | +153.3 |
-| NXG Esports | 242 | 1404.0 | +18.0 | +162.8 |
+| NXG Esports | 242 | 1404.1 | +18.1 | +162.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Green Grove Retirement | 94 | +342.6 | +303.8 | +28.2 |
-| NineFlyeSports | 96 | +339.1 | +314.1 | +28.1 |
-| Elusive | 93 | +345.6 | +338.5 | +27.5 |
-| FlyQuest RED | 97 | +334.7 | +324.3 | +26.4 |
-| Axial | 101 | +320.4 | +280.4 | +26.2 |
-| Addice | 102 | +316.5 | +321.7 | +25.2 |
-| New Legends | 103 | +309.4 | +325.1 | +24.2 |
-| Holy Squid Empire | 108 | +292.7 | +272.8 | +22.9 |
-| Black Dragon Society | 109 | +284.7 | +289.0 | +21.5 |
-| Hadouken | 100 | +323.8 | +248.2 | +21.4 |
+| Green Grove Retirement | 93 | +342.6 | +303.9 | +28.2 |
+| NineFlyeSports | 95 | +339.2 | +314.3 | +28.1 |
+| FlyQuest RED | 96 | +334.8 | +324.5 | +26.4 |
+| Axial | 100 | +320.6 | +280.6 | +26.3 |
+| Addice | 101 | +316.7 | +321.9 | +25.2 |
+| New Legends | 102 | +309.5 | +325.3 | +24.2 |
+| Holy Squid Empire | 107 | +292.9 | +273.0 | +22.9 |
+| Black Dragon Society | 108 | +284.7 | +289.1 | +21.6 |
+| Hadouken | 99 | +323.8 | +248.3 | +21.5 |
+| Bills | 98 | +325.9 | +248.9 | +20.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +551.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +551.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 
@@ -76,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | We Play Naked | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.11 | 0.96 | +27.0 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
 | 2026-09-07 | Benadryl Abusers | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.10 | 0.95 | +15.1 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
 | 2026-09-04 | Kevin James Fan Club | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -25.8 | BonJinko, Mattoy_, insightz, red1ski, sank |
-| 2026-08-26 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +87.2 | BonJinko, Mattoy_, insightz, red1ski, sank |
+| 2026-08-26 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +87.3 | BonJinko, Mattoy_, insightz, red1ski, sank |
 | 2026-08-21 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -48.6 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, insightz |
 | 2026-08-19 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.09 | 0.82 | +83.6 | Mattoy_, _Mski_, insightz, red1ski, sank |
 | 2026-08-14 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.09 | 0.79 | +139.1 | Mattoy_, _Mski_, insightz, red1ski, sank |

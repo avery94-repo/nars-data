@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.087 | 1221.2 | - |
 | +30 days | 0.088 | 1223.6 | +2.5 |
 | +60 days | 0.089 | 1224.4 | +3.2 |
-| +90 days | 0.090 | 1225.7 | +4.5 |
+| +90 days | 0.090 | 1225.7 | +4.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.070 vs 0.072 average, gap -0.002). Matching that average is worth about 0.7 seed points.
 
@@ -42,23 +42,23 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Transcended | 326 | 1223.3 | +0.8 | +85.2 |
 | innerFire | 325 | 1224.2 | +1.7 | +85.1 |
 | Sultans of Swing | 324 | 1225.0 | +2.5 | +80.6 |
-| NetanYAHOO | 323 | 1227.3 | +4.8 | +93.7 |
-| The Ohio Meat Wagon | 322 | 1228.2 | +5.7 | +81.1 |
+| NetanYAHOO | 323 | 1227.3 | +4.8 | +93.8 |
+| The Ohio Meat Wagon | 322 | 1228.1 | +5.6 | +81.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | WhiteBoyWinter | 155 | +344.2 | +150.8 | +15.3 |
-| offBalance | 165 | +319.8 | +148.9 | +14.2 |
-| Pug Palace | 167 | +313.3 | +151.7 | +13.8 |
-| BucketJonsBoys | 172 | +310.5 | +144.3 | +13.7 |
+| offBalance | 165 | +319.8 | +149.0 | +14.2 |
+| Pug Palace | 167 | +313.4 | +151.8 | +13.8 |
+| BucketJonsBoys | 172 | +310.6 | +144.3 | +13.7 |
 | Shaboing Boing Bandits | 173 | +308.1 | +158.6 | +13.5 |
-| Armored Talent | 174 | +307.3 | +162.7 | +13.4 |
+| Armored Talent | 174 | +307.4 | +162.7 | +13.4 |
 | Firstwave | 175 | +304.5 | +144.0 | +13.3 |
 | Order Zero | 156 | +342.3 | +133.4 | +13.1 |
 | APEX | 176 | +299.4 | +148.4 | +13.0 |
-| Shadow Wizard Money Gang | 180 | +293.4 | +172.6 | +12.4 |
+| Shadow Wizard Money Gang | 180 | +293.6 | +172.7 | +12.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +257.7 points at current ratings.
 

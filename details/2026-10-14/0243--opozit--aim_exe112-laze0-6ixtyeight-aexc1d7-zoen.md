@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| NXG Esports | 242 | 1404.0 | +9.2 | +145.5 |
+| NXG Esports | 242 | 1404.1 | +9.3 | +145.5 |
 | FUELED BY HATE | 241 | 1404.3 | +9.5 | +139.6 |
 | enigma | 240 | 1405.4 | +10.6 | +137.8 |
-| brb grinding minecraft | 239 | 1405.5 | +10.7 | +147.6 |
+| brb grinding minecraft | 239 | 1405.5 | +10.7 | +147.7 |
 | Casual Mature Gamers | 238 | 1405.9 | +11.1 | +148.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Green Grove Retirement | 94 | +333.8 | +268.8 | +24.7 |
-| NineFlyeSports | 96 | +330.3 | +278.2 | +24.6 |
-| Elusive | 93 | +336.8 | +299.8 | +24.3 |
-| FlyQuest RED | 97 | +325.9 | +287.4 | +23.1 |
-| Axial | 101 | +311.6 | +248.2 | +22.7 |
-| Addice | 102 | +307.7 | +285.4 | +21.9 |
-| New Legends | 103 | +300.6 | +288.7 | +21.0 |
-| Holy Squid Empire | 108 | +283.9 | +241.9 | +19.4 |
-| Hadouken | 100 | +315.0 | +219.2 | +18.3 |
-| Black Dragon Society | 109 | +275.9 | +256.7 | +18.1 |
+| Green Grove Retirement | 93 | +333.8 | +268.9 | +24.7 |
+| NineFlyeSports | 95 | +330.4 | +278.4 | +24.7 |
+| FlyQuest RED | 96 | +326.0 | +287.5 | +23.1 |
+| Axial | 100 | +311.8 | +248.4 | +22.7 |
+| Addice | 101 | +307.9 | +285.6 | +21.9 |
+| New Legends | 102 | +300.7 | +288.8 | +21.0 |
+| Holy Squid Empire | 107 | +284.1 | +242.0 | +19.4 |
+| Hadouken | 99 | +315.0 | +219.3 | +18.3 |
+| Black Dragon Society | 108 | +275.9 | +256.7 | +18.1 |
+| Bills | 98 | +317.1 | +219.8 | +17.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +478.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +478.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -71,7 +71,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-15 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -77.3 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
 | 2026-09-11 | Kodaks Lettuce | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +91.0 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
-| 2026-09-10 | MONARCH | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.07 | 0.97 | +50.2 | 6IXTYEIGHT, Aexc1d7, clrrrr, laze0, zoenn |
+| 2026-09-10 | MONARCH | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.07 | 0.97 | +50.3 | 6IXTYEIGHT, Aexc1d7, clrrrr, laze0, zoenn |
 | 2026-09-05 | No Future Lifes Over | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -160.0 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, flowzsq, laze0, zoenn |
 | 2026-09-04 | Sultans of Swing | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.04 | 0.93 | +145.6 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
 | 2026-09-03 | Nomads | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +137.1 | 1ImagiNe116, 6IXTYEIGHT, clrrrr, laze0, zoenn |

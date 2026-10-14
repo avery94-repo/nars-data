@@ -3,11 +3,11 @@ Team Name: F5 Esports
 Roster: kvalme, Michael_Weki, ainakano, atyla, 1bright
 NARS Rank: 60 of 506
 
-Final Rating: 1835.3
+Final Rating: 1835.5
 Seeded Start: 1611.1
-H2H Adjustment: +224.2
+H2H Adjustment: +224.4
 
-Final Rating (1835.3) = Seeded Start (1611.1) + H2H Adjustment (+224.2)
+Final Rating (1835.5) = Seeded Start (1611.1) + H2H Adjustment (+224.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.365 | 1611.1 | - |
 | +30 days | 0.343 | 1580.3 | -30.8 |
 | +60 days | 0.326 | 1556.1 | -54.9 |
-| +90 days | 0.297 | 1516.4 | -94.7 |
+| +90 days | 0.298 | 1516.9 | -94.1 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.215 vs 0.238 average, gap -0.023). Matching that average is worth about 16.1 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Beyond Limits | 59 | 1852.5 | +17.2 | +82.1 |
-| feet67 | 58 | 1857.5 | +22.2 | +83.9 |
-| Omen Esports | 57 | 1857.8 | +22.5 | +86.5 |
-| Bird Squishers | 56 | 1863.9 | +28.6 | +79.6 |
-| Evade Gaming | 55 | 1865.1 | +29.8 | +72.8 |
+| Beyond Limits | 59 | 1852.7 | +17.2 | +82.2 |
+| feet67 | 58 | 1857.5 | +22.0 | +83.9 |
+| Omen Esports | 57 | 1858.0 | +22.5 | +86.5 |
+| Bird Squishers | 56 | 1863.9 | +28.4 | +79.6 |
+| Evade Gaming | 55 | 1865.1 | +29.6 | +72.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Old Meta | 15 | +340.9 | +150.4 | +12.6 |
+| Old Meta | 15 | +340.7 | +150.5 | +12.6 |
 | NuTorious | 17 | +330.4 | +124.3 | +12.6 |
-| FarmVille | 16 | +332.3 | +166.1 | +12.2 |
-| Villainous | 18 | +325.4 | +163.1 | +11.8 |
-| Iowa Stormboar | 21 | +280.6 | +154.8 | +10.0 |
-| Zomblers | 22 | +279.4 | +155.2 | +10.0 |
-| qcclan | 20 | +310.9 | +133.2 | +7.6 |
-| MASTER ONE | 19 | +324.2 | +128.8 | +6.7 |
-| duck crew | 23 | +260.8 | +103.7 | +1.9 |
-| Olympus | 25 | +204.4 | +117.3 | +0.7 |
+| FarmVille | 16 | +332.4 | +166.2 | +12.2 |
+| Villainous | 18 | +325.4 | +163.2 | +11.8 |
+| Iowa Stormboar | 21 | +280.6 | +154.9 | +10.0 |
+| Zomblers | 22 | +279.4 | +155.3 | +10.0 |
+| qcclan | 20 | +310.7 | +133.2 | +7.6 |
+| MASTER ONE | 19 | +324.0 | +128.9 | +6.7 |
+| duck crew | 23 | +260.6 | +103.8 | +1.9 |
+| Olympus | 25 | +204.3 | +117.3 | +0.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +215.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +215.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Muncle (+0.0), GOMI dot CLUB (+0.0), SuperSoakerClub (+0.0), we get it back (+0.0), RejexEsports (+0.0).
 
@@ -75,10 +75,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-21 | Omen Esports | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.53 | 1.55 | +79.5 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-18 | Overtake Sector | L | 1-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 0.00 | 0.00 | -0.6 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-14 | academy 4 gifted children | L |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.54 | 0.00 | 0.00 | -68.1 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
-| 2026-09-14 | academy 4 gifted children | W | 2-1 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 1.00 | 1.46 | 1.00 | 1.45 | 0.44 | 1.45 | +62.1 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
+| 2026-09-14 | academy 4 gifted children | W | 2-1 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 1.00 | 1.46 | 1.00 | 1.45 | 0.44 | 1.45 | +62.2 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-08 | FlyQuest RED | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.27 | 0.56 | 1.27 | +105.1 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-07 | Wolves | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.26 | 0.20 | 1.26 | +100.0 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
-| 2026-09-05 | Demolition | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.33 | 1.00 | 1.25 | 0.19 | 1.25 | +51.8 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
+| 2026-09-05 | Demolition | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.33 | 1.00 | 1.25 | 0.19 | 1.25 | +51.8 | MichaeI_Weki, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-08-23 | Entertainment Cheese | L | W/O | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -140.2 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 | 2026-08-23 | Elusive | L | W/O | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -82.0 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |
 | 2026-08-23 | Olympus | L | W/O | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.20 | 1.00 | 1.02 | 0.00 | 0.00 | -1.4 | 1bright, MichaeI_Weki, Michael_Weki, atyla, kvalme |

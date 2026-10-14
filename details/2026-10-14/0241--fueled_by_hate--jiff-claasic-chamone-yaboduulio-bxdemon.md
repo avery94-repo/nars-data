@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.186 | 1359.8 | - |
 | +30 days | 0.164 | 1329.2 | -30.7 |
 | +60 days | 0.147 | 1305.6 | -54.2 |
-| +90 days | 0.117 | 1263.3 | -96.6 |
+| +90 days | 0.117 | 1263.3 | -96.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.046 vs 0.025 average, gap +0.021). Matching that average is worth about 0.0 seed points.
 
@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | enigma | 240 | 1405.4 | +1.1 | +131.4 |
 | brb grinding minecraft | 239 | 1405.5 | +1.2 | +140.7 |
-| Casual Mature Gamers | 238 | 1405.9 | +1.6 | +141.6 |
+| Casual Mature Gamers | 238 | 1405.9 | +1.6 | +141.7 |
 | Fortis Fortuna Adiuvat | 237 | 1406.3 | +2.0 | +137.4 |
 | BD Lamron | 236 | 1409.6 | +5.3 | +129.2 |
 
@@ -50,15 +50,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Fire Nation | 90 | +345.4 | +250.4 | +25.0 |
-| Fathom Gaming | 91 | +341.0 | +244.9 | +24.9 |
+| Fathom Gaming | 91 | +341.1 | +245.0 | +24.9 |
 | Overtake Sector | 89 | +346.6 | +318.9 | +23.6 |
-| Green Grove Retirement | 94 | +324.3 | +257.2 | +23.3 |
-| NineFlyeSports | 96 | +320.8 | +266.1 | +23.2 |
-| Elusive | 93 | +327.3 | +286.7 | +23.0 |
-| FlyQuest RED | 97 | +316.4 | +274.8 | +21.7 |
-| Axial | 101 | +302.1 | +237.6 | +21.0 |
-| Addice | 102 | +298.2 | +272.8 | +20.3 |
-| New Legends | 103 | +291.1 | +275.8 | +19.3 |
+| Green Grove Retirement | 93 | +324.3 | +257.3 | +23.3 |
+| NineFlyeSports | 95 | +320.9 | +266.2 | +23.2 |
+| FlyQuest RED | 96 | +316.5 | +274.9 | +21.7 |
+| Axial | 100 | +302.3 | +237.6 | +21.0 |
+| Addice | 101 | +298.4 | +272.9 | +20.3 |
+| New Legends | 102 | +291.2 | +275.9 | +19.4 |
+| Holy Squid Empire | 107 | +274.6 | +231.5 | +17.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +460.6 points at current ratings.
 
@@ -90,10 +90,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.10 | 0.85 | +130.5 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-07-31 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.10 | 0.81 | +2.1 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-07-29 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.13 | 0.79 | +136.2 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
-| 2026-07-24 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +178.4 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
+| 2026-07-24 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.04 | 0.75 | +178.5 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-07-22 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.04 | 0.74 | +379.3 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
 | 2026-07-15 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -143.3 | CHAMONE, Jiff, Swifter, YaboDuulio, bxdEMON, claasic |
-| 2026-05-22 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -230.9 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
+| 2026-05-22 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -231.0 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-20 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +275.2 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-15 | Storm Surge | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -294.7 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-13 | Sedated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -120.7 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |

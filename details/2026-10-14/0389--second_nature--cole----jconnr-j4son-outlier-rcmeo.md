@@ -13,7 +13,7 @@ Final Rating (1082.1) = Seeded Start (1230.9) + H2H Adjustment (-148.8)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.093 x 1400 = 1230.9
 
-seed_factor 0.093 = 0.25 x Tier Exposure (0.045) + 0.50 x Quality Wins (0.019) + 0.25 x Opponent Network (0.291)
+seed_factor 0.093 = 0.25 x Tier Exposure (0.044) + 0.50 x Quality Wins (0.019) + 0.25 x Opponent Network (0.291)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -25,11 +25,11 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.093 | 1230.9 | - |
-| +30 days | 0.067 | 1193.5 | -37.4 |
-| +60 days | 0.057 | 1179.8 | -51.1 |
+| +30 days | 0.067 | 1193.5 | -37.3 |
+| +60 days | 0.057 | 1179.8 | -51.0 |
 | +90 days | 0.040 | 1156.0 | -74.9 |
 
-Weakest lever vs the 5 teams ranked above: Tier Exposure (0.045 vs 0.072 average, gap -0.027). Matching that average is worth about 9.4 seed points.
+Weakest lever vs the 5 teams ranked above: Tier Exposure (0.044 vs 0.072 average, gap -0.028). Matching that average is worth about 9.8 seed points.
 
 - Tier Exposure drivers: S58 NA Main B - Regular Season (2026-08-26) 1.01; S57 NA Main Central - Regular Season (2026-05-22) 0.26
 - Quality Wins drivers: beat Macs Snacks at S58 NA Main B - Regular Season (2026-07-29) 0.09; beat Friendly Fire at S58 NA Main B - Regular Season (2026-08-19) 0.05; beat gooshedd at S58 NA Main B - Regular Season (2026-08-26) 0.05
@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Kahoot Squad | 388 | 1082.6 | +0.5 | +167.5 |
-| Flow Esports | 387 | 1083.6 | +1.5 | +170.0 |
+| Flow Esports | 387 | 1083.5 | +1.4 | +170.0 |
 | MXA | 386 | 1090.7 | +8.6 | +165.0 |
 | Exnitas | 385 | 1093.2 | +11.1 | +169.9 |
 | Gregs New Cut | 384 | 1096.6 | +14.5 | +166.9 |
@@ -53,12 +53,12 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | UltimateDarklordWizardz | 227 | +345.0 | +355.6 | +31.2 |
 | YHTR | 235 | +331.6 | +340.2 | +30.4 |
 | FUELED BY HATE | 241 | +322.2 | +301.8 | +30.2 |
-| Fortis Fortuna Adiuvat | 237 | +324.2 | +322.4 | +30.0 |
-| NXG Esports | 242 | +321.9 | +333.7 | +30.0 |
+| Fortis Fortuna Adiuvat | 237 | +324.2 | +322.3 | +30.0 |
+| NXG Esports | 242 | +322.0 | +333.7 | +30.0 |
 | brb grinding minecraft | 239 | +323.4 | +345.1 | +29.9 |
 | Casual Mature Gamers | 238 | +323.8 | +351.7 | +29.1 |
-| Elisir Esports | 225 | +346.3 | +287.4 | +27.9 |
-| FRAGDEMONS | 228 | +344.3 | +286.6 | +27.4 |
+| Elisir Esports | 225 | +346.4 | +287.4 | +27.9 |
+| FRAGDEMONS | 228 | +344.2 | +286.6 | +27.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -68,7 +68,7 @@ Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs UnitedStatesArmy Esports (2026-04-22): expires in 4 days [Quality Wins 0.00, Opponent Network 0.03]
 - S57 NA Main Central - Regular Season vs we get it back (2026-05-01): expires in 13 days [Quality Wins 0.00, Opponent Network 0.10]
 - S57 NA Main Central - Regular Season vs 2THRiLL (2026-05-06): expires in 18 days [Quality Wins 0.00, Opponent Network 0.14]
-- S57 NA Main Central - Regular Season vs ThirdSite (2026-05-08): expires in 20 days [Quality Wins 0.04, Opponent Network 0.16]
+- S57 NA Main Central - Regular Season vs ThirdSite (2026-05-08): expires in 20 days [Quality Wins 0.04, Opponent Network 0.15]
 - S57 NA Main Central - Regular Season vs DKR Esports (2026-05-14): expires in 26 days [Quality Wins 0.02, Opponent Network 0.20]
 - S57 NA Main Central - Regular Season vs ALL IN (2026-05-22): expires in 34 days [Tier Exposure 0.26, Quality Wins 0.01, Opponent Network 0.26]
 
@@ -79,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-26 | gooshedd | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.05 | 1.01 | +68.3 | Cole---, Outlier, Ultracarrick, j4son, kaz |
 | 2026-08-21 | HammerHeads | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -67.7 | Cole---, Outlier, Ultracarrick, j4son, kaz |
-| 2026-08-19 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.05 | 0.95 | +91.1 | Cole---, Outlier, Ultracarrick, j4son, kaz |
+| 2026-08-19 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.05 | 0.95 | +91.2 | Cole---, Outlier, Ultracarrick, j4son, kaz |
 | 2026-08-14 | Florida Man | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -60.3 | Cole---, Outlier, Ultracarrick, j4son, rcmeo |
 | 2026-08-12 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -54.5 | Cole---, JConnR, Outlier, Ultracarrick, j4son |
 | 2026-08-07 | Kaos | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.00 | 0.00 | -115.2 | Outlier, Ultracarrick, j4son, kaz, rcmeo |
@@ -92,9 +92,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -245.6 | Cole---, JConnR, Outlier, Ultracarrick, kaz |
 | 2026-05-22 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.01 | 0.26 | +163.7 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-20 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -185.3 | Cole---, JConnR, Outlier, j4son, rcmeo |
-| 2026-05-14 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.02 | 0.20 | +288.2 | Cole---, JConnR, Outlier, j4son, rcmeo |
+| 2026-05-14 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.02 | 0.20 | +288.3 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-13 | Pro Lapse | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -377.5 | Cole---, JConnR, Outlier, j4son, rcmeo |
-| 2026-05-08 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.04 | 0.16 | +194.1 | Cole---, JConnR, Outlier, j4son, rcmeo |
+| 2026-05-08 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.04 | 0.15 | +194.1 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-06 | 2THRiLL | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +263.8 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-05 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -292.1 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-01 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +4.5 | Cole---, JConnR, Outlier, j4son, rcmeo |

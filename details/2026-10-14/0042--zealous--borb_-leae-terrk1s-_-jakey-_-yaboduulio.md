@@ -3,11 +3,11 @@ Team Name: Zealous
 Roster: borb_, leae, terrk1s, _-JAKEY-_, YaboDuulio
 NARS Rank: 42 of 506
 
-Final Rating: 1941.7
+Final Rating: 1941.8
 Seeded Start: 1149.4
-H2H Adjustment: +792.3
+H2H Adjustment: +792.4
 
-Final Rating (1941.7) = Seeded Start (1149.4) + H2H Adjustment (+792.3)
+Final Rating (1941.8) = Seeded Start (1149.4) + H2H Adjustment (+792.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Locally Hated | 41 | 1946.6 | +4.9 | +174.2 |
-| OnlyFans | 40 | 1947.0 | +5.3 | +171.4 |
-| ZETTA | 39 | 1970.0 | +28.3 | +182.4 |
-| North Forge | 38 | 1971.2 | +29.5 | +189.5 |
-| unreal nightmare | 37 | 1976.6 | +34.9 | +182.7 |
+| Locally Hated | 41 | 1946.7 | +4.9 | +174.2 |
+| OnlyFans | 40 | 1947.0 | +5.2 | +171.4 |
+| ZETTA | 39 | 1970.0 | +28.2 | +182.4 |
+| North Forge | 38 | 1971.4 | +29.6 | +189.5 |
+| unreal nightmare | 37 | 1976.8 | +35.0 | +182.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| regain | 12 | +314.5 | +380.8 | +27.6 |
-| Brahmas | 14 | +265.8 | +273.6 | +20.9 |
-| Detonate | 13 | +305.0 | +337.3 | +20.2 |
-| Old Meta | 15 | +234.5 | +296.9 | +11.8 |
-| FarmVille | 16 | +225.9 | +313.3 | +9.2 |
-| NuTorious | 17 | +224.0 | +258.0 | +8.7 |
-| Villainous | 18 | +219.0 | +306.4 | +6.3 |
-| Zomblers | 22 | +173.0 | +276.2 | -0.0 |
+| regain | 12 | +314.6 | +380.9 | +27.7 |
+| Brahmas | 14 | +265.9 | +273.7 | +20.9 |
+| Detonate | 13 | +305.2 | +337.4 | +20.2 |
+| Old Meta | 15 | +234.4 | +296.9 | +11.8 |
+| FarmVille | 16 | +226.1 | +313.4 | +9.2 |
+| NuTorious | 17 | +224.1 | +258.1 | +8.7 |
+| Villainous | 18 | +219.1 | +306.5 | +6.4 |
+| Zomblers | 22 | +173.1 | +276.2 | -0.0 |
 | Hairy Scary Bandits | 32 | +57.7 | +196.8 | -0.0 |
-| North Forge | 38 | +29.5 | +189.5 | -0.0 |
+| North Forge | 38 | +29.6 | +189.5 | -0.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +634.9 points at current ratings.
 
@@ -82,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-09 | Elation | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.35 | 1.24 | 1.00 | 0.43 | 0.00 | 0.00 | -113.3 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
 | 2026-06-02 | Squeegee | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.38 | 0.00 | 0.00 | -79.4 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
 | 2026-05-31 | Fathom Gaming | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.13 | 0.36 | +309.6 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-05-29 | WhalersOnDaMoon | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.05 | 0.00 | +175.4 | MoonWithaU, YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-05-29 | WhalersOnDaMoon | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.05 | 0.00 | +175.5 | MoonWithaU, YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
 | 2026-05-21 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -178.4 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
 | 2026-05-20 | WhalersOnDaMoon | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +31.1 | Eesti, _-JAKEY-_, borb_, leae, terrk1s |
 | 2026-05-15 | SquadUp | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.04 | 0.21 | +57.1 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |

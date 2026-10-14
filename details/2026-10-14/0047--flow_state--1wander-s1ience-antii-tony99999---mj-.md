@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.256 | 1458.7 | - |
 | +30 days | 0.250 | 1450.5 | -8.2 |
 | +60 days | 0.241 | 1436.8 | -21.9 |
-| +90 days | 0.228 | 1419.1 | -39.6 |
+| +90 days | 0.228 | 1419.3 | -39.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.081 vs 0.182 average, gap -0.101). Matching that average is worth about 70.7 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Xiaoma Gaming | 46 | 1911.5 | +14.1 | +83.9 |
-| Swole Patrol | 45 | 1914.4 | +17.0 | +70.0 |
-| bubibabu | 44 | 1928.6 | +31.2 | +78.3 |
-| Wanted Goons | 43 | 1933.1 | +35.7 | +92.8 |
-| Zealous | 42 | 1941.7 | +44.3 | +73.3 |
+| Xiaoma Gaming | 46 | 1911.7 | +14.3 | +84.0 |
+| Swole Patrol | 45 | 1914.5 | +17.1 | +70.0 |
+| bubibabu | 44 | 1928.7 | +31.3 | +78.3 |
+| Wanted Goons | 43 | 1933.3 | +35.9 | +92.9 |
+| Zealous | 42 | 1941.8 | +44.4 | +73.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | +310.1 | +117.0 | +11.6 |
-| Detonate | 13 | +349.3 | +146.8 | +9.8 |
+| Brahmas | 14 | +310.3 | +117.1 | +11.6 |
+| Detonate | 13 | +349.6 | +146.8 | +9.8 |
 | Old Meta | 15 | +278.8 | +136.2 | +9.5 |
-| FarmVille | 16 | +270.2 | +149.3 | +8.9 |
-| NuTorious | 17 | +268.3 | +113.1 | +8.6 |
-| Villainous | 18 | +263.3 | +146.4 | +8.1 |
-| Iowa Stormboar | 21 | +218.5 | +137.2 | +3.1 |
-| Zomblers | 22 | +217.3 | +137.5 | +3.0 |
+| FarmVille | 16 | +270.5 | +149.3 | +8.9 |
+| NuTorious | 17 | +268.5 | +113.1 | +8.6 |
+| Villainous | 18 | +263.5 | +146.4 | +8.1 |
+| Iowa Stormboar | 21 | +218.7 | +137.3 | +3.1 |
+| Zomblers | 22 | +217.5 | +137.5 | +3.0 |
 | qcclan | 20 | +248.8 | +120.2 | +2.8 |
 | MASTER ONE | 19 | +262.1 | +116.9 | +2.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +209.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +209.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Grandpa Berets (+0.0), Casipanther (+0.0).
 
@@ -77,7 +77,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Costco Family | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +0.3 | --mj-, 1wander, TONY99999, a1mb4t-_-, s1Ience |
 | 2026-09-27 | mas paspas | W | 2-0 | NA Revival | C | faceit-tournament | 1.00 | 1.01 | 1.00 | 1.01 | 0.18 | 1.01 | +107.0 | --mj-, 1wander, TONY99999, a1mb4t-_-, s1Ience |
 | 2026-09-27 | Rejects | W | 1-0 | NA Revival | C | faceit-tournament | 1.00 | 1.01 | 1.00 | 1.01 | 0.16 | 1.01 | +39.6 | --mj-, 1wander, TONY99999, a1mb4t-_-, s1Ience |
-| 2026-09-08 | Hairy Scary Bandits | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.00 | 0.00 | -45.3 | --mj-, 1wander, Antii, TONY99999, s1Ience |
+| 2026-09-08 | Hairy Scary Bandits | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.00 | 0.00 | -45.2 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-09-06 | absolute cinema | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.11 | 0.97 | +66.2 | --mj-, -bpl, 1wander, Antii, TONY99999, s1Ience |
 | 2026-09-04 | Fortis Fortuna Adiuvat | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.11 | 0.96 | +6.9 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-08-28 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.10 | 0.90 | +19.1 | --mj-, 1wander, Antii, TONY99999, s1Ience |
@@ -91,7 +91,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Distinguished Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.06 | 0.76 | +21.9 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-08-05 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.03 | 0.74 | +1.2 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-07-30 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.02 | 1.00 | 0.70 | 0.04 | 0.70 | +17.8 | --mj-, 1wander, Antii, TONY99999, s1Ience |
-| 2026-07-26 | mas paspas | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -74.0 | 1wander, Antii, Clank, TONY99999, s1Ience |
+| 2026-07-26 | mas paspas | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -74.0 | 1wander, Antii, Clank, TONY99999, s1Ience |
 | 2026-07-26 | Tractors | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.14 | 0.70 | +186.9 | 1wander, Antii, Clank, TONY99999, s1Ience |
 | 2026-07-23 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -25.4 | -bpl, 1wander, Antii, TONY99999, s1Ience |
 | 2026-07-22 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -65.3 | -bpl, 1wander, Antii, TONY99999, s1Ience |

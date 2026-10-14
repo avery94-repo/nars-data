@@ -40,25 +40,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | 55TH ST | 288 | 1291.3 | +0.1 | +172.0 |
-| 027fam | 287 | 1296.0 | +4.8 | +163.8 |
+| 027fam | 287 | 1296.1 | +4.9 | +163.8 |
 | Midwest Farmers | 286 | 1296.2 | +5.0 | +173.2 |
 | Entertainment Cheese | 285 | 1300.8 | +9.6 | +175.3 |
-| ItAintOverYet | 284 | 1302.6 | +11.4 | +171.3 |
+| ItAintOverYet | 284 | 1302.6 | +11.4 | +171.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team GREAT | 128 | +338.0 | +305.5 | +31.9 |
-| Torii | 129 | +336.8 | +337.7 | +31.0 |
-| 5Frag Gaming | 134 | +330.2 | +343.3 | +30.1 |
-| Kaos | 139 | +319.6 | +291.1 | +29.9 |
-| KODEX ESPORTS | 137 | +325.3 | +389.2 | +28.6 |
-| Team Amplus | 145 | +303.0 | +318.8 | +27.2 |
+| Team GREAT | 127 | +338.0 | +305.5 | +31.9 |
+| Torii | 128 | +336.9 | +337.7 | +31.0 |
+| 5Frag Gaming | 133 | +330.2 | +343.3 | +30.1 |
+| Kaos | 138 | +319.6 | +291.1 | +29.9 |
+| KODEX ESPORTS | 135 | +325.5 | +389.3 | +28.6 |
+| Elusive | 141 | +313.2 | +354.6 | +28.0 |
+| Team Amplus | 145 | +303.1 | +318.8 | +27.2 |
 | Kevin James Fan Club | 148 | +289.7 | +302.8 | +25.2 |
 | Biggie Cheese Fan Club | 151 | +285.4 | +278.0 | +24.6 |
-| DNA | 127 | +343.9 | +286.5 | +24.2 |
-| WhiteBoyWinter | 155 | +275.5 | +285.7 | +22.6 |
+| DNA | 126 | +343.9 | +286.5 | +24.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
 
@@ -94,7 +94,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-27 | Top One Percent | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -25.3 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |
 | 2026-05-22 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -158.8 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |
 | 2026-05-20 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -260.0 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |
-| 2026-05-16 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -153.9 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |
+| 2026-05-16 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -154.0 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |
 | 2026-05-13 | YHTR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.03 | 0.17 | +94.7 | FourmiDubz, Kentai, Koni_-, Purgecs_, zoopreme |
 | 2026-05-08 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -16.6 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |
 | 2026-05-01 | The Sweepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +186.8 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |

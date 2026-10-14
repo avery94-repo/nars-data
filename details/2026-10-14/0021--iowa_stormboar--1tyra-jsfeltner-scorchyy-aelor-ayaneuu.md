@@ -3,11 +3,11 @@ Team Name: Iowa Stormboar
 Roster: 1TyRa, jsfeltner, Scorchyy, aelor, ayaneuu
 NARS Rank: 21 of 506
 
-Final Rating: 2115.9
+Final Rating: 2116.1
 Seeded Start: 2097.1
-H2H Adjustment: +18.8
+H2H Adjustment: +19.0
 
-Final Rating (2115.9) = Seeded Start (2097.1) + H2H Adjustment (+18.8)
+Final Rating (2116.1) = Seeded Start (2097.1) + H2H Adjustment (+19.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.712 | 2097.1 | - |
 | +30 days | 0.648 | 2007.2 | -89.9 |
 | +60 days | 0.594 | 1932.0 | -165.1 |
-| +90 days | 0.569 | 1897.1 | -200.0 |
+| +90 days | 0.571 | 1899.3 | -197.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.666 vs 0.815 average, gap -0.149). Matching that average is worth about 52.2 seed points.
 
@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| qcclan | 20 | 2146.2 | +30.3 | +31.2 |
-| MASTER ONE | 19 | 2159.5 | +43.6 | +30.8 |
-| Villainous | 18 | 2160.7 | +44.8 | +37.5 |
-| NuTorious | 17 | 2165.7 | +49.8 | +30.1 |
-| FarmVille | 16 | 2167.6 | +51.7 | +38.4 |
+| qcclan | 20 | 2146.2 | +30.1 | +31.2 |
+| MASTER ONE | 19 | 2159.5 | +43.4 | +30.8 |
+| Villainous | 18 | 2160.9 | +44.8 | +37.5 |
+| NuTorious | 17 | 2165.9 | +49.8 | +30.1 |
+| FarmVille | 16 | 2167.9 | +51.8 | +38.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -52,13 +52,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Overtake Sector | 10 | +256.2 | +48.1 | +2.8 |
 | Brahmas | 14 | +91.6 | +32.0 | -0.0 |
 | regain | 12 | +140.3 | +46.4 | -0.0 |
-| FarmVille | 16 | +51.7 | +38.4 | -0.0 |
+| FarmVille | 16 | +51.8 | +38.4 | -0.0 |
 | NuTorious | 17 | +49.8 | +30.1 | -0.0 |
-| Old Meta | 15 | +60.3 | +35.8 | -0.0 |
+| Old Meta | 15 | +60.1 | +35.8 | -0.0 |
 | Villainous | 18 | +44.8 | +37.5 | -0.0 |
-| Desi Boyz | 11 | +216.6 | +45.4 | -0.1 |
-| qcclan | 20 | +30.3 | +31.2 | -0.3 |
-| MASTER ONE | 19 | +43.6 | +30.8 | -0.5 |
+| Desi Boyz | 11 | +216.7 | +45.4 | -0.1 |
+| qcclan | 20 | +30.1 | +31.2 | -0.3 |
+| MASTER ONE | 19 | +43.4 | +30.8 | -0.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +71.3 points at current ratings.
 
@@ -98,28 +98,28 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Marsborne | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.00 | 0.00 | -2.3 | core 3/5 |
 | 2026-08-25 | Shimmer | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.51 | 1.38 | +7.8 | core 3/5 |
 | 2026-07-29 | LAG Gaming | L |  | VRS-tracked 2026-07 | A | vrs | 0.68 | 1.60 | 1.00 | 1.09 | 0.00 | 0.00 | -119.1 | core 3/5 |
-| 2026-07-28 | NRG | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.67 | 1.60 | 1.00 | 1.08 | 0.00 | 0.00 | -71.6 | core 3/5 |
+| 2026-07-28 | NRG | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.67 | 1.60 | 1.00 | 1.08 | 0.00 | 0.00 | -71.8 | core 3/5 |
 | 2026-06-14 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.08 | 0.61 | +103.7 | core 3/5 |
-| 2026-06-14 | Marsborne | L | 0-2 | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.00 | 0.00 | -58.7 | core 3/5 |
-| 2026-06-13 | DETONATE | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.60 | 0.60 | +194.7 | core 3/5 |
+| 2026-06-14 | Marsborne | L | 0-2 | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.00 | 0.00 | -58.6 | core 3/5 |
+| 2026-06-13 | DETONATE | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.60 | 0.60 | +194.6 | core 3/5 |
 | 2026-06-13 | Overtake Sector | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.60 | 0.60 | +131.4 | core 3/5 |
 | 2026-06-12 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.46 | 0.59 | +207.7 | core 3/5 |
-| 2026-06-11 | DETONATE | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.58 | 0.00 | 0.00 | -32.5 | core 3/5 |
+| 2026-06-11 | DETONATE | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.58 | 0.00 | 0.00 | -32.7 | core 3/5 |
 | 2026-06-09 | Beyond Limits | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.34 | 0.52 | +201.9 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
-| 2026-06-02 | Desi Boyz | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.00 | 0.00 | -130.8 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
+| 2026-06-02 | Desi Boyz | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.30 | 1.50 | 1.00 | 0.45 | 0.00 | 0.00 | -130.9 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
 | 2026-05-26 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.25 | 1.60 | 1.00 | 0.41 | 0.00 | 0.00 | -0.0 | core 3/5 |
 | 2026-05-22 | Celestial Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.23 | 1.35 | 1.00 | 0.31 | 0.09 | 0.31 | +10.1 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
-| 2026-05-20 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.03 | 0.29 | +4.8 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
+| 2026-05-20 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.03 | 0.29 | +4.7 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
 | 2026-05-20 | Club 333 | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -0.8 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
 | 2026-05-15 | Xiaoma Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.04 | 0.25 | +355.8 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
 | 2026-05-14 | North Forge | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.24 | 0.06 | 0.24 | +415.6 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
-| 2026-05-13 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -213.0 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
-| 2026-05-12 | New Legends | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -214.7 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
-| 2026-05-09 | dead team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.19 | 0.00 | 0.00 | -351.6 | Scorchyy, aelor, ayaneuu, calamity, jsfeltner |
+| 2026-05-13 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.00 | 0.00 | -213.5 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
+| 2026-05-12 | New Legends | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -213.5 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
+| 2026-05-09 | dead team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.19 | 0.00 | 0.00 | -351.7 | Scorchyy, aelor, ayaneuu, calamity, jsfeltner |
 | 2026-05-07 | Villainous | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -340.1 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
 | 2026-05-02 | Zomblers | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -3.3 | core 3/5 |
 | 2026-04-30 | eefsports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.11 | +0.0 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
-| 2026-04-30 | EMPIRE | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.09 | 0.11 | +165.8 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
+| 2026-04-30 | EMPIRE | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.09 | 0.11 | +165.9 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
 | 2026-04-28 | Incognito | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.02 | 0.11 | +126.5 | core 3/5 |
 | 2026-04-27 | girl kissers | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.10 | +0.7 | core 3/5 |
 | 2026-04-25 | Chicken Coop | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.07 | 0.08 | +341.4 | core 3/5 |

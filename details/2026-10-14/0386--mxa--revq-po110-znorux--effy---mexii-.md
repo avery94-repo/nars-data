@@ -40,8 +40,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Exnitas | 385 | 1093.2 | +2.5 | +166.9 |
-| Gregs New Cut | 384 | 1096.6 | +5.9 | +164.2 |
-| Texas Orange | 383 | 1097.5 | +6.8 | +170.6 |
+| Gregs New Cut | 384 | 1096.6 | +5.9 | +164.1 |
+| Texas Orange | 383 | 1097.4 | +6.7 | +170.6 |
 | Costco Family | 382 | 1102.5 | +11.8 | +171.9 |
 | HammerHeads | 381 | 1102.7 | +12.0 | +166.1 |
 
@@ -50,19 +50,19 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Cortex Jellies | 222 | +346.7 | +299.6 | +32.9 |
-| 1NT | 221 | +348.3 | +335.5 | +32.0 |
+| 1NT | 221 | +348.3 | +335.4 | +32.0 |
 | penazoid | 226 | +337.2 | +317.9 | +31.6 |
 | Binky | 220 | +348.6 | +364.9 | +31.2 |
 | UltimateDarklordWizardz | 227 | +336.4 | +350.5 | +30.6 |
 | YHTR | 235 | +323.0 | +335.3 | +29.5 |
 | FUELED BY HATE | 241 | +313.6 | +297.9 | +29.1 |
 | Fortis Fortuna Adiuvat | 237 | +315.6 | +317.9 | +29.0 |
-| NXG Esports | 242 | +313.3 | +328.8 | +29.0 |
+| NXG Esports | 242 | +313.4 | +328.9 | +29.0 |
 | brb grinding minecraft | 239 | +314.8 | +339.9 | +28.9 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
-Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+1.1), shirtcockin (+1.6), Courage (+1.9).
+Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+1.1), shirtcockin (+1.5), Courage (+1.9).
 
 Seed inputs expiring within 90 days:
 - S57 NA Main Central - Regular Season vs iNSTINCT (2026-04-24): expires in 6 days [Quality Wins 0.00, Opponent Network 0.05]
@@ -78,8 +78,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -15.9 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-20 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -219.7 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-05-13 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -294.0 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-05-12 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +219.2 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-05-13 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -294.1 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-05-12 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +219.3 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-01 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +70.9 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-04-29 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +245.3 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-04-24 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +255.6 | -Mexii-, -effy-, 1Tenshi, Znorux, po110 |

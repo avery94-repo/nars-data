@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | HUMA | 480 | 747.3 | +5.2 | +172.9 |
-| FourStrokeGang | 479 | 748.4 | +6.3 | +167.4 |
+| FourStrokeGang | 479 | 748.3 | +6.2 | +167.4 |
 | Kushtaka | 478 | 757.5 | +15.4 | +167.2 |
 | Brick Layers | 477 | 764.1 | +22.0 | +169.3 |
 | Sleepers | 476 | 776.2 | +34.1 | +173.2 |
@@ -49,15 +49,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Kahoot Squad | 388 | +340.5 | +312.0 | +32.1 |
-| Flow Esports | 387 | +341.5 | +327.4 | +31.4 |
-| Benadryl Abusers | 396 | +319.1 | +306.5 | +29.3 |
+| Kahoot Squad | 388 | +340.5 | +312.1 | +32.1 |
+| Flow Esports | 387 | +341.4 | +327.4 | +31.4 |
+| Benadryl Abusers | 396 | +319.0 | +306.5 | +29.3 |
 | MXA | 386 | +348.6 | +288.3 | +29.2 |
-| ReGen | 400 | +310.8 | +305.7 | +28.6 |
+| ReGen | 400 | +310.8 | +305.8 | +28.6 |
 | Big Fish | 402 | +308.9 | +304.4 | +28.3 |
-| James Bond Bois | 401 | +309.9 | +273.5 | +27.6 |
+| James Bond Bois | 401 | +309.8 | +273.5 | +27.6 |
 | house | 403 | +306.8 | +332.2 | +27.4 |
-| three11 | 398 | +314.9 | +275.4 | +26.1 |
+| three11 | 398 | +314.8 | +275.4 | +26.1 |
 | Epochal Esports | 413 | +293.9 | +307.3 | +25.9 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
@@ -73,9 +73,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.04 | 0.23 | +395.4 | --vita--, Carl1l1, DivineFPS, FRIGHT3N, do1phn |
 | 2026-05-15 | AML | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -282.9 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
-| 2026-05-13 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -109.8 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-05-13 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -109.9 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-05-08 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -9.5 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
-| 2026-05-06 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -319.2 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-05-06 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -319.3 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-04-29 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +318.6 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-04-24 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -204.2 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-04-22 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -157.7 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |

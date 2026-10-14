@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.063 | 1187.9 | - |
 | +30 days | 0.056 | 1178.2 | -9.7 |
-| +60 days | 0.048 | 1167.3 | -20.7 |
+| +60 days | 0.048 | 1167.2 | -20.7 |
 | +90 days | 0.033 | 1145.8 | -42.2 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.108 vs 0.222 average, gap -0.114). Matching that average is worth about 39.9 seed points.
@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | insane players | 453 | 889.5 | +4.9 | +163.8 |
 | GoopT | 452 | 894.4 | +9.8 | +175.1 |
-| on disability | 451 | 894.9 | +10.3 | +165.5 |
+| on disability | 451 | 894.8 | +10.2 | +165.5 |
 | Friendly Fire | 450 | 895.4 | +10.8 | +165.7 |
 | Baja Blasters | 449 | 903.6 | +19.0 | +168.3 |
 
@@ -58,7 +58,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | MONARCH | 337 | +316.2 | +326.9 | +28.7 |
 | Boop Boop Gang | 340 | +311.0 | +297.3 | +28.4 |
 | MadaNASCAR | 341 | +310.6 | +322.1 | +28.2 |
-| Goon Squad | 328 | +337.3 | +283.9 | +27.2 |
+| Goon Squad | 328 | +337.2 | +283.9 | +27.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 

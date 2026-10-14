@@ -5,7 +5,7 @@ NARS Rank: 476 of 506
 
 Final Rating: 776.2
 Seeded Start: 1238.4
-H2H Adjustment: -462.2 (capped at +-300, raw -462.1)
+H2H Adjustment: -462.2
 
 Final Rating (776.2) = Seeded Start (1238.4) + H2H Adjustment (-462.2)
 
@@ -41,21 +41,21 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Iron Horse | 475 | 779.9 | +3.7 | +163.4 |
 | Another Day in Paradise | 474 | 780.1 | +3.9 | +163.5 |
-| AML | 473 | 793.6 | +17.4 | +168.8 |
+| AML | 473 | 793.5 | +17.3 | +168.8 |
 | Therapist | 472 | 797.3 | +21.1 | +169.0 |
-| CounterStreakrs | 471 | 808.2 | +32.0 | +172.5 |
+| CounterStreakrs | 471 | 808.1 | +31.9 | +172.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Shadow Wizard Money Gang | 376 | +331.6 | +324.8 | +30.8 |
+| Shadow Wizard Money Gang | 376 | +331.5 | +324.8 | +30.8 |
 | Zamgaa Anime Aimers | 378 | +327.8 | +306.4 | +30.8 |
 | Team Zhao | 373 | +340.2 | +354.4 | +30.8 |
 | Costco Family | 382 | +326.3 | +308.0 | +30.6 |
 | We Play Naked | 380 | +327.0 | +324.2 | +30.3 |
 | Goyim Gladiators | 379 | +327.7 | +336.1 | +30.1 |
-| Texas Orange | 383 | +321.3 | +308.3 | +30.0 |
+| Texas Orange | 383 | +321.2 | +308.3 | +30.0 |
 | Exnitas | 385 | +317.0 | +294.5 | +29.6 |
 | Kahoot Squad | 388 | +306.4 | +296.4 | +28.1 |
 | grogu | 371 | +347.8 | +287.9 | +28.1 |
@@ -87,17 +87,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -45.7 | -FreeZeCS, 5teel, Amadeuz, Juishee, spl1ce |
 | 2026-07-24 | MINDTRIP | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -150.9 | -FreeZeCS, 5teel, Amadeuz, Juishee, spl1ce |
 | 2026-07-22 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.03 | 0.65 | +277.0 | -FreeZeCS, 5teel, Amadeuz, Juishee, spl1ce |
-| 2026-07-17 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -146.3 | 5teel, Amadeuz, Burnziboi, Juishee, spl1ce |
+| 2026-07-17 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -146.4 | 5teel, Amadeuz, Burnziboi, Juishee, spl1ce |
 | 2026-07-15 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -419.5 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-06-07 | We Just Pug | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.01 | 0.34 | +85.9 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-06-05 | offBalance | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.04 | 0.32 | +75.5 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-05-31 | Lan Bears | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.02 | 0.29 | +108.4 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-05-29 | de_throne | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -242.9 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-05-27 | AURA Esports | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.03 | 0.26 | +197.2 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
-| 2026-05-21 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +263.9 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
+| 2026-05-21 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.22 | +264.0 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-05-20 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -35.3 | 5teel, Amadeuz, Juishee, To4sT, chipper412 |
 | 2026-05-15 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -19.9 | 5teel, Amadeuz, Juishee, To4sT, chipper412 |
-| 2026-05-13 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -314.5 | 5teel, Juishee, To4sT, chipper412, spl1ce |
+| 2026-05-13 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -314.6 | 5teel, Juishee, To4sT, chipper412, spl1ce |
 | 2026-05-08 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +30.6 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-05-06 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +50.2 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-05-01 | Kushtaka | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +231.2 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |

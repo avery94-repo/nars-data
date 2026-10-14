@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.050 | 1170.5 | - |
 | +30 days | 0.050 | 1169.8 | -0.6 |
 | +60 days | 0.049 | 1169.2 | -1.3 |
-| +90 days | 0.049 | 1168.1 | -2.4 |
+| +90 days | 0.049 | 1168.1 | -2.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.006 vs 0.006 average, gap +0.000). Matching that average is worth about 0.0 seed points.
 
@@ -40,9 +40,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Team Phys | 317 | 1238.6 | +0.1 | +113.5 |
-| Relativity | 316 | 1238.9 | +0.4 | +113.5 |
+| Relativity | 316 | 1238.8 | +0.3 | +113.5 |
 | Once Divine Gaming | 315 | 1239.7 | +1.2 | +113.7 |
-| Baatarz | 314 | 1241.2 | +2.7 | +114.0 |
+| Baatarz | 314 | 1241.5 | +3.0 | +114.1 |
 | Better at WOT | 313 | 1246.5 | +8.0 | +118.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,14 +50,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Biggie Cheese Fan Club | 151 | +338.1 | +204.2 | +21.8 |
-| Kevin James Fan Club | 148 | +342.4 | +225.6 | +21.8 |
+| Kevin James Fan Club | 148 | +342.4 | +225.7 | +21.8 |
 | WhiteBoyWinter | 155 | +328.2 | +212.5 | +21.0 |
 | offBalance | 165 | +303.8 | +208.7 | +19.0 |
-| Pug Palace | 167 | +297.3 | +211.9 | +18.2 |
-| BucketJonsBoys | 172 | +294.5 | +202.1 | +18.0 |
-| Order Zero | 156 | +326.3 | +189.4 | +17.9 |
+| Pug Palace | 167 | +297.4 | +211.9 | +18.2 |
+| BucketJonsBoys | 172 | +294.6 | +202.2 | +18.0 |
+| Order Zero | 156 | +326.3 | +189.5 | +17.9 |
 | Shaboing Boing Bandits | 173 | +292.1 | +220.3 | +17.7 |
-| Armored Talent | 174 | +291.3 | +225.4 | +17.5 |
+| Armored Talent | 174 | +291.4 | +225.5 | +17.5 |
 | Firstwave | 175 | +288.5 | +201.4 | +17.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +394.3 points at current ratings.

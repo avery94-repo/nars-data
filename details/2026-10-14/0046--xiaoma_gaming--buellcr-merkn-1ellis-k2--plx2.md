@@ -3,11 +3,11 @@ Team Name: Xiaoma Gaming
 Roster: BuellcR, merkn, 1Ellis, k2-, PLx2
 NARS Rank: 46 of 506
 
-Final Rating: 1911.5
+Final Rating: 1911.7
 Seeded Start: 1395.1
-H2H Adjustment: +516.4
+H2H Adjustment: +516.6
 
-Final Rating (1911.5) = Seeded Start (1395.1) + H2H Adjustment (+516.4)
+Final Rating (1911.7) = Seeded Start (1395.1) + H2H Adjustment (+516.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.211 | 1395.1 | - |
 | +30 days | 0.160 | 1324.1 | -71.0 |
 | +60 days | 0.132 | 1285.2 | -109.9 |
-| +90 days | 0.108 | 1251.6 | -143.5 |
+| +90 days | 0.108 | 1251.7 | -143.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.098 vs 0.223 average, gap -0.125). Matching that average is worth about 87.5 seed points.
 
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Swole Patrol | 45 | 1914.4 | +2.9 | +51.1 |
-| bubibabu | 44 | 1928.6 | +17.1 | +57.5 |
-| Wanted Goons | 43 | 1933.1 | +21.6 | +69.0 |
-| Zealous | 42 | 1941.7 | +30.2 | +53.5 |
-| Locally Hated | 41 | 1946.6 | +35.1 | +64.4 |
+| Swole Patrol | 45 | 1914.5 | +2.8 | +51.1 |
+| bubibabu | 44 | 1928.7 | +17.0 | +57.4 |
+| Wanted Goons | 43 | 1933.3 | +21.6 | +69.0 |
+| Zealous | 42 | 1941.8 | +30.1 | +53.5 |
+| Locally Hated | 41 | 1946.7 | +35.0 | +64.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | regain | 12 | +344.7 | +123.5 | +9.2 |
-| Brahmas | 14 | +296.0 | +85.7 | +8.0 |
-| Detonate | 13 | +335.2 | +107.8 | +7.0 |
-| Old Meta | 15 | +264.7 | +100.3 | +6.3 |
-| FarmVille | 16 | +256.1 | +110.3 | +5.8 |
-| NuTorious | 17 | +254.2 | +82.9 | +5.4 |
+| Brahmas | 14 | +296.0 | +85.8 | +8.0 |
+| Detonate | 13 | +335.3 | +107.8 | +7.0 |
+| Old Meta | 15 | +264.5 | +100.3 | +6.3 |
+| FarmVille | 16 | +256.2 | +110.3 | +5.8 |
+| NuTorious | 17 | +254.2 | +83.0 | +5.4 |
 | Villainous | 18 | +249.2 | +108.2 | +5.1 |
-| qcclan | 20 | +234.7 | +88.5 | +0.9 |
-| MASTER ONE | 19 | +248.0 | +85.8 | +0.9 |
+| qcclan | 20 | +234.5 | +88.5 | +0.9 |
+| MASTER ONE | 19 | +247.8 | +85.8 | +0.9 |
 | Iowa Stormboar | 21 | +204.4 | +101.7 | +0.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +151.6 points at current ratings.
@@ -86,23 +86,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-27 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.27 | 0.00 | 0.00 | -1.6 | --toasty, 1Ellis, PLx2, k2-, merkn |
 | 2026-08-25 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 0.00 | 0.00 | -82.7 | --toasty, 1Ellis, PLx2, k2-, merkn |
 | 2026-08-14 | KODEX ESPORTS | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.23 | 1.15 | +88.8 | --toasty, 1Ellis, PLx2, k2-, merkn |
-| 2026-07-29 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.18 | 0.99 | +78.7 | --toasty, BuellcR, PLx2, k2-, merkn |
+| 2026-07-29 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.18 | 0.99 | +78.6 | --toasty, BuellcR, PLx2, k2-, merkn |
 | 2026-07-24 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.05 | 0.94 | +5.1 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-07-22 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.10 | 0.92 | +153.0 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-07-21 | North Forge | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.63 | 1.45 | 1.00 | 0.91 | 0.00 | 0.00 | -22.0 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-06-14 | Omen Esports | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.38 | 1.50 | 1.00 | 0.57 | 0.00 | 0.00 | -133.8 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-07-22 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.10 | 0.92 | +152.9 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-07-21 | North Forge | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.63 | 1.45 | 1.00 | 0.91 | 0.00 | 0.00 | -22.1 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-06-14 | Omen Esports | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.38 | 1.50 | 1.00 | 0.57 | 0.00 | 0.00 | -133.9 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-06-09 | Baatarz | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.35 | 1.50 | 1.00 | 0.52 | 0.02 | 0.52 | +2.5 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-06-04 | LAG Gaming | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.00 | 0.00 | -83.4 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-06-04 | LAG Gaming | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.50 | 1.00 | 0.47 | 0.00 | 0.00 | -83.1 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-06-03 | unreal nightmare | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.31 | 1.50 | 1.00 | 0.46 | 0.32 | 0.46 | +23.0 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-05-20 | Elisir Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.01 | 0.29 | +220.5 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-05-20 | Elisir Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.01 | 0.29 | +220.4 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-19 | Wanted Goons | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -0.3 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-15 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.35 | 1.00 | 0.25 | 0.00 | 0.00 | -343.6 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-05-14 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -79.8 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-05-13 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.20 | 0.23 | +136.6 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-05-12 | Omen Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.07 | 0.22 | +27.0 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-05-08 | unreal nightmare | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.13 | 0.00 | +248.0 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-05-14 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.24 | 0.00 | 0.00 | -80.0 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-05-13 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.17 | 1.35 | 1.00 | 0.23 | 0.20 | 0.23 | +136.4 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-05-12 | Omen Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.07 | 0.22 | +27.1 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-05-08 | unreal nightmare | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.13 | 0.00 | +248.5 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-05-05 | Brahmas | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.04 | 0.16 | +389.7 | 1Ellis, BuellcR, PLx2, k2-, merkn |
-| 2026-04-30 | EMPIRE | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -74.7 | 1Ellis, BuellcR, PLx2, k2-, merkn |
+| 2026-04-30 | EMPIRE | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -74.5 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-04-22 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.35 | 1.00 | 0.04 | 0.00 | 0.00 | -0.8 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -4,14 +4,14 @@ Roster: exotic-, Bluely49, -MaC, MasterShifu, Kuahana
 NARS Rank: 286 of 506
 
 Final Rating: 1296.2
-Seeded Start: 1290.3
-H2H Adjustment: +5.9
+Seeded Start: 1290.2
+H2H Adjustment: +6.0
 
-Final Rating (1296.2) = Seeded Start (1290.3) + H2H Adjustment (+5.9)
+Final Rating (1296.2) = Seeded Start (1290.2) + H2H Adjustment (+6.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.136 x 1400 = 1290.3
+                = 1100 + 0.136 x 1400 = 1290.2
 
 seed_factor 0.136 = 0.25 x Tier Exposure (0.117) + 0.50 x Quality Wins (0.032) + 0.25 x Opponent Network (0.361)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.136 | 1290.3 | - |
+| Now | 0.136 | 1290.2 | - |
 | +30 days | 0.112 | 1256.7 | -33.5 |
 | +60 days | 0.094 | 1231.4 | -58.8 |
 | +90 days | 0.065 | 1191.1 | -99.2 |
@@ -39,9 +39,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Entertainment Cheese | 285 | 1300.8 | +4.6 | +99.7 |
+| Entertainment Cheese | 285 | 1300.8 | +4.6 | +99.8 |
 | ItAintOverYet | 284 | 1302.6 | +6.4 | +94.5 |
-| Imperium | 283 | 1305.5 | +9.3 | +89.7 |
+| Imperium | 283 | 1305.6 | +9.4 | +89.7 |
 | Aetheris | 282 | 1313.0 | +16.8 | +93.8 |
 | Adria eSports | 281 | 1314.2 | +18.0 | +105.0 |
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team GREAT | 128 | +333.0 | +158.4 | +16.4 |
-| Torii | 129 | +331.8 | +177.5 | +16.2 |
-| 5Frag Gaming | 134 | +325.2 | +181.5 | +15.8 |
-| KODEX ESPORTS | 137 | +320.3 | +209.4 | +15.3 |
-| Kaos | 139 | +314.6 | +151.2 | +15.3 |
-| Team Amplus | 145 | +298.0 | +169.6 | +14.2 |
+| Team GREAT | 127 | +333.0 | +158.4 | +16.4 |
+| Torii | 128 | +331.9 | +177.5 | +16.2 |
+| 5Frag Gaming | 133 | +325.2 | +181.5 | +15.8 |
+| KODEX ESPORTS | 135 | +320.5 | +209.5 | +15.3 |
+| Kaos | 138 | +314.6 | +151.2 | +15.3 |
+| Elusive | 141 | +308.2 | +190.3 | +14.8 |
+| Team Amplus | 145 | +298.1 | +169.6 | +14.2 |
 | Kevin James Fan Club | 148 | +284.7 | +161.0 | +13.0 |
 | Biggie Cheese Fan Club | 151 | +280.4 | +145.8 | +12.5 |
-| DNA | 127 | +338.9 | +146.8 | +12.3 |
-| WhiteBoyWinter | 155 | +270.5 | +151.5 | +11.5 |
+| DNA | 126 | +338.9 | +146.8 | +12.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +288.3 points at current ratings.
 
@@ -80,14 +80,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Torii | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -70.3 | Bezerker, Bluely49, Kuahana, MasterShifu, Over1Yonder |
 | 2026-09-04 | Mach 10 | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -88.1 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
-| 2026-09-02 | High-Tech Performance | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -103.8 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
+| 2026-09-02 | High-Tech Performance | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -103.9 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-08-28 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -36.0 | Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-08-26 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -38.9 | -MaC, Bezerker, Bluely49, MasterShifu, exotic- |
 | 2026-08-21 | JPG | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +89.4 | -MaC, Bezerker, Bluely49, MasterShifu, exotic- |
 | 2026-08-19 | walkthemdown | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.06 | 0.82 | +53.3 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-08-14 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -94.8 | Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-08-12 | UltimateDarklordWizardz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.16 | 0.78 | +90.4 | -MaC, Bluely49, Kuahana, MasterShifu, exotic- |
-| 2026-08-07 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +162.1 | -MaC, Bluely49, Kuahana, MasterShifu, exotic- |
+| 2026-08-07 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +162.2 | -MaC, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-08-05 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -17.2 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu |
 | 2026-07-29 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -79.0 | -MaC, Bezerker, Bluely49, MasterShifu, exotic- |
 | 2026-07-24 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.05 | 0.65 | +106.8 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.115 | 1261.4 | - |
 | +30 days | 0.102 | 1242.9 | -18.6 |
 | +60 days | 0.088 | 1223.9 | -37.5 |
-| +90 days | 0.079 | 1210.2 | -51.2 |
+| +90 days | 0.079 | 1210.3 | -51.1 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.027 vs 0.012 average, gap +0.015). Matching that average is worth about 0.0 seed points.
 
@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Full White | 320 | 1236.9 | +1.2 | +112.7 |
+| Full White | 320 | 1236.9 | +1.2 | +112.8 |
 | 773Revival | 319 | 1238.2 | +2.5 | +113.0 |
 | fiveB | 318 | 1238.5 | +2.8 | +120.5 |
 | Team Phys | 317 | 1238.6 | +2.9 | +113.1 |
-| Relativity | 316 | 1238.9 | +3.2 | +113.2 |
+| Relativity | 316 | 1238.8 | +3.1 | +113.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -53,11 +53,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Kevin James Fan Club | 148 | +345.2 | +224.4 | +21.7 |
 | WhiteBoyWinter | 155 | +331.0 | +211.3 | +21.0 |
 | offBalance | 165 | +306.6 | +207.7 | +19.1 |
-| Pug Palace | 167 | +300.1 | +210.9 | +18.3 |
-| BucketJonsBoys | 172 | +297.3 | +201.1 | +18.2 |
-| Order Zero | 156 | +329.1 | +188.3 | +17.9 |
+| Pug Palace | 167 | +300.2 | +210.9 | +18.3 |
+| BucketJonsBoys | 172 | +297.4 | +201.1 | +18.2 |
+| Order Zero | 156 | +329.1 | +188.4 | +17.9 |
 | Shaboing Boing Bandits | 173 | +294.9 | +219.3 | +17.8 |
-| Armored Talent | 174 | +294.1 | +224.5 | +17.7 |
+| Armored Talent | 174 | +294.2 | +224.5 | +17.7 |
 | Firstwave | 175 | +291.3 | +200.4 | +17.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +390.0 points at current ratings.
@@ -75,17 +75,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | ReGen | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +284.0 | K7777Kk, K9999k, Mrzhao, N0P, vvillovv |
-| 2026-10-07 | Solbound | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 0.00 | +50.0 | K7777Kk, Mrzhao, N0P, Relo_X, vvillovv |
+| 2026-10-07 | Solbound | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.08 | 0.00 | +49.9 | K7777Kk, Mrzhao, N0P, Relo_X, vvillovv |
 | 2026-08-26 | NATIONAL CS UNI | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.07 | 0.87 | +79.9 | K7777Kk, K9999k, Mrzhao, N0P, Soahc666 |
 | 2026-08-21 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -101.1 | K7777Kk, K9999k, Mrzhao, N0P, Soahc666 |
 | 2026-08-19 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.07 | 0.82 | +84.5 | K7777Kk, K9999k, Mrzhao, N0P, Soahc666 |
 | 2026-08-14 | FourStrokeGang | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -179.2 | K7777Kk, K9999k, Mrzhao, N0P, Soahc666 |
-| 2026-08-07 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +228.7 | K7777Kk, Mrzhao, N0P, Soahc666, k5555Kk |
+| 2026-08-07 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +228.8 | K7777Kk, Mrzhao, N0P, Soahc666, k5555Kk |
 | 2026-08-05 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -53.3 | K7777Kk, Mrzhao, N0P, Soahc666, k5555Kk |
 | 2026-07-31 | Mace Lindu Ruff Rebound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -239.7 | Mrzhao, N0P, Soahc666, k5555Kk, k6666kk |
 | 2026-07-29 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +99.9 | K7777Kk, Mrzhao, N0P, Soahc666, k5555Kk |
 | 2026-07-22 | Kennesaw State Gold 2025 | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -285.4 | K7777Kk, Mrzhao, N0P, Soahc666, k5555Kk |
-| 2026-07-17 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -301.3 | K7777Kk, Mrzhao, N0P, Soahc666, k6666kk |
+| 2026-07-17 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -301.4 | K7777Kk, Mrzhao, N0P, Soahc666, k6666kk |
 | 2026-06-12 | Sable | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.02 | 0.37 | +155.1 | K7777Kk, K9999k, Mrzhao, k5555Kk, k6666kk |
 | 2026-06-05 | UltimateDarklordWizardz | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -161.6 | K7777Kk, K9999k, Mrzhao, k5555Kk, k6666kk |
 | 2026-05-29 | but i got movement | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +163.5 | K7777Kk, K9999k, Mrzhao, k5555Kk, k6666kk |

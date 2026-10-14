@@ -5,7 +5,7 @@ NARS Rank: 150 of 506
 
 Final Rating: 1577.8
 Seeded Start: 1263.1
-H2H Adjustment: +314.7
+H2H Adjustment: +314.7 (capped at +-300, raw +314.8)
 
 Final Rating (1577.8) = Seeded Start (1263.1) + H2H Adjustment (+314.7)
 
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.116 | 1263.1 | - |
 | +30 days | 0.113 | 1258.6 | -4.4 |
 | +60 days | 0.113 | 1258.1 | -4.9 |
-| +90 days | 0.112 | 1256.4 | -6.6 |
+| +90 days | 0.112 | 1256.5 | -6.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.036 vs 0.101 average, gap -0.065). Matching that average is worth about 22.8 seed points.
 
@@ -41,26 +41,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Appalachian Apes | 149 | 1577.9 | +0.1 | +115.4 |
 | Kevin James Fan Club | 148 | 1580.9 | +3.1 | +119.8 |
-| MommySports | 147 | 1587.1 | +9.3 | +120.9 |
-| JPG | 146 | 1588.0 | +10.2 | +119.7 |
-| Team Amplus | 145 | 1594.2 | +16.4 | +125.3 |
+| MommySports | 147 | 1587.2 | +9.4 | +120.9 |
+| JPG | 146 | 1588.0 | +10.2 | +119.8 |
+| Team Amplus | 145 | 1594.3 | +16.5 | +125.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Swole Patrol | 45 | +336.6 | +187.2 | +20.9 |
-| Xiaoma Gaming | 46 | +333.7 | +249.7 | +19.9 |
-| FLOW STATE | 47 | +319.6 | +233.7 | +19.4 |
-| No Future Lifes Over | 50 | +309.4 | +211.4 | +18.9 |
-| DESPAIR | 49 | +310.9 | +211.7 | +18.8 |
-| Phantom Sense | 51 | +306.0 | +255.6 | +18.2 |
-| TheMotherLovers | 53 | +300.2 | +216.7 | +18.0 |
-| Omen Esports | 57 | +280.0 | +225.9 | +15.2 |
-| GG | 52 | +303.7 | +178.9 | +13.7 |
-| Sharp | 54 | +290.0 | +219.9 | +11.9 |
+| Swole Patrol | 45 | +336.7 | +187.3 | +20.9 |
+| Xiaoma Gaming | 46 | +333.9 | +249.9 | +19.9 |
+| FLOW STATE | 47 | +319.6 | +233.8 | +19.4 |
+| No Future Lifes Over | 50 | +309.4 | +211.5 | +18.9 |
+| DESPAIR | 49 | +310.9 | +211.8 | +18.8 |
+| Phantom Sense | 51 | +306.1 | +255.7 | +18.2 |
+| TheMotherLovers | 53 | +300.2 | +216.8 | +18.0 |
+| Omen Esports | 57 | +280.2 | +226.1 | +15.3 |
+| GG | 52 | +303.7 | +179.0 | +13.7 |
+| Sharp | 54 | +290.1 | +220.0 | +11.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +380.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +380.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -76,6 +76,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Double Poop Cheeseburger | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.97 | 1.02 | 1.00 | 0.99 | 0.03 | 0.99 | +62.8 | Clum, _Section, bingus, snorkel, texture |
 | 2026-09-08 | Team NK | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.03 | 0.98 | +116.0 | Clum, _Section, bingus, snorkel, texture |
 | 2026-09-06 | BDE | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.03 | 0.96 | +135.5 | CLOUDZINO, Clum, _Section, bingus, texture |
-| 2026-09-04 | CLUE IN | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -154.0 | CLOUDZINO, Clum, _Section, bingus, brian |
+| 2026-09-04 | CLUE IN | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -154.1 | CLOUDZINO, Clum, _Section, bingus, brian |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

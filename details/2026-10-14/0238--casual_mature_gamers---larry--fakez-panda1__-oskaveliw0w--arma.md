@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.090 | 1226.2 | - |
 | +30 days | 0.095 | 1233.7 | +7.4 |
 | +60 days | 0.098 | 1236.7 | +10.4 |
-| +90 days | 0.103 | 1243.6 | +17.3 |
+| +90 days | 0.103 | 1243.6 | +17.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.261 vs 0.403 average, gap -0.142). Matching that average is worth about 49.7 seed points.
 
@@ -50,15 +50,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Fire Nation | 90 | +343.8 | +122.5 | +12.2 |
-| Fathom Gaming | 91 | +339.4 | +119.8 | +12.2 |
+| Fathom Gaming | 91 | +339.5 | +119.8 | +12.2 |
 | Overtake Sector | 89 | +345.0 | +159.1 | +11.8 |
-| NineFlyeSports | 96 | +319.2 | +132.5 | +11.5 |
-| Elusive | 93 | +325.7 | +143.3 | +11.5 |
-| Green Grove Retirement | 94 | +322.7 | +127.4 | +11.5 |
+| NineFlyeSports | 95 | +319.3 | +132.5 | +11.5 |
+| Green Grove Retirement | 93 | +322.7 | +127.4 | +11.5 |
 | PROFECO | 87 | +349.3 | +107.1 | +10.9 |
-| FlyQuest RED | 97 | +314.8 | +137.6 | +10.8 |
-| Axial | 101 | +300.5 | +117.7 | +10.3 |
-| Addice | 102 | +296.6 | +137.9 | +10.2 |
+| FlyQuest RED | 96 | +314.9 | +137.7 | +10.8 |
+| Axial | 100 | +300.7 | +117.8 | +10.3 |
+| Addice | 101 | +296.8 | +138.0 | +10.2 |
+| New Legends | 102 | +289.6 | +140.3 | +9.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +200.4 points at current ratings.
 
@@ -71,7 +71,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Feels MAIN Man | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.09 | 1.00 | +1.7 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-10-07 | AscendentEsport | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +152.2 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
-| 2026-09-10 | ClanAgain | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.00 | 0.00 | -86.3 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
+| 2026-09-10 | ClanAgain | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.00 | 0.00 | -86.4 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-09-08 | UKY Blue | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 0.99 | 0.03 | 0.99 | +31.0 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-09-07 | PSDN White | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.05 | 0.99 | +150.9 | -fakez, -larry, HugoElite, OSKAVELIw0w-, Panda1__, armali |
 | 2026-09-04 | O Fire | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -69.8 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |

@@ -39,9 +39,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Nomadic Tactics | 213 | 1456.6 | +0.0 | +99.3 |
+| Nomadic Tactics | 213 | 1456.6 | +0.0 | +99.4 |
 | FlockMunchers | 212 | 1459.1 | +2.5 | +111.8 |
-| Veniversum | 211 | 1459.4 | +2.8 | +111.8 |
+| Veniversum | 211 | 1459.4 | +2.8 | +111.9 |
 | Kings Gambit | 210 | 1461.9 | +5.3 | +109.3 |
 | Pugging4Pumpkin | 209 | 1463.6 | +7.0 | +101.5 |
 
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GeneticDiff | 70 | +336.3 | +196.8 | +18.4 |
-| Asoka | 74 | +326.7 | +183.4 | +18.0 |
-| fih hou | 73 | +329.1 | +205.0 | +17.9 |
-| Kairo | 79 | +322.3 | +180.3 | +17.8 |
-| Club 333 | 76 | +325.7 | +222.4 | +17.5 |
-| firesale | 82 | +311.6 | +192.6 | +17.2 |
+| GeneticDiff | 70 | +336.3 | +196.9 | +18.4 |
+| Asoka | 74 | +326.7 | +183.5 | +18.0 |
+| fih hou | 73 | +329.1 | +205.1 | +17.9 |
+| Kairo | 79 | +322.4 | +180.4 | +17.8 |
+| Club 333 | 76 | +325.8 | +222.5 | +17.5 |
+| firesale | 82 | +311.7 | +192.7 | +17.2 |
 | CNCS Last Hope | 72 | +332.1 | +163.8 | +17.0 |
 | mas paspas | 75 | +326.4 | +213.4 | +17.0 |
-| Diggers | 86 | +306.8 | +173.1 | +16.9 |
-| Overtake Sector | 89 | +294.3 | +225.2 | +15.5 |
+| Diggers | 86 | +307.0 | +173.2 | +16.9 |
+| Overtake Sector | 89 | +294.3 | +225.3 | +15.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +329.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +329.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -81,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -88.6 | -Verse-, Bonson, b4m, jaRvas_, nuts |
 | 2026-08-07 | walkthemdown | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -186.9 | -Verse-, Bonson, b4m, jaRvas_, nuts |
 | 2026-08-05 | Sharp | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.10 | 0.73 | +105.6 | -Verse-, Bonson, b4m, jaRvas_, nuts |
-| 2026-07-31 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -238.0 | -Verse-, Hubz-, b4m, jaRvas_, nuts |
+| 2026-07-31 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -238.1 | -Verse-, Hubz-, b4m, jaRvas_, nuts |
 | 2026-07-29 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.68 | +0.4 | -Verse-, Bonson, b4m, jaRvas_, nuts |
 | 2026-07-24 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.07 | 0.65 | +193.2 | -Verse-, Bonson, GUNTURI, jaRvas_, nuts |
 | 2026-07-22 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +240.9 | -Verse-, Bonson, Hubz-, jaRvas_, nuts |

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.069 | 1197.1 | - |
 | +30 days | 0.067 | 1193.3 | -3.8 |
 | +60 days | 0.066 | 1191.9 | -5.2 |
-| +90 days | 0.064 | 1189.4 | -7.7 |
+| +90 days | 0.064 | 1189.5 | -7.6 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.208 vs 0.298 average, gap -0.090). Matching that average is worth about 31.5 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Bird Lickers | 270 | 1342.8 | +0.0 | +128.6 |
-| PASSION | 269 | 1349.4 | +6.6 | +139.0 |
+| PASSION | 269 | 1349.4 | +6.6 | +139.1 |
 | the dragon warrior scroll | 268 | 1351.3 | +8.5 | +128.7 |
-| Glockwork | 267 | 1353.4 | +10.6 | +129.2 |
+| Glockwork | 267 | 1353.4 | +10.6 | +129.3 |
 | High-Tech Performance | 266 | 1356.1 | +13.3 | +134.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Holy Squid Empire | 108 | +335.9 | +250.9 | +23.9 |
-| Black Dragon Society | 109 | +327.9 | +268.5 | +23.0 |
-| Read You Like a Kindle | 116 | +311.9 | +264.8 | +21.7 |
-| eefsports | 112 | +321.4 | +211.9 | +20.9 |
-| ODIN | 119 | +304.3 | +257.3 | +20.6 |
-| Team GREAT | 128 | +286.4 | +217.7 | +19.1 |
-| Torii | 129 | +285.2 | +240.5 | +18.9 |
-| Northern District | 106 | +341.3 | +217.1 | +18.2 |
-| 5Frag Gaming | 134 | +278.6 | +244.4 | +17.9 |
-| Shimmer | 111 | +324.3 | +221.9 | +17.8 |
+| Holy Squid Empire | 107 | +336.1 | +251.0 | +23.9 |
+| Black Dragon Society | 108 | +327.9 | +268.6 | +23.0 |
+| Read You Like a Kindle | 115 | +311.9 | +264.8 | +21.7 |
+| eefsports | 111 | +321.4 | +211.9 | +20.9 |
+| ODIN | 118 | +304.3 | +257.4 | +20.6 |
+| Team GREAT | 127 | +286.4 | +217.8 | +19.1 |
+| Torii | 128 | +285.3 | +240.6 | +18.9 |
+| Northern District | 105 | +341.3 | +217.2 | +18.2 |
+| 5Frag Gaming | 133 | +278.6 | +244.5 | +17.9 |
+| Shimmer | 110 | +324.3 | +222.0 | +17.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +454.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +454.7 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.2).
 

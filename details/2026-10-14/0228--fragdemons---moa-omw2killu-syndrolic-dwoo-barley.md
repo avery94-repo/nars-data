@@ -3,11 +3,11 @@ Team Name: FRAGDEMONS
 Roster: -MOA, omw2killu, syndrolic, Dwoo, barley
 NARS Rank: 228 of 506
 
-Final Rating: 1426.4
+Final Rating: 1426.3
 Seeded Start: 1129.2
-H2H Adjustment: +297.2
+H2H Adjustment: +297.1
 
-Final Rating (1426.4) = Seeded Start (1129.2) + H2H Adjustment (+297.2)
+Final Rating (1426.3) = Seeded Start (1129.2) + H2H Adjustment (+297.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| UltimateDarklordWizardz | 227 | 1427.1 | +0.7 | +172.6 |
-| penazoid | 226 | 1427.9 | +1.5 | +169.0 |
-| Elisir Esports | 225 | 1428.4 | +2.0 | +162.9 |
-| TahMeow | 224 | 1429.4 | +3.0 | +163.2 |
-| Beam Tinky | 223 | 1434.2 | +7.8 | +165.7 |
+| UltimateDarklordWizardz | 227 | 1427.1 | +0.8 | +172.6 |
+| penazoid | 226 | 1427.9 | +1.6 | +169.0 |
+| Elisir Esports | 225 | 1428.5 | +2.2 | +163.0 |
+| TahMeow | 224 | 1429.4 | +3.1 | +163.3 |
+| Beam Tinky | 223 | 1434.2 | +7.9 | +165.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Diggers | 86 | +337.0 | +306.7 | +32.2 |
-| firesale | 82 | +341.8 | +339.0 | +32.0 |
-| Fire Nation | 90 | +323.3 | +312.7 | +30.1 |
-| Fathom Gaming | 91 | +318.9 | +306.0 | +29.9 |
-| Overtake Sector | 89 | +324.5 | +390.2 | +28.7 |
-| PROFECO | 87 | +328.8 | +280.7 | +27.4 |
-| Green Grove Retirement | 94 | +302.2 | +317.9 | +27.1 |
-| Elusive | 93 | +305.2 | +350.8 | +27.0 |
-| NineFlyeSports | 96 | +298.7 | +327.2 | +26.8 |
-| FlyQuest RED | 97 | +294.3 | +336.1 | +24.8 |
+| Diggers | 86 | +337.3 | +306.8 | +32.2 |
+| firesale | 82 | +342.0 | +339.1 | +32.0 |
+| Fire Nation | 90 | +323.4 | +312.7 | +30.1 |
+| Fathom Gaming | 91 | +319.1 | +306.1 | +29.9 |
+| Overtake Sector | 89 | +324.6 | +390.3 | +28.7 |
+| PROFECO | 87 | +328.9 | +280.8 | +27.4 |
+| Green Grove Retirement | 93 | +302.3 | +317.9 | +27.1 |
+| NineFlyeSports | 95 | +298.9 | +327.3 | +26.9 |
+| FlyQuest RED | 96 | +294.5 | +336.2 | +24.8 |
+| Axial | 100 | +280.3 | +293.6 | +23.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.8 points at current ratings.
 

@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| 027fam | 287 | 1296.0 | +4.7 | +80.0 |
+| 027fam | 287 | 1296.1 | +4.8 | +80.1 |
 | Midwest Farmers | 286 | 1296.2 | +4.9 | +90.2 |
 | Entertainment Cheese | 285 | 1300.8 | +9.5 | +91.5 |
 | ItAintOverYet | 284 | 1302.6 | +11.3 | +86.2 |
-| Imperium | 283 | 1305.5 | +14.2 | +81.5 |
+| Imperium | 283 | 1305.6 | +14.3 | +81.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team GREAT | 128 | +337.9 | +142.7 | +14.9 |
-| Torii | 129 | +336.7 | +160.3 | +14.7 |
-| 5Frag Gaming | 134 | +330.1 | +164.0 | +14.4 |
-| Kaos | 139 | +319.5 | +136.3 | +14.0 |
-| KODEX ESPORTS | 137 | +325.2 | +189.8 | +13.9 |
-| Team Amplus | 145 | +302.9 | +153.4 | +13.1 |
+| Team GREAT | 127 | +337.9 | +142.7 | +14.9 |
+| Torii | 128 | +336.8 | +160.3 | +14.7 |
+| 5Frag Gaming | 133 | +330.1 | +164.0 | +14.4 |
+| Kaos | 138 | +319.5 | +136.3 | +14.0 |
+| KODEX ESPORTS | 135 | +325.4 | +189.9 | +13.9 |
+| Elusive | 141 | +313.1 | +172.4 | +13.6 |
+| Team Amplus | 145 | +303.0 | +153.4 | +13.1 |
 | Kevin James Fan Club | 148 | +289.6 | +145.7 | +12.1 |
 | Biggie Cheese Fan Club | 151 | +285.3 | +131.7 | +11.7 |
-| DNA | 127 | +343.8 | +132.1 | +11.2 |
-| WhiteBoyWinter | 155 | +275.4 | +137.1 | +10.8 |
+| DNA | 126 | +343.8 | +132.1 | +11.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +254.3 points at current ratings.
 

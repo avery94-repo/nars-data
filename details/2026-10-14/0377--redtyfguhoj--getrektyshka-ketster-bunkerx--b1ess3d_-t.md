@@ -3,11 +3,11 @@ Team Name: redtyfguhoj
 Roster: getrektyshka, Ketster, bunkerX-, b1ess3d_, Tek
 NARS Rank: 377 of 506
 
-Final Rating: 1104.5
+Final Rating: 1104.4
 Seeded Start: 1253.3
-H2H Adjustment: -148.8
+H2H Adjustment: -148.9
 
-Final Rating (1104.5) = Seeded Start (1253.3) + H2H Adjustment (-148.8)
+Final Rating (1104.4) = Seeded Start (1253.3) + H2H Adjustment (-148.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Shadow Wizard Money Gang | 376 | 1107.8 | +3.3 | +171.0 |
-| NYX | 375 | 1115.2 | +10.7 | +170.6 |
-| in for Blood | 374 | 1116.2 | +11.7 | +166.0 |
-| Team Zhao | 373 | 1116.4 | +11.9 | +177.4 |
-| Qinorhwat | 372 | 1120.5 | +16.0 | +167.3 |
+| Shadow Wizard Money Gang | 376 | 1107.7 | +3.3 | +171.0 |
+| NYX | 375 | 1115.2 | +10.8 | +170.6 |
+| in for Blood | 374 | 1116.2 | +11.8 | +166.0 |
+| Team Zhao | 373 | 1116.4 | +12.0 | +177.4 |
+| Qinorhwat | 372 | 1120.4 | +16.0 | +167.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| GOYPEEKING | 216 | +345.5 | +317.2 | +32.4 |
-| Defaulting | 215 | +347.2 | +349.8 | +31.6 |
-| Cortex Jellies | 222 | +332.9 | +293.9 | +31.6 |
-| VARTOVIK | 217 | +345.4 | +365.4 | +30.9 |
-| 1NT | 221 | +334.5 | +328.4 | +30.9 |
-| Binky | 220 | +334.8 | +356.5 | +30.2 |
-| penazoid | 226 | +323.4 | +311.2 | +30.2 |
-| UltimateDarklordWizardz | 227 | +322.6 | +342.4 | +29.3 |
-| YHTR | 235 | +309.2 | +327.5 | +27.9 |
-| Fortis Fortuna Adiuvat | 237 | +301.8 | +310.8 | +27.2 |
+| GOYPEEKING | 216 | +345.6 | +317.2 | +32.4 |
+| Defaulting | 215 | +347.3 | +349.8 | +31.6 |
+| Cortex Jellies | 222 | +333.0 | +293.9 | +31.6 |
+| VARTOVIK | 217 | +345.5 | +365.4 | +30.9 |
+| 1NT | 221 | +334.6 | +328.4 | +30.8 |
+| Binky | 220 | +334.9 | +356.5 | +30.2 |
+| penazoid | 226 | +323.5 | +311.2 | +30.2 |
+| UltimateDarklordWizardz | 227 | +322.7 | +342.4 | +29.3 |
+| YHTR | 235 | +309.3 | +327.5 | +27.9 |
+| Fortis Fortuna Adiuvat | 237 | +301.9 | +310.7 | +27.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+0.9), shirtcockin (+1.4), Courage (+1.7).
 

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.060 | 1184.1 | - |
 | +30 days | 0.056 | 1178.0 | -6.1 |
 | +60 days | 0.054 | 1175.3 | -8.8 |
-| +90 days | 0.051 | 1171.7 | -12.4 |
+| +90 days | 0.051 | 1171.8 | -12.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.185 vs 0.325 average, gap -0.140). Matching that average is worth about 49.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| High-Tech Performance | 266 | 1356.1 | +2.7 | +166.8 |
-| Wiggle Peeks | 265 | 1356.7 | +3.3 | +170.5 |
-| THE GUILD | 264 | 1359.0 | +5.6 | +168.0 |
-| ASCEND | 263 | 1360.0 | +6.6 | +172.1 |
+| High-Tech Performance | 266 | 1356.1 | +2.7 | +166.9 |
+| Wiggle Peeks | 265 | 1356.7 | +3.3 | +170.6 |
+| THE GUILD | 264 | 1359.0 | +5.6 | +168.1 |
+| ASCEND | 263 | 1360.0 | +6.6 | +172.2 |
 | DUI | 262 | 1361.0 | +7.6 | +164.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Addice | 102 | +349.1 | +378.6 | +30.5 |
-| Holy Squid Empire | 108 | +325.3 | +320.0 | +29.9 |
-| New Legends | 103 | +342.0 | +383.0 | +29.7 |
-| Black Dragon Society | 109 | +317.3 | +339.8 | +28.6 |
-| Read You Like a Kindle | 116 | +301.3 | +333.4 | +26.4 |
-| eefsports | 112 | +310.8 | +272.9 | +26.0 |
-| ODIN | 119 | +293.7 | +324.0 | +24.9 |
-| Northern District | 106 | +330.7 | +280.5 | +22.8 |
-| Team GREAT | 128 | +275.8 | +277.0 | +22.6 |
-| Torii | 129 | +274.6 | +302.7 | +22.2 |
+| Addice | 101 | +349.3 | +378.7 | +30.5 |
+| Holy Squid Empire | 107 | +325.5 | +320.2 | +29.9 |
+| New Legends | 102 | +342.1 | +383.2 | +29.8 |
+| Black Dragon Society | 108 | +317.3 | +339.8 | +28.6 |
+| Read You Like a Kindle | 115 | +301.3 | +333.5 | +26.5 |
+| eefsports | 111 | +310.8 | +273.0 | +26.0 |
+| ODIN | 118 | +293.7 | +324.0 | +24.9 |
+| Northern District | 105 | +330.7 | +280.6 | +22.8 |
+| Team GREAT | 127 | +275.8 | +277.1 | +22.6 |
+| Torii | 128 | +274.7 | +302.8 | +22.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +638.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +638.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
 

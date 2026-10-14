@@ -42,8 +42,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Kodaks Lettuce | 418 | 1011.4 | +8.6 | +108.9 |
 | Mace Lindu Ruff Rebound | 417 | 1017.2 | +14.4 | +108.0 |
 | HigherEducation | 416 | 1017.5 | +14.7 | +104.3 |
-| Boomhogs 2 | 415 | 1021.7 | +18.9 | +105.1 |
-| MakeYouSayLate | 414 | 1026.9 | +24.1 | +113.2 |
+| Boomhogs 2 | 415 | 1021.7 | +18.9 | +105.2 |
+| MakeYouSayLate | 414 | 1026.9 | +24.1 | +113.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -52,15 +52,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | PASSION | 269 | +346.6 | +209.4 | +19.4 |
 | Saltcrew | 276 | +318.0 | +185.8 | +18.1 |
 | Chopped | 277 | +317.0 | +203.9 | +17.8 |
-| Demolition | 279 | +313.2 | +185.1 | +17.6 |
+| Demolition | 279 | +313.3 | +185.2 | +17.6 |
 | Adria eSports | 281 | +311.4 | +210.2 | +17.3 |
 | ItAintOverYet | 284 | +299.8 | +178.9 | +16.6 |
 | Entertainment Cheese | 285 | +298.0 | +198.3 | +16.3 |
 | Midwest Farmers | 286 | +293.4 | +195.7 | +15.9 |
 | the dragon warrior scroll | 268 | +348.5 | +172.4 | +15.6 |
-| Imperium | 283 | +302.7 | +163.4 | +15.5 |
+| Imperium | 283 | +302.8 | +163.5 | +15.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +342.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +342.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.6), 3 Feet Of Meat (+1.3), shirtcockin (+1.9).
 
@@ -80,7 +80,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.11 | 0.90 | +75.9 | BentIie, MOD8sf, acekr, estrojin, zr0 |
 | 2026-08-26 | Tractors | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -53.8 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-08-21 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.04 | 0.85 | +48.6 | BentIie, MOD8sf, acekr, estrojin, zr0 |
-| 2026-08-19 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.03 | 0.84 | +124.4 | BentIie, acekr, estrojin, soogyum, zr0 |
+| 2026-08-19 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.03 | 0.84 | +124.5 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-08-14 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -103.8 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-08-12 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -66.6 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-08-07 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -34.3 | BentIie, MOD8sf, acekr, estrojin, zr0 |
@@ -95,7 +95,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +23.8 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-05-13 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +0.9 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-05-13 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.01 | 0.19 | +5.2 | BentIie, acekr, estrojin, soogyum, zr0 |
-| 2026-05-06 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +415.1 | BentIie, acekr, estrojin, soogyum, zr0 |
+| 2026-05-06 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +415.2 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-05-01 | shirtcockin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -266.0 | SKript269, acekr, estrojin, soogyum, zr0 |
 | 2026-04-24 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -122.2 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-04-22 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -169.2 | BentIie, MOD8sf, acekr, estrojin, soogyum, zr0 |

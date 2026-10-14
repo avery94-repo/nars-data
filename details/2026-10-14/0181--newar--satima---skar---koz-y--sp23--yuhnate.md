@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.069 | 1196.7 | - |
 | +30 days | 0.059 | 1182.3 | -14.4 |
 | +60 days | 0.053 | 1174.8 | -21.9 |
-| +90 days | 0.051 | 1170.9 | -25.8 |
+| +90 days | 0.051 | 1170.9 | -25.7 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.219 vs 0.272 average, gap -0.053). Matching that average is worth about 18.6 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Shadow Wizard Money Gang | 180 | 1515.9 | +2.7 | +172.8 |
-| ALL IN | 179 | 1516.6 | +3.4 | +160.5 |
-| FoxtrotAlpha | 178 | 1518.8 | +5.6 | +161.2 |
-| BUCK NASTY | 177 | 1518.8 | +5.6 | +161.2 |
+| Shadow Wizard Money Gang | 180 | 1516.1 | +2.9 | +172.8 |
+| ALL IN | 179 | 1516.6 | +3.4 | +160.6 |
+| FoxtrotAlpha | 178 | 1518.8 | +5.6 | +161.3 |
+| BUCK NASTY | 177 | 1518.8 | +5.6 | +161.3 |
 | APEX | 176 | 1521.9 | +8.7 | +170.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Omen Esports | 57 | +344.6 | +365.5 | +29.4 |
-| flat earth | 64 | +313.3 | +322.7 | +28.5 |
-| Endless Esports | 65 | +312.8 | +325.1 | +28.3 |
-| DUMBO | 63 | +313.9 | +354.7 | +27.1 |
-| WhalersOnDaMoon | 66 | +308.7 | +328.4 | +26.7 |
-| NZ Gaming | 69 | +300.0 | +297.6 | +26.5 |
+| Omen Esports | 57 | +344.8 | +365.7 | +29.4 |
+| flat earth | 64 | +313.4 | +322.8 | +28.5 |
+| Endless Esports | 65 | +312.9 | +325.3 | +28.3 |
+| DUMBO | 63 | +313.9 | +354.8 | +27.1 |
+| WhalersOnDaMoon | 66 | +308.7 | +328.5 | +26.7 |
+| NZ Gaming | 69 | +300.2 | +297.8 | +26.5 |
 | GeneticDiff | 70 | +279.7 | +297.3 | +22.9 |
-| F5 Esports | 60 | +322.1 | +340.9 | +22.5 |
-| fih hou | 73 | +272.5 | +305.5 | +21.3 |
-| Asoka | 74 | +270.1 | +279.0 | +21.1 |
+| F5 Esports | 60 | +322.3 | +341.0 | +22.5 |
+| fih hou | 73 | +272.5 | +305.6 | +21.3 |
+| Asoka | 74 | +270.1 | +279.1 | +21.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +624.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +624.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 

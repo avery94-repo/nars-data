@@ -54,7 +54,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Eightball | 253 | +331.9 | +331.2 | +30.2 |
 | Dude Picks | 252 | +333.8 | +357.9 | +30.0 |
 | 2THRiLL | 246 | +342.9 | +286.1 | +29.9 |
-| drunk cigs dont count | 255 | +329.4 | +347.7 | +29.9 |
+| drunk cigs dont count | 255 | +329.4 | +347.8 | +29.9 |
 | THE GUILD | 264 | +315.3 | +296.1 | +29.4 |
 | Kinetic | 260 | +320.5 | +338.0 | +29.1 |
 | DadDick Esports | 261 | +318.7 | +332.1 | +29.1 |
@@ -78,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-28 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -63.1 | --Niv--, GrimYeti, Plid, kinster, momsfav |
 | 2026-08-26 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -3.1 | --Niv--, GrimYeti, Plid, kinster, momsfav |
-| 2026-08-21 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -91.2 | --Niv--, KRISPE__, Plid, kinster, momsfav |
+| 2026-08-21 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -91.3 | --Niv--, KRISPE__, Plid, kinster, momsfav |
 | 2026-08-19 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -60.7 | --Evil---, --Niv--, KRISPE__, kinster, momsfav |
 | 2026-08-14 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.07 | 0.79 | +2.5 | --Evil---, --Niv--, GrimYeti, KRISPE__, kinster |
 | 2026-08-12 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +66.4 | --Evil---, --Niv--, KRISPE__, kinster, momsfav |

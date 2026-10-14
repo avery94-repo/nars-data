@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.053 | 1173.8 | - |
 | +30 days | 0.056 | 1178.8 | +5.0 |
 | +60 days | 0.058 | 1181.0 | +7.2 |
-| +90 days | 0.061 | 1185.5 | +11.6 |
+| +90 days | 0.061 | 1185.5 | +11.7 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.129 vs 0.299 average, gap -0.170). Matching that average is worth about 59.5 seed points.
 
@@ -42,23 +42,23 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Meepins | 297 | 1271.1 | +1.1 | +76.9 |
 | University of Cincinnati | 296 | 1278.3 | +8.3 | +76.3 |
 | COGNITIVE | 295 | 1279.1 | +9.1 | +82.2 |
-| Dynasty | 294 | 1279.9 | +9.9 | +78.9 |
-| Cream Team | 293 | 1282.4 | +12.4 | +80.2 |
+| Dynasty | 294 | 1279.8 | +9.8 | +78.9 |
+| Cream Team | 293 | 1282.4 | +12.4 | +80.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Kaos | 139 | +340.8 | +131.7 | +14.1 |
-| KODEX ESPORTS | 137 | +346.5 | +184.6 | +13.7 |
-| Team Amplus | 145 | +324.2 | +148.9 | +13.4 |
+| Kaos | 138 | +340.8 | +131.7 | +14.1 |
+| KODEX ESPORTS | 135 | +346.7 | +184.6 | +13.7 |
+| Elusive | 141 | +334.4 | +167.7 | +13.7 |
+| Team Amplus | 145 | +324.3 | +149.0 | +13.4 |
 | Kevin James Fan Club | 148 | +310.9 | +141.5 | +12.8 |
 | Biggie Cheese Fan Club | 151 | +306.6 | +127.6 | +12.5 |
 | WhiteBoyWinter | 155 | +296.7 | +133.1 | +11.9 |
 | offBalance | 165 | +272.3 | +131.1 | +10.0 |
 | Order Zero | 156 | +294.8 | +118.1 | +9.7 |
 | Oath | 142 | +332.2 | +123.1 | +9.5 |
-| Pug Palace | 167 | +265.8 | +133.3 | +9.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +238.3 points at current ratings.
 

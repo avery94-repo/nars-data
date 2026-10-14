@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Halcyon | 423 | 993.8 | +5.9 | +164.2 |
 | Atlantis eSports | 422 | 997.4 | +9.5 | +165.3 |
-| Specter Esports | 421 | 999.7 | +11.8 | +166.0 |
+| Specter Esports | 421 | 999.6 | +11.7 | +166.0 |
 | Strafe | 420 | 1002.1 | +14.2 | +175.5 |
 | puggin4seb | 419 | 1002.8 | +14.9 | +175.6 |
 
@@ -50,13 +50,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Saltcrew | 276 | +332.9 | +311.8 | +31.3 |
-| Demolition | 279 | +328.1 | +310.2 | +30.6 |
+| Demolition | 279 | +328.2 | +310.3 | +30.6 |
 | Chopped | 277 | +331.9 | +339.2 | +30.4 |
-| Adria eSports | 281 | +326.3 | +348.0 | +29.5 |
+| Adria eSports | 281 | +326.3 | +348.1 | +29.5 |
 | ItAintOverYet | 284 | +314.7 | +299.5 | +29.2 |
 | Entertainment Cheese | 285 | +312.9 | +328.2 | +28.4 |
 | Midwest Farmers | 286 | +308.3 | +323.7 | +27.9 |
-| Imperium | 283 | +317.6 | +276.4 | +27.8 |
+| Imperium | 283 | +317.7 | +276.5 | +27.8 |
 | 55TH ST | 288 | +303.4 | +327.5 | +27.0 |
 | Resurgence | 290 | +295.7 | +299.2 | +26.3 |
 
@@ -86,7 +86,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -0.6 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-07-29 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -100.0 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-07-24 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -273.5 | -ethn, Vitalz, fuLLi, kaleq, mythii |
-| 2026-07-22 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.09 | 0.74 | +233.2 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-07-22 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.09 | 0.74 | +233.3 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-07-17 | Automatic HQ | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.11 | 0.70 | +380.2 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-07-15 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.00 | 0.00 | -136.7 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-05-22 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.02 | 0.26 | +234.0 | -brz, -ethn, Vitalz, fuLLi, mythii |

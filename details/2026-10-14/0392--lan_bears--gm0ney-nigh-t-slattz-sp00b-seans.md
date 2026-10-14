@@ -3,11 +3,11 @@ Team Name: Lan Bears
 Roster: gm0ney, Nigh-T, Slattz, Sp00b, seans
 NARS Rank: 392 of 506
 
-Final Rating: 1072.5
+Final Rating: 1072.4
 Seeded Start: 1272.8
-H2H Adjustment: -200.3
+H2H Adjustment: -200.4
 
-Final Rating (1072.5) = Seeded Start (1272.8) + H2H Adjustment (-200.3)
+Final Rating (1072.4) = Seeded Start (1272.8) + H2H Adjustment (-200.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| High T Low E | 391 | 1073.4 | +0.9 | +122.0 |
-| Sable | 390 | 1080.2 | +7.7 | +123.7 |
-| Second Nature | 389 | 1082.1 | +9.6 | +124.1 |
-| Kahoot Squad | 388 | 1082.6 | +10.1 | +130.2 |
-| Flow Esports | 387 | 1083.6 | +11.1 | +133.3 |
+| High T Low E | 391 | 1073.4 | +1.0 | +122.1 |
+| Sable | 390 | 1080.2 | +7.8 | +123.7 |
+| Second Nature | 389 | 1082.1 | +9.7 | +124.1 |
+| Kahoot Squad | 388 | 1082.6 | +10.2 | +130.2 |
+| Flow Esports | 387 | 1083.5 | +11.1 | +133.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| YHTR | 235 | +341.2 | +255.8 | +23.1 |
-| FUELED BY HATE | 241 | +331.8 | +225.2 | +23.0 |
-| NXG Esports | 242 | +331.5 | +251.4 | +22.9 |
-| Fortis Fortuna Adiuvat | 237 | +333.8 | +241.9 | +22.9 |
-| brb grinding minecraft | 239 | +333.0 | +260.6 | +22.9 |
-| Casual Mature Gamers | 238 | +333.4 | +266.0 | +22.3 |
-| The Kerbins | 250 | +306.1 | +242.7 | +20.5 |
-| skebob | 231 | +348.2 | +210.0 | +20.2 |
-| Dude Picks | 252 | +305.0 | +254.5 | +20.2 |
-| Eightball | 253 | +303.1 | +235.1 | +20.0 |
+| YHTR | 235 | +341.3 | +255.9 | +23.1 |
+| FUELED BY HATE | 241 | +331.9 | +225.3 | +23.0 |
+| NXG Esports | 242 | +331.7 | +251.5 | +22.9 |
+| Fortis Fortuna Adiuvat | 237 | +333.9 | +242.0 | +22.9 |
+| brb grinding minecraft | 239 | +333.1 | +260.7 | +22.9 |
+| Casual Mature Gamers | 238 | +333.5 | +266.1 | +22.3 |
+| The Kerbins | 250 | +306.2 | +242.8 | +20.5 |
+| skebob | 231 | +348.5 | +210.1 | +20.2 |
+| Dude Picks | 252 | +305.1 | +254.6 | +20.2 |
+| Eightball | 253 | +303.2 | +235.2 | +20.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +432.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +432.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.9), shirtcockin (+1.3), Courage (+1.5).
 
@@ -93,7 +93,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Conduit eSports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -5.2 | Nigh-T, Slattz, Sp00b, aam, glimpus- |
 | 2026-07-17 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +87.5 | Nigh-T, Slattz, Sp00b, aam, glimpus- |
 | 2026-07-15 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -169.7 | Nigh-T, Sp00b, aam, glimpus-, seans |
-| 2026-05-31 | Sleepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -109.1 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
+| 2026-05-31 | Sleepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -109.2 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
 | 2026-05-29 | Power of Friendship | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +185.2 | -Hatty, Slattz, Sp00b, b5b, seans |
 | 2026-05-27 | WaterDrinkers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -154.9 | Nigh-T, Slattz, Sp00b, b5b, seans |
 | 2026-05-22 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -3.6 | -Hatty, Nigh-T, Slattz, seans, shane666 |

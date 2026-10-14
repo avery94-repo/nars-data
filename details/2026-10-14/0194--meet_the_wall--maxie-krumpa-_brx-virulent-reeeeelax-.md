@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | 91AshLiu | 193 | 1497.1 | +0.1 | +148.3 |
-| teamington | 192 | 1498.0 | +1.0 | +155.4 |
+| teamington | 192 | 1498.0 | +1.0 | +155.5 |
 | UncsStillGotIt | 191 | 1499.3 | +2.3 | +161.3 |
 | No Leaders Please | 190 | 1499.4 | +2.4 | +159.4 |
-| Lynnsanity | 189 | 1500.0 | +3.0 | +159.6 |
+| Lynnsanity | 189 | 1500.0 | +3.0 | +159.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +329.5 | +307.1 | +28.0 |
-| Endless Esports | 65 | +329.0 | +309.7 | +27.8 |
-| NZ Gaming | 69 | +316.2 | +282.8 | +26.6 |
-| DUMBO | 63 | +330.1 | +339.3 | +26.5 |
-| WhalersOnDaMoon | 66 | +324.9 | +313.2 | +26.4 |
-| GeneticDiff | 70 | +295.9 | +283.6 | +23.8 |
+| flat earth | 64 | +329.6 | +307.3 | +28.0 |
+| Endless Esports | 65 | +329.1 | +309.8 | +27.8 |
+| NZ Gaming | 69 | +316.4 | +283.0 | +26.6 |
+| DUMBO | 63 | +330.1 | +339.4 | +26.6 |
+| WhalersOnDaMoon | 66 | +324.9 | +313.3 | +26.4 |
+| GeneticDiff | 70 | +295.9 | +283.7 | +23.9 |
 | fih hou | 73 | +288.7 | +292.5 | +22.6 |
-| Asoka | 74 | +286.3 | +265.6 | +22.5 |
-| F5 Esports | 60 | +338.3 | +324.8 | +22.1 |
-| Club 333 | 76 | +285.3 | +312.8 | +21.9 |
+| Asoka | 74 | +286.3 | +265.7 | +22.5 |
+| F5 Esports | 60 | +338.5 | +324.9 | +22.1 |
+| Club 333 | 76 | +285.4 | +312.9 | +21.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +563.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +563.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 

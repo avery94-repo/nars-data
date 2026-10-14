@@ -4,14 +4,14 @@ Roster: SteadFast, DanieIH, LandonW, Sithiss, dycfghvjuczx
 NARS Rank: 209 of 506
 
 Final Rating: 1463.6
-Seeded Start: 1321.6
-H2H Adjustment: +142.0
+Seeded Start: 1321.5
+H2H Adjustment: +142.1
 
-Final Rating (1463.6) = Seeded Start (1321.6) + H2H Adjustment (+142.0)
+Final Rating (1463.6) = Seeded Start (1321.5) + H2H Adjustment (+142.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.158 x 1400 = 1321.6
+                = 1100 + 0.158 x 1400 = 1321.5
 
 seed_factor 0.158 = 0.25 x Tier Exposure (0.099) + 0.50 x Quality Wins (0.040) + 0.25 x Opponent Network (0.454)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.158 | 1321.6 | - |
+| Now | 0.158 | 1321.5 | - |
 | +30 days | 0.126 | 1276.4 | -45.1 |
 | +60 days | 0.103 | 1243.8 | -77.8 |
-| +90 days | 0.070 | 1198.3 | -123.2 |
+| +90 days | 0.070 | 1198.4 | -123.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.040 vs 0.047 average, gap -0.007). Matching that average is worth about 4.9 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | noname | 208 | 1467.3 | +3.7 | +160.3 |
-| Squeegee | 207 | 1467.8 | +4.2 | +151.8 |
-| AscendentEsport | 206 | 1467.9 | +4.3 | +163.6 |
-| STFDYSAB | 205 | 1470.1 | +6.5 | +152.5 |
-| Aspyre | 204 | 1475.4 | +11.8 | +156.6 |
+| AscendentEsport | 207 | 1467.9 | +4.3 | +163.7 |
+| Squeegee | 206 | 1468.0 | +4.4 | +151.9 |
+| STFDYSAB | 205 | 1470.1 | +6.5 | +152.6 |
+| Aspyre | 204 | 1475.5 | +11.9 | +156.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NZ Gaming | 69 | +349.6 | +302.2 | +30.0 |
-| GeneticDiff | 70 | +329.3 | +304.1 | +28.1 |
-| Asoka | 74 | +319.7 | +284.3 | +27.5 |
-| fih hou | 73 | +322.1 | +314.6 | +27.1 |
-| Kairo | 79 | +315.3 | +279.5 | +27.1 |
-| Club 333 | 76 | +318.7 | +338.1 | +26.3 |
-| CNCS Last Hope | 72 | +325.1 | +257.2 | +26.2 |
-| firesale | 82 | +304.6 | +295.2 | +25.8 |
-| mas paspas | 75 | +319.4 | +325.8 | +25.6 |
-| Diggers | 86 | +299.8 | +267.9 | +25.4 |
+| NZ Gaming | 69 | +349.8 | +302.4 | +30.0 |
+| GeneticDiff | 70 | +329.3 | +304.2 | +28.2 |
+| Asoka | 74 | +319.7 | +284.4 | +27.5 |
+| fih hou | 73 | +322.1 | +314.7 | +27.1 |
+| Kairo | 79 | +315.4 | +279.6 | +27.1 |
+| Club 333 | 76 | +318.8 | +338.3 | +26.3 |
+| CNCS Last Hope | 72 | +325.1 | +257.3 | +26.2 |
+| firesale | 82 | +304.7 | +295.3 | +25.9 |
+| mas paspas | 75 | +319.4 | +325.9 | +25.6 |
+| Diggers | 86 | +300.0 | +268.1 | +25.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +575.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +576.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -89,14 +89,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | DingTone | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.07 | 0.81 | +95.4 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-07-29 | RejexEsports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.04 | 0.79 | +37.5 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-07-24 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.12 | 0.75 | +141.4 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
-| 2026-07-22 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -198.5 | DanieIH, LandonW, LollypopTV, SteadFast, dycfghvjuczx |
-| 2026-07-17 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -363.7 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
+| 2026-07-22 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -198.6 | DanieIH, LandonW, LollypopTV, SteadFast, dycfghvjuczx |
+| 2026-07-17 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.00 | 0.00 | -363.8 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-07-15 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.04 | 0.68 | +166.3 | DanieIH, LandonW, LollypopTV, SteadFast, dycfghvjuczx |
 | 2026-06-06 | Crimson Vortex | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.33 | 1.24 | 1.00 | 0.41 | 0.00 | 0.00 | -6.3 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
-| 2026-06-04 | BUCK NASTY | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.01 | 0.39 | +337.6 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
-| 2026-05-27 | Locally Hated | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.00 | 0.00 | -253.8 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
+| 2026-06-04 | BUCK NASTY | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.24 | 1.00 | 0.39 | 0.01 | 0.39 | +337.7 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
+| 2026-05-27 | Locally Hated | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.32 | 0.00 | 0.00 | -253.9 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-05-22 | MXA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +16.0 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
-| 2026-05-20 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +116.9 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
+| 2026-05-20 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +117.0 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |
 | 2026-05-15 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -53.6 | DanieIH, LandonW, LollypopTV, Sithiss, dycfghvjuczx |
 | 2026-05-13 | Locally Hated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -343.2 | DanieIH, LandonW, LollypopTV, Sithiss, dycfghvjuczx |
 | 2026-05-08 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -5.8 | DanieIH, LandonW, Sithiss, SteadFast, dycfghvjuczx |

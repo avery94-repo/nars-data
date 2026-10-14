@@ -5,7 +5,7 @@ NARS Rank: 472 of 506
 
 Final Rating: 797.3
 Seeded Start: 1123.0
-H2H Adjustment: -325.7 (capped at +-300, raw -325.6)
+H2H Adjustment: -325.7
 
 Final Rating (797.3) = Seeded Start (1123.0) + H2H Adjustment (-325.7)
 
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.000 | 1100.0 | -23.0 |
 | +90 days | 0.000 | 1100.0 | -23.0 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.044 vs 0.105 average, gap -0.061). Matching that average is worth about 21.3 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.044 vs 0.105 average, gap -0.061). Matching that average is worth about 21.4 seed points.
 
 - Tier Exposure drivers: S57 NA Intermediate Central - Playoffs B (2026-05-29) 0.28; S57 NA Intermediate Central - Regular Season (2026-05-22) 0.23
 - Quality Wins drivers: beat Lan Bears at S57 NA Intermediate Central - Regular Season (2026-05-13) 0.01; beat TahMeow at S57 NA Intermediate Central - Regular Season (2026-05-22) 0.01; beat AURA Esports at S57 NA Intermediate Central - Regular Season (2026-04-22) 0.00
@@ -39,10 +39,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| CounterStreakrs | 471 | 808.2 | +10.9 | +165.7 |
+| CounterStreakrs | 471 | 808.1 | +10.8 | +165.7 |
 | In Our Prime | 470 | 811.1 | +13.8 | +166.6 |
 | Gambling and Young | 469 | 812.8 | +15.5 | +167.2 |
-| Pro Lapse | 468 | 822.2 | +24.9 | +170.2 |
+| Pro Lapse | 468 | 822.1 | +24.8 | +170.2 |
 | Octane | 467 | 825.4 | +28.1 | +171.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -54,9 +54,9 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | OnThaGear | 363 | +349.1 | +343.3 | +32.0 |
 | Mongolian Tractor | 366 | +341.6 | +326.5 | +31.8 |
 | Team Zhao | 373 | +319.1 | +341.8 | +28.9 |
-| iNSTINCT | 365 | +348.6 | +288.2 | +28.6 |
-| Shadow Wizard Money Gang | 376 | +310.5 | +313.9 | +28.4 |
-| Zamgaa Anime Aimers | 378 | +306.7 | +296.6 | +28.1 |
+| iNSTINCT | 365 | +348.6 | +288.3 | +28.6 |
+| Shadow Wizard Money Gang | 376 | +310.4 | +313.9 | +28.4 |
+| Zamgaa Anime Aimers | 378 | +306.7 | +296.7 | +28.1 |
 | Costco Family | 382 | +305.2 | +298.1 | +27.9 |
 | We Play Naked | 380 | +305.9 | +313.2 | +27.7 |
 

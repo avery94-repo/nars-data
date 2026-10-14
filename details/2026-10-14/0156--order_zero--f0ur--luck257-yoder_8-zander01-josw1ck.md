@@ -5,7 +5,7 @@ NARS Rank: 156 of 506
 
 Final Rating: 1564.8
 Seeded Start: 1127.9
-H2H Adjustment: +436.9 (capped at +-300, raw +436.8)
+H2H Adjustment: +436.9
 
 Final Rating (1564.8) = Seeded Start (1127.9) + H2H Adjustment (+436.9)
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | WhiteBoyWinter | 155 | 1566.7 | +1.9 | +168.7 |
-| ASYCS KITTENS | 154 | 1569.5 | +4.7 | +166.8 |
+| ASYCS KITTENS | 154 | 1569.6 | +4.8 | +166.8 |
 | MINDTRIP | 153 | 1569.7 | +4.9 | +163.8 |
-| Celestial Esports | 152 | 1574.5 | +9.7 | +173.7 |
+| Celestial Esports | 152 | 1574.6 | +9.8 | +173.7 |
 | Biggie Cheese Fan Club | 151 | 1576.6 | +11.8 | +169.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Swole Patrol | 45 | +349.6 | +290.2 | +33.0 |
-| Xiaoma Gaming | 46 | +346.7 | +379.4 | +30.4 |
+| Swole Patrol | 45 | +349.7 | +290.3 | +33.0 |
+| Xiaoma Gaming | 46 | +346.9 | +379.5 | +30.4 |
 | FLOW STATE | 47 | +332.6 | +354.7 | +30.0 |
 | No Future Lifes Over | 50 | +322.4 | +322.1 | +29.8 |
 | DESPAIR | 49 | +323.9 | +322.7 | +29.6 |
 | TheMotherLovers | 53 | +313.2 | +328.5 | +28.4 |
-| Phantom Sense | 51 | +319.0 | +383.8 | +28.1 |
-| Omen Esports | 57 | +293.0 | +338.6 | +24.5 |
+| Phantom Sense | 51 | +319.1 | +383.8 | +28.1 |
+| Omen Esports | 57 | +293.2 | +338.7 | +24.5 |
 | GG | 52 | +316.7 | +276.1 | +22.6 |
-| flat earth | 64 | +261.7 | +299.6 | +19.8 |
+| flat earth | 64 | +261.8 | +299.6 | +19.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 

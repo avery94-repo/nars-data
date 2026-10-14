@@ -3,11 +3,11 @@ Team Name: Endless Esports
 Roster: STIKER, Blxckie, Go0dby3, VoltageJM, ogura
 NARS Rank: 65 of 506
 
-Final Rating: 1826.0
+Final Rating: 1826.1
 Seeded Start: 1394.2
-H2H Adjustment: +431.8
+H2H Adjustment: +431.9 (capped at +-300, raw +432.0)
 
-Final Rating (1826.0) = Seeded Start (1394.2) + H2H Adjustment (+431.8)
+Final Rating (1826.1) = Seeded Start (1394.2) + H2H Adjustment (+431.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.210 | 1394.2 | - |
 | +30 days | 0.183 | 1356.8 | -37.4 |
 | +60 days | 0.163 | 1327.8 | -66.3 |
-| +90 days | 0.142 | 1298.3 | -95.9 |
+| +90 days | 0.142 | 1298.4 | -95.8 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.540 vs 0.677 average, gap -0.137). Matching that average is worth about 48.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | 1826.5 | +0.5 | +92.2 |
-| DUMBO | 63 | 1827.1 | +1.1 | +97.3 |
-| academy 4 gifted children | 62 | 1829.1 | +3.1 | +90.9 |
-| Sedated | 61 | 1831.7 | +5.7 | +91.3 |
-| F5 Esports | 60 | 1835.3 | +9.3 | +96.4 |
+| flat earth | 64 | 1826.6 | +0.5 | +92.2 |
+| DUMBO | 63 | 1827.1 | +1.0 | +97.3 |
+| academy 4 gifted children | 62 | 1829.2 | +3.1 | +90.9 |
+| Sedated | 61 | 1831.8 | +5.7 | +91.2 |
+| F5 Esports | 60 | 1835.5 | +9.4 | +96.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NuTorious | 17 | +339.7 | +150.3 | +15.5 |
-| FarmVille | 16 | +341.6 | +200.1 | +14.7 |
-| Villainous | 18 | +334.7 | +196.4 | +14.3 |
-| Iowa Stormboar | 21 | +289.9 | +186.0 | +12.6 |
-| Zomblers | 22 | +288.7 | +186.5 | +12.6 |
-| qcclan | 20 | +320.2 | +160.7 | +9.6 |
-| MASTER ONE | 19 | +333.5 | +155.6 | +8.4 |
-| duck crew | 23 | +270.1 | +125.5 | +3.3 |
+| NuTorious | 17 | +339.8 | +150.3 | +15.5 |
+| FarmVille | 16 | +341.8 | +200.2 | +14.7 |
+| Villainous | 18 | +334.8 | +196.5 | +14.3 |
+| Iowa Stormboar | 21 | +290.0 | +186.1 | +12.6 |
+| Zomblers | 22 | +288.8 | +186.5 | +12.6 |
+| qcclan | 20 | +320.1 | +160.7 | +9.6 |
+| MASTER ONE | 19 | +333.4 | +155.6 | +8.4 |
+| duck crew | 23 | +270.0 | +125.5 | +3.3 |
 | Olympus | 25 | +213.7 | +141.0 | +2.7 |
-| Automatic HQ | 27 | +204.9 | +146.3 | +0.8 |
+| Automatic HQ | 27 | +204.8 | +146.2 | +0.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +263.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +263.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): SuperSoakerClub (+0.0), we get it back (+0.0), RejexEsports (+0.0), Solbound (+0.0), Brothers United (+0.0).
 
@@ -80,7 +80,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-12 | ABG Esports | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.43 | 1.00 | 1.43 | 0.18 | 1.43 | +37.4 | Go0dby3, JTrops, STIKER, Titans-_-, ogura |
 | 2026-09-04 | Slimy Boogermen | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.93 | 1.55 | 1.00 | 1.44 | 0.00 | 0.00 | -57.4 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-09-03 | SportsBetExpert | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.92 | 1.55 | 1.00 | 1.43 | 0.00 | 0.00 | -0.2 | -_AJ, Blxckie, Go0dby3, STIKER, ogura |
-| 2026-08-28 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.28 | 0.14 | 1.28 | +50.8 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
+| 2026-08-28 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.45 | 1.00 | 1.28 | 0.13 | 1.28 | +50.8 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-08-26 | Holy Squid Empire | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.87 | 1.45 | 1.00 | 1.26 | 0.00 | 0.00 | -109.1 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-08-21 | DETONATE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.45 | 1.00 | 1.21 | 0.00 | 0.00 | -90.4 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-08-19 | House Platypus ESC | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.07 | 1.19 | +3.5 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
@@ -88,11 +88,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.07 | 1.06 | +21.2 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-07-31 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -250.0 | Blxckie, STIKER, VoltageJM, ogura, snufaffu |
 | 2026-07-29 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.16 | 0.99 | +102.0 | Go0dby3, STIKER, VoltageJM, ogura, snufaffu |
-| 2026-07-22 | Chicken Coop | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -47.8 | Blxckie, Go0dby3, STIKER, ogura, snufaffu |
+| 2026-07-22 | Chicken Coop | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -47.6 | Blxckie, Go0dby3, STIKER, ogura, snufaffu |
 | 2026-07-17 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.00 | 0.00 | -181.8 | Blxckie, Go0dby3, STIKER, ogura, snufaffu |
 | 2026-07-15 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -194.8 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-06-02 | Nomadic Tactics | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.03 | 0.31 | +138.3 | Go0dby3, STIKER, VoltageJM, ogura, snufaffu |
-| 2026-05-31 | STFDYSAB | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.04 | 0.30 | +24.7 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
+| 2026-05-31 | STFDYSAB | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.04 | 0.30 | +24.8 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-05-29 | Square1 | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.28 | 0.02 | 0.28 | +0.9 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-05-27 | Emerald Isle | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.01 | 0.27 | +0.8 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-05-22 | Nomadic Tactics | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.00 | +189.7 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |

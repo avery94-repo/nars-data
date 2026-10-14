@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.047 | 1166.3 | - |
-| +30 days | 0.034 | 1148.0 | -18.3 |
+| +30 days | 0.034 | 1148.0 | -18.4 |
 | +60 days | 0.026 | 1136.3 | -30.1 |
 | +90 days | 0.022 | 1130.6 | -35.8 |
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Amplus | 145 | +335.6 | +336.6 | +30.9 |
+| Team Amplus | 145 | +335.7 | +336.6 | +30.9 |
+| Elusive | 141 | +345.8 | +376.1 | +30.8 |
 | Kevin James Fan Club | 148 | +322.3 | +319.6 | +29.9 |
 | Biggie Cheese Fan Club | 151 | +318.0 | +292.0 | +29.8 |
 | WhiteBoyWinter | 155 | +308.1 | +301.1 | +28.3 |
 | offBalance | 165 | +283.7 | +293.3 | +24.2 |
 | Order Zero | 156 | +306.2 | +272.1 | +23.8 |
 | Oath | 142 | +343.6 | +286.4 | +22.9 |
-| Pug Palace | 167 | +277.2 | +296.2 | +22.7 |
-| BucketJonsBoys | 172 | +274.4 | +284.1 | +22.4 |
-| Shaboing Boing Bandits | 173 | +272.0 | +305.4 | +21.6 |
+| Pug Palace | 167 | +277.3 | +296.3 | +22.7 |
+| BucketJonsBoys | 172 | +274.5 | +284.1 | +22.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 

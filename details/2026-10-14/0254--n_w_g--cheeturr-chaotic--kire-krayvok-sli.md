@@ -25,7 +25,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.017 | 1124.3 | - |
-| +30 days | 0.001 | 1101.5 | -22.9 |
+| +30 days | 0.001 | 1101.5 | -22.8 |
 | +60 days | 0.000 | 1100.0 | -24.3 |
 | +90 days | 0.000 | 1100.0 | -24.3 |
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NineFlyeSports | 96 | +349.9 | +357.3 | +32.1 |
-| Axial | 101 | +331.2 | +319.0 | +30.5 |
-| FlyQuest RED | 97 | +345.5 | +368.7 | +30.2 |
-| Addice | 102 | +327.3 | +365.3 | +29.1 |
-| New Legends | 103 | +320.2 | +369.0 | +28.1 |
-| Holy Squid Empire | 108 | +303.5 | +309.9 | +27.2 |
-| Black Dragon Society | 109 | +295.5 | +327.7 | +25.8 |
-| Hadouken | 100 | +334.6 | +282.9 | +25.3 |
-| Bills | 99 | +336.7 | +283.8 | +23.8 |
-| Read You Like a Kindle | 116 | +279.5 | +321.1 | +22.9 |
+| NineFlyeSports | 95 | +350.0 | +357.4 | +32.1 |
+| Axial | 100 | +331.4 | +319.0 | +30.5 |
+| FlyQuest RED | 96 | +345.6 | +368.8 | +30.2 |
+| Addice | 101 | +327.5 | +365.4 | +29.1 |
+| New Legends | 102 | +320.3 | +369.1 | +28.1 |
+| Holy Squid Empire | 107 | +303.7 | +310.0 | +27.3 |
+| Black Dragon Society | 108 | +295.5 | +327.7 | +25.8 |
+| Hadouken | 99 | +334.6 | +282.9 | +25.3 |
+| Bills | 98 | +336.7 | +283.7 | +23.8 |
+| Read You Like a Kindle | 115 | +279.5 | +321.1 | +22.9 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.9 points at current ratings.
 
@@ -82,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +262.8 | ChinGoo, KIRE, chaotic-, krayvok, sLi |
 | 2026-05-14 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -345.6 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
 | 2026-05-08 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.02 | 0.15 | +298.5 | KIRE, cHEEturr, chaotic-, daylily, sLi |
-| 2026-05-07 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -364.2 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
+| 2026-05-07 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -364.3 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
 | 2026-05-01 | Entertainment Cheese | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.02 | 0.10 | +16.2 | Jacob_-, KIRE, chaotic-, krayvok, sLi |
 | 2026-04-24 | Free Frugz | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.05 | +13.8 | ChinGoo, KIRE, cHEEturr, chaotic-, sLi |
 | 2026-04-22 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +231.4 | Ghostii, KIRE, cHEEturr, chaotic-, sLi |

@@ -4,14 +4,14 @@ Roster: jerald, -Gor, Calvrix, sharpshootr, DrHippo
 NARS Rank: 450 of 506
 
 Final Rating: 895.4
-Seeded Start: 1237.9
-H2H Adjustment: -342.5
+Seeded Start: 1237.8
+H2H Adjustment: -342.4 (capped at +-300, raw -342.5)
 
-Final Rating (895.4) = Seeded Start (1237.9) + H2H Adjustment (-342.5)
+Final Rating (895.4) = Seeded Start (1237.8) + H2H Adjustment (-342.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.098 x 1400 = 1237.9
+                = 1100 + 0.098 x 1400 = 1237.8
 
 seed_factor 0.098 = 0.25 x Tier Exposure (0.053) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.301)
 
@@ -24,9 +24,9 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.098 | 1237.9 | - |
-| +30 days | 0.068 | 1194.7 | -43.2 |
-| +60 days | 0.055 | 1177.0 | -60.9 |
+| Now | 0.098 | 1237.8 | - |
+| +30 days | 0.068 | 1194.6 | -43.2 |
+| +60 days | 0.055 | 1176.9 | -60.9 |
 | +90 days | 0.037 | 1151.7 | -86.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.053 vs 0.064 average, gap -0.011). Matching that average is worth about 3.9 seed points.
@@ -41,9 +41,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Baja Blasters | 449 | 903.6 | +8.2 | +164.9 |
 | Team Deathgrip | 448 | 904.1 | +8.7 | +167.7 |
-| Schadenfreude | 447 | 909.3 | +13.9 | +166.7 |
-| It Doesnt Matter | 446 | 909.4 | +14.0 | +172.0 |
-| wabbit2 | 445 | 912.5 | +17.1 | +167.7 |
+| Schadenfreude | 447 | 909.2 | +13.8 | +166.7 |
+| It Doesnt Matter | 446 | 909.3 | +13.9 | +172.0 |
+| wabbit2 | 445 | 912.4 | +17.0 | +167.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -51,13 +51,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | fiveB | 318 | +343.1 | +322.4 | +32.1 |
 | Team TahMeow | 321 | +340.3 | +321.8 | +31.8 |
-| innerFire | 325 | +328.8 | +304.2 | +31.0 |
+| innerFire | 325 | +328.8 | +304.1 | +31.0 |
 | Transcended | 326 | +327.9 | +305.4 | +30.8 |
 | Double Dink | 329 | +325.2 | +287.7 | +30.4 |
-| Once Divine Gaming | 315 | +344.3 | +286.6 | +30.1 |
+| Once Divine Gaming | 315 | +344.3 | +286.7 | +30.1 |
 | NetanYAHOO | 323 | +331.9 | +354.0 | +30.0 |
 | PogSquad | 327 | +327.1 | +340.6 | +29.9 |
-| Relativity | 316 | +343.5 | +286.3 | +29.2 |
+| Relativity | 316 | +343.4 | +286.3 | +29.2 |
 | Brobies | 330 | +320.0 | +350.5 | +28.7 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
@@ -96,7 +96,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | Hairy Scary Bandits | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.03 | 0.18 | +153.1 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
 | 2026-05-08 | YHTR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.02 | 0.14 | +413.6 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
 | 2026-05-06 | The Plague | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -145.0 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
-| 2026-05-01 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -254.4 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
+| 2026-05-01 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -254.5 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
 | 2026-04-29 | Square1 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +57.3 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
 | 2026-04-24 | Abusement Park | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +11.2 | -Gor, Calvrix, DrHippo, jerald, sharpshootr |
 | 2026-04-22 | MINDTRIP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +313.0 | Calvrix, DrHippo, KorosuFPS, jerald, sharpshootr |

@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Team Hyper | 409 | 1037.3 | +0.4 | +174.4 |
+| Team Hyper | 409 | 1037.4 | +0.5 | +174.4 |
 | PSDN White | 408 | 1040.3 | +3.4 | +163.4 |
 | VeryBigDoogoos | 407 | 1043.7 | +6.8 | +164.4 |
 | Ubiquiti | 406 | 1043.7 | +6.8 | +166.0 |
@@ -52,7 +52,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | GoonAssOldheads | 258 | +332.9 | +310.5 | +31.3 |
 | The Kerbins | 250 | +341.7 | +345.6 | +31.2 |
 | Eightball | 253 | +338.7 | +334.9 | +30.8 |
-| Dude Picks | 252 | +340.6 | +362.2 | +30.6 |
+| Dude Picks | 252 | +340.6 | +362.1 | +30.6 |
 | 2THRiLL | 246 | +349.7 | +288.7 | +30.5 |
 | drunk cigs dont count | 255 | +336.2 | +351.8 | +30.5 |
 | THE GUILD | 264 | +322.1 | +299.1 | +30.2 |
@@ -77,6 +77,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Gloobers | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -122.0 | Bowl999, Princton, T3RMS, park666, powu |
 | 2026-09-02 | Cause and Effect Gaming | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.01 | 0.13 | 1.01 | +232.9 | Bowl999, Princton, T3RMS, park666, powu |
 | 2026-08-09 | STALLOONS BALLOONS | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.75 | 1.25 | 1.00 | 0.94 | 0.00 | 0.00 | -131.7 | Bowl999, T3RMS, park666, powu, yardy |
-| 2026-05-31 | Robert Gaming | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -237.6 | -virtue_, Princton, R3kt_U_M8, T3RMS, park666 |
+| 2026-05-31 | Robert Gaming | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.00 | 0.00 | -237.7 | -virtue_, Princton, R3kt_U_M8, T3RMS, park666 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

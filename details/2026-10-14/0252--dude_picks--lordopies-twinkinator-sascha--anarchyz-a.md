@@ -4,14 +4,14 @@ Roster: LordOPies, twinkinator, sascha, -Anarchyz, AGN
 NARS Rank: 252 of 506
 
 Final Rating: 1377.5
-Seeded Start: 1385.5
-H2H Adjustment: -8.0
+Seeded Start: 1385.4
+H2H Adjustment: -7.9
 
-Final Rating (1377.5) = Seeded Start (1385.5) + H2H Adjustment (-8.0)
+Final Rating (1377.5) = Seeded Start (1385.4) + H2H Adjustment (-7.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.204 x 1400 = 1385.5
+                = 1100 + 0.204 x 1400 = 1385.4
 
 seed_factor 0.204 = 0.25 x Tier Exposure (0.125) + 0.50 x Quality Wins (0.060) + 0.25 x Opponent Network (0.571)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.204 | 1385.5 | - |
-| +30 days | 0.189 | 1363.9 | -21.5 |
+| Now | 0.204 | 1385.4 | - |
+| +30 days | 0.188 | 1363.9 | -21.5 |
 | +60 days | 0.175 | 1344.9 | -40.6 |
-| +90 days | 0.153 | 1314.1 | -71.4 |
+| +90 days | 0.153 | 1314.2 | -71.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.031 average, gap +0.029). Matching that average is worth about 0.0 seed points.
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NineFlyeSports | 96 | +347.6 | +136.9 | +12.3 |
-| FlyQuest RED | 97 | +343.2 | +142.4 | +11.6 |
-| Axial | 101 | +328.9 | +121.7 | +11.6 |
-| Addice | 102 | +325.0 | +143.1 | +11.3 |
-| New Legends | 103 | +317.9 | +145.7 | +11.1 |
-| Holy Squid Empire | 108 | +301.2 | +120.0 | +10.5 |
-| Black Dragon Society | 109 | +293.2 | +129.5 | +10.1 |
-| Hadouken | 100 | +332.3 | +105.3 | +9.3 |
-| Read You Like a Kindle | 116 | +277.2 | +128.2 | +9.0 |
-| Bills | 99 | +334.4 | +105.5 | +8.8 |
+| NineFlyeSports | 95 | +347.7 | +137.0 | +12.3 |
+| FlyQuest RED | 96 | +343.3 | +142.4 | +11.6 |
+| Axial | 100 | +329.1 | +121.7 | +11.6 |
+| Addice | 101 | +325.2 | +143.1 | +11.4 |
+| New Legends | 102 | +318.0 | +145.7 | +11.1 |
+| Holy Squid Empire | 107 | +301.4 | +120.1 | +10.5 |
+| Black Dragon Society | 108 | +293.2 | +129.5 | +10.1 |
+| Hadouken | 99 | +332.3 | +105.3 | +9.3 |
+| Read You Like a Kindle | 115 | +277.2 | +128.2 | +9.0 |
+| Bills | 98 | +334.4 | +105.6 | +8.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +200.5 points at current ratings.
 
@@ -86,7 +86,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.09 | 0.84 | +31.4 | AGN, LordOPies, rise, sascha, twinkinator |
 | 2026-08-14 | Read You Like a Kindle | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.09 | 0.81 | +53.2 | -Anarchyz, LordOPies, rise, sascha, twinkinator |
 | 2026-08-12 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.00 | 0.00 | -84.5 | -Anarchyz, LordOPies, rise, sascha, twinkinator |
-| 2026-08-07 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -168.0 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
+| 2026-08-07 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -168.1 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-08-05 | enigma | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.11 | 0.74 | +9.3 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-31 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -13.0 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-24 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.08 | 0.66 | +22.1 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |

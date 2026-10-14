@@ -39,8 +39,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Specter Esports | 421 | 999.7 | +2.3 | +163.0 |
-| Strafe | 420 | 1002.1 | +4.7 | +171.8 |
+| Specter Esports | 421 | 999.6 | +2.2 | +163.0 |
+| Strafe | 420 | 1002.1 | +4.7 | +171.9 |
 | puggin4seb | 419 | 1002.8 | +5.4 | +172.0 |
 | Kodaks Lettuce | 418 | 1011.4 | +14.0 | +172.3 |
 | Mace Lindu Ruff Rebound | 417 | 1017.2 | +19.8 | +172.3 |
@@ -50,13 +50,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Saltcrew | 276 | +323.4 | +307.4 | +30.2 |
+| Demolition | 279 | +318.7 | +305.8 | +29.5 |
 | Chopped | 277 | +322.4 | +333.9 | +29.5 |
-| Demolition | 279 | +318.6 | +305.7 | +29.5 |
 | Adria eSports | 281 | +316.8 | +342.3 | +28.6 |
 | ItAintOverYet | 284 | +305.2 | +295.1 | +27.9 |
 | Entertainment Cheese | 285 | +303.4 | +322.9 | +27.1 |
 | Midwest Farmers | 286 | +298.8 | +318.5 | +26.5 |
-| Imperium | 283 | +308.1 | +272.8 | +26.4 |
+| Imperium | 283 | +308.2 | +272.9 | +26.4 |
 | 55TH ST | 288 | +293.9 | +322.0 | +25.6 |
 | Resurgence | 290 | +286.2 | +294.6 | +24.7 |
 
@@ -75,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-13 | Strafe | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -210.0 | -Arkham-, -Hatty, Rellac, Renim, crames_ |
+| 2026-08-13 | Strafe | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -210.1 | -Arkham-, -Hatty, Rellac, Renim, crames_ |
 | 2026-08-07 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.08 | 0.74 | +179.3 | -Arkham-, Rellac, Renim, Yoel, crames_ |
 | 2026-08-05 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -215.1 | -Arkham-, Rellac, Renim, Yoel, crames_ |
 | 2026-07-30 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.06 | 0.69 | +25.4 | -Arkham-, -Hatty, Rellac, Yoel, crames_ |

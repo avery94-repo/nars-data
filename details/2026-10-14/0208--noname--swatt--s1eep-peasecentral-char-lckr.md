@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.187 | 1361.4 | - |
 | +30 days | 0.170 | 1337.6 | -23.8 |
 | +60 days | 0.152 | 1312.2 | -49.2 |
-| +90 days | 0.118 | 1265.7 | -95.7 |
+| +90 days | 0.118 | 1265.8 | -95.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.059 vs 0.042 average, gap +0.017). Matching that average is worth about 0.0 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Squeegee | 207 | 1467.8 | +0.5 | +100.1 |
-| AscendentEsport | 206 | 1467.9 | +0.6 | +113.1 |
-| STFDYSAB | 205 | 1470.1 | +2.8 | +100.5 |
-| Aspyre | 204 | 1475.4 | +8.1 | +104.0 |
-| butt | 203 | 1476.2 | +8.9 | +102.4 |
+| AscendentEsport | 207 | 1467.9 | +0.6 | +113.1 |
+| Squeegee | 206 | 1468.0 | +0.7 | +100.2 |
+| STFDYSAB | 205 | 1470.1 | +2.8 | +100.6 |
+| Aspyre | 204 | 1475.5 | +8.2 | +104.0 |
+| butt | 203 | 1476.1 | +8.8 | +102.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NZ Gaming | 69 | +345.9 | +194.7 | +19.3 |
+| NZ Gaming | 69 | +346.1 | +194.8 | +19.3 |
 | GeneticDiff | 70 | +325.6 | +197.5 | +18.2 |
 | Asoka | 74 | +316.0 | +184.1 | +17.6 |
 | fih hou | 73 | +318.4 | +205.5 | +17.6 |
-| Kairo | 79 | +311.6 | +181.0 | +17.3 |
-| Club 333 | 76 | +315.0 | +222.6 | +17.2 |
+| Kairo | 79 | +311.7 | +181.0 | +17.3 |
+| Club 333 | 76 | +315.1 | +222.7 | +17.2 |
 | mas paspas | 75 | +315.7 | +213.7 | +16.7 |
-| firesale | 82 | +300.9 | +193.0 | +16.7 |
-| CNCS Last Hope | 72 | +321.4 | +164.6 | +16.6 |
-| Diggers | 86 | +296.1 | +173.7 | +16.2 |
+| firesale | 82 | +301.0 | +193.1 | +16.7 |
+| CNCS Last Hope | 72 | +321.4 | +164.7 | +16.6 |
+| Diggers | 86 | +296.3 | +173.7 | +16.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +336.3 points at current ratings.
 
@@ -82,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | absolute cinema | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.09 | 0.85 | +43.4 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-08-19 | Asoka | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.18 | 0.84 | +65.4 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-08-14 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -128.4 | Char, PeaseCentral, S1eep, Swatt-, lckr |
-| 2026-08-12 | Wolves | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.13 | 0.79 | +117.7 | Char, PeaseCentral, S1eep, Swatt-, lckr |
+| 2026-08-12 | Wolves | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.13 | 0.79 | +117.8 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-08-07 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -127.4 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-08-05 | Kairo | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.09 | 0.74 | +1.6 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-31 | Quality | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.05 | 0.71 | +2.2 | Char, PeaseCentral, S1eep, Swatt-, lckr |

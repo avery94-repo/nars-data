@@ -5,7 +5,7 @@ NARS Rank: 85 of 506
 
 Final Rating: 1764.1
 Seeded Start: 1386.5
-H2H Adjustment: +377.6
+H2H Adjustment: +377.6 (capped at +-300, raw +377.7)
 
 Final Rating (1764.1) = Seeded Start (1386.5) + H2H Adjustment (+377.6)
 
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.205 | 1386.5 | - |
 | +30 days | 0.181 | 1353.1 | -33.4 |
 | +60 days | 0.161 | 1324.9 | -61.5 |
-| +90 days | 0.141 | 1298.1 | -88.4 |
+| +90 days | 0.142 | 1298.2 | -88.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.059 vs 0.089 average, gap -0.030). Matching that average is worth about 21.0 seed points.
 
@@ -41,26 +41,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Orbit | 84 | 1765.3 | +1.2 | +94.8 |
 | Sound of Arthritis | 83 | 1766.7 | +2.6 | +98.1 |
-| firesale | 82 | 1768.2 | +4.1 | +105.4 |
+| firesale | 82 | 1768.3 | +4.2 | +105.5 |
 | Over 30 | 81 | 1771.6 | +7.5 | +105.2 |
-| EXODIA | 80 | 1778.2 | +14.1 | +106.1 |
+| EXODIA | 80 | 1778.3 | +14.2 | +106.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Olympus | 25 | +275.6 | +179.0 | +13.3 |
-| Automatic HQ | 27 | +266.8 | +186.5 | +11.9 |
-| duck crew | 23 | +332.0 | +157.0 | +9.0 |
-| VOID ALUNE | 29 | +243.8 | +140.8 | +8.4 |
-| Hairy Scary Bandits | 32 | +235.3 | +171.0 | +7.5 |
-| Chicken Coop | 33 | +234.1 | +194.6 | +7.3 |
-| Festina Lente | 24 | +278.7 | +147.3 | +6.8 |
-| Holly Molly | 35 | +224.3 | +160.0 | +5.1 |
-| EMPIRE | 36 | +219.5 | +178.6 | +4.4 |
-| babaG | 28 | +244.7 | +181.7 | +4.1 |
+| Olympus | 25 | +275.7 | +179.1 | +13.3 |
+| Automatic HQ | 27 | +266.8 | +186.6 | +11.9 |
+| duck crew | 23 | +332.0 | +157.1 | +9.0 |
+| VOID ALUNE | 29 | +243.8 | +140.9 | +8.4 |
+| Hairy Scary Bandits | 32 | +235.4 | +171.1 | +7.5 |
+| Chicken Coop | 33 | +234.3 | +194.7 | +7.3 |
+| Festina Lente | 24 | +279.0 | +147.4 | +6.8 |
+| Holly Molly | 35 | +224.4 | +160.0 | +5.1 |
+| EMPIRE | 36 | +219.7 | +178.7 | +4.4 |
+| babaG | 28 | +244.9 | +181.8 | +4.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +313.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +313.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0).
 
@@ -89,10 +89,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-25 | Sedated | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.86 | 1.20 | 1.00 | 1.03 | 0.00 | 0.00 | -83.2 | -aldo-, excite, fr0stbyte, frosly, jsr- |
 | 2026-08-22 | counterstrike Team | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.20 | 1.00 | 1.01 | 0.00 | 0.00 | -134.3 | -aldo-, excite, fr0stbyte, frosly, jsr- |
 | 2026-08-20 | The Homies | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.13 | 0.99 | +0.0 | -aldo-, excite, fr0stbyte, frosly, jsr- |
-| 2026-08-13 | Celestial Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.28 | 0.94 | +60.5 | -aldo-, Jumble, excite, fr0stbyte, jsr- |
-| 2026-08-12 | Playing for fun | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.93 | 0.16 | 0.93 | +526.8 | -aldo-, argy, fr0stbyte, frosly, jsr- |
+| 2026-08-13 | Celestial Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.94 | 0.28 | 0.94 | +60.6 | -aldo-, Jumble, excite, fr0stbyte, jsr- |
+| 2026-08-12 | Playing for fun | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.20 | 1.00 | 0.93 | 0.16 | 0.93 | +526.9 | -aldo-, argy, fr0stbyte, frosly, jsr- |
 | 2026-07-14 | SquadUp | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.75 | 0.00 | 0.00 | -75.5 | -aldo-, excite, fr0stbyte, frosly, jsr- |
-| 2026-06-12 | Armored Talent | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -239.2 | -aldo-, Chkemi, M0nroe_, fr0stbyte, jsr- |
+| 2026-06-12 | Armored Talent | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -239.3 | -aldo-, Chkemi, M0nroe_, fr0stbyte, jsr- |
 | 2026-06-10 | Retired Aimers | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.36 | 0.00 | 0.36 | +150.3 | -aldo-, Chkemi, M0nroe_, fr0stbyte, jsr- |
 | 2026-06-03 | Octane | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.31 | 1.00 | 1.00 | 0.31 | 0.01 | 0.31 | +30.0 | -aldo-, Griffin, brooks, fr0stbyte, jsr- |
 | 2026-05-30 | LAG Gaming | L |  | VRS-tracked 2026-05 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -0.0 | core 3/5 |

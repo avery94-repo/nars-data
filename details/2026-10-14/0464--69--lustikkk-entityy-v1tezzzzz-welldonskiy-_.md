@@ -3,11 +3,11 @@ Team Name: 69
 Roster: Lustikkk, Entityy, v1tezzzzz, welldonskiy, _STRILOK_
 NARS Rank: 464 of 506
 
-Final Rating: 832.3
+Final Rating: 832.2
 Seeded Start: 1207.9
-H2H Adjustment: -375.6 (capped at +-300, raw -375.7)
+H2H Adjustment: -375.7
 
-Final Rating (832.3) = Seeded Start (1207.9) + H2H Adjustment (-375.6)
+Final Rating (832.2) = Seeded Start (1207.9) + H2H Adjustment (-375.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.077 | 1207.9 | - |
 | +30 days | 0.058 | 1180.5 | -27.4 |
-| +60 days | 0.040 | 1155.6 | -52.4 |
+| +60 days | 0.040 | 1155.6 | -52.3 |
 | +90 days | 0.033 | 1146.5 | -61.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.207 vs 0.263 average, gap -0.056). Matching that average is worth about 19.6 seed points.
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| de_throne | 463 | 834.7 | +2.4 | +126.7 |
-| dogwater | 462 | 835.5 | +3.2 | +139.3 |
-| Remnant | 461 | 836.6 | +4.3 | +132.7 |
-| Absent Minded | 460 | 845.0 | +12.7 | +134.7 |
-| Puddle Pirates | 459 | 848.7 | +16.4 | +129.3 |
+| de_throne | 463 | 834.7 | +2.5 | +126.7 |
+| dogwater | 462 | 835.4 | +3.2 | +139.3 |
+| Remnant | 461 | 836.5 | +4.3 | +132.7 |
+| Absent Minded | 460 | 845.0 | +12.8 | +134.7 |
+| Puddle Pirates | 459 | 848.7 | +16.5 | +129.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Samantha 4 | 351 | +345.7 | +241.0 | +24.5 |
-| RunTheDamnBall | 352 | +334.8 | +253.2 | +23.6 |
-| DeathMark E-Sports | 353 | +334.2 | +261.1 | +23.4 |
-| Comeback Bandits | 355 | +328.3 | +245.9 | +23.2 |
-| 99 Thieves | 354 | +330.0 | +245.1 | +23.1 |
-| Macs Snacks | 359 | +321.6 | +230.8 | +22.9 |
-| Aers Money Crew | 360 | +320.9 | +237.5 | +22.7 |
-| RH Help Desk | 358 | +326.2 | +265.2 | +22.6 |
-| MINDTRIP | 361 | +317.2 | +242.2 | +22.3 |
-| Temple of Swing | 362 | +315.1 | +233.9 | +22.2 |
+| Samantha 4 | 351 | +345.8 | +241.0 | +24.5 |
+| RunTheDamnBall | 352 | +334.9 | +253.2 | +23.6 |
+| DeathMark E-Sports | 353 | +334.3 | +261.1 | +23.4 |
+| Comeback Bandits | 355 | +328.4 | +245.9 | +23.2 |
+| 99 Thieves | 354 | +330.1 | +245.1 | +23.1 |
+| Macs Snacks | 359 | +321.7 | +230.8 | +22.9 |
+| Aers Money Crew | 360 | +321.0 | +237.6 | +22.7 |
+| RH Help Desk | 358 | +326.4 | +265.3 | +22.7 |
+| MINDTRIP | 361 | +317.3 | +242.2 | +22.3 |
+| Temple of Swing | 362 | +315.2 | +233.9 | +22.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +448.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +448.5 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Open1-8 Central - Playoffs vs Chippys Ahoy (2026-05-29): expires in 41 days [Quality Wins 0.00, Opponent Network 0.28]
@@ -80,7 +80,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Team Deathgrip | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -108.3 | DOOR_1, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
 | 2026-08-21 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +75.1 | DOOR_1, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
 | 2026-08-19 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -69.5 | DOOR_1, Entityy, Lustikkk, v1tezzzzz, welldonskiy |
-| 2026-08-14 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -48.1 | Entityy, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
+| 2026-08-14 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -48.2 | Entityy, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
 | 2026-08-12 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -93.2 | DOOR_1, Yappi_1, _STRILOK_, v1tezzzzz, welldonskiy |
 | 2026-08-07 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -72.4 | DOOR_1, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
 | 2026-08-05 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.09 | 0.73 | +151.9 | DOOR_1, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |

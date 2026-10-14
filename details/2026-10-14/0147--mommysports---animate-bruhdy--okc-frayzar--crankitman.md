@@ -3,11 +3,11 @@ Team Name: MommySports
 Roster: -animate, bruhdy-, okc, Frayzar-, CrankItMan
 NARS Rank: 147 of 506
 
-Final Rating: 1587.1
+Final Rating: 1587.2
 Seeded Start: 1318.3
-H2H Adjustment: +268.8
+H2H Adjustment: +268.9
 
-Final Rating (1587.1) = Seeded Start (1318.3) + H2H Adjustment (+268.8)
+Final Rating (1587.2) = Seeded Start (1318.3) + H2H Adjustment (+268.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.156 | 1318.3 | - |
 | +30 days | 0.136 | 1290.0 | -28.2 |
 | +60 days | 0.113 | 1257.8 | -60.5 |
-| +90 days | 0.079 | 1210.6 | -107.7 |
+| +90 days | 0.079 | 1210.6 | -107.6 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.079 vs 0.069 average, gap +0.010). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| JPG | 146 | 1588.0 | +0.9 | +114.6 |
-| Team Amplus | 145 | 1594.2 | +7.1 | +119.8 |
-| pew pew | 144 | 1596.7 | +9.6 | +111.2 |
-| Los Pollos Hermanos | 143 | 1598.2 | +11.1 | +117.1 |
-| Oath | 142 | 1602.2 | +15.1 | +110.7 |
+| JPG | 146 | 1588.0 | +0.8 | +114.6 |
+| Team Amplus | 145 | 1594.3 | +7.1 | +119.8 |
+| pew pew | 144 | 1596.8 | +9.6 | +111.3 |
+| Los Pollos Hermanos | 143 | 1598.2 | +11.0 | +117.1 |
+| Oath | 142 | 1602.2 | +15.0 | +110.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Swole Patrol | 45 | +327.3 | +180.2 | +19.7 |
-| Wanted Goons | 43 | +346.0 | +268.7 | +19.6 |
-| Xiaoma Gaming | 46 | +324.4 | +240.0 | +18.9 |
-| FLOW STATE | 47 | +310.3 | +224.6 | +18.2 |
-| No Future Lifes Over | 50 | +300.1 | +203.2 | +17.6 |
-| DESPAIR | 49 | +301.6 | +203.6 | +17.5 |
-| Phantom Sense | 51 | +296.7 | +245.3 | +17.0 |
-| TheMotherLovers | 53 | +290.9 | +208.3 | +16.6 |
-| Omen Esports | 57 | +270.7 | +216.9 | +13.7 |
-| bubibabu | 44 | +341.5 | +206.9 | +12.6 |
+| Swole Patrol | 45 | +327.3 | +180.3 | +19.7 |
+| Wanted Goons | 43 | +346.1 | +268.8 | +19.7 |
+| Xiaoma Gaming | 46 | +324.5 | +240.1 | +18.9 |
+| FLOW STATE | 47 | +310.2 | +224.7 | +18.2 |
+| No Future Lifes Over | 50 | +300.0 | +203.3 | +17.6 |
+| DESPAIR | 49 | +301.5 | +203.6 | +17.5 |
+| Phantom Sense | 51 | +296.7 | +245.5 | +17.1 |
+| TheMotherLovers | 53 | +290.8 | +208.3 | +16.6 |
+| Omen Esports | 57 | +270.8 | +217.1 | +13.7 |
+| bubibabu | 44 | +341.5 | +207.0 | +12.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +368.1 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +368.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -77,10 +77,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | flat earth | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -6.4 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-09-09 | 1001 Fragrance | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.07 | 0.96 | +100.4 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-09-04 | MadaNASCAR | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.14 | 0.93 | +59.6 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
-| 2026-08-27 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.11 | 0.88 | +120.2 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
+| 2026-08-27 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.11 | 0.88 | +120.3 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-08-19 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -55.1 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-08-16 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -63.5 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
-| 2026-08-14 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -140.9 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
+| 2026-08-14 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -141.0 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-08-12 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -79.4 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-08-05 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.08 | 0.73 | +152.9 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |
 | 2026-07-31 | Goyim Gladiators | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.08 | 0.70 | +12.2 | -animate, CrankItMan, Frayzar-, bruhdy-, okc |

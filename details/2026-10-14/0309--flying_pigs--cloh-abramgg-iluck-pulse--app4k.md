@@ -4,14 +4,14 @@ Roster: Cloh, AbramGG, iLuCk, PuLse-, app4k
 NARS Rank: 309 of 506
 
 Final Rating: 1250.4
-Seeded Start: 1313.3
-H2H Adjustment: -62.9
+Seeded Start: 1313.2
+H2H Adjustment: -62.8
 
-Final Rating (1250.4) = Seeded Start (1313.3) + H2H Adjustment (-62.9)
+Final Rating (1250.4) = Seeded Start (1313.2) + H2H Adjustment (-62.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.152 x 1400 = 1313.3
+                = 1100 + 0.152 x 1400 = 1313.2
 
 seed_factor 0.152 = 0.25 x Tier Exposure (0.083) + 0.50 x Quality Wins (0.042) + 0.25 x Opponent Network (0.442)
 
@@ -24,10 +24,10 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.152 | 1313.3 | - |
+| Now | 0.152 | 1313.2 | - |
 | +30 days | 0.127 | 1277.7 | -35.6 |
 | +60 days | 0.107 | 1249.2 | -64.0 |
-| +90 days | 0.078 | 1208.5 | -104.7 |
+| +90 days | 0.078 | 1208.6 | -104.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.083 vs 0.061 average, gap +0.022). Matching that average is worth about 0.0 seed points.
 
@@ -39,9 +39,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Asian Invasion | 308 | 1250.7 | +0.3 | +159.3 |
+| Asian Invasion | 308 | 1250.8 | +0.4 | +159.3 |
 | Team Nyx | 307 | 1253.2 | +2.8 | +166.7 |
-| Anchors Anonymous | 306 | 1256.2 | +5.8 | +161.1 |
+| Anchors Anonymous | 306 | 1256.1 | +5.7 | +161.1 |
 | HeatPeek | 305 | 1258.6 | +8.2 | +161.7 |
 | Guangzhou Loong Lions | 304 | 1259.9 | +9.5 | +169.5 |
 
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Amplus | 145 | +343.8 | +334.1 | +30.9 |
-| Biggie Cheese Fan Club | 151 | +326.2 | +289.3 | +30.1 |
-| Kevin James Fan Club | 148 | +330.5 | +317.1 | +30.1 |
-| WhiteBoyWinter | 155 | +316.3 | +298.8 | +28.8 |
-| offBalance | 165 | +291.9 | +291.3 | +25.2 |
-| Order Zero | 156 | +314.4 | +269.4 | +24.4 |
-| Pug Palace | 167 | +285.4 | +294.4 | +23.8 |
-| BucketJonsBoys | 172 | +282.6 | +282.2 | +23.6 |
-| Shaboing Boing Bandits | 173 | +280.2 | +304.0 | +22.8 |
-| Armored Talent | 174 | +279.4 | +310.1 | +22.6 |
+| Team Amplus | 145 | +343.9 | +334.2 | +31.0 |
+| Biggie Cheese Fan Club | 151 | +326.2 | +289.4 | +30.1 |
+| Kevin James Fan Club | 148 | +330.5 | +317.2 | +30.1 |
+| WhiteBoyWinter | 155 | +316.3 | +298.9 | +28.8 |
+| offBalance | 165 | +291.9 | +291.4 | +25.2 |
+| Order Zero | 156 | +314.4 | +269.5 | +24.4 |
+| Pug Palace | 167 | +285.5 | +294.6 | +23.8 |
+| BucketJonsBoys | 172 | +282.7 | +282.3 | +23.6 |
+| Shaboing Boing Bandits | 173 | +280.2 | +304.1 | +22.9 |
+| Armored Talent | 174 | +279.5 | +310.2 | +22.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +623.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +623.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.2), shirtcockin (+0.4), Courage (+0.4), SixSevenZaZa (+0.7).
 
@@ -91,7 +91,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +121.8 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-07-15 | SixSevenZaZa | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -439.3 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-06-05 | Epochal Esports | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -129.4 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
-| 2026-05-31 | High-Tech Performance | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.02 | 0.29 | +171.0 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
+| 2026-05-31 | High-Tech Performance | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.02 | 0.29 | +171.1 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
 | 2026-05-29 | Iron Horse | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +174.3 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
 | 2026-05-27 | The Plague | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -186.1 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
 | 2026-05-22 | Costco Family | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -412.2 | Cloh, Fangcs, PuLse-, iLuCk, lil_ee |

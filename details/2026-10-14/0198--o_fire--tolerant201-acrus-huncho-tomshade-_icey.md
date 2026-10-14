@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.113 | 1258.3 | - |
 | +30 days | 0.111 | 1255.1 | -3.2 |
 | +60 days | 0.108 | 1250.7 | -7.6 |
-| +90 days | 0.112 | 1256.3 | -2.0 |
+| +90 days | 0.112 | 1256.4 | -1.9 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.296 vs 0.356 average, gap -0.060). Matching that average is worth about 21.0 seed points.
 
@@ -39,8 +39,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Storm Surge | 197 | 1488.6 | +0.1 | +73.0 |
-| ABG Esports | 196 | 1488.7 | +0.2 | +82.7 |
+| Storm Surge | 197 | 1488.6 | +0.1 | +73.1 |
+| ABG Esports | 196 | 1488.8 | +0.3 | +82.8 |
 | ClanAgain | 195 | 1493.3 | +4.8 | +77.7 |
 | MEET THE WALL | 194 | 1497.0 | +8.5 | +75.9 |
 | 91AshLiu | 193 | 1497.1 | +8.6 | +74.0 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +338.0 | +149.0 | +13.7 |
-| Endless Esports | 65 | +337.5 | +150.4 | +13.6 |
-| DUMBO | 63 | +338.6 | +166.6 | +13.1 |
-| NZ Gaming | 69 | +324.7 | +136.7 | +13.1 |
+| flat earth | 64 | +338.1 | +149.0 | +13.7 |
+| Endless Esports | 65 | +337.6 | +150.5 | +13.7 |
+| DUMBO | 63 | +338.6 | +166.7 | +13.1 |
+| NZ Gaming | 69 | +324.9 | +136.7 | +13.1 |
 | WhalersOnDaMoon | 66 | +333.4 | +152.8 | +13.0 |
 | GeneticDiff | 70 | +304.4 | +138.9 | +12.1 |
 | fih hou | 73 | +297.2 | +144.8 | +11.6 |
 | Asoka | 74 | +294.8 | +129.3 | +11.5 |
-| Club 333 | 76 | +293.8 | +157.3 | +11.4 |
-| Kairo | 79 | +290.4 | +127.1 | +11.1 |
+| Club 333 | 76 | +293.9 | +157.3 | +11.4 |
+| Kairo | 79 | +290.5 | +127.1 | +11.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +229.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +230.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -76,7 +76,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | drunk cigs dont count | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +132.6 | -NoM-, Acrus, Tomshade, _Icey, floydanyahu |
 | 2026-10-07 | house | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +82.1 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
 | 2026-09-09 | brb grinding minecraft | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 1.00 | 0.00 | 0.00 | -34.0 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
-| 2026-09-08 | Celestial Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.00 | 0.00 | -13.5 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
+| 2026-09-08 | Celestial Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.96 | 1.33 | 1.00 | 1.28 | 0.00 | 0.00 | -13.4 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
 | 2026-09-07 | New Legends | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.33 | 1.00 | 1.27 | 0.00 | 0.00 | -1.2 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
 | 2026-09-06 | FarmVille | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.00 | 0.00 | -0.0 | Acrus, Tolerant201, Tomshade, _Icey, prspct |
 | 2026-09-04 | enigma | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.33 | 1.00 | 1.24 | 0.00 | 0.00 | -230.2 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |

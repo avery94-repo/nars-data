@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| skebob | 231 | 1420.7 | +0.5 | +162.4 |
+| skebob | 231 | 1420.9 | +0.7 | +162.5 |
 | walkthemdown | 230 | 1424.6 | +4.4 | +164.9 |
 | The Third Eye | 229 | 1425.5 | +5.3 | +164.0 |
-| FRAGDEMONS | 228 | 1426.4 | +6.2 | +164.2 |
+| FRAGDEMONS | 228 | 1426.3 | +6.1 | +164.2 |
 | UltimateDarklordWizardz | 227 | 1427.1 | +6.9 | +175.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Diggers | 86 | +343.2 | +309.5 | +32.8 |
-| firesale | 82 | +348.0 | +342.4 | +32.4 |
+| Diggers | 86 | +343.4 | +309.6 | +32.8 |
+| firesale | 82 | +348.1 | +342.4 | +32.4 |
 | Fire Nation | 90 | +329.5 | +315.7 | +30.8 |
-| Fathom Gaming | 91 | +325.1 | +308.9 | +30.6 |
+| Fathom Gaming | 91 | +325.2 | +309.0 | +30.6 |
 | Overtake Sector | 89 | +330.7 | +395.0 | +29.1 |
 | PROFECO | 87 | +335.0 | +283.1 | +28.0 |
-| Green Grove Retirement | 94 | +308.4 | +321.2 | +27.9 |
-| Elusive | 93 | +311.4 | +355.0 | +27.8 |
-| NineFlyeSports | 96 | +304.9 | +330.8 | +27.7 |
-| FlyQuest RED | 97 | +300.5 | +340.0 | +25.7 |
+| Green Grove Retirement | 93 | +308.4 | +321.2 | +27.9 |
+| NineFlyeSports | 95 | +305.0 | +330.9 | +27.8 |
+| FlyQuest RED | 96 | +300.6 | +340.1 | +25.7 |
+| Axial | 100 | +286.4 | +296.7 | +24.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.8 points at current ratings.
 
@@ -77,23 +77,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-26 | Exnitas | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -69.7 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
+| 2026-08-26 | Exnitas | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.00 | 0.00 | -69.8 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-08-21 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.12 | 0.97 | +61.4 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-08-19 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.08 | 0.95 | +88.2 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-08-12 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -77.6 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-08-07 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.05 | 0.86 | +53.5 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-08-05 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.10 | 0.85 | +1.3 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-07-29 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.00 | 0.00 | -139.4 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
-| 2026-07-24 | bubibabu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -121.7 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
+| 2026-07-24 | bubibabu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -121.8 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-07-22 | US Navy Esports | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -31.6 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-07-17 | Entertainment Cheese | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.11 | 0.70 | +179.8 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-07-15 | 91AshLiu | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.04 | 0.68 | +382.1 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-05-22 | N w G | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -275.3 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
-| 2026-05-20 | Bird Squishers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -346.1 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
+| 2026-05-20 | Bird Squishers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -346.2 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-05-15 | Macs Snacks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.03 | 0.21 | +311.0 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-05-13 | Conscious Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -279.9 | -Dylan--, Jaidan, Raspubot, spenny6, tyco1 |
 | 2026-05-08 | Temple of Swing | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.01 | 0.15 | +3.3 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
-| 2026-05-06 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +311.9 | -Dylan--, Jaidan, Raspubot, spenny6, tyco1 |
+| 2026-05-06 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +312.0 | -Dylan--, Jaidan, Raspubot, spenny6, tyco1 |
 | 2026-05-01 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +359.1 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-04-29 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -167.2 | -Dylan--, Jaidan, Sinfull, spenny6, tyco1 |
 | 2026-04-24 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -104.2 | -Dylan--, BeerFade, Jaidan, Sinfull, tyco1 |

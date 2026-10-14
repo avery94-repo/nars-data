@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.117 | 1263.8 | - |
 | +30 days | 0.095 | 1233.6 | -30.2 |
 | +60 days | 0.083 | 1215.8 | -48.0 |
-| +90 days | 0.059 | 1182.6 | -81.3 |
+| +90 days | 0.059 | 1182.6 | -81.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.074 vs 0.054 average, gap +0.020). Matching that average is worth about 0.0 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Tall Ocean Rats | 331 | 1214.2 | +1.1 | +157.3 |
-| Brobies | 330 | 1215.4 | +2.3 | +169.2 |
+| Brobies | 330 | 1215.4 | +2.3 | +169.3 |
 | Double Dink | 329 | 1220.6 | +7.5 | +161.2 |
-| Goon Squad | 328 | 1221.9 | +8.8 | +159.6 |
-| PogSquad | 327 | 1222.5 | +9.4 | +170.6 |
+| Goon Squad | 328 | 1221.8 | +8.7 | +159.6 |
+| PogSquad | 327 | 1222.5 | +9.4 | +170.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| offBalance | 165 | +329.2 | +304.4 | +29.7 |
-| BucketJonsBoys | 172 | +319.9 | +294.8 | +28.8 |
-| Pug Palace | 167 | +322.7 | +308.4 | +28.7 |
-| Firstwave | 175 | +313.9 | +293.4 | +28.0 |
-| Shaboing Boing Bandits | 173 | +317.5 | +319.6 | +28.0 |
-| Armored Talent | 174 | +316.7 | +326.7 | +27.7 |
-| APEX | 176 | +308.8 | +300.4 | +27.2 |
-| GOOZPEEK | 182 | +300.0 | +304.8 | +25.9 |
-| LAF | 183 | +298.2 | +291.8 | +25.8 |
-| Shadow Wizard Money Gang | 180 | +302.8 | +341.4 | +25.4 |
+| offBalance | 165 | +329.2 | +304.5 | +29.7 |
+| BucketJonsBoys | 172 | +320.0 | +294.9 | +28.8 |
+| Pug Palace | 167 | +322.8 | +308.5 | +28.7 |
+| Firstwave | 175 | +313.9 | +293.5 | +28.1 |
+| Shaboing Boing Bandits | 173 | +317.5 | +319.7 | +28.0 |
+| Armored Talent | 174 | +316.8 | +326.8 | +27.7 |
+| APEX | 176 | +308.8 | +300.5 | +27.2 |
+| GOOZPEEK | 182 | +300.0 | +304.9 | +25.9 |
+| LAF | 183 | +298.2 | +291.9 | +25.8 |
+| Shadow Wizard Money Gang | 180 | +303.0 | +341.6 | +25.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +610.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +611.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 
@@ -88,7 +88,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Braindead | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -99.1 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
 | 2026-07-27 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.02 | 1.00 | 0.68 | 0.00 | 0.00 | -36.7 | -Blast, 1Spice, 1az, Boomm, jshuwaa |
 | 2026-07-22 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -0.0 | -Blast, 1Spice, Boomm, dadjorts, jshuwaa |
-| 2026-07-17 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -89.6 | -Blast, 1Spice, NotYeoj, dadjorts, jshuwaa |
+| 2026-07-17 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -89.5 | -Blast, 1Spice, NotYeoj, dadjorts, jshuwaa |
 | 2026-05-22 | VOID ALUNE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -2.4 | -Blast, 1Spice, 1az, Dadinho23, dadjorts |
 | 2026-05-20 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -117.2 | -Blast, 1Spice, 1az, Dadinho23, Jownah |
 | 2026-05-15 | 2THRiLL | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.21 | +238.2 | -Blast, 1Spice, 1az, BIG-Z, dadjorts |

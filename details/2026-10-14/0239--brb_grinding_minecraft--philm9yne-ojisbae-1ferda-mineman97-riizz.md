@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.110 | 1253.5 | - |
 | +30 days | 0.115 | 1261.5 | +8.0 |
 | +60 days | 0.118 | 1264.5 | +11.1 |
-| +90 days | 0.122 | 1271.3 | +17.9 |
+| +90 days | 0.122 | 1271.4 | +18.0 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.324 vs 0.365 average, gap -0.041). Matching that average is worth about 14.3 seed points.
 
@@ -50,15 +50,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Fire Nation | 90 | +344.2 | +137.3 | +13.7 |
-| Fathom Gaming | 91 | +339.8 | +134.2 | +13.7 |
+| Fathom Gaming | 91 | +339.9 | +134.3 | +13.7 |
 | Overtake Sector | 89 | +345.4 | +177.9 | +13.2 |
-| NineFlyeSports | 96 | +319.6 | +148.2 | +12.9 |
-| Green Grove Retirement | 94 | +323.1 | +142.6 | +12.9 |
-| Elusive | 93 | +326.1 | +160.2 | +12.9 |
+| NineFlyeSports | 95 | +319.7 | +148.2 | +12.9 |
+| Green Grove Retirement | 93 | +323.1 | +142.6 | +12.9 |
 | PROFECO | 87 | +349.7 | +120.2 | +12.2 |
-| FlyQuest RED | 97 | +315.2 | +153.8 | +12.1 |
-| Axial | 101 | +300.9 | +131.7 | +11.6 |
-| Addice | 102 | +297.0 | +154.0 | +11.4 |
+| FlyQuest RED | 96 | +315.3 | +153.8 | +12.1 |
+| Axial | 100 | +301.1 | +131.8 | +11.6 |
+| Addice | 101 | +297.2 | +154.0 | +11.4 |
+| New Legends | 102 | +290.0 | +156.6 | +10.9 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +227.5 points at current ratings.
 

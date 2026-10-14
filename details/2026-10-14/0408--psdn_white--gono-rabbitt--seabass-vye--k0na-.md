@@ -57,7 +57,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | drunk cigs dont count | 255 | +332.8 | +349.8 | +30.2 |
 | THE GUILD | 264 | +318.7 | +297.6 | +29.8 |
 | Kinetic | 260 | +323.9 | +340.0 | +29.5 |
-| DadDick Esports | 261 | +322.1 | +334.0 | +29.5 |
+| DadDick Esports | 261 | +322.1 | +333.9 | +29.5 |
 | Wiggle Peeks | 265 | +316.4 | +316.6 | +29.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.

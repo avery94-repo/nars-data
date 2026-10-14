@@ -5,7 +5,7 @@ NARS Rank: 493 of 506
 
 Final Rating: 581.4
 Seeded Start: 1110.7
-H2H Adjustment: -529.3
+H2H Adjustment: -529.3 (capped at +-300, raw -529.4)
 
 Final Rating (581.4) = Seeded Start (1110.7) + H2H Adjustment (-529.3)
 
@@ -40,23 +40,23 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | GOMI dot CLUB | 492 | 605.0 | +23.6 | +169.8 |
-| Muncle | 491 | 633.1 | +51.7 | +183.7 |
-| 37U Passion | 490 | 637.3 | +55.9 | +180.3 |
+| Muncle | 491 | 633.0 | +51.6 | +183.7 |
+| 37U Passion | 490 | 637.3 | +55.9 | +180.4 |
 | Casipanther | 489 | 638.9 | +57.5 | +180.9 |
-| Potential to Stack Dough | 488 | 686.0 | +104.6 | +196.9 |
+| Potential to Stack Dough | 488 | 685.9 | +104.5 | +197.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Dead Pixel | 443 | +341.8 | +347.6 | +31.2 |
-| It Doesnt Matter | 446 | +328.0 | +304.8 | +30.8 |
+| It Doesnt Matter | 446 | +327.9 | +304.9 | +30.9 |
 | Team Deathgrip | 448 | +322.7 | +290.1 | +30.4 |
-| wabbit2 | 445 | +331.1 | +281.6 | +28.0 |
-| GoopT | 452 | +313.0 | +326.7 | +28.0 |
+| wabbit2 | 445 | +331.0 | +281.6 | +28.0 |
+| GoopT | 452 | +313.0 | +326.8 | +28.0 |
 | insane players | 453 | +308.1 | +272.8 | +26.3 |
-| Vexation Esports | 444 | +332.6 | +282.1 | +26.0 |
-| girl kissers | 455 | +302.2 | +270.5 | +25.2 |
+| Vexation Esports | 444 | +332.6 | +282.2 | +26.0 |
+| girl kissers | 455 | +302.2 | +270.6 | +25.2 |
 | Cadillac F1 eSports Team | 457 | +281.6 | +279.7 | +23.6 |
 | Thrash | 458 | +279.4 | +303.8 | +23.2 |
 
@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -213.0 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-22 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -213.1 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-05-20 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -285.7 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-05-15 | Kennesaw State Gold 2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.01 | 0.18 | +308.5 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-05-13 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -87.8 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |

@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| ABG Esports | 196 | +349.8 | +226.0 | +20.9 |
-| GRIT | 201 | +342.2 | +194.2 | +20.5 |
+| ABG Esports | 196 | +349.9 | +226.1 | +20.9 |
+| GRIT | 201 | +342.3 | +194.3 | +20.5 |
 | O Fire | 198 | +349.6 | +233.3 | +20.4 |
 | Bad Jawn | 200 | +343.2 | +229.5 | +20.2 |
-| noname | 208 | +328.4 | +210.8 | +19.7 |
+| noname | 208 | +328.4 | +210.9 | +19.7 |
 | Kings Gambit | 210 | +323.0 | +212.1 | +19.3 |
-| AscendentEsport | 206 | +329.0 | +228.5 | +19.1 |
+| AscendentEsport | 207 | +329.0 | +228.5 | +19.1 |
 | Veniversum | 211 | +320.5 | +225.0 | +18.9 |
 | FlockMunchers | 212 | +320.2 | +225.1 | +18.9 |
 | GOYPEEKING | 216 | +311.1 | +194.8 | +18.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +367.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +367.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.7), SixSevenZaZa (+1.2).
 

@@ -43,22 +43,22 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | SNOWPLOWERS | 482 | 731.3 | +11.3 | +165.8 |
 | CVC Retirement | 481 | 742.1 | +22.1 | +169.3 |
 | HUMA | 480 | 747.3 | +27.3 | +181.8 |
-| FourStrokeGang | 479 | 748.4 | +28.4 | +175.0 |
+| FourStrokeGang | 479 | 748.3 | +28.3 | +175.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Benadryl Abusers | 396 | +341.2 | +316.9 | +31.6 |
+| Benadryl Abusers | 396 | +341.1 | +316.9 | +31.6 |
 | ReGen | 400 | +332.9 | +316.4 | +31.2 |
 | Big Fish | 402 | +331.0 | +315.1 | +31.0 |
-| James Bond Bois | 401 | +332.0 | +281.9 | +30.4 |
+| James Bond Bois | 401 | +331.9 | +281.9 | +30.4 |
 | house | 403 | +328.9 | +345.3 | +29.9 |
 | Epochal Esports | 413 | +316.0 | +318.8 | +29.1 |
-| three11 | 398 | +337.0 | +283.8 | +28.7 |
+| three11 | 398 | +336.9 | +283.8 | +28.7 |
 | Shock Value | 405 | +326.5 | +279.8 | +28.3 |
 | MakeYouSayLate | 414 | +306.9 | +300.1 | +28.1 |
-| Team Hyper | 409 | +317.3 | +366.8 | +27.8 |
+| Team Hyper | 409 | +317.4 | +366.8 | +27.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-29 | Lan Bears | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -186.2 | AddySandwich, PeeJay3495, swim5alive, tuesdayatlan, yung_air |
+| 2026-05-29 | Lan Bears | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -186.3 | AddySandwich, PeeJay3495, swim5alive, tuesdayatlan, yung_air |
 | 2026-05-27 | MINDTRIP | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -3.5 | AddySandwich, PeeJay3495, sirjiggs, tuesdayatlan, yung_air |
 | 2026-05-22 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.02 | 0.23 | +171.9 | AddySandwich, PeeJay3495, swim5alive, tuesdayatlan, yung_air |
 | 2026-05-20 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.02 | 0.22 | +151.5 | AddySandwich, PeeJay3495, sirjiggs, tuesdayatlan, yung_air |

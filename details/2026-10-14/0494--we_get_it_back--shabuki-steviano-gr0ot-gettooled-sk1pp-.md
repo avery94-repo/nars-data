@@ -39,20 +39,20 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| SuperSoakerClub | 493 | 581.4 | +11.3 | +165.9 |
+| SuperSoakerClub | 493 | 581.4 | +11.3 | +165.8 |
 | GOMI dot CLUB | 492 | 605.0 | +34.9 | +173.4 |
-| Muncle | 491 | 633.1 | +63.0 | +187.8 |
-| 37U Passion | 490 | 637.3 | +67.2 | +184.1 |
+| Muncle | 491 | 633.0 | +62.9 | +187.8 |
+| 37U Passion | 490 | 637.3 | +67.2 | +184.2 |
 | Casipanther | 489 | 638.9 | +68.8 | +184.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| It Doesnt Matter | 446 | +339.3 | +310.0 | +32.0 |
-| Team Deathgrip | 448 | +334.0 | +294.8 | +31.7 |
+| It Doesnt Matter | 446 | +339.2 | +310.0 | +32.0 |
+| Team Deathgrip | 448 | +334.0 | +294.9 | +31.7 |
 | GoopT | 452 | +324.3 | +333.0 | +29.3 |
-| wabbit2 | 445 | +342.4 | +285.9 | +29.2 |
+| wabbit2 | 445 | +342.3 | +285.9 | +29.2 |
 | insane players | 453 | +319.4 | +277.1 | +27.9 |
 | Vexation Esports | 444 | +343.9 | +286.5 | +27.1 |
 | girl kissers | 455 | +313.5 | +274.9 | +26.9 |
@@ -74,7 +74,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Fortis Fortuna Adiuvat | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -7.9 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-05-20 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -152.9 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
 | 2026-05-14 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.01 | 0.20 | +326.9 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-14 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -267.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-14 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.00 | 0.00 | -267.3 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-05-08 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -1.5 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-05-06 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -195.9 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
 | 2026-05-01 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -11.0 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |

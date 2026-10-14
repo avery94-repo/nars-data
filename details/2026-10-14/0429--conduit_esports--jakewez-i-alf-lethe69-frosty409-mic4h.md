@@ -49,12 +49,12 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Demolition | 279 | +347.4 | +319.3 | +32.4 |
+| Demolition | 279 | +347.5 | +319.4 | +32.4 |
 | ItAintOverYet | 284 | +334.0 | +308.3 | +31.5 |
 | Adria eSports | 281 | +345.6 | +359.7 | +31.1 |
 | Entertainment Cheese | 285 | +332.2 | +339.1 | +30.5 |
 | Midwest Farmers | 286 | +327.6 | +334.5 | +30.1 |
-| Imperium | 283 | +336.9 | +283.8 | +30.0 |
+| Imperium | 283 | +337.0 | +283.9 | +30.0 |
 | 55TH ST | 288 | +322.7 | +338.8 | +29.4 |
 | Cream Team | 293 | +313.8 | +291.1 | +29.2 |
 | Resurgence | 290 | +315.0 | +308.7 | +29.1 |
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -83.0 | Frosty409, ImminentG, JakeWez, i-alf, marpee- |
 | 2026-08-07 | on disability | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.02 | 0.74 | +189.0 | Frosty409, ImminentG, JakeWez, Lethe69, mic4h |
 | 2026-08-05 | Climbers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -140.9 | Frosty409, ImminentG, JakeWez, Lethe69, mic4h |
-| 2026-07-31 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -259.5 | Frosty409, ImminentG, JakeWez, i-alf, mic4h |
+| 2026-07-31 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -259.6 | Frosty409, ImminentG, JakeWez, i-alf, mic4h |
 | 2026-07-29 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.08 | 0.68 | +10.9 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
 | 2026-07-26 | mas paspas | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -156.0 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
 | 2026-07-25 | HeadShot Esports | W | W/O | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.10 | 0.70 | +46.6 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |

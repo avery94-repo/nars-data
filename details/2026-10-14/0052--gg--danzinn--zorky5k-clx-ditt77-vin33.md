@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Phantom Sense | 51 | 1883.8 | +2.3 | +175.8 |
+| Phantom Sense | 51 | 1883.9 | +2.4 | +175.9 |
 | No Future Lifes Over | 50 | 1887.2 | +5.7 | +172.2 |
 | DESPAIR | 49 | 1888.7 | +7.2 | +172.8 |
-| Skyline | 48 | 1895.5 | +14.0 | +175.1 |
+| Skyline | 48 | 1895.6 | +14.1 | +175.1 |
 | FLOW STATE | 47 | 1897.4 | +15.9 | +179.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | +326.0 | +300.4 | +31.1 |
+| Brahmas | 14 | +326.2 | +300.4 | +31.1 |
 | Old Meta | 15 | +294.7 | +334.6 | +25.4 |
-| NuTorious | 17 | +284.2 | +285.4 | +24.4 |
-| FarmVille | 16 | +286.1 | +358.9 | +23.6 |
-| Villainous | 18 | +279.2 | +351.0 | +21.9 |
-| Iowa Stormboar | 21 | +234.4 | +319.9 | +12.1 |
-| Zomblers | 22 | +233.2 | +319.9 | +11.9 |
+| NuTorious | 17 | +284.4 | +285.5 | +24.4 |
+| FarmVille | 16 | +286.4 | +359.0 | +23.6 |
+| Villainous | 18 | +279.4 | +351.1 | +22.0 |
+| Iowa Stormboar | 21 | +234.6 | +320.0 | +12.2 |
+| Zomblers | 22 | +233.4 | +320.0 | +11.9 |
 | qcclan | 20 | +264.7 | +296.1 | +10.6 |
 | MASTER ONE | 19 | +278.0 | +292.0 | +9.6 |
-| Phantom Sense | 51 | +2.3 | +175.8 | -0.0 |
+| Phantom Sense | 51 | +2.4 | +175.9 | -0.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +636.6 points at current ratings.
 

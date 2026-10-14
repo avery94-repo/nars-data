@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Kevin James Fan Club | 148 | 1580.9 | +3.0 | +138.7 |
-| MommySports | 147 | 1587.1 | +9.2 | +140.1 |
-| JPG | 146 | 1588.0 | +10.1 | +139.0 |
-| Team Amplus | 145 | 1594.2 | +16.3 | +144.7 |
-| pew pew | 144 | 1596.7 | +18.8 | +135.8 |
+| MommySports | 147 | 1587.2 | +9.3 | +140.1 |
+| JPG | 146 | 1588.0 | +10.1 | +139.1 |
+| Team Amplus | 145 | 1594.3 | +16.4 | +144.7 |
+| pew pew | 144 | 1596.8 | +18.9 | +135.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Swole Patrol | 45 | +336.5 | +222.1 | +24.7 |
-| Xiaoma Gaming | 46 | +333.6 | +293.4 | +23.4 |
+| Swole Patrol | 45 | +336.6 | +222.2 | +24.8 |
+| Xiaoma Gaming | 46 | +333.8 | +293.6 | +23.4 |
 | FLOW STATE | 47 | +319.5 | +274.6 | +22.8 |
-| No Future Lifes Over | 50 | +309.3 | +248.8 | +22.3 |
-| DESPAIR | 49 | +310.8 | +249.2 | +22.1 |
-| Phantom Sense | 51 | +305.9 | +298.7 | +21.3 |
-| TheMotherLovers | 53 | +300.1 | +254.5 | +21.1 |
-| Omen Esports | 57 | +279.9 | +263.9 | +17.8 |
-| GG | 52 | +303.6 | +211.8 | +16.2 |
-| Sharp | 54 | +289.9 | +257.7 | +13.9 |
+| No Future Lifes Over | 50 | +309.3 | +248.9 | +22.3 |
+| DESPAIR | 49 | +310.8 | +249.3 | +22.1 |
+| Phantom Sense | 51 | +306.0 | +298.9 | +21.3 |
+| TheMotherLovers | 53 | +300.1 | +254.6 | +21.1 |
+| Omen Esports | 57 | +280.1 | +264.1 | +17.8 |
+| GG | 52 | +303.6 | +211.9 | +16.2 |
+| Sharp | 54 | +290.0 | +257.8 | +13.9 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +466.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +467.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), SixSevenZaZa (+0.0).
 

@@ -3,11 +3,11 @@ Team Name: on disability
 Roster: kcmo, mp_, PDF, WASTEFUL, r0gu3
 NARS Rank: 451 of 506
 
-Final Rating: 894.9
+Final Rating: 894.8
 Seeded Start: 1187.9
-H2H Adjustment: -293.0
+H2H Adjustment: -293.1
 
-Final Rating (894.9) = Seeded Start (1187.9) + H2H Adjustment (-293.0)
+Final Rating (894.8) = Seeded Start (1187.9) + H2H Adjustment (-293.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Friendly Fire | 450 | 895.4 | +0.5 | +162.5 |
-| Baja Blasters | 449 | 903.6 | +8.7 | +165.0 |
-| Team Deathgrip | 448 | 904.1 | +9.2 | +167.9 |
-| Schadenfreude | 447 | 909.3 | +14.4 | +166.8 |
-| It Doesnt Matter | 446 | 909.4 | +14.5 | +172.2 |
+| Friendly Fire | 450 | 895.4 | +0.6 | +162.5 |
+| Baja Blasters | 449 | 903.6 | +8.8 | +165.0 |
+| Team Deathgrip | 448 | 904.1 | +9.3 | +167.9 |
+| Schadenfreude | 447 | 909.2 | +14.4 | +166.8 |
+| It Doesnt Matter | 446 | 909.3 | +14.5 | +172.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| fiveB | 318 | +343.6 | +322.6 | +32.1 |
-| Team TahMeow | 321 | +340.8 | +322.0 | +31.9 |
-| innerFire | 325 | +329.3 | +304.4 | +31.0 |
-| Transcended | 326 | +328.4 | +305.6 | +30.9 |
-| Double Dink | 329 | +325.7 | +287.9 | +30.5 |
-| Once Divine Gaming | 315 | +344.8 | +286.9 | +30.2 |
-| NetanYAHOO | 323 | +332.4 | +354.3 | +30.0 |
-| PogSquad | 327 | +327.6 | +340.9 | +29.9 |
+| fiveB | 318 | +343.7 | +322.6 | +32.1 |
+| Team TahMeow | 321 | +340.9 | +322.0 | +31.9 |
+| innerFire | 325 | +329.4 | +304.4 | +31.0 |
+| Transcended | 326 | +328.5 | +305.6 | +30.9 |
+| Double Dink | 329 | +325.8 | +287.9 | +30.5 |
+| Once Divine Gaming | 315 | +344.9 | +286.9 | +30.2 |
+| NetanYAHOO | 323 | +332.5 | +354.3 | +30.0 |
+| PogSquad | 327 | +327.7 | +340.9 | +29.9 |
 | Relativity | 316 | +344.0 | +286.5 | +29.2 |
-| Brobies | 330 | +320.5 | +350.8 | +28.8 |
+| Brobies | 330 | +320.6 | +350.8 | +28.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -69,8 +69,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-28 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.07 | 0.88 | +54.9 | 9rwsB-, PDF, WASTEFUL, mp_, r0gu3 |
 | 2026-08-26 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -95.1 | PDF, WASTEFUL, envy, mp_, r0gu3 |
-| 2026-08-21 | Kennesaw State Gold 2025 | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -66.3 | bliu-, envy, kcmo, mp_, r0gu3 |
-| 2026-08-19 | redtyfguhoj | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -72.2 | bliu-, envy, kcmo, mp_, r0gu3 |
+| 2026-08-21 | Kennesaw State Gold 2025 | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -66.4 | bliu-, envy, kcmo, mp_, r0gu3 |
+| 2026-08-19 | redtyfguhoj | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -72.3 | bliu-, envy, kcmo, mp_, r0gu3 |
 | 2026-08-14 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -109.7 | bliu-, envy, kcmo, mp_, r0gu3 |
 | 2026-08-12 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -41.1 | JabrokWIZGOD, envy, kcmo, mp_, r0gu3 |
 | 2026-08-07 | Conduit eSports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -200.9 | 9rwsB-, bliu-, kcmo, mp_, r0gu3 |

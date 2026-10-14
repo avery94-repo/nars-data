@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Atlantis eSports | 422 | 997.4 | +3.6 | +163.4 |
-| Specter Esports | 421 | 999.7 | +5.9 | +164.1 |
+| Specter Esports | 421 | 999.6 | +5.8 | +164.1 |
 | Strafe | 420 | 1002.1 | +8.3 | +173.2 |
 | puggin4seb | 419 | 1002.8 | +9.0 | +173.3 |
 | Kodaks Lettuce | 418 | 1011.4 | +17.6 | +173.6 |
@@ -50,13 +50,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Saltcrew | 276 | +327.0 | +309.0 | +30.6 |
-| Demolition | 279 | +322.2 | +307.4 | +29.9 |
+| Demolition | 279 | +322.3 | +307.5 | +29.9 |
 | Chopped | 277 | +326.0 | +335.9 | +29.9 |
 | Adria eSports | 281 | +320.4 | +344.5 | +28.9 |
 | ItAintOverYet | 284 | +308.8 | +296.8 | +28.4 |
 | Entertainment Cheese | 285 | +307.0 | +324.9 | +27.6 |
-| Midwest Farmers | 286 | +302.4 | +320.5 | +27.1 |
-| Imperium | 283 | +311.7 | +274.2 | +26.9 |
+| Midwest Farmers | 286 | +302.4 | +320.4 | +27.0 |
+| Imperium | 283 | +311.8 | +274.2 | +26.9 |
 | 55TH ST | 288 | +297.5 | +324.1 | +26.2 |
 | Resurgence | 290 | +289.8 | +296.3 | +25.3 |
 

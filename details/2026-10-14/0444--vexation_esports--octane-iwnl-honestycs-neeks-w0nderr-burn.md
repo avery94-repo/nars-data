@@ -49,15 +49,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| DingTone | 302 | +349.8 | +336.3 | +31.8 |
+| DingTone | 302 | +349.8 | +336.2 | +31.8 |
 | Guangzhou Loong Lions | 304 | +345.9 | +326.1 | +31.8 |
 | Team Nyx | 307 | +339.2 | +320.3 | +31.7 |
 | TELETUBEASTS | 303 | +349.2 | +358.9 | +30.9 |
 | fiveB | 318 | +324.5 | +313.3 | +30.3 |
 | Team TahMeow | 321 | +321.7 | +312.7 | +29.9 |
-| innerFire | 325 | +310.2 | +295.8 | +28.7 |
+| innerFire | 325 | +310.2 | +295.7 | +28.6 |
 | Transcended | 326 | +309.3 | +296.9 | +28.5 |
-| Asian Invasion | 308 | +336.7 | +283.8 | +28.5 |
+| Asian Invasion | 308 | +336.8 | +283.8 | +28.5 |
 | Once Divine Gaming | 315 | +325.7 | +279.6 | +28.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.

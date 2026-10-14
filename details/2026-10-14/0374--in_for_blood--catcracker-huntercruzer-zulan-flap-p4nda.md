@@ -4,14 +4,14 @@ Roster: Catcracker, HunterCruzer, zulan, Flap, P4nda
 NARS Rank: 374 of 506
 
 Final Rating: 1116.2
-Seeded Start: 1284.0
-H2H Adjustment: -167.8
+Seeded Start: 1283.9
+H2H Adjustment: -167.7
 
-Final Rating (1116.2) = Seeded Start (1284.0) + H2H Adjustment (-167.8)
+Final Rating (1116.2) = Seeded Start (1283.9) + H2H Adjustment (-167.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.131 x 1400 = 1284.0
+                = 1100 + 0.131 x 1400 = 1283.9
 
 seed_factor 0.131 = 0.25 x Tier Exposure (0.085) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.393)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.131 | 1284.0 | - |
+| Now | 0.131 | 1283.9 | - |
 | +30 days | 0.108 | 1251.9 | -32.1 |
 | +60 days | 0.095 | 1233.1 | -50.8 |
 | +90 days | 0.072 | 1200.8 | -83.2 |
@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Team Zhao | 373 | 1116.4 | +0.2 | +172.5 |
-| Qinorhwat | 372 | 1120.5 | +4.3 | +163.6 |
+| Qinorhwat | 372 | 1120.4 | +4.2 | +163.6 |
 | grogu | 371 | 1124.0 | +7.8 | +164.7 |
 | STALLOONS BALLOONS | 370 | 1131.5 | +15.3 | +167.1 |
 | We Just Pug | 369 | 1132.6 | +16.4 | +167.5 |
@@ -56,11 +56,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Defaulting | 215 | +335.5 | +343.1 | +30.7 |
 | Cortex Jellies | 222 | +321.2 | +289.0 | +30.2 |
 | VARTOVIK | 217 | +333.7 | +358.1 | +30.0 |
-| 1NT | 221 | +322.8 | +322.2 | +29.7 |
+| 1NT | 221 | +322.8 | +322.2 | +29.6 |
 | Binky | 220 | +323.1 | +349.2 | +29.1 |
 | penazoid | 226 | +311.7 | +305.6 | +28.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.4), 3 Feet Of Meat (+0.8), shirtcockin (+1.2), Courage (+1.5).
 
@@ -95,10 +95,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-27 | Meepins | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.00 | 0.00 | -131.2 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-05-20 | Sleepers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.01 | 0.00 | +35.3 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-05-15 | 91AshLiu | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -77.8 | Cypher64, Flap, HunterCruzer, P4nda, zulan |
-| 2026-05-13 | Relativity | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +409.0 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
-| 2026-05-08 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -342.2 | Cypher64, Flap, HunterCruzer, P4nda, zulan |
+| 2026-05-13 | Relativity | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.17 | +409.1 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
+| 2026-05-08 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -342.3 | Cypher64, Flap, HunterCruzer, P4nda, zulan |
 | 2026-05-06 | strawberry poptarts | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +172.8 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
-| 2026-04-30 | High T Low E | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +357.6 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
+| 2026-04-30 | High T Low E | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.08 | +357.7 | Catcracker, Flap, HunterCruzer, P4nda, zulan |
 | 2026-04-29 | Counter Legends | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -146.9 | Catcracker, Flap, Kohnert, P4nda, zulan |
 | 2026-04-24 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -5.3 | Cypher64, Flap, HunterCruzer, P4nda, zulan |
 | 2026-04-22 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -261.1 | Catcracker, Flap, HunterCruzer, P4nda, zulan |

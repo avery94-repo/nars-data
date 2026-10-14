@@ -42,8 +42,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Boomhogs 2 | 415 | 1021.7 | +4.2 | +163.6 |
 | MakeYouSayLate | 414 | 1026.9 | +9.4 | +171.3 |
 | Epochal Esports | 413 | 1036.0 | +18.5 | +177.2 |
-| Duality Zero | 412 | 1036.3 | +18.8 | +168.2 |
-| Moniseum | 411 | 1036.4 | +18.9 | +168.2 |
+| Moniseum | 412 | 1036.3 | +18.8 | +168.2 |
+| Duality Zero | 411 | 1036.3 | +18.8 | +168.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -58,7 +58,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | DUI | 262 | +343.5 | +286.3 | +28.0 |
 | Saltcrew | 276 | +303.3 | +297.9 | +27.6 |
 | Chopped | 277 | +302.3 | +322.5 | +27.0 |
-| Demolition | 279 | +298.5 | +296.2 | +26.7 |
+| Demolition | 279 | +298.6 | +296.3 | +26.7 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 

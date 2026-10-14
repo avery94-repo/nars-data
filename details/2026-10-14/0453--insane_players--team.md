@@ -40,8 +40,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | GoopT | 452 | 894.4 | +4.9 | +173.2 |
-| on disability | 451 | 894.9 | +5.4 | +164.0 |
-| Friendly Fire | 450 | 895.4 | +5.9 | +164.1 |
+| on disability | 451 | 894.8 | +5.3 | +164.0 |
+| Friendly Fire | 450 | 895.4 | +5.9 | +164.2 |
 | Baja Blasters | 449 | 903.6 | +14.1 | +166.7 |
 | Team Deathgrip | 448 | 904.1 | +14.6 | +169.7 |
 
@@ -56,7 +56,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Double Dink | 329 | +331.1 | +290.1 | +31.1 |
 | NetanYAHOO | 323 | +337.8 | +357.6 | +30.4 |
 | PogSquad | 327 | +333.0 | +344.0 | +30.4 |
-| Relativity | 316 | +349.4 | +288.5 | +29.7 |
+| Relativity | 316 | +349.3 | +288.6 | +29.7 |
 | Brobies | 330 | +325.9 | +354.2 | +29.3 |
 | MONARCH | 337 | +311.3 | +324.2 | +28.1 |
 

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.089 | 1224.3 | - |
 | +30 days | 0.090 | 1226.1 | +1.8 |
 | +60 days | 0.090 | 1226.5 | +2.2 |
-| +90 days | 0.091 | 1227.8 | +3.5 |
+| +90 days | 0.091 | 1227.9 | +3.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.014 vs 0.018 average, gap -0.004). Matching that average is worth about 2.8 seed points.
 
@@ -41,8 +41,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | innerFire | 325 | 1224.2 | +0.9 | +131.8 |
 | Sultans of Swing | 324 | 1225.0 | +1.7 | +126.9 |
-| NetanYAHOO | 323 | 1227.3 | +4.0 | +140.7 |
-| The Ohio Meat Wagon | 322 | 1228.2 | +4.9 | +127.6 |
+| NetanYAHOO | 323 | 1227.3 | +4.0 | +140.8 |
+| The Ohio Meat Wagon | 322 | 1228.1 | +4.8 | +127.6 |
 | Team TahMeow | 321 | 1235.7 | +12.4 | +137.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -51,14 +51,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | WhiteBoyWinter | 155 | +343.4 | +243.1 | +24.6 |
 | offBalance | 165 | +319.0 | +238.7 | +22.8 |
-| Pug Palace | 167 | +312.5 | +242.2 | +21.9 |
-| BucketJonsBoys | 172 | +309.7 | +231.2 | +21.9 |
+| Pug Palace | 167 | +312.6 | +242.3 | +22.0 |
+| BucketJonsBoys | 172 | +309.8 | +231.2 | +21.9 |
 | Shaboing Boing Bandits | 173 | +307.3 | +251.8 | +21.4 |
 | Firstwave | 175 | +303.7 | +230.3 | +21.3 |
 | Order Zero | 156 | +341.5 | +216.9 | +21.2 |
-| Armored Talent | 174 | +306.5 | +257.6 | +21.2 |
-| APEX | 176 | +298.6 | +236.3 | +20.6 |
-| GOOZPEEK | 182 | +289.8 | +240.3 | +19.5 |
+| Armored Talent | 174 | +306.6 | +257.7 | +21.2 |
+| APEX | 176 | +298.6 | +236.4 | +20.6 |
+| GOOZPEEK | 182 | +289.8 | +240.4 | +19.5 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +454.0 points at current ratings.
 

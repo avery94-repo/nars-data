@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.064 | 1189.9 | - |
 | +30 days | 0.049 | 1168.2 | -21.7 |
-| +60 days | 0.039 | 1154.4 | -35.6 |
+| +60 days | 0.039 | 1154.3 | -35.6 |
 | +90 days | 0.037 | 1152.1 | -37.8 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.046 vs 0.055 average, gap -0.009). Matching that average is worth about 3.2 seed points.
@@ -41,26 +41,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Distinguished Ducks | 347 | 1184.5 | +3.4 | +160.5 |
 | The Jits | 346 | 1185.2 | +4.1 | +160.4 |
-| Florida Man | 345 | 1186.2 | +5.1 | +172.1 |
-| Onsite has Oil | 344 | 1191.0 | +9.9 | +162.2 |
-| T Shirt Material | 343 | 1191.6 | +10.5 | +162.3 |
+| Florida Man | 345 | 1186.2 | +5.1 | +172.2 |
+| Onsite has Oil | 344 | 1191.1 | +10.0 | +162.2 |
+| T Shirt Material | 343 | 1191.6 | +10.5 | +162.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Firstwave | 175 | +345.9 | +312.4 | +31.7 |
-| Shaboing Boing Bandits | 173 | +349.5 | +341.6 | +31.2 |
-| APEX | 176 | +340.8 | +320.5 | +31.0 |
-| Armored Talent | 174 | +348.7 | +349.6 | +30.8 |
+| Firstwave | 175 | +345.9 | +312.5 | +31.7 |
+| Shaboing Boing Bandits | 173 | +349.5 | +341.7 | +31.2 |
+| APEX | 176 | +340.8 | +320.6 | +31.1 |
+| Armored Talent | 174 | +348.8 | +349.7 | +30.8 |
 | LAF | 183 | +330.2 | +311.4 | +30.2 |
-| GOOZPEEK | 182 | +332.0 | +325.9 | +30.0 |
-| KIS | 185 | +325.6 | +294.0 | +30.0 |
-| Shadow Wizard Money Gang | 180 | +334.8 | +367.4 | +28.9 |
-| Lynnsanity | 189 | +318.9 | +326.5 | +28.5 |
-| No Leaders Please | 190 | +318.3 | +326.3 | +28.4 |
+| GOOZPEEK | 182 | +332.0 | +326.0 | +30.0 |
+| KIS | 185 | +325.6 | +294.1 | +30.0 |
+| Shadow Wizard Money Gang | 180 | +335.0 | +367.6 | +28.9 |
+| Lynnsanity | 189 | +318.9 | +326.6 | +28.5 |
+| No Leaders Please | 190 | +318.3 | +326.4 | +28.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +622.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +623.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.5), shirtcockin (+0.7), Courage (+0.8), SixSevenZaZa (+1.4).
 

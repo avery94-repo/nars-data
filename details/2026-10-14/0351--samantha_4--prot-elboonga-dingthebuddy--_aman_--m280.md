@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.113 | 1258.5 | - |
 | +30 days | 0.114 | 1259.8 | +1.2 |
 | +60 days | 0.115 | 1260.9 | +2.4 |
-| +90 days | 0.117 | 1263.2 | +4.7 |
+| +90 days | 0.117 | 1263.3 | +4.8 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.017 vs 0.019 average, gap -0.002). Matching that average is worth about 1.4 seed points.
 
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| SOLA | 350 | 1178.0 | +0.0 | +120.1 |
+| SOLA | 350 | 1178.1 | +0.1 | +120.2 |
 | PPWesports | 349 | 1179.7 | +1.7 | +135.2 |
 | Will of Dih | 348 | 1181.1 | +3.1 | +121.3 |
 | Distinguished Ducks | 347 | 1184.5 | +6.5 | +122.0 |
@@ -51,16 +51,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | Firstwave | 175 | +349.0 | +232.0 | +23.6 |
 | APEX | 176 | +343.9 | +238.8 | +23.2 |
-| LAF | 183 | +333.3 | +232.2 | +22.6 |
+| LAF | 183 | +333.3 | +232.3 | +22.6 |
 | GOOZPEEK | 182 | +335.1 | +243.8 | +22.6 |
 | KIS | 185 | +328.7 | +218.6 | +22.4 |
-| Shadow Wizard Money Gang | 180 | +337.9 | +276.8 | +21.8 |
+| Shadow Wizard Money Gang | 180 | +338.1 | +276.9 | +21.8 |
 | Lynnsanity | 189 | +322.0 | +245.4 | +21.6 |
-| Alternate Earth | 186 | +326.0 | +260.4 | +21.5 |
+| Alternate Earth | 186 | +326.0 | +260.5 | +21.5 |
 | No Leaders Please | 190 | +321.4 | +245.3 | +21.5 |
 | teamington | 192 | +320.0 | +226.4 | +21.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +424.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +424.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.3), shirtcockin (+0.5), Courage (+0.6), SixSevenZaZa (+1.0).
 

@@ -42,8 +42,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | We Play Naked | 380 | 1103.2 | +0.5 | +170.2 |
 | Goyim Gladiators | 379 | 1103.9 | +1.2 | +171.8 |
 | Zamgaa Anime Aimers | 378 | 1104.0 | +1.3 | +167.8 |
-| redtyfguhoj | 377 | 1104.5 | +1.8 | +162.8 |
-| Shadow Wizard Money Gang | 376 | 1107.8 | +5.1 | +171.7 |
+| redtyfguhoj | 377 | 1104.4 | +1.7 | +162.8 |
+| Shadow Wizard Money Gang | 376 | 1107.7 | +5.0 | +171.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -81,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | NADIYA | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.04 | 1.01 | +47.2 | Aloof-, Barns-, FugTheMug, _Nick_____, spamurai |
 | 2026-08-21 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.04 | 0.97 | +65.9 | Aloof-, Barns-, DallasJWs, _Nick_____, spamurai |
 | 2026-08-19 | Feels MAIN Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.09 | 0.95 | +79.6 | Aloof-, Barns-, FugTheMug, _Nick_____, spamurai |
-| 2026-08-14 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.04 | 0.92 | +136.6 | Aloof-, Barns-, FugTheMug, _Nick_____, spamurai |
+| 2026-08-14 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.04 | 0.92 | +136.7 | Aloof-, Barns-, FugTheMug, _Nick_____, spamurai |
 | 2026-08-12 | RejexEsports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.05 | 0.90 | +113.4 | Aloof-, Barns-, FugTheMug, _Nick_____, spamurai |
 | 2026-08-07 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.04 | 0.86 | +47.6 | Aloof-, Barns-, FugTheMug, _Nick_____, spamurai |
 | 2026-08-05 | Cadillac F1 eSports Team | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -201.7 | Aloof-, Barns-, FugTheMug, _Nick_____, spamurai |

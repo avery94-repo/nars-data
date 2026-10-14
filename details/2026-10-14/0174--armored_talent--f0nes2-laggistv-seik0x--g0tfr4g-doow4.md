@@ -3,11 +3,11 @@ Team Name: Armored Talent
 Roster: f0Nes2, laggistv, SEIK0X-, g0tfr4g, Doow4
 NARS Rank: 174 of 506
 
-Final Rating: 1529.8
+Final Rating: 1529.9
 Seeded Start: 1389.7
-H2H Adjustment: +140.1
+H2H Adjustment: +140.2
 
-Final Rating (1529.8) = Seeded Start (1389.7) + H2H Adjustment (+140.1)
+Final Rating (1529.9) = Seeded Start (1389.7) + H2H Adjustment (+140.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.207 | 1389.7 | - |
-| +30 days | 0.195 | 1373.7 | -16.0 |
+| +30 days | 0.195 | 1373.6 | -16.0 |
 | +60 days | 0.180 | 1351.3 | -38.3 |
-| +90 days | 0.154 | 1315.8 | -73.9 |
+| +90 days | 0.154 | 1315.9 | -73.8 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.060 vs 0.080 average, gap -0.020). Matching that average is worth about 14.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Shaboing Boing Bandits | 173 | 1530.6 | +0.8 | +85.8 |
-| BucketJonsBoys | 172 | 1533.0 | +3.2 | +81.6 |
-| Abusement Park | 171 | 1533.7 | +3.9 | +79.3 |
-| Salsas Mazzin Crew | 170 | 1534.5 | +4.7 | +80.9 |
-| Zenano | 169 | 1535.2 | +5.4 | +76.4 |
+| Shaboing Boing Bandits | 173 | 1530.6 | +0.7 | +85.8 |
+| BucketJonsBoys | 172 | 1533.1 | +3.2 | +81.6 |
+| Abusement Park | 171 | 1533.8 | +3.9 | +79.3 |
+| Salsas Mazzin Crew | 170 | 1534.5 | +4.6 | +80.9 |
+| Zenano | 169 | 1535.2 | +5.3 | +76.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| TheMotherLovers | 53 | +348.2 | +156.8 | +14.3 |
-| Omen Esports | 57 | +328.0 | +166.1 | +13.2 |
+| TheMotherLovers | 53 | +348.1 | +156.8 | +14.3 |
+| Omen Esports | 57 | +328.1 | +166.1 | +13.2 |
 | flat earth | 64 | +296.7 | +147.2 | +12.3 |
 | Endless Esports | 65 | +296.2 | +148.6 | +12.2 |
-| DUMBO | 63 | +297.3 | +164.0 | +11.9 |
-| WhalersOnDaMoon | 66 | +292.1 | +150.7 | +11.5 |
-| NZ Gaming | 69 | +283.4 | +135.1 | +11.1 |
+| DUMBO | 63 | +297.2 | +164.0 | +11.9 |
+| WhalersOnDaMoon | 66 | +292.0 | +150.7 | +11.5 |
+| NZ Gaming | 69 | +283.5 | +135.1 | +11.1 |
 | Sharp | 54 | +338.0 | +160.3 | +10.5 |
-| F5 Esports | 60 | +305.5 | +155.9 | +9.7 |
-| Evade Gaming | 55 | +335.3 | +124.5 | +9.6 |
+| F5 Esports | 60 | +305.6 | +155.9 | +9.7 |
+| Evade Gaming | 55 | +335.2 | +124.6 | +9.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +240.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +240.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -88,7 +88,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -46.3 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
 | 2026-08-05 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -148.5 | NovaSun, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-31 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.03 | 0.70 | +56.5 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
-| 2026-07-29 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -52.1 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
+| 2026-07-29 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -52.2 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-25 | AML | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -293.2 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-24 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.10 | 0.65 | +199.2 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-22 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -177.4 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |

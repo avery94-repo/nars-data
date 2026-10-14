@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.034 | 1147.2 | -18.3 |
 | +90 days | 0.034 | 1147.3 | -18.2 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.096 vs 0.267 average, gap -0.171). Matching that average is worth about 59.9 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.096 vs 0.267 average, gap -0.171). Matching that average is worth about 59.8 seed points.
 
 - Tier Exposure drivers: S59 NA Intermediate A - Regular Season (2026-10-07) 1.00; S58 NA Open9-10 East - Playoffs C (2026-09-10) 0.99; S57 NA Open9-10 Central - Playoffs B (2026-06-12) 0.37
 - Quality Wins drivers: beat DadDick Esports at S57 NA Open9-10 Central - Playoffs B (2026-05-29) 0.03; beat GameBangers at S58 NA Open9-10 East - Playoffs C (2026-09-02) 0.03; beat Diablo at S57 NA Open9-10 Central - Playoffs B (2026-05-27) 0.00
@@ -50,11 +50,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | offBalance | 165 | +346.7 | +249.1 | +24.9 |
-| BucketJonsBoys | 172 | +337.4 | +241.2 | +24.4 |
-| Pug Palace | 167 | +340.2 | +253.1 | +24.2 |
+| BucketJonsBoys | 172 | +337.5 | +241.3 | +24.4 |
+| Pug Palace | 167 | +340.3 | +253.2 | +24.2 |
 | Firstwave | 175 | +331.4 | +240.5 | +23.9 |
-| Shaboing Boing Bandits | 173 | +335.0 | +263.6 | +23.8 |
-| Armored Talent | 174 | +334.2 | +270.1 | +23.6 |
+| Shaboing Boing Bandits | 173 | +335.0 | +263.7 | +23.8 |
+| Armored Talent | 174 | +334.3 | +270.1 | +23.6 |
 | APEX | 176 | +326.3 | +247.2 | +23.4 |
 | GOOZPEEK | 182 | +317.5 | +251.9 | +22.6 |
 | LAF | 183 | +315.7 | +240.3 | +22.6 |

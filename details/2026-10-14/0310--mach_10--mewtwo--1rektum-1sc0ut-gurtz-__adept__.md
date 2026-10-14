@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.149 | 1308.7 | - |
 | +30 days | 0.126 | 1276.2 | -32.5 |
 | +60 days | 0.111 | 1255.6 | -53.1 |
-| +90 days | 0.088 | 1223.8 | -84.9 |
+| +90 days | 0.088 | 1223.9 | -84.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.030 vs 0.019 average, gap +0.011). Matching that average is worth about 0.0 seed points.
 
@@ -40,25 +40,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | FLying PiGs | 309 | 1250.4 | +3.7 | +163.9 |
-| Asian Invasion | 308 | 1250.7 | +4.0 | +163.6 |
+| Asian Invasion | 308 | 1250.8 | +4.1 | +163.6 |
 | Team Nyx | 307 | 1253.2 | +6.5 | +171.1 |
-| Anchors Anonymous | 306 | 1256.2 | +9.5 | +165.4 |
+| Anchors Anonymous | 306 | 1256.1 | +9.4 | +165.4 |
 | HeatPeek | 305 | 1258.6 | +11.9 | +166.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Amplus | 145 | +347.5 | +343.1 | +31.9 |
+| Team Amplus | 145 | +347.6 | +343.1 | +31.9 |
 | Biggie Cheese Fan Club | 151 | +329.9 | +297.1 | +31.2 |
 | Kevin James Fan Club | 148 | +334.2 | +325.6 | +31.1 |
 | WhiteBoyWinter | 155 | +320.0 | +306.8 | +29.8 |
 | offBalance | 165 | +295.6 | +299.1 | +26.3 |
 | Order Zero | 156 | +318.1 | +276.6 | +25.4 |
-| Pug Palace | 167 | +289.1 | +302.3 | +24.9 |
-| BucketJonsBoys | 172 | +286.3 | +289.7 | +24.8 |
+| Pug Palace | 167 | +289.2 | +302.4 | +24.9 |
+| BucketJonsBoys | 172 | +286.4 | +289.7 | +24.8 |
 | Shaboing Boing Bandits | 173 | +283.9 | +312.1 | +24.0 |
-| Armored Talent | 174 | +283.1 | +318.4 | +23.7 |
+| Armored Talent | 174 | +283.2 | +318.4 | +23.7 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -89,9 +89,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -161.6 | 1rektum, DDirocco, MEWTWO-, __Adept__, avi-- |
 | 2026-07-24 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.03 | 0.65 | +168.3 | 1rektum, 1sc0ut, DDirocco, Gurtz, lizard_mwbd |
 | 2026-07-15 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -230.2 | 1rektum, 1sc0ut, BlueKey-JMU, Gurtz, __Adept__ |
-| 2026-05-29 | Strafe | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.05 | 0.28 | +101.1 | 1rektum, 1sc0ut, Gurtz, MEWTWO-, __Adept__ |
+| 2026-05-29 | Strafe | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.05 | 0.28 | +101.2 | 1rektum, 1sc0ut, Gurtz, MEWTWO-, __Adept__ |
 | 2026-05-27 | Feels MAIN Man | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -20.3 | 1rektum, 1sc0ut, DDirocco, Gurtz, MEWTWO-, __Adept__ |
-| 2026-05-20 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -261.9 | 1rektum, 1sc0ut, BlueKey-JMU, Gurtz, __Adept__ |
+| 2026-05-20 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -262.0 | 1rektum, 1sc0ut, BlueKey-JMU, Gurtz, __Adept__ |
 | 2026-05-15 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +250.3 | 1rektum, 1sc0ut, Gurtz, MEWTWO-, __Adept__ |
 | 2026-05-13 | We Play Naked | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +336.8 | 1rektum, 1sc0ut, BlueKey-JMU, Gurtz, __Adept__ |
 | 2026-05-08 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -376.3 | 1rektum, 1sc0ut, BlueKey-JMU, DDirocco, __Adept__ |

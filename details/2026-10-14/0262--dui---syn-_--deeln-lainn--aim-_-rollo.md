@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Axial | 101 | +345.4 | +325.9 | +31.8 |
-| Addice | 102 | +341.5 | +374.7 | +30.2 |
-| New Legends | 103 | +334.4 | +378.9 | +29.3 |
-| Holy Squid Empire | 108 | +317.7 | +317.1 | +29.1 |
-| Black Dragon Society | 109 | +309.7 | +336.2 | +27.8 |
-| Hadouken | 100 | +348.8 | +288.3 | +26.6 |
-| Read You Like a Kindle | 116 | +293.7 | +329.8 | +25.4 |
-| eefsports | 112 | +303.2 | +270.9 | +24.9 |
-| ODIN | 119 | +286.1 | +320.4 | +23.7 |
-| Northern District | 106 | +323.1 | +278.5 | +22.0 |
+| Axial | 100 | +345.6 | +326.0 | +31.8 |
+| Addice | 101 | +341.7 | +374.8 | +30.2 |
+| New Legends | 102 | +334.5 | +379.0 | +29.3 |
+| Holy Squid Empire | 107 | +317.9 | +317.2 | +29.2 |
+| Black Dragon Society | 108 | +309.7 | +336.2 | +27.8 |
+| Hadouken | 99 | +348.8 | +288.3 | +26.6 |
+| Read You Like a Kindle | 115 | +293.7 | +329.8 | +25.4 |
+| eefsports | 111 | +303.2 | +270.9 | +24.9 |
+| ODIN | 118 | +286.1 | +320.4 | +23.7 |
+| Northern District | 105 | +323.1 | +278.5 | +22.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.9 points at current ratings.
 

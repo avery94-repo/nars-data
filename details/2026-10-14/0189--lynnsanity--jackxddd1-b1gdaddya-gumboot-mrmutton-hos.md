@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.139 | 1294.3 | - |
 | +30 days | 0.123 | 1272.9 | -21.5 |
 | +60 days | 0.116 | 1262.4 | -31.9 |
-| +90 days | 0.103 | 1244.6 | -49.7 |
+| +90 days | 0.103 | 1244.7 | -49.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.037 vs 0.018 average, gap +0.019). Matching that average is worth about 0.0 seed points.
 
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| mokey mokey | 188 | 1503.7 | +3.7 | +84.2 |
+| mokey mokey | 188 | 1503.8 | +3.8 | +84.2 |
 | Vibe Check | 187 | 1503.9 | +3.9 | +90.3 |
 | Alternate Earth | 186 | 1504.0 | +4.0 | +97.7 |
 | KIS | 185 | 1506.7 | +6.7 | +88.9 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +326.5 | +169.0 | +15.3 |
-| Endless Esports | 65 | +326.0 | +170.6 | +15.2 |
-| DUMBO | 63 | +327.1 | +188.5 | +14.7 |
-| WhalersOnDaMoon | 66 | +321.9 | +173.1 | +14.5 |
-| NZ Gaming | 69 | +313.2 | +155.1 | +14.5 |
+| flat earth | 64 | +326.6 | +169.0 | +15.3 |
+| Endless Esports | 65 | +326.1 | +170.6 | +15.2 |
+| DUMBO | 63 | +327.1 | +188.6 | +14.7 |
+| WhalersOnDaMoon | 66 | +321.9 | +173.2 | +14.5 |
+| NZ Gaming | 69 | +313.4 | +155.1 | +14.5 |
 | GeneticDiff | 70 | +292.9 | +157.2 | +13.0 |
 | fih hou | 73 | +285.7 | +163.5 | +12.4 |
 | Asoka | 74 | +283.3 | +146.5 | +12.2 |
-| Club 333 | 76 | +282.3 | +177.0 | +12.2 |
-| F5 Esports | 60 | +335.3 | +178.9 | +12.2 |
+| Club 333 | 76 | +282.4 | +177.1 | +12.2 |
+| F5 Esports | 60 | +335.5 | +179.0 | +12.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +270.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +270.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 
@@ -92,13 +92,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -0.0 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-07-17 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +29.7 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-07-16 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.69 | 0.00 | 0.00 | -362.1 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-05-22 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -355.8 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
+| 2026-05-22 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -355.9 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
 | 2026-05-20 | Old Meta | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.03 | 0.25 | +171.5 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
 | 2026-05-08 | F1lthy Puggers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.01 | 0.15 | +17.6 | B1gDaddyA, CSGO-VETERAN, Gumboot, MrMutton, hostage1337 |
 | 2026-05-06 | Another Day in Paradise | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.14 | +67.3 | B1gDaddyA, CSGO-VETERAN, Gumboot, MrMutton, hostage1337 |
 | 2026-05-01 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +12.2 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
-| 2026-04-29 | Macs Snacks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +46.5 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
-| 2026-04-23 | DUI | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.04 | +329.9 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
+| 2026-04-29 | Macs Snacks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +46.4 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
+| 2026-04-23 | DUI | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.04 | +330.0 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
 | 2026-04-22 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -182.8 | B1gDaddyA, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

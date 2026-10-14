@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.220 | 1408.3 | - |
 | +30 days | 0.206 | 1388.0 | -20.2 |
-| +60 days | 0.191 | 1367.6 | -40.7 |
-| +90 days | 0.168 | 1335.1 | -73.2 |
+| +60 days | 0.191 | 1367.5 | -40.7 |
+| +90 days | 0.168 | 1335.2 | -73.0 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.135 vs 0.181 average, gap -0.046). Matching that average is worth about 16.1 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| GG | 52 | 1881.5 | +3.5 | +86.0 |
-| Phantom Sense | 51 | 1883.8 | +5.8 | +104.9 |
+| GG | 52 | 1881.5 | +3.5 | +86.1 |
+| Phantom Sense | 51 | 1883.9 | +5.9 | +105.0 |
 | No Future Lifes Over | 50 | 1887.2 | +9.2 | +95.9 |
 | DESPAIR | 49 | 1888.7 | +10.7 | +96.2 |
-| Skyline | 48 | 1895.5 | +17.5 | +97.2 |
+| Skyline | 48 | 1895.6 | +17.6 | +97.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | +329.5 | +152.9 | +15.9 |
+| Brahmas | 14 | +329.7 | +153.0 | +15.9 |
 | Old Meta | 15 | +298.2 | +177.2 | +13.7 |
-| FarmVille | 16 | +289.6 | +193.8 | +12.9 |
-| NuTorious | 17 | +287.7 | +147.6 | +12.9 |
-| Villainous | 18 | +282.7 | +190.1 | +12.1 |
-| Iowa Stormboar | 21 | +237.9 | +177.8 | +7.3 |
-| Zomblers | 22 | +236.7 | +178.1 | +7.1 |
+| FarmVille | 16 | +289.9 | +193.9 | +12.9 |
+| NuTorious | 17 | +287.9 | +147.6 | +12.9 |
+| Villainous | 18 | +282.9 | +190.1 | +12.1 |
+| Iowa Stormboar | 21 | +238.1 | +177.9 | +7.3 |
+| Zomblers | 22 | +236.9 | +178.2 | +7.2 |
 | qcclan | 20 | +268.2 | +156.6 | +6.0 |
 | MASTER ONE | 19 | +281.5 | +152.4 | +5.3 |
-| Phantom Sense | 51 | +5.8 | +104.9 | -0.0 |
+| Phantom Sense | 51 | +5.9 | +105.0 | -0.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +276.8 points at current ratings.
 

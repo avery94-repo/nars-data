@@ -5,7 +5,7 @@ NARS Rank: 505 of 506
 
 Final Rating: 339.2
 Seeded Start: 1104.0
-H2H Adjustment: -764.8 (capped at +-300, raw -764.7)
+H2H Adjustment: -764.8
 
 Final Rating (339.2) = Seeded Start (1104.0) + H2H Adjustment (-764.8)
 
@@ -39,18 +39,18 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| shirtcockin | 504 | 381.6 | +42.4 | +175.9 |
-| Courage | 503 | 403.8 | +64.6 | +183.2 |
-| SixSevenZaZa | 502 | 459.4 | +120.2 | +202.5 |
-| Shaq Diesel | 501 | 508.5 | +169.3 | +220.2 |
+| shirtcockin | 504 | 381.5 | +42.3 | +175.9 |
+| Courage | 503 | 403.7 | +64.5 | +183.2 |
+| SixSevenZaZa | 502 | 459.3 | +120.1 | +202.5 |
+| Shaq Diesel | 501 | 508.4 | +169.2 | +220.2 |
 | After Peak | 500 | 533.5 | +194.3 | +247.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Muncle | 491 | +293.9 | +282.1 | +26.2 |
-| Potential to Stack Dough | 488 | +346.8 | +287.6 | +24.0 |
+| Muncle | 491 | +293.8 | +282.1 | +26.2 |
+| Potential to Stack Dough | 488 | +346.7 | +287.6 | +24.0 |
 | SuperSoakerClub | 493 | +242.2 | +247.6 | +8.8 |
 | Casipanther | 489 | +299.7 | +269.6 | +7.0 |
 | 37U Passion | 490 | +298.1 | +269.0 | +6.8 |
@@ -71,7 +71,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Old Dads Banging | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -329.5 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
+| 2026-05-22 | Old Dads Banging | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -329.6 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
 | 2026-05-20 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -36.4 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, Stinza |
 | 2026-05-15 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -3.1 | 6evan, 907doobyyy, Destiny_Rs, Polarrberry, SchmidtyP |
 | 2026-05-13 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -9.6 | 6evan, 907doobyyy, Destiny_Rs, SchmidtyP, requis |

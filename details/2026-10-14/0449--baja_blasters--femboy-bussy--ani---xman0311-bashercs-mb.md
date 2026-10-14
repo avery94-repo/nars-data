@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.110 | 1254.7 | - |
 | +30 days | 0.080 | 1212.5 | -42.2 |
 | +60 days | 0.066 | 1192.3 | -62.4 |
-| +90 days | 0.049 | 1168.9 | -85.7 |
+| +90 days | 0.049 | 1169.0 | -85.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.051 vs 0.063 average, gap -0.012). Matching that average is worth about 4.2 seed points.
 
@@ -40,21 +40,21 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Team Deathgrip | 448 | 904.1 | +0.5 | +165.0 |
-| Schadenfreude | 447 | 909.3 | +5.7 | +164.1 |
-| It Doesnt Matter | 446 | 909.4 | +5.8 | +169.1 |
-| wabbit2 | 445 | 912.5 | +8.9 | +165.1 |
+| Schadenfreude | 447 | 909.2 | +5.6 | +164.1 |
+| It Doesnt Matter | 446 | 909.3 | +5.7 | +169.1 |
+| wabbit2 | 445 | 912.4 | +8.8 | +165.1 |
 | Vexation Esports | 444 | 914.0 | +10.4 | +165.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Nyx | 307 | +349.6 | +325.3 | +32.6 |
+| Team Nyx | 307 | +349.6 | +325.4 | +32.6 |
 | fiveB | 318 | +334.9 | +318.4 | +31.3 |
 | Team TahMeow | 321 | +332.1 | +317.8 | +31.1 |
 | innerFire | 325 | +320.6 | +300.4 | +30.0 |
-| Transcended | 326 | +319.7 | +301.6 | +29.9 |
-| Asian Invasion | 308 | +347.1 | +287.7 | +29.4 |
+| Transcended | 326 | +319.7 | +301.7 | +29.9 |
+| Asian Invasion | 308 | +347.2 | +287.7 | +29.4 |
 | Double Dink | 329 | +317.0 | +284.4 | +29.4 |
 | Once Divine Gaming | 315 | +336.1 | +283.5 | +29.3 |
 | NetanYAHOO | 323 | +323.7 | +348.9 | +29.2 |
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.07 | 0.79 | +24.4 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-08-07 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.07 | 0.76 | +95.0 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-08-05 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +7.6 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
-| 2026-07-31 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -6.4 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
+| 2026-07-31 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -6.3 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-07-29 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -249.5 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-07-24 | BucketJonsBoys | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -185.8 | -Ani--, AlphaOwl, BasherCS, Xman0311, mbyy_ |
 | 2026-07-22 | REPORT MASSIVE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -294.8 | -Ani--, AlphaOwl, BasherCS, Xman0311, femboy-bussy |

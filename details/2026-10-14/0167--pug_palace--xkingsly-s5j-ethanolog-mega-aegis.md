@@ -3,11 +3,11 @@ Team Name: Pug Palace
 Roster: Xkingsly, S5J, EthanolOG, Mega, aegis
 NARS Rank: 167 of 506
 
-Final Rating: 1535.8
+Final Rating: 1535.9
 Seeded Start: 1291.8
-H2H Adjustment: +244.0
+H2H Adjustment: +244.1
 
-Final Rating (1535.8) = Seeded Start (1291.8) + H2H Adjustment (+244.0)
+Final Rating (1535.9) = Seeded Start (1291.8) + H2H Adjustment (+244.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.137 | 1291.8 | - |
 | +30 days | 0.116 | 1263.0 | -28.8 |
 | +60 days | 0.106 | 1248.4 | -43.4 |
-| +90 days | 0.089 | 1224.0 | -67.8 |
+| +90 days | 0.089 | 1224.1 | -67.6 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.330 vs 0.405 average, gap -0.075). Matching that average is worth about 26.2 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Wuff Widas | 166 | 1539.6 | +3.8 | +109.1 |
-| offBalance | 165 | 1542.3 | +6.5 | +112.7 |
-| SquishysAngels | 164 | 1543.5 | +7.7 | +105.5 |
-| Team Auspex | 163 | 1544.2 | +8.4 | +106.6 |
-| 1001 Fragrance | 162 | 1549.0 | +13.2 | +113.2 |
+| Wuff Widas | 166 | 1539.6 | +3.7 | +109.1 |
+| offBalance | 165 | 1542.3 | +6.4 | +112.7 |
+| SquishysAngels | 164 | 1543.5 | +7.6 | +105.5 |
+| Team Auspex | 163 | 1544.2 | +8.3 | +106.6 |
+| 1001 Fragrance | 162 | 1549.0 | +13.1 | +113.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| TheMotherLovers | 53 | +342.2 | +216.1 | +19.6 |
+| TheMotherLovers | 53 | +342.1 | +216.1 | +19.6 |
 | Phantom Sense | 51 | +348.0 | +257.0 | +19.1 |
-| Omen Esports | 57 | +322.0 | +227.2 | +17.9 |
-| flat earth | 64 | +290.7 | +201.1 | +16.4 |
+| Omen Esports | 57 | +322.1 | +227.3 | +17.9 |
+| flat earth | 64 | +290.7 | +201.1 | +16.3 |
 | Endless Esports | 65 | +290.2 | +202.9 | +16.2 |
-| DUMBO | 63 | +291.3 | +222.7 | +15.8 |
-| GG | 52 | +345.7 | +176.4 | +15.8 |
-| WhalersOnDaMoon | 66 | +286.1 | +205.4 | +15.2 |
-| NZ Gaming | 69 | +277.4 | +185.0 | +14.6 |
-| Sharp | 54 | +332.0 | +220.2 | +14.3 |
+| DUMBO | 63 | +291.2 | +222.7 | +15.8 |
+| GG | 52 | +345.6 | +176.4 | +15.8 |
+| WhalersOnDaMoon | 66 | +286.0 | +205.4 | +15.2 |
+| NZ Gaming | 69 | +277.5 | +185.0 | +14.6 |
+| Sharp | 54 | +332.0 | +220.1 | +14.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +352.7 points at current ratings.
 
@@ -82,19 +82,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | 027fam | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.00 | 0.00 | -57.8 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-08-12 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.23 | 1.13 | +74.1 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-08-05 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -120.4 | EthanolOG, Mega, S5J, Xkingsly, aegis |
-| 2026-07-31 | Room Temp IQs | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -349.5 | EthanolOG, Mega, S5J, Xkingsly, aegis |
-| 2026-07-29 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.16 | 0.99 | +122.0 | EthanolOG, Mega, S5J, Xkingsly, aegis |
+| 2026-07-31 | Room Temp IQs | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -349.5 | EthanolOG, Mega, S5J, Xkingsly, aegis |
+| 2026-07-29 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.16 | 0.99 | +122.1 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-07-24 | dice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.16 | 0.94 | +446.4 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-07-22 | NXG Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -0.2 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-07-22 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -0.2 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-07-21 | FlyQuest RED | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.63 | 1.45 | 1.00 | 0.91 | 0.00 | 0.00 | -17.8 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-05-20 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.29 | 0.00 | 0.00 | -4.7 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
-| 2026-05-19 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -262.4 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
+| 2026-05-19 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -262.3 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 | 2026-05-19 | Once Divine Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -455.8 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 | 2026-05-12 | Baatarz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.01 | 0.22 | +396.3 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 | 2026-05-08 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.02 | 0.18 | +321.7 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 | 2026-05-07 | Elisir Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -197.7 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
-| 2026-05-06 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -377.6 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
+| 2026-05-06 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -377.5 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 | 2026-04-30 | Axial | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.06 | 0.11 | +101.0 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 | 2026-04-23 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.05 | 0.04 | 0.05 | +399.7 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 | 2026-04-22 | Villainous | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.35 | 1.00 | 0.04 | 0.00 | 0.00 | -0.3 | 1barry-, 1wiz, Mega, Xkingsly, aegis |

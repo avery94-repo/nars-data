@@ -52,7 +52,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | ItAintOverYet | 284 | +346.8 | +314.1 | +32.6 |
 | Entertainment Cheese | 285 | +345.0 | +346.2 | +31.5 |
 | Midwest Farmers | 286 | +340.4 | +341.5 | +31.2 |
-| Imperium | 283 | +349.7 | +288.7 | +31.2 |
+| Imperium | 283 | +349.8 | +288.7 | +31.2 |
 | Cream Team | 293 | +326.6 | +296.6 | +30.8 |
 | Resurgence | 290 | +327.8 | +314.9 | +30.6 |
 | 55TH ST | 288 | +335.5 | +346.1 | +30.6 |

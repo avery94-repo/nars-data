@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Pro Lapse | 468 | 822.2 | +9.4 | +165.2 |
+| Pro Lapse | 468 | 822.1 | +9.3 | +165.2 |
 | Octane | 467 | 825.4 | +12.6 | +166.3 |
-| Feels MAIN Man | 466 | 829.8 | +17.0 | +180.3 |
-| Spin da block | 465 | 830.0 | +17.2 | +167.7 |
-| 69 | 464 | 832.3 | +19.5 | +174.3 |
+| Feels MAIN Man | 466 | 829.7 | +16.9 | +180.2 |
+| Spin da block | 465 | 829.9 | +17.1 | +167.7 |
+| 69 | 464 | 832.2 | +19.4 | +174.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -55,7 +55,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Aers Money Crew | 360 | +340.4 | +321.6 | +31.8 |
 | Temple of Swing | 362 | +334.6 | +316.6 | +31.4 |
 | MINDTRIP | 361 | +336.7 | +327.5 | +31.3 |
-| RH Help Desk | 358 | +345.7 | +358.1 | +31.2 |
+| RH Help Desk | 358 | +345.8 | +358.1 | +31.2 |
 | WaterDrinkers | 364 | +333.3 | +333.4 | +30.8 |
 | OnThaGear | 363 | +333.6 | +334.9 | +30.8 |
 | Line Steppers | 367 | +326.0 | +308.2 | +30.6 |

@@ -4,14 +4,14 @@ Roster: Mr_Sausage, ApolloCS, 1cow, IllegalMusta, joebert999
 NARS Rank: 335 of 506
 
 Final Rating: 1202.6
-Seeded Start: 1230.4
-H2H Adjustment: -27.8
+Seeded Start: 1230.3
+H2H Adjustment: -27.7
 
-Final Rating (1202.6) = Seeded Start (1230.4) + H2H Adjustment (-27.8)
+Final Rating (1202.6) = Seeded Start (1230.3) + H2H Adjustment (-27.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.093 x 1400 = 1230.4
+                = 1100 + 0.093 x 1400 = 1230.3
 
 seed_factor 0.093 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.254)
 
@@ -24,7 +24,7 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.093 | 1230.4 | - |
+| Now | 0.093 | 1230.3 | - |
 | +30 days | 0.072 | 1201.0 | -29.3 |
 | +60 days | 0.058 | 1180.6 | -49.8 |
 | +90 days | 0.032 | 1144.3 | -86.0 |
@@ -50,11 +50,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | offBalance | 165 | +339.7 | +320.6 | +31.8 |
-| BucketJonsBoys | 172 | +330.4 | +310.4 | +31.0 |
-| Pug Palace | 167 | +333.2 | +324.9 | +30.8 |
+| BucketJonsBoys | 172 | +330.5 | +310.4 | +31.0 |
+| Pug Palace | 167 | +333.3 | +324.9 | +30.8 |
 | Firstwave | 175 | +324.4 | +309.1 | +30.3 |
 | Shaboing Boing Bandits | 173 | +328.0 | +336.9 | +30.1 |
-| Armored Talent | 174 | +327.2 | +344.4 | +29.8 |
+| Armored Talent | 174 | +327.3 | +344.4 | +29.8 |
 | APEX | 176 | +319.3 | +316.5 | +29.6 |
 | LAF | 183 | +308.7 | +307.4 | +28.3 |
 | GOOZPEEK | 182 | +310.5 | +321.1 | +28.2 |
@@ -82,7 +82,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-13 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.80 | 0.04 | 0.80 | +92.5 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-08-07 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.00 | 0.00 | -162.3 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-08-05 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.04 | 0.74 | +1.2 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
-| 2026-07-31 | No Leaders Please | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.08 | 0.71 | +146.1 | 1cow, IllegalMusta, Mr_Sausage, joebert999, smbba |
+| 2026-07-31 | No Leaders Please | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.08 | 0.71 | +146.2 | 1cow, IllegalMusta, Mr_Sausage, joebert999, smbba |
 | 2026-07-29 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -125.1 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-07-24 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -4.0 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-07-22 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -97.9 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |

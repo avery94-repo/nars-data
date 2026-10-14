@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.087 | 1222.1 | - |
 | +30 days | 0.089 | 1224.0 | +2.0 |
 | +60 days | 0.089 | 1224.7 | +2.7 |
-| +90 days | 0.091 | 1226.8 | +4.8 |
+| +90 days | 0.091 | 1226.9 | +4.8 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.254 vs 0.381 average, gap -0.127). Matching that average is worth about 44.5 seed points.
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NineFlyeSports | 96 | +349.5 | +204.0 | +18.3 |
-| Axial | 101 | +330.8 | +181.5 | +17.4 |
-| FlyQuest RED | 97 | +345.1 | +211.6 | +17.3 |
-| Addice | 102 | +326.9 | +211.7 | +16.8 |
-| New Legends | 103 | +319.8 | +215.1 | +16.4 |
-| Holy Squid Empire | 108 | +303.1 | +178.2 | +15.7 |
-| Black Dragon Society | 109 | +295.1 | +191.1 | +15.0 |
-| Hadouken | 100 | +334.2 | +158.2 | +14.1 |
-| Read You Like a Kindle | 116 | +279.1 | +188.7 | +13.4 |
-| Bills | 99 | +336.3 | +158.6 | +13.3 |
+| NineFlyeSports | 95 | +349.6 | +204.1 | +18.3 |
+| Axial | 100 | +331.0 | +181.6 | +17.4 |
+| FlyQuest RED | 96 | +345.2 | +211.7 | +17.3 |
+| Addice | 101 | +327.1 | +211.8 | +16.9 |
+| New Legends | 102 | +319.9 | +215.2 | +16.4 |
+| Holy Squid Empire | 107 | +303.3 | +178.3 | +15.7 |
+| Black Dragon Society | 108 | +295.1 | +191.1 | +15.0 |
+| Hadouken | 99 | +334.2 | +158.3 | +14.1 |
+| Read You Like a Kindle | 115 | +279.1 | +188.7 | +13.4 |
+| Bills | 98 | +336.3 | +158.7 | +13.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +315.9 points at current ratings.
 

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.079 | 1210.2 | - |
 | +30 days | 0.076 | 1206.0 | -4.2 |
 | +60 days | 0.074 | 1204.1 | -6.1 |
-| +90 days | 0.072 | 1200.4 | -9.8 |
+| +90 days | 0.072 | 1200.5 | -9.7 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.253 vs 0.366 average, gap -0.113). Matching that average is worth about 39.5 seed points.
 
@@ -39,8 +39,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Pug Palace | 167 | 1535.8 | +0.4 | +126.2 |
-| Wuff Widas | 166 | 1539.6 | +4.2 | +123.0 |
+| Pug Palace | 167 | 1535.9 | +0.5 | +126.3 |
+| Wuff Widas | 166 | 1539.6 | +4.2 | +123.1 |
 | offBalance | 165 | 1542.3 | +6.9 | +126.7 |
 | SquishysAngels | 164 | 1543.5 | +8.1 | +119.4 |
 | Team Auspex | 163 | 1544.2 | +8.8 | +120.6 |
@@ -50,17 +50,17 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | TheMotherLovers | 53 | +342.6 | +245.8 | +22.3 |
-| Phantom Sense | 51 | +348.4 | +291.6 | +21.6 |
-| Omen Esports | 57 | +322.4 | +257.6 | +20.3 |
-| flat earth | 64 | +291.1 | +227.9 | +18.6 |
-| Endless Esports | 65 | +290.6 | +229.8 | +18.4 |
-| GG | 52 | +346.1 | +201.5 | +18.0 |
-| DUMBO | 63 | +291.7 | +251.6 | +17.9 |
-| WhalersOnDaMoon | 66 | +286.5 | +232.4 | +17.2 |
-| NZ Gaming | 69 | +277.8 | +209.9 | +16.6 |
-| Sharp | 54 | +332.4 | +250.0 | +16.2 |
+| Phantom Sense | 51 | +348.5 | +291.7 | +21.6 |
+| Omen Esports | 57 | +322.6 | +257.7 | +20.3 |
+| flat earth | 64 | +291.2 | +228.0 | +18.6 |
+| Endless Esports | 65 | +290.7 | +229.9 | +18.5 |
+| GG | 52 | +346.1 | +201.6 | +18.0 |
+| DUMBO | 63 | +291.7 | +251.7 | +17.9 |
+| WhalersOnDaMoon | 66 | +286.5 | +232.5 | +17.2 |
+| NZ Gaming | 69 | +278.0 | +210.0 | +16.6 |
+| Sharp | 54 | +332.5 | +250.1 | +16.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +412.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +412.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): 3 Feet Of Meat (+0.0), Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.0).
 

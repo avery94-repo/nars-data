@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| on disability | 451 | 894.9 | +0.5 | +87.7 |
+| on disability | 451 | 894.8 | +0.4 | +87.7 |
 | Friendly Fire | 450 | 895.4 | +1.0 | +87.8 |
 | Baja Blasters | 449 | 903.6 | +9.2 | +89.2 |
-| Team Deathgrip | 448 | 904.1 | +9.7 | +91.8 |
-| Schadenfreude | 447 | 909.3 | +14.9 | +90.1 |
+| Team Deathgrip | 448 | 904.1 | +9.7 | +91.9 |
+| Schadenfreude | 447 | 909.2 | +14.8 | +90.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| fiveB | 318 | +344.1 | +168.0 | +16.7 |
+| fiveB | 318 | +344.1 | +168.1 | +16.7 |
 | Team TahMeow | 321 | +341.3 | +167.9 | +16.6 |
-| innerFire | 325 | +329.8 | +158.4 | +16.2 |
+| innerFire | 325 | +329.8 | +158.5 | +16.2 |
 | Transcended | 326 | +328.9 | +159.3 | +16.1 |
 | NetanYAHOO | 323 | +332.9 | +188.0 | +15.9 |
-| PogSquad | 327 | +328.1 | +180.5 | +15.9 |
+| PogSquad | 327 | +328.1 | +180.6 | +15.9 |
 | Double Dink | 329 | +326.2 | +148.9 | +15.8 |
-| Once Divine Gaming | 315 | +345.3 | +146.9 | +15.5 |
+| Once Divine Gaming | 315 | +345.3 | +147.0 | +15.5 |
 | Brobies | 330 | +321.0 | +187.4 | +15.4 |
-| Relativity | 316 | +344.5 | +146.8 | +15.0 |
+| Relativity | 316 | +344.4 | +146.8 | +15.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +286.3 points at current ratings.
 
@@ -81,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Conduit eSports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -74.5 | B00LIGAN, Mcberd, Teeler, anthonyy, fubard |
 | 2026-08-14 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.03 | 0.79 | +47.2 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-08-12 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.07 | 0.78 | +31.4 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
-| 2026-08-07 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.03 | 0.74 | +94.5 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
+| 2026-08-07 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.03 | 0.74 | +94.6 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-08-05 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -35.2 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-31 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -129.1 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-29 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.11 | 0.68 | +373.4 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |

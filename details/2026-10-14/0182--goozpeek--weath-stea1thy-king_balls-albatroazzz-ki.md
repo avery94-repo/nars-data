@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.142 | 1298.1 | - |
 | +30 days | 0.131 | 1283.6 | -14.5 |
 | +60 days | 0.120 | 1268.0 | -30.1 |
-| +90 days | 0.100 | 1239.8 | -58.3 |
+| +90 days | 0.100 | 1239.9 | -58.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.036 vs 0.023 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | NEWAR | 181 | 1513.2 | +0.1 | +93.6 |
-| Shadow Wizard Money Gang | 180 | 1515.9 | +2.8 | +109.6 |
+| Shadow Wizard Money Gang | 180 | 1516.1 | +3.0 | +109.6 |
 | ALL IN | 179 | 1516.6 | +3.5 | +93.8 |
 | FoxtrotAlpha | 178 | 1518.8 | +5.7 | +94.2 |
 | BUCK NASTY | 177 | 1518.8 | +5.7 | +94.2 |
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Omen Esports | 57 | +344.7 | +209.8 | +16.9 |
-| flat earth | 64 | +313.4 | +185.9 | +16.4 |
-| Endless Esports | 65 | +312.9 | +187.6 | +16.3 |
+| Omen Esports | 57 | +344.9 | +209.8 | +16.9 |
+| flat earth | 64 | +313.5 | +185.9 | +16.4 |
+| Endless Esports | 65 | +313.0 | +187.6 | +16.3 |
 | DUMBO | 63 | +314.0 | +206.8 | +15.8 |
 | WhalersOnDaMoon | 66 | +308.8 | +190.2 | +15.4 |
-| NZ Gaming | 69 | +300.1 | +170.7 | +15.2 |
+| NZ Gaming | 69 | +300.3 | +170.8 | +15.2 |
 | GeneticDiff | 70 | +279.8 | +172.5 | +13.3 |
-| F5 Esports | 60 | +322.2 | +196.8 | +13.0 |
-| fih hou | 73 | +272.6 | +179.0 | +12.5 |
-| Club 333 | 76 | +269.2 | +193.1 | +12.2 |
+| F5 Esports | 60 | +322.4 | +196.8 | +13.0 |
+| fih hou | 73 | +272.6 | +179.1 | +12.5 |
+| Club 333 | 76 | +269.3 | +193.2 | +12.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +308.2 points at current ratings.
 
@@ -77,14 +77,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | RunTheDamnBall | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +63.4 | 1ja_, 1moopey, Albatroazzz, Stea1thy, kimsurro |
 | 2026-10-07 | MINDTRIP | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +155.9 | 1moopey, Albatroazzz, Stea1thy, Weath, kimsurro |
-| 2026-08-26 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.04 | 1.01 | +95.7 | 1ja_, Albatroazzz, Stea1thy, Weath, kimsurro |
+| 2026-08-26 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.87 | 1.16 | 1.00 | 1.01 | 0.04 | 1.01 | +95.8 | 1ja_, Albatroazzz, Stea1thy, Weath, kimsurro |
 | 2026-08-21 | Kaos | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.16 | 1.00 | 0.97 | 0.00 | 0.00 | -64.5 | Albatroazzz, King_Balls, Stea1thy, Weath, kimsurro |
 | 2026-08-19 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -61.0 | Albatroazzz, King_Balls, Stea1thy, Weath, kimsurro |
 | 2026-08-12 | DingTone | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.00 | 0.00 | -134.6 | Albatroazzz, King_Balls, Stea1thy, Weath, cheyney |
 | 2026-08-07 | Florida Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.16 | 1.00 | 0.86 | 0.08 | 0.86 | +75.2 | 1moopey, Albatroazzz, Stea1thy, Weath, kimsurro |
 | 2026-08-05 | Feels MAIN Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.08 | 0.85 | +154.5 | 1moopey, Albatroazzz, King_Balls, Stea1thy, Weath |
 | 2026-07-31 | Exnitas | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -87.9 | Albatroazzz, King_Balls, Stea1thy, Weath, kimsurro |
-| 2026-07-24 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -181.2 | 1moopey, Albatroazzz, Stea1thy, Weath, gupr |
+| 2026-07-24 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -181.3 | 1moopey, Albatroazzz, Stea1thy, Weath, gupr |
 | 2026-07-22 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -97.2 | 1moopey, Albatroazzz, King_Balls, Stea1thy, gupr |
 | 2026-07-17 | Sassy Sunshines | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.06 | 0.70 | +333.8 | Albatroazzz, King_Balls, Stea1thy, Weath, gupr |
 | 2026-07-15 | WhalersOnDaMoon | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.16 | 1.00 | 0.68 | 0.09 | 0.68 | +394.1 | Albatroazzz, Stea1thy, Weath, gupr, kimsurro |

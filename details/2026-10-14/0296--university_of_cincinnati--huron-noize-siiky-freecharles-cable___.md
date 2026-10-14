@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | COGNITIVE | 295 | 1279.1 | +0.8 | +168.3 |
-| Dynasty | 294 | 1279.9 | +1.6 | +165.3 |
+| Dynasty | 294 | 1279.8 | +1.5 | +165.3 |
 | Cream Team | 293 | 1282.4 | +4.1 | +167.1 |
 | Tractors | 292 | 1283.0 | +4.7 | +172.6 |
 | SwagMonkeyHats | 291 | 1283.2 | +4.9 | +172.9 |
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Torii | 129 | +349.7 | +344.7 | +32.0 |
-| Kaos | 139 | +332.5 | +296.5 | +31.4 |
-| 5Frag Gaming | 134 | +343.1 | +350.7 | +31.2 |
-| KODEX ESPORTS | 137 | +338.2 | +399.1 | +29.5 |
-| Team Amplus | 145 | +315.9 | +325.8 | +28.9 |
+| Torii | 128 | +349.8 | +344.7 | +32.0 |
+| Kaos | 138 | +332.5 | +296.5 | +31.4 |
+| 5Frag Gaming | 133 | +343.1 | +350.7 | +31.2 |
+| KODEX ESPORTS | 135 | +338.4 | +399.1 | +29.5 |
+| Elusive | 141 | +326.1 | +363.1 | +29.3 |
+| Team Amplus | 145 | +316.0 | +325.8 | +28.9 |
 | Kevin James Fan Club | 148 | +302.6 | +309.4 | +27.3 |
 | Biggie Cheese Fan Club | 151 | +298.3 | +283.5 | +26.9 |
-| WhiteBoyWinter | 155 | +288.4 | +291.8 | +25.1 |
+| WhiteBoyWinter | 155 | +288.4 | +291.7 | +25.1 |
 | Oath | 142 | +323.9 | +278.9 | +20.9 |
-| gunked | 132 | +344.4 | +310.1 | +20.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
 

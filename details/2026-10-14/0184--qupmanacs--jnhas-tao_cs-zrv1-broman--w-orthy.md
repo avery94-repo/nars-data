@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.165 | 1330.9 | - |
 | +30 days | 0.144 | 1302.1 | -28.8 |
 | +60 days | 0.123 | 1271.8 | -59.1 |
-| +90 days | 0.083 | 1216.3 | -114.6 |
+| +90 days | 0.083 | 1216.4 | -114.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.075 vs 0.071 average, gap +0.004). Matching that average is worth about 0.0 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | LAF | 183 | 1511.3 | +1.0 | +165.5 |
-| GOOZPEEK | 182 | 1513.1 | +2.8 | +168.0 |
+| GOOZPEEK | 182 | 1513.1 | +2.8 | +168.1 |
 | NEWAR | 181 | 1513.2 | +2.9 | +159.6 |
-| Shadow Wizard Money Gang | 180 | 1515.9 | +5.6 | +172.9 |
+| Shadow Wizard Money Gang | 180 | 1516.1 | +5.8 | +173.1 |
 | ALL IN | 179 | 1516.6 | +6.3 | +160.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Omen Esports | 57 | +347.5 | +364.4 | +29.3 |
-| flat earth | 64 | +316.2 | +321.7 | +28.6 |
-| Endless Esports | 65 | +315.7 | +324.2 | +28.4 |
-| DUMBO | 63 | +316.8 | +353.9 | +27.2 |
-| WhalersOnDaMoon | 66 | +311.6 | +327.5 | +26.8 |
-| NZ Gaming | 69 | +302.9 | +296.6 | +26.7 |
-| GeneticDiff | 70 | +282.6 | +296.4 | +23.2 |
-| F5 Esports | 60 | +325.0 | +339.9 | +22.6 |
-| fih hou | 73 | +275.4 | +304.8 | +21.7 |
+| Omen Esports | 57 | +347.7 | +364.6 | +29.4 |
+| flat earth | 64 | +316.3 | +321.8 | +28.6 |
+| Endless Esports | 65 | +315.8 | +324.4 | +28.4 |
+| DUMBO | 63 | +316.8 | +354.0 | +27.2 |
+| WhalersOnDaMoon | 66 | +311.6 | +327.6 | +26.8 |
+| NZ Gaming | 69 | +303.1 | +296.8 | +26.8 |
+| GeneticDiff | 70 | +282.6 | +296.5 | +23.3 |
+| F5 Esports | 60 | +325.2 | +340.1 | +22.6 |
+| fih hou | 73 | +275.4 | +304.9 | +21.7 |
 | Asoka | 74 | +273.0 | +278.2 | +21.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +617.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +618.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.0), SixSevenZaZa (+0.1).
 
@@ -78,7 +78,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Epochal Esports | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.14 | 0.92 | +1.2 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-28 | offBalance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +9.9 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-26 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -42.8 | Broman-, JayEm24k, Tao_cs, worthy1, zrv1 |
-| 2026-08-21 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -84.6 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
+| 2026-08-21 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -84.7 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-19 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -77.7 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-14 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.12 | 0.79 | +41.0 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |
 | 2026-08-12 | flat earth | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.10 | 0.78 | +93.7 | Broman-, Jnhas, Tao_cs, worthy1, zrv1 |

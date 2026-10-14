@@ -41,7 +41,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | gooshedd | 394 | 1066.6 | +4.3 | +163.6 |
 | Wealth Reduction | 393 | 1071.6 | +9.3 | +165.2 |
-| Lan Bears | 392 | 1072.5 | +10.2 | +171.4 |
+| Lan Bears | 392 | 1072.4 | +10.1 | +171.4 |
 | High T Low E | 391 | 1073.4 | +11.1 | +165.8 |
 | Sable | 390 | 1080.2 | +17.9 | +167.9 |
 
@@ -49,9 +49,9 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| FUELED BY HATE | 241 | +342.0 | +310.7 | +32.2 |
+| FUELED BY HATE | 241 | +342.0 | +310.8 | +32.2 |
 | Fortis Fortuna Adiuvat | 237 | +344.0 | +332.6 | +31.9 |
-| NXG Esports | 242 | +341.7 | +344.8 | +31.8 |
+| NXG Esports | 242 | +341.8 | +344.9 | +31.8 |
 | brb grinding minecraft | 239 | +343.2 | +357.0 | +31.6 |
 | Casual Mature Gamers | 238 | +343.6 | +364.0 | +30.8 |
 | The Kerbins | 250 | +316.3 | +331.2 | +28.8 |
@@ -78,10 +78,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-29 | Kevin James Fan Club | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -189.1 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
+| 2026-05-29 | Kevin James Fan Club | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -189.2 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
 | 2026-05-27 | FLying PiGs | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +179.3 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
 | 2026-05-23 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.24 | 1.01 | 1.00 | 0.24 | 0.00 | 0.00 | -125.7 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
-| 2026-05-20 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -164.1 | Jpp, Justhoohaa, Sinxysinxy, skywayz, squidah |
+| 2026-05-20 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -164.2 | Jpp, Justhoohaa, Sinxysinxy, skywayz, squidah |
 | 2026-05-15 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -28.5 | Justhoohaa, Sinxysinxy, Swathey, megHA, squidah |
 | 2026-05-13 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -0.8 | Dankner, Justhoohaa, Sinxysinxy, megHA, squidah |
 | 2026-05-08 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -292.5 | Justhoohaa, Sinxysinxy, megHA, skywayz, squidah |
@@ -89,6 +89,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +171.7 | Justhoohaa, Sinxysinxy, megHA, skywayz, squidah |
 | 2026-04-29 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +189.7 | Justhoohaa, Sinxysinxy, Swathey, megHA, squidah |
 | 2026-04-24 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -180.1 | Justhoohaa, Sinxysinxy, Swathey, megHA, squidah |
-| 2026-04-22 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +236.1 | Justhoohaa, Sinxysinxy, megHA, skywayz, squidah |
+| 2026-04-22 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +236.2 | Justhoohaa, Sinxysinxy, megHA, skywayz, squidah |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

@@ -39,10 +39,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Schadenfreude | 447 | 909.3 | +5.2 | +146.3 |
-| It Doesnt Matter | 446 | 909.4 | +5.3 | +151.7 |
-| wabbit2 | 445 | 912.5 | +8.4 | +147.2 |
-| Vexation Esports | 444 | 914.0 | +9.9 | +147.6 |
+| Schadenfreude | 447 | 909.2 | +5.1 | +146.3 |
+| It Doesnt Matter | 446 | 909.3 | +5.2 | +151.7 |
+| wabbit2 | 445 | 912.4 | +8.3 | +147.2 |
+| Vexation Esports | 444 | 914.0 | +9.9 | +147.7 |
 | Dead Pixel | 443 | 923.2 | +19.1 | +162.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -56,11 +56,11 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Transcended | 326 | +319.2 | +267.0 | +26.4 |
 | Double Dink | 329 | +316.5 | +251.2 | +26.0 |
 | NetanYAHOO | 323 | +323.2 | +310.2 | +25.9 |
-| Asian Invasion | 308 | +346.6 | +253.4 | +25.9 |
+| Asian Invasion | 308 | +346.7 | +253.4 | +25.9 |
 | Once Divine Gaming | 315 | +335.6 | +249.9 | +25.8 |
 | PogSquad | 327 | +318.4 | +298.4 | +25.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +545.7 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +545.8 points at current ratings.
 
 Seed inputs expiring within 90 days:
 - S57 NA Intermediate Central - Regular Season vs dogwater (2026-05-15): expires in 27 days [Quality Wins 0.02, Opponent Network 0.18]
@@ -79,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -110.3 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-07-31 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -16.8 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-07-29 | Team TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -99.7 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
-| 2026-07-24 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.03 | 0.65 | +280.1 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
+| 2026-07-24 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.03 | 0.65 | +280.2 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-07-22 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -0.2 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-07-17 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -0.4 | Combz, FlYiN_ElVIS, JbenCS, NoDamage, yesvil |
 | 2026-07-15 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -14.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
@@ -88,7 +88,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-13 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -22.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-05-06 | Shaq Diesel | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -46.1 | Combz, FlYiN_ElVIS, eztupac, rlxthegreat, yesvil |
 | 2026-04-29 | Kennesaw State Gold 2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -2.8 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
-| 2026-04-24 | EZ2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -237.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
+| 2026-04-24 | EZ2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -237.1 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-04-22 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -204.4 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

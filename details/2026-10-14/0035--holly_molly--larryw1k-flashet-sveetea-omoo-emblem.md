@@ -3,11 +3,11 @@ Team Name: Holly Molly
 Roster: Larryw1k, FlashET, sveetea, omoo, emblem
 NARS Rank: 35 of 506
 
-Final Rating: 1988.4
+Final Rating: 1988.5
 Seeded Start: 1485.0
-H2H Adjustment: +503.4
+H2H Adjustment: +503.5
 
-Final Rating (1988.4) = Seeded Start (1485.0) + H2H Adjustment (+503.4)
+Final Rating (1988.5) = Seeded Start (1485.0) + H2H Adjustment (+503.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.275 | 1485.0 | - |
 | +30 days | 0.255 | 1456.4 | -28.6 |
 | +60 days | 0.240 | 1435.3 | -49.7 |
-| +90 days | 0.215 | 1400.6 | -84.4 |
+| +90 days | 0.215 | 1400.8 | -84.2 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.117 vs 0.224 average, gap -0.107). Matching that average is worth about 74.9 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Slimy Boogermen | 34 | 1997.4 | +9.0 | +109.9 |
-| Chicken Coop | 33 | 1998.2 | +9.8 | +119.9 |
-| Hairy Scary Bandits | 32 | 1999.4 | +11.0 | +113.2 |
-| YHUBEPCAM | 31 | 2004.1 | +15.7 | +101.5 |
-| Priority | 30 | 2004.8 | +16.4 | +101.6 |
+| Slimy Boogermen | 34 | 1997.6 | +9.1 | +109.9 |
+| Chicken Coop | 33 | 1998.4 | +9.9 | +119.9 |
+| Hairy Scary Bandits | 32 | 1999.5 | +11.0 | +113.2 |
+| YHUBEPCAM | 31 | 2004.2 | +15.7 | +101.5 |
+| Priority | 30 | 2004.8 | +16.3 | +101.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Desi Boyz | 11 | +344.1 | +209.9 | +14.1 |
-| regain | 12 | +267.8 | +214.5 | +12.8 |
-| Detonate | 13 | +258.3 | +189.4 | +7.2 |
-| Brahmas | 14 | +219.1 | +152.5 | +4.4 |
-| Zomblers | 22 | +126.3 | +160.8 | -0.0 |
+| Desi Boyz | 11 | +344.3 | +209.9 | +14.1 |
+| regain | 12 | +267.9 | +214.6 | +12.8 |
+| Detonate | 13 | +258.5 | +189.5 | +7.3 |
+| Brahmas | 14 | +219.2 | +152.6 | +4.4 |
+| Zomblers | 22 | +126.4 | +160.8 | -0.0 |
 | Hairy Scary Bandits | 32 | +11.0 | +113.2 | -0.0 |
-| Chicken Coop | 33 | +9.8 | +119.9 | -0.0 |
-| Olympus | 25 | +51.3 | +122.8 | -0.0 |
-| VOID ALUNE | 29 | +19.5 | +102.2 | -0.0 |
-| Iowa Stormboar | 21 | +127.5 | +160.8 | -0.1 |
+| Chicken Coop | 33 | +9.9 | +119.9 | -0.0 |
+| Olympus | 25 | +51.3 | +122.9 | -0.0 |
+| VOID ALUNE | 29 | +19.4 | +102.2 | -0.0 |
+| Iowa Stormboar | 21 | +127.6 | +160.8 | -0.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +327.4 points at current ratings.
 
@@ -81,22 +81,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-01 | ThirdSite | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.91 | 1.33 | 1.00 | 1.21 | 0.28 | 1.21 | +41.4 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-27 | Tacos Tiramisu and Lies | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.28 | 0.28 | 1.28 | +133.2 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
 | 2026-08-25 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.26 | 0.00 | 0.00 | -0.1 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-08-24 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.25 | 0.14 | 1.25 | +17.4 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
+| 2026-08-24 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.25 | 0.14 | 1.25 | +17.3 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
 | 2026-08-19 | dice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -5.6 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-18 | Conscious Gaming | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -19.1 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-14 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.45 | 1.00 | 1.15 | 0.12 | 1.15 | +39.0 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-08-13 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.00 | 0.00 | -2.8 | Calvin-, FlashET, Larryw1k, omoo, sveetea |
+| 2026-08-13 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.00 | 0.00 | -2.7 | Calvin-, FlashET, Larryw1k, omoo, sveetea |
 | 2026-08-12 | North Forge | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.13 | 0.00 | 0.00 | -2.2 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-08-12 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.61 | 1.13 | +330.4 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-08-12 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.45 | 1.00 | 1.13 | 0.61 | 1.13 | +330.5 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-07 | Celestial Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.45 | 1.00 | 1.08 | 0.00 | 0.00 | -5.4 | FlashET, Larryw1k, emblem, sveetea, terrk1s |
 | 2026-08-05 | NXG Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.45 | 1.00 | 1.06 | 0.00 | 0.00 | -91.6 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-07-31 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -109.4 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-07-29 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -166.2 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-07-31 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -109.5 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-07-29 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.00 | 0.00 | -166.1 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-07-23 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.93 | 0.07 | 0.93 | +315.6 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
 | 2026-07-15 | SOLA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -328.8 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-05-21 | firesale | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.03 | 0.30 | +243.6 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-05-19 | unreal nightmare | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -43.0 | FlashET, Larryw1k, TeaPotMan, omoo, sveetea |
-| 2026-05-12 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.01 | 0.22 | +122.8 | Calvin-, Larryw1k, TeaPotMan, omoo, sveetea |
+| 2026-05-21 | firesale | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.03 | 0.30 | +243.7 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-05-19 | unreal nightmare | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.00 | 0.00 | -42.9 | FlashET, Larryw1k, TeaPotMan, omoo, sveetea |
+| 2026-05-12 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.01 | 0.22 | +122.9 | Calvin-, Larryw1k, TeaPotMan, omoo, sveetea |
 | 2026-05-07 | Demolition | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.35 | 1.00 | 0.17 | 0.00 | 0.00 | -288.5 | Calvin-, Larryw1k, emblem, omoo, sveetea |
 | 2026-05-06 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.17 | 0.02 | 0.17 | +253.7 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-04-30 | eefsports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.11 | +420.0 | FlashET, Larryw1k, emblem, omoo, sveetea |

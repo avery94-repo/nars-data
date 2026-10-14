@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.074 | 1204.0 | -8.5 |
 | +90 days | 0.072 | 1201.3 | -11.2 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.253 vs 0.395 average, gap -0.142). Matching that average is worth about 49.7 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.253 vs 0.433 average, gap -0.180). Matching that average is worth about 63.0 seed points.
 
 - Tier Exposure drivers: S58 NA Open1-8 Central - Playoffs (2026-09-18) 1.00; S57 NA Open1-8 Central - Playoffs (2026-05-27) 0.26
 - Quality Wins drivers: beat Wuff Widas at S58 NA Open1-8 Central - Playoffs (2026-09-16) 0.09; beat Booday at S58 NA Open1-8 Central - Playoffs (2026-09-04) 0.04; beat Juiced Up at S58 NA Open1-8 Central - Playoffs (2026-09-11) 0.03
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Oath | 142 | 1602.2 | +4.0 | +117.7 |
-| US Navy Esports | 141 | 1605.0 | +6.8 | +118.3 |
-| crescent | 140 | 1608.4 | +10.2 | +122.1 |
-| Kaos | 139 | 1610.8 | +12.6 | +123.1 |
-| SquadUp | 138 | 1613.8 | +15.6 | +120.4 |
+| Oath | 142 | 1602.2 | +4.0 | +117.8 |
+| Elusive | 141 | 1604.4 | +6.2 | +133.8 |
+| US Navy Esports | 140 | 1605.0 | +6.8 | +118.4 |
+| crescent | 139 | 1608.4 | +10.2 | +122.1 |
+| Kaos | 138 | 1610.8 | +12.6 | +123.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Wanted Goons | 43 | +334.9 | +287.2 | +21.0 |
-| Swole Patrol | 45 | +316.2 | +194.2 | +20.6 |
-| Xiaoma Gaming | 46 | +313.3 | +256.4 | +19.8 |
-| FLOW STATE | 47 | +299.2 | +240.0 | +18.8 |
+| Wanted Goons | 43 | +335.1 | +287.3 | +21.0 |
+| Swole Patrol | 45 | +316.3 | +194.3 | +20.6 |
+| Xiaoma Gaming | 46 | +313.5 | +256.6 | +19.9 |
+| FLOW STATE | 47 | +299.2 | +240.1 | +18.8 |
 | No Future Lifes Over | 50 | +289.0 | +217.6 | +17.9 |
-| DESPAIR | 49 | +290.5 | +217.9 | +17.8 |
-| Zealous | 42 | +343.5 | +199.6 | +17.4 |
-| Phantom Sense | 51 | +285.6 | +260.8 | +17.3 |
-| TheMotherLovers | 53 | +279.8 | +222.5 | +16.7 |
-| Locally Hated | 41 | +348.4 | +252.3 | +15.0 |
+| DESPAIR | 49 | +290.5 | +218.0 | +17.8 |
+| Zealous | 42 | +343.6 | +199.6 | +17.4 |
+| Phantom Sense | 51 | +285.7 | +260.9 | +17.3 |
+| TheMotherLovers | 53 | +279.8 | +222.6 | +16.7 |
+| Locally Hated | 41 | +348.5 | +252.4 | +15.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +408.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +409.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 

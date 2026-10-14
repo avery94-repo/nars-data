@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Texas Orange | 383 | 1097.5 | +0.9 | +168.4 |
+| Texas Orange | 383 | 1097.4 | +0.8 | +168.4 |
 | Costco Family | 382 | 1102.5 | +5.9 | +169.8 |
 | HammerHeads | 381 | 1102.7 | +6.1 | +164.2 |
 | We Play Naked | 380 | 1103.2 | +6.6 | +172.5 |
@@ -53,12 +53,12 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | 1NT | 221 | +342.4 | +332.4 | +31.5 |
 | penazoid | 226 | +331.3 | +315.0 | +31.0 |
 | Binky | 220 | +342.7 | +361.3 | +30.8 |
-| UltimateDarklordWizardz | 227 | +330.5 | +347.0 | +30.0 |
+| UltimateDarklordWizardz | 227 | +330.5 | +347.1 | +30.1 |
 | YHTR | 235 | +317.1 | +332.0 | +28.9 |
 | FUELED BY HATE | 241 | +307.7 | +295.2 | +28.3 |
 | Fortis Fortuna Adiuvat | 237 | +309.7 | +314.8 | +28.3 |
+| NXG Esports | 242 | +307.5 | +325.6 | +28.2 |
 | brb grinding minecraft | 239 | +308.9 | +336.4 | +28.2 |
-| NXG Esports | 242 | +307.4 | +325.5 | +28.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -88,7 +88,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -9.5 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-07-15 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.00 | 0.00 | -0.4 | ScottyVolta, Squidees, WolffDaAwper, dcb, tamed |
 | 2026-05-22 | Over Your Head | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -72.5 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
-| 2026-05-20 | Team Team Name | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -250.3 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
+| 2026-05-20 | Team Team Name | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -250.4 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-05-15 | Skyline | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -197.1 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-05-13 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -161.3 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |
 | 2026-05-08 | 027fam | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -186.5 | ScottyVolta, Stay_Classy, WolffDaAwper, dcb, tamed |

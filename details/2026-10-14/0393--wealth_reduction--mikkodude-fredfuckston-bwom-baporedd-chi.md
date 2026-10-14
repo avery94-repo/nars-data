@@ -39,8 +39,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Lan Bears | 392 | 1072.5 | +0.9 | +168.0 |
-| High T Low E | 391 | 1073.4 | +1.8 | +162.8 |
+| Lan Bears | 392 | 1072.4 | +0.8 | +168.0 |
+| High T Low E | 391 | 1073.4 | +1.8 | +162.9 |
 | Sable | 390 | 1080.2 | +8.6 | +165.0 |
 | Second Nature | 389 | 1082.1 | +10.5 | +165.6 |
 | Kahoot Squad | 388 | 1082.6 | +11.0 | +171.2 |
@@ -52,10 +52,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | FUELED BY HATE | 241 | +332.7 | +306.6 | +31.4 |
 | YHTR | 235 | +342.1 | +346.1 | +31.3 |
 | Fortis Fortuna Adiuvat | 237 | +334.7 | +327.8 | +31.1 |
-| NXG Esports | 242 | +332.4 | +339.6 | +31.0 |
+| NXG Esports | 242 | +332.5 | +339.6 | +31.0 |
 | brb grinding minecraft | 239 | +333.9 | +351.4 | +30.9 |
 | Casual Mature Gamers | 238 | +334.3 | +358.2 | +30.1 |
-| skebob | 231 | +349.1 | +288.4 | +27.8 |
+| skebob | 231 | +349.3 | +288.5 | +27.8 |
 | The Kerbins | 250 | +307.0 | +326.0 | +27.6 |
 | Dude Picks | 252 | +305.9 | +340.5 | +27.1 |
 | Eightball | 253 | +304.0 | +316.3 | +26.9 |

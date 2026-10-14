@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.054 | 1175.6 | - |
 | +30 days | 0.044 | 1162.2 | -13.4 |
 | +60 days | 0.039 | 1154.2 | -21.4 |
-| +90 days | 0.036 | 1151.1 | -24.5 |
+| +90 days | 0.037 | 1151.1 | -24.5 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.157 vs 0.314 average, gap -0.157). Matching that average is worth about 55.0 seed points.
 
@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | NetanYAHOO | 323 | 1227.3 | +2.3 | +173.7 |
-| The Ohio Meat Wagon | 322 | 1228.2 | +3.2 | +163.3 |
+| The Ohio Meat Wagon | 322 | 1228.1 | +3.1 | +163.3 |
 | Team TahMeow | 321 | 1235.7 | +10.7 | +172.7 |
 | Full White | 320 | 1236.9 | +11.9 | +166.0 |
 | 773Revival | 319 | 1238.2 | +13.2 | +166.4 |
@@ -51,12 +51,12 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | WhiteBoyWinter | 155 | +341.7 | +317.0 | +32.1 |
 | offBalance | 165 | +317.3 | +309.7 | +29.4 |
-| BucketJonsBoys | 172 | +308.0 | +299.9 | +28.3 |
-| Pug Palace | 167 | +310.8 | +313.4 | +28.2 |
+| BucketJonsBoys | 172 | +308.1 | +299.9 | +28.3 |
+| Pug Palace | 167 | +310.9 | +313.5 | +28.3 |
 | Order Zero | 156 | +339.8 | +284.9 | +27.8 |
 | Shaboing Boing Bandits | 173 | +305.6 | +324.3 | +27.4 |
 | Firstwave | 175 | +302.0 | +298.4 | +27.4 |
-| Armored Talent | 174 | +304.8 | +331.2 | +27.2 |
+| Armored Talent | 174 | +304.9 | +331.2 | +27.2 |
 | APEX | 176 | +296.9 | +305.1 | +26.4 |
 | GOOZPEEK | 182 | +288.1 | +309.0 | +24.8 |
 

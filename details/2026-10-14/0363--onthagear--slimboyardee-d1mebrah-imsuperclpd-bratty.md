@@ -43,20 +43,20 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | MINDTRIP | 361 | 1149.5 | +3.1 | +100.7 |
 | Aers Money Crew | 360 | 1153.2 | +6.8 | +100.2 |
 | Macs Snacks | 359 | 1153.9 | +7.5 | +98.6 |
-| RH Help Desk | 358 | 1158.5 | +12.1 | +107.1 |
+| RH Help Desk | 358 | 1158.6 | +12.2 | +107.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | ClanAgain | 195 | +346.9 | +168.7 | +17.7 |
-| ABG Esports | 196 | +342.3 | +190.2 | +17.5 |
-| O Fire | 198 | +342.1 | +196.4 | +17.1 |
-| GRIT | 201 | +334.7 | +163.1 | +17.0 |
+| ABG Esports | 196 | +342.4 | +190.3 | +17.5 |
+| O Fire | 198 | +342.1 | +196.5 | +17.1 |
+| GRIT | 201 | +334.8 | +163.2 | +17.0 |
 | Bad Jawn | 200 | +335.7 | +193.3 | +16.9 |
 | noname | 208 | +320.9 | +177.5 | +16.4 |
 | Kings Gambit | 210 | +315.5 | +178.7 | +16.0 |
-| AscendentEsport | 206 | +321.5 | +192.7 | +15.9 |
+| AscendentEsport | 207 | +321.5 | +192.7 | +15.9 |
 | Veniversum | 211 | +313.0 | +189.8 | +15.7 |
 | FlockMunchers | 212 | +312.7 | +189.9 | +15.7 |
 

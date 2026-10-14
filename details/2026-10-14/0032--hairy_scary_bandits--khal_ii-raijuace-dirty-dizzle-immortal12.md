@@ -3,11 +3,11 @@ Team Name: Hairy Scary Bandits
 Roster: khaL_II, RaijuACE, Dirty-Dizzle, Immortal123, Shamshoon
 NARS Rank: 32 of 506
 
-Final Rating: 1999.4
+Final Rating: 1999.5
 Seeded Start: 1527.4
-H2H Adjustment: +472.0
+H2H Adjustment: +472.1 (capped at +-300, raw +472.2)
 
-Final Rating (1999.4) = Seeded Start (1527.4) + H2H Adjustment (+472.0)
+Final Rating (1999.5) = Seeded Start (1527.4) + H2H Adjustment (+472.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.305 | 1527.4 | - |
 | +30 days | 0.295 | 1512.6 | -14.8 |
 | +60 days | 0.281 | 1493.4 | -34.0 |
-| +90 days | 0.260 | 1464.0 | -63.4 |
+| +90 days | 0.260 | 1464.3 | -63.0 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.181 vs 0.175 average, gap +0.006). Matching that average is worth about 0.0 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| YHUBEPCAM | 31 | 2004.1 | +4.7 | +78.9 |
-| Priority | 30 | 2004.8 | +5.4 | +79.0 |
-| VOID ALUNE | 29 | 2007.9 | +8.5 | +79.4 |
-| babaG | 28 | 2008.8 | +9.4 | +93.6 |
-| Automatic HQ | 27 | 2030.9 | +31.5 | +98.1 |
+| YHUBEPCAM | 31 | 2004.2 | +4.7 | +78.8 |
+| Priority | 30 | 2004.8 | +5.3 | +78.9 |
+| VOID ALUNE | 29 | 2007.9 | +8.4 | +79.4 |
+| babaG | 28 | 2009.0 | +9.5 | +93.6 |
+| Automatic HQ | 27 | 2030.9 | +31.4 | +98.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Desi Boyz | 11 | +333.1 | +163.3 | +10.8 |
-| regain | 12 | +256.8 | +168.6 | +9.1 |
-| Detonate | 13 | +247.3 | +148.4 | +4.5 |
-| Brahmas | 14 | +208.1 | +118.9 | +1.5 |
-| Zomblers | 22 | +115.3 | +127.8 | -0.0 |
+| Desi Boyz | 11 | +333.3 | +163.3 | +10.8 |
+| regain | 12 | +256.9 | +168.6 | +9.1 |
+| Detonate | 13 | +247.5 | +148.4 | +4.5 |
+| Brahmas | 14 | +208.2 | +118.9 | +1.6 |
+| Zomblers | 22 | +115.4 | +127.8 | -0.0 |
 | Olympus | 25 | +40.3 | +96.7 | -0.0 |
-| VOID ALUNE | 29 | +8.5 | +79.4 | -0.0 |
-| Iowa Stormboar | 21 | +116.5 | +127.8 | -0.0 |
-| Automatic HQ | 27 | +31.5 | +98.1 | -0.1 |
-| Priority | 30 | +5.4 | +79.0 | -0.1 |
+| VOID ALUNE | 29 | +8.4 | +79.4 | -0.0 |
+| Iowa Stormboar | 21 | +116.6 | +127.8 | -0.0 |
+| Automatic HQ | 27 | +31.4 | +98.1 | -0.1 |
+| Priority | 30 | +5.3 | +78.9 | -0.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +248.1 points at current ratings.
 
@@ -83,16 +83,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | FLOW STATE | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.03 | 1.00 | 0.99 | 0.23 | 0.99 | +45.2 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
 | 2026-09-06 | SquadUp | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.19 | 0.00 | +13.8 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
 | 2026-09-04 | Chopped | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.11 | 0.96 | +7.1 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
-| 2026-08-27 | Rejects | W | W/O | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.88 | 1.46 | 1.00 | 1.27 | 0.20 | 1.27 | +17.9 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
-| 2026-08-26 | Locally Hated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -95.8 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
+| 2026-08-27 | Rejects | W | W/O | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.87 | 1.46 | 1.00 | 1.27 | 0.20 | 1.27 | +17.9 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
+| 2026-08-26 | Locally Hated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -95.9 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-25 | Zomblers | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.86 | 1.46 | 1.00 | 1.26 | 0.00 | 0.00 | -60.3 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
-| 2026-08-21 | Akatsuki | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.04 | 0.85 | +27.9 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
+| 2026-08-21 | Akatsuki | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.04 | 0.85 | +27.8 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-19 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -178.0 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-18 | dice | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.82 | 1.46 | 1.00 | 1.19 | 0.00 | 0.00 | -177.3 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-14 | Wolves | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.13 | 0.81 | +14.8 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-13 | Skyline | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.00 | 0.00 | -132.9 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-12 | absolute cinema | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.09 | 0.79 | +5.6 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
-| 2026-08-11 | FarmVille | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.46 | 1.00 | 1.13 | 1.13 | 1.13 | +152.4 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
+| 2026-08-11 | FarmVille | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.46 | 1.00 | 1.13 | 1.13 | 1.13 | +152.7 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
 | 2026-08-07 | noname | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.08 | 0.76 | +134.2 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
 | 2026-07-31 | Dude Picks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.09 | 0.71 | +13.6 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |
 | 2026-07-29 | Skyline | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.24 | 0.70 | +143.2 | BeterBey, Dirty-Dizzle, RaijuACE, Shamshoon, khaL_II |

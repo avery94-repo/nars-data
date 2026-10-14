@@ -3,11 +3,11 @@ Team Name: House Platypus ESC
 Roster: Bruse, yreva, M0nstr, tangz, Latt
 NARS Rank: 273 of 506
 
-Final Rating: 1332.3
+Final Rating: 1332.4
 Seeded Start: 1182.0
-H2H Adjustment: +150.3
+H2H Adjustment: +150.4
 
-Final Rating (1332.3) = Seeded Start (1182.0) + H2H Adjustment (+150.3)
+Final Rating (1332.4) = Seeded Start (1182.0) + H2H Adjustment (+150.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Cojomo Academy Roster | 272 | 1336.1 | +3.8 | +163.5 |
-| Gloobers | 271 | 1342.8 | +10.5 | +170.9 |
-| Bird Lickers | 270 | 1342.8 | +10.5 | +167.6 |
-| PASSION | 269 | 1349.4 | +17.1 | +177.8 |
-| the dragon warrior scroll | 268 | 1351.3 | +19.0 | +168.3 |
+| Cojomo Academy Roster | 272 | 1336.1 | +3.7 | +163.4 |
+| Gloobers | 271 | 1342.8 | +10.4 | +170.8 |
+| Bird Lickers | 270 | 1342.8 | +10.4 | +167.6 |
+| PASSION | 269 | 1349.4 | +17.0 | +177.8 |
+| the dragon warrior scroll | 268 | 1351.3 | +18.9 | +168.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Holy Squid Empire | 108 | +346.4 | +331.8 | +31.9 |
-| Black Dragon Society | 109 | +338.4 | +353.4 | +30.7 |
-| Read You Like a Kindle | 116 | +322.4 | +347.4 | +29.1 |
-| eefsports | 112 | +331.9 | +281.9 | +28.7 |
-| ODIN | 119 | +314.8 | +337.4 | +27.9 |
-| Team GREAT | 128 | +296.9 | +287.2 | +26.6 |
-| Torii | 129 | +295.7 | +315.2 | +26.1 |
-| 5Frag Gaming | 134 | +289.1 | +319.4 | +24.8 |
-| Shimmer | 111 | +334.8 | +294.6 | +24.4 |
-| KODEX ESPORTS | 137 | +284.2 | +357.6 | +23.5 |
+| Holy Squid Empire | 107 | +346.5 | +331.8 | +31.9 |
+| Black Dragon Society | 108 | +338.3 | +353.4 | +30.6 |
+| Read You Like a Kindle | 115 | +322.3 | +347.3 | +29.1 |
+| eefsports | 111 | +331.8 | +281.9 | +28.7 |
+| ODIN | 118 | +314.7 | +337.4 | +27.9 |
+| Team GREAT | 127 | +296.8 | +287.2 | +26.6 |
+| Torii | 128 | +295.7 | +315.1 | +26.1 |
+| 5Frag Gaming | 133 | +289.0 | +319.3 | +24.8 |
+| Shimmer | 110 | +334.7 | +294.6 | +24.4 |
+| KODEX ESPORTS | 135 | +284.3 | +357.6 | +23.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
 
@@ -79,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-25 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.45 | 1.00 | 1.25 | 0.00 | 0.00 | -81.6 | Latt, M0nstr, PurnrplPanda, _-JAKEY-_, yreva |
 | 2026-08-19 | Endless Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.82 | 1.45 | 1.00 | 1.19 | 0.00 | 0.00 | -3.6 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
 | 2026-07-31 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -85.6 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
-| 2026-07-29 | dead team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.05 | 0.99 | +168.9 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
+| 2026-07-29 | dead team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.45 | 1.00 | 0.99 | 0.05 | 0.99 | +169.0 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
 | 2026-07-17 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.87 | 0.13 | 0.87 | +335.1 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
 | 2026-07-15 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.00 | 0.00 | -0.0 | Latt, M0nstr, PurnrplPanda, nicejobteam, yreva |
 | 2026-05-21 | Once Divine Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -131.2 | Bruse, Latt, M0nstr, tangz, yreva |

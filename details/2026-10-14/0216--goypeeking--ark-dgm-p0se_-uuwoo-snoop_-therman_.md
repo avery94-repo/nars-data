@@ -51,16 +51,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | :- | -: | -: | -: | -: |
 | GeneticDiff | 70 | +342.9 | +247.6 | +23.3 |
 | Asoka | 74 | +333.3 | +231.0 | +23.0 |
-| Kairo | 79 | +328.9 | +227.1 | +22.7 |
+| Kairo | 79 | +329.0 | +227.1 | +22.7 |
 | fih hou | 73 | +335.7 | +257.4 | +22.6 |
-| Club 333 | 76 | +332.3 | +278.4 | +22.0 |
-| firesale | 82 | +318.2 | +241.7 | +22.0 |
-| CNCS Last Hope | 72 | +338.7 | +207.1 | +21.8 |
-| Diggers | 86 | +313.4 | +217.9 | +21.7 |
+| Club 333 | 76 | +332.4 | +278.5 | +22.1 |
+| firesale | 82 | +318.3 | +241.7 | +22.0 |
+| CNCS Last Hope | 72 | +338.7 | +207.2 | +21.8 |
+| Diggers | 86 | +313.6 | +217.9 | +21.7 |
 | mas paspas | 75 | +333.0 | +267.4 | +21.5 |
 | Fire Nation | 90 | +299.7 | +222.9 | +20.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +430.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +430.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.0), Courage (+0.1), SixSevenZaZa (+0.1).
 

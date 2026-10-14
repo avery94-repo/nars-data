@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.159 | 1322.6 | - |
 | +30 days | 0.136 | 1290.4 | -32.2 |
 | +60 days | 0.120 | 1268.4 | -54.2 |
-| +90 days | 0.094 | 1231.3 | -91.3 |
+| +90 days | 0.094 | 1231.4 | -91.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.037 vs 0.022 average, gap +0.015). Matching that average is worth about 0.0 seed points.
 
@@ -43,22 +43,22 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Glockwork | 267 | 1353.4 | +4.0 | +90.6 |
 | High-Tech Performance | 266 | 1356.1 | +6.7 | +95.4 |
 | Wiggle Peeks | 265 | 1356.7 | +7.3 | +99.7 |
-| THE GUILD | 264 | 1359.0 | +9.6 | +96.1 |
+| THE GUILD | 264 | 1359.0 | +9.6 | +96.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Holy Squid Empire | 108 | +329.3 | +174.1 | +16.4 |
-| New Legends | 103 | +346.0 | +210.8 | +16.4 |
-| Black Dragon Society | 109 | +321.3 | +187.3 | +15.9 |
-| Read You Like a Kindle | 116 | +305.3 | +185.4 | +14.9 |
-| ODIN | 119 | +297.7 | +180.2 | +14.1 |
-| eefsports | 112 | +314.8 | +145.9 | +14.1 |
-| Team GREAT | 128 | +279.8 | +151.3 | +12.7 |
-| Torii | 129 | +278.6 | +168.6 | +12.7 |
-| Northern District | 106 | +334.7 | +149.2 | +12.3 |
-| Shimmer | 111 | +317.7 | +153.2 | +12.0 |
+| Holy Squid Empire | 107 | +329.5 | +174.1 | +16.4 |
+| New Legends | 102 | +346.1 | +210.8 | +16.4 |
+| Black Dragon Society | 108 | +321.3 | +187.4 | +15.9 |
+| Read You Like a Kindle | 115 | +305.3 | +185.4 | +14.9 |
+| ODIN | 118 | +297.7 | +180.2 | +14.1 |
+| eefsports | 111 | +314.8 | +145.9 | +14.1 |
+| Team GREAT | 127 | +279.8 | +151.3 | +12.7 |
+| Torii | 128 | +278.7 | +168.6 | +12.7 |
+| Northern District | 105 | +334.7 | +149.2 | +12.3 |
+| Shimmer | 110 | +317.7 | +153.2 | +12.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +295.1 points at current ratings.
 

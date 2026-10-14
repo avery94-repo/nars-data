@@ -3,11 +3,11 @@ Team Name: Knight Owls
 Roster: tydy3, vertsie, c0de, S-O-L-A-C-E, OogybeAr
 NARS Rank: 486 of 506
 
-Final Rating: 693.4
+Final Rating: 693.3
 Seeded Start: 1162.5
-H2H Adjustment: -469.1 (capped at +-300, raw -469.2)
+H2H Adjustment: -469.2
 
-Final Rating (693.4) = Seeded Start (1162.5) + H2H Adjustment (-469.1)
+Final Rating (693.3) = Seeded Start (1162.5) + H2H Adjustment (-469.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| monitor off | 485 | 714.4 | +21.0 | +180.1 |
-| Power of Friendship | 484 | 720.0 | +26.6 | +170.8 |
-| EZ2025 | 483 | 721.2 | +27.8 | +184.3 |
-| SNOWPLOWERS | 482 | 731.3 | +37.9 | +174.4 |
-| CVC Retirement | 481 | 742.1 | +48.7 | +178.0 |
+| monitor off | 485 | 714.3 | +21.0 | +180.1 |
+| Power of Friendship | 484 | 720.0 | +26.7 | +170.8 |
+| EZ2025 | 483 | 721.2 | +27.9 | +184.3 |
+| SNOWPLOWERS | 482 | 731.3 | +38.0 | +174.4 |
+| CVC Retirement | 481 | 742.1 | +48.8 | +178.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Epochal Esports | 413 | +342.6 | +332.7 | +31.7 |
-| MakeYouSayLate | 414 | +333.5 | +312.7 | +31.3 |
-| Mace Lindu Ruff Rebound | 417 | +323.8 | +294.5 | +30.5 |
-| Team Hyper | 409 | +343.9 | +385.4 | +29.9 |
-| Kodaks Lettuce | 418 | +318.0 | +301.8 | +29.7 |
-| puggin4seb | 419 | +309.4 | +314.5 | +28.2 |
-| Strafe | 420 | +308.7 | +315.0 | +27.9 |
-| Duality Zero | 412 | +342.9 | +286.1 | +25.3 |
-| HigherEducation | 416 | +324.1 | +278.9 | +23.8 |
-| STIM | 410 | +343.5 | +286.3 | +23.2 |
+| Epochal Esports | 413 | +342.7 | +332.7 | +31.7 |
+| MakeYouSayLate | 414 | +333.6 | +312.7 | +31.3 |
+| Mace Lindu Ruff Rebound | 417 | +323.9 | +294.5 | +30.5 |
+| Team Hyper | 409 | +344.1 | +385.5 | +30.0 |
+| Kodaks Lettuce | 418 | +318.1 | +301.8 | +29.7 |
+| puggin4seb | 419 | +309.5 | +314.5 | +28.2 |
+| Strafe | 420 | +308.8 | +315.0 | +27.9 |
+| Duality Zero | 411 | +343.0 | +286.1 | +25.3 |
+| HigherEducation | 416 | +324.2 | +278.9 | +23.8 |
+| STIM | 410 | +343.6 | +286.3 | +23.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 

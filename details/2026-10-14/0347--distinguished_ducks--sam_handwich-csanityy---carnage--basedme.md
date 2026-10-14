@@ -41,26 +41,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | The Jits | 346 | 1185.2 | +0.7 | +160.6 |
 | Florida Man | 345 | 1186.2 | +1.7 | +171.8 |
-| Onsite has Oil | 344 | 1191.0 | +6.5 | +162.4 |
-| T Shirt Material | 343 | 1191.6 | +7.1 | +162.5 |
-| Wide Swinging Wizards | 342 | 1191.6 | +7.1 | +162.5 |
+| Onsite has Oil | 344 | 1191.1 | +6.6 | +162.4 |
+| T Shirt Material | 343 | 1191.6 | +7.1 | +162.6 |
+| Wide Swinging Wizards | 342 | 1191.6 | +7.1 | +162.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| BucketJonsBoys | 172 | +348.5 | +314.7 | +32.2 |
-| Firstwave | 175 | +342.5 | +313.5 | +31.7 |
-| Shaboing Boing Bandits | 173 | +346.1 | +342.6 | +31.2 |
-| APEX | 176 | +337.4 | +321.5 | +31.0 |
-| Armored Talent | 174 | +345.3 | +350.6 | +30.9 |
-| LAF | 183 | +326.8 | +312.3 | +30.1 |
+| BucketJonsBoys | 172 | +348.6 | +314.8 | +32.2 |
+| Firstwave | 175 | +342.5 | +313.6 | +31.7 |
+| Shaboing Boing Bandits | 173 | +346.1 | +342.7 | +31.2 |
+| APEX | 176 | +337.4 | +321.6 | +31.0 |
+| Armored Talent | 174 | +345.4 | +350.7 | +30.9 |
+| LAF | 183 | +326.8 | +312.4 | +30.1 |
 | GOOZPEEK | 182 | +328.6 | +326.8 | +29.9 |
-| KIS | 185 | +322.2 | +295.0 | +29.8 |
-| Shadow Wizard Money Gang | 180 | +331.4 | +368.0 | +28.9 |
-| Lynnsanity | 189 | +315.5 | +327.2 | +28.3 |
+| KIS | 185 | +322.2 | +295.1 | +29.9 |
+| Shadow Wizard Money Gang | 180 | +331.6 | +368.2 | +28.9 |
+| Lynnsanity | 189 | +315.5 | +327.3 | +28.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +630.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +630.2 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.5), shirtcockin (+0.7), Courage (+0.8), SixSevenZaZa (+1.3).
 
@@ -101,7 +101,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | The Agarthans | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.18 | +24.0 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-05-13 | Midwest Farmers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.02 | 0.17 | +292.6 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-05-08 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -316.7 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
-| 2026-05-06 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +226.4 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
+| 2026-05-06 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.02 | 0.12 | +226.5 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-04-30 | katzwitgunz | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +109.1 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-04-29 | Muncle | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +171.8 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |
 | 2026-04-24 | CVC Retirement | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +204.2 | --Carnage-, BasedMeower, Sam_Handwich, cSanityy, smshunt |

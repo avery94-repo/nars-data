@@ -27,11 +27,11 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.190 | 1366.7 | - |
 | +30 days | 0.165 | 1331.4 | -35.2 |
 | +60 days | 0.147 | 1305.3 | -61.3 |
-| +90 days | 0.119 | 1266.2 | -100.4 |
+| +90 days | 0.119 | 1266.3 | -100.3 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.062 vs 0.028 average, gap +0.034). Matching that average is worth about 0.0 seed points.
 
-- Tier Exposure drivers: NSTLGA League | Sapphire Conference (2026-08-27) 1.05; S58 NA Intermediate Central - Playoffs A (2026-09-15) 1.00; S58 NA Intermediate A - Regular Season (2026-08-27) 0.88
+- Tier Exposure drivers: NSTLGA League | Sapphire Conference (2026-08-27) 1.05; S58 NA Intermediate Central - Playoffs A (2026-09-15) 1.00; S58 NA Intermediate A - Regular Season (2026-08-27) 0.87
 - Quality Wins drivers: beat Omen Esports at NSTLGA League | Sapphire Conference (2026-08-25) 0.35; beat WaterDrinkers at S58 NA Intermediate Central - Playoffs A (2026-09-12) 0.12; beat RunTheDamnBall at S58 NA Intermediate A - Regular Season (2026-08-27) 0.10
 - Opponent Network drivers: beat Omen Esports at NSTLGA League | Sapphire Conference (2026-08-25) 1.03; beat 1001 Fragrance at S58 NA Intermediate Central - Playoffs A (2026-09-15) 1.00; beat WaterDrinkers at S58 NA Intermediate Central - Playoffs A (2026-09-12) 0.98
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | BONK | 158 | 1559.4 | +1.3 | +107.5 |
-| Fourth Quarter | 157 | 1560.8 | +2.7 | +112.4 |
+| Fourth Quarter | 157 | 1560.8 | +2.7 | +112.5 |
 | Order Zero | 156 | 1564.8 | +6.7 | +105.3 |
 | WhiteBoyWinter | 155 | 1566.7 | +8.6 | +112.3 |
-| ASYCS KITTENS | 154 | 1569.5 | +11.4 | +109.5 |
+| ASYCS KITTENS | 154 | 1569.6 | +11.5 | +109.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| FLOW STATE | 47 | +339.3 | +226.0 | +19.2 |
-| No Future Lifes Over | 50 | +329.1 | +204.1 | +19.1 |
-| DESPAIR | 49 | +330.6 | +204.4 | +18.9 |
-| TheMotherLovers | 53 | +319.9 | +209.7 | +18.4 |
-| Phantom Sense | 51 | +325.7 | +248.5 | +18.3 |
-| Omen Esports | 57 | +299.7 | +219.7 | +16.3 |
-| GG | 52 | +323.4 | +171.9 | +14.4 |
-| flat earth | 64 | +268.4 | +194.4 | +13.7 |
-| Endless Esports | 65 | +267.9 | +196.0 | +13.6 |
-| DUMBO | 63 | +269.0 | +214.5 | +13.3 |
+| FLOW STATE | 47 | +339.3 | +226.1 | +19.3 |
+| No Future Lifes Over | 50 | +329.1 | +204.2 | +19.1 |
+| DESPAIR | 49 | +330.6 | +204.4 | +19.0 |
+| TheMotherLovers | 53 | +319.9 | +209.8 | +18.5 |
+| Phantom Sense | 51 | +325.8 | +248.7 | +18.3 |
+| Omen Esports | 57 | +299.9 | +219.8 | +16.3 |
+| GG | 52 | +323.4 | +172.0 | +14.5 |
+| flat earth | 64 | +268.5 | +194.5 | +13.7 |
+| Endless Esports | 65 | +268.0 | +196.1 | +13.6 |
+| DUMBO | 63 | +269.0 | +214.6 | +13.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +352.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +352.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 
@@ -81,9 +81,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | WaterDrinkers | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.12 | 0.98 | +95.4 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-09-04 | The Vicious Kitties | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -4.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-27 | Desi Boyz | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.88 | 1.20 | 1.00 | 1.05 | 0.00 | 0.00 | -0.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
-| 2026-08-27 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +62.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
+| 2026-08-27 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.10 | 0.87 | +62.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-26 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -114.1 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
-| 2026-08-25 | Omen Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.86 | 1.20 | 1.00 | 1.03 | 0.35 | 1.03 | +143.4 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
+| 2026-08-25 | Omen Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.86 | 1.20 | 1.00 | 1.03 | 0.35 | 1.03 | +143.5 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-20 | Locally Hated | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.20 | 1.00 | 0.99 | 0.00 | 0.00 | -3.7 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-18 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.09 | 0.82 | +87.8 | Adeft-, LevelDown, NIWIH, Toast, mooseM |
 | 2026-08-14 | Club 333 | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.79 | 1.20 | 1.00 | 0.95 | 0.00 | 0.00 | -0.0 | Adeft-, LevelDown, NIWIH, Toast, mooseM |

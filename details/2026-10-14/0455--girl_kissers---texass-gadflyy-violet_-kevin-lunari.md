@@ -40,9 +40,9 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Cause and Effect Gaming | 454 | 884.6 | +1.0 | +162.6 |
-| insane players | 453 | 889.5 | +5.9 | +164.2 |
+| insane players | 453 | 889.5 | +5.9 | +164.1 |
 | GoopT | 452 | 894.4 | +10.8 | +175.6 |
-| on disability | 451 | 894.9 | +11.3 | +165.8 |
+| on disability | 451 | 894.8 | +11.2 | +165.8 |
 | Friendly Fire | 450 | 895.4 | +11.8 | +166.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -58,7 +58,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | MONARCH | 337 | +317.2 | +327.5 | +28.8 |
 | Boop Boop Gang | 340 | +312.0 | +297.7 | +28.5 |
 | MadaNASCAR | 341 | +311.6 | +322.6 | +28.4 |
-| Goon Squad | 328 | +338.3 | +284.3 | +27.3 |
+| Goon Squad | 328 | +338.2 | +284.3 | +27.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 
@@ -79,7 +79,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | Team Hyper | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.35 | 1.00 | 0.18 | 0.00 | 0.00 | -142.9 | -TeXaSs, gadflyy, kevin, lunari, violet_ |
 | 2026-05-05 | SOLA | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -218.4 | -TeXaSs, gadflyy, kevin, lunari, torii, violet_ |
 | 2026-04-30 | Celestial Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -145.7 | -TeXaSs, gadflyy, kevin, lunari, violet_ |
-| 2026-04-30 | Incognito | L | 0-2 | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.00 | 0.00 | -77.0 | core 3/5 |
+| 2026-04-30 | Incognito | L | 0-2 | VRS-tracked 2026-04 | A | vrs | 0.08 | 1.59 | 1.00 | 0.13 | 0.00 | 0.00 | -77.1 | core 3/5 |
 | 2026-04-28 | insane players | W |  | VRS-tracked 2026-04 | A | vrs | 0.07 | 1.59 | 1.00 | 0.11 | 0.00 | 0.11 | +330.9 | core 3/5 |
 | 2026-04-27 | raisedbypixels | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.35 | 1.00 | 0.08 | 0.00 | 0.00 | -144.9 | -TeXaSs, gadflyy, kevin, lunari, violet_ |
 | 2026-04-27 | Iowa Stormboar | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.10 | 0.00 | 0.00 | -0.7 | core 3/5 |

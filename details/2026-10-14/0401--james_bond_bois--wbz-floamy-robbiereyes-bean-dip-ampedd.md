@@ -3,11 +3,11 @@ Team Name: James Bond Bois
 Roster: wBz, Floamy, RobbieReyes, bean-DIP, AMPedd
 NARS Rank: 401 of 506
 
-Final Rating: 1052.0
+Final Rating: 1051.9
 Seeded Start: 1111.7
-H2H Adjustment: -59.7
+H2H Adjustment: -59.8
 
-Final Rating (1052.0) = Seeded Start (1111.7) + H2H Adjustment (-59.7)
+Final Rating (1051.9) = Seeded Start (1111.7) + H2H Adjustment (-59.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | +60 days | 0.000 | 1100.0 | -11.7 |
 | +90 days | 0.000 | 1100.0 | -11.7 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.022 vs 0.201 average, gap -0.179). Matching that average is worth about 62.6 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.022 vs 0.201 average, gap -0.179). Matching that average is worth about 62.7 seed points.
 
 - Tier Exposure drivers: S57 NA Main Central - Regular Season (2026-05-20) 0.25
 - Quality Wins drivers: beat ASYCS KITTENS at S57 NA Main Central - Regular Season (2026-05-08) 0.01; beat goofball gaming at S57 NA Main Central - Regular Season (2026-04-24) 0.00; beat we get it back at S57 NA Main Central - Regular Season (2026-05-06) 0.00
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| ReGen | 400 | 1052.9 | +0.9 | +168.9 |
-| Room Temp IQs | 399 | 1056.4 | +4.4 | +163.7 |
-| three11 | 398 | 1057.0 | +5.0 | +163.9 |
-| Solar Gravity | 397 | 1060.5 | +8.5 | +165.0 |
-| Benadryl Abusers | 396 | 1061.2 | +9.2 | +171.4 |
+| ReGen | 400 | 1052.9 | +1.0 | +168.9 |
+| Room Temp IQs | 399 | 1056.5 | +4.6 | +163.7 |
+| three11 | 398 | 1056.9 | +5.0 | +163.9 |
+| Solar Gravity | 397 | 1060.5 | +8.6 | +165.0 |
+| Benadryl Abusers | 396 | 1061.1 | +9.2 | +171.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| The Kerbins | 250 | +326.6 | +337.1 | +29.9 |
-| GoonAssOldheads | 258 | +317.8 | +303.5 | +29.6 |
-| Eightball | 253 | +323.6 | +326.8 | +29.4 |
-| Dude Picks | 252 | +325.5 | +352.8 | +29.3 |
-| 2THRiLL | 246 | +334.6 | +282.9 | +29.1 |
-| drunk cigs dont count | 255 | +321.1 | +342.8 | +29.1 |
-| THE GUILD | 264 | +307.0 | +292.4 | +28.2 |
-| Kinetic | 260 | +312.2 | +333.2 | +28.2 |
-| DadDick Esports | 261 | +310.4 | +327.4 | +28.1 |
-| ASCEND | 263 | +308.0 | +314.6 | +27.6 |
+| The Kerbins | 250 | +326.7 | +337.1 | +29.9 |
+| GoonAssOldheads | 258 | +317.9 | +303.5 | +29.6 |
+| Eightball | 253 | +323.7 | +326.8 | +29.4 |
+| Dude Picks | 252 | +325.6 | +352.8 | +29.3 |
+| 2THRiLL | 246 | +334.7 | +283.0 | +29.1 |
+| drunk cigs dont count | 255 | +321.2 | +342.8 | +29.1 |
+| THE GUILD | 264 | +307.1 | +292.4 | +28.2 |
+| Kinetic | 260 | +312.3 | +333.2 | +28.2 |
+| DadDick Esports | 261 | +310.5 | +327.4 | +28.1 |
+| ASCEND | 263 | +308.1 | +314.6 | +27.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
 

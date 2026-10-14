@@ -5,7 +5,7 @@ NARS Rank: 15 of 506
 
 Final Rating: 2176.2
 Seeded Start: 1460.4
-H2H Adjustment: +715.8 (capped at +-300, raw +715.7)
+H2H Adjustment: +715.8
 
 Final Rating (2176.2) = Seeded Start (1460.4) + H2H Adjustment (+715.8)
 
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.257 | 1460.4 | - |
 | +30 days | 0.244 | 1441.8 | -18.6 |
 | +60 days | 0.232 | 1425.2 | -35.2 |
-| +90 days | 0.213 | 1398.0 | -62.4 |
+| +90 days | 0.213 | 1398.3 | -62.2 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.137 vs 0.774 average, gap -0.637). Matching that average is worth about 223.0 seed points.
 
@@ -39,23 +39,23 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Brahmas | 14 | 2207.5 | +31.3 | +71.0 |
-| Detonate | 13 | 2246.7 | +70.5 | +87.3 |
-| regain | 12 | 2256.2 | +80.0 | +96.9 |
-| Desi Boyz | 11 | 2332.5 | +156.3 | +101.5 |
-| Overtake Sector | 10 | 2372.1 | +195.9 | +109.2 |
+| Brahmas | 14 | 2207.7 | +31.5 | +71.1 |
+| Detonate | 13 | 2247.0 | +70.8 | +87.3 |
+| regain | 12 | 2256.4 | +80.2 | +97.0 |
+| Desi Boyz | 11 | 2332.8 | +156.6 | +101.5 |
+| Overtake Sector | 10 | 2372.3 | +196.1 | +109.2 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Without a Roof | 9 | +330.3 | +120.0 | +11.6 |
-| LAG Gaming | 8 | +331.3 | +151.0 | +11.1 |
-| Brahmas | 14 | +31.3 | +71.0 | -0.0 |
-| regain | 12 | +80.0 | +96.9 | -0.0 |
-| Overtake Sector | 10 | +195.9 | +109.2 | -0.3 |
-| Detonate | 13 | +70.5 | +87.3 | -1.1 |
-| Desi Boyz | 11 | +156.3 | +101.5 | -2.4 |
+| LAG Gaming | 8 | +331.6 | +151.1 | +11.1 |
+| Brahmas | 14 | +31.5 | +71.1 | -0.0 |
+| regain | 12 | +80.2 | +97.0 | -0.0 |
+| Overtake Sector | 10 | +196.1 | +109.2 | -0.3 |
+| Detonate | 13 | +70.8 | +87.3 | -1.1 |
+| Desi Boyz | 11 | +156.6 | +101.5 | -2.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +192.2 points at current ratings.
 

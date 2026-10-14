@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.226 | 1416.4 | - |
 | +30 days | 0.210 | 1394.3 | -22.1 |
 | +60 days | 0.196 | 1373.9 | -42.6 |
-| +90 days | 0.170 | 1337.9 | -78.5 |
+| +90 days | 0.170 | 1338.0 | -78.4 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.070 vs 0.023 average, gap +0.047). Matching that average is worth about 0.0 seed points.
 
@@ -39,7 +39,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Elisir Esports | 225 | 1428.4 | +0.5 | +115.7 |
+| Elisir Esports | 225 | 1428.5 | +0.6 | +115.7 |
 | TahMeow | 224 | 1429.4 | +1.5 | +115.9 |
 | Beam Tinky | 223 | 1434.2 | +6.3 | +118.0 |
 | Cortex Jellies | 222 | 1437.4 | +9.5 | +120.4 |
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| firesale | 82 | +340.3 | +236.5 | +22.3 |
-| Diggers | 86 | +335.5 | +212.6 | +22.3 |
+| firesale | 82 | +340.4 | +236.6 | +22.3 |
+| Diggers | 86 | +335.7 | +212.7 | +22.3 |
 | Fire Nation | 90 | +321.8 | +218.1 | +20.9 |
-| Fathom Gaming | 91 | +317.4 | +213.3 | +20.8 |
-| Overtake Sector | 89 | +323.0 | +276.9 | +20.3 |
-| Elusive | 93 | +303.7 | +249.2 | +19.1 |
-| Green Grove Retirement | 94 | +300.7 | +223.9 | +18.9 |
-| NineFlyeSports | 96 | +297.2 | +231.5 | +18.9 |
+| Fathom Gaming | 91 | +317.5 | +213.4 | +20.8 |
+| Overtake Sector | 89 | +323.0 | +277.0 | +20.3 |
+| Green Grove Retirement | 93 | +300.7 | +223.9 | +19.0 |
+| NineFlyeSports | 95 | +297.3 | +231.6 | +18.9 |
 | PROFECO | 87 | +327.3 | +193.5 | +18.8 |
-| FlyQuest RED | 97 | +292.8 | +238.9 | +17.5 |
+| FlyQuest RED | 96 | +292.9 | +239.0 | +17.5 |
+| Axial | 100 | +278.7 | +206.8 | +16.1 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +403.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +403.6 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -89,7 +89,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-11 | Crimson Vortex | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.77 | 1.16 | 1.00 | 0.89 | 0.00 | 0.00 | -22.1 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-08-05 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -263.8 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-31 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.10 | 0.81 | +106.1 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-07-29 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.07 | 0.79 | +199.3 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-07-29 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.07 | 0.79 | +199.4 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-24 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.06 | 0.75 | +73.4 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-22 | VOID ALUNE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.14 | 0.74 | +389.6 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-21 | Over Your Head | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.63 | 1.16 | 1.00 | 0.73 | 0.00 | 0.00 | -120.9 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
@@ -99,7 +99,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.01 | 0.21 | +152.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-05-13 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -198.3 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-05-08 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.01 | 0.15 | +184.7 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-05-06 | CLUE IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -322.6 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-05-06 | CLUE IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -322.7 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-04-30 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -292.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-04-22 | puggin4seb | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.03 | +169.2 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 

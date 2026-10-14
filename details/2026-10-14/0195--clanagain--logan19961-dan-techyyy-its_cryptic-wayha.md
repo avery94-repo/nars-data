@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.088 | 1223.7 | - |
 | +30 days | 0.090 | 1226.5 | +2.8 |
 | +60 days | 0.091 | 1227.5 | +3.8 |
-| +90 days | 0.092 | 1229.4 | +5.7 |
+| +90 days | 0.092 | 1229.5 | +5.7 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.257 vs 0.378 average, gap -0.121). Matching that average is worth about 42.4 seed points.
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +333.2 | +270.0 | +24.7 |
-| Endless Esports | 65 | +332.7 | +272.3 | +24.6 |
-| NZ Gaming | 69 | +319.9 | +248.3 | +23.6 |
-| DUMBO | 63 | +333.8 | +299.2 | +23.5 |
+| flat earth | 64 | +333.3 | +270.0 | +24.7 |
+| Endless Esports | 65 | +332.8 | +272.4 | +24.6 |
+| NZ Gaming | 69 | +320.1 | +248.4 | +23.6 |
+| DUMBO | 63 | +333.8 | +299.3 | +23.5 |
 | WhalersOnDaMoon | 66 | +328.6 | +275.8 | +23.4 |
 | GeneticDiff | 70 | +299.6 | +249.9 | +21.3 |
 | fih hou | 73 | +292.4 | +258.4 | +20.3 |
 | Asoka | 74 | +290.0 | +233.7 | +20.2 |
-| Club 333 | 76 | +289.0 | +277.5 | +19.7 |
-| Kairo | 79 | +285.6 | +229.8 | +19.6 |
+| Club 333 | 76 | +289.1 | +277.6 | +19.8 |
+| Kairo | 79 | +285.7 | +229.8 | +19.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +472.2 points at current ratings.
 

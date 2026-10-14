@@ -5,7 +5,7 @@ NARS Rank: 74 of 506
 
 Final Rating: 1783.3
 Seeded Start: 1437.4
-H2H Adjustment: +345.9 (capped at +-300, raw +345.8)
+H2H Adjustment: +345.9
 
 Final Rating (1783.3) = Seeded Start (1437.4) + H2H Adjustment (+345.9)
 
@@ -13,7 +13,7 @@ Final Rating (1783.3) = Seeded Start (1437.4) + H2H Adjustment (+345.9)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.241 x 1400 = 1437.4
 
-seed_factor 0.241 = 0.25 x Tier Exposure (0.219) + 0.50 x Quality Wins (0.068) + 0.25 x Opponent Network (0.610)
+seed_factor 0.241 = 0.25 x Tier Exposure (0.219) + 0.50 x Quality Wins (0.068) + 0.25 x Opponent Network (0.609)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.241 | 1437.4 | - |
 | +30 days | 0.228 | 1419.5 | -17.9 |
 | +60 days | 0.216 | 1402.6 | -34.9 |
-| +90 days | 0.198 | 1376.5 | -60.9 |
+| +90 days | 0.198 | 1376.7 | -60.7 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.068 vs 0.079 average, gap -0.011). Matching that average is worth about 7.7 seed points.
 
@@ -41,24 +41,24 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | fih hou | 73 | 1785.7 | +2.4 | +130.6 |
 | CNCS Last Hope | 72 | 1788.7 | +5.4 | +119.1 |
-| dice | 71 | 1791.6 | +8.3 | +121.0 |
+| dice | 71 | 1791.7 | +8.4 | +121.0 |
 | GeneticDiff | 70 | 1792.9 | +9.6 | +130.3 |
-| NZ Gaming | 69 | 1813.2 | +29.9 | +133.8 |
+| NZ Gaming | 69 | 1813.4 | +30.1 | +133.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | +331.4 | +286.4 | +21.1 |
-| Iowa Stormboar | 21 | +332.6 | +285.7 | +21.1 |
-| Olympus | 25 | +256.4 | +216.3 | +13.4 |
+| Zomblers | 22 | +331.6 | +286.4 | +21.1 |
+| Iowa Stormboar | 21 | +332.8 | +285.8 | +21.1 |
+| Olympus | 25 | +256.5 | +216.4 | +13.5 |
 | Automatic HQ | 27 | +247.6 | +223.9 | +11.5 |
 | duck crew | 23 | +312.8 | +194.1 | +9.8 |
-| VOID ALUNE | 29 | +224.6 | +172.3 | +6.3 |
-| Festina Lente | 24 | +259.5 | +181.0 | +5.7 |
-| Hairy Scary Bandits | 32 | +216.1 | +204.8 | +4.6 |
-| Chicken Coop | 33 | +214.9 | +229.6 | +4.2 |
-| raisedbypixels | 26 | +251.1 | +178.9 | +1.6 |
+| VOID ALUNE | 29 | +224.6 | +172.4 | +6.3 |
+| Festina Lente | 24 | +259.8 | +181.1 | +5.8 |
+| Hairy Scary Bandits | 32 | +216.2 | +204.8 | +4.6 |
+| Chicken Coop | 33 | +215.1 | +229.7 | +4.3 |
+| raisedbypixels | 26 | +251.3 | +179.0 | +1.7 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +412.7 points at current ratings.
 
@@ -84,7 +84,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-30 | YHUBEPCAM | L | 0-1 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.90 | 1.18 | 1.00 | 1.05 | 0.00 | 0.00 | -105.0 | 54d86a59, Bojangles12, Ka8oom, fa0, zagz |
 | 2026-08-29 | HeadShot Esports | W | 1-0 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.89 | 1.18 | 1.00 | 1.05 | 0.15 | 1.05 | +0.3 | 54d86a59, Bojangles12, Ka8oom, fa0, zagz |
 | 2026-08-28 | absolute cinema | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.10 | 0.90 | +93.7 | Ka8oom, Kaema-_-, fa0, tanner, zagz |
-| 2026-08-26 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -51.9 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-08-26 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -51.8 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-08-21 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.00 | 0.00 | -95.3 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-08-19 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -64.7 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-08-14 | Kairo | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.10 | 0.81 | +11.2 | Bojangles12, Ka8oom, fa0, tanner, zagz |
@@ -95,7 +95,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | DKR Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -158.6 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-07-29 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.06 | 0.70 | +162.5 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-07-24 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.07 | 0.66 | +32.0 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-07-22 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -160.5 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-07-22 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -160.6 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-07-17 | Distinguished Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +52.0 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-07-15 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.03 | 0.60 | +228.4 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-07-14 | STFDYSAB | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.58 | 1.28 | 1.00 | 0.74 | 0.00 | 0.00 | -17.5 | Bojangles12, Ka8oom, fa0, tanner, zagz |
@@ -109,10 +109,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | YHUBEPCAM | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +427.1 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-05-13 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -291.3 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-05-08 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.02 | 0.15 | +113.5 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
-| 2026-05-06 | SAFIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +271.8 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
-| 2026-05-01 | GOOZPEEK | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -280.7 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
+| 2026-05-06 | SAFIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.01 | 0.14 | +271.9 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
+| 2026-05-01 | GOOZPEEK | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -280.8 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-04-29 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +439.2 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-04-24 | DETONATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -0.0 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
-| 2026-04-22 | The Bobs | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -365.7 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
+| 2026-04-22 | The Bobs | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -365.8 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

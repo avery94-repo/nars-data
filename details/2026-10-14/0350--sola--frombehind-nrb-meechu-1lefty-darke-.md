@@ -3,11 +3,11 @@ Team Name: SOLA
 Roster: FromBehind, nrb, Meechu, 1LEFTY, Darke-
 NARS Rank: 350 of 506
 
-Final Rating: 1178.0
+Final Rating: 1178.1
 Seeded Start: 1238.0
-H2H Adjustment: -60.0
+H2H Adjustment: -59.9
 
-Final Rating (1178.0) = Seeded Start (1238.0) + H2H Adjustment (-60.0)
+Final Rating (1178.1) = Seeded Start (1238.0) + H2H Adjustment (-59.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.099 | 1238.0 | - |
 | +30 days | 0.081 | 1213.5 | -24.6 |
 | +60 days | 0.069 | 1196.5 | -41.5 |
-| +90 days | 0.047 | 1165.6 | -72.5 |
+| +90 days | 0.047 | 1165.7 | -72.3 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.050 vs 0.067 average, gap -0.017). Matching that average is worth about 6.0 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| PPWesports | 349 | 1179.7 | +1.7 | +174.3 |
-| Will of Dih | 348 | 1181.1 | +3.1 | +163.7 |
-| Distinguished Ducks | 347 | 1184.5 | +6.5 | +164.7 |
-| The Jits | 346 | 1185.2 | +7.2 | +164.5 |
-| Florida Man | 345 | 1186.2 | +8.2 | +176.3 |
+| PPWesports | 349 | 1179.7 | +1.6 | +174.2 |
+| Will of Dih | 348 | 1181.1 | +3.0 | +163.7 |
+| Distinguished Ducks | 347 | 1184.5 | +6.4 | +164.6 |
+| The Jits | 346 | 1185.2 | +7.1 | +164.5 |
+| Florida Man | 345 | 1186.2 | +8.1 | +176.3 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Firstwave | 175 | +349.0 | +320.7 | +32.6 |
-| APEX | 176 | +343.9 | +329.0 | +32.0 |
-| LAF | 183 | +333.3 | +319.5 | +31.1 |
-| KIS | 185 | +328.7 | +301.8 | +31.0 |
-| GOOZPEEK | 182 | +335.1 | +334.4 | +30.9 |
-| Shadow Wizard Money Gang | 180 | +337.9 | +377.1 | +29.7 |
-| Lynnsanity | 189 | +322.0 | +335.0 | +29.4 |
-| teamington | 192 | +320.0 | +310.9 | +29.4 |
-| No Leaders Please | 190 | +321.4 | +334.8 | +29.4 |
-| ClanAgain | 195 | +315.3 | +296.9 | +29.4 |
+| Firstwave | 175 | +348.9 | +320.6 | +32.6 |
+| APEX | 176 | +343.8 | +328.9 | +31.9 |
+| LAF | 183 | +333.2 | +319.5 | +31.1 |
+| KIS | 185 | +328.6 | +301.7 | +31.0 |
+| GOOZPEEK | 182 | +335.0 | +334.4 | +30.9 |
+| Shadow Wizard Money Gang | 180 | +338.0 | +377.1 | +29.7 |
+| Lynnsanity | 189 | +321.9 | +335.0 | +29.4 |
+| teamington | 192 | +319.9 | +310.8 | +29.4 |
+| No Leaders Please | 190 | +321.3 | +334.8 | +29.4 |
+| ClanAgain | 195 | +315.2 | +296.9 | +29.3 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -85,7 +85,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | dead team | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.00 | 0.00 | -110.0 | 1LEFTY, Darke-, FromBehind, Meechu, nrb |
 | 2026-07-24 | Xiaoma Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.00 | 0.00 | -5.6 | 1LEFTY, Darke-, FromBehind, Meechu, nrb |
 | 2026-07-22 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -65.6 | 1LEFTY, Darke-, FromBehind, Meechu, nrb |
-| 2026-07-16 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -65.2 | 1LEFTY, Darke-, FromBehind, Meechu, nrb |
+| 2026-07-16 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.45 | 1.00 | 0.86 | 0.00 | 0.00 | -65.1 | 1LEFTY, Darke-, FromBehind, Meechu, nrb |
 | 2026-07-15 | Holly Molly | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.45 | 1.00 | 0.85 | 0.16 | 0.85 | +328.8 | 1LEFTY, Darke-, FromBehind, Meechu, nrb |
 | 2026-05-05 | girl kissers | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.16 | +221.0 | 1LEFTY, FromBehind, bango-, nrb, seffuh |
 | 2026-04-30 | Addice | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.35 | 1.00 | 0.11 | 0.00 | 0.00 | -183.8 | 1LEFTY, FromBehind, nrb, seffuh, traditions |

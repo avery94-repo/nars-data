@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.119 | 1266.3 | - |
 | +30 days | 0.099 | 1238.4 | -27.9 |
 | +60 days | 0.082 | 1214.2 | -52.1 |
-| +90 days | 0.057 | 1179.3 | -87.0 |
+| +90 days | 0.057 | 1179.3 | -86.9 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.042 vs 0.058 average, gap -0.016). Matching that average is worth about 5.6 seed points.
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Holy Squid Empire | 108 | +342.6 | +329.9 | +31.6 |
-| Black Dragon Society | 109 | +334.6 | +351.1 | +30.4 |
-| Read You Like a Kindle | 116 | +318.6 | +345.0 | +28.7 |
-| eefsports | 112 | +328.1 | +280.5 | +28.2 |
-| ODIN | 119 | +311.0 | +335.2 | +27.4 |
-| Team GREAT | 128 | +293.1 | +285.6 | +26.0 |
-| Torii | 129 | +291.9 | +313.1 | +25.4 |
-| Northern District | 106 | +348.0 | +288.0 | +24.5 |
-| 5Frag Gaming | 134 | +285.3 | +317.2 | +24.1 |
-| Shimmer | 111 | +331.0 | +293.0 | +24.0 |
+| Holy Squid Empire | 107 | +342.8 | +330.0 | +31.6 |
+| Black Dragon Society | 108 | +334.6 | +351.1 | +30.4 |
+| Read You Like a Kindle | 115 | +318.6 | +345.1 | +28.7 |
+| eefsports | 111 | +328.1 | +280.5 | +28.2 |
+| ODIN | 118 | +311.0 | +335.2 | +27.4 |
+| Team GREAT | 127 | +293.1 | +285.6 | +26.0 |
+| Torii | 128 | +292.0 | +313.1 | +25.4 |
+| Northern District | 105 | +348.0 | +288.0 | +24.5 |
+| 5Frag Gaming | 133 | +285.3 | +317.2 | +24.1 |
+| Shimmer | 110 | +331.0 | +293.0 | +24.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
 

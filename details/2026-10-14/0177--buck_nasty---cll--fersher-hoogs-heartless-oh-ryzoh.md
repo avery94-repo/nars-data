@@ -5,7 +5,7 @@ NARS Rank: 177 of 506
 
 Final Rating: 1518.8
 Seeded Start: 1137.0
-H2H Adjustment: +381.8 (capped at +-300, raw +381.9)
+H2H Adjustment: +381.8
 
 Final Rating (1518.8) = Seeded Start (1137.0) + H2H Adjustment (+381.8)
 
@@ -41,23 +41,23 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | APEX | 176 | 1521.9 | +3.1 | +170.7 |
 | Firstwave | 175 | 1527.0 | +8.2 | +171.0 |
-| Armored Talent | 174 | 1529.8 | +11.0 | +176.8 |
+| Armored Talent | 174 | 1529.9 | +11.1 | +176.8 |
 | Shaboing Boing Bandits | 173 | 1530.6 | +11.8 | +176.2 |
-| BucketJonsBoys | 172 | 1533.0 | +14.2 | +172.9 |
+| BucketJonsBoys | 172 | 1533.1 | +14.3 | +172.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Omen Esports | 57 | +339.0 | +368.6 | +29.6 |
-| flat earth | 64 | +307.7 | +325.4 | +28.2 |
-| Endless Esports | 65 | +307.2 | +327.8 | +28.0 |
+| Omen Esports | 57 | +339.2 | +368.7 | +29.6 |
+| flat earth | 64 | +307.8 | +325.4 | +28.3 |
+| Endless Esports | 65 | +307.3 | +327.9 | +28.1 |
 | DUMBO | 63 | +308.3 | +357.1 | +26.9 |
 | WhalersOnDaMoon | 66 | +303.1 | +331.0 | +26.4 |
-| NZ Gaming | 69 | +294.4 | +300.3 | +26.1 |
-| Sharp | 54 | +349.0 | +359.1 | +23.8 |
+| NZ Gaming | 69 | +294.6 | +300.4 | +26.1 |
+| Sharp | 54 | +349.1 | +359.1 | +23.8 |
 | Evade Gaming | 55 | +346.3 | +287.4 | +22.8 |
-| F5 Esports | 60 | +316.5 | +343.6 | +22.3 |
+| F5 Esports | 60 | +316.7 | +343.7 | +22.3 |
 | GeneticDiff | 70 | +274.1 | +299.6 | +22.2 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.5 points at current ratings.
@@ -85,7 +85,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.00 | -202.6 | -CLL-, Heartless-OH, Limbs, hoogs, ryzoh |
 | 2026-05-15 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.02 | 0.21 | +22.8 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 | 2026-05-08 | Bills | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -30.4 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
-| 2026-05-06 | butt | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -268.5 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
+| 2026-05-06 | butt | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -268.6 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 | 2026-05-01 | Evil Reunion | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.01 | 0.10 | +394.2 | -CLL-, Limbs, fersher, hoogs, ryzoh |
 | 2026-04-29 | qcclan | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +239.7 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 | 2026-04-24 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -273.1 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |

@@ -3,11 +3,11 @@ Team Name: Kairo
 Roster: Connie2k, Moiven, Boxel, Seph, TERRIYO
 NARS Rank: 79 of 506
 
-Final Rating: 1778.9
+Final Rating: 1779.0
 Seeded Start: 1381.3
-H2H Adjustment: +397.6 (capped at +-300, raw +397.7)
+H2H Adjustment: +397.7
 
-Final Rating (1778.9) = Seeded Start (1381.3) + H2H Adjustment (+397.6)
+Final Rating (1779.0) = Seeded Start (1381.3) + H2H Adjustment (+397.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.201 | 1381.3 | - |
 | +30 days | 0.179 | 1351.3 | -30.0 |
 | +60 days | 0.161 | 1324.8 | -56.4 |
-| +90 days | 0.129 | 1280.6 | -100.7 |
+| +90 days | 0.129 | 1280.7 | -100.5 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.125 vs 0.280 average, gap -0.155). Matching that average is worth about 54.3 seed points.
 
@@ -39,26 +39,26 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Down To Frag | 78 | 1779.5 | +0.6 | +126.2 |
-| Over Your Head | 77 | 1781.7 | +2.8 | +127.7 |
-| Club 333 | 76 | 1782.3 | +3.4 | +138.8 |
-| mas paspas | 75 | 1783.0 | +4.1 | +137.3 |
-| Asoka | 74 | 1783.3 | +4.4 | +130.1 |
+| Down To Frag | 78 | 1779.5 | +0.5 | +126.2 |
+| Over Your Head | 77 | 1781.8 | +2.8 | +127.8 |
+| Club 333 | 76 | 1782.4 | +3.4 | +138.8 |
+| mas paspas | 75 | 1783.0 | +4.0 | +137.3 |
+| Asoka | 74 | 1783.3 | +4.3 | +130.1 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | +335.8 | +299.2 | +22.1 |
-| Iowa Stormboar | 21 | +337.0 | +298.6 | +22.1 |
-| Olympus | 25 | +260.8 | +225.9 | +14.7 |
-| Automatic HQ | 27 | +252.0 | +233.8 | +12.7 |
-| duck crew | 23 | +317.2 | +202.9 | +10.6 |
-| VOID ALUNE | 29 | +229.0 | +180.1 | +7.6 |
-| Festina Lente | 24 | +263.9 | +189.2 | +6.7 |
+| Zomblers | 22 | +335.9 | +299.3 | +22.1 |
+| Iowa Stormboar | 21 | +337.1 | +298.7 | +22.1 |
+| Olympus | 25 | +260.8 | +226.0 | +14.8 |
+| Automatic HQ | 27 | +251.9 | +233.8 | +12.7 |
+| duck crew | 23 | +317.1 | +202.9 | +10.6 |
+| VOID ALUNE | 29 | +228.9 | +180.2 | +7.6 |
+| Festina Lente | 24 | +264.1 | +189.3 | +6.7 |
 | Hairy Scary Bandits | 32 | +220.5 | +213.8 | +6.0 |
-| Chicken Coop | 33 | +219.3 | +239.6 | +5.6 |
-| Holly Molly | 35 | +209.5 | +200.8 | +2.5 |
+| Chicken Coop | 33 | +219.4 | +239.7 | +5.6 |
+| Holly Molly | 35 | +209.5 | +200.8 | +2.6 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +432.7 points at current ratings.
 
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Dude Picks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.11 | 0.90 | +57.5 | Connie2k, Moiven, Seph, TERRIYO, boxelu |
 | 2026-08-26 | Meepins | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.08 | 0.89 | +9.5 | Connie2k, Moiven, Seph, TERRIYO, boxelu |
 | 2026-08-21 | Team Amplus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.85 | 0.15 | 0.85 | +41.1 | Connie2k, Moiven, Seph, TERRIYO, boxelu |
-| 2026-08-19 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -9.2 | Connie2k, Moiven, Seph, TERRIYO, boxelu |
+| 2026-08-19 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -9.1 | Connie2k, Moiven, Seph, TERRIYO, boxelu |
 | 2026-08-14 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.81 | 0.00 | 0.00 | -11.5 | Connie2k, Moiven, Seph, boxelu, ch0wt1me |
 | 2026-08-14 | butt | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.02 | 1.00 | 0.80 | 0.00 | 0.00 | -105.5 | Connie2k, Moiven, Seph, boxelu, ch0wt1me |
 | 2026-08-07 | Akatsuki | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.04 | 0.76 | +104.6 | Connie2k, Moiven, Seph, TERRIYO, boxelu |
@@ -95,9 +95,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Abusement Park | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.05 | 0.61 | +283.1 | Connie2k, Moiven, Seph, TERRIYO, boxelu |
 | 2026-07-15 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.06 | 0.60 | +143.0 | Connie2k, Seph, TERRIYO, boxelu, kyr1e |
 | 2026-05-31 | Team Team Name | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -288.9 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
-| 2026-05-29 | Crimson Vortex | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -142.3 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
+| 2026-05-29 | Crimson Vortex | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -142.4 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-22 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -179.5 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
-| 2026-05-20 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.07 | 0.25 | +312.8 | -Solarr, Connie2k, Moiven, Seph, TERRIYO, kyr1e |
+| 2026-05-20 | Locally Hated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.07 | 0.25 | +312.9 | -Solarr, Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-15 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.21 | +134.8 | Connie2k, Moiven, Seph, TERRIYO, kyr1e |
 | 2026-05-13 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.02 | 0.00 | +47.5 | -Solarr, Connie2k, Moiven, Seph, kyr1e |
 | 2026-05-08 | SAFIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.01 | 0.16 | +28.8 | -Solarr, Connie2k, Moiven, Seph, kyr1e |

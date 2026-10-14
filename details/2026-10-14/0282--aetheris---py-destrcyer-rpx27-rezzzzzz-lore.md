@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.176 | 1346.6 | - |
 | +30 days | 0.157 | 1319.4 | -27.2 |
 | +60 days | 0.139 | 1294.3 | -52.2 |
-| +90 days | 0.108 | 1250.8 | -95.7 |
+| +90 days | 0.108 | 1250.9 | -95.7 |
 
 Weakest lever vs the 5 teams ranked above: Tier Exposure (0.084 vs 0.079 average, gap +0.005). Matching that average is worth about 0.0 seed points.
 
@@ -40,27 +40,27 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Adria eSports | 281 | 1314.2 | +1.2 | +156.3 |
-| Aurofox | 280 | 1315.3 | +2.3 | +144.7 |
-| Demolition | 279 | 1316.0 | +3.0 | +151.2 |
-| dead team | 278 | 1318.8 | +5.8 | +145.7 |
-| Chopped | 277 | 1319.8 | +6.8 | +156.8 |
+| Aurofox | 280 | 1315.3 | +2.3 | +144.8 |
+| Demolition | 279 | 1316.1 | +3.1 | +151.3 |
+| dead team | 278 | 1318.9 | +5.9 | +145.8 |
+| Chopped | 277 | 1319.8 | +6.8 | +156.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Read You Like a Kindle | 116 | +341.7 | +317.2 | +27.2 |
-| ODIN | 119 | +334.1 | +308.2 | +26.4 |
-| Team GREAT | 128 | +316.2 | +260.4 | +26.0 |
-| Torii | 129 | +315.0 | +288.0 | +25.4 |
-| 5Frag Gaming | 134 | +308.4 | +292.7 | +24.5 |
-| Kaos | 139 | +297.8 | +248.2 | +23.5 |
-| KODEX ESPORTS | 137 | +303.5 | +331.5 | +23.4 |
-| Team Amplus | 145 | +281.2 | +272.1 | +20.9 |
-| DNA | 127 | +322.1 | +244.1 | +19.3 |
-| Kevin James Fan Club | 148 | +267.9 | +258.5 | +18.5 |
+| Read You Like a Kindle | 115 | +341.7 | +317.3 | +27.2 |
+| ODIN | 118 | +334.1 | +308.3 | +26.4 |
+| Team GREAT | 127 | +316.2 | +260.5 | +26.0 |
+| Torii | 128 | +315.1 | +288.1 | +25.4 |
+| 5Frag Gaming | 133 | +308.4 | +292.8 | +24.5 |
+| Kaos | 138 | +297.8 | +248.3 | +23.5 |
+| KODEX ESPORTS | 135 | +303.7 | +331.6 | +23.5 |
+| Elusive | 141 | +291.4 | +302.4 | +22.3 |
+| Team Amplus | 145 | +281.3 | +272.1 | +20.9 |
+| DNA | 126 | +322.1 | +244.2 | +19.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +541.5 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +541.8 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.2), Courage (+0.2), SixSevenZaZa (+0.4).
 
@@ -95,7 +95,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | Qinorhwat | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -26.2 | 1soprano, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-05-27 | 91AshLiu | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +342.0 | 1soprano, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-05-22 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.23 | 1.01 | 1.00 | 0.23 | 0.00 | 0.00 | -238.0 | 1soprano, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-05-20 | Grandpa Berets | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -324.2 | -MMW-, 1soprano, Destrcyer, Rezzzzzz, Rpx27 |
+| 2026-05-20 | Grandpa Berets | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.22 | 1.01 | 1.00 | 0.22 | 0.00 | 0.00 | -324.3 | -MMW-, 1soprano, Destrcyer, Rezzzzzz, Rpx27 |
 | 2026-05-15 | After Peak | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.02 | 0.18 | +395.6 | -MMW-, 1soprano, Destrcyer, Rezzzzzz, Rpx27 |
 | 2026-05-13 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.17 | 1.01 | 1.00 | 0.17 | 0.00 | 0.00 | -157.3 | -MMW-, Destrcyer, Heylol, Rezzzzzz, lore |
 | 2026-05-08 | Kushtaka | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.01 | 0.14 | +372.2 | Destrcyer, Heylol, Rezzzzzz, Rpx27, lore |

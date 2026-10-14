@@ -49,7 +49,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| MONARCH | 337 | +340.0 | +191.8 | +17.5 |
+| MONARCH | 337 | +340.0 | +191.9 | +17.5 |
 | Boop Boop Gang | 340 | +334.8 | +172.2 | +17.4 |
 | MadaNASCAR | 341 | +334.4 | +189.3 | +17.4 |
 | Florida Man | 345 | +325.4 | +200.5 | +16.8 |
@@ -58,9 +58,9 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | DeathMark E-Sports | 353 | +305.7 | +186.6 | +15.7 |
 | Comeback Bandits | 355 | +299.8 | +175.6 | +15.3 |
 | 99 Thieves | 354 | +301.5 | +175.0 | +15.2 |
-| RH Help Desk | 358 | +297.7 | +189.8 | +15.0 |
+| RH Help Desk | 358 | +297.8 | +189.8 | +15.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +311.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +311.5 points at current ratings.
 
 #### Matches (13 qualifying)
 Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).

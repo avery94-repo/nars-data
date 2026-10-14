@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.072 | 1201.4 | - |
 | +30 days | 0.075 | 1204.9 | +3.5 |
 | +60 days | 0.076 | 1206.2 | +4.8 |
-| +90 days | 0.078 | 1208.8 | +7.5 |
+| +90 days | 0.078 | 1208.9 | +7.5 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.195 vs 0.313 average, gap -0.118). Matching that average is worth about 41.3 seed points.
 
@@ -40,8 +40,8 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Aurofox | 280 | 1315.3 | +1.1 | +70.8 |
-| Demolition | 279 | 1316.0 | +1.8 | +76.3 |
-| dead team | 278 | 1318.8 | +4.6 | +71.3 |
+| Demolition | 279 | 1316.1 | +1.9 | +76.3 |
+| dead team | 278 | 1318.9 | +4.7 | +71.3 |
 | Chopped | 277 | 1319.8 | +5.6 | +81.4 |
 | Saltcrew | 276 | 1320.8 | +6.6 | +77.0 |
 
@@ -49,16 +49,16 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Read You Like a Kindle | 116 | +340.5 | +152.1 | +13.0 |
-| ODIN | 119 | +332.9 | +147.9 | +12.6 |
-| eefsports | 112 | +350.0 | +117.7 | +12.4 |
-| Team GREAT | 128 | +315.0 | +123.4 | +12.3 |
-| Torii | 129 | +313.8 | +138.6 | +12.2 |
-| 5Frag Gaming | 134 | +307.2 | +141.8 | +11.8 |
-| KODEX ESPORTS | 137 | +302.3 | +163.9 | +11.6 |
-| Kaos | 139 | +296.6 | +117.8 | +11.1 |
-| Team Amplus | 145 | +280.0 | +132.5 | +10.1 |
-| DNA | 127 | +320.9 | +114.2 | +9.0 |
+| Read You Like a Kindle | 115 | +340.5 | +152.1 | +13.0 |
+| ODIN | 118 | +332.9 | +147.9 | +12.6 |
+| eefsports | 111 | +350.0 | +117.8 | +12.4 |
+| Team GREAT | 127 | +315.0 | +123.4 | +12.3 |
+| Torii | 128 | +313.9 | +138.6 | +12.2 |
+| 5Frag Gaming | 133 | +307.2 | +141.8 | +11.8 |
+| KODEX ESPORTS | 135 | +302.5 | +163.9 | +11.6 |
+| Kaos | 138 | +296.6 | +117.8 | +11.1 |
+| Elusive | 141 | +290.2 | +148.9 | +10.9 |
+| Team Amplus | 145 | +280.1 | +132.5 | +10.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +222.2 points at current ratings.
 

@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.159 | 1322.6 | - |
 | +30 days | 0.165 | 1331.1 | +8.6 |
 | +60 days | 0.168 | 1335.5 | +12.9 |
-| +90 days | 0.174 | 1343.5 | +20.9 |
+| +90 days | 0.174 | 1343.6 | +21.0 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.027 vs 0.077 average, gap -0.050). Matching that average is worth about 35.0 seed points.
 
@@ -40,25 +40,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | CNCS Last Hope | 72 | 1788.7 | +3.0 | +78.0 |
-| dice | 71 | 1791.6 | +5.9 | +79.5 |
+| dice | 71 | 1791.7 | +6.0 | +79.5 |
 | GeneticDiff | 70 | 1792.9 | +7.2 | +87.6 |
-| NZ Gaming | 69 | 1813.2 | +27.5 | +89.4 |
-| Whiff City | 68 | 1817.6 | +31.9 | +92.0 |
+| NZ Gaming | 69 | 1813.4 | +27.7 | +89.5 |
+| Whiff City | 68 | 1817.7 | +32.0 | +92.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | +329.0 | +187.3 | +13.8 |
-| Iowa Stormboar | 21 | +330.2 | +186.8 | +13.8 |
-| Olympus | 25 | +254.0 | +142.3 | +8.6 |
+| Zomblers | 22 | +329.2 | +187.3 | +13.8 |
+| Iowa Stormboar | 21 | +330.4 | +186.8 | +13.8 |
+| Olympus | 25 | +254.1 | +142.3 | +8.6 |
 | Automatic HQ | 27 | +245.2 | +148.4 | +7.3 |
 | duck crew | 23 | +310.4 | +124.3 | +6.2 |
 | VOID ALUNE | 29 | +222.2 | +111.5 | +3.7 |
-| Festina Lente | 24 | +257.1 | +116.7 | +3.4 |
-| Hairy Scary Bandits | 32 | +213.7 | +135.9 | +2.6 |
-| Chicken Coop | 33 | +212.5 | +155.1 | +2.4 |
-| raisedbypixels | 26 | +248.7 | +115.4 | +0.8 |
+| Festina Lente | 24 | +257.4 | +116.7 | +3.5 |
+| Hairy Scary Bandits | 32 | +213.8 | +136.0 | +2.7 |
+| Chicken Coop | 33 | +212.7 | +155.2 | +2.5 |
+| raisedbypixels | 26 | +248.9 | +115.5 | +0.8 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +246.9 points at current ratings.
 

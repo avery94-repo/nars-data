@@ -43,7 +43,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Emerald Isle | 441 | 928.1 | +4.9 | +82.6 |
 | After Hours | 440 | 931.4 | +8.2 | +83.2 |
 | Big Kahuna Gaming | 439 | 931.8 | +8.6 | +83.2 |
-| NADIYA | 438 | 933.2 | +10.0 | +83.4 |
+| NADIYA | 438 | 933.2 | +10.0 | +83.5 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -52,15 +52,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | NATIONAL CS UNI | 301 | +342.8 | +156.4 | +15.6 |
 | Mud Wizards | 298 | +346.8 | +174.8 | +15.4 |
 | DingTone | 302 | +340.6 | +161.7 | +15.2 |
-| Guangzhou Loong Lions | 304 | +336.7 | +156.5 | +15.1 |
-| Team Nyx | 307 | +330.0 | +153.9 | +15.0 |
+| Guangzhou Loong Lions | 304 | +336.7 | +156.6 | +15.1 |
+| Team Nyx | 307 | +330.0 | +154.0 | +15.1 |
 | TELETUBEASTS | 303 | +340.0 | +173.9 | +14.9 |
 | fiveB | 318 | +315.3 | +151.3 | +14.3 |
 | Team TahMeow | 321 | +312.5 | +151.2 | +14.1 |
 | NetanYAHOO | 323 | +304.1 | +168.9 | +13.5 |
 | innerFire | 325 | +301.0 | +142.7 | +13.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +263.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +264.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+1.0).
 
@@ -80,13 +80,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -110.4 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
 | 2026-08-26 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -0.1 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
 | 2026-08-21 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -89.8 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
-| 2026-08-14 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -78.7 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
+| 2026-08-14 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -78.8 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
 | 2026-08-12 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.05 | 0.78 | +82.6 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
 | 2026-08-07 | Moniseum | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +166.8 | AstrayHito, CharlesUU, Zerkzzy, iCEcREAMkILL, sonar |
 | 2026-08-05 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -20.0 | AstrayHito, CharlesUU, Zerkzzy, iCEcREAMkILL, sonar |
 | 2026-07-31 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.03 | 0.70 | +24.1 | AstrayHito, CharlesUU, Zerkzzy, iCEcREAMkILL, sonar |
 | 2026-07-29 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.03 | 0.68 | +72.1 | AstrayHito, CharlesUU, Zerkzzy, iCEcREAMkILL, sonar |
-| 2026-07-24 | Climbers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -174.0 | AstrayHito, Zerkzzy, gnuhc, iCEcREAMkILL, sonar |
+| 2026-07-24 | Climbers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -174.1 | AstrayHito, Zerkzzy, gnuhc, iCEcREAMkILL, sonar |
 | 2026-07-22 | on disability | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -379.9 | AstrayHito, Doggzofwar, Zerkzzy, iCEcREAMkILL, sonar |
 | 2026-06-12 | Real Ones | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.37 | +229.3 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
 | 2026-06-05 | Aim to Loose | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -286.7 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |

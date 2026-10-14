@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.172 | 1341.3 | - |
 | +30 days | 0.155 | 1316.4 | -24.9 |
 | +60 days | 0.137 | 1292.0 | -49.4 |
-| +90 days | 0.106 | 1248.8 | -92.5 |
+| +90 days | 0.106 | 1248.9 | -92.5 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.051 vs 0.034 average, gap +0.017). Matching that average is worth about 0.0 seed points.
 
@@ -42,7 +42,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | BD Lamron | 236 | 1409.6 | +3.3 | +101.9 |
 | YHTR | 235 | 1413.7 | +7.4 | +114.3 |
 | UnitedStatesArmy Esports | 234 | 1419.2 | +12.9 | +108.3 |
-| The Skins | 233 | 1419.7 | +13.4 | +103.8 |
+| The Skins | 233 | 1419.7 | +13.4 | +103.9 |
 | Backshot Gaming | 232 | 1420.2 | +13.9 | +104.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -50,17 +50,17 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Fire Nation | 90 | +343.4 | +195.2 | +19.4 |
-| Fathom Gaming | 91 | +339.0 | +190.9 | +19.4 |
+| Fathom Gaming | 91 | +339.1 | +190.9 | +19.4 |
 | Overtake Sector | 89 | +344.6 | +250.6 | +18.5 |
-| Green Grove Retirement | 94 | +322.3 | +201.5 | +18.2 |
-| NineFlyeSports | 96 | +318.8 | +208.9 | +18.1 |
-| Elusive | 93 | +325.3 | +225.4 | +18.1 |
+| NineFlyeSports | 95 | +318.9 | +209.0 | +18.2 |
+| Green Grove Retirement | 93 | +322.3 | +201.6 | +18.2 |
 | PROFECO | 87 | +348.9 | +172.1 | +17.5 |
-| FlyQuest RED | 97 | +314.4 | +216.3 | +17.0 |
-| Axial | 101 | +300.1 | +186.2 | +16.3 |
-| Addice | 102 | +296.2 | +215.5 | +15.9 |
+| FlyQuest RED | 96 | +314.5 | +216.3 | +17.0 |
+| Axial | 100 | +300.3 | +186.2 | +16.3 |
+| Addice | 101 | +296.4 | +215.6 | +15.9 |
+| New Legends | 102 | +289.2 | +218.5 | +15.2 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +341.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +341.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -93,7 +93,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.02 | 1.00 | 0.60 | 0.05 | 0.60 | +378.3 | -Haz-, HBN, Klondike, fambino, genka |
 | 2026-05-22 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.26 | +7.9 | -Haz-, HBN, Klondike, STF_-, ketamean |
 | 2026-05-20 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +127.5 | -Haz-, DMinish, HBN, Klondike, ketamean |
-| 2026-05-15 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -103.3 | -Haz-, DMinish, HBN, Klondike, ketamean |
+| 2026-05-15 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -103.4 | -Haz-, DMinish, HBN, Klondike, ketamean |
 | 2026-05-13 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -127.0 | -Haz-, DMinish, HBN, Klondike, ketamean |
 | 2026-05-08 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.15 | 0.00 | 0.00 | -316.6 | -Haz-, DMinish, HBN, Klondike, ketamean |
 | 2026-05-06 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -382.2 | -Haz-, DMinish, HBN, Klondike, ketamean |

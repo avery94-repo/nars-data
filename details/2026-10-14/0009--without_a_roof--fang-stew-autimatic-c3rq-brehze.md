@@ -25,35 +25,35 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.970 | 2457.3 | - |
-| +30 days | 0.988 | 2482.7 | +25.3 |
-| +60 days | 0.993 | 2490.3 | +33.0 |
-| +90 days | 1.000 | 2500.0 | +42.7 |
+| +30 days | 0.981 | 2473.5 | +16.2 |
+| +60 days | 0.983 | 2476.4 | +19.1 |
+| +90 days | 0.992 | 2489.2 | +31.9 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.939 vs 0.945 average, gap -0.006). Matching that average is worth about 4.2 seed points.
 
 - Tier Exposure drivers: CROSSFIRE Season 6 (2026-10-07) 1.60; FRAG University 2026 (2026-10-11) 1.60; NSTLGA League S2 | Stage 3 Playoffs (2026-09-14) 1.59
 - Quality Wins drivers: beat Overtake Sector at CROSSFIRE Season 6 (2026-10-07) 1.60; beat LAG Gaming at NSTLGA League S2 | Stage 3 Playoffs (2026-09-13) 1.56; beat Marsborne at VRS-tracked 2026-09 (2026-09-26) 1.55
-- Opponent Network drivers: beat Overtake Sector at CROSSFIRE Season 6 (2026-10-07) 1.60; beat Marsborne at NSTLGA League S2 | Stage 3 Playoffs (2026-09-10) 1.56; beat LAG Gaming at CROSSFIRE Season 6 - Playoffs (2026-10-05) 1.55
+- Opponent Network drivers: beat Overtake Sector at CROSSFIRE Season 6 (2026-10-07) 1.60; beat last dance at FRAG University 2026 (2026-10-10) 1.60; beat Marsborne at NSTLGA League S2 | Stage 3 Playoffs (2026-09-10) 1.56
 
 Next rung: the teams ranked directly above (projected H2H gain for one win, estimate at current ratings):
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| LAG Gaming | 8 | 2507.5 | +1.0 | +125.6 |
-| Marsborne | 7 | 2613.1 | +106.6 | +159.9 |
-| SportsBetExpert | 6 | 2671.7 | +165.2 | +190.0 |
-| Voca | 5 | 2796.5 | +290.0 | +233.2 |
-| NRG | 4 | 2835.7 | +329.2 | +260.4 |
+| LAG Gaming | 8 | 2507.8 | +1.3 | +125.7 |
+| Marsborne | 7 | 2613.2 | +106.7 | +160.0 |
+| SportsBetExpert | 6 | 2671.9 | +165.4 | +190.1 |
+| Voca | 5 | 2796.6 | +290.1 | +233.3 |
+| NRG | 4 | 2835.8 | +329.3 | +260.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| NRG | 4 | +329.2 | +260.4 | +19.0 |
-| Voca | 5 | +290.0 | +233.2 | +14.0 |
-| LAG Gaming | 8 | +1.0 | +125.6 | -0.0 |
-| SportsBetExpert | 6 | +165.2 | +190.0 | -0.1 |
-| Marsborne | 7 | +106.6 | +159.9 | -0.1 |
+| NRG | 4 | +329.3 | +260.4 | +19.0 |
+| Voca | 5 | +290.1 | +233.3 | +14.0 |
+| LAG Gaming | 8 | +1.3 | +125.7 | -0.0 |
+| SportsBetExpert | 6 | +165.4 | +190.1 | -0.1 |
+| Marsborne | 7 | +106.7 | +160.0 | -0.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +327.1 points at current ratings.
 
@@ -66,8 +66,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-11 | Imperial | L | 0-2 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.00 | 0.00 | -119.0 | core 3/5 |
 | 2026-10-11 | unreal nightmare | W | 2-0 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 1.34 | 0.00 | +4.8 | core 3/5 |
-| 2026-10-10 | Last Dance US | W | 2-1 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 1.44 | 0.00 | +0.4 | core 3/5 |
-| 2026-10-10 | Marsborne | L | 0-1 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.00 | 0.00 | -92.0 | core 3/5 |
+| 2026-10-10 | last dance | W | 2-1 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.11 | 1.60 | +0.0 | core 3/5 |
+| 2026-10-10 | Marsborne | L | 0-1 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.00 | 0.00 | -91.9 | core 3/5 |
 | 2026-10-08 | Marsborne | W | 3-2 | CROSSFIRE Season 6 | B | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 1.55 | 0.00 | +24.1 | core 3/5 |
 | 2026-10-07 | Overtake Sector | W | 2-1 | CROSSFIRE Season 6 | B | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 1.60 | +29.8 | core 3/5 |
 | 2026-10-05 | LAG Gaming | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.55 | 1.00 | 1.55 | 1.52 | 1.55 | +24.2 | Brehze, FaNg, autimatic, c3rq, stew |
@@ -86,7 +86,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-13 | SportsBetExpert | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.99 | 1.60 | 1.00 | 1.58 | 0.00 | 0.00 | -23.7 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-12 | SportsBetExpert | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -31.9 | core 3/5 |
 | 2026-09-11 | LAG Gaming | W | 2-1 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.98 | 1.60 | 1.00 | 1.57 | 1.54 | 0.00 | +31.9 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-09-11 | Voca | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -51.6 | core 3/5 |
+| 2026-09-11 | Voca | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -51.5 | core 3/5 |
 | 2026-09-11 | Marsborne | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 1.52 | 0.00 | +71.8 | core 3/5 |
 | 2026-09-10 | Marsborne | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 1.51 | 1.56 | +183.4 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-10 | Good Vibes Gaming | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.97 | 1.11 | 1.00 | 1.07 | 0.04 | 1.07 | +0.3 | Brehze, FaNg, autimatic, c3rq, stew |
@@ -97,14 +97,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | Desi Boyz | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 1.28 | 1.51 | +24.6 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-06 | Wanted Goons | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.51 | 1.51 | 1.51 | +10.5 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-06 | UncsStillGotIt | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.08 | 1.04 | +0.0 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-09-06 | Beyond Limits | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.50 | 0.00 | 0.00 | -49.7 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-06 | Beyond Limits | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.94 | 1.60 | 1.00 | 1.50 | 0.00 | 0.00 | -49.8 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-06 | Desi Boyz | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 1.27 | 0.00 | +30.7 | core 3/5 |
-| 2026-09-05 | Beyond Limits | L | 0-1 | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 0.00 | 0.00 | -55.1 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-05 | Beyond Limits | L | 0-1 | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.94 | 1.59 | 1.00 | 1.50 | 0.00 | 0.00 | -55.2 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-05 | LUMA | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.04 | 0.07 | 1.04 | +0.0 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-09-05 | Marsborne | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.93 | 1.60 | 1.00 | 1.49 | 0.00 | 0.00 | -12.8 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-05 | Marsborne | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.93 | 1.60 | 1.00 | 1.49 | 0.00 | 0.00 | -12.7 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-04 | CELESTIAL | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.48 | 1.11 | 0.00 | +5.8 | core 3/5 |
 | 2026-09-04 | EMPIRE | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.48 | 1.23 | 0.00 | +2.6 | core 3/5 |
-| 2026-09-04 | Marsborne | L | 0-1 | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.48 | 0.00 | 0.00 | -27.6 | core 3/5 |
+| 2026-09-04 | Marsborne | L | 0-1 | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.48 | 0.00 | 0.00 | -27.5 | core 3/5 |
 | 2026-09-03 | FarmVille | W | 2-0 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group B | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.47 | 1.47 | 1.47 | +25.1 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-03 | ThirdSite | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.33 | 1.00 | 1.23 | 0.29 | 1.23 | +0.0 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-03 | regain | W | 1-0 | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 1.16 | 1.47 | +2.1 | core 3/5 |
@@ -120,7 +120,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-20 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.46 | 1.00 | 1.21 | 0.00 | 0.00 | -155.1 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-08-18 | Conscious Gaming | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.81 | 1.46 | 1.00 | 1.19 | 0.21 | 1.19 | +1.4 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-08-13 | North Forge | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.30 | 1.14 | +48.3 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-07-16 | Voca | L | 1-2 | Esports Nations Cup 2026: American Qualifier | C | liquipedia | 0.60 | 1.60 | 1.00 | 0.96 | 0.00 | 0.00 | -37.0 | Brehze, Sandman, Skadoodle, Stewie2K, autimatic |
+| 2026-07-16 | Voca | L | 1-2 | Esports Nations Cup 2026: American Qualifier | C | liquipedia | 0.60 | 1.60 | 1.00 | 0.96 | 0.00 | 0.00 | -36.7 | Brehze, Sandman, Skadoodle, Stewie2K, autimatic |
 | 2026-07-16 | stars and stripes | W | 2-1 | Esports Nations Cup 2026: American Qualifier | C | liquipedia | 0.60 | 1.60 | 1.00 | 0.96 | 0.03 | 0.96 | +0.0 | Brehze, Sandman, Skadoodle, Stewie2K, autimatic |
 | 2026-07-14 | STFDYSAB | W | 2-0 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.75 | 0.09 | 0.75 | +19.2 | 1Sandman, Brehze, autimatic, skadoodle, stew |
 | 2026-07-14 | WonderBreadBoys | W | 2-0 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.75 | 0.02 | 0.75 | +0.0 | 1Sandman, Brehze, autimatic, skadoodle, stew |

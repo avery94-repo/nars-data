@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.192 | 1368.3 | - |
 | +30 days | 0.180 | 1352.5 | -15.8 |
 | +60 days | 0.164 | 1329.8 | -38.5 |
-| +90 days | 0.137 | 1291.4 | -76.9 |
+| +90 days | 0.137 | 1291.5 | -76.8 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.051 vs 0.015 average, gap +0.036). Matching that average is worth about 0.0 seed points.
 
@@ -50,15 +50,15 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | offBalance | 165 | +347.1 | +177.5 | +17.7 |
-| BucketJonsBoys | 172 | +337.8 | +171.9 | +17.4 |
-| Pug Palace | 167 | +340.6 | +180.8 | +17.3 |
-| Firstwave | 175 | +331.8 | +171.6 | +17.1 |
+| BucketJonsBoys | 172 | +337.9 | +172.0 | +17.4 |
+| Pug Palace | 167 | +340.7 | +180.9 | +17.3 |
+| Firstwave | 175 | +331.8 | +171.7 | +17.1 |
 | Shaboing Boing Bandits | 173 | +335.4 | +189.0 | +17.1 |
-| Armored Talent | 174 | +334.6 | +193.9 | +16.9 |
-| APEX | 176 | +326.7 | +176.9 | +16.8 |
+| Armored Talent | 174 | +334.7 | +193.9 | +16.9 |
+| APEX | 176 | +326.7 | +177.0 | +16.8 |
 | GOOZPEEK | 182 | +317.9 | +180.9 | +16.2 |
 | LAF | 183 | +316.1 | +172.1 | +16.2 |
-| Shadow Wizard Money Gang | 180 | +320.7 | +206.0 | +15.9 |
+| Shadow Wizard Money Gang | 180 | +320.9 | +206.1 | +15.9 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +303.9 points at current ratings.
 
@@ -93,7 +93,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.07 | 0.64 | +4.2 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-17 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +1.0 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-15 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.05 | 0.59 | +4.7 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
-| 2026-06-12 | ZoomNBoom | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.37 | +232.2 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
+| 2026-06-12 | ZoomNBoom | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.37 | +232.3 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
 | 2026-06-05 | Sound of Arthritis | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -176.6 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
 | 2026-05-27 | Slime Time | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +85.4 | A-Z, Dinn, GurvR6, c9gurg, rl4v |
 

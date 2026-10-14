@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.114 | 1259.9 | - |
 | +30 days | 0.094 | 1231.4 | -28.5 |
 | +60 days | 0.081 | 1213.8 | -46.1 |
-| +90 days | 0.058 | 1181.0 | -78.9 |
+| +90 days | 0.058 | 1181.1 | -78.8 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.311 vs 0.320 average, gap -0.009). Matching that average is worth about 3.2 seed points.
 
@@ -41,24 +41,24 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | :- | -: | -: | -: | -: |
 | Mach 10 | 310 | 1246.7 | +0.0 | +162.3 |
 | FLying PiGs | 309 | 1250.4 | +3.7 | +163.9 |
-| Asian Invasion | 308 | 1250.7 | +4.0 | +163.6 |
+| Asian Invasion | 308 | 1250.8 | +4.1 | +163.6 |
 | Team Nyx | 307 | 1253.2 | +6.5 | +171.1 |
-| Anchors Anonymous | 306 | 1256.2 | +9.5 | +165.4 |
+| Anchors Anonymous | 306 | 1256.1 | +9.4 | +165.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Team Amplus | 145 | +347.5 | +343.1 | +31.9 |
-| Biggie Cheese Fan Club | 151 | +329.9 | +297.1 | +31.2 |
+| Team Amplus | 145 | +347.6 | +343.1 | +31.9 |
+| Biggie Cheese Fan Club | 151 | +329.9 | +297.0 | +31.2 |
 | Kevin James Fan Club | 148 | +334.2 | +325.6 | +31.1 |
-| WhiteBoyWinter | 155 | +320.0 | +306.8 | +29.8 |
+| WhiteBoyWinter | 155 | +320.0 | +306.7 | +29.8 |
 | offBalance | 165 | +295.6 | +299.1 | +26.3 |
 | Order Zero | 156 | +318.1 | +276.6 | +25.4 |
-| Pug Palace | 167 | +289.1 | +302.3 | +24.9 |
-| BucketJonsBoys | 172 | +286.3 | +289.7 | +24.7 |
+| Pug Palace | 167 | +289.2 | +302.4 | +24.9 |
+| BucketJonsBoys | 172 | +286.4 | +289.7 | +24.8 |
 | Shaboing Boing Bandits | 173 | +283.9 | +312.1 | +24.0 |
-| Armored Talent | 174 | +283.1 | +318.4 | +23.7 |
+| Armored Talent | 174 | +283.2 | +318.4 | +23.7 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.1 points at current ratings.
 
@@ -81,10 +81,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Backshot Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.82 | 1.16 | 1.00 | 0.95 | 0.00 | 0.00 | -87.2 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
 | 2026-08-14 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.16 | 1.00 | 0.92 | 0.00 | 0.00 | -53.8 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
 | 2026-08-12 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.78 | 1.16 | 1.00 | 0.90 | 0.15 | 0.90 | +110.6 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
-| 2026-08-05 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -90.2 | BobsBoosted, DevonJones, hoz, patwithapc, ryleyN |
+| 2026-08-05 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.73 | 1.16 | 1.00 | 0.85 | 0.00 | 0.00 | -90.3 | BobsBoosted, DevonJones, hoz, patwithapc, ryleyN |
 | 2026-07-31 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.16 | 1.00 | 0.81 | 0.00 | 0.00 | -107.0 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-07-29 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.16 | 1.00 | 0.79 | 0.07 | 0.79 | +223.1 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
-| 2026-07-24 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -136.7 | BobsBoosted, DevonJones, hoz, lerff, patwithapc, ryleyN |
+| 2026-07-24 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.16 | 1.00 | 0.75 | 0.00 | 0.00 | -136.8 | BobsBoosted, DevonJones, hoz, lerff, patwithapc, ryleyN |
 | 2026-07-22 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.64 | 1.16 | 1.00 | 0.74 | 0.00 | 0.00 | -62.3 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
 | 2026-07-17 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.16 | 1.00 | 0.70 | 0.07 | 0.70 | +359.7 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-05-20 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.02 | 0.25 | +269.4 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |

@@ -3,11 +3,11 @@ Team Name: GRIT
 Roster: shiv-, solzh69, Kr0wbar, _Beastm0de, macepts
 NARS Rank: 201 of 506
 
-Final Rating: 1481.1
+Final Rating: 1481.2
 Seeded Start: 1248.0
-H2H Adjustment: +233.1
+H2H Adjustment: +233.2
 
-Final Rating (1481.1) = Seeded Start (1248.0) + H2H Adjustment (+233.1)
+Final Rating (1481.2) = Seeded Start (1248.0) + H2H Adjustment (+233.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.106 | 1248.0 | - |
 | +30 days | 0.091 | 1227.5 | -20.5 |
 | +60 days | 0.087 | 1221.9 | -26.1 |
-| +90 days | 0.080 | 1212.6 | -35.5 |
+| +90 days | 0.080 | 1212.6 | -35.4 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.277 vs 0.334 average, gap -0.057). Matching that average is worth about 19.9 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Bad Jawn | 200 | 1482.1 | +1.0 | +149.4 |
-| GOBLINS | 199 | 1486.4 | +5.3 | +138.9 |
-| O Fire | 198 | 1488.5 | +7.4 | +152.0 |
-| Storm Surge | 197 | 1488.6 | +7.5 | +139.7 |
-| ABG Esports | 196 | 1488.7 | +7.6 | +150.7 |
+| Bad Jawn | 200 | 1482.1 | +0.9 | +149.4 |
+| GOBLINS | 199 | 1486.4 | +5.2 | +138.8 |
+| O Fire | 198 | 1488.5 | +7.3 | +152.0 |
+| Storm Surge | 197 | 1488.6 | +7.4 | +139.7 |
+| ABG Esports | 196 | 1488.8 | +7.6 | +150.8 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | flat earth | 64 | +345.4 | +290.7 | +26.9 |
-| Endless Esports | 65 | +344.9 | +293.2 | +26.8 |
-| NZ Gaming | 69 | +332.1 | +267.3 | +26.0 |
-| WhalersOnDaMoon | 66 | +340.8 | +297.0 | +25.5 |
-| DUMBO | 63 | +346.0 | +322.4 | +25.4 |
-| GeneticDiff | 70 | +311.8 | +269.0 | +23.9 |
-| Asoka | 74 | +302.2 | +251.6 | +23.0 |
-| fih hou | 73 | +304.6 | +278.3 | +22.9 |
-| Kairo | 79 | +297.8 | +247.3 | +22.5 |
+| Endless Esports | 65 | +344.9 | +293.3 | +26.8 |
+| NZ Gaming | 69 | +332.2 | +267.4 | +26.0 |
+| WhalersOnDaMoon | 66 | +340.7 | +296.9 | +25.5 |
+| DUMBO | 63 | +345.9 | +322.4 | +25.4 |
+| GeneticDiff | 70 | +311.7 | +269.0 | +23.9 |
+| Asoka | 74 | +302.1 | +251.6 | +23.0 |
+| fih hou | 73 | +304.5 | +278.3 | +22.9 |
+| Kairo | 79 | +297.8 | +247.3 | +22.4 |
 | Club 333 | 76 | +301.2 | +299.0 | +22.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +507.4 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +507.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), Courage (+0.0), shirtcockin (+0.0), SixSevenZaZa (+0.1).
 
@@ -85,11 +85,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-27 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.45 | 1.00 | 0.97 | 0.00 | 0.00 | -0.0 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
 | 2026-07-24 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.00 | 0.00 | -0.0 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
 | 2026-07-22 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.00 | 0.00 | -1.5 | Kr0wbar, T-Bo, _Beastm0de, macepts, solzh69 |
-| 2026-05-21 | Room Temp IQs | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -386.4 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
-| 2026-05-19 | NZ Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.03 | 0.28 | +264.4 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
+| 2026-05-21 | Room Temp IQs | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.22 | 1.35 | 1.00 | 0.30 | 0.00 | 0.00 | -386.5 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
+| 2026-05-19 | NZ Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.21 | 1.35 | 1.00 | 0.28 | 0.03 | 0.28 | +264.5 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
 | 2026-05-12 | Demolition | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.35 | 1.00 | 0.22 | 0.00 | 0.00 | -134.5 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
 | 2026-05-06 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.01 | 0.16 | +78.4 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
-| 2026-05-06 | Shimmer | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.06 | 0.16 | +436.5 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
+| 2026-05-06 | Shimmer | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.06 | 0.16 | +436.6 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
 | 2026-05-05 | Addice | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.35 | 1.00 | 0.16 | 0.00 | 0.00 | -13.2 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
 | 2026-04-28 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.35 | 1.00 | 0.09 | 0.00 | 0.00 | -17.4 | Aluminum, Kr0wbar, Spikee, _Beastm0de, solzh69 |
 | 2026-04-24 | Aspyre | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.35 | 1.00 | 0.06 | 0.00 | 0.00 | -165.8 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |

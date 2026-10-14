@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.126 | 1277.0 | - |
 | +30 days | 0.105 | 1247.2 | -29.8 |
 | +60 days | 0.090 | 1225.6 | -51.4 |
-| +90 days | 0.061 | 1186.0 | -91.0 |
+| +90 days | 0.061 | 1186.1 | -91.0 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.035 vs 0.022 average, gap +0.013). Matching that average is worth about 0.0 seed points.
 
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| The Skins | 233 | 1419.7 | +0.5 | +133.8 |
+| The Skins | 233 | 1419.7 | +0.5 | +133.9 |
 | Backshot Gaming | 232 | 1420.2 | +1.0 | +134.0 |
-| skebob | 231 | 1420.7 | +1.5 | +134.1 |
+| skebob | 231 | 1420.9 | +1.7 | +134.2 |
 | walkthemdown | 230 | 1424.6 | +5.4 | +136.4 |
-| The Third Eye | 229 | 1425.5 | +6.3 | +135.3 |
+| The Third Eye | 229 | 1425.5 | +6.3 | +135.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Diggers | 86 | +344.2 | +251.2 | +26.6 |
-| firesale | 82 | +349.0 | +279.0 | +26.4 |
-| Fire Nation | 90 | +330.5 | +257.2 | +25.1 |
-| Fathom Gaming | 91 | +326.1 | +251.7 | +25.0 |
-| Overtake Sector | 89 | +331.7 | +325.4 | +24.0 |
-| Green Grove Retirement | 94 | +309.4 | +263.4 | +23.0 |
-| Elusive | 93 | +312.4 | +292.6 | +22.9 |
-| NineFlyeSports | 96 | +305.9 | +272.1 | +22.9 |
-| PROFECO | 87 | +336.0 | +229.0 | +22.7 |
-| FlyQuest RED | 97 | +301.5 | +280.4 | +21.2 |
+| Diggers | 86 | +344.4 | +251.3 | +26.6 |
+| firesale | 82 | +349.1 | +279.2 | +26.5 |
+| Fire Nation | 90 | +330.5 | +257.4 | +25.2 |
+| Fathom Gaming | 91 | +326.2 | +251.8 | +25.0 |
+| Overtake Sector | 89 | +331.7 | +325.5 | +24.0 |
+| Green Grove Retirement | 93 | +309.4 | +263.5 | +23.0 |
+| NineFlyeSports | 95 | +306.0 | +272.2 | +22.9 |
+| PROFECO | 87 | +336.0 | +229.1 | +22.7 |
+| FlyQuest RED | 96 | +301.6 | +280.6 | +21.3 |
+| Axial | 100 | +287.4 | +243.4 | +20.0 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +488.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +489.0 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), 3 Feet Of Meat (+0.0), shirtcockin (+0.1), Courage (+0.1), SixSevenZaZa (+0.1).
 
@@ -85,8 +85,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Les Ptis Jus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.02 | 1.00 | 0.79 | 0.07 | 0.79 | +48.9 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-08-10 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.02 | 1.00 | 0.78 | 0.07 | 0.78 | +0.3 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-08-07 | Meepins | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.02 | 1.00 | 0.76 | 0.06 | 0.76 | +90.7 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
-| 2026-08-05 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +127.4 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
-| 2026-07-29 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.03 | 0.70 | +326.1 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
+| 2026-08-05 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.02 | 1.00 | 0.74 | 0.06 | 0.74 | +127.5 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
+| 2026-07-29 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.03 | 0.70 | +326.2 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-24 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.65 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -153.6 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-22 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -147.0 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |
 | 2026-07-17 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -0.2 | 1KJS, PWNDe, _-LOGIC-_, ampEd--, f2405 |

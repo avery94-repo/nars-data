@@ -50,13 +50,13 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Saltcrew | 276 | +337.0 | +313.7 | +31.7 |
-| Demolition | 279 | +332.2 | +312.1 | +31.0 |
+| Demolition | 279 | +332.3 | +312.2 | +31.0 |
 | Chopped | 277 | +336.0 | +341.5 | +30.8 |
 | Adria eSports | 281 | +330.4 | +350.5 | +29.9 |
 | ItAintOverYet | 284 | +318.8 | +301.4 | +29.8 |
 | Entertainment Cheese | 285 | +317.0 | +330.6 | +28.9 |
 | Midwest Farmers | 286 | +312.4 | +326.0 | +28.4 |
-| Imperium | 283 | +321.7 | +278.0 | +28.3 |
+| Imperium | 283 | +321.8 | +278.0 | +28.3 |
 | 55TH ST | 288 | +307.5 | +329.9 | +27.6 |
 | Resurgence | 290 | +299.8 | +301.2 | +27.0 |
 

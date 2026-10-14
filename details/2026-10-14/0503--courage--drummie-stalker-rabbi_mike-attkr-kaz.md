@@ -3,11 +3,11 @@ Team Name: Courage
 Roster: DRUMMIE, stalker, rabbi_mike, ATTKR, kaz
 NARS Rank: 503 of 506
 
-Final Rating: 403.8
+Final Rating: 403.7
 Seeded Start: 1140.4
-H2H Adjustment: -736.6
+H2H Adjustment: -736.7 (capped at +-300, raw -736.6)
 
-Final Rating (403.8) = Seeded Start (1140.4) + H2H Adjustment (-736.6)
+Final Rating (403.7) = Seeded Start (1140.4) + H2H Adjustment (-736.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| SixSevenZaZa | 502 | 459.4 | +55.6 | +180.2 |
-| Shaq Diesel | 501 | 508.5 | +104.7 | +197.0 |
-| After Peak | 500 | 533.5 | +129.7 | +219.1 |
-| Old Dads Banging | 499 | 550.2 | +146.4 | +211.9 |
-| Dapper North | 498 | 553.2 | +149.4 | +213.0 |
+| SixSevenZaZa | 502 | 459.3 | +55.6 | +180.2 |
+| Shaq Diesel | 501 | 508.4 | +104.7 | +197.0 |
+| After Peak | 500 | 533.5 | +129.8 | +219.1 |
+| Old Dads Banging | 499 | 550.1 | +146.4 | +211.9 |
+| Dapper North | 498 | 553.2 | +149.5 | +213.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | FourStrokeGang | 479 | +344.6 | +302.2 | +32.5 |
-| HUMA | 480 | +343.5 | +340.0 | +31.6 |
-| EZ2025 | 483 | +317.4 | +341.2 | +29.2 |
-| CVC Retirement | 481 | +338.3 | +284.4 | +28.7 |
+| HUMA | 480 | +343.6 | +340.0 | +31.6 |
+| EZ2025 | 483 | +317.5 | +341.2 | +29.2 |
+| CVC Retirement | 481 | +338.4 | +284.4 | +28.7 |
 | monitor off | 485 | +310.6 | +328.4 | +27.6 |
 | Grandpa Berets | 487 | +287.3 | +309.2 | +24.7 |
-| Power of Friendship | 484 | +316.2 | +275.9 | +24.0 |
+| Power of Friendship | 484 | +316.3 | +275.9 | +24.0 |
 | Potential to Stack Dough | 488 | +282.2 | +262.9 | +15.5 |
-| SNOWPLOWERS | 482 | +327.5 | +280.2 | +11.3 |
+| SNOWPLOWERS | 482 | +327.6 | +280.2 | +11.3 |
 | Muncle | 491 | +229.3 | +254.3 | +10.4 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.2 points at current ratings.
@@ -79,12 +79,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.02 | 1.00 | 0.71 | 0.00 | 0.00 | -0.5 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
 | 2026-07-29 | Schadenfreude | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -3.9 | ATTKR, Cain, DRUMMIE, G0LOB, rabbi_mike |
 | 2026-07-23 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.66 | 0.00 | 0.00 | -195.0 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
-| 2026-07-22 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -23.4 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
+| 2026-07-22 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.02 | 1.00 | 0.65 | 0.00 | 0.00 | -23.3 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
 | 2026-07-17 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.61 | 0.00 | 0.00 | -0.2 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
 | 2026-05-20 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.00 | 0.25 | +292.5 | -Burn, ATTKR, DRUMMIE, KakaRea, kaz, rabbi_mike |
 | 2026-05-13 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -0.9 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
 | 2026-05-13 | Climbers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.00 | -339.3 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
-| 2026-05-06 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -267.0 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
+| 2026-05-06 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.00 | 0.00 | -267.1 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
 | 2026-05-01 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.00 | -71.0 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
 | 2026-04-29 | onliners | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -423.8 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
 | 2026-04-24 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.01 | 0.05 | +388.1 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |

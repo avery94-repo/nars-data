@@ -3,11 +3,11 @@ Team Name: Flow Esports
 Roster: _p1ne, LandoOG, -Yapph, ziett, emper0r0
 NARS Rank: 387 of 506
 
-Final Rating: 1083.6
+Final Rating: 1083.5
 Seeded Start: 1294.3
-H2H Adjustment: -210.7
+H2H Adjustment: -210.8
 
-Final Rating (1083.6) = Seeded Start (1294.3) + H2H Adjustment (-210.7)
+Final Rating (1083.5) = Seeded Start (1294.3) + H2H Adjustment (-210.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,7 +26,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.139 | 1294.3 | - |
 | +30 days | 0.120 | 1267.5 | -26.8 |
-| +60 days | 0.100 | 1240.4 | -54.0 |
+| +60 days | 0.100 | 1240.3 | -54.0 |
 | +90 days | 0.075 | 1204.7 | -89.6 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.029 vs 0.021 average, gap +0.008). Matching that average is worth about 0.0 seed points.
@@ -39,25 +39,25 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| MXA | 386 | 1090.7 | +7.1 | +107.5 |
-| Exnitas | 385 | 1093.2 | +9.6 | +112.4 |
-| Gregs New Cut | 384 | 1096.6 | +13.0 | +108.7 |
-| Texas Orange | 383 | 1097.5 | +13.9 | +116.0 |
-| Costco Family | 382 | 1102.5 | +18.9 | +116.7 |
+| MXA | 386 | 1090.7 | +7.2 | +107.5 |
+| Exnitas | 385 | 1093.2 | +9.7 | +112.4 |
+| Gregs New Cut | 384 | 1096.6 | +13.1 | +108.8 |
+| Texas Orange | 383 | 1097.4 | +13.9 | +116.0 |
+| Costco Family | 382 | 1102.5 | +19.0 | +116.7 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| penazoid | 226 | +344.3 | +204.1 | +20.5 |
-| UltimateDarklordWizardz | 227 | +343.5 | +227.6 | +19.9 |
-| YHTR | 235 | +330.1 | +218.1 | +19.4 |
-| brb grinding minecraft | 239 | +321.9 | +222.4 | +19.2 |
-| NXG Esports | 242 | +320.4 | +214.5 | +19.2 |
-| Fortis Fortuna Adiuvat | 237 | +322.7 | +206.2 | +19.2 |
-| FUELED BY HATE | 241 | +320.7 | +191.8 | +19.1 |
-| Casual Mature Gamers | 238 | +322.3 | +227.1 | +18.8 |
-| Elisir Esports | 225 | +344.8 | +180.1 | +17.4 |
+| penazoid | 226 | +344.4 | +204.1 | +20.5 |
+| UltimateDarklordWizardz | 227 | +343.6 | +227.6 | +19.9 |
+| YHTR | 235 | +330.2 | +218.2 | +19.4 |
+| NXG Esports | 242 | +320.6 | +214.6 | +19.2 |
+| brb grinding minecraft | 239 | +322.0 | +222.5 | +19.2 |
+| Fortis Fortuna Adiuvat | 237 | +322.8 | +206.2 | +19.2 |
+| FUELED BY HATE | 241 | +320.8 | +191.8 | +19.1 |
+| Casual Mature Gamers | 238 | +322.4 | +227.1 | +18.8 |
+| Elisir Esports | 225 | +345.0 | +180.1 | +17.4 |
 | FRAGDEMONS | 228 | +342.8 | +179.7 | +17.1 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +362.0 points at current ratings.
@@ -83,10 +83,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -85.2 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
 | 2026-08-12 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.05 | 0.78 | +4.3 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 | 2026-08-07 | Mach 10 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.06 | 0.74 | +113.8 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
-| 2026-08-05 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.08 | 0.73 | +227.2 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-08-05 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.08 | 0.73 | +227.3 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 | 2026-07-31 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -108.5 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 | 2026-07-29 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -112.8 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
-| 2026-07-24 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -263.9 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
+| 2026-07-24 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -264.0 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
 | 2026-07-22 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.02 | 0.64 | +20.5 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
 | 2026-07-17 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.07 | 0.60 | +268.9 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
 | 2026-07-15 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -394.6 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |

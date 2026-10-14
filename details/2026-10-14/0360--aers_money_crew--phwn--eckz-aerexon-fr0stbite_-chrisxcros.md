@@ -25,9 +25,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
 | Now | 0.128 | 1279.0 | - |
-| +30 days | 0.108 | 1251.9 | -27.2 |
+| +30 days | 0.108 | 1251.8 | -27.2 |
 | +60 days | 0.100 | 1240.0 | -39.0 |
-| +90 days | 0.086 | 1219.9 | -59.2 |
+| +90 days | 0.086 | 1219.9 | -59.1 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.023 vs 0.022 average, gap +0.001). Matching that average is worth about 0.0 seed points.
 
@@ -40,7 +40,7 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
 | Macs Snacks | 359 | 1153.9 | +0.7 | +118.6 |
-| RH Help Desk | 358 | 1158.5 | +5.3 | +127.0 |
+| RH Help Desk | 358 | 1158.6 | +5.4 | +127.0 |
 | Kurrupted Mindz | 357 | 1159.7 | +6.5 | +114.1 |
 | katzwitgunz | 356 | 1159.8 | +6.6 | +114.1 |
 | Comeback Bandits | 355 | 1160.6 | +7.4 | +123.4 |
@@ -53,14 +53,14 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | teamington | 192 | +344.8 | +218.8 | +21.6 |
 | Lynnsanity | 189 | +346.8 | +237.8 | +21.5 |
 | No Leaders Please | 190 | +346.2 | +237.7 | +21.5 |
-| ABG Esports | 196 | +335.5 | +233.5 | +21.3 |
-| UncsStillGotIt | 191 | +346.1 | +250.9 | +21.1 |
+| ABG Esports | 196 | +335.6 | +233.5 | +21.3 |
+| UncsStillGotIt | 191 | +346.1 | +251.0 | +21.1 |
 | O Fire | 198 | +335.3 | +240.8 | +20.8 |
-| GRIT | 201 | +327.9 | +201.2 | +20.7 |
+| GRIT | 201 | +328.0 | +201.2 | +20.7 |
 | Bad Jawn | 200 | +328.9 | +236.8 | +20.5 |
 | noname | 208 | +314.1 | +217.7 | +19.7 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +390.8 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +390.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.2), 3 Feet Of Meat (+0.4), shirtcockin (+0.6), Courage (+0.7), SixSevenZaZa (+1.1).
 
@@ -95,7 +95,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-06 | The Homies | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.15 | 1.00 | 0.14 | 0.02 | 0.14 | +146.4 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-05-01 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +379.7 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 | 2026-04-29 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.00 | 0.00 | -19.6 | -eckz, BiggyJ, ChrisXCross, FR0STBITE_, phwn |
-| 2026-04-24 | Old Dads Banging | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -282.5 | -eckz, BiggyJ, ChrisXCross, FR0STBITE_, phwn |
+| 2026-04-24 | Old Dads Banging | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.05 | 0.00 | 0.00 | -282.6 | -eckz, BiggyJ, ChrisXCross, FR0STBITE_, phwn |
 | 2026-04-22 | Cadillac F1 eSports Team | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.00 | 0.00 | -245.2 | -eckz, Aerexon, ChrisXCross, FR0STBITE_, phwn |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

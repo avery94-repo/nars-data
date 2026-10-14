@@ -3,11 +3,11 @@ Team Name: EXODIA
 Roster: vainilla, spamzzy, points, tor1towOw, Slayerh-
 NARS Rank: 80 of 506
 
-Final Rating: 1778.2
+Final Rating: 1778.3
 Seeded Start: 1659.2
-H2H Adjustment: +119.0
+H2H Adjustment: +119.1
 
-Final Rating (1778.2) = Seeded Start (1659.2) + H2H Adjustment (+119.0)
+Final Rating (1778.3) = Seeded Start (1659.2) + H2H Adjustment (+119.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,9 +27,9 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.399 | 1659.2 | - |
 | +30 days | 0.347 | 1586.1 | -73.1 |
 | +60 days | 0.293 | 1509.6 | -149.6 |
-| +90 days | 0.200 | 1380.3 | -279.0 |
+| +90 days | 0.200 | 1380.5 | -278.7 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.575 vs 0.612 average, gap -0.037). Matching that average is worth about 13.0 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.575 vs 0.612 average, gap -0.037). Matching that average is worth about 12.9 seed points.
 
 - Tier Exposure drivers: S58 NA Advanced Central - Playoffs (2026-09-05) 1.45; S58 NA Advanced Central - Regular Season (2026-08-28) 1.28; Esports Nations Cup 2026: South America Qualifier (2026-07-17) 0.88
 - Quality Wins drivers: beat GUARA at VRS-tracked 2026-08 (2026-08-25) 0.81; beat VASCO at VRS-tracked 2026-07 (2026-07-17) 0.66; beat VASCO at VRS-tracked 2026-06 (2026-06-30) 0.54
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Kairo | 79 | 1778.9 | +0.7 | +110.3 |
-| Down To Frag | 78 | 1779.5 | +1.3 | +108.2 |
-| Over Your Head | 77 | 1781.7 | +3.5 | +109.7 |
-| Club 333 | 76 | 1782.3 | +4.1 | +121.3 |
-| mas paspas | 75 | 1783.0 | +4.8 | +119.6 |
+| Kairo | 79 | 1779.0 | +0.7 | +110.3 |
+| Down To Frag | 78 | 1779.5 | +1.2 | +108.2 |
+| Over Your Head | 77 | 1781.8 | +3.5 | +109.7 |
+| Club 333 | 76 | 1782.4 | +4.1 | +121.3 |
+| mas paspas | 75 | 1783.0 | +4.7 | +119.6 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Zomblers | 22 | +336.5 | +254.9 | +18.9 |
-| Iowa Stormboar | 21 | +337.7 | +254.2 | +18.8 |
-| Olympus | 25 | +261.5 | +193.0 | +12.7 |
-| Automatic HQ | 27 | +252.7 | +200.4 | +11.0 |
-| duck crew | 23 | +317.9 | +171.2 | +9.0 |
-| VOID ALUNE | 29 | +229.7 | +152.8 | +6.6 |
-| Festina Lente | 24 | +264.6 | +160.1 | +5.7 |
-| Hairy Scary Bandits | 32 | +221.2 | +183.4 | +5.3 |
-| Chicken Coop | 33 | +220.0 | +207.2 | +5.0 |
-| Holly Molly | 35 | +210.2 | +171.9 | +2.4 |
+| Zomblers | 22 | +336.6 | +255.0 | +18.9 |
+| Iowa Stormboar | 21 | +337.8 | +254.4 | +18.8 |
+| Olympus | 25 | +261.5 | +193.1 | +12.7 |
+| Automatic HQ | 27 | +252.6 | +200.4 | +11.0 |
+| duck crew | 23 | +317.8 | +171.2 | +9.0 |
+| VOID ALUNE | 29 | +229.6 | +152.8 | +6.6 |
+| Festina Lente | 24 | +264.8 | +160.2 | +5.8 |
+| Hairy Scary Bandits | 32 | +221.2 | +183.5 | +5.3 |
+| Chicken Coop | 33 | +220.1 | +207.3 | +5.0 |
+| Holly Molly | 35 | +210.2 | +172.0 | +2.4 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +352.9 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +353.1 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): After Peak (+0.0), SixSevenZaZa (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0).
 
@@ -93,7 +93,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-03 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.45 | 1.00 | 1.04 | 0.38 | 1.04 | +141.7 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-07-31 | House Platypus ESC | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.45 | 1.00 | 1.01 | 0.06 | 1.01 | +82.1 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-07-24 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.65 | 1.45 | 1.00 | 0.94 | 0.00 | 0.00 | -134.1 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
-| 2026-07-22 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.05 | 0.92 | +64.0 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
+| 2026-07-22 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.45 | 1.00 | 0.92 | 0.05 | 0.92 | +64.1 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-07-20 | YOUR END | L |  | VRS-tracked 2026-07 | A | vrs | 0.62 | 1.60 | 1.00 | 0.99 | 0.00 | 0.00 | -23.0 | core 3/5 |
 | 2026-07-17 | MASTER ONE | L | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.61 | 1.45 | 1.00 | 0.88 | 0.00 | 0.00 | -234.8 | -TAYLOR, 1snkzinho_, Slayerh-, points, spamzzy |
 | 2026-07-17 | DKR Esports | L | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.61 | 1.45 | 1.00 | 0.88 | 0.00 | 0.00 | -214.5 | -TAYLOR, 1snkzinho_, Slayerh-, points, spamzzy |

@@ -3,11 +3,11 @@ Team Name: NRG
 Roster: Grim, hallzerk, Jeorge, nitr0, Sonic
 NARS Rank: 4 of 506
 
-Final Rating: 2835.7
+Final Rating: 2835.8
 Seeded Start: 2166.0
-H2H Adjustment: +669.7
+H2H Adjustment: +669.8
 
-Final Rating (2835.7) = Seeded Start (2166.0) + H2H Adjustment (+669.7)
+Final Rating (2835.8) = Seeded Start (2166.0) + H2H Adjustment (+669.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,8 +26,8 @@ Where this team's points come from and where they can grow. Projections are esti
 | :- | -: | -: | -: |
 | Now | 0.761 | 2166.0 | - |
 | +30 days | 0.745 | 2143.3 | -22.6 |
-| +60 days | 0.714 | 2100.3 | -65.7 |
-| +90 days | 0.660 | 2024.1 | -141.9 |
+| +60 days | 0.714 | 2100.2 | -65.7 |
+| +90 days | 0.662 | 2026.8 | -139.1 |
 
 Weakest lever vs the 3 teams ranked above: Quality Wins (0.842 vs 1.000 average, gap -0.158). Matching that average is worth about 110.6 seed points.
 
@@ -39,17 +39,17 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Wildcard | 3 | 2912.0 | +76.3 | +36.9 |
-| M80 | 2 | 3081.4 | +245.7 | +49.8 |
-| Liquid | 1 | 3103.3 | +267.6 | +50.4 |
+| Wildcard | 3 | 2911.9 | +76.1 | +36.9 |
+| M80 | 2 | 3081.4 | +245.6 | +49.8 |
+| Liquid | 1 | 3103.4 | +267.6 | +50.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
 | Liquid | 1 | +267.6 | +50.4 | +3.1 |
-| M80 | 2 | +245.7 | +49.8 | +2.2 |
-| Wildcard | 3 | +76.3 | +36.9 | -0.0 |
+| M80 | 2 | +245.6 | +49.8 | +2.2 |
+| Wildcard | 3 | +76.1 | +36.9 | -0.0 |
 
 Ceiling reference only: beating the current number 1 team, Liquid, projects to +50.4 points at current ratings.
 
@@ -76,30 +76,30 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-18 | AURORA | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -73.2 | core 3/5 |
 | 2026-09-17 | MOUZ | W | 2-1 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.40 | 0.00 | +192.3 | core 3/5 |
 | 2026-09-12 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 0.00 | 0.00 | -151.1 | core 3/5 |
-| 2026-09-11 | Liquid | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 0.96 | 1.56 | +123.7 | core 3/5 |
-| 2026-09-10 | Voca | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.92 | 0.00 | +166.6 | core 3/5 |
+| 2026-09-11 | Liquid | W |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.56 | 0.96 | 1.56 | +123.6 | core 3/5 |
+| 2026-09-10 | Voca | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.92 | 0.00 | +166.7 | core 3/5 |
 | 2026-09-09 | Without a Roof | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.54 | 1.54 | 1.54 | +10.0 | core 3/5 |
-| 2026-08-09 | PHANTOM | L |  | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.21 | 0.00 | 0.00 | -147.2 | core 3/5 |
-| 2026-08-08 | ACEND | W |  | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.20 | 1.79 | 0.00 | +31.3 | core 3/5 |
+| 2026-08-09 | PHANTOM | L |  | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.21 | 0.00 | 0.00 | -147.3 | core 3/5 |
+| 2026-08-08 | ACEND | W |  | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.20 | 1.79 | 0.00 | +31.2 | core 3/5 |
 | 2026-08-07 | SPIRIT HU | W |  | VRS-tracked 2026-08 | A | vrs | 0.74 | 1.60 | 1.00 | 1.19 | 0.65 | 0.00 | +0.0 | core 3/5 |
 | 2026-08-02 | SportsBetExpert | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.71 | 1.60 | 1.00 | 1.13 | 1.02 | 0.00 | +123.8 | core 3/5 |
 | 2026-08-02 | Voca | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.71 | 1.60 | 1.00 | 1.13 | 0.67 | 1.13 | +115.0 | core 3/5 |
-| 2026-08-01 | Voca | L | 1-2 | VRS-tracked 2026-08 | A | vrs | 0.70 | 1.60 | 1.00 | 1.12 | 0.00 | 0.00 | -111.7 | core 3/5 |
+| 2026-08-01 | Voca | L | 1-2 | VRS-tracked 2026-08 | A | vrs | 0.70 | 1.60 | 1.00 | 1.12 | 0.00 | 0.00 | -111.6 | core 3/5 |
 | 2026-07-29 | Marsborne | W | 2-1 | VRS-tracked 2026-07 | A | vrs | 0.68 | 1.60 | 1.00 | 1.09 | 1.06 | 1.09 | +131.7 | core 3/5 |
-| 2026-07-28 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.67 | 1.60 | 1.00 | 1.08 | 0.74 | 1.08 | +71.4 | core 3/5 |
+| 2026-07-28 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.67 | 1.60 | 1.00 | 1.08 | 0.74 | 1.08 | +71.7 | core 3/5 |
 | 2026-07-12 | EH | W |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.68 | 0.00 | +25.0 | core 3/5 |
 | 2026-07-12 | NuTorious | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.82 | 0.91 | +0.8 | core 3/5 |
-| 2026-07-12 | SportsBetExpert | W | 3-1 | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.82 | 0.91 | +113.3 | core 3/5 |
-| 2026-06-05 | BIG | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.51 | 0.00 | 0.00 | -261.3 | core 3/5 |
+| 2026-07-12 | SportsBetExpert | W | 3-1 | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.82 | 0.91 | +113.4 | core 3/5 |
+| 2026-06-05 | BIG | L |  | VRS-tracked 2026-06 | A | vrs | 0.32 | 1.60 | 1.00 | 0.51 | 0.00 | 0.00 | -261.5 | core 3/5 |
 | 2026-06-04 | M80 | L |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.50 | 0.00 | 0.00 | -118.7 | core 3/5 |
-| 2026-06-03 | FlyQuest | W |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.67 | 0.00 | +253.1 | core 3/5 |
+| 2026-06-03 | FlyQuest | W |  | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.49 | 0.67 | 0.00 | +253.2 | core 3/5 |
 | 2026-06-02 | GAMERLEGION | L |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.00 | 0.00 | -2.6 | core 3/5 |
 | 2026-06-02 | SINNERS | W |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.72 | 0.00 | +647.3 | core 3/5 |
 | 2026-05-20 | MOUZ | L | 1-2 | VRS-tracked 2026-05 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.00 | 0.00 | -0.3 | core 3/5 |
 | 2026-05-19 | Legacy | L | 0-1 | VRS-tracked 2026-05 | A | vrs | 0.21 | 1.60 | 1.00 | 0.33 | 0.00 | 0.00 | -0.2 | core 3/5 |
 | 2026-05-12 | FAZE | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.00 | 0.00 | -2.6 | core 3/5 |
 | 2026-05-11 | FUT | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.15 | 1.60 | 1.00 | 0.25 | 0.00 | 0.00 | -0.5 | core 3/5 |
-| 2026-04-25 | KODEX | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.06 | 0.00 | +295.1 | core 3/5 |
+| 2026-04-25 | KODEX | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.06 | 0.00 | +295.2 | core 3/5 |
 | 2026-04-25 | LAG Gaming | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.07 | 0.08 | +36.1 | core 3/5 |
 | 2026-04-25 | PASSION UA | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -498.5 | core 3/5 |
 

@@ -3,15 +3,15 @@ Team Name: Festina Lente
 Roster: gamble, JonjiJLC, Fruitcupx, FRIZZY, Maxuel
 NARS Rank: 24 of 506
 
-Final Rating: 2042.8
-Seeded Start: 1246.9
-H2H Adjustment: +795.9
+Final Rating: 2043.1
+Seeded Start: 1246.8
+H2H Adjustment: +796.3 (capped at +-300, raw +796.2)
 
-Final Rating (2042.8) = Seeded Start (1246.9) + H2H Adjustment (+795.9)
+Final Rating (2043.1) = Seeded Start (1246.8) + H2H Adjustment (+796.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.105 x 1400 = 1246.9
+                = 1100 + 0.105 x 1400 = 1246.8
 
 seed_factor 0.105 = 0.25 x Tier Exposure (0.124) + 0.50 x Quality Wins (0.066) + 0.25 x Opponent Network (0.164)
 
@@ -24,12 +24,12 @@ Where this team's points come from and where they can grow. Projections are esti
 
 | Horizon | Seed factor | Seeded start | Change |
 | :- | -: | -: | -: |
-| Now | 0.105 | 1246.9 | - |
+| Now | 0.105 | 1246.8 | - |
 | +30 days | 0.055 | 1177.3 | -69.5 |
 | +60 days | 0.002 | 1102.6 | -144.3 |
-| +90 days | 0.000 | 1100.0 | -146.9 |
+| +90 days | 0.000 | 1100.0 | -146.8 |
 
-Weakest lever vs the 5 teams ranked above: Opponent Network (0.164 vs 0.672 average, gap -0.508). Matching that average is worth about 177.8 seed points.
+Weakest lever vs the 5 teams ranked above: Opponent Network (0.164 vs 0.671 average, gap -0.507). Matching that average is worth about 177.4 seed points.
 
 - Tier Exposure drivers: S57 NA Open9-10 Central - Playoffs A (2026-06-11) 0.38; VRS-tracked 2026-06 (2026-06-29) 0.77; VRS-tracked 2026-06 (2026-06-14) 0.61
 - Quality Wins drivers: beat DETONATE at VRS-tracked 2026-06 (2026-06-12) 0.59; beat Club 333 at VRS-tracked 2026-06 (2026-06-11) 0.45; beat bubibabu at S57 NA Open9-10 Central - Playoffs A (2026-05-31) 0.03
@@ -39,28 +39,28 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| duck crew | 23 | 2096.1 | +53.3 | +179.5 |
-| Zomblers | 22 | 2114.7 | +71.9 | +212.2 |
-| Iowa Stormboar | 21 | 2115.9 | +73.1 | +212.6 |
-| qcclan | 20 | 2146.2 | +103.4 | +214.6 |
-| MASTER ONE | 19 | 2159.5 | +116.7 | +216.0 |
+| duck crew | 23 | 2096.1 | +53.0 | +179.4 |
+| Zomblers | 22 | 2114.9 | +71.8 | +212.1 |
+| Iowa Stormboar | 21 | 2116.1 | +73.0 | +212.6 |
+| qcclan | 20 | 2146.2 | +103.1 | +214.5 |
+| MASTER ONE | 19 | 2159.5 | +116.4 | +215.9 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Overtake Sector | 10 | +329.3 | +346.9 | +29.8 |
+| Overtake Sector | 10 | +329.2 | +346.8 | +29.8 |
 | Desi Boyz | 11 | +289.7 | +321.6 | +17.7 |
-| regain | 12 | +213.4 | +304.2 | +5.1 |
-| Zomblers | 22 | +71.9 | +212.2 | -0.0 |
-| Brahmas | 14 | +164.7 | +229.7 | -0.0 |
-| Iowa Stormboar | 21 | +73.1 | +212.6 | -0.1 |
-| NuTorious | 17 | +122.9 | +214.3 | -0.2 |
-| FarmVille | 16 | +124.8 | +243.6 | -0.3 |
-| Old Meta | 15 | +133.4 | +237.9 | -0.4 |
-| Villainous | 18 | +117.9 | +238.4 | -0.6 |
+| regain | 12 | +213.3 | +304.2 | +5.1 |
+| Zomblers | 22 | +71.8 | +212.1 | -0.0 |
+| Brahmas | 14 | +164.6 | +229.7 | -0.0 |
+| Iowa Stormboar | 21 | +73.0 | +212.6 | -0.1 |
+| NuTorious | 17 | +122.8 | +214.2 | -0.2 |
+| FarmVille | 16 | +124.8 | +243.5 | -0.3 |
+| Old Meta | 15 | +133.1 | +237.8 | -0.4 |
+| Villainous | 18 | +117.8 | +238.3 | -0.6 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +630.6 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +630.5 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): HUMA (+0.0), EZ2025 (+0.0), monitor off (+0.0), Knight Owls (+0.0), Grandpa Berets (+0.0).
 
@@ -79,15 +79,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-29 | raisedbypixels | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.00 | 0.00 | -191.9 | core 3/5 |
+| 2026-06-29 | raisedbypixels | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.00 | 0.00 | -192.0 | core 3/5 |
 | 2026-06-14 | Iowa Stormboar | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.00 | 0.00 | -106.4 | core 3/5 |
-| 2026-06-13 | Marsborne | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.00 | 0.00 | -48.0 | core 3/5 |
+| 2026-06-13 | Marsborne | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.60 | 0.00 | 0.00 | -47.8 | core 3/5 |
 | 2026-06-12 | DETONATE | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.59 | 0.59 | +123.2 | core 3/5 |
 | 2026-06-11 | GG | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.36 | 1.05 | 1.00 | 0.38 | 0.01 | 0.38 | +74.2 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
-| 2026-06-11 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.58 | 0.45 | 0.58 | +364.3 | core 3/5 |
+| 2026-06-11 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.58 | 0.45 | 0.58 | +364.4 | core 3/5 |
 | 2026-06-09 | FoxtrotAlpha | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.35 | 1.05 | 1.00 | 0.37 | 0.00 | 0.37 | +298.1 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
 | 2026-06-02 | Playing for fun | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.30 | 1.05 | 1.00 | 0.32 | 0.00 | 0.00 | -234.3 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
-| 2026-05-31 | bubibabu | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.03 | 0.30 | +268.0 | FRIZZY, Fruitcupx, JonjiJLC, MaestrO, Maxuel, gamble |
+| 2026-05-31 | bubibabu | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.05 | 1.00 | 0.30 | 0.03 | 0.30 | +268.1 | FRIZZY, Fruitcupx, JonjiJLC, MaestrO, Maxuel, gamble |
 | 2026-05-29 | The Skid Marks | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.05 | 1.00 | 0.29 | 0.00 | 0.29 | +248.7 | FRIZZY, Fruitcupx, JonjiJLC, Maxuel, gamble |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

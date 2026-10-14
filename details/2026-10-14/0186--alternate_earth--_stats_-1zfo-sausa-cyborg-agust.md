@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.070 | 1197.4 | - |
 | +30 days | 0.072 | 1201.4 | +4.1 |
 | +60 days | 0.074 | 1203.2 | +5.8 |
-| +90 days | 0.076 | 1206.6 | +9.2 |
+| +90 days | 0.076 | 1206.6 | +9.3 |
 
 Weakest lever vs the 5 teams ranked above: Opponent Network (0.191 vs 0.331 average, gap -0.140). Matching that average is worth about 49.0 seed points.
 
@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| flat earth | 64 | +322.5 | +126.0 | +11.3 |
-| Endless Esports | 65 | +322.0 | +127.2 | +11.3 |
+| flat earth | 64 | +322.6 | +126.0 | +11.3 |
+| Endless Esports | 65 | +322.1 | +127.3 | +11.3 |
 | DUMBO | 63 | +323.1 | +141.0 | +10.9 |
 | WhalersOnDaMoon | 66 | +317.9 | +129.3 | +10.8 |
-| NZ Gaming | 69 | +309.2 | +115.5 | +10.6 |
-| GeneticDiff | 70 | +288.9 | +117.4 | +9.5 |
+| NZ Gaming | 69 | +309.4 | +115.5 | +10.6 |
+| GeneticDiff | 70 | +288.9 | +117.5 | +9.6 |
 | fih hou | 73 | +281.7 | +122.5 | +9.1 |
-| F5 Esports | 60 | +331.3 | +133.5 | +9.0 |
-| Club 333 | 76 | +278.3 | +133.1 | +8.9 |
+| F5 Esports | 60 | +331.5 | +133.5 | +9.0 |
+| Club 333 | 76 | +278.4 | +133.1 | +8.9 |
 | Asoka | 74 | +279.3 | +109.3 | +8.8 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +194.2 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +194.3 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.0), Courage (+0.0), shirtcockin (+0.0), 3 Feet Of Meat (+0.0), SixSevenZaZa (+0.0).
 

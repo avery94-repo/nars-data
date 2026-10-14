@@ -39,11 +39,11 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| Feels MAIN Man | 466 | 829.8 | +4.4 | +174.8 |
-| Spin da block | 465 | 830.0 | +4.6 | +163.7 |
-| 69 | 464 | 832.3 | +6.9 | +169.7 |
+| Feels MAIN Man | 466 | 829.7 | +4.3 | +174.8 |
+| Spin da block | 465 | 829.9 | +4.5 | +163.7 |
+| 69 | 464 | 832.2 | +6.8 | +169.7 |
 | de_throne | 463 | 834.7 | +9.3 | +166.0 |
-| dogwater | 462 | 835.5 | +10.1 | +177.0 |
+| dogwater | 462 | 835.4 | +10.0 | +177.0 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
 
@@ -55,7 +55,7 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | 99 Thieves | 354 | +336.9 | +325.6 | +30.9 |
 | Macs Snacks | 359 | +328.5 | +307.1 | +30.9 |
 | Aers Money Crew | 360 | +327.8 | +315.5 | +30.6 |
-| RH Help Desk | 358 | +333.1 | +350.6 | +30.2 |
+| RH Help Desk | 358 | +333.2 | +350.6 | +30.2 |
 | MINDTRIP | 361 | +324.1 | +321.0 | +30.1 |
 | Temple of Swing | 362 | +322.0 | +310.5 | +30.0 |
 | OnThaGear | 363 | +321.0 | +328.0 | +29.5 |

@@ -49,18 +49,18 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 
 | Opponent | Rank | Gap | Win gain | Expected value |
 | :- | -: | -: | -: | -: |
-| Holy Squid Empire | 108 | +327.4 | +322.1 | +30.2 |
-| New Legends | 103 | +344.1 | +385.7 | +30.0 |
-| Black Dragon Society | 109 | +319.4 | +342.1 | +28.9 |
-| Read You Like a Kindle | 116 | +303.4 | +335.7 | +26.8 |
-| eefsports | 112 | +312.9 | +274.7 | +26.3 |
-| ODIN | 119 | +295.8 | +326.2 | +25.3 |
-| Team GREAT | 128 | +277.9 | +278.8 | +23.1 |
-| Northern District | 106 | +332.8 | +282.2 | +23.1 |
-| Torii | 129 | +276.7 | +304.8 | +22.7 |
-| Shimmer | 111 | +315.8 | +286.7 | +22.2 |
+| Holy Squid Empire | 107 | +327.6 | +322.2 | +30.2 |
+| New Legends | 102 | +344.2 | +385.8 | +30.0 |
+| Black Dragon Society | 108 | +319.4 | +342.1 | +28.9 |
+| Read You Like a Kindle | 115 | +303.4 | +335.8 | +26.8 |
+| eefsports | 111 | +312.9 | +274.7 | +26.4 |
+| ODIN | 118 | +295.8 | +326.2 | +25.3 |
+| Team GREAT | 127 | +277.9 | +278.8 | +23.1 |
+| Northern District | 105 | +332.8 | +282.3 | +23.1 |
+| Torii | 128 | +276.8 | +304.8 | +22.7 |
+| Shimmer | 110 | +315.8 | +286.8 | +22.3 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +641.0 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +640.9 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.1), 3 Feet Of Meat (+0.1), shirtcockin (+0.1), Courage (+0.2), SixSevenZaZa (+0.3).
 
@@ -79,15 +79,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-31 | Team Amplus | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -163.2 | Late, OJISBAE, riizzy, texture, yarushima |
+| 2026-05-31 | Team Amplus | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.24 | 1.00 | 0.36 | 0.00 | 0.00 | -163.3 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-29 | BUCK NASTY | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -208.0 | Late, OJISBAE, riizzy, texture, yarushima |
-| 2026-05-27 | Shaboing Boing Bandits | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.04 | 0.33 | +186.0 | Late, OJISBAE, riizzy, texture, yarushima |
-| 2026-05-22 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -261.6 | Late, OJISBAE, riizzy, texture, yarushima |
+| 2026-05-27 | Shaboing Boing Bandits | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.33 | 0.04 | 0.33 | +186.1 | Late, OJISBAE, riizzy, texture, yarushima |
+| 2026-05-22 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.23 | 1.15 | 1.00 | 0.26 | 0.00 | 0.00 | -261.7 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-20 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.22 | 1.15 | 1.00 | 0.25 | 0.01 | 0.25 | +23.3 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-14 | Skyline | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.07 | 0.20 | +37.0 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-13 | PROFECO | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.15 | 1.00 | 0.19 | 0.00 | 0.19 | +244.5 | Late, OJISBAE, phiLm9yne, riizzy, yarushima |
 | 2026-04-29 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.15 | 1.00 | 0.09 | 0.01 | 0.09 | +388.2 | Late, OJISBAE, phiLm9yne, riizzy, texture |
-| 2026-04-23 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -363.0 | Late, OJISBAE, phiLm9yne, riizzy, texture |
+| 2026-04-23 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.15 | 1.00 | 0.04 | 0.00 | 0.00 | -363.1 | Late, OJISBAE, phiLm9yne, riizzy, texture |
 | 2026-04-22 | Entertainment Cheese | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.15 | 1.00 | 0.03 | 0.01 | 0.03 | +329.8 | Late, OJISBAE, riizzy, texture, yarushima |
 
 _Snapshot 2026-10-14 | NARS v2 | CC BY-SA 4.0_

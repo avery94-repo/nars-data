@@ -27,7 +27,7 @@ Where this team's points come from and where they can grow. Projections are esti
 | Now | 0.127 | 1277.6 | - |
 | +30 days | 0.112 | 1257.1 | -20.5 |
 | +60 days | 0.095 | 1233.6 | -44.0 |
-| +90 days | 0.066 | 1192.5 | -85.0 |
+| +90 days | 0.066 | 1192.6 | -85.0 |
 
 Weakest lever vs the 5 teams ranked above: Quality Wins (0.033 vs 0.016 average, gap +0.017). Matching that average is worth about 0.0 seed points.
 
@@ -39,10 +39,10 @@ Next rung: the teams ranked directly above (projected H2H gain for one win, esti
 
 | Opponent | Rank | Rating | Gap | Projected gain |
 | :- | -: | -: | -: | -: |
-| James Bond Bois | 401 | 1052.0 | +1.0 | +115.5 |
+| James Bond Bois | 401 | 1051.9 | +0.9 | +115.5 |
 | ReGen | 400 | 1052.9 | +1.9 | +122.9 |
-| Room Temp IQs | 399 | 1056.4 | +5.4 | +116.5 |
-| three11 | 398 | 1057.0 | +6.0 | +116.6 |
+| Room Temp IQs | 399 | 1056.5 | +5.5 | +116.5 |
+| three11 | 398 | 1056.9 | +5.9 | +116.6 |
 | Solar Gravity | 397 | 1060.5 | +9.5 | +117.4 |
 
 Realistic stretch targets (higher rated opponents within 350 points, ranked by expected value of playing them; win probability from the engine at current ratings):
@@ -57,10 +57,10 @@ Realistic stretch targets (higher rated opponents within 350 points, ranked by e
 | 2THRiLL | 246 | +335.6 | +194.8 | +20.1 |
 | Kinetic | 260 | +313.2 | +235.0 | +19.9 |
 | DadDick Esports | 261 | +311.4 | +230.7 | +19.8 |
-| THE GUILD | 264 | +308.0 | +203.8 | +19.8 |
+| THE GUILD | 264 | +308.0 | +203.9 | +19.8 |
 | Wiggle Peeks | 265 | +305.7 | +218.2 | +19.5 |
 
-Ceiling reference only: beating the current number 1 team, Liquid, projects to +402.3 points at current ratings.
+Ceiling reference only: beating the current number 1 team, Liquid, projects to +402.4 points at current ratings.
 
 Low value wins at current ratings (projected gain under 2.0 points): Scrimless (+0.5), 3 Feet Of Meat (+1.0), shirtcockin (+1.4), Courage (+1.8).
 
