@@ -1,5 +1,16 @@
 [
  {
+  "match_id": "hltv:2399233",
+  "date": "2026-10-15",
+  "competition": "ESL Challenger League Season 52 North America Cup 3",
+  "team_a": "Chicken Coop",
+  "team_b": "Overtake Sector",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
   "match_id": "hltv:2399232",
   "date": "2026-10-14",
   "competition": "ESL Challenger League Season 52 North America Cup 3",
@@ -7,6 +18,17 @@
   "team_b": "Overtake Sector",
   "winner": "b",
   "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399574",
+  "date": "2026-10-14",
+  "competition": "CCT 2026 South America Series 7",
+  "team_a": "DAMAJUANA",
+  "team_b": "Zetta",
+  "winner": "a",
+  "score": "2-0",
   "tier": "B",
   "source": "hltv"
  },
@@ -62640,17 +62662,6 @@
   "team_a": "regain",
   "team_b": "CLAYMAKERS",
   "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-regain-2026-04-18-club 333-L",
-  "date": "2026-04-18",
-  "competition": "VRS-tracked 2026-04",
-  "team_a": "regain",
-  "team_b": "Club 333",
-  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
