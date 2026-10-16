@@ -1,5 +1,93 @@
 [
  {
+  "match_id": "hltv:2399424",
+  "date": "2026-10-16",
+  "competition": "Elisa BreakOut Series 2",
+  "team_a": "Voca",
+  "team_b": "Phantom",
+  "winner": "b",
+  "score": "4-13",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "1-8f579113-4237-4073-8542-b9d124c6bc01",
+  "date": "2026-10-15",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Marsborne",
+  "team_b": "Zomblers",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-1ccfe35a-8887-484e-9cb7-1e5df14c232f",
+  "date": "2026-10-15",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Villainous",
+  "team_b": "Shimmer",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-2c39bef7-1b55-4129-9f6f-93320c62ea7f",
+  "date": "2026-10-15",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Pug Palace",
+  "team_b": "Shimmer",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-494a35b2-6976-4e0e-9fb0-69cf6a1bcb66",
+  "date": "2026-10-15",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Day Traders",
+  "team_b": "bye",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-9f5c6946-9f0c-4499-8659-3554965212bb",
+  "date": "2026-10-15",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Demolition",
+  "team_b": "Slimy Boogermen",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-2ed73b21-82f5-4c4c-9cf4-9293a9d13f47",
+  "date": "2026-10-15",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "my life be like",
+  "team_b": "Iowa Stormboar",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-f41a363c-388a-4aef-9fee-e2b658042e50",
+  "date": "2026-10-15",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "Zamgaa Anime Aimers",
+  "team_b": "AscendentEsport",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "hltv:2399233",
   "date": "2026-10-15",
   "competition": "ESL Challenger League Season 52 North America Cup 3",
@@ -7,6 +95,39 @@
   "team_b": "Overtake Sector",
   "winner": "b",
   "score": "1-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399668",
+  "date": "2026-10-15",
+  "competition": "CCT 2026 South America Series 7",
+  "team_a": "Zetta",
+  "team_b": "SUKEBAN",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399260",
+  "date": "2026-10-15",
+  "competition": "Stake Pulse Beat III",
+  "team_a": "Envy",
+  "team_b": "MIBR",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2399137",
+  "date": "2026-10-15",
+  "competition": "Stake Pulse Beat III",
+  "team_a": "HEROIC",
+  "team_b": "Envy",
+  "winner": "a",
+  "score": "2-1",
   "tier": "B",
   "source": "hltv"
  },
@@ -28219,7 +28340,7 @@
   "date": "2026-08-09",
   "competition": "VRS-tracked 2026-08",
   "team_a": "NRG",
-  "team_b": "PHANTOM",
+  "team_b": "Phantom",
   "winner": "b",
   "score": "",
   "tier": "A",
@@ -64150,27 +64271,5 @@
   "score": "0-1",
   "tier": "B",
   "source": "faceit-league"
- },
- {
-  "match_id": "vrs-2026-10-05-insane players-2026-04-19-club 333-W",
-  "date": "2026-04-19",
-  "competition": "VRS-tracked 2026-04",
-  "team_a": "insane players",
-  "team_b": "Club 333",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-regain-2026-04-19-claymakers-W",
-  "date": "2026-04-19",
-  "competition": "VRS-tracked 2026-04",
-  "team_a": "regain",
-  "team_b": "CLAYMAKERS",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
  }
 ]
