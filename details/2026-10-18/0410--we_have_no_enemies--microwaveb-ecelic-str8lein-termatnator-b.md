@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: We Have No Enemies
 Roster: MicrowaveB, Ecelic, Str8Lein, TERMATNATOR, Bmack
-NARS Rank: 411 of 512
+NARS Rank: 410 of 512
 
 Final Rating: 1041.1
 Seeded Start: 1145.3

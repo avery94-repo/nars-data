@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Sodium | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-09-21 | Without a Roof | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.11 | 1.00 | 1.11 | 0.00 | 0.00 | -0.0 | APMGODRACO, ChipLeader, Kaleezbihch, bugass, craps |
 | 2026-09-17 | Gloobers | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.99 | 1.11 | 1.00 | 1.10 | 0.04 | 1.10 | +80.8 | 3bru, ChipLeader, Kaleezbihch, bugass, craps |
-| 2026-09-15 | RH Help Desk | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.09 | 0.08 | 1.09 | +115.1 | 3bru, APMGODRACO, ChipLeader, bugass, craps |
+| 2026-09-15 | RH Help Desk | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.08 | 0.08 | 1.08 | +115.1 | 3bru, APMGODRACO, ChipLeader, bugass, craps |
 | 2026-09-10 | house | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.05 | 0.08 | 1.05 | +98.2 | 3bru, ChipLeader, Kaleezbihch, Mexicaniese, bugass, craps |
 | 2026-09-08 | Bunzsteezy Island | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.04 | 1.03 | +34.6 | 3bru, ChipLeader, Kaleezbihch, Mexicaniese, craps |
 | 2026-09-06 | Excommunicado | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.04 | 1.02 | +94.6 | ChipLeader, Kaleezbihch, Mexicaniese, Migle7, craps |

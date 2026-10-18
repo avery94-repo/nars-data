@@ -3,11 +3,11 @@ Team Name: ItAintOverYet
 Roster: Dipppz, --Slider, SaxyLlama, Strafe, -kaya
 NARS Rank: 293 of 512
 
-Final Rating: 1310.6
+Final Rating: 1310.5
 Seeded Start: 1262.0
-H2H Adjustment: +48.6
+H2H Adjustment: +48.5
 
-Final Rating (1310.6) = Seeded Start (1262.0) + H2H Adjustment (+48.6)
+Final Rating (1310.5) = Seeded Start (1262.0) + H2H Adjustment (+48.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-14 | deluxe | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-10-09 | Transcended | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +317.2 | --Slider, -kaya, Dipppz, Psyychotik, SaxyLlama |
+| 2026-10-09 | Transcended | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +317.3 | --Slider, -kaya, Dipppz, Psyychotik, SaxyLlama |
 | 2026-10-07 | Swole Patrol | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -0.2 | --Slider, -kaya, Dipppz, Psyychotik, SaxyLlama |
-| 2026-09-17 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -73.9 | --Slider, Dipppz, Psyychotik, Strafe, st0rm_- |
+| 2026-09-17 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | -74.0 | --Slider, Dipppz, Psyychotik, Strafe, st0rm_- |
 | 2026-08-26 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -54.5 | --Slider, Dipppz, Psyychotik, Strafe, st0rm_- |
 | 2026-08-19 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -54.1 | --Slider, Dipppz, Psyychotik, Strafe, st0rm_- |
 | 2026-08-14 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.06 | 0.76 | +59.1 | --Slider, -kaya, Dipppz, Psyychotik, Strafe |

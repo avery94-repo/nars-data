@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -47.2 | 1200x, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-08-21 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -76.2 | 1200x, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-08-19 | VeryBigDoogoos | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.03 | 0.80 | +59.0 | 1200x, 1YoungBoozer, Century_, boosh, n1kster |
-| 2026-08-14 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.06 | 0.77 | +114.2 | 1200x, 1YoungBoozer, Century_, boosh, n1kster |
+| 2026-08-14 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.06 | 0.76 | +114.2 | 1200x, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-08-12 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -9.6 | 1200x, 1YoungBoozer, Covie, boosh, n1kster |
 | 2026-08-07 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.08 | 0.72 | +108.1 | 1200x, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-08-05 | Big Kahuna Gaming | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.02 | 0.70 | +104.2 | 1200x, 1YoungBoozer, Covie, boosh, n1kster |
@@ -45,13 +45,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.05 | 0.58 | +29.5 | 1200x, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-07-15 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.06 | 0.56 | +197.7 | 1200x, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-05-31 | EZ2025 | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -163.7 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
-| 2026-05-29 | CounterStreakrs | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.25 | +285.0 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
+| 2026-05-29 | CounterStreakrs | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.25 | +285.1 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
 | 2026-05-27 | Florida Man | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -320.8 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
-| 2026-05-22 | FLying PiGs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.02 | 0.21 | +417.6 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
+| 2026-05-22 | FLying PiGs | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.02 | 0.21 | +417.7 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
 | 2026-05-20 | Top One Percent | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -75.4 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
 | 2026-05-15 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -44.9 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
 | 2026-05-13 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.00 | -4.5 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
-| 2026-05-08 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -374.4 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
+| 2026-05-08 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -374.5 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
 | 2026-05-01 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -390.5 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
 | 2026-04-29 | katzwitgunz | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.00 | +19.2 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
 | 2026-04-24 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.02 | +332.1 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |

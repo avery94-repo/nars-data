@@ -33,8 +33,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Kevin James Fan Club | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -26.3 | BonJinko, Mattoy_, insightz, red1ski, sank |
 | 2026-08-26 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +90.5 | BonJinko, Mattoy_, insightz, red1ski, sank |
 | 2026-08-21 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -49.9 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, insightz |
-| 2026-08-19 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.09 | 0.80 | +87.1 | Mattoy_, _Mski_, insightz, red1ski, sank |
-| 2026-08-14 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.08 | 0.76 | +145.2 | Mattoy_, _Mski_, insightz, red1ski, sank |
+| 2026-08-19 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.09 | 0.80 | +87.2 | Mattoy_, _Mski_, insightz, red1ski, sank |
+| 2026-08-14 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.08 | 0.76 | +145.3 | Mattoy_, _Mski_, insightz, red1ski, sank |
 | 2026-08-12 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.03 | 0.75 | +0.5 | BonJinko, Mattoy_, _Mski_, insightz, sank |
 | 2026-08-07 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +12.4 | BonJinko, Mattoy_, _Mski_, insightz, sank |
 | 2026-08-05 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +8.2 | BonJinko, Mattoy_, _Mski_, red1ski, sank |

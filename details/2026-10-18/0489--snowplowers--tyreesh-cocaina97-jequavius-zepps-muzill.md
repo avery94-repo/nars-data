@@ -3,11 +3,11 @@ Team Name: SNOWPLOWERS
 Roster: Tyreesh, Cocaina97, Jequavius, zepps, MUZILLA
 NARS Rank: 489 of 512
 
-Final Rating: 728.4
+Final Rating: 728.3
 Seeded Start: 1205.0
-H2H Adjustment: -476.6 (capped at +-300, raw -476.7)
+H2H Adjustment: -476.7
 
-Final Rating (728.4) = Seeded Start (1205.0) + H2H Adjustment (-476.6)
+Final Rating (728.3) = Seeded Start (1205.0) + H2H Adjustment (-476.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,11 +29,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.03 | 1.00 | 0.83 | 0.03 | 0.83 | +87.6 | Cocaina97, Jequavius, MUZILLA, Tyreesh, zepps |
 | 2026-08-14 | Wiggle Peeks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.03 | 1.00 | 0.79 | 0.00 | 0.00 | -14.0 | Cocaina97, Jequavius, MUZILLA, Tyreesh, zepps |
 | 2026-08-12 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.03 | 1.00 | 0.78 | 0.03 | 0.78 | +195.1 | ERRRRRAAAAA, Jequavius, MUZILLA, Tyreesh, zepps |
-| 2026-08-07 | Grandpa Berets | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.03 | 1.00 | 0.74 | 0.00 | 0.00 | -118.3 | Cocaina97, MUZILLA, NoWehes, Tyreesh, zepps |
+| 2026-08-07 | Grandpa Berets | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.03 | 1.00 | 0.74 | 0.00 | 0.00 | -118.4 | Cocaina97, MUZILLA, NoWehes, Tyreesh, zepps |
 | 2026-08-05 | Solar Gravity | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.03 | 1.00 | 0.73 | 0.00 | 0.00 | -96.3 | ERRRRRAAAAA, MUZILLA, Tyreesh, lekiyagi, zepps |
 | 2026-07-31 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.03 | 1.00 | 0.69 | 0.00 | 0.00 | -100.1 | Cocaina97, Jequavius, MUZILLA, Tyreesh, zepps |
 | 2026-07-29 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.03 | 1.00 | 0.68 | 0.05 | 0.68 | +76.4 | ERRRRRAAAAA, Jequavius, MUZILLA, Tyreesh, zepps |
-| 2026-07-24 | The Homies | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.03 | 1.00 | 0.65 | 0.00 | 0.00 | -20.1 | Cocaina97, Jequavius, MUZILLA, Tyreesh, zepps |
+| 2026-07-24 | The Homies | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.03 | 1.00 | 0.65 | 0.00 | 0.00 | -20.0 | Cocaina97, Jequavius, MUZILLA, Tyreesh, zepps |
 | 2026-07-22 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.03 | 1.00 | 0.63 | 0.00 | 0.00 | -230.1 | ERRRRRAAAAA, Jequavius, MUZILLA, Tyreesh, zepps |
 | 2026-07-17 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.03 | 1.00 | 0.60 | 0.00 | 0.00 | -178.9 | Cocaina97, Jequavius, MUZILLA, Tyreesh, zepps |
 | 2026-07-15 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.03 | 1.00 | 0.58 | 0.00 | 0.00 | -9.7 | ERRRRRAAAAA, Jequavius, MUZILLA, Tyreesh, zepps |

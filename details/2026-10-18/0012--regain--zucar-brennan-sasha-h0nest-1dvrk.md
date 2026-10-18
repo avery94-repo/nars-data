@@ -4,14 +4,14 @@ Roster: Zucar, brennan, sasha, H0NeST, 1dvrk
 NARS Rank: 12 of 512
 
 Final Rating: 2270.1
-Seeded Start: 2244.8
-H2H Adjustment: +25.3
+Seeded Start: 2244.9
+H2H Adjustment: +25.2
 
-Final Rating (2270.1) = Seeded Start (2244.8) + H2H Adjustment (+25.3)
+Final Rating (2270.1) = Seeded Start (2244.9) + H2H Adjustment (+25.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.818 x 1400 = 2244.8
+                = 1100 + 0.818 x 1400 = 2244.9
 
 seed_factor 0.818 = 0.25 x Tier Exposure (0.782) + 0.50 x Quality Wins (0.757) + 0.25 x Opponent Network (0.975)
 
@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | LAG Gaming | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.52 | 0.00 | 0.00 | -1.8 | 1dvrk, Zucar, brennan, fuzenko, sasha |
 | 2026-09-10 | LAG Gaming | L |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -2.0 | core 3/5 |
 | 2026-09-06 | Axial | W |  | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 0.79 | 1.47 | +11.4 | core 3/5 |
-| 2026-09-06 | DETONATE | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 1.47 | 1.47 | +88.9 | core 3/5 |
+| 2026-09-06 | DETONATE | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 1.47 | 1.47 | +89.0 | core 3/5 |
 | 2026-09-05 | NuTorious | W | 2-1 | VRS-tracked 2026-09 | A | vrs | 0.91 | 1.60 | 1.00 | 1.46 | 1.29 | 0.00 | +94.8 | core 3/5 |
 | 2026-09-04 | FarmVille | L | 0-1 | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 0.00 | 0.00 | -19.0 | core 3/5 |
 | 2026-09-03 | Without a Roof | L | 0-1 | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 0.00 | 0.00 | -2.1 | core 3/5 |
@@ -54,9 +54,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.47 | 1.00 | 1.19 | 0.00 | 0.00 | -10.0 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-19 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.00 | 0.00 | -58.5 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-18 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.00 | 0.00 | -16.8 | 1dvrk, H0NeST, Zucar, brennan, sasha |
-| 2026-08-15 | Overtake Sector | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.47 | 1.00 | 1.13 | 0.00 | 0.00 | -153.5 | 1dvrk, H0NeST, Zucar, brennan, sasha |
+| 2026-08-15 | Overtake Sector | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.47 | 1.00 | 1.13 | 0.00 | 0.00 | -153.6 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-10 | North Forge | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.47 | 1.00 | 1.08 | 0.31 | 1.08 | +31.4 | 1dvrk, H0NeST, Zucar, brennan, sasha |
-| 2026-08-05 | NuTorious | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.92 | 1.03 | +72.5 | 1dvrk, H0NeST, Zucar, brennan, sasha |
+| 2026-08-05 | NuTorious | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.91 | 1.03 | +72.5 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-01 | Marsborne | L | 0-2 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.68 | 1.60 | 1.00 | 1.08 | 0.00 | 0.00 | -53.4 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-07-31 | Chicken Coop | W | 2-0 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.67 | 1.60 | 1.00 | 1.07 | 0.95 | 1.07 | +11.1 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-07-31 | Marsborne | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.67 | 1.60 | 1.00 | 1.07 | 0.00 | 0.00 | -55.5 | core 3/5 |
@@ -75,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-04-29 | Chicken Coop | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.07 | 0.00 | +17.1 | core 3/5 |
 | 2026-04-28 | Wanted Goons | W |  | VRS-tracked 2026-04 | A | vrs | 0.04 | 1.59 | 1.00 | 0.07 | 0.07 | 0.07 | +209.2 | core 3/5 |
 | 2026-04-27 | Zomblers | L |  | VRS-tracked 2026-04 | A | vrs | 0.04 | 1.59 | 1.00 | 0.06 | 0.00 | 0.00 | -304.6 | core 3/5 |
-| 2026-04-26 | FISHER COLLEGE | W |  | VRS-tracked 2026-04 | A | vrs | 0.03 | 1.59 | 1.00 | 0.05 | 0.04 | 0.00 | +154.5 | core 3/5 |
+| 2026-04-26 | FISHER COLLEGE | W |  | VRS-tracked 2026-04 | A | vrs | 0.03 | 1.59 | 1.00 | 0.05 | 0.04 | 0.00 | +154.4 | core 3/5 |
 | 2026-04-23 | Zomblers | W |  | VRS-tracked 2026-04 | A | vrs | 0.01 | 1.59 | 1.00 | 0.02 | 0.01 | 0.02 | +209.6 | core 3/5 |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

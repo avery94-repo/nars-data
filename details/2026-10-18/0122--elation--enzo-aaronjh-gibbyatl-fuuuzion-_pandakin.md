@@ -3,11 +3,11 @@ Team Name: Elation
 Roster: Enzo, AaronJH, Gibbyatl, FuuuZion, _PandaKing_
 NARS Rank: 122 of 512
 
-Final Rating: 1656.1
+Final Rating: 1656.0
 Seeded Start: 1324.3
-H2H Adjustment: +331.8
+H2H Adjustment: +331.7 (capped at +-300, raw +331.8)
 
-Final Rating (1656.1) = Seeded Start (1324.3) + H2H Adjustment (+331.8)
+Final Rating (1656.0) = Seeded Start (1324.3) + H2H Adjustment (+331.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -31,20 +31,20 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.47 | 1.00 | 1.12 | 0.00 | 0.00 | -103.7 | AaronJH, FuuuZion, Gibbyatl, _PandaKing_, presence |
 | 2026-08-13 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.47 | 1.00 | 1.11 | 0.41 | 1.11 | +382.3 | -Kiri, AaronJH, FuuuZion, _PandaKing_, presence |
 | 2026-08-11 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.47 | 1.00 | 1.09 | 0.00 | 0.00 | -8.3 | -Kiri, AaronJH, FuuuZion, _PandaKing_, presence |
-| 2026-07-30 | Aspyre | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.97 | 0.10 | 0.97 | +152.7 | -Kiri, AaronJH, FuuuZion, Gibbyatl, presence |
-| 2026-07-29 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.00 | 0.00 | -331.8 | -Kiri, AaronJH, FuuuZion, _PandaKing_, presence |
+| 2026-07-30 | Aspyre | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.97 | 0.10 | 0.97 | +152.8 | -Kiri, AaronJH, FuuuZion, Gibbyatl, presence |
+| 2026-07-29 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.00 | 0.00 | -331.9 | -Kiri, AaronJH, FuuuZion, _PandaKing_, presence |
 | 2026-07-24 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.47 | 1.00 | 0.92 | 0.19 | 0.92 | +19.8 | -Kiri, AaronJH, FuuuZion, IseeUdere, _PandaKing_ |
 | 2026-07-16 | counterstrike Team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.57 | 1.47 | 1.00 | 0.84 | 0.20 | 0.84 | +9.3 | -Kiri, AaronJH, FuuuZion, IseeUdere, _PandaKing_ |
 | 2026-07-15 | Imperium | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.00 | 0.00 | -443.3 | -Kiri, AaronJH, FuuuZion, Sentrex, _PandaKing_ |
-| 2026-06-13 | 027fam | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.35 | 1.26 | 1.00 | 0.44 | 0.00 | 0.00 | -238.1 | AaronJH, Enzo, FuuuZion, Gibbyatl, IseeUdere |
-| 2026-06-09 | Zealous | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.33 | 1.26 | 1.00 | 0.41 | 0.01 | 0.00 | +116.0 | AaronJH, Enzo, FuuuZion, Gibbyatl, IseeUdere |
-| 2026-06-05 | butt | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.26 | 1.00 | 0.38 | 0.03 | 0.38 | +117.7 | AaronJH, Enzo, FuuuZion, Gibbyatl, IseeUdere |
+| 2026-06-13 | 027fam | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.35 | 1.26 | 1.00 | 0.44 | 0.00 | 0.00 | -238.2 | AaronJH, Enzo, FuuuZion, Gibbyatl, IseeUdere |
+| 2026-06-09 | Zealous | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.32 | 1.26 | 1.00 | 0.41 | 0.01 | 0.00 | +116.0 | AaronJH, Enzo, FuuuZion, Gibbyatl, IseeUdere |
+| 2026-06-05 | butt | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.26 | 1.00 | 0.38 | 0.03 | 0.38 | +117.8 | AaronJH, Enzo, FuuuZion, Gibbyatl, IseeUdere |
 | 2026-06-04 | Automatic HQ | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.26 | 1.00 | 0.37 | 0.05 | 0.37 | +65.8 | AaronJH, Enzo, FuuuZion, Gibbyatl, IseeUdere |
 | 2026-05-29 | NXG Esports | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.25 | 1.26 | 1.00 | 0.32 | 0.05 | 0.00 | +11.0 | AaronJH, Enzo, FuuuZion, Gibbyatl, IseeUdere |
 | 2026-05-21 | Zealous | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.01 | 0.23 | +177.7 | AaronJH, Enzo, FuuuZion, Gibbyatl, _PandaKing_ |
 | 2026-05-20 | Goon Squad | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.00 | 0.22 | +16.4 | AaronJH, Enzo, FuuuZion, Gibbyatl, _PandaKing_ |
-| 2026-05-19 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -283.3 | AaronJH, Enzo, FuuuZion, Gibbyatl, _PandaKing_ |
-| 2026-05-18 | NXG Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.03 | 0.20 | +241.1 | AaronJH, Enzo, FuuuZion, Gibbyatl, _PandaKing_ |
+| 2026-05-19 | teamington | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -283.4 | AaronJH, Enzo, FuuuZion, Gibbyatl, _PandaKing_ |
+| 2026-05-18 | NXG Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.20 | 0.03 | 0.20 | +241.2 | AaronJH, Enzo, FuuuZion, Gibbyatl, _PandaKing_ |
 | 2026-05-13 | SquadUp | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.03 | 0.17 | +169.4 | AaronJH, Enzo, FuuuZion, Gibbyatl, _PandaKing_ |
 | 2026-05-06 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.01 | 0.11 | +113.6 | AaronJH, Enzo, FuuuZion, Gibbyatl, _PandaKing_ |
 | 2026-05-05 | Second Nature | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.15 | 1.00 | 0.10 | 0.00 | 0.10 | +298.7 | AaronJH, Enzo, FuuuZion, Gibbyatl, _PandaKing_ |

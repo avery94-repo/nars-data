@@ -27,12 +27,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Distinguished Ducks | L | W/O | S59 NA Main B - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-09-06 | Firstwave | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -53.2 | AbramGG, KJewls, PuLse-, app4k, iLuCk |
 | 2026-09-04 | Strafe | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.15 | 0.90 | +33.8 | AbramGG, KJewls, PuLse-, app4k, iLuCk |
-| 2026-09-02 | NOVAIR | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -60.3 | AbramGG, Cloh, KJewls, PuLse-, app4k |
+| 2026-09-02 | NOVAIR | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -60.4 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-08-28 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.10 | 0.86 | +60.1 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-08-26 | Flow Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -107.6 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-08-21 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.81 | +0.4 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-08-19 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.09 | 0.80 | +6.7 | AbramGG, Cloh, KJewls, PuLse-, app4k |
-| 2026-08-14 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -43.4 | AbramGG, Cloh, KJewls, PuLse-, app4k |
+| 2026-08-14 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -43.5 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-08-13 | The Ohio Meat Wagon | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.06 | 0.76 | +141.9 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-08-05 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -7.6 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-07-29 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +132.4 | AbramGG, Cloh, KJewls, PuLse-, app4k |
@@ -40,8 +40,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.02 | 0.58 | +124.3 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-07-15 | SixSevenZaZa | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -442.8 | AbramGG, Cloh, KJewls, PuLse-, app4k |
 | 2026-06-05 | Epochal Esports | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -134.9 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
-| 2026-05-31 | High-Tech Performance | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +184.0 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
-| 2026-05-29 | Iron Horse | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.25 | +184.5 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
+| 2026-05-31 | High-Tech Performance | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +184.1 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
+| 2026-05-29 | Iron Horse | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.25 | +184.6 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
 | 2026-05-27 | The Plague | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -198.2 | Cloh, PuLse-, app4k, iLuCk, lil_ee |
 | 2026-05-22 | Costco Family | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.00 | 0.00 | -418.1 | Cloh, Fangcs, PuLse-, iLuCk, lil_ee |
 | 2026-05-20 | Ninjas In Boxer | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.02 | 0.19 | +341.9 | Cloh, PuLse-, app4k, iLuCk, lil_ee |

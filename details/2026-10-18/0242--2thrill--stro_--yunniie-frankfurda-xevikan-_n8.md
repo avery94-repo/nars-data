@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.02 | 0.22 | +255.1 | FatGirlz, GOOOOOOOOOOF, Xevikan, _n8, frankfurda |
 | 2026-05-15 | Solace | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -242.8 | FatGirlz, GOOOOOOOOOOF, Xevikan, _n8, frankfurda |
 | 2026-05-08 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -2.1 | CloudCS, FatGirlz, Xevikan, _n8, frankfurda |
-| 2026-05-06 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -273.4 | FatGirlz, KyIar, Stro_-, _n8, frankfurda |
+| 2026-05-06 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -273.5 | FatGirlz, KyIar, Stro_-, _n8, frankfurda |
 | 2026-05-01 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.07 | +28.1 | FatGirlz, Stro_-, Xevikan, _n8, frankfurda |
 | 2026-04-24 | Sedated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +422.9 | CloudCS, FatGirlz, Stro_-, _n8, frankfurda |
 | 2026-04-23 | The Skins | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.15 | 1.00 | 0.01 | 0.00 | 0.00 | -255.4 | FatGirlz, Stro_-, Xevikan, _n8, frankfurda |

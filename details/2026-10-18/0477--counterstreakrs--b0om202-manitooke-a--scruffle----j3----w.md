@@ -3,11 +3,11 @@ Team Name: CounterStreakrs
 Roster: B0oM202, MANITOOKE-A-, Scruffle, ---J3---, WiCKeD--1
 NARS Rank: 477 of 512
 
-Final Rating: 794.3
+Final Rating: 794.2
 Seeded Start: 1117.0
-H2H Adjustment: -322.7 (capped at +-300, raw -322.8)
+H2H Adjustment: -322.8
 
-Final Rating (794.3) = Seeded Start (1117.0) + H2H Adjustment (-322.7)
+Final Rating (794.2) = Seeded Start (1117.0) + H2H Adjustment (-322.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | Costco Family | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -280.3 | ---J3---, B0oM202, Chico_v2, MANITOOKE-A-, Scruffle |
 | 2026-05-27 | Wide Swinging Wizards | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -4.0 | ---J3---, B0oM202, Chico_v2, MANITOOKE-A-, Scruffle |
 | 2026-05-22 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.02 | 0.21 | +248.0 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
-| 2026-05-20 | NATIONAL CS UNI | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -254.9 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
+| 2026-05-20 | NATIONAL CS UNI | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -255.0 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
 | 2026-05-15 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.01 | 0.16 | +196.6 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
 | 2026-05-13 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.00 | -21.5 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |
 | 2026-05-08 | Grandpa Berets | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -149.5 | ---J3---, B0oM202, MANITOOKE-A-, Scruffle, WiCKeD--1 |

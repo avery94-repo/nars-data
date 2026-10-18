@@ -3,11 +3,11 @@ Team Name: Texas Orange
 Roster: cdm35, METTLE, YaBoiZel, obscure-, E1EKTRIKA
 NARS Rank: 340 of 512
 
-Final Rating: 1211.8
+Final Rating: 1211.7
 Seeded Start: 1274.8
-H2H Adjustment: -63.0
+H2H Adjustment: -63.1
 
-Final Rating (1211.8) = Seeded Start (1274.8) + H2H Adjustment (-63.0)
+Final Rating (1211.7) = Seeded Start (1274.8) + H2H Adjustment (-63.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

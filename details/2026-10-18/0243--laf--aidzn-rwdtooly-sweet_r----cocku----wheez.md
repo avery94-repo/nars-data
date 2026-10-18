@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Sodium | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +168.1 | AIdzn, JUKE666, ameli777, rwdtooly, sweet_R |
 | 2026-09-12 | deez | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -74.0 | ---Cocku---, AIdzn, WheezyT, rwdtooly, sweet_R |
 | 2026-09-10 | Will of Dih | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.08 | 0.94 | +118.4 | ---Cocku---, AIdzn, WheezyT, rwdtooly, sweet_R |
-| 2026-09-06 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -64.0 | ---Cocku---, Little-E, WheezyT, rwdtooly, sweet_R |
+| 2026-09-06 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -63.9 | ---Cocku---, Little-E, WheezyT, rwdtooly, sweet_R |
 | 2026-09-04 | FaZe  Up Next | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.03 | 0.91 | +308.7 | ---Cocku---, Little-E, WheezyT, rwdtooly, sweet_R |
 | 2026-06-03 | AXEN | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -205.4 | AIdzn, Little-E, MikoshiGG, rwdtooly, sweet_R |
 | 2026-06-02 | The Jits | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +213.0 | AIdzn, MikoshiGG, _21Savage, rwdtooly, sweet_R |

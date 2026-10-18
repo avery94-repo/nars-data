@@ -3,11 +3,11 @@ Team Name: we get it back
 Roster: shabuki, steviano, Gr0ot, Gettooled, sK1PP-
 NARS Rank: 501 of 512
 
-Final Rating: 560.9
+Final Rating: 560.8
 Seeded Start: 1107.2
-H2H Adjustment: -546.3
+H2H Adjustment: -546.4
 
-Final Rating (560.9) = Seeded Start (1107.2) + H2H Adjustment (-546.3)
+Final Rating (560.8) = Seeded Start (1107.2) + H2H Adjustment (-546.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,10 +26,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Fortis Fortuna Adiuvat | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -8.3 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-05-20 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.00 | 0.00 | -158.2 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
-| 2026-05-14 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.01 | 0.17 | +344.0 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-14 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -285.3 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-14 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.01 | 0.17 | +344.1 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
+| 2026-05-14 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -285.4 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-05-08 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -1.4 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
-| 2026-05-06 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -193.4 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
+| 2026-05-06 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -193.5 | Gr0ot, komvu, sK1PP-, shabuki, steviano |
 | 2026-05-01 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.00 | -11.2 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-05-01 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.00 | -4.5 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |
 | 2026-04-22 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.15 | 1.00 | 0.01 | 0.00 | 0.00 | -228.0 | Gettooled, Gr0ot, sK1PP-, shabuki, steviano |

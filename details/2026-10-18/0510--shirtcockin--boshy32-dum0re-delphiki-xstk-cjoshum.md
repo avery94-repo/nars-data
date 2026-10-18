@@ -3,11 +3,11 @@ Team Name: shirtcockin
 Roster: boshy32, DUM0RE, delphiki, xstk, Cjoshum
 NARS Rank: 510 of 512
 
-Final Rating: 370.8
+Final Rating: 370.6
 Seeded Start: 1115.5
-H2H Adjustment: -744.7 (capped at +-300, raw -744.8)
+H2H Adjustment: -744.9
 
-Final Rating (370.8) = Seeded Start (1115.5) + H2H Adjustment (-744.7)
+Final Rating (370.6) = Seeded Start (1115.5) + H2H Adjustment (-744.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -34,9 +34,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | US Navy Esports | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.15 | 1.00 | 0.66 | 0.00 | 0.00 | -0.0 | Cjoshum, DUM0RE, boshy32, cadius-, delphiki |
 | 2026-07-15 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.15 | 1.00 | 0.65 | 0.00 | 0.00 | -1.6 | Cjoshum, boshy32, cadius-, delphiki, xstk |
 | 2026-05-22 | The Homies | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -1.4 | Cjoshum, DUM0RE, delphiki, oberon, xstk |
-| 2026-05-14 | we get it back | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -342.8 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
+| 2026-05-14 | we get it back | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -342.9 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
 | 2026-05-13 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -138.2 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
-| 2026-05-08 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -231.4 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
+| 2026-05-08 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -231.5 | Cjoshum, DUM0RE, delphiki, eQuals, xstk |
 | 2026-05-01 | puggin4seb | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.01 | 0.07 | +268.7 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
 | 2026-04-29 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -91.8 | Cjoshum, DUM0RE, delphiki, eQuals, oberon |
 | 2026-04-24 | F1lthy Puggers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.00 | -7.9 | Cjoshum, buckshott, delphiki, oberon, xstk |

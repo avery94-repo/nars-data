@@ -5,7 +5,7 @@ NARS Rank: 492 of 512
 
 Final Rating: 690.9
 Seeded Start: 1160.1
-H2H Adjustment: -469.2
+H2H Adjustment: -469.2 (capped at +-300, raw -469.3)
 
 Final Rating (690.9) = Seeded Start (1160.1) + H2H Adjustment (-469.2)
 
@@ -29,14 +29,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.07 | 0.84 | +115.4 | OogybeAr, c0de, cohen, tydy3, vertsie |
 | 2026-08-21 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.03 | 0.81 | +144.9 | OogybeAr, S-O-L-A-C-E, androsserye, cohen, vertsie |
 | 2026-08-12 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -4.5 | Jayden, OogybeAr, S-O-L-A-C-E, c0de, tydy3 |
-| 2026-08-05 | de_throne | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -252.1 | Jayden, OogybeAr, c0de, cohen, tydy3 |
+| 2026-08-05 | de_throne | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -252.2 | Jayden, OogybeAr, c0de, cohen, tydy3 |
 | 2026-07-24 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -164.1 | Jayden, OogybeAr, S-O-L-A-C-E, c0de, tydy3 |
 | 2026-07-22 | Flow Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -19.9 | OogybeAr, S-O-L-A-C-E, c0de, cohen, tydy3 |
 | 2026-07-17 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -6.5 | Jayden, OogybeAr, S-O-L-A-C-E, c0de, tydy3 |
 | 2026-07-15 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -0.4 | Jayden, OogybeAr, S-O-L-A-C-E, c0de, tydy3 |
 | 2026-05-22 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.00 | 0.00 | -8.7 | OogybeAr, S-O-L-A-C-E, cohen, tydy3, vertsie |
-| 2026-05-20 | SwagMonkeyHats | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -235.1 | OogybeAr, S-O-L-A-C-E, c0de, cohen, tydy3, vertsie |
-| 2026-05-15 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.01 | 0.16 | +347.7 | OogybeAr, S-O-L-A-C-E, c0de, cohen, vertsie |
+| 2026-05-20 | SwagMonkeyHats | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -235.2 | OogybeAr, S-O-L-A-C-E, c0de, cohen, tydy3, vertsie |
+| 2026-05-15 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.01 | 0.16 | +347.8 | OogybeAr, S-O-L-A-C-E, c0de, cohen, vertsie |
 | 2026-05-08 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -8.3 | OogybeAr, S-O-L-A-C-E, c0de, tydy3, vertsie |
 | 2026-05-06 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.00 | -293.4 | OogybeAr, S-O-L-A-C-E, cohen, tydy3, vertsie |
 | 2026-05-01 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -19.6 | S-O-L-A-C-E, c0de, cohen, tydy3, vertsie |

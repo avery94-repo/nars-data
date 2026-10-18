@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-06 | Salsas Mazzin Crew | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.05 | 1.00 | 0.97 | 0.00 | 0.00 | -31.3 | 1Spice, 1az, Boomm, dadjorts, jshuwaa |
 | 2026-09-02 | Chopped | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.00 | 0.00 | -36.6 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
-| 2026-08-25 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.09 | 0.87 | +92.3 | -Blast, 1Spice, 1az, Boomm, jshuwaa |
+| 2026-08-25 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.09 | 0.87 | +92.4 | -Blast, 1Spice, 1az, Boomm, jshuwaa |
 | 2026-08-21 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.03 | 1.00 | 0.84 | 0.00 | 0.00 | -68.1 | -Blast, 1Spice, 1az, Boomm, dadjorts |
 | 2026-08-19 | Les Ptis Jus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.03 | 1.00 | 0.83 | 0.00 | 0.00 | -87.7 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
 | 2026-08-14 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.03 | 1.00 | 0.79 | 0.10 | 0.79 | +51.8 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.03 | 1.00 | 0.60 | 0.00 | 0.00 | -80.2 | -Blast, 1Spice, NotYeoj, dadjorts, jshuwaa |
 | 2026-05-22 | VOID ALUNE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -1.7 | -Blast, 1Spice, 1az, Dadinho23, dadjorts |
 | 2026-05-20 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.00 | 0.00 | -132.1 | -Blast, 1Spice, 1az, Dadinho23, Jownah |
-| 2026-05-15 | 2THRiLL | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.18 | +238.8 | -Blast, 1Spice, 1az, BIG-Z, dadjorts |
+| 2026-05-15 | 2THRiLL | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.18 | +238.9 | -Blast, 1Spice, 1az, BIG-Z, dadjorts |
 | 2026-05-15 | Over Your Head | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -274.2 | -Blast, 1Spice, 1az, BIG-Z, dadjorts |
 | 2026-05-08 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.01 | 0.13 | +428.6 | -Blast, 1Spice, 1az, BIG-Z, dadjorts |
 | 2026-05-06 | Team Team Name | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -230.1 | -Blast, 1Spice, 1az, BIG-Z, dadjorts |

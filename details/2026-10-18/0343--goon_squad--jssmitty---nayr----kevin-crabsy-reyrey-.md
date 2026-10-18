@@ -3,11 +3,11 @@ Team Name: Goon Squad
 Roster: jssmitty, --nayR--, -keviN, crabsy, ReyRey-
 NARS Rank: 343 of 512
 
-Final Rating: 1209.4
+Final Rating: 1209.3
 Seeded Start: 1110.0
-H2H Adjustment: +99.4
+H2H Adjustment: +99.3
 
-Final Rating (1209.4) = Seeded Start (1110.0) + H2H Adjustment (+99.4)
+Final Rating (1209.3) = Seeded Start (1110.0) + H2H Adjustment (+99.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-14 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -266.4 | --nayR--, ReyRey-, crabsy, jssmitty, uziburger |
 | 2026-05-06 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -172.7 | --nayR--, -keviN, ReyRey-, crabsy, uziburger |
 | 2026-05-01 | Tall Ocean Rats | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.07 | +265.4 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
-| 2026-04-29 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -229.0 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
+| 2026-04-29 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -229.1 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-04-24 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +14.4 | --nayR--, Miranite, ReyRey-, crabsy, jssmitty |
 | 2026-04-22 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.15 | 1.00 | 0.01 | 0.00 | 0.01 | +285.2 | --nayR--, ReyRey-, crabsy, jssmitty, uziburger |
 

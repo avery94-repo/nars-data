@@ -3,11 +3,11 @@ Team Name: D1NK Esports
 Roster: ger0, Raids, bluez7_7, summit1g, slik
 NARS Rank: 246 of 512
 
-Final Rating: 1393.3
+Final Rating: 1393.2
 Seeded Start: 1348.0
-H2H Adjustment: +45.3
+H2H Adjustment: +45.2
 
-Final Rating (1393.3) = Seeded Start (1348.0) + H2H Adjustment (+45.3)
+Final Rating (1393.2) = Seeded Start (1348.0) + H2H Adjustment (+45.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,10 +29,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | The Ohio Meat Wagon | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.07 | 0.90 | +40.3 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-09-02 | DadDick Esports | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -109.0 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-28 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.10 | 0.86 | +6.6 | Raids, bluez7_7, ger0, slik, summit1g |
-| 2026-08-26 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.10 | 0.84 | +47.1 | Raids, bluez7_7, ger0, slik, summit1g |
+| 2026-08-26 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.10 | 0.84 | +47.2 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-21 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -26.9 | JBaby, Raids, bluez7_7, slik, summit1g |
 | 2026-08-19 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -119.5 | Raids, bluez7_7, ger0, slik, summit1g |
-| 2026-08-14 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.09 | 0.76 | +102.9 | Raids, bluez7_7, ger0, slik, summit1g |
+| 2026-08-14 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.09 | 0.76 | +103.0 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-12 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -134.6 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-07 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -108.2 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-05 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +7.8 | Raids, bluez7_7, ger0, slik, summit1g |

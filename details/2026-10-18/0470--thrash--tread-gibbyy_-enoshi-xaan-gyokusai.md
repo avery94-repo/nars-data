@@ -3,11 +3,11 @@ Team Name: Thrash
 Roster: Tread, gibbyy_, enoshi, xaan, Gyokusai
 NARS Rank: 470 of 512
 
-Final Rating: 846.6
+Final Rating: 846.5
 Seeded Start: 1195.4
-H2H Adjustment: -348.8
+H2H Adjustment: -348.9
 
-Final Rating (846.6) = Seeded Start (1195.4) + H2H Adjustment (-348.8)
+Final Rating (846.5) = Seeded Start (1195.4) + H2H Adjustment (-348.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -31,13 +31,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.07 | 0.86 | +79.7 | Gyokusai, arvn, enoshi, gibbyy_, xaan |
 | 2026-08-26 | Shaq Diesel | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -108.6 | Gyokusai, arvn, enoshi, gibbyy_, xaan |
 | 2026-08-21 | de_throne | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -57.5 | Gyokusai, arvn, enoshi, gibbyy_, xaan |
-| 2026-08-19 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.07 | 0.80 | +106.6 | Gyokusai, arvn, enoshi, gibbyy_, xaan |
+| 2026-08-19 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.07 | 0.80 | +106.7 | Gyokusai, arvn, enoshi, gibbyy_, xaan |
 | 2026-08-14 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -22.6 | Gyokusai, arvn, enoshi, gibbyy_, xaan |
 | 2026-08-12 | Flow Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -4.0 | Gyokusai, Tread, enoshi, gibbyy_, xaan |
 | 2026-08-07 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -12.3 | Gyokusai, MehAtBest, Tread, enoshi, gibbyy_ |
 | 2026-07-31 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -4.3 | Gyokusai, MehAtBest, Tread, enoshi, xaan |
 | 2026-07-28 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -81.7 | Gyokusai, Tread, enoshi, gibbyy_, xaan |
-| 2026-07-17 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -248.5 | Gyokusai, MehAtBest, Tread, gibbyy_, xaan |
+| 2026-07-17 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -248.6 | Gyokusai, MehAtBest, Tread, gibbyy_, xaan |
 | 2026-07-15 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -157.7 | Gyokusai, MehAtBest, Tread, gibbyy_, xaan |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | 55TH ST | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.97 | 0.00 | 0.00 | -56.2 | Gimmickz, MiLi-, NePathya, ShadowCoreTV, dykaz |
 | 2026-09-08 | Better at WOT | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.04 | 0.95 | +42.2 | BussinBoy, Gimmickz, ShadowCoreTV, dykaz, hyjinx_ |
 | 2026-09-06 | Furio Reloaded | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.03 | 0.94 | +60.0 | CAMH_CRODIE, Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
-| 2026-09-04 | REVERSE | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.90 | 1.02 | 1.00 | 0.93 | 0.03 | 0.93 | +64.8 | BussinBoy, Gimmickz, NePathya, ShadowCoreTV, dykaz |
+| 2026-09-04 | Valorem | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.90 | 1.02 | 1.00 | 0.93 | 0.03 | 0.93 | +64.8 | BussinBoy, Gimmickz, NePathya, ShadowCoreTV, dykaz |
 | 2026-08-01 | YHTR | L | 0-1 | SoFlo Slam 2 | C | faceit-tournament | 0.68 | 1.09 | 1.00 | 0.74 | 0.00 | 0.00 | -11.4 | MiLi-, NePathya, ShadowCoreTV, bf1c2a04, dykaz |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

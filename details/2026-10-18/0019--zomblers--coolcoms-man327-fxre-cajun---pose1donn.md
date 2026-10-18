@@ -45,7 +45,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Desi Boyz | L | 1-2 | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -24.5 | core 3/5 |
 | 2026-09-05 | Playing for fun | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.91 | 1.56 | 1.00 | 1.42 | 0.24 | 1.42 | +6.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-09-03 | Fathom Gaming | W | 2-1 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.90 | 1.56 | 1.00 | 1.40 | 0.51 | 1.40 | +3.7 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-09-02 | New Legends | L | 1-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.89 | 1.59 | 1.00 | 1.42 | 0.00 | 0.00 | -96.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-09-02 | New Legends | L | 1-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.89 | 1.59 | 1.00 | 1.42 | 0.00 | 0.00 | -96.4 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-09-01 | DETONATE | L | 0-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.89 | 1.59 | 1.00 | 1.42 | 0.00 | 0.00 | -81.4 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-29 | Chicken Coop | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.38 | 0.00 | 0.00 | -83.0 | core 3/5 |
 | 2026-08-28 | FlyQuest RED | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.47 | 1.00 | 1.26 | 0.55 | 1.26 | +4.0 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
@@ -65,18 +65,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | KODEX ESPORTS | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.47 | 1.00 | 1.10 | 0.22 | 1.10 | +7.6 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-07 | Phantom Sense | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.36 | 1.05 | +2.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-08-05 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.17 | 0.00 | +96.1 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-07-31 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.16 | 0.98 | +176.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, Sev |
+| 2026-07-31 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.16 | 0.98 | +176.4 | CAJUN--, CoolComs, FxRE, Pose1doNN, Sev |
 | 2026-07-29 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.20 | 0.96 | +1.5 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-07-17 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.47 | 1.00 | 0.85 | 0.13 | 0.85 | +16.2 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-07-15 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.00 | 0.00 | -413.3 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-05-03 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.08 | 1.60 | 1.00 | 0.12 | 0.00 | 0.00 | -103.1 | core 3/5 |
 | 2026-05-02 | Iowa Stormboar | W |  | VRS-tracked 2026-05 | A | vrs | 0.07 | 1.60 | 1.00 | 0.11 | 0.08 | 0.11 | +1.8 | core 3/5 |
-| 2026-05-02 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.07 | 1.60 | 1.00 | 0.11 | 0.00 | 0.00 | -323.6 | core 3/5 |
-| 2026-05-01 | regain | W |  | VRS-tracked 2026-05 | A | vrs | 0.06 | 1.60 | 1.00 | 0.10 | 0.08 | 0.00 | +201.2 | core 3/5 |
-| 2026-04-30 | FISHER COLLEGE | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.09 | 0.08 | 0.00 | +199.3 | core 3/5 |
-| 2026-04-29 | Voca | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -360.3 | core 3/5 |
+| 2026-05-02 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.07 | 1.60 | 1.00 | 0.11 | 0.00 | 0.00 | -323.7 | core 3/5 |
+| 2026-05-01 | regain | W |  | VRS-tracked 2026-05 | A | vrs | 0.06 | 1.60 | 1.00 | 0.10 | 0.08 | 0.00 | +201.3 | core 3/5 |
+| 2026-04-30 | FISHER COLLEGE | W |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.09 | 0.08 | 0.00 | +199.4 | core 3/5 |
+| 2026-04-29 | Voca | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -360.4 | core 3/5 |
 | 2026-04-27 | regain | W |  | VRS-tracked 2026-04 | A | vrs | 0.04 | 1.59 | 1.00 | 0.06 | 0.05 | 0.06 | +304.4 | core 3/5 |
-| 2026-04-26 | BOSS | W |  | VRS-tracked 2026-04 | A | vrs | 0.03 | 1.59 | 1.00 | 0.05 | 0.04 | 0.00 | +454.6 | core 3/5 |
+| 2026-04-26 | BOSS | W |  | VRS-tracked 2026-04 | A | vrs | 0.03 | 1.59 | 1.00 | 0.05 | 0.04 | 0.00 | +454.7 | core 3/5 |
 | 2026-04-23 | regain | L |  | VRS-tracked 2026-04 | A | vrs | 0.01 | 1.59 | 1.00 | 0.02 | 0.00 | 0.00 | -209.6 | core 3/5 |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

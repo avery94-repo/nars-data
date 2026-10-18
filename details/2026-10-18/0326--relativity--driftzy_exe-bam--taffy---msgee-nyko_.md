@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.00 | 0.00 | -145.1 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
-| 2026-05-20 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -115.0 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
+| 2026-05-20 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -114.9 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-14 | Midwest Farmers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.15 | 1.01 | 1.00 | 0.15 | 0.02 | 0.15 | +209.6 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
-| 2026-05-13 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.00 | -427.1 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
+| 2026-05-13 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.00 | -427.2 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-08 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.01 | 0.11 | +27.6 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-06 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.01 | 0.10 | +1.8 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-01 | Qinorhwat | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.07 | +275.4 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |

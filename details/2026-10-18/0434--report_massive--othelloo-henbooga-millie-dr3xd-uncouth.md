@@ -3,15 +3,15 @@ Team Name: REPORT MASSIVE
 Roster: othelloo, HENBOOGA, millie, dr3xd, uncouth
 NARS Rank: 434 of 512
 
-Final Rating: 959.4
-Seeded Start: 1178.3
+Final Rating: 959.3
+Seeded Start: 1178.2
 H2H Adjustment: -218.9
 
-Final Rating (959.4) = Seeded Start (1178.3) + H2H Adjustment (-218.9)
+Final Rating (959.3) = Seeded Start (1178.2) + H2H Adjustment (-218.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.056 x 1400 = 1178.3
+                = 1100 + 0.056 x 1400 = 1178.2
 
 seed_factor 0.056 = 0.25 x Tier Exposure (0.037) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.165)
 
@@ -35,11 +35,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.03 | 1.00 | 0.63 | 0.03 | 0.63 | +316.6 | 1noonzee, HENBOOGA, dr3xd, millie, othelloo |
 | 2026-07-15 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.03 | 1.00 | 0.58 | 0.00 | 0.00 | -89.5 | HENBOOGA, dr3xd, millie, nucIear, othelloo |
 | 2026-05-20 | MASTER ONE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.04 | 0.22 | +357.4 | cortado, dr3xd, millie, nucIear, uncouth |
-| 2026-05-08 | qcclan | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -369.8 | HENBOOGA, dr3xd, millie, othelloo, uncouth |
+| 2026-05-08 | qcclan | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -369.9 | HENBOOGA, dr3xd, millie, othelloo, uncouth |
 | 2026-05-06 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.01 | 0.11 | +8.4 | HENBOOGA, dr3xd, millie, othelloo, uncouth |
 | 2026-05-01 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.01 | 0.07 | +18.2 | 1noonzee, dr3xd, millie, othelloo, uncouth |
 | 2026-04-29 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.06 | +91.8 | HENBOOGA, dr3xd, millie, othelloo, uncouth |
-| 2026-04-24 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +205.9 | cortado, dr3xd, millie, othelloo, uncouth |
+| 2026-04-24 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +205.8 | cortado, dr3xd, millie, othelloo, uncouth |
 | 2026-04-22 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.15 | 1.00 | 0.01 | 0.00 | 0.00 | -156.9 | 1noonzee, cortado, dr3xd, othelloo, uncouth |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

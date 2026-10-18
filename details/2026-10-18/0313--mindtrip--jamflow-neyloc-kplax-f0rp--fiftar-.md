@@ -33,11 +33,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.03 | 1.00 | 0.84 | 0.00 | 0.00 | -66.5 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-08-19 | SAFIR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.03 | 1.00 | 0.83 | 0.07 | 0.83 | +111.6 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-08-14 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.03 | 1.00 | 0.79 | 0.00 | 0.00 | -63.1 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
-| 2026-08-07 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.03 | 1.00 | 0.74 | 0.06 | 0.74 | +179.4 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
+| 2026-08-07 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.03 | 1.00 | 0.74 | 0.06 | 0.74 | +179.5 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-08-05 | Resurgence | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.03 | 1.00 | 0.73 | 0.00 | 0.00 | -95.6 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
-| 2026-07-31 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.03 | 1.00 | 0.69 | 0.05 | 0.69 | +9.1 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
+| 2026-07-31 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.03 | 1.00 | 0.69 | 0.05 | 0.69 | +9.0 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-07-29 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.03 | 1.00 | 0.68 | 0.07 | 0.68 | +113.4 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
-| 2026-07-24 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.03 | 1.00 | 0.65 | 0.06 | 0.65 | +151.6 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
+| 2026-07-24 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.03 | 1.00 | 0.65 | 0.06 | 0.65 | +151.7 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-07-22 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.03 | 1.00 | 0.63 | 0.05 | 0.63 | +58.4 | FiftaR-, f0rp-, jamflow, kplax, neyloc |
 | 2026-07-17 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.03 | 1.00 | 0.60 | 0.00 | 0.00 | -40.7 | chubbzz, f0rp-, jamflow, kplax, neyloc |
 | 2026-07-15 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.03 | 1.00 | 0.58 | 0.00 | 0.00 | -150.4 | chubbzz, f0rp-, jamflow, kplax, neyloc |

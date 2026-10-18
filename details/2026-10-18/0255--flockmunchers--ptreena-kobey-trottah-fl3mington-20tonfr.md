@@ -3,11 +3,11 @@ Team Name: FlockMunchers
 Roster: ptreena, Kobey, Trottah, fl3mington, 20tonfragger
 NARS Rank: 255 of 512
 
-Final Rating: 1378.1
+Final Rating: 1378.2
 Seeded Start: 1237.4
-H2H Adjustment: +140.7
+H2H Adjustment: +140.8
 
-Final Rating (1378.1) = Seeded Start (1237.4) + H2H Adjustment (+140.7)
+Final Rating (1378.2) = Seeded Start (1237.4) + H2H Adjustment (+140.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Adria eSports | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +138.3 | 20tonfragger, Kobey, Muzic, fl3mington, ptreena |
 | 2026-09-08 | Chuds | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +90.1 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
 | 2026-09-06 | HigherEducation | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.04 | 0.94 | +219.5 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
-| 2026-09-04 | Pixel Peek | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.91 | 1.02 | 1.00 | 0.93 | 0.04 | 0.93 | +92.8 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
+| 2026-09-04 | Pixel Peek | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.90 | 1.02 | 1.00 | 0.93 | 0.04 | 0.93 | +92.8 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
 | 2026-09-02 | Crab Rangooners | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.00 | 0.00 | -189.6 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |
 | 2026-08-26 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.47 | 1.00 | 1.24 | 0.00 | 0.00 | -0.0 | Kobey, Muzic, Trottah, fl3mington, ptreena |
 | 2026-08-24 | Holly Molly | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.47 | 1.00 | 1.22 | 0.00 | 0.00 | -16.7 | 20tonfragger, Kobey, Trottah, fl3mington, ptreena |

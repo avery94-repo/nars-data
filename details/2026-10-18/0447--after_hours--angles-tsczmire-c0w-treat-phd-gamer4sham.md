@@ -3,15 +3,15 @@ Team Name: After Hours
 Roster: angles, Tsczmire, c0w, Treat-PhD, Gamer4shame
 NARS Rank: 447 of 512
 
-Final Rating: 927.2
-Seeded Start: 1182.5
+Final Rating: 927.1
+Seeded Start: 1182.4
 H2H Adjustment: -255.3
 
-Final Rating (927.2) = Seeded Start (1182.5) + H2H Adjustment (-255.3)
+Final Rating (927.1) = Seeded Start (1182.4) + H2H Adjustment (-255.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.059 x 1400 = 1182.5
+                = 1100 + 0.059 x 1400 = 1182.4
 
 seed_factor 0.059 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.010) + 0.25 x Opponent Network (0.143)
 
@@ -37,6 +37,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.06 | 0.56 | +166.8 | Gamer4shame, KingOfKings, Treat-PhD, Tsczmire, angles |
 | 2026-06-05 | Cojomo Academy Roster | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.01 | 0.30 | +157.7 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
 | 2026-05-29 | BAN ANCIENT | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.25 | +180.8 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
-| 2026-05-27 | Team Rocket | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.24 | +181.0 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
+| 2026-05-27 | Team Rocket | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.24 | +181.1 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

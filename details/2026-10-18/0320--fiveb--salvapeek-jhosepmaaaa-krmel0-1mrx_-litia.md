@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Casipanther | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-09-10 | TELETUBEASTS | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -99.3 | 1mrx_, BoneS-CS2, JhosepmAAAA, KrMel0, Litiag4 |
 | 2026-09-06 | pew pew | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -105.8 | 1mrx_, BoneS-CS2, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
-| 2026-09-04 | Team Zhao | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.06 | 0.90 | +119.0 | 1mrx_, BoneS-CS2, JhosepmAAAA, KrMel0, Litiag4 |
+| 2026-09-04 | DingTone | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.06 | 0.90 | +119.0 | 1mrx_, BoneS-CS2, JhosepmAAAA, KrMel0, Litiag4 |
 | 2026-09-02 | TeamFlashGaming | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +141.6 | 1mrx_, BoneS-CS2, JhosepmAAAA, KrMel0, Litiag4, salvapeek |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

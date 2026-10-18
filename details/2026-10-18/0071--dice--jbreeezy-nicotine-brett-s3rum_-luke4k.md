@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-09 | Olympus | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.37 | 1.00 | 1.28 | 0.83 | 1.28 | +154.4 | Driftzzzzz, LUKE4k, brett, s3rum, xrs0 |
+| 2026-09-09 | Olympus | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.37 | 1.00 | 1.28 | 0.83 | 1.28 | +154.5 | Driftzzzzz, LUKE4k, brett, s3rum, xrs0 |
 | 2026-09-08 | Beyond Limits | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.93 | 1.37 | 1.00 | 1.27 | 0.00 | 0.00 | -0.9 | Driftzzzzz, LUKE4k, brett, s3rum, xrs0 |
 | 2026-09-03 | Tractors | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.90 | 1.37 | 1.00 | 1.23 | 0.24 | 1.23 | +1.8 | LUKE4k, brett, jBREEEZY, nicotine, xrs0 |
 | 2026-08-28 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.47 | 1.00 | 1.26 | 0.00 | 0.00 | -22.3 | LUKE4k, brett, nicotine, s3rum, xrs0 |
@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-18 | Hairy Scary Bandits | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.47 | 1.00 | 1.16 | 0.21 | 1.16 | +188.2 | LUKE4k, brett, jBREEEZY, nicotine, s3rum |
 | 2026-08-13 | FarmVille | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.76 | 1.47 | 1.00 | 1.11 | 0.00 | 0.00 | -33.6 | LUKE4k, brett, jBREEEZY, nicotine, s3rum |
 | 2026-08-08 | DETONATE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.06 | 0.00 | 0.00 | -5.0 | LUKE4k, brett, jBREEEZY, nicotine, s3rum |
-| 2026-08-05 | North Forge | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.00 | 0.00 | -107.0 | LUKE4k, brett, jBREEEZY, nicotine, s3rum |
+| 2026-08-05 | North Forge | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.00 | 0.00 | -107.1 | LUKE4k, brett, jBREEEZY, nicotine, s3rum |
 | 2026-07-31 | EMPIRE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.80 | 0.98 | +242.5 | LUKE4k, brett, jBREEEZY, nicotine, s3rum |
 | 2026-07-29 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.00 | 0.00 | -136.7 | LUKE4k, brett, jBREEEZY, nicotine, s3rum |
 | 2026-07-24 | Pug Palace | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.47 | 1.00 | 0.92 | 0.00 | 0.00 | -478.1 | LUKE4k, brett, jBREEEZY, nicotine, s3rum |

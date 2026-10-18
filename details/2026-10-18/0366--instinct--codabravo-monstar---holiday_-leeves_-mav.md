@@ -3,11 +3,11 @@ Team Name: iNSTINCT
 Roster: codabravo, monstar--, HOLIDAY_, LEEVES_, mav9
 NARS Rank: 366 of 512
 
-Final Rating: 1146.4
+Final Rating: 1146.3
 Seeded Start: 1117.9
-H2H Adjustment: +28.5
+H2H Adjustment: +28.4
 
-Final Rating (1146.4) = Seeded Start (1117.9) + H2H Adjustment (+28.5)
+Final Rating (1146.3) = Seeded Start (1117.9) + H2H Adjustment (+28.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | Order Zero | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -27.1 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-05-20 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.02 | 0.22 | +33.3 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-05-19 | CLUE IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.00 | -185.5 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
-| 2026-05-13 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.02 | 0.17 | +323.0 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
+| 2026-05-13 | Aers Money Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.02 | 0.17 | +323.1 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-05-08 | Wealth Reduction | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.01 | 0.13 | +192.2 | HOLIDAY_, LEEVES_, codabravo, mav9, monstar-- |
 | 2026-04-30 | UnitedStatesArmy Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.00 | -256.6 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, mav9, monstar-- |
 | 2026-04-29 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.06 | +444.8 | HOLIDAY_, LEEVES_, bERTMANE, codabravo, monstar-- |

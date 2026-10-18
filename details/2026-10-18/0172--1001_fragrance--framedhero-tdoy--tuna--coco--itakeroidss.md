@@ -4,14 +4,14 @@ Roster: framedHERO, tdoy, -Tuna-, Coco-, ITakeRoidss
 NARS Rank: 172 of 512
 
 Final Rating: 1552.9
-Seeded Start: 1342.3
-H2H Adjustment: +210.6
+Seeded Start: 1342.2
+H2H Adjustment: +210.7
 
-Final Rating (1552.9) = Seeded Start (1342.3) + H2H Adjustment (+210.6)
+Final Rating (1552.9) = Seeded Start (1342.2) + H2H Adjustment (+210.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.173 x 1400 = 1342.3
+                = 1100 + 0.173 x 1400 = 1342.2
 
 seed_factor 0.173 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.050) + 0.25 x Opponent Network (0.517)
 
@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-15 | AURA Esports | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -85.2 | -Tuna-, ITakeRoidss, Lieth, framedHERO, tdoy |
-| 2026-09-09 | MommySports | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -101.5 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
+| 2026-09-09 | MommySports | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -101.6 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
 | 2026-09-06 | The Vicious Kitties | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.07 | 0.92 | +100.8 | -Sora-, -Tuna-, beast9, framedHERO, tdoy |
 | 2026-09-03 | RunTheDamnBall | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.10 | 0.90 | +7.6 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
 | 2026-09-02 | GoonAssOldheads | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.10 | 0.89 | +1.8 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.09 | 0.84 | +58.7 | Coco-, Lieth, beast9, framedHERO, tdoy |
 | 2026-08-21 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -14.7 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-19 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -38.6 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
-| 2026-08-14 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.06 | 0.76 | +151.2 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
+| 2026-08-14 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.06 | 0.76 | +151.3 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-12 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -206.3 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-07 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.09 | 0.72 | +40.9 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-05 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +105.6 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |

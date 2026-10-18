@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-12 | Read You Like a Kindle | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.05 | 1.00 | 1.01 | 0.00 | 0.00 | -67.5 | DAVEY, Plokii, salsa_-, tawa, zws |
+| 2026-09-12 | Read You Like a Kindle | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.05 | 1.00 | 1.01 | 0.00 | 0.00 | -67.6 | DAVEY, Plokii, salsa_-, tawa, zws |
 | 2026-09-10 | PASSION | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.05 | 1.00 | 1.00 | 0.11 | 1.00 | +47.8 | DAVEY, Plokii, XYoshiZ, salsa_-, tawa |
 | 2026-09-08 | noname | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.05 | 1.00 | 0.98 | 0.11 | 0.98 | +106.5 | DAVEY, Plokii, XYoshiZ, salsa_-, tawa |
 | 2026-09-06 | Solace | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.05 | 1.00 | 0.97 | 0.07 | 0.97 | +31.3 | Plokii, XYoshiZ, salsa_-, tawa, zws |
@@ -40,9 +40,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.03 | 1.00 | 0.65 | 0.00 | 0.00 | -3.7 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
 | 2026-07-17 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.03 | 1.00 | 0.60 | 0.05 | 0.60 | +29.3 | DAVEY, ScoobyMoose, rock, salsa_-, tawa |
 | 2026-05-22 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.02 | 0.23 | +41.4 | 1Mazz, DAVEY, XYoshiZ, salsa_-, tawa |
-| 2026-05-20 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.03 | 0.22 | +269.4 | 1Mazz, DAVEY, salsa_-, tawa, zws |
-| 2026-05-15 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.01 | 0.18 | +140.1 | 1Mazz, DAVEY, XYoshiZ, tawa, zws |
-| 2026-05-14 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.17 | +285.4 | 1Mazz, DAVEY, salsa_-, tawa, zws |
+| 2026-05-20 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.03 | 0.22 | +269.5 | 1Mazz, DAVEY, salsa_-, tawa, zws |
+| 2026-05-15 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.01 | 0.18 | +140.2 | 1Mazz, DAVEY, XYoshiZ, tawa, zws |
+| 2026-05-14 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.17 | +285.5 | 1Mazz, DAVEY, salsa_-, tawa, zws |
 | 2026-05-08 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -264.8 | 1Mazz, DAVEY, salsa_-, tawa, zws |
 | 2026-05-06 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -182.0 | 1Mazz, DAVEY, salsa_-, tawa, zws |
 | 2026-05-01 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.00 | -244.3 | 1Mazz, DAVEY, salsa_-, tawa, zws |

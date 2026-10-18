@@ -36,18 +36,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | QUPMANACS | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.07 | 0.90 | +99.1 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-09-02 | redtyfguhoj | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.06 | 0.89 | +24.0 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-28 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -50.9 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
-| 2026-08-27 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.00 | 0.00 | -121.8 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
+| 2026-08-27 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.00 | 0.00 | -121.9 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-21 | offBalance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.09 | 0.81 | +65.6 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-20 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -61.4 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
 | 2026-08-14 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.09 | 0.76 | +8.9 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
-| 2026-08-12 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.06 | 0.75 | +89.2 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
-| 2026-08-07 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -66.8 | Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
+| 2026-08-12 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.06 | 0.75 | +89.3 | 0K1N-, Lukcy-Ice, RaZ3M, Tar1us666, uro |
+| 2026-08-07 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -66.9 | Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
 | 2026-08-05 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -78.8 | Lukcy-Ice, RaZ3M, SlothCrash, Tar1us666, uro |
 | 2026-07-29 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +79.0 | ChunghwaLver, Lukcy-Ice, RaZ3M, SlothCrash, uro |
 | 2026-07-29 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.07 | 0.00 | +206.6 | 0K1N-, Lukcy-Ice, RaZ3M, uro, yx_x |
 | 2026-07-24 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.08 | 0.62 | +20.5 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-07-22 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -148.0 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
-| 2026-07-17 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.02 | 0.58 | +276.3 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
+| 2026-07-17 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.02 | 0.58 | +276.4 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-07-15 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.05 | 0.56 | +1.8 | 0K1N-, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-06-02 | rondon | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.07 | 1.00 | 0.30 | 0.00 | 0.00 | -274.1 | Lukcy-Ice, RaZ3M, Tar1us666, uro, yx_x |
 | 2026-05-31 | Big Kahuna Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.07 | 1.00 | 0.28 | 0.01 | 0.28 | +10.9 | Lukcy-Ice, RaZ3M, Tar1us666, uro, yx_x |

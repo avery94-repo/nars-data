@@ -3,11 +3,11 @@ Team Name: Aurofox
 Roster: danilov, Kr0ssz, ke2ues, Bipp, varnbarn
 NARS Rank: 295 of 512
 
-Final Rating: 1297.4
+Final Rating: 1297.3
 Seeded Start: 1124.1
-H2H Adjustment: +173.3
+H2H Adjustment: +173.2
 
-Final Rating (1297.4) = Seeded Start (1124.1) + H2H Adjustment (+173.3)
+Final Rating (1297.3) = Seeded Start (1124.1) + H2H Adjustment (+173.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,9 +24,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -301.2 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
-| 2026-05-21 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.04 | 0.23 | +1.6 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
-| 2026-05-15 | Wolves | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.03 | 0.18 | +262.7 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
+| 2026-05-22 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -301.3 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
+| 2026-05-21 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.04 | 0.23 | +1.5 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
+| 2026-05-15 | Wolves | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.03 | 0.18 | +262.8 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-13 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -203.6 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-08 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.01 | 0.13 | +173.0 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-06 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.11 | +20.8 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |

@@ -57,7 +57,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-27 | Elusive | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.85 | 1.47 | 1.00 | 1.25 | 0.59 | 1.25 | +45.8 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-26 | FlyQuest RED | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.47 | 1.00 | 1.24 | 0.54 | 1.24 | +24.3 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-22 | Club 333 | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.82 | 1.26 | 1.00 | 1.03 | 0.00 | 0.00 | -9.0 | Momo, Pluto101, mason, shooterR-, taqi |
-| 2026-08-21 | Zomblers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.47 | 1.00 | 1.19 | 1.03 | 1.19 | +82.3 | Momo, Pluto101, mason, shooterR-, taqi |
+| 2026-08-21 | Zomblers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.47 | 1.00 | 1.19 | 1.03 | 1.19 | +82.4 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-20 | Wolves | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.80 | 1.26 | 1.00 | 1.01 | 0.16 | 1.01 | +34.9 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-19 | Brahmas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.27 | 1.17 | +32.5 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-19 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.00 | 0.00 | -117.5 | Momo, Pluto101, mason, shooterR-, taqi |
@@ -68,16 +68,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-04 | Phantom Sense | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.02 | 0.35 | 1.02 | +1.3 | Calix, Momo, Pluto101, shooterR-, taqi |
 | 2026-08-04 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.02 | 0.17 | 1.02 | +315.9 | Calix, Momo, Pluto101, shooterR-, taqi |
 | 2026-07-22 | Aspyre | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.47 | 1.00 | 0.90 | 0.09 | 0.00 | +30.9 | Calix, Momo, Pluto101, shooterR-, taqi |
-| 2026-07-16 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.57 | 1.47 | 1.00 | 0.84 | 0.04 | 0.84 | +73.7 | Momo, PaRAh2k, Pluto101, shooterR-, taqi |
+| 2026-07-16 | SOLA GAMING | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.57 | 1.47 | 1.00 | 0.84 | 0.04 | 0.84 | +73.7 | Momo, PaRAh2k, Pluto101, shooterR-, taqi |
 | 2026-07-12 | SportsBetExpert | L |  | VRS-tracked 2026-07 | A | vrs | 0.54 | 1.60 | 1.00 | 0.87 | 0.00 | 0.00 | -7.9 | core 3/5 |
-| 2026-06-09 | NuTorious | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.33 | 1.51 | 1.00 | 0.49 | 0.00 | 0.00 | -233.5 | Momo, Pluto101, shooterR-, taqi, xZain |
+| 2026-06-09 | NuTorious | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.32 | 1.51 | 1.00 | 0.49 | 0.00 | 0.00 | -233.6 | Momo, Pluto101, shooterR-, taqi, xZain |
 | 2026-06-04 | Club 333 | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.29 | 1.51 | 1.00 | 0.44 | 0.00 | 0.00 | -7.3 | Momo, Pluto101, shooterR-, taqi, xZain |
-| 2026-06-02 | Iowa Stormboar | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.28 | 1.51 | 1.00 | 0.42 | 0.28 | 0.42 | +145.3 | Momo, Pluto101, shooterR-, taqi, xZain |
+| 2026-06-02 | Iowa Stormboar | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.28 | 1.51 | 1.00 | 0.42 | 0.28 | 0.42 | +145.4 | Momo, Pluto101, shooterR-, taqi, xZain |
 | 2026-05-22 | unreal nightmare | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.36 | 1.00 | 0.28 | 0.19 | 0.28 | +141.9 | Momo, Pluto101, shooterR-, taqi, xZain |
 | 2026-05-21 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.36 | 1.00 | 0.27 | 0.00 | 0.00 | -3.5 | Momo, Pluto101, shooterR-, taqi, xZain |
 | 2026-05-20 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.19 | 1.36 | 1.00 | 0.26 | 0.04 | 0.26 | +56.0 | Momo, Pluto101, shooterR-, taqi, xZain |
-| 2026-05-19 | North Forge | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.36 | 1.00 | 0.25 | 0.00 | 0.00 | -389.1 | Momo, Pluto101, shooterR-, taqi, xZain |
-| 2026-05-15 | EMPIRE | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.36 | 1.00 | 0.22 | 0.18 | 0.22 | +205.7 | Momo, Pluto101, shooterR-, taqi, xZain |
+| 2026-05-19 | North Forge | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.36 | 1.00 | 0.25 | 0.00 | 0.00 | -389.2 | Momo, Pluto101, shooterR-, taqi, xZain |
+| 2026-05-15 | EMPIRE | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.36 | 1.00 | 0.22 | 0.18 | 0.22 | +205.8 | Momo, Pluto101, shooterR-, taqi, xZain |
 | 2026-05-08 | Baatarz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.36 | 1.00 | 0.15 | 0.00 | 0.00 | -425.0 | Faro0q, Momo, Pluto101, taqi, xZain |
 | 2026-04-28 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.36 | 1.00 | 0.06 | 0.01 | 0.06 | +0.5 | Momo, Pluto101, shooterR-, taqi, xZain |
 | 2026-04-25 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.36 | 1.00 | 0.03 | 0.00 | 0.03 | +0.0 | Momo, Pluto101, shooterR-, taqi, xZain |

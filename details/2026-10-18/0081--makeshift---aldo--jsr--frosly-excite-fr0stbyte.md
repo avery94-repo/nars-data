@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | FarmVille | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.00 | 0.00 | -0.5 | Chkemi, excite, fr0stbyte, frosly, jsr- |
 | 2026-09-08 | Black Dragon Society | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.07 | 0.97 | +33.3 | -aldo-, excite, fr0stbyte, frosly, jsr- |
 | 2026-09-05 | drunk cigs dont count | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.91 | 1.04 | 1.00 | 0.95 | 0.07 | 0.00 | +23.8 | -aldo-, Chkemi, excite, frosly, jsr- |
-| 2026-09-03 | ReGen | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.04 | 1.00 | 0.93 | 0.07 | 0.93 | +22.4 | -aldo-, excite, fr0stbyte, frosly, jsr- |
+| 2026-09-03 | DMA | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.04 | 1.00 | 0.93 | 0.07 | 0.93 | +22.4 | -aldo-, excite, fr0stbyte, frosly, jsr- |
 | 2026-09-02 | No Namers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.04 | 1.00 | 0.93 | 0.03 | 0.93 | +1.7 | -aldo-, excite, fr0stbyte, frosly, jsr- |
 | 2026-08-27 | Wanted Goons | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.85 | 1.26 | 1.00 | 1.07 | 0.00 | 0.00 | -39.8 | -aldo-, excite, fr0stbyte, frosly, jsr- |
 | 2026-08-25 | Sedated | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.84 | 1.26 | 1.00 | 1.06 | 0.00 | 0.00 | -83.8 | -aldo-, excite, fr0stbyte, frosly, jsr- |

@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Defaulting | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.00 | 0.00 | -95.5 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 | 2026-09-08 | NA Dream Team | W | 1-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.04 | 1.03 | +93.4 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 | 2026-09-06 | Code9 | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.04 | 1.02 | +100.9 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
-| 2026-09-04 | CN Chill Boyz | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.91 | 1.11 | 1.00 | 1.00 | 0.00 | 0.00 | -213.6 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
+| 2026-09-04 | CN Chill Boyz | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.90 | 1.11 | 1.00 | 1.00 | 0.00 | 0.00 | -213.6 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 | 2026-09-02 | Excommunicado | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.89 | 1.11 | 1.00 | 0.99 | 0.04 | 0.99 | +140.8 | DestructoDog, Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

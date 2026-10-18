@@ -37,20 +37,20 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.12 | 0.72 | +47.6 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
 | 2026-08-05 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -83.8 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
 | 2026-07-29 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +35.6 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
-| 2026-07-24 | Moniseum | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.04 | 0.62 | +239.0 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
-| 2026-07-22 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -325.1 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
+| 2026-07-24 | Moniseum | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.04 | 0.62 | +239.1 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
+| 2026-07-22 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -325.2 | -JOSE-, -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee |
 | 2026-07-17 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +387.0 | -JOSE-, -stuard, Mcnamara, VelmontPX, blazti |
 | 2026-07-15 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +6.3 | -JOSE-, -stuard, Mcnamara, Mitareeeeeee, blazti |
-| 2026-05-31 | The Sweepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -136.3 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
+| 2026-05-31 | The Sweepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -136.4 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 | 2026-05-29 | strawberry poptarts | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -194.3 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
-| 2026-05-27 | Duality Zero | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.24 | +6.7 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
+| 2026-05-27 | Duality Zero | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.24 | +6.6 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
 | 2026-05-22 | Tractors | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.04 | 0.21 | +329.0 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
-| 2026-05-20 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -331.2 | -stuard, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
+| 2026-05-20 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -331.3 | -stuard, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
 | 2026-05-15 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.02 | 0.16 | +37.8 | CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX, themuska |
 | 2026-05-13 | Famas OP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.15 | +0.5 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 | 2026-05-08 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.11 | +179.0 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 | 2026-05-06 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.10 | +1.9 | -stuard, CRAZYCAR66, Mcnamara, VelmontPX, themuska |
-| 2026-05-01 | Kennesaw State Gold 2025 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.07 | +416.6 | -stuard, 1mrx_, CRAZYCAR66, Mcnamara, _PSP_ |
+| 2026-05-01 | 929 Arrival Gang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.07 | +416.7 | -stuard, 1mrx_, CRAZYCAR66, Mcnamara, _PSP_ |
 | 2026-04-29 | Mace Lindu Ruff Rebound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.00 | -231.0 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, _PSP_ |
 | 2026-04-24 | Bad Jawn | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -259.9 | -stuard, CRAZYCAR66, Mcnamara, Mitareeeeeee, VelmontPX |
 

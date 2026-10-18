@@ -4,14 +4,14 @@ Roster: Swatt-, S1eep, PeaseCentral, Char, lckr
 NARS Rank: 200 of 512
 
 Final Rating: 1498.4
-Seeded Start: 1386.3
-H2H Adjustment: +112.1
+Seeded Start: 1386.2
+H2H Adjustment: +112.2
 
-Final Rating (1498.4) = Seeded Start (1386.3) + H2H Adjustment (+112.1)
+Final Rating (1498.4) = Seeded Start (1386.2) + H2H Adjustment (+112.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.204 x 1400 = 1386.3
+                = 1100 + 0.204 x 1400 = 1386.2
 
 seed_factor 0.204 = 0.25 x Tier Exposure (0.110) + 0.50 x Quality Wins (0.070) + 0.25 x Opponent Network (0.567)
 
@@ -45,13 +45,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.03 | 1.00 | 0.63 | 0.05 | 0.63 | +0.0 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-17 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.03 | 1.00 | 0.60 | 0.03 | 0.60 | +0.7 | Char, PeaseCentral, S1eep, Swatt-, lckr |
 | 2026-07-15 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.03 | 1.00 | 0.58 | 0.03 | 0.58 | +0.5 | Char, PeaseCentral, S1eep, Swatt-, lckr |
-| 2026-05-20 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.03 | 0.22 | +313.0 | Nomad, S1eep, Swatt-, ikwards, lckr |
-| 2026-05-15 | Pugging4Pumpkin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.02 | 0.18 | +55.4 | Nomad, S1eep, Swatt-, ikwards, lckr |
+| 2026-05-20 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.03 | 0.22 | +313.1 | Nomad, S1eep, Swatt-, ikwards, lckr |
+| 2026-05-15 | Pugging4Pumpkin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.02 | 0.18 | +55.5 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-13 | three11 | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.00 | 0.17 | +61.6 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-08 | 2THRiLL | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.13 | +2.1 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-06 | DESPAIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.01 | 0.11 | +33.9 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-05-01 | DNA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.07 | +168.2 | Nomad, S1eep, Swatt-, ikwards, lckr |
-| 2026-04-23 | the dragon warrior scroll | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.15 | 1.00 | 0.01 | 0.00 | 0.01 | +361.8 | Nomad, S1eep, Swatt-, ikwards, lckr |
+| 2026-04-23 | the dragon warrior scroll | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.15 | 1.00 | 0.01 | 0.00 | 0.01 | +361.9 | Nomad, S1eep, Swatt-, ikwards, lckr |
 | 2026-04-22 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.15 | 1.00 | 0.01 | 0.00 | 0.00 | -232.9 | Nomad, S1eep, Swatt-, ikwards, lckr |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

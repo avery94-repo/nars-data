@@ -3,17 +3,17 @@ Team Name: EXODIA
 Roster: vainilla, spamzzy, points, tor1towOw, Slayerh-
 NARS Rank: 237 of 512
 
-Final Rating: 1412.6
+Final Rating: 1412.5
 Seeded Start: 1685.9
-H2H Adjustment: -273.3
+H2H Adjustment: -273.4
 
-Final Rating (1412.6) = Seeded Start (1685.9) + H2H Adjustment (-273.3)
+Final Rating (1412.5) = Seeded Start (1685.9) + H2H Adjustment (-273.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.419 x 1400 = 1685.9
 
-seed_factor 0.419 = 0.25 x Tier Exposure (0.663) + 0.50 x Quality Wins (0.221) + 0.25 x Opponent Network (0.570)
+seed_factor 0.419 = 0.25 x Tier Exposure (0.663) + 0.50 x Quality Wins (0.221) + 0.25 x Opponent Network (0.569)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -45,7 +45,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-03 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.47 | 1.00 | 1.01 | 0.37 | 1.01 | +146.3 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-07-31 | House Platypus ESC | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.05 | 0.98 | +85.7 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-07-24 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.47 | 1.00 | 0.92 | 0.00 | 0.00 | -135.7 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
-| 2026-07-22 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.47 | 1.00 | 0.90 | 0.04 | 0.90 | +66.3 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
+| 2026-07-22 | SOLA GAMING | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.47 | 1.00 | 0.90 | 0.04 | 0.90 | +66.3 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-07-20 | YOUR END | L |  | VRS-tracked 2026-07 | A | vrs | 0.60 | 1.60 | 1.00 | 0.96 | 0.00 | 0.00 | -23.2 | core 3/5 |
 | 2026-07-17 | MASTER ONE | L | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.58 | 1.37 | 1.00 | 0.80 | 0.00 | 0.00 | -238.5 | -TAYLOR, 1snkzinho_, Slayerh-, points, spamzzy |
 | 2026-07-17 | DKR Esports | L | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.58 | 1.37 | 1.00 | 0.80 | 0.00 | 0.00 | -217.8 | -TAYLOR, 1snkzinho_, Slayerh-, points, spamzzy |
@@ -57,8 +57,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-30 | VASCO | W |  | VRS-tracked 2026-06 | A | vrs | 0.46 | 1.60 | 1.00 | 0.74 | 0.51 | 0.00 | +405.0 | core 3/5 |
 | 2026-06-29 | PAIN ACADEMY | L |  | VRS-tracked 2026-06 | A | vrs | 0.46 | 1.60 | 1.00 | 0.73 | 0.00 | 0.00 | -71.4 | core 3/5 |
 | 2026-06-28 | YAWARA | L |  | VRS-tracked 2026-06 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.00 | 0.00 | -28.5 | core 3/5 |
-| 2026-05-18 | VEXA | L |  | VRS-tracked 2026-05 | A | vrs | 0.18 | 1.60 | 1.00 | 0.28 | 0.00 | 0.00 | -205.6 | core 3/5 |
-| 2026-05-16 | CRASHERS | W |  | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.13 | 0.00 | +514.5 | core 3/5 |
+| 2026-05-18 | VEXA | L |  | VRS-tracked 2026-05 | A | vrs | 0.18 | 1.60 | 1.00 | 0.28 | 0.00 | 0.00 | -205.7 | core 3/5 |
+| 2026-05-16 | CRASHERS | W |  | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.13 | 0.00 | +514.6 | core 3/5 |
 | 2026-05-14 | EX-KRÜ | L |  | VRS-tracked 2026-05 | A | vrs | 0.15 | 1.60 | 1.00 | 0.24 | 0.00 | 0.00 | -50.7 | core 3/5 |
 | 2026-05-12 | R2 | L |  | VRS-tracked 2026-05 | A | vrs | 0.14 | 1.60 | 1.00 | 0.22 | 0.00 | 0.00 | -120.7 | core 3/5 |
 

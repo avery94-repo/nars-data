@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-31 | Team Amplus | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.26 | 1.00 | 0.33 | 0.00 | 0.00 | -178.1 | Late, OJISBAE, riizzy, texture, yarushima |
-| 2026-05-29 | BUCK NASTY | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.25 | 1.26 | 1.00 | 0.32 | 0.00 | 0.00 | -227.4 | Late, OJISBAE, riizzy, texture, yarushima |
-| 2026-05-27 | Shaboing Boing Bandits | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.24 | 1.26 | 1.00 | 0.30 | 0.04 | 0.30 | +177.9 | Late, OJISBAE, riizzy, texture, yarushima |
-| 2026-05-22 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -313.0 | Late, OJISBAE, riizzy, texture, yarushima |
+| 2026-05-31 | Team Amplus | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.26 | 1.00 | 0.33 | 0.00 | 0.00 | -178.2 | Late, OJISBAE, riizzy, texture, yarushima |
+| 2026-05-29 | BUCK NASTY | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.25 | 1.26 | 1.00 | 0.32 | 0.00 | 0.00 | -227.5 | Late, OJISBAE, riizzy, texture, yarushima |
+| 2026-05-27 | Shaboing Boing Bandits | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.24 | 1.26 | 1.00 | 0.30 | 0.04 | 0.30 | +178.0 | Late, OJISBAE, riizzy, texture, yarushima |
+| 2026-05-22 | Crimson Vortex | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -313.1 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-20 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.01 | 0.22 | +6.4 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-14 | Skyline | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.07 | 0.17 | +154.3 | Late, OJISBAE, riizzy, texture, yarushima |
 | 2026-05-13 | PROFECO | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.00 | 0.17 | +236.2 | Late, OJISBAE, phiLm9yne, riizzy, yarushima |

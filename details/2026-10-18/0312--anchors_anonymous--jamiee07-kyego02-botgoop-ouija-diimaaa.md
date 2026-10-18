@@ -3,17 +3,17 @@ Team Name: Anchors Anonymous
 Roster: Jamiee07, KyeGo02, BotGoop, Ouija, diimaaa
 NARS Rank: 312 of 512
 
-Final Rating: 1252.6
+Final Rating: 1252.5
 Seeded Start: 1284.1
-H2H Adjustment: -31.5
+H2H Adjustment: -31.6
 
-Final Rating (1252.6) = Seeded Start (1284.1) + H2H Adjustment (-31.5)
+Final Rating (1252.5) = Seeded Start (1284.1) + H2H Adjustment (-31.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.132 x 1400 = 1284.1
+                = 1100 + 0.131 x 1400 = 1284.1
 
-seed_factor 0.132 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.030) + 0.25 x Opponent Network (0.393)
+seed_factor 0.131 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.030) + 0.25 x Opponent Network (0.393)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

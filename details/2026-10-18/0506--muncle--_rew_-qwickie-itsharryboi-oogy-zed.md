@@ -11,9 +11,9 @@ Final Rating (526.1) = Seeded Start (1212.7) + H2H Adjustment (-686.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.081 x 1400 = 1212.7
+                = 1100 + 0.080 x 1400 = 1212.7
 
-seed_factor 0.081 = 0.25 x Tier Exposure (0.082) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.212)
+seed_factor 0.080 = 0.25 x Tier Exposure (0.082) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.212)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | In Our Prime | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -98.4 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 | 2026-05-27 | High-Tech Performance | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -213.8 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 | 2026-05-20 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.03 | 0.19 | +368.3 | DJDeeJayDJ, ItsHarryBoi, Oogy, _REW_, zed |
-| 2026-05-15 | AURA Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -287.3 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, _REW_ |
+| 2026-05-15 | AURA Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -287.4 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, _REW_ |
 | 2026-05-13 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.01 | 0.15 | +2.3 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 | 2026-05-08 | Ubiquiti | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.01 | 0.11 | +435.3 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 | 2026-05-06 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.00 | -106.1 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |

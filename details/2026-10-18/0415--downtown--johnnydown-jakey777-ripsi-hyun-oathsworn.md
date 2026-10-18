@@ -3,11 +3,11 @@ Team Name: DownTown
 Roster: Johnnydown, Jakey777, Ripsi, hyun, Oathsworn
 NARS Rank: 415 of 512
 
-Final Rating: 1035.3
+Final Rating: 1035.2
 Seeded Start: 1124.8
-H2H Adjustment: -89.5
+H2H Adjustment: -89.6
 
-Final Rating (1035.3) = Seeded Start (1124.8) + H2H Adjustment (-89.5)
+Final Rating (1035.2) = Seeded Start (1124.8) + H2H Adjustment (-89.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-31 | After Peak | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -163.3 | Jakey777, Johnnydown, Kermey, Oathsworn, Ripsi |
 | 2026-05-29 | Remnant | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.02 | 0.25 | +146.6 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-05-27 | Saltcrew | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -268.3 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
-| 2026-05-22 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.00 | 0.00 | -350.4 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
+| 2026-05-22 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.00 | 0.00 | -350.5 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-05-15 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.01 | 0.16 | +145.4 | Jakey777, Johnnydown, Kermey, Ripsi, hyun |
 | 2026-05-13 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.02 | 0.15 | +104.9 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |
 | 2026-05-08 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.11 | +351.2 | Jakey777, Johnnydown, Oathsworn, Ripsi, hyun |

@@ -26,14 +26,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-16 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.57 | 1.47 | 1.00 | 0.84 | 0.00 | 0.00 | -362.6 | Usotsuki, caron, pxnk, skittle-, xtios |
 | 2026-07-15 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.06 | 0.83 | +443.3 | Usotsuki, caron, pxnk, skittle-, xtios |
-| 2026-05-21 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.36 | 1.00 | 0.27 | 0.04 | 0.27 | +343.9 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-05-21 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.36 | 1.00 | 0.27 | 0.04 | 0.27 | +344.0 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-14 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.15 | 1.36 | 1.00 | 0.21 | 0.00 | 0.00 | -43.1 | Usotsuki, caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-12 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.36 | 1.00 | 0.19 | 0.00 | 0.00 | -96.4 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-06 | GRIT | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.36 | 1.00 | 0.13 | 0.00 | 0.00 | -51.3 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-05 | Celestial Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.36 | 1.00 | 0.12 | 0.00 | 0.00 | -143.9 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-04-30 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.36 | 1.00 | 0.08 | 0.00 | 0.00 | -0.5 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-04-28 | Baatarz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.36 | 1.00 | 0.06 | 0.00 | 0.00 | -180.4 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-04-23 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.36 | 1.00 | 0.02 | 0.00 | 0.02 | +35.3 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-04-23 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.36 | 1.00 | 0.01 | 0.00 | 0.01 | +35.3 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-04-22 | Elisir Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.00 | 1.36 | 1.00 | 0.01 | 0.00 | 0.01 | +227.8 | caron, j1v, pxnk, skittle-, xtios |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

@@ -5,7 +5,7 @@ NARS Rank: 2 of 512
 
 Final Rating: 3051.1
 Seeded Start: 2212.5
-H2H Adjustment: +838.6 (capped at +-300, raw +838.7)
+H2H Adjustment: +838.6
 
 Final Rating (3051.1) = Seeded Start (2212.5) + H2H Adjustment (+838.6)
 
@@ -37,10 +37,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-18 | EYEBALLERS | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -96.2 | core 3/5 |
 | 2026-09-18 | INFINITE | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.39 | 0.00 | +30.6 | core 3/5 |
 | 2026-09-18 | INNER CIRCLE | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -44.5 | core 3/5 |
-| 2026-09-12 | NRG | W |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.53 | 0.93 | 1.53 | +152.5 | core 3/5 |
+| 2026-09-12 | NRG | W |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.53 | 0.93 | 1.53 | +152.6 | core 3/5 |
 | 2026-09-12 | Voca | W |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.53 | 1.00 | 1.53 | +49.4 | core 3/5 |
 | 2026-09-11 | NRG | L |  | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.52 | 0.00 | 0.00 | -122.9 | core 3/5 |
-| 2026-09-10 | Marsborne | W |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 1.47 | 1.51 | +34.8 | core 3/5 |
+| 2026-09-10 | Marsborne | W |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 1.47 | 1.51 | +34.9 | core 3/5 |
 | 2026-09-09 | ANTIVALUE | W |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.50 | 1.12 | 0.00 | +0.1 | core 3/5 |
 | 2026-08-09 | 1WIN | L |  | VRS-tracked 2026-08 | A | vrs | 0.73 | 1.60 | 1.00 | 1.17 | 0.00 | 0.00 | -160.7 | core 3/5 |
 | 2026-08-08 | METIZPORT | W |  | VRS-tracked 2026-08 | A | vrs | 0.72 | 1.60 | 1.00 | 1.16 | 1.74 | 0.00 | +13.7 | core 3/5 |
@@ -51,14 +51,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-01 | BETCLIC | W |  | VRS-tracked 2026-08 | A | vrs | 0.68 | 1.60 | 1.00 | 1.08 | 1.04 | 0.00 | +0.0 | core 3/5 |
 | 2026-08-01 | HAVENS | W |  | VRS-tracked 2026-08 | A | vrs | 0.68 | 1.60 | 1.00 | 1.08 | 0.72 | 0.00 | +0.0 | core 3/5 |
 | 2026-07-30 | Spirit | L |  | VRS-tracked 2026-07 | A | vrs | 0.66 | 1.60 | 1.00 | 1.06 | 0.00 | 0.00 | -143.2 | core 3/5 |
-| 2026-07-25 | G2 | W |  | VRS-tracked 2026-07 | A | vrs | 0.63 | 1.60 | 1.00 | 1.01 | 1.51 | 0.00 | +281.3 | core 3/5 |
-| 2026-07-24 | Vitality | W |  | VRS-tracked 2026-07 | A | vrs | 0.62 | 1.60 | 1.00 | 1.00 | 1.50 | 0.00 | +634.5 | core 3/5 |
-| 2026-06-05 | FlyQuest | L |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.00 | 0.00 | -442.0 | core 3/5 |
-| 2026-06-04 | HEROIC | W |  | VRS-tracked 2026-06 | A | vrs | 0.29 | 1.60 | 1.00 | 0.47 | 0.70 | 0.00 | +478.3 | core 3/5 |
+| 2026-07-25 | G2 | W |  | VRS-tracked 2026-07 | A | vrs | 0.63 | 1.60 | 1.00 | 1.01 | 1.51 | 0.00 | +281.4 | core 3/5 |
+| 2026-07-24 | Vitality | W |  | VRS-tracked 2026-07 | A | vrs | 0.62 | 1.60 | 1.00 | 1.00 | 1.50 | 0.00 | +634.6 | core 3/5 |
+| 2026-06-05 | FlyQuest | L |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.00 | 0.00 | -442.1 | core 3/5 |
+| 2026-06-04 | HEROIC | W |  | VRS-tracked 2026-06 | A | vrs | 0.29 | 1.60 | 1.00 | 0.47 | 0.70 | 0.00 | +478.4 | core 3/5 |
 | 2026-06-03 | MIBR | L |  | VRS-tracked 2026-06 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -35.8 | core 3/5 |
 | 2026-06-02 | BETBOOM | L |  | VRS-tracked 2026-06 | A | vrs | 0.28 | 1.60 | 1.00 | 0.44 | 0.00 | 0.00 | -44.5 | core 3/5 |
 | 2026-06-02 | BIG | W |  | VRS-tracked 2026-06 | A | vrs | 0.28 | 1.60 | 1.00 | 0.44 | 0.02 | 0.44 | +0.0 | core 3/5 |
-| 2026-05-21 | THE MONGOLZ | L |  | VRS-tracked 2026-05 | A | vrs | 0.20 | 1.60 | 1.00 | 0.32 | 0.00 | 0.00 | -446.8 | core 3/5 |
+| 2026-05-21 | THE MONGOLZ | L |  | VRS-tracked 2026-05 | A | vrs | 0.20 | 1.60 | 1.00 | 0.32 | 0.00 | 0.00 | -446.9 | core 3/5 |
 | 2026-05-20 | 3DMAX | W |  | VRS-tracked 2026-05 | A | vrs | 0.19 | 1.60 | 1.00 | 0.31 | 0.46 | 0.00 | +564.5 | core 3/5 |
 | 2026-05-13 | GAMERLEGION | L |  | VRS-tracked 2026-05 | A | vrs | 0.14 | 1.60 | 1.00 | 0.23 | 0.00 | 0.00 | -66.9 | core 3/5 |
 | 2026-05-12 | M80 | W |  | VRS-tracked 2026-05 | A | vrs | 0.14 | 1.60 | 1.00 | 0.22 | 0.14 | 0.22 | +419.3 | core 3/5 |

@@ -25,17 +25,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-15 | Zamgaa Anime Aimers | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-10-14 | MEET THE WALL | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
+| 2026-10-14 | MEET THE WALL - DEAD | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-09 | Climbers | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-07 | Casual Mature Gamers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -130.2 | 1FL, 1neu, chefBAKER, rengif, viGiaaaMC |
-| 2026-09-19 | fih hou | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -56.2 | 1FL, 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |
+| 2026-09-19 | fih hou | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -56.3 | 1FL, 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |
 | 2026-09-17 | VARTOVIK | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.07 | 0.99 | +56.0 | 1FL, 1neu, chefBAKER, jerseyshore, pr1mopeek |
 | 2026-09-15 | PogSquad | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +48.0 | 1neu, add_e, chefBAKER, pr1mopeek, rengif |
-| 2026-09-12 | TELETUBEASTS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.07 | 0.96 | +71.8 | 1neu, chefBAKER, jerseyshore, pr1mopeek, rengif |
+| 2026-09-12 | TELETUBEASTS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.07 | 0.96 | +71.9 | 1neu, chefBAKER, jerseyshore, pr1mopeek, rengif |
 | 2026-09-10 | Brobies | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +109.3 | 1FL, 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |
 | 2026-09-08 | ARRACHED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +80.3 | 1neu, chefBAKER, jerseyshore, pr1mopeek, rengif |
 | 2026-09-06 | Propaniacs | W | 1-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +34.3 | 1FL, add_e, chefBAKER, jerseyshore, rengif |
-| 2026-09-04 | VARTOVIK | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.00 | 0.00 | -137.2 | 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |
+| 2026-09-04 | VARTOVIK | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -137.3 | 1neu, add_e, chefBAKER, jerseyshore, pr1mopeek |
 | 2026-09-02 | HeadShot Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.12 | 0.89 | +103.0 | 1FL, 1neu, add_e, chefBAKER, jerseyshore, rengif |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

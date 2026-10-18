@@ -3,15 +3,15 @@ Team Name: katzwitgunz
 Roster: sshrdl, pricefield, bonkie, Topchess, FlameReject
 NARS Rank: 364 of 512
 
-Final Rating: 1157.7
-Seeded Start: 1263.8
+Final Rating: 1157.6
+Seeded Start: 1263.7
 H2H Adjustment: -106.1
 
-Final Rating (1157.7) = Seeded Start (1263.8) + H2H Adjustment (-106.1)
+Final Rating (1157.6) = Seeded Start (1263.7) + H2H Adjustment (-106.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.117 x 1400 = 1263.8
+                = 1100 + 0.117 x 1400 = 1263.7
 
 seed_factor 0.117 = 0.25 x Tier Exposure (0.078) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.334)
 
@@ -39,9 +39,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -29.2 | FlameReject, JulianCLR, bonkie, pricefield, sshrdl |
 | 2026-07-15 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -14.6 | FlameReject, Topchess, bonkie, pricefield, sshrdl |
 | 2026-05-29 | FourStrokeGang | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -229.8 | Devilrider10, FlameReject, PeCap2, Topchess, pricefield, sEvenb22, sshrdl |
-| 2026-05-27 | Epochal Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -221.0 | Devilrider10, FlameReject, Topchess, pricefield, sEvenb22, sshrdl |
-| 2026-05-22 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.03 | 0.21 | +103.9 | FlameReject, Topchess, bonkie, pricefield, sshrdl |
-| 2026-05-20 | Brick Layers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.19 | +201.2 | Devilrider10, FlameReject, Topchess, bonkie, sshrdl |
+| 2026-05-27 | Epochal Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -221.1 | Devilrider10, FlameReject, Topchess, pricefield, sEvenb22, sshrdl |
+| 2026-05-22 | Strafe | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.03 | 0.21 | +103.8 | FlameReject, Topchess, bonkie, pricefield, sshrdl |
+| 2026-05-20 | Brick Layers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.19 | +201.3 | Devilrider10, FlameReject, Topchess, bonkie, sshrdl |
 | 2026-05-15 | Mace Lindu Ruff Rebound | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.01 | 0.16 | +74.9 | FlameReject, Topchess, bonkie, pricefield, sshrdl |
 | 2026-05-08 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -188.8 | FlameReject, Topchess, pricefield, sEvenb22, sshrdl |
 | 2026-05-06 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.01 | 0.10 | +18.7 | FlameReject, Topchess, pricefield, sEvenb22, sshrdl |

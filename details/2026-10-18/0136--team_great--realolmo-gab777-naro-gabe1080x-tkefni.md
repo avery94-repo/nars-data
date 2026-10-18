@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-16 | O Fire | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -183.6 | -jayy-, Gab777, RealOlmO, gabe1080x, vonix |
-| 2026-10-14 | Fire Nation | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +179.8 | Gab777, RealOlmO, Yonji, gabe1080x, vonix |
+| 2026-10-14 | Fire Nation | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +179.9 | Gab777, RealOlmO, Yonji, gabe1080x, vonix |
 | 2026-10-09 | innerFire | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +30.6 | Gab777, RealOlmO, Yonji, gabe1080x, vonix |
 | 2026-10-09 | Kodaks Lettuce | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +81.7 | Gab777, RealOlmO, Yonji, gabe1080x, vonix |
 | 2026-09-15 | UsingCodefArt25atSCL | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.00 | 0.00 | -81.5 | Gab777, NaRo, RealOlmO, TKEFNI, gabe1080x |

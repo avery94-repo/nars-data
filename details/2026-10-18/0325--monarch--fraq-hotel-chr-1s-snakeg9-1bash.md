@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | house | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +27.8 | 1Bash, Fraq, SnakeG9, chr-1s, hotel |
 | 2026-10-09 | Arnes Wit Attitudes | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-08 | APEX | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -95.7 | 1Bash, Fraq, SnakeG9, chr-1s, hotel |
-| 2026-09-10 | OPOZIT | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -47.2 | -Jincks, 1Bash, Fraq, SnakeG9, chr-1s, hotel |
+| 2026-09-10 | OPOZIT | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -47.2 | -Jincks, 1Bash, Fraq, SnakeG9, chr-1s, hotel |
 | 2026-09-08 | Uncs United | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +29.8 | 1Bash, 43O4, Fraq, SnakeG9, chr-1s, hotel |
 | 2026-09-06 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +35.0 | -Jincks, 1Bash, Fraq, Neido, chr-1s |
 | 2026-09-04 | deez | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -69.1 | 1Bash, Fraq, Neido, SnakeG9, hotel |

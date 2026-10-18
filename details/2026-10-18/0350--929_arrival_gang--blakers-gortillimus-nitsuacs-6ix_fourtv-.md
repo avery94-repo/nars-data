@@ -1,17 +1,17 @@
 ### Roster Details
-Team Name: Kennesaw State Gold 2025
+Team Name: 929 Arrival Gang
 Roster: Blakers, Gortillimus, nitsuACS, 6ix_FourTV, -Or1x
 NARS Rank: 350 of 512
 
 Final Rating: 1199.0
-Seeded Start: 1292.5
-H2H Adjustment: -93.5
+Seeded Start: 1292.4
+H2H Adjustment: -93.4
 
-Final Rating (1199.0) = Seeded Start (1292.5) + H2H Adjustment (-93.5)
+Final Rating (1199.0) = Seeded Start (1292.4) + H2H Adjustment (-93.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.137 x 1400 = 1292.5
+                = 1100 + 0.137 x 1400 = 1292.4
 
 seed_factor 0.137 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.425)
 
@@ -38,12 +38,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -10.0 | -Or1x, 6ix_FourTV, Blakers, Gortillimus, nitsuACS |
 | 2026-07-22 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.05 | 0.61 | +280.0 | -Or1x, -anby-, 6ix_FourTV, Gortillimus, nitsuACS |
 | 2026-07-18 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -151.8 | -Or1x, -anby-, 6ix_FourTV, Gortillimus, nitsuACS |
-| 2026-07-15 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -42.9 | -Or1x, -anby-, 6ix_FourTV, Gortillimus, nitsuACS |
+| 2026-07-15 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -42.8 | -Or1x, -anby-, 6ix_FourTV, Gortillimus, nitsuACS |
 | 2026-05-20 | We Just Pug | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.19 | +274.4 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
-| 2026-05-15 | SuperSoakerClub | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -324.7 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
+| 2026-05-15 | SuperSoakerClub | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -324.8 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
 | 2026-05-08 | GoopT | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.01 | 0.11 | +49.0 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
 | 2026-05-05 | Brothers United | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +12.2 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
-| 2026-05-01 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -418.9 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
+| 2026-05-01 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -419.0 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
 | 2026-04-29 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.05 | +2.8 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
 | 2026-04-24 | Famas OP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.02 | +377.1 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |
 | 2026-04-22 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -244.9 | -Or1x, 6ix_FourTV, Gortillimus, nitsuACS, sKarZz_ |

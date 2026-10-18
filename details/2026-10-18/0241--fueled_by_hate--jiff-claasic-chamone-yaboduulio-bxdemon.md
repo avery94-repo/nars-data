@@ -3,11 +3,11 @@ Team Name: FUELED BY HATE
 Roster: Jiff, claasic, CHAMONE, YaboDuulio, bxdEMON
 NARS Rank: 241 of 512
 
-Final Rating: 1408.1
+Final Rating: 1408.0
 Seeded Start: 1352.8
-H2H Adjustment: +55.3
+H2H Adjustment: +55.2
 
-Final Rating (1408.1) = Seeded Start (1352.8) + H2H Adjustment (+55.3)
+Final Rating (1408.0) = Seeded Start (1352.8) + H2H Adjustment (+55.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -27,23 +27,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | It Doesnt Matter | W | 1-0 | S59 NA Main B - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.11 | 1.00 | +8.5 | CHAMONE, Swifter, YaboDuulio, claasic, wreqqs |
 | 2026-09-11 | North Forge | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.95 | 1.37 | 1.00 | 1.30 | 0.00 | 0.00 | -0.3 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
 | 2026-09-09 | UltimateDarklordWizardz | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.37 | 1.00 | 1.28 | 0.00 | 0.00 | -23.2 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
-| 2026-09-08 | F1lthy Puggers | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.17 | 1.00 | 1.09 | 0.00 | 0.00 | -58.0 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
+| 2026-09-08 | F1lthy Puggers | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.17 | 1.00 | 1.08 | 0.00 | 0.00 | -58.0 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
 | 2026-09-06 | The Skins | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.17 | 1.00 | 1.07 | 0.10 | 1.07 | +96.2 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
 | 2026-09-03 | Phantom Sense | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.90 | 1.37 | 1.00 | 1.23 | 0.00 | 0.00 | -1.4 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
 | 2026-09-02 | Over Your Head | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.89 | 1.17 | 1.00 | 1.04 | 0.00 | 0.00 | -2.9 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-08-26 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.15 | 1.00 | 0.97 | 0.00 | 0.00 | -47.4 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-08-21 | Manx Recovery Program | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.15 | 1.00 | 0.93 | 0.00 | 0.00 | -31.7 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
-| 2026-08-19 | Team Team Name | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.15 | 1.00 | 0.92 | 0.09 | 0.92 | +133.6 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
+| 2026-08-19 | Team Team Name | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.15 | 1.00 | 0.92 | 0.09 | 0.92 | +133.7 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-08-18 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.79 | 1.15 | 1.00 | 0.91 | 0.00 | 0.00 | -0.7 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-08-12 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.15 | 1.00 | 0.86 | 0.00 | 0.00 | -1.4 | CHAMONE, Jiff, Swifter, YaboDuulio, claasic |
-| 2026-08-07 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.15 | 1.00 | 0.82 | 0.00 | 0.00 | -118.4 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
-| 2026-08-05 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.15 | 1.00 | 0.81 | 0.09 | 0.81 | +134.0 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
+| 2026-08-07 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.15 | 1.00 | 0.82 | 0.00 | 0.00 | -118.5 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
+| 2026-08-05 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.15 | 1.00 | 0.81 | 0.09 | 0.81 | +134.1 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-07-31 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.67 | 1.15 | 1.00 | 0.77 | 0.09 | 0.77 | +2.2 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-07-29 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.15 | 1.00 | 0.76 | 0.15 | 0.76 | +138.9 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-07-24 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.15 | 1.00 | 0.72 | 0.04 | 0.72 | +186.4 | CHAMONE, Jiff, YaboDuulio, bxdEMON, claasic |
 | 2026-07-22 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.15 | 1.00 | 0.70 | 0.04 | 0.70 | +382.9 | CHAMONE, Swifter, YaboDuulio, bxdEMON, claasic |
 | 2026-07-15 | duck crew | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.15 | 1.00 | 0.65 | 0.00 | 0.00 | -146.4 | CHAMONE, Jiff, Swifter, YaboDuulio, bxdEMON, claasic |
-| 2026-05-22 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -245.1 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
+| 2026-05-22 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -245.2 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-20 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.02 | 0.22 | +288.2 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-15 | Storm Surge | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -304.8 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |
 | 2026-05-13 | Sedated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -135.9 | CHAMONE, FusiioN, Jiff, bxdEMON, claasic |

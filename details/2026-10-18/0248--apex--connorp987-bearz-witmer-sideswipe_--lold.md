@@ -33,6 +33,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | NKBasketWeavers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +88.2 | BearZ, ConnorP987, Dry-Eye, LOLDFOX, witmer |
 | 2026-09-06 | Boomhogs 2 | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.04 | 0.94 | +86.5 | BearZ, ConnorP987, Dry-Eye, LOLDFOX, witmer |
 | 2026-09-04 | Noble | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.90 | 1.02 | 1.00 | 0.93 | 0.03 | 0.93 | +93.5 | BearZ, ConnorP987, LOLDFOX, sideSWIPE_-, witmer |
-| 2026-09-02 | Bad Jawn | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.00 | 0.00 | -140.7 | BearZ, ConnorP987, LOLDFOX, sideSWIPE_-, witmer |
+| 2026-09-02 | Bad Jawn | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.00 | 0.00 | -140.8 | BearZ, ConnorP987, LOLDFOX, sideSWIPE_-, witmer |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

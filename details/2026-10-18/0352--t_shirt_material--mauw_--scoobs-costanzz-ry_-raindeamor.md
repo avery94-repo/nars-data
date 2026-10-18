@@ -24,12 +24,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | Team Zhao | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -103.9 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
+| 2026-09-08 | DingTone | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -103.9 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
 | 2026-09-07 | Bottom Fraggers Anonymous | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +95.5 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
 | 2026-09-04 | pew pew | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -126.8 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
 | 2026-09-02 | GOD SPEED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +146.2 | -scoobs, CoStanzz, Mauw_, Raindeamor, Ry_ |
 | 2026-06-12 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -32.7 | CoStanzz, Mauw_, Raindeamor, Ry_, mylesG_ |
-| 2026-06-03 | It Doesnt Matter | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -195.7 | -Kibe-, CoStanzz, Mauw_, Raindeamor, Ry_ |
+| 2026-06-03 | It Doesnt Matter | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -195.8 | -Kibe-, CoStanzz, Mauw_, Raindeamor, Ry_ |
 | 2026-05-27 | Cortex Jellies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +242.9 | -Kibe-, CoStanzz, Mauw_, Raindeamor, Ry_ |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

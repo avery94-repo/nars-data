@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-12 | ABG Esports | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.45 | 1.00 | 1.45 | 0.18 | 1.45 | +38.3 | Go0dby3, JTrops, STIKER, Titans-_-, ogura |
+| 2026-10-12 | ABG Esports | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.45 | 1.00 | 1.45 | 0.18 | 1.45 | +38.4 | Go0dby3, JTrops, STIKER, Titans-_-, ogura |
 | 2026-09-04 | Slimy Boogermen | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.90 | 1.56 | 1.00 | 1.41 | 0.00 | 0.00 | -58.3 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-09-03 | SportsBetExpert | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.90 | 1.56 | 1.00 | 1.40 | 0.00 | 0.00 | -0.2 | -_AJ, Blxckie, Go0dby3, STIKER, ogura |
 | 2026-08-28 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.47 | 1.00 | 1.26 | 0.13 | 1.26 | +51.2 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
@@ -36,18 +36,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.00 | 0.00 | -256.9 | Blxckie, STIKER, VoltageJM, ogura, snufaffu |
 | 2026-07-29 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.16 | 0.96 | +105.6 | Go0dby3, STIKER, VoltageJM, ogura, snufaffu |
 | 2026-07-22 | Chicken Coop | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.47 | 1.00 | 0.90 | 0.00 | 0.00 | -45.9 | Blxckie, Go0dby3, STIKER, ogura, snufaffu |
-| 2026-07-17 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.47 | 1.00 | 0.85 | 0.00 | 0.00 | -196.5 | Blxckie, Go0dby3, STIKER, ogura, snufaffu |
+| 2026-07-17 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.47 | 1.00 | 0.85 | 0.00 | 0.00 | -196.6 | Blxckie, Go0dby3, STIKER, ogura, snufaffu |
 | 2026-07-15 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.00 | 0.00 | -191.3 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-06-02 | Nomadic Tactics | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.28 | 1.03 | 1.00 | 0.29 | 0.03 | 0.29 | +146.7 | Go0dby3, STIKER, VoltageJM, ogura, snufaffu |
 | 2026-05-31 | STFDYSAB | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.26 | 1.03 | 1.00 | 0.27 | 0.03 | 0.27 | +23.6 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-05-29 | Square1 | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.25 | 1.03 | 1.00 | 0.26 | 0.01 | 0.26 | +0.8 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-05-27 | Emerald Isle | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.24 | 1.03 | 1.00 | 0.25 | 0.01 | 0.25 | +0.8 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
-| 2026-05-22 | Nomadic Tactics | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.02 | 0.00 | +203.0 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
+| 2026-05-22 | Nomadic Tactics | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.02 | 0.00 | +203.1 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-05-20 | academy 4 gifted children | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.07 | 0.19 | +2.3 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-05-15 | Oath | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.16 | +2.1 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura, snufaffu |
 | 2026-05-13 | The Plague | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.15 | +0.7 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-05-08 | Les Ptis Jus | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.01 | 0.11 | +13.0 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
-| 2026-05-06 | Quality | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.01 | 0.10 | +171.3 | Go0dby3, STIKER, VoltageJM, ogura, snufaffu |
+| 2026-05-06 | Quality | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.01 | 0.10 | +171.4 | Go0dby3, STIKER, VoltageJM, ogura, snufaffu |
 | 2026-05-01 | TenToesDown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.01 | 0.07 | +99.8 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-04-29 | Top One Percent | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.05 | +289.7 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |
 | 2026-04-24 | in for Blood | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.02 | +5.2 | Blxckie, Go0dby3, STIKER, VoltageJM, ogura |

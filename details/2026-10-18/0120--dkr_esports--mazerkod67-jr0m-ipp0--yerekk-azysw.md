@@ -3,11 +3,11 @@ Team Name: DKR Esports
 Roster: mazerkod67, Jr0m, Ipp0-, YeRekK, Azysw
 NARS Rank: 120 of 512
 
-Final Rating: 1657.6
+Final Rating: 1657.5
 Seeded Start: 1332.3
-H2H Adjustment: +325.3
+H2H Adjustment: +325.2 (capped at +-300, raw +325.3)
 
-Final Rating (1657.6) = Seeded Start (1332.3) + H2H Adjustment (+325.3)
+Final Rating (1657.5) = Seeded Start (1332.3) + H2H Adjustment (+325.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,24 +26,24 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | SAFIR | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.05 | 1.00 | 0.98 | 0.00 | 0.00 | -113.5 | Azysw, Ipp0-, NattJr, YeRekK, drkhx, mazerkod67 |
 | 2026-09-06 | TEMPR | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.05 | 1.00 | 0.97 | 0.07 | 0.97 | +1.1 | Azysw, Ipp0-, NattJr, drkhx, mazerkod67 |
-| 2026-08-26 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.00 | 0.00 | -103.4 | Azysw, Jr0m, drkhx, iBatesTon, mazerkod67 |
+| 2026-08-26 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.00 | 0.00 | -103.5 | Azysw, Jr0m, drkhx, iBatesTon, mazerkod67 |
 | 2026-08-14 | SAFIR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.03 | 1.00 | 0.79 | 0.07 | 0.79 | +64.3 | Azysw, Ipp0-, Jr0m, drkhx, mazerkod67 |
 | 2026-08-05 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.03 | 1.00 | 0.73 | 0.06 | 0.73 | +13.9 | Azysw, Ipp0-, YeRekK, drkhx, mazerkod67 |
-| 2026-07-31 | Asoka | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.03 | 1.00 | 0.69 | 0.15 | 0.69 | +164.5 | Azysw, Ipp0-, NattJr, YeRekK, drkhx |
+| 2026-07-31 | Asoka | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.03 | 1.00 | 0.69 | 0.15 | 0.69 | +164.6 | Azysw, Ipp0-, NattJr, YeRekK, drkhx |
 | 2026-07-29 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.03 | 1.00 | 0.68 | 0.00 | 0.00 | -113.0 | Azysw, Jr0m, NattJr, YeRekK, drkhx |
-| 2026-07-24 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.03 | 1.00 | 0.65 | 0.00 | 0.00 | -143.8 | Azysw, Ipp0-, Jr0m, YeRekK, drkhx |
+| 2026-07-24 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.03 | 1.00 | 0.65 | 0.00 | 0.00 | -143.9 | Azysw, Ipp0-, Jr0m, YeRekK, drkhx |
 | 2026-07-22 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.03 | 1.00 | 0.63 | 0.05 | 0.63 | +3.8 | Azysw, Ipp0-, Jr0m, NattJr, drkhx |
 | 2026-07-17 | EXODIA | W | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.58 | 1.37 | 1.00 | 0.80 | 0.53 | 0.80 | +242.2 | -17Wonds, Azysw, Ipp0-, Jr0m, mazerkod67 |
 | 2026-07-17 | Team Amplus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.03 | 1.00 | 0.60 | 0.10 | 0.60 | +271.5 | -17Wonds, Azysw, Ipp0-, Jr0m, NattJr, YeRekK, mazerkod67 |
 | 2026-07-15 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.03 | 1.00 | 0.58 | 0.02 | 0.58 | +0.6 | Azysw, Ipp0-, NattJr, YeRekK, mazerkod67 |
-| 2026-05-31 | Dude Picks | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.26 | 1.00 | 0.33 | 0.00 | 0.00 | -165.9 | Azysw, Ipp0-, Jr0m, iBatesTon, mazerkod67 |
+| 2026-05-31 | Dude Picks | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.26 | 1.00 | 0.33 | 0.00 | 0.00 | -166.0 | Azysw, Ipp0-, Jr0m, iBatesTon, mazerkod67 |
 | 2026-05-29 | Slimy Boogermen | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.25 | 1.26 | 1.00 | 0.32 | 0.00 | 0.00 | -53.2 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
 | 2026-05-27 | Asoka | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.24 | 1.26 | 1.00 | 0.30 | 0.06 | 0.00 | +18.1 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
-| 2026-05-20 | OnlyFans | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.02 | 0.22 | +350.9 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
-| 2026-05-14 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -302.1 | Azysw, Ipp0-, Jr0m, iBatesTon, mazerkod67 |
-| 2026-05-13 | crescent | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.02 | 0.17 | +329.3 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
-| 2026-05-08 | MASTER ONE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -284.8 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
-| 2026-05-06 | Dude Picks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.01 | 0.11 | +339.2 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
+| 2026-05-20 | OnlyFans | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.02 | 0.22 | +351.0 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
+| 2026-05-14 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -302.2 | Azysw, Ipp0-, Jr0m, iBatesTon, mazerkod67 |
+| 2026-05-13 | crescent | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.02 | 0.17 | +329.4 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
+| 2026-05-08 | MASTER ONE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -284.9 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
+| 2026-05-06 | Dude Picks | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.01 | 0.11 | +339.3 | Azysw, Ipp0-, Jr0m, YeRekK, mazerkod67 |
 | 2026-05-01 | Slimy Boogermen | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.00 | -74.0 | Azysw, Ipp0-, Jr0m, iBatesTon, mazerkod67 |
 | 2026-04-29 | Asoka | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -418.4 | -17Wonds, Azysw, Ipp0-, Jr0m, mazerkod67 |
 | 2026-04-24 | GeneticDiff | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +298.0 | Azysw, Ipp0-, Jr0m, iBatesTon, mazerkod67 |

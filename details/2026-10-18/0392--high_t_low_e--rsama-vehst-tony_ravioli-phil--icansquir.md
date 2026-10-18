@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-29 | Therapist | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.25 | +259.4 | Tony_Ravioli, Vehst, h4mid, iCanSquirt, xdchet |
+| 2026-05-29 | Therapist | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.25 | +259.5 | Tony_Ravioli, Vehst, h4mid, iCanSquirt, xdchet |
 | 2026-05-27 | Grandpa Berets | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -22.5 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |
 | 2026-05-18 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.18 | 1.01 | 1.00 | 0.18 | 0.00 | 0.00 | -9.7 | Phil-, Tony_Ravioli, Vehst, iCanSquirt, xdchet |
 | 2026-05-13 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.00 | -17.5 | Phil-, RSama, Tony_Ravioli, Vehst, iCanSquirt |

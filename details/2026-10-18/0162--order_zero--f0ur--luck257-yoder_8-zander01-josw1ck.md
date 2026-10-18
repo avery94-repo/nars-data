@@ -5,7 +5,7 @@ NARS Rank: 162 of 512
 
 Final Rating: 1576.0
 Seeded Start: 1123.9
-H2H Adjustment: +452.1
+H2H Adjustment: +452.1 (capped at +-300, raw +452.2)
 
 Final Rating (1576.0) = Seeded Start (1123.9) + H2H Adjustment (+452.1)
 
@@ -27,9 +27,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.23 | +27.1 | F0ur-, Josw1ck, YodeR_8, Zander01, luck257 |
 | 2026-05-20 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.02 | 0.22 | +145.5 | F0ur-, YodeR_8, Zander01, coding, luck257 |
 | 2026-05-14 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -61.1 | F0ur-, Josw1ck, YodeR_8, Zander01, luck257 |
-| 2026-05-13 | Entertainment Cheese | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.03 | 0.17 | +138.2 | F0ur-, Josw1ck, YodeR_8, Zander01, luck257 |
+| 2026-05-13 | Entertainment Cheese | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.03 | 0.17 | +138.3 | F0ur-, Josw1ck, YodeR_8, Zander01, luck257 |
 | 2026-05-08 | CNCS Last Hope | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -152.0 | F0ur-, Josw1ck, Zander01, coding, luck257 |
-| 2026-05-06 | MASTER ONE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.02 | 0.11 | +433.9 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |
+| 2026-05-06 | MASTER ONE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.02 | 0.11 | +434.0 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |
 | 2026-05-01 | Sedated | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.00 | -400.9 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |
 | 2026-04-29 | James Bond Bois | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.06 | +363.3 | F0ur-, Josw1ck, Zander01, flexxz, luck257 |
 | 2026-04-23 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.00 | -269.9 | F0ur-, Josw1ck, YodeR_8, Zander01, luck257 |

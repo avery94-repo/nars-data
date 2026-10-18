@@ -41,11 +41,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.05 | 0.62 | +138.1 | 1DANimal, Jeffery_z, Scottiyio, SirFlax, enotsJ |
 | 2026-07-15 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -6.3 | 1DANimal, Jeffery_z, SirFlax, enotsJ, kswizzle87 |
 | 2026-06-05 | Sleepers | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -83.2 | ANJAROOO, Jeffery_z, Lo0p-, SirFlax, enotsJ |
-| 2026-05-22 | Kushtaka | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.01 | 0.21 | +340.5 | ANJAROOO, Jeffery_z, Lo0p-, SirFlax, enotsJ |
+| 2026-05-22 | Kushtaka | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.01 | 0.21 | +340.6 | ANJAROOO, Jeffery_z, Lo0p-, SirFlax, enotsJ |
 | 2026-05-20 | strawberry poptarts | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -40.2 | ANJAROOO, Jeffery_z, Lo0p-, SirFlax, enotsJ |
 | 2026-05-15 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -399.6 | ANJAROOO, Jeffery_z, Lo0p-, SirFlax, enotsJ |
 | 2026-04-29 | Oath | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.00 | -367.1 | ANJAROOO, Jeffery_z, Lo0p-, SirFlax, enotsJ |
 | 2026-04-24 | DownTown | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.02 | +1.8 | ANJAROOO, Jeffery_z, Lo0p-, SirFlax, enotsJ |
-| 2026-04-22 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | +226.2 | ANJAROOO, Jeffery_z, Lo0p-, SirFlax, enotsJ |
+| 2026-04-22 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | +226.3 | ANJAROOO, Jeffery_z, Lo0p-, SirFlax, enotsJ |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

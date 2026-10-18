@@ -5,7 +5,7 @@ NARS Rank: 109 of 512
 
 Final Rating: 1690.3
 Seeded Start: 1130.1
-H2H Adjustment: +560.2
+H2H Adjustment: +560.2 (capped at +-300, raw +560.3)
 
 Final Rating (1690.3) = Seeded Start (1130.1) + H2H Adjustment (+560.2)
 
@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-10 | Evade Gaming | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -139.4 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
-| 2026-06-05 | NEWAR | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.01 | 0.30 | +114.0 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
+| 2026-06-05 | NEWAR | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.01 | 0.30 | +114.1 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
 | 2026-06-03 | Reckless Palms | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +182.2 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
 | 2026-05-28 | BIG | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.01 | 0.24 | +201.4 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
 | 2026-05-27 | 3Dolla | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.24 | +202.0 | Deaaaan, KenT5, McNash, PayneC, WaltJr |

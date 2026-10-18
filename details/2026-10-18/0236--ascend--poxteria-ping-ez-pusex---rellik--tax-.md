@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +77.8 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
 | 2026-09-06 | Against Odds | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.03 | 0.95 | +66.0 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
 | 2026-09-05 | my life be like | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.91 | 1.37 | 1.00 | 1.25 | 0.00 | 0.00 | -1.8 | -RelliK-, PiNG-ez, Poxteria, kozume, tax- |
-| 2026-09-04 | GOBLINS | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.91 | 1.04 | 1.00 | 0.94 | 0.00 | 0.00 | -95.5 | Chick3n, PiNG-ez, Poxteria, naj-dobrija, tax- |
+| 2026-09-04 | GOBLINS | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.04 | 1.00 | 0.94 | 0.00 | 0.00 | -95.5 | Chick3n, PiNG-ez, Poxteria, naj-dobrija, tax- |
 | 2026-09-02 | OGNuggs | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.04 | 1.00 | 0.93 | 0.03 | 0.93 | +106.2 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
 | 2026-09-01 | Club 333 | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.88 | 1.37 | 1.00 | 1.21 | 0.00 | 0.00 | -1.2 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
 

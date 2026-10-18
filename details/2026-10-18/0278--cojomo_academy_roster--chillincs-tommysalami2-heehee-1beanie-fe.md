@@ -3,11 +3,11 @@ Team Name: Cojomo Academy Roster
 Roster: chillincs, TommySalami2, heehee, 1Beanie, Females
 NARS Rank: 278 of 512
 
-Final Rating: 1336.2
+Final Rating: 1336.1
 Seeded Start: 1263.5
-H2H Adjustment: +72.7
+H2H Adjustment: +72.6
 
-Final Rating (1336.2) = Seeded Start (1263.5) + H2H Adjustment (+72.7)
+Final Rating (1336.1) = Seeded Start (1263.5) + H2H Adjustment (+72.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

@@ -4,14 +4,14 @@ Roster: BONICHAN, BigBootyLuke, 1Static, Aluminum, Clover_-
 NARS Rank: 76 of 512
 
 Final Rating: 1779.0
-Seeded Start: 1288.3
-H2H Adjustment: +490.7 (capped at +-300, raw +490.6)
+Seeded Start: 1288.4
+H2H Adjustment: +490.6
 
-Final Rating (1779.0) = Seeded Start (1288.3) + H2H Adjustment (+490.7)
+Final Rating (1779.0) = Seeded Start (1288.4) + H2H Adjustment (+490.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.135 x 1400 = 1288.3
+                = 1100 + 0.135 x 1400 = 1288.4
 
 seed_factor 0.135 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.029) + 0.25 x Opponent Network (0.408)
 
@@ -30,6 +30,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Comeback Bandits | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +13.6 | 1Static, Aluminum, BONICHAN, BigBootyLuke, Icecosmic1 |
 | 2026-09-08 | RH Help Desk | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.08 | 1.03 | +118.4 | 1Static, Aluminum, BONICHAN, BigBootyLuke, Grimblee |
 | 2026-09-07 | COGNITIVE | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.12 | 1.03 | +65.2 | 1Static, Aluminum, BONICHAN, BigBootyLuke, Grimblee |
-| 2026-09-04 | Piggy LLC | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.91 | 1.11 | 1.00 | 1.00 | 0.04 | 1.00 | +193.2 | 1Static, Aluminum, BONICHAN, BigBootyLuke, Icecosmic1 |
+| 2026-09-04 | Piggy LLC | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.90 | 1.11 | 1.00 | 1.00 | 0.04 | 1.00 | +193.2 | 1Static, Aluminum, BONICHAN, BigBootyLuke, Icecosmic1 |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

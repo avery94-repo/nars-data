@@ -30,13 +30,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.47 | 1.00 | 1.24 | 0.00 | 0.00 | -2.0 | Kr0wbar, T-Bo, _Beastm0de, macepts, solzh69 |
 | 2026-08-25 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.47 | 1.00 | 1.23 | 0.00 | 0.00 | -12.8 | Kr0wbar, Willis, _Beastm0de, macepts, solzh69 |
 | 2026-08-24 | dice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.83 | 1.47 | 1.00 | 1.22 | 0.00 | 0.00 | -4.9 | Kr0wbar, T-Bo, _Beastm0de, macepts, solzh69 |
-| 2026-08-20 | dead team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.18 | 0.06 | 1.18 | +175.9 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
+| 2026-08-20 | Ex-Tricksters | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.18 | 0.06 | 1.18 | +175.9 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
 | 2026-07-31 | 027fam | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.00 | 0.00 | -157.2 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
 | 2026-07-29 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.10 | 0.96 | +234.2 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
 | 2026-07-27 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.47 | 1.00 | 0.94 | 0.00 | 0.00 | -0.0 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
 | 2026-07-24 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.47 | 1.00 | 0.92 | 0.00 | 0.00 | -0.0 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
 | 2026-07-22 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.47 | 1.00 | 0.90 | 0.00 | 0.00 | -1.4 | Kr0wbar, T-Bo, _Beastm0de, macepts, solzh69 |
-| 2026-05-21 | Room Temp IQs | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.36 | 1.00 | 0.27 | 0.00 | 0.00 | -389.9 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
+| 2026-05-21 | Room Temp IQs | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.36 | 1.00 | 0.27 | 0.00 | 0.00 | -390.0 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
 | 2026-05-19 | NZ Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.36 | 1.00 | 0.25 | 0.03 | 0.25 | +256.4 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
 | 2026-05-12 | Demolition | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.36 | 1.00 | 0.19 | 0.00 | 0.00 | -102.9 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |
 | 2026-05-06 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.36 | 1.00 | 0.13 | 0.01 | 0.13 | +51.3 | Kr0wbar, _Beastm0de, shiv-, sirnerd, solzh69 |

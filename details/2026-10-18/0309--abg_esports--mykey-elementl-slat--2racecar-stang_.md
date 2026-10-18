@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | Phantom Sense | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.45 | 1.00 | 1.45 | 0.00 | 0.00 | -1.7 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-10-14 | 027fam | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.45 | 1.00 | 1.45 | 0.00 | 0.00 | -233.5 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-10-12 | Endless Esports | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.45 | 1.00 | 1.45 | 0.00 | 0.00 | -38.7 | Dwizzy, EleMentL, Stang_, mykey, slat- |
-| 2026-10-07 | Holly Molly | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.45 | 1.00 | 1.45 | 0.00 | 0.00 | -117.1 | 2RACECAR, Dwizzy, EleMentL, Stang_, mykey, slat- |
+| 2026-10-07 | Holly Molly | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.45 | 1.00 | 1.45 | 0.00 | 0.00 | -117.2 | 2RACECAR, Dwizzy, EleMentL, Stang_, mykey, slat- |
 | 2026-09-17 | Firstwave | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.15 | 0.99 | +35.4 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-09-15 | JPG | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.07 | 0.98 | +75.4 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-09-08 | Sharp | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -12.5 | 2RACECAR, Dwizzy, EleMentL, Stang_, slat- |
@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -44.1 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-08-21 | Mach 5 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.81 | +49.1 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-08-19 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.10 | 0.80 | +122.7 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
-| 2026-08-14 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -154.2 | 2RACECAR, Dwizzy, EleMentL, mykey, slat- |
+| 2026-08-14 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -154.3 | 2RACECAR, Dwizzy, EleMentL, mykey, slat- |
 | 2026-08-12 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.08 | 0.75 | +7.8 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-08-07 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.11 | 0.00 | +131.7 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-08-05 | DeathMark E-Sports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -131.2 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
@@ -47,7 +47,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.07 | 0.62 | +10.2 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-07-22 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -326.6 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-07-15 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.05 | 0.56 | +3.2 | 2RACECAR, EleMentL, Stang_, brooks, mykey, slat- |
-| 2026-06-05 | Boop Boop Gang | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.02 | 0.30 | +186.9 | 2RACECAR, Stang_, alannn-, mykey, slat- |
+| 2026-06-05 | Boop Boop Gang | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.02 | 0.30 | +187.0 | 2RACECAR, Stang_, alannn-, mykey, slat- |
 | 2026-05-29 | PSDN White | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.01 | 0.25 | +150.4 | 2RACECAR, EleMentL, Stang_, alannn-, slat- |
 | 2026-05-27 | We Have No Enemies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.01 | 0.24 | +105.0 | 2RACECAR, Stang_, alannn-, mykey, slat- |
 

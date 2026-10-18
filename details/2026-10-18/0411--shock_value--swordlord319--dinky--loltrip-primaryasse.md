@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: Shock Value
 Roster: Swordlord319, -dinky-, loltrip, PrimaryAsset, Blurted
-NARS Rank: 410 of 512
+NARS Rank: 411 of 512
 
-Final Rating: 1041.1
+Final Rating: 1041.0
 Seeded Start: 1104.3
-H2H Adjustment: -63.2
+H2H Adjustment: -63.3
 
-Final Rating (1041.1) = Seeded Start (1104.3) + H2H Adjustment (-63.2)
+Final Rating (1041.0) = Seeded Start (1104.3) + H2H Adjustment (-63.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-14 | Boop Boop Gang | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +56.1 | Alons0-, D4V1Z1HN0SSJ, FLIXfps, LOBOSO_R, MambaHAPPY |
+| 2026-10-14 | Boop Boop Gang | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.09 | 1.03 | +56.1 | Alons0-, D4V1Z1HN0SSJ, FLIXfps, LOBOSO_R, MambaHAPPY |
 | 2026-10-09 | RH Help Desk | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +104.8 | -Gerry, Alons0-, D4V1Z1HN0SSJ, FLIXfps, MambaHAPPY |
 | 2026-10-07 | FlockMunchers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -139.3 | -Gerry, Alons0-, D4V1Z1HN0SSJ, FLIXfps, MambaHAPPY |
 | 2026-09-08 | STALLOONS BALLOONS | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.09 | 0.97 | +141.0 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY |

@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-25 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.47 | 1.00 | 1.23 | 0.00 | 0.00 | -84.2 | Latt, M0nstr, PurnrplPanda, _-JAKEY-_, yreva |
 | 2026-08-19 | Endless Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.00 | 0.00 | -3.4 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
 | 2026-07-31 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.00 | 0.00 | -89.6 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
-| 2026-07-29 | dead team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.05 | 0.96 | +173.4 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
+| 2026-07-29 | Ex-Tricksters | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.05 | 0.96 | +173.4 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
 | 2026-07-17 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.47 | 1.00 | 0.85 | 0.13 | 0.85 | +333.5 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
 | 2026-07-15 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.00 | 0.00 | -0.0 | Latt, M0nstr, PurnrplPanda, c-c, yreva |
 | 2026-05-21 | Once Divine Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.36 | 1.00 | 0.27 | 0.00 | 0.00 | -133.1 | Bruse, Latt, M0nstr, tangz, yreva |
@@ -37,8 +37,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-19 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.36 | 1.00 | 0.25 | 0.00 | 0.00 | -172.8 | Bruse, Latt, M0nstr, tangz, yreva |
 | 2026-05-14 | Elisir Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.15 | 1.36 | 1.00 | 0.21 | 0.00 | 0.00 | -134.8 | Bruse, Latt, M0nstr, m4rley, tangz, yreva |
 | 2026-05-12 | skebob | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.36 | 1.00 | 0.19 | 0.00 | 0.00 | -169.3 | Bruse, Latt, M0nstr, tangz, yreva |
-| 2026-05-08 | Beyond Limits | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.36 | 1.00 | 0.15 | 0.10 | 0.15 | +447.3 | Bruse, Latt, M0nstr, tangz, yreva |
-| 2026-05-05 | KODEX ESPORTS | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.36 | 1.00 | 0.12 | 0.00 | 0.00 | -376.6 | Bruse, Latt, M0nstr, tangz, yreva |
+| 2026-05-08 | Beyond Limits | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.36 | 1.00 | 0.15 | 0.10 | 0.15 | +447.4 | Bruse, Latt, M0nstr, tangz, yreva |
+| 2026-05-05 | KODEX ESPORTS | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.36 | 1.00 | 0.12 | 0.00 | 0.00 | -376.7 | Bruse, Latt, M0nstr, tangz, yreva |
 | 2026-04-23 | Celestial Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.36 | 1.00 | 0.02 | 0.00 | 0.02 | +170.4 | Bruse, Latt, M0nstr, tangz, yreva |
 | 2026-04-23 | Team Hyper | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.36 | 1.00 | 0.02 | 0.00 | 0.02 | +230.9 | Bruse, Latt, M0nstr, tangz, yreva |
 

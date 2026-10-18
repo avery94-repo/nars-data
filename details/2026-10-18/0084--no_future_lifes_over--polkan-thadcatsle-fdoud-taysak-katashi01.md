@@ -5,7 +5,7 @@ NARS Rank: 84 of 512
 
 Final Rating: 1764.1
 Seeded Start: 1306.0
-H2H Adjustment: +458.1
+H2H Adjustment: +458.1 (capped at +-300, raw +458.2)
 
 Final Rating (1764.1) = Seeded Start (1306.0) + H2H Adjustment (+458.1)
 
@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Epochal Esports | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.01 | 1.00 | 1.01 | 0.15 | 1.01 | +0.1 | Polkan, THADCATSLE, Taysak, The_Zucc, fdoud |
 | 2026-10-07 | Benadryl Abusers | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.01 | 1.00 | 1.01 | 0.11 | 1.01 | +0.3 | Polkan, THADCATSLE, Taysak, The_Zucc, fdoud |
 | 2026-09-21 | fih hou | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +34.4 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
-| 2026-09-16 | Trap Castle | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.03 | 0.99 | +79.9 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
+| 2026-09-16 | Trap Castle | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.03 | 0.99 | +80.0 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
 | 2026-09-10 | fih hou | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.00 | +99.8 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
 | 2026-09-08 | PogSquad | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +97.7 | IceyKL, Polkan, THADCATSLE, Taysak, fdoud |
 | 2026-09-05 | OPOZIT | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.03 | 0.91 | +169.3 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |

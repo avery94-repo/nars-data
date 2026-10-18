@@ -42,17 +42,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.09 | 0.81 | +1.6 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-20 | KODEX ESPORTS | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.47 | 1.00 | 1.18 | 0.23 | 1.18 | +127.1 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-20 | academy 4 gifted children | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.47 | 1.00 | 1.18 | 0.00 | 0.00 | -1.6 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-08-19 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.06 | 0.80 | +89.0 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-08-19 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.06 | 0.80 | +89.1 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-12 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -92.9 | ALDEN_, JGamby, Jackpot, alloy, enfohip |
 | 2026-08-07 | EMPIRE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.72 | 1.47 | 1.00 | 1.06 | 0.00 | 0.00 | -8.4 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-08-07 | New Legends | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.72 | 1.47 | 1.00 | 1.06 | 0.00 | 0.00 | -230.0 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-08-07 | New Legends | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.72 | 1.47 | 1.00 | 1.06 | 0.00 | 0.00 | -230.1 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-07 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.06 | 0.72 | +37.4 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-08-05 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.08 | 0.70 | +10.4 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-07-29 | JPG | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +212.5 | JGamby, Jackpot, alloy, enfohip, samR- |
+| 2026-07-29 | JPG | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +212.6 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-07-29 | NoPrac | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +4.0 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-07-24 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -163.8 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-07-23 | The Ohio Meat Wagon | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -381.4 | JGamby, Jackpot, alloy, enfohip, samR- |
-| 2026-07-17 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +213.9 | Avacate, JGamby, Jackpot, alloy, enfohip |
+| 2026-07-17 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +214.0 | Avacate, JGamby, Jackpot, alloy, enfohip |
 | 2026-07-15 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +0.1 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-06-05 | Team TahMeow | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.02 | 0.30 | +172.3 | JGamby, Jackpot, alloy, enfohip, samR- |
 | 2026-06-02 | FAT CHUDS BRO | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +150.1 | JGamby, Jackpot, alwayslucky-, enfohip, samR- |

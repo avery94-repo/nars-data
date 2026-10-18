@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | de_throne | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-07 | Mace Lindu Ruff Rebound | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +1.2 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 | 2026-09-19 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -58.9 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
-| 2026-09-17 | For Fun Gamers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.99 | 1.02 | 1.00 | 1.02 | 0.04 | 1.02 | +68.2 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
+| 2026-09-17 | For Fun Gamers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.99 | 1.02 | 1.00 | 1.01 | 0.04 | 1.01 | +68.2 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 | 2026-09-15 | Alternate Earth | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.07 | 1.00 | +62.5 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 | 2026-09-12 | APEX | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.07 | 0.98 | +95.9 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 | 2026-09-10 | Mud Wizards | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.97 | 0.07 | 0.97 | +6.4 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |

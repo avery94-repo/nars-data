@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-16 | Los Pollos Hermanos | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -112.7 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-09-11 | REMM | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.03 | 0.95 | +91.0 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-09-09 | Rogue Dungeon | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +126.5 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-09-04 | Team Dobeg | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.04 | 0.91 | +76.2 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-09-11 | REMM | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.03 | 0.95 | +91.1 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-09-09 | Rogue Dungeon | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +126.6 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-09-04 | Team Dobeg | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.04 | 0.90 | +76.2 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-09-02 | FlatEarthers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +112.4 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-08-09 | STALLOONS BALLOONS | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.87 | 0.00 | 0.00 | -236.9 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-08-09 | enigma | W | W/O | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.87 | 0.16 | 0.87 | +90.6 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |

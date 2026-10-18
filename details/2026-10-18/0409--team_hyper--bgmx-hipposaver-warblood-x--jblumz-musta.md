@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-25 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.47 | 1.00 | 1.23 | 0.00 | 0.00 | -0.1 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
 | 2026-08-14 | Addice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.47 | 1.00 | 1.12 | 0.00 | 0.00 | -58.9 | Mustang_TV, hipposaver, intox_, jblumz, xpEEzY |
 | 2026-08-12 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.47 | 1.00 | 1.10 | 0.05 | 1.10 | +205.3 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
-| 2026-08-07 | SOLA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.00 | 0.00 | -35.2 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
+| 2026-08-07 | SOLA GAMING | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.00 | 0.00 | -35.2 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
 | 2026-08-05 | New Legends | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.00 | 0.00 | -146.0 | Mustang_TV, Trento, bgmx, hipposaver, jblumz |
 | 2026-07-29 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.00 | 0.00 | -5.1 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |
 | 2026-07-22 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.47 | 1.00 | 0.90 | 0.00 | 0.00 | -7.1 | Mustang_TV, bgmx, hipposaver, jblumz, warBlood-x- |

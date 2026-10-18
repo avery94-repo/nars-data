@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-11 | WaterDrinkers | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -63.7 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
+| 2026-09-11 | WaterDrinkers | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -63.8 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
 | 2026-09-06 | flat earth | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -1.8 | ClutchBunny, Drawde, Kwang_, capital2876, hibiquack |
 | 2026-09-04 | Armored Talent | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.15 | 0.90 | +62.7 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |
 | 2026-09-02 | Lan Bears | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.07 | 0.00 | +21.8 | ClutchBunny, Drawde, capital2876, hibiquack, tyler_ |

@@ -41,16 +41,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Beyond Limits | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 1.01 | 0.00 | +48.6 | core 3/5 |
 | 2026-09-05 | SportsBetExpert | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.91 | 1.60 | 1.00 | 1.46 | 0.00 | 0.00 | -22.3 | core 3/5 |
 | 2026-09-04 | Wanted Goons | W | 1-0 | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 1.45 | 1.45 | +38.1 | core 3/5 |
-| 2026-09-03 | Overtake Sector | W | 1-0 | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 1.44 | 0.00 | +90.7 | core 3/5 |
+| 2026-09-03 | Overtake Sector | W | 1-0 | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 1.44 | 0.00 | +90.8 | core 3/5 |
 | 2026-08-28 | EMPIRE | L | 1-2 | VRS-tracked 2026-08 | A | vrs | 0.86 | 1.60 | 1.00 | 1.37 | 0.00 | 0.00 | -69.5 | core 3/5 |
 | 2026-08-27 | Villainous | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.85 | 1.60 | 1.00 | 1.36 | 1.17 | 1.36 | +59.0 | core 3/5 |
 | 2026-08-26 | Marsborne | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.84 | 1.60 | 1.00 | 1.35 | 0.00 | 0.00 | -2.0 | core 3/5 |
 | 2026-08-25 | Shimmer | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.84 | 1.60 | 1.00 | 1.34 | 0.49 | 1.34 | +8.7 | core 3/5 |
 | 2026-07-29 | LAG Gaming | L |  | VRS-tracked 2026-07 | A | vrs | 0.66 | 1.60 | 1.00 | 1.05 | 0.00 | 0.00 | -118.5 | core 3/5 |
-| 2026-07-28 | NRG | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.65 | 1.60 | 1.00 | 1.04 | 0.00 | 0.00 | -93.8 | core 3/5 |
-| 2026-06-14 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.57 | 0.07 | 0.57 | +105.5 | core 3/5 |
+| 2026-07-28 | NRG | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.65 | 1.60 | 1.00 | 1.04 | 0.00 | 0.00 | -93.9 | core 3/5 |
+| 2026-06-14 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.57 | 0.07 | 0.57 | +105.6 | core 3/5 |
 | 2026-06-14 | Marsborne | L | 0-2 | VRS-tracked 2026-06 | A | vrs | 0.36 | 1.60 | 1.00 | 0.57 | 0.00 | 0.00 | -69.2 | core 3/5 |
-| 2026-06-13 | DETONATE | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.35 | 1.60 | 1.00 | 0.56 | 0.56 | 0.56 | +202.5 | core 3/5 |
+| 2026-06-13 | DETONATE | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.35 | 1.60 | 1.00 | 0.56 | 0.56 | 0.56 | +202.6 | core 3/5 |
 | 2026-06-13 | Overtake Sector | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.35 | 1.60 | 1.00 | 0.56 | 0.56 | 0.56 | +132.7 | core 3/5 |
 | 2026-06-12 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.34 | 1.60 | 1.00 | 0.55 | 0.45 | 0.55 | +218.5 | core 3/5 |
 | 2026-06-11 | DETONATE | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.34 | 1.60 | 1.00 | 0.54 | 0.00 | 0.00 | -33.3 | core 3/5 |
@@ -64,15 +64,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-14 | North Forge | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.15 | 1.36 | 1.00 | 0.21 | 0.06 | 0.21 | +421.7 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
 | 2026-05-13 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.36 | 1.00 | 0.20 | 0.00 | 0.00 | -225.2 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
 | 2026-05-12 | New Legends | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.36 | 1.00 | 0.19 | 0.00 | 0.00 | -192.7 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
-| 2026-05-09 | dead team | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.36 | 1.00 | 0.16 | 0.00 | 0.00 | -321.2 | Scorchyy, aelor, ayaneuu, calamity, jsfeltner |
+| 2026-05-09 | Ex-Tricksters | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.36 | 1.00 | 0.16 | 0.00 | 0.00 | -321.2 | Scorchyy, aelor, ayaneuu, calamity, jsfeltner |
 | 2026-05-07 | Villainous | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.36 | 1.00 | 0.14 | 0.00 | 0.00 | -325.3 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
 | 2026-05-02 | Zomblers | L |  | VRS-tracked 2026-05 | A | vrs | 0.07 | 1.60 | 1.00 | 0.11 | 0.00 | 0.00 | -1.8 | core 3/5 |
 | 2026-04-30 | eefsports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.36 | 1.00 | 0.08 | 0.00 | 0.08 | +0.1 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
 | 2026-04-30 | EMPIRE | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.36 | 1.00 | 0.08 | 0.06 | 0.08 | +214.3 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
-| 2026-04-28 | Incognito | W |  | VRS-tracked 2026-04 | A | vrs | 0.04 | 1.59 | 1.00 | 0.07 | 0.01 | 0.07 | +23.8 | core 3/5 |
+| 2026-04-28 | Incognito | W |  | VRS-tracked 2026-04 | A | vrs | 0.04 | 1.59 | 1.00 | 0.07 | 0.01 | 0.07 | +23.9 | core 3/5 |
 | 2026-04-27 | girl kissers | W |  | VRS-tracked 2026-04 | A | vrs | 0.04 | 1.59 | 1.00 | 0.06 | 0.00 | 0.06 | +0.7 | core 3/5 |
 | 2026-04-25 | Chicken Coop | W |  | VRS-tracked 2026-04 | A | vrs | 0.02 | 1.59 | 1.00 | 0.04 | 0.03 | 0.04 | +355.2 | core 3/5 |
-| 2026-04-25 | Chicken Coop | L |  | VRS-tracked 2026-04 | A | vrs | 0.02 | 1.59 | 1.00 | 0.04 | 0.00 | 0.00 | -388.9 | core 3/5 |
+| 2026-04-25 | Chicken Coop | L |  | VRS-tracked 2026-04 | A | vrs | 0.02 | 1.59 | 1.00 | 0.04 | 0.00 | 0.00 | -389.0 | core 3/5 |
 | 2026-04-25 | M80 | L |  | VRS-tracked 2026-04 | A | vrs | 0.02 | 1.59 | 1.00 | 0.04 | 0.00 | 0.00 | -239.8 | core 3/5 |
 | 2026-04-22 | FlyQuest RED | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.00 | 1.36 | 1.00 | 0.01 | 0.00 | 0.01 | +21.8 | 1TyRa, Scorchyy, aelor, ayaneuu, jsfeltner |
 

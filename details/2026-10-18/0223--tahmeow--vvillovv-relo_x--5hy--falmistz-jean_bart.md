@@ -34,9 +34,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Bald | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -167.1 | Fr3nk1e, IC3R, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-07-24 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.05 | 0.62 | +135.2 | Fr3nk1e, IC3R, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-07-22 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.07 | 0.61 | +164.7 | Fr3nk1e, IC3R, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-07-18 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +152.6 | Cd666, Fr3nk1e, Jean_Bart_B, Relo_X, vvillovv |
+| 2026-07-18 | 929 Arrival Gang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +152.6 | Cd666, Fr3nk1e, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-07-15 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +13.8 | Fr3nk1e, IC3R, Jean_Bart_B, Relo_X, vvillovv |
-| 2026-05-22 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.00 | 0.00 | -263.7 | -5hy-, Falmistz, Jean_Bart_B, NixDoc, vvillovv |
+| 2026-05-22 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.00 | 0.00 | -263.8 | -5hy-, Falmistz, Jean_Bart_B, NixDoc, vvillovv |
 | 2026-05-20 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -341.5 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-05-15 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.16 | +317.6 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |
 | 2026-05-13 | NATIONAL CS UNI | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.01 | 0.15 | +269.3 | -5hy-, Falmistz, Jean_Bart_B, Relo_X, vvillovv |

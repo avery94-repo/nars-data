@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-27 | FLOW STATE | L | 0-1 | NA Revival | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -38.8 | -FlagZ, 0hio, Dingrz, Springgy, b0bbl3 |
 | 2026-09-15 | DUMBO | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -45.4 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-09-09 | flat earth | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -6.0 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
-| 2026-09-06 | offBalance | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.11 | 0.92 | +50.9 | -FlagZ, Albatr0ssS, Artaxian, Dingrz, ZynRG |
+| 2026-09-06 | offBalance | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.11 | 0.92 | +51.0 | -FlagZ, Albatr0ssS, Artaxian, Dingrz, ZynRG |
 | 2026-09-04 | Torii | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.10 | 0.90 | +38.3 | -FlagZ, Albatr0ssS, Artaxian, Dingrz, ZynRG |
 | 2026-09-02 | Goyim Gladiators | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.10 | 0.89 | +2.3 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-08-27 | Hairy Scary Bandits | L | W/O | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.85 | 1.47 | 1.00 | 1.25 | 0.00 | 0.00 | -19.1 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
@@ -41,14 +41,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-13 | Zomblers | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.76 | 1.47 | 1.00 | 1.11 | 0.00 | 0.00 | -0.6 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-08-12 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.09 | 0.75 | +28.7 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-08-12 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.06 | 0.75 | +26.9 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
-| 2026-08-07 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.06 | 0.72 | +76.3 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
+| 2026-08-07 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.06 | 0.72 | +76.4 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-08-05 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +20.4 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-07-29 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -4.9 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-07-24 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -215.8 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
-| 2026-07-22 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +204.1 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
+| 2026-07-22 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +204.2 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-07-17 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +0.4 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
-| 2026-07-15 | Kennesaw State Gold 2025 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +42.9 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
-| 2026-06-04 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.07 | 1.00 | 0.31 | 0.00 | 0.00 | -139.6 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
+| 2026-07-15 | 929 Arrival Gang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +42.8 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
+| 2026-06-04 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.07 | 1.00 | 0.31 | 0.00 | 0.00 | -139.7 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
 | 2026-06-02 | Let It Crust | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.07 | 1.00 | 0.30 | 0.00 | 0.30 | +97.0 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
 | 2026-05-31 | QUPMANACS | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.07 | 1.00 | 0.28 | 0.02 | 0.28 | +167.2 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
 | 2026-05-29 | bubibabu | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.25 | 1.07 | 1.00 | 0.27 | 0.00 | 0.00 | -144.6 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |

@@ -43,7 +43,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -8.5 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-07-15 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -197.7 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-05-22 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.00 | 0.21 | +206.8 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |
-| 2026-05-20 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -266.9 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |
+| 2026-05-20 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -267.0 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |
 | 2026-05-15 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -37.9 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |
 | 2026-05-13 | DownTown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.00 | -104.8 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |
 | 2026-05-08 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -5.1 | LemonCitrus, ReesePuf, Rush_X, aavsen, cs_AsSaSs1n |

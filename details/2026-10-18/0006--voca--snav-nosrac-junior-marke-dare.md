@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-02 | PRESTIGE | W |  | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.64 | 0.00 | +2.2 | core 3/5 |
 | 2026-10-02 | SASHI | W | 1-0 | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.26 | 0.00 | +24.0 | core 3/5 |
 | 2026-09-26 | M80 | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -28.3 | core 3/5 |
-| 2026-09-25 | BESTIA | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.38 | 0.00 | +68.2 | core 3/5 |
+| 2026-09-25 | BESTIA | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.38 | 0.00 | +68.1 | core 3/5 |
 | 2026-09-25 | DENDELE | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -78.8 | core 3/5 |
 | 2026-09-12 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -49.5 | core 3/5 |
 | 2026-09-11 | ANTIVALUE | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.52 | 1.14 | 0.00 | +0.4 | core 3/5 |
@@ -57,9 +57,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-28 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.00 | 0.00 | -206.0 | core 3/5 |
 | 2026-05-27 | Chicken Coop | W |  | VRS-tracked 2026-05 | A | vrs | 0.24 | 1.60 | 1.00 | 0.38 | 0.34 | 0.00 | +6.4 | core 3/5 |
 | 2026-05-03 | Wildcard | W |  | VRS-tracked 2026-05 | A | vrs | 0.08 | 1.60 | 1.00 | 0.12 | 0.08 | 0.12 | +77.7 | core 3/5 |
-| 2026-05-02 | Zomblers | W |  | VRS-tracked 2026-05 | A | vrs | 0.07 | 1.60 | 1.00 | 0.11 | 0.10 | 0.00 | +316.6 | core 3/5 |
-| 2026-05-01 | Wildcard | L |  | VRS-tracked 2026-05 | A | vrs | 0.06 | 1.60 | 1.00 | 0.10 | 0.00 | 0.00 | -236.5 | core 3/5 |
-| 2026-04-29 | Zomblers | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.07 | 0.08 | +359.2 | core 3/5 |
+| 2026-05-02 | Zomblers | W |  | VRS-tracked 2026-05 | A | vrs | 0.07 | 1.60 | 1.00 | 0.11 | 0.10 | 0.00 | +316.8 | core 3/5 |
+| 2026-05-01 | Wildcard | L |  | VRS-tracked 2026-05 | A | vrs | 0.06 | 1.60 | 1.00 | 0.10 | 0.00 | 0.00 | -236.6 | core 3/5 |
+| 2026-04-29 | Zomblers | W |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.07 | 0.08 | +359.3 | core 3/5 |
 | 2026-04-27 | Chicken Coop | W |  | VRS-tracked 2026-04 | A | vrs | 0.04 | 1.59 | 1.00 | 0.06 | 0.05 | 0.06 | +191.1 | core 3/5 |
 | 2026-04-26 | New Legends | W |  | VRS-tracked 2026-04 | A | vrs | 0.03 | 1.59 | 1.00 | 0.05 | 0.03 | 0.05 | +58.0 | core 3/5 |
 | 2026-04-25 | Marsborne | W |  | VRS-tracked 2026-04 | A | vrs | 0.02 | 1.59 | 1.00 | 0.04 | 0.04 | 0.04 | +404.4 | core 3/5 |

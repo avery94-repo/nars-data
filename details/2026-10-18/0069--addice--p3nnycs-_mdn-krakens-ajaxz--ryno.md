@@ -36,24 +36,24 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-03 | deez | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.90 | 1.37 | 1.00 | 1.23 | 0.14 | 1.23 | +46.9 | 2Panic, AJaxz-, BATSPEED, KrakenS, P3nnyCS |
 | 2026-08-26 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.47 | 1.00 | 1.24 | 0.00 | 0.00 | -10.4 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-08-25 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.47 | 1.00 | 1.23 | 0.78 | 1.23 | +151.2 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
-| 2026-08-21 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.47 | 1.00 | 1.19 | 0.20 | 1.19 | +138.7 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
-| 2026-08-19 | Axial | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.00 | 0.00 | -108.0 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
-| 2026-08-14 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.47 | 1.00 | 1.12 | 0.11 | 1.12 | +58.5 | AJaxz-, BATSPEED, KrakenS, Ryno, _mdn |
+| 2026-08-21 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.47 | 1.00 | 1.19 | 0.20 | 1.19 | +138.8 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
+| 2026-08-19 | Axial | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.00 | 0.00 | -108.1 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
+| 2026-08-14 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.47 | 1.00 | 1.12 | 0.11 | 1.12 | +58.6 | AJaxz-, BATSPEED, KrakenS, Ryno, _mdn |
 | 2026-08-12 | Pug Palace | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.47 | 1.00 | 1.10 | 0.00 | 0.00 | -68.9 | AJaxz-, BATSPEED, P3nnyCS, Ryno, _mdn |
 | 2026-08-06 | counterstrike Team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.47 | 1.00 | 1.04 | 0.24 | 1.04 | +9.2 | AJaxz-, KrakenS, P3nnyCS, Ryno, _mdn |
-| 2026-08-05 | dead team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.05 | 1.03 | +95.6 | AJaxz-, BATSPEED, KrakenS, P3nnyCS, _mdn |
+| 2026-08-05 | Ex-Tricksters | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.05 | 1.03 | +95.6 | AJaxz-, BATSPEED, KrakenS, P3nnyCS, _mdn |
 | 2026-08-04 | Chicken Coop | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.02 | 0.00 | 0.00 | -0.1 | AJaxz-, BATSPEED, KrakenS, P3nnyCS, _mdn |
 | 2026-07-29 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.00 | 0.00 | -1.6 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-07-24 | Elation | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.47 | 1.00 | 0.92 | 0.00 | 0.00 | -20.5 | AJaxz-, BATSPEED, KrakenS, Ryno, _mdn |
 | 2026-07-22 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.47 | 1.00 | 0.90 | 0.00 | 0.00 | -116.8 | AJaxz-, BATSPEED, KrakenS, Ryno, _mdn |
-| 2026-07-17 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.47 | 1.00 | 0.85 | 0.00 | 0.00 | -30.3 | 1hades, BATSPEED, KrakenS, Ryno, _mdn |
+| 2026-07-17 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.47 | 1.00 | 0.85 | 0.00 | 0.00 | -30.4 | 1hades, BATSPEED, KrakenS, Ryno, _mdn |
 | 2026-05-21 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.20 | 1.36 | 1.00 | 0.27 | 0.01 | 0.27 | +0.7 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-19 | Olympus | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.18 | 1.36 | 1.00 | 0.25 | 0.16 | 0.25 | +428.2 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-14 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.15 | 1.36 | 1.00 | 0.21 | 0.00 | 0.00 | -55.1 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-12 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.36 | 1.00 | 0.19 | 0.00 | 0.00 | -56.7 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-07 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.36 | 1.00 | 0.14 | 0.00 | 0.00 | -355.0 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-05 | GRIT | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.36 | 1.00 | 0.12 | 0.01 | 0.12 | +11.9 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
-| 2026-04-30 | SOLA | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.36 | 1.00 | 0.08 | 0.00 | 0.08 | +175.6 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
+| 2026-04-30 | SOLA GAMING | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.36 | 1.00 | 0.08 | 0.00 | 0.08 | +175.6 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-04-28 | raisedbypixels | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.36 | 1.00 | 0.06 | 0.00 | 0.00 | -336.0 | 1hades, KrakenS, Ryno, _mdn, linko |
 | 2026-04-22 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.00 | 1.36 | 1.00 | 0.01 | 0.00 | 0.00 | -15.1 | 1hades, AJaxz-, KrakenS, Ryno, linko |
 

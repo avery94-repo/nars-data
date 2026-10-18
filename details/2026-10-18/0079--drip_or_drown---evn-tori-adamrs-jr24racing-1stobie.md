@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-15 | brb grinding minecraft | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.07 | 1.02 | +5.6 | -evN, AdamRS, Tori, jr24racing, stobie |
 | 2026-09-09 | DETONATE | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.37 | 1.00 | 1.28 | 0.00 | 0.00 | -0.5 | -evN, AdamRS, Tori, jr24racing, stobie |
 | 2026-09-08 | The Kerbins | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.00 | 0.00 | -206.5 | -evN, AdamRS, Tori, jr24racing, stobie |
-| 2026-09-05 | Cortex Jellies | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.91 | 1.04 | 1.00 | 0.95 | 0.08 | 0.95 | +3.0 | -evN, AdamRS, Tori, jr24racing, stobie |
+| 2026-09-05 | Cortex Jellies | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.91 | 1.04 | 1.00 | 0.95 | 0.08 | 0.95 | +2.9 | -evN, AdamRS, Tori, jr24racing, stobie |
 | 2026-09-04 | pnks pretty princesses | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.04 | 1.00 | 0.94 | 0.03 | 0.94 | +1.8 | -evN, AdamRS, Tori, jr24racing, stobie |
 | 2026-09-02 | 5_gamers_wrong_game | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.04 | 1.00 | 0.93 | 0.03 | 0.93 | +0.3 | -evN, AdamRS, Tori, jr24racing, stobie |
 | 2026-09-01 | Conscious Gaming | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.88 | 1.37 | 1.00 | 1.21 | 0.21 | 1.21 | +258.2 | -evN, AdamRS, Tori, jr24racing, stobie |

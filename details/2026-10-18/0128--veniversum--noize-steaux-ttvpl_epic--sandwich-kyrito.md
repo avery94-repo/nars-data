@@ -26,9 +26,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-14 | fiveB | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +12.2 | K4rnage975, Steaux, kyritosan, oer, ttvPL_Epic |
 | 2026-10-14 | WhiteBoyWinter | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +153.4 | K4rnage975, Steaux, kyritosan, oer, ttvPL_Epic |
-| 2026-10-09 | NetanYAHOO | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.09 | 1.03 | +61.9 | -sandwich, K4rnage975, Steaux, kyritosan, ttvPL_Epic |
+| 2026-10-09 | NetanYAHOO | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.09 | 1.03 | +62.0 | -sandwich, K4rnage975, Steaux, kyritosan, ttvPL_Epic |
 | 2026-10-07 | monitor off | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +0.7 | K4rnage975, Steaux, TrapChuk, kyritosan, ttvPL_Epic |
-| 2026-09-17 | UsingCodefArt25atSCL | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.99 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -36.4 | -sandwich, Steaux, TrapChuk, kyritosan, ttvPL_Epic |
+| 2026-09-17 | UsingCodefArt25atSCL | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.99 | 1.02 | 1.00 | 1.01 | 0.00 | 0.00 | -36.4 | -sandwich, Steaux, TrapChuk, kyritosan, ttvPL_Epic |
 | 2026-09-08 | fast8 | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -117.6 | Intrixer, Nuggetoni, Steaux, kyritosan, ttvPL_Epic |
 | 2026-09-06 | CLUE IN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.04 | 0.94 | +157.1 | -sandwich, Shuppet, Steaux, kyritosan, ttvPL_Epic |
 | 2026-09-02 | Team Astryx | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.05 | 0.91 | +136.4 | -sandwich, Intrixer, Steaux, kyritosan, ttvPL_Epic |

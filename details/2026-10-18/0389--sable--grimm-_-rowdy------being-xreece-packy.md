@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Kitzune Division | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +81.8 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-09-04 | RAZED | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -114.3 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-06-12 | Team TahMeow | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.00 | 0.00 | -157.1 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
-| 2026-06-03 | We Have No Enemies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +190.6 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
+| 2026-06-03 | We Have No Enemies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +190.7 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-05-29 | Kings Gambit | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -158.6 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-05-27 | gimme noggin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.24 | +193.6 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 

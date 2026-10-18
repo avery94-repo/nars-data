@@ -4,14 +4,14 @@ Roster: PeePeePooPoo, Kats, _Hiki_, yourlimiter, suityan
 NARS Rank: 265 of 512
 
 Final Rating: 1359.8
-Seeded Start: 1272.2
-H2H Adjustment: +87.6
+Seeded Start: 1272.1
+H2H Adjustment: +87.7
 
-Final Rating (1359.8) = Seeded Start (1272.2) + H2H Adjustment (+87.6)
+Final Rating (1359.8) = Seeded Start (1272.1) + H2H Adjustment (+87.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.123 x 1400 = 1272.2
+                = 1100 + 0.123 x 1400 = 1272.1
 
 seed_factor 0.123 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.029) + 0.25 x Opponent Network (0.360)
 
@@ -39,8 +39,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.03 | 0.22 | +232.4 | Kats, PeePeePooPoo, _Hiki_, suityan, yourlimiter |
 | 2026-05-15 | qcclan | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -195.2 | Kats, PeePeePooPoo, _Hiki_, suityan, yourlimiter |
 | 2026-05-12 | Team Amplus | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.16 | 0.00 | 0.00 | -263.0 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan, yourlimiter |
-| 2026-05-08 | Shaboing Boing Bandits | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -227.8 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
-| 2026-05-06 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.01 | 0.11 | +386.8 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
+| 2026-05-08 | Shaboing Boing Bandits | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -227.9 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
+| 2026-05-06 | Fortis Fortuna Adiuvat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.01 | 0.11 | +386.9 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
 | 2026-05-01 | Salsas Mazzin Crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.01 | 0.07 | +244.9 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
 | 2026-04-29 | Wealth Reduction | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -397.8 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |
 | 2026-04-23 | Order Zero | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +269.9 | -slm1ne, Kats, PeePeePooPoo, _Hiki_, suityan |

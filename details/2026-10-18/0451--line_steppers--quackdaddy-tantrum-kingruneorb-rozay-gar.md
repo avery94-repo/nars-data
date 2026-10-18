@@ -3,11 +3,11 @@ Team Name: Line Steppers
 Roster: QuackDaddy, tantruM, Kingruneorb, rozay, Garbagebag
 NARS Rank: 451 of 512
 
-Final Rating: 913.7
+Final Rating: 913.6
 Seeded Start: 1196.2
-H2H Adjustment: -282.5
+H2H Adjustment: -282.6
 
-Final Rating (913.7) = Seeded Start (1196.2) + H2H Adjustment (-282.5)
+Final Rating (913.6) = Seeded Start (1196.2) + H2H Adjustment (-282.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

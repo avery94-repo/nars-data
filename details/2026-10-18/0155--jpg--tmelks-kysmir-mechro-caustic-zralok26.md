@@ -4,14 +4,14 @@ Roster: tmelks, kysmir, mechro, caustic, Zralok26
 NARS Rank: 155 of 512
 
 Final Rating: 1593.6
-Seeded Start: 1339.6
-H2H Adjustment: +254.0
+Seeded Start: 1339.5
+H2H Adjustment: +254.1
 
-Final Rating (1593.6) = Seeded Start (1339.6) + H2H Adjustment (+254.0)
+Final Rating (1593.6) = Seeded Start (1339.5) + H2H Adjustment (+254.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.171 x 1400 = 1339.6
+                = 1100 + 0.171 x 1400 = 1339.5
 
 seed_factor 0.171 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.056) + 0.25 x Opponent Network (0.498)
 
@@ -34,12 +34,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Costco Family | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.10 | 0.00 | +6.5 | caustic, kysmir, malexic, mechro, tmelks |
 | 2026-08-28 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.13 | 0.00 | +53.8 | MITSUMI, Zralok26, caustic, mechro, tmelks |
 | 2026-08-26 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -29.2 | MITSUMI, Zralok26, caustic, kysmir, mechro |
-| 2026-08-21 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -93.1 | MITSUMI, caustic, kysmir, mechro, tmelks |
+| 2026-08-21 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -93.2 | MITSUMI, caustic, kysmir, mechro, tmelks |
 | 2026-08-19 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.06 | 0.00 | +9.3 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-08-14 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.06 | 0.76 | +43.4 | Zralok26, caustic, malexic, mechro, tmelks |
 | 2026-08-12 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.09 | 0.75 | +9.5 | Zralok26, caustic, malexic, mechro, tmelks |
-| 2026-08-07 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.08 | 0.72 | +132.0 | Zralok26, caustic, kysmir, mechro, tmelks |
-| 2026-08-05 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -216.7 | Zralok26, caustic, kysmir, mechro, tmelks |
+| 2026-08-07 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.08 | 0.72 | +132.1 | Zralok26, caustic, kysmir, mechro, tmelks |
+| 2026-08-05 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -216.8 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-08-03 | ABG Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.09 | 0.69 | +125.5 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-07-29 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -220.1 | MITSUMI, Zralok26, caustic, mechro, tmelks |
 | 2026-07-25 | NoPrac | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.05 | 0.63 | +0.2 | Zralok26, caustic, malexic, mechro, tmelks |

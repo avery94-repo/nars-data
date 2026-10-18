@@ -28,6 +28,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | team leader must 1v9 or L | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.03 | 0.90 | +227.6 | Sconez, ScrappyScrew, Stupidblyat, TheLootGod, mozgof |
 | 2026-09-02 | antiGrav | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.06 | 0.89 | +211.3 | JoshyD_, Sconez, ScrappyScrew, Stupidblyat, TheLootGod, mozgof |
 | 2026-06-02 | LAF | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -213.1 | JoshyD_, Sconez, ScrappyScrew, Stupidblyat, TheLootGod |
-| 2026-05-27 | Goyim Gladiators | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -150.2 | JoshyD_, Sconez, Stupidblyat, TheLootGod, mozgof, notblu33 |
+| 2026-05-27 | Goyim Gladiators | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -150.3 | JoshyD_, Sconez, Stupidblyat, TheLootGod, mozgof, notblu33 |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

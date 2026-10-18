@@ -3,15 +3,15 @@ Team Name: FLOW STATE
 Roster: 1wander, s1Ience, Antii, TONY99999, --mj-
 NARS Rank: 135 of 512
 
-Final Rating: 1633.9
-Seeded Start: 1455.1
-H2H Adjustment: +178.8
+Final Rating: 1634.0
+Seeded Start: 1455.0
+H2H Adjustment: +179.0
 
-Final Rating (1633.9) = Seeded Start (1455.1) + H2H Adjustment (+178.8)
+Final Rating (1634.0) = Seeded Start (1455.0) + H2H Adjustment (+179.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.254 x 1400 = 1455.1
+                = 1100 + 0.254 x 1400 = 1455.0
 
 seed_factor 0.254 = 0.25 x Tier Exposure (0.228) + 0.50 x Quality Wins (0.080) + 0.25 x Opponent Network (0.628)
 
@@ -34,17 +34,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Fortis Fortuna Adiuvat | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.90 | 1.05 | 1.00 | 0.95 | 0.10 | 0.95 | +6.5 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-08-28 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.10 | 0.89 | +19.0 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-08-27 | ThirdSite | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.85 | 1.03 | 1.00 | 0.88 | 0.20 | 0.88 | +47.2 | --mj-, 1wander, Antii, TONY99999, s1Ience |
-| 2026-08-26 | butt | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.08 | 0.87 | +136.8 | --mj-, 1wander, Antii, TONY99999, s1Ience |
+| 2026-08-26 | butt | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.08 | 0.87 | +136.9 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-08-19 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.03 | 1.00 | 0.83 | 0.03 | 0.83 | +11.4 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-08-14 | Qinorhwat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.03 | 1.00 | 0.79 | 0.04 | 0.79 | +124.0 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-08-12 | Wealth Reduction | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.03 | 1.00 | 0.78 | 0.03 | 0.78 | +6.5 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-08-09 | STALLOONS BALLOONS | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.87 | 0.00 | 0.00 | -105.7 | 1wander, Antii, Clank, TONY99999, henry- |
-| 2026-08-09 | Ninjas In Boxer | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.87 | 0.10 | 0.87 | +132.1 | 1wander, Antii, Clank, TONY99999, henry- |
+| 2026-08-09 | Ninjas In Boxer | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.87 | 0.10 | 0.87 | +132.2 | 1wander, Antii, Clank, TONY99999, henry- |
 | 2026-08-07 | Distinguished Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.03 | 1.00 | 0.74 | 0.06 | 0.74 | +21.5 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-08-05 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.03 | 1.00 | 0.73 | 0.03 | 0.73 | +1.1 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-07-30 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.03 | 1.00 | 0.69 | 0.03 | 0.69 | +17.2 | --mj-, 1wander, Antii, TONY99999, s1Ience |
 | 2026-07-26 | mas paspas | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -76.5 | 1wander, Antii, Clank, TONY99999, s1Ience |
-| 2026-07-26 | Tractors | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.64 | 1.00 | 1.00 | 0.64 | 0.12 | 0.64 | +191.2 | 1wander, Antii, Clank, TONY99999, s1Ience |
+| 2026-07-26 | Tractors | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.64 | 1.00 | 1.00 | 0.64 | 0.12 | 0.64 | +191.3 | 1wander, Antii, Clank, TONY99999, s1Ience |
 | 2026-07-23 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.03 | 1.00 | 0.64 | 0.00 | 0.00 | -26.3 | -bpl, 1wander, Antii, TONY99999, s1Ience |
 | 2026-07-22 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.03 | 1.00 | 0.63 | 0.00 | 0.00 | -70.7 | -bpl, 1wander, Antii, TONY99999, s1Ience |
 | 2026-07-17 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.03 | 1.00 | 0.60 | 0.02 | 0.60 | +179.8 | -bpl, 1wander, Antii, TONY99999, s1Ience |

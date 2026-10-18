@@ -3,11 +3,11 @@ Team Name: CVC Retirement
 Roster: Carl1l1, Endadoor, do1phn, FRIGHT3N, DivineFPS
 NARS Rank: 487 of 512
 
-Final Rating: 738.7
+Final Rating: 738.6
 Seeded Start: 1110.4
-H2H Adjustment: -371.7
+H2H Adjustment: -371.8
 
-Final Rating (738.7) = Seeded Start (1110.4) + H2H Adjustment (-371.7)
+Final Rating (738.6) = Seeded Start (1110.4) + H2H Adjustment (-371.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,13 +24,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.04 | 0.21 | +407.7 | --vita--, Carl1l1, DivineFPS, FRIGHT3N, do1phn |
+| 2026-05-22 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.04 | 0.21 | +407.8 | --vita--, Carl1l1, DivineFPS, FRIGHT3N, do1phn |
 | 2026-05-15 | AML | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -298.3 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-05-13 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.00 | -103.1 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-05-08 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -9.4 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
-| 2026-05-06 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.00 | -329.7 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-05-06 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.00 | -329.8 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-04-29 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.05 | +326.3 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-04-24 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -203.5 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
-| 2026-04-22 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.01 | 1.00 | 0.01 | 0.00 | 0.00 | -161.8 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-04-22 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -161.8 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

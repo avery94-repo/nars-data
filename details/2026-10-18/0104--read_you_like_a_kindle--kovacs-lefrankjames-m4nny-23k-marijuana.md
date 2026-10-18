@@ -4,14 +4,14 @@ Roster: Kovacs, lefrankjames, m4nny, 23k, Marijuana
 NARS Rank: 104 of 512
 
 Final Rating: 1702.2
-Seeded Start: 1410.4
-H2H Adjustment: +291.8
+Seeded Start: 1410.3
+H2H Adjustment: +291.9
 
-Final Rating (1702.2) = Seeded Start (1410.4) + H2H Adjustment (+291.8)
+Final Rating (1702.2) = Seeded Start (1410.3) + H2H Adjustment (+291.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.222 x 1400 = 1410.4
+                = 1100 + 0.222 x 1400 = 1410.3
 
 seed_factor 0.222 = 0.25 x Tier Exposure (0.112) + 0.50 x Quality Wins (0.069) + 0.25 x Opponent Network (0.637)
 
@@ -46,7 +46,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.03 | 1.00 | 0.58 | 0.05 | 0.58 | +437.6 | 23k, c4ble, gray_hat, lefrankjames, m4nny |
 | 2026-05-21 | TEMPR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -150.2 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
 | 2026-05-20 | FUELED BY HATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.00 | 0.00 | -291.0 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
-| 2026-05-15 | HUMA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -388.3 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
+| 2026-05-15 | HUMA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -388.4 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
 | 2026-05-13 | gooshedd | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.01 | 0.17 | +150.4 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
 | 2026-05-08 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.01 | 0.13 | +372.5 | 23k, Kovacs, c4ble, lefrankjames, m4nny |
 | 2026-05-06 | REPORT MASSIVE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -8.4 | 23k, Marijuana, c4ble, lefrankjames, m4nny |

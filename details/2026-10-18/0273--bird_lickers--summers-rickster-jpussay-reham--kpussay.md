@@ -24,15 +24,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | Dude Picks | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.05 | 1.00 | 0.98 | 0.00 | 0.00 | -39.4 | KPussay, PLOCH, reham-, rickster, summers |
-| 2026-09-06 | Chopped | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.05 | 1.00 | 0.97 | 0.11 | 0.97 | +95.1 | JPussay, KPussay, PLOCH, reham-, summers |
+| 2026-09-08 | Dude Picks | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.05 | 1.00 | 0.98 | 0.00 | 0.00 | -39.5 | KPussay, PLOCH, reham-, rickster, summers |
+| 2026-09-06 | Chopped | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.05 | 1.00 | 0.97 | 0.11 | 0.97 | +95.2 | JPussay, KPussay, PLOCH, reham-, summers |
 | 2026-08-26 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.00 | 0.00 | -102.0 | JPussay, KPussay, reham-, rickster, summers |
 | 2026-08-21 | Qinorhwat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.03 | 1.00 | 0.84 | 0.04 | 0.84 | +84.5 | JPussay, KPussay, reham-, rickster, summers |
 | 2026-08-19 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.03 | 1.00 | 0.83 | 0.06 | 0.83 | +147.3 | JPussay, KPussay, reham-, rickster, summers |
 | 2026-08-14 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.03 | 1.00 | 0.79 | 0.00 | 0.00 | -104.0 | Clayford, JPussay, KPussay, PLOCH, reham- |
-| 2026-08-12 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.03 | 1.00 | 0.78 | 0.09 | 0.78 | +168.8 | JPussay, KPussay, PLOCH, reham-, summers |
-| 2026-08-07 | Gregs New Cut | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.03 | 1.00 | 0.74 | 0.00 | 0.00 | -100.8 | JPussay, KPussay, PLOCH, reham-, summers |
-| 2026-08-05 | Les Ptis Jus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.03 | 1.00 | 0.73 | 0.06 | 0.73 | +242.6 | JPussay, KPussay, reham-, rickster, summers |
+| 2026-08-12 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.03 | 1.00 | 0.78 | 0.09 | 0.78 | +168.9 | JPussay, KPussay, PLOCH, reham-, summers |
+| 2026-08-07 | Gregs New Cut | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.03 | 1.00 | 0.74 | 0.00 | 0.00 | -100.9 | JPussay, KPussay, PLOCH, reham-, summers |
+| 2026-08-05 | Les Ptis Jus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.03 | 1.00 | 0.73 | 0.06 | 0.73 | +242.7 | JPussay, KPussay, reham-, rickster, summers |
 | 2026-07-31 | MINDTRIP | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.03 | 1.00 | 0.69 | 0.00 | 0.00 | -8.7 | JPussay, KPussay, PLOCH, reham-, summers |
 | 2026-07-29 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.03 | 1.00 | 0.68 | 0.06 | 0.68 | +261.3 | JPussay, KPussay, reham-, rickster, summers |
 | 2026-07-24 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.03 | 1.00 | 0.65 | 0.00 | 0.00 | -16.6 | JPussay, KPussay, reham-, rickster, summers |

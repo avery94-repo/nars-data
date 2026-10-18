@@ -4,14 +4,14 @@ Roster: (unknown)
 NARS Rank: 163 of 512
 
 Final Rating: 1575.2
-Seeded Start: 1264.0
-H2H Adjustment: +311.2
+Seeded Start: 1263.9
+H2H Adjustment: +311.3 (capped at +-300, raw +311.2)
 
-Final Rating (1575.2) = Seeded Start (1264.0) + H2H Adjustment (+311.2)
+Final Rating (1575.2) = Seeded Start (1263.9) + H2H Adjustment (+311.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.117 x 1400 = 1264.0
+                = 1100 + 0.117 x 1400 = 1263.9
 
 seed_factor 0.117 = 0.25 x Tier Exposure (0.209) + 0.50 x Quality Wins (0.077) + 0.25 x Opponent Network (0.105)
 
@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-04 | Marsborne | L |  | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 0.00 | 0.00 | -0.0 | core 3/5 |
-| 2026-09-04 | Villainous | W |  | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 1.24 | 1.45 | +94.7 | core 3/5 |
+| 2026-09-04 | Villainous | W |  | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 1.24 | 1.45 | +94.8 | core 3/5 |
 | 2026-08-26 | Zomblers | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.84 | 1.60 | 1.00 | 1.35 | 0.00 | 0.00 | -0.1 | core 3/5 |
 | 2026-08-25 | Chicken Coop | L |  | VRS-tracked 2026-08 | A | vrs | 0.84 | 1.60 | 1.00 | 1.34 | 0.00 | 0.00 | -0.5 | core 3/5 |
 | 2026-05-02 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.07 | 1.60 | 1.00 | 0.11 | 0.00 | 0.00 | -1.0 | core 3/5 |

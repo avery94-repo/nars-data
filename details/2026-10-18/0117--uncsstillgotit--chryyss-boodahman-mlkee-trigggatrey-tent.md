@@ -3,11 +3,11 @@ Team Name: UncsStillGotIt
 Roster: chryyss, boodahman, MlKEE, Trigggatrey, Tentoh
 NARS Rank: 117 of 512
 
-Final Rating: 1672.7
+Final Rating: 1672.8
 Seeded Start: 1289.1
-H2H Adjustment: +383.6
+H2H Adjustment: +383.7 (capped at +-300, raw +383.6)
 
-Final Rating (1672.7) = Seeded Start (1289.1) + H2H Adjustment (+383.6)
+Final Rating (1672.8) = Seeded Start (1289.1) + H2H Adjustment (+383.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

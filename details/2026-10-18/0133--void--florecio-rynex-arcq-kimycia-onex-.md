@@ -4,14 +4,14 @@ Roster: florecio, Rynex, ArcQ, kimycia, oneX-
 NARS Rank: 133 of 512
 
 Final Rating: 1640.8
-Seeded Start: 1337.4
-H2H Adjustment: +303.4
+Seeded Start: 1337.3
+H2H Adjustment: +303.5 (capped at +-300, raw +303.4)
 
-Final Rating (1640.8) = Seeded Start (1337.4) + H2H Adjustment (+303.4)
+Final Rating (1640.8) = Seeded Start (1337.3) + H2H Adjustment (+303.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.170 x 1400 = 1337.4
+                = 1100 + 0.170 x 1400 = 1337.3
 
 seed_factor 0.170 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.050) + 0.25 x Opponent Network (0.506)
 
@@ -38,8 +38,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.10 | 0.67 | +126.4 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-07-29 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.07 | 0.66 | +113.4 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-07-24 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.08 | 0.62 | +46.9 | ArcQ, Rynex, florecio, kimycia, on_experienc |
-| 2026-07-17 | on disability | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.02 | 0.58 | +89.4 | ArcQ, Rynex, florecio, kimycia, on_experienc |
-| 2026-07-15 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +262.3 | ArcQ, Rynex, florecio, kimycia, on_experienc |
+| 2026-07-17 | on disability | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.02 | 0.58 | +89.5 | ArcQ, Rynex, florecio, kimycia, on_experienc |
+| 2026-07-15 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +262.4 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-05-27 | bubibabu | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.24 | 1.07 | 1.00 | 0.25 | 0.00 | 0.00 | -214.6 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

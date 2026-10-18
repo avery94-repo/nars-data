@@ -3,15 +3,15 @@ Team Name: monitor off
 Roster: OkayKris, -RYL, Poonshi, -cel_, HASHIRA
 NARS Rank: 491 of 512
 
-Final Rating: 710.2
-Seeded Start: 1174.1
+Final Rating: 710.1
+Seeded Start: 1174.0
 H2H Adjustment: -463.9
 
-Final Rating (710.2) = Seeded Start (1174.1) + H2H Adjustment (-463.9)
+Final Rating (710.1) = Seeded Start (1174.0) + H2H Adjustment (-463.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.053 x 1400 = 1174.1
+                = 1100 + 0.053 x 1400 = 1174.0
 
 seed_factor 0.053 = 0.25 x Tier Exposure (0.082) + 0.50 x Quality Wins (0.008) + 0.25 x Opponent Network (0.114)
 
@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -96.1 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-07-31 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.03 | 0.67 | +131.0 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-07-24 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -45.1 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi, crazed |
-| 2026-07-22 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -195.3 | -RYL, -cel_, HASHIRA, OkayKris, crazed |
+| 2026-07-22 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -195.4 | -RYL, -cel_, HASHIRA, OkayKris, crazed |
 | 2026-07-17 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -0.8 | -RYL, -cel_, AMSmooth, HASHIRA, OkayKris |
 | 2026-07-15 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -143.7 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-05-27 | strawberry poptarts | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -173.3 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |

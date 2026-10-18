@@ -24,13 +24,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-14 | Team GREAT | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -174.2 | -dink, -manny, Virtueee1, gaijin, hoomy |
+| 2026-10-14 | Team GREAT | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -174.3 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-10-09 | fiveB | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +6.6 | -dink, -manny, Virtueee1, gaijin, hoomy |
-| 2026-10-07 | Boop Boop Gang | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +5.1 | -dink, -manny, Virtueee1, gaijin, hoomy |
+| 2026-10-07 | Boop Boop Gang | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.09 | 1.03 | +5.1 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-19 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -84.4 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-18 | The Kerbins | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +41.0 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-17 | Black Dragon Society | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.99 | 1.04 | 1.00 | 1.03 | 0.07 | 1.03 | +70.9 | -dink, -manny, Virtueee1, gaijin, hoomy |
-| 2026-09-15 | MEET THE WALL | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.04 | 1.02 | +135.5 | -dink, -manny, Virtueee1, gaijin, hoomy |
+| 2026-09-15 | MEET THE WALL - DEAD | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.04 | 1.02 | +135.5 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-04 | Koi Pond | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.04 | 1.00 | 0.94 | 0.11 | 0.94 | +162.1 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-02 | One More Shot | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.04 | 1.00 | 0.93 | 0.03 | 0.93 | +111.1 | -dink, -manny, Virtueee1, gaijin, hoomy |
 

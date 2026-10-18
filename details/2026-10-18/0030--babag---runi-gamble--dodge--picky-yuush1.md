@@ -4,14 +4,14 @@ Roster: -runi, gamble, -Dodge-, picky, yuush1
 NARS Rank: 30 of 512
 
 Final Rating: 2018.3
-Seeded Start: 1778.2
-H2H Adjustment: +240.1
+Seeded Start: 1778.1
+H2H Adjustment: +240.2
 
-Final Rating (2018.3) = Seeded Start (1778.2) + H2H Adjustment (+240.1)
+Final Rating (2018.3) = Seeded Start (1778.1) + H2H Adjustment (+240.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.484 x 1400 = 1778.2
+                = 1100 + 0.484 x 1400 = 1778.1
 
 seed_factor 0.484 = 0.25 x Tier Exposure (0.415) + 0.50 x Quality Wins (0.341) + 0.25 x Opponent Network (0.841)
 
@@ -47,7 +47,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-20 | Tractors | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.47 | 1.00 | 1.18 | 0.23 | 1.18 | +0.0 | -Dodge-, -runi, gamble, picky, yuush1 |
 | 2026-08-18 | unreal nightmare | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.47 | 1.00 | 1.16 | 0.81 | 1.16 | +46.7 | -Dodge-, -runi, gamble, picky, yuush1 |
 | 2026-08-13 | DETONATE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.76 | 1.47 | 1.00 | 1.11 | 0.00 | 0.00 | -25.5 | -Dodge-, -runi, gamble, picky, yuush1 |
-| 2026-08-11 | Phantom Sense | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.74 | 1.47 | 1.00 | 1.10 | 0.37 | 1.10 | +17.4 | -Dodge-, -runi, gamble, picky, yuush1 |
+| 2026-08-11 | Phantom Sense | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.74 | 1.47 | 1.00 | 1.09 | 0.37 | 1.09 | +17.4 | -Dodge-, -runi, gamble, picky, yuush1 |
 | 2026-07-14 | Quality | W | 2-0 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.56 | 1.28 | 1.00 | 0.72 | 0.05 | 0.72 | +198.2 | -runi, henry-, picky, shonk, yuush1 |
 | 2026-07-14 | X3 Esports | W | 2-0 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.56 | 1.28 | 1.00 | 0.72 | 0.02 | 0.72 | +2.3 | -runi, henry-, picky, shonk, yuush1 |
 

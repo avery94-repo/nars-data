@@ -1,5 +1,5 @@
 ### Roster Details
-Team Name: Team Zhao
+Team Name: DingTone
 Roster: noggen, Tills, BoomService, Marukami, aero
 NARS Rank: 406 of 512
 
@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | OnThaGear | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -75.8 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-10-09 | Mud Wizards | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -128.6 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-10-07 | Bad Jawn | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -88.7 | BoomService, Marukami, Tills, aero, noggen |
-| 2026-09-12 | KIS | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -147.9 | BoomService, Marukami, Tills, aero, noggen |
+| 2026-09-12 | KIS | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -148.0 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-10 | RAZED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.04 | 0.94 | +130.9 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-08 | T Shirt Material | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.04 | 0.93 | +103.9 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-06 | Symbiose | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +99.7 | Marukami, Tills, aero, noggen, s4bre |

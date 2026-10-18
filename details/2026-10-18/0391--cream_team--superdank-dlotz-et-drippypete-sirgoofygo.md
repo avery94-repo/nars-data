@@ -3,11 +3,11 @@ Team Name: Cream Team
 Roster: SuperDank, Dlotz, Et, DrippyPete, SirGoofyGoon
 NARS Rank: 391 of 512
 
-Final Rating: 1078.2
+Final Rating: 1078.1
 Seeded Start: 1231.8
-H2H Adjustment: -153.6
+H2H Adjustment: -153.7
 
-Final Rating (1078.2) = Seeded Start (1231.8) + H2H Adjustment (-153.6)
+Final Rating (1078.1) = Seeded Start (1231.8) + H2H Adjustment (-153.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

@@ -1,13 +1,13 @@
 ### Roster Details
-Team Name: ReGen
+Team Name: DMA
 Roster: Sosa_-, Kally, Brensylvania, JootyBIG, Iceman67
 NARS Rank: 426 of 512
 
-Final Rating: 988.1
+Final Rating: 988.0
 Seeded Start: 1173.9
-H2H Adjustment: -185.8
+H2H Adjustment: -185.9
 
-Final Rating (988.1) = Seeded Start (1173.9) + H2H Adjustment (-185.8)
+Final Rating (988.0) = Seeded Start (1173.9) + H2H Adjustment (-185.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

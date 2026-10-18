@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | noname | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.01 | 1.00 | 1.01 | 0.00 | 0.00 | -35.2 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-10-07 | GeneticDiff | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.01 | 1.00 | 1.01 | 0.00 | 0.00 | -2.6 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-09-08 | Mach 5 | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -27.8 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
-| 2026-09-04 | Costco Family | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.10 | 0.90 | +84.0 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
+| 2026-09-04 | Costco Family | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.10 | 0.90 | +84.1 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-09-02 | Firstwave | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -24.6 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-08-28 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -6.6 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-08-26 | NoPrac | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -59.3 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
@@ -43,12 +43,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-25 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.00 | 0.00 | -185.3 | 0MANA, Boketto253, Ky1e, strmzyy, yerm |
 | 2026-07-17 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.05 | 0.58 | +264.7 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-07-15 | walkthemdown | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +247.2 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
-| 2026-05-31 | Aetheris | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -60.2 | 0MANA, Boketto253, strmzyy, xSilky, yerm |
+| 2026-05-31 | Aetheris | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -60.1 | 0MANA, Boketto253, strmzyy, xSilky, yerm |
 | 2026-05-27 | Midwest Farmers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -153.6 | Boketto253, spriggan, strmzyy, xSilky, yerm |
 | 2026-05-22 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.01 | 0.21 | +36.1 | Boketto253, spriggan, strmzyy, xSilky, yerm |
-| 2026-05-20 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.01 | 0.19 | +178.5 | Boketto253, spriggan, strmzyy, xSilky, yerm |
+| 2026-05-20 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.01 | 0.19 | +178.6 | Boketto253, spriggan, strmzyy, xSilky, yerm |
 | 2026-05-15 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -15.6 | Boketto253, spriggan, strmzyy, xSilky, yerm |
-| 2026-05-13 | Mach 10 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.00 | -338.8 | Boketto253, spriggan, strmzyy, xSilky, yerm |
+| 2026-05-13 | Mach 10 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.00 | -338.9 | Boketto253, spriggan, strmzyy, xSilky, yerm |
 | 2026-05-08 | RunTheDamnBall | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -208.7 | Boketto253, spriggan, strmzyy, xSilky, yerm |
 | 2026-05-06 | EZ2025 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.00 | -437.4 | Boketto253, spriggan, strmzyy, xSilky, yerm |
 | 2026-05-01 | Potential to Stack Dough | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.07 | +20.6 | Boketto253, spriggan, strmzyy, xSilky, yerm |

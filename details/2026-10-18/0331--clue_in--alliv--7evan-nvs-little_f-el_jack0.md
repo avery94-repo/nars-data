@@ -27,11 +27,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | Eightball | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -96.0 | Little_F, NVS, Osodank, alliV-, el_jack0 |
 | 2026-09-06 | Veniversum | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.00 | 0.00 | -156.5 | 7eVaN, Little_F, NVS, el_jack0, xner |
 | 2026-09-04 | UsingCodefArt25atSCL | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.90 | 1.02 | 1.00 | 0.93 | 0.07 | 0.93 | +161.2 | 7eVaN, Little_F, NVS, el_jack0, xner |
-| 2026-09-02 | Mud Wizards | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.06 | 0.91 | +193.1 | 7eVaN, Little_F, NVS, el_jack0, xner |
-| 2026-05-22 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.00 | 0.00 | -35.5 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
+| 2026-09-02 | Mud Wizards | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.06 | 0.91 | +193.2 | 7eVaN, Little_F, NVS, el_jack0, xner |
+| 2026-05-22 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.24 | 0.00 | 0.00 | -35.5 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
 | 2026-05-22 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -400.8 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
-| 2026-05-19 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.21 | +187.8 | Little_F, Slove, alliV-, el_jack0, xner |
-| 2026-05-06 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.01 | 0.11 | +335.3 | 7eVaN, Little_F, alliV-, el_jack0, xner |
+| 2026-05-19 | iNSTINCT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.18 | 1.15 | 1.00 | 0.21 | 0.00 | 0.21 | +187.9 | Little_F, Slove, alliV-, el_jack0, xner |
+| 2026-05-06 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.01 | 0.11 | +335.2 | 7eVaN, Little_F, alliV-, el_jack0, xner |
 | 2026-04-29 | DingTone | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -172.1 | 7eVaN, Little_F, Slove, alliV-, el_jack0 |
 | 2026-04-24 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +255.6 | 7eVaN, Little_F, Osodank, Slove, el_jack0 |
 | 2026-04-22 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.15 | 1.00 | 0.01 | 0.00 | 0.00 | -214.2 | 7eVaN, Little_F, Osodank, Slove, alliV- |

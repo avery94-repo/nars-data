@@ -3,11 +3,11 @@ Team Name: Biggie Cheese Fan Club
 Roster: prospekt-, korra, SHADOWHAWK47, galy, kiss
 NARS Rank: 196 of 512
 
-Final Rating: 1505.6
+Final Rating: 1505.7
 Seeded Start: 1306.1
-H2H Adjustment: +199.5
+H2H Adjustment: +199.6
 
-Final Rating (1505.6) = Seeded Start (1306.1) + H2H Adjustment (+199.5)
+Final Rating (1505.7) = Seeded Start (1306.1) + H2H Adjustment (+199.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Mace Lindu Ruff Rebound | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +3.8 | Jackpot, Owen, galy, korra, prospekt- |
 | 2026-10-07 | de_throne | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.09 | 1.03 | +1.0 | Jackpot, SHADOWHAWK47, galy, korra, prospekt- |
 | 2026-09-18 | CN Chill Boyz | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 1.00 | 1.11 | 1.00 | 1.11 | 0.08 | 1.11 | +85.2 | SHADOWHAWK47, galy, kiss, korra, prospekt- |
-| 2026-09-15 | COGNITIVE | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.09 | 0.13 | 1.09 | +107.3 | Kybrid, galy, kiss, korra, prospekt- |
+| 2026-09-15 | COGNITIVE | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.98 | 1.11 | 1.00 | 1.08 | 0.13 | 1.08 | +107.3 | Kybrid, galy, kiss, korra, prospekt- |
 | 2026-09-08 | Good Vibes Gaming | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -95.6 | Kybrid, SHADOWHAWK47, kiss, korra, prospekt- |
 | 2026-09-06 | The ESEA Clout Tokens | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.07 | 1.02 | +79.3 | SHADOWHAWK47, galy, kiss, korra, prospekt- |
 | 2026-09-04 | ERICKFARRAR | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.90 | 1.11 | 1.00 | 1.00 | 0.04 | 1.00 | +104.9 | SHADOWHAWK47, galy, kiss, korra, prospekt- |

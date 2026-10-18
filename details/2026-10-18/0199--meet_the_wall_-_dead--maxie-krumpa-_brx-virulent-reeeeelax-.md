@@ -1,5 +1,5 @@
 ### Roster Details
-Team Name: MEET THE WALL
+Team Name: MEET THE WALL - DEAD
 Roster: maxie, Krumpa, _BrX, virulent, ReeeeeLaX-
 NARS Rank: 199 of 512
 

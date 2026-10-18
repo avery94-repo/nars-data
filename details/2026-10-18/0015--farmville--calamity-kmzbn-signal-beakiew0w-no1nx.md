@@ -42,12 +42,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | feet67 | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 1.00 | 0.04 | 1.00 | +3.0 | BeaKiew0w, Signal, browNNNNN-, kmzbn, no1nx, sava9e |
 | 2026-09-12 | Overtake Sector | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -38.0 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-11 | SportsBetExpert | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.52 | 0.00 | 0.00 | -1.0 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
-| 2026-09-11 | Overtake Sector | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.52 | 0.00 | 0.00 | -66.1 | core 3/5 |
+| 2026-09-11 | Overtake Sector | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.52 | 0.00 | 0.00 | -66.2 | core 3/5 |
 | 2026-09-10 | makeSHIFT | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.14 | 0.98 | +0.6 | BeaKiew0w, LiLScoop_, Signal, kmzbn, sava9e |
 | 2026-09-10 | SportsBetExpert | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -2.8 | core 3/5 |
 | 2026-09-09 | counterstrike Team | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.37 | 1.00 | 1.28 | 0.30 | 1.28 | +0.2 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
-| 2026-09-08 | MEET THE WALL | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +0.4 | BeaKiew0w, LiLScoop_, Signal, kmzbn, sava9e |
-| 2026-09-07 | Beyond Limits | W | 2-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.92 | 1.60 | 1.00 | 1.48 | 1.02 | 1.48 | +94.2 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
+| 2026-09-08 | MEET THE WALL - DEAD | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.03 | 0.97 | +0.4 | BeaKiew0w, LiLScoop_, Signal, kmzbn, sava9e |
+| 2026-09-07 | Beyond Limits | W | 2-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.92 | 1.60 | 1.00 | 1.48 | 1.02 | 1.48 | +94.3 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-06 | Villainous | W | 2-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.92 | 1.60 | 1.00 | 1.47 | 1.26 | 1.47 | +20.8 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
 | 2026-09-06 | O Fire | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.95 | 0.12 | 0.95 | +0.1 | BeaKiew0w, LiLScoop_, Signal, kmzbn, sava9e |
 | 2026-09-06 | DETONATE | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.92 | 1.60 | 1.00 | 1.47 | 0.00 | 0.00 | -37.0 | BeaKiew0w, Signal, calamity, kmzbn, slugy |
@@ -75,9 +75,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-11 | Hairy Scary Bandits | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.75 | 1.47 | 1.00 | 1.10 | 0.00 | 0.00 | -154.6 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
 | 2026-05-01 | Wildcard | L |  | VRS-tracked 2026-05 | A | vrs | 0.06 | 1.60 | 1.00 | 0.10 | 0.00 | 0.00 | -16.2 | core 3/5 |
 | 2026-04-30 | regain | L |  | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.09 | 0.00 | 0.00 | -6.0 | core 3/5 |
-| 2026-04-30 | Shimmer | W | 2-0 | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.09 | 0.03 | 0.09 | +277.6 | core 3/5 |
+| 2026-04-30 | Shimmer | W | 2-0 | VRS-tracked 2026-04 | A | vrs | 0.06 | 1.59 | 1.00 | 0.09 | 0.03 | 0.09 | +277.7 | core 3/5 |
 | 2026-04-29 | Wildcard | L |  | VRS-tracked 2026-04 | A | vrs | 0.05 | 1.59 | 1.00 | 0.08 | 0.00 | 0.00 | -1.4 | core 3/5 |
-| 2026-04-28 | EX-AETHER | L |  | VRS-tracked 2026-04 | A | vrs | 0.04 | 1.59 | 1.00 | 0.07 | 0.00 | 0.00 | -551.3 | core 3/5 |
+| 2026-04-28 | EX-AETHER | L |  | VRS-tracked 2026-04 | A | vrs | 0.04 | 1.59 | 1.00 | 0.07 | 0.00 | 0.00 | -551.4 | core 3/5 |
 | 2026-04-27 | Reign Above | W |  | VRS-tracked 2026-04 | A | vrs | 0.04 | 1.59 | 1.00 | 0.06 | 0.04 | 0.00 | +21.2 | core 3/5 |
 | 2026-04-26 | OVERKNIGHT | W | 1-0 | VRS-tracked 2026-04 | A | vrs | 0.03 | 1.59 | 1.00 | 0.05 | 0.04 | 0.00 | +174.8 | core 3/5 |
 | 2026-04-26 | insane players | W |  | VRS-tracked 2026-04 | A | vrs | 0.03 | 1.59 | 1.00 | 0.05 | 0.00 | 0.05 | +0.0 | core 3/5 |

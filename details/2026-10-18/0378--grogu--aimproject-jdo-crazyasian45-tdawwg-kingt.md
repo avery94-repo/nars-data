@@ -3,11 +3,11 @@ Team Name: grogu
 Roster: aimproject, jdo, crazyasian45, tdawwg, kingtony
 NARS Rank: 378 of 512
 
-Final Rating: 1108.6
+Final Rating: 1108.5
 Seeded Start: 1114.0
-H2H Adjustment: -5.4
+H2H Adjustment: -5.5
 
-Final Rating (1108.6) = Seeded Start (1114.0) + H2H Adjustment (-5.4)
+Final Rating (1108.5) = Seeded Start (1114.0) + H2H Adjustment (-5.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | PASSION | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -164.8 | aimproject, jdo, kaokao, kingtony, tdawwg |
-| 2026-05-20 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.01 | 0.22 | +305.6 | crazyasian45, jdo, kaokao, kingtony, tdawwg |
+| 2026-05-20 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.01 | 0.22 | +305.7 | crazyasian45, jdo, kaokao, kingtony, tdawwg |
 | 2026-05-14 | goofball gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -319.3 | aimproject, crazyasian45, jdo, kingtony, tdawwg |
 | 2026-05-13 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.01 | 0.17 | +223.6 | aimproject, crazyasian45, jdo, kingtony, tdawwg |
 | 2026-05-08 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -117.8 | aimproject, jdo, kaokao, kingtony, tdawwg |

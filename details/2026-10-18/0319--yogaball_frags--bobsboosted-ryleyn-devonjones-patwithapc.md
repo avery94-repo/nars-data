@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.15 | 1.00 | 0.76 | 0.06 | 0.76 | +227.3 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-07-24 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.15 | 1.00 | 0.72 | 0.00 | 0.00 | -140.3 | BobsBoosted, DevonJones, hoz, lerff, patwithapc, ryleyN |
 | 2026-07-22 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.15 | 1.00 | 0.70 | 0.00 | 0.00 | -60.1 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
-| 2026-07-17 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.15 | 1.00 | 0.66 | 0.06 | 0.66 | +366.3 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
+| 2026-07-17 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.15 | 1.00 | 0.66 | 0.06 | 0.66 | +366.4 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-05-20 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.02 | 0.22 | +292.9 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-15 | Bird Squishers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -31.6 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-13 | grogu | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -222.3 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |

@@ -5,7 +5,7 @@ NARS Rank: 24 of 512
 
 Final Rating: 2084.0
 Seeded Start: 1491.4
-H2H Adjustment: +592.6
+H2H Adjustment: +592.6 (capped at +-300, raw +592.7)
 
 Final Rating (2084.0) = Seeded Start (1491.4) + H2H Adjustment (+592.6)
 
@@ -37,12 +37,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.15 | 1.00 | 0.88 | 0.00 | 0.00 | -137.2 | -TAYLOR, STARKGOD, angekk, haroldz9-21, mdoxZ9 |
 | 2026-08-12 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.15 | 1.00 | 0.86 | 0.14 | 0.86 | +1.5 | -TAYLOR, STARKGOD, angekk, haroldz9-21, mdoxZ9 |
 | 2026-08-07 | Team Team Name | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.15 | 1.00 | 0.82 | 0.08 | 0.82 | +71.8 | -TAYLOR, STARKGOD, angekk, haroldz9-21, mdoxZ9 |
-| 2026-08-05 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.15 | 1.00 | 0.81 | 0.10 | 0.81 | +198.3 | -TAYLOR, STARKGOD, angekk, haroldz9-21, sadnielyy |
+| 2026-08-05 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.15 | 1.00 | 0.81 | 0.10 | 0.81 | +198.4 | -TAYLOR, STARKGOD, angekk, haroldz9-21, sadnielyy |
 | 2026-07-31 | Sassy Sunshines | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.67 | 1.15 | 1.00 | 0.77 | 0.09 | 0.77 | +31.1 | -TAYLOR, STARKGOD, angekk, haroldz9-21, mdoxZ9 |
 | 2026-07-29 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.15 | 1.00 | 0.76 | 0.07 | 0.76 | +58.2 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
-| 2026-07-24 | Tall Ocean Rats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.15 | 1.00 | 0.72 | 0.03 | 0.72 | +250.1 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
+| 2026-07-24 | Tall Ocean Rats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.15 | 1.00 | 0.72 | 0.03 | 0.72 | +250.2 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-07-22 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.15 | 1.00 | 0.70 | 0.00 | 0.00 | -175.9 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
-| 2026-07-17 | EXODIA | W | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.58 | 1.37 | 1.00 | 0.80 | 0.53 | 0.80 | +254.7 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
+| 2026-07-17 | EXODIA | W | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.58 | 1.37 | 1.00 | 0.80 | 0.53 | 0.80 | +254.8 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-07-16 | 773Revival | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.57 | 1.15 | 1.00 | 0.66 | 0.00 | 0.00 | -179.1 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-07-15 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.15 | 1.00 | 0.65 | 0.05 | 0.65 | +33.8 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-05-22 | Down To Frag | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.03 | 0.00 | +416.4 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |

@@ -33,11 +33,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | de_throne | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -135.5 | -Mako, Feez-, Gabimaruu, apik, c0da, ma1N |
 | 2026-08-12 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.06 | 0.75 | +197.2 | -Mako, Feez-, apik, c0da, ma1N |
 | 2026-08-07 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -25.5 | -Mako, Feez-, Strembitsky, c0da, ma1N |
-| 2026-08-05 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -7.8 | -Mako, Feez-, Gabimaruu, c0da, ma1N |
-| 2026-07-29 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -180.2 | -Mako, Feez-, Gabimaruu, apik, ma1N |
+| 2026-08-05 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -7.9 | -Mako, Feez-, Gabimaruu, c0da, ma1N |
+| 2026-07-29 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -180.3 | -Mako, Feez-, Gabimaruu, apik, ma1N |
 | 2026-07-17 | DeathMark E-Sports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -2.3 | Evil_Cheese, Gabimaruu, c0da, ma1N, seth |
 | 2026-07-15 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -0.1 | Gabimaruu, _EyeZ, ma1N, seth, wpn_Blur |
-| 2026-05-22 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.02 | 0.21 | +326.5 | Evil_Cheese, _Tweekz_, c0da, ma1N, wpn_Blur |
+| 2026-05-22 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.20 | 1.01 | 1.00 | 0.21 | 0.02 | 0.21 | +326.6 | Evil_Cheese, _Tweekz_, c0da, ma1N, wpn_Blur |
 | 2026-05-20 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.00 | 0.00 | -177.1 | Evil_Cheese, Gabimaruu, c0da, ma1N, rypeexd, wpn_Blur |
 | 2026-05-15 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.01 | 1.00 | 0.16 | 0.00 | 0.00 | -195.5 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
 | 2026-05-13 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.00 | 0.00 | -51.4 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |

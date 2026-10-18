@@ -13,7 +13,7 @@ Final Rating (1335.8) = Seeded Start (1224.2) + H2H Adjustment (+111.6)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.089 x 1400 = 1224.2
 
-seed_factor 0.089 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.013) + 0.25 x Opponent Network (0.257)
+seed_factor 0.089 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.013) + 0.25 x Opponent Network (0.257)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-16 | Team TahMeow | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -160.9 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
+| 2026-10-16 | Team TahMeow | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -161.0 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
 | 2026-10-09 | Kahoot Squad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +100.8 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
 | 2026-09-12 | WhiteBoyWinter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.96 | 1.04 | 1.00 | 1.00 | 0.00 | 0.00 | -78.8 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-10 | Casual Mature Gamers | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.07 | 0.98 | +90.6 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |

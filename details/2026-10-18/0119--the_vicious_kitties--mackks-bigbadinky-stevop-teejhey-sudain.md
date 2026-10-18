@@ -24,9 +24,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | Torii | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -96.0 | StevoP, Sudain, gameplayer, mackks, teejhey |
+| 2026-09-10 | Torii | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -96.1 | StevoP, Sudain, gameplayer, mackks, teejhey |
 | 2026-09-06 | 1001 Fragrance | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -102.5 | StevoP, Sudain, W0RTHLESS_, gameplayer, teejhey |
-| 2026-09-04 | AURA Esports | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.12 | 0.91 | +4.1 | StevoP, Sudain, gameplayer, mackks, teejhey |
+| 2026-09-04 | AURA Esports | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.12 | 0.90 | +4.1 | StevoP, Sudain, gameplayer, mackks, teejhey |
 | 2026-09-02 | Ubiquiti | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.07 | 0.89 | +0.0 | StevoP, Sudain, gameplayer, mackks, teejhey |
 | 2026-08-28 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.09 | 0.86 | +2.5 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-08-21 | QUPMANACS | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.81 | +86.6 | StevoP, Sudain, bigbadinky, mackks, teejhey |
@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-11 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +93.1 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-08-05 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.10 | 0.70 | +18.2 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-29 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.10 | 0.66 | +5.1 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-07-29 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +219.7 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-07-29 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +219.8 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-24 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.03 | 0.62 | +89.7 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-22 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.02 | 0.61 | +0.0 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-17 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.05 | 0.58 | +164.1 | StevoP, Sudain, gameplayer, mackks, teejhey |

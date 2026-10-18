@@ -4,14 +4,14 @@ Roster: -HuNTeR-, t4urtus, dyragu, -copey, LaRoLdInHo
 NARS Rank: 184 of 512
 
 Final Rating: 1536.5
-Seeded Start: 1328.2
-H2H Adjustment: +208.3
+Seeded Start: 1328.1
+H2H Adjustment: +208.4
 
-Final Rating (1536.5) = Seeded Start (1328.2) + H2H Adjustment (+208.3)
+Final Rating (1536.5) = Seeded Start (1328.1) + H2H Adjustment (+208.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.163 x 1400 = 1328.2
+                = 1100 + 0.163 x 1400 = 1328.1
 
 seed_factor 0.163 = 0.25 x Tier Exposure (0.084) + 0.50 x Quality Wins (0.047) + 0.25 x Opponent Network (0.473)
 
@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.03 | 1.00 | 0.68 | 0.03 | 0.68 | +119.6 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-23 | FLOW STATE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.03 | 1.00 | 0.64 | 0.15 | 0.64 | +26.0 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-22 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.03 | 1.00 | 0.63 | 0.00 | 0.00 | -8.7 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
-| 2026-07-17 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.03 | 1.00 | 0.60 | 0.00 | 0.00 | -285.3 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
+| 2026-07-17 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.03 | 1.00 | 0.60 | 0.00 | 0.00 | -285.4 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-15 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.03 | 1.00 | 0.58 | 0.03 | 0.58 | +124.9 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-06-06 | STFDYSAB | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.30 | 1.03 | 1.00 | 0.31 | 0.00 | 0.00 | -114.8 | -HuNTeR-, -copey, GordiBoi, dyragu, t4urtus |
 | 2026-06-04 | Hairy Scary Bandits | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.29 | 1.03 | 1.00 | 0.30 | 0.05 | 0.30 | +198.9 | -HuNTeR-, -copey, GordiBoi, _37, dyragu |
@@ -47,8 +47,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.19 | 1.01 | 1.00 | 0.19 | 0.02 | 0.19 | +23.8 | -HuNTeR-, -copey, _37, dyragu, t4urtus |
 | 2026-05-13 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.15 | 0.01 | 0.15 | +51.4 | -HuNTeR-, -copey, GordiBoi, _37, dyragu |
 | 2026-05-08 | Costco Family | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.01 | 0.11 | +368.8 | -HuNTeR-, -copey, GordiBoi, _37, dyragu |
-| 2026-05-06 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.00 | -289.8 | -HuNTeR-, -copey, _37, dyragu, t4urtus |
-| 2026-05-01 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.01 | 0.07 | +387.7 | -HuNTeR-, -copey, _37, dyragu, t4urtus |
+| 2026-05-06 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.00 | -289.9 | -HuNTeR-, -copey, _37, dyragu, t4urtus |
+| 2026-05-01 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.01 | 0.07 | +387.8 | -HuNTeR-, -copey, _37, dyragu, t4urtus |
 | 2026-04-29 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.00 | -245.9 | -HuNTeR-, -copey, _37, dyragu, t4urtus |
 | 2026-04-24 | Friendly Fire | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -33.0 | -HuNTeR-, -copey, _37, dyragu, t4urtus |
 | 2026-04-22 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -283.0 | -HuNTeR-, -copey, _37, dyragu, t4urtus |

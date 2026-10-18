@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Comeback Bandits | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +81.3 | Cowpoke-JFK, EditerQWAS, Mazda_M8, Sorbear, daltoid |
 | 2026-10-09 | TOP SHELF WHIFFERS | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-07 | LAF | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -178.2 | Cowpoke-JFK, EditerQWAS, Mazda_M8, Sorbear, daltoid |
-| 2026-09-10 | The ESEA Clout Tokens | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.05 | 0.08 | 1.05 | +105.8 | Cowpoke-JFK, EditerQWAS, Mazda_M8, Sorbear, daltoid |
+| 2026-09-10 | The ESEA Clout Tokens | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.05 | 0.08 | 1.05 | +105.9 | Cowpoke-JFK, EditerQWAS, Mazda_M8, Sorbear, daltoid |
 | 2026-09-08 | STIM | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.08 | 1.03 | +115.9 | Cowpoke-JFK, EditerQWAS, Mazda_M8, Sorbear, daltoid |
 | 2026-09-06 | SSP | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.04 | 1.02 | +24.4 | Cowpoke-JFK, EditerQWAS, Mazda_M8, Sorbear, daltoid |
 

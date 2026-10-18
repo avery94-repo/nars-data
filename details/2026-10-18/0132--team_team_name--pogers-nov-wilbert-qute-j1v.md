@@ -41,12 +41,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.15 | 1.00 | 0.70 | 0.06 | 0.70 | +60.2 | NOV, j1v, pogers, qute, wilbert |
 | 2026-07-17 | Kaos | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.15 | 1.00 | 0.66 | 0.05 | 0.66 | +12.6 | NOV, j1v, pogers, qute, wilbert |
 | 2026-07-15 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.15 | 1.00 | 0.65 | 0.03 | 0.65 | +361.3 | NOV, j1v, pogers, qute, wilbert |
-| 2026-06-03 | Asoka | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.26 | 1.00 | 0.36 | 0.00 | 0.00 | -177.8 | Brod1220, NOV, Nosom, qute, wilbert |
-| 2026-05-31 | Kairo | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.26 | 1.00 | 0.33 | 0.04 | 0.33 | +310.9 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-06-03 | Asoka | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.26 | 1.00 | 0.36 | 0.00 | 0.00 | -177.9 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-05-31 | Kairo | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.26 | 1.00 | 0.33 | 0.04 | 0.33 | +310.9 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-27 | VOID ALUNE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.24 | 1.26 | 1.00 | 0.30 | 0.00 | 0.00 | -7.7 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-20 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.01 | 0.22 | +270.4 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-20 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.00 | 0.00 | -22.9 | Brod1220, NOV, Nosom, qute, wilbert |
-| 2026-05-14 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -233.0 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-05-14 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -233.1 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-13 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -91.1 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-08 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.13 | +53.3 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-06 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.01 | 0.11 | +228.4 | Brod1220, NOV, Nosom, qute, wilbert |

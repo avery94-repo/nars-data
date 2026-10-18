@@ -3,11 +3,11 @@ Team Name: Courage
 Roster: DRUMMIE, stalker, rabbi_mike, ATTKR, kaz
 NARS Rank: 509 of 512
 
-Final Rating: 398.0
+Final Rating: 397.9
 Seeded Start: 1138.5
-H2H Adjustment: -740.5
+H2H Adjustment: -740.6
 
-Final Rating (398.0) = Seeded Start (1138.5) + H2H Adjustment (-740.5)
+Final Rating (397.9) = Seeded Start (1138.5) + H2H Adjustment (-740.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-21 | After Peak | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.03 | 1.00 | 0.84 | 0.00 | 0.00 | -131.9 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
+| 2026-08-21 | After Peak | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.03 | 1.00 | 0.84 | 0.00 | 0.00 | -132.0 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
 | 2026-08-19 | SNOWPLOWERS | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.03 | 1.00 | 0.83 | 0.00 | 0.00 | -90.3 | ATTKR, DRUMMIE, Klein--, rabbi_mike, stalker |
 | 2026-08-14 | Solar Gravity | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.03 | 1.00 | 0.79 | 0.00 | 0.00 | -17.1 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
 | 2026-08-12 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.03 | 1.00 | 0.78 | 0.00 | 0.00 | -15.4 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
@@ -35,12 +35,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.03 | 1.00 | 0.63 | 0.00 | 0.00 | -24.2 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
 | 2026-07-17 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.03 | 1.00 | 0.60 | 0.00 | 0.00 | -0.2 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
 | 2026-05-20 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.00 | 0.22 | +295.3 | -Burn, ATTKR, DRUMMIE, KakaRea, kaz, rabbi_mike |
-| 2026-05-13 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -0.8 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
-| 2026-05-13 | Climbers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -344.3 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
-| 2026-05-06 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -277.9 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
+| 2026-05-13 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -0.8 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
+| 2026-05-13 | Climbers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.00 | 0.00 | -344.4 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
+| 2026-05-06 | Chopped | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -278.0 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
 | 2026-05-01 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.00 | -83.4 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
 | 2026-04-29 | onliners | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -430.1 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
-| 2026-04-24 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +398.6 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
+| 2026-04-24 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.15 | 1.00 | 0.02 | 0.00 | 0.02 | +398.7 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |
 | 2026-04-22 | MASTER ONE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.15 | 1.00 | 0.01 | 0.00 | 0.00 | -41.2 | -Burn, ATTKR, KakaRea, kaz, rabbi_mike |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

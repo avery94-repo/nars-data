@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | GOYPEEKING | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.90 | 1.02 | 1.00 | 0.93 | 0.00 | 0.00 | -126.2 | -yesmar, Casany, Zeafling, r-a-t, seegreen |
 | 2026-09-02 | Vantage | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.03 | 0.91 | +191.1 | -yesmar, Casany, Zeafling, r-a-t, seegreen |
 | 2026-06-03 | Stubbys | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -131.6 | Casany, Grogn, Zeafling, r-a-t, seegreen |
-| 2026-06-02 | MSU MAROON | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +250.3 | Casany, Grogn, Zeafling, r-a-t, seegreen |
+| 2026-06-02 | MSU MAROON | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +250.4 | Casany, Grogn, Zeafling, r-a-t, seegreen |
 | 2026-05-27 | FAT CHUDS BRO | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -220.6 | Casany, NotStruggle, Zeafling, r-a-t, seegreen |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_

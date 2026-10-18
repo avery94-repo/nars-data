@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-16 | GeneticDiff | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.98 | 1.05 | 1.00 | 1.04 | 0.13 | 1.04 | +69.5 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
 | 2026-09-08 | my life be like | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.93 | 1.05 | 1.00 | 0.98 | 0.00 | 0.00 | -33.0 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
 | 2026-09-06 | PASSION | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.92 | 1.05 | 1.00 | 0.97 | 0.11 | 0.97 | +78.2 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
-| 2026-09-05 | butt | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.91 | 1.05 | 1.00 | 0.96 | 0.08 | 0.96 | +129.3 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
+| 2026-09-05 | butt | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.91 | 1.05 | 1.00 | 0.96 | 0.08 | 0.96 | +129.4 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
 | 2026-09-02 | Meepins | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.08 | 0.94 | +40.7 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
 | 2026-08-28 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.00 | 0.00 | -118.9 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
 | 2026-08-26 | enigma | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.16 | 0.87 | +41.5 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
@@ -44,11 +44,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.03 | 1.00 | 0.65 | 0.00 | 0.00 | -117.2 | 1aurora, Ayohhh, EagleyeFoley, Saiyan, jacob |
 | 2026-07-17 | Chopped | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.03 | 1.00 | 0.60 | 0.07 | 0.60 | +71.5 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
 | 2026-07-15 | my life be like | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.03 | 1.00 | 0.58 | 0.00 | 0.00 | -192.3 | 1aurora, EagleyeFoley, RichardR8, Saiyan, jacob |
-| 2026-05-22 | Storm Surge | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -254.5 | 1aurora, EagleyeFoley, PatWasTaken, RichardR8, Saiyan |
+| 2026-05-22 | Storm Surge | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -254.6 | 1aurora, EagleyeFoley, PatWasTaken, RichardR8, Saiyan |
 | 2026-05-20 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.02 | 0.22 | +2.0 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan, jacob |
-| 2026-05-15 | Sedated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.02 | 0.18 | +295.6 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
+| 2026-05-15 | Sedated | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.02 | 0.18 | +295.7 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
 | 2026-05-13 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.01 | 0.17 | +138.3 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
-| 2026-05-08 | Another Day in Paradise | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.13 | +369.7 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
+| 2026-05-08 | Another Day in Paradise | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.13 | +369.8 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
 | 2026-05-06 | FUELED BY HATE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -55.4 | 1aurora, Ayohhh, Saiyan, dahazeyninja, jacob |
 | 2026-05-01 | Bird Lickers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.15 | 1.00 | 0.07 | 0.00 | 0.00 | -121.1 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |
 | 2026-04-29 | Zealous | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.15 | 1.00 | 0.06 | 0.00 | 0.00 | -8.1 | 1aurora, Ayohhh, EagleyeFoley, RichardR8, Saiyan |

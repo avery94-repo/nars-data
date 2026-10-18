@@ -3,15 +3,15 @@ Team Name: Team Auspex
 Roster: _Stuffy, Kirel, Gnat, Boyller, SHLiZZarD
 NARS Rank: 176 of 512
 
-Final Rating: 1544.8
-Seeded Start: 1344.8
+Final Rating: 1544.7
+Seeded Start: 1344.7
 H2H Adjustment: +200.0
 
-Final Rating (1544.8) = Seeded Start (1344.8) + H2H Adjustment (+200.0)
+Final Rating (1544.7) = Seeded Start (1344.7) + H2H Adjustment (+200.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.175 x 1400 = 1344.8
+                = 1100 + 0.175 x 1400 = 1344.7
 
 seed_factor 0.175 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.056) + 0.25 x Opponent Network (0.516)
 
@@ -30,13 +30,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | After Hours | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.06 | 0.89 | +0.0 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-08-28 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.07 | 0.86 | +1.6 | Boyller, Eryyie, Gnat, SHLiZZarD, _Stuffy |
 | 2026-08-26 | JPG | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +29.1 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
-| 2026-08-19 | Sharp | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.14 | 0.80 | +106.4 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
+| 2026-08-19 | Sharp | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.14 | 0.80 | +106.5 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-08-14 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -98.4 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-08-12 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.11 | 0.75 | +3.7 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-08-07 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.09 | 0.72 | +106.9 | Boyller, Carter, Gnat, _Stuffy, hoogs |
 | 2026-08-05 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.08 | 0.70 | +17.0 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
-| 2026-07-29 | Kevin James Fan Club | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.08 | 0.66 | +150.3 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
-| 2026-07-29 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -244.1 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
+| 2026-07-29 | Kevin James Fan Club | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.08 | 0.66 | +150.4 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
+| 2026-07-29 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -244.2 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-07-24 | UltimateDarklordWizardz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.13 | 0.62 | +162.4 | Carter, Gnat, Kirel, SHLiZZarD, _Stuffy |
 | 2026-07-22 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.02 | 0.61 | +360.9 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-07-15 | Big Kahuna Gaming | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.02 | 0.56 | +133.8 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |

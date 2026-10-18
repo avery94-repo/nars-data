@@ -28,8 +28,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Olympus | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.45 | 1.00 | 1.45 | 0.93 | 1.45 | +388.9 | DeSerT_PunK, Fortune_-, RoughFire, replacedcar, rpm |
 | 2026-10-07 | Fathom Gaming | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.45 | 1.00 | 1.45 | 0.00 | 0.00 | -70.5 | DeSerT_PunK, Fortune_-, RoughFire, replacedcar, rpm |
 | 2026-08-28 | Aspyre | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.86 | 1.47 | 1.00 | 1.26 | 0.13 | 1.26 | +48.3 | DeSerT_PunK, Fortune_-, RoughFire, replacedcar, rpm |
-| 2026-08-26 | SOLA | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.47 | 1.00 | 1.24 | 0.06 | 1.24 | +1.3 | DeSerT_PunK, Fortune_-, RoughFire, replacedcar, rpm |
-| 2026-08-21 | Celestial Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.47 | 1.00 | 1.19 | 0.35 | 1.19 | +130.3 | DeSerT_PunK, Fortune_-, RoughFire, replacedcar, rpm |
+| 2026-08-26 | SOLA GAMING | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.47 | 1.00 | 1.24 | 0.06 | 1.24 | +1.3 | DeSerT_PunK, Fortune_-, RoughFire, replacedcar, rpm |
+| 2026-08-21 | Celestial Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.47 | 1.00 | 1.19 | 0.35 | 1.19 | +130.4 | DeSerT_PunK, Fortune_-, RoughFire, replacedcar, rpm |
 | 2026-08-19 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.00 | 0.00 | -0.1 | DeSerT_PunK, Fortune_-, RoughFire, replacedcar, rpm |
 | 2026-08-19 | NXG Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.00 | 0.00 | -136.5 | DeSerT_PunK, Fortune_-, RoughFire, replacedcar, rpm |
 | 2026-08-12 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.47 | 1.00 | 1.10 | 0.17 | 1.10 | +109.6 | DeSerT_PunK, Fortune_-, RoughFire, replacedcar, rpm |

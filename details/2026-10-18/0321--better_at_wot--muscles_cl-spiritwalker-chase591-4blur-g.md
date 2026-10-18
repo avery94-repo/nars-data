@@ -4,14 +4,14 @@ Roster: Muscles_CL, Spiritwalker, Chase591, 4blur, Guest_0-2
 NARS Rank: 321 of 512
 
 Final Rating: 1245.6
-Seeded Start: 1183.9
-H2H Adjustment: +61.7
+Seeded Start: 1183.8
+H2H Adjustment: +61.8
 
-Final Rating (1245.6) = Seeded Start (1183.9) + H2H Adjustment (+61.7)
+Final Rating (1245.6) = Seeded Start (1183.8) + H2H Adjustment (+61.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.060 x 1400 = 1183.9
+                = 1100 + 0.060 x 1400 = 1183.8
 
 seed_factor 0.060 = 0.25 x Tier Exposure (0.046) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.182)
 

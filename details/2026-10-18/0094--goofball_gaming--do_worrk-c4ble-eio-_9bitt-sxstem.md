@@ -4,14 +4,14 @@ Roster: Do_Worrk, c4ble, eIo, _9bitt, sxstem
 NARS Rank: 94 of 512
 
 Final Rating: 1730.9
-Seeded Start: 1374.1
-H2H Adjustment: +356.8 (capped at +-300, raw +356.9)
+Seeded Start: 1374.0
+H2H Adjustment: +356.9
 
-Final Rating (1730.9) = Seeded Start (1374.1) + H2H Adjustment (+356.8)
+Final Rating (1730.9) = Seeded Start (1374.0) + H2H Adjustment (+356.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.196 x 1400 = 1374.1
+                = 1100 + 0.196 x 1400 = 1374.0
 
 seed_factor 0.196 = 0.25 x Tier Exposure (0.083) + 0.50 x Quality Wins (0.057) + 0.25 x Opponent Network (0.585)
 
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Evil Reunion | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.92 | 1.17 | 1.00 | 1.07 | 0.10 | 1.07 | +142.7 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-09-04 | OnlyFans | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.90 | 1.17 | 1.00 | 1.05 | 0.09 | 1.05 | +145.3 | Do_Worrk, _9bitt, c4ble, eIo, endercat07 |
 | 2026-09-02 | Aers Money Crew | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.89 | 1.17 | 1.00 | 1.04 | 0.12 | 1.04 | +13.5 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
-| 2026-08-28 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.86 | 1.15 | 1.00 | 0.99 | 0.00 | 0.00 | -74.4 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
+| 2026-08-28 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.86 | 1.15 | 1.00 | 0.98 | 0.00 | 0.00 | -74.4 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-26 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.84 | 1.15 | 1.00 | 0.97 | 0.16 | 0.97 | +47.0 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-21 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.15 | 1.00 | 0.93 | 0.08 | 0.93 | +63.3 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-19 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.15 | 1.00 | 0.92 | 0.00 | 0.00 | -68.0 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |

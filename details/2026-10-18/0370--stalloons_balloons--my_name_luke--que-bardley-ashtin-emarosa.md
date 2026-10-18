@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | Adria eSports | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.00 | 0.00 | -147.1 | -que, My_Name_Luke, S1n3star, bardley, emarosa, goose_ |
-| 2026-09-02 | ReGen | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.04 | 1.00 | 0.93 | 0.00 | 0.00 | -223.3 | -que, My_Name_Luke, S1n3star, bardley, emarosa |
+| 2026-09-02 | DMA | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.04 | 1.00 | 0.93 | 0.00 | 0.00 | -223.3 | -que, My_Name_Luke, S1n3star, bardley, emarosa |
 | 2026-08-09 | DETONATE | L | 0-2 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.88 | 0.00 | 0.00 | -0.2 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-09 | FLOW STATE | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.87 | 0.20 | 0.87 | +112.9 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-09 | Wuff Widas | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.87 | 0.08 | 0.87 | +258.4 | -que, 1stallion, ashtin, bardley, emarosa |

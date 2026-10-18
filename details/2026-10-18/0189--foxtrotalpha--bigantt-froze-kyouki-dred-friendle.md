@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-09 | Festina Lente | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.32 | 1.07 | 1.00 | 0.35 | 0.00 | 0.00 | -289.5 | AbbyDog, Friendle, Kyouki, bxxba, dred, froze |
 | 2026-06-06 | FLOW STATE | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.31 | 1.07 | 1.00 | 0.33 | 0.07 | 0.33 | +170.3 | Friendle, Kyouki, bxxba, dred, froze |
 | 2026-06-04 | HiveMind | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.07 | 1.00 | 0.31 | 0.02 | 0.31 | +198.3 | Friendle, Kyouki, Tboc13, dred, rovuh |
-| 2026-05-31 | Diggers | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.27 | 1.07 | 1.00 | 0.28 | 0.00 | 0.00 | -141.0 | Friendle, Kyouki, bxxba, dred, froze, rovuh |
+| 2026-05-31 | Diggers | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.07 | 1.00 | 0.28 | 0.00 | 0.00 | -141.0 | Friendle, Kyouki, bxxba, dred, froze, rovuh |
 | 2026-05-29 | Firstwave | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.25 | 1.07 | 1.00 | 0.27 | 0.04 | 0.27 | +247.2 | AbbyDog, Friendle, Kyouki, dred, rovuh |
 | 2026-05-27 | Let It Crust | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.24 | 1.07 | 1.00 | 0.25 | 0.00 | 0.25 | +202.0 | Friendle, Kyouki, bxxba, dred, froze, rovuh |
 

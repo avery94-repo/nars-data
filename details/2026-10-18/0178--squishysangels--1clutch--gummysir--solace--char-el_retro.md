@@ -24,13 +24,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-31 | Hadouken | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.26 | 1.00 | 0.33 | 0.00 | 0.00 | -331.0 | -solacE-, 1Clutch-, Char, GummySir, RetroDonkey, y3ji |
+| 2026-05-31 | Hadouken | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.26 | 1.00 | 0.33 | 0.00 | 0.00 | -331.1 | -solacE-, 1Clutch-, Char, GummySir, RetroDonkey, y3ji |
 | 2026-05-29 | DETONATE | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.25 | 1.26 | 1.00 | 0.32 | 0.00 | 0.00 | -13.0 | -solacE-, 1Clutch-, Char, GummySir, RetroDonkey |
 | 2026-05-27 | Storm Surge | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.24 | 1.26 | 1.00 | 0.30 | 0.04 | 0.00 | +147.9 | -solacE-, Char, GummySir, RetroDonkey, y3ji |
 | 2026-05-22 | No Leaders Please | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.03 | 0.24 | +15.6 | -solacE-, 1Clutch-, Char, GummySir, RetroDonkey |
 | 2026-05-20 | DUI | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.00 | 0.22 | +322.4 | -solacE-, 1Clutch-, Char, GummySir, RetroDonkey |
 | 2026-05-15 | Shaboing Boing Bandits | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.02 | 0.18 | +375.7 | -solacE-, 1Clutch-, Char, GummySir, RetroDonkey |
-| 2026-05-15 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -184.6 | -solacE-, 1Clutch-, Char, GummySir, RetroDonkey |
+| 2026-05-15 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -184.7 | -solacE-, 1Clutch-, Char, GummySir, RetroDonkey |
 | 2026-05-13 | Storm Surge | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.02 | 0.17 | +179.4 | -solacE-, 1Clutch-, Char, GummySir, RetroDonkey |
 | 2026-05-08 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.15 | 1.00 | 0.13 | 0.00 | 0.00 | -0.5 | 1Clutch-, Char, RetroDonkey, solflame, y3ji |
 | 2026-05-06 | Zealous | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.15 | 1.00 | 0.11 | 0.00 | 0.00 | -355.0 | -solacE-, 1Clutch-, Char, GummySir, RetroDonkey |

@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | 69 | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-09-20 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -38.1 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |
 | 2026-09-19 | ODIN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +58.5 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |
-| 2026-09-18 | UsingCodefArt25atSCL | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +75.4 | Corvinelli9, Messy, Striker_Sly, TSQRD, fuhlexer |
+| 2026-09-18 | UsingCodefArt25atSCL | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +75.5 | Corvinelli9, Messy, Striker_Sly, TSQRD, fuhlexer |
 | 2026-09-10 | Swole Patrol | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.97 | 0.00 | 0.00 | -42.4 | Messy, Striker_Sly, TSQRD, fuhlexer, kstew_ |
 | 2026-09-08 | Alternate Earth | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.07 | 0.95 | +82.9 | Corvinelli9, Messy, Striker_Sly, TSQRD, kstew_ |
 | 2026-09-06 | No Excuses | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.03 | 0.94 | +114.5 | Corvinelli9, Messy, TSQRD, intoxify, kstew_ |

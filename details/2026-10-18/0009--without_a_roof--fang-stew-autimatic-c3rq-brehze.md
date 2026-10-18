@@ -3,15 +3,15 @@ Team Name: Without a Roof
 Roster: FaNg, stew, autimatic, c3rq, Brehze
 NARS Rank: 9 of 512
 
-Final Rating: 2519.4
-Seeded Start: 2458.0
+Final Rating: 2519.5
+Seeded Start: 2458.1
 H2H Adjustment: +61.4
 
-Final Rating (2519.4) = Seeded Start (2458.0) + H2H Adjustment (+61.4)
+Final Rating (2519.5) = Seeded Start (2458.1) + H2H Adjustment (+61.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.970 x 1400 = 2458.0
+                = 1100 + 0.970 x 1400 = 2458.1
 
 seed_factor 0.970 = 0.25 x Tier Exposure (1.000) + 0.50 x Quality Wins (0.940) + 0.25 x Opponent Network (1.000)
 
@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-20 | regain | L | 1-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.56 | 1.00 | 1.56 | 0.00 | 0.00 | -110.3 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-18 | NuTorious | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.56 | 1.00 | 1.55 | 1.38 | 1.55 | +0.5 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-15 | Beyond Limits | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.98 | 1.56 | 1.00 | 1.52 | 1.05 | 1.52 | +0.1 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-09-14 | SportsBetExpert | L | W/O | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.56 | 0.00 | 0.00 | -17.0 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-14 | SportsBetExpert | L | W/O | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -17.0 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-14 | SportsBetExpert | L | 2-3 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -21.2 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-13 | LAG Gaming | W | 2-1 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.97 | 1.60 | 1.00 | 1.55 | 1.52 | 0.00 | +30.2 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-13 | SportsBetExpert | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.96 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -23.9 | Brehze, FaNg, autimatic, c3rq, stew |
@@ -49,7 +49,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | Voca | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.52 | 0.00 | 0.00 | -52.5 | core 3/5 |
 | 2026-09-11 | Marsborne | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.52 | 1.48 | 0.00 | +73.1 | core 3/5 |
 | 2026-09-10 | Marsborne | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.95 | 1.60 | 1.00 | 1.52 | 1.48 | 1.52 | +184.2 | Brehze, FaNg, autimatic, c3rq, stew |
-| 2026-09-10 | Good Vibes Gaming | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.04 | 1.05 | +0.3 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-10 | Good Vibes Gaming | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.94 | 1.11 | 1.00 | 1.05 | 0.04 | 1.05 | +0.3 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-10 | Villainous | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 1.29 | 1.51 | +11.8 | core 3/5 |
 | 2026-09-09 | unreal nightmare | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.37 | 1.00 | 1.28 | 0.89 | 1.28 | +2.0 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-09 | NRG | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.50 | 0.00 | 0.00 | -12.9 | core 3/5 |
@@ -59,7 +59,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | UncsStillGotIt | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.08 | 1.02 | +0.0 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-06 | Beyond Limits | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.92 | 1.60 | 1.00 | 1.47 | 0.00 | 0.00 | -51.2 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-06 | Desi Boyz | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 1.23 | 0.00 | +32.2 | core 3/5 |
-| 2026-09-05 | Beyond Limits | L | 0-1 | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 0.00 | 0.00 | -56.5 | Brehze, FaNg, autimatic, c3rq, stew |
+| 2026-09-05 | Beyond Limits | L | 0-1 | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 0.00 | 0.00 | -56.6 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-05 | LUMA | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.02 | 0.06 | 1.02 | +0.0 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-05 | Marsborne | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.91 | 1.60 | 1.00 | 1.45 | 0.00 | 0.00 | -12.3 | Brehze, FaNg, autimatic, c3rq, stew |
 | 2026-09-04 | CELESTIAL | W |  | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 1.08 | 0.00 | +5.2 | core 3/5 |

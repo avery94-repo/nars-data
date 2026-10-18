@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-17 | ODIN | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.99 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -68.0 | -gABRIEL, Props, Yur_Mad, boojerz, turtillo |
+| 2026-09-17 | ODIN | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.99 | 1.02 | 1.00 | 1.01 | 0.00 | 0.00 | -68.0 | -gABRIEL, Props, Yur_Mad, boojerz, turtillo |
 | 2026-09-15 | Eightball | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.00 | 0.07 | 1.00 | +65.7 | -gABRIEL, Props, Yur_Mad, boojerz, turtillo |
 | 2026-09-08 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -21.6 | -gABRIEL, Props, boojerz, bryan, turtillo |
-| 2026-09-06 | GOYPEEKING | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.08 | 0.94 | +98.0 | -gABRIEL, Props, Yur_Mad, bryan, turtillo |
+| 2026-09-06 | GOYPEEKING | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.08 | 0.94 | +98.1 | -gABRIEL, Props, Yur_Mad, bryan, turtillo |
 | 2026-09-04 | NKBasketWeavers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.90 | 1.02 | 1.00 | 0.93 | 0.03 | 0.93 | +121.6 | -gABRIEL, Props, Yur_Mad, boojerz, turtillo |
 | 2026-09-02 | Team Ascension | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.03 | 0.91 | +138.1 | -gABRIEL, Bmich, Props, boojerz, turtillo |
 

@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | Kevin James Fan Club | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -20.7 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
+| 2026-09-10 | Kevin James Fan Club | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -20.8 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-09-08 | D1NK Esports | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.12 | 0.93 | +70.2 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-09-06 | Anchors Anonymous | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.07 | 0.92 | +92.9 | MrOllie200, Rennerr, SirOdawg, destind2lose, piK |
 | 2026-09-02 | The Sweepers | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -70.7 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.09 | 0.80 | +110.7 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-08-14 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -144.4 | MrOllie200, Rennerr, Shoodyman, SirOdawg, destind2lose |
 | 2026-08-12 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.03 | 0.75 | +1.8 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
-| 2026-08-07 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +150.5 | MrOllie200, Mythik, Rennerr, SirOdawg, piK |
+| 2026-08-07 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +150.6 | MrOllie200, Mythik, Rennerr, SirOdawg, piK |
 | 2026-07-29 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.08 | 0.66 | +152.4 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-07-29 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -3.9 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-07-25 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.00 | 0.00 | -0.3 | MrOllie200, Mythik, SirOdawg, destind2lose, piK |

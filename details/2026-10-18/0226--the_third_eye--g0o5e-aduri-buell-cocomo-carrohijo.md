@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-24 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -182.0 | Buell, CarroHijo, Exp3rtPinky, ItzMusa, OGYodaa |
+| 2026-07-24 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -182.1 | Buell, CarroHijo, Exp3rtPinky, ItzMusa, OGYodaa |
 | 2026-07-15 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.05 | 0.56 | +0.9 | Buell, CarroHijo, Exp3rtPinky, ItzMusa, OGYodaa |
 | 2026-06-10 | GodFather Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.01 | 0.33 | +144.6 | Buell, CarroHijo, Exp3rtPinky, cocomo, iced00 |
 | 2026-06-03 | Robert Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +245.2 | Buell, CarroHijo, Exp3rtPinky, cocomo, iced00 |

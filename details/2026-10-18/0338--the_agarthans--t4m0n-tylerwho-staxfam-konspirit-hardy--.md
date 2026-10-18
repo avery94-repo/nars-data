@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-11 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.13 | 0.00 | 0.00 | -24.1 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-05-08 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.01 | 1.00 | 0.11 | 0.01 | 0.11 | +409.4 | -PHANTOM-, hardy--, konspirit, staxfam, t4m0n |
 | 2026-05-06 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.00 | -2.5 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
-| 2026-05-01 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -242.3 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
+| 2026-05-01 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -242.4 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-04-29 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.00 | -452.4 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-04-24 | Zenano | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.02 | +228.7 | Kr1MsTer, hardy--, konspirit, staxfam, tylerwho |
 | 2026-04-22 | wabbit2 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | +240.3 | hardy--, konspirit, staxfam, t4m0n, tylerwho |

@@ -5,7 +5,7 @@ NARS Rank: 31 of 512
 
 Final Rating: 2017.1
 Seeded Start: 1346.4
-H2H Adjustment: +670.7 (capped at +-300, raw +670.6)
+H2H Adjustment: +670.7
 
 Final Rating (2017.1) = Seeded Start (1346.4) + H2H Adjustment (+670.7)
 
@@ -13,7 +13,7 @@ Final Rating (2017.1) = Seeded Start (1346.4) + H2H Adjustment (+670.7)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.176 x 1400 = 1346.4
 
-seed_factor 0.176 = 0.25 x Tier Exposure (0.088) + 0.50 x Quality Wins (0.058) + 0.25 x Opponent Network (0.501)
+seed_factor 0.176 = 0.25 x Tier Exposure (0.088) + 0.50 x Quality Wins (0.058) + 0.25 x Opponent Network (0.500)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -30,14 +30,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | US Navy Esports | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.15 | 1.00 | 0.82 | 0.00 | 0.00 | -106.6 | Bongo-_-, Diodor, Offnik322, swayy, zdoroviy666 |
 | 2026-08-05 | Manx Recovery Program | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.15 | 1.00 | 0.81 | 0.07 | 0.81 | +32.2 | Bongo-_-, Diodor, Ot7o, swayy, zdoroviy666 |
 | 2026-07-31 | gooshedd | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.67 | 1.15 | 1.00 | 0.77 | 0.03 | 0.77 | +3.9 | Bongo-_-, Diodor, Offnik322, Ot7o, zdoroviy666 |
-| 2026-07-29 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.15 | 1.00 | 0.76 | 0.12 | 0.76 | +47.9 | Bongo-_-, Naswai, Offnik322, Ot7o, zdoroviy666 |
+| 2026-07-29 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.15 | 1.00 | 0.76 | 0.12 | 0.76 | +48.0 | Bongo-_-, Naswai, Offnik322, Ot7o, zdoroviy666 |
 | 2026-07-24 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.15 | 1.00 | 0.72 | 0.08 | 0.72 | +9.6 | Bongo-_-, Naswai, Offnik322, Ot7o, zdoroviy666 |
 | 2026-07-17 | DingTone | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.15 | 1.00 | 0.66 | 0.05 | 0.66 | +0.0 | Bongo-_-, Naswai, Offnik322, Ot7o, zdoroviy666 |
 | 2026-06-06 | NXG Esports | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.26 | 1.00 | 0.38 | 0.00 | 0.00 | -193.9 | Bongo-_-, Diodor, Naswai, Offnik322, swayy, zdoroviy666 |
 | 2026-06-04 | VOID ALUNE | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.26 | 1.00 | 0.37 | 0.07 | 0.37 | +84.3 | Bongo-_-, Diodor, Naswai, Offnik322, swayy |
 | 2026-06-02 | DNA | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.26 | 1.00 | 0.35 | 0.01 | 0.35 | +75.2 | Bongo-_-, Naswai, Offnik322, Ot7o, swayy, zdoroviy666 |
 | 2026-05-31 | Kurrupted Mindz | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.26 | 1.00 | 0.33 | 0.02 | 0.33 | +124.7 | Bongo-_-, Naswai, Offnik322, Ot7o, swayy, zdoroviy666 |
-| 2026-05-29 | Skyline | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.25 | 1.26 | 1.00 | 0.32 | 0.00 | 0.00 | -323.7 | Bongo-_-, Offnik322, Ot7o, swayy, zdoroviy666 |
+| 2026-05-29 | Skyline | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.25 | 1.26 | 1.00 | 0.32 | 0.00 | 0.00 | -323.8 | Bongo-_-, Offnik322, Ot7o, swayy, zdoroviy666 |
 | 2026-05-23 | Team Amplus | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.21 | 1.15 | 1.00 | 0.24 | 0.04 | 0.24 | +164.8 | Bongo-_-, Naswai, Offnik322, swayy, zdoroviy666 |
 | 2026-05-20 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.02 | 0.22 | +235.7 | Bongo-_-, Offnik322, Ot7o, swayy, zdoroviy666 |
 | 2026-05-15 | Asoka | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.15 | 1.00 | 0.18 | 0.00 | 0.00 | -429.1 | Bongo-_-, Naswai, Offnik322, swayy, zdoroviy666 |

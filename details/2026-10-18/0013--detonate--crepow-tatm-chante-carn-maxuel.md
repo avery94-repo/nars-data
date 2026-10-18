@@ -1,5 +1,5 @@
 ### Roster Details
-Team Name: Detonate
+Team Name: DETONATE
 Roster: CrePoW, tatm, chante, carn, Maxuel
 NARS Rank: 13 of 512
 
@@ -11,9 +11,9 @@ Final Rating (2260.3) = Seeded Start (2383.1) + H2H Adjustment (-122.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.917 x 1400 = 2383.1
+                = 1100 + 0.916 x 1400 = 2383.1
 
-seed_factor 0.917 = 0.25 x Tier Exposure (1.000) + 0.50 x Quality Wins (0.841) + 0.25 x Opponent Network (0.984)
+seed_factor 0.916 = 0.25 x Tier Exposure (1.000) + 0.50 x Quality Wins (0.841) + 0.25 x Opponent Network (0.984)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -41,11 +41,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-09 | Drip or Drown | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.94 | 1.37 | 1.00 | 1.28 | 0.19 | 1.28 | +0.6 | CRADDOCK, Feral, Maxuel, carn, chante |
 | 2026-09-06 | Overtake Sector | L | 1-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.92 | 1.60 | 1.00 | 1.47 | 0.00 | 0.00 | -24.7 | Maxuel, carn, chante, nilsje, tatm |
 | 2026-09-06 | FarmVille | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.92 | 1.60 | 1.00 | 1.47 | 1.47 | 1.47 | +37.0 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-09-06 | FarmVille | W | 1-0 | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 1.46 | 0.00 | +56.4 | Maxuel, carn, chante, nilsje, tatm |
-| 2026-09-06 | regain | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 0.00 | 0.00 | -86.3 | core 3/5 |
+| 2026-09-06 | FarmVille | W | 1-0 | NSTLGA League S2 \| RD3 1-1 Games | B | faceit-tournament | 0.92 | 1.59 | 1.00 | 1.46 | 1.46 | 0.00 | +56.5 | Maxuel, carn, chante, nilsje, tatm |
+| 2026-09-06 | regain | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 0.00 | 0.00 | -86.4 | core 3/5 |
 | 2026-09-05 | LAG Gaming | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.91 | 1.60 | 1.00 | 1.45 | 0.00 | 0.00 | -7.1 | Feral, Maxuel, carn, chante, tatm |
 | 2026-09-05 | FarmVille | W | 1-0 | VRS-tracked 2026-09 | A | vrs | 0.91 | 1.60 | 1.00 | 1.46 | 1.46 | 0.00 | +40.1 | core 3/5 |
-| 2026-09-04 | Beyond Limits | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.91 | 1.56 | 1.00 | 1.41 | 0.97 | 1.41 | +64.6 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-09-04 | Beyond Limits | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.90 | 1.56 | 1.00 | 1.41 | 0.97 | 1.41 | +64.6 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-09-04 | NuTorious | W | 1-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.90 | 1.60 | 1.00 | 1.44 | 1.28 | 1.44 | +38.5 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-09-04 | LAG Gaming | L |  | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 0.00 | 0.00 | -1.5 | core 3/5 |
 | 2026-09-03 | Overtake Sector | L | 0-2 | NSTLGA League S2 \| Stage 1 Ruby Tiebreakers \| Group A | B | faceit-tournament | 0.90 | 1.59 | 1.00 | 1.43 | 0.00 | 0.00 | -31.8 | CrePoW, Maxuel, carn, chante, tatm |
@@ -61,12 +61,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-25 | KODEX ESPORTS | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.84 | 1.47 | 1.00 | 1.23 | 0.24 | 1.23 | +6.4 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-08-25 | NuTorious | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.84 | 1.60 | 1.00 | 1.34 | 0.00 | 0.00 | -32.3 | core 3/5 |
 | 2026-08-24 | TenToesDown | W | W/O | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.84 | 1.47 | 1.00 | 1.23 | 0.16 | 1.23 | +0.2 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-08-24 | unreal nightmare | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.47 | 1.00 | 1.22 | 0.00 | 0.00 | -99.9 | CrePoW, Maxuel, carn, chante, tatm |
+| 2026-08-24 | unreal nightmare | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.47 | 1.00 | 1.22 | 0.00 | 0.00 | -100.0 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-08-23 | Phantom Sense | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.83 | 1.47 | 1.00 | 1.22 | 0.41 | 0.00 | +7.0 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-08-21 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.47 | 1.00 | 1.19 | 0.19 | 1.19 | +92.0 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-08-20 | Tractors | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.47 | 1.00 | 1.18 | 0.23 | 1.18 | +0.0 | CrePoW, Maxuel, carn, chante, tatm |
 | 2026-08-19 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.08 | 1.17 | +19.5 | CrePoW, Maxuel, carn, chante, tatm |
-| 2026-08-18 | NineFly Esports | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.47 | 1.00 | 1.16 | 0.00 | 0.00 | -229.4 | Maxuel, arush, carn, chante, tatm |
+| 2026-08-18 | NineFly Esports | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.47 | 1.00 | 1.16 | 0.00 | 0.00 | -229.5 | Maxuel, arush, carn, chante, tatm |
 | 2026-08-13 | babaG | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.76 | 1.47 | 1.00 | 1.11 | 0.46 | 1.11 | +25.1 | Maxuel, arush, carn, chante, tatm |
 | 2026-08-09 | STALLOONS BALLOONS | W | 2-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.88 | 0.08 | 0.88 | +0.2 | Maxuel, arush, carn, chante, tatm |
 | 2026-08-09 | VOID ALUNE | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.73 | 1.20 | 1.00 | 0.87 | 0.16 | 0.87 | +0.7 | Maxuel, arush, carn, chante, tatm |
@@ -76,17 +76,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-30 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.97 | 0.00 | 0.00 | -86.0 | Maxuel, arush, carn, chante, tatm |
 | 2026-07-29 | North Forge | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.27 | 0.96 | +167.5 | Maxuel, arush, carn, chante, tatm |
 | 2026-07-27 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.47 | 1.00 | 0.94 | 0.00 | 0.00 | -136.8 | Maxuel, arush, carn, chante, tatm |
-| 2026-06-19 | Villainous | L | 0-2 | VRS-tracked 2026-06 | A | vrs | 0.39 | 1.60 | 1.00 | 0.63 | 0.00 | 0.00 | -26.6 | core 3/5 |
-| 2026-06-15 | 027fam | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.36 | 1.26 | 1.00 | 0.46 | 0.06 | 0.46 | +208.1 | Feral, carn, chante, duhpe, tatm |
+| 2026-06-19 | Villainous | L | 0-2 | VRS-tracked 2026-06 | A | vrs | 0.39 | 1.60 | 1.00 | 0.63 | 0.00 | 0.00 | -26.7 | core 3/5 |
+| 2026-06-15 | 027fam | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.36 | 1.26 | 1.00 | 0.46 | 0.06 | 0.46 | +208.2 | Feral, carn, chante, duhpe, tatm |
 | 2026-06-13 | Wanted Goons | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.35 | 1.60 | 1.00 | 0.56 | 0.56 | 0.56 | +154.0 | core 3/5 |
-| 2026-06-13 | Iowa Stormboar | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.35 | 1.60 | 1.00 | 0.56 | 0.00 | 0.00 | -196.7 | core 3/5 |
+| 2026-06-13 | Iowa Stormboar | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.35 | 1.60 | 1.00 | 0.56 | 0.00 | 0.00 | -196.8 | core 3/5 |
 | 2026-06-12 | Festina Lente | L | 0-2 | VRS-tracked 2026-06 | A | vrs | 0.34 | 1.60 | 1.00 | 0.55 | 0.00 | 0.00 | -130.0 | core 3/5 |
 | 2026-06-11 | Iowa Stormboar | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.34 | 1.60 | 1.00 | 0.54 | 0.37 | 0.54 | +33.0 | core 3/5 |
-| 2026-06-04 | Overtake Sector | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.26 | 1.00 | 0.37 | 0.00 | 0.00 | -358.4 | Feral, carn, chante, duhpe, tatm |
+| 2026-06-04 | Overtake Sector | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.26 | 1.00 | 0.37 | 0.00 | 0.00 | -358.5 | Feral, carn, chante, duhpe, tatm |
 | 2026-06-02 | Priority | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.26 | 1.00 | 0.35 | 0.01 | 0.35 | +186.2 | Feral, carn, chante, duhpe, tatm |
 | 2026-05-31 | BUCK NASTY | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.26 | 1.00 | 0.33 | 0.01 | 0.33 | +11.6 | carn, chante, duhpe, tatm, ynoTFPS |
 | 2026-05-29 | SquishysAngels | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.25 | 1.26 | 1.00 | 0.32 | 0.01 | 0.32 | +12.8 | Feral, carn, chante, duhpe, tatm |
-| 2026-05-22 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -210.8 | Feral, carn, chante, duhpe, tatm |
+| 2026-05-22 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.00 | 0.00 | -210.9 | Feral, carn, chante, duhpe, tatm |
 | 2026-05-21 | Skyline | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.20 | 1.15 | 1.00 | 0.23 | 0.09 | 0.23 | +0.0 | Feral, carn, chante, duhpe, tatm |
 | 2026-05-20 | Priority | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.19 | 1.15 | 1.00 | 0.22 | 0.01 | 0.00 | +141.7 | Feral, carn, chante, duhpe, tatm |
 | 2026-05-13 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.15 | 1.00 | 0.17 | 0.02 | 0.00 | +16.4 | Feral, carn, chante, duhpe, tatm |

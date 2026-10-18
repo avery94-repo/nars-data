@@ -4,14 +4,14 @@ Roster: phiLm9yne, OJISBAE, 1ferda, mineman97, riizzy
 NARS Rank: 230 of 512
 
 Final Rating: 1423.5
-Seeded Start: 1281.9
-H2H Adjustment: +141.6
+Seeded Start: 1282.0
+H2H Adjustment: +141.5
 
-Final Rating (1423.5) = Seeded Start (1281.9) + H2H Adjustment (+141.6)
+Final Rating (1423.5) = Seeded Start (1282.0) + H2H Adjustment (+141.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.130 x 1400 = 1281.9
+                = 1100 + 0.130 x 1400 = 1282.0
 
 seed_factor 0.130 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.026) + 0.25 x Opponent Network (0.395)
 

@@ -5,7 +5,7 @@ NARS Rank: 78 of 512
 
 Final Rating: 1777.5
 Seeded Start: 1231.7
-H2H Adjustment: +545.8 (capped at +-300, raw +545.7)
+H2H Adjustment: +545.8
 
 Final Rating (1777.5) = Seeded Start (1231.7) + H2H Adjustment (+545.8)
 
@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-21 | Whiff City | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -95.9 | Bismu, Fluq, givy, joshgc, san1ty_st |
 | 2026-09-18 | Toomers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 1.00 | 1.00 | 1.00 | 1.00 | 0.04 | 1.00 | +82.2 | Bismu, Fluq, givy, joshgc, san1ty_st |
-| 2026-09-16 | gunked | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.04 | 0.99 | +98.2 | Bismu, Fluq, givy, joshgc, san1ty_st |
+| 2026-09-16 | gunked | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.99 | 0.04 | 0.99 | +98.3 | Bismu, Fluq, givy, joshgc, san1ty_st |
 | 2026-09-11 | NEWAR | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.04 | 0.95 | +127.5 | Bismu, Fluq, givy, joshgc, san1ty_st |
 | 2026-09-10 | du bist gut genug | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.03 | 0.95 | +136.9 | Bismu, Fluq, givy, joshgc, san1ty_st |
 | 2026-09-04 | Glue Guzzlers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.04 | 0.91 | +196.8 | Bismu, Fluq, givy, joshgc, san1ty_st |

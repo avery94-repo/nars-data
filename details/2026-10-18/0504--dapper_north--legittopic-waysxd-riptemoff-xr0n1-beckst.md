@@ -3,11 +3,11 @@ Team Name: Dapper North
 Roster: LEGITtopic, WaysXD, Riptemoff, xR0n1, Beckster
 NARS Rank: 504 of 512
 
-Final Rating: 545.0
+Final Rating: 544.9
 Seeded Start: 1106.0
-H2H Adjustment: -561.0
+H2H Adjustment: -561.1
 
-Final Rating (545.0) = Seeded Start (1106.0) + H2H Adjustment (-561.0)
+Final Rating (544.9) = Seeded Start (1106.0) + H2H Adjustment (-561.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,6 +30,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-01 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -0.1 | Beckster, LEGITtopic, Riptemoff, WaysXD, xR0n1 |
 | 2026-04-29 | MakeYouSayLate | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.00 | -248.4 | Beckster, LEGITtopic, Riptemoff, WaysXD, xR0n1 |
 | 2026-04-24 | WaterDrinkers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -185.5 | Beckster, LEGITtopic, Riptemoff, WaysXD, xR0n1 |
-| 2026-04-22 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -100.7 | Beckster, LEGITtopic, WaysXD, canplayer, xR0n1 |
+| 2026-04-22 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -100.8 | Beckster, LEGITtopic, WaysXD, canplayer, xR0n1 |
 
 _Snapshot 2026-10-18 | NARS v2 | CC BY-SA 4.0_
