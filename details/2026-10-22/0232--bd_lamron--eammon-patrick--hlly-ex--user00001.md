@@ -1,17 +1,17 @@
 ### Roster Details
 Team Name: BD Lamron
 Roster: eammon, patrick-, hlly, EX-, user00001
-NARS Rank: 232 of 506
+NARS Rank: 232 of 505
 
-Final Rating: 1409.0
-Seeded Start: 1168.3
-H2H Adjustment: +240.7
+Final Rating: 1408.9
+Seeded Start: 1168.1
+H2H Adjustment: +240.8
 
-Final Rating (1409.0) = Seeded Start (1168.3) + H2H Adjustment (+240.7)
+Final Rating (1408.9) = Seeded Start (1168.1) + H2H Adjustment (+240.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.049 x 1400 = 1168.3
+                = 1100 + 0.049 x 1400 = 1168.1
 
 seed_factor 0.049 = 0.25 x Tier Exposure (0.040) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.147)
 
@@ -26,9 +26,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-09 | gunked | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.00 | 0.00 | -118.0 | EX-, eammon, gorman, hlly, patrick- |
 | 2026-09-04 | The Coop | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.03 | 0.88 | +103.6 | EX-, eammon, gorman, hlly, patrick- |
-| 2026-09-03 | Team Vyron | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.03 | 0.87 | +103.7 | 4FFX, EX-, gorman, hlly, patrick- |
+| 2026-09-03 | Team Vyron | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.03 | 0.87 | +103.8 | 4FFX, EX-, gorman, hlly, patrick- |
 | 2026-05-30 | 69 | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.00 | -232.5 | EX-, eammon, gorman, hlly, patrick- |
-| 2026-05-28 | awesomenauts | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.01 | 0.22 | +195.2 | EX-, eammon, gorman, hlly, patrick- |
-| 2026-05-27 | Rainbow Wizards Squad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +188.5 | EX-, eammon, gorman, hlly, patrick- |
+| 2026-05-28 | awesomenauts | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.01 | 0.22 | +195.3 | EX-, eammon, gorman, hlly, patrick- |
+| 2026-05-27 | Rainbow Wizards Squad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +188.6 | EX-, eammon, gorman, hlly, patrick- |
 
 _Snapshot 2026-10-22 | NARS v2 | CC BY-SA 4.0_

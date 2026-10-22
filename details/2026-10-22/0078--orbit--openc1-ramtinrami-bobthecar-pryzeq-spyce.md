@@ -1,17 +1,17 @@
 ### Roster Details
 Team Name: Orbit
 Roster: Openc1, RAMTINRAMI, bobthecar, Pryzeq, Spycey
-NARS Rank: 78 of 506
+NARS Rank: 78 of 505
 
-Final Rating: 1783.7
-Seeded Start: 1127.1
-H2H Adjustment: +656.6
+Final Rating: 1784.1
+Seeded Start: 1127.0
+H2H Adjustment: +657.1
 
-Final Rating (1783.7) = Seeded Start (1127.1) + H2H Adjustment (+656.6)
+Final Rating (1784.1) = Seeded Start (1127.0) + H2H Adjustment (+657.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.019 x 1400 = 1127.1
+                = 1100 + 0.019 x 1400 = 1127.0
 
 seed_factor 0.019 = 0.25 x Tier Exposure (0.011) + 0.50 x Quality Wins (0.001) + 0.25 x Opponent Network (0.065)
 
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-12 | Conduit eSports | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -100.1 | Openc1, Pryzeq, RAMTINRAMI, Spycey, bobthecar |
+| 2026-06-12 | Conduit eSports | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.32 | 1.00 | 1.00 | 0.32 | 0.00 | 0.00 | -99.8 | Openc1, Pryzeq, RAMTINRAMI, Spycey, bobthecar |
 | 2026-06-05 | Gangy eSports | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.27 | +163.1 | Openc1, Pryzeq, RAMTINRAMI, Spycey, bobthecar |
 | 2026-06-03 | 2006 Toyota Corolla XRS | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.26 | +189.8 | Openc1, Pryzeq, RAMTINRAMI, bobthecar, platanoo |
-| 2026-05-29 | TeddyBearBunch | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.23 | +198.5 | Openc1, Pryzeq, RAMTINRAMI, Spycey, bobthecar |
-| 2026-05-27 | Calculated Aggression | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +205.2 | BOOM_TAKA, Openc1, Pryzeq, RAMTINRAMI, Spycey, bobthecar |
+| 2026-05-29 | TeddyBearBunch | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.22 | +198.6 | Openc1, Pryzeq, RAMTINRAMI, Spycey, bobthecar |
+| 2026-05-27 | Calculated Aggression | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +205.3 | BOOM_TAKA, Openc1, Pryzeq, RAMTINRAMI, Spycey, bobthecar |
 
 _Snapshot 2026-10-22 | NARS v2 | CC BY-SA 4.0_
