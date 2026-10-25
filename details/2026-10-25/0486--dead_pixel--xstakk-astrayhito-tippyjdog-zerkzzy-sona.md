@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | The ESEA Clout Tokens | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -45.7 | AstrayHito, CharlesUU, LiamJOB, Zerkzzy, tippyjdog |
 | 2026-10-07 | Eightball | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -10.9 | CharlesUU, LiamJOB, Zerkzzy, tippyjdog, xstakk |
 | 2026-09-17 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -13.7 | AstrayHito, Doggzofwar, Zerkzzy, sonar, tippyjdog |
-| 2026-08-28 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -121.6 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
+| 2026-08-28 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -121.7 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
 | 2026-08-26 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -0.1 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
 | 2026-08-21 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -97.0 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
 | 2026-08-14 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -88.7 | AstrayHito, CharlesUU, Zerkzzy, sonar, tippyjdog |
@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.02 | 0.61 | +92.1 | AstrayHito, CharlesUU, Zerkzzy, iCEcREAMkILL, sonar |
 | 2026-07-24 | Climbers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -128.8 | AstrayHito, Zerkzzy, gnuhc, iCEcREAMkILL, sonar |
 | 2026-07-22 | on disability | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -347.9 | AstrayHito, Doggzofwar, Zerkzzy, iCEcREAMkILL, sonar |
-| 2026-06-12 | Real Ones | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +281.6 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
+| 2026-06-12 | Real Ones | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +281.7 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
 | 2026-06-05 | Aim to Loose | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -226.9 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
 | 2026-05-27 | Brainsmash | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +174.2 | AstrayHito, Zerkzzy, sonar, tippyjdog, xstakk |
 

@@ -31,6 +31,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Casual Mature Gamers | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.03 | 1.00 | 0.93 | 0.06 | 0.93 | +95.3 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-06 | feet67 | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.03 | 1.00 | 0.90 | 0.00 | 0.00 | -98.1 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-04 | KylianDictator | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.03 | 0.89 | +125.3 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
-| 2026-09-02 | lofi hip hop radio | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.85 | 1.03 | 1.00 | 0.87 | 0.03 | 0.87 | +136.4 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
+| 2026-09-02 | lofi hip hop radio | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.03 | 0.87 | +136.4 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

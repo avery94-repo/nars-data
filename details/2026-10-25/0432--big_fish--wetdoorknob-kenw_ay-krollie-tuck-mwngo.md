@@ -27,13 +27,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-21 | WaterDrinkers | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -12.4 | Kenw_ay, Tuck, VTypeEngine, mwngo, snorkel |
 | 2026-10-16 | offBalance | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -2.4 | Kenw_ay, Tuck, VTypeEngine, mwngo, snorkel |
 | 2026-10-14 | Midwest Farmers | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -40.1 | Kenw_ay, Tuck, VTypeEngine, mwngo, snorkel |
-| 2026-10-09 | penazoid | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -79.9 | Tuck, VTypeEngine, WetDoorknob, mwngo, snorkel |
+| 2026-10-09 | penazoid | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -79.8 | Tuck, VTypeEngine, WetDoorknob, mwngo, snorkel |
 | 2026-09-04 | Flow Esports | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -83.6 | Kenw_ay, Krollie, Tuck, mwngo, spy_ |
 | 2026-08-28 | The Ohio Meat Wagon | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -79.9 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-08-28 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.13 | 0.81 | +72.2 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-08-19 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.08 | 0.75 | +115.8 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
-| 2026-08-19 | NoPrac | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -112.6 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
-| 2026-08-14 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -156.2 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
+| 2026-08-19 | NoPrac | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -112.7 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
+| 2026-08-14 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -156.3 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-08-12 | Mach 10 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +15.6 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-08-07 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.07 | 0.67 | +64.7 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-08-05 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -9.2 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |

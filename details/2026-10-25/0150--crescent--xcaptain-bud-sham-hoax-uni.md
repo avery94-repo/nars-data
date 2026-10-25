@@ -4,14 +4,14 @@ Roster: xCaptain, bud, Sham, hoax, uni
 NARS Rank: 150 of 503
 
 Final Rating: 1590.2
-Seeded Start: 1333.4
-H2H Adjustment: +256.8
+Seeded Start: 1333.3
+H2H Adjustment: +256.9
 
-Final Rating (1590.2) = Seeded Start (1333.4) + H2H Adjustment (+256.8)
+Final Rating (1590.2) = Seeded Start (1333.3) + H2H Adjustment (+256.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.167 x 1400 = 1333.4
+                = 1100 + 0.167 x 1400 = 1333.3
 
 seed_factor 0.167 = 0.25 x Tier Exposure (0.082) + 0.50 x Quality Wins (0.040) + 0.25 x Opponent Network (0.506)
 
@@ -26,11 +26,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-10 | Manx Recovery Program | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.90 | 1.09 | 1.00 | 0.98 | 0.00 | 0.00 | -57.1 | MJB, bud, hoax, uni, xCaptain |
 | 2026-09-08 | STFDYSAB | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.88 | 1.09 | 1.00 | 0.96 | 0.10 | 0.96 | +112.9 | MJB, bud, hoax, uni, xCaptain |
-| 2026-09-03 | Conscious Gaming | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.85 | 1.09 | 1.00 | 0.93 | 0.00 | 0.00 | -118.4 | MJB, bud, hoax, uni, xCaptain |
+| 2026-09-03 | Conscious Gaming | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.85 | 1.09 | 1.00 | 0.93 | 0.00 | 0.00 | -118.5 | MJB, bud, hoax, uni, xCaptain |
 | 2026-09-02 | Macs Snacks | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.84 | 1.09 | 1.00 | 0.92 | 0.10 | 0.92 | +23.9 | MJB, bud, hoax, uni, xCaptain |
 | 2026-08-28 | goofball gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.10 | 1.00 | 0.90 | 0.07 | 0.90 | +84.3 | Sham, bud, hoax, uni, xCaptain |
 | 2026-08-26 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.07 | 0.88 | +58.1 | Sham, bud, hoax, uni, xCaptain |
-| 2026-08-21 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.77 | 1.10 | 1.00 | 0.84 | 0.00 | 0.00 | -53.2 | Sham, bud, hoax, uni, xCaptain |
+| 2026-08-21 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.00 | 0.00 | -53.2 | Sham, bud, hoax, uni, xCaptain |
 | 2026-08-19 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.83 | 0.10 | 0.83 | +173.9 | MJB, Sham, bud, hoax, uni, xCaptain |
 | 2026-08-17 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.10 | 1.00 | 0.81 | 0.00 | 0.00 | -150.7 | Sham, bud, hoax, uni, xCaptain |
 | 2026-08-12 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.78 | 0.03 | 0.78 | +112.0 | Sham, bud, heatJESUS, hoax, uni |

@@ -32,6 +32,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | babaG | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.91 | 0.00 | 0.00 | -3.5 | Gab777, NaRo, RealOlmO, TKEFNI, gabe1080x |
 | 2026-09-06 | Boop Boop Gang | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.07 | 0.89 | +122.2 | Gab777, NaRo, Pilon, TKEFNI, gabe1080x |
 | 2026-09-04 | Team Nyx | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.06 | 0.88 | +167.5 | Gab777, NaRo, RealOlmO, TKEFNI, gabe1080x |
-| 2026-09-02 | No Roller Dogs | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.86 | 0.03 | 0.86 | +44.8 | Gab777, NaRo, RealOlmO, TKEFNI, gabe1080x |
+| 2026-09-02 | No Roller Dogs | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.86 | 0.03 | 0.86 | +44.7 | Gab777, NaRo, RealOlmO, TKEFNI, gabe1080x |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

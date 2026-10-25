@@ -1,7 +1,7 @@
 ### Roster Details
 Team Name: DeathMark E-Sports
 Roster: 1GRMZ, VilePickle, Wokani, aLxGG, CoLdZy-
-NARS Rank: 394 of 503
+NARS Rank: 393 of 503
 
 Final Rating: 1070.4
 Seeded Start: 1297.0
@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -91.7 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
 | 2026-08-12 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -101.1 | CoLdZy-, SwiCH-, VilePickle, Wokani, aLxGG |
 | 2026-08-07 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -141.4 | 1GRMZ, CoLdZy-, SwiCH-, Wokani, aLxGG |
-| 2026-08-05 | ABG Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.08 | 0.66 | +138.3 | 1GRMZ, CoLdZy-, SwiCH-, Wokani, aLxGG |
+| 2026-08-05 | ABG Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.08 | 0.66 | +138.4 | 1GRMZ, CoLdZy-, SwiCH-, Wokani, aLxGG |
 | 2026-07-31 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -16.5 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
 | 2026-07-29 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.06 | 0.61 | +11.1 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
 | 2026-07-22 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.02 | 0.56 | +0.0 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |

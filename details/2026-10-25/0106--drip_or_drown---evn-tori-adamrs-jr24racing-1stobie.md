@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-21 | O Fire | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -87.8 | -evN, 1stobie, CaV, Crunkee_, jr24racing |
 | 2026-10-16 | Alternate Earth | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +10.2 | -evN, 1stobie, CaV, Crunkee_, jr24racing |
 | 2026-10-14 | Afterimage | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +83.1 | -evN, 1stobie, CaV, Crunkee_, jr24racing |
-| 2026-09-17 | drunk cigs dont count | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -63.0 | -evN, 1stobie, AdamRS, Tori, jr24racing |
+| 2026-09-17 | drunk cigs dont count | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.00 | 0.00 | -63.0 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-15 | brb grinding minecraft | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.07 | 0.96 | +6.8 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-09 | DETONATE | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.89 | 1.39 | 1.00 | 1.24 | 0.00 | 0.00 | -0.5 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-08 | The Kerbins | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.03 | 1.00 | 0.91 | 0.00 | 0.00 | -210.1 | -evN, 1stobie, AdamRS, Tori, jr24racing |

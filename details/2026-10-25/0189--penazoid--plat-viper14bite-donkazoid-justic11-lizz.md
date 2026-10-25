@@ -33,23 +33,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | YHTR | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.88 | 1.09 | 1.00 | 0.96 | 0.14 | 0.96 | +87.6 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-09-07 | Nomadic Tactics | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.88 | 1.09 | 1.00 | 0.96 | 0.08 | 0.96 | +75.3 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-09-04 | VOID ALUNE | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.86 | 1.09 | 1.00 | 0.93 | 0.00 | 0.00 | -1.3 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-09-02 | 1NT | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.84 | 1.09 | 1.00 | 0.92 | 0.10 | 0.92 | +115.4 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-09-02 | 1NT | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.84 | 1.09 | 1.00 | 0.92 | 0.10 | 0.92 | +115.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-08-28 | DingTone | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.10 | 1.00 | 0.90 | 0.07 | 0.90 | +40.4 | Justic11, Plat, The0blivi0us, donkazoid, viper14bite |
-| 2026-08-26 | 91AshLiu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.00 | 0.00 | -55.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-08-26 | 91AshLiu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.00 | 0.00 | -55.6 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-08-21 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.00 | 0.00 | -38.9 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-08-19 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.83 | 0.00 | 0.00 | -35.6 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-08-19 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.83 | 0.00 | 0.00 | -35.7 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-08-18 | Manx Recovery Program | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.74 | 1.10 | 1.00 | 0.82 | 0.00 | 0.00 | -61.6 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-08-12 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.78 | 0.06 | 0.78 | +92.1 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-08-12 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.78 | 0.06 | 0.78 | +92.2 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-08-11 | Crimson Vortex | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.00 | 0.00 | -27.8 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-08-05 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.73 | 0.00 | 0.00 | -304.9 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-08-05 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.73 | 0.00 | 0.00 | -305.0 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-31 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.07 | 0.69 | +101.9 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-29 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.05 | 0.67 | +215.7 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-24 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.64 | 0.05 | 0.64 | +107.9 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-07-22 | VOID ALUNE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.57 | 1.10 | 1.00 | 0.62 | 0.11 | 0.62 | +393.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-07-22 | VOID ALUNE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.11 | 0.62 | +393.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-21 | Over Your Head | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.00 | 0.00 | -143.2 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-16 | ASYCS KITTENS | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.58 | 0.00 | 0.00 | -16.2 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-05-22 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.03 | 0.18 | +279.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-05-20 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.00 | -217.4 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-05-22 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.03 | 0.18 | +279.6 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-05-20 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.00 | -217.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-05-15 | NADIYA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.00 | 0.13 | +46.7 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-05-13 | Wiggle Peeks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.00 | 0.00 | -199.0 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-05-08 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.01 | 0.07 | +334.0 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |

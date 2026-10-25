@@ -3,11 +3,11 @@ Team Name: Bird Squishers
 Roster: n0na, deez_tyson, Stu, -Red, yuppy-
 NARS Rank: 57 of 503
 
-Final Rating: 1868.7
+Final Rating: 1868.8
 Seeded Start: 1391.0
-H2H Adjustment: +477.7 (capped at +-300, raw +477.8)
+H2H Adjustment: +477.8
 
-Final Rating (1868.7) = Seeded Start (1391.0) + H2H Adjustment (+477.7)
+Final Rating (1868.8) = Seeded Start (1391.0) + H2H Adjustment (+477.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-17 | OnlyFans | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.94 | 1.09 | 1.00 | 1.03 | 0.08 | 1.03 | +79.9 | -Red, Stu, deez_tyson, n0na, yuppy- |
 | 2026-09-15 | goofball gaming | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.09 | 1.00 | 1.01 | 0.07 | 1.01 | +61.6 | -Red, Stu, deez_tyson, n0na, yuppy- |
 | 2026-09-12 | Conscious Gaming | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.91 | 1.09 | 1.00 | 0.99 | 0.16 | 0.99 | +82.1 | -Red, Stu, deez_tyson, n0na, yuppy- |
-| 2026-09-10 | Team Team Name | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.90 | 1.09 | 1.00 | 0.98 | 0.08 | 0.98 | +123.9 | -Red, Stu, deez_tyson, n0na, yuppy- |
+| 2026-09-10 | Team Team Name | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.90 | 1.09 | 1.00 | 0.98 | 0.08 | 0.98 | +124.0 | -Red, Stu, deez_tyson, n0na, yuppy- |
 | 2026-09-08 | Storm Surge | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.88 | 1.09 | 1.00 | 0.96 | 0.11 | 0.96 | +113.3 | -Red, Stu, deez_tyson, n0na, yuppy- |
 | 2026-09-06 | 1NT | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.87 | 1.09 | 1.00 | 0.95 | 0.10 | 0.95 | +74.5 | -Red, Stu, deez_tyson, jorker, yuppy- |
 | 2026-09-04 | TheMotherLovers | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.86 | 1.09 | 1.00 | 0.93 | 0.00 | 0.00 | -0.6 | -Red, Stu, deez_tyson, n0na, yuppy- |
@@ -48,7 +48,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.00 | -278.3 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-20 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.01 | 0.16 | +368.0 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-15 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.01 | 0.13 | +30.7 | -Red, Scrubian, Stu, deez_tyson, n0na |
-| 2026-05-13 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.01 | 0.00 | +319.2 | -Red, Scrubian, Stu, deez_tyson, n0na |
+| 2026-05-13 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.01 | 0.00 | +319.3 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-08 | OnlyFans | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.00 | 0.00 | -0.4 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-06 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.00 | -190.4 | -Red, Scrubian, Stu, deez_tyson, n0na |
 | 2026-05-01 | SAFIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.12 | 1.00 | 0.02 | 0.00 | 0.00 | -22.5 | -Red, Scrubian, Stu, deez_tyson, n0na |

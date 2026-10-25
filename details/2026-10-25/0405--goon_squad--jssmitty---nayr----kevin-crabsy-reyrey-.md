@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.00 | -173.7 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
+| 2026-05-22 | WhalersOnDaMoon | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.00 | -173.8 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-05-20 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.00 | -5.3 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-05-15 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.00 | 0.13 | +437.8 | --nayR--, -keviN, ReyRey-, crabsy, jssmitty |
 | 2026-05-14 | Evil Reunion | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.12 | 0.00 | 0.00 | -325.0 | --nayR--, ReyRey-, crabsy, jssmitty, uziburger |

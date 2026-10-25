@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-07 | MINDTRIP | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -149.3 | -PHANTOM-, konspirit, staxfam, t4m0n, tylerwho |
+| 2026-06-07 | MINDTRIP | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -149.3 | -PHANTOM-, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-06-05 | Duality Zero | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.25 | +194.1 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-05-27 | After Peak | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -49.2 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-05-22 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -191.9 | -PHANTOM-, hardy--, staxfam, t4m0n, tylerwho |
@@ -34,6 +34,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +447.5 | -PHANTOM-, hardy--, konspirit, staxfam, t4m0n |
 | 2026-05-06 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -0.5 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-05-01 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -217.7 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
-| 2026-04-29 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.01 | 0.00 | 0.00 | -185.8 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
+| 2026-04-29 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -185.9 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

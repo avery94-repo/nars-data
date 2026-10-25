@@ -1,14 +1,14 @@
 {
  "schema_version": 2,
- "snapshot": "2026-10-25T08:44:42.888560+00:00",
- "exported_at": "2026-10-25T08:45:24Z",
+ "snapshot": "2026-10-25T09:07:21.732627+00:00",
+ "exported_at": "2026-10-25T09:07:51Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
- "matches_qualifying": 5711,
- "matches_exported": 5711,
+ "matches_qualifying": 5712,
+ "matches_exported": 5712,
  "matches_by_source": {
   "faceit-league": 4795,
-  "hltv": 62,
+  "hltv": 63,
   "liquipedia": 6,
   "faceit-tournament": 446,
   "vrs": 402
@@ -21,7 +21,7 @@
   "note": "standalone growth / room-for-improvement data for the planned stats-site tool; not embedded in ratings.json and not rendered on team pages",
   "teams": 503,
   "upside_opponents_version": 2,
-  "event_guide_events": 74
+  "event_guide_events": 75
  },
  "sources": {
   "faceit_league": {
@@ -34,7 +34,7 @@
    "file_mtime": "2026-10-25T08:37:31Z"
   },
   "hltv": {
-   "file_mtime": "2026-10-24T09:07:14Z",
+   "file_mtime": "2026-10-25T09:07:21Z",
    "note": "parse.bot feed; degraded since 2026-10-09"
   },
   "vrs": {

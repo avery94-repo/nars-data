@@ -3,15 +3,15 @@ Team Name: The Sweepers
 Roster: Grimmy, Dagger, Tan9x, AimKunREAL, dontcaretaze
 NARS Rank: 253 of 503
 
-Final Rating: 1381.3
-Seeded Start: 1315.0
-H2H Adjustment: +66.3
+Final Rating: 1381.4
+Seeded Start: 1314.9
+H2H Adjustment: +66.5
 
-Final Rating (1381.3) = Seeded Start (1315.0) + H2H Adjustment (+66.3)
+Final Rating (1381.4) = Seeded Start (1314.9) + H2H Adjustment (+66.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.154 x 1400 = 1315.0
+                = 1100 + 0.154 x 1400 = 1314.9
 
 seed_factor 0.154 = 0.25 x Tier Exposure (0.103) + 0.50 x Quality Wins (0.033) + 0.25 x Opponent Network (0.445)
 
@@ -25,8 +25,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-06 | ABG Esports | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -42.0 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
-| 2026-09-04 | Team Auspex | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.06 | 0.86 | +167.6 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
-| 2026-09-02 | NoPrac | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.06 | 0.85 | +75.2 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
+| 2026-09-04 | Team Auspex | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.06 | 0.86 | +167.7 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
+| 2026-09-02 | NoPrac | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +75.2 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
 | 2026-08-28 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.05 | 0.81 | +37.9 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
 | 2026-08-26 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.08 | 0.80 | +56.0 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
 | 2026-08-21 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.08 | 0.76 | +134.5 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
@@ -47,7 +47,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -12.3 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-15 | Duality Zero | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -356.0 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-13 | Exnitas | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +263.3 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
-| 2026-05-08 | in for Blood | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +413.1 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
+| 2026-05-08 | in for Blood | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.00 | 0.07 | +413.1 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-06 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -216.0 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-01 | Les Ptis Jus | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -29.5 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-04-29 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -269.3 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |

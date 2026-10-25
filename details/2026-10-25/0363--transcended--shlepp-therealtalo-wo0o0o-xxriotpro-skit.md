@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-21 | Grandpa Berets | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -162.2 | Gloomy17, LazerRadical, Shlepp, TheRealTalo, xxriotpro |
-| 2026-10-15 | Sodium | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +180.2 | LazerRadical, Shlepp, TheRealTalo, skittle-, xxriotpro |
+| 2026-10-15 | Sodium | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +180.3 | LazerRadical, Shlepp, TheRealTalo, skittle-, xxriotpro |
 | 2026-10-14 | deez | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -93.0 | Gloomy17, LazerRadical, Shlepp, TheRealTalo, xxriotpro |
-| 2026-10-09 | ItAintOverYet | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -302.9 | Gloomy17, LazerRadical, Shlepp, TheRealTalo, xxriotpro |
+| 2026-10-09 | ItAintOverYet | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -303.0 | Gloomy17, LazerRadical, Shlepp, TheRealTalo, xxriotpro |
 | 2026-10-08 | FourStrokeGang | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +0.8 | Gloomy17, LazerRadical, Shlepp, TheRealTalo, xxriotpro |
 | 2026-09-10 | Comeback Bandits | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.03 | 1.00 | 0.93 | 0.06 | 0.93 | +102.6 | Shlepp, TheRealTalo, ZePh, skittle-, xxriotpro |
 | 2026-09-03 | Coop De Grace | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.85 | 1.03 | 1.00 | 0.88 | 0.03 | 0.88 | +178.0 | Shlepp, TheRealTalo, Wo0o0o, skittle-, xxriotpro |

@@ -47,6 +47,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.02 | 0.52 | +0.4 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-06-03 | NetanYAHOO | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +202.8 | Zralok26, caustic, kysmir, mechro, tmelks |
 | 2026-05-29 | DILFS | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.20 | +162.1 | MITSUMI, Zralok26, caustic, mechro, tmelks |
-| 2026-05-27 | Str8 Rippin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +112.1 | Zralok26, caustic, kysmir, mechro, tmelks |
+| 2026-05-27 | Str8 Rippin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +112.2 | Zralok26, caustic, kysmir, mechro, tmelks |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

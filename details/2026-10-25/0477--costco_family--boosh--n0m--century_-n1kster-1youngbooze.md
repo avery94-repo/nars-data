@@ -5,7 +5,7 @@ NARS Rank: 477 of 503
 
 Final Rating: 779.8
 Seeded Start: 1263.7
-H2H Adjustment: -483.9
+H2H Adjustment: -483.9 (capped at +-300, raw -484.0)
 
 Final Rating (779.8) = Seeded Start (1263.7) + H2H Adjustment (-483.9)
 
@@ -33,9 +33,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | JPG | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -6.6 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-08-28 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -61.4 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-08-26 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -51.3 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
-| 2026-08-21 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -81.8 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
+| 2026-08-21 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -81.9 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-08-19 | VeryBigDoogoos | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.03 | 0.75 | +59.1 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
-| 2026-08-14 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +120.2 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
+| 2026-08-14 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +120.3 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-08-12 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -9.9 | -N0M-, 1YoungBoozer, Covie, boosh, n1kster |
 | 2026-08-07 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.07 | 0.67 | +115.1 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-08-05 | Big Kahuna Gaming | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.02 | 0.66 | +110.0 | -N0M-, 1YoungBoozer, Covie, boosh, n1kster |
@@ -44,9 +44,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -10.7 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-07-22 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -156.7 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-07-17 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.04 | 0.53 | +27.2 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
-| 2026-07-15 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.05 | 0.52 | +311.9 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
+| 2026-07-15 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.05 | 0.52 | +312.0 | -N0M-, 1YoungBoozer, Century_, boosh, n1kster |
 | 2026-05-31 | EZ2025 | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -54.3 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
-| 2026-05-29 | CounterStreakrs | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.20 | +403.5 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
+| 2026-05-29 | CounterStreakrs | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.20 | +403.6 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
 | 2026-05-27 | Florida Man | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -66.8 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
 | 2026-05-20 | Top One Percent | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -153.8 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |
 | 2026-05-15 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -115.1 | 1YoungBoozer, Century_, Soma-, boosh, n1kster |

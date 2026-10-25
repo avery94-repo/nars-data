@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-21 | Drip or Drown | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.14 | 1.02 | +89.2 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
+| 2026-10-21 | Drip or Drown | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.14 | 1.02 | +89.3 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
 | 2026-10-16 | Team GREAT | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +173.9 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
 | 2026-10-14 | Eightball | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +84.9 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
 | 2026-10-09 | drunk cigs dont count | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +139.9 | -NoM-, Acrus, Tomshade, _Icey, floydanyahu |
@@ -33,10 +33,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | Celestial Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.89 | 1.39 | 1.00 | 1.23 | 0.00 | 0.00 | -18.8 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
 | 2026-09-07 | New Legends | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.88 | 1.39 | 1.00 | 1.22 | 0.00 | 0.00 | -1.5 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
 | 2026-09-06 | FarmVille | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.03 | 1.00 | 0.90 | 0.00 | 0.00 | -0.0 | Acrus, Tolerant201, Tomshade, _Icey, prspct |
-| 2026-09-04 | enigma | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.86 | 1.39 | 1.00 | 1.19 | 0.00 | 0.00 | -255.1 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
+| 2026-09-04 | enigma | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.86 | 1.39 | 1.00 | 1.19 | 0.00 | 0.00 | -255.2 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
 | 2026-09-04 | Casual Mature Gamers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.06 | 0.89 | +93.5 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
 | 2026-09-02 | Team Bittle | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.03 | 0.87 | +39.0 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
-| 2026-06-03 | UGA CS2 | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.24 | +215.8 | Acrus, GOTRACE, HUNCHO, Tomshade, _Icey |
+| 2026-06-03 | UGA CS2 | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.24 | +215.9 | Acrus, GOTRACE, HUNCHO, Tomshade, _Icey |
 | 2026-05-31 | Diablo | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.22 | +127.0 | Acrus, GoBrian02, HUNCHO, Tomshade, _Icey |
 | 2026-05-27 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -218.3 | Acrus, GoBrian02, HUNCHO, Tolerant201, Tomshade |
 

@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | DKR Esports | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.87 | 1.06 | 1.00 | 0.92 | 0.00 | 0.00 | -1.2 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-09-02 | teamington | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.85 | 1.06 | 1.00 | 0.89 | 0.00 | 0.00 | -19.4 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, smbba |
 | 2026-08-26 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.00 | 0.00 | -58.2 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
-| 2026-08-24 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.04 | 1.00 | 0.81 | 0.00 | 0.00 | -101.5 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
+| 2026-08-24 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.04 | 1.00 | 0.81 | 0.00 | 0.00 | -101.6 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-08-19 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.00 | 0.00 | -131.6 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-08-13 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.71 | 1.04 | 1.00 | 0.74 | 0.03 | 0.74 | +86.6 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-08-07 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.00 | 0.00 | -174.0 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.00 | 0.00 | -115.0 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-07-17 | Wide Swinging Wizards | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.04 | 1.00 | 0.55 | 0.02 | 0.55 | +299.8 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-07-16 | FLOW STATE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.04 | 1.00 | 0.54 | 0.12 | 0.54 | +408.6 | 1cow, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
-| 2026-05-21 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.12 | 1.00 | 0.17 | 0.02 | 0.17 | +56.3 | 0hio, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
+| 2026-05-21 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.12 | 1.00 | 0.17 | 0.02 | 0.17 | +56.2 | 0hio, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-05-20 | iNSTINCT | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.00 | -49.3 | 0hio, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |
 | 2026-05-15 | Old Meta | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.00 | 0.00 | -3.8 | 0hio, IllegalMusta, Mr_Sausage, joebert999, smbba |
 | 2026-05-13 | ASYCS KITTENS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.00 | 0.00 | -421.6 | 0hio, ApolloCS, IllegalMusta, Mr_Sausage, joebert999 |

@@ -3,11 +3,11 @@ Team Name: DownTown
 Roster: Johnnydown, Jakey777, Ripsi, hyun, Oathsworn
 NARS Rank: 399 of 503
 
-Final Rating: 1059.0
+Final Rating: 1058.9
 Seeded Start: 1117.7
-H2H Adjustment: -58.7
+H2H Adjustment: -58.8
 
-Final Rating (1059.0) = Seeded Start (1117.7) + H2H Adjustment (-58.7)
+Final Rating (1058.9) = Seeded Start (1117.7) + H2H Adjustment (-58.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

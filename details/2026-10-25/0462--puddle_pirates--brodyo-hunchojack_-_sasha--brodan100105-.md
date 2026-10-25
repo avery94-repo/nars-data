@@ -5,7 +5,7 @@ NARS Rank: 462 of 503
 
 Final Rating: 841.3
 Seeded Start: 1145.8
-H2H Adjustment: -304.5
+H2H Adjustment: -304.5 (capped at +-300, raw -304.6)
 
 Final Rating (841.3) = Seeded Start (1145.8) + H2H Adjustment (-304.5)
 
@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Cream Team | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.87 | 1.11 | 1.00 | 0.97 | 0.00 | 0.00 | -125.1 | 1ucky666, Theoridin, _Sasha-, brodan100105, spookyspeedy |
 | 2026-09-04 | COGNITIVE | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.86 | 1.11 | 1.00 | 0.95 | 0.00 | 0.00 | -272.1 | 1ucky666, HUNCHOJACK_, _Sasha-, brodan100105, spookyspeedy |
 | 2026-09-02 | Kitty Chelas | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.84 | 1.11 | 1.00 | 0.94 | 0.03 | 0.94 | +193.2 | 1ucky666, HUNCHOJACK_, _Sasha-, brodyo, spookyspeedy |
-| 2026-06-10 | DeathMark E-Sports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -189.0 | 1ucky666, HUNCHOJACK_, Theoridin, brodan100105, brodyo |
+| 2026-06-10 | DeathMark E-Sports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -189.1 | 1ucky666, HUNCHOJACK_, Theoridin, brodan100105, brodyo |
 | 2026-06-03 | Guangzhou Loong Lions | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +230.8 | 1ucky666, HUNCHOJACK_, _jjg_, brodan100105, brodyo |
 | 2026-05-27 | D1NK Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -142.4 | 1ucky666, HUNCHOJACK_, Theoridin, brodan100105, brodyo |
 

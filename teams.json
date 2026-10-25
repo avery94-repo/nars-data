@@ -6,8 +6,8 @@
  },
  "pro:liquid": {
   "name": "Liquid",
-  "matches": 41,
-  "wins": 24
+  "matches": 42,
+  "wins": 25
  },
  "pro:wildcard": {
   "name": "Wildcard",
@@ -724,15 +724,15 @@
   "matches": 27,
   "wins": 14
  },
- "97e10221-fc3c-4c3a-9499-d4a01bd69b6b": {
-  "name": "Pug Palace",
-  "matches": 24,
-  "wins": 10
- },
  "fb312fea-77c6-45db-ae2a-dbdc73cfa8ae": {
   "name": "MINDTRIP",
   "matches": 12,
   "wins": 6
+ },
+ "97e10221-fc3c-4c3a-9499-d4a01bd69b6b": {
+  "name": "Pug Palace",
+  "matches": 24,
+  "wins": 10
  },
  "46ff9364-d907-46b8-a5e7-4945ec65b966": {
   "name": "JPG",
@@ -1959,15 +1959,15 @@
   "matches": 20,
   "wins": 7
  },
- "ee8d4038-89ed-4996-af95-2e570d44b4a6": {
-  "name": "dogwater",
-  "matches": 22,
-  "wins": 8
- },
  "c360d595-486b-4764-b9ca-b7174b3978fb": {
   "name": "DeathMark E-Sports",
   "matches": 23,
   "wins": 10
+ },
+ "ee8d4038-89ed-4996-af95-2e570d44b4a6": {
+  "name": "dogwater",
+  "matches": 22,
+  "wins": 8
  },
  "fed9ea3c-d50b-4081-83f9-0d45eeecff2a": {
   "name": "Wealth Reduction",
@@ -2174,15 +2174,15 @@
   "matches": 5,
   "wins": 1
  },
- "ae4200ce-13f1-4114-8e5f-905b5347bf1a": {
-  "name": "Epochal Esports",
-  "matches": 37,
-  "wins": 14
- },
  "9bc38706-5f73-4ea7-a2f7-88c2e84d77ab": {
   "name": "Famas OP",
   "matches": 8,
   "wins": 3
+ },
+ "ae4200ce-13f1-4114-8e5f-905b5347bf1a": {
+  "name": "Epochal Esports",
+  "matches": 37,
+  "wins": 14
  },
  "90106545-9568-4cd1-815f-554d68bab2ed": {
   "name": "WannaBeMovement",
@@ -2254,15 +2254,15 @@
   "matches": 25,
   "wins": 14
  },
- "1d9d51a4-c59d-4fe7-92d5-9f0c8a69ca94": {
-  "name": "Schadenfreude",
-  "matches": 23,
-  "wins": 8
- },
  "2bffd816-8fb9-431e-8a1c-383495d0d3ac": {
   "name": "on disability",
   "matches": 12,
   "wins": 4
+ },
+ "1d9d51a4-c59d-4fe7-92d5-9f0c8a69ca94": {
+  "name": "Schadenfreude",
+  "matches": 23,
+  "wins": 8
  },
  "57f17ceb-0a33-4737-9f69-f5691f2a1fcf": {
   "name": "NADIYA",
@@ -2364,15 +2364,15 @@
   "matches": 20,
   "wins": 5
  },
- "5c623328-a6cb-42fa-bd17-96be0125bbe2": {
-  "name": "Iron Horse",
-  "matches": 9,
-  "wins": 3
- },
  "35b4480b-2884-47ee-bf3d-cdfce1d566da": {
   "name": "Macs Snacks",
   "matches": 26,
   "wins": 13
+ },
+ "5c623328-a6cb-42fa-bd17-96be0125bbe2": {
+  "name": "Iron Horse",
+  "matches": 9,
+  "wins": 3
  },
  "fb715310-91a3-43e1-9465-1886a74431fc": {
   "name": "MakeYouSayLate",

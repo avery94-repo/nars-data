@@ -3,15 +3,15 @@ Team Name: Salsas Mazzin Crew
 Roster: salsa_-, tawa, DAVEY, zws, 1Mazz
 NARS Rank: 185 of 503
 
-Final Rating: 1531.0
-Seeded Start: 1310.4
-H2H Adjustment: +220.6
+Final Rating: 1531.1
+Seeded Start: 1310.3
+H2H Adjustment: +220.8
 
-Final Rating (1531.0) = Seeded Start (1310.4) + H2H Adjustment (+220.6)
+Final Rating (1531.1) = Seeded Start (1310.3) + H2H Adjustment (+220.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.150 x 1400 = 1310.4
+                = 1100 + 0.150 x 1400 = 1310.3
 
 seed_factor 0.150 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.035) + 0.25 x Opponent Network (0.461)
 
@@ -31,10 +31,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Kairo | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.86 | 1.06 | 1.00 | 0.91 | 0.00 | 0.00 | -27.5 | DAVEY, Plokii, XYoshiZ, salsa_-, tawa |
 | 2026-08-26 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.09 | 0.83 | +126.2 | DAVEY, XYoshiZ, rock, salsa_-, tawa |
 | 2026-08-25 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.04 | 1.00 | 0.82 | 0.00 | 0.00 | -22.0 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
-| 2026-08-21 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.04 | 1.00 | 0.79 | 0.00 | 0.00 | -116.8 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
+| 2026-08-21 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.04 | 1.00 | 0.79 | 0.00 | 0.00 | -116.9 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
 | 2026-08-19 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.06 | 0.78 | +35.7 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
 | 2026-08-11 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.04 | 1.00 | 0.72 | 0.05 | 0.72 | +123.0 | DAVEY, ScoobyMoose, XYoshiZ, salsa_-, tawa |
-| 2026-08-07 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.03 | 0.70 | +204.7 | 1Mazz, DAVEY, ScoobyMoose, salsa_-, tawa |
+| 2026-08-07 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.03 | 0.70 | +204.8 | 1Mazz, DAVEY, ScoobyMoose, salsa_-, tawa |
 | 2026-08-05 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.68 | 0.00 | 0.00 | -148.4 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
 | 2026-07-30 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.64 | 0.00 | 0.00 | -7.4 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |
 | 2026-07-24 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.04 | 1.00 | 0.60 | 0.00 | 0.00 | -4.8 | DAVEY, Plokii, ScoobyMoose, salsa_-, tawa |

@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-17 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -70.0 | Nigh-T, Slattz, Sp00b, aam, glimpus- |
-| 2026-09-02 | Bald | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.00 | 0.00 | -24.7 | Nigh-T, Sp00b, aam, glimpus-, seans |
+| 2026-09-02 | Bald | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -24.7 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-08-28 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -62.7 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-08-26 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -73.9 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-08-21 | TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.03 | 0.76 | +104.5 | Nigh-T, Sp00b, aam, glimpus-, seans |

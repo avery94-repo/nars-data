@@ -3,11 +3,11 @@ Team Name: Baja Blasters
 Roster: femboy-bussy, -Ani--, Xman0311, BasherCS, mbyy_
 NARS Rank: 451 of 503
 
-Final Rating: 894.7
+Final Rating: 894.6
 Seeded Start: 1240.1
-H2H Adjustment: -345.4
+H2H Adjustment: -345.5 (capped at +-300, raw -345.4)
 
-Final Rating (894.7) = Seeded Start (1240.1) + H2H Adjustment (-345.4)
+Final Rating (894.6) = Seeded Start (1240.1) + H2H Adjustment (-345.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.06 | 0.70 | +98.1 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-08-05 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.68 | 0.05 | 0.68 | +19.4 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-07-31 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.65 | 0.00 | 0.00 | -2.9 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
-| 2026-07-29 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.04 | 1.00 | 0.63 | 0.00 | 0.00 | -250.9 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
+| 2026-07-29 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.04 | 1.00 | 0.63 | 0.00 | 0.00 | -251.0 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-07-24 | BucketJonsBoys | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.04 | 1.00 | 0.60 | 0.00 | 0.00 | -187.7 | -Ani--, AlphaOwl, BasherCS, Xman0311, mbyy_ |
 | 2026-07-22 | REPORT MASSIVE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.00 | 0.00 | -286.0 | -Ani--, AlphaOwl, BasherCS, Xman0311, femboy-bussy |
 | 2026-07-15 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.04 | 1.00 | 0.54 | 0.00 | 0.00 | -234.1 | -Ani--, AlphaOwl, BasherCS, femboy-bussy, mbyy_ |

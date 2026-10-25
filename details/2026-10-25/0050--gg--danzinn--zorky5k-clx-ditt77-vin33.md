@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-11 | Festina Lente | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.06 | 1.00 | 0.31 | 0.00 | 0.00 | -54.9 | Zorky5k, clx, danzinn-, ditt77, vin33 |
 | 2026-06-09 | Zetta | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.28 | 1.06 | 1.00 | 0.29 | 0.12 | 0.29 | +27.4 | Zorky5k, clx, danzinn-, ditt77, vin33 |
-| 2026-06-05 | GOBLINS | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.25 | 1.06 | 1.00 | 0.27 | 0.01 | 0.27 | +208.3 | Zorky5k, clx, danzinn-, ditt77, vin33 |
+| 2026-06-05 | GOBLINS | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.25 | 1.06 | 1.00 | 0.27 | 0.01 | 0.27 | +208.4 | Zorky5k, clx, danzinn-, ditt77, vin33 |
 | 2026-06-04 | Rejects | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.24 | 1.06 | 1.00 | 0.26 | 0.04 | 0.26 | +154.1 | clx, danzinn-, ditt77, kyozao77, vin33 |
 | 2026-05-29 | redtyfguhoj | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.20 | 1.06 | 1.00 | 0.22 | 0.01 | 0.22 | +147.8 | EnriqueW, Zorky5k, clx, danzinn-, vin33 |
 | 2026-05-27 | Anchors Anonymous | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.19 | 1.06 | 1.00 | 0.20 | 0.01 | 0.20 | +272.4 | Zorky5k, clx, danzinn-, ditt77, vin33 |

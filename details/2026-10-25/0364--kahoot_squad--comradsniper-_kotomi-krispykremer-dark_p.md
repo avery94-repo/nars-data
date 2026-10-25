@@ -3,11 +3,11 @@ Team Name: Kahoot Squad
 Roster: COMRADSNIPER, _Kotomi, KrispyKremer, Dark_Potato, Hayvo
 NARS Rank: 364 of 503
 
-Final Rating: 1160.1
+Final Rating: 1160.2
 Seeded Start: 1168.4
-H2H Adjustment: -8.3
+H2H Adjustment: -8.2
 
-Final Rating (1160.1) = Seeded Start (1168.4) + H2H Adjustment (-8.3)
+Final Rating (1160.2) = Seeded Start (1168.4) + H2H Adjustment (-8.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

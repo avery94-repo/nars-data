@@ -48,7 +48,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.06 | 0.58 | +10.0 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-07-22 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -352.7 | 2RACECAR, EleMentL, Stang_, mykey, slat- |
 | 2026-07-15 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.04 | 0.52 | +1.4 | 2RACECAR, EleMentL, Stang_, brooks, mykey, slat- |
-| 2026-06-05 | Boop Boop Gang | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.02 | 0.25 | +200.7 | 2RACECAR, Stang_, alannn-, mykey, slat- |
+| 2026-06-05 | Boop Boop Gang | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.02 | 0.25 | +200.8 | 2RACECAR, Stang_, alannn-, mykey, slat- |
 | 2026-05-29 | PSDN White | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.01 | 0.21 | +155.9 | 2RACECAR, EleMentL, Stang_, alannn-, slat- |
 | 2026-05-27 | We Have No Enemies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +112.9 | 2RACECAR, Stang_, alannn-, mykey, slat- |
 

@@ -3,11 +3,11 @@ Team Name: Courage
 Roster: DRUMMIE, stalker, rabbi_mike, ATTKR, kaz
 NARS Rank: 500 of 503
 
-Final Rating: 450.8
+Final Rating: 450.7
 Seeded Start: 1134.5
-H2H Adjustment: -683.7
+H2H Adjustment: -683.8 (capped at +-300, raw -683.7)
 
-Final Rating (450.8) = Seeded Start (1134.5) + H2H Adjustment (-683.7)
+Final Rating (450.7) = Seeded Start (1134.5) + H2H Adjustment (-683.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -28,11 +28,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | SNOWPLOWERS | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.00 | 0.00 | -96.1 | ATTKR, DRUMMIE, Klein--, rabbi_mike, stalker |
 | 2026-08-14 | Solar Gravity | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.04 | 1.00 | 0.74 | 0.00 | 0.00 | -30.0 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
 | 2026-08-12 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.04 | 1.00 | 0.73 | 0.00 | 0.00 | -22.3 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
-| 2026-08-05 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.68 | 0.05 | 0.68 | +201.4 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
+| 2026-08-05 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.68 | 0.05 | 0.68 | +201.5 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
 | 2026-07-31 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.65 | 0.00 | 0.00 | -0.8 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
 | 2026-07-29 | Schadenfreude | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.04 | 1.00 | 0.63 | 0.00 | 0.00 | -10.2 | ATTKR, Cain, DRUMMIE, G0LOB, rabbi_mike |
 | 2026-07-23 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.57 | 1.04 | 1.00 | 0.59 | 0.00 | 0.00 | -165.9 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
-| 2026-07-22 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.57 | 1.04 | 1.00 | 0.59 | 0.00 | 0.00 | -60.6 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
+| 2026-07-22 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.00 | 0.00 | -60.6 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
 | 2026-07-17 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.04 | 1.00 | 0.55 | 0.00 | 0.00 | -1.0 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
 | 2026-05-20 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.16 | +305.4 | -Burn, ATTKR, DRUMMIE, KakaRea, kaz, rabbi_mike |
 | 2026-05-13 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.00 | 0.00 | -0.3 | -Burn, ATTKR, DRUMMIE, kaz, rabbi_mike |

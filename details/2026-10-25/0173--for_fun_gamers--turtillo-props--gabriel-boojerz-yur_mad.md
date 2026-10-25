@@ -29,6 +29,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.91 | 0.00 | 0.00 | -22.6 | -gABRIEL, Props, boojerz, bryan, turtillo |
 | 2026-09-06 | GOYPEEKING | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.07 | 0.89 | +102.1 | -gABRIEL, Props, Yur_Mad, bryan, turtillo |
 | 2026-09-04 | NKBasketWeavers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.03 | 0.88 | +121.3 | -gABRIEL, Props, Yur_Mad, boojerz, turtillo |
-| 2026-09-02 | Team Ascension | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.87 | 0.03 | 0.87 | +140.8 | -gABRIEL, Bmich, Props, boojerz, turtillo |
+| 2026-09-02 | Team Ascension | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.86 | 0.03 | 0.86 | +140.8 | -gABRIEL, Bmich, Props, boojerz, turtillo |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

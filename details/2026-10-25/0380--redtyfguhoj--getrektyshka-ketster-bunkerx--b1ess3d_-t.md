@@ -35,10 +35,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.07 | 0.66 | +149.9 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 | 2026-07-31 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -145.1 | Tek, b1ess3d_, bunkerX-, getrektyshka, toshiiiro |
 | 2026-07-29 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -32.9 | Ketster, b1ess3d_, bunkerX-, getrektyshka, sensh |
-| 2026-07-24 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -139.6 | Ketster, bunkerX-, getrektyshka, sensh, toshiiiro |
+| 2026-07-24 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -139.7 | Ketster, bunkerX-, getrektyshka, sensh, toshiiiro |
 | 2026-07-22 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -168.1 | Ketster, b1ess3d_, bunkerX-, getrektyshka, sensh |
 | 2026-07-15 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.08 | 0.52 | +149.3 | Ketster, b1ess3d_, getrektyshka, sensh, toshiiiro |
-| 2026-06-01 | The Vicious Kitties | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.23 | 1.06 | 1.00 | 0.24 | 0.02 | 0.24 | +224.1 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
+| 2026-06-01 | The Vicious Kitties | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.23 | 1.06 | 1.00 | 0.24 | 0.02 | 0.24 | +224.2 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 | 2026-05-29 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.20 | 1.06 | 1.00 | 0.22 | 0.00 | 0.00 | -149.1 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

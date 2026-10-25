@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | After Peak | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -4.4 | OogybeAr, S-O-L-A-C-E, cohen, tydy3, vertsie |
 | 2026-05-20 | SwagMonkeyHats | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -219.9 | OogybeAr, S-O-L-A-C-E, c0de, cohen, tydy3, vertsie |
 | 2026-05-15 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +419.8 | OogybeAr, S-O-L-A-C-E, c0de, cohen, vertsie |
-| 2026-05-08 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.00 | 1.00 | 0.07 | 0.00 | 0.00 | -0.1 | OogybeAr, S-O-L-A-C-E, c0de, tydy3, vertsie |
+| 2026-05-08 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.00 | 0.00 | -0.1 | OogybeAr, S-O-L-A-C-E, c0de, tydy3, vertsie |
 | 2026-05-06 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -203.5 | OogybeAr, S-O-L-A-C-E, cohen, tydy3, vertsie |
 | 2026-05-01 | Emerald Isle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -11.4 | S-O-L-A-C-E, c0de, cohen, tydy3, vertsie |
 | 2026-04-29 | Solbound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -195.9 | OogybeAr, S-O-L-A-C-E, c0de, tydy3, vertsie |

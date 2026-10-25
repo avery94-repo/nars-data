@@ -40,9 +40,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.04 | 1.00 | 0.54 | 0.04 | 0.54 | +350.2 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-05-22 | firesale | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.37 | 1.00 | 0.22 | 0.00 | 0.00 | -14.6 | C4M, Dudley__, Pognu, Virifucx, _Matrix |
 | 2026-05-21 | Addice | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.15 | 1.37 | 1.00 | 0.21 | 0.00 | 0.00 | -2.7 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
-| 2026-05-20 | girl kissers | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.37 | 1.00 | 0.20 | 0.00 | 0.00 | -429.8 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
+| 2026-05-20 | girl kissers | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.37 | 1.00 | 0.20 | 0.00 | 0.00 | -429.9 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 | 2026-05-14 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.37 | 1.00 | 0.14 | 0.00 | 0.00 | -3.1 | Dudley__, Pognu, Virifucx, _Matrix, _bIitz |
 | 2026-05-06 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.37 | 1.00 | 0.07 | 0.01 | 0.07 | +279.8 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
-| 2026-05-01 | Team Hyper | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.37 | 1.00 | 0.03 | 0.00 | 0.00 | -299.0 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
+| 2026-05-01 | Team Hyper | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.37 | 1.00 | 0.02 | 0.00 | 0.00 | -299.0 | C4M, Dudley__, Pognu, _Matrix, _bIitz |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

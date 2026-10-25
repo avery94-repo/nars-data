@@ -4,14 +4,14 @@ Roster: Albatr0ssS, 0hio, ZynRG, Dingrz, -FlagZ
 NARS Rank: 162 of 503
 
 Final Rating: 1570.6
-Seeded Start: 1358.0
-H2H Adjustment: +212.6
+Seeded Start: 1357.9
+H2H Adjustment: +212.7
 
-Final Rating (1570.6) = Seeded Start (1358.0) + H2H Adjustment (+212.6)
+Final Rating (1570.6) = Seeded Start (1357.9) + H2H Adjustment (+212.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.184 x 1400 = 1358.0
+                = 1100 + 0.184 x 1400 = 1357.9
 
 seed_factor 0.184 = 0.25 x Tier Exposure (0.147) + 0.50 x Quality Wins (0.042) + 0.25 x Opponent Network (0.507)
 
@@ -48,7 +48,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +168.7 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-07-17 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.04 | 0.53 | +0.3 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-07-15 | 929 Arrival Gang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.03 | 0.52 | +131.4 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
-| 2026-06-04 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.24 | 1.06 | 1.00 | 0.26 | 0.00 | 0.00 | -149.3 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
+| 2026-06-04 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.24 | 1.06 | 1.00 | 0.26 | 0.00 | 0.00 | -149.4 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
 | 2026-06-02 | Let It Crust | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.23 | 1.06 | 1.00 | 0.24 | 0.00 | 0.24 | +104.7 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
 | 2026-05-31 | QUPMANACS | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.22 | 1.06 | 1.00 | 0.23 | 0.02 | 0.23 | +177.0 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |
 | 2026-05-29 | bubibabu | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.20 | 1.06 | 1.00 | 0.22 | 0.00 | 0.00 | -148.4 | -FlagZ, Albatr0ssS, Dingrz, Yakub, ZynRG |

@@ -4,14 +4,14 @@ Roster: Shoor1c, vinicui1, PeaseCentral, Starfy, Hymn_
 NARS Rank: 204 of 503
 
 Final Rating: 1477.8
-Seeded Start: 1123.0
-H2H Adjustment: +354.8
+Seeded Start: 1122.9
+H2H Adjustment: +354.9 (capped at +-300, raw +354.8)
 
-Final Rating (1477.8) = Seeded Start (1123.0) + H2H Adjustment (+354.8)
+Final Rating (1477.8) = Seeded Start (1122.9) + H2H Adjustment (+354.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.016 x 1400 = 1123.0
+                = 1100 + 0.016 x 1400 = 1122.9
 
 seed_factor 0.016 = 0.25 x Tier Exposure (0.014) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.043)
 

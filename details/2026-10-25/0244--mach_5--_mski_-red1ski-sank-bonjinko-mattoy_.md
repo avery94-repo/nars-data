@@ -28,13 +28,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | No Leaders Please | L | W/O | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-09 | enigma | L | W/O | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-07 | Team Amplus | L | W/O | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-09-08 | We Play Naked | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.10 | 0.89 | +29.0 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
+| 2026-09-08 | We Play Naked | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +29.0 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
 | 2026-09-07 | Benadryl Abusers | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.09 | 0.88 | +16.5 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
 | 2026-09-04 | Kevin James Fan Club | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -27.4 | BonJinko, Mattoy_, insightz, red1ski, sank |
 | 2026-08-26 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.06 | 0.80 | +97.7 | BonJinko, Mattoy_, insightz, red1ski, sank |
 | 2026-08-21 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -52.2 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, insightz |
-| 2026-08-19 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.08 | 0.75 | +98.6 | Mattoy_, _Mski_, insightz, red1ski, sank |
-| 2026-08-14 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.07 | 0.72 | +157.4 | Mattoy_, _Mski_, insightz, red1ski, sank |
+| 2026-08-19 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.08 | 0.75 | +98.7 | Mattoy_, _Mski_, insightz, red1ski, sank |
+| 2026-08-14 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.07 | 0.72 | +157.5 | Mattoy_, _Mski_, insightz, red1ski, sank |
 | 2026-08-12 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.02 | 0.70 | +0.8 | BonJinko, Mattoy_, _Mski_, insightz, sank |
 | 2026-08-07 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.04 | 0.67 | +18.1 | BonJinko, Mattoy_, _Mski_, insightz, sank |
 | 2026-08-05 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +10.2 | BonJinko, Mattoy_, _Mski_, red1ski, sank |

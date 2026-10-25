@@ -3,15 +3,15 @@ Team Name: FarmVille
 Roster: calamity, kmzbn, Signal, BeaKiew0w, no1nx
 NARS Rank: 20 of 503
 
-Final Rating: 2125.8
-Seeded Start: 2308.1
-H2H Adjustment: -182.3
+Final Rating: 2125.9
+Seeded Start: 2308.0
+H2H Adjustment: -182.1
 
-Final Rating (2125.8) = Seeded Start (2308.1) + H2H Adjustment (-182.3)
+Final Rating (2125.9) = Seeded Start (2308.0) + H2H Adjustment (-182.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.863 x 1400 = 2308.1
+                = 1100 + 0.863 x 1400 = 2308.0
 
 seed_factor 0.863 = 0.25 x Tier Exposure (1.000) + 0.50 x Quality Wins (0.726) + 0.25 x Opponent Network (1.000)
 
@@ -75,7 +75,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-23 | Skyline | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.42 | 1.14 | +9.5 | BeaKiew0w, Signal, kmzbn, no1nx, z0rka- |
 | 2026-08-17 | Zomblers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.74 | 1.46 | 1.00 | 1.08 | 0.90 | 1.08 | +118.8 | BeaKiew0w, Signal, kmzbn, no1nx, z0rka- |
 | 2026-08-13 | dice | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.71 | 1.46 | 1.00 | 1.04 | 0.16 | 1.04 | +66.3 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
-| 2026-08-11 | Hairy Scary Bandits | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.70 | 1.46 | 1.00 | 1.03 | 0.00 | 0.00 | -126.0 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
+| 2026-08-11 | Hairy Scary Bandits | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.70 | 1.46 | 1.00 | 1.03 | 0.00 | 0.00 | -125.9 | BeaKiew0w, Signal, calamity, kmzbn, no1nx |
 | 2026-05-01 | Wildcard | L |  | VRS-tracked 2026-05 | A | vrs | 0.02 | 1.60 | 1.00 | 0.03 | 0.00 | 0.00 | -169.3 | core 3/5 |
 | 2026-04-30 | regain | L |  | VRS-tracked 2026-04 | A | vrs | 0.01 | 1.59 | 1.00 | 0.02 | 0.00 | 0.00 | -19.6 | core 3/5 |
 | 2026-04-30 | Shimmer | W | 2-0 | VRS-tracked 2026-04 | A | vrs | 0.01 | 1.59 | 1.00 | 0.02 | 0.01 | 0.02 | +320.2 | core 3/5 |

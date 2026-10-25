@@ -4,14 +4,14 @@ Roster: Crev, -Toucan, KC_, J0YBOY, ItsJJ_
 NARS Rank: 294 of 503
 
 Final Rating: 1286.2
-Seeded Start: 1298.0
-H2H Adjustment: -11.8
+Seeded Start: 1297.9
+H2H Adjustment: -11.7
 
-Final Rating (1286.2) = Seeded Start (1298.0) + H2H Adjustment (-11.8)
+Final Rating (1286.2) = Seeded Start (1297.9) + H2H Adjustment (-11.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.141 x 1400 = 1298.0
+                = 1100 + 0.141 x 1400 = 1297.9
 
 seed_factor 0.141 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.425)
 
@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Moniseum | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.06 | 0.86 | +26.6 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-09-02 | offBalance | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -77.0 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-08-28 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.08 | 0.81 | +96.1 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
-| 2026-08-26 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -99.6 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
+| 2026-08-26 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -99.7 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-08-21 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -45.2 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-08-19 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -115.5 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-08-14 | Goyim Gladiators | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.08 | 0.72 | +18.9 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
@@ -41,8 +41,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.02 | 0.56 | +387.7 | BrodyJ, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-07-17 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -2.5 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-07-15 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.06 | 0.52 | +258.1 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
-| 2026-05-29 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -336.9 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
-| 2026-05-27 | Qinorhwat | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -390.9 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
+| 2026-05-29 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -337.0 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
+| 2026-05-27 | Qinorhwat | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -391.0 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-05-22 | The Agarthans | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +191.1 | -Toucan, BrodyJ, Crev, ItsJJ_, KC_ |
 | 2026-05-20 | Onsite has Oil | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.15 | +187.2 | -Toucan, Crev, ItsJJ_, KC_, M4CKY |
 | 2026-05-15 | We Play Naked | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.01 | 0.11 | +2.6 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |

@@ -45,7 +45,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.47 | 1.00 | 0.78 | 0.08 | 0.78 | +0.5 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-07-15 | Chicken Coop | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.47 | 1.00 | 0.76 | 0.64 | 0.76 | +500.1 | LUKE4k, brett, jBREEEZY, nicotine, s3rum_ |
 | 2026-06-19 | Chicken Coop | L | 0-2 | VRS-tracked 2026-06 | A | vrs | 0.34 | 1.60 | 1.00 | 0.55 | 0.00 | 0.00 | -0.0 | core 3/5 |
-| 2026-06-11 | BONK | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.06 | 1.00 | 0.31 | 0.02 | 0.31 | +286.2 | brett, jBREEEZY, nicotine, s3rum_, xrs0 |
-| 2026-06-02 | Diggers | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.23 | 1.06 | 1.00 | 0.24 | 0.00 | 0.00 | -30.9 | brett, jBREEEZY, nicotine, s3rum_, xrs0 |
+| 2026-06-11 | BONK | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.29 | 1.06 | 1.00 | 0.31 | 0.02 | 0.31 | +286.3 | brett, jBREEEZY, nicotine, s3rum_, xrs0 |
+| 2026-06-02 | Diggers | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.23 | 1.06 | 1.00 | 0.24 | 0.00 | 0.00 | -30.8 | brett, jBREEEZY, nicotine, s3rum_, xrs0 |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

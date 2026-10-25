@@ -28,8 +28,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | COGNITIVE | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -82.2 | 1to, BR33ZY, WavvY, Zamgaa, aroe114 |
 | 2026-10-09 | GOYPEEKING | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -139.5 | 1to, BR33ZY, WavvY, Zamgaa, Zenntox, aroe114 |
 | 2026-09-10 | deez | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -131.1 | 1to, BR33ZY, JumpZ101, Zamgaa, aroe114 |
-| 2026-09-08 | Sultans of Swing | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.04 | 0.88 | +110.0 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa, aroe114 |
-| 2026-09-02 | Symbiose | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.03 | 0.85 | +186.6 | 1to, BR33ZY, WavvY, Zamgaa, aroe114 |
+| 2026-09-08 | Sultans of Swing | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.04 | 0.88 | +110.1 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa, aroe114 |
+| 2026-09-02 | Symbiose | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +186.6 | 1to, BR33ZY, WavvY, Zamgaa, aroe114 |
 | 2026-06-10 | AAA | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -165.5 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa |
 | 2026-06-04 | counter strokin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.01 | 0.24 | +50.7 | 1to, BR33ZY, JumpZ101, Matty-Ice, WavvY, Zamgaa |
 | 2026-05-29 | 1001 Fragrance | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -167.3 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa |

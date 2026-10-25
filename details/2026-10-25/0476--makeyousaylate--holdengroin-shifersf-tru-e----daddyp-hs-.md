@@ -43,7 +43,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -189.0 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |
 | 2026-07-17 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -2.8 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |
 | 2026-07-15 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -258.1 | --DaDDyP, ShiferSF, Wilky, is_o, tRu-E- |
-| 2026-06-05 | In Our Prime | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -202.7 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
+| 2026-06-05 | In Our Prime | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -202.8 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
 | 2026-05-31 | FourStrokeGang | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.02 | 0.22 | +176.3 | --DaDDyP, GIARCYZZZARC, HS-poppins, ShiferSF, tRu-E- |
 | 2026-05-29 | Grandpa Berets | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -210.4 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
 | 2026-05-27 | Therapist | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +323.8 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
@@ -52,6 +52,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-12 | AML | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.01 | 0.00 | +160.7 | --DaDDyP, 1000-Denials, GIARCYZZZARC, ShiferSF, tRu-E- |
 | 2026-05-06 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -138.8 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
 | 2026-05-01 | SixSevenZaZa | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -421.8 | --DaDDyP, 1000-Denials, HS-poppins, ShiferSF, tRu-E- |
-| 2026-04-29 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.01 | 0.00 | 0.01 | +150.6 | --DaDDyP, -_Hitman, HS-poppins, ShiferSF, tRu-E- |
+| 2026-04-29 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +150.6 | --DaDDyP, -_Hitman, HS-poppins, ShiferSF, tRu-E- |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

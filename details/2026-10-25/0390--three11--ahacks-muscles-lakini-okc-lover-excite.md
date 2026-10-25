@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | TheMotherLovers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.00 | -7.0 | ahacks, excite, lakini, muscles, okc-lover |
 | 2026-05-15 | Kairo | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.00 | 0.00 | -119.0 | ahacks, excite, lakini, muscles, okc-lover |
 | 2026-05-13 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.00 | 0.00 | -70.5 | ahacks, excite, lakini, muscles, okc-lover |
-| 2026-05-06 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.00 | -326.3 | ahacks, excite, lakini, muscles, okc-lover |
+| 2026-05-06 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.00 | -326.4 | ahacks, excite, lakini, muscles, okc-lover |
 | 2026-04-30 | DESPAIR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.12 | 1.00 | 0.01 | 0.00 | 0.01 | +326.3 | excite, lakini, muscles, okc-lover, sideSWIPE_- |
 | 2026-04-29 | Resurgence | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.12 | 1.00 | 0.01 | 0.00 | 0.01 | +317.3 | ahacks, lakini, muscles, okc-lover, vinin |
 

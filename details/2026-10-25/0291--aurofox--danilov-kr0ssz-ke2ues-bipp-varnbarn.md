@@ -3,11 +3,11 @@ Team Name: Aurofox
 Roster: danilov, Kr0ssz, ke2ues, Bipp, varnbarn
 NARS Rank: 291 of 503
 
-Final Rating: 1296.0
+Final Rating: 1295.9
 Seeded Start: 1115.4
-H2H Adjustment: +180.6
+H2H Adjustment: +180.5
 
-Final Rating (1296.0) = Seeded Start (1115.4) + H2H Adjustment (+180.6)
+Final Rating (1295.9) = Seeded Start (1115.4) + H2H Adjustment (+180.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Manx Recovery Program | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.00 | -361.4 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-21 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.12 | 1.00 | 0.17 | 0.03 | 0.17 | +2.6 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
-| 2026-05-15 | Wolves | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.02 | 0.13 | +238.1 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
+| 2026-05-15 | Wolves | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.02 | 0.13 | +238.2 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-13 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.00 | 0.00 | -177.3 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-08 | Yogaball Frags | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.01 | 0.07 | +73.1 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |
 | 2026-05-06 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.06 | +218.7 | Bipp, Kr0ssz, TheRealTalo, ke2ues, varnbarn |

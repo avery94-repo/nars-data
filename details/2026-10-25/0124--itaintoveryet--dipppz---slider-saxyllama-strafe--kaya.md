@@ -25,13 +25,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-21 | ASCEND | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.15 | 1.02 | +76.7 | --Slider, -kaya, Dipppz, Psyychotik, SaxyLlama |
-| 2026-10-20 | mokey mokey | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +232.6 | --Slider, -kaya, Dipppz, Psyychotik, SaxyLlama |
+| 2026-10-20 | mokey mokey | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +232.7 | --Slider, -kaya, Dipppz, Psyychotik, SaxyLlama |
 | 2026-10-14 | deluxe | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-09 | Transcended | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +316.1 | --Slider, -kaya, Dipppz, Psyychotik, SaxyLlama |
 | 2026-10-07 | Swole Patrol | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -0.2 | --Slider, -kaya, Dipppz, Psyychotik, SaxyLlama |
 | 2026-09-17 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -80.3 | --Slider, Dipppz, Psyychotik, Strafe, st0rm_- |
 | 2026-08-26 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -58.3 | --Slider, Dipppz, Psyychotik, Strafe, st0rm_- |
-| 2026-08-19 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -63.8 | --Slider, Dipppz, Psyychotik, Strafe, st0rm_- |
+| 2026-08-19 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -63.9 | --Slider, Dipppz, Psyychotik, Strafe, st0rm_- |
 | 2026-08-14 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +62.0 | --Slider, -kaya, Dipppz, Psyychotik, Strafe |
 | 2026-08-12 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +118.4 | --Slider, -kaya, Dipppz, Psyychotik, Strafe |
 | 2026-08-07 | Casipanther | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.02 | 0.67 | +95.2 | --Slider, -kaya, Dipppz, Psyychotik, Strafe |

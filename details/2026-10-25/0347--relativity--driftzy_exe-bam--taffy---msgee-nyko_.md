@@ -13,7 +13,7 @@ Final Rating (1191.2) = Seeded Start (1108.8) + H2H Adjustment (+82.4)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.006 x 1400 = 1108.8
 
-seed_factor 0.006 = 0.25 x Tier Exposure (0.006) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.017)
+seed_factor 0.006 = 0.25 x Tier Exposure (0.006) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.016)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,9 +24,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -93.4 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
+| 2026-05-22 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -93.3 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-20 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -168.8 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
-| 2026-05-14 | Midwest Farmers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.11 | 0.01 | 0.11 | +247.2 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
+| 2026-05-14 | Midwest Farmers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.11 | 0.01 | 0.11 | +247.3 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-13 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -425.8 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-08 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +201.1 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-06 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +73.8 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |

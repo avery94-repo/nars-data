@@ -3,11 +3,11 @@ Team Name: SixSevenZaZa
 Roster: Zucc_, Tr1d, foe, Apache_8, kix
 NARS Rank: 501 of 503
 
-Final Rating: 445.9
+Final Rating: 445.8
 Seeded Start: 1143.6
-H2H Adjustment: -697.7
+H2H Adjustment: -697.8
 
-Final Rating (445.9) = Seeded Start (1143.6) + H2H Adjustment (-697.7)
+Final Rating (445.8) = Seeded Start (1143.6) + H2H Adjustment (-697.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -32,12 +32,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -58.1 | HoodieMello, Tr1d, Zucc_, foe, kix |
 | 2026-07-31 | Big Kahuna Gaming | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -23.2 | HoodieMello, Tr1d, Zucc_, foe, kix |
 | 2026-07-29 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -3.5 | HoodieMello, Tr1d, Zucc_, foe, kix |
-| 2026-07-24 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -56.1 | Chuwxe, Tr1d, Zucc_, foe, kix |
+| 2026-07-24 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -56.0 | Chuwxe, Tr1d, Zucc_, foe, kix |
 | 2026-07-22 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -20.2 | Chuwxe, Tr1d, Zucc_, foe, kix |
 | 2026-07-17 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -64.4 | Chuwxe, Tr1d, Zucc_, foe, kix |
 | 2026-07-15 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.04 | 0.52 | +438.3 | Chuwxe, Tr1d, Zucc_, foe, kix |
 | 2026-05-22 | dogwater | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -276.4 | Chuwxe, SoldACat4Ket, Tr1d, foe, kix |
-| 2026-05-20 | GOMI dot CLUB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -307.0 | Apache_8, Tr1d, Zucc_, foe, kix |
+| 2026-05-20 | GOMI dot CLUB | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -307.1 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-05-15 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -16.6 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-05-13 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -37.8 | BooWh00, Tr1d, Zucc_, foe, kix |
 | 2026-05-06 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -316.8 | Apache_8, Tr1d, Zucc_, foe, kix |

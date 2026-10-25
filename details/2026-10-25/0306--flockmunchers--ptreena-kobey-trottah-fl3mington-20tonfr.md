@@ -32,9 +32,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | HigherEducation | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.04 | 0.89 | +190.8 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
 | 2026-09-04 | Pixel Peek | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.03 | 0.88 | +95.8 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
 | 2026-09-02 | Crab Rangooners | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.85 | 1.02 | 1.00 | 0.87 | 0.00 | 0.00 | -189.5 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
-| 2026-08-26 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.46 | 1.00 | 1.17 | 0.00 | 0.00 | -0.0 | Kobey, Muzic, Trottah, fl3mington, ptreena |
+| 2026-08-26 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.80 | 1.46 | 1.00 | 1.16 | 0.00 | 0.00 | -0.0 | Kobey, Muzic, Trottah, fl3mington, ptreena |
 | 2026-08-24 | Holly Molly | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.46 | 1.00 | 1.15 | 0.00 | 0.00 | -18.9 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
-| 2026-08-24 | North Forge | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.79 | 1.46 | 1.00 | 1.15 | 0.00 | 0.00 | -6.3 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
+| 2026-08-24 | North Forge | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.15 | 0.00 | 0.00 | -6.3 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
 | 2026-08-23 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.78 | 1.46 | 1.00 | 1.14 | 0.00 | 0.00 | -0.0 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
 | 2026-08-18 | Tacos Tiramisu and Lies | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.74 | 1.46 | 1.00 | 1.09 | 0.00 | 0.00 | -0.5 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
 | 2026-08-11 | Conscious Gaming | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.70 | 1.46 | 1.00 | 1.02 | 0.00 | 0.00 | -16.7 | Kobey, Muzic, Trottah, fl3mington, ptreena |

@@ -40,10 +40,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Quality | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.04 | 1.00 | 0.60 | 0.00 | 0.00 | -27.9 | E1EKTRIKA, NEMFOREDEAL, YaBoiZel, cdm35, obscure- |
 | 2026-07-22 | my life be like | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.00 | 0.00 | -227.0 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 | 2026-07-17 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.04 | 1.00 | 0.55 | 0.04 | 0.55 | +101.6 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
-| 2026-07-15 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.04 | 1.00 | 0.54 | 0.10 | 0.54 | +426.2 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
+| 2026-07-15 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.04 | 1.00 | 0.54 | 0.10 | 0.54 | +426.3 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 | 2026-05-15 | VOID ALUNE | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.00 | 0.00 | -219.6 | D3vante, YaBoiZel, _miIkman_, cdm35, obscure- |
-| 2026-05-08 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.00 | 0.00 | -418.0 | E1EKTRIKA, METTLE, YaBoiZel, _miIkman_, cdm35 |
+| 2026-05-08 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.00 | 0.00 | -418.1 | E1EKTRIKA, METTLE, YaBoiZel, _miIkman_, cdm35 |
 | 2026-05-06 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.06 | +177.3 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
-| 2026-04-29 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.12 | 1.00 | 0.01 | 0.00 | 0.01 | +221.0 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
+| 2026-04-29 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.12 | 1.00 | 0.01 | 0.00 | 0.01 | +221.0 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

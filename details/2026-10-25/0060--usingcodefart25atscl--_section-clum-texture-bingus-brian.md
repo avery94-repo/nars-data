@@ -3,11 +3,11 @@ Team Name: UsingCodefArt25atSCL
 Roster: _Section, Clum, texture, bingus, brian
 NARS Rank: 60 of 503
 
-Final Rating: 1854.9
+Final Rating: 1855.0
 Seeded Start: 1326.8
-H2H Adjustment: +528.1
+H2H Adjustment: +528.2
 
-Final Rating (1854.9) = Seeded Start (1326.8) + H2H Adjustment (+528.1)
+Final Rating (1855.0) = Seeded Start (1326.8) + H2H Adjustment (+528.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-28 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.10 | 1.00 | 0.90 | 0.07 | 0.90 | +60.4 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
+| 2026-08-28 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.10 | 1.00 | 0.89 | 0.07 | 0.89 | +60.4 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-08-26 | Second Nature | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.00 | 0.00 | -79.6 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-08-21 | Lynnsanity | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.00 | 0.00 | -110.9 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |
 | 2026-08-19 | 5Frag Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.83 | 0.00 | 0.00 | -112.0 | DanGugly, Jase_797, Ludo67, Munchzorr, Wooziful |

@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | 5Frag Gaming | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -2.4 | -Stray-, Balto-, EclipseHB, RustyVibe, mead |
 | 2026-09-04 | Marsborne | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.86 | 1.60 | 1.00 | 1.37 | 0.00 | 0.00 | -0.0 | core 3/5 |
 | 2026-08-27 | Celestial Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.31 | 1.00 | 1.06 | 0.00 | 0.00 | -0.9 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
-| 2026-08-27 | Playing for fun | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.81 | 1.31 | 1.00 | 1.06 | 0.00 | 0.00 | -0.1 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
+| 2026-08-27 | Playing for fun | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.80 | 1.31 | 1.00 | 1.06 | 0.00 | 0.00 | -0.1 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-27 | Sedated | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.80 | 1.31 | 1.00 | 1.05 | 0.00 | 0.00 | -0.1 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-26 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.03 | 0.00 | +97.6 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-21 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.04 | 1.00 | 0.79 | 0.09 | 0.79 | +116.8 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
@@ -39,15 +39,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.04 | 1.00 | 0.74 | 0.06 | 0.74 | +44.4 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-13 | counterstrike Team | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.71 | 1.31 | 1.00 | 0.93 | 0.00 | 0.00 | -14.9 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-07 | Old Dads Banging | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.00 | 0.00 | -147.4 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
-| 2026-08-06 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.69 | 0.08 | 0.69 | +161.9 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
+| 2026-08-06 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.69 | 0.08 | 0.69 | +161.9 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-07-31 | In Our Prime | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.65 | 0.00 | 0.00 | -170.8 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
-| 2026-07-30 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.64 | 0.00 | 0.00 | -236.2 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
+| 2026-07-30 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.64 | 0.00 | 0.00 | -236.3 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
 | 2026-07-24 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.04 | 1.00 | 0.60 | 0.02 | 0.60 | +9.1 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
 | 2026-07-17 | Real Hustle Club | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.04 | 1.00 | 0.55 | 0.00 | 0.00 | -13.6 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
 | 2026-07-15 | Qinorhwat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.04 | 1.00 | 0.54 | 0.00 | 0.00 | -130.7 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
 | 2026-05-22 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.01 | 0.18 | +0.2 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
 | 2026-05-20 | Specter Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.01 | 0.16 | +274.7 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
-| 2026-05-08 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.12 | 1.00 | 0.07 | 0.01 | 0.07 | +155.3 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
+| 2026-05-08 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.01 | 0.07 | +155.3 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
 | 2026-05-06 | Aers Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.00 | -20.3 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
 | 2026-05-01 | onliners | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.12 | 1.00 | 0.02 | 0.00 | 0.00 | -56.0 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
 | 2026-04-29 | Kaos | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.12 | 1.00 | 0.01 | 0.00 | 0.00 | -213.4 | -Stray-, EclipseHB, Hawkins, J3llyz, RustyVibe |

@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | SAFIR | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.84 | 1.06 | 1.00 | 0.89 | 0.00 | 0.00 | -61.3 | -Sleepy666-, FourmiDubz, Koni_-, kismaah, zoopreme |
 | 2026-08-28 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.04 | 1.00 | 0.84 | 0.00 | 0.00 | -31.1 | -Sleepy666-, FourmiDubz, Koni_-, kismaah, zoopreme |
 | 2026-08-26 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.00 | 0.00 | -43.9 | -Sleepy666-, FourmiDubz, Koni_-, kismaah, zoopreme |
-| 2026-08-21 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.04 | 1.00 | 0.79 | 0.06 | 0.79 | +33.7 | El-Nain, FourmiDubz, Koni_-, kismaah, zoopreme |
+| 2026-08-21 | Full White | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.04 | 1.00 | 0.79 | 0.06 | 0.79 | +33.7 | El-Nain, FourmiDubz, Koni_-, kismaah, zoopreme |
 | 2026-08-19 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.05 | 0.78 | +95.2 | El-Nain, FourmiDubz, Koni_-, kismaah, zoopreme |
 | 2026-08-13 | Fortis Fortuna Adiuvat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.71 | 1.04 | 1.00 | 0.74 | 0.08 | 0.74 | +121.0 | El-Nain, FourmiDubz, Kentai, Koni_-, zoopreme |
 | 2026-08-12 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.04 | 1.00 | 0.73 | 0.00 | 0.00 | -47.6 | El-Nain, FourmiDubz, Koni_-, Purgecs_, zoopreme |

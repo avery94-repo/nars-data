@@ -3,11 +3,11 @@ Team Name: qcclan
 Roster: J0LZ, Gabie, Sup3rant, YONJI, TENSKEE
 NARS Rank: 18 of 503
 
-Final Rating: 2155.5
+Final Rating: 2155.6
 Seeded Start: 1398.0
-H2H Adjustment: +757.5
+H2H Adjustment: +757.6
 
-Final Rating (2155.5) = Seeded Start (1398.0) + H2H Adjustment (+757.5)
+Final Rating (2155.6) = Seeded Start (1398.0) + H2H Adjustment (+757.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -43,8 +43,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | GOOZPEEK | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.05 | 0.62 | +68.3 | Gabie, Qwerto-, TENSKEE, Yonji, sup3rant |
 | 2026-07-17 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.59 | 0.03 | 0.59 | +33.5 | Gabie, Qwerto-, TENSKEE, Yonji, sup3rant |
 | 2026-07-16 | Kaos | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.58 | 0.04 | 0.58 | +33.3 | Gabie, Qwerto-, TENSKEE, Yonji, sup3rant |
-| 2026-05-31 | POULETROUGE | W | 2-0 | Lan ETS 2026 | C | liquipedia | 0.22 | 1.58 | 1.00 | 0.35 | 0.26 | 0.00 | +576.6 | Gabie, J0LZ, Melio, Sup3rant, YONJI |
-| 2026-05-22 | Binky | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.00 | -379.6 | 1MkaeL, Gabie, Yonji, lNCREDIBLE, sup3rant |
+| 2026-05-31 | POULETROUGE | W | 2-0 | Lan ETS 2026 | C | liquipedia | 0.22 | 1.58 | 1.00 | 0.35 | 0.26 | 0.00 | +576.7 | Gabie, J0LZ, Melio, Sup3rant, YONJI |
+| 2026-05-22 | Binky | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.00 | -379.7 | 1MkaeL, Gabie, Yonji, lNCREDIBLE, sup3rant |
 | 2026-05-15 | THE GUILD | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.01 | 0.13 | +142.0 | 1MkaeL, Gabie, Yonji, lNCREDIBLE, sup3rant |
 | 2026-05-08 | REPORT MASSIVE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.00 | 0.07 | +380.8 | 1MkaeL, Gabie, Yonji, lNCREDIBLE, sup3rant |
 | 2026-05-06 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.00 | -19.5 | 1MkaeL, Gabie, Yonji, lNCREDIBLE, sup3rant |

@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Solar Gravity | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.37 | 1.00 | 0.20 | 0.01 | 0.20 | +426.0 | -TeXaSs, gadflyy, kevin, lunari, violet_ |
 | 2026-05-19 | skebob | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.37 | 1.00 | 0.19 | 0.00 | 0.00 | -0.2 | -TeXaSs, gadflyy, kevin, lunari, violet_ |
 | 2026-05-14 | Room Temp IQs | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.37 | 1.00 | 0.14 | 0.00 | 0.00 | -202.9 | -TeXaSs, gadflyy, kevin, lunari, violet_ |
-| 2026-05-08 | Team Hyper | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.37 | 1.00 | 0.09 | 0.00 | 0.00 | -137.9 | -TeXaSs, gadflyy, kevin, lunari, violet_ |
+| 2026-05-08 | Team Hyper | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.37 | 1.00 | 0.09 | 0.00 | 0.00 | -138.0 | -TeXaSs, gadflyy, kevin, lunari, violet_ |
 | 2026-05-05 | SOLA GAMING | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.37 | 1.00 | 0.06 | 0.00 | 0.00 | -89.2 | -TeXaSs, gadflyy, kevin, lunari, torii, violet_ |
 | 2026-04-30 | Celestial Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.37 | 1.00 | 0.02 | 0.00 | 0.00 | -0.3 | -TeXaSs, gadflyy, kevin, lunari, violet_ |
 | 2026-04-30 | Incognito | L | 0-2 | VRS-tracked 2026-04 | A | vrs | 0.01 | 1.59 | 1.00 | 0.02 | 0.00 | 0.00 | -172.3 | core 3/5 |

@@ -30,6 +30,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | Upsetti Academy | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.91 | 0.03 | 0.91 | +108.2 | MaaarkG, Yowie_cs, attach-, brownie26, wrxcs |
 | 2026-09-06 | WannaBeMovement | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.04 | 0.89 | +61.1 | MaaarkG, Yowie_cs, attach-, brownie26, wrxcs |
 | 2026-09-04 | Team GREAT | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.00 | 0.00 | -165.5 | RushDD, Yowie_cs, attach-, brownie26, wrxcs |
-| 2026-09-02 | OnThaGear | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.87 | 0.06 | 0.87 | +163.7 | RushDD, Yowie_cs, attach-, brownie26, wrxcs |
+| 2026-09-02 | OnThaGear | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.86 | 0.06 | 0.86 | +163.7 | RushDD, Yowie_cs, attach-, brownie26, wrxcs |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

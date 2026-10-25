@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.02 | 0.61 | +3.5 | 1v5, danbearpig, jzumaki, likwid, prophet03 |
 | 2026-07-24 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.06 | 0.58 | +277.8 | Twisted5k, jspec, jzumaki, likwid, sw1rve |
 | 2026-07-22 | VeryBigDoogoos | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -55.2 | danbearpig, jspec, jzumaki, likwid, sw1rve |
-| 2026-07-17 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -290.0 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
+| 2026-07-17 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -290.1 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-07-15 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.04 | 0.52 | +285.2 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-31 | FLying PiGs | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -149.7 | Twisted5k, danbearpig, jspec, jzumaki, likwid |
 | 2026-05-29 | SwagMonkeyHats | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -168.5 | Twisted5k, danbearpig, jspec, jzumaki, likwid |

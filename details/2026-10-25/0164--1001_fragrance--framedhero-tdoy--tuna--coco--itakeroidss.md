@@ -4,14 +4,14 @@ Roster: framedHERO, tdoy, -Tuna-, Coco-, ITakeRoidss
 NARS Rank: 164 of 503
 
 Final Rating: 1565.0
-Seeded Start: 1331.9
-H2H Adjustment: +233.1
+Seeded Start: 1331.8
+H2H Adjustment: +233.2
 
-Final Rating (1565.0) = Seeded Start (1331.9) + H2H Adjustment (+233.1)
+Final Rating (1565.0) = Seeded Start (1331.8) + H2H Adjustment (+233.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.166 x 1400 = 1331.9
+                = 1100 + 0.166 x 1400 = 1331.8
 
 seed_factor 0.166 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.045) + 0.25 x Opponent Network (0.502)
 
@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | GoonAssOldheads | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.09 | 0.84 | +2.0 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-28 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.10 | 0.81 | +52.6 | Coco-, Lieth, SillyBoy23, framedHERO, tdoy |
 | 2026-08-26 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.08 | 0.80 | +62.0 | Coco-, Lieth, beast9, framedHERO, tdoy |
-| 2026-08-21 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -15.1 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
+| 2026-08-21 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -15.0 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-19 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -35.8 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-14 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +154.7 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-12 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -213.2 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |

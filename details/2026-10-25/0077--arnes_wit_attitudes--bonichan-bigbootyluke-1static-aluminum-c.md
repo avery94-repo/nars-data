@@ -3,11 +3,11 @@ Team Name: Arnes Wit Attitudes
 Roster: BONICHAN, BigBootyLuke, 1Static, Aluminum, Clover_-
 NARS Rank: 77 of 503
 
-Final Rating: 1789.9
+Final Rating: 1790.0
 Seeded Start: 1287.5
-H2H Adjustment: +502.4 (capped at +-300, raw +502.5)
+H2H Adjustment: +502.5
 
-Final Rating (1789.9) = Seeded Start (1287.5) + H2H Adjustment (+502.4)
+Final Rating (1790.0) = Seeded Start (1287.5) + H2H Adjustment (+502.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

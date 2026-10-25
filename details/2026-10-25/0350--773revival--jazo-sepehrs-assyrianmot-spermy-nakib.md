@@ -37,8 +37,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.12 | 1.00 | 0.17 | 0.00 | 0.00 | -243.9 | JaZo, NAKIB, SPERMY, SepehrS, assyrianMOT |
 | 2026-05-20 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.16 | +0.1 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
 | 2026-05-15 | Sassy Sunshines | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.01 | 0.13 | +302.8 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
-| 2026-05-13 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.01 | 0.11 | +180.1 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
-| 2026-05-08 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.12 | 1.00 | 0.07 | 0.00 | 0.00 | -191.1 | Banadoora, JaZo, NAKIB, SPERMY, assyrianMOT |
+| 2026-05-13 | Binky | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.01 | 0.11 | +180.2 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |
+| 2026-05-08 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.00 | 0.00 | -191.2 | Banadoora, JaZo, NAKIB, SPERMY, assyrianMOT |
 | 2026-05-06 | YHUBEPCAM | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.00 | -226.1 | JaZo, NAKIB, SPERMY, SepehrS, assyrianMOT |
 | 2026-05-01 | CNCS Last Hope | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.12 | 1.00 | 0.02 | 0.00 | 0.02 | +182.2 | 1KoR, JaZo, NAKIB, SPERMY, SepehrS |
 | 2026-04-30 | penazoid | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.12 | 1.00 | 0.01 | 0.00 | 0.01 | +321.8 | Banadoora, JaZo, NAKIB, SPERMY, SepehrS |

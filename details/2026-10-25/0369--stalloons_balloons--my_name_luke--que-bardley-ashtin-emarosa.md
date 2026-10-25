@@ -3,11 +3,11 @@ Team Name: STALLOONS BALLOONS
 Roster: My_Name_Luke, -que, bardley, ashtin, emarosa
 NARS Rank: 369 of 503
 
-Final Rating: 1135.4
+Final Rating: 1135.3
 Seeded Start: 1203.2
-H2H Adjustment: -67.8
+H2H Adjustment: -67.9
 
-Final Rating (1135.4) = Seeded Start (1203.2) + H2H Adjustment (-67.8)
+Final Rating (1135.3) = Seeded Start (1203.2) + H2H Adjustment (-67.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,8 +24,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | Adria eSports | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.03 | 1.00 | 0.91 | 0.00 | 0.00 | -146.8 | -que, My_Name_Luke, S1n3star, bardley, emarosa, goose_ |
-| 2026-09-02 | DMA | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.00 | 0.00 | -236.7 | -que, My_Name_Luke, S1n3star, bardley, emarosa |
+| 2026-09-08 | Adria eSports | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.03 | 1.00 | 0.91 | 0.00 | 0.00 | -146.8 | -que, My_Name_Luke, S1n3star, bardley, emarosa, goose_ |
+| 2026-09-02 | DMA | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.00 | 0.00 | -236.8 | -que, My_Name_Luke, S1n3star, bardley, emarosa |
 | 2026-08-09 | DETONATE | L | 0-2 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.69 | 1.21 | 1.00 | 0.83 | 0.00 | 0.00 | -0.2 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-09 | FLOW STATE | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.68 | 1.21 | 1.00 | 0.83 | 0.18 | 0.83 | +117.0 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-09 | Wuff Widas | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.68 | 1.21 | 1.00 | 0.83 | 0.07 | 0.83 | +271.0 | -que, 1stallion, ashtin, bardley, emarosa |

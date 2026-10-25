@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Dead Pixel | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +10.7 | Kanapez, andrew-OwO, dabgoblin, diamondtest, maples19 |
 | 2026-09-15 | For Fun Gamers | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -77.3 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
 | 2026-09-12 | CLUE IN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.91 | 1.02 | 1.00 | 0.93 | 0.04 | 0.93 | +133.0 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
-| 2026-09-06 | fast8 | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -155.2 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
+| 2026-09-06 | fast8 | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -155.3 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
 | 2026-09-04 | Fated | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.03 | 0.88 | +116.3 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
 | 2026-09-02 | Bona Fide Boys | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.86 | 0.03 | 0.86 | +135.1 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
 

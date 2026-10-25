@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-10 | Adria eSports | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.03 | 1.00 | 0.93 | 0.06 | 0.93 | +76.8 | 1icarus, DaRkHaWk72, Johnny316, ctrn, lelgfnoob |
-| 2026-09-07 | MEET THE WALL - DEAD | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.03 | 1.00 | 0.91 | 0.00 | 0.00 | -169.1 | 1icarus, Zaakaa, ctrn, egaK, mock |
+| 2026-09-07 | MEET THE WALL - DEAD | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.03 | 1.00 | 0.91 | 0.00 | 0.00 | -169.2 | 1icarus, Zaakaa, ctrn, egaK, mock |
 | 2026-09-04 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.13 | 0.89 | +97.1 | 1icarus, ctrn, egaK, lelgfnoob, mock |
 | 2026-09-02 | Lemon Party | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.03 | 0.87 | +17.0 | 1icarus, CH4RG3R, Johnny316, ctrn, egaK |
 | 2026-06-05 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.25 | 1.06 | 1.00 | 0.27 | 0.00 | 0.00 | -216.8 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |

@@ -4,14 +4,14 @@ Roster: vainilla, spamzzy, points, tor1towOw, Slayerh-
 NARS Rank: 99 of 503
 
 Final Rating: 1707.4
-Seeded Start: 1655.6
-H2H Adjustment: +51.8
+Seeded Start: 1655.5
+H2H Adjustment: +51.9
 
-Final Rating (1707.4) = Seeded Start (1655.6) + H2H Adjustment (+51.8)
+Final Rating (1707.4) = Seeded Start (1655.5) + H2H Adjustment (+51.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.397 x 1400 = 1655.6
+                = 1100 + 0.397 x 1400 = 1655.5
 
 seed_factor 0.397 = 0.25 x Tier Exposure (0.625) + 0.50 x Quality Wins (0.206) + 0.25 x Opponent Network (0.551)
 
@@ -36,11 +36,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-31 | BESTIA ACADEMY | L |  | VRS-tracked 2026-08 | A | vrs | 0.83 | 1.60 | 1.00 | 1.33 | 0.00 | 0.00 | -26.7 | core 3/5 |
 | 2026-08-29 | MEIA NOITE | L |  | VRS-tracked 2026-08 | A | vrs | 0.82 | 1.60 | 1.00 | 1.31 | 0.00 | 0.00 | -38.2 | core 3/5 |
 | 2026-08-28 | dice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.81 | 1.47 | 1.00 | 1.19 | 0.19 | 1.19 | +20.8 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
-| 2026-08-28 | GRÊMIO | L |  | VRS-tracked 2026-08 | A | vrs | 0.81 | 1.60 | 1.00 | 1.30 | 0.00 | 0.00 | -62.1 | core 3/5 |
+| 2026-08-28 | GRÊMIO | L |  | VRS-tracked 2026-08 | A | vrs | 0.81 | 1.60 | 1.00 | 1.30 | 0.00 | 0.00 | -62.2 | core 3/5 |
 | 2026-08-26 | GRIT | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.12 | 1.17 | +2.5 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-08-25 | GUARA | W |  | VRS-tracked 2026-08 | A | vrs | 0.79 | 1.60 | 1.00 | 1.26 | 0.74 | 0.00 | +96.5 | core 3/5 |
 | 2026-08-21 | Omen Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.47 | 1.00 | 1.12 | 0.36 | 1.12 | +93.6 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
-| 2026-08-20 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.47 | 1.00 | 1.11 | 0.11 | 1.11 | +168.2 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
+| 2026-08-20 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.47 | 1.00 | 1.11 | 0.11 | 1.11 | +168.3 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-08-07 | Playing for fun | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.00 | 0.00 | -36.6 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-08-05 | Phantom Sense | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.00 | 0.00 | -126.3 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-08-03 | Shimmer | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.47 | 1.00 | 0.94 | 0.32 | 0.94 | +149.9 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
@@ -50,16 +50,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-20 | YOUR END | L |  | VRS-tracked 2026-07 | A | vrs | 0.55 | 1.60 | 1.00 | 0.88 | 0.00 | 0.00 | -24.9 | core 3/5 |
 | 2026-07-17 | MASTER ONE | L | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.54 | 1.00 | 1.00 | 0.54 | 0.00 | 0.00 | -234.9 | -TAYLOR, 1snkzinho_, Slayerh-, points, spamzzy |
 | 2026-07-17 | DKR Esports | L | 0-0 | Esports Nations Cup 2026: South America Qualifier | C | faceit-tournament | 0.54 | 1.00 | 1.00 | 0.54 | 0.00 | 0.00 | -220.9 | -TAYLOR, 1snkzinho_, Slayerh-, points, spamzzy |
-| 2026-07-17 | VASCO | W |  | VRS-tracked 2026-07 | A | vrs | 0.53 | 1.60 | 1.00 | 0.85 | 0.59 | 0.00 | +258.7 | core 3/5 |
+| 2026-07-17 | VASCO | W |  | VRS-tracked 2026-07 | A | vrs | 0.53 | 1.60 | 1.00 | 0.85 | 0.59 | 0.00 | +258.8 | core 3/5 |
 | 2026-07-16 | PAIN ACADEMY | L |  | VRS-tracked 2026-07 | A | vrs | 0.52 | 1.60 | 1.00 | 0.84 | 0.00 | 0.00 | -141.6 | core 3/5 |
 | 2026-07-15 | Celestial Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.47 | 1.00 | 0.76 | 0.25 | 0.76 | +78.7 | Slayerh-, points, spamzzy, tor1towOw, vainilla |
 | 2026-07-15 | MEIA NOITE | L |  | VRS-tracked 2026-07 | A | vrs | 0.52 | 1.60 | 1.00 | 0.83 | 0.00 | 0.00 | -100.4 | core 3/5 |
 | 2026-07-03 | ALKA | L |  | VRS-tracked 2026-07 | A | vrs | 0.44 | 1.60 | 1.00 | 0.70 | 0.00 | 0.00 | -99.9 | core 3/5 |
-| 2026-06-30 | VASCO | W |  | VRS-tracked 2026-06 | A | vrs | 0.42 | 1.60 | 1.00 | 0.67 | 0.46 | 0.00 | +422.8 | core 3/5 |
+| 2026-06-30 | VASCO | W |  | VRS-tracked 2026-06 | A | vrs | 0.42 | 1.60 | 1.00 | 0.67 | 0.46 | 0.00 | +422.9 | core 3/5 |
 | 2026-06-29 | PAIN ACADEMY | L |  | VRS-tracked 2026-06 | A | vrs | 0.41 | 1.60 | 1.00 | 0.66 | 0.00 | 0.00 | -71.1 | core 3/5 |
 | 2026-06-28 | YAWARA | L |  | VRS-tracked 2026-06 | A | vrs | 0.40 | 1.60 | 1.00 | 0.65 | 0.00 | 0.00 | -27.7 | core 3/5 |
-| 2026-05-18 | VEXA | L |  | VRS-tracked 2026-05 | A | vrs | 0.13 | 1.60 | 1.00 | 0.21 | 0.00 | 0.00 | -237.2 | core 3/5 |
-| 2026-05-16 | CRASHERS | W |  | VRS-tracked 2026-05 | A | vrs | 0.12 | 1.60 | 1.00 | 0.19 | 0.09 | 0.00 | +536.7 | core 3/5 |
+| 2026-05-18 | VEXA | L |  | VRS-tracked 2026-05 | A | vrs | 0.13 | 1.60 | 1.00 | 0.21 | 0.00 | 0.00 | -237.3 | core 3/5 |
+| 2026-05-16 | CRASHERS | W |  | VRS-tracked 2026-05 | A | vrs | 0.12 | 1.60 | 1.00 | 0.19 | 0.09 | 0.00 | +536.8 | core 3/5 |
 | 2026-05-14 | EX-KRÜ | L |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.17 | 0.00 | 0.00 | -53.7 | core 3/5 |
 | 2026-05-12 | R2 | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -132.5 | core 3/5 |
 

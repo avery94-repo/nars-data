@@ -4,14 +4,14 @@ Roster: yippeee, Rush_X, madss, Minxy, raven
 NARS Rank: 222 of 503
 
 Final Rating: 1444.1
-Seeded Start: 1336.6
-H2H Adjustment: +107.5
+Seeded Start: 1336.5
+H2H Adjustment: +107.6
 
-Final Rating (1444.1) = Seeded Start (1336.6) + H2H Adjustment (+107.5)
+Final Rating (1444.1) = Seeded Start (1336.5) + H2H Adjustment (+107.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.169 x 1400 = 1336.6
+                = 1100 + 0.169 x 1400 = 1336.5
 
 seed_factor 0.169 = 0.25 x Tier Exposure (0.112) + 0.50 x Quality Wins (0.055) + 0.25 x Opponent Network (0.454)
 
@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-20 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 0.97 | 1.00 | 1.00 | 0.97 | 0.11 | 0.00 | +62.1 | Minxy, Rush_X, Syn, madss, torii |
-| 2026-09-20 | Belladonna | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 0.97 | 1.00 | 1.00 | 0.97 | 0.06 | 0.97 | +1.5 | Minxy, Rush_X, Syn, madss, torii |
+| 2026-09-20 | Belladonna | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 0.96 | 1.00 | 1.00 | 0.96 | 0.06 | 0.96 | +1.5 | Minxy, Rush_X, Syn, madss, torii |
 | 2026-09-20 | Suboptimal counterstrike | W | 1-0 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 0.96 | 1.00 | 1.00 | 0.96 | 0.06 | 0.96 | +23.9 | Minxy, Rush_X, Syn, madss, torii |
 | 2026-09-20 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -39.2 | Minxy, Rush_X, Syn, madss, torii |
 | 2026-09-10 | drunk cigs dont count | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.03 | 1.00 | 0.93 | 0.00 | 0.00 | -55.3 | Minxy, Rush_X, madss, raven, yippeee |

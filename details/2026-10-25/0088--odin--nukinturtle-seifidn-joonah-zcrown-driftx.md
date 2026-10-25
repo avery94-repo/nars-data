@@ -3,11 +3,11 @@ Team Name: ODIN
 Roster: NukinTURTLe, seifidn, joonah, zcrown, DriftXII
 NARS Rank: 88 of 503
 
-Final Rating: 1755.6
+Final Rating: 1755.7
 Seeded Start: 1325.5
-H2H Adjustment: +430.1 (capped at +-300, raw +430.2)
+H2H Adjustment: +430.2
 
-Final Rating (1755.6) = Seeded Start (1325.5) + H2H Adjustment (+430.1)
+Final Rating (1755.7) = Seeded Start (1325.5) + H2H Adjustment (+430.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | de_throne | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-07 | Mace Lindu Ruff Rebound | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +1.3 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 | 2026-09-19 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.96 | 1.02 | 1.00 | 0.98 | 0.00 | 0.00 | -62.6 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
-| 2026-09-17 | For Fun Gamers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.97 | 0.03 | 0.97 | +69.3 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
+| 2026-09-17 | For Fun Gamers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.97 | 0.03 | 0.97 | +69.4 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 | 2026-09-15 | Alternate Earth | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.07 | 0.95 | +60.3 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 | 2026-09-12 | APEX | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.91 | 1.02 | 1.00 | 0.93 | 0.06 | 0.93 | +94.3 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 | 2026-09-10 | Mud Wizards | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.90 | 1.02 | 1.00 | 0.92 | 0.06 | 0.92 | +18.4 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |

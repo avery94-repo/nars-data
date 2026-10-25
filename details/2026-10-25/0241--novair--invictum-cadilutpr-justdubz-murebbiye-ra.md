@@ -26,9 +26,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Pugging4Pumpkin | L | W/O | S59 NA Main B - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-09-04 | Sharp | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -4.8 | CadiLutPR, MANITOOKE-A-, invictum, murebbiye, sek- |
-| 2026-09-02 | FLying PiGs | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.06 | 0.85 | +66.7 | CadiLutPR, Raxsew, Raykon, invictum, murebbiye |
+| 2026-09-02 | FLying PiGs | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +66.7 | CadiLutPR, Raxsew, Raykon, invictum, murebbiye |
 | 2026-08-28 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -8.5 | CadiLutPR, MANITOOKE-A-, invictum, murebbiye, sek- |
-| 2026-08-26 | walkthemdown | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -109.2 | CadiLutPR, JustDubz, Raxsew, Raykon, invictum |
+| 2026-08-26 | walkthemdown | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -109.3 | CadiLutPR, JustDubz, Raxsew, Raykon, invictum |
 | 2026-08-21 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.08 | 0.76 | +82.5 | CadiLutPR, JustDubz, MANITOOKE-A-, invictum, sek- |
 | 2026-08-19 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.08 | 0.75 | +42.3 | CadiLutPR, JustDubz, MANITOOKE-A-, Raxsew, Raykon |
 | 2026-08-14 | ABG Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.09 | 0.72 | +153.3 | CadiLutPR, MANITOOKE-A-, Raykon, invictum, sek- |
@@ -39,15 +39,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.06 | 0.61 | +115.3 | B1AZERj, CadiLutPR, JustDubz, Raxsew, murebbiye |
 | 2026-07-24 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -119.3 | B1AZERj, JustDubz, Raykon, murebbiye, sek- |
 | 2026-07-22 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -276.9 | B1AZERj, CadiLutPR, Raxsew, Raykon, murebbiye |
-| 2026-07-17 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.02 | 0.53 | +6.1 | B1AZERj, CadiLutPR, MANITOOKE-A-, Raykon, murebbiye |
+| 2026-07-17 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.02 | 0.53 | +6.0 | B1AZERj, CadiLutPR, MANITOOKE-A-, Raykon, murebbiye |
 | 2026-07-15 | Kushtaka | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.02 | 0.52 | +1.3 | B1AZERj, CadiLutPR, Raxsew, Raykon, murebbiye |
-| 2026-06-07 | Diamond Mental | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -290.5 | CadiLutPR, Egoist_z, Harfen, JustDubz, Raykon |
+| 2026-06-07 | Diamond Mental | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -290.6 | CadiLutPR, Egoist_z, Harfen, JustDubz, Raykon |
 | 2026-06-03 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.03 | 0.24 | +109.0 | CadiLutPR, Egoist_z, Harfen, JustDubz, Raxsew, invictum |
-| 2026-05-29 | Famas OP | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +264.9 | Egoist_z, Harfen, JustDubz, Raykon, invictum, murebbiye |
-| 2026-05-27 | Solbound | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +377.2 | CadiLutPR, Egoist_z, JustDubz, invictum, murebbiye |
+| 2026-05-29 | Famas OP | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.20 | +265.0 | Egoist_z, Harfen, JustDubz, Raykon, invictum, murebbiye |
+| 2026-05-27 | Solbound | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +377.3 | CadiLutPR, Egoist_z, JustDubz, invictum, murebbiye |
 | 2026-05-20 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -290.2 | CadiLutPR, Harfen, Raykon, invictum, murebbiye |
 | 2026-05-13 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +275.0 | CadiLutPR, JustDubz, Raxsew, invictum, murebbiye |
-| 2026-05-08 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.00 | 1.00 | 0.07 | 0.00 | 0.00 | -248.9 | CadiLutPR, JustDubz, Raykon, invictum, murebbiye |
+| 2026-05-08 | In Our Prime | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.00 | 0.00 | -248.9 | CadiLutPR, JustDubz, Raykon, invictum, murebbiye |
 | 2026-05-06 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -63.1 | CadiLutPR, JustDubz, Raykon, invictum, murebbiye |
 | 2026-05-01 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +61.6 | CadiLutPR, JustDubz, Raykon, invictum, murebbiye |
 

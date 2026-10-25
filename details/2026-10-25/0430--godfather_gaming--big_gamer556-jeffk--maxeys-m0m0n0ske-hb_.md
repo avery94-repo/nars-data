@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-06 | Bad Jawn | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -5.2 | LeMarc_, Scratchh, TTSWumbo, big_gamer556, m0m0n0ske |
-| 2026-09-02 | GOYPEEKING | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.87 | 0.00 | 0.00 | -228.4 | Hb_hoodze, LeMarc_, Maxeys, big_gamer556, m0m0n0ske |
+| 2026-09-02 | GOYPEEKING | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.86 | 0.00 | 0.00 | -228.5 | Hb_hoodze, LeMarc_, Maxeys, big_gamer556, m0m0n0ske |
 | 2026-06-10 | The Third Eye | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -148.0 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
 | 2026-06-03 | DILFS | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.24 | +193.3 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
 | 2026-05-31 | Without a floor | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.22 | +174.7 | Maxeys, TTSWumbo, big_gamer556, jeffK-, m0m0n0ske |

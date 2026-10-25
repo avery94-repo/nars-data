@@ -4,14 +4,14 @@ Roster: kozyavka67, bbukaa, hysssteria, metallica, fuzenko
 NARS Rank: 34 of 503
 
 Final Rating: 1997.1
-Seeded Start: 1455.9
-H2H Adjustment: +541.2 (capped at +-300, raw +541.3)
+Seeded Start: 1455.8
+H2H Adjustment: +541.3
 
-Final Rating (1997.1) = Seeded Start (1455.9) + H2H Adjustment (+541.2)
+Final Rating (1997.1) = Seeded Start (1455.8) + H2H Adjustment (+541.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.254 x 1400 = 1455.9
+                = 1100 + 0.254 x 1400 = 1455.8
 
 seed_factor 0.254 = 0.25 x Tier Exposure (0.103) + 0.50 x Quality Wins (0.160) + 0.25 x Opponent Network (0.594)
 

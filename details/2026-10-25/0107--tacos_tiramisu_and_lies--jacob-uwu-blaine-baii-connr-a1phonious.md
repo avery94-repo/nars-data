@@ -54,6 +54,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.06 | 0.56 | +4.3 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-07-17 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.04 | 0.53 | +10.2 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-07-14 | D1NK Esports | W | 2-0 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.52 | 1.27 | 1.00 | 0.66 | 0.08 | 0.00 | +393.3 | A1phonious, BaII, Connr, Lothie, jacob-uwu |
-| 2026-06-04 | FLOW STATE | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.25 | 1.06 | 1.00 | 0.26 | 0.00 | 0.00 | -241.2 | A1phonious, Connr, Irneso, Lothie, jacob-uwu |
+| 2026-06-04 | FLOW STATE | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.24 | 1.06 | 1.00 | 0.26 | 0.00 | 0.00 | -241.2 | A1phonious, Connr, Irneso, Lothie, jacob-uwu |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

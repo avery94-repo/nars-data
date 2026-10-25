@@ -39,9 +39,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -306.1 | --Evil---, --Niv--, KRISPE__, Noodle-, kinster |
 | 2026-07-16 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.08 | 0.52 | +0.5 | --Evil---, --Niv--, KRISPE__, kinster, momsfav |
 | 2026-06-12 | HigherEducation | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.01 | 0.30 | +108.4 | --Evil---, --Niv--, KRISPE__, Noodle-, kinster |
-| 2026-06-10 | Halcyon | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.29 | 1.00 | 1.00 | 0.29 | 0.01 | 0.29 | +48.3 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
+| 2026-06-10 | Halcyon | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.01 | 0.28 | +48.3 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
 | 2026-06-02 | catacLysm | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.23 | +241.3 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
-| 2026-05-31 | Yacht Club | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.22 | +199.5 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
+| 2026-05-31 | Yacht Club | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.22 | +199.6 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
 | 2026-05-28 | No Roller Dogs | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -268.1 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

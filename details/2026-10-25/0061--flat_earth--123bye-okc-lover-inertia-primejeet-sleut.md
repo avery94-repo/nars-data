@@ -5,7 +5,7 @@ NARS Rank: 61 of 503
 
 Final Rating: 1851.9
 Seeded Start: 1414.9
-H2H Adjustment: +437.0 (capped at +-300, raw +436.9)
+H2H Adjustment: +437.0
 
 Final Rating (1851.9) = Seeded Start (1414.9) + H2H Adjustment (+437.0)
 
@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-16 | Shadow Wizard Money Gang | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.15 | 1.47 | +2.3 | inertia, okc-lover, pungsy, sleuth, xuli |
 | 2026-10-13 | NXG Esports | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.23 | 1.47 | +8.5 | inertia, okc-lover, pungsy, sleuth, xuli |
-| 2026-10-09 | Holly Molly | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.00 | 0.00 | -213.4 | excite, inertia, okc-lover, sleuth, xuli |
+| 2026-10-09 | Holly Molly | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.00 | 0.00 | -213.5 | excite, inertia, okc-lover, sleuth, xuli |
 | 2026-09-10 | MommySports | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.07 | 0.90 | +6.2 | 123bye, inertia, okc-lover, redtext, sleuth |
 | 2026-09-09 | Rejects | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.13 | 0.89 | +5.2 | 123bye, inertia, okc-lover, redtext, sleuth |
 | 2026-09-06 | Bald | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.06 | 0.87 | +1.6 | 123bye, altar, inertia, redtext, sleuth |

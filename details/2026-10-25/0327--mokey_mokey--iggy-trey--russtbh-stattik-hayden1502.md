@@ -29,9 +29,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | NetanYAHOO | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +23.3 | fadedfadedfa, hayden1502, iggy, russtbh, stattik |
 | 2026-10-07 | Alternate Earth | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-09-10 | Cortex Jellies | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.03 | 1.00 | 0.93 | 0.07 | 0.93 | +101.1 | hayden1502, iggy, russtbh, stattik, trey- |
-| 2026-09-08 | Coop De Grace | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.03 | 1.00 | 0.91 | 0.03 | 0.91 | +78.3 | hayden1502, iggy, russtbh, stattik, trey- |
+| 2026-09-08 | Coop De Grace | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.03 | 1.00 | 0.91 | 0.03 | 0.91 | +78.3 | hayden1502, iggy, russtbh, stattik, trey- |
 | 2026-09-06 | Pocket Snatchers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.03 | 1.00 | 0.90 | 0.03 | 0.90 | +90.9 | USToaster, hayden1502, iggy, russtbh, stattik |
-| 2026-09-04 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.00 | 0.00 | -122.0 | hayden1502, iggy, russtbh, stattik, trey- |
+| 2026-09-04 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.00 | 0.00 | -122.1 | hayden1502, iggy, russtbh, stattik, trey- |
 | 2026-09-02 | Trinity | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.03 | 0.87 | +129.5 | hayden1502, iggy, russtbh, stattik, trey- |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | Boof Gang | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.00 | 0.00 | -127.7 | Lil_Cig_, SirRev, bloatedrhino, kRc5, realYahu |
+| 2026-09-08 | Boof Gang | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -127.7 | Lil_Cig_, SirRev, bloatedrhino, kRc5, realYahu |
 | 2026-09-04 | Crashouts Anonymous | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.03 | 0.86 | +104.0 | Lil_Cig_, SirRev, bloatedrhino, kRc5, realYahu |
 | 2026-09-02 | ARES GAMING | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.05 | 0.84 | +35.0 | Lil_Cig_, SirRev, bloatedrhino, kRc5, realYahu |
 | 2026-06-03 | Evade Gaming | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -195.0 | Lil_Cig_, PUDZZ, bloatedrhino, kRc5, realYahu |

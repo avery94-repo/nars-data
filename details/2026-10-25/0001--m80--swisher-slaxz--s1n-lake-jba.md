@@ -3,11 +3,11 @@ Team Name: M80
 Roster: Swisher, slaxz-, s1n, Lake, JBa
 NARS Rank: 1 of 503
 
-Final Rating: 3039.2
+Final Rating: 3039.3
 Seeded Start: 2057.4
-H2H Adjustment: +981.8
+H2H Adjustment: +981.9 (capped at +-300, raw +981.8)
 
-Final Rating (3039.2) = Seeded Start (2057.4) + H2H Adjustment (+981.8)
+Final Rating (3039.3) = Seeded Start (2057.4) + H2H Adjustment (+981.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -47,26 +47,26 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-30 | AURORA | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.82 | 1.60 | 1.00 | 1.32 | 0.00 | 0.00 | -47.6 | core 3/5 |
 | 2026-08-28 | FURIA | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.81 | 1.60 | 1.00 | 1.30 | 0.00 | 0.00 | -41.4 | core 3/5 |
 | 2026-08-26 | NATUS VINCERE | W |  | VRS-tracked 2026-08 | A | vrs | 0.80 | 1.60 | 1.00 | 1.28 | 1.91 | 0.00 | +202.5 | core 3/5 |
-| 2026-08-13 | AURORA | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.71 | 1.60 | 1.00 | 1.14 | 0.00 | 0.00 | -50.6 | core 3/5 |
-| 2026-08-12 | G2 | L | 0-1 | VRS-tracked 2026-08 | A | vrs | 0.70 | 1.60 | 1.00 | 1.13 | 0.00 | 0.00 | -39.0 | core 3/5 |
-| 2026-07-21 | Ninjas in Pyjamas | L |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.89 | 0.00 | 0.00 | -238.7 | core 3/5 |
-| 2026-07-11 | Voca | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.49 | 1.60 | 1.00 | 0.79 | 0.51 | 0.00 | +190.3 | core 3/5 |
+| 2026-08-13 | AURORA | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.71 | 1.60 | 1.00 | 1.14 | 0.00 | 0.00 | -50.7 | core 3/5 |
+| 2026-08-12 | G2 | L | 0-1 | VRS-tracked 2026-08 | A | vrs | 0.70 | 1.60 | 1.00 | 1.13 | 0.00 | 0.00 | -39.1 | core 3/5 |
+| 2026-07-21 | Ninjas in Pyjamas | L |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.89 | 0.00 | 0.00 | -239.0 | core 3/5 |
+| 2026-07-11 | Voca | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.49 | 1.60 | 1.00 | 0.79 | 0.51 | 0.00 | +190.6 | core 3/5 |
 | 2026-07-10 | LAG Gaming | W |  | VRS-tracked 2026-07 | A | vrs | 0.48 | 1.60 | 1.00 | 0.77 | 0.77 | 0.77 | +4.1 | core 3/5 |
 | 2026-07-09 | WINNERS | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.48 | 1.60 | 1.00 | 0.76 | 0.57 | 0.00 | +0.2 | core 3/5 |
 | 2026-06-08 | Legacy | L |  | VRS-tracked 2026-06 | A | vrs | 0.27 | 1.60 | 1.00 | 0.43 | 0.00 | 0.00 | -21.5 | core 3/5 |
-| 2026-06-07 | BETBOOM | L |  | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.42 | 0.00 | 0.00 | -154.3 | core 3/5 |
-| 2026-06-06 | B8 | W |  | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.41 | 0.62 | 0.00 | +176.2 | core 3/5 |
-| 2026-06-06 | G2 | L |  | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.41 | 0.00 | 0.00 | -113.5 | core 3/5 |
-| 2026-06-04 | NRG | W |  | VRS-tracked 2026-06 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.23 | 0.39 | +158.3 | core 3/5 |
-| 2026-06-03 | B8 | L |  | VRS-tracked 2026-06 | A | vrs | 0.24 | 1.60 | 1.00 | 0.38 | 0.00 | 0.00 | -299.0 | core 3/5 |
-| 2026-06-02 | DENDELE | W |  | VRS-tracked 2026-06 | A | vrs | 0.23 | 1.60 | 1.00 | 0.37 | 0.55 | 0.00 | +135.1 | core 3/5 |
-| 2026-06-02 | LYNN VISION | W |  | VRS-tracked 2026-06 | A | vrs | 0.23 | 1.60 | 1.00 | 0.37 | 0.55 | 0.00 | +5.7 | core 3/5 |
-| 2026-05-28 | Voca | W |  | VRS-tracked 2026-05 | A | vrs | 0.20 | 1.60 | 1.00 | 0.32 | 0.20 | 0.32 | +225.5 | core 3/5 |
+| 2026-06-07 | BETBOOM | L |  | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.42 | 0.00 | 0.00 | -154.4 | core 3/5 |
+| 2026-06-06 | B8 | W |  | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.41 | 0.62 | 0.00 | +175.9 | core 3/5 |
+| 2026-06-06 | G2 | L |  | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.41 | 0.00 | 0.00 | -113.7 | core 3/5 |
+| 2026-06-04 | NRG | W |  | VRS-tracked 2026-06 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.23 | 0.39 | +158.6 | core 3/5 |
+| 2026-06-03 | B8 | L |  | VRS-tracked 2026-06 | A | vrs | 0.24 | 1.60 | 1.00 | 0.38 | 0.00 | 0.00 | -299.3 | core 3/5 |
+| 2026-06-02 | DENDELE | W |  | VRS-tracked 2026-06 | A | vrs | 0.23 | 1.60 | 1.00 | 0.37 | 0.55 | 0.00 | +134.2 | core 3/5 |
+| 2026-06-02 | LYNN VISION | W |  | VRS-tracked 2026-06 | A | vrs | 0.23 | 1.60 | 1.00 | 0.37 | 0.55 | 0.00 | +5.6 | core 3/5 |
+| 2026-05-28 | Voca | W |  | VRS-tracked 2026-05 | A | vrs | 0.20 | 1.60 | 1.00 | 0.32 | 0.20 | 0.32 | +224.1 | core 3/5 |
 | 2026-05-26 | Iowa Stormboar | W |  | VRS-tracked 2026-05 | A | vrs | 0.18 | 1.60 | 1.00 | 0.29 | 0.19 | 0.29 | +0.4 | core 3/5 |
-| 2026-05-21 | MOUZ | L | 1-2 | VRS-tracked 2026-05 | A | vrs | 0.15 | 1.60 | 1.00 | 0.24 | 0.00 | 0.00 | -42.0 | core 3/5 |
+| 2026-05-21 | MOUZ | L | 1-2 | VRS-tracked 2026-05 | A | vrs | 0.15 | 1.60 | 1.00 | 0.24 | 0.00 | 0.00 | -42.7 | core 3/5 |
 | 2026-05-20 | Falcons | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.14 | 1.60 | 1.00 | 0.23 | 0.00 | 0.00 | -2.1 | core 3/5 |
-| 2026-05-20 | PAIN | W | 1-0 | VRS-tracked 2026-05 | A | vrs | 0.14 | 1.60 | 1.00 | 0.23 | 0.35 | 0.00 | +603.1 | core 3/5 |
-| 2026-05-12 | Liquid | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -390.0 | core 3/5 |
+| 2026-05-20 | PAIN | W | 1-0 | VRS-tracked 2026-05 | A | vrs | 0.14 | 1.60 | 1.00 | 0.23 | 0.35 | 0.00 | +601.7 | core 3/5 |
+| 2026-05-12 | Liquid | L |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.15 | 0.00 | 0.00 | -384.9 | core 3/5 |
 | 2026-05-11 | Legacy | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.08 | 1.60 | 1.00 | 0.13 | 0.00 | 0.00 | -11.1 | core 3/5 |
 | 2026-05-03 | Wildcard | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.03 | 1.60 | 1.00 | 0.05 | 0.03 | 0.05 | +444.1 | core 3/5 |
 | 2026-05-03 | Zomblers | W |  | VRS-tracked 2026-05 | A | vrs | 0.03 | 1.60 | 1.00 | 0.05 | 0.04 | 0.05 | +164.4 | core 3/5 |

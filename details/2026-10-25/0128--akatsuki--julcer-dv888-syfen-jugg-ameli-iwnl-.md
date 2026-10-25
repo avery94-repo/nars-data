@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-28 | Les Ptis Jus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.04 | 1.00 | 0.84 | 0.06 | 0.84 | +31.0 | JUKE666, ameli777, dv888, jugg, syfen |
+| 2026-08-28 | Les Ptis Jus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.04 | 1.00 | 0.84 | 0.06 | 0.84 | +31.1 | JUKE666, ameli777, dv888, jugg, syfen |
 | 2026-08-26 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.00 | 0.00 | -73.5 | JUKE666, ameli777, dv888, jugg, syfen |
 | 2026-08-21 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.04 | 1.00 | 0.79 | 0.00 | 0.00 | -38.6 | JUKE666, ameli777, dv888, jugg, syfen |
 | 2026-08-19 | Team Amplus | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.12 | 0.78 | +24.5 | JUKE666, ameli777, dv888, jugg, syfen |
@@ -38,10 +38,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.00 | 0.00 | -27.4 | JUKE666, ameli777, dv888, jugg, syfen |
 | 2026-07-17 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.04 | 1.00 | 0.55 | 0.04 | 0.55 | +5.7 | JUKE666, ameli777, dv888, jugg, syfen |
 | 2026-07-15 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.04 | 1.00 | 0.54 | 0.02 | 0.54 | +0.3 | JUKE666, ameli777, dv888, jugg, syfen |
-| 2026-06-03 | de_throne | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +281.0 | JUKE666, ameli777, dv888, jugg, syfen |
+| 2026-06-03 | de_throne | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +281.1 | JUKE666, ameli777, dv888, jugg, syfen |
 | 2026-05-27 | RunTheDamnBall | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.02 | 0.19 | +3.0 | FrostEminor, JUKE666, ameli777, dv888, jugg |
 | 2026-05-22 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -1.8 | FrostEminor, JUKE666, ameli777, dv888, jugg |
-| 2026-05-20 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -193.5 | FrostEminor, JUKE666, ameli777, dv888, jugg |
+| 2026-05-20 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -193.6 | FrostEminor, JUKE666, ameli777, dv888, jugg |
 | 2026-05-19 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -17.7 | FrostEminor, JUKE666, ameli777, dv888, jugg |
 | 2026-05-15 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -182.1 | FrostEminor, JUKE666, ameli777, dv888, jugg |
 | 2026-05-08 | HammerHeads | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.00 | 0.07 | +248.1 | FrostEminor, JUKE666, ameli777, dv888, jugg |

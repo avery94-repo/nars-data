@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-16 | Los Pollos Hermanos | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -117.5 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-09-11 | REMM | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.03 | 0.90 | +93.8 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-09-11 | REMM | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.03 | 0.90 | +93.9 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-09-09 | Rogue Dungeon | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +130.2 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-09-04 | Team Dobeg | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.03 | 0.86 | +75.3 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-09-02 | FlatEarthers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +115.3 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |

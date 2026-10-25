@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-27 | Nomadic Tactics | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.19 | 1.02 | 1.00 | 0.19 | 0.00 | 0.00 | -8.8 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
-| 2026-05-22 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -339.8 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
+| 2026-05-22 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -339.9 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-05-20 | Relativity | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.15 | +169.3 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
-| 2026-05-15 | Qinorhwat | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +303.0 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
+| 2026-05-15 | Qinorhwat | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +303.1 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-05-13 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -168.6 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-05-08 | US Navy Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.00 | 0.00 | -79.4 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-05-06 | Counter Legends | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +15.2 | 1dkary, 1mprovee2, Rooda, floorine9, smove |

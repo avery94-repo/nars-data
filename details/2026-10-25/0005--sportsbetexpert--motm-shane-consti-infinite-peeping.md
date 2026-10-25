@@ -3,11 +3,11 @@ Team Name: SportsBetExpert
 Roster: motm, shane, consti, Infinite, Peeping
 NARS Rank: 5 of 503
 
-Final Rating: 2678.9
+Final Rating: 2679.0
 Seeded Start: 2472.5
-H2H Adjustment: +206.4
+H2H Adjustment: +206.5
 
-Final Rating (2678.9) = Seeded Start (2472.5) + H2H Adjustment (+206.4)
+Final Rating (2679.0) = Seeded Start (2472.5) + H2H Adjustment (+206.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-27 | Without a Roof | L | 1-2 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -55.4 | core 3/5 |
 | 2026-09-26 | LAG Gaming | W |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.59 | 0.00 | +8.4 | core 3/5 |
 | 2026-09-25 | my life be like | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.60 | 1.60 | +0.0 | core 3/5 |
-| 2026-09-18 | LAG Gaming | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 1.48 | 0.00 | +5.1 | Infinite, Peeping, consti, motm, shane |
+| 2026-09-18 | LAG Gaming | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.95 | 1.56 | 1.00 | 1.48 | 1.47 | 0.00 | +5.1 | Infinite, Peeping, consti, motm, shane |
 | 2026-09-17 | LAG Gaming | W |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 1.50 | 0.00 | +5.6 | core 3/5 |
 | 2026-09-14 | Without a Roof | W | W/O | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.93 | 1.60 | 1.00 | 1.48 | 1.48 | 0.00 | +17.1 | Infinite, Peeping, consti, motm, shane |
 | 2026-09-14 | Without a Roof | W | 3-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.93 | 1.60 | 1.00 | 1.48 | 1.48 | 1.48 | +21.4 | Infinite, Peeping, consti, motm, shane |
@@ -69,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-17 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.47 | 1.00 | 1.08 | 1.08 | 1.08 | +29.5 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-14 | Zomblers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.88 | 1.05 | +43.7 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-13 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.00 | 0.00 | -110.9 | Infinite, Peeping, consti, motm, shane |
-| 2026-08-07 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.00 | 0.00 | -274.7 | Infinite, Peeping, consti, motm, shane |
+| 2026-08-07 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.00 | 0.00 | -274.8 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-02 | Marsborne | W | 2-0 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.64 | 1.60 | 1.00 | 1.02 | 1.02 | 0.00 | +58.6 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-02 | NRG | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.64 | 1.60 | 1.00 | 1.02 | 0.00 | 0.00 | -140.4 | core 3/5 |
 | 2026-08-01 | LAG Gaming | W | 2-1 | StarSeries S20 - Closed Qualifier NA1 | C | faceit-tournament | 0.63 | 1.60 | 1.00 | 1.01 | 1.00 | 0.00 | +6.7 | Infinite, Peeping, consti, motm, shane |
@@ -77,17 +77,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Wanted Goons | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.47 | 1.00 | 0.92 | 0.88 | 0.92 | +0.8 | Infinite, Peeping, consti, motm, shane |
 | 2026-07-31 | LAG Gaming | W |  | VRS-tracked 2026-07 | A | vrs | 0.62 | 1.60 | 1.00 | 1.00 | 0.99 | 0.00 | +113.3 | core 3/5 |
 | 2026-07-30 | DETONATE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.47 | 1.00 | 0.91 | 0.91 | 0.91 | +85.5 | Infinite, Peeping, consti, motm, shane |
-| 2026-07-30 | Voca | L | 1-2 | VRS-tracked 2026-07 | A | vrs | 0.62 | 1.60 | 1.00 | 0.99 | 0.00 | 0.00 | -26.3 | core 3/5 |
+| 2026-07-30 | Voca | L | 1-2 | VRS-tracked 2026-07 | A | vrs | 0.62 | 1.60 | 1.00 | 0.99 | 0.00 | 0.00 | -26.2 | core 3/5 |
 | 2026-07-29 | Chicken Coop | W | 2-1 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.62 | 1.60 | 1.00 | 0.99 | 0.84 | 0.00 | +95.1 | Infinite, Peeping, consti, motm, shane |
 | 2026-07-27 | GRIT | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.47 | 1.00 | 0.88 | 0.09 | 0.88 | +0.0 | Infinite, Peeping, consti, motm, shane |
 | 2026-07-24 | FlyQuest RED | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.47 | 1.00 | 0.85 | 0.36 | 0.85 | +0.4 | Infinite, Peeping, consti, motm, shane |
 | 2026-07-23 | Olympus | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.57 | 1.47 | 1.00 | 0.84 | 0.51 | 0.84 | +20.7 | Infinite, Peeping, consti, motm, shane |
-| 2026-07-12 | NRG | L | 1-3 | VRS-tracked 2026-07 | A | vrs | 0.50 | 1.60 | 1.00 | 0.80 | 0.00 | 0.00 | -167.7 | core 3/5 |
+| 2026-07-12 | NRG | L | 1-3 | VRS-tracked 2026-07 | A | vrs | 0.50 | 1.60 | 1.00 | 0.80 | 0.00 | 0.00 | -167.6 | core 3/5 |
 | 2026-07-12 | Desi Boyz | W |  | VRS-tracked 2026-07 | A | vrs | 0.50 | 1.60 | 1.00 | 0.80 | 0.67 | 0.00 | +7.1 | core 3/5 |
 | 2026-07-12 | Villainous | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.50 | 1.60 | 1.00 | 0.80 | 0.66 | 0.80 | +92.4 | core 3/5 |
 | 2026-05-31 | Marsborne | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.35 | 0.00 | 0.00 | -228.1 | core 3/5 |
 | 2026-05-31 | Reign Above | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.22 | 1.60 | 1.00 | 0.35 | 0.24 | 0.00 | +12.0 | core 3/5 |
-| 2026-05-30 | Chicken Coop | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.00 | 0.00 | -343.0 | core 3/5 |
+| 2026-05-30 | Chicken Coop | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.00 | 0.00 | -343.1 | core 3/5 |
 | 2026-05-30 | LAG Gaming | W |  | VRS-tracked 2026-05 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.34 | 0.00 | +212.0 | core 3/5 |
 | 2026-05-30 | NXG | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.25 | 0.00 | +2.0 | core 3/5 |
 | 2026-05-24 | EX-AETHER | W |  | VRS-tracked 2026-05 | A | vrs | 0.17 | 1.60 | 1.00 | 0.27 | 0.22 | 0.00 | +40.5 | core 3/5 |

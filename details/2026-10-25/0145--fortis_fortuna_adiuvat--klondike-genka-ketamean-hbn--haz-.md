@@ -3,11 +3,11 @@ Team Name: Fortis Fortuna Adiuvat
 Roster: Klondike, genka, ketamean, HBN, -Haz-
 NARS Rank: 145 of 503
 
-Final Rating: 1600.6
+Final Rating: 1600.7
 Seeded Start: 1354.0
-H2H Adjustment: +246.6
+H2H Adjustment: +246.7
 
-Final Rating (1600.6) = Seeded Start (1354.0) + H2H Adjustment (+246.6)
+Final Rating (1600.7) = Seeded Start (1354.0) + H2H Adjustment (+246.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -31,8 +31,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | FLOW STATE | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.86 | 1.06 | 1.00 | 0.91 | 0.00 | 0.00 | -6.5 | -Haz-, DMinish, HBN, Klondike, genka, ketamean |
 | 2026-09-02 | MINDTRIP | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.84 | 1.06 | 1.00 | 0.89 | 0.09 | 0.89 | +106.3 | -Haz-, DMinish, Klondike, genka, ketamean |
 | 2026-08-28 | enigma | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.04 | 1.00 | 0.84 | 0.00 | 0.00 | -55.0 | -Haz-, DMinish, Deepako, Klondike, genka |
-| 2026-08-25 | Solace | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.04 | 1.00 | 0.82 | 0.00 | 0.00 | -99.2 | -Haz-, HBN, Klondike, fambino, genka |
-| 2026-08-21 | Salsas Mazzin Crew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.04 | 1.00 | 0.79 | 0.06 | 0.79 | +114.1 | -Haz-, DMinish, HBN, Klondike, fambino |
+| 2026-08-25 | Solace | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.04 | 1.00 | 0.82 | 0.00 | 0.00 | -99.3 | -Haz-, HBN, Klondike, fambino, genka |
+| 2026-08-21 | Salsas Mazzin Crew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.04 | 1.00 | 0.79 | 0.05 | 0.79 | +114.1 | -Haz-, DMinish, HBN, Klondike, fambino |
 | 2026-08-19 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.00 | 0.00 | -35.1 | -Haz-, HBN, Klondike, fambino, genka |
 | 2026-08-13 | Les Ptis Jus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.71 | 1.04 | 1.00 | 0.74 | 0.00 | 0.00 | -117.6 | -Haz-, HBN, Klondike, genka, ketamean |
 | 2026-08-12 | TenToesDown | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.04 | 1.00 | 0.73 | 0.09 | 0.73 | +93.5 | -Haz-, HBN, Klondike, genka, ketamean |
@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Braindead | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.65 | 0.00 | 0.00 | -195.9 | -Haz-, Klondike, fambino, genka, ketamean |
 | 2026-07-29 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.04 | 1.00 | 0.63 | 0.02 | 0.63 | +0.7 | -Haz-, Deepako, Klondike, genka, ketamean |
 | 2026-07-24 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.04 | 1.00 | 0.60 | 0.00 | 0.00 | -0.8 | -Haz-, Klondike, fambino, genka, ketamean |
-| 2026-07-22 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.00 | 0.00 | -197.1 | -Haz-, Klondike, fambino, genka, ketamean |
+| 2026-07-22 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.00 | 0.00 | -197.2 | -Haz-, Klondike, fambino, genka, ketamean |
 | 2026-07-17 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.04 | 1.00 | 0.55 | 0.10 | 0.55 | +152.3 | -Haz-, HBN, Klondike, fambino, genka |
 | 2026-07-15 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.04 | 1.00 | 0.54 | 0.04 | 0.54 | +394.6 | -Haz-, HBN, Klondike, fambino, genka |
 | 2026-05-22 | we get it back | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.18 | +12.5 | -Haz-, HBN, Klondike, STF_-, ketamean |
@@ -49,7 +49,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | duck crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.00 | 0.00 | -19.9 | -Haz-, DMinish, HBN, Klondike, ketamean |
 | 2026-05-13 | Wolves | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.00 | 0.00 | -19.0 | -Haz-, DMinish, HBN, Klondike, ketamean |
 | 2026-05-08 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.00 | 0.00 | -285.6 | -Haz-, DMinish, HBN, Klondike, ketamean |
-| 2026-05-06 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.00 | -383.6 | -Haz-, DMinish, HBN, Klondike, ketamean |
-| 2026-05-01 | Manx Recovery Program | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.12 | 1.00 | 0.02 | 0.00 | 0.02 | +317.0 | -Haz-, DMinish, HBN, Klondike, ketamean |
+| 2026-05-06 | THE GUILD | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.00 | -383.7 | -Haz-, DMinish, HBN, Klondike, ketamean |
+| 2026-05-01 | Manx Recovery Program | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.12 | 1.00 | 0.02 | 0.00 | 0.02 | +317.1 | -Haz-, DMinish, HBN, Klondike, ketamean |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

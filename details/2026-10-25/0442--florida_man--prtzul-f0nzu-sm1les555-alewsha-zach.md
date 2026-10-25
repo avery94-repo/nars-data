@@ -3,11 +3,11 @@ Team Name: Florida Man
 Roster: Prtzul, F0nzu, sM1les555, Alewsha, Zach
 NARS Rank: 442 of 503
 
-Final Rating: 924.7
+Final Rating: 924.6
 Seeded Start: 1239.7
-H2H Adjustment: -315.0 (capped at +-300, raw -315.1)
+H2H Adjustment: -315.1 (capped at +-300, raw -315.0)
 
-Final Rating (924.7) = Seeded Start (1239.7) + H2H Adjustment (-315.0)
+Final Rating (924.6) = Seeded Start (1239.7) + H2H Adjustment (-315.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -40,9 +40,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.00 | 0.00 | -94.8 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
 | 2026-07-17 | Manx Recovery Program | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.59 | 0.00 | 0.00 | -13.1 | Alewsha, F0nzu, Prtzul, Zach, blessa |
 | 2026-07-15 | The Skins | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.00 | 0.00 | -49.8 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
-| 2026-06-07 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.04 | 0.26 | +315.9 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
+| 2026-06-07 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.04 | 0.26 | +316.0 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
 | 2026-06-03 | Qinorhwat | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -145.1 | Alewsha, Prtzul, Zach, sM1les555, skrimp |
-| 2026-05-29 | Wide Swinging Wizards | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.01 | 0.21 | +393.6 | Alewsha, F0nzu, Prtzul, sM1les555, skrimp |
+| 2026-05-29 | Wide Swinging Wizards | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.01 | 0.20 | +393.6 | Alewsha, F0nzu, Prtzul, sM1les555, skrimp |
 | 2026-05-27 | Costco Family | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.02 | 0.19 | +66.7 | F0nzu, LukieD, Prtzul, sM1les555, skrimp |
 | 2026-05-22 | strawberry poptarts | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -87.2 | Alewsha, F0nzu, Kikiinn, LukieD, Prtzul |
 | 2026-05-14 | Bad Jawn | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -169.4 | Alewsha, Prtzul, Zach, sM1les555, skrimp |
@@ -50,6 +50,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | CVC Retirement | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.00 | 0.07 | +21.8 | Alewsha, Kikiinn, LukieD, Prtzul, Zach |
 | 2026-05-06 | MakeYouSayLate | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.01 | 0.05 | +138.8 | F0nzu, LukieD, Prtzul, Zach, skrimp |
 | 2026-05-01 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +240.9 | F0nzu, JimmersTR, Prtzul, Zach, skrimp |
-| 2026-04-29 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.00 | -244.7 | Alewsha, LukieD, Prtzul, Zach, skrimp |
+| 2026-04-29 | Qinorhwat | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.01 | 0.00 | 0.00 | -244.7 | Alewsha, LukieD, Prtzul, Zach, skrimp |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

@@ -3,11 +3,11 @@ Team Name: Addice
 Roster: P3nnyCS, _mdn, KrakenS, AJaxz-, Ryno
 NARS Rank: 74 of 503
 
-Final Rating: 1811.3
+Final Rating: 1811.4
 Seeded Start: 1619.2
-H2H Adjustment: +192.1
+H2H Adjustment: +192.2
 
-Final Rating (1811.3) = Seeded Start (1619.2) + H2H Adjustment (+192.1)
+Final Rating (1811.4) = Seeded Start (1619.2) + H2H Adjustment (+192.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,18 +24,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-16 | Automatic HQ | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.00 | 0.00 | -22.4 | AJaxz-, BATSPEED, KrakenS, P3nnyCS, _mdn |
+| 2026-10-16 | Automatic HQ | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.00 | 0.00 | -22.5 | AJaxz-, BATSPEED, KrakenS, P3nnyCS, _mdn |
 | 2026-10-15 | MASTER ONE | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.29 | 1.47 | +109.7 | 2Panic, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-10-09 | Xiaoma Gaming | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.00 | 0.00 | -48.7 | 2Panic, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-09-22 | my life be like | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.98 | 1.56 | 1.00 | 1.53 | 0.57 | 1.53 | +65.8 | 2Panic, AJaxz-, KrakenS, P3nnyCS, Ryno |
 | 2026-09-21 | BucketJonsBoys | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.97 | 1.56 | 1.00 | 1.52 | 0.38 | 1.52 | +36.8 | 2Panic, AJaxz-, KrakenS, P3nnyCS, Ryno |
-| 2026-09-17 | FlyQuest RED | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.94 | 1.56 | 1.00 | 1.48 | 0.62 | 1.48 | +83.1 | 2Panic, KrakenS, P3nnyCS, Ryno, _mdn |
+| 2026-09-17 | FlyQuest RED | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.94 | 1.56 | 1.00 | 1.47 | 0.62 | 1.47 | +83.1 | 2Panic, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-09-15 | regain | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.93 | 1.56 | 1.00 | 1.45 | 0.00 | 0.00 | -1.5 | 2Panic, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-09-09 | NXG Esports | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.89 | 1.39 | 1.00 | 1.24 | 0.19 | 0.00 | +20.2 | 2Panic, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-09-07 | Wanted Goons | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.88 | 1.39 | 1.00 | 1.22 | 0.00 | 0.00 | -0.7 | 2Panic, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-09-03 | deez | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.85 | 1.39 | 1.00 | 1.18 | 0.13 | 1.18 | +49.1 | 2Panic, AJaxz-, BATSPEED, KrakenS, P3nnyCS |
 | 2026-08-26 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.00 | 0.00 | -11.9 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
-| 2026-08-25 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.47 | 1.00 | 1.16 | 0.70 | 1.16 | +156.6 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
+| 2026-08-25 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.47 | 1.00 | 1.16 | 0.70 | 1.16 | +156.7 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-08-21 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.47 | 1.00 | 1.12 | 0.18 | 1.12 | +142.5 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-08-19 | Axial | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.47 | 1.00 | 1.10 | 0.00 | 0.00 | -113.3 | BATSPEED, KrakenS, P3nnyCS, Ryno, _mdn |
 | 2026-08-14 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.10 | 1.05 | +70.2 | AJaxz-, BATSPEED, KrakenS, Ryno, _mdn |
@@ -53,6 +53,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-12 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.37 | 1.00 | 0.12 | 0.00 | 0.00 | -171.8 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-07 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.37 | 1.00 | 0.08 | 0.00 | 0.00 | -376.6 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 | 2026-05-05 | GRIT | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.37 | 1.00 | 0.06 | 0.01 | 0.06 | +25.0 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
-| 2026-04-30 | SOLA GAMING | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.37 | 1.00 | 0.02 | 0.00 | 0.02 | +28.5 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
+| 2026-04-30 | SOLA GAMING | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.37 | 1.00 | 0.02 | 0.00 | 0.02 | +28.6 | 1hades, AJaxz-, KrakenS, Ryno, _mdn |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

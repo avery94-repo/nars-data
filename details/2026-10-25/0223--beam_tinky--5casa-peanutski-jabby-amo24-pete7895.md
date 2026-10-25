@@ -24,8 +24,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-11 | gunked | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.00 | 0.00 | -69.4 | 5casa, Amo24, Peanutski, jabby, pete7895 |
-| 2026-09-09 | USAE Academy | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +184.7 | 5casa, Amo24, Peanutski, jabby, pete7895 |
+| 2026-09-11 | gunked | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -69.4 | 5casa, Amo24, Peanutski, jabby, pete7895 |
+| 2026-09-09 | USAE Academy | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +184.8 | 5casa, Amo24, Peanutski, jabby, pete7895 |
 | 2026-09-04 | New York City Ballas CS | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.03 | 0.86 | +149.8 | 5casa, Amo24, CaptainToro, jabby, pete7895 |
 | 2026-09-02 | Belladonna | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.05 | 0.84 | +236.4 | 5casa, Amo24, Ebbs, Peanutski, jabby |
 | 2026-05-27 | 4fun | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -242.9 | 5casa, MC_Double, Peanutski, jabby, pete7895 |

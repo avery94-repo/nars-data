@@ -29,8 +29,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | UsingCodefArt25atSCL | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -0.5 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-10-09 | Cortex Jellies | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -9.4 | Combz, FlYiN_ElVIS, JbenCS, eztupac, yesvil |
 | 2026-10-07 | deluxe | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-08-26 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.06 | 0.80 | +115.9 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
-| 2026-08-21 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.06 | 0.76 | +101.3 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
+| 2026-08-26 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.06 | 0.80 | +116.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
+| 2026-08-21 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.06 | 0.76 | +101.4 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-08-14 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -1.5 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-08-12 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.02 | 0.70 | +114.1 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-08-05 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -128.1 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |

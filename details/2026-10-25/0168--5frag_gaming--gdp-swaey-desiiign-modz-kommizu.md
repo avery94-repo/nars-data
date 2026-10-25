@@ -29,12 +29,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | The Homies | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.16 | 1.02 | +3.2 | Desiiign, gDP, kommizu, modz, zit |
 | 2026-10-09 | Kinetic | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 0.00 | +81.3 | Desiiign, gDP, kommizu, modz, zit |
 | 2026-10-07 | DESPAIR | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -63.6 | Desiiign, gDP, kommizu, modz, zit |
-| 2026-09-08 | OnlyFans | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.89 | 1.09 | 1.00 | 0.96 | 0.00 | 0.00 | -24.0 | Desiiign, gDP, kommizu, modz, zit |
+| 2026-09-08 | OnlyFans | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.88 | 1.09 | 1.00 | 0.96 | 0.00 | 0.00 | -24.0 | Desiiign, gDP, kommizu, modz, zit |
 | 2026-09-06 | Binky | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.87 | 1.09 | 1.00 | 0.95 | 0.10 | 0.95 | +12.8 | Desiiign, Swaey, gDP, kommizu, zit |
 | 2026-09-04 | Evil Reunion | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.86 | 1.09 | 1.00 | 0.93 | 0.00 | 0.00 | -35.1 | Desiiign, gDP, kommizu, modz, zit |
-| 2026-09-02 | Entertainment Cheese | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.85 | 1.09 | 1.00 | 0.92 | 0.13 | 0.92 | +39.2 | Desiiign, gDP, kommizu, modz, zit |
+| 2026-09-02 | Entertainment Cheese | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.84 | 1.09 | 1.00 | 0.92 | 0.13 | 0.92 | +39.2 | Desiiign, gDP, kommizu, modz, zit |
 | 2026-08-28 | Skyline | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.10 | 1.00 | 0.90 | 0.33 | 0.90 | +137.5 | Swaey, gDP, kommizu, modz, zit |
-| 2026-08-26 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.10 | 0.88 | +102.6 | Swaey, gDP, kommizu, modz, zit |
+| 2026-08-26 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.10 | 0.88 | +102.7 | Swaey, gDP, kommizu, modz, zit |
 | 2026-08-19 | gooshedd | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.83 | 0.03 | 0.83 | +114.6 | Swaey, gDP, kommizu, modz, zit |
 | 2026-08-12 | Macs Snacks | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.78 | 0.00 | 0.00 | -115.0 | Swaey, gDP, kommizu, modz, zit |
 | 2026-08-07 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.67 | 1.10 | 1.00 | 0.74 | 0.03 | 0.74 | +81.4 | Swaey, gDP, kommizu, modz, zit |
@@ -54,6 +54,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | crescent | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.00 | 0.00 | -70.3 | Desiiign, MaTriick, Swaey, kommizu, modz |
 | 2026-05-06 | ALL IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.00 | -244.9 | Desiiign, MaTriick, Swaey, kommizu, modz |
 | 2026-04-30 | Team Team Name | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.12 | 1.00 | 0.01 | 0.00 | 0.01 | +188.0 | Desiiign, MaTriick, Swaey, kommizu, modz |
-| 2026-04-29 | Dude Picks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.12 | 1.00 | 0.01 | 0.00 | 0.00 | -239.9 | Desiiign, MaTriick, Swaey, kommizu, modz |
+| 2026-04-29 | Dude Picks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.12 | 1.00 | 0.01 | 0.00 | 0.00 | -239.9 | Desiiign, MaTriick, Swaey, kommizu, modz |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

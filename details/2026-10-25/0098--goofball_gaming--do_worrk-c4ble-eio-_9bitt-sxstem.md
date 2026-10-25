@@ -27,11 +27,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-15 | Bird Squishers | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.93 | 1.09 | 1.00 | 1.01 | 0.00 | 0.00 | -61.0 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-09-08 | MASTER ONE | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.88 | 1.09 | 1.00 | 0.96 | 0.00 | 0.00 | -37.7 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-09-06 | Evil Reunion | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.87 | 1.09 | 1.00 | 0.95 | 0.08 | 0.95 | +140.2 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
-| 2026-09-04 | OnlyFans | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.86 | 1.09 | 1.00 | 0.93 | 0.07 | 0.93 | +153.8 | Do_Worrk, _9bitt, c4ble, eIo, endercat07 |
+| 2026-09-04 | OnlyFans | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.86 | 1.09 | 1.00 | 0.93 | 0.07 | 0.93 | +153.9 | Do_Worrk, _9bitt, c4ble, eIo, endercat07 |
 | 2026-09-02 | Aers Money Crew | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.84 | 1.09 | 1.00 | 0.92 | 0.10 | 0.92 | +14.1 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-28 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.81 | 1.10 | 1.00 | 0.90 | 0.00 | 0.00 | -82.4 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-26 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.13 | 0.88 | +45.9 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
-| 2026-08-21 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.07 | 0.84 | +66.4 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
+| 2026-08-21 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.07 | 0.84 | +66.5 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-19 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.83 | 0.00 | 0.00 | -78.7 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-14 | Entertainment Cheese | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.11 | 0.79 | +5.1 | Do_Worrk, _9bitt, c4ble, eIo, sxstem |
 | 2026-08-12 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.78 | 0.00 | 0.00 | -12.9 | Do_Worrk, _9bitt, c4ble, endercat07, sxstem |

@@ -4,14 +4,14 @@ Roster: -animate, bruhdy-, okc, Frayzar-, CrankItMan
 NARS Rank: 140 of 503
 
 Final Rating: 1613.3
-Seeded Start: 1303.6
-H2H Adjustment: +309.7
+Seeded Start: 1303.5
+H2H Adjustment: +309.8 (capped at +-300, raw +309.7)
 
-Final Rating (1613.3) = Seeded Start (1303.6) + H2H Adjustment (+309.7)
+Final Rating (1613.3) = Seeded Start (1303.5) + H2H Adjustment (+309.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.145 x 1400 = 1303.6
+                = 1100 + 0.145 x 1400 = 1303.5
 
 seed_factor 0.145 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.035) + 0.25 x Opponent Network (0.439)
 

@@ -4,14 +4,14 @@ Roster: (unknown)
 NARS Rank: 25 of 503
 
 Final Rating: 2064.0
-Seeded Start: 1673.4
-H2H Adjustment: +390.6 (capped at +-300, raw +390.5)
+Seeded Start: 1673.5
+H2H Adjustment: +390.5
 
-Final Rating (2064.0) = Seeded Start (1673.4) + H2H Adjustment (+390.6)
+Final Rating (2064.0) = Seeded Start (1673.5) + H2H Adjustment (+390.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.410 x 1400 = 1673.4
+                = 1100 + 0.410 x 1400 = 1673.5
 
 seed_factor 0.410 = 0.25 x Tier Exposure (0.111) + 0.50 x Quality Wins (0.496) + 0.25 x Opponent Network (0.536)
 

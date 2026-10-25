@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-27 | mas paspas | L | 0-0 | NA Revival | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | -1.9 | Mr_Miyagui, SEIK0X-, f0Nes2, laggistv, pRediii |
 | 2026-09-27 | MadaNASCAR | W | 1-0 | NA Revival | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.14 | 1.00 | +144.7 | Mr_Miyagui, SEIK0X-, f0Nes2, laggistv, pRediii |
 | 2026-09-06 | Ubiquiti | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -117.7 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
-| 2026-09-04 | Bald | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -66.6 | SEIK0X-, f0Nes2, g0tfr4g, laggistv, pRediii |
+| 2026-09-04 | Bald | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -66.7 | SEIK0X-, f0Nes2, g0tfr4g, laggistv, pRediii |
 | 2026-09-02 | 929 Arrival Gang | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.05 | 0.84 | +44.6 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
 | 2026-08-28 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.05 | 0.81 | +52.6 | Doow4, SEIK0X-, g0tfr4g, hotzzinho_-, laggistv |
 | 2026-08-26 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.09 | 0.80 | +124.7 | Doow4, SEIK0X-, g0tfr4g, hotzzinho_-, laggistv |

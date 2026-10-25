@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | PogSquad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +49.2 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-10-09 | Feels MAIN Man | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +0.9 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-10-07 | AscendentEsport | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +157.8 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
-| 2026-09-10 | ClanAgain | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.03 | 1.00 | 0.93 | 0.00 | 0.00 | -95.0 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
+| 2026-09-10 | ClanAgain | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.03 | 1.00 | 0.93 | 0.00 | 0.00 | -95.1 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-09-08 | UKY Blue | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.03 | 1.00 | 0.91 | 0.03 | 0.91 | +25.8 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-09-07 | PSDN White | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.03 | 1.00 | 0.91 | 0.04 | 0.91 | +145.5 | -fakez, -larry, HugoElite, OSKAVELIw0w-, Panda1__, armali |
 | 2026-09-04 | O Fire | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.00 | 0.00 | -93.3 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |

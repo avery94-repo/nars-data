@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.00 | 0.00 | -121.8 | INFIDEI, gojoo, jorkin_it, olkp666, vision-- |
 | 2026-07-29 | dice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.47 | 1.00 | 0.90 | 0.14 | 0.90 | +142.8 | INFIDEI, gojoo, mylastdance-, olkp666, vision-- |
 | 2026-07-24 | unreal nightmare | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.47 | 1.00 | 0.85 | 0.56 | 0.85 | +253.8 | INFIDEI, gojoo, jorkin_it, myline, olkp666 |
-| 2026-07-22 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.16 | 0.83 | +121.9 | INFIDEI, gojoo, jorkin_it, myline, olkp666 |
+| 2026-07-22 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.16 | 0.83 | +121.8 | INFIDEI, gojoo, jorkin_it, myline, olkp666 |
 | 2026-07-16 | Imperium | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.47 | 1.00 | 0.77 | 0.03 | 0.77 | +387.1 | INFIDEI, gojoo, jorkin_it, olkp666, vision-- |
 | 2026-05-21 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.15 | 1.37 | 1.00 | 0.21 | 0.00 | 0.00 | -0.4 | GrapeM3n, INFIDEI, Yonys1337-, gojoo, olkp666 |
 | 2026-05-19 | GRIT | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.37 | 1.00 | 0.19 | 0.00 | 0.00 | -147.3 | GrapeM3n, INFIDEI, Yonys1337-, gojoo, olkp666 |

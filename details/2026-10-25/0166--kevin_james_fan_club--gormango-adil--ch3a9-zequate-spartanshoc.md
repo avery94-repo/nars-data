@@ -42,15 +42,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -157.0 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-07-29 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.07 | 0.61 | +83.8 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-07-24 | The Third Eye | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.02 | 0.58 | +178.7 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
-| 2026-07-22 | Mach 5 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +170.8 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
+| 2026-07-22 | Mach 5 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +170.9 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-07-17 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.05 | 0.53 | +19.0 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-07-15 | katzwitgunz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.04 | 0.52 | +17.4 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-06-07 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -140.9 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
-| 2026-05-29 | The Plague | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +250.9 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
+| 2026-05-29 | The Plague | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +251.0 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
 | 2026-05-22 | RejexEsports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -316.4 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
-| 2026-05-20 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -216.6 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
+| 2026-05-20 | Absent Minded | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -216.7 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
 | 2026-05-08 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +318.7 | ADIL-, CH3A9, Chef777, Muzic, SpartanShock |
-| 2026-05-06 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -273.1 | ADIL-, Billy, CH3A9, Muzic, SpartanShock |
-| 2026-05-01 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +234.7 | ADIL-, CH3A9, Muzic, SpartanShock, mad4_ |
+| 2026-05-06 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -273.2 | ADIL-, Billy, CH3A9, Muzic, SpartanShock |
+| 2026-05-01 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +234.8 | ADIL-, CH3A9, Muzic, SpartanShock, mad4_ |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

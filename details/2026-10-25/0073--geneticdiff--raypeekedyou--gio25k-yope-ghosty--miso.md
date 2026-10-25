@@ -5,7 +5,7 @@ NARS Rank: 73 of 503
 
 Final Rating: 1813.5
 Seeded Start: 1410.4
-H2H Adjustment: +403.1 (capped at +-300, raw +403.0)
+H2H Adjustment: +403.1
 
 Final Rating (1813.5) = Seeded Start (1410.4) + H2H Adjustment (+403.1)
 
@@ -25,11 +25,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-21 | GOOZPEEK | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -131.5 | -Gio25k, Yope, ghosty-, ke2ues, raypeekedyou |
-| 2026-10-16 | No Future Lifes Over | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +145.7 | -Gio25k, Yope, ghosty-, ke2ues, raypeekedyou |
+| 2026-10-16 | No Future Lifes Over | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +145.8 | -Gio25k, Yope, ghosty-, ke2ues, raypeekedyou |
 | 2026-10-14 | 1NT | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +14.9 | -Gio25k, Yope, ghosty-, ke2ues, raypeekedyou |
 | 2026-10-09 | Kings Gambit | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +89.8 | -Gio25k, Yope, ghosty-, ke2ues, raypeekedyou |
 | 2026-10-07 | We Play Naked | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +3.5 | -Gio25k, Yope, ghosty-, ke2ues, raypeekedyou |
-| 2026-09-16 | The Burger People | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.06 | 1.00 | 0.99 | 0.00 | 0.00 | -65.0 | -Gio25k, Yope, chowdskin, ghosty-, raypeekedyou |
+| 2026-09-16 | The Burger People | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.06 | 1.00 | 0.99 | 0.00 | 0.00 | -65.1 | -Gio25k, Yope, chowdskin, ghosty-, raypeekedyou |
 | 2026-09-12 | Wolves | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.91 | 1.06 | 1.00 | 0.96 | 0.15 | 0.96 | +46.3 | -Gio25k, Rosci, Yope, ghosty-, raypeekedyou |
 | 2026-09-10 | Dude Picks | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.90 | 1.06 | 1.00 | 0.95 | 0.11 | 0.95 | +41.4 | -Gio25k, Rosci, Yope, chowdskin, ghosty- |
 | 2026-09-06 | Sedated | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.87 | 1.06 | 1.00 | 0.92 | 0.00 | 0.00 | -31.2 | -Gio25k, Yope, chowdskin, ghosty-, raypeekedyou |
@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.04 | 1.00 | 0.74 | 0.08 | 0.74 | +9.6 | -Gio25k, Yope, chowdskin, ghosty-, raypeekedyou |
 | 2026-08-12 | teamington | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.04 | 1.00 | 0.73 | 0.08 | 0.73 | +76.3 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-08-07 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.00 | 0.00 | -201.2 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
-| 2026-08-05 | SquadUp | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.68 | 0.13 | 0.68 | +170.0 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
+| 2026-08-05 | SquadUp | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.68 | 0.13 | 0.68 | +170.1 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-31 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.65 | 0.00 | 0.00 | -169.3 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-29 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.04 | 1.00 | 0.63 | 0.00 | 0.00 | -19.9 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
 | 2026-07-24 | DKR Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.04 | 1.00 | 0.60 | 0.06 | 0.60 | +143.8 | -Gio25k, Yope, ghosty-, miso, raypeekedyou |
@@ -49,7 +49,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-31 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.22 | 1.24 | 1.00 | 0.27 | 0.00 | 0.00 | -151.1 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-05-27 | Crimson Vortex | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.24 | 1.00 | 0.24 | 0.00 | 0.00 | -50.9 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-05-22 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.04 | 0.18 | +261.9 | -Gio25k, Yope, b4m, ghosty-, miso |
-| 2026-05-20 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.00 | -295.1 | -Gio25k, Yope, b4m, ghosty-, miso |
+| 2026-05-20 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.00 | -295.2 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-05-13 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.00 | 0.11 | +1.1 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-05-08 | BucketJonsBoys | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.02 | 0.07 | +302.9 | -Gio25k, Yope, b4m, ghosty-, miso |
 | 2026-05-06 | Shaboing Boing Bandits | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.00 | -322.3 | -Gio25k, Yope, b4m, ghosty-, miso |

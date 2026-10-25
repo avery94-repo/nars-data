@@ -3,11 +3,11 @@ Team Name: NetanYAHOO
 Roster: PaQeZ, Treaux_, drippppp, ian-, CHEF-GEORGE
 NARS Rank: 329 of 503
 
-Final Rating: 1219.8
+Final Rating: 1219.9
 Seeded Start: 1243.5
-H2H Adjustment: -23.7
+H2H Adjustment: -23.6
 
-Final Rating (1219.8) = Seeded Start (1243.5) + H2H Adjustment (-23.7)
+Final Rating (1219.9) = Seeded Start (1243.5) + H2H Adjustment (-23.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Casipanther | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-14 | mokey mokey | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -23.8 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-10-09 | Veniversum | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -59.8 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
-| 2026-09-10 | HIGHPOINT | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.90 | 1.11 | 1.00 | 1.00 | 0.08 | 1.00 | +14.4 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
+| 2026-09-10 | HIGHPOINT | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.90 | 1.11 | 1.00 | 0.99 | 0.08 | 0.99 | +14.4 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-09-08 | ERICKFARRAR | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.89 | 1.11 | 1.00 | 0.98 | 0.03 | 0.98 | +96.4 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-09-06 | The High Crew | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.87 | 1.11 | 1.00 | 0.97 | 0.03 | 0.97 | +155.3 | CHEF-GEORGE, PaQeZ, Topolino, drippppp, ian- |
 | 2026-09-02 | Piggy LLC | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.85 | 1.11 | 1.00 | 0.94 | 0.00 | 0.00 | -206.1 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |

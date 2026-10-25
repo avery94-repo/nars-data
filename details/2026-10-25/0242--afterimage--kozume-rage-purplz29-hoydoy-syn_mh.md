@@ -3,11 +3,11 @@ Team Name: Afterimage
 Roster: kozume, Rage, Purplz29, hoydoy, Syn_MH
 NARS Rank: 242 of 503
 
-Final Rating: 1399.4
+Final Rating: 1399.5
 Seeded Start: 1192.7
-H2H Adjustment: +206.7
+H2H Adjustment: +206.8
 
-Final Rating (1399.4) = Seeded Start (1192.7) + H2H Adjustment (+206.7)
+Final Rating (1399.5) = Seeded Start (1192.7) + H2H Adjustment (+206.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,10 +26,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-21 | drunk cigs dont count | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -111.2 | Rage, Syn_MH, bellicose, hoydoy, jvw |
 | 2026-10-16 | barry pickers | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-10-14 | Drip or Drown | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -88.0 | Rage, Syn_MH, bellicose, hoydoy, jvw |
+| 2026-10-14 | Drip or Drown | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -88.1 | Rage, Syn_MH, bellicose, hoydoy, jvw |
 | 2026-10-09 | Eightball | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-07 | The ESEA Clout Tokens | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-09-06 | WhiteBoyWinter | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.03 | 1.00 | 0.90 | 0.06 | 0.90 | +139.6 | Rage, Syn_MH, Trown, hoydoy, kozume |
+| 2026-09-06 | WhiteBoyWinter | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.03 | 1.00 | 0.90 | 0.06 | 0.90 | +139.7 | Rage, Syn_MH, Trown, hoydoy, kozume |
 | 2026-09-04 | Hello Huzz | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.03 | 0.89 | +118.4 | Rage, Syn_MH, Typpo, hoydoy, kozume |
 | 2026-09-02 | Bobs Discount Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.03 | 1.00 | 0.87 | 0.03 | 0.87 | +144.9 | Purplz29, Rage, Syn_MH, hoydoy, kozume |
 

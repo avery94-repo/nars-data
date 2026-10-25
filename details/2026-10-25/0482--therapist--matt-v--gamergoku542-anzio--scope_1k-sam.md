@@ -3,11 +3,11 @@ Team Name: Therapist
 Roster: Matt-V-, gamergoku542, Anzio, -SCOPE_1K, SamueI
 NARS Rank: 482 of 503
 
-Final Rating: 736.9
+Final Rating: 736.8
 Seeded Start: 1114.5
-H2H Adjustment: -377.6 (capped at +-300, raw -377.5)
+H2H Adjustment: -377.7 (capped at +-300, raw -377.6)
 
-Final Rating (736.9) = Seeded Start (1114.5) + H2H Adjustment (-377.6)
+Final Rating (736.8) = Seeded Start (1114.5) + H2H Adjustment (-377.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-29 | High T Low E | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.00 | -298.1 | -Venom_1K, Anzio, SamueI, e1amateb, gamergoku542 |
+| 2026-05-29 | High T Low E | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -298.2 | -Venom_1K, Anzio, SamueI, e1amateb, gamergoku542 |
 | 2026-05-27 | MakeYouSayLate | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -315.6 | -SCOPE_1K, Anzio, Matt-V-, SamueI, gamergoku542 |
 | 2026-05-22 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.01 | 0.16 | +321.9 | -SCOPE_1K, Anzio, Matt-V-, SamueI, gamergoku542 |
 | 2026-05-20 | The Agarthans | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -292.9 | -SCOPE_1K, Anzio, Matt-V-, SamueI, gamergoku542 |

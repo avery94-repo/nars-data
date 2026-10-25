@@ -25,10 +25,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-04 | Rogue Dungeon | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -176.0 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
-| 2026-09-02 | Smile Team Six | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +87.0 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
+| 2026-09-02 | Smile Team Six | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +87.1 | EMOnEMO, Kevjeet, Spiffy--, Uhttt, _Shadow- |
 | 2026-07-26 | Tractors | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -163.8 | EMOnEMO, Jantokat, Slimmxd, Uhttt, spartanbooby |
 | 2026-06-05 | We Wont Implode This Time | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -228.1 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
-| 2026-06-03 | The Peninsula | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.01 | 0.24 | +184.2 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
+| 2026-06-03 | The Peninsula | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.01 | 0.24 | +184.3 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 | 2026-05-29 | YoungBlood | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.20 | +198.0 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 | 2026-05-27 | Team Unknown | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +194.1 | Jantokat, Kevjeet, Spiffy--, Uhttt, _hrdlick |
 

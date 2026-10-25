@@ -47,7 +47,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.06 | 0.56 | +2.0 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-17 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.04 | 0.53 | +1.9 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
 | 2026-07-15 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.04 | 0.52 | +5.2 | -Garchomp-, A-Z, Dinn, Starfy, c9gurg |
-| 2026-06-12 | ZoomNBoom | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +254.9 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
+| 2026-06-12 | ZoomNBoom | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.30 | +255.0 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
 | 2026-06-05 | Sound of Arthritis | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -179.0 | -Garchomp-, A-Z, Dinn, c9gurg, rl4v |
 | 2026-05-27 | Slime Time | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +82.6 | A-Z, Dinn, GurvR6, c9gurg, rl4v |
 

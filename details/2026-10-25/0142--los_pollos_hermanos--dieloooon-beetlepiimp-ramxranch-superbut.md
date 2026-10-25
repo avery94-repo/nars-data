@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-18 | Whiff City | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -96.0 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
 | 2026-09-16 | Wuff Widas | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.08 | 0.94 | +119.7 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
-| 2026-09-11 | Juiced Up | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.03 | 0.91 | +130.2 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
+| 2026-09-11 | Juiced Up | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.03 | 0.90 | +130.2 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
 | 2026-09-09 | TriangleTraders | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +175.3 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
 | 2026-09-04 | Booday | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.03 | 0.86 | +332.3 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
 | 2026-05-27 | House Platypus | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -259.3 | BeetlePiimp, Piggy67, RamxRanch, Rob--, cawfee, dieloooon |

@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-09 | Elation | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.00 | 0.00 | -128.6 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
 | 2026-06-02 | Squeegee | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.23 | 1.24 | 1.00 | 0.29 | 0.00 | 0.00 | -51.5 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
 | 2026-05-31 | Fathom Gaming | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.22 | 1.24 | 1.00 | 0.27 | 0.09 | 0.27 | +354.1 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
-| 2026-05-29 | WhalersOnDaMoon | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.21 | 1.24 | 1.00 | 0.25 | 0.03 | 0.00 | +154.8 | MoonWithaU, YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
+| 2026-05-29 | WhalersOnDaMoon | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.20 | 1.24 | 1.00 | 0.25 | 0.03 | 0.00 | +154.9 | MoonWithaU, YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
 | 2026-05-21 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.12 | 1.00 | 0.17 | 0.00 | 0.00 | -208.8 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |
 | 2026-05-20 | WhalersOnDaMoon | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.02 | 0.16 | +12.1 | Eesti, _-JAKEY-_, borb_, leae, terrk1s |
 | 2026-05-15 | SquadUp | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.02 | 0.13 | +36.4 | YaboDuulio, _-JAKEY-_, borb_, leae, terrk1s |

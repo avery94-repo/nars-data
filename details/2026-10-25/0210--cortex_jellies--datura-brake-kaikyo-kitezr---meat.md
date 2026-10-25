@@ -3,11 +3,11 @@ Team Name: Cortex Jellies
 Roster: Datura, Brake, Kaikyo, kiteZr, --meat
 NARS Rank: 210 of 503
 
-Final Rating: 1462.1
+Final Rating: 1462.2
 Seeded Start: 1264.2
-H2H Adjustment: +197.9
+H2H Adjustment: +198.0
 
-Final Rating (1462.1) = Seeded Start (1264.2) + H2H Adjustment (+197.9)
+Final Rating (1462.2) = Seeded Start (1264.2) + H2H Adjustment (+198.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

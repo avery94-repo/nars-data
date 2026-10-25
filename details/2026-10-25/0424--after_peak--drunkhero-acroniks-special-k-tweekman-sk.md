@@ -36,13 +36,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Baja Blasters | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.00 | 0.00 | -95.5 | Special-K, Tweekman, acroniks, drunkhero, skrrrrleet |
 | 2026-08-05 | Schadenfreude | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.68 | 0.00 | 0.00 | -48.2 | Special-K, Tweekman, acroniks, drunkhero, skrrrrleet |
 | 2026-07-31 | Sleepers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.65 | 0.00 | 0.00 | -66.9 | Special-K, Tweekman, acroniks, drunkhero, skrrrrleet |
-| 2026-07-29 | Gregs New Cut | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.04 | 1.00 | 0.63 | 0.00 | 0.00 | -141.1 | Special-K, Tweekman, acroniks, drunkhero, hoodrych, skrrrrleet |
+| 2026-07-29 | Gregs New Cut | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.04 | 1.00 | 0.63 | 0.00 | 0.00 | -141.2 | Special-K, Tweekman, acroniks, drunkhero, hoodrych, skrrrrleet |
 | 2026-07-24 | Meepins | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.04 | 1.00 | 0.60 | 0.00 | 0.00 | -121.9 | Special-K, Tweekman, acroniks, drunkhero, skrrrrleet |
 | 2026-07-22 | Hack-A-Shaq | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.00 | 0.00 | -89.7 | Special-K, Tweekman, acroniks, drunkhero, skrrrrleet |
 | 2026-07-17 | Texas Orange | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.04 | 1.00 | 0.55 | 0.00 | 0.00 | -101.5 | Special-K, Tweekman, acroniks, hoodrych, skrrrrleet |
 | 2026-07-15 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.04 | 1.00 | 0.54 | 0.00 | 0.00 | -394.6 | Special-K, Tweekman, acroniks, hoodrych, skrrrrleet |
 | 2026-06-07 | de_throne | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.02 | 0.26 | +25.1 | Special-K, Tweekman, acroniks, drunkhero, skrrrrleet |
-| 2026-06-05 | The Sweepers | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.03 | 0.25 | +212.2 | Special-K, Tweekman, acroniks, drunkhero, skrrrrleet |
+| 2026-06-05 | The Sweepers | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.03 | 0.25 | +212.3 | Special-K, Tweekman, acroniks, drunkhero, skrrrrleet |
 | 2026-05-31 | DownTown | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.22 | +185.3 | Special-K, Tweekman, acroniks, drunkhero, skrrrrleet |
 | 2026-05-29 | We Just Pug | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -358.4 | Special-K, Tweekman, acroniks, drunkhero, skrrrrleet |
 | 2026-05-27 | The Agarthans | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +49.2 | Special-K, Tweekman, acroniks, drunkhero, skrrrrleet |

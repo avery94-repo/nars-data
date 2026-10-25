@@ -5,7 +5,7 @@ NARS Rank: 489 of 503
 
 Final Rating: 656.8
 Seeded Start: 1165.7
-H2H Adjustment: -508.9 (capped at +-300, raw -508.8)
+H2H Adjustment: -508.9
 
 Final Rating (656.8) = Seeded Start (1165.7) + H2H Adjustment (-508.9)
 
@@ -31,11 +31,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.03 | 0.81 | +86.5 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, Seraphimnoob |
 | 2026-08-26 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -30.8 | Amat3rasucfa, BreadPanther, Croissannt, Seraphimnoob, SleepyNooby |
 | 2026-08-21 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -70.7 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, Seraphimnoob |
-| 2026-08-14 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -42.4 | Amat3rasucfa, BreadPanther, PureWhite, SleepyNooby, _OIOI_ |
+| 2026-08-14 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -42.5 | Amat3rasucfa, BreadPanther, PureWhite, SleepyNooby, _OIOI_ |
 | 2026-08-12 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -9.3 | Amat3rasucfa, BreadPanther, Croissannt, SleepyNooby, ZhuA1 |
-| 2026-08-07 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -93.4 | BreadPanther, Croissannt, PureWhite, ZhuA1, _OIOI_ |
+| 2026-08-07 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -93.5 | BreadPanther, Croissannt, PureWhite, ZhuA1, _OIOI_ |
 | 2026-08-05 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +113.3 | BreadPanther, Croissannt, PureWhite, SleepyNooby, ZhuA1 |
-| 2026-07-31 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -24.2 | BreadPanther, Croissannt, PureWhite, SleepyNooby, ZhuA1 |
+| 2026-07-31 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -24.1 | BreadPanther, Croissannt, PureWhite, SleepyNooby, ZhuA1 |
 | 2026-07-29 | 929 Arrival Gang | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -19.8 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, ZhuA1 |
 | 2026-07-24 | Team Deathgrip | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -269.8 | Amat3rasucfa, BreadPanther, PureWhite, SleepyNooby, ZhuA1 |
 | 2026-07-22 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.02 | 0.56 | +93.1 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, SleepyNooby |

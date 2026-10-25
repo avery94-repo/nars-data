@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-20 | firesale | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.15 | 1.47 | +151.9 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
-| 2026-10-14 | Shadow Wizard Money Gang | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.15 | 1.47 | +281.4 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
+| 2026-10-14 | Shadow Wizard Money Gang | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.15 | 1.47 | +281.5 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
 | 2026-10-09 | regain | W | W/O | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-08-26 | Elation | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.00 | 0.00 | -39.4 | Latt, M0nstr, _-JAKEY-_, m4rley, yreva |
 | 2026-08-25 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.79 | 1.47 | 1.00 | 1.16 | 0.00 | 0.00 | -87.1 | Latt, M0nstr, PurnrplPanda, _-JAKEY-_, yreva |
@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-19 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.37 | 1.00 | 0.19 | 0.00 | 0.00 | -146.6 | Bruse, Latt, M0nstr, tangz, yreva |
 | 2026-05-14 | Elisir Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.37 | 1.00 | 0.14 | 0.00 | 0.00 | -59.8 | Bruse, Latt, M0nstr, m4rley, tangz, yreva |
 | 2026-05-12 | skebob | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.37 | 1.00 | 0.12 | 0.00 | 0.00 | -81.2 | Bruse, Latt, M0nstr, tangz, yreva |
-| 2026-05-08 | Beyond Limits | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.37 | 1.00 | 0.09 | 0.06 | 0.09 | +447.3 | Bruse, Latt, M0nstr, tangz, yreva |
+| 2026-05-08 | Beyond Limits | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.37 | 1.00 | 0.09 | 0.06 | 0.09 | +447.4 | Bruse, Latt, M0nstr, tangz, yreva |
 | 2026-05-05 | KODEX ESPORTS | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.37 | 1.00 | 0.06 | 0.00 | 0.00 | -278.3 | Bruse, Latt, M0nstr, tangz, yreva |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

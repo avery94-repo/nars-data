@@ -5,7 +5,7 @@ NARS Rank: 493 of 503
 
 Final Rating: 601.3
 Seeded Start: 1131.2
-H2H Adjustment: -529.9
+H2H Adjustment: -529.9 (capped at +-300, raw -530.0)
 
 Final Rating (601.3) = Seeded Start (1131.2) + H2H Adjustment (-529.9)
 
@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-29 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -67.5 | -DavidTK-, Spearmint, XentriQ, bubs-, kenNjii |
-| 2026-07-24 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -253.1 | A1den, Omnic, XentriQ, bubs-, kenNjii |
+| 2026-07-24 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -253.2 | A1den, Omnic, XentriQ, bubs-, kenNjii |
 | 2026-07-22 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.05 | 0.56 | +122.8 | A1den, Omnic, XentriQ, bubs-, kenNjii |
 | 2026-07-20 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.55 | 1.00 | 1.00 | 0.55 | 0.00 | 0.00 | -73.8 | A1den, Omnic, XentriQ, bubs-, kenNjii |
 | 2026-07-15 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -286.8 | -DavidTK-, Omnic, XentriQ, forMula_, kenNjii |
@@ -35,6 +35,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-08 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +391.8 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 | 2026-05-05 | 929 Arrival Gang | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -176.7 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 | 2026-05-01 | Grandpa Berets | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -12.0 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
-| 2026-04-29 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.00 | -159.9 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
+| 2026-04-29 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -159.9 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

@@ -26,11 +26,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-12 | mas paspas | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.91 | 1.06 | 1.00 | 0.96 | 0.00 | 0.00 | -49.5 | G3DITOR, HypeRRR, N4HS1, Vuesqa, klq0nxS |
 | 2026-09-10 | Abusement Park | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.90 | 1.06 | 1.00 | 0.95 | 0.07 | 0.95 | +53.3 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
-| 2026-09-08 | DKR Esports | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.89 | 1.06 | 1.00 | 0.94 | 0.09 | 0.94 | +108.6 | G3DITOR, HypeRRR, N4HS1, Vuesqa, luntaxE |
+| 2026-09-08 | DKR Esports | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.88 | 1.06 | 1.00 | 0.94 | 0.09 | 0.94 | +108.6 | G3DITOR, HypeRRR, N4HS1, Vuesqa, luntaxE |
 | 2026-09-07 | juked | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.88 | 1.06 | 1.00 | 0.93 | 0.06 | 0.93 | +32.6 | G3DITOR, HypeRRR, N4HS1, Vuesqa, luntaxE |
 | 2026-09-03 | my life be like | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.85 | 1.06 | 1.00 | 0.90 | 0.00 | 0.00 | -3.9 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-09-02 | Les Ptis Jus | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.84 | 1.06 | 1.00 | 0.89 | 0.07 | 0.89 | +60.4 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
-| 2026-08-28 | BucketJonsBoys | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.00 | 0.00 | -99.9 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
+| 2026-08-28 | BucketJonsBoys | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.00 | 0.00 | -100.0 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-08-26 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.06 | 0.83 | +58.0 | -Btu, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-08-21 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.04 | 1.00 | 0.79 | 0.00 | 0.00 | -90.3 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-08-19 | MINDTRIP | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.00 | 0.00 | -103.8 | -Btu, HypeRRR, Vuesqa, klq0nxS, luntaxE |
@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | GeneticDiff | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.65 | 0.07 | 0.65 | +184.6 | -Btu, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-07-30 | Salsas Mazzin Crew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.64 | 0.04 | 0.64 | +7.8 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-07-24 | TenToesDown | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.04 | 1.00 | 0.60 | 0.07 | 0.60 | +260.8 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
-| 2026-07-22 | FLOW STATE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.13 | 0.59 | +159.4 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
+| 2026-07-22 | FLOW STATE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.13 | 0.59 | +159.5 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-07-17 | Read You Like a Kindle | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.04 | 1.00 | 0.55 | 0.06 | 0.55 | +47.8 | G3DITOR, HypeRRR, N4HS1, klq0nxS, luntaxE |
 | 2026-07-15 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.04 | 1.00 | 0.54 | 0.04 | 0.54 | +17.5 | G3DITOR, HypeRRR, Vuesqa, klq0nxS, luntaxE |
 | 2026-06-01 | my life be like | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.23 | 1.24 | 1.00 | 0.28 | 0.10 | 0.28 | +377.2 | HypeRRR, Jabbawockez-, N4HS1, Vuesqa, klq0nxS |

@@ -33,6 +33,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | fih hou | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -147.6 | -f1Z, 96dymm, Zaoro, kulyalele, se1fie1, shotya_ |
 | 2026-09-06 | KIS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.06 | 0.87 | +105.7 | -f1Z, 96dymm, Zaoro, kulyalele, se1fie1 |
 | 2026-09-04 | AscendentEsport | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.06 | 0.86 | +143.1 | -f1Z, 96dymm, kulyalele, se1fie1, shotya_ |
-| 2026-09-02 | Lost in the Plot | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +128.1 | -f1Z, creat1on, kulyalele, se1fie1, shotya_ |
+| 2026-09-02 | Lost in the Plot | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +128.2 | -f1Z, creat1on, kulyalele, se1fie1, shotya_ |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

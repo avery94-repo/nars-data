@@ -30,12 +30,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | MEET THE WALL - DEAD | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-09 | Climbers | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-07 | Casual Mature Gamers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -134.0 | 1FL, 1neu, chefBAKER, rengif, viGiaaaMC |
-| 2026-09-19 | fih hou | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -59.6 | 1FL, 1neu, add_e, chefBAKER, nudder, pr1mopeek |
+| 2026-09-19 | fih hou | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -59.7 | 1FL, 1neu, add_e, chefBAKER, nudder, pr1mopeek |
 | 2026-09-17 | VARTOVIK | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +56.2 | 1FL, 1neu, chefBAKER, nudder, pr1mopeek |
 | 2026-09-15 | PogSquad | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.06 | 0.93 | +58.1 | 1neu, add_e, chefBAKER, pr1mopeek, rengif |
 | 2026-09-12 | TELETUBEASTS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.06 | 0.91 | +75.3 | 1neu, chefBAKER, nudder, pr1mopeek, rengif |
-| 2026-09-10 | Brobies | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.06 | 0.90 | +112.9 | 1FL, 1neu, add_e, chefBAKER, nudder, pr1mopeek |
-| 2026-09-08 | ARRACHED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +81.0 | 1neu, chefBAKER, nudder, pr1mopeek, rengif |
+| 2026-09-10 | Brobies | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.06 | 0.90 | +113.0 | 1FL, 1neu, add_e, chefBAKER, nudder, pr1mopeek |
+| 2026-09-08 | ARRACHED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.03 | 0.88 | +81.0 | 1neu, chefBAKER, nudder, pr1mopeek, rengif |
 | 2026-09-06 | Propaniacs | W | 1-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.03 | 0.87 | +34.6 | 1FL, add_e, chefBAKER, nudder, rengif |
 | 2026-09-04 | VARTOVIK | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -141.4 | 1neu, add_e, chefBAKER, nudder, pr1mopeek |
 | 2026-09-02 | HeadShot Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.11 | 0.84 | +111.4 | 1FL, 1neu, add_e, chefBAKER, nudder, rengif |

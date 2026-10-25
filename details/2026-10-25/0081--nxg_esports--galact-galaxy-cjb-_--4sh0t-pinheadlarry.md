@@ -35,7 +35,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 0.00 | 0.00 | -2.9 | 4sh0t, Galact, Galaxy, Leodyn, PinheadLarry |
 | 2026-08-21 | Addice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.47 | 1.00 | 1.12 | 0.00 | 0.00 | -144.6 | 4sh0t, Galact, Galaxy, Leodyn, PinheadLarry |
 | 2026-08-19 | firesale | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.47 | 1.00 | 1.10 | 0.11 | 1.10 | +133.7 | 4sh0t, Galact, Galaxy, Leodyn, PinheadLarry |
-| 2026-08-14 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.00 | 0.00 | -50.1 | 4sh0t, Galact, Galaxy, Leodyn, PinheadLarry |
+| 2026-08-14 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.00 | 0.00 | -50.2 | 4sh0t, Galact, Galaxy, Leodyn, PinheadLarry |
 | 2026-08-14 | Ex-Tricksters | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.05 | 1.05 | +53.3 | 4sh0t, Galact, Galaxy, Leodyn, PinheadLarry |
 | 2026-08-07 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.00 | 0.00 | -34.8 | 4sh0t, Galact, Galaxy, Leodyn, PinheadLarry |
 | 2026-08-05 | Holly Molly | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.18 | 0.96 | +121.0 | 4sh0t, Galact, Galaxy, Leodyn, PinheadLarry |
@@ -43,18 +43,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.47 | 1.00 | 0.92 | 0.00 | 0.00 | -177.2 | 4sh0t, Galaxy, Leodyn, PinheadLarry, cjb-_- |
 | 2026-07-29 | Endless Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.47 | 1.00 | 0.90 | 0.00 | 0.00 | -112.9 | 1NoVa, 4sh0t, Galact, Galaxy, PinheadLarry |
 | 2026-07-22 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.57 | 1.47 | 1.00 | 0.83 | 0.08 | 0.83 | +0.2 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
-| 2026-07-22 | NuTorious | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.00 | 0.00 | -135.0 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
+| 2026-07-22 | NuTorious | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.00 | 0.00 | -135.1 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-06-12 | Fathom Gaming | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.30 | 1.24 | 1.00 | 0.37 | 0.00 | 0.00 | -134.0 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-06-09 | Priority | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.28 | 1.24 | 1.00 | 0.34 | 0.01 | 0.34 | +204.3 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-06-06 | YHUBEPCAM | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.24 | 1.00 | 0.32 | 0.02 | 0.32 | +229.1 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
-| 2026-06-04 | SquadUp | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.24 | 1.24 | 1.00 | 0.30 | 0.06 | 0.30 | +222.5 | 4sh0t, BATSPEED, Galact, Galaxy, PinheadLarry, cjb-_- |
-| 2026-05-31 | crescent | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.22 | 1.24 | 1.00 | 0.27 | 0.02 | 0.27 | +233.7 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
+| 2026-06-04 | SquadUp | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.24 | 1.24 | 1.00 | 0.30 | 0.06 | 0.30 | +222.6 | 4sh0t, BATSPEED, Galact, Galaxy, PinheadLarry, cjb-_- |
+| 2026-05-31 | crescent | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.22 | 1.24 | 1.00 | 0.27 | 0.02 | 0.27 | +233.8 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-05-29 | Elation | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.20 | 1.24 | 1.00 | 0.25 | 0.00 | 0.00 | -3.3 | 4sh0t, GAT, Galaxy, PinheadLarry, cjb-_- |
 | 2026-05-22 | Automatic HQ | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.00 | -148.9 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-05-21 | Fathom Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.12 | 1.00 | 0.17 | 0.00 | 0.00 | -150.0 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-05-18 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.12 | 1.00 | 0.15 | 0.00 | 0.00 | -240.3 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-05-13 | teamington | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.01 | 0.11 | +39.3 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
-| 2026-05-06 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.06 | +298.9 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
+| 2026-05-06 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.12 | 1.00 | 0.06 | 0.00 | 0.06 | +299.0 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-05-01 | qcclan | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.12 | 1.00 | 0.02 | 0.00 | 0.02 | +7.3 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 | 2026-04-29 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.12 | 1.00 | 0.01 | 0.00 | 0.01 | +129.2 | 4sh0t, Galact, Galaxy, PinheadLarry, cjb-_- |
 

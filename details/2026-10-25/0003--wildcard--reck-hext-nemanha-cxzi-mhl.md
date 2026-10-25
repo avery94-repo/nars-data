@@ -3,11 +3,11 @@ Team Name: Wildcard
 Roster: reck, HexT, nEMANHA, Cxzi, mhL
 NARS Rank: 3 of 503
 
-Final Rating: 2871.0
+Final Rating: 2871.1
 Seeded Start: 2129.0
-H2H Adjustment: +742.0 (capped at +-300, raw +742.1)
+H2H Adjustment: +742.1
 
-Final Rating (2871.0) = Seeded Start (2129.0) + H2H Adjustment (+742.0)
+Final Rating (2871.1) = Seeded Start (2129.0) + H2H Adjustment (+742.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,14 +30,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-10 | last dance | W | 13-5 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.11 | 1.60 | +0.0 | core 3/5 |
 | 2026-10-03 | EAC | W | 2-1 | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.07 | 0.00 | +8.5 | core 3/5 |
 | 2026-10-03 | INFINITE | L | 0-2 | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -45.6 | core 3/5 |
-| 2026-10-02 | NT | L |  | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -69.2 | core 3/5 |
+| 2026-10-02 | NT | L |  | VRS-tracked 2026-10 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -69.3 | core 3/5 |
 | 2026-09-27 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -29.2 | core 3/5 |
 | 2026-09-26 | NRG | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.94 | 1.60 | +64.9 | core 3/5 |
 | 2026-09-26 | DENDELE | W | 2-1 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 2.40 | 0.00 | +38.2 | core 3/5 |
 | 2026-09-25 | NRG | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -31.6 | core 3/5 |
 | 2026-09-25 | Chicken Coop | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 1.00 | 1.60 | 1.00 | 1.60 | 1.35 | 1.60 | +0.0 | core 3/5 |
 | 2026-09-12 | BBL | L |  | VRS-tracked 2026-09 | A | vrs | 0.91 | 1.60 | 1.00 | 1.46 | 0.00 | 0.00 | -114.6 | core 3/5 |
-| 2026-09-11 | NEMESIS | W |  | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 2.17 | 0.00 | +165.9 | core 3/5 |
+| 2026-09-11 | NEMESIS | W |  | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 2.17 | 0.00 | +166.0 | core 3/5 |
 | 2026-09-10 | EYEBALLERS | W |  | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 2.15 | 0.00 | +265.9 | core 3/5 |
 | 2026-09-09 | HOTU | L |  | VRS-tracked 2026-09 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 0.00 | 0.00 | -53.9 | core 3/5 |
 | 2026-08-15 | PAIN | L | 1-2 | VRS-tracked 2026-08 | A | vrs | 0.72 | 1.60 | 1.00 | 1.16 | 0.00 | 0.00 | -119.4 | core 3/5 |

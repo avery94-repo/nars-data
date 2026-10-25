@@ -27,13 +27,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-21 | Guangzhou Loong Lions | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -132.6 | K7777Kk, Mrzhao, N0P, Relo_X, vvillovv |
 | 2026-10-16 | ClanAgain | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +158.5 | K7777Kk, Mrzhao, N0P, Relo_X, vvillovv |
 | 2026-10-14 | Kodaks Lettuce | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +67.6 | K7777Kk, Mrzhao, N0P, Relo_X, vvillovv |
-| 2026-10-09 | DMA | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +280.9 | K7777Kk, K9999k, Mrzhao, N0P, vvillovv |
+| 2026-10-09 | DMA | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +281.0 | K7777Kk, K9999k, Mrzhao, N0P, vvillovv |
 | 2026-10-07 | Solbound | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 0.00 | +44.4 | K7777Kk, Mrzhao, N0P, Relo_X, vvillovv |
 | 2026-08-26 | NATIONAL CS UNI | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.06 | 0.80 | +85.0 | K7777Kk, K9999k, Mrzhao, N0P, Soahc666 |
-| 2026-08-21 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -109.5 | K7777Kk, K9999k, Mrzhao, N0P, Soahc666 |
+| 2026-08-21 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -109.6 | K7777Kk, K9999k, Mrzhao, N0P, Soahc666 |
 | 2026-08-19 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.06 | 0.75 | +91.9 | K7777Kk, K9999k, Mrzhao, N0P, Soahc666 |
 | 2026-08-14 | FourStrokeGang | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -196.2 | K7777Kk, K9999k, Mrzhao, N0P, Soahc666 |
-| 2026-08-07 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.05 | 0.67 | +232.6 | K7777Kk, Mrzhao, N0P, Soahc666, k5555Kk |
+| 2026-08-07 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.05 | 0.67 | +232.7 | K7777Kk, Mrzhao, N0P, Soahc666, k5555Kk |
 | 2026-08-05 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -43.3 | K7777Kk, Mrzhao, N0P, Soahc666, k5555Kk |
 | 2026-07-31 | Mace Lindu Ruff Rebound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -230.0 | Mrzhao, N0P, Soahc666, k5555Kk, k6666kk |
 | 2026-07-29 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +118.6 | K7777Kk, Mrzhao, N0P, Soahc666, k5555Kk |

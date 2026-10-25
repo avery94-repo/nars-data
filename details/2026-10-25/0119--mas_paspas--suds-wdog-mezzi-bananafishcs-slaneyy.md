@@ -33,19 +33,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-27 | COGNITIVE | W | 0-0 | NA Revival | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.12 | 1.00 | +1.3 | BananaFishCS, TinNeR, kozume, slaneyy, wdog |
 | 2026-09-27 | PPWesports | W | 0-0 | NA Revival | C | faceit-tournament | 1.00 | 1.00 | 1.00 | 1.00 | 0.07 | 1.00 | +0.1 | BananaFishCS, TinNeR, kozume, slaneyy, wdog |
 | 2026-09-21 | my life be like | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.06 | 1.00 | 1.03 | 0.00 | 0.00 | -27.5 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
-| 2026-09-20 | Hairy Scary Bandits | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.97 | 1.06 | 1.00 | 1.02 | 0.18 | 1.02 | +53.9 | -Inverti, BananaFishCS, Mezzi, slaneyy, suds, wdog |
+| 2026-09-20 | Hairy Scary Bandits | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.06 | 1.00 | 1.02 | 0.18 | 1.02 | +53.9 | -Inverti, BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-09-19 | Sedated | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.96 | 1.06 | 1.00 | 1.01 | 0.11 | 1.01 | +73.0 | -Inverti, BananaFishCS, Mezzi, crazed, slaneyy, suds, wdog |
 | 2026-09-17 | The Burger People | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.94 | 1.06 | 1.00 | 1.00 | 0.07 | 1.00 | +42.8 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-09-12 | SAFIR | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.91 | 1.06 | 1.00 | 0.96 | 0.08 | 0.96 | +49.9 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-09-10 | Team Amplus | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.90 | 1.06 | 1.00 | 0.95 | 0.15 | 0.95 | +40.6 | BananaFishCS, Mezzi, crazed, slaneyy, suds, wdog |
 | 2026-09-08 | butt | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.89 | 1.06 | 1.00 | 0.94 | 0.07 | 0.94 | +55.7 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
-| 2026-09-04 | PASSION | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.86 | 1.06 | 1.00 | 0.91 | 0.00 | 0.00 | -173.3 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
+| 2026-09-04 | PASSION | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.86 | 1.06 | 1.00 | 0.91 | 0.00 | 0.00 | -173.4 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-26 | Akatsuki | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.04 | 0.83 | +74.5 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-19 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.05 | 0.78 | +20.9 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-14 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.04 | 1.00 | 0.74 | 0.07 | 0.74 | +57.2 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-12 | Meepins | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.04 | 1.00 | 0.73 | 0.06 | 0.73 | +2.7 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-07 | butt | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.06 | 0.00 | +146.0 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
-| 2026-08-05 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.68 | 0.00 | 0.00 | -116.8 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
+| 2026-08-05 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.68 | 0.00 | 0.00 | -116.9 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-07-31 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.65 | 0.16 | 0.65 | +17.9 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-07-29 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.04 | 1.00 | 0.63 | 0.02 | 0.63 | +0.5 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-07-26 | FLOW STATE | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.59 | 1.00 | 1.00 | 0.59 | 0.13 | 0.59 | +67.4 | BananaFishCS, Mezzi, slaneyy, suds, wdog |

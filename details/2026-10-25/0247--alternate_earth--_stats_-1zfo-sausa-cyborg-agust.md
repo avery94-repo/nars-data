@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | VARTOVIK | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +121.2 | 1zfo, Agust, Sausa, _STATS_, cyborg |
 | 2026-10-07 | mokey mokey | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-09-15 | ODIN | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -60.5 | 1zfo, Agust, Sausa, cyborg, praze- |
-| 2026-09-08 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.00 | 0.00 | -88.7 | 1zfo, Agust, Sausa, _STATS_, cyborg |
+| 2026-09-08 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.91 | 0.00 | 0.00 | -88.7 | 1zfo, Agust, Sausa, _STATS_, cyborg |
 | 2026-09-06 | Double Poop Cheeseburger | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.03 | 0.89 | +107.6 | 1zfo, Agust, Sausa, Sevv, cyborg |
 | 2026-09-04 | Chuds | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.03 | 0.88 | +209.2 | 1zfo, Agust, Sausa, _STATS_, cyborg |
 

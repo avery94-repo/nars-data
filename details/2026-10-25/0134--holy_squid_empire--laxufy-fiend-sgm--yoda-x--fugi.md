@@ -4,14 +4,14 @@ Roster: Laxufy, FIEND, SGM-, yodA-X-, FUGI
 NARS Rank: 134 of 503
 
 Final Rating: 1620.3
-Seeded Start: 1322.4
-H2H Adjustment: +297.9
+Seeded Start: 1322.3
+H2H Adjustment: +298.0
 
-Final Rating (1620.3) = Seeded Start (1322.4) + H2H Adjustment (+297.9)
+Final Rating (1620.3) = Seeded Start (1322.3) + H2H Adjustment (+298.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.159 x 1400 = 1322.4
+                = 1100 + 0.159 x 1400 = 1322.3
 
 seed_factor 0.159 = 0.25 x Tier Exposure (0.164) + 0.50 x Quality Wins (0.071) + 0.25 x Opponent Network (0.330)
 

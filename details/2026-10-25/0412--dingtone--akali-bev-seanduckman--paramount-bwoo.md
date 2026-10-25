@@ -38,14 +38,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | The Skins | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.73 | 0.00 | 0.00 | -7.7 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-07-31 | Pugging4Pumpkin | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.00 | 0.00 | -114.3 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-07-29 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.05 | 0.67 | +88.5 | -paramount, BwOo, akali, bev, seanduckman |
-| 2026-07-24 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.64 | 0.05 | 0.64 | +318.2 | -paramount, BwOo, akali, bev, seanduckman |
+| 2026-07-24 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.64 | 0.05 | 0.64 | +318.3 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-07-22 | NADIYA | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.02 | 0.62 | +296.4 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-07-17 | YHUBEPCAM | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.59 | 0.00 | 0.00 | -0.0 | -paramount, akali, bev, div3ci, seanduckman |
 | 2026-07-15 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.00 | 0.00 | -11.9 | -paramount, akali, bev, div3ci, seanduckman |
 | 2026-05-22 | Temple of Swing | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.00 | -22.0 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-20 | Fortis Fortuna Adiuvat | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.00 | -97.8 | -paramount, BwOo, akali, bev, seanduckman |
-| 2026-05-15 | Binky | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.00 | 0.00 | -157.2 | -paramount, BwOo, akali, bev, seanduckman |
-| 2026-05-13 | Bird Squishers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.00 | 0.00 | -314.3 | -paramount, BwOo, akali, bev, seanduckman |
+| 2026-05-15 | Binky | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.00 | 0.00 | -157.3 | -paramount, BwOo, akali, bev, seanduckman |
+| 2026-05-13 | Bird Squishers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.00 | 0.00 | -314.4 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-12 | MXA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.12 | 1.00 | 0.10 | 0.00 | 0.00 | -201.2 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-08 | gooshedd | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.00 | 0.07 | +368.9 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-05-01 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.12 | 1.00 | 0.02 | 0.00 | 0.00 | -423.8 | -paramount, BwOo, akali, bev, seanduckman |

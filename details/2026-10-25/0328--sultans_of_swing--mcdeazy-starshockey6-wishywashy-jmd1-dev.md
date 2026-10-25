@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | OPOZIT | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -150.6 | JMD1, devN, mcDEAZY, starshockey6, wishywashy |
 | 2026-09-02 | Bottom Fraggers Anonymous | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +136.8 | JMD1, devN, mcDEAZY, wishywashy, woahCS |
 | 2026-06-12 | DeathMark E-Sports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.30 | 1.00 | 1.00 | 0.30 | 0.00 | 0.00 | -207.5 | JMD1, devN, starshockey6, win, wishywashy |
-| 2026-05-29 | ZoomNBoom | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +90.9 | JMD1, devN, starshockey6, win, wishywashy |
+| 2026-05-29 | ZoomNBoom | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.20 | +90.9 | JMD1, devN, starshockey6, win, wishywashy |
 | 2026-05-28 | Senior Citizens | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.20 | +189.1 | JMD1, devN, starshockey6, win, wishywashy |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

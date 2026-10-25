@@ -4,14 +4,14 @@ Roster: 1Spice, -Blast, dadjorts, jshuwaa, 1az
 NARS Rank: 340 of 503
 
 Final Rating: 1206.1
-Seeded Start: 1251.2
-H2H Adjustment: -45.1
+Seeded Start: 1251.1
+H2H Adjustment: -45.0
 
-Final Rating (1206.1) = Seeded Start (1251.2) + H2H Adjustment (-45.1)
+Final Rating (1206.1) = Seeded Start (1251.1) + H2H Adjustment (-45.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.108 x 1400 = 1251.2
+                = 1100 + 0.108 x 1400 = 1251.1
 
 seed_factor 0.108 = 0.25 x Tier Exposure (0.068) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.309)
 
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.04 | 1.00 | 0.79 | 0.00 | 0.00 | -75.1 | -Blast, 1Spice, 1az, Boomm, dadjorts |
 | 2026-08-19 | Les Ptis Jus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.00 | 0.00 | -96.8 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
 | 2026-08-14 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.04 | 1.00 | 0.74 | 0.09 | 0.74 | +51.8 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
-| 2026-08-12 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.71 | 1.04 | 1.00 | 0.73 | 0.03 | 0.73 | +65.3 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
+| 2026-08-12 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.04 | 1.00 | 0.73 | 0.03 | 0.73 | +65.3 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
 | 2026-08-06 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.69 | 0.06 | 0.69 | +60.3 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
 | 2026-08-05 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.68 | 0.03 | 0.68 | +135.1 | -Blast, 1Spice, 1az, dadjorts, jshuwaa |
 | 2026-07-31 | ThirdSite | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.65 | 0.14 | 0.65 | +171.0 | -Blast, 1Spice, Boomm, dadjorts, jshuwaa |

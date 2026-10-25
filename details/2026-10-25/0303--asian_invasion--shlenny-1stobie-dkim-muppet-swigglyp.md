@@ -3,11 +3,11 @@ Team Name: Asian Invasion
 Roster: shlenny, 1stobie, dKim, Muppet, SwigglyP
 NARS Rank: 303 of 503
 
-Final Rating: 1268.9
+Final Rating: 1268.8
 Seeded Start: 1112.0
-H2H Adjustment: +156.9
+H2H Adjustment: +156.8
 
-Final Rating (1268.9) = Seeded Start (1112.0) + H2H Adjustment (+156.9)
+Final Rating (1268.8) = Seeded Start (1112.0) + H2H Adjustment (+156.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-21 | Shimmer | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.15 | 1.37 | 1.00 | 0.21 | 0.00 | 0.00 | -67.9 | 1stobie, Muppet, ThugShakin, dKim, shlenny |
 | 2026-05-19 | Elisir Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.37 | 1.00 | 0.19 | 0.00 | 0.00 | -41.2 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
-| 2026-05-14 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.37 | 1.00 | 0.14 | 0.00 | 0.14 | +145.1 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
+| 2026-05-14 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.37 | 1.00 | 0.14 | 0.00 | 0.14 | +145.2 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-05-12 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.37 | 1.00 | 0.12 | 0.01 | 0.12 | +140.2 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-05-08 | eefsports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.37 | 1.00 | 0.09 | 0.00 | 0.00 | -403.0 | 1stobie, Muppet, SwigglyP, dKim, shlenny |
 | 2026-05-05 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.37 | 1.00 | 0.06 | 0.01 | 0.06 | +29.1 | 1stobie, Muppet, SwigglyP, dKim, shlenny |

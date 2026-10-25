@@ -37,8 +37,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-04 | VOID ALUNE | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.24 | 1.24 | 1.00 | 0.30 | 0.05 | 0.30 | +52.8 | Bongo-_-, Diodor, Naswai, Offnik322, swayy |
 | 2026-06-02 | DNA | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.23 | 1.24 | 1.00 | 0.29 | 0.00 | 0.29 | +94.2 | Bongo-_-, Naswai, Offnik322, Ot7o, swayy, zdoroviy666 |
 | 2026-05-31 | Kurrupted Mindz | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.22 | 1.24 | 1.00 | 0.27 | 0.01 | 0.27 | +185.2 | Bongo-_-, Naswai, Offnik322, Ot7o, swayy, zdoroviy666 |
-| 2026-05-29 | Skyline | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.21 | 1.24 | 1.00 | 0.25 | 0.00 | 0.00 | -360.5 | Bongo-_-, Offnik322, Ot7o, swayy, zdoroviy666 |
-| 2026-05-23 | Team Amplus | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.17 | 1.12 | 1.00 | 0.19 | 0.03 | 0.19 | +185.6 | Bongo-_-, Naswai, Offnik322, swayy, zdoroviy666 |
+| 2026-05-29 | Skyline | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.20 | 1.24 | 1.00 | 0.25 | 0.00 | 0.00 | -360.6 | Bongo-_-, Offnik322, Ot7o, swayy, zdoroviy666 |
+| 2026-05-23 | Team Amplus | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.19 | 0.03 | 0.19 | +185.6 | Bongo-_-, Naswai, Offnik322, swayy, zdoroviy666 |
 | 2026-05-20 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.01 | 0.16 | +222.7 | Bongo-_-, Offnik322, Ot7o, swayy, zdoroviy666 |
 | 2026-05-15 | Asoka | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.00 | 0.00 | -438.3 | Bongo-_-, Naswai, Offnik322, swayy, zdoroviy666 |
 | 2026-05-13 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.00 | 0.11 | +54.6 | Bongo-_-, Naswai, Offnik322, swayy, zdoroviy666 |

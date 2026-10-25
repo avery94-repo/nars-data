@@ -33,19 +33,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Resurgence | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.85 | 1.06 | 1.00 | 0.89 | 0.09 | 0.89 | +71.2 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-08-28 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.04 | 1.00 | 0.84 | 0.04 | 0.84 | +41.1 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-08-26 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.06 | 0.83 | +106.4 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
-| 2026-08-21 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.04 | 1.00 | 0.79 | 0.00 | 0.00 | -67.2 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
+| 2026-08-21 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.04 | 1.00 | 0.79 | 0.00 | 0.00 | -67.2 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-08-19 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.06 | 0.78 | +116.9 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-08-14 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.04 | 1.00 | 0.74 | 0.03 | 0.74 | +133.0 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-08-12 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.04 | 1.00 | 0.73 | 0.02 | 0.73 | +22.4 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
-| 2026-08-07 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.05 | 0.70 | +236.5 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
-| 2026-08-06 | The Homies | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.69 | 0.00 | 0.00 | -163.9 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
+| 2026-08-07 | in for Blood | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.05 | 0.70 | +236.6 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
+| 2026-08-06 | The Homies | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.69 | 0.00 | 0.00 | -164.0 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-07-29 | Texas Orange | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.04 | 1.00 | 0.63 | 0.00 | 0.00 | -24.4 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, h0t_s0up |
 | 2026-07-28 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.04 | 1.00 | 0.63 | 0.00 | 0.00 | -266.6 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-07-24 | absolute cinema | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.04 | 1.00 | 0.60 | 0.00 | 0.00 | -144.7 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-07-22 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.00 | 0.00 | -32.8 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-07-17 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.04 | 1.00 | 0.55 | 0.04 | 0.55 | +56.4 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-07-15 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.04 | 1.00 | 0.54 | 0.02 | 0.54 | +15.2 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
-| 2026-06-03 | NOVAIR | L | 0-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -109.3 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
+| 2026-06-03 | NOVAIR | L | 0-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -109.2 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-05-27 | DownTown | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +226.3 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-05-22 | wabbit2 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -43.4 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-05-20 | de_throne | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -368.9 | -kiwi, AlexBG25, FuzzyHat, GUNK, deviN- |

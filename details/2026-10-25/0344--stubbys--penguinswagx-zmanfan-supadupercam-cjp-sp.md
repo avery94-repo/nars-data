@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | OnThaGear | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.91 | 0.00 | 0.00 | -135.9 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
 | 2026-09-06 | MgaEngot | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.03 | 0.89 | +125.4 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
 | 2026-09-04 | No Excuses | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.00 | 0.00 | -155.5 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
-| 2026-09-02 | Junior Varsity Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.87 | 0.03 | 0.87 | +142.7 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
+| 2026-09-02 | Junior Varsity Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.86 | 0.03 | 0.86 | +142.7 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
 | 2026-06-10 | Praise Jame | L | 0-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -274.1 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
 | 2026-06-03 | Boomhogs 2 | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.01 | 0.24 | +137.1 | CJP, Matthewpops, PenguinSWAGX, Spunki, ZManFan |
 | 2026-05-27 | Code Oblivion | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +189.5 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |

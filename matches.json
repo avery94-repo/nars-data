@@ -11,6 +11,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "hltv:2399722",
+  "date": "2026-10-24",
+  "competition": "PGL Masters Bucharest 2026",
+  "team_a": "MOUZ",
+  "team_b": "Liquid",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
   "match_id": "1-0c7f93b4-d98c-4231-9fac-c1f5caa05919",
   "date": "2026-10-22",
   "competition": "S59 NA Advanced Central - Regular Season",

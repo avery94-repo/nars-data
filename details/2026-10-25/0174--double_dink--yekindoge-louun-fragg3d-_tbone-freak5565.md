@@ -25,10 +25,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-21 | FlockMunchers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +89.2 | Fragg3d, Freak5565, Jaek, YEKINDOGE, dcd |
-| 2026-10-16 | GOYPEEKING | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +275.0 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
+| 2026-10-16 | GOYPEEKING | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +275.1 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
 | 2026-10-14 | Vibe Check | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -51.3 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
 | 2026-10-07 | Muncle | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +3.5 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
-| 2026-09-10 | deluxe | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.90 | 1.11 | 1.00 | 1.00 | 0.00 | 0.00 | -67.0 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
+| 2026-09-10 | deluxe | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.90 | 1.11 | 1.00 | 0.99 | 0.00 | 0.00 | -67.0 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
 | 2026-09-08 | Heavens Gate | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.89 | 1.11 | 1.00 | 0.98 | 0.03 | 0.98 | +127.2 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
 | 2026-09-06 | Zero Remorse | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.87 | 1.11 | 1.00 | 0.97 | 0.03 | 0.97 | +111.9 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
 | 2026-09-04 | house | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.86 | 1.11 | 1.00 | 0.95 | 0.00 | 0.00 | -196.0 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |

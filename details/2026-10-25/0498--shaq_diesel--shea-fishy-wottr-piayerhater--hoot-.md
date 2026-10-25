@@ -5,7 +5,7 @@ NARS Rank: 498 of 503
 
 Final Rating: 511.8
 Seeded Start: 1151.7
-H2H Adjustment: -639.9 (capped at +-300, raw -639.8)
+H2H Adjustment: -639.9
 
 Final Rating (511.8) = Seeded Start (1151.7) + H2H Adjustment (-639.9)
 
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -1.2 | -HooT-, PhilLesh-, Wottr, mook, shea |
 | 2026-08-14 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -8.5 | -HooT-, Fishy, Wottr, mook, shea |
 | 2026-08-12 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -0.8 | -HooT-, Conzor, PhilLesh-, Wottr, shea |
-| 2026-08-07 | SixSevenZaZa | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -93.7 | -HooT-, PIayerhater, Wottr, mook, shea |
+| 2026-08-07 | SixSevenZaZa | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -93.8 | -HooT-, PIayerhater, Wottr, mook, shea |
 | 2026-08-05 | EZ2025 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -26.5 | -HooT-, Conzor, PIayerhater, Wottr, shea |
 | 2026-07-31 | monitor off | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -143.7 | -HooT-, Conzor, Fishy, PIayerhater, shea |
 | 2026-07-29 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.05 | 0.61 | +243.9 | PIayerhater, PhilLesh-, Wottr, mook, shea |
@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -89.7 | Conzor, Fishy, PIayerhater, PhilLesh-, shea |
 | 2026-07-15 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -7.4 | -HooT-, Conzor, PIayerhater, Wottr, shea |
 | 2026-05-22 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -139.6 | -HooT-, Conzor, PIayerhater, Wottr, mook |
-| 2026-05-15 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -288.2 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |
+| 2026-05-15 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -288.3 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |
 | 2026-05-14 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -187.6 | -HooT-, Conzor, Fishy, PIayerhater, Wottr |
 | 2026-05-08 | Ninjas In Boxer | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.00 | 0.00 | -174.0 | -HooT-, Conzor, Fishy, PIayerhater, PhilLesh- |
 | 2026-05-06 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +166.8 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |

@@ -26,10 +26,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-21 | Afterimage | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +108.6 | -TrayLor, Br4nd0n, ChiefLee333, cowssss, snesta4 |
 | 2026-10-16 | Will of Dih | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +47.0 | -TrayLor, Br4nd0n, ChiefLee333, Trunks999, snesta4 |
-| 2026-10-09 | O Fire | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -135.4 | -TrayLor, Br4nd0n, ChiefLee333, cowssss, snesta4 |
+| 2026-10-09 | O Fire | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -135.5 | -TrayLor, Br4nd0n, ChiefLee333, cowssss, snesta4 |
 | 2026-10-07 | brb grinding minecraft | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-09-18 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -30.6 | -TrayLor, ChiefLee333, KrissypeekxD, cowssss, snesta4 |
-| 2026-09-17 | Drip or Drown | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.14 | 0.98 | +65.5 | -TrayLor, ChiefLee333, KrissypeekxD, cowssss, snesta4 |
+| 2026-09-17 | Drip or Drown | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.14 | 0.97 | +65.5 | -TrayLor, ChiefLee333, KrissypeekxD, cowssss, snesta4 |
 | 2026-09-10 | Koi Pond | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.03 | 1.00 | 0.93 | 0.10 | 0.93 | +52.1 | ChiefLee333, Jacek-, KrissypeekxD, cowssss, snesta4 |
 | 2026-09-05 | makeSHIFT | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.00 | 0.00 | -31.9 | -TrayLor, ChiefLee333, Jacek-, KrissypeekxD, cowssss, snesta4 |
 | 2026-09-04 | Brick Squad | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.03 | 0.89 | +29.6 | -TrayLor, ChiefLee333, KrissypeekxD, cowssss, snesta4 |

@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Kevin James Fan Club | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -22.4 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-09-08 | D1NK Esports | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.10 | 0.88 | +73.2 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-09-06 | Anchors Anonymous | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.06 | 0.87 | +95.9 | MrOllie200, Rennerr, SirOdawg, destind2lose, piK |
-| 2026-09-02 | The Sweepers | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.00 | 0.00 | -74.9 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
+| 2026-09-02 | The Sweepers | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -75.0 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-08-28 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -13.9 | MrOllie200, Shoodyman, SirOdawg, destind2lose, piK |
 | 2026-08-26 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.09 | 0.80 | +63.5 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-08-19 | Aetheris | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.06 | 0.75 | +16.3 | MrOllie200, Shoodyman, SirOdawg, destind2lose, piK |

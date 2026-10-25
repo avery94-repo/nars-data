@@ -38,18 +38,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-18 | Conscious Gaming | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.75 | 1.46 | 1.00 | 1.09 | 0.00 | 0.00 | -21.6 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-14 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.10 | 1.05 | +32.3 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-13 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.71 | 1.46 | 1.00 | 1.04 | 0.00 | 0.00 | -2.4 | Calvin-, FlashET, Larryw1k, omoo, sveetea |
-| 2026-08-12 | North Forge | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.71 | 1.46 | 1.00 | 1.03 | 0.00 | 0.00 | -1.6 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-08-12 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.53 | 1.03 | +340.6 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-08-12 | North Forge | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.70 | 1.46 | 1.00 | 1.03 | 0.00 | 0.00 | -1.6 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-08-12 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.53 | 1.03 | +340.7 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-08-07 | Celestial Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.00 | 0.00 | -5.7 | FlashET, Larryw1k, emblem, sveetea, terrk1s |
-| 2026-08-05 | NXG Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.00 | 0.00 | -115.0 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-08-05 | NXG Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.00 | 0.00 | -115.1 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-07-31 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.47 | 1.00 | 0.92 | 0.00 | 0.00 | -116.5 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-07-29 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.47 | 1.00 | 0.90 | 0.00 | 0.00 | -200.3 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-07-23 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.57 | 1.47 | 1.00 | 0.84 | 0.10 | 0.84 | +319.3 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
-| 2026-07-15 | SOLA GAMING | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.47 | 1.00 | 0.76 | 0.00 | 0.00 | -319.8 | FlashET, Larryw1k, emblem, omoo, sveetea |
+| 2026-07-23 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.57 | 1.47 | 1.00 | 0.84 | 0.10 | 0.84 | +319.4 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
+| 2026-07-15 | SOLA GAMING | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.47 | 1.00 | 0.76 | 0.00 | 0.00 | -319.9 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-05-21 | firesale | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.15 | 1.37 | 1.00 | 0.21 | 0.02 | 0.21 | +245.7 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-05-19 | unreal nightmare | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.37 | 1.00 | 0.19 | 0.00 | 0.00 | -103.9 | FlashET, Larryw1k, TeaPotMan, omoo, sveetea |
 | 2026-05-12 | Imperium | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.37 | 1.00 | 0.13 | 0.00 | 0.13 | +79.9 | Calvin-, Larryw1k, TeaPotMan, omoo, sveetea |
-| 2026-05-07 | Demolition | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.37 | 1.00 | 0.08 | 0.00 | 0.00 | -328.7 | Calvin-, Larryw1k, emblem, omoo, sveetea |
+| 2026-05-07 | Demolition | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.37 | 1.00 | 0.08 | 0.00 | 0.00 | -328.8 | Calvin-, Larryw1k, emblem, omoo, sveetea |
 | 2026-05-06 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.37 | 1.00 | 0.07 | 0.01 | 0.07 | +266.4 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-04-30 | eefsports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.37 | 1.00 | 0.02 | 0.00 | 0.02 | +101.7 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-04-29 | Celestial Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.37 | 1.00 | 0.01 | 0.00 | 0.00 | -196.3 | FlashET, Larryw1k, emblem, omoo, sveetea |

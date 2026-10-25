@@ -3,11 +3,11 @@ Team Name: Phantom Sense
 Roster: depend, Timbis12, Lukasz, shiraz, cIoudy
 NARS Rank: 58 of 503
 
-Final Rating: 1865.8
+Final Rating: 1865.9
 Seeded Start: 1685.4
-H2H Adjustment: +180.4
+H2H Adjustment: +180.5
 
-Final Rating (1865.8) = Seeded Start (1685.4) + H2H Adjustment (+180.4)
+Final Rating (1865.9) = Seeded Start (1685.4) + H2H Adjustment (+180.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-12 | KODEX ESPORTS | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.28 | 0.00 | +10.6 | Lukasz, Nico1ajus, cIoudy, depend, shiraz |
 | 2026-10-10 | LAG Gaming | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.47 | 1.00 | 1.47 | 0.00 | 0.00 | -0.2 | Lurkk, Nico1ajus, cIoudy, depend, shiraz |
 | 2026-09-21 | NuTorious | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.97 | 1.56 | 1.00 | 1.52 | 0.00 | 0.00 | -16.1 | Lukasz, Timbis12, cIoudy, depend, shiraz |
-| 2026-09-14 | Chicken Coop | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.93 | 1.56 | 1.00 | 1.44 | 1.22 | 1.44 | +45.2 | Lukasz, Timbis12, cIoudy, depend, shiraz |
+| 2026-09-14 | Chicken Coop | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.93 | 1.56 | 1.00 | 1.44 | 1.22 | 1.44 | +45.3 | Lukasz, Timbis12, cIoudy, depend, shiraz |
 | 2026-09-14 | DETONATE | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.93 | 1.56 | 1.00 | 1.44 | 0.00 | 0.00 | -1.6 | Lukasz, Timbis12, cIoudy, depend, shiraz |
 | 2026-09-14 | DETONATE | L | 0-2 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 0.92 | 1.52 | 1.00 | 1.41 | 0.00 | 0.00 | -1.7 | Lukasz, Timbis12, cIoudy, depend, shiraz |
 | 2026-09-10 | North Forge | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.90 | 1.39 | 1.00 | 1.25 | 0.00 | 0.00 | -71.6 | Lukasz, Timbis12, cIoudy, depend, shiraz |

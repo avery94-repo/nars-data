@@ -3,11 +3,11 @@ Team Name: RejexEsports
 Roster: ChiefKoz2, Jaggrr, nalem-, FrogTheDog, Jermaine
 NARS Rank: 499 of 503
 
-Final Rating: 511.2
+Final Rating: 511.1
 Seeded Start: 1124.7
-H2H Adjustment: -613.5 (capped at +-300, raw -613.6)
+H2H Adjustment: -613.6
 
-Final Rating (511.2) = Seeded Start (1124.7) + H2H Adjustment (-613.5)
+Final Rating (511.1) = Seeded Start (1124.7) + H2H Adjustment (-613.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -37,12 +37,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | bubibabu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.00 | 0.00 | -139.7 | Jaggrr, Jermaine, dammahom, droot, nalem- |
 | 2026-05-31 | Kinetic | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.22 | 1.02 | 1.00 | 0.22 | 0.00 | 0.00 | -231.4 | ChiefKoz2, Jaggrr, Jermaine, m1k3y-, nalem- |
 | 2026-05-27 | Friendly Fire | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.19 | 1.02 | 1.00 | 0.20 | 0.00 | 0.00 | -1.9 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
-| 2026-05-22 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.02 | 0.16 | +315.2 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
+| 2026-05-22 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.02 | 0.16 | +315.3 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-20 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -181.6 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-15 | Schadenfreude | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -429.1 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-13 | Top One Percent | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +0.4 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-06 | NOVAIR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +63.1 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
-| 2026-05-01 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +218.7 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
-| 2026-04-29 | Abusement Park | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.01 | 0.00 | 0.01 | +318.8 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
+| 2026-05-01 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +218.8 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
+| 2026-04-29 | Abusement Park | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +318.8 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

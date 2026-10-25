@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Cortex Jellies | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +92.0 | 1ShEn, B1gboss-, BYKING_, _Kotomi, s1zz |
 | 2026-10-09 | GOMI dot CLUB | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-07 | on disability | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-09-18 | Biggie Cheese Fan Club | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.00 | 0.00 | -94.0 | BYKING_, CSGO-Quintus, Lochi, _Kotomi, s1zz |
+| 2026-09-18 | Biggie Cheese Fan Club | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.95 | 1.11 | 1.00 | 1.05 | 0.00 | 0.00 | -94.1 | BYKING_, CSGO-Quintus, Lochi, _Kotomi, s1zz |
 | 2026-09-06 | muntos minions | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.87 | 1.11 | 1.00 | 0.97 | 0.07 | 0.97 | +131.4 | B1gboss-, BYKING_, CSGO-Quintus, Lochi, _Kotomi |
 | 2026-09-04 | Mongolian Tractor | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.86 | 1.11 | 1.00 | 0.95 | 0.07 | 0.95 | +229.5 | B1gboss-, BYKING_, Lochi, _Kotomi, babyboii |
 

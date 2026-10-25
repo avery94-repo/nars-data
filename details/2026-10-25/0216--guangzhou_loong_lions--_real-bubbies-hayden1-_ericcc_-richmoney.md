@@ -29,10 +29,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Cream Team | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +148.1 | Maccce, _Ericcc_, _real, bubbIes, spencer--- |
 | 2026-10-09 | MEET THE WALL - DEAD | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-07 | Line Steppers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +183.1 | Maccce, _Ericcc_, _real, bubbIes, spencer--- |
-| 2026-09-10 | COGNITIVE | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.90 | 1.11 | 1.00 | 1.00 | 0.00 | 0.00 | -123.6 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
-| 2026-09-08 | LUMA | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.88 | 1.11 | 1.00 | 0.98 | 0.06 | 0.98 | +221.1 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
+| 2026-09-10 | COGNITIVE | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.90 | 1.11 | 1.00 | 0.99 | 0.00 | 0.00 | -123.6 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
+| 2026-09-08 | LUMA | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.88 | 1.11 | 1.00 | 0.98 | 0.06 | 0.98 | +221.2 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
 | 2026-09-04 | UncsStillGotIt | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.86 | 1.11 | 1.00 | 0.95 | 0.00 | 0.00 | -117.6 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
-| 2026-09-02 | SSP | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.85 | 1.11 | 1.00 | 0.94 | 0.03 | 0.94 | +268.1 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
+| 2026-09-02 | SSP | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.84 | 1.11 | 1.00 | 0.94 | 0.03 | 0.94 | +268.1 | Enzy_, _Ericcc_, _real, bubbIes, spencer--- |
 | 2026-06-03 | Puddle Pirates | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -229.3 | RichMoney45, _Ericcc_, _real, bubbIes, hayden1 |
 | 2026-05-29 | Sound of Arthritis | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -187.7 | RichMoney45, _Ericcc_, _real, bubbIes, hayden1 |
 

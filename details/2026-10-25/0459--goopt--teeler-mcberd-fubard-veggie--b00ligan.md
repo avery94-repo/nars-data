@@ -41,11 +41,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -32.2 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-17 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -0.1 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-07-15 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -25.0 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
-| 2026-05-22 | Mace Lindu Ruff Rebound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -375.2 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
+| 2026-05-22 | Mace Lindu Ruff Rebound | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -375.3 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
 | 2026-05-20 | Gambling and Young | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.15 | +136.8 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
-| 2026-05-13 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +172.3 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
+| 2026-05-13 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +172.4 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
 | 2026-05-08 | 929 Arrival Gang | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.00 | 0.00 | -20.6 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
 | 2026-05-06 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -189.4 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
-| 2026-04-29 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -204.2 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
+| 2026-04-29 | FLying PiGs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -204.3 | B00LIGAN, Jarts, Mcberd, fubard, rozay |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

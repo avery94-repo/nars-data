@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Asoka | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.87 | 1.06 | 1.00 | 0.92 | 0.00 | 0.00 | -64.1 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-09-04 | teamington | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.86 | 1.06 | 1.00 | 0.91 | 0.10 | 0.91 | +17.1 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-08-30 | Club 333 | L | W/O | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.83 | 1.31 | 1.00 | 1.09 | 0.00 | 0.00 | -19.8 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
-| 2026-08-27 | Omen Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.80 | 1.31 | 1.00 | 1.05 | 0.00 | 0.00 | -133.6 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
+| 2026-08-27 | Omen Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.80 | 1.31 | 1.00 | 1.05 | 0.00 | 0.00 | -133.7 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-26 | Asoka | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.16 | 0.83 | +53.0 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-20 | Desi Boyz | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.76 | 1.31 | 1.00 | 0.99 | 0.00 | 0.00 | -24.3 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-20 | my life be like | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.76 | 1.31 | 1.00 | 0.99 | 0.00 | 0.00 | -144.8 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
@@ -40,12 +40,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.04 | 1.00 | 0.74 | 0.00 | 0.00 | -14.5 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-13 | AURA Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.71 | 1.31 | 1.00 | 0.93 | 0.11 | 0.93 | +0.5 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-12 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.04 | 1.00 | 0.73 | 0.00 | 0.00 | -111.7 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
-| 2026-08-07 | SAFIR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.05 | 0.70 | +126.1 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
+| 2026-08-07 | SAFIR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.05 | 0.70 | +126.2 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-05 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.04 | 1.00 | 0.68 | 0.05 | 0.00 | +49.0 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-07-31 | Kairo | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.04 | 1.00 | 0.65 | 0.08 | 0.65 | +228.4 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-07-29 | Quality | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.04 | 1.00 | 0.63 | 0.04 | 0.63 | +139.8 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
-| 2026-07-24 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.04 | 1.00 | 0.60 | 0.04 | 0.60 | +104.0 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
-| 2026-07-22 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.04 | 0.59 | +220.3 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
+| 2026-07-24 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.04 | 1.00 | 0.60 | 0.04 | 0.60 | +104.1 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
+| 2026-07-22 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.04 | 1.00 | 0.59 | 0.04 | 0.59 | +220.4 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-07-17 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.04 | 1.00 | 0.55 | 0.02 | 0.55 | +267.7 | Hollo, KeWOZe, Margod, Zhenn, shoosT |
 | 2026-05-20 | DNA | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.00 | -298.2 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |
 | 2026-05-15 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.00 | 0.00 | -240.4 | 1NoVa, Hollo, KeWOZe, Philipek_, Zhenn |

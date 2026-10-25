@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | AML | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-09 | Dead Pixel | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +45.6 | -bray, Frost_Champ, JAQe, mirari, webzz_ |
 | 2026-10-07 | Afterimage | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-09-10 | Sodium | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.90 | 1.11 | 1.00 | 1.00 | 0.00 | 0.00 | -106.2 | -bray, Frost_Champ, Saucetinz, mirari, webzz_ |
+| 2026-09-10 | Sodium | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.90 | 1.11 | 1.00 | 1.00 | 0.00 | 0.00 | -106.3 | -bray, Frost_Champ, Saucetinz, mirari, webzz_ |
 | 2026-09-06 | Biggie Cheese Fan Club | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.87 | 1.11 | 1.00 | 0.97 | 0.00 | 0.00 | -83.5 | -bray, Frost_Champ, JAQe, mirari, webzz_ |
 | 2026-09-04 | The High Crew | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.86 | 1.11 | 1.00 | 0.95 | 0.03 | 0.95 | +223.4 | -bray, Frost_Champ, JAQe, mirari, webzz_ |
 

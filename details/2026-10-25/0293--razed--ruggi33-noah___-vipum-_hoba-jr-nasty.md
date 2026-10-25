@@ -26,8 +26,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-10 | DingTone | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -148.7 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
 | 2026-09-04 | Sable | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.04 | 0.86 | +105.4 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
-| 2026-09-02 | Uncs United | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.03 | 0.85 | +158.1 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
-| 2026-05-22 | 2THRiLL | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.00 | -386.3 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
+| 2026-09-02 | Uncs United | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +158.1 | Noah___, Vipum, _Hoba, jR-NASTY, oRiaKu |
+| 2026-05-22 | 2THRiLL | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.00 | -386.4 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-20 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.01 | 0.16 | +43.2 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-15 | 3 Feet Of Meat | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.12 | 1.00 | 0.13 | 0.00 | 0.13 | +0.3 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |
 | 2026-05-08 | shirtcockin | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.12 | 1.00 | 0.07 | 0.00 | 0.07 | +225.6 | Noah___, _Hoba, beanNess, jR-NASTY, ruggi33 |

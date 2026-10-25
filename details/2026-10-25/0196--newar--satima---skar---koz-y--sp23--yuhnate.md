@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-09 | LXIX | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +78.3 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-09-04 | VORA | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.03 | 0.86 | +94.5 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-09-02 | Pixel Click | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +46.8 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
-| 2026-06-05 | Northern District | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -135.8 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
+| 2026-06-05 | Northern District | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -135.9 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-05-29 | purple reign | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.20 | +185.3 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-05-27 | We Bad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +181.4 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 

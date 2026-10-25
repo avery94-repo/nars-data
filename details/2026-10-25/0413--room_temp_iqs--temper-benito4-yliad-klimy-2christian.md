@@ -24,17 +24,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-14 | counterstrike Team | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.00 | 0.00 | -83.6 | Benito4, TeMPeR, klimy, unknown10110, yLiaD |
+| 2026-08-14 | counterstrike Team | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.47 | 1.00 | 1.05 | 0.00 | 0.00 | -83.7 | Benito4, TeMPeR, klimy, unknown10110, yLiaD |
 | 2026-08-12 | Team Hyper | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.47 | 1.00 | 1.03 | 0.00 | 0.00 | -191.9 | Benito4, TOP50RIFLER, klimy, unknown10110, yLiaD |
 | 2026-08-07 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.47 | 1.00 | 0.98 | 0.59 | 0.98 | +137.4 | Benito4, enN, klimy, unknown10110, yLiaD |
 | 2026-08-05 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.47 | 1.00 | 0.96 | 0.00 | 0.00 | -0.6 | Benito4, enN, klimy, unknown10110, yLiaD |
-| 2026-07-31 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.47 | 1.00 | 0.92 | 0.09 | 0.92 | +341.1 | Benito4, RhyDaR, klimy, unknown10110, yLiaD |
+| 2026-07-31 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.47 | 1.00 | 0.91 | 0.09 | 0.91 | +341.1 | Benito4, RhyDaR, klimy, unknown10110, yLiaD |
 | 2026-07-29 | Axial | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.47 | 1.00 | 0.90 | 0.00 | 0.00 | -0.0 | Benito4, RhyDaR, klimy, unknown10110, yLiaD |
-| 2026-07-22 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.00 | 0.00 | -154.1 | Benito4, TeMPeR, klimy, unknown10110, yLiaD |
-| 2026-07-15 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.47 | 1.00 | 0.76 | 0.00 | 0.00 | -378.4 | Benito4, TOP50RIFLER, TeMPeR, unknown10110, yLiaD |
+| 2026-07-22 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.00 | 0.00 | -154.2 | Benito4, TeMPeR, klimy, unknown10110, yLiaD |
+| 2026-07-15 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.47 | 1.00 | 0.76 | 0.00 | 0.00 | -378.5 | Benito4, TOP50RIFLER, TeMPeR, unknown10110, yLiaD |
 | 2026-05-21 | GRIT | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.15 | 1.37 | 1.00 | 0.21 | 0.02 | 0.21 | +417.5 | Benito4, TeMPeR, klimy, unknown10110, yLiaD |
 | 2026-05-19 | Omen Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.14 | 1.37 | 1.00 | 0.19 | 0.00 | 0.00 | -0.4 | Benito4, Storm-X, TeMPeR, klimy, unknown10110 |
-| 2026-05-14 | girl kissers | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.37 | 1.00 | 0.14 | 0.00 | 0.14 | +202.1 | 1Code, Benito4, Storm-X, TeMPeR, klimy |
+| 2026-05-14 | girl kissers | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.37 | 1.00 | 0.14 | 0.00 | 0.14 | +202.2 | 1Code, Benito4, Storm-X, TeMPeR, klimy |
 | 2026-05-12 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.37 | 1.00 | 0.12 | 0.00 | 0.00 | -140.3 | 1Code, Benito4, Storm-X, TeMPeR, klimy |
 | 2026-05-07 | Celestial Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.37 | 1.00 | 0.08 | 0.00 | 0.00 | -0.2 | Benito4, TeMPeR, klimy, unknown10110, yLiaD |
 | 2026-05-05 | Holy Squid Empire | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.37 | 1.00 | 0.06 | 0.00 | 0.00 | -39.9 | Benito4, Storm-X, TeMPeR, klimy, unknown10110 |

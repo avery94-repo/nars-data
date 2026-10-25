@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-16 | Over 30 | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -100.9 | Pufflezao, kbk1337, pprpl_pngn, sebzy, st3viray |
-| 2026-09-11 | Beam Tinky | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.03 | 0.91 | +68.9 | Pufflezao, Rubix, kbk1337, sebzy, st3viray |
+| 2026-09-11 | Beam Tinky | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.03 | 0.90 | +68.9 | Pufflezao, Rubix, kbk1337, sebzy, st3viray |
 | 2026-09-09 | BD Lamron | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +120.4 | Pufflezao, Rubix, kbk1337, sebzy, st3viray |
 | 2026-09-04 | The Old Folks | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.03 | 0.86 | +95.8 | Pufflezao, Rubix, kbk1337, pprpl_pngn, sebzy, st3viray |
 | 2026-09-02 | Escalate | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.03 | 0.85 | +63.5 | Pufflezao, kbk1337, pprpl_pngn, sebzy, st3viray |

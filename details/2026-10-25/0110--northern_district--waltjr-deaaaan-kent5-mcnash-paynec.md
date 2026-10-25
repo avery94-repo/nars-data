@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-10 | Evade Gaming | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.00 | -137.7 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
 | 2026-06-05 | NEWAR | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.01 | 0.25 | +134.3 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
-| 2026-06-03 | Reckless Palms | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.24 | +224.9 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
+| 2026-06-03 | Reckless Palms | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.24 | +225.0 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
 | 2026-05-28 | BIG | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.01 | 0.20 | +127.5 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
 | 2026-05-27 | 3Dolla | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +207.5 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
 

@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | Torii | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -136.6 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-09-06 | Kings Gambit | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.09 | 0.87 | +1.9 | ArcQ, Rynex, florecio, kimycia, on_experienc |
-| 2026-09-04 | offBalance | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -156.5 | ABLojKa, Rynex, florecio, kimycia, on_experienc |
+| 2026-09-04 | offBalance | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -156.6 | ABLojKa, Rynex, florecio, kimycia, on_experienc |
 | 2026-09-02 | Moniseum | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +0.1 | ABLojKa, Rynex, florecio, kimycia, on_experienc |
 | 2026-08-26 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.12 | 0.80 | +14.9 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-08-21 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -117.9 | ABLojKa, ArcQ, florecio, kimycia, on_experienc |
@@ -36,10 +36,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-11 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -98.3 | -kuwaka, ArcQ, florecio, kimycia, on_experienc |
 | 2026-08-05 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.08 | 0.66 | +81.2 | ArcQ, Frezz, Rynex, florecio, on_experienc |
 | 2026-07-31 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.09 | 0.62 | +128.1 | ArcQ, Rynex, florecio, kimycia, on_experienc |
-| 2026-07-29 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.06 | 0.61 | +121.1 | ArcQ, Rynex, florecio, kimycia, on_experienc |
+| 2026-07-29 | Torii | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.06 | 0.61 | +121.2 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-07-24 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.07 | 0.58 | +42.6 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-07-17 | on disability | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.02 | 0.53 | +64.0 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-07-15 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.04 | 0.52 | +316.7 | ArcQ, Rynex, florecio, kimycia, on_experienc |
-| 2026-05-27 | bubibabu | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.19 | 1.06 | 1.00 | 0.20 | 0.00 | 0.00 | -225.0 | ArcQ, Rynex, florecio, kimycia, on_experienc |
+| 2026-05-27 | bubibabu | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.19 | 1.06 | 1.00 | 0.20 | 0.00 | 0.00 | -225.1 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

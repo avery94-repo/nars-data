@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: dogwater
 Roster: HI_IM_TOM, Sykess, JesseP_, Tailz, Cyynn
-NARS Rank: 393 of 503
+NARS Rank: 394 of 503
 
-Final Rating: 1070.4
+Final Rating: 1070.3
 Seeded Start: 1269.0
-H2H Adjustment: -198.6
+H2H Adjustment: -198.7
 
-Final Rating (1070.4) = Seeded Start (1269.0) + H2H Adjustment (-198.6)
+Final Rating (1070.3) = Seeded Start (1269.0) + H2H Adjustment (-198.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -62.0 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-07-29 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.02 | 0.61 | +36.3 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-07-22 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.06 | 0.56 | +199.4 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-05-22 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.01 | 0.16 | +276.0 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-05-22 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.01 | 0.16 | +276.1 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-20 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.15 | 0.00 | 0.00 | -162.5 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-15 | Team Deathgrip | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -228.7 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-13 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -4.7 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |

@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | WhiteBoyWinter | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -130.3 | NRKcs, hammerhog, hammerhouse, hammerwammer, maxie |
 | 2026-10-09 | FlockMunchers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +74.9 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 | 2026-10-07 | RH Help Desk | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +64.5 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
-| 2026-09-17 | Fire Nation | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -69.6 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
+| 2026-09-17 | Fire Nation | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.00 | 0.00 | -69.6 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 | 2026-09-15 | WhiteBoyWinter | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.03 | 1.00 | 0.96 | 0.07 | 0.96 | +83.4 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 | 2026-09-08 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.03 | 1.00 | 0.91 | 0.00 | 0.00 | -36.3 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 | 2026-09-04 | mokey mokey | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.03 | 1.00 | 0.89 | 0.06 | 0.89 | +121.8 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |

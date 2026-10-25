@@ -4,14 +4,14 @@ Roster: -runi, gamble, -Dodge-, picky, yuush1
 NARS Rank: 32 of 503
 
 Final Rating: 2005.4
-Seeded Start: 1753.7
-H2H Adjustment: +251.7
+Seeded Start: 1753.6
+H2H Adjustment: +251.8
 
-Final Rating (2005.4) = Seeded Start (1753.7) + H2H Adjustment (+251.7)
+Final Rating (2005.4) = Seeded Start (1753.6) + H2H Adjustment (+251.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.467 x 1400 = 1753.7
+                = 1100 + 0.467 x 1400 = 1753.6
 
 seed_factor 0.467 = 0.25 x Tier Exposure (0.397) + 0.50 x Quality Wins (0.323) + 0.25 x Opponent Network (0.825)
 

@@ -24,8 +24,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.37 | 1.00 | 0.22 | 0.00 | 0.22 | +142.2 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
-| 2026-05-12 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.37 | 1.00 | 0.12 | 0.02 | 0.12 | +172.3 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
+| 2026-05-22 | Once Divine Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.16 | 1.37 | 1.00 | 0.22 | 0.00 | 0.22 | +142.3 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
+| 2026-05-12 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.37 | 1.00 | 0.12 | 0.02 | 0.12 | +172.4 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
 | 2026-05-08 | Asian Invasion | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.37 | 1.00 | 0.09 | 0.00 | 0.09 | +403.9 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
 | 2026-04-30 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.37 | 1.00 | 0.02 | 0.00 | 0.00 | -0.0 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |
 | 2026-04-30 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.37 | 1.00 | 0.02 | 0.00 | 0.00 | -101.7 | LiLScoop_, Zichael, peppa, sh1tlord5, wafffle |

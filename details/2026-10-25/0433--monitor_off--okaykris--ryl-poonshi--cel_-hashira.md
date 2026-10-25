@@ -31,15 +31,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.06 | 0.81 | +109.8 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-08-26 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -13.5 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-08-14 | EZ2025 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -80.5 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
-| 2026-08-07 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -105.0 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
+| 2026-08-07 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -105.1 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-07-31 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.02 | 0.62 | +145.7 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-07-24 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -29.7 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi, crazed |
 | 2026-07-22 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -190.3 | -RYL, -cel_, HASHIRA, OkayKris, crazed |
 | 2026-07-17 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -0.7 | -RYL, -cel_, AMSmooth, HASHIRA, OkayKris |
 | 2026-07-15 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -141.5 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
-| 2026-05-27 | strawberry poptarts | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -177.5 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
+| 2026-05-27 | strawberry poptarts | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -177.6 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 | 2026-05-22 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -208.6 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
-| 2026-05-08 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +3.3 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
+| 2026-05-08 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +3.3 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 | 2026-05-01 | Dynasty | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +399.6 | -RYL, -cel_, AMSmooth, BananaFishCS, OkayKris |
 | 2026-04-29 | Bad Jawn | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | -194.6 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 

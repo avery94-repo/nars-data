@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-21 | Adria eSports | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -119.1 | -DacS-, LoneStarrr, Tr1ck, dirtydan, fatguy, ronin7 |
+| 2026-10-21 | Adria eSports | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -119.2 | -DacS-, LoneStarrr, Tr1ck, dirtydan, fatguy, ronin7 |
 | 2026-10-14 | Black Dragon Society | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +135.7 | -DacS-, RavensBOSS, Tr1ck, dirtydan, ronin7 |
 | 2026-10-14 | Veniversum | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -147.6 | -DacS-, RavensBOSS, Tr1ck, dirtydan, ronin7 |
 | 2026-10-09 | Samantha 4 | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +93.8 | -DacS-, RavensBOSS, Tr1ck, dirtydan, ronin7 |

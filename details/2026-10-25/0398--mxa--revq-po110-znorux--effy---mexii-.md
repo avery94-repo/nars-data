@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Pugging4Pumpkin | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.16 | 1.12 | 1.00 | 0.18 | 0.00 | 0.00 | -12.7 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-05-20 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.15 | 1.12 | 1.00 | 0.16 | 0.00 | 0.00 | -276.3 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-05-20 | PROFECO | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.14 | 1.12 | 1.00 | 0.16 | 0.00 | 0.00 | -276.3 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-13 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.12 | 1.00 | 0.11 | 0.00 | 0.00 | -297.3 | -Mexii-, -effy-, Revq, Znorux, po110 |
-| 2026-05-12 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.12 | 1.00 | 0.10 | 0.01 | 0.10 | +201.6 | -Mexii-, -effy-, Revq, Znorux, po110 |
+| 2026-05-12 | DingTone | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.12 | 1.00 | 0.10 | 0.01 | 0.10 | +201.7 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-05-01 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.12 | 1.00 | 0.02 | 0.00 | 0.02 | +6.8 | -Mexii-, -effy-, Revq, Znorux, po110 |
 | 2026-04-29 | Chopped | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.12 | 1.00 | 0.01 | 0.00 | 0.01 | +336.9 | -Mexii-, -effy-, Revq, Znorux, po110 |
 

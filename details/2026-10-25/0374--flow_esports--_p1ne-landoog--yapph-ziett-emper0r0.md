@@ -44,8 +44,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.02 | 0.56 | +21.8 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
 | 2026-07-17 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.05 | 0.53 | +275.3 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
 | 2026-07-15 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -396.3 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
-| 2026-06-10 | Slime Time | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +192.3 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-06-10 | Slime Time | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.28 | 1.00 | 1.00 | 0.28 | 0.00 | 0.28 | +192.4 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 | 2026-05-29 | D1NK Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -190.6 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
-| 2026-05-27 | hachimi | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +132.7 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-05-27 | hachimi | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +132.8 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 
 _Snapshot 2026-10-25 | NARS v2 | CC BY-SA 4.0_

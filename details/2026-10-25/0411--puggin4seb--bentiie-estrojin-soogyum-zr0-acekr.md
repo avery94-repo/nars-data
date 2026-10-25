@@ -3,11 +3,11 @@ Team Name: puggin4seb
 Roster: BentIie, estrojin, soogyum, zr0, acekr
 NARS Rank: 411 of 503
 
-Final Rating: 1040.3
+Final Rating: 1040.2
 Seeded Start: 1307.7
-H2H Adjustment: -267.4
+H2H Adjustment: -267.5
 
-Final Rating (1040.3) = Seeded Start (1307.7) + H2H Adjustment (-267.4)
+Final Rating (1040.2) = Seeded Start (1307.7) + H2H Adjustment (-267.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,9 +30,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Fortis Fortuna Adiuvat | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -18.8 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-10-07 | 1NT | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -36.5 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-08-28 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.81 | 1.04 | 1.00 | 0.84 | 0.10 | 0.84 | +76.1 | BentIie, MOD8sf, acekr, estrojin, zr0 |
-| 2026-08-26 | Tractors | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.00 | 0.00 | -62.9 | BentIie, acekr, estrojin, soogyum, zr0 |
+| 2026-08-26 | Tractors | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.00 | 0.00 | -63.0 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-08-21 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.04 | 1.00 | 0.79 | 0.06 | 0.79 | +77.3 | BentIie, MOD8sf, acekr, estrojin, zr0 |
-| 2026-08-19 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.03 | 0.78 | +137.4 | BentIie, acekr, estrojin, soogyum, zr0 |
+| 2026-08-19 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.03 | 0.78 | +137.5 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-08-14 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.04 | 1.00 | 0.74 | 0.00 | 0.00 | -112.3 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-08-12 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.04 | 1.00 | 0.73 | 0.00 | 0.00 | -74.0 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-08-07 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.70 | 0.00 | 0.00 | -44.4 | BentIie, MOD8sf, acekr, estrojin, zr0 |

@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-07 | Overtake Sector | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.46 | 1.60 | 1.00 | 0.74 | 0.00 | 0.00 | -66.5 | core 3/5 |
 | 2026-07-02 | regain | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.43 | 1.60 | 1.00 | 0.69 | 0.00 | 0.00 | -12.7 | core 3/5 |
-| 2026-06-29 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.41 | 1.60 | 1.00 | 0.66 | 0.07 | 0.66 | +266.7 | core 3/5 |
+| 2026-06-29 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.41 | 1.60 | 1.00 | 0.66 | 0.07 | 0.66 | +266.8 | core 3/5 |
 | 2026-06-12 | OMEN | L |  | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.00 | 0.00 | -224.5 | core 3/5 |
 | 2026-06-07 | Club 333 | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.27 | 1.52 | 1.00 | 0.40 | 0.00 | 0.00 | -3.0 | 1bright, Interrobang, atyla, kvalme, soulsurvivor |
 | 2026-06-06 | Club 333 | L | 0-2 | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.41 | 0.00 | 0.00 | -3.3 | core 3/5 |

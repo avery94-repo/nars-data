@@ -3,11 +3,11 @@ Team Name: Marsborne
 Roster: Grizzleey, WUMBO1, ogwizard, freshie, nicx
 NARS Rank: 6 of 503
 
-Final Rating: 2629.2
+Final Rating: 2629.3
 Seeded Start: 2475.8
-H2H Adjustment: +153.4
+H2H Adjustment: +153.5
 
-Final Rating (2629.2) = Seeded Start (2475.8) + H2H Adjustment (+153.4)
+Final Rating (2629.3) = Seeded Start (2475.8) + H2H Adjustment (+153.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -50,9 +50,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | regain | W | 2-0 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.91 | 1.60 | 1.00 | 1.46 | 1.18 | 0.00 | +14.9 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-09-11 | Olympus | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.90 | 1.56 | 1.00 | 1.41 | 0.86 | 1.41 | +44.5 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-09-11 | Without a Roof | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 0.00 | 0.00 | -76.3 | core 3/5 |
-| 2026-09-10 | Without a Roof | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.90 | 1.60 | 1.00 | 1.45 | 0.00 | 0.00 | -183.2 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
+| 2026-09-10 | Without a Roof | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.90 | 1.60 | 1.00 | 1.45 | 0.00 | 0.00 | -183.3 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-09-10 | Holy Squid Empire | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.90 | 1.56 | 1.00 | 1.40 | 0.23 | 1.40 | +0.5 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
-| 2026-09-10 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 0.00 | 0.00 | -73.4 | core 3/5 |
+| 2026-09-10 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 0.00 | 0.00 | -73.3 | core 3/5 |
 | 2026-09-10 | Olympus | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.44 | 0.88 | 0.00 | +0.9 | core 3/5 |
 | 2026-09-09 | Chicken Coop | W |  | VRS-tracked 2026-09 | A | vrs | 0.89 | 1.60 | 1.00 | 1.43 | 1.21 | 0.00 | +0.2 | core 3/5 |
 | 2026-09-06 | SportsBetExpert | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.88 | 1.60 | 1.00 | 1.40 | 0.00 | 0.00 | -78.2 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
@@ -73,7 +73,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Chicken Coop | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.81 | 1.60 | 1.00 | 1.30 | 1.10 | 1.30 | +1.0 | core 3/5 |
 | 2026-08-26 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.80 | 1.47 | 1.00 | 1.17 | 1.17 | 1.17 | +3.2 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-08-26 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.80 | 1.60 | 1.00 | 1.28 | 0.83 | 0.00 | +2.9 | core 3/5 |
-| 2026-08-25 | Elusive | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.79 | 1.60 | 1.00 | 1.26 | 0.58 | 0.00 | +0.1 | core 3/5 |
+| 2026-08-25 | Elusive | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.79 | 1.60 | 1.00 | 1.26 | 0.57 | 0.00 | +0.1 | core 3/5 |
 | 2026-08-21 | LAG Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.47 | 1.00 | 1.12 | 1.11 | 1.12 | +71.4 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-08-19 | Elusive | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.47 | 1.00 | 1.10 | 0.50 | 1.10 | +1.0 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-08-18 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.47 | 1.00 | 1.10 | 0.89 | 1.10 | +15.7 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
@@ -92,7 +92,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | counterstrike Team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.47 | 1.00 | 0.83 | 0.19 | 0.83 | +0.0 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-07-15 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.47 | 1.00 | 0.76 | 0.04 | 0.76 | +21.3 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-07-09 | regain | L | 1-2 | VRS-tracked 2026-07 | A | vrs | 0.48 | 1.60 | 1.00 | 0.76 | 0.00 | 0.00 | -324.5 | core 3/5 |
-| 2026-06-14 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.50 | 0.32 | 0.50 | +63.4 | core 3/5 |
+| 2026-06-14 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.50 | 0.32 | 0.50 | +63.5 | core 3/5 |
 | 2026-06-13 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.49 | 0.05 | 0.49 | +23.4 | core 3/5 |
 | 2026-06-12 | Overtake Sector | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.48 | 0.00 | +15.8 | core 3/5 |
 | 2026-06-11 | NuTorious | W |  | VRS-tracked 2026-06 | A | vrs | 0.29 | 1.60 | 1.00 | 0.47 | 0.39 | 0.47 | +0.4 | core 3/5 |

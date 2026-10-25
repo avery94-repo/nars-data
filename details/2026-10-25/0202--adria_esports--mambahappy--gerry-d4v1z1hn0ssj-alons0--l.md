@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | RH Help Desk | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +112.0 | -Gerry, Alons0-, D4V1Z1HN0SSJ, FLIXfps, MambaHAPPY |
 | 2026-10-07 | FlockMunchers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -111.6 | -Gerry, Alons0-, D4V1Z1HN0SSJ, FLIXfps, MambaHAPPY |
 | 2026-09-10 | GOBLINS | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.03 | 1.00 | 0.93 | 0.00 | 0.00 | -77.3 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY |
-| 2026-09-08 | STALLOONS BALLOONS | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.03 | 1.00 | 0.91 | 0.08 | 0.91 | +140.7 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY |
+| 2026-09-08 | STALLOONS BALLOONS | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.03 | 1.00 | 0.91 | 0.08 | 0.91 | +140.7 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY |
 | 2026-09-06 | WhiteWASHED | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.03 | 1.00 | 0.90 | 0.03 | 0.90 | +147.9 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY |
 | 2026-09-02 | drunk cigs dont count | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.85 | 1.03 | 1.00 | 0.87 | 0.00 | 0.00 | -161.9 | -Gerry, Alons0-, D4V1Z1HN0SSJ, LOBOSO_R, MambaHAPPY, iameet |
 

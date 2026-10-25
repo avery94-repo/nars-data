@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Muncle | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.08 | 1.02 | +2.5 | Astrophysiic, Skips, kevinw0w, raayyy, samuel |
 | 2026-10-09 | Adria eSports | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -108.4 | Astrophysiic, Skips, V1RuS, kevinw0w, raayyy, samuel |
 | 2026-10-07 | Black Dragon Society | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -64.6 | Astrophysiic, Skips, kevinw0w, raayyy, samuel |
-| 2026-09-15 | TOP SHELF WHIFFERS | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -120.1 | Astrophysiic, Pewster, V1RuS, kevinw0w, raayyy |
+| 2026-09-15 | TOP SHELF WHIFFERS | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.00 | 0.00 | -120.2 | Astrophysiic, Pewster, V1RuS, kevinw0w, raayyy |
 | 2026-09-08 | Arnes Wit Attitudes | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.88 | 1.11 | 1.00 | 0.98 | 0.00 | 0.00 | -122.4 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
 | 2026-09-06 | Defaulting | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.87 | 1.11 | 1.00 | 0.97 | 0.07 | 0.97 | +139.3 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
 | 2026-09-04 | Purple Reign | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.86 | 1.11 | 1.00 | 0.95 | 0.03 | 0.95 | +201.1 | Astrophysiic, Pewster, Skips, kevinw0w, raayyy |
