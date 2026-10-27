@@ -1,5 +1,16 @@
 [
  {
+  "match_id": "hltv:2399740",
+  "date": "2026-10-26",
+  "competition": "PGL Masters Bucharest 2026",
+  "team_a": "Liquid",
+  "team_b": "Legacy",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
   "match_id": "hltv:2399728",
   "date": "2026-10-25",
   "competition": "PGL Masters Bucharest 2026",
@@ -423,6 +434,17 @@
   "competition": "S59 NA Intermediate A - Regular Season",
   "team_a": "Adria eSports",
   "team_b": "WhiteBoyWinter",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-44e51f49-8c19-40d1-b0a4-1802c21de1cb",
+  "date": "2026-10-21",
+  "competition": "S59 NA Main A - Regular Season",
+  "team_a": "Crimson Vortex",
+  "team_b": "Shaboing Boing Bandits",
   "winner": "a",
   "score": "1-0",
   "tier": "C",
@@ -5940,6 +5962,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "1-62cb9367-689d-482f-9c26-4e1d60c2cfcf",
+  "date": "2026-10-07",
+  "competition": "S59 NA Main A - Regular Season",
+  "team_a": "Saltcrew",
+  "team_b": "Crimson Vortex",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-634b24d6-ebd1-44c4-a3ba-3f9b725f53d9",
   "date": "2026-10-07",
   "competition": "S59 NA Advanced Central - Regular Season",
@@ -6842,17 +6875,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-zetta-2026-09-28-mibr fe-L",
-  "date": "2026-09-28",
-  "competition": "VRS-tracked 2026-09",
-  "team_a": "Zetta",
-  "team_b": "MIBR FE",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "1-20a8bd5c-4ec9-492d-ab6d-40a66e20f0e4",
   "date": "2026-09-27",
   "competition": "NA Revival",
@@ -7128,17 +7150,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-zetta-2026-09-26-your end-W",
-  "date": "2026-09-26",
-  "competition": "VRS-tracked 2026-09",
-  "team_a": "Zetta",
-  "team_b": "YOUR END",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "1-559f18ce-afbd-4d0a-b729-1ca4d242b25d",
   "date": "2026-09-25",
   "competition": "CROSSFIRE Season 6 - Playoffs",
@@ -7403,17 +7414,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-zetta-2026-09-24-meia noite-L",
-  "date": "2026-09-24",
-  "competition": "VRS-tracked 2026-09",
-  "team_a": "Zetta",
-  "team_b": "MEIA NOITE",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-club 333-2026-09-23-zomblers-W",
   "date": "2026-09-23",
   "competition": "VRS-tracked 2026-09",
@@ -7630,17 +7630,6 @@
   "team_b": "New Legends",
   "winner": "a",
   "score": "2-0",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-zetta-2026-09-22-bestia academy-L",
-  "date": "2026-09-22",
-  "competition": "VRS-tracked 2026-09",
-  "team_a": "Zetta",
-  "team_b": "BESTIA ACADEMY",
-  "winner": "b",
-  "score": "",
   "tier": "A",
   "source": "vrs"
  },
@@ -16603,7 +16592,7 @@
   "date": "2026-09-04",
   "competition": "VRS-tracked 2026-09",
   "team_a": "Without a Roof",
-  "team_b": "CELESTIAL",
+  "team_b": "Celestial",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -19723,17 +19712,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-zetta-2026-08-31-damajuana-L",
-  "date": "2026-08-31",
-  "competition": "VRS-tracked 2026-08",
-  "team_a": "Zetta",
-  "team_b": "DAMAJUANA",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "1-2edc6fc4-a021-4573-a9d5-b687901d5718",
   "date": "2026-08-30",
   "competition": "S58 NA Advanced Central - Regular Season",
@@ -20115,17 +20093,6 @@
   "team_b": "Wanted Goons",
   "winner": "a",
   "score": "1-0",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-zetta-2026-08-29-procyon-L",
-  "date": "2026-08-29",
-  "competition": "VRS-tracked 2026-08",
-  "team_a": "Zetta",
-  "team_b": "PROCYON",
-  "winner": "b",
-  "score": "",
   "tier": "A",
   "source": "vrs"
  },
@@ -23305,28 +23272,6 @@
   "team_b": "FarmVille",
   "winner": "a",
   "score": "2-0",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-zetta-2026-08-26-bestia academy-L",
-  "date": "2026-08-26",
-  "competition": "VRS-tracked 2026-08",
-  "team_a": "Zetta",
-  "team_b": "BESTIA ACADEMY",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-zetta-2026-08-26-pugdesonesto-W",
-  "date": "2026-08-26",
-  "competition": "VRS-tracked 2026-08",
-  "team_a": "Zetta",
-  "team_b": "PUGDESONESTO",
-  "winner": "a",
-  "score": "",
   "tier": "A",
   "source": "vrs"
  },
@@ -40315,17 +40260,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "1-1fb60013-6e55-40a3-8d30-5650ce6f2be0",
-  "date": "2026-07-17",
-  "competition": "S58 NA Intermediate A - Regular Season",
-  "team_a": "Sound of Arthritis",
-  "team_b": "MakeYouSayLate",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
   "match_id": "1-215f3d39-fe3e-4ade-b02d-2a58c889b30c",
   "date": "2026-07-17",
   "competition": "S58 NA Main B - Regular Season",
@@ -43080,7 +43014,7 @@
   "date": "2026-07-12",
   "competition": "VRS-tracked 2026-07",
   "team_a": "Villainous",
-  "team_b": "CELESTIAL",
+  "team_b": "Celestial",
   "winner": "a",
   "score": "",
   "tier": "A",
@@ -47718,17 +47652,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "1-47691faa-0ad3-4f8e-b1b5-c87c063e6657",
-  "date": "2026-05-29",
-  "competition": "S57 NA Open1-8 Central - Playoffs",
-  "team_a": "Orbit",
-  "team_b": "TeddyBearBunch",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
   "match_id": "1-4a8e998f-01a3-4ed6-97ed-0ae8fa86bdf2",
   "date": "2026-05-29",
   "competition": "S57 NA Open1-8 Central - Playoffs",
@@ -49034,17 +48957,6 @@
   "team_b": "The Third Eye",
   "winner": "b",
   "score": "0-2",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-1f9ffdf2-dc08-47b9-8559-0196a2df9756",
-  "date": "2026-05-27",
-  "competition": "S57 NA Open1-8 Central - Playoffs",
-  "team_a": "TeddyBearBunch",
-  "team_b": "Unquenchable",
-  "winner": "a",
-  "score": "2-1",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -56892,6 +56804,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "vrs-2026-10-05-fisher college-2026-05-11-the huns-L",
+  "date": "2026-05-11",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Fisher College",
+  "team_b": "The Huns",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
   "match_id": "vrs-2026-10-05-liquid-2026-05-11-astralis-L",
   "date": "2026-05-11",
   "competition": "VRS-tracked 2026-05",
@@ -56921,6 +56844,17 @@
   "team_b": "FUT",
   "winner": "b",
   "score": "0-2",
+  "tier": "A",
+  "source": "vrs"
+ },
+ {
+  "match_id": "vrs-2026-10-05-fisher college-2026-05-10-parivision-L",
+  "date": "2026-05-10",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Fisher College",
+  "team_b": "PARIVISION",
+  "winner": "b",
+  "score": "",
   "tier": "A",
   "source": "vrs"
  },
@@ -58199,6 +58133,17 @@
   "score": "1-0",
   "tier": "C",
   "source": "faceit-league"
+ },
+ {
+  "match_id": "vrs-2026-10-05-fisher college-2026-05-08-g2-L",
+  "date": "2026-05-08",
+  "competition": "VRS-tracked 2026-05",
+  "team_a": "Fisher College",
+  "team_b": "G2",
+  "winner": "b",
+  "score": "",
+  "tier": "A",
+  "source": "vrs"
  },
  {
   "match_id": "1-0268f0c4-19d4-424c-9fe4-aa6ad9ff1dad",
@@ -59884,17 +59829,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "vrs-2026-10-05-zetta-2026-05-04-damajuana-L",
-  "date": "2026-05-04",
-  "competition": "VRS-tracked 2026-05",
-  "team_a": "Zetta",
-  "team_b": "DAMAJUANA",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "vrs-2026-10-05-m80-2026-05-03-wildcard-W",
   "date": "2026-05-03",
   "competition": "VRS-tracked 2026-05",
@@ -59978,17 +59912,6 @@
   "team_a": "Voca",
   "team_b": "Zomblers",
   "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-zetta-2026-05-02-isurus-L",
-  "date": "2026-05-02",
-  "competition": "VRS-tracked 2026-05",
-  "team_a": "Zetta",
-  "team_b": "ISURUS",
-  "winner": "b",
   "score": "",
   "tier": "A",
   "source": "vrs"
@@ -61198,424 +61121,6 @@
   "competition": "VRS-tracked 2026-05",
   "team_a": "Wildcard",
   "team_b": "Voca",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-zetta-2026-05-01-uno mille-L",
-  "date": "2026-05-01",
-  "competition": "VRS-tracked 2026-05",
-  "team_a": "Zetta",
-  "team_b": "UNO MILLE",
-  "winner": "b",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "1-0b79f274-a324-443b-9410-d53becfafe8c",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Once Divine Gaming",
-  "team_b": "Baatarz",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-0c7ff55f-c831-458a-973d-cbfdd5415c92",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "773Revival",
-  "team_b": "penazoid",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-0fac5344-bd1e-43c1-80c5-80e457841845",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "SOLA GAMING",
-  "team_b": "Addice",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-26557ebf-522e-420a-b540-9af56c001012",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "Crimson Vortex",
-  "team_b": "Gregs New Cut",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-40c3e3f9-b28b-4cbf-88af-26f81e40ef3f",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "Down To Frag",
-  "team_b": "ALL IN",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-4ebfa66d-3750-4e8c-8114-31b651a43147",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "eefsports",
-  "team_b": "Holly Molly",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-53f98850-0224-4534-a33f-560bff7a2d86",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "Temple of Swing",
-  "team_b": "RAZED",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-547bfbbb-77a5-4d32-8f33-14587399dbf5",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "DESPAIR",
-  "team_b": "three11",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-559c1bb6-073e-4d09-ba3a-6ee862f56182",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "Fathom Gaming",
-  "team_b": "Skyline",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-5b5766b3-b656-4103-a58d-2d05432eb293",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "eefsports",
-  "team_b": "Iowa Stormboar",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-5ca75626-961c-46ba-b667-89d44688e0e5",
-  "date": "2026-04-30",
-  "competition": "S57 NA Intermediate Central - Regular Season",
-  "team_a": "Distinguished Ducks",
-  "team_b": "katzwitgunz",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-60f409d9-2dfc-4bd4-9274-e55542020a10",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Phantom Sense",
-  "team_b": "Holy Squid Empire",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-6395094b-35d6-4da5-8212-8056dde4a508",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "UnitedStatesArmy Esports",
-  "team_b": "iNSTINCT",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-7d916161-3693-4830-85be-45225e237820",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Asian Invasion",
-  "team_b": "counterstrike Team",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-804d8c32-0b7d-4cb6-ad08-6882815593b4",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "Squeegee",
-  "team_b": "ASYCS KITTENS",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-97efb794-7349-4cff-be42-770508cd510a",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Shadow Wizard Money Gang",
-  "team_b": "NYX",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-9d0870ca-6173-426a-a583-d44e944701ed",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "5Frag Gaming",
-  "team_b": "Team Team Name",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-a4df66e9-d990-4c23-ac7c-248f6f5fcfc5",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Wanted Goons",
-  "team_b": "Brahmas",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-a502c8aa-9ad7-4cec-a440-f2622503ca1f",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Room Temp IQs",
-  "team_b": "Elisir Esports",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-a516a801-9e0e-4143-98c7-558dbf044d87",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "NuTorious",
-  "team_b": "Club 333",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-b09d8a23-f17a-4d16-ad38-27c179637088",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Imperium",
-  "team_b": "LAG Gaming",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-b509d285-ae5a-4525-940e-7ced2e968c5c",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Demolition",
-  "team_b": "KODEX ESPORTS",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-d45ccd45-841e-439f-bc26-4cf24c05ab3d",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Omen Esports",
-  "team_b": "North Forge",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-d6cc68c2-5893-4810-946c-2f8e34d0246b",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "girl kissers",
-  "team_b": "Celestial Esports",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-d6fa57fa-3373-4be4-82dd-fd9349f932bb",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Villainous",
-  "team_b": "skebob",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-d85d4746-b4ff-4baf-aa92-fd171c96a4de",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Axial",
-  "team_b": "Pug Palace",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-dbe79bc2-5edf-49bb-9584-15da786cb131",
-  "date": "2026-04-30",
-  "competition": "S57 NA Intermediate Central - Regular Season",
-  "team_a": "MINDTRIP",
-  "team_b": "Les Ptis Jus",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-eb06090d-5c81-47d9-805f-b3154b2ea239",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "Shadow Wizard Money Gang",
-  "team_b": "027fam",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-ef3c1ba8-5b5e-43af-af0a-5b418e6d9b1b",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "SquadUp",
-  "team_b": "HUMA",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-f33f08c2-05b9-4388-84d2-b8bba46ea863",
-  "date": "2026-04-30",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "Crimson Vortex",
-  "team_b": "Dude Picks",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-fae5dfc5-88f3-48a0-be7f-086d4918ca65",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Iowa Stormboar",
-  "team_b": "EMPIRE",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-fe612a43-f094-4fff-8a59-abadaf1a8248",
-  "date": "2026-04-30",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "EMPIRE",
-  "team_b": "Xiaoma Gaming",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-ff9442c6-20ee-4620-9e61-65e9a6e7d0a3",
-  "date": "2026-04-30",
-  "competition": "S57 NA Intermediate Central - Regular Season",
-  "team_a": "in for Blood",
-  "team_b": "High T Low E",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "vrs-2026-10-05-incognito-2026-04-30-girl kissers-W",
-  "date": "2026-04-30",
-  "competition": "VRS-tracked 2026-04",
-  "team_a": "Incognito",
-  "team_b": "girl kissers",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-regain-2026-04-30-farmville-W",
-  "date": "2026-04-30",
-  "competition": "VRS-tracked 2026-04",
-  "team_a": "regain",
-  "team_b": "FarmVille",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-shimmer-2026-04-30-farmville-L",
-  "date": "2026-04-30",
-  "competition": "VRS-tracked 2026-04",
-  "team_a": "Shimmer",
-  "team_b": "FarmVille",
-  "winner": "b",
-  "score": "0-2",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-zomblers-2026-04-30-fisher college-W",
-  "date": "2026-04-30",
-  "competition": "VRS-tracked 2026-04",
-  "team_a": "Zomblers",
-  "team_b": "FISHER COLLEGE",
   "winner": "a",
   "score": "",
   "tier": "A",
