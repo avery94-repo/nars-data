@@ -1,19 +1,19 @@
 ### Roster Details
 Team Name: Kings Gambit
 Roster: tonyballoni, sodreamX, rockstaraL, musashi---, casanova2005
-NARS Rank: 89 of 498
+NARS Rank: 89 of 500
 
-Final Rating: 1728.8
-Seeded Start: 1381.3
-H2H Adjustment: +347.5
+Final Rating: 1729.7
+Seeded Start: 1381.5
+H2H Adjustment: +348.2 (capped at +-300, raw +348.3)
 
-Final Rating (1728.8) = Seeded Start (1381.3) + H2H Adjustment (+347.5)
+Final Rating (1729.7) = Seeded Start (1381.5) + H2H Adjustment (+348.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.201 x 1400 = 1381.3
+                = 1100 + 0.201 x 1400 = 1381.5
 
-seed_factor 0.201 = 0.25 x Tier Exposure (0.102) + 0.50 x Quality Wins (0.055) + 0.25 x Opponent Network (0.591)
+seed_factor 0.201 = 0.25 x Tier Exposure (0.102) + 0.50 x Quality Wins (0.055) + 0.25 x Opponent Network (0.592)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,28 +24,28 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-21 | No Future Lifes Over | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +139.3 | Somalian_Orc, casanova2005, rockstaraL, sodreamX, tonyballoni |
+| 2026-10-21 | No Future Lifes Over | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +139.9 | Somalian_Orc, casanova2005, rockstaraL, sodreamX, tonyballoni |
 | 2026-10-16 | YHTR | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.14 | 1.02 | +49.9 | Somalian_Orc, musashi---, rockstaraL, sodreamX, tonyballoni |
 | 2026-10-14 | Chopped | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +74.4 | Somalian_Orc, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-10-09 | GeneticDiff | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -92.7 | Somalian_Orc, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-10-07 | noname | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +276.3 | Somalian_Orc, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-10-09 | GeneticDiff | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -92.9 | Somalian_Orc, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-10-07 | noname | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +276.6 | Somalian_Orc, musashi---, rockstaraL, sodreamX, tonyballoni |
 | 2026-09-06 | Void | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -2.1 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-09-04 | MakeYouSayLate | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.09 | 0.85 | +61.3 | Somalian_Orc, crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-09-02 | MadaNASCAR | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -51.3 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-08-28 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -106.2 | Somalian_Orc, crazypooper7, musashi---, rockstaraL, sodreamX |
-| 2026-08-26 | Goyim Gladiators | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.08 | 0.78 | +73.9 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-08-21 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.12 | 0.75 | +117.9 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-08-18 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -99.5 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-08-14 | Moniseum | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +80.3 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-08-12 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.05 | 0.69 | +139.4 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-08-07 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.02 | 0.66 | +134.6 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-08-05 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -261.4 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-07-31 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +24.1 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-07-29 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +43.3 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-07-24 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +45.0 | casanova2005, crazypooper7, musashi---, rockstaraL, tonyballoni |
-| 2026-07-17 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -125.0 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-07-15 | Solbound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.50 | 0.00 | 0.00 | -415.5 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-05-29 | Sable | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +165.1 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
-| 2026-05-27 | Made in Abergavenny | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.18 | +76.5 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-09-04 | MakeYouSayLate | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.09 | 0.84 | +61.5 | Somalian_Orc, crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-09-02 | MadaNASCAR | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -51.5 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-08-28 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -106.7 | Somalian_Orc, crazypooper7, musashi---, rockstaraL, sodreamX |
+| 2026-08-26 | Goyim Gladiators | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.08 | 0.78 | +74.0 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-08-21 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.12 | 0.75 | +118.2 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-08-18 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -99.9 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-08-14 | Moniseum | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +80.4 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-08-12 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.05 | 0.69 | +139.9 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-08-07 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.02 | 0.66 | +134.9 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-08-05 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -261.9 | crazypooper7, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-07-31 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +24.4 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-07-29 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.05 | 0.60 | +43.1 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-07-24 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +45.3 | casanova2005, crazypooper7, musashi---, rockstaraL, tonyballoni |
+| 2026-07-17 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -125.3 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-07-15 | Solbound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.50 | 0.00 | 0.00 | -415.8 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-05-29 | Sable | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +165.4 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
+| 2026-05-27 | Made in Abergavenny | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.18 | +76.4 | casanova2005, musashi---, rockstaraL, sodreamX, tonyballoni |
 
 _Snapshot 2026-10-27 | NARS v2 | CC BY-SA 4.0_

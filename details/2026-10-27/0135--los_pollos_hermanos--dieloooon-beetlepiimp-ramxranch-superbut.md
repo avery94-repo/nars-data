@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: Los Pollos Hermanos
 Roster: dieloooon, BeetlePiimp, RamxRanch, SuperButt, cawfee
-NARS Rank: 135 of 498
+NARS Rank: 135 of 500
 
-Final Rating: 1612.3
+Final Rating: 1612.7
 Seeded Start: 1207.4
-H2H Adjustment: +404.9
+H2H Adjustment: +405.3 (capped at +-300, raw +405.4)
 
-Final Rating (1612.3) = Seeded Start (1207.4) + H2H Adjustment (+404.9)
+Final Rating (1612.7) = Seeded Start (1207.4) + H2H Adjustment (+405.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-18 | Whiff City | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -97.1 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
-| 2026-09-16 | Wuff Widas | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.08 | 0.92 | +121.0 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
-| 2026-09-11 | Juiced Up | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +131.5 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
-| 2026-09-09 | TriangleTraders | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.03 | 0.88 | +176.7 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
-| 2026-09-04 | Booday | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +333.7 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
-| 2026-05-27 | House Platypus | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -260.7 | BeetlePiimp, Piggy67, RamxRanch, Rob--, cawfee, dieloooon |
+| 2026-09-18 | Whiff City | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -97.3 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
+| 2026-09-16 | Wuff Widas | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.08 | 0.92 | +121.2 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
+| 2026-09-11 | Juiced Up | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.89 | 1.00 | 1.00 | 0.89 | 0.03 | 0.89 | +131.7 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
+| 2026-09-09 | TriangleTraders | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.03 | 0.88 | +176.9 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
+| 2026-09-04 | Booday | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +333.9 | BeetlePiimp, RamxRanch, SuperButt, cawfee, dieloooon |
+| 2026-05-27 | House Platypus | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -261.0 | BeetlePiimp, Piggy67, RamxRanch, Rob--, cawfee, dieloooon |
 
 _Snapshot 2026-10-27 | NARS v2 | CC BY-SA 4.0_
