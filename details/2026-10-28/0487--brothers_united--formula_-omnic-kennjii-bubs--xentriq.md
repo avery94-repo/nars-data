@@ -3,15 +3,15 @@ Team Name: Brothers United
 Roster: forMula_, Omnic, kenNjii, bubs-, XentriQ
 NARS Rank: 487 of 494
 
-Final Rating: 634.8
-Seeded Start: 1129.2
-H2H Adjustment: -494.4
+Final Rating: 634.4
+Seeded Start: 1129.1
+H2H Adjustment: -494.7
 
-Final Rating (634.8) = Seeded Start (1129.2) + H2H Adjustment (-494.4)
+Final Rating (634.4) = Seeded Start (1129.1) + H2H Adjustment (-494.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.021 x 1400 = 1129.2
+                = 1100 + 0.021 x 1400 = 1129.1
 
 seed_factor 0.021 = 0.25 x Tier Exposure (0.026) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.050)
 
@@ -25,14 +25,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-29 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -87.2 | -DavidTK-, Spearmint, XentriQ, bubs-, kenNjii |
-| 2026-07-24 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -264.1 | A1den, Omnic, XentriQ, bubs-, kenNjii |
+| 2026-07-24 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -264.3 | A1den, Omnic, XentriQ, bubs-, kenNjii |
 | 2026-07-22 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.05 | 0.54 | +133.4 | A1den, Omnic, XentriQ, bubs-, kenNjii |
 | 2026-07-20 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -103.7 | A1den, Omnic, XentriQ, bubs-, kenNjii |
-| 2026-07-15 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.50 | 0.00 | 0.00 | -342.0 | -DavidTK-, Omnic, XentriQ, forMula_, kenNjii |
-| 2026-05-22 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +397.4 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
-| 2026-05-15 | de_throne | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -247.7 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
-| 2026-05-13 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -166.1 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
-| 2026-05-08 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +354.6 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
-| 2026-05-05 | 929 Arrival Gang | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -169.1 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
+| 2026-07-15 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.50 | 0.00 | 0.00 | -342.2 | -DavidTK-, Omnic, XentriQ, forMula_, kenNjii |
+| 2026-05-22 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.14 | +397.7 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
+| 2026-05-15 | de_throne | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -247.9 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
+| 2026-05-13 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -166.3 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
+| 2026-05-08 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +354.8 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
+| 2026-05-05 | 929 Arrival Gang | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -169.2 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 
 _Snapshot 2026-10-28 | NARS v2 | CC BY-SA 4.0_

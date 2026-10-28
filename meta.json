@@ -1,7 +1,7 @@
 {
  "schema_version": 2,
- "snapshot": "2026-10-28T10:20:33.635206+00:00",
- "exported_at": "2026-10-28T10:21:06Z",
+ "snapshot": "2026-10-28T13:12:22.017944+00:00",
+ "exported_at": "2026-10-28T13:12:52Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
  "matches_qualifying": 5496,
@@ -14,7 +14,7 @@
   "vrs": 400
  },
  "teams_ranked": 494,
- "teams_provisional": 414,
+ "teams_provisional": 412,
  "bridge_offset": 1478.0,
  "growth_data": {
   "file": "growth.json",

@@ -3,11 +3,11 @@ Team Name: We Have No Enemies
 Roster: MicrowaveB, Ecelic, Str8Lein, TERMATNATOR, Bmack
 NARS Rank: 409 of 494
 
-Final Rating: 1035.1
+Final Rating: 1035.0
 Seeded Start: 1141.2
-H2H Adjustment: -106.1
+H2H Adjustment: -106.2
 
-Final Rating (1035.1) = Seeded Start (1141.2) + H2H Adjustment (-106.1)
+Final Rating (1035.0) = Seeded Start (1141.2) + H2H Adjustment (-106.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-04 | Bobs Discount Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.87 | 0.03 | 0.87 | +176.0 | Bmack, Ecelic, Eggman-, KzN, Showyy |
+| 2026-09-04 | Bobs Discount Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.87 | 0.03 | 0.87 | +176.1 | Bmack, Ecelic, Eggman-, KzN, Showyy |
 | 2026-09-02 | Hello Huzz | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.86 | 0.00 | 0.00 | -127.0 | Bmack, Ecelic, KzN, Showyy, Str8Lein |
-| 2026-06-03 | Sable | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -200.1 | Bmack, Ecelic, MicrowaveB, Str8Lein, TERMATNATOR |
-| 2026-06-02 | Smuckers | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.01 | 0.21 | +162.0 | Bmack, Ecelic, MicrowaveB, Str8Lein, TERMATNATOR |
-| 2026-05-27 | ABG Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.00 | 0.00 | -116.9 | -Stzy-, Bmack, Ecelic, Eggman-, Str8Lein |
+| 2026-06-03 | Sable | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -200.2 | Bmack, Ecelic, MicrowaveB, Str8Lein, TERMATNATOR |
+| 2026-06-02 | Smuckers | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.01 | 0.21 | +162.1 | Bmack, Ecelic, MicrowaveB, Str8Lein, TERMATNATOR |
+| 2026-05-27 | ABG Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.00 | 0.00 | -117.0 | -Stzy-, Bmack, Ecelic, Eggman-, Str8Lein |
 
 _Snapshot 2026-10-28 | NARS v2 | CC BY-SA 4.0_

@@ -3,17 +3,17 @@ Team Name: Liquid
 Roster: NAF, EliGE, malbsMd, Jorko, JT
 NARS Rank: 2 of 494
 
-Final Rating: 3014.7
-Seeded Start: 2236.7
-H2H Adjustment: +778.0
+Final Rating: 3014.8
+Seeded Start: 2236.6
+H2H Adjustment: +778.2 (capped at +-300, raw +778.1)
 
-Final Rating (3014.7) = Seeded Start (2236.7) + H2H Adjustment (+778.0)
+Final Rating (3014.8) = Seeded Start (2236.6) + H2H Adjustment (+778.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.812 x 1400 = 2236.7
+                = 1100 + 0.812 x 1400 = 2236.6
 
-seed_factor 0.812 = 0.25 x Tier Exposure (0.708) + 0.50 x Quality Wins (1.000) + 0.25 x Opponent Network (0.540)
+seed_factor 0.812 = 0.25 x Tier Exposure (0.708) + 0.50 x Quality Wins (1.000) + 0.25 x Opponent Network (0.539)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -28,45 +28,45 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-26 | Legacy | W | 2-0 | PGL Masters Bucharest 2026 | A | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 2.40 | 0.00 | +74.1 | core 3/5 |
 | 2026-10-25 | FUT | L | 0-2 | PGL Masters Bucharest 2026 | A | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -13.7 | core 3/5 |
 | 2026-10-24 | MOUZ | W | 2-1 | PGL Masters Bucharest 2026 | A | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 2.40 | 0.00 | +79.9 | core 3/5 |
-| 2026-10-20 | magic | L | 0-2 | 1win Private Club Season 2 | B | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -38.6 | core 3/5 |
+| 2026-10-20 | magic | L | 0-2 | 1win Private Club Season 2 | B | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -38.7 | core 3/5 |
 | 2026-10-19 | fnatic | L | 0-2 | 1win Private Club Season 2 | B | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 0.00 | 0.00 | -59.5 | core 3/5 |
 | 2026-10-16 | Ninjas in Pyjamas | L | 1-2 | Stake Pulse Beat III | B | hltv | 1.00 | 1.60 | 1.10 | 1.60 | 0.00 | 0.00 | -57.1 | core 3/5 |
 | 2026-10-13 | BBL | W | 2-1 | Stake Pulse Beat III | B | hltv | 1.00 | 1.60 | 1.10 | 1.60 | 2.64 | 0.00 | +40.0 | core 3/5 |
 | 2026-10-13 | JiJieHao | W | 2-0 | Stake Pulse Beat III | B | hltv | 1.00 | 1.60 | 1.10 | 1.60 | 2.64 | 0.00 | +38.3 | core 3/5 |
-| 2026-10-13 | 100 Thieves | L | 1-2 | Stake Pulse Beat III | B | hltv | 1.00 | 1.60 | 1.10 | 1.60 | 0.00 | 0.00 | -83.9 | core 3/5 |
+| 2026-10-13 | 100 Thieves | L | 1-2 | Stake Pulse Beat III | B | hltv | 1.00 | 1.60 | 1.10 | 1.60 | 0.00 | 0.00 | -84.0 | core 3/5 |
 | 2026-09-27 | Wildcard | W |  | VRS-tracked 2026-09 | A | vrs | 0.99 | 1.60 | 1.00 | 1.58 | 0.96 | 1.58 | +29.7 | core 3/5 |
 | 2026-09-26 | M80 | W |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.57 | 0.94 | 0.00 | +42.3 | core 3/5 |
 | 2026-09-25 | Chicken Coop | W |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.56 | 1.40 | 1.56 | +0.0 | core 3/5 |
 | 2026-09-25 | NRG | W |  | VRS-tracked 2026-09 | A | vrs | 0.98 | 1.60 | 1.00 | 1.56 | 0.91 | 0.00 | +66.4 | core 3/5 |
 | 2026-09-18 | 3DMAX | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 2.23 | 0.00 | +54.8 | core 3/5 |
-| 2026-09-18 | BBL | L |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 0.00 | 0.00 | -135.6 | core 3/5 |
-| 2026-09-18 | EYEBALLERS | L |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 0.00 | 0.00 | -108.5 | core 3/5 |
+| 2026-09-18 | BBL | L |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 0.00 | 0.00 | -135.7 | core 3/5 |
+| 2026-09-18 | EYEBALLERS | L |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 0.00 | 0.00 | -108.6 | core 3/5 |
 | 2026-09-18 | INFINITE | W |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 2.23 | 0.00 | +31.1 | core 3/5 |
 | 2026-09-18 | INNER CIRCLE | L |  | VRS-tracked 2026-09 | A | vrs | 0.93 | 1.60 | 1.00 | 1.49 | 0.00 | 0.00 | -50.7 | core 3/5 |
 | 2026-09-12 | NRG | W |  | VRS-tracked 2026-09 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 0.83 | 1.42 | +159.6 | core 3/5 |
 | 2026-09-12 | Voca | W |  | VRS-tracked 2026-09 | A | vrs | 0.89 | 1.60 | 1.00 | 1.42 | 1.00 | 1.42 | +52.0 | core 3/5 |
 | 2026-09-11 | NRG | L |  | VRS-tracked 2026-09 | A | vrs | 0.88 | 1.60 | 1.00 | 1.41 | 0.00 | 0.00 | -114.3 | core 3/5 |
-| 2026-09-10 | Marsborne | W |  | VRS-tracked 2026-09 | A | vrs | 0.88 | 1.60 | 1.00 | 1.40 | 1.40 | 1.40 | +58.0 | core 3/5 |
+| 2026-09-10 | Marsborne | W |  | VRS-tracked 2026-09 | A | vrs | 0.88 | 1.60 | 1.00 | 1.40 | 1.40 | 1.40 | +58.4 | core 3/5 |
 | 2026-09-09 | ANTIVALUE | W |  | VRS-tracked 2026-09 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 1.04 | 0.00 | +0.1 | core 3/5 |
-| 2026-08-09 | 1WIN | L |  | VRS-tracked 2026-08 | A | vrs | 0.66 | 1.60 | 1.00 | 1.06 | 0.00 | 0.00 | -167.8 | core 3/5 |
+| 2026-08-09 | 1WIN | L |  | VRS-tracked 2026-08 | A | vrs | 0.66 | 1.60 | 1.00 | 1.06 | 0.00 | 0.00 | -167.9 | core 3/5 |
 | 2026-08-08 | METIZPORT | W |  | VRS-tracked 2026-08 | A | vrs | 0.66 | 1.60 | 1.00 | 1.05 | 1.58 | 0.00 | +11.8 | core 3/5 |
 | 2026-08-07 | DHALA | W |  | VRS-tracked 2026-08 | A | vrs | 0.65 | 1.60 | 1.00 | 1.04 | 0.78 | 0.00 | +0.0 | core 3/5 |
-| 2026-08-05 | BETCLIC | L |  | VRS-tracked 2026-08 | A | vrs | 0.64 | 1.60 | 1.00 | 1.02 | 0.00 | 0.00 | -286.6 | core 3/5 |
-| 2026-08-05 | fnatic | W |  | VRS-tracked 2026-08 | A | vrs | 0.64 | 1.60 | 1.00 | 1.02 | 1.53 | 0.00 | +74.2 | core 3/5 |
+| 2026-08-05 | BETCLIC | L |  | VRS-tracked 2026-08 | A | vrs | 0.64 | 1.60 | 1.00 | 1.02 | 0.00 | 0.00 | -286.8 | core 3/5 |
+| 2026-08-05 | fnatic | W |  | VRS-tracked 2026-08 | A | vrs | 0.64 | 1.60 | 1.00 | 1.02 | 1.53 | 0.00 | +74.3 | core 3/5 |
 | 2026-08-04 | 9INE | W |  | VRS-tracked 2026-08 | A | vrs | 0.63 | 1.60 | 1.00 | 1.01 | 1.40 | 0.00 | +0.3 | core 3/5 |
 | 2026-08-01 | ATPUTIES | W |  | VRS-tracked 2026-08 | A | vrs | 0.61 | 1.60 | 1.00 | 0.98 | 0.68 | 0.00 | +0.0 | core 3/5 |
-| 2026-08-01 | BETCLIC | W |  | VRS-tracked 2026-08 | A | vrs | 0.61 | 1.60 | 1.00 | 0.98 | 1.47 | 0.00 | +2.9 | core 3/5 |
+| 2026-08-01 | BETCLIC | W |  | VRS-tracked 2026-08 | A | vrs | 0.61 | 1.60 | 1.00 | 0.98 | 1.46 | 0.00 | +2.9 | core 3/5 |
 | 2026-08-01 | HAVENS | W |  | VRS-tracked 2026-08 | A | vrs | 0.61 | 1.60 | 1.00 | 0.98 | 0.65 | 0.00 | +0.0 | core 3/5 |
-| 2026-07-30 | Spirit | L |  | VRS-tracked 2026-07 | A | vrs | 0.60 | 1.60 | 1.00 | 0.96 | 0.00 | 0.00 | -155.0 | core 3/5 |
-| 2026-07-25 | G2 | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.90 | 1.35 | 0.00 | +308.1 | core 3/5 |
-| 2026-07-24 | Vitality | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.89 | 1.34 | 0.00 | +639.3 | core 3/5 |
-| 2026-06-05 | FlyQuest | L |  | VRS-tracked 2026-06 | A | vrs | 0.23 | 1.60 | 1.00 | 0.37 | 0.00 | 0.00 | -486.4 | core 3/5 |
-| 2026-06-04 | HEROIC | W |  | VRS-tracked 2026-06 | A | vrs | 0.22 | 1.60 | 1.00 | 0.36 | 0.54 | 0.00 | +519.3 | core 3/5 |
+| 2026-07-30 | Spirit | L |  | VRS-tracked 2026-07 | A | vrs | 0.60 | 1.60 | 1.00 | 0.95 | 0.00 | 0.00 | -155.2 | core 3/5 |
+| 2026-07-25 | G2 | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.90 | 1.35 | 0.00 | +308.5 | core 3/5 |
+| 2026-07-24 | Vitality | W |  | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.89 | 1.34 | 0.00 | +639.4 | core 3/5 |
+| 2026-06-05 | FlyQuest | L |  | VRS-tracked 2026-06 | A | vrs | 0.23 | 1.60 | 1.00 | 0.37 | 0.00 | 0.00 | -487.4 | core 3/5 |
+| 2026-06-04 | HEROIC | W |  | VRS-tracked 2026-06 | A | vrs | 0.22 | 1.60 | 1.00 | 0.36 | 0.54 | 0.00 | +520.2 | core 3/5 |
 | 2026-06-03 | MIBR | L |  | VRS-tracked 2026-06 | A | vrs | 0.22 | 1.60 | 1.00 | 0.35 | 0.00 | 0.00 | -33.5 | core 3/5 |
 | 2026-06-02 | BETBOOM | L |  | VRS-tracked 2026-06 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.00 | 0.00 | -40.2 | core 3/5 |
 | 2026-06-02 | BIG | W |  | VRS-tracked 2026-06 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.01 | 0.34 | +0.0 | core 3/5 |
-| 2026-05-21 | THE MONGOLZ | L |  | VRS-tracked 2026-05 | A | vrs | 0.13 | 1.60 | 1.00 | 0.21 | 0.00 | 0.00 | -442.9 | core 3/5 |
-| 2026-05-20 | 3DMAX | W |  | VRS-tracked 2026-05 | A | vrs | 0.12 | 1.60 | 1.00 | 0.20 | 0.30 | 0.00 | +575.8 | core 3/5 |
+| 2026-05-21 | THE MONGOLZ | L |  | VRS-tracked 2026-05 | A | vrs | 0.13 | 1.60 | 1.00 | 0.21 | 0.00 | 0.00 | -443.7 | core 3/5 |
+| 2026-05-20 | 3DMAX | W |  | VRS-tracked 2026-05 | A | vrs | 0.12 | 1.60 | 1.00 | 0.20 | 0.30 | 0.00 | +576.3 | core 3/5 |
 | 2026-05-19 | PARIVISION | L |  | VRS-tracked 2026-05 | A | vrs | 0.12 | 1.60 | 1.00 | 0.19 | 0.00 | 0.00 | -48.7 | core 3/5 |
 | 2026-05-13 | GAMERLEGION | L |  | VRS-tracked 2026-05 | A | vrs | 0.08 | 1.60 | 1.00 | 0.12 | 0.00 | 0.00 | -70.7 | core 3/5 |
 | 2026-05-12 | M80 | W |  | VRS-tracked 2026-05 | A | vrs | 0.07 | 1.60 | 1.00 | 0.11 | 0.07 | 0.11 | +341.3 | core 3/5 |

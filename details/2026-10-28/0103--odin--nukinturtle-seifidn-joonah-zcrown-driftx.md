@@ -3,11 +3,11 @@ Team Name: ODIN
 Roster: NukinTURTLe, seifidn, joonah, zcrown, DriftXII
 NARS Rank: 103 of 494
 
-Final Rating: 1678.1
+Final Rating: 1678.3
 Seeded Start: 1323.1
-H2H Adjustment: +355.0
+H2H Adjustment: +355.2
 
-Final Rating (1678.1) = Seeded Start (1323.1) + H2H Adjustment (+355.0)
+Final Rating (1678.3) = Seeded Start (1323.1) + H2H Adjustment (+355.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,19 +24,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-26 | fih hou | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -82.4 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
+| 2026-10-26 | fih hou | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -82.5 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 | 2026-10-21 | Casual Mature Gamers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +72.7 | DriftXII, NukinTURTLe, ofclAtomik, seifidn, zcrown |
 | 2026-10-16 | Green Grove Retirement | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-14 | HIGHPOINT | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-09 | de_throne | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-07 | Mace Lindu Ruff Rebound | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +1.9 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
-| 2026-09-19 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -64.7 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
+| 2026-09-19 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -64.8 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 | 2026-09-17 | For Fun Gamers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.95 | 0.03 | 0.95 | +69.0 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
-| 2026-09-15 | Alternate Earth | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.91 | 1.02 | 1.00 | 0.93 | 0.06 | 0.93 | +62.2 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
-| 2026-09-12 | APEX | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.06 | 0.91 | +99.0 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
+| 2026-09-15 | Alternate Earth | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.91 | 1.02 | 1.00 | 0.93 | 0.06 | 0.93 | +62.3 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
+| 2026-09-12 | APEX | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.06 | 0.91 | +99.1 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 | 2026-09-10 | Mud Wizards | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.90 | 0.06 | 0.90 | +19.3 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
-| 2026-09-06 | babaG | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.85 | 1.02 | 1.00 | 0.87 | 0.00 | 0.00 | -1.5 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
-| 2026-09-04 | Crab Rangooners | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.86 | 0.03 | 0.86 | +163.1 | DriftXII, NukinTURTLe, joonah, ofclAtomik, seifidn |
+| 2026-09-06 | babaG | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.85 | 1.02 | 1.00 | 0.87 | 0.00 | 0.00 | -1.4 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
+| 2026-09-04 | Crab Rangooners | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.86 | 0.03 | 0.86 | +163.2 | DriftXII, NukinTURTLe, joonah, ofclAtomik, seifidn |
 | 2026-09-02 | Pixel Peek | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.03 | 0.84 | +11.9 | DriftXII, NukinTURTLe, joonah, seifidn, zcrown |
 
 _Snapshot 2026-10-28 | NARS v2 | CC BY-SA 4.0_

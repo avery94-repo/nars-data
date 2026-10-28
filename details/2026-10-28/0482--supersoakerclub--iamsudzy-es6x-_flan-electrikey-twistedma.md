@@ -3,11 +3,11 @@ Team Name: SuperSoakerClub
 Roster: IamSudzy, Es6x, _flan, Electrikey, TwistedMango
 NARS Rank: 482 of 494
 
-Final Rating: 687.2
+Final Rating: 686.6
 Seeded Start: 1104.2
-H2H Adjustment: -417.0
+H2H Adjustment: -417.6
 
-Final Rating (687.2) = Seeded Start (1104.2) + H2H Adjustment (-417.0)
+Final Rating (686.6) = Seeded Start (1104.2) + H2H Adjustment (-417.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -288.0 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
-| 2026-05-20 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.13 | 0.00 | 0.00 | -273.7 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
-| 2026-05-15 | 929 Arrival Gang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +424.5 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-22 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.14 | 1.01 | 1.00 | 0.14 | 0.00 | 0.00 | -288.5 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-20 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -273.9 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-15 | 929 Arrival Gang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +424.7 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-05-13 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.00 | 0.00 | -23.5 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 | 2026-05-08 | NATIONAL CS UNI | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -24.8 | Es6x, IamSudzy, TwistedMango, _flan, warpN |
-| 2026-05-06 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -231.5 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-06 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -231.6 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
 
 _Snapshot 2026-10-28 | NARS v2 | CC BY-SA 4.0_

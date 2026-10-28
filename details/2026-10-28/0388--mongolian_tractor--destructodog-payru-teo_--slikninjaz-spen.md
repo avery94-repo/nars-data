@@ -3,15 +3,15 @@ Team Name: Mongolian Tractor
 Roster: DestructoDog, Payru, Teo_-, SlikNinjaZ, Spence
 NARS Rank: 388 of 494
 
-Final Rating: 1078.1
-Seeded Start: 1197.0
-H2H Adjustment: -118.9
+Final Rating: 1078.3
+Seeded Start: 1196.9
+H2H Adjustment: -118.6
 
-Final Rating (1078.1) = Seeded Start (1197.0) + H2H Adjustment (-118.9)
+Final Rating (1078.3) = Seeded Start (1196.9) + H2H Adjustment (-118.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.069 x 1400 = 1197.0
+                = 1100 + 0.069 x 1400 = 1196.9
 
 seed_factor 0.069 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.194)
 
@@ -25,13 +25,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-21 | Bad Jawn | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -4.3 | Payru, SlikNinjaZ, Teo_-, being, duck0110 |
-| 2026-10-16 | 55TH ST | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -66.3 | Payru, SlikNinjaZ, Teo_-, being, duck0110 |
+| 2026-10-16 | 55TH ST | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -66.2 | Payru, SlikNinjaZ, Teo_-, being, duck0110 |
 | 2026-10-14 | Biggie Cheese Fan Club | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-10-09 | LAF | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -75.6 | Payru, SlikNinjaZ, Teo_-, being, duck0110 |
-| 2026-09-10 | Defaulting | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.88 | 1.11 | 1.00 | 0.97 | 0.00 | 0.00 | -101.7 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
+| 2026-10-09 | LAF | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -75.7 | Payru, SlikNinjaZ, Teo_-, being, duck0110 |
+| 2026-09-10 | Defaulting | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.88 | 1.11 | 1.00 | 0.97 | 0.00 | 0.00 | -101.5 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 | 2026-09-08 | NA Dream Team | W | 1-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.86 | 1.11 | 1.00 | 0.96 | 0.03 | 0.96 | +98.7 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 | 2026-09-06 | Code9 | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.85 | 1.11 | 1.00 | 0.94 | 0.03 | 0.94 | +104.4 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
-| 2026-09-04 | CN Chill Boyz | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.84 | 1.11 | 1.00 | 0.93 | 0.00 | 0.00 | -218.9 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
-| 2026-09-02 | Excommunicado | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.82 | 1.11 | 1.00 | 0.91 | 0.03 | 0.91 | +144.8 | DestructoDog, Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
+| 2026-09-04 | CN Chill Boyz | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.84 | 1.11 | 1.00 | 0.93 | 0.00 | 0.00 | -219.0 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
+| 2026-09-02 | Excommunicado | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.82 | 1.11 | 1.00 | 0.91 | 0.03 | 0.91 | +144.9 | DestructoDog, Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 
 _Snapshot 2026-10-28 | NARS v2 | CC BY-SA 4.0_
