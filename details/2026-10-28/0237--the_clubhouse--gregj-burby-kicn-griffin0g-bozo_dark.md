@@ -1,13 +1,13 @@
 ### Roster Details
 Team Name: The Clubhouse
 Roster: GregJ, Burby, Kicn, Griffin0g, bozo_dark
-NARS Rank: 237 of 497
+NARS Rank: 237 of 494
 
-Final Rating: 1394.6
+Final Rating: 1394.2
 Seeded Start: 1149.3
-H2H Adjustment: +245.3
+H2H Adjustment: +244.9
 
-Final Rating (1394.6) = Seeded Start (1149.3) + H2H Adjustment (+245.3)
+Final Rating (1394.2) = Seeded Start (1149.3) + H2H Adjustment (+244.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-14 | Slime Time | W |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.50 | 1.25 | 1.00 | 0.62 | 0.02 | 0.62 | +75.4 | Burby, HirotoX, a11dan, bozo_dark, kingXVX |
-| 2026-07-14 | Swole Patrol | W |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.50 | 1.25 | 1.00 | 0.62 | 0.08 | 0.62 | +375.2 | Burby, HirotoX, a11dan, bozo_dark, kingXVX |
+| 2026-07-14 | Slime Time | W |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.50 | 1.26 | 1.00 | 0.63 | 0.02 | 0.63 | +75.2 | Burby, HirotoX, a11dan, bozo_dark, kingXVX |
+| 2026-07-14 | Swole Patrol | W |  | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.50 | 1.26 | 1.00 | 0.63 | 0.08 | 0.63 | +375.3 | Burby, HirotoX, a11dan, bozo_dark, kingXVX |
 | 2026-06-03 | Radiance | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -222.7 | Burby, Griffin0g, Kicn, NeonD2, bozo_dark |
-| 2026-05-29 | Moniseum | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -181.8 | Burby, Griffin0g, Kicn, NeonD2, bozo_dark |
+| 2026-05-29 | Moniseum | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -182.2 | Burby, Griffin0g, Kicn, NeonD2, bozo_dark |
 | 2026-05-27 | Dats Tuff | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.00 | 0.17 | +199.3 | Burby, Griffin0g, Kicn, NeonD2, bozo_dark |
 
 _Snapshot 2026-10-28 | NARS v2 | CC BY-SA 4.0_

@@ -1,19 +1,19 @@
 ### Roster Details
 Team Name: The Vicious Kitties
 Roster: mackks, bigbadinky, StevoP, teejhey, Sudain
-NARS Rank: 97 of 497
+NARS Rank: 97 of 494
 
 Final Rating: 1688.9
-Seeded Start: 1323.5
-H2H Adjustment: +365.4
+Seeded Start: 1321.9
+H2H Adjustment: +367.0
 
-Final Rating (1688.9) = Seeded Start (1323.5) + H2H Adjustment (+365.4)
+Final Rating (1688.9) = Seeded Start (1321.9) + H2H Adjustment (+367.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.160 x 1400 = 1323.5
+                = 1100 + 0.159 x 1400 = 1321.9
 
-seed_factor 0.160 = 0.25 x Tier Exposure (0.068) + 0.50 x Quality Wins (0.044) + 0.25 x Opponent Network (0.484)
+seed_factor 0.159 = 0.25 x Tier Exposure (0.067) + 0.50 x Quality Wins (0.043) + 0.25 x Opponent Network (0.481)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,24 +24,24 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | Torii | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -99.6 | StevoP, Sudain, gameplayer, mackks, teejhey |
+| 2026-09-10 | Torii | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -99.5 | StevoP, Sudain, gameplayer, mackks, teejhey |
 | 2026-09-06 | 1001 Fragrance | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.00 | 0.00 | -107.9 | StevoP, Sudain, W0RTHLESS_, gameplayer, teejhey |
 | 2026-09-04 | AURA Esports | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.10 | 0.84 | +4.1 | StevoP, Sudain, gameplayer, mackks, teejhey |
 | 2026-09-02 | Ubiquiti | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.06 | 0.82 | +0.0 | StevoP, Sudain, gameplayer, mackks, teejhey |
 | 2026-08-28 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.08 | 0.79 | +2.5 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-08-21 | QUPMANACS | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +94.5 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-08-20 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.09 | 0.74 | +70.0 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-08-16 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -139.4 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-08-12 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -162.1 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-08-11 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.04 | 0.68 | +102.5 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-08-21 | QUPMANACS | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +94.6 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-08-20 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.09 | 0.74 | +70.1 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-08-16 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -139.5 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-08-12 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -162.2 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-08-11 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.04 | 0.68 | +102.6 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-08-05 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.09 | 0.64 | +18.1 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-29 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.09 | 0.59 | +7.6 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-07-29 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +238.4 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-07-24 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.02 | 0.56 | +96.8 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-07-29 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.04 | 0.59 | +238.5 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-07-24 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.02 | 0.56 | +97.0 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-22 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.02 | 0.54 | +0.1 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-07-17 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.51 | 1.00 | 1.00 | 0.51 | 0.04 | 0.51 | +189.5 | StevoP, Sudain, gameplayer, mackks, teejhey |
-| 2026-07-15 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.50 | 0.04 | 0.50 | +460.3 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-06-01 | redtyfguhoj | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.20 | 1.05 | 1.00 | 0.21 | 0.00 | 0.00 | -227.5 | Kyle-S, Sudain, W0RTHLESS_, mackks, teejhey |
-| 2026-05-27 | flat earth | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.17 | 1.05 | 1.00 | 0.18 | 0.00 | 0.00 | -182.5 | Kyle-S, Sudain, W0RTHLESS_, mackks, teejhey |
+| 2026-07-17 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.51 | 1.00 | 1.00 | 0.51 | 0.04 | 0.51 | +190.0 | StevoP, Sudain, gameplayer, mackks, teejhey |
+| 2026-07-15 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.50 | 0.04 | 0.50 | +460.4 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-06-01 | redtyfguhoj | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.20 | 1.04 | 1.00 | 0.21 | 0.00 | 0.00 | -227.5 | Kyle-S, Sudain, W0RTHLESS_, mackks, teejhey |
+| 2026-05-27 | flat earth | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.17 | 1.04 | 1.00 | 0.18 | 0.00 | 0.00 | -182.0 | Kyle-S, Sudain, W0RTHLESS_, mackks, teejhey |
 
 _Snapshot 2026-10-28 | NARS v2 | CC BY-SA 4.0_
