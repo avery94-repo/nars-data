@@ -3,11 +3,11 @@ Team Name: feet67
 Roster: accela, dake_, 1mprovee2, -67swing, -anby-
 NARS Rank: 47 of 494
 
-Final Rating: 1892.6
+Final Rating: 1892.7
 Seeded Start: 1304.4
-H2H Adjustment: +588.2
+H2H Adjustment: +588.3
 
-Final Rating (1892.6) = Seeded Start (1304.4) + H2H Adjustment (+588.2)
+Final Rating (1892.7) = Seeded Start (1304.4) + H2H Adjustment (+588.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-20 | makeSHIFT | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.12 | 0.98 | +66.2 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-12 | FarmVille | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.04 | 1.00 | 0.92 | 0.00 | 0.00 | -4.4 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-10 | The Kerbins | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.04 | 1.00 | 0.91 | 0.06 | 0.91 | +109.8 | -67swing, -anby-, 1mprovee2, accela, dake_ |
-| 2026-09-06 | ClanAgain | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.88 | 0.06 | 0.88 | +98.9 | -67swing, -anby-, 1mprovee2, accela, dake_ |
+| 2026-09-06 | ClanAgain | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.88 | 0.06 | 0.88 | +99.0 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-03 | brb grinding minecraft | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.86 | 0.06 | 0.86 | +152.9 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 | 2026-09-02 | Booty | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.03 | 0.85 | +114.7 | -67swing, -anby-, 1mprovee2, accela, dake_ |
 

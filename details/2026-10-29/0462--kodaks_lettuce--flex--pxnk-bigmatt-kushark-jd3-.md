@@ -3,11 +3,11 @@ Team Name: Kodaks Lettuce
 Roster: FleX-, pxnk, BigMatt, KuShark, JD3-
 NARS Rank: 462 of 494
 
-Final Rating: 834.5
+Final Rating: 834.4
 Seeded Start: 1212.0
-H2H Adjustment: -377.5
+H2H Adjustment: -377.6 (capped at +-300, raw -377.5)
 
-Final Rating (834.5) = Seeded Start (1212.0) + H2H Adjustment (-377.5)
+Final Rating (834.4) = Seeded Start (1212.0) + H2H Adjustment (-377.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-12 | SAFIR | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.89 | 1.08 | 1.00 | 0.95 | 0.07 | 0.95 | +51.6 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-09-10 | Team Amplus | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.87 | 1.08 | 1.00 | 0.94 | 0.15 | 0.94 | +40.0 | BananaFishCS, Mezzi, crazed, slaneyy, suds, wdog |
 | 2026-09-08 | butt | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.86 | 1.08 | 1.00 | 0.92 | 0.07 | 0.92 | +55.1 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
-| 2026-09-04 | PASSION | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.83 | 1.08 | 1.00 | 0.90 | 0.00 | 0.00 | -174.3 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
+| 2026-09-04 | PASSION | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.83 | 1.08 | 1.00 | 0.90 | 0.00 | 0.00 | -174.4 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-26 | Akatsuki | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.03 | 0.81 | +76.2 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-19 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.05 | 1.00 | 0.76 | 0.05 | 0.76 | +16.5 | BananaFishCS, Mezzi, slaneyy, suds, wdog |
 | 2026-08-14 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.05 | 1.00 | 0.72 | 0.08 | 0.72 | +61.8 | BananaFishCS, Mezzi, slaneyy, suds, wdog |

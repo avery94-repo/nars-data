@@ -33,11 +33,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Sound of Arthritis | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.06 | 0.83 | +69.5 | 123bye, _NVme, inertia, okc-lover, sleuth |
 | 2026-08-28 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.05 | 0.78 | +0.0 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |
 | 2026-08-26 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.06 | 0.77 | +0.1 | 123bye, PrimeJeet, pungsy, redtext, sleuth |
-| 2026-08-21 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +118.3 | 123bye, inertia, okc-lover, redtext, sleuth |
+| 2026-08-21 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +118.4 | 123bye, inertia, okc-lover, redtext, sleuth |
 | 2026-08-19 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +34.6 | 123bye, inertia, okc-lover, pungsy, sleuth |
-| 2026-08-16 | The Vicious Kitties | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.05 | 0.71 | +135.3 | 123bye, PrimeJeet, inertia, okc-lover, sigh |
+| 2026-08-16 | The Vicious Kitties | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.05 | 0.71 | +135.4 | 123bye, PrimeJeet, inertia, okc-lover, sigh |
 | 2026-08-16 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.05 | 0.00 | +56.7 | 123bye, PrimeJeet, okc-lover, sigh, sleuth |
-| 2026-08-16 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.05 | 0.00 | +49.1 | 123bye, PrimeJeet, okc-lover, sigh, sleuth |
+| 2026-08-16 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.05 | 0.00 | +49.2 | 123bye, PrimeJeet, okc-lover, sigh, sleuth |
 | 2026-08-16 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.07 | 0.71 | +72.7 | 123bye, inertia, okc-lover, sigh, sleuth |
 | 2026-08-12 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -111.7 | PrimeJeet, altar, inertia, okc-lover, sigh |
 | 2026-07-29 | AURA Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.07 | 0.58 | +6.7 | 123bye, PrimeJeet, inertia, okc-lover, sleuth |

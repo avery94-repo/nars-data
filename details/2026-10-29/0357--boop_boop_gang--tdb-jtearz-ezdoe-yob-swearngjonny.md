@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Team GREAT | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.87 | 0.00 | 0.00 | -125.5 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, tdb |
 | 2026-09-02 | GameBangers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.03 | 0.84 | +115.4 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
 | 2026-06-12 | Praise Jame | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -147.8 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, tdb |
-| 2026-06-05 | ABG Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -206.2 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
+| 2026-06-05 | ABG Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -206.3 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
 | 2026-05-29 | DadDick Esports | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.02 | 0.18 | +283.9 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
 | 2026-05-27 | Diablo | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +184.4 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
 

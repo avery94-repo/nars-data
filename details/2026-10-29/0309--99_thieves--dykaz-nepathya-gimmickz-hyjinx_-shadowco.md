@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Cortex Jellies | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -134.5 | Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
 | 2026-09-10 | 55TH ST | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -65.3 | Gimmickz, MiLi-, NePathya, ShadowCoreTV, dykaz |
 | 2026-09-08 | Better at WOT | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.04 | 0.88 | +42.6 | BussinBoy, Gimmickz, ShadowCoreTV, dykaz, hyjinx_ |
-| 2026-09-06 | Furio Reloaded | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.85 | 1.02 | 1.00 | 0.87 | 0.03 | 0.87 | +66.8 | CAMH_CRODIE, Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
+| 2026-09-06 | Furio Reloaded | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.87 | 0.03 | 0.87 | +66.8 | CAMH_CRODIE, Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
 | 2026-09-04 | Valorem | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.83 | 1.02 | 1.00 | 0.85 | 0.03 | 0.85 | +76.1 | BussinBoy, Gimmickz, NePathya, ShadowCoreTV, dykaz |
 | 2026-08-01 | YHTR | L | 0-1 | SoFlo Slam 2 | C | faceit-tournament | 0.61 | 1.10 | 1.00 | 0.67 | 0.00 | 0.00 | -55.2 | MiLi-, NePathya, ShadowCoreTV, bf1c2a04, dykaz |
 

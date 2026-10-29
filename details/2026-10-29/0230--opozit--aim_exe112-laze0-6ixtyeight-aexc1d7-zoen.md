@@ -28,8 +28,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | Grandpa Berets | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-14 | APEX | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-09 | muntos minions | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-09-15 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.00 | 0.00 | -82.3 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
-| 2026-09-11 | Kodaks Lettuce | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.06 | 0.88 | +100.0 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
+| 2026-09-15 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -82.3 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
+| 2026-09-11 | Kodaks Lettuce | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.06 | 0.88 | +100.1 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
 | 2026-09-10 | MONARCH | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.06 | 0.87 | +60.8 | 6IXTYEIGHT, Aexc1d7, clrrrr, laze0, zoenn |
 | 2026-09-05 | No Future Lifes Over | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -168.7 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, flowzsq, laze0, zoenn |
 | 2026-09-04 | Sultans of Swing | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.03 | 0.83 | +152.1 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |

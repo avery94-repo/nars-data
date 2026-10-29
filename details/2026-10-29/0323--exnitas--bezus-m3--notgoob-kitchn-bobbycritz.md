@@ -4,16 +4,16 @@ Roster: BeZus, M3-, NotGoob, kitchN, BobbyCritz
 NARS Rank: 323 of 494
 
 Final Rating: 1226.0
-Seeded Start: 1323.4
-H2H Adjustment: -97.4
+Seeded Start: 1323.3
+H2H Adjustment: -97.3
 
-Final Rating (1226.0) = Seeded Start (1323.4) + H2H Adjustment (-97.4)
+Final Rating (1226.0) = Seeded Start (1323.3) + H2H Adjustment (-97.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.160 x 1400 = 1323.4
+                = 1100 + 0.159 x 1400 = 1323.3
 
-seed_factor 0.160 = 0.25 x Tier Exposure (0.111) + 0.50 x Quality Wins (0.032) + 0.25 x Opponent Network (0.463)
+seed_factor 0.159 = 0.25 x Tier Exposure (0.111) + 0.50 x Quality Wins (0.032) + 0.25 x Opponent Network (0.462)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -25,8 +25,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-21 | puggin4seb | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +111.3 | BeZus, Ryougi, Yu1u, kitchN, sK1PP- |
-| 2026-10-16 | Spin da block | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -126.3 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
-| 2026-10-14 | Florida Man | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +173.7 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
+| 2026-10-16 | Spin da block | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -126.4 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
+| 2026-10-14 | Florida Man | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +173.8 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
 | 2026-10-09 | THE GUILD | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -253.0 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
 | 2026-10-07 | Asoka | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -17.5 | BeZus, Yu1u, disk777, kitchN, sK1PP- |
 | 2026-09-02 | YHTR | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.82 | 1.11 | 1.00 | 0.91 | 0.00 | 0.00 | -45.7 | BeZus, BobbyCritz, Ryougi, disk777, kitchN |
@@ -46,8 +46,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | monitor off | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.13 | 0.01 | 0.13 | +211.3 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-20 | NOVAIR | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.01 | 0.12 | +161.1 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-15 | Costco Family | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.09 | 0.01 | 0.09 | +147.7 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
-| 2026-05-13 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -154.7 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
+| 2026-05-13 | The Sweepers | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -154.8 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 | 2026-05-08 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +199.0 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
-| 2026-05-06 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -258.8 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
+| 2026-05-06 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -258.9 | BeZus, BobbyCritz, M3-, NotGoob, kitchN |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

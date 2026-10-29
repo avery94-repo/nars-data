@@ -4,14 +4,14 @@ Roster: WavvY, aroe114, BR33ZY, 1to, JumpZ101
 NARS Rank: 413 of 494
 
 Final Rating: 1025.7
-Seeded Start: 1179.9
-H2H Adjustment: -154.2
+Seeded Start: 1179.8
+H2H Adjustment: -154.1
 
-Final Rating (1025.7) = Seeded Start (1179.9) + H2H Adjustment (-154.2)
+Final Rating (1025.7) = Seeded Start (1179.8) + H2H Adjustment (-154.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.057 x 1400 = 1179.9
+                = 1100 + 0.057 x 1400 = 1179.8
 
 seed_factor 0.057 = 0.25 x Tier Exposure (0.077) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.142)
 
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | deez | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -135.4 | 1to, BR33ZY, JumpZ101, Zamgaa, aroe114 |
 | 2026-09-08 | Sultans of Swing | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.03 | 0.86 | +112.3 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa, aroe114 |
 | 2026-09-02 | Symbiose | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.02 | 0.82 | +189.5 | 1to, BR33ZY, WavvY, Zamgaa, aroe114 |
-| 2026-06-10 | AAA | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -168.1 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa |
+| 2026-06-10 | AAA | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -168.2 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa |
 | 2026-06-04 | counter strokin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.01 | 0.22 | +51.8 | 1to, BR33ZY, JumpZ101, Matty-Ice, WavvY, Zamgaa |
 | 2026-05-29 | 1001 Fragrance | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -170.3 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa |
 | 2026-05-27 | Without a floor | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +187.4 | 1to, BR33ZY, JumpZ101, WavvY, Zamgaa |

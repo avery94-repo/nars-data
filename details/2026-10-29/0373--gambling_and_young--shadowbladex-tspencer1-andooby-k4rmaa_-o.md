@@ -26,8 +26,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | GOMI dot CLUB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.13 | 0.00 | 0.13 | +277.1 | Andooby, ObMmM, Tspencer1, danwill77, k4rmaa_ |
 | 2026-05-20 | GoopT | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -73.4 | Andooby, ObMmM, Shadowbladex, Tspencer1, k4rmaa_ |
-| 2026-05-15 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +236.8 | Andooby, ObMmM, Shadowbladex, Tspencer1, danwill77 |
-| 2026-05-13 | Dapper North | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -251.5 | Andooby, ObMmM, Shadowbladex, TonkaTruck, danwill77 |
+| 2026-05-15 | garfieldclub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.09 | 0.00 | 0.09 | +236.8 | Andooby, ObMmM, Shadowbladex, Tspencer1, danwill77 |
+| 2026-05-13 | Dapper North | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -251.6 | Andooby, ObMmM, Shadowbladex, TonkaTruck, danwill77 |
 | 2026-05-08 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -26.8 | Andooby, Shadowbladex, TonkaTruck, Tspencer1, k4rmaa_ |
 | 2026-05-06 | Remnant | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -150.5 | ObMmM, Shadowbladex, TonkaTruck, Tspencer1, k4rmaa_ |
 

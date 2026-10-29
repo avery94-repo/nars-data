@@ -4,14 +4,14 @@ Roster: 1TyRa, jsfeltner, Scorchyy, aelor, ayaneuu
 NARS Rank: 21 of 494
 
 Final Rating: 2129.6
-Seeded Start: 2057.6
-H2H Adjustment: +72.0
+Seeded Start: 2057.5
+H2H Adjustment: +72.1
 
-Final Rating (2129.6) = Seeded Start (2057.6) + H2H Adjustment (+72.0)
+Final Rating (2129.6) = Seeded Start (2057.5) + H2H Adjustment (+72.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.684 x 1400 = 2057.6
+                = 1100 + 0.684 x 1400 = 2057.5
 
 seed_factor 0.684 = 0.25 x Tier Exposure (0.703) + 0.50 x Quality Wins (0.711) + 0.25 x Opponent Network (0.612)
 
@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-12 | Overtake Sector | L | 0-2 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.59 | 1.00 | 1.59 | 0.00 | 0.00 | -19.1 | core 3/5 |
 | 2026-10-11 | Zomblers | L | 1-2 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.59 | 1.00 | 1.59 | 0.00 | 0.00 | -96.8 | core 3/5 |
 | 2026-10-07 | Shadow Wizard Money Gang | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.15 | 1.49 | +0.1 | 1TyRa, H0NeST, Scorchyy, Valter0k, aelor |
-| 2026-09-25 | FarmVille | L | 1-2 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -82.8 | core 3/5 |
+| 2026-09-25 | FarmVille | L | 1-2 | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -82.9 | core 3/5 |
 | 2026-09-24 | Club 333 | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.54 | 1.18 | 0.00 | +1.0 | core 3/5 |
 | 2026-09-23 | Marsborne | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.53 | 0.00 | 0.00 | -57.9 | core 3/5 |
 | 2026-09-22 | Wanted Goons | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.52 | 1.48 | 0.00 | +0.5 | core 3/5 |
@@ -52,13 +52,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | LAG Gaming | L |  | VRS-tracked 2026-07 | A | vrs | 0.58 | 1.60 | 1.00 | 0.93 | 0.00 | 0.00 | -128.5 | core 3/5 |
 | 2026-07-28 | NRG | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.58 | 1.60 | 1.00 | 0.92 | 0.00 | 0.00 | -129.4 | core 3/5 |
 | 2026-06-14 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.04 | 0.45 | +118.7 | core 3/5 |
-| 2026-06-14 | Marsborne | L | 0-2 | VRS-tracked 2026-06 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -76.6 | core 3/5 |
-| 2026-06-13 | DETONATE | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.28 | 1.60 | 1.00 | 0.44 | 0.44 | 0.44 | +222.6 | core 3/5 |
+| 2026-06-14 | Marsborne | L | 0-2 | VRS-tracked 2026-06 | A | vrs | 0.28 | 1.60 | 1.00 | 0.45 | 0.00 | 0.00 | -76.7 | core 3/5 |
+| 2026-06-13 | DETONATE | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.28 | 1.60 | 1.00 | 0.44 | 0.44 | 0.44 | +222.7 | core 3/5 |
 | 2026-06-13 | Overtake Sector | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.28 | 1.60 | 1.00 | 0.44 | 0.44 | 0.44 | +146.1 | core 3/5 |
-| 2026-06-12 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.27 | 1.60 | 1.00 | 0.43 | 0.33 | 0.43 | +286.4 | core 3/5 |
+| 2026-06-12 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.27 | 1.60 | 1.00 | 0.43 | 0.33 | 0.43 | +286.5 | core 3/5 |
 | 2026-06-11 | DETONATE | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.42 | 0.00 | 0.00 | -127.6 | core 3/5 |
 | 2026-06-09 | Beyond Limits | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.25 | 1.53 | 1.00 | 0.39 | 0.25 | 0.39 | +235.9 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
-| 2026-06-02 | Desi Boyz | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.21 | 1.53 | 1.00 | 0.31 | 0.00 | 0.00 | -222.9 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
+| 2026-06-02 | Desi Boyz | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.20 | 1.53 | 1.00 | 0.31 | 0.00 | 0.00 | -222.9 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
 | 2026-05-26 | M80 | L |  | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.25 | 0.00 | 0.00 | -0.8 | core 3/5 |
 | 2026-05-22 | Celestial Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.39 | 1.00 | 0.18 | 0.06 | 0.18 | +4.1 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |
 | 2026-05-20 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.16 | 0.02 | 0.16 | +0.2 | 1TyRa, BiNoX, Scorchyy, calamity, jsfeltner |

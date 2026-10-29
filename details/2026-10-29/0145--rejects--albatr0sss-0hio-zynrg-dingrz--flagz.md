@@ -4,14 +4,14 @@ Roster: Albatr0ssS, 0hio, ZynRG, Dingrz, -FlagZ
 NARS Rank: 145 of 494
 
 Final Rating: 1590.7
-Seeded Start: 1351.1
-H2H Adjustment: +239.6
+Seeded Start: 1351.0
+H2H Adjustment: +239.7
 
-Final Rating (1590.7) = Seeded Start (1351.1) + H2H Adjustment (+239.6)
+Final Rating (1590.7) = Seeded Start (1351.0) + H2H Adjustment (+239.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.179 x 1400 = 1351.1
+                = 1100 + 0.179 x 1400 = 1351.0
 
 seed_factor 0.179 = 0.25 x Tier Exposure (0.144) + 0.50 x Quality Wins (0.040) + 0.25 x Opponent Network (0.492)
 
@@ -37,14 +37,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +47.3 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-08-20 | dice | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.73 | 1.49 | 1.00 | 1.09 | 0.00 | 0.00 | -14.3 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-08-19 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +52.7 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
-| 2026-08-13 | Skyline | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.69 | 1.49 | 1.00 | 1.02 | 0.00 | 0.00 | -13.2 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
+| 2026-08-13 | Skyline | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.68 | 1.49 | 1.00 | 1.02 | 0.00 | 0.00 | -13.2 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-08-13 | Zomblers | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.68 | 1.49 | 1.00 | 1.02 | 0.00 | 0.00 | -3.3 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-08-12 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.07 | 0.68 | +28.8 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-08-12 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +32.1 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-08-07 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.05 | 0.64 | +86.1 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
-| 2026-08-05 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.05 | 0.63 | +27.1 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
+| 2026-08-05 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.05 | 0.63 | +27.2 | -FlagZ, 0hio, Artaxian, Dingrz, ZynRG |
 | 2026-07-29 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -7.5 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
-| 2026-07-24 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.55 | 1.00 | 1.00 | 0.55 | 0.00 | 0.00 | -218.5 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
+| 2026-07-24 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.55 | 1.00 | 1.00 | 0.55 | 0.00 | 0.00 | -218.6 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-07-22 | redtyfguhoj | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.04 | 0.54 | +159.8 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-07-17 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.50 | 0.03 | 0.50 | +4.1 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |
 | 2026-07-15 | 929 Arrival Gang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.03 | 0.49 | +155.6 | -FlagZ, 0hio, Albatr0ssS, Dingrz, ZynRG |

@@ -4,16 +4,16 @@ Roster: Merle, Casteeya, FullyLaced, _aido_, fatchud
 NARS Rank: 319 of 494
 
 Final Rating: 1233.8
-Seeded Start: 1341.8
-H2H Adjustment: -108.0
+Seeded Start: 1341.7
+H2H Adjustment: -107.9
 
-Final Rating (1233.8) = Seeded Start (1341.8) + H2H Adjustment (-108.0)
+Final Rating (1233.8) = Seeded Start (1341.7) + H2H Adjustment (-107.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.173 x 1400 = 1341.8
+                = 1100 + 0.173 x 1400 = 1341.7
 
-seed_factor 0.173 = 0.25 x Tier Exposure (0.104) + 0.50 x Quality Wins (0.038) + 0.25 x Opponent Network (0.512)
+seed_factor 0.173 = 0.25 x Tier Exposure (0.104) + 0.50 x Quality Wins (0.037) + 0.25 x Opponent Network (0.512)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -33,13 +33,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Hairy Scary Bandits | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.83 | 1.08 | 1.00 | 0.90 | 0.00 | 0.00 | -11.0 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-09-02 | Solace | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.82 | 1.08 | 1.00 | 0.88 | 0.06 | 0.88 | +33.6 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-08-28 | No Leaders Please | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.05 | 1.00 | 0.82 | 0.09 | 0.82 | +118.5 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
-| 2026-08-26 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.00 | 0.00 | -109.5 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
+| 2026-08-26 | BONK | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.00 | 0.00 | -109.6 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-08-21 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.05 | 1.00 | 0.77 | 0.09 | 0.77 | +66.4 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
-| 2026-08-19 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.05 | 1.00 | 0.76 | 0.05 | 0.76 | +151.3 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
+| 2026-08-19 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.05 | 1.00 | 0.76 | 0.05 | 0.76 | +151.4 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-08-14 | Resurgence | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.05 | 1.00 | 0.72 | 0.00 | 0.00 | -124.0 | Casteeya, FullyLaced, Homie, Merle, fatchud |
 | 2026-08-12 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.05 | 1.00 | 0.71 | 0.00 | 0.00 | -122.2 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-08-07 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.05 | 1.00 | 0.68 | 0.04 | 0.68 | +172.8 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
-| 2026-08-05 | Wealth Reduction | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.63 | 1.05 | 1.00 | 0.66 | 0.02 | 0.66 | +78.9 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
+| 2026-08-05 | Wealth Reduction | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.63 | 1.05 | 1.00 | 0.66 | 0.02 | 0.66 | +79.0 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-07-31 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.05 | 1.00 | 0.63 | 0.02 | 0.63 | +0.9 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-07-29 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.05 | 1.00 | 0.61 | 0.04 | 0.61 | +168.0 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-07-24 | Distinguished Ducks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.55 | 1.05 | 1.00 | 0.58 | 0.00 | 0.00 | -20.8 | Casteeya, FullyLaced, Homie, _aido_, fatchud |
@@ -51,6 +51,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | Cadillac F1 eSports Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.14 | 1.00 | 0.10 | 0.01 | 0.10 | +403.7 | FullyLaced, Homie, Merle, _aido_, fatchud |
 | 2026-05-13 | onliners | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.08 | 0.00 | 0.00 | -407.8 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 | 2026-05-08 | CLUE IN | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.14 | 1.00 | 0.04 | 0.00 | 0.00 | -221.8 | Casteeya, FullyLaced, Homie, _aido_, fatchud |
-| 2026-05-06 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.03 | 0.00 | 0.00 | +137.6 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
+| 2026-05-06 | Courage | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.03 | 0.00 | 0.00 | +137.7 | Casteeya, FullyLaced, Merle, _aido_, fatchud |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

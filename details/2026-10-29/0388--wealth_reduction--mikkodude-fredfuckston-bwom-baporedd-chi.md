@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-28 | Texas Orange | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.79 | 1.05 | 1.00 | 0.82 | 0.06 | 0.82 | +82.9 | ChiefTiger, MikkoDude, baporedd, bwom, fredfuckston |
+| 2026-08-28 | Texas Orange | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.05 | 1.00 | 0.82 | 0.06 | 0.82 | +82.9 | ChiefTiger, MikkoDude, baporedd, bwom, fredfuckston |
 | 2026-08-26 | THE GUILD | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.00 | 0.00 | -87.4 | ChiefTiger, Ka-o, POOFYz, baporedd, bwom |
 | 2026-08-21 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.05 | 1.00 | 0.77 | 0.03 | 0.77 | +77.3 | ChiefTiger, Ka-o, MikkoDude, baporedd, fredfuckston |
-| 2026-08-19 | Wiggle Peeks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.05 | 1.00 | 0.76 | 0.00 | 0.00 | -98.3 | ChiefTiger, Ka-o, MikkoDude, baporedd, bwom |
+| 2026-08-19 | Wiggle Peeks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.05 | 1.00 | 0.76 | 0.00 | 0.00 | -98.4 | ChiefTiger, Ka-o, MikkoDude, baporedd, bwom |
 | 2026-08-14 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.69 | 1.05 | 1.00 | 0.72 | 0.02 | 0.72 | +93.3 | ChiefTiger, Ka-o, MikkoDude, baporedd, bwom |
 | 2026-08-12 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.68 | 1.05 | 1.00 | 0.71 | 0.00 | 0.00 | -10.0 | ChiefTiger, Ka-o, MikkoDude, baporedd, bwom |
 | 2026-08-05 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.63 | 1.05 | 1.00 | 0.66 | 0.00 | 0.00 | -79.4 | ChiefTiger, alexpappas, baporedd, bwom, fredfuckston |

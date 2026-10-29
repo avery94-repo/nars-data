@@ -3,11 +3,11 @@ Team Name: Ex-Tricksters
 Roster: Treehen, Enzo, getmeout, Momiji_RtN, RavensBOSS
 NARS Rank: 284 of 494
 
-Final Rating: 1289.4
+Final Rating: 1289.3
 Seeded Start: 1259.7
-H2H Adjustment: +29.7
+H2H Adjustment: +29.6
 
-Final Rating (1289.4) = Seeded Start (1259.7) + H2H Adjustment (+29.7)
+Final Rating (1289.3) = Seeded Start (1259.7) + H2H Adjustment (+29.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -33,14 +33,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | SOLA GAMING | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.48 | 1.00 | 0.89 | 0.04 | 0.89 | +147.8 | Enzo, Momiji_RtN, RavensBOSS, Treehen, getmeout |
 | 2026-07-29 | House Platypus ESC | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.48 | 1.00 | 0.87 | 0.00 | 0.00 | -174.3 | Enzo, Momiji_RtN, RavensBOSS, Treehen, getmeout |
 | 2026-07-24 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.55 | 1.48 | 1.00 | 0.82 | 0.49 | 0.82 | +113.6 | Enzo, Momiji_RtN, RavensBOSS, Treehen, getmeout |
-| 2026-07-22 | Squeegee | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.54 | 1.48 | 1.00 | 0.80 | 0.00 | 0.00 | -122.6 | Enzo, Momiji_RtN, RavensBOSS, Treehen, getmeout |
+| 2026-07-22 | Squeegee | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.54 | 1.48 | 1.00 | 0.80 | 0.00 | 0.00 | -122.5 | Enzo, Momiji_RtN, RavensBOSS, Treehen, getmeout |
 | 2026-07-17 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.50 | 1.48 | 1.00 | 0.75 | 0.00 | 0.00 | -6.3 | Enzo, Momiji_RtN, RavensBOSS, Treehen, getmeout |
 | 2026-05-20 | NineFly Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.16 | 0.00 | 0.00 | -19.8 | Momiji_RtN, RavensBOSS, Tr1ck, Treehen, dirtydan |
 | 2026-05-19 | NYX | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.39 | 1.00 | 0.15 | 0.02 | 0.15 | +6.1 | Momiji_RtN, RavensBOSS, Tr1ck, Treehen, dirtydan |
 | 2026-05-14 | Olympus | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.39 | 1.00 | 0.11 | 0.00 | 0.00 | -67.2 | Momiji_RtN, RavensBOSS, Tr1ck, Treehen, dirtydan |
-| 2026-05-14 | Brahmas | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.39 | 1.00 | 0.11 | 0.00 | 0.00 | -191.2 | Momiji_RtN, RavensBOSS, Tr1ck, Treehen, dirtydan |
+| 2026-05-14 | Brahmas | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.39 | 1.00 | 0.11 | 0.00 | 0.00 | -191.3 | Momiji_RtN, RavensBOSS, Tr1ck, Treehen, dirtydan |
 | 2026-05-13 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.39 | 1.00 | 0.10 | 0.00 | 0.00 | -304.3 | Momiji_RtN, RavensBOSS, Tr1ck, Treehen, dirtydan |
 | 2026-05-09 | Iowa Stormboar | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.39 | 1.00 | 0.06 | 0.04 | 0.06 | +292.2 | Momiji_RtN, RavensBOSS, Tr1ck, Treehen, dirtydan |
-| 2026-05-07 | Omen Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.39 | 1.00 | 0.04 | 0.01 | 0.04 | +457.2 | Momiji_RtN, RavensBOSS, Tr1ck, Treehen, dirtydan |
+| 2026-05-07 | Omen Esports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.39 | 1.00 | 0.04 | 0.01 | 0.04 | +457.1 | Momiji_RtN, RavensBOSS, Tr1ck, Treehen, dirtydan |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

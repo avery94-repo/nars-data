@@ -3,15 +3,15 @@ Team Name: Void
 Roster: florecio, Rynex, ArcQ, kimycia, oneX-
 NARS Rank: 105 of 494
 
-Final Rating: 1672.7
-Seeded Start: 1319.9
+Final Rating: 1672.6
+Seeded Start: 1319.8
 H2H Adjustment: +352.8
 
-Final Rating (1672.7) = Seeded Start (1319.9) + H2H Adjustment (+352.8)
+Final Rating (1672.6) = Seeded Start (1319.8) + H2H Adjustment (+352.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.157 x 1400 = 1319.9
+                = 1100 + 0.157 x 1400 = 1319.8
 
 seed_factor 0.157 = 0.25 x Tier Exposure (0.064) + 0.50 x Quality Wins (0.044) + 0.25 x Opponent Network (0.476)
 
@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | Torii | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -138.5 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-09-06 | Kings Gambit | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.09 | 0.84 | +2.0 | ArcQ, Rynex, florecio, kimycia, on_experienc |
-| 2026-09-04 | offBalance | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -157.4 | ABLojKa, Rynex, florecio, kimycia, on_experienc |
+| 2026-09-04 | offBalance | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -157.5 | ABLojKa, Rynex, florecio, kimycia, on_experienc |
 | 2026-09-02 | Moniseum | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.05 | 0.82 | +0.1 | ABLojKa, Rynex, florecio, kimycia, on_experienc |
 | 2026-08-26 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.11 | 0.77 | +15.4 | ArcQ, Rynex, florecio, kimycia, on_experienc |
 | 2026-08-21 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -118.3 | ABLojKa, ArcQ, florecio, kimycia, on_experienc |

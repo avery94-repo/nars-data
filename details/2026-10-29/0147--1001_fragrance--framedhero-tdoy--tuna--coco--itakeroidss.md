@@ -24,8 +24,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-15 | AURA Esports | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.00 | 0.00 | -90.9 | -Tuna-, ITakeRoidss, Lieth, framedHERO, tdoy |
-| 2026-09-09 | MommySports | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -110.8 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
+| 2026-09-15 | AURA Esports | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.00 | 0.00 | -90.9 | -Tuna-, ITakeRoidss, Lieth, framedHERO, tdoy |
+| 2026-09-09 | MommySports | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -110.9 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
 | 2026-09-06 | The Vicious Kitties | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +107.0 | -Sora-, -Tuna-, beast9, framedHERO, tdoy |
 | 2026-09-03 | RunTheDamnBall | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.09 | 0.82 | +6.1 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
 | 2026-09-02 | GoonAssOldheads | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.09 | 0.82 | +2.2 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -212.1 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-07 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.07 | 0.64 | +71.2 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-05 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.04 | 0.63 | +117.4 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
-| 2026-07-29 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -280.1 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
+| 2026-07-29 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -280.2 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-29 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -234.8 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-24 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.55 | 1.00 | 1.00 | 0.55 | 0.06 | 0.00 | +45.3 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-22 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.04 | 0.54 | +0.6 | -Tuna-, Coco-, framedHERO, hohozao, tdoy |

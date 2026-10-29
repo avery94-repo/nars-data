@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-25 | LAG Gaming | L |  | VRS-tracked 2026-09 | A | vrs | 0.97 | 1.60 | 1.00 | 1.55 | 0.00 | 0.00 | -17.6 | core 3/5 |
 | 2026-09-23 | Villainous | W |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.53 | 1.34 | 0.00 | +22.9 | core 3/5 |
 | 2026-09-22 | unreal nightmare | W |  | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.52 | 1.05 | 1.52 | +1.1 | core 3/5 |
-| 2026-09-20 | Villainous | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.94 | 1.57 | 1.00 | 1.48 | 1.29 | 1.48 | +50.5 | -jason, 1umar, c3e1b3cd, corim, intrraa |
+| 2026-09-20 | Villainous | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.94 | 1.57 | 1.00 | 1.47 | 1.29 | 1.47 | +50.5 | -jason, 1umar, c3e1b3cd, corim, intrraa |
 | 2026-09-19 | Desi Boyz | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.93 | 1.57 | 1.00 | 1.46 | 0.00 | 0.00 | -55.3 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-09-18 | F5 Esports | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.93 | 1.57 | 1.00 | 1.45 | 0.35 | 1.45 | +0.6 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-09-18 | Desi Boyz | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.48 | 0.00 | 0.00 | -82.0 | core 3/5 |
@@ -86,13 +86,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-20 | North Forge | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.73 | 1.49 | 1.00 | 1.09 | 0.29 | 1.09 | +0.8 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-08-20 | Without a Roof | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.73 | 1.49 | 1.00 | 1.09 | 1.09 | 1.09 | +136.7 | -jason, 1umar, corim, intrraa, learsi |
 | 2026-08-17 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.48 | 1.00 | 1.05 | 0.00 | 0.00 | -34.6 | -jason, 1umar, intrraa, learsi, sacrificeee |
-| 2026-08-15 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.48 | 1.00 | 1.03 | 0.83 | 1.03 | +160.8 | -jason, 1umar, intrraa, learsi, sacrificeee |
-| 2026-08-13 | Holly Molly | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.69 | 1.49 | 1.00 | 1.02 | 0.19 | 1.02 | +2.8 | -jason, 1umar, intrraa, learsi, sacrificeee |
+| 2026-08-15 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.48 | 1.00 | 1.03 | 0.83 | 1.03 | +160.9 | -jason, 1umar, intrraa, learsi, sacrificeee |
+| 2026-08-13 | Holly Molly | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.68 | 1.49 | 1.00 | 1.02 | 0.19 | 1.02 | +2.8 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-08-13 | Tacos Tiramisu and Lies | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.68 | 1.49 | 1.00 | 1.02 | 0.20 | 1.02 | +14.6 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-08-07 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.48 | 1.00 | 0.96 | 0.00 | 0.00 | -0.5 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-07-17 | Beyond Limits | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.50 | 1.48 | 1.00 | 0.75 | 0.48 | 0.75 | +13.9 | -jason, 1umar, intrraa, learsi, sacrificeee |
 | 2026-07-15 | skebob | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.49 | 1.48 | 1.00 | 0.73 | 0.02 | 0.73 | +4.6 | -jason, 1umar, intrraa, learsi, sacrificeee |
-| 2026-07-09 | LAG Gaming | L |  | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.00 | 0.00 | -366.5 | core 3/5 |
+| 2026-07-09 | LAG Gaming | L |  | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.00 | 0.00 | -366.6 | core 3/5 |
 | 2026-07-07 | raisedbypixels | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.44 | 1.60 | 1.00 | 0.70 | 0.08 | 0.70 | +73.8 | core 3/5 |
 | 2026-07-03 | Club 333 | L | 1-2 | VRS-tracked 2026-07 | A | vrs | 0.41 | 1.60 | 1.00 | 0.66 | 0.00 | 0.00 | -43.0 | core 3/5 |
 | 2026-06-30 | Wanted Goons | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.39 | 1.60 | 1.00 | 0.63 | 0.61 | 0.00 | +12.1 | core 3/5 |

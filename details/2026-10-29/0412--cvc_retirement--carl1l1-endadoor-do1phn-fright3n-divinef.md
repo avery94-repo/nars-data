@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.13 | 0.02 | 0.13 | +435.4 | --vita--, Carl1l1, DivineFPS, FRIGHT3N, do1phn |
-| 2026-05-15 | AML | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -252.3 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-05-15 | AML | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -252.4 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-05-13 | Ubiquiti | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -118.6 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 | 2026-05-08 | Florida Man | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -9.2 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
-| 2026-05-06 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -133.4 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
+| 2026-05-06 | Epochal Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -133.5 | Carl1l1, DivineFPS, Endadoor, FRIGHT3N, do1phn |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

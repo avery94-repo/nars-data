@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Old Dads Banging | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.05 | 1.00 | 0.68 | 0.00 | 0.00 | -144.0 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-08-06 | Saltcrew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.05 | 1.00 | 0.67 | 0.07 | 0.67 | +156.3 | -Stray-, Balto-, EclipseHB, Hawkins, RustyVibe |
 | 2026-07-31 | In Our Prime | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.05 | 1.00 | 0.63 | 0.00 | 0.00 | -184.5 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
-| 2026-07-30 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.05 | 1.00 | 0.62 | 0.00 | 0.00 | -216.5 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
+| 2026-07-30 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.05 | 1.00 | 0.62 | 0.00 | 0.00 | -216.6 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
 | 2026-07-24 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.55 | 1.05 | 1.00 | 0.58 | 0.02 | 0.58 | +16.1 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
 | 2026-07-17 | Real Hustle Club | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.50 | 1.05 | 1.00 | 0.53 | 0.00 | 0.00 | -119.9 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |
 | 2026-07-15 | Qinorhwat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.49 | 1.05 | 1.00 | 0.52 | 0.00 | 0.00 | -195.2 | -Stray-, EclipseHB, Hawkins, RustyVibe, mead |

@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-28 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.06 | 0.79 | +12.5 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |
+| 2026-08-28 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.06 | 0.78 | +12.5 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |
 | 2026-08-26 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.06 | 0.77 | +81.0 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |
 | 2026-08-21 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -92.2 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |
 | 2026-08-19 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.06 | 0.72 | +75.6 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |

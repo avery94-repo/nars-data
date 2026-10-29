@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-02 | 69 | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +68.0 | Irneso, Poxteria, naj-dobrija, tax-, trustythedoe |
 | 2026-09-26 | SwagMonkeyHats | L | W/O | SOFLO SLAM 3 | C | faceit-tournament | 0.98 | 1.00 | 1.00 | 0.98 | 0.00 | 0.00 | -123.4 | Irneso, Poxteria, naj-dobrija, tax-, trustythedoe |
 | 2026-09-10 | WhiteBoyWinter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.04 | 1.00 | 0.91 | 0.00 | 0.00 | -97.2 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
-| 2026-09-09 | SquadUp | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.86 | 1.41 | 1.00 | 1.22 | 0.00 | 0.00 | -90.8 | -RelliK-, 5c4f1d9d, PiNG-ez, Poxteria, tax- |
+| 2026-09-09 | SquadUp | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.86 | 1.41 | 1.00 | 1.22 | 0.00 | 0.00 | -90.9 | -RelliK-, 5c4f1d9d, PiNG-ez, Poxteria, tax- |
 | 2026-09-08 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.04 | 1.00 | 0.89 | 0.03 | 0.89 | +82.1 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
 | 2026-09-06 | Against Odds | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.88 | 0.03 | 0.88 | +68.9 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
 | 2026-09-05 | my life be like | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.84 | 1.41 | 1.00 | 1.18 | 0.00 | 0.00 | -2.1 | -RelliK-, PiNG-ez, Poxteria, kozume, tax- |

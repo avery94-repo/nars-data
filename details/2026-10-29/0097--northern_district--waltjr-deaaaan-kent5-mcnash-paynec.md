@@ -3,11 +3,11 @@ Team Name: Northern District
 Roster: WaltJr, Deaaaan, KenT5, McNash, PayneC
 NARS Rank: 97 of 494
 
-Final Rating: 1690.9
+Final Rating: 1691.0
 Seeded Start: 1122.7
-H2H Adjustment: +568.2
+H2H Adjustment: +568.3
 
-Final Rating (1690.9) = Seeded Start (1122.7) + H2H Adjustment (+568.2)
+Final Rating (1691.0) = Seeded Start (1122.7) + H2H Adjustment (+568.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-10 | Evade Gaming | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -142.1 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
-| 2026-06-05 | NEWAR | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.01 | 0.23 | +140.7 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
-| 2026-06-03 | Reckless Palms | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +232.6 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
-| 2026-05-28 | BIG | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.01 | 0.17 | +126.1 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
-| 2026-05-27 | 3Dolla | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.17 | 0.00 | 0.17 | +210.9 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
+| 2026-06-05 | NEWAR | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.23 | 0.01 | 0.23 | +140.7 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
+| 2026-06-03 | Reckless Palms | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +232.7 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
+| 2026-05-28 | BIG | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.01 | 0.17 | +126.0 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
+| 2026-05-27 | 3Dolla | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +210.9 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

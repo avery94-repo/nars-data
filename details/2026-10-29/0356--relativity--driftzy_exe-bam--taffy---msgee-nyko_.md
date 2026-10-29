@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | The Ohio Meat Wagon | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.13 | 0.00 | 0.00 | -5.2 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
-| 2026-05-20 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -171.8 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
+| 2026-05-20 | Zenano | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -171.9 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-14 | Midwest Farmers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.08 | 0.01 | 0.08 | +245.1 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
-| 2026-05-13 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -364.4 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
+| 2026-05-13 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -364.5 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-08 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +61.9 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 | 2026-05-06 | de_throne | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +286.3 | -Taffy--, Bam, Driftzy_EXE, NyKo_, eyeMSG |
 

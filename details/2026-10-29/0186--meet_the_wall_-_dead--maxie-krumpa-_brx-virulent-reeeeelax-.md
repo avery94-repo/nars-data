@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Mace Lindu Ruff Rebound | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-14 | AscendentEsport | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-09 | Guangzhou Loong Lions | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-09-15 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.91 | 1.04 | 1.00 | 0.94 | 0.00 | 0.00 | -133.6 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
+| 2026-09-15 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.04 | 1.00 | 0.94 | 0.00 | 0.00 | -133.6 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
 | 2026-09-08 | FarmVille | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.04 | 1.00 | 0.89 | 0.00 | 0.00 | -0.5 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
 | 2026-09-07 | GOBLINS | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.85 | 1.04 | 1.00 | 0.89 | 0.04 | 0.89 | +171.1 | Krumpa, ReeeeeLaX-, _BrX, maxie, wAKKa |
 | 2026-09-04 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.87 | 0.03 | 0.87 | +139.2 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent, wAKKa |

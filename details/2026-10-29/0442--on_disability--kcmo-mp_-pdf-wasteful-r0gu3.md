@@ -3,11 +3,11 @@ Team Name: on disability
 Roster: kcmo, mp_, PDF, WASTEFUL, r0gu3
 NARS Rank: 442 of 494
 
-Final Rating: 916.7
+Final Rating: 916.6
 Seeded Start: 1179.6
-H2H Adjustment: -262.9
+H2H Adjustment: -263.0
 
-Final Rating (916.7) = Seeded Start (1179.6) + H2H Adjustment (-262.9)
+Final Rating (916.6) = Seeded Start (1179.6) + H2H Adjustment (-263.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -25.3 | JabrokWIZGOD, envy, kcmo, mp_, r0gu3 |
 | 2026-08-07 | Conduit eSports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -210.5 | 9rwsB-, bliu-, kcmo, mp_, r0gu3 |
 | 2026-08-05 | dogwater | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.06 | 0.63 | +8.5 | 9rwsB-, WASTEFUL, kcmo, mp_, r0gu3 |
-| 2026-07-24 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.55 | 1.00 | 1.00 | 0.55 | 0.04 | 0.55 | +10.2 | WASTEFUL, bliu-, envy, kcmo, r0gu3 |
+| 2026-07-24 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.55 | 1.00 | 1.00 | 0.55 | 0.04 | 0.55 | +10.1 | WASTEFUL, bliu-, envy, kcmo, r0gu3 |
 | 2026-07-22 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.04 | 0.54 | +329.1 | PDF, WASTEFUL, envy, mp_, r0gu3 |
 | 2026-07-17 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.50 | 0.00 | 0.00 | -76.4 | bliu-, envy, kcmo, mp_, r0gu3 |
 | 2026-07-15 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -28.7 | bliu-, envy, kcmo, mp_, r0gu3 |

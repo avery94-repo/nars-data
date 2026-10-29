@@ -3,11 +3,11 @@ Team Name: Trap Castle
 Roster: Swoffie, El_RETRO, Julian-, GhostRob, y3ji
 NARS Rank: 117 of 494
 
-Final Rating: 1645.2
+Final Rating: 1645.3
 Seeded Start: 1222.9
-H2H Adjustment: +422.3
+H2H Adjustment: +422.4
 
-Final Rating (1645.2) = Seeded Start (1222.9) + H2H Adjustment (+422.3)
+Final Rating (1645.3) = Seeded Start (1222.9) + H2H Adjustment (+422.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

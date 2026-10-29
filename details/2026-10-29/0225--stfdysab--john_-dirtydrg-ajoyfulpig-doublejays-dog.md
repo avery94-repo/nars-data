@@ -13,7 +13,7 @@ Final Rating (1414.4) = Seeded Start (1337.6) + H2H Adjustment (+76.8)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.170 x 1400 = 1337.6
 
-seed_factor 0.170 = 0.25 x Tier Exposure (0.101) + 0.50 x Quality Wins (0.050) + 0.25 x Opponent Network (0.479)
+seed_factor 0.170 = 0.25 x Tier Exposure (0.101) + 0.50 x Quality Wins (0.050) + 0.25 x Opponent Network (0.478)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -38,21 +38,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Sassy Sunshines | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.11 | 1.00 | 0.65 | 0.07 | 0.65 | +40.7 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 | 2026-07-23 | Kaos | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.54 | 1.11 | 1.00 | 0.61 | 0.04 | 0.61 | +82.8 | DoubleJays, _Rost_, awakend-, dirtydrg, jOHN_ |
 | 2026-07-22 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.54 | 1.11 | 1.00 | 0.60 | 0.04 | 0.60 | +1.2 | DoubleJays, _Rost_, awakend-, dirtydrg, jOHN_ |
-| 2026-07-17 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.51 | 1.11 | 1.00 | 0.56 | 0.00 | 0.00 | -1.4 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
+| 2026-07-17 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.50 | 1.11 | 1.00 | 0.56 | 0.00 | 0.00 | -1.4 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 | 2026-07-15 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.49 | 1.11 | 1.00 | 0.55 | 0.00 | 0.00 | -412.1 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 | 2026-07-14 | Without a Roof | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.49 | 1.26 | 1.00 | 0.62 | 0.00 | 0.00 | -8.3 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 | 2026-07-14 | Asoka | W | 2-0 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.48 | 1.26 | 1.00 | 0.61 | 0.12 | 0.61 | +13.2 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 | 2026-07-14 | Asoka | W | 2-0 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.48 | 1.26 | 1.00 | 0.61 | 0.12 | 0.00 | +124.6 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
-| 2026-06-09 | YHTR | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.25 | 1.02 | 1.00 | 0.26 | 0.00 | 0.00 | -136.2 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
-| 2026-06-06 | Abusement Park | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.23 | 1.02 | 1.00 | 0.24 | 0.02 | 0.24 | +201.1 | DoubleJays, ShortRound, _Rost_, dirtydrg, jOHN_ |
+| 2026-06-09 | YHTR | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.25 | 1.02 | 1.00 | 0.26 | 0.00 | 0.00 | -136.3 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
+| 2026-06-06 | Abusement Park | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.23 | 1.02 | 1.00 | 0.24 | 0.02 | 0.24 | +201.2 | DoubleJays, ShortRound, _Rost_, dirtydrg, jOHN_ |
 | 2026-05-31 | Endless Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.19 | 1.02 | 1.00 | 0.20 | 0.00 | 0.00 | -112.0 | Dogman123123, DoubleJays, ShortRound, _Rost_, dirtydrg |
-| 2026-05-28 | Oath | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.18 | 0.00 | 0.18 | +143.6 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
-| 2026-05-27 | Spin da block | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.01 | 0.17 | +61.6 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
+| 2026-05-28 | Oath | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.18 | 0.00 | 0.18 | +143.7 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
+| 2026-05-27 | Spin da block | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.16 | 1.02 | 1.00 | 0.17 | 0.01 | 0.17 | +61.5 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 | 2026-05-20 | Braindead | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +236.9 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
-| 2026-05-18 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -76.2 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
+| 2026-05-18 | TenToesDown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.10 | 0.00 | 0.00 | -76.3 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 | 2026-05-15 | academy 4 gifted children | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.09 | 0.03 | 0.09 | +370.9 | DoubleJays, ShortRound, _Rost_, dirtydrg, jOHN_ |
-| 2026-05-13 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -373.4 | DoubleJays, _Rost_, dirtydrg, jOHN_, rh0b |
+| 2026-05-13 | Square1 | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -373.5 | DoubleJays, _Rost_, dirtydrg, jOHN_, rh0b |
 | 2026-05-08 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +34.6 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
-| 2026-05-06 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +119.7 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
+| 2026-05-06 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.02 | +119.8 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

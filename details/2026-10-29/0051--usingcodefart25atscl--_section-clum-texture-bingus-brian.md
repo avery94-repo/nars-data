@@ -3,11 +3,11 @@ Team Name: UsingCodefArt25atSCL
 Roster: _Section, Clum, texture, bingus, brian
 NARS Rank: 51 of 494
 
-Final Rating: 1873.4
+Final Rating: 1873.5
 Seeded Start: 1324.5
-H2H Adjustment: +548.9 (capped at +-300, raw +549.0)
+H2H Adjustment: +549.0
 
-Final Rating (1873.4) = Seeded Start (1324.5) + H2H Adjustment (+548.9)
+Final Rating (1873.5) = Seeded Start (1324.5) + H2H Adjustment (+549.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Team Deathgrip | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +0.8 | CLOUDZINO, _Section, bingus, sascha, texture |
 | 2026-10-09 | on disability | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-07 | GOMI dot CLUB | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-09-18 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -99.2 | CLOUDZINO, Clum, bingus, snorkel, texture |
+| 2026-09-18 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.00 | 0.00 | -99.3 | CLOUDZINO, Clum, bingus, snorkel, texture |
 | 2026-09-17 | Veniversum | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.92 | 1.02 | 1.00 | 0.94 | 0.07 | 0.94 | +40.3 | CLOUDZINO, Clum, bingus, snorkel, texture |
 | 2026-09-15 | Team GREAT | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.90 | 1.02 | 1.00 | 0.93 | 0.06 | 0.93 | +77.7 | CLOUDZINO, bingus, brian, snorkel, texture |
 | 2026-09-12 | Bad Jawn | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.91 | 0.07 | 0.91 | +114.7 | Clum, _Section, bingus, snorkel, texture |

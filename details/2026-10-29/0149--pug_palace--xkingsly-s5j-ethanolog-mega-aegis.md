@@ -3,11 +3,11 @@ Team Name: Pug Palace
 Roster: Xkingsly, S5J, EthanolOG, Mega, aegis
 NARS Rank: 149 of 494
 
-Final Rating: 1582.5
+Final Rating: 1582.4
 Seeded Start: 1315.1
-H2H Adjustment: +267.4
+H2H Adjustment: +267.3
 
-Final Rating (1582.5) = Seeded Start (1315.1) + H2H Adjustment (+267.4)
+Final Rating (1582.4) = Seeded Start (1315.1) + H2H Adjustment (+267.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-08 | Holy Squid Empire | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.24 | 1.49 | +197.7 | EthanolOG, Mega, Pewster, S5J, Xkingsly |
 | 2026-08-25 | New Legends | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.48 | 1.00 | 1.13 | 0.00 | 0.00 | -2.5 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-08-14 | Holly Molly | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.48 | 1.00 | 1.03 | 0.00 | 0.00 | -28.0 | EthanolOG, Mega, S5J, Xkingsly, aegis |
-| 2026-08-14 | 027fam | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.48 | 1.00 | 1.03 | 0.00 | 0.00 | -63.9 | EthanolOG, Mega, S5J, Xkingsly, aegis |
+| 2026-08-14 | 027fam | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.48 | 1.00 | 1.02 | 0.00 | 0.00 | -63.9 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-08-12 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.48 | 1.00 | 1.00 | 0.20 | 1.00 | +98.9 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-08-05 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.63 | 1.48 | 1.00 | 0.94 | 0.00 | 0.00 | -85.8 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-07-31 | Room Temp IQs | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.48 | 1.00 | 0.89 | 0.00 | 0.00 | -305.8 | EthanolOG, Mega, S5J, Xkingsly, aegis |
@@ -45,7 +45,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-19 | Once Divine Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.39 | 1.00 | 0.15 | 0.00 | 0.00 | -452.7 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 | 2026-05-12 | Baatarz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.39 | 1.00 | 0.09 | 0.00 | 0.09 | +425.0 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 | 2026-05-08 | Aspyre | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.39 | 1.00 | 0.05 | 0.00 | 0.05 | +396.6 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
-| 2026-05-07 | Elisir Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.39 | 1.00 | 0.04 | 0.00 | 0.00 | -323.1 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
+| 2026-05-07 | Elisir Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.39 | 1.00 | 0.04 | 0.00 | 0.00 | -323.2 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 | 2026-05-06 | NuTorious | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.39 | 1.00 | 0.03 | 0.00 | 0.00 | -5.3 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-10 | JPG | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.87 | 1.01 | 1.00 | 0.88 | 0.00 | 0.00 | -18.1 | -py, Dane-_, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-09-08 | Team Auspex | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.86 | 1.01 | 1.00 | 0.86 | 0.06 | 0.86 | +154.2 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-09-06 | DadDick Esports | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.85 | 1.01 | 1.00 | 0.85 | 0.09 | 0.85 | +78.5 | -py, Dane-_, Destrcyer, HollowRin, Rezzzzzz, Rpx27 |
+| 2026-09-06 | DadDick Esports | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.84 | 1.01 | 1.00 | 0.85 | 0.09 | 0.85 | +78.5 | -py, Dane-_, Destrcyer, HollowRin, Rezzzzzz, Rpx27 |
 | 2026-09-04 | It Doesnt Matter | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.83 | 1.01 | 1.00 | 0.84 | 0.08 | 0.84 | +40.0 | -py, Destrcyer, HollowRin, Rezzzzzz, Rpx27, lore |
 | 2026-08-28 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.79 | 0.08 | 0.79 | +102.1 | -py, Destrcyer, HollowRin, Rezzzzzz, Rpx27 |
 | 2026-08-26 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.06 | 0.77 | +18.6 | -py, Destrcyer, Heylol, Rezzzzzz, Rpx27 |
@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -170.6 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-07-28 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +66.8 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-07-24 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.55 | 1.00 | 1.00 | 0.55 | 0.02 | 0.55 | +55.3 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-07-17 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.51 | 1.00 | 1.00 | 0.51 | 0.08 | 0.51 | +175.3 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
+| 2026-07-17 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.51 | 0.08 | 0.51 | +175.3 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-07-15 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -245.2 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-06-05 | Wide Swinging Wizards | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.00 | -34.5 | 1soprano, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-05-31 | We Play Naked | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.02 | 0.19 | +105.8 | 1soprano, Destrcyer, Heylol, Rezzzzzz, lore |

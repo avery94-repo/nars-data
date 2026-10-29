@@ -32,6 +32,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | T Shirt Material | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.03 | 0.86 | +109.7 | BoomService, Marukami, Tills, aero, noggen |
 | 2026-09-06 | Symbiose | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.03 | 0.84 | +105.7 | Marukami, Tills, aero, noggen, s4bre |
 | 2026-09-04 | fiveB | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -116.8 | BoomService, Marukami, Tills, aero, noggen, signifcnt |
-| 2026-09-02 | Duality Gaming | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.03 | 0.82 | +58.0 | BoomService, Marukami, Tills, aero, signifcnt |
+| 2026-09-02 | Duality Gaming | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.03 | 0.82 | +57.9 | BoomService, Marukami, Tills, aero, signifcnt |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

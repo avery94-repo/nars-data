@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Cultivate | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.88 | 0.03 | 0.88 | +75.9 | Minxy, Rush_X, madss, raven, yippeee |
 | 2026-09-04 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.87 | 0.00 | 0.00 | -151.5 | Minxy, Rush_X, madss, raven, yippeee |
 | 2026-09-02 | Voltaren Users | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.03 | 0.85 | +24.1 | Minxy, Rush_X, madss, raven, yippeee |
-| 2026-08-16 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -44.6 | Fawx, Minxy, Rush_X, Syn, raven |
+| 2026-08-16 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -44.6 | Fawx, Minxy, Rush_X, Syn, raven |
 | 2026-08-16 | Axial | W | 1-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.70 | 1.00 | 1.00 | 0.70 | 0.35 | 0.70 | +52.2 | Fawx, Minxy, Rush_X, Syn, raven |
 | 2026-08-16 | NYX | W | 1-0 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.70 | 1.00 | 1.00 | 0.70 | 0.08 | 0.70 | +32.3 | Fawx, Minxy, Rush_X, Syn, raven |
 | 2026-07-19 | Empressive | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.52 | 1.00 | 1.00 | 0.52 | 0.02 | 0.52 | +9.2 | Minxy, Rush_X, eLane, raven, yippeee |

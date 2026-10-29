@@ -3,11 +3,11 @@ Team Name: It Doesnt Matter
 Roster: xiph0s, Newmarket, Moxie2, asushi, Shittyfaceit
 NARS Rank: 453 of 494
 
-Final Rating: 871.2
+Final Rating: 871.1
 Seeded Start: 1255.4
-H2H Adjustment: -384.2
+H2H Adjustment: -384.3
 
-Final Rating (871.2) = Seeded Start (1255.4) + H2H Adjustment (-384.2)
+Final Rating (871.1) = Seeded Start (1255.4) + H2H Adjustment (-384.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -31,14 +31,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.05 | 0.77 | +8.2 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
 | 2026-08-21 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -113.6 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
 | 2026-08-19 | After Hours | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -146.1 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
-| 2026-08-14 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.07 | 0.69 | +98.4 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
-| 2026-08-12 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +40.3 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
+| 2026-08-14 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.07 | 0.69 | +98.5 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
+| 2026-08-12 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +40.4 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
 | 2026-08-07 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -67.6 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
-| 2026-08-05 | Flow Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.00 | 0.00 | -243.6 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
+| 2026-08-05 | Flow Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.00 | 0.00 | -243.7 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
 | 2026-07-31 | Mach 5 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +135.5 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
 | 2026-07-29 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -95.5 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
 | 2026-07-24 | VeryBigDoogoos | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.55 | 1.00 | 1.00 | 0.55 | 0.00 | 0.00 | -259.5 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
-| 2026-07-17 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.51 | 0.04 | 0.51 | +66.6 | -YeQiu, Newmarket, Shittyfaceit, xiph0s, zeep_glorp |
+| 2026-07-17 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.51 | 0.04 | 0.51 | +66.5 | -YeQiu, Newmarket, Shittyfaceit, xiph0s, zeep_glorp |
 | 2026-07-15 | Atlantis eSports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -137.9 | -YeQiu, Moxie2, Newmarket, Shittyfaceit, xiph0s |
 | 2026-06-03 | T Shirt Material | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.01 | 0.21 | +214.0 | 1peko, Moxie2, Newmarket, Shittyfaceit, xiph0s |
 | 2026-05-27 | Rush Hour | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +157.5 | 1peko, Moxie2, Newmarket, Shittyfaceit, xiph0s |

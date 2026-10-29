@@ -39,12 +39,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.04 | 0.60 | +255.5 | Karrato, Vulcanium, _bad, k-o-L, zed0K |
 | 2026-07-29 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -30.6 | Karrato, _bad, huskmane, k-o-L, zed0K |
 | 2026-07-24 | on disability | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.55 | 1.00 | 1.00 | 0.55 | 0.00 | 0.00 | -10.1 | CripserOG, Vulcanium, _bad, huskmane, zed0K |
-| 2026-07-17 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.51 | 1.00 | 1.00 | 0.51 | 0.00 | 0.00 | -3.1 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
+| 2026-07-17 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.50 | 0.00 | 0.00 | -3.1 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
 | 2026-07-15 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -220.6 | Karrato, _bad, huskmane, k-o-L, zed0K |
 | 2026-05-22 | GoopT | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.13 | 0.01 | 0.13 | +413.8 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
 | 2026-05-20 | AURA Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.00 | -4.4 | CripserOG, Karrato, _bad, k-o-L, zed0K |
 | 2026-05-15 | katzwitgunz | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -13.0 | CripserOG, Karrato, _bad, k-o-L, zed0K |
 | 2026-05-13 | SwagMonkeyHats | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -278.0 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
-| 2026-05-06 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -209.0 | Karrato, _bad, huskmane, k-o-L, zed0K |
+| 2026-05-06 | Diamond Mental | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -209.0 | Karrato, _bad, huskmane, k-o-L, zed0K |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

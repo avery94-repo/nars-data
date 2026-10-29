@@ -29,6 +29,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-10 | GodFather Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +152.4 | Buell, CarroHijo, Exp3rtPinky, cocomo, iced00 |
 | 2026-06-03 | Robert Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +259.4 | Buell, CarroHijo, Exp3rtPinky, cocomo, iced00 |
 | 2026-05-29 | NetanYAHOO | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -224.1 | Buell, CarroHijo, ItzMusa, Shave, cocomo |
-| 2026-05-27 | COGNITIVE | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.02 | 0.17 | +300.5 | Buell, CarroHijo, Exp3rtPinky, ItzMusa, cocomo |
+| 2026-05-27 | COGNITIVE | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.02 | 0.16 | +300.5 | Buell, CarroHijo, Exp3rtPinky, ItzMusa, cocomo |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

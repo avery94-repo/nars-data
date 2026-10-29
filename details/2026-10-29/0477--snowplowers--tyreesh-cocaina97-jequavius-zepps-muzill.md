@@ -5,7 +5,7 @@ NARS Rank: 477 of 494
 
 Final Rating: 728.6
 Seeded Start: 1194.6
-H2H Adjustment: -466.0
+H2H Adjustment: -466.0 (capped at +-300, raw -466.1)
 
 Final Rating (728.6) = Seeded Start (1194.6) + H2H Adjustment (-466.0)
 
@@ -35,9 +35,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.05 | 1.00 | 0.61 | 0.04 | 0.61 | +41.0 | IRAQISNIPERR, Jequavius, MUZILLA, Tyreesh, zepps |
 | 2026-07-24 | The Homies | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.55 | 1.05 | 1.00 | 0.58 | 0.00 | 0.00 | -16.5 | Cocaina97, Jequavius, MUZILLA, Tyreesh, zepps |
 | 2026-07-22 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.54 | 1.05 | 1.00 | 0.56 | 0.00 | 0.00 | -243.5 | IRAQISNIPERR, Jequavius, MUZILLA, Tyreesh, zepps |
-| 2026-07-17 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.50 | 1.05 | 1.00 | 0.53 | 0.00 | 0.00 | -238.1 | Cocaina97, Jequavius, MUZILLA, Tyreesh, zepps |
+| 2026-07-17 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.50 | 1.05 | 1.00 | 0.53 | 0.00 | 0.00 | -238.2 | Cocaina97, Jequavius, MUZILLA, Tyreesh, zepps |
 | 2026-07-15 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.49 | 1.05 | 1.00 | 0.52 | 0.00 | 0.00 | -85.3 | IRAQISNIPERR, Jequavius, MUZILLA, Tyreesh, zepps |
-| 2026-05-22 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.15 | 0.01 | 0.15 | +151.7 | Jequavius, MUZILLA, Tyreesh, lekiyagi, zepps |
+| 2026-05-22 | Climbers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.15 | 0.01 | 0.15 | +151.8 | Jequavius, MUZILLA, Tyreesh, lekiyagi, zepps |
 | 2026-05-21 | gooshedd | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.14 | 1.00 | 0.14 | 0.01 | 0.14 | +256.6 | Jequavius, MUZILLA, Tyreesh, lekiyagi, zepps |
 | 2026-05-06 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.03 | 0.00 | 0.00 | -183.8 | Cocaina97, Jequavius, NoWehes, Tyreesh, zepps |
 

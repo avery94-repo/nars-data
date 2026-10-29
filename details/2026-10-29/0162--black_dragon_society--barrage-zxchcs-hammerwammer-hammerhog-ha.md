@@ -4,14 +4,14 @@ Roster: BARRAGE, zxchcs, hammerwammer, hammerhog, hammerhouse
 NARS Rank: 162 of 494
 
 Final Rating: 1549.7
-Seeded Start: 1254.8
-H2H Adjustment: +294.9
+Seeded Start: 1254.9
+H2H Adjustment: +294.8
 
-Final Rating (1549.7) = Seeded Start (1254.8) + H2H Adjustment (+294.9)
+Final Rating (1549.7) = Seeded Start (1254.9) + H2H Adjustment (+294.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.111 x 1400 = 1254.8
+                = 1100 + 0.111 x 1400 = 1254.9
 
 seed_factor 0.111 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.023) + 0.25 x Opponent Network (0.326)
 
@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-17 | Fire Nation | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -71.0 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 | 2026-09-15 | WhiteBoyWinter | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.04 | 1.00 | 0.94 | 0.07 | 0.94 | +85.8 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 | 2026-09-08 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.04 | 1.00 | 0.89 | 0.00 | 0.00 | -38.9 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
-| 2026-09-04 | mokey mokey | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.87 | 0.06 | 0.87 | +128.7 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
+| 2026-09-04 | mokey mokey | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.87 | 0.06 | 0.87 | +128.8 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 | 2026-09-03 | Team Phys | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.86 | 0.03 | 0.86 | +182.9 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

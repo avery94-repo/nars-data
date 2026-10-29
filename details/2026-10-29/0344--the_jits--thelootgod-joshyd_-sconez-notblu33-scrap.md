@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-09 | REMM | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -51.4 | JoshyD_, Sconez, ScrappyScrew, Stupidblyat, notblu33 |
+| 2026-09-09 | REMM | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -51.4 | JoshyD_, Sconez, ScrappyScrew, Stupidblyat, notblu33 |
 | 2026-09-04 | team leader must 1v9 or L | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.02 | 0.83 | +236.9 | Sconez, ScrappyScrew, Stupidblyat, TheLootGod, mozgof |
 | 2026-09-02 | antiGrav | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.05 | 0.82 | +224.1 | JoshyD_, Sconez, ScrappyScrew, Stupidblyat, TheLootGod, mozgof |
 | 2026-06-02 | LAF | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.00 | -228.6 | JoshyD_, Sconez, ScrappyScrew, Stupidblyat, TheLootGod |

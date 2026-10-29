@@ -3,11 +3,11 @@ Team Name: Kushtaka
 Roster: JoNeSY, Nat3G, Kiki76, asmodeus, l0vely
 NARS Rank: 463 of 494
 
-Final Rating: 830.5
+Final Rating: 830.4
 Seeded Start: 1112.9
-H2H Adjustment: -282.4
+H2H Adjustment: -282.5
 
-Final Rating (830.5) = Seeded Start (1112.9) + H2H Adjustment (-282.4)
+Final Rating (830.4) = Seeded Start (1112.9) + H2H Adjustment (-282.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-17 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.51 | 0.00 | 0.00 | -0.1 | Kiki76, MAINESTREAM, Nat3G, asmodeus, surreaI |
 | 2026-07-15 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -2.0 | Kiki76, MAINESTREAM, Nat3G, asmodeus, l0vely |
-| 2026-05-29 | AURA Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -136.6 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
+| 2026-05-29 | AURA Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -136.7 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 | 2026-05-27 | de_throne | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.00 | 0.00 | -70.3 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 | 2026-05-22 | offBalance | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.13 | 0.00 | 0.00 | -388.0 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |
 | 2026-05-13 | Diamond Mental | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.01 | 0.07 | +398.1 | JoNeSY, Kiki76, Nat3G, asmodeus, l0vely |

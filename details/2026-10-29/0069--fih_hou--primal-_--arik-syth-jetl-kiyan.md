@@ -3,17 +3,17 @@ Team Name: fih hou
 Roster: Primal-_-, arik, syth, JetL, KIYAN
 NARS Rank: 69 of 494
 
-Final Rating: 1807.3
-Seeded Start: 1379.3
+Final Rating: 1807.4
+Seeded Start: 1379.4
 H2H Adjustment: +428.0
 
-Final Rating (1807.3) = Seeded Start (1379.3) + H2H Adjustment (+428.0)
+Final Rating (1807.4) = Seeded Start (1379.4) + H2H Adjustment (+428.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.200 x 1400 = 1379.3
+                = 1100 + 0.200 x 1400 = 1379.4
 
-seed_factor 0.200 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.039) + 0.25 x Opponent Network (0.650)
+seed_factor 0.200 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.039) + 0.25 x Opponent Network (0.651)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-21 | No Future Lifes Over | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.00 | 0.00 | -34.7 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-20 | Trap Castle | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.03 | 0.94 | +44.5 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-19 | AscendentEsport | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.07 | 0.93 | +60.9 | JetL, KIYAN, Primal-_-, arik, syth |
-| 2026-09-18 | Fourth Quarter | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.03 | 0.93 | +75.5 | JetL, KIYAN, Primal-_-, arik, syth |
+| 2026-09-18 | Fourth Quarter | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +75.5 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-10 | No Future Lifes Over | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -102.7 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-08 | VARTOVIK | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.06 | 0.86 | +151.1 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-09-04 | TELETUBEASTS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.06 | 0.83 | +118.7 | JetL, KIYAN, Primal-_-, arik, syth |

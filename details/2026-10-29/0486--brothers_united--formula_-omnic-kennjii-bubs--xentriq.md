@@ -5,7 +5,7 @@ NARS Rank: 486 of 494
 
 Final Rating: 634.3
 Seeded Start: 1128.7
-H2H Adjustment: -494.4 (capped at +-300, raw -494.3)
+H2H Adjustment: -494.4
 
 Final Rating (634.3) = Seeded Start (1128.7) + H2H Adjustment (-494.4)
 
@@ -27,11 +27,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -88.1 | -DavidTK-, Spearmint, XentriQ, bubs-, kenNjii |
 | 2026-07-24 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.55 | 1.00 | 1.00 | 0.55 | 0.00 | 0.00 | -265.7 | A1den, Omnic, XentriQ, bubs-, kenNjii |
 | 2026-07-22 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.05 | 0.54 | +137.0 | A1den, Omnic, XentriQ, bubs-, kenNjii |
-| 2026-07-20 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -104.3 | A1den, Omnic, XentriQ, bubs-, kenNjii |
+| 2026-07-20 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -104.3 | A1den, Omnic, XentriQ, bubs-, kenNjii |
 | 2026-07-15 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -343.2 | -DavidTK-, Omnic, XentriQ, forMula_, kenNjii |
-| 2026-05-22 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.13 | 0.00 | 0.13 | +399.5 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
-| 2026-05-15 | de_throne | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -249.0 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
-| 2026-05-13 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -167.3 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
+| 2026-05-22 | 37U Passion | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.13 | 0.00 | 0.13 | +399.6 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
+| 2026-05-15 | de_throne | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -249.1 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
+| 2026-05-13 | Saltcrew | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -167.4 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 | 2026-05-08 | dogwater | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +356.5 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 | 2026-05-05 | 929 Arrival Gang | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -169.8 | Omnic, XentriQ, bubs-, forMula_, kenNjii |
 

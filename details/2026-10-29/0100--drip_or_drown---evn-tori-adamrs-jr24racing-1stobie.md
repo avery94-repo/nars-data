@@ -28,9 +28,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | Alternate Earth | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +10.7 | -evN, 1stobie, CaV, Crunkee_, jr24racing |
 | 2026-10-14 | Afterimage | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +84.9 | -evN, 1stobie, CaV, Crunkee_, jr24racing |
 | 2026-09-17 | drunk cigs dont count | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.96 | 0.00 | 0.00 | -63.4 | -evN, 1stobie, AdamRS, Tori, jr24racing |
-| 2026-09-15 | brb grinding minecraft | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.91 | 1.04 | 1.00 | 0.94 | 0.07 | 0.94 | +7.9 | -evN, 1stobie, AdamRS, Tori, jr24racing |
+| 2026-09-15 | brb grinding minecraft | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.04 | 1.00 | 0.94 | 0.07 | 0.94 | +7.9 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-09 | DETONATE | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.86 | 1.41 | 1.00 | 1.22 | 0.00 | 0.00 | -0.6 | -evN, 1stobie, AdamRS, Tori, jr24racing |
-| 2026-09-08 | The Kerbins | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.04 | 1.00 | 0.89 | 0.00 | 0.00 | -210.7 | -evN, 1stobie, AdamRS, Tori, jr24racing |
+| 2026-09-08 | The Kerbins | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.04 | 1.00 | 0.89 | 0.00 | 0.00 | -210.8 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-05 | Cortex Jellies | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.87 | 0.07 | 0.87 | +3.5 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-04 | pnks pretty princesses | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.87 | 0.03 | 0.87 | +2.0 | -evN, 1stobie, AdamRS, Tori, jr24racing |
 | 2026-09-02 | 5_gamers_wrong_game | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.03 | 0.85 | +0.3 | -evN, 1stobie, AdamRS, Tori, jr24racing |

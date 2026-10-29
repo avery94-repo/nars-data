@@ -4,14 +4,14 @@ Roster: egaK, Redman_-, 1icarus, Zaakaa, 1citron
 NARS Rank: 156 of 494
 
 Final Rating: 1567.7
-Seeded Start: 1199.1
-H2H Adjustment: +368.6
+Seeded Start: 1199.0
+H2H Adjustment: +368.7
 
-Final Rating (1567.7) = Seeded Start (1199.1) + H2H Adjustment (+368.6)
+Final Rating (1567.7) = Seeded Start (1199.0) + H2H Adjustment (+368.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.071 x 1400 = 1199.1
+                = 1100 + 0.071 x 1400 = 1199.0
 
 seed_factor 0.071 = 0.25 x Tier Exposure (0.041) + 0.50 x Quality Wins (0.016) + 0.25 x Opponent Network (0.210)
 
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | Adria eSports | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.04 | 1.00 | 0.91 | 0.06 | 0.91 | +81.1 | 1icarus, DaRkHaWk72, Johnny316, ctrn, lelgfnoob |
+| 2026-09-10 | Adria eSports | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.04 | 1.00 | 0.91 | 0.06 | 0.91 | +81.2 | 1icarus, DaRkHaWk72, Johnny316, ctrn, lelgfnoob |
 | 2026-09-07 | MEET THE WALL - DEAD | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.85 | 1.04 | 1.00 | 0.89 | 0.00 | 0.00 | -170.8 | 1icarus, Zaakaa, ctrn, egaK, mock |
 | 2026-09-04 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.87 | 0.13 | 0.87 | +98.4 | 1icarus, ctrn, egaK, lelgfnoob, mock |
 | 2026-09-02 | Lemon Party | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.03 | 0.85 | +17.5 | 1icarus, CH4RG3R, Johnny316, ctrn, egaK |

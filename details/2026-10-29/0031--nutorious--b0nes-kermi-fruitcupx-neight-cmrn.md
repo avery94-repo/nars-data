@@ -11,9 +11,9 @@ Final Rating (2009.4) = Seeded Start (2086.3) + H2H Adjustment (-76.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.705 x 1400 = 2086.3
+                = 1100 + 0.704 x 1400 = 2086.3
 
-seed_factor 0.705 = 0.25 x Tier Exposure (0.833) + 0.50 x Quality Wins (0.536) + 0.25 x Opponent Network (0.913)
+seed_factor 0.704 = 0.25 x Tier Exposure (0.833) + 0.50 x Quality Wins (0.536) + 0.25 x Opponent Network (0.913)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -29,14 +29,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Skyline | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.54 | 1.49 | +54.5 | cmrn, ditt77, kermi, neight, vin33 |
 | 2026-10-09 | NZ Gaming | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.15 | 1.49 | +146.4 | b0nes, cmrn, kermi, neight, vin33 |
 | 2026-09-24 | Villainous | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.54 | 0.00 | 0.00 | -54.2 | core 3/5 |
-| 2026-09-23 | OVERKNIGHT | W |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.53 | 1.15 | 0.00 | +27.5 | core 3/5 |
+| 2026-09-23 | OVERKNIGHT | W |  | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.53 | 1.15 | 0.00 | +27.6 | core 3/5 |
 | 2026-09-22 | Zomblers | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.95 | 1.57 | 1.00 | 1.50 | 0.00 | 0.00 | -26.5 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-09-22 | FarmVille | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.95 | 1.60 | 1.00 | 1.52 | 0.00 | 0.00 | -23.7 | core 3/5 |
-| 2026-09-21 | Phantom Sense | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.95 | 1.57 | 1.00 | 1.49 | 0.48 | 1.49 | +17.0 | b0nes, cmrn, kermi, neight, vin33 |
+| 2026-09-21 | Phantom Sense | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.94 | 1.57 | 1.00 | 1.49 | 0.48 | 1.49 | +17.0 | b0nes, cmrn, kermi, neight, vin33 |
 | 2026-09-18 | Without a Roof | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.92 | 1.57 | 1.00 | 1.45 | 0.00 | 0.00 | -0.4 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-09-16 | Slimy Boogermen | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.91 | 1.57 | 1.00 | 1.43 | 0.23 | 0.00 | +28.1 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-09-16 | Overtake Sector | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.91 | 1.60 | 1.00 | 1.46 | 0.00 | 0.00 | -1.7 | core 3/5 |
-| 2026-09-15 | North Forge | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.91 | 1.57 | 1.00 | 1.42 | 0.38 | 0.00 | +37.4 | Fruitcupx, b0nes, cmrn, kermi, neight |
+| 2026-09-15 | North Forge | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.90 | 1.57 | 1.00 | 1.42 | 0.38 | 0.00 | +37.4 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-09-15 | Slimy Boogermen | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 0.23 | 0.00 | +44.0 | core 3/5 |
 | 2026-09-12 | LAG Gaming | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.88 | 1.57 | 1.00 | 1.39 | 0.00 | 0.00 | -0.2 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-09-11 | LAG Gaming | L |  | VRS-tracked 2026-09 | A | vrs | 0.88 | 1.60 | 1.00 | 1.40 | 0.00 | 0.00 | -0.3 | core 3/5 |
@@ -70,24 +70,24 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Playing for fun | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.55 | 1.48 | 1.00 | 0.82 | 0.00 | 0.00 | -79.4 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-07-22 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.54 | 1.48 | 1.00 | 0.80 | 0.12 | 0.80 | +113.1 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-07-12 | NRG | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.47 | 1.60 | 1.00 | 0.75 | 0.00 | 0.00 | -0.8 | core 3/5 |
-| 2026-07-12 | SEOUL | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.47 | 1.60 | 1.00 | 0.75 | 0.57 | 0.00 | +414.3 | core 3/5 |
+| 2026-07-12 | SEOUL | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.47 | 1.60 | 1.00 | 0.75 | 0.56 | 0.00 | +414.4 | core 3/5 |
 | 2026-07-12 | Villainous | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.47 | 1.60 | 1.00 | 0.75 | 0.00 | 0.00 | -112.2 | core 3/5 |
 | 2026-07-09 | Voca | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.00 | 0.00 | -0.5 | core 3/5 |
 | 2026-06-13 | Wanted Goons | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.28 | 1.53 | 1.00 | 0.43 | 0.00 | 0.00 | -108.8 | Grimblee, Signal, b0nes, cmrn, kermi, neight |
-| 2026-06-12 | Wanted Goons | L |  | VRS-tracked 2026-06 | A | vrs | 0.27 | 1.60 | 1.00 | 0.43 | 0.00 | 0.00 | -230.0 | core 3/5 |
+| 2026-06-12 | Wanted Goons | L |  | VRS-tracked 2026-06 | A | vrs | 0.27 | 1.60 | 1.00 | 0.43 | 0.00 | 0.00 | -230.1 | core 3/5 |
 | 2026-06-11 | unreal nightmare | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.27 | 1.53 | 1.00 | 0.41 | 0.28 | 0.00 | +61.8 | Grimblee, Signal, b0nes, kermi, neight |
 | 2026-06-11 | Marsborne | L |  | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.42 | 0.00 | 0.00 | -0.6 | core 3/5 |
-| 2026-06-09 | Desi Boyz | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.25 | 1.53 | 1.00 | 0.39 | 0.32 | 0.39 | +255.8 | Signal, b0nes, cmrn, kermi, neight |
+| 2026-06-09 | Desi Boyz | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.25 | 1.53 | 1.00 | 0.39 | 0.32 | 0.39 | +255.9 | Signal, b0nes, cmrn, kermi, neight |
 | 2026-06-03 | Beyond Limits | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.21 | 1.53 | 1.00 | 0.32 | 0.00 | 0.00 | -167.5 | Signal, b0nes, cmrn, kermi, neight |
 | 2026-05-30 | Chicken Coop | L |  | VRS-tracked 2026-05 | A | vrs | 0.18 | 1.60 | 1.00 | 0.29 | 0.00 | 0.00 | -11.3 | core 3/5 |
 | 2026-05-30 | absolute cinema | W |  | VRS-tracked 2026-05 | A | vrs | 0.18 | 1.60 | 1.00 | 0.29 | 0.03 | 0.29 | +1.0 | core 3/5 |
-| 2026-05-30 | FRZ | W |  | VRS-tracked 2026-05 | A | vrs | 0.18 | 1.60 | 1.00 | 0.29 | 0.22 | 0.00 | +408.8 | core 3/5 |
+| 2026-05-30 | FRZ | W |  | VRS-tracked 2026-05 | A | vrs | 0.18 | 1.60 | 1.00 | 0.29 | 0.22 | 0.00 | +408.9 | core 3/5 |
 | 2026-05-30 | makeSHIFT | W |  | VRS-tracked 2026-05 | A | vrs | 0.18 | 1.60 | 1.00 | 0.29 | 0.04 | 0.29 | +0.5 | core 3/5 |
-| 2026-05-30 | Reign Above | L |  | VRS-tracked 2026-05 | A | vrs | 0.18 | 1.60 | 1.00 | 0.29 | 0.00 | 0.00 | -387.0 | core 3/5 |
+| 2026-05-30 | Reign Above | L |  | VRS-tracked 2026-05 | A | vrs | 0.18 | 1.60 | 1.00 | 0.29 | 0.00 | 0.00 | -387.1 | core 3/5 |
 | 2026-05-30 | unreal nightmare | W |  | VRS-tracked 2026-05 | A | vrs | 0.18 | 1.60 | 1.00 | 0.29 | 0.20 | 0.00 | +15.2 | core 3/5 |
 | 2026-05-21 | skebob | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.17 | 0.01 | 0.17 | +166.4 | Signal, b0nes, cmrn, kermi, neight |
-| 2026-05-20 | Baatarz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.16 | 0.00 | 0.16 | +247.3 | Signal, b0nes, cmrn, kermi, neight |
-| 2026-05-19 | NineFly Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.39 | 1.00 | 0.16 | 0.00 | 0.00 | -282.9 | Signal, b0nes, cmrn, kermi, neight |
+| 2026-05-20 | Baatarz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.16 | 0.00 | 0.16 | +247.4 | Signal, b0nes, cmrn, kermi, neight |
+| 2026-05-19 | NineFly Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.39 | 1.00 | 0.15 | 0.00 | 0.00 | -282.9 | Signal, b0nes, cmrn, kermi, neight |
 | 2026-05-13 | Xiaoma Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.39 | 1.00 | 0.10 | 0.00 | 0.00 | -160.5 | Signal, b0nes, cmrn, kermi, neight |
 | 2026-05-12 | Shimmer | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.39 | 1.00 | 0.09 | 0.03 | 0.09 | +1.4 | Signal, b0nes, cmrn, kermi, neight |
 | 2026-05-06 | Pug Palace | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.39 | 1.00 | 0.03 | 0.00 | 0.03 | +5.3 | Signal, b0nes, cmrn, kermi, neight |

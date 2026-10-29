@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | UncsStillGotIt | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -26.5 | Belloq, Snooplez, duw, kil0, munto |
 | 2026-10-09 | OPOZIT | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-09-10 | Samantha 4 | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.87 | 1.11 | 1.00 | 0.97 | 0.00 | 0.00 | -108.4 | Snooplez, absolut-, duw, kil0, munto |
-| 2026-09-06 | CN Chill Boyz | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.85 | 1.11 | 1.00 | 0.94 | 0.00 | 0.00 | -133.3 | Snooplez, absolut-, duw, kil0, munto |
+| 2026-09-06 | CN Chill Boyz | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.85 | 1.11 | 1.00 | 0.94 | 0.00 | 0.00 | -133.4 | Snooplez, absolut-, duw, kil0, munto |
 | 2026-09-04 | washed | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.83 | 1.11 | 1.00 | 0.92 | 0.03 | 0.92 | +214.1 | Snooplez, absolut-, duw, kil0, munto |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

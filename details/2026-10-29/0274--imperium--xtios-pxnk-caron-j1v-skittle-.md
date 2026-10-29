@@ -25,11 +25,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-16 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.50 | 1.48 | 1.00 | 0.74 | 0.00 | 0.00 | -399.5 | Usotsuki, caron, pxnk, skittle-, xtios |
-| 2026-07-15 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.49 | 1.48 | 1.00 | 0.73 | 0.08 | 0.73 | +422.9 | Usotsuki, caron, pxnk, skittle-, xtios |
-| 2026-05-21 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.17 | 0.03 | 0.17 | +382.9 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-07-15 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.49 | 1.48 | 1.00 | 0.73 | 0.08 | 0.73 | +423.0 | Usotsuki, caron, pxnk, skittle-, xtios |
+| 2026-05-21 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.17 | 0.03 | 0.17 | +383.0 | caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-14 | Asian Invasion | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.39 | 1.00 | 0.11 | 0.00 | 0.00 | -62.2 | Usotsuki, caron, j1v, pxnk, skittle-, xtios |
 | 2026-05-12 | Holly Molly | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.07 | 1.39 | 1.00 | 0.09 | 0.00 | 0.00 | -137.4 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-05-06 | GRIT | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.39 | 1.00 | 0.03 | 0.00 | 0.00 | -18.3 | caron, j1v, pxnk, skittle-, xtios |
-| 2026-05-05 | Celestial Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.39 | 1.00 | 0.03 | 0.00 | 0.00 | -8.0 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-05-06 | GRIT | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.39 | 1.00 | 0.03 | 0.00 | 0.00 | -18.3 | caron, j1v, pxnk, skittle-, xtios |
+| 2026-05-05 | Celestial Esports | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.39 | 1.00 | 0.02 | 0.00 | 0.00 | -8.0 | caron, j1v, pxnk, skittle-, xtios |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

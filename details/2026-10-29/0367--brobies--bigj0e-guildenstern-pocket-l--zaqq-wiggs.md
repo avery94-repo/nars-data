@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | UncsStillGotIt | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -40.0 | Guildenstern, Pocket-l-, Swerv0, TheArtist, ZAQQ |
 | 2026-10-07 | VARTOVIK | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -56.7 | Guildenstern, PinkTM, Pocket-l-, Swerv0, ZAQQ |
 | 2026-09-10 | AscendentEsport | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -115.2 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
-| 2026-09-06 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.00 | 0.00 | -139.1 | BIGJ0E, Guildenstern, Tristy_, WiggSplitter, ZAQQ |
+| 2026-09-06 | Vibe Check | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.00 | 0.00 | -139.1 | BIGJ0E, Guildenstern, Tristy_, WiggSplitter, ZAQQ |
 | 2026-09-04 | Knox Esports | W | 1-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.06 | 0.83 | +32.9 | BIGJ0E, Guildenstern, TheArtist, WiggSplitter, ZAQQ |
 | 2026-09-02 | Will of Dih | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.06 | 0.82 | +374.8 | BIGJ0E, Guildenstern, Pocket-l-, WiggSplitter, ZAQQ |
 

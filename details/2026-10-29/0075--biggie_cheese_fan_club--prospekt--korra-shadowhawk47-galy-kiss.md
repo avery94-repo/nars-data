@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Mongolian Tractor | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-09 | Mace Lindu Ruff Rebound | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +5.7 | Jackpot, Owen, galy, korra, prospekt- |
 | 2026-10-07 | de_throne | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +0.7 | Jackpot, SHADOWHAWK47, galy, korra, prospekt- |
-| 2026-09-18 | CN Chill Boyz | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.93 | 1.11 | 1.00 | 1.03 | 0.08 | 1.03 | +87.2 | SHADOWHAWK47, galy, kiss, korra, prospekt- |
+| 2026-09-18 | CN Chill Boyz | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.92 | 1.11 | 1.00 | 1.03 | 0.08 | 1.03 | +87.2 | SHADOWHAWK47, galy, kiss, korra, prospekt- |
 | 2026-09-15 | COGNITIVE | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.91 | 1.11 | 1.00 | 1.00 | 0.12 | 1.00 | +108.3 | Kybrid, galy, kiss, korra, prospekt- |
 | 2026-09-08 | Good Vibes Gaming | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.86 | 1.11 | 1.00 | 0.95 | 0.00 | 0.00 | -103.1 | Kybrid, SHADOWHAWK47, kiss, korra, prospekt- |
 | 2026-09-06 | The ESEA Clout Tokens | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.85 | 1.11 | 1.00 | 0.94 | 0.07 | 0.94 | +74.6 | SHADOWHAWK47, galy, kiss, korra, prospekt- |

@@ -4,14 +4,14 @@ Roster: RMV1207, Enkae, Nabaki, coolgamer42, Spectur-
 NARS Rank: 59 of 494
 
 Final Rating: 1842.8
-Seeded Start: 1421.5
-H2H Adjustment: +421.3
+Seeded Start: 1421.4
+H2H Adjustment: +421.4
 
-Final Rating (1842.8) = Seeded Start (1421.5) + H2H Adjustment (+421.3)
+Final Rating (1842.8) = Seeded Start (1421.4) + H2H Adjustment (+421.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.230 x 1400 = 1421.5
+                = 1100 + 0.230 x 1400 = 1421.4
 
 seed_factor 0.230 = 0.25 x Tier Exposure (0.149) + 0.50 x Quality Wins (0.106) + 0.25 x Opponent Network (0.557)
 
@@ -34,11 +34,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.48 | 1.00 | 1.14 | 0.16 | 1.14 | +12.8 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-08-20 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.73 | 1.48 | 1.00 | 1.08 | 0.12 | 1.08 | +9.5 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-08-12 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.48 | 1.00 | 1.00 | 0.05 | 1.00 | +134.0 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
-| 2026-08-11 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.48 | 1.00 | 1.00 | 0.00 | 0.00 | -0.1 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
-| 2026-08-06 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.48 | 1.00 | 0.95 | 0.00 | 0.00 | -58.0 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
+| 2026-08-11 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.48 | 1.00 | 0.99 | 0.00 | 0.00 | -0.1 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
+| 2026-08-06 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.48 | 1.00 | 0.95 | 0.00 | 0.00 | -57.9 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-08-05 | SOLA GAMING | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.63 | 1.48 | 1.00 | 0.94 | 0.04 | 0.94 | +63.4 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
 | 2026-08-04 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.48 | 1.00 | 0.93 | 0.14 | 0.93 | +437.8 | Enkae, RMV1207, Spectur-, coolgamer42, emile- |
-| 2026-05-21 | Imperium | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.17 | 0.00 | 0.00 | -369.4 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
+| 2026-05-21 | Imperium | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.17 | 0.00 | 0.00 | -369.5 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
 | 2026-05-21 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.17 | 0.04 | 0.17 | +224.8 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
 | 2026-05-20 | Desi Boyz | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.16 | 0.00 | 0.00 | -27.0 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |
 | 2026-05-15 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.39 | 1.00 | 0.12 | 0.00 | 0.00 | -0.3 | Enkae, Nabaki, RMV1207, Spectur-, coolgamer42 |

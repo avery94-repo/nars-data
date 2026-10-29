@@ -3,11 +3,11 @@ Team Name: Stubbys
 Roster: PenguinSWAGX, ZManFan, SupaDuperCam, CJP, Spunki
 NARS Rank: 341 of 494
 
-Final Rating: 1196.2
+Final Rating: 1196.1
 Seeded Start: 1167.3
-H2H Adjustment: +28.9
+H2H Adjustment: +28.8
 
-Final Rating (1196.2) = Seeded Start (1167.3) + H2H Adjustment (+28.9)
+Final Rating (1196.1) = Seeded Start (1167.3) + H2H Adjustment (+28.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,6 +30,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Junior Varsity Esports | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.03 | 0.84 | +145.3 | CJP, PenguinSWAGX, Spunki, SupaDuperCam, ZManFan |
 | 2026-06-10 | Praise Jame | L | 0-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -282.4 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
 | 2026-06-03 | Boomhogs 2 | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.01 | 0.21 | +139.8 | CJP, Matthewpops, PenguinSWAGX, Spunki, ZManFan |
-| 2026-05-27 | Code Oblivion | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.00 | 0.17 | +192.6 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
+| 2026-05-27 | Code Oblivion | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +192.6 | CJP, PenguinSWAGX, Spunki, ZManFan, e1ghtzmx |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

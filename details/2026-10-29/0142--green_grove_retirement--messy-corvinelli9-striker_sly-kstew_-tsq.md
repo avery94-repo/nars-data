@@ -3,11 +3,11 @@ Team Name: Green Grove Retirement
 Roster: Messy, Corvinelli9, Striker_Sly, kstew_, TSQRD
 NARS Rank: 142 of 494
 
-Final Rating: 1592.3
+Final Rating: 1592.4
 Seeded Start: 1326.3
-H2H Adjustment: +266.0
+H2H Adjustment: +266.1
 
-Final Rating (1592.3) = Seeded Start (1326.3) + H2H Adjustment (+266.0)
+Final Rating (1592.4) = Seeded Start (1326.3) + H2H Adjustment (+266.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | OnThaGear | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +1.8 | Corvinelli9, Messy, Striker_Sly, TSQRD, kstew_ |
 | 2026-10-07 | 69 | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-09-20 | Swole Patrol | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.94 | 1.02 | 1.00 | 0.96 | 0.00 | 0.00 | -50.3 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |
-| 2026-09-19 | ODIN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.07 | 0.95 | +64.5 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |
+| 2026-09-19 | ODIN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.07 | 0.95 | +64.6 | Corvinelli9, Messy, TSQRD, fuhlexer, kstew_ |
 | 2026-09-18 | UsingCodefArt25atSCL | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.93 | 1.02 | 1.00 | 0.95 | 0.07 | 0.95 | +101.3 | Corvinelli9, Messy, Striker_Sly, TSQRD, fuhlexer |
 | 2026-09-10 | Swole Patrol | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.00 | 0.00 | -54.8 | Messy, Striker_Sly, TSQRD, fuhlexer, kstew_ |
 | 2026-09-08 | Alternate Earth | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.06 | 0.88 | +91.9 | Corvinelli9, Messy, Striker_Sly, TSQRD, kstew_ |

@@ -40,16 +40,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Kevin James Fan Club | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.73 | 0.08 | 0.73 | +20.9 | A1phonious, BaII, Connr, jacob-uwu, raymer |
 | 2026-08-18 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.72 | 1.49 | 1.00 | 1.07 | 0.12 | 1.07 | +0.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-14 | Team Auspex | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.05 | 0.69 | +111.2 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-13 | Conscious Gaming | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.69 | 1.49 | 1.00 | 1.02 | 0.16 | 1.02 | +124.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-13 | Conscious Gaming | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.69 | 1.49 | 1.00 | 1.02 | 0.16 | 1.02 | +124.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-13 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.68 | 1.49 | 1.00 | 1.02 | 0.00 | 0.00 | -15.4 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-12 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +97.3 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-11 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -189.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-05 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.09 | 0.63 | +98.2 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-11 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -189.8 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-05 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.09 | 0.63 | +98.3 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-02 | Drip or Drown | L | 1-2 | SoFlo Slam 2 | C | faceit-tournament | 0.62 | 1.10 | 1.00 | 0.68 | 0.00 | 0.00 | -154.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-01 | F5 Esports | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.61 | 1.10 | 1.00 | 0.67 | 0.00 | 0.00 | -213.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-01 | D1NK Esports | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.61 | 1.10 | 1.00 | 0.67 | 0.08 | 0.00 | +109.3 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-07-31 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.06 | 0.60 | +15.6 | A1phonious, Blaine, Connr, jacob-uwu, raymer |
-| 2026-07-29 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +90.7 | A1phonious, Blaine, Connr, jacob-uwu, raymer |
+| 2026-07-29 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.59 | 0.07 | 0.59 | +90.7 | A1phonious, Blaine, Connr, jacob-uwu, raymer |
 | 2026-07-24 | The Ohio Meat Wagon | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.55 | 1.00 | 1.00 | 0.55 | 0.04 | 0.55 | +208.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-07-22 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.05 | 0.54 | +5.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-07-17 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.51 | 0.04 | 0.51 | +11.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |

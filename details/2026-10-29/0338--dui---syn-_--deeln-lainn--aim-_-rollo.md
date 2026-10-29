@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.15 | 0.00 | 0.00 | -77.0 | -syN-_-, Aim-_, Clavis, LaiNN-, deeLN |
-| 2026-05-20 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.14 | 1.00 | 0.13 | 0.00 | 0.00 | -264.1 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
+| 2026-05-20 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.14 | 1.00 | 0.13 | 0.00 | 0.00 | -264.2 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
 | 2026-05-14 | DNA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.14 | 1.00 | 0.09 | 0.00 | 0.09 | +5.3 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
-| 2026-05-13 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.08 | 0.02 | 0.08 | +407.8 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
+| 2026-05-13 | Asoka | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.08 | 0.02 | 0.08 | +407.9 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
 | 2026-05-08 | Dude Picks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.14 | 1.00 | 0.04 | 0.00 | 0.00 | -380.1 | -syN-_-, Aim-_, Clavis, LaiNN-, RoLLo, deeLN |
 | 2026-05-07 | BucketJonsBoys | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.14 | 1.00 | 0.04 | 0.01 | 0.04 | +403.1 | -syN-_-, Aim-_, LaiNN-, RoLLo, deeLN |
 

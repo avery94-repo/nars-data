@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-20 | Without a Roof | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.94 | 1.57 | 1.00 | 1.48 | 1.48 | 1.48 | +130.0 | 1dvrk, AKTEP_TEATPA, Zucar, brennan, sasha |
 | 2026-09-17 | babaG | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.92 | 1.57 | 1.00 | 1.44 | 0.57 | 1.44 | +64.9 | 1dvrk, AKTEP_TEATPA, Zucar, brennan, sasha |
 | 2026-09-15 | Addice | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.90 | 1.57 | 1.00 | 1.42 | 0.28 | 1.42 | +1.6 | 1dvrk, AKTEP_TEATPA, Zucar, brennan, sasha |
-| 2026-09-11 | Marsborne | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.88 | 1.60 | 1.00 | 1.41 | 0.00 | 0.00 | -14.1 | 1dvrk, AKTEP_TEATPA, Zucar, brennan, sasha |
+| 2026-09-11 | Marsborne | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.88 | 1.60 | 1.00 | 1.41 | 0.00 | 0.00 | -14.2 | 1dvrk, AKTEP_TEATPA, Zucar, brennan, sasha |
 | 2026-09-11 | LAG Gaming | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.88 | 1.60 | 1.00 | 1.41 | 0.00 | 0.00 | -1.5 | 1dvrk, AKTEP_TEATPA, Zucar, brennan, sasha |
 | 2026-09-10 | LAG Gaming | L |  | VRS-tracked 2026-09 | A | vrs | 0.87 | 1.60 | 1.00 | 1.39 | 0.00 | 0.00 | -1.6 | core 3/5 |
 | 2026-09-06 | Axial | W |  | VRS-tracked 2026-09 | A | vrs | 0.84 | 1.60 | 1.00 | 1.35 | 0.68 | 1.35 | +15.3 | core 3/5 |
@@ -51,7 +51,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-30 | FOR FUN | L |  | VRS-tracked 2026-08 | A | vrs | 0.80 | 1.60 | 1.00 | 1.28 | 0.00 | 0.00 | -23.7 | core 3/5 |
 | 2026-08-29 | DETONATE | L | 0-1 | VRS-tracked 2026-08 | A | vrs | 0.79 | 1.60 | 1.00 | 1.27 | 0.00 | 0.00 | -66.8 | core 3/5 |
 | 2026-08-29 | Skyline | W |  | VRS-tracked 2026-08 | A | vrs | 0.79 | 1.60 | 1.00 | 1.27 | 0.46 | 1.27 | +12.2 | core 3/5 |
-| 2026-08-24 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.48 | 1.00 | 1.12 | 0.00 | 0.00 | -107.8 | 1dvrk, H0NeST, Zucar, brennan, sasha |
+| 2026-08-24 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.48 | 1.00 | 1.12 | 0.00 | 0.00 | -107.9 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-21 | Chicken Coop | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.48 | 1.00 | 1.09 | 0.00 | 0.00 | -104.7 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-21 | Club 333 | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.48 | 1.00 | 1.09 | 0.00 | 0.00 | -12.2 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-08-19 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.48 | 1.00 | 1.07 | 0.00 | 0.00 | -55.8 | 1dvrk, H0NeST, Zucar, brennan, sasha |
@@ -67,9 +67,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.54 | 1.48 | 1.00 | 0.80 | 0.00 | 0.00 | -225.3 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-07-17 | skebob | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.50 | 1.48 | 1.00 | 0.75 | 0.02 | 0.75 | +0.0 | 1dvrk, H0NeST, Zucar, brennan, sasha |
 | 2026-07-15 | Beyond Limits | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.49 | 1.48 | 1.00 | 0.73 | 0.47 | 0.73 | +0.0 | 1dvrk, H0NeST, Zucar, brennan, sasha |
-| 2026-07-10 | Voca | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.46 | 1.60 | 1.00 | 0.73 | 0.00 | 0.00 | -349.9 | core 3/5 |
-| 2026-07-09 | Marsborne | W | 2-1 | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.72 | 0.72 | +320.5 | core 3/5 |
-| 2026-07-09 | Club 333 | W | 2-1 | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.55 | 0.72 | +73.3 | core 3/5 |
+| 2026-07-10 | Voca | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.46 | 1.60 | 1.00 | 0.73 | 0.00 | 0.00 | -350.0 | core 3/5 |
+| 2026-07-09 | Marsborne | W | 2-1 | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.72 | 0.72 | +320.6 | core 3/5 |
+| 2026-07-09 | Club 333 | W | 2-1 | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.55 | 0.72 | +73.4 | core 3/5 |
 | 2026-07-02 | raisedbypixels | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.40 | 1.60 | 1.00 | 0.65 | 0.08 | 0.65 | +12.2 | core 3/5 |
 | 2026-06-29 | Villainous | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.54 | 0.61 | +307.8 | core 3/5 |
 

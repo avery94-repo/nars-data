@@ -4,14 +4,14 @@ Roster: infave, cafune, Noahhh, SEAN, Krels
 NARS Rank: 114 of 494
 
 Final Rating: 1649.8
-Seeded Start: 1398.5
-H2H Adjustment: +251.3
+Seeded Start: 1398.3
+H2H Adjustment: +251.5
 
-Final Rating (1649.8) = Seeded Start (1398.5) + H2H Adjustment (+251.3)
+Final Rating (1649.8) = Seeded Start (1398.3) + H2H Adjustment (+251.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.213 x 1400 = 1398.5
+                = 1100 + 0.213 x 1400 = 1398.3
 
 seed_factor 0.213 = 0.25 x Tier Exposure (0.113) + 0.50 x Quality Wins (0.062) + 0.25 x Opponent Network (0.616)
 
@@ -29,10 +29,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | Sleepers | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +13.5 | Noahhh, Renim, SEAN, Zazu, blegh |
 | 2026-10-14 | Down To Frag | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -15.8 | Noahhh, Renim, SEAN, Zazu, blegh |
 | 2026-10-07 | Tractors | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.19 | 1.03 | +27.3 | Noahhh, Renim, SEAN, blegh, infave |
-| 2026-09-06 | Wiggle Peeks | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.85 | 1.08 | 1.00 | 0.91 | 0.09 | 0.91 | +8.2 | Krels, Renim, SEAN, blegh, infave |
+| 2026-09-06 | Wiggle Peeks | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.84 | 1.08 | 1.00 | 0.91 | 0.09 | 0.91 | +8.2 | Krels, Renim, SEAN, blegh, infave |
 | 2026-09-04 | Wolves | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.83 | 1.08 | 1.00 | 0.90 | 0.00 | 0.00 | -19.4 | Noahhh, Renim, SEAN, blegh, infave |
 | 2026-09-02 | TEMPR | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.82 | 1.08 | 1.00 | 0.88 | 0.06 | 0.88 | +19.7 | Noahhh, Renim, SEAN, blegh, infave |
-| 2026-08-28 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.05 | 1.00 | 0.82 | 0.09 | 0.82 | +74.1 | Krels, Noahhh, Renim, SEAN, blegh |
+| 2026-08-28 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.78 | 1.05 | 1.00 | 0.82 | 0.09 | 0.82 | +74.2 | Krels, Noahhh, Renim, SEAN, blegh |
 | 2026-08-26 | Team Amplus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.05 | 1.00 | 0.81 | 0.00 | 0.00 | -94.6 | Noahhh, Renim, SEAN, blegh, infave |
 | 2026-08-21 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.74 | 1.05 | 1.00 | 0.77 | 0.06 | 0.77 | +90.2 | Noahhh, Renim, SEAN, blegh, infave |
 | 2026-08-20 | Resurgence | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.73 | 1.05 | 1.00 | 0.77 | 0.00 | 0.00 | -86.1 | Noahhh, Renim, SEAN, blegh, infave |
@@ -45,12 +45,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | ThirdSite | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.49 | 1.05 | 1.00 | 0.52 | 0.11 | 0.52 | +0.4 | --toasty, Krels, Noahhh, SEAN, phamzyy |
 | 2026-06-04 | butt | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.22 | 1.25 | 1.00 | 0.27 | 0.00 | 0.00 | -143.8 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
 | 2026-05-31 | Skyline | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.25 | 1.00 | 0.24 | 0.00 | 0.00 | -185.5 | Krels, SEAN, cafune, infave, phamzyy |
-| 2026-05-29 | 5Frag Gaming | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.18 | 1.25 | 1.00 | 0.22 | 0.03 | 0.22 | +136.6 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
-| 2026-05-20 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.14 | 1.00 | 0.13 | 0.00 | 0.00 | -357.5 | Krels, Noahhh, SEAN, cafune, infave |
-| 2026-05-19 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.14 | 1.00 | 0.13 | 0.01 | 0.13 | +350.3 | Krels, SEAN, cafune, infave, phamzyy |
-| 2026-05-15 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.14 | 1.00 | 0.10 | 0.01 | 0.10 | +368.6 | Krels, Noahhh, SEAN, cafune, infave |
-| 2026-05-13 | NXG Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.08 | 0.00 | 0.00 | -177.0 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-29 | 5Frag Gaming | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.18 | 1.25 | 1.00 | 0.22 | 0.03 | 0.22 | +136.7 | Krels, Noahhh, SEAN, cafune, infave, phamzyy |
+| 2026-05-20 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.14 | 1.00 | 0.13 | 0.00 | 0.00 | -357.7 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-19 | Elation | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.14 | 1.00 | 0.13 | 0.01 | 0.13 | +350.4 | Krels, SEAN, cafune, infave, phamzyy |
+| 2026-05-15 | 027fam | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.14 | 1.00 | 0.10 | 0.01 | 0.10 | +368.7 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-13 | NXG Esports | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.08 | 0.00 | 0.00 | -177.1 | Krels, Noahhh, SEAN, cafune, infave |
 | 2026-05-08 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.14 | 1.00 | 0.04 | 0.00 | 0.04 | +65.3 | Krels, Noahhh, SEAN, cafune, infave |
-| 2026-05-06 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.14 | 1.00 | 0.03 | 0.00 | 0.03 | +66.2 | Krels, Noahhh, SEAN, cafune, infave |
+| 2026-05-06 | The Bobs | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.03 | 0.00 | 0.03 | +66.3 | Krels, Noahhh, SEAN, cafune, infave |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

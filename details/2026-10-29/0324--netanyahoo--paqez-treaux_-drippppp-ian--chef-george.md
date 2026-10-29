@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Piggy LLC | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.82 | 1.11 | 1.00 | 0.91 | 0.00 | 0.00 | -206.4 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-06-12 | retirement home | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -184.3 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
 | 2026-06-03 | JPG | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.00 | -207.2 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
-| 2026-05-29 | The Third Eye | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.01 | 0.18 | +223.8 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
+| 2026-05-29 | The Third Eye | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.01 | 0.18 | +223.9 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
 | 2026-05-27 | gummyx mentality | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.00 | 0.17 | +163.2 | CHEF-GEORGE, Nud0, Treaux_, drippppp, ian- |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

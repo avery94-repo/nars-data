@@ -3,11 +3,11 @@ Team Name: AML
 Roster: TheVicBro, uncjoi, KiWiFrute, darkAD, dotz14
 NARS Rank: 464 of 494
 
-Final Rating: 826.6
+Final Rating: 826.5
 Seeded Start: 1205.3
-H2H Adjustment: -378.7
+H2H Adjustment: -378.8
 
-Final Rating (826.6) = Seeded Start (1205.3) + H2H Adjustment (-378.7)
+Final Rating (826.5) = Seeded Start (1205.3) + H2H Adjustment (-378.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -70.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-08-26 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.06 | 0.77 | +62.5 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-08-14 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -157.8 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
-| 2026-08-12 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -123.4 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-08-12 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -123.5 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-08-05 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.02 | 0.63 | +139.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-29 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -205.2 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-26 | mas paspas | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -23.8 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |

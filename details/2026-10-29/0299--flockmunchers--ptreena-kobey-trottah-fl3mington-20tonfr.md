@@ -28,8 +28,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | Bad Jawn | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -80.9 | Kobey, Muzic, SCRIBDOON, fl3mington, ptreena |
 | 2026-10-09 | Black Dragon Society | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -76.6 | Kobey, Muzic, SCRIBDOON, fl3mington, ptreena |
 | 2026-10-07 | Adria eSports | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +114.6 | Kobey, Muzic, SCRIBDOON, fl3mington, ptreena |
-| 2026-09-08 | Chuds | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.03 | 0.88 | +106.6 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
-| 2026-09-06 | HigherEducation | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.85 | 1.02 | 1.00 | 0.87 | 0.04 | 0.87 | +193.3 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
+| 2026-09-08 | Chuds | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.03 | 0.88 | +106.7 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
+| 2026-09-06 | HigherEducation | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.87 | 0.04 | 0.87 | +193.3 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
 | 2026-09-04 | Pixel Peek | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.83 | 1.02 | 1.00 | 0.85 | 0.03 | 0.85 | +97.4 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
 | 2026-09-02 | Crab Rangooners | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.02 | 1.00 | 0.84 | 0.00 | 0.00 | -189.1 | Kobey, SCRIBDOON, Trottah, fl3mington, ptreena |
 | 2026-08-26 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.77 | 1.49 | 1.00 | 1.15 | 0.00 | 0.00 | -0.0 | Kobey, Muzic, Trottah, fl3mington, ptreena |

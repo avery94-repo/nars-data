@@ -32,8 +32,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | QUPMANACS | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.05 | 0.74 | +95.4 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-08-20 | DUMBO | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.09 | 0.73 | +70.8 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-08-16 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -140.4 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-08-12 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -163.4 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-08-11 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.04 | 0.67 | +103.5 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-08-12 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -163.5 | StevoP, Sudain, bigbadinky, mackks, teejhey |
+| 2026-08-11 | Void | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.04 | 0.67 | +103.6 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-08-05 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.09 | 0.63 | +18.0 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-29 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.08 | 0.58 | +7.6 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-29 | 1001 Fragrance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +240.5 | StevoP, Sudain, bigbadinky, mackks, teejhey |
@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.02 | 0.54 | +0.1 | StevoP, Sudain, bigbadinky, mackks, teejhey |
 | 2026-07-17 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.50 | 0.04 | 0.50 | +190.8 | StevoP, Sudain, gameplayer, mackks, teejhey |
 | 2026-07-15 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.04 | 0.49 | +460.7 | StevoP, Sudain, bigbadinky, mackks, teejhey |
-| 2026-06-01 | redtyfguhoj | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.20 | 1.04 | 1.00 | 0.21 | 0.00 | 0.00 | -228.3 | Kyle-S, Sudain, W0RTHLESS_, mackks, teejhey |
+| 2026-06-01 | redtyfguhoj | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.20 | 1.04 | 1.00 | 0.21 | 0.00 | 0.00 | -228.4 | Kyle-S, Sudain, W0RTHLESS_, mackks, teejhey |
 | 2026-05-27 | flat earth | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.16 | 1.04 | 1.00 | 0.17 | 0.00 | 0.00 | -182.0 | Kyle-S, Sudain, W0RTHLESS_, mackks, teejhey |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

@@ -5,7 +5,7 @@ NARS Rank: 481 of 494
 
 Final Rating: 696.8
 Seeded Start: 1163.3
-H2H Adjustment: -466.5
+H2H Adjustment: -466.5 (capped at +-300, raw -466.6)
 
 Final Rating (696.8) = Seeded Start (1163.3) + H2H Adjustment (-466.5)
 
@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.74 | 1.00 | 1.00 | 0.74 | 0.00 | 0.00 | -79.9 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, Seraphimnoob |
 | 2026-08-14 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -52.5 | Amat3rasucfa, BreadPanther, PureWhite, SleepyNooby, _OIOI_ |
 | 2026-08-12 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -12.3 | Amat3rasucfa, BreadPanther, Croissannt, SleepyNooby, ZhuA1 |
-| 2026-08-07 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -103.4 | BreadPanther, Croissannt, PureWhite, ZhuA1, _OIOI_ |
+| 2026-08-07 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -103.4 | BreadPanther, Croissannt, PureWhite, ZhuA1, _OIOI_ |
 | 2026-08-05 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.05 | 0.63 | +107.0 | BreadPanther, Croissannt, PureWhite, SleepyNooby, ZhuA1 |
 | 2026-07-31 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.00 | 0.00 | -47.5 | BreadPanther, Croissannt, PureWhite, SleepyNooby, ZhuA1 |
 | 2026-07-29 | 929 Arrival Gang | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -28.4 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, ZhuA1 |

@@ -3,11 +3,11 @@ Team Name: Fire Nation
 Roster: -manny, hoomy, gaijin, -dink, Virtueee1
 NARS Rank: 286 of 494
 
-Final Rating: 1287.0
+Final Rating: 1286.9
 Seeded Start: 1334.0
-H2H Adjustment: -47.0
+H2H Adjustment: -47.1
 
-Final Rating (1287.0) = Seeded Start (1334.0) + H2H Adjustment (-47.0)
+Final Rating (1286.9) = Seeded Start (1334.0) + H2H Adjustment (-47.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-19 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.00 | 0.00 | -96.4 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-18 | The Kerbins | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.96 | 0.07 | 0.96 | +39.5 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-17 | Black Dragon Society | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.92 | 1.04 | 1.00 | 0.96 | 0.07 | 0.96 | +72.3 | -dink, -manny, Virtueee1, gaijin, hoomy |
-| 2026-09-15 | MEET THE WALL - DEAD | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.91 | 1.04 | 1.00 | 0.94 | 0.03 | 0.94 | +143.8 | -dink, -manny, Virtueee1, gaijin, hoomy |
+| 2026-09-15 | MEET THE WALL - DEAD | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.04 | 1.00 | 0.94 | 0.03 | 0.94 | +143.8 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-04 | Koi Pond | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.87 | 0.09 | 0.87 | +163.3 | -dink, -manny, Virtueee1, gaijin, hoomy |
 | 2026-09-02 | One More Shot | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.03 | 0.85 | +94.2 | -dink, -manny, Virtueee1, gaijin, hoomy |
 

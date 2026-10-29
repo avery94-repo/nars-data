@@ -34,15 +34,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.55 | 1.05 | 1.00 | 0.58 | 0.00 | 0.00 | -313.0 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-07-22 | absolute cinema | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.54 | 1.05 | 1.00 | 0.56 | 0.05 | 0.56 | +11.8 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-07-16 | Meepins | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.50 | 1.05 | 1.00 | 0.52 | 0.04 | 0.52 | +0.5 | bite, bjor, ekajjj, madcovv, riku-_- |
-| 2026-07-15 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.49 | 1.05 | 1.00 | 0.52 | 0.02 | 0.52 | +156.5 | 1jiffy, bite, bjor, ekajjj, madcovv |
+| 2026-07-15 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.49 | 1.05 | 1.00 | 0.52 | 0.02 | 0.52 | +156.6 | 1jiffy, bite, bjor, ekajjj, madcovv |
 | 2026-06-05 | Elation | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.22 | 1.25 | 1.00 | 0.28 | 0.00 | 0.00 | -126.4 | bite, bjor, ekajjj, madcovv, riku-_- |
-| 2026-06-04 | teamington | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.22 | 1.25 | 1.00 | 0.27 | 0.03 | 0.27 | +142.0 | bite, bjor, ekajjj, madcovv, riku-_- |
-| 2026-06-02 | Dude Picks | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.20 | 1.25 | 1.00 | 0.26 | 0.03 | 0.26 | +217.8 | bite, bjor, ekajjj, madcovv, riku-_- |
+| 2026-06-04 | teamington | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.22 | 1.25 | 1.00 | 0.27 | 0.03 | 0.27 | +142.1 | bite, bjor, ekajjj, madcovv, riku-_- |
+| 2026-06-02 | Dude Picks | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.20 | 1.25 | 1.00 | 0.26 | 0.03 | 0.26 | +217.9 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-31 | GeneticDiff | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.25 | 1.00 | 0.24 | 0.03 | 0.00 | +175.3 | bite, bjor, ekajjj, madcovv, riku-_- |
-| 2026-05-29 | VOID ALUNE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.18 | 1.25 | 1.00 | 0.22 | 0.00 | 0.00 | -170.0 | bite, bjor, ekajjj, madcovv, riku-_- |
+| 2026-05-29 | VOID ALUNE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.18 | 1.25 | 1.00 | 0.22 | 0.00 | 0.00 | -170.1 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-22 | Priority | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.15 | 0.00 | 0.00 | -180.2 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-19 | Overtake Sector | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.14 | 1.00 | 0.13 | 0.00 | 0.00 | -1.6 | bite, bjor, ekajjj, madcovv, riku-_- |
-| 2026-05-12 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.07 | 0.01 | 0.07 | +1.4 | bite, bjor, ekajjj, madcovv, riku-_- |
+| 2026-05-12 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.14 | 1.00 | 0.07 | 0.01 | 0.07 | +1.4 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-08 | The Skins | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.14 | 1.00 | 0.04 | 0.00 | 0.04 | +292.2 | bite, bjor, ekajjj, madcovv, riku-_- |
 | 2026-05-06 | BUCK NASTY | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.03 | 0.00 | 0.03 | +174.0 | bite, bjor, ekajjj, madcovv, riku-_- |
 

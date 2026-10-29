@@ -24,14 +24,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-15 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -70.5 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
-| 2026-05-29 | GoonAssOldheads | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -350.4 | AIDAN_, CJsInferno, Verzuh, c1n, kerflompnatr |
-| 2026-05-27 | Tractors | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -386.2 | AIDAN_, CJsInferno, PG37, Verzuh, c1n, kerflompnatr |
+| 2026-07-15 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -70.4 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
+| 2026-05-29 | GoonAssOldheads | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -350.5 | AIDAN_, CJsInferno, Verzuh, c1n, kerflompnatr |
+| 2026-05-27 | Tractors | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -386.3 | AIDAN_, CJsInferno, PG37, Verzuh, c1n, kerflompnatr |
 | 2026-05-22 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.13 | 0.01 | 0.13 | +46.9 | AIDAN_, CJsInferno, PG37, Verzuh, c1n |
-| 2026-05-20 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +355.8 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
-| 2026-05-15 | DownTown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -332.0 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
-| 2026-05-13 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.01 | 0.07 | +214.8 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
-| 2026-05-08 | Potential to Stack Dough | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +110.4 | AIDAN_, CJsInferno, PG37, Verzuh, c1n |
-| 2026-05-06 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +225.7 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
+| 2026-05-20 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +355.9 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
+| 2026-05-15 | DownTown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -332.1 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
+| 2026-05-13 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.01 | 0.07 | +214.9 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
+| 2026-05-08 | Potential to Stack Dough | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +110.5 | AIDAN_, CJsInferno, PG37, Verzuh, c1n |
+| 2026-05-06 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.03 | 0.00 | 0.03 | +225.7 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

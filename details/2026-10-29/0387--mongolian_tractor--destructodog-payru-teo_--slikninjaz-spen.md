@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | 55TH ST | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -66.3 | Payru, SlikNinjaZ, Teo_-, being, duck0110 |
 | 2026-10-14 | Biggie Cheese Fan Club | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-09 | LAF | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -75.5 | Payru, SlikNinjaZ, Teo_-, being, duck0110 |
-| 2026-09-10 | Defaulting | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.87 | 1.11 | 1.00 | 0.97 | 0.00 | 0.00 | -102.0 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
+| 2026-09-10 | Defaulting | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.87 | 1.11 | 1.00 | 0.97 | 0.00 | 0.00 | -102.1 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 | 2026-09-08 | NA Dream Team | W | 1-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.86 | 1.11 | 1.00 | 0.95 | 0.03 | 0.95 | +99.1 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 | 2026-09-06 | Code9 | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.84 | 1.11 | 1.00 | 0.94 | 0.03 | 0.94 | +104.7 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |
 | 2026-09-04 | CN Chill Boyz | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.83 | 1.11 | 1.00 | 0.92 | 0.00 | 0.00 | -219.4 | Payru, SlikNinjaZ, Soybean65, Spence, Teo_- |

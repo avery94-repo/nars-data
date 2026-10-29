@@ -5,7 +5,7 @@ NARS Rank: 66 of 494
 
 Final Rating: 1808.9
 Seeded Start: 1322.9
-H2H Adjustment: +486.0
+H2H Adjustment: +486.0 (capped at +-300, raw +486.1)
 
 Final Rating (1808.9) = Seeded Start (1322.9) + H2H Adjustment (+486.0)
 
@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | MadaNASCAR | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.10 | 0.72 | +38.5 | DeKa_, f0bless, swilLy, xirtaM2, zig- |
 | 2026-08-14 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -132.4 | DeKa_, UltRaLeX, dAVE, f0bless, xirtaM2 |
 | 2026-08-12 | The Vicious Kitties | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +167.2 | DeKa_, dAVE, f0bless, xirtaM2, zig- |
-| 2026-08-07 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.04 | 0.65 | +49.1 | DeKa_, f0bless, fabiaN407, xirtaM2, zig- |
+| 2026-08-07 | Bald | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.04 | 0.64 | +49.1 | DeKa_, f0bless, fabiaN407, xirtaM2, zig- |
 | 2026-08-05 | Ninjas In Boxer | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.06 | 0.63 | +107.5 | DeKa_, f0bless, fabiaN407, xirtaM2, zig- |
 | 2026-07-31 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.60 | 0.02 | 0.60 | +17.3 | DeKa_, dAVE, f0bless, fabiaN407, xirtaM2 |
 | 2026-07-29 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +5.1 | DeKa_, f0bless, fabiaN407, xirtaM2, zig- |

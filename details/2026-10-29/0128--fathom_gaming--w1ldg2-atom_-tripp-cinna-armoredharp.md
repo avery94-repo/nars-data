@@ -4,14 +4,14 @@ Roster: W1LDG2, atom_, tripp, Cinna, ArmoredHarp
 NARS Rank: 128 of 494
 
 Final Rating: 1624.4
-Seeded Start: 1736.6
-H2H Adjustment: -112.2
+Seeded Start: 1736.5
+H2H Adjustment: -112.1
 
-Final Rating (1624.4) = Seeded Start (1736.6) + H2H Adjustment (-112.2)
+Final Rating (1624.4) = Seeded Start (1736.5) + H2H Adjustment (-112.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.455 x 1400 = 1736.6
+                = 1100 + 0.455 x 1400 = 1736.5
 
 seed_factor 0.455 = 0.25 x Tier Exposure (0.349) + 0.50 x Quality Wins (0.314) + 0.25 x Opponent Network (0.841)
 
@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | EMPIRE | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.86 | 1.41 | 1.00 | 1.21 | 0.00 | 0.00 | -7.0 | ArmoredHarp, Cinna, atom_, no1nx, tripp |
 | 2026-09-07 | Team Amplus | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.85 | 1.41 | 1.00 | 1.20 | 0.19 | 1.20 | +32.0 | ArmoredHarp, Cinna, W1LDG2, atom_, no1nx |
 | 2026-09-03 | Zomblers | L | 1-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.83 | 1.57 | 1.00 | 1.29 | 0.00 | 0.00 | -2.3 | ArmoredHarp, COIN, Cinna, atom_, tripp |
-| 2026-08-27 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.31 | 1.00 | 1.02 | 0.00 | 0.00 | -202.7 | ArmoredHarp, Cinna, atom_, tripp, xtios |
+| 2026-08-27 | Swole Patrol | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.31 | 1.00 | 1.02 | 0.00 | 0.00 | -202.8 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-27 | Beyond Limits | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.31 | 1.00 | 1.02 | 0.00 | 0.00 | -19.0 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-27 | SquadUp | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.31 | 1.00 | 1.02 | 0.18 | 1.02 | +13.5 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-26 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.77 | 1.48 | 1.00 | 1.14 | 0.18 | 1.14 | +2.9 | ArmoredHarp, Cinna, atom_, tripp, xtios |
@@ -48,20 +48,20 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-18 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.48 | 1.00 | 1.06 | 0.63 | 1.06 | +52.6 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-18 | Playing for fun | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.48 | 1.00 | 1.06 | 0.00 | 0.00 | -128.3 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-17 | North Forge | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.48 | 1.00 | 1.05 | 0.28 | 1.05 | +157.2 | ArmoredHarp, Cinna, atom_, tripp, xtios |
-| 2026-08-14 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.48 | 1.00 | 1.02 | 0.00 | 0.00 | -334.0 | ArmoredHarp, Cinna, atom_, tripp, xtios |
+| 2026-08-14 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.48 | 1.00 | 1.02 | 0.00 | 0.00 | -334.1 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-13 | Shimmer | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.68 | 1.31 | 1.00 | 0.90 | 0.00 | 0.00 | -600.9 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-07 | Axial | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.48 | 1.00 | 0.96 | 0.48 | 0.96 | +0.2 | ArmoredHarp, COIN, Cinna, atom_, tripp |
-| 2026-07-15 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.49 | 1.48 | 1.00 | 0.73 | 0.11 | 0.73 | +146.3 | Cinna, Timbis12, W1LDG2, atom_, tripp |
+| 2026-07-15 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.49 | 1.48 | 1.00 | 0.73 | 0.11 | 0.73 | +146.4 | Cinna, Timbis12, W1LDG2, atom_, tripp |
 | 2026-06-15 | Squeegee | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.29 | 1.25 | 1.00 | 0.37 | 0.02 | 0.37 | +33.2 | ArmoredHarp, Cinna, Timbis12, W1LDG2, atom_ |
-| 2026-06-12 | NXG Esports | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.25 | 1.00 | 0.34 | 0.05 | 0.00 | +135.3 | ArmoredHarp, Cinna, Timbis12, W1LDG2, atom_ |
+| 2026-06-12 | NXG Esports | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.25 | 1.00 | 0.34 | 0.05 | 0.00 | +135.4 | ArmoredHarp, Cinna, Timbis12, W1LDG2, atom_ |
 | 2026-06-09 | Skyline | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.25 | 1.25 | 1.00 | 0.32 | 0.11 | 0.32 | +135.1 | ArmoredHarp, Cinna, Timbis12, W1LDG2, atom_ |
 | 2026-06-06 | TheMotherLovers | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.23 | 1.25 | 1.00 | 0.29 | 0.03 | 0.29 | +200.3 | Cinna, Kapoya, Timbis12, W1LDG2, atom_ |
-| 2026-06-04 | Hadouken | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.22 | 1.25 | 1.00 | 0.27 | 0.00 | 0.27 | +228.4 | ArmoredHarp, Cinna, Timbis12, W1LDG2, atom_ |
-| 2026-05-31 | Zealous | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.25 | 1.00 | 0.24 | 0.00 | 0.00 | -380.8 | ArmoredHarp, Cinna, MisterThink, Timbis12, W1LDG2, atom_ |
+| 2026-06-04 | Hadouken | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.22 | 1.25 | 1.00 | 0.27 | 0.00 | 0.27 | +228.5 | ArmoredHarp, Cinna, Timbis12, W1LDG2, atom_ |
+| 2026-05-31 | Zealous | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.25 | 1.00 | 0.24 | 0.00 | 0.00 | -380.9 | ArmoredHarp, Cinna, MisterThink, Timbis12, W1LDG2, atom_ |
 | 2026-05-22 | Kairo | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.15 | 0.02 | 0.15 | +169.8 | ArmoredHarp, Cinna, Timbis12, W1LDG2, atom_ |
-| 2026-05-21 | NXG Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.14 | 0.02 | 0.00 | +53.9 | ArmoredHarp, Cinna, Timbis12, W1LDG2, atom_ |
+| 2026-05-21 | NXG Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.14 | 1.00 | 0.14 | 0.02 | 0.00 | +53.9 | ArmoredHarp, Cinna, Timbis12, W1LDG2, atom_ |
 | 2026-05-15 | The Skins | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.14 | 1.00 | 0.10 | 0.01 | 0.10 | +33.0 | ArmoredHarp, Cinna, Kapoya, W1LDG2, atom_ |
-| 2026-05-13 | Team Team Name | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.08 | 0.01 | 0.08 | +120.6 | ArmoredHarp, Cinna, Kapoya, W1LDG2, atom_ |
+| 2026-05-13 | Team Team Name | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.08 | 0.01 | 0.08 | +120.7 | ArmoredHarp, Cinna, Kapoya, W1LDG2, atom_ |
 | 2026-05-08 | VOID ALUNE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.14 | 1.00 | 0.04 | 0.01 | 0.04 | +3.2 | ArmoredHarp, Cinna, Kapoya, W1LDG2, atom_ |
 | 2026-05-06 | Storm Surge | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.03 | 0.00 | 0.03 | +13.2 | ArmoredHarp, Cinna, Kapoya, W1LDG2, atom_ |
 

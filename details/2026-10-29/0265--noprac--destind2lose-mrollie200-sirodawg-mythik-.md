@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.08 | 0.77 | +66.9 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-08-19 | Aetheris | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.73 | 0.05 | 0.73 | +15.1 | MrOllie200, Shoodyman, SirOdawg, destind2lose, piK |
 | 2026-08-19 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.73 | 0.07 | 0.73 | +114.6 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
-| 2026-08-14 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -152.4 | MrOllie200, Rennerr, Shoodyman, SirOdawg, destind2lose |
+| 2026-08-14 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.00 | 0.00 | -152.5 | MrOllie200, Rennerr, Shoodyman, SirOdawg, destind2lose |
 | 2026-08-12 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.02 | 0.68 | +2.3 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-08-07 | After Hours | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.04 | 0.65 | +158.7 | MrOllie200, Mythik, Rennerr, SirOdawg, piK |
 | 2026-07-29 | Costco Family | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.59 | 0.06 | 0.59 | +166.4 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |

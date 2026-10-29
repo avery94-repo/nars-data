@@ -5,7 +5,7 @@ NARS Rank: 461 of 494
 
 Final Rating: 834.6
 Seeded Start: 1144.1
-H2H Adjustment: -309.5
+H2H Adjustment: -309.5 (capped at +-300, raw -309.6)
 
 Final Rating (834.6) = Seeded Start (1144.1) + H2H Adjustment (-309.5)
 
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-06 | Cream Team | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.85 | 1.11 | 1.00 | 0.94 | 0.00 | 0.00 | -126.0 | 1ucky666, Theoridin, _Sasha-, brodan100105, spookyspeedy |
+| 2026-09-06 | Cream Team | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.84 | 1.11 | 1.00 | 0.94 | 0.00 | 0.00 | -126.0 | 1ucky666, Theoridin, _Sasha-, brodan100105, spookyspeedy |
 | 2026-09-04 | COGNITIVE | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.83 | 1.11 | 1.00 | 0.92 | 0.00 | 0.00 | -276.7 | 1ucky666, HUNCHOJACK_, _Sasha-, brodan100105, spookyspeedy |
 | 2026-09-02 | Kitty Chelas | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.82 | 1.11 | 1.00 | 0.91 | 0.03 | 0.91 | +196.4 | 1ucky666, HUNCHOJACK_, _Sasha-, brodyo, spookyspeedy |
 | 2026-06-10 | DeathMark E-Sports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -192.5 | 1ucky666, HUNCHOJACK_, Theoridin, brodan100105, brodyo |

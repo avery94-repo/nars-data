@@ -25,11 +25,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-07 | Casual Mature Gamers | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.85 | 1.04 | 1.00 | 0.89 | 0.00 | 0.00 | -142.4 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
-| 2026-09-04 | 5_gamers_wrong_game | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.87 | 0.03 | 0.87 | +180.5 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
+| 2026-09-04 | 5_gamers_wrong_game | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.87 | 0.03 | 0.87 | +180.6 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
 | 2026-09-02 | pnks pretty princesses | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.00 | 0.00 | -197.9 | Dark_Potato, GoNo, Rabbitt-, Vye-, seabass |
-| 2026-06-10 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -184.0 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
-| 2026-06-03 | Made in Abergavenny | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +199.6 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
+| 2026-06-10 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.00 | 0.00 | -184.1 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
+| 2026-06-03 | Made in Abergavenny | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +199.7 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
 | 2026-05-29 | ABG Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -158.9 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
-| 2026-05-27 | Smuckers | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.01 | 0.17 | +205.9 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
+| 2026-05-27 | Smuckers | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.01 | 0.16 | +205.9 | GoNo, Rabbitt-, Vye-, k0na-, seabass |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

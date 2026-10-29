@@ -4,14 +4,14 @@ Roster: AtomiK, slugy, SolGoat, Noxio, MJB
 NARS Rank: 96 of 494
 
 Final Rating: 1696.5
-Seeded Start: 1733.5
-H2H Adjustment: -37.0
+Seeded Start: 1733.4
+H2H Adjustment: -36.9
 
-Final Rating (1696.5) = Seeded Start (1733.5) + H2H Adjustment (-37.0)
+Final Rating (1696.5) = Seeded Start (1733.4) + H2H Adjustment (-36.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.452 x 1400 = 1733.5
+                = 1100 + 0.452 x 1400 = 1733.4
 
 seed_factor 0.452 = 0.25 x Tier Exposure (0.503) + 0.50 x Quality Wins (0.276) + 0.25 x Opponent Network (0.756)
 
@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-27 | Olympus | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.31 | 1.00 | 1.02 | 0.00 | 0.00 | -0.2 | AtomiK, Noxio, SolGoat, sezi, swayu |
 | 2026-08-27 | SOLA GAMING | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.48 | 1.00 | 1.15 | 0.00 | 0.00 | -155.6 | AtomiK, Noxio, SolGoat, sezi, slugy |
 | 2026-08-26 | ThirdSite | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.77 | 1.31 | 1.00 | 1.01 | 0.22 | 1.01 | +83.6 | AtomiK, Noxio, SolGoat, sezi, swayu |
-| 2026-08-25 | Epochal Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.77 | 1.31 | 1.00 | 1.01 | 0.14 | 1.01 | +1.7 | AtomiK, Noxio, SolGoat, sezi, swayu |
+| 2026-08-25 | Epochal Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.76 | 1.31 | 1.00 | 1.01 | 0.14 | 1.01 | +1.7 | AtomiK, Noxio, SolGoat, sezi, swayu |
 | 2026-08-20 | Elusive | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.73 | 1.31 | 1.00 | 0.96 | 0.43 | 0.96 | +265.8 | AtomiK, Noxio, SolGoat, sezi, slugy |
 | 2026-08-19 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.48 | 1.00 | 1.07 | 0.21 | 0.00 | +114.0 | AtomiK, Noxio, SolGoat, sezi, slugy |
 | 2026-08-19 | F5 Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.72 | 1.31 | 1.00 | 0.95 | 0.00 | 0.00 | -0.5 | AtomiK, Noxio, SolGoat, sezi, slugy |
@@ -52,19 +52,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-16 | Koi Pond | L | 0-1 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -48.8 | 3ae18fdb, e5517b35, lunari, torii, violet_ |
 | 2026-08-16 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -18.2 | 3ae18fdb, e5517b35, lunari, torii, violet_ |
 | 2026-08-14 | NineFly Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.48 | 1.00 | 1.02 | 0.00 | 0.00 | -105.1 | AtomiK, Noxio, SolGoat, sezi, slugy |
-| 2026-08-13 | Entertainment Cheese | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.69 | 1.31 | 1.00 | 0.90 | 0.13 | 0.90 | +154.2 | AtomiK, Noxio, SolGoat, sezi, violet_ |
+| 2026-08-13 | Entertainment Cheese | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.68 | 1.31 | 1.00 | 0.90 | 0.13 | 0.90 | +154.2 | AtomiK, Noxio, SolGoat, sezi, violet_ |
 | 2026-08-12 | Holly Molly | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.48 | 1.00 | 1.00 | 0.00 | 0.00 | -439.9 | AtomiK, MJB, Noxio, SolGoat, violet_ |
 | 2026-08-07 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.48 | 1.00 | 0.96 | 0.00 | 0.00 | -8.9 | AtomiK, MJB, Noxio, SolGoat, violet_ |
 | 2026-08-07 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.64 | 1.48 | 1.00 | 0.96 | 0.00 | 0.00 | -0.2 | AtomiK, MJB, Noxio, SolGoat, violet_ |
-| 2026-08-04 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.48 | 1.00 | 0.93 | 0.00 | 0.00 | -249.0 | AtomiK, MJB, Noxio, SolGoat, violet_ |
+| 2026-08-04 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.48 | 1.00 | 0.93 | 0.00 | 0.00 | -249.1 | AtomiK, MJB, Noxio, SolGoat, violet_ |
 | 2026-07-29 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.48 | 1.00 | 0.87 | 0.04 | 0.87 | +0.0 | AtomiK, MJB, Noxio, SolGoat, violet_ |
 | 2026-07-28 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.48 | 1.00 | 0.86 | 0.00 | 0.00 | -2.6 | AtomiK, MJB, Noxio, SolGoat, violet_ |
-| 2026-07-22 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.54 | 1.48 | 1.00 | 0.80 | 0.13 | 0.80 | +326.0 | AtomiK, Noxio, miniature, sezi, slugy |
+| 2026-07-22 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.54 | 1.48 | 1.00 | 0.80 | 0.13 | 0.80 | +326.1 | AtomiK, Noxio, miniature, sezi, slugy |
 | 2026-06-11 | Omen Esports | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.27 | 1.53 | 1.00 | 0.41 | 0.00 | 0.00 | -169.2 | AtomiK, MJB, SolGoat, miniature, slugy |
-| 2026-06-09 | FlyQuest RED | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.25 | 1.53 | 1.00 | 0.39 | 0.16 | 0.39 | +259.4 | AtomiK, MJB, SolGoat, miniature, slugy |
-| 2026-06-02 | EMPIRE | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.21 | 1.53 | 1.00 | 0.31 | 0.00 | 0.00 | -257.6 | AtomiK, MJB, SolGoat, miniature, slugy |
-| 2026-05-21 | Demolition | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.17 | 0.03 | 0.17 | +232.0 | AtomiK, MJB, SolGoat, miniature, slugy |
-| 2026-05-19 | House Platypus ESC | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.39 | 1.00 | 0.16 | 0.02 | 0.16 | +73.2 | AtomiK, MJB, SolGoat, miniature, slugy |
+| 2026-06-09 | FlyQuest RED | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.25 | 1.53 | 1.00 | 0.39 | 0.16 | 0.39 | +259.5 | AtomiK, MJB, SolGoat, miniature, slugy |
+| 2026-06-02 | EMPIRE | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.20 | 1.53 | 1.00 | 0.31 | 0.00 | 0.00 | -257.6 | AtomiK, MJB, SolGoat, miniature, slugy |
+| 2026-05-21 | Demolition | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.12 | 1.39 | 1.00 | 0.17 | 0.03 | 0.17 | +232.1 | AtomiK, MJB, SolGoat, miniature, slugy |
+| 2026-05-19 | House Platypus ESC | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.39 | 1.00 | 0.15 | 0.02 | 0.15 | +73.2 | AtomiK, MJB, SolGoat, miniature, slugy |
 | 2026-05-14 | Addice | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.39 | 1.00 | 0.11 | 0.02 | 0.11 | +67.0 | AtomiK, MJB, SolGoat, miniature, slugy |
 | 2026-05-12 | KODEX ESPORTS | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.39 | 1.00 | 0.09 | 0.02 | 0.09 | +322.5 | AtomiK, MJB, SolGoat, miniature, slugy |
 | 2026-05-08 | Phantom Sense | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.39 | 1.00 | 0.05 | 0.00 | 0.00 | -280.3 | AtomiK, MJB, SolGoat, miniature, slugy |

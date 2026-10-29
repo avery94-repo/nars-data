@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | LUMA | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.85 | 1.11 | 1.00 | 0.95 | 0.00 | 0.00 | -92.5 | 2Pe4enya, ANON-EE, LazLeoN, d3xterity_, ight |
 | 2026-09-02 | STIM | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.82 | 1.11 | 1.00 | 0.91 | 0.00 | 0.00 | -222.7 | 2Pe4enya, ANON-EE, LazLeoN, d3xterity_, ight |
 | 2026-08-30 | YHUBEPCAM | L | 0-1 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.80 | 1.10 | 1.00 | 0.88 | 0.00 | 0.00 | -2.6 | 2Pe4enya, LazLeoN, MustAcquit, d3xterity_, ight |
-| 2026-08-08 | antiGrav | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.23 | 1.00 | 0.81 | 0.05 | 0.81 | +188.7 | 2Pe4enya, LazLeoN, d3xterity_, e50d3be2, ight |
+| 2026-08-08 | antiGrav | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.66 | 1.23 | 1.00 | 0.81 | 0.05 | 0.81 | +188.8 | 2Pe4enya, LazLeoN, d3xterity_, e50d3be2, ight |
 | 2026-07-26 | AML | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -334.7 | 2Pe4enya, Deej, LazLeoN, d3xterity_, ight |
 | 2026-07-26 | IR PHOENIX | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.56 | 1.00 | 1.00 | 0.56 | 0.03 | 0.56 | +167.0 | 2Pe4enya, Deej, LazLeoN, d3xterity_, ight |
 

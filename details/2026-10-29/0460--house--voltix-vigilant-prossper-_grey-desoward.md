@@ -29,9 +29,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Mace Lindu Ruff Rebound | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -138.6 | Desoward, _grey, kudos_, vigilant, voltix |
 | 2026-10-09 | brb grinding minecraft | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -18.5 | Desoward, _grey, kudos_, vigilant, voltix |
 | 2026-10-07 | O Fire | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -89.8 | Desoward, _grey, kudos_, vigilant, voltix |
-| 2026-09-10 | TOP SHELF WHIFFERS | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.87 | 1.11 | 1.00 | 0.97 | 0.00 | 0.00 | -114.3 | Desoward, _grey, kudos_, vigilant, voltix |
+| 2026-09-10 | TOP SHELF WHIFFERS | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.87 | 1.11 | 1.00 | 0.97 | 0.00 | 0.00 | -114.4 | Desoward, _grey, kudos_, vigilant, voltix |
 | 2026-09-06 | Good Vibes Gaming | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.84 | 1.11 | 1.00 | 0.94 | 0.00 | 0.00 | -137.0 | Desoward, _grey, prossper, vigilant, voltix |
-| 2026-09-04 | Double Dink | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.83 | 1.11 | 1.00 | 0.92 | 0.07 | 0.92 | +171.5 | Desoward, _grey, kudos_, vigilant, voltix |
+| 2026-09-04 | Double Dink | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.83 | 1.11 | 1.00 | 0.92 | 0.07 | 0.92 | +171.6 | Desoward, _grey, kudos_, vigilant, voltix |
 | 2026-09-03 | Potential to Stack Dough | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.83 | 1.11 | 1.00 | 0.92 | 0.03 | 0.92 | +85.8 | Desoward, _grey, prossper, vigilant, voltix |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

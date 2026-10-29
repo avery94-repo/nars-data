@@ -36,11 +36,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.55 | 1.05 | 1.00 | 0.58 | 0.00 | 0.00 | -282.1 | Tubba, csR, righteouss, slicey, slickeezQQ |
 | 2026-07-17 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.50 | 1.05 | 1.00 | 0.53 | 0.06 | 0.53 | +161.7 | Tubba, csR, righteouss, slicey, slickeezQQ |
 | 2026-07-15 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.49 | 1.05 | 1.00 | 0.52 | 0.00 | 0.00 | -145.0 | Tubba, csR, righteouss, slicey, slickeezQQ |
-| 2026-05-31 | YHUBEPCAM | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.25 | 1.00 | 0.24 | 0.00 | 0.00 | -235.3 | Tubba, chinner, csR, righteouss, slicey |
-| 2026-05-27 | Squeegee | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.17 | 1.25 | 1.00 | 0.21 | 0.00 | 0.00 | -227.1 | ZNP_, chinner, csR, righteouss, slicey |
+| 2026-05-31 | YHUBEPCAM | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.25 | 1.00 | 0.24 | 0.00 | 0.00 | -235.4 | Tubba, chinner, csR, righteouss, slicey |
+| 2026-05-27 | Squeegee | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.16 | 1.25 | 1.00 | 0.21 | 0.00 | 0.00 | -227.1 | ZNP_, chinner, csR, righteouss, slicey |
 | 2026-05-22 | ASYCS KITTENS | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.15 | 0.01 | 0.15 | +44.6 | Tubba, chinner, csR, righteouss, slickeezQQ |
 | 2026-05-20 | James Bond Bois | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.14 | 1.00 | 0.13 | 0.00 | 0.13 | +1.2 | Tubba, chinner, csR, righteouss, slicey |
-| 2026-05-14 | Order Zero | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.14 | 1.00 | 0.09 | 0.00 | 0.09 | +90.4 | Tubba, ZNP_, csR, righteouss, slicey |
+| 2026-05-14 | Order Zero | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.14 | 1.00 | 0.09 | 0.00 | 0.09 | +90.5 | Tubba, ZNP_, csR, righteouss, slicey |
 | 2026-05-13 | Aurofox | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.08 | 0.00 | 0.08 | +269.8 | Tubba, chinner, csR, righteouss, slicey |
 | 2026-05-06 | 1NT | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.14 | 1.00 | 0.03 | 0.00 | 0.03 | +297.0 | Tubba, chinner, csR, righteouss, slicey |
 

@@ -4,14 +4,14 @@ Roster: jm0, Lucannnn, WILD4FLOWER, Narbig, ewo
 NARS Rank: 185 of 494
 
 Final Rating: 1506.5
-Seeded Start: 1296.5
-H2H Adjustment: +210.0
+Seeded Start: 1296.4
+H2H Adjustment: +210.1
 
-Final Rating (1506.5) = Seeded Start (1296.5) + H2H Adjustment (+210.0)
+Final Rating (1506.5) = Seeded Start (1296.4) + H2H Adjustment (+210.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.140 x 1400 = 1296.5
+                = 1100 + 0.140 x 1400 = 1296.4
 
 seed_factor 0.140 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.432)
 
@@ -35,15 +35,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-15 | Lynnsanity | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.11 | 1.00 | 0.78 | 0.00 | 0.00 | -162.7 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-08-12 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.11 | 1.00 | 0.76 | 0.03 | 0.76 | +64.2 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-08-07 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.65 | 1.11 | 1.00 | 0.72 | 0.03 | 0.72 | +116.4 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
-| 2026-08-05 | Macs Snacks | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.63 | 1.11 | 1.00 | 0.70 | 0.00 | 0.00 | -142.3 | Lucannnn, Narbig, Purple2124, ewo, jm0 |
+| 2026-08-05 | Macs Snacks | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.63 | 1.11 | 1.00 | 0.70 | 0.00 | 0.00 | -142.4 | Lucannnn, Narbig, Purple2124, ewo, jm0 |
 | 2026-07-29 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.11 | 1.00 | 0.65 | 0.03 | 0.65 | +42.4 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-07-23 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.54 | 1.11 | 1.00 | 0.61 | 0.00 | 0.00 | -82.8 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-07-21 | Crimson Vortex | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.11 | 1.00 | 0.59 | 0.00 | 0.00 | -15.3 | AronJ, Narbig, WILD4FLOWER, ewo, jm0 |
-| 2026-07-17 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.51 | 1.11 | 1.00 | 0.56 | 0.00 | 0.00 | -57.2 | AronJ, Narbig, WILD4FLOWER, ewo, jm0 |
+| 2026-07-17 | Team Team Name | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.50 | 1.11 | 1.00 | 0.56 | 0.00 | 0.00 | -57.2 | AronJ, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-07-16 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.50 | 1.11 | 1.00 | 0.55 | 0.00 | 0.00 | -20.2 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-05-22 | Pro Lapse | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.15 | 0.01 | 0.15 | +17.2 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-05-21 | enigma | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.14 | 0.03 | 0.14 | +129.0 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
-| 2026-05-21 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.14 | 0.01 | 0.14 | +253.1 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
+| 2026-05-21 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.14 | 0.01 | 0.14 | +253.2 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-05-20 | RAZED | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.14 | 1.00 | 0.13 | 0.00 | 0.00 | -12.0 | Lucannnn, Narbig, Purple2124, ewo, jm0 |
 | 2026-05-11 | Sassy Sunshines | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.14 | 1.00 | 0.07 | 0.00 | 0.00 | -303.8 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 

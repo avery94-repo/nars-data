@@ -5,7 +5,7 @@ NARS Rank: 73 of 494
 
 Final Rating: 1795.5
 Seeded Start: 1225.8
-H2H Adjustment: +569.7
+H2H Adjustment: +569.7 (capped at +-300, raw +569.8)
 
 Final Rating (1795.5) = Seeded Start (1225.8) + H2H Adjustment (+569.7)
 
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-21 | Whiff City | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -102.5 | Bismu, Fluq, givy, joshgc, san1ty_st |
+| 2026-09-21 | Whiff City | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.95 | 0.00 | 0.00 | -102.6 | Bismu, Fluq, givy, joshgc, san1ty_st |
 | 2026-09-18 | Toomers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.03 | 0.92 | +87.3 | Bismu, Fluq, givy, joshgc, san1ty_st |
 | 2026-09-16 | gunked | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.04 | 0.91 | +103.3 | Bismu, Fluq, givy, joshgc, san1ty_st |
 | 2026-09-11 | NEWAR | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.03 | 0.88 | +132.7 | Bismu, Fluq, givy, joshgc, san1ty_st |

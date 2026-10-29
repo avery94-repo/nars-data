@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | APEX | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -45.3 | BucK-, Rybreadd, Timbaboe, VEndlessV, misin4med |
 | 2026-10-07 | Arnes Wit Attitudes | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -13.9 | BucK-, Rybreadd, Timbaboe, VEndlessV, misin4med |
 | 2026-09-10 | Transcended | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.04 | 1.00 | 0.91 | 0.00 | 0.00 | -103.8 | BucK-, MDJ, Timbaboe, VEndlessV, rez777_ |
-| 2026-09-08 | pnks pretty princesses | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.04 | 1.00 | 0.89 | 0.03 | 0.89 | +130.6 | HarmonyNyan, MDJ, Timbaboe, VEndlessV, rez777_ |
+| 2026-09-08 | pnks pretty princesses | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.04 | 1.00 | 0.89 | 0.03 | 0.89 | +130.7 | HarmonyNyan, MDJ, Timbaboe, VEndlessV, rez777_ |
 | 2026-09-06 | NuWave Academy | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.88 | 0.03 | 0.88 | +73.0 | HarmonyNyan, MDJ, Timbaboe, VEndlessV, rez777_ |
 | 2026-09-04 | Cortex Jellies | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.87 | 0.00 | 0.00 | -148.2 | MDJ, Sedare, Timbaboe, VEndlessV, rez777_ |
 | 2026-09-01 | but i got movement | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.81 | 1.04 | 1.00 | 0.85 | 0.03 | 0.85 | +36.7 | MDJ, Sedare, Timbaboe, VEndlessV, rez777_ |

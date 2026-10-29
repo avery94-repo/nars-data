@@ -26,12 +26,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-07 | MINDTRIP | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -169.6 | -PHANTOM-, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-06-05 | Duality Zero | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.22 | +180.5 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
-| 2026-05-27 | After Peak | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.00 | 0.00 | -70.4 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
+| 2026-05-27 | After Peak | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -70.3 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 | 2026-05-22 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.13 | 1.01 | 1.00 | 0.13 | 0.00 | 0.00 | -212.3 | -PHANTOM-, hardy--, staxfam, t4m0n, tylerwho |
 | 2026-05-20 | Therapist | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.01 | 1.00 | 0.12 | 0.00 | 0.12 | +285.2 | -PHANTOM-, hardy--, staxfam, t4m0n, tylerwho |
 | 2026-05-15 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -103.9 | -PHANTOM-, hardy--, konspirit, staxfam, t4m0n |
 | 2026-05-11 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.06 | 0.00 | 0.00 | -33.3 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
-| 2026-05-08 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +422.3 | -PHANTOM-, hardy--, konspirit, staxfam, t4m0n |
+| 2026-05-08 | Absent Minded | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.04 | +422.4 | -PHANTOM-, hardy--, konspirit, staxfam, t4m0n |
 | 2026-05-06 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.03 | 1.01 | 1.00 | 0.03 | 0.00 | 0.00 | -171.8 | hardy--, konspirit, staxfam, t4m0n, tylerwho |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

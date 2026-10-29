@@ -24,9 +24,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-21 | APEX | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +104.0 | Therman_, efme, p0se_, snoop_, uuwoo |
+| 2026-10-21 | APEX | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +104.1 | Therman_, efme, p0se_, snoop_, uuwoo |
 | 2026-10-16 | Double Dink | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -250.6 | Therman_, efme, p0se_, snoop_, uuwoo |
-| 2026-10-14 | Alternate Earth | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +159.1 | Therman_, efme, p0se_, snoop_, uuwoo |
+| 2026-10-14 | Alternate Earth | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +159.2 | Therman_, efme, p0se_, snoop_, uuwoo |
 | 2026-10-09 | Zamgaa Anime Aimers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +141.2 | Therman_, efme, p0se_, snoop_, uuwoo |
 | 2026-10-07 | 37U Passion | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-09-06 | For Fun Gamers | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.87 | 0.00 | 0.00 | -104.0 | ARK-DGM, Therman_, p0se_, snoop_, uuwoo |

@@ -37,11 +37,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.63 | 1.05 | 1.00 | 0.66 | 0.00 | 0.00 | -39.7 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-07-31 | Qinorhwat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.05 | 1.00 | 0.63 | 0.00 | 0.00 | -172.9 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-07-29 | DKR Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.05 | 1.00 | 0.61 | 0.06 | 0.61 | +113.1 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
-| 2026-07-24 | Real Hustle Club | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.55 | 1.05 | 1.00 | 0.58 | 0.00 | 0.00 | -175.1 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
+| 2026-07-24 | Real Hustle Club | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.55 | 1.05 | 1.00 | 0.58 | 0.00 | 0.00 | -175.2 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-07-22 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.54 | 1.05 | 1.00 | 0.56 | 0.04 | 0.56 | +146.4 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-07-17 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.50 | 1.05 | 1.00 | 0.53 | 0.02 | 0.53 | +150.7 | Anzio, Beyjounn, Gozat, GradienTz, Tribgob |
 | 2026-07-15 | Meepins | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.49 | 1.05 | 1.00 | 0.52 | 0.04 | 0.52 | +129.0 | Anzio, Beyjounn, Gozat, GradienTz, Tribgob |
-| 2026-06-11 | dice | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.27 | 1.04 | 1.00 | 0.28 | 0.00 | 0.00 | -285.0 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |
+| 2026-06-11 | dice | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.26 | 1.04 | 1.00 | 0.28 | 0.00 | 0.00 | -285.0 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |
 | 2026-06-09 | bubibabu | W | 1-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.25 | 1.04 | 1.00 | 0.26 | 0.02 | 0.26 | +148.9 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |
 | 2026-06-04 | Bald | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.22 | 1.04 | 1.00 | 0.23 | 0.01 | 0.23 | +240.7 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |
 | 2026-06-02 | Big Fish | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.20 | 1.04 | 1.00 | 0.21 | 0.02 | 0.21 | +158.4 | -Chance, Beyjounn, Gozat, GradienTz, Tribgob |

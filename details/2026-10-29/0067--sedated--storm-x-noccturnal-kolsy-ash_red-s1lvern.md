@@ -4,14 +4,14 @@ Roster: Storm-X, Noccturnal, Kolsy, Ash_Red, s1lverNA
 NARS Rank: 67 of 494
 
 Final Rating: 1808.8
-Seeded Start: 1414.6
-H2H Adjustment: +394.2
+Seeded Start: 1414.5
+H2H Adjustment: +394.3
 
-Final Rating (1808.8) = Seeded Start (1414.6) + H2H Adjustment (+394.2)
+Final Rating (1808.8) = Seeded Start (1414.5) + H2H Adjustment (+394.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.225 x 1400 = 1414.6
+                = 1100 + 0.225 x 1400 = 1414.5
 
 seed_factor 0.225 = 0.25 x Tier Exposure (0.105) + 0.50 x Quality Wins (0.102) + 0.25 x Opponent Network (0.589)
 
@@ -42,12 +42,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | GeneticDiff | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.64 | 1.05 | 1.00 | 0.68 | 0.08 | 0.68 | +189.1 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
 | 2026-08-05 | Salsas Mazzin Crew | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.63 | 1.05 | 1.00 | 0.66 | 0.05 | 0.66 | +163.1 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
 | 2026-07-31 | Read You Like a Kindle | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.05 | 1.00 | 0.63 | 0.07 | 0.63 | +201.1 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
-| 2026-07-29 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.05 | 1.00 | 0.61 | 0.00 | 0.00 | -407.3 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
+| 2026-07-29 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.05 | 1.00 | 0.61 | 0.00 | 0.00 | -407.4 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
 | 2026-07-27 | Solace | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.57 | 1.05 | 1.00 | 0.60 | 0.04 | 0.60 | +7.3 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
 | 2026-07-22 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.54 | 1.05 | 1.00 | 0.56 | 0.02 | 0.56 | +1.1 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
-| 2026-07-17 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.50 | 1.05 | 1.00 | 0.53 | 0.04 | 0.53 | +131.3 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
+| 2026-07-17 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.50 | 1.05 | 1.00 | 0.53 | 0.04 | 0.53 | +131.4 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
 | 2026-07-15 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.49 | 1.05 | 1.00 | 0.52 | 0.00 | 0.00 | -6.8 | Kolsy, Noccturnal, Storm-X, SyykoNT, s1lverNA |
-| 2026-05-15 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.14 | 1.00 | 0.10 | 0.00 | 0.00 | -348.2 | Cody, Kolsy, Noccturnal, s1lverNA, shii666 |
+| 2026-05-15 | The Burger People | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.14 | 1.00 | 0.10 | 0.00 | 0.00 | -348.3 | Cody, Kolsy, Noccturnal, s1lverNA, shii666 |
 | 2026-05-13 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.08 | 0.01 | 0.08 | +296.7 | Cody, Kolsy, Noccturnal, s1lverNA, shii666 |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

@@ -5,7 +5,7 @@ NARS Rank: 151 of 494
 
 Final Rating: 1577.7
 Seeded Start: 1228.4
-H2H Adjustment: +349.3 (capped at +-300, raw +349.2)
+H2H Adjustment: +349.3
 
 Final Rating (1577.7) = Seeded Start (1228.4) + H2H Adjustment (+349.3)
 
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-18 | fih hou | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.93 | 1.00 | 1.00 | 0.93 | 0.00 | 0.00 | -72.2 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
+| 2026-09-18 | fih hou | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -72.2 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
 | 2026-09-17 | Vibe Check | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.92 | 1.00 | 1.00 | 0.92 | 0.06 | 0.92 | +90.0 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
 | 2026-09-15 | KIS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.90 | 0.06 | 0.90 | +99.3 | 1Cyrix, Gonzo_, Seb, _MD_, sniperclub01 |
-| 2026-09-08 | Trap Castle | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -105.2 | 1Cyrix, FurDaddy, Perree, _MD_, sniperclub01 |
+| 2026-09-08 | Trap Castle | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -105.3 | 1Cyrix, FurDaddy, Perree, _MD_, sniperclub01 |
 | 2026-09-06 | LAF | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +63.4 | 1Cyrix, DJF, FurDaddy, _MD_, sniperclub01 |
 | 2026-09-04 | Kodaks Lettuce | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.06 | 0.83 | +138.8 | 1Cyrix, FurDaddy, TheMrCleanup, _MD_, sniperclub01 |
 | 2026-09-03 | Propaniacs | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.02 | 0.82 | +135.2 | 1Cyrix, Gonzo_, Perree, _MD_, sniperclub01 |

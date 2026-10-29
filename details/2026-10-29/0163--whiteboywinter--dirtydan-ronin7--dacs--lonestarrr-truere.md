@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Samantha 4 | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +93.4 | -DacS-, RavensBOSS, Tr1ck, dirtydan, ronin7 |
 | 2026-10-07 | After Peak | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +1.2 | -DacS-, RavensBOSS, Tr1ck, dirtydan, ronin7 |
 | 2026-09-15 | Black Dragon Society | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.04 | 1.00 | 0.94 | 0.00 | 0.00 | -89.2 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
-| 2026-09-12 | ClanAgain | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.89 | 1.04 | 1.00 | 0.92 | 0.06 | 0.92 | +84.9 | LightPat, LoneStarrr, TrueRedux, dirtydan, ronin7 |
+| 2026-09-12 | ClanAgain | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.04 | 1.00 | 0.92 | 0.06 | 0.92 | +84.9 | LightPat, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-10 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.87 | 1.04 | 1.00 | 0.91 | 0.13 | 0.91 | +99.2 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |
 | 2026-09-06 | Afterimage | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.88 | 0.00 | 0.00 | -145.5 | -DacS-, dirtydan, kDuffy, kryph, ronin7 |
 | 2026-09-04 | WhiteWASHED | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.87 | 0.03 | 0.87 | +113.2 | -DacS-, LoneStarrr, TrueRedux, dirtydan, ronin7 |

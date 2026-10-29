@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-06 | Samantha 4 | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.85 | 1.11 | 1.00 | 0.94 | 0.00 | 0.00 | -152.7 | BelmoGodx, Soviets, chiken2k, droppin, squigg |
+| 2026-09-06 | Samantha 4 | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.84 | 1.11 | 1.00 | 0.94 | 0.00 | 0.00 | -152.7 | BelmoGodx, Soviets, chiken2k, droppin, squigg |
 | 2026-09-04 | RH Help Desk | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.83 | 1.11 | 1.00 | 0.92 | 0.00 | 0.00 | -197.3 | BelmoGodx, Soviets, castles-, chiken2k, droppin |
 | 2026-09-02 | Phyric | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.82 | 1.11 | 1.00 | 0.91 | 0.03 | 0.91 | +160.6 | BelmoGodx, Soviets, castles-, chiken2k, droppin |
 | 2026-05-29 | NEWAR | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -197.5 | TheEronMusk, The_Maxarius, Tr3nt, chiken2k, droppin |

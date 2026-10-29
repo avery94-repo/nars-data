@@ -99,6 +99,17 @@
   "source": "faceit-league"
  },
  {
+  "match_id": "hltv:2399750",
+  "date": "2026-10-28",
+  "competition": "PGL Masters Bucharest 2026",
+  "team_a": "Liquid",
+  "team_b": "FURIA",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
   "match_id": "1-0c0c350d-8c20-422d-b19f-b443594252ed",
   "date": "2026-10-27",
   "competition": "S59 NA Advanced Central - Regular Season",

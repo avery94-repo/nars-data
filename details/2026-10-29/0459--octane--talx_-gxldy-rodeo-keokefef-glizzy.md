@@ -28,6 +28,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | deez | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -97.2 | Gxldy, Rodeo, _CLR, glizzy, talx_ |
 | 2026-06-03 | makeSHIFT | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.00 | -33.0 | Rodeo, _CLR, glizzy, luffo, talx_ |
 | 2026-05-29 | Internet Coffee | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.18 | +202.8 | Rodeo, _CLR, glizzy, luffo, talx_ |
-| 2026-05-27 | retirement home | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -217.8 | Gxldy, Rodeo, _CLR, glizzy, talx_ |
+| 2026-05-27 | retirement home | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -217.9 | Gxldy, Rodeo, _CLR, glizzy, talx_ |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

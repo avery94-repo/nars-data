@@ -38,10 +38,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.50 | 1.11 | 1.00 | 0.56 | 0.00 | 0.00 | -9.3 | Cole---, Outlier, Ultracarrick, j4son, kaz |
 | 2026-07-15 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.49 | 1.11 | 1.00 | 0.55 | 0.00 | 0.00 | -81.5 | Cole---, JConnR, Outlier, Ultracarrick, kaz |
 | 2026-05-22 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.14 | 1.00 | 0.15 | 0.01 | 0.15 | +64.5 | Cole---, JConnR, Outlier, j4son, rcmeo |
-| 2026-05-20 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.14 | 1.00 | 0.13 | 0.00 | 0.00 | -277.4 | Cole---, JConnR, Outlier, j4son, rcmeo |
+| 2026-05-20 | Squeegee | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.14 | 1.00 | 0.13 | 0.00 | 0.00 | -277.5 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-14 | DKR Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.08 | 1.14 | 1.00 | 0.09 | 0.01 | 0.09 | +343.5 | Cole---, JConnR, Outlier, j4son, rcmeo |
-| 2026-05-13 | Pro Lapse | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.08 | 0.00 | 0.00 | -405.9 | Cole---, JConnR, Outlier, j4son, rcmeo |
-| 2026-05-08 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.14 | 1.00 | 0.04 | 0.01 | 0.04 | +300.8 | Cole---, JConnR, Outlier, j4son, rcmeo |
+| 2026-05-13 | Pro Lapse | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.14 | 1.00 | 0.08 | 0.00 | 0.00 | -406.0 | Cole---, JConnR, Outlier, j4son, rcmeo |
+| 2026-05-08 | ThirdSite | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.14 | 1.00 | 0.04 | 0.01 | 0.04 | +300.9 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-06 | 2THRiLL | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.03 | 0.00 | 0.03 | +262.6 | Cole---, JConnR, Outlier, j4son, rcmeo |
 | 2026-05-05 | Elation | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.14 | 1.00 | 0.02 | 0.00 | 0.00 | -159.8 | Cole---, JConnR, Outlier, j4son, rcmeo |
 

@@ -43,7 +43,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.02 | 0.54 | +0.1 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
 | 2026-07-17 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.50 | 1.00 | 1.00 | 0.51 | 0.03 | 0.51 | +0.0 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
 | 2026-07-15 | After Hours | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -171.3 | 1GRMZ, VilePickle, Wokani, aLxGG, donPepitoo |
-| 2026-06-12 | Sultans of Swing | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.01 | 0.27 | +205.3 | CoLdZy-, Irulan, VilePickle, _Nebbe, aLxGG |
+| 2026-06-12 | Sultans of Swing | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.01 | 0.27 | +205.4 | CoLdZy-, Irulan, VilePickle, _Nebbe, aLxGG |
 | 2026-06-10 | Puddle Pirates | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.26 | 1.00 | 1.00 | 0.26 | 0.01 | 0.26 | +194.8 | CoLdZy-, Irulan, VilePickle, _Nebbe, aLxGG |
 | 2026-06-03 | Pixel Peek | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.01 | 0.21 | +264.6 | CoLdZy-, Irulan, VilePickle, Wokani, aLxGG |
 | 2026-05-27 | Beef Wrappers | L | 0-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -297.1 | CoLdZy-, VilePickle, Wokani, _Nebbe, aLxGG |

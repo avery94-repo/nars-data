@@ -24,9 +24,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | Trap Castle | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -99.4 | 1HickMEISTER, Fesh-, J13, R0cco, jaw |
+| 2026-09-10 | Trap Castle | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.00 | 0.00 | -99.5 | 1HickMEISTER, Fesh-, J13, R0cco, jaw |
 | 2026-09-08 | Vibe Check | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.06 | 0.86 | +108.3 | 1HickMEISTER, J13, R0cco, jaw, neighbor |
-| 2026-09-06 | fiveB | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.06 | 0.85 | +114.7 | Hoppin, J13, R0cco, jaw, neighbor |
+| 2026-09-06 | fiveB | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.84 | 1.00 | 1.00 | 0.84 | 0.06 | 0.84 | +114.7 | Hoppin, J13, R0cco, jaw, neighbor |
 | 2026-09-04 | T Shirt Material | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.03 | 0.83 | +132.7 | Fesh-, Hoppin, J13, R0cco, neighbor |
 | 2026-09-02 | PPWesports | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.05 | 0.82 | +161.7 | 1HickMEISTER, Fesh-, J13, R0cco, neighbor |
 

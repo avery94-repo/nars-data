@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-16 | Toomers | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.91 | 0.00 | 0.00 | -68.2 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
 | 2026-09-11 | club ghoul | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.03 | 0.88 | +104.9 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
 | 2026-09-09 | Yum Yum Cigarettes | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.03 | 0.86 | +124.5 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
-| 2026-09-04 | 49th Parallel | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.02 | 0.83 | +182.1 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
+| 2026-09-04 | 49th Parallel | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.02 | 0.83 | +182.2 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
 | 2026-09-02 | Icebreakers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.02 | 0.82 | +190.0 | Andooby, Chrisalish, Chubbers_, NotcockG, oleglea |
 | 2026-07-26 | VOID ALUNE | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -147.6 | Andooby, Chrisalish, Chubbers_, NotcockG, svn-iwnl |
 

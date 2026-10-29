@@ -4,14 +4,14 @@ Roster: YEKINDOGE, Louun, Fragg3d, _tbone, Freak5565
 NARS Rank: 199 of 494
 
 Final Rating: 1465.8
-Seeded Start: 1260.4
-H2H Adjustment: +205.4
+Seeded Start: 1260.5
+H2H Adjustment: +205.3
 
-Final Rating (1465.8) = Seeded Start (1260.4) + H2H Adjustment (+205.4)
+Final Rating (1465.8) = Seeded Start (1260.5) + H2H Adjustment (+205.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.115 x 1400 = 1260.4
+                = 1100 + 0.115 x 1400 = 1260.5
 
 seed_factor 0.115 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.344)
 

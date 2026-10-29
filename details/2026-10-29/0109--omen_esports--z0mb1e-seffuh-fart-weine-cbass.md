@@ -4,14 +4,14 @@ Roster: z0mb1e, seffuh, fArt, weine, cbass
 NARS Rank: 109 of 494
 
 Final Rating: 1663.6
-Seeded Start: 1751.5
-H2H Adjustment: -87.9
+Seeded Start: 1751.3
+H2H Adjustment: -87.7
 
-Final Rating (1663.6) = Seeded Start (1751.5) + H2H Adjustment (-87.9)
+Final Rating (1663.6) = Seeded Start (1751.3) + H2H Adjustment (-87.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.465 x 1400 = 1751.5
+                = 1100 + 0.465 x 1400 = 1751.3
 
 seed_factor 0.465 = 0.25 x Tier Exposure (0.320) + 0.50 x Quality Wins (0.356) + 0.25 x Opponent Network (0.828)
 
@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.78 | 1.48 | 1.00 | 1.16 | 0.13 | 1.16 | +1.2 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-08-28 | my life be like | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.31 | 1.00 | 1.03 | 0.38 | 1.03 | +103.2 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-08-27 | Wolves | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.78 | 1.31 | 1.00 | 1.02 | 0.15 | 1.02 | +136.3 | cbass, fArt, seffuh, weine, z0mb1e |
-| 2026-08-25 | AURA Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.76 | 1.31 | 1.00 | 1.01 | 0.00 | 0.00 | -147.2 | 0113ba2c, 5067f1e3, fArt, seffuh, z0mb1e |
+| 2026-08-25 | AURA Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.76 | 1.31 | 1.00 | 1.01 | 0.00 | 0.00 | -147.3 | 0113ba2c, 5067f1e3, fArt, seffuh, z0mb1e |
 | 2026-08-21 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.48 | 1.00 | 1.09 | 0.00 | 0.00 | -94.6 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-08-20 | Club 333 | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.73 | 1.31 | 1.00 | 0.96 | 0.00 | 0.00 | -0.2 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-08-19 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.48 | 1.00 | 1.07 | 0.00 | 0.00 | -103.6 | cbass, fArt, seffuh, weine, z0mb1e |
@@ -59,9 +59,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-10 | Holy Squid Empire | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.26 | 1.53 | 1.00 | 0.40 | 0.06 | 0.40 | +338.2 | -Roo, cbass, fArt, yuush1, z0mb1e |
 | 2026-06-02 | Olympus | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.20 | 1.53 | 1.00 | 0.31 | 0.00 | 0.00 | -438.3 | -Roo, cbass, fArt, yuush1, z0mb1e |
 | 2026-05-19 | Room Temp IQs | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.39 | 1.00 | 0.15 | 0.01 | 0.15 | +0.1 | -Roo, cbass, fArt, yuush1, z0mb1e |
-| 2026-05-14 | skebob | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.39 | 1.00 | 0.11 | 0.00 | 0.11 | +344.4 | -Roo, cbass, fArt, yuush1, z0mb1e |
+| 2026-05-14 | skebob | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.39 | 1.00 | 0.11 | 0.00 | 0.11 | +344.5 | -Roo, cbass, fArt, yuush1, z0mb1e |
 | 2026-05-12 | Xiaoma Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.39 | 1.00 | 0.09 | 0.00 | 0.00 | -74.6 | -Roo, cbass, fArt, yuush1, z0mb1e |
 | 2026-05-07 | Ex-Tricksters | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.03 | 1.39 | 1.00 | 0.04 | 0.00 | 0.00 | -457.0 | -Roo, cbass, fArt, yuush1, z0mb1e |
-| 2026-05-05 | Chicken Coop | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.39 | 1.00 | 0.03 | 0.02 | 0.03 | +408.4 | -Roo, cbass, fArt, yuush1, z0mb1e |
+| 2026-05-05 | Chicken Coop | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.39 | 1.00 | 0.03 | 0.02 | 0.03 | +408.5 | -Roo, cbass, fArt, yuush1, z0mb1e |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

@@ -4,14 +4,14 @@ Roster: Satima, --Skar--, koz-y, -SP23-, Yuhnate
 NARS Rank: 181 of 494
 
 Final Rating: 1514.3
-Seeded Start: 1186.7
-H2H Adjustment: +327.6
+Seeded Start: 1186.6
+H2H Adjustment: +327.7 (capped at +-300, raw +327.6)
 
-Final Rating (1514.3) = Seeded Start (1186.7) + H2H Adjustment (+327.6)
+Final Rating (1514.3) = Seeded Start (1186.6) + H2H Adjustment (+327.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.062 x 1400 = 1186.7
+                = 1100 + 0.062 x 1400 = 1186.6
 
 seed_factor 0.062 = 0.25 x Tier Exposure (0.039) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.197)
 
@@ -25,10 +25,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-11 | Over 30 | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.88 | 1.00 | 1.00 | 0.88 | 0.00 | 0.00 | -130.8 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
-| 2026-09-09 | LXIX | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.87 | 1.00 | 1.00 | 0.87 | 0.03 | 0.87 | +79.0 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
+| 2026-09-09 | LXIX | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.03 | 0.86 | +79.0 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-09-04 | VORA | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.83 | 1.00 | 1.00 | 0.83 | 0.02 | 0.83 | +94.8 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-09-02 | Pixel Click | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.02 | 0.82 | +44.8 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
-| 2026-06-05 | Northern District | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.23 | 1.00 | 1.00 | 0.23 | 0.00 | 0.00 | -142.2 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
+| 2026-06-05 | Northern District | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.23 | 0.00 | 0.00 | -142.2 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-05-29 | Purple Reign | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.01 | 0.18 | +197.6 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-05-27 | We Bad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.00 | 0.17 | +184.5 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 

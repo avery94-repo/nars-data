@@ -30,6 +30,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-12 | Team TahMeow | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -173.7 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-06-03 | We Have No Enemies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.01 | 0.21 | +202.4 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-05-29 | Kings Gambit | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.18 | 1.00 | 1.00 | 0.18 | 0.00 | 0.00 | -164.5 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
-| 2026-05-27 | gimme noggin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +201.6 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
+| 2026-05-27 | gimme noggin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +201.7 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 
 _Snapshot 2026-10-29 | NARS v2 | CC BY-SA 4.0_

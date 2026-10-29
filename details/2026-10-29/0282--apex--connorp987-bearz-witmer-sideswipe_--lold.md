@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | OPOZIT | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-09 | Comeback Bandits | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +46.4 | BearZ, Dry-Eye, LOLDFOX, sideSWIPE_-, witmer |
 | 2026-10-08 | MONARCH | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +97.5 | BearZ, Dry-Eye, LOLDFOX, sideSWIPE_-, witmer |
-| 2026-09-12 | ODIN | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.89 | 1.02 | 1.00 | 0.91 | 0.00 | 0.00 | -105.9 | BearZ, ConnorP987, LOLDFOX, sideSWIPE_-, witmer |
+| 2026-09-12 | ODIN | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.88 | 1.02 | 1.00 | 0.91 | 0.00 | 0.00 | -105.9 | BearZ, ConnorP987, LOLDFOX, sideSWIPE_-, witmer |
 | 2026-09-10 | Boop Boop Gang | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.87 | 1.02 | 1.00 | 0.89 | 0.07 | 0.89 | +87.9 | BearZ, ConnorP987, LOLDFOX, sideSWIPE_-, witmer |
 | 2026-09-08 | NKBasketWeavers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.02 | 1.00 | 0.88 | 0.03 | 0.88 | +90.0 | BearZ, ConnorP987, Dry-Eye, LOLDFOX, witmer |
 | 2026-09-06 | Boomhogs 2 | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.02 | 1.00 | 0.87 | 0.03 | 0.87 | +88.2 | BearZ, ConnorP987, Dry-Eye, LOLDFOX, witmer |

@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-27 | 5Frag Gaming | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -88.1 | 23k, Polkan, Taysak, The_Zucc, fdoud |
 | 2026-10-21 | Kings Gambit | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -146.7 | 23k, Polkan, THADCATSLE, Taysak, fdoud |
-| 2026-10-16 | GeneticDiff | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -158.0 | 23k, Polkan, THADCATSLE, Taysak, fdoud |
+| 2026-10-16 | GeneticDiff | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -158.1 | 23k, Polkan, THADCATSLE, Taysak, fdoud |
 | 2026-10-09 | Epochal Esports | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.15 | 1.03 | +0.1 | Polkan, THADCATSLE, Taysak, The_Zucc, fdoud |
 | 2026-10-07 | Benadryl Abusers | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.10 | 1.03 | +0.2 | Polkan, THADCATSLE, Taysak, The_Zucc, fdoud |
 | 2026-09-21 | fih hou | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.94 | 0.07 | 0.94 | +35.8 | Katashi01, Polkan, THADCATSLE, Taysak, fdoud |
