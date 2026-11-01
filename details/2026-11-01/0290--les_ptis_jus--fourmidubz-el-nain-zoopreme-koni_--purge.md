@@ -4,14 +4,14 @@ Roster: FourmiDubz, El-Nain, zoopreme, Koni_-, Purgecs_
 NARS Rank: 290 of 489
 
 Final Rating: 1281.2
-Seeded Start: 1253.5
-H2H Adjustment: +27.7
+Seeded Start: 1253.4
+H2H Adjustment: +27.8
 
-Final Rating (1281.2) = Seeded Start (1253.5) + H2H Adjustment (+27.7)
+Final Rating (1281.2) = Seeded Start (1253.4) + H2H Adjustment (+27.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.110 x 1400 = 1253.5
+                = 1100 + 0.110 x 1400 = 1253.4
 
 seed_factor 0.110 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.025) + 0.25 x Opponent Network (0.317)
 

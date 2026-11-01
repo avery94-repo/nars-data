@@ -43,7 +43,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-31 | High-Tech Performance | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.01 | 0.17 | +172.8 | Cloh, PuLse-, _NBD, app4k, iLuCk |
 | 2026-05-29 | Iron Horse | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +31.6 | Cloh, PuLse-, _NBD, app4k, iLuCk |
 | 2026-05-27 | The Plague | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -436.2 | Cloh, PuLse-, _NBD, app4k, iLuCk |
-| 2026-05-20 | Ninjas In Boxer | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +363.2 | Cloh, PuLse-, _NBD, app4k, iLuCk |
+| 2026-05-20 | Ninjas In Boxer | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +363.3 | Cloh, PuLse-, _NBD, app4k, iLuCk |
 | 2026-05-15 | offBalance | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.01 | 0.06 | +392.8 | Cloh, PuLse-, _NBD, app4k, iLuCk |
 | 2026-05-13 | strawberry poptarts | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -345.0 | Cloh, PuLse-, _NBD, app4k, iLuCk |
 

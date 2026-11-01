@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.00 | 0.00 | -130.0 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-08-07 | Macs Snacks | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.00 | 0.00 | -13.4 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-08-05 | NADIYA | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.00 | 0.00 | -154.4 | -coNN, Kroney519, ViviD888, YvnggDexx, tRIPwire_ |
-| 2026-07-31 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.00 | 0.00 | -205.7 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
+| 2026-07-31 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.00 | 0.00 | -205.8 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-07-29 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.04 | 0.62 | +2.5 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-07-24 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.58 | 0.02 | 0.58 | +135.8 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |
 | 2026-07-22 | WhalersOnDaMoon | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.00 | 0.00 | -342.8 | -coNN, Kroney519, Pudie, ViviD888, tRIPwire_ |

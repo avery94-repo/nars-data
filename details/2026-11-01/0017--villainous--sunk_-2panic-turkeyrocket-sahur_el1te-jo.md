@@ -55,10 +55,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Incognito | L |  | VRS-tracked 2026-09 | A | vrs | 0.81 | 1.60 | 1.00 | 1.30 | 0.00 | 0.00 | -100.3 | core 3/5 |
 | 2026-09-03 | Wanted Goons | L | 0-1 | VRS-tracked 2026-09 | A | vrs | 0.80 | 1.60 | 1.00 | 1.29 | 0.00 | 0.00 | -64.5 | core 3/5 |
 | 2026-08-27 | Iowa Stormboar | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.76 | 1.60 | 1.00 | 1.21 | 0.00 | 0.00 | -58.0 | core 3/5 |
-| 2026-08-26 | DETONATE | W | 2-1 | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.20 | 1.20 | 0.00 | +77.9 | core 3/5 |
+| 2026-08-26 | DETONATE | W | 2-1 | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.20 | 1.20 | 0.00 | +78.0 | core 3/5 |
 | 2026-08-25 | Overtake Sector | L | 1-2 | VRS-tracked 2026-08 | A | vrs | 0.74 | 1.60 | 1.00 | 1.19 | 0.00 | 0.00 | -58.8 | core 3/5 |
 | 2026-08-21 | Chicken Coop | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.50 | 1.00 | 1.07 | 0.96 | 1.07 | +69.1 | Jolts, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
-| 2026-08-19 | NZ Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.05 | 0.11 | 1.05 | +63.6 | Jolts, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
+| 2026-08-19 | NZ Gaming | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.05 | 0.11 | 1.05 | +63.7 | Jolts, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-08-18 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.04 | 0.00 | 0.00 | -167.9 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-08-16 | NuTorious | L | 1-2 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.69 | 1.42 | 1.00 | 0.98 | 0.00 | 0.00 | -119.7 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-08-15 | Skyline | W | 2-0 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.68 | 1.42 | 1.00 | 0.97 | 0.35 | 0.97 | +18.6 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
@@ -80,7 +80,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-08 | Brahmas | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.22 | 1.60 | 1.00 | 0.36 | 0.07 | 0.00 | +155.0 | core 3/5 |
 | 2026-06-06 | LAG Gaming | W |  | VRS-tracked 2026-06 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.33 | 0.34 | +189.7 | core 3/5 |
 | 2026-06-04 | Beyond Limits | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.20 | 1.55 | 1.00 | 0.31 | 0.20 | 0.31 | +239.5 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
-| 2026-05-21 | New Legends | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.15 | 0.09 | 0.15 | +217.5 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
+| 2026-05-21 | New Legends | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.15 | 0.09 | 0.15 | +217.6 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-05-19 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.43 | 1.00 | 0.13 | 0.00 | 0.00 | -11.5 | 2Panic, Jolts, SAHUR_EL1TE, Sunk_, turkeyrocket |
 | 2026-05-14 | Club 333 | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.43 | 1.00 | 0.08 | 0.00 | 0.00 | -244.0 | 2Panic, SAHUR_EL1TE, Sunk_, recar, turkeyrocket |
 | 2026-05-12 | Wanted Goons | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.43 | 1.00 | 0.06 | 0.00 | 0.00 | -268.2 | 2Panic, SAHUR_EL1TE, Sunk_, carbs, turkeyrocket |

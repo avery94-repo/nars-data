@@ -70,7 +70,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.50 | 1.00 | 0.91 | 0.14 | 0.00 | +121.8 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-07-31 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.50 | 1.00 | 0.86 | 0.14 | 0.86 | +150.9 | CAJUN--, CoolComs, FxRE, Pose1doNN, Sev |
 | 2026-07-29 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.50 | 1.00 | 0.84 | 0.17 | 0.84 | +2.1 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
-| 2026-07-17 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.48 | 1.50 | 1.00 | 0.73 | 0.10 | 0.73 | +118.8 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
+| 2026-07-17 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.48 | 1.50 | 1.00 | 0.72 | 0.10 | 0.72 | +118.8 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 | 2026-07-15 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.50 | 1.00 | 0.70 | 0.00 | 0.00 | -375.8 | CAJUN--, CoolComs, FxRE, Pose1doNN, man327 |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | MASTER ONE | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.81 | 1.10 | 1.00 | 0.89 | 0.00 | 0.00 | -0.9 | Ferris, Funnyhorse, Karanni, TheBanker, cam-- |
 | 2026-08-28 | Kaos | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.06 | 0.84 | +64.0 | Basher, Funnyhorse, TheBanker, cam--, thanny |
 | 2026-08-26 | 5Frag Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.82 | 0.00 | 0.00 | -109.4 | Basher, Funnyhorse, Karanni, TheBanker, cam-- |
-| 2026-08-21 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.00 | 0.00 | -36.6 | Ferris, Funnyhorse, Karanni, TheBanker, cam-- |
+| 2026-08-21 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.00 | 0.00 | -36.5 | Ferris, Funnyhorse, Karanni, TheBanker, cam-- |
 | 2026-08-19 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.00 | 0.00 | -188.0 | Ferris, Funnyhorse, Karanni, TheBanker, cam-- |
 | 2026-08-12 | Crimson Vortex | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.00 | 0.00 | -141.7 | Basher, Funnyhorse, TheBanker, cam--, thanny |
 | 2026-08-05 | STFDYSAB | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.07 | 0.67 | +166.8 | Ferris, Funnyhorse, Karanni, cam--, thanny |

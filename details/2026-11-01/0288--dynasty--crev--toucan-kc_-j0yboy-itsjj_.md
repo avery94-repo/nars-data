@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Moniseum | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -2.8 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-07-15 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.05 | 0.47 | +272.8 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-05-29 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -381.4 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
-| 2026-05-27 | Qinorhwat | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -420.8 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
+| 2026-05-27 | Qinorhwat | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -420.9 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |
 | 2026-05-22 | The Agarthans | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +210.4 | -Toucan, BrodyJ, Crev, ItsJJ_, KC_ |
 | 2026-05-20 | Onsite has Oil | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +240.8 | -Toucan, Crev, ItsJJ_, KC_, M4CKY |
 | 2026-05-15 | We Play Naked | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.01 | 0.06 | +3.5 | -Toucan, Crev, ItsJJ_, J0YBOY, KC_ |

@@ -50,7 +50,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Conscious Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.58 | 0.09 | 0.58 | +83.6 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-07-23 | 5Frag Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.58 | 0.07 | 0.58 | +4.0 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-07-22 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.08 | 0.57 | +433.2 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
-| 2026-07-21 | penazoid | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.51 | 1.10 | 1.00 | 0.56 | 0.06 | 0.00 | +195.3 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
+| 2026-07-21 | penazoid | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.51 | 1.10 | 1.00 | 0.56 | 0.06 | 0.00 | +195.4 | DEADM4N, Pungents, ThuNdeR0205, cor_vo, nova_iwl |
 | 2026-05-22 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.13 | 1.00 | 0.13 | 0.00 | 0.13 | +25.8 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-05-21 | Shaboing Boing Bandits | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.12 | 0.00 | 0.00 | -392.7 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |
 | 2026-05-15 | Solace | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.07 | +323.1 | DEADM4N, Hig, Pungents, ThuNdeR0205, nova_iwl |

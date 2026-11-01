@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | After Peak | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -86.8 | AmishSavant, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-10-13 | brb grinding minecraft | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -0.3 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-10-09 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -0.3 | WOWITSMEHI, Zitrone_, hayter, sil_, solid37, tomjr88 |
-| 2026-08-28 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.06 | 0.76 | +180.0 | WOWITSMEHI, Zitrone_, hayter, sil_, tomjr88 |
+| 2026-08-28 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.06 | 0.76 | +180.1 | WOWITSMEHI, Zitrone_, hayter, sil_, tomjr88 |
 | 2026-08-26 | Knight Owls | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -188.7 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-08-19 | Thrash | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -118.5 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
 | 2026-08-14 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.05 | 0.67 | +86.7 | WOWITSMEHI, Zitrone_, hayter, sil_, solid37, tomjr88 |

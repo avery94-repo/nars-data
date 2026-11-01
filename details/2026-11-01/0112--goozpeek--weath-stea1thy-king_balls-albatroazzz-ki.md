@@ -35,7 +35,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.82 | 0.03 | 0.82 | +109.6 | 1ja_, Albatroazzz, Stea1thy, Weath, kimsurro |
 | 2026-08-21 | Kaos | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.00 | 0.00 | -69.4 | Albatroazzz, King_Balls, Stea1thy, Weath, kimsurro |
 | 2026-08-19 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.00 | 0.00 | -65.6 | Albatroazzz, King_Balls, Stea1thy, Weath, kimsurro |
-| 2026-08-12 | DingTone | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.00 | 0.00 | -138.6 | Albatroazzz, King_Balls, Stea1thy, Weath, cheyney |
+| 2026-08-12 | DingTone | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.00 | 0.00 | -138.7 | Albatroazzz, King_Balls, Stea1thy, Weath, cheyney |
 | 2026-08-07 | Florida Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.05 | 0.69 | +81.1 | 1moopey, Albatroazzz, Stea1thy, Weath, kimsurro |
 | 2026-08-05 | Feels MAIN Man | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.05 | 0.67 | +172.3 | 1moopey, Albatroazzz, King_Balls, Stea1thy, Weath |
 | 2026-07-31 | Exnitas | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.00 | 0.00 | -94.2 | Albatroazzz, King_Balls, Stea1thy, Weath, kimsurro |

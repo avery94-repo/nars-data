@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Old Dads Banging | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.00 | 0.00 | -109.7 | 7urroN, JaXsy, SteveSaw10, WIDOW1g, nkSitow |
 | 2026-07-17 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.00 | 0.00 | -227.5 | 7urroN, JaXsy, Pokario, SteveSaw10, WIDOW1g |
 | 2026-07-15 | SAFIR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.06 | 1.00 | 0.50 | 0.00 | 0.00 | -15.6 | 7urroN, FLa_FLa, Pokario, SteveSaw10, WIDOW1g |
-| 2026-05-20 | Yogaball Frags | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.00 | 0.00 | -385.8 | 7urroN, Pokario, SteveSaw10, WIDOW1g, _GOR- |
+| 2026-05-20 | Yogaball Frags | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.00 | 0.00 | -385.9 | 7urroN, Pokario, SteveSaw10, WIDOW1g, _GOR- |
 | 2026-05-15 | Read You Like a Kindle | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.01 | 0.07 | +395.6 | 7urroN, JaXsy, Pokario, WIDOW1g, nkSitow |
 | 2026-05-08 | penazoid | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.13 | 1.00 | 0.02 | 0.00 | 0.00 | -296.3 | 7urroN, JaXsy, Pokario, SteveSaw10, WIDOW1g |
 

@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.02 | 0.66 | +1.1 | BonJinko, Mattoy_, _Mski_, insightz, sank |
 | 2026-08-07 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.04 | 0.62 | +20.7 | BonJinko, Mattoy_, _Mski_, insightz, sank |
 | 2026-08-05 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +1.4 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
-| 2026-07-31 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -138.1 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, red1ski |
+| 2026-07-31 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -138.2 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, red1ski |
 | 2026-07-29 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +46.4 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, sank |
 | 2026-07-22 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -175.8 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
 | 2026-07-15 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.04 | 0.47 | +155.2 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, sank |

@@ -1,5 +1,5 @@
 ### Roster Details
-Team Name: SportsBetExpert
+Team Name: Ludens Gecko
 Roster: motm, shane, consti, Infinite, Peeping
 NARS Rank: 5 of 489
 
@@ -72,9 +72,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-17 | Overtake Sector | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.50 | 1.00 | 1.03 | 1.03 | 1.03 | +32.9 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-14 | Zomblers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.50 | 1.00 | 1.00 | 0.83 | 1.00 | +53.1 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-13 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.50 | 1.00 | 1.00 | 0.00 | 0.00 | -116.4 | Infinite, Peeping, consti, motm, shane |
-| 2026-08-07 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.50 | 1.00 | 0.93 | 0.00 | 0.00 | -276.6 | Infinite, Peeping, consti, motm, shane |
+| 2026-08-07 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.50 | 1.00 | 0.93 | 0.00 | 0.00 | -276.7 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-02 | Marsborne | W | 2-0 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.59 | 1.60 | 1.00 | 0.95 | 0.95 | 0.00 | +64.0 | Infinite, Peeping, consti, motm, shane |
-| 2026-08-02 | NRG | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.59 | 1.60 | 1.00 | 0.94 | 0.00 | 0.00 | -153.9 | core 3/5 |
+| 2026-08-02 | NRG | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.59 | 1.60 | 1.00 | 0.94 | 0.00 | 0.00 | -154.0 | core 3/5 |
 | 2026-08-01 | LAG Gaming | W | 2-1 | StarSeries S20 - Closed Qualifier NA1 | C | faceit-tournament | 0.58 | 1.60 | 1.00 | 0.93 | 0.92 | 0.00 | +6.5 | Infinite, Peeping, consti, motm, shane |
 | 2026-08-01 | Marsborne | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.58 | 1.60 | 1.00 | 0.93 | 0.93 | 0.00 | +192.6 | core 3/5 |
 | 2026-07-31 | Wanted Goons | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.50 | 1.00 | 0.87 | 0.84 | 0.87 | +0.7 | Infinite, Peeping, consti, motm, shane |

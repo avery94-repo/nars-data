@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-31 | Team TahMeow | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-28 | fih hou | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -27.8 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-10-21 | ODIN | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -74.9 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
-| 2026-10-16 | APEX | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +134.1 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
+| 2026-10-16 | APEX | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +134.2 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-10-14 | PogSquad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +48.5 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-10-09 | Feels MAIN Man | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +0.6 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-10-07 | AscendentEsport | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +161.5 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |

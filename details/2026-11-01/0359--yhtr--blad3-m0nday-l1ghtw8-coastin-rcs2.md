@@ -54,7 +54,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-09 | STFDYSAB | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.23 | 1.02 | 1.00 | 0.24 | 0.02 | 0.24 | +142.3 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
 | 2026-06-06 | Baja Blasters | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.21 | 1.02 | 1.00 | 0.22 | 0.01 | 0.22 | +175.4 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
 | 2026-06-04 | HammerHeads | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.20 | 1.02 | 1.00 | 0.20 | 0.01 | 0.20 | +218.6 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
-| 2026-06-02 | Meepins | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.18 | 1.02 | 1.00 | 0.19 | 0.01 | 0.19 | +188.1 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
+| 2026-06-02 | Meepins | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.18 | 1.02 | 1.00 | 0.19 | 0.01 | 0.19 | +188.2 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
 | 2026-05-31 | Spin da block | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.01 | 0.17 | +242.3 | Blad3, L1ghtw8, Madbeetle, coastin, m0NDAY |
 | 2026-05-27 | Oath | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.14 | 1.02 | 1.00 | 0.15 | 0.00 | 0.00 | -353.4 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |
 | 2026-05-22 | Zenano | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +370.7 | Blad3, L1ghtw8, coastin, m0NDAY, nawny |

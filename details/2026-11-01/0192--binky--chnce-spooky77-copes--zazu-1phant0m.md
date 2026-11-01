@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | Asoka | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -42.7 | 1phant0m, Amo24, Copes-, chnce, spooky77 |
 | 2026-10-14 | PASSION | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +83.2 | 1phant0m, Amo24, Copes-, chnce, spooky77 |
 | 2026-10-09 | Read You Like a Kindle | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -74.3 | 1phant0m, chnce, ilmari1, pete7895, spooky77 |
-| 2026-10-07 | Dude Picks | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +264.2 | 1phant0m, Amo24, Copes-, chnce, spooky77 |
+| 2026-10-07 | Dude Picks | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.12 | 1.02 | +264.3 | 1phant0m, Amo24, Copes-, chnce, spooky77 |
 | 2026-09-06 | 5Frag Gaming | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.82 | 1.10 | 1.00 | 0.91 | 0.00 | 0.00 | -13.3 | 1phant0m, cass, chnce, eLane, spooky77 |
 | 2026-09-02 | DESPAIR | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.00 | 0.00 | -3.9 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-08-28 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.00 | 0.00 | -108.6 | 1phant0m, Copes-, chnce, eLane, spooky77 |
@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.05 | 0.72 | +73.5 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-08-07 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.00 | 0.00 | -60.4 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-08-05 | FUELED BY HATE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.00 | 0.00 | -145.0 | Copes-, Zazu, cass, chnce, spooky77 |
-| 2026-07-31 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.00 | 0.00 | -85.2 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
+| 2026-07-31 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.00 | 0.00 | -85.3 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-07-29 | VOID ALUNE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.10 | 0.62 | +132.0 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-07-24 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.58 | 0.00 | 0.00 | -6.8 | 1phant0m, Copes-, Zazu, chnce, spooky77 |
 | 2026-07-22 | ASYCS KITTENS | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.00 | 0.00 | -341.9 | Copes-, Zazu, blegh, chnce, spooky77 |

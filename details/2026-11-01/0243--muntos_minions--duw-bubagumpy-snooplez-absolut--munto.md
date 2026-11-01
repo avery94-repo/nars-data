@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-28 | Veniversum | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -49.3 | Bubagumpy, Snooplez, absolut-, munto, noodleheadd |
 | 2026-10-27 | Biggie Cheese Fan Club | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -54.3 | Snooplez, absolut-, duw, kil0, munto |
 | 2026-10-21 | Mud Wizards | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +93.3 | Snooplez, absolut-, duw, kil0, munto |
-| 2026-10-16 | CN Chill Boyz | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +281.8 | Belloq, Snooplez, duw, kil0, munto |
+| 2026-10-16 | CN Chill Boyz | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +281.9 | Belloq, Snooplez, duw, kil0, munto |
 | 2026-10-14 | UncsStillGotIt | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -26.3 | Belloq, Snooplez, duw, kil0, munto |
 | 2026-10-09 | OPOZIT | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-09-10 | Samantha 4 | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.85 | 1.11 | 1.00 | 0.95 | 0.00 | 0.00 | -103.9 | Snooplez, absolut-, duw, kil0, munto |

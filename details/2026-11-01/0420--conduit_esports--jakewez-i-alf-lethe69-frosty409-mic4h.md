@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -457.3 | Frosty409, ImminentG, JakeWez, Lethe69, i-alf |
 | 2026-06-15 | 69 | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.02 | 0.27 | +173.5 | BeanFlicker, JakeWez, Lethe69, i-alf, mic4h |
 | 2026-06-12 | Orbit | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.25 | +80.1 | Frosty409, JakeWez, Lethe69, i-alf, mic4h |
-| 2026-06-10 | Will of Dih | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +183.9 | Frosty409, JakeWez, Lethe69, i-alf, mic4h |
+| 2026-06-10 | Will of Dih | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.02 | 0.24 | +184.0 | Frosty409, JakeWez, Lethe69, i-alf, mic4h |
 | 2026-06-05 | Head Trauma | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +182.8 | Frosty409, JakeWez, Lethe69, i-alf, mic4h |
 | 2026-06-03 | Woohoo | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +142.9 | BeanFlicker, Frosty409, JakeWez, Lethe69, i-alf, mic4h |
 | 2026-05-29 | Booday | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.01 | 0.16 | +188.5 | Frosty409, JakeWez, Lethe69, i-alf, mic4h |

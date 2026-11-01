@@ -46,7 +46,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | NXG Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.50 | 1.00 | 0.92 | 0.00 | 0.00 | -122.5 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-07-31 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.50 | 1.00 | 0.86 | 0.00 | 0.00 | -116.9 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-07-29 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.50 | 1.00 | 0.85 | 0.00 | 0.00 | -197.2 | FlashET, Larryw1k, emblem, omoo, sveetea |
-| 2026-07-23 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.79 | 0.09 | 0.79 | +333.6 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
+| 2026-07-23 | 027fam | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.79 | 0.09 | 0.79 | +333.7 | FlashET, Larryw1k, omoo, sveetea, terrk1s |
 | 2026-07-15 | SOLA GAMING | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.50 | 1.00 | 0.71 | 0.00 | 0.00 | -341.2 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-05-21 | firesale | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.15 | 0.02 | 0.15 | +323.1 | FlashET, Larryw1k, emblem, omoo, sveetea |
 | 2026-05-19 | unreal nightmare | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.43 | 1.00 | 0.13 | 0.00 | 0.00 | -158.2 | FlashET, Larryw1k, TeaPotMan, omoo, sveetea |

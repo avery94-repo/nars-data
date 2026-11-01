@@ -69,7 +69,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.05 | 0.00 | 0.00 | -88.4 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-08-14 | FlyQuest RED | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.50 | 1.00 | 1.00 | 0.00 | 0.00 | -115.9 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-08-13 | counterstrike Team | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.66 | 1.37 | 1.00 | 0.91 | 0.21 | 0.00 | +0.1 | Feb, Johan, Magic_KS, hibui, killerPandas |
-| 2026-08-13 | Celestial Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.66 | 1.37 | 1.00 | 0.91 | 0.30 | 0.91 | +113.1 | Feb, Johan, Magic_KS, hibui, killerPandas |
+| 2026-08-13 | Celestial Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.66 | 1.37 | 1.00 | 0.91 | 0.30 | 0.91 | +113.2 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-07-31 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.50 | 1.00 | 0.87 | 0.00 | 0.00 | -0.5 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-06-30 | Overtake Sector | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.37 | 1.60 | 1.00 | 0.59 | 0.00 | 0.00 | -11.2 | core 3/5 |
 | 2026-06-14 | Olympus | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.26 | 1.55 | 1.00 | 0.41 | 0.00 | 0.00 | -142.8 | Johan, Magic_KS, hibui, killerPandas, relt |
@@ -83,7 +83,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-04 | FlyQuest RED | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.20 | 1.55 | 1.00 | 0.31 | 0.13 | 0.31 | +196.4 | Johan, Magic_KS, hibui, killerPandas, relt |
 | 2026-05-30 | LAG Gaming | L |  | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.00 | 0.00 | -164.5 | core 3/5 |
 | 2026-05-30 | NINEFLY | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.20 | 0.00 | +285.3 | core 3/5 |
-| 2026-05-30 | Reign Above | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.00 | 0.00 | -395.9 | core 3/5 |
+| 2026-05-30 | Reign Above | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.00 | 0.00 | -396.0 | core 3/5 |
 | 2026-05-21 | LAG Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.15 | 0.00 | 0.00 | -365.3 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-05-19 | Xiaoma Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.43 | 1.00 | 0.13 | 0.02 | 0.13 | +0.5 | Feb, Johan, Magic_KS, hibui, killerPandas |
 | 2026-05-13 | Club 333 | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.43 | 1.00 | 0.07 | 0.06 | 0.07 | +13.6 | Feb, Johan, Magic_KS, hibui, killerPandas |

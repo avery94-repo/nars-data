@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Tacos Tiramisu and Lies | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -0.1 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-08-28 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.05 | 0.76 | +51.2 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-08-26 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -55.7 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
-| 2026-08-21 | DeathMark E-Sports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -63.7 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
+| 2026-08-21 | DeathMark E-Sports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -63.8 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-08-19 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -78.3 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-08-14 | Aetheris | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.05 | 0.67 | +90.7 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-08-12 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -9.1 | Jurof, ReesePuf, aavsen, cs_AsSaSs1n, pg0 |

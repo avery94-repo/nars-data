@@ -13,7 +13,7 @@ Final Rating (1461.4) = Seeded Start (1249.2) + H2H Adjustment (+212.2)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.107 x 1400 = 1249.2
 
-seed_factor 0.107 = 0.25 x Tier Exposure (0.035) + 0.50 x Quality Wins (0.029) + 0.25 x Opponent Network (0.334)
+seed_factor 0.107 = 0.25 x Tier Exposure (0.035) + 0.50 x Quality Wins (0.029) + 0.25 x Opponent Network (0.333)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

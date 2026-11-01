@@ -35,8 +35,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -32.1 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-14 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.05 | 0.67 | +155.2 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-12 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -216.3 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
-| 2026-08-07 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.07 | 0.62 | +68.7 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
-| 2026-08-05 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +121.3 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
+| 2026-08-07 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.07 | 0.62 | +68.8 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
+| 2026-08-05 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +121.4 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-07-29 | QUPMANACS | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -286.0 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-29 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -241.0 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-24 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.05 | 0.00 | +44.4 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |

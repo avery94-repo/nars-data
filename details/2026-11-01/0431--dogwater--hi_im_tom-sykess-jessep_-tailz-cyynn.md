@@ -42,8 +42,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -46.2 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-07-29 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.02 | 0.56 | +35.1 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-07-22 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.05 | 0.52 | +221.6 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-05-22 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +237.2 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
-| 2026-05-20 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -215.4 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-05-22 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +237.3 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-05-20 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -215.5 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-15 | Team Deathgrip | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -230.2 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-13 | Onsite has Oil | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -22.5 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-05-08 | Brothers United | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -295.0 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |

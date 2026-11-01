@@ -13,7 +13,7 @@ Final Rating (1820.6) = Seeded Start (1398.2) + H2H Adjustment (+422.4)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.213 x 1400 = 1398.2
 
-seed_factor 0.213 = 0.25 x Tier Exposure (0.165) + 0.50 x Quality Wins (0.089) + 0.25 x Opponent Network (0.510)
+seed_factor 0.213 = 0.25 x Tier Exposure (0.165) + 0.50 x Quality Wins (0.088) + 0.25 x Opponent Network (0.510)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-27 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.50 | 1.00 | 1.13 | 0.00 | 0.00 | -1.4 | --toasty, 1Ellis, PLx2, k2-, merkn |
 | 2026-08-25 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.50 | 1.00 | 1.11 | 0.00 | 0.00 | -110.8 | --toasty, 1Ellis, PLx2, k2-, merkn |
 | 2026-08-14 | KODEX ESPORTS | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.50 | 1.00 | 1.00 | 0.19 | 1.00 | +91.4 | --toasty, 1Ellis, PLx2, k2-, merkn |
-| 2026-07-29 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.50 | 1.00 | 0.84 | 0.13 | 0.84 | +78.5 | --toasty, BuellcR, PLx2, k2-, merkn |
+| 2026-07-29 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.50 | 1.00 | 0.84 | 0.13 | 0.84 | +78.6 | --toasty, BuellcR, PLx2, k2-, merkn |
 | 2026-07-24 | SOLA GAMING | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.50 | 1.00 | 0.79 | 0.03 | 0.79 | +4.3 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-07-22 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.77 | 0.08 | 0.77 | +162.3 | 1Ellis, BuellcR, PLx2, k2-, merkn |
 | 2026-07-21 | North Forge | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.51 | 1.50 | 1.00 | 0.76 | 0.00 | 0.00 | -26.8 | 1Ellis, BuellcR, PLx2, k2-, merkn |

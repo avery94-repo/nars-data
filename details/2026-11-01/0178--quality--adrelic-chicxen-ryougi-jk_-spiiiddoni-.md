@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.06 | 1.00 | 0.50 | 0.02 | 0.50 | +142.2 | Adrelic, Chicxen, Hawpa_, JK_, spiiiddoni- |
 | 2026-07-14 | babaG | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.47 | 1.29 | 1.00 | 0.61 | 0.00 | 0.00 | -136.8 | Adrelic, Chicxen, Hawpa_, JK_, Raginwalri |
 | 2026-06-06 | US Navy Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.21 | 1.02 | 1.00 | 0.22 | 0.00 | 0.00 | -202.9 | Adrelic, Chicxen, JK_, jjboyson, spiiiddoni- |
-| 2026-05-31 | academy 4 gifted children | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.18 | 0.00 | 0.00 | -201.1 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |
+| 2026-05-31 | academy 4 gifted children | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.00 | 0.00 | -201.1 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |
 | 2026-05-29 | Top One Percent | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.16 | 1.02 | 1.00 | 0.16 | 0.01 | 0.16 | +26.3 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |
 | 2026-05-27 | Exnitas | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.14 | 1.02 | 1.00 | 0.15 | 0.02 | 0.15 | +69.1 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |
 | 2026-05-22 | US Navy Esports | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.01 | 0.11 | +321.1 | Adrelic, Chicxen, JK_, Ryougi, spiiiddoni- |

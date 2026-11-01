@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | Benadryl Abusers | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +131.2 | Ding--, METTLE, NEMFOREDEAL, YaBoiZel, obscure- |
 | 2026-10-14 | Sassy Sunshines | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -10.2 | E1EKTRIKA, NEMFOREDEAL, YaBoiZel, cdm35, obscure- |
 | 2026-10-09 | Asoka | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -1.2 | Ding--, METTLE, YaBoiZel, cdm35, obscure- |
-| 2026-08-28 | Wealth Reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.06 | 1.00 | 0.81 | 0.00 | 0.00 | -87.1 | -Ach1lles, METTLE, YaBoiZel, cdm35, obscure- |
+| 2026-08-28 | Wealth Reduction | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.06 | 1.00 | 0.81 | 0.00 | 0.00 | -87.2 | -Ach1lles, METTLE, YaBoiZel, cdm35, obscure- |
 | 2026-08-26 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.06 | 1.00 | 0.79 | 0.03 | 0.79 | +91.3 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |
 | 2026-08-21 | BucketJonsBoys | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -88.5 | Ding--, E1EKTRIKA, _miIkman_, cdm35, obscure- |
 | 2026-08-19 | ThirdSite | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.00 | 0.00 | -106.3 | E1EKTRIKA, METTLE, YaBoiZel, cdm35, obscure- |

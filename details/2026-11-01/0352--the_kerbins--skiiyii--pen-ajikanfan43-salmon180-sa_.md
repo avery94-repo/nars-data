@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Defaulting | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -166.8 | -pen, Ajikanfan43, Salmon180, biel, sA_ |
 | 2026-09-18 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.95 | 0.00 | 0.00 | -40.3 | -pen, -reek, Ajikanfan43, SKiiYii, keek-, sA_ |
 | 2026-09-10 | feet67 | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.90 | 0.00 | 0.00 | -112.5 | -pen, Ajikanfan43, SKiiYii, Salmon180, sA_ |
-| 2026-09-08 | Drip or Drown | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.05 | 1.00 | 0.88 | 0.12 | 0.88 | +221.2 | -pen, Ajikanfan43, SKiiYii, Salmon180, keek-, sA_ |
+| 2026-09-08 | Vlandian knigts | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.05 | 1.00 | 0.88 | 0.12 | 0.88 | +221.2 | -pen, Ajikanfan43, SKiiYii, Salmon180, keek-, sA_ |
 | 2026-09-04 | Team Canada CS2 | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.81 | 1.05 | 1.00 | 0.85 | 0.03 | 0.85 | +127.4 | -pen, Ajikanfan43, SKiiYii, Salmon180, keek-, sA_ |
 | 2026-09-02 | Against Odds | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.03 | 0.84 | +143.7 | -pen, Ajikanfan43, SKiiYii, Salmon180, sA_ |
 

@@ -41,10 +41,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.02 | 0.67 | +164.4 | Angry-_-, AvgBongRip, Jelly, Retnuh, metroJS |
 | 2026-07-31 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.00 | 0.00 | -44.2 | AvgBongRip, Flash-, Jelly, Retnuh, zNiido- |
 | 2026-07-29 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.00 | 0.00 | -43.2 | AvgBongRip, BigYeeterz, Flash-, Jelly, metroJS |
-| 2026-07-17 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.53 | 0.00 | 0.00 | -332.5 | -Stuwu-, Angry-_-, AvgBongRip, Jelly, Retnuh |
+| 2026-07-17 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.53 | 0.00 | 0.00 | -332.6 | -Stuwu-, Angry-_-, AvgBongRip, Jelly, Retnuh |
 | 2026-07-15 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.10 | 1.00 | 0.52 | 0.00 | 0.00 | -81.9 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
 | 2026-05-20 | Conscious Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.02 | 0.11 | +378.2 | Angry-_-, BigYeeterz, Flash-, Jelly, Retnuh |
-| 2026-05-15 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.00 | -379.7 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
+| 2026-05-15 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.00 | -379.8 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
 | 2026-05-13 | goofball gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.13 | 1.00 | 0.06 | 0.00 | 0.06 | +258.1 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
 | 2026-05-11 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.13 | 1.00 | 0.04 | 0.00 | 0.04 | +304.5 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
 | 2026-05-06 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.13 | 1.00 | 0.00 | 0.00 | 0.00 | -238.3 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |

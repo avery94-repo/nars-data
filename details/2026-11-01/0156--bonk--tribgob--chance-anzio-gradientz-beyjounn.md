@@ -29,13 +29,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-07 | enigma | W | 1-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.84 | 1.09 | 1.00 | 0.91 | 0.16 | 0.91 | +162.6 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-28 | Distinguished Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.06 | 1.00 | 0.81 | 0.06 | 0.81 | +35.3 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-26 | Chopped | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.06 | 1.00 | 0.79 | 0.08 | 0.79 | +112.6 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
-| 2026-08-21 | teamington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -94.2 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
+| 2026-08-21 | teamington | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -94.3 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-19 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.00 | 0.00 | -148.0 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-14 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.03 | 0.71 | +76.6 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-12 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.02 | 0.70 | +45.4 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-07 | MINDTRIP | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -163.4 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-08-05 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.06 | 1.00 | 0.65 | 0.00 | 0.00 | -39.1 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
-| 2026-07-31 | Qinorhwat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.61 | 0.00 | 0.00 | -177.5 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
+| 2026-07-31 | Qinorhwat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.61 | 0.00 | 0.00 | -177.6 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-07-29 | DKR Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.60 | 0.05 | 0.60 | +117.4 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-07-24 | Real Hustle Club | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.00 | 0.00 | -177.9 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |
 | 2026-07-22 | TEMPR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.04 | 0.55 | +146.5 | Anzio, Beyjounn, GradienTz, Prank3dd, Tribgob |

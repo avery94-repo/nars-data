@@ -4,14 +4,14 @@ Roster: TRISTY-HGM, ToxicCannoli, NoVaVoN, btz, London
 NARS Rank: 455 of 489
 
 Final Rating: 854.1
-Seeded Start: 1105.1
-H2H Adjustment: -251.0
+Seeded Start: 1105.0
+H2H Adjustment: -250.9
 
-Final Rating (854.1) = Seeded Start (1105.1) + H2H Adjustment (-251.0)
+Final Rating (854.1) = Seeded Start (1105.0) + H2H Adjustment (-250.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.004 x 1400 = 1105.1
+                = 1100 + 0.004 x 1400 = 1105.0
 
 seed_factor 0.004 = 0.25 x Tier Exposure (0.010) + 0.50 x Quality Wins (0.000) + 0.25 x Opponent Network (0.004)
 

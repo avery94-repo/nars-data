@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-16 | DMA | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-07 | Green Grove Retirement | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-10-02 | ASCEND | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -57.8 | DOOR_1, Entityy, Lustikkk, kago7, v1tezzzzz |
+| 2026-10-02 | ASCEND | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -57.7 | DOOR_1, Entityy, Lustikkk, kago7, v1tezzzzz |
 | 2026-08-28 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -89.2 | DOOR_1, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
 | 2026-08-26 | Team Deathgrip | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -112.9 | DOOR_1, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
 | 2026-08-21 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.04 | 0.72 | +88.1 | DOOR_1, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -461.4 | FobIa_aSalo, Lustikkk, Yappi_1, _STRILOK_, v1tezzzzz |
 | 2026-06-15 | Conduit eSports | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.27 | 1.00 | 1.00 | 0.27 | 0.00 | 0.00 | -173.5 | Danchesko, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
 | 2026-06-12 | Evade Gaming | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.25 | +193.5 | BITCOIN223, Entityy, Lustikkk, _STRILOK_, v1tezzzzz |
-| 2026-06-08 | We Wont Implode This Time | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.23 | 0.00 | 0.23 | +242.3 | Danchesko, Entityy, Lustikkk, _STRILOK_, v1tezzzzz, welldonskiy |
+| 2026-06-08 | We Wont Implode This Time | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.22 | 1.00 | 1.00 | 0.23 | 0.00 | 0.23 | +242.4 | Danchesko, Entityy, Lustikkk, _STRILOK_, v1tezzzzz, welldonskiy |
 | 2026-06-06 | RichMoneyAcademy | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.00 | 0.21 | +60.4 | ALEX_PLUS1, Danchesko, Lustikkk, _STRILOK_, v1tezzzzz |
 | 2026-05-30 | BD Lamron | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.17 | 0.01 | 0.17 | +251.5 | Danchesko, Entityy, Lustikkk, v1tezzzzz, welldonskiy |
 | 2026-05-29 | Chippys Ahoy | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +283.0 | Danchesko, Lustikkk, _STRILOK_, v1tezzzzz, welldonskiy |

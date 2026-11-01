@@ -3,11 +3,11 @@ Team Name: GG
 Roster: danzinn-, Zorky5k, clx, ditt77, vin33
 NARS Rank: 44 of 489
 
-Final Rating: 1904.6
+Final Rating: 1904.7
 Seeded Start: 1129.9
-H2H Adjustment: +774.7
+H2H Adjustment: +774.8 (capped at +-300, raw +774.7)
 
-Final Rating (1904.6) = Seeded Start (1129.9) + H2H Adjustment (+774.7)
+Final Rating (1904.7) = Seeded Start (1129.9) + H2H Adjustment (+774.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

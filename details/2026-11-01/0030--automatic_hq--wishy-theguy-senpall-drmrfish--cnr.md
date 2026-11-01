@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-30 | NZ Gaming | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -86.6 | -TIME-, DrMrFish, Senpall, Wokani, theguy |
-| 2026-10-29 | North Forge | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.40 | 1.50 | +46.2 | -TIME-, DrMrFish, Senpall, Wokani, theguy |
+| 2026-10-29 | North Forge | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.40 | 1.50 | +46.1 | -TIME-, DrMrFish, Senpall, Wokani, theguy |
 | 2026-10-28 | FlyQuest RED | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.62 | 1.50 | +37.6 | -TIME-, DrMrFish, Senpall, Wokani, theguy |
 | 2026-10-21 | Olympus | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -56.7 | -CNR, -TIME-, DrMrFish, Senpall, theguy |
 | 2026-10-16 | Addice | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.30 | 1.50 | +27.9 | -CNR, -TIME-, DrMrFish, Senpall, theguy |

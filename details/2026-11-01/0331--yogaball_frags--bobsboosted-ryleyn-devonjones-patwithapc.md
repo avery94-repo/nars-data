@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.53 | 0.04 | 0.53 | +385.0 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-05-20 | HUMA | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.01 | 0.11 | +382.8 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-15 | Bird Squishers | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.00 | -21.9 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
-| 2026-05-13 | grogu | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.13 | 1.00 | 0.06 | 0.00 | 0.00 | -292.6 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
+| 2026-05-13 | grogu | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.13 | 1.00 | 0.06 | 0.00 | 0.00 | -292.7 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-08 | Aurofox | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.13 | 1.00 | 0.02 | 0.00 | 0.00 | -282.3 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 | 2026-05-06 | Evil Space Wizards | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.13 | 1.00 | 0.01 | 0.00 | 0.01 | +220.3 | BobsBoosted, Crim, DevonJones, lerff, patwithapc |
 

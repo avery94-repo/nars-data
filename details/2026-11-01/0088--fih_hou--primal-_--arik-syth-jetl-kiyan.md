@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-30 | Veniversum | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -90.4 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-10-28 | Casual Mature Gamers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +28.0 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-10-26 | ODIN | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +89.6 | JetL, KIYAN, Primal-_-, syth, whippinSHIT |
-| 2026-10-21 | UsingCodefArt25atSCL | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -219.0 | JetL, KIYAN, Primal-_-, arik, syth |
+| 2026-10-21 | PBP | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -219.0 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-10-16 | Biggie Cheese Fan Club | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.11 | 1.04 | +95.9 | JetL, KIYAN, Primal-_-, arik, syth |
 | 2026-10-09 | Bad Jawn | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +62.1 | JetL, KIYAN, Nathaniel, arik, syth |
 | 2026-10-07 | Mud Wizards | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +1.5 | JetL, KIYAN, Primal-_-, arik, syth |

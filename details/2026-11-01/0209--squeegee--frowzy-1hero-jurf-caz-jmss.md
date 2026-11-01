@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-18 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.49 | 1.50 | 1.00 | 0.73 | 0.00 | 0.00 | -463.3 | 1Hero, Caz, frowzy, jmss, jurf |
 | 2026-07-15 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.50 | 1.00 | 0.70 | 0.00 | 0.00 | -13.1 | 1Hero, Caz, frowzy, jmss, jurf |
 | 2026-06-15 | Fathom Gaming | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.27 | 1.25 | 1.00 | 0.34 | 0.00 | 0.00 | -33.2 | 1Drowsy, Caz, frowzy, jmss, jurf |
-| 2026-06-04 | Slimy Boogermen | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.20 | 1.25 | 1.00 | 0.25 | 0.00 | 0.00 | -262.4 | 1Hero, Caz, frowzy, jmss, jurf |
+| 2026-06-04 | Slimy Boogermen | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.20 | 1.25 | 1.00 | 0.25 | 0.00 | 0.00 | -262.5 | 1Hero, Caz, frowzy, jmss, jurf |
 | 2026-06-02 | Zealous | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.18 | 1.25 | 1.00 | 0.23 | 0.00 | 0.23 | +58.7 | 1Hero, Caz, frowzy, jmss, jurf |
 | 2026-05-31 | TheMotherLovers | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.17 | 1.25 | 1.00 | 0.22 | 0.02 | 0.22 | +172.8 | 1Hero, Caz, frowzy, jmss, jurf |
 | 2026-05-29 | Bills | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.16 | 1.25 | 1.00 | 0.20 | 0.00 | 0.20 | +48.5 | 1Hero, Caz, frowzy, jmss, jurf |

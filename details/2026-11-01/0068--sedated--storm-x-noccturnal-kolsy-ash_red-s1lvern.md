@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-19 | mas paspas | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.91 | 1.09 | 1.00 | 1.00 | 0.00 | 0.00 | -76.8 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
+| 2026-09-19 | mas paspas | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.91 | 1.09 | 1.00 | 1.00 | 0.00 | 0.00 | -76.9 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
 | 2026-09-10 | Skyline | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.85 | 1.09 | 1.00 | 0.93 | 0.00 | 0.00 | -118.0 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
 | 2026-09-08 | Asoka | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.84 | 1.09 | 1.00 | 0.92 | 0.18 | 0.92 | +46.9 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |
 | 2026-09-06 | GeneticDiff | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.82 | 1.09 | 1.00 | 0.90 | 0.10 | 0.00 | +26.6 | Ash_Red, Kolsy, Noccturnal, Storm-X, s1lverNA |

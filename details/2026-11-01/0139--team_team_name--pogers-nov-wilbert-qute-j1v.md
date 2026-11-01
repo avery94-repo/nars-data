@@ -41,8 +41,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.04 | 0.57 | +133.4 | NOV, j1v, pogers, qute, wilbert |
 | 2026-07-17 | Kaos | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.53 | 0.04 | 0.53 | +57.1 | NOV, j1v, pogers, qute, wilbert |
 | 2026-07-15 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.10 | 1.00 | 0.52 | 0.02 | 0.52 | +339.4 | NOV, j1v, pogers, qute, wilbert |
-| 2026-06-03 | Asoka | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.25 | 1.00 | 0.24 | 0.00 | 0.00 | -265.3 | Brod1220, NOV, Nosom, qute, wilbert |
-| 2026-05-31 | Kairo | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.17 | 1.25 | 1.00 | 0.21 | 0.02 | 0.21 | +385.2 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-06-03 | Asoka | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.25 | 1.00 | 0.24 | 0.00 | 0.00 | -265.4 | Brod1220, NOV, Nosom, qute, wilbert |
+| 2026-05-31 | Kairo | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.17 | 1.25 | 1.00 | 0.21 | 0.02 | 0.21 | +385.3 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-27 | VOID ALUNE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.14 | 1.25 | 1.00 | 0.18 | 0.00 | 0.00 | -19.3 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-20 | Gregs New Cut | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.00 | 0.11 | +203.9 | Brod1220, NOV, Nosom, qute, wilbert |
 | 2026-05-20 | Tall Ocean Rats | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.00 | 0.00 | -55.1 | Brod1220, NOV, Nosom, qute, wilbert |

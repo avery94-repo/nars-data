@@ -3,11 +3,11 @@ Team Name: YHUBEPCAM
 Roster: swayy, Offnik322, Bongo-_-, zdoroviy666, Naswai
 NARS Rank: 39 of 489
 
-Final Rating: 1951.1
+Final Rating: 1951.2
 Seeded Start: 1307.0
-H2H Adjustment: +644.1
+H2H Adjustment: +644.2 (capped at +-300, raw +644.1)
 
-Final Rating (1951.1) = Seeded Start (1307.0) + H2H Adjustment (+644.1)
+Final Rating (1951.2) = Seeded Start (1307.0) + H2H Adjustment (+644.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -35,7 +35,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | DingTone | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.53 | 0.04 | 0.53 | +0.0 | Bongo-_-, Offnik322, Ot7o, qerch, zdoroviy666 |
 | 2026-06-06 | NXG Esports | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.21 | 1.25 | 1.00 | 0.27 | 0.00 | 0.00 | -241.0 | Bongo-_-, Diodor, Offnik322, qerch, swayy, zdoroviy666 |
 | 2026-06-04 | VOID ALUNE | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.20 | 1.25 | 1.00 | 0.25 | 0.04 | 0.25 | +21.7 | Bongo-_-, Diodor, Offnik322, qerch, swayy |
-| 2026-06-02 | DNA | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.18 | 1.25 | 1.00 | 0.23 | 0.00 | 0.23 | +110.6 | Bongo-_-, Offnik322, Ot7o, qerch, swayy, zdoroviy666 |
+| 2026-06-02 | DNA | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.18 | 1.25 | 1.00 | 0.23 | 0.00 | 0.23 | +110.7 | Bongo-_-, Offnik322, Ot7o, qerch, swayy, zdoroviy666 |
 | 2026-05-31 | Kurrupted Mindz | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.17 | 1.25 | 1.00 | 0.21 | 0.01 | 0.21 | +244.2 | Bongo-_-, Offnik322, Ot7o, qerch, swayy, zdoroviy666 |
 | 2026-05-29 | Skyline | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.16 | 1.25 | 1.00 | 0.20 | 0.00 | 0.00 | -383.9 | Bongo-_-, Offnik322, Ot7o, swayy, zdoroviy666 |
 | 2026-05-23 | Team Amplus | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.12 | 1.13 | 1.00 | 0.13 | 0.02 | 0.13 | +336.6 | Bongo-_-, Offnik322, qerch, swayy, zdoroviy666 |

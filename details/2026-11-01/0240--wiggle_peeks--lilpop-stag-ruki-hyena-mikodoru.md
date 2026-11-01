@@ -3,11 +3,11 @@ Team Name: Wiggle Peeks
 Roster: lilpop, stag, ruki, hyena, Mikodoru
 NARS Rank: 240 of 489
 
-Final Rating: 1388.1
+Final Rating: 1388.0
 Seeded Start: 1365.1
-H2H Adjustment: +23.0
+H2H Adjustment: +22.9
 
-Final Rating (1388.1) = Seeded Start (1365.1) + H2H Adjustment (+23.0)
+Final Rating (1388.0) = Seeded Start (1365.1) + H2H Adjustment (+22.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

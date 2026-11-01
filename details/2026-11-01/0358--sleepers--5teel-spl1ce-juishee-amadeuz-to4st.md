@@ -47,7 +47,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-05 | offBalance | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.02 | 0.20 | +193.5 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-05-31 | Lan Bears | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.01 | 0.17 | +44.8 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-05-29 | de_throne | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -233.9 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
-| 2026-05-27 | AURA Esports | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.02 | 0.14 | +255.7 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
+| 2026-05-27 | AURA Esports | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.02 | 0.14 | +255.8 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-05-21 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +258.0 | 5teel, Amadeuz, Juishee, To4sT, spl1ce |
 | 2026-05-20 | in for Blood | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -101.4 | 5teel, Amadeuz, Juishee, To4sT, chipper412 |
 | 2026-05-15 | Braindead | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -58.1 | 5teel, Amadeuz, Juishee, To4sT, chipper412 |

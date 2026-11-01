@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Exnitas | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.00 | 0.00 | -58.0 | -paramount, BwOo, bev, bryaNNN_, seanduckman |
 | 2026-08-19 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.00 | 0.00 | -108.4 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-08-14 | Emerald Isle | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.67 | 1.10 | 1.00 | 0.74 | 0.03 | 0.74 | +19.7 | -paramount, akali, bev, bryaNNN_, seanduckman |
-| 2026-08-12 | GOOZPEEK | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.05 | 0.72 | +146.9 | -paramount, akali, bev, bryaNNN_, seanduckman |
+| 2026-08-12 | GOOZPEEK | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.05 | 0.72 | +147.0 | -paramount, akali, bev, bryaNNN_, seanduckman |
 | 2026-08-07 | 91AshLiu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.00 | 0.00 | -10.7 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-08-05 | The Skins | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.00 | 0.00 | -14.5 | -paramount, BwOo, akali, bev, seanduckman |
 | 2026-07-31 | Pugging4Pumpkin | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.00 | 0.00 | -161.8 | -paramount, BwOo, akali, bev, seanduckman |

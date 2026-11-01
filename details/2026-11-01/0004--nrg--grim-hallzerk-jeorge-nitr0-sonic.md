@@ -48,7 +48,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-02 | Voca | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.59 | 1.60 | 1.00 | 0.94 | 0.67 | 0.94 | +119.7 | core 3/5 |
 | 2026-08-01 | Voca | L | 1-2 | VRS-tracked 2026-08 | A | vrs | 0.58 | 1.60 | 1.00 | 0.93 | 0.00 | 0.00 | -145.6 | core 3/5 |
 | 2026-07-29 | Marsborne | W | 2-1 | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.90 | 0.90 | 0.90 | +152.9 | core 3/5 |
-| 2026-07-28 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.89 | 0.63 | 0.89 | +132.6 | core 3/5 |
+| 2026-07-28 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.89 | 0.63 | 0.89 | +132.7 | core 3/5 |
 | 2026-07-12 | EH | W |  | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.54 | 0.00 | +27.7 | core 3/5 |
 | 2026-07-12 | NuTorious | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.64 | 0.72 | +1.0 | core 3/5 |
 | 2026-07-12 | SportsBetExpert | W | 3-1 | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.67 | 0.72 | +151.2 | core 3/5 |

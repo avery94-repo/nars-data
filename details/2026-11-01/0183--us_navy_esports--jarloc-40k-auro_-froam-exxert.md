@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-06 | Quality | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.21 | 1.02 | 1.00 | 0.22 | 0.01 | 0.22 | +197.7 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-06-04 | Oath | W | 1-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.20 | 1.02 | 1.00 | 0.20 | 0.00 | 0.20 | +111.4 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-06-02 | Square1 | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.18 | 1.02 | 1.00 | 0.19 | 0.01 | 0.19 | +175.8 | 40k, Exxert, Froam, ILUVLATINAS, jarloc |
-| 2026-05-31 | Braindead | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.01 | 0.17 | +218.0 | 40k, Auro_, Exxert, Froam, jarloc |
+| 2026-05-31 | Braindead | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.01 | 0.17 | +218.1 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-05-27 | HammerHeads | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.14 | 1.02 | 1.00 | 0.15 | 0.00 | 0.00 | -258.4 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-05-22 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -323.5 | 40k, Auro_, Exxert, Froam, jarloc |
 | 2026-05-20 | MINDTRIP | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +8.6 | 40k, Auro_, Exxert, Froam, jarloc |

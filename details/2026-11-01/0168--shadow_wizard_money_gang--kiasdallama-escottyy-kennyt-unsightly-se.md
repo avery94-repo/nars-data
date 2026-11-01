@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.02 | 0.56 | +279.2 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-07-22 | Tractors | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.00 | 0.00 | -143.1 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-07-17 | mas paspas | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.09 | 0.51 | +353.6 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
-| 2026-07-15 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.06 | 1.00 | 0.50 | 0.00 | 0.00 | -18.8 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
+| 2026-07-15 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.06 | 1.00 | 0.50 | 0.00 | 0.00 | -18.7 | EScottyy, KennyT, KiasDaLlama, SethP, unsightly |
 | 2026-05-21 | Kaos | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.12 | 0.00 | 0.00 | -252.2 | KennyT, KiasDaLlama, Moosezera, SethP, reverbz |
 | 2026-05-20 | ASYCS KITTENS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.00 | 0.00 | -143.7 | KennyT, KiasDaLlama, Moosezera, SethP, reverbz |
 | 2026-05-06 | Backshot Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.13 | 1.00 | 0.01 | 0.00 | 0.00 | -387.0 | KennyT, KiasDaLlama, SethP, Taps1_, reverbz |

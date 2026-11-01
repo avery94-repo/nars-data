@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-29 | High T Low E | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -273.0 | -Venom_1K, Anzio, SamueI, e1amateb, gamergoku542 |
+| 2026-05-29 | High T Low E | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -273.1 | -Venom_1K, Anzio, SamueI, e1amateb, gamergoku542 |
 | 2026-05-27 | MakeYouSayLate | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -321.8 | -SCOPE_1K, Anzio, Matt-V-, SamueI, gamergoku542 |
 | 2026-05-22 | TahMeow | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +309.2 | -SCOPE_1K, Anzio, Matt-V-, SamueI, gamergoku542 |
 | 2026-05-20 | The Agarthans | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -292.9 | -SCOPE_1K, Anzio, Matt-V-, SamueI, gamergoku542 |

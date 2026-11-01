@@ -47,7 +47,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-25 | GRIT | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.50 | 1.00 | 1.11 | 0.11 | 1.11 | +21.1 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-20 | Knox Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.71 | 1.37 | 1.00 | 0.97 | 0.07 | 0.97 | +0.8 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-20 | Firstwave | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.71 | 1.37 | 1.00 | 0.97 | 0.14 | 0.97 | +9.5 | ArmoredHarp, Cinna, atom_, tripp, xtios |
-| 2026-08-18 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.05 | 0.62 | 1.05 | +60.1 | ArmoredHarp, Cinna, atom_, tripp, xtios |
+| 2026-08-18 | New Legends | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.04 | 0.62 | 1.04 | +60.1 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-18 | Playing for fun | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.04 | 0.00 | 0.00 | -128.4 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-17 | North Forge | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.69 | 1.50 | 1.00 | 1.03 | 0.27 | 1.03 | +151.6 | ArmoredHarp, Cinna, atom_, tripp, xtios |
 | 2026-08-14 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.50 | 1.00 | 1.00 | 0.00 | 0.00 | -345.8 | ArmoredHarp, Cinna, atom_, tripp, xtios |

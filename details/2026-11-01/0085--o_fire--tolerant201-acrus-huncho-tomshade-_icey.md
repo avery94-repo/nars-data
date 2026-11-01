@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-30 | KIS | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -158.7 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
 | 2026-10-28 | FarmVille | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -28.3 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
 | 2026-10-28 | Arnes Wit Attitudes | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +65.6 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
-| 2026-10-21 | Drip or Drown | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.15 | 1.04 | +87.9 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
+| 2026-10-21 | Vlandian knigts | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.15 | 1.04 | +87.9 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
 | 2026-10-16 | Team GREAT | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +180.6 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
 | 2026-10-14 | Eightball | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +79.7 | -NoM-, Acrus, Tolerant201, _Icey, floydanyahu |
 | 2026-10-09 | drunk cigs dont count | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +149.3 | -NoM-, Acrus, Tomshade, _Icey, floydanyahu |
@@ -41,6 +41,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Team Bittle | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.03 | 0.84 | +32.0 | -NoM-, Acrus, Tolerant201, Tomshade, _Icey |
 | 2026-06-03 | UGA CS2 | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +218.5 | Acrus, GOTRACE, HUNCHO, Tomshade, _Icey |
 | 2026-05-31 | Diablo | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.00 | 0.17 | +121.1 | Acrus, GoBrian02, HUNCHO, Tomshade, _Icey |
-| 2026-05-27 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -222.3 | Acrus, GoBrian02, HUNCHO, Tolerant201, Tomshade |
+| 2026-05-27 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -222.4 | Acrus, GoBrian02, HUNCHO, Tolerant201, Tomshade |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

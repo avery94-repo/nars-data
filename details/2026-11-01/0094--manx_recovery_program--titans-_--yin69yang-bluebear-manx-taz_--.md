@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | crescent | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.85 | 1.10 | 1.00 | 0.94 | 0.07 | 0.94 | +60.1 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-09-08 | Old Meta | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.84 | 1.10 | 1.00 | 0.92 | 0.00 | 0.00 | -7.6 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-09-06 | US Navy Esports | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.82 | 1.10 | 1.00 | 0.91 | 0.07 | 0.91 | +180.8 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
-| 2026-08-28 | Evil Reunion | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.00 | 0.00 | -67.5 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
+| 2026-08-28 | Evil Reunion | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.00 | 0.00 | -67.6 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-08-26 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.82 | 0.00 | 0.00 | -80.6 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-08-21 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.12 | 0.79 | +48.1 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |
 | 2026-08-18 | penazoid | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.08 | 0.77 | +66.3 | Bluebear, Manx, TaZ_--, Titans-_-, Yin69yang |

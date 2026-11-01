@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | PASSION | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -189.9 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-08-05 | enigma | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.06 | 1.00 | 0.65 | 0.11 | 0.65 | +20.3 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-31 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.61 | 0.00 | 0.00 | -15.2 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
-| 2026-07-24 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.06 | 0.56 | +102.1 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
+| 2026-07-24 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.06 | 0.56 | +102.2 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-22 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.04 | 0.55 | +31.0 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-17 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.02 | 0.51 | +1.1 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |
 | 2026-07-15 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.06 | 1.00 | 0.50 | 0.02 | 0.50 | +192.7 | -Anarchyz, AGN, LordOPies, sascha, twinkinator |

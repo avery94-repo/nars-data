@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.50 | 1.00 | 0.91 | 0.00 | 0.00 | -122.7 | Spongey, Trucklover86, Wolffe, adreNaline, ptr |
 | 2026-08-04 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.50 | 1.00 | 0.90 | 0.00 | 0.00 | -280.8 | Spongey, Trucklover86, Wolffe, adreNaline, ptr |
 | 2026-07-29 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.50 | 1.00 | 0.84 | 0.00 | 0.00 | -22.8 | Spongey, Trucklover86, Wolffe, adreNaline, ptr |
-| 2026-07-24 | NuTorious | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.50 | 1.00 | 0.80 | 0.70 | 0.80 | +84.5 | Spongey, Trucklover86, Wolffe, adreNaline, ptr |
+| 2026-07-24 | NuTorious | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.50 | 1.00 | 0.79 | 0.70 | 0.79 | +84.5 | Spongey, Trucklover86, Wolffe, adreNaline, ptr |
 | 2026-07-17 | EMPIRE | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.48 | 1.50 | 1.00 | 0.73 | 0.59 | 0.73 | +173.6 | Spongey, Trucklover86, Wolffe, adreNaline, ptr |
 | 2026-07-15 | Team Hyper | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.50 | 1.00 | 0.70 | 0.07 | 0.70 | +2.0 | Spongey, Trucklover86, Wolffe, adreNaline, ptr |
 | 2026-06-19 | Club 333 | L | 1-2 | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.00 | 0.00 | -56.3 | core 3/5 |

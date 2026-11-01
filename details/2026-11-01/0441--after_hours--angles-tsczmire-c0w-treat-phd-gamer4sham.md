@@ -37,6 +37,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.05 | 0.47 | +175.2 | Gamer4shame, KingOfKings, Treat-PhD, Tsczmire, angles |
 | 2026-06-05 | Cojomo Academy Roster | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.01 | 0.20 | +166.7 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
 | 2026-05-29 | BAN ANCIENT | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +195.9 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
-| 2026-05-27 | Team Rocket | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.14 | +192.9 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
+| 2026-05-27 | Team Rocket | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.14 | +193.0 | Gamer4shame, Treat-PhD, Tsczmire, angles, c0w |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

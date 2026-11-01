@@ -4,14 +4,14 @@ Roster: He1st-, Equ1pment_, ss-_, xGonv, n1_0
 NARS Rank: 344 of 489
 
 Final Rating: 1179.2
-Seeded Start: 1218.3
-H2H Adjustment: -39.1
+Seeded Start: 1218.2
+H2H Adjustment: -39.0
 
-Final Rating (1179.2) = Seeded Start (1218.3) + H2H Adjustment (-39.1)
+Final Rating (1179.2) = Seeded Start (1218.2) + H2H Adjustment (-39.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.084 x 1400 = 1218.3
+                = 1100 + 0.084 x 1400 = 1218.2
 
 seed_factor 0.084 = 0.25 x Tier Exposure (0.040) + 0.50 x Quality Wins (0.025) + 0.25 x Opponent Network (0.248)
 

@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-28 | Cortex Jellies | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +124.2 | Arch1ves, Exoskeletal, Regnar, Rellac, cvb |
 | 2026-10-21 | Feels MAIN Man | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +25.6 | Arch1ves, Exoskeletal, Lunaria-, Regnar, Rellac |
 | 2026-10-16 | Boop Boop Gang | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-10-14 | Line Steppers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +226.4 | Arch1ves, Exoskeletal, Regnar, Rellac, cvb |
+| 2026-10-14 | Line Steppers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +226.5 | Arch1ves, Exoskeletal, Regnar, Rellac, cvb |
 | 2026-10-09 | After Peak | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +165.3 | Arch1ves, Exoskeletal, Lunaria-, Regnar, Rellac |
 | 2026-10-07 | Samantha 4 | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -3.2 | Arch1ves, Exoskeletal, Regnar, Rellac, cvb |
 | 2026-08-28 | Thrash | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -100.0 | -Faust-, Exoskeletal, Gettooled, Regnar, cvb |
@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -110.4 | -Faust-, Exoskeletal, Lunaria-, Regnar, cvb |
 | 2026-07-24 | walkthemdown | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -339.5 | Exoskeletal, Gettooled, Lunaria-, Regnar, cvb |
 | 2026-07-22 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.04 | 0.52 | +295.4 | Exoskeletal, Gettooled, Lunaria-, Regnar, cvb |
-| 2026-07-17 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -66.8 | Exoskeletal, Gettooled, Lunaria-, Regnar, cvb |
+| 2026-07-17 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -66.7 | Exoskeletal, Gettooled, Lunaria-, Regnar, cvb |
 | 2026-07-15 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.05 | 0.47 | +409.4 | -Faust-, Exoskeletal, Lunaria-, Regnar, cvb |
 | 2026-05-29 | DownTown | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -145.8 | -Faust-, Exoskeletal, Kobey, Lunaria-, cvb |
 | 2026-05-27 | Ubiquiti | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -225.8 | -Faust-, Exoskeletal, Kobey, Lunaria-, cvb |

@@ -35,7 +35,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +69.8 | Cappa, R1C0, TUBPOOPER, itsreallyR3D, meghoul |
 | 2026-08-19 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +98.5 | Merle202, R1C0, TUBPOOPER, itsreallyR3D, meghoul |
 | 2026-08-12 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -47.6 | Cappa, Chxrms_, R1C0, itsreallyR3D, meghoul |
-| 2026-08-05 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +259.2 | Cappa, Chxrms_, R1C0, itsreallyR3D, meghoul |
+| 2026-08-05 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +259.3 | Cappa, Chxrms_, R1C0, itsreallyR3D, meghoul |
 | 2026-07-31 | EZ2025 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -44.5 | Cappa, Merle202, R1C0, itsreallyR3D, meghoul |
 | 2026-07-29 | Shaq Diesel | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -231.1 | Cappa, Merle202, R1C0, itsreallyR3D, meghoul |
 | 2026-07-22 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -201.2 | Cappa, Merle202, R1C0, itsreallyR3D, meghoul |

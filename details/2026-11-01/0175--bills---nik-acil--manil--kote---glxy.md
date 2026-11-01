@@ -3,15 +3,15 @@ Team Name: Bills
 Roster: -Nik, ACIL, -MANIL-, Kote--, glxy
 NARS Rank: 175 of 489
 
-Final Rating: 1529.7
-Seeded Start: 1120.0
+Final Rating: 1529.6
+Seeded Start: 1119.9
 H2H Adjustment: +409.7
 
-Final Rating (1529.7) = Seeded Start (1120.0) + H2H Adjustment (+409.7)
+Final Rating (1529.6) = Seeded Start (1119.9) + H2H Adjustment (+409.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.014 x 1400 = 1120.0
+                = 1100 + 0.014 x 1400 = 1119.9
 
 seed_factor 0.014 = 0.25 x Tier Exposure (0.013) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.033)
 

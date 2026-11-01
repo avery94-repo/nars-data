@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-15 | NineFlyeSports | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -121.0 | BananaFishCS, kozume, slaneyy, suds, wdog |
 | 2026-10-14 | Sharp | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.26 | 1.50 | +93.8 | crazed, kozume, slaneyy, suds, wdog |
 | 2026-10-06 | Zomblers | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -50.1 | BananaFishCS, kozume, slaneyy, suds, wdog |
-| 2026-09-27 | FLOW STATE | L | 0-2 | NA Revival | C | faceit-tournament | 0.97 | 1.00 | 1.00 | 0.97 | 0.00 | 0.00 | -115.8 | BananaFishCS, TinNeR, kozume, slaneyy, wdog |
+| 2026-09-27 | FLOW STATE | L | 0-2 | NA Revival | C | faceit-tournament | 0.96 | 1.00 | 1.00 | 0.96 | 0.00 | 0.00 | -115.8 | BananaFishCS, TinNeR, kozume, slaneyy, wdog |
 | 2026-09-27 | Armored Talent | W | 0-0 | NA Revival | C | faceit-tournament | 0.96 | 1.00 | 1.00 | 0.96 | 0.15 | 0.96 | +2.6 | BananaFishCS, TinNeR, kozume, slaneyy, wdog |
 | 2026-09-27 | COGNITIVE | W | 0-0 | NA Revival | C | faceit-tournament | 0.96 | 1.00 | 1.00 | 0.96 | 0.11 | 0.96 | +1.4 | BananaFishCS, TinNeR, kozume, slaneyy, wdog |
 | 2026-09-27 | PPWesports | W | 0-0 | NA Revival | C | faceit-tournament | 0.96 | 1.00 | 1.00 | 0.96 | 0.06 | 0.96 | +0.1 | BananaFishCS, TinNeR, kozume, slaneyy, wdog |

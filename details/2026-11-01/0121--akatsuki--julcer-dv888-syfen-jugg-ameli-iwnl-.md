@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | TenToesDown | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.00 | 0.00 | -32.8 | JUKE666, ameli777, ap0zen, dv888, jugg |
 | 2026-07-17 | puggin4seb | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.04 | 0.51 | +36.3 | JUKE666, ameli777, ap0zen, dv888, jugg |
 | 2026-07-15 | Gregs New Cut | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.06 | 1.00 | 0.50 | 0.02 | 0.50 | +0.6 | JUKE666, ameli777, ap0zen, dv888, jugg |
-| 2026-06-03 | de_throne | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +395.1 | JUKE666, ameli777, ap0zen, dv888, jugg |
+| 2026-06-03 | de_throne | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +395.2 | JUKE666, ameli777, ap0zen, dv888, jugg |
 | 2026-05-27 | RunTheDamnBall | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +15.2 | FrostEminor, JUKE666, ameli777, dv888, jugg |
 | 2026-05-22 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -0.4 | FrostEminor, JUKE666, ameli777, dv888, jugg |
 | 2026-05-20 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -229.6 | FrostEminor, JUKE666, ameli777, dv888, jugg |

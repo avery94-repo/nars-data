@@ -3,11 +3,11 @@ Team Name: Cadillac F1 eSports Team
 Roster: Randy1, BLACK_KIMCHI, floorine9, Eternal-1, Spr3ad
 NARS Rank: 470 of 489
 
-Final Rating: 747.0
+Final Rating: 746.9
 Seeded Start: 1256.2
-H2H Adjustment: -509.2 (capped at +-300, raw -509.3)
+H2H Adjustment: -509.3
 
-Final Rating (747.0) = Seeded Start (1256.2) + H2H Adjustment (-509.2)
+Final Rating (746.9) = Seeded Start (1256.2) + H2H Adjustment (-509.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

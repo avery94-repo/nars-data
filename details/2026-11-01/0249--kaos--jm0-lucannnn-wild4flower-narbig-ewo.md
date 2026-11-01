@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Kinetic | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.00 | 0.00 | -63.1 | AronJ, Narbig, ewo, geese, jm0 |
 | 2026-08-26 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.82 | 0.00 | 0.00 | -80.5 | AronJ, Narbig, Purple2124, ewo, jm0 |
 | 2026-08-21 | GOOZPEEK | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.06 | 0.79 | +70.3 | Narbig, Purple2124, WILD4FLOWER, ewo, jm0 |
-| 2026-08-19 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.06 | 0.77 | +122.6 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
+| 2026-08-19 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.06 | 0.77 | +122.7 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-08-15 | Lynnsanity | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.68 | 1.10 | 1.00 | 0.74 | 0.00 | 0.00 | -166.5 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-08-12 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.02 | 0.72 | +65.1 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |
 | 2026-08-07 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.02 | 0.69 | +120.6 | Lucannnn, Narbig, WILD4FLOWER, ewo, jm0 |

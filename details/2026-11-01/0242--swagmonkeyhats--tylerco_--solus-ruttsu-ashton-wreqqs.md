@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | 91AshLiu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.00 | 0.00 | -110.5 | -Solus, Ashton, Chenpion, tylerCO_, wreqqs |
 | 2026-08-19 | GOOZPEEK | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.06 | 0.77 | +65.3 | -Solus, Ashton, Ruttsu, tylerCO_, wreqqs |
 | 2026-08-17 | crescent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.10 | 1.00 | 0.76 | 0.06 | 0.76 | +161.6 | -Solus, Ashton, Ruttsu, S1ickkkkk, tylerCO_ |
-| 2026-08-12 | Yogaball Frags | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.00 | 0.00 | -109.8 | -Solus, Ashton, Ruttsu, tylerCO_, wreqqs |
+| 2026-08-12 | Yogaball Frags | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.00 | 0.00 | -109.9 | -Solus, Ashton, Ruttsu, tylerCO_, wreqqs |
 | 2026-08-05 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.02 | 0.67 | +146.8 | -Solus, Ashton, Ruttsu, tylerCO_, wreqqs |
 | 2026-07-31 | Absent Minded | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.05 | 0.63 | +204.1 | -Solus, Ashton, Ruttsu, S1ickkkkk, tylerCO_ |
 | 2026-07-29 | FUELED BY HATE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.00 | 0.00 | -110.4 | -Solus, Ashton, Ruttsu, tylerCO_, wreqqs |
@@ -48,7 +48,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.00 | 0.00 | -403.1 | -Solus, Ashton, Ruttsu, tylerCO_, wreqqs |
 | 2026-07-17 | Kinetic | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.53 | 0.00 | 0.00 | -281.8 | -Solus, Ashton, Ruttsu, tylerCO_, wreqqs |
 | 2026-07-15 | Conscious Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.10 | 1.00 | 0.52 | 0.08 | 0.52 | +14.4 | -Solus, Ashton, Ruttsu, tylerCO_, wreqqs |
-| 2026-06-03 | The Ohio Meat Wagon | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +291.9 | -Solus, Ashton, Chenpion, Ruttsu, wreqqs |
+| 2026-06-03 | The Ohio Meat Wagon | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +292.0 | -Solus, Ashton, Chenpion, Ruttsu, wreqqs |
 | 2026-05-29 | High-Tech Performance | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.01 | 0.16 | +194.1 | -Solus, Ashton, Chenpion, Ruttsu, wreqqs |
 | 2026-05-27 | In Our Prime | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +393.3 | -Solus, Ashton, Chenpion, Ruttsu, wreqqs |
 | 2026-05-22 | CVC Retirement | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -435.3 | -Solus, Ashton, Chenpion, Ruttsu, wreqqs |

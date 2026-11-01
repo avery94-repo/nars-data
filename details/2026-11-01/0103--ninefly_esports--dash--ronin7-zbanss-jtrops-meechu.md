@@ -39,10 +39,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Slimy Boogermen | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.50 | 1.00 | 0.91 | 0.00 | 0.00 | -14.9 | -Nks, JTrops, brooks, dash-, zBanss |
 | 2026-07-31 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.50 | 1.00 | 0.86 | 0.00 | 0.00 | -0.2 | -Nks, JTrops, brooks, dash-, zBanss |
 | 2026-07-29 | Pug Palace | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.50 | 1.00 | 0.84 | 0.00 | 0.00 | -149.0 | -Nks, JTrops, brooks, dash-, zBanss |
-| 2026-07-17 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.48 | 1.50 | 1.00 | 0.73 | 0.00 | 0.00 | -119.5 | -Nks, -_AJ, JTrops, dash-, zBanss |
+| 2026-07-17 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.48 | 1.50 | 1.00 | 0.72 | 0.00 | 0.00 | -119.5 | -Nks, -_AJ, JTrops, dash-, zBanss |
 | 2026-06-09 | Olympus | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.23 | 1.55 | 1.00 | 0.36 | 0.00 | 0.00 | -239.2 | JTrops, Meechu, dash-, ronin7, zBanss |
 | 2026-06-03 | Brahmas | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.19 | 1.55 | 1.00 | 0.30 | 0.00 | 0.00 | -196.3 | JTrops, Meechu, dash-, ronin7, zBanss |
-| 2026-05-20 | Ex-Tricksters | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.14 | 0.01 | 0.14 | +110.6 | JTrops, Meechu, dash-, ronin7, zBanss |
+| 2026-05-20 | Ex-Tricksters | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.14 | 0.01 | 0.14 | +110.5 | JTrops, Meechu, dash-, ronin7, zBanss |
 | 2026-05-19 | NuTorious | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.43 | 1.00 | 0.13 | 0.12 | 0.13 | +260.9 | JTrops, Meechu, dash-, ronin7, zBanss |
 | 2026-05-14 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.43 | 1.00 | 0.08 | 0.02 | 0.08 | +171.0 | JTrops, Meechu, dash-, ronin7, zBanss |
 | 2026-05-13 | Shadow Wizard Money Gang | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.43 | 1.00 | 0.07 | 0.00 | 0.00 | -309.5 | JTrops, Meechu, dash-, ronin7, zBanss |

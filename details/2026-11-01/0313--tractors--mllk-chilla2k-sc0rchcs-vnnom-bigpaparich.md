@@ -63,6 +63,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.06 | +1.5 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-14 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.06 | +92.5 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 | 2026-05-08 | Potential to Stack Dough | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +20.2 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
-| 2026-05-08 | Mach 10 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +59.4 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
+| 2026-05-08 | Mach 10 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +59.3 | BigPapaRich, Chilla2k, DKP-, Penske, Vnnom |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.05 | 0.76 | +11.8 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |
 | 2026-08-26 | Lan Bears | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.05 | 0.75 | +83.4 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |
 | 2026-08-21 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -96.6 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |
-| 2026-08-19 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.06 | 0.70 | +78.3 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |
+| 2026-08-19 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +78.3 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |
 | 2026-08-14 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.05 | 0.67 | +3.1 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |
 | 2026-08-12 | NATIONAL CS UNI | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +55.2 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |
 | 2026-07-31 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -16.3 | 1Beanie, Females, KINGOFCACHE, b00mslang, kandren |

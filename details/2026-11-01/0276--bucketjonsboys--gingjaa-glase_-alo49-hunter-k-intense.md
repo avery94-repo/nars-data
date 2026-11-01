@@ -42,7 +42,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | SAFIR | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.77 | 1.06 | 1.00 | 0.81 | 0.06 | 0.81 | +93.8 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-08-26 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.06 | 1.00 | 0.79 | 0.03 | 0.79 | +22.2 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-08-21 | Texas Orange | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.05 | 0.76 | +88.8 | Alo49, Gingjaa, Intense, glase_, hunter-k |
-| 2026-08-19 | Braindead | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.00 | 0.00 | -160.6 | Alo49, Gingjaa, Intense, glase_, hunter-k |
+| 2026-08-19 | Braindead | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.00 | 0.00 | -160.7 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-08-13 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -108.7 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-08-12 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.02 | 0.70 | +19.2 | Alo49, Gingjaa, Intense, glase_, hunter-k |
 | 2026-08-07 | Wiggle Peeks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.07 | 0.66 | +3.3 | Alo49, Gingjaa, Intense, glase_, hunter-k |

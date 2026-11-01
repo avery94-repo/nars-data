@@ -41,10 +41,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.06 | 1.00 | 0.65 | 0.02 | 0.65 | +90.1 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-07-31 | Tractors | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.61 | 0.11 | 0.61 | +117.8 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-07-29 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.60 | 0.00 | 0.00 | -153.4 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
-| 2026-07-24 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.00 | 0.00 | -101.9 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
+| 2026-07-24 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.00 | 0.00 | -102.0 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-07-22 | Wide Swinging Wizards | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.02 | 0.55 | +263.1 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-07-19 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.50 | 1.00 | 1.00 | 0.50 | 0.00 | 0.00 | -0.0 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
-| 2026-07-19 | Empressive | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.50 | 1.00 | 1.00 | 0.50 | 0.02 | 0.50 | +150.6 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
+| 2026-07-19 | Empressive | W | 1-0 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.50 | 1.00 | 1.00 | 0.50 | 0.02 | 0.50 | +150.7 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
 | 2026-07-19 | Koi Pond | L | 0-1 | Brace For Impact: NA Women's Cash Cup July 2026 | C | faceit-tournament | 0.50 | 1.00 | 1.00 | 0.50 | 0.00 | 0.00 | -80.8 | AuroraVeee, PippySippy, Space-Bogan, adk, c99ca2e4 |
 | 2026-07-18 | THE GUILD | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.49 | 1.06 | 1.00 | 0.52 | 0.00 | 0.00 | -142.4 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |
 | 2026-07-17 | Bird Lickers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.03 | 0.51 | +225.8 | AuroraVeee, PippySippy, Space-Bogan, adk, athxna |

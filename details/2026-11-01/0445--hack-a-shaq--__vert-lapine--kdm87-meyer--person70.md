@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Salsas Mazzin Crew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -164.8 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-08-05 | Pro Lapse | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.06 | 1.00 | 0.65 | 0.02 | 0.65 | +18.3 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-07-31 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.61 | 0.02 | 0.61 | +197.8 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
-| 2026-07-29 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.60 | 0.00 | 0.00 | -260.2 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
+| 2026-07-29 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.60 | 0.00 | 0.00 | -260.3 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-07-24 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.04 | 0.56 | +2.7 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-07-22 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.04 | 0.55 | +110.8 | LaPine-, Meyer-, Person70, __Vert, kdm87 |
 | 2026-07-17 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.00 | 0.00 | -0.6 | LaPine-, Meyer-, Person70, __Vert, kdm87 |

@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | NYX | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.06 | 1.00 | 0.81 | 0.09 | 0.81 | +76.2 | BentIie, MOD8sf, acekr, estrojin, zr0 |
 | 2026-08-26 | Tractors | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.06 | 1.00 | 0.79 | 0.00 | 0.00 | -56.0 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-08-21 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.06 | 0.76 | +43.4 | BentIie, MOD8sf, acekr, estrojin, zr0 |
-| 2026-08-19 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.03 | 0.74 | +144.7 | BentIie, acekr, estrojin, soogyum, zr0 |
+| 2026-08-19 | Specter Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.03 | 0.74 | +144.8 | BentIie, acekr, estrojin, soogyum, zr0 |
 | 2026-08-14 | Kurrupted Mindz | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -116.7 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-08-12 | Wide Swinging Wizards | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -75.9 | MOD8sf, acekr, estrojin, soogyum, zr0 |
 | 2026-08-07 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -55.2 | BentIie, MOD8sf, acekr, estrojin, zr0 |

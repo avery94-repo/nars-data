@@ -1,13 +1,13 @@
 ### Roster Details
-Team Name: UsingCodefArt25atSCL
+Team Name: PBP
 Roster: _Section, Clum, texture, bingus, brian
 NARS Rank: 56 of 489
 
-Final Rating: 1850.8
+Final Rating: 1850.9
 Seeded Start: 1327.2
-H2H Adjustment: +523.6
+H2H Adjustment: +523.7 (capped at +-300, raw +523.6)
 
-Final Rating (1850.8) = Seeded Start (1327.2) + H2H Adjustment (+523.6)
+Final Rating (1850.9) = Seeded Start (1327.2) + H2H Adjustment (+523.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

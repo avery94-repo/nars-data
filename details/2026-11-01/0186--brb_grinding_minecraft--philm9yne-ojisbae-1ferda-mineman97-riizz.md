@@ -32,9 +32,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-13 | EZ2025 | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +0.4 | Late, OJISBAE, Sinister--, phiLm9yne, riizzy |
 | 2026-10-09 | house | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +19.2 | Late, OJISBAE, Sinister--, phiLm9yne, riizzy |
 | 2026-10-07 | drunk cigs dont count | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-09-15 | Drip or Drown | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.05 | 1.00 | 0.93 | 0.00 | 0.00 | -8.1 | OJISBAE, mineman97, moitch, phiLm9yne, v0lcaN, yarushima |
+| 2026-09-15 | Vlandian knigts | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.05 | 1.00 | 0.93 | 0.00 | 0.00 | -8.1 | OJISBAE, mineman97, moitch, phiLm9yne, v0lcaN, yarushima |
 | 2026-09-09 | O Fire | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.05 | 1.00 | 0.89 | 0.11 | 0.89 | +39.9 | OJISBAE, mineman97, moitch, phiLm9yne, v0lcaN |
-| 2026-09-08 | KylianDictator | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.05 | 1.00 | 0.88 | 0.03 | 0.88 | +95.1 | OJISBAE, franciszn, mineman97, moitch, phiLm9yne, riizzy, v0lcaN |
+| 2026-09-08 | KylianDictator | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.05 | 1.00 | 0.88 | 0.03 | 0.88 | +95.2 | OJISBAE, franciszn, mineman97, moitch, phiLm9yne, riizzy, v0lcaN |
 | 2026-09-03 | feet67 | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.85 | 0.00 | 0.00 | -156.8 | OJISBAE, mineman97, moitch, phiLm9yne, riizzy |
 | 2026-09-02 | Pocket Snatchers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.03 | 0.84 | +85.0 | OJISBAE, mineman97, moitch, phiLm9yne, riizzy |
 

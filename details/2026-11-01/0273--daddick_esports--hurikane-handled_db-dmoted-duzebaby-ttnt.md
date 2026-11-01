@@ -52,6 +52,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-10 | PSDN White | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.01 | 0.24 | +183.3 | DUZEBABY, HandleD_db, TTNTiNY, dMoted, hurikaNe |
 | 2026-06-03 | SubZero Esports | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.19 | +114.7 | DUZEBABY, HandleD_db, TTNTiNY, ak-nY, dMoted, hurikaNe |
 | 2026-05-29 | Boop Boop Gang | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -288.1 | 1breid, DUZEBABY, HandleD_db, TTNTiNY, hurikaNe |
-| 2026-05-27 | O Fire | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.02 | 0.14 | +222.3 | DUZEBABY, HandleD_db, TTNTiNY, ak-nY, hellbent--, hurikaNe |
+| 2026-05-27 | O Fire | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.02 | 0.14 | +222.4 | DUZEBABY, HandleD_db, TTNTiNY, ak-nY, hellbent--, hurikaNe |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

@@ -49,7 +49,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-06 | Real Hustle Club | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.21 | 1.02 | 1.00 | 0.22 | 0.02 | 0.22 | +225.9 | Sosah, Tuxce, flounders, milkyy, zvenix666 |
 | 2026-05-31 | Absent Minded | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.00 | 0.00 | -168.2 | Sosah, disk777, flounders, milkyy, zvenix666 |
 | 2026-05-29 | Meepins | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.16 | 1.02 | 1.00 | 0.16 | 0.01 | 0.16 | +39.1 | Sosah, disk777, flounders, milkyy, zvenix666 |
-| 2026-05-27 | Hack-A-Shaq | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.14 | 1.02 | 1.00 | 0.15 | 0.01 | 0.15 | +188.2 | Sosah, disk777, flounders, milkyy, zvenix666 |
+| 2026-05-27 | Hack-A-Shaq | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.14 | 1.02 | 1.00 | 0.15 | 0.01 | 0.15 | +188.3 | Sosah, disk777, flounders, milkyy, zvenix666 |
 | 2026-05-20 | Nomadic Tactics | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -250.1 | Sosah, disk777, flounders, milkyy, zvenix666 |
 | 2026-05-19 | Akatsuki | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.09 | +9.9 | Sosah, disk777, flounders, milkyy, zvenix666 |
 | 2026-05-18 | STFDYSAB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.01 | 0.08 | +38.0 | Sosah, disk777, flounders, milkyy, zvenix666 |

@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-21 | Kevin James Fan Club | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -30.1 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu |
 | 2026-10-20 | teamington | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -66.8 | -MaC, Bezerker, Bluely49, Kuahana, Over1Yonder |
 | 2026-10-14 | Big Fish | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +33.9 | -MaC, Bluely49, Kuahana, MasterShifu, quick1H |
-| 2026-10-09 | Torii | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -43.8 | Bezerker, Bluely49, Kuahana, MasterShifu, Over1Yonder |
+| 2026-10-09 | Torii | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -43.7 | Bezerker, Bluely49, Kuahana, MasterShifu, Over1Yonder |
 | 2026-09-04 | Mach 10 | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -99.8 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-09-02 | High-Tech Performance | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -121.2 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-08-28 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -42.1 | Bezerker, Bluely49, Kuahana, MasterShifu, exotic- |

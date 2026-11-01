@@ -3,11 +3,11 @@ Team Name: SixSevenZaZa
 Roster: Zucc_, Tr1d, foe, Apache_8, kix
 NARS Rank: 484 of 489
 
-Final Rating: 573.2
+Final Rating: 573.1
 Seeded Start: 1140.2
-H2H Adjustment: -567.0
+H2H Adjustment: -567.1
 
-Final Rating (573.2) = Seeded Start (1140.2) + H2H Adjustment (-567.0)
+Final Rating (573.1) = Seeded Start (1140.2) + H2H Adjustment (-567.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

@@ -45,7 +45,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-14 | Asoka | W | 2-0 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.46 | 1.29 | 1.00 | 0.60 | 0.12 | 0.00 | +119.6 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 | 2026-06-09 | YHTR | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.23 | 1.02 | 1.00 | 0.24 | 0.00 | 0.00 | -141.5 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 | 2026-06-06 | Abusement Park | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.21 | 1.02 | 1.00 | 0.22 | 0.02 | 0.22 | +216.9 | DoubleJays, ShortRound, _Rost_, dirtydrg, jOHN_ |
-| 2026-05-31 | Endless Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.00 | 0.00 | -133.8 | Dogman123123, DoubleJays, ShortRound, _Rost_, dirtydrg |
+| 2026-05-31 | Endless Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.00 | 0.00 | -133.9 | Dogman123123, DoubleJays, ShortRound, _Rost_, dirtydrg |
 | 2026-05-28 | Oath | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.15 | 1.02 | 1.00 | 0.15 | 0.00 | 0.15 | +138.7 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 | 2026-05-27 | Spin da block | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.14 | 1.02 | 1.00 | 0.15 | 0.01 | 0.15 | +52.9 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |
 | 2026-05-20 | Braindead | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +232.0 | Dogman123123, DoubleJays, _Rost_, dirtydrg, jOHN_ |

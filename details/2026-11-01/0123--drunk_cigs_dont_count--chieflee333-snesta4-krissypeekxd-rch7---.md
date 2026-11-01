@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | O Fire | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -144.1 | -TrayLor, Br4nd0n, ChiefLee333, cowssss, snesta4 |
 | 2026-10-07 | brb grinding minecraft | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-09-18 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.95 | 0.00 | 0.00 | -36.1 | -TrayLor, ChiefLee333, KrissypeekxD, cowssss, snesta4 |
-| 2026-09-17 | Drip or Drown | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.94 | 0.13 | 0.94 | +64.6 | -TrayLor, ChiefLee333, KrissypeekxD, cowssss, snesta4 |
+| 2026-09-17 | Vlandian knigts | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.94 | 0.13 | 0.94 | +64.6 | -TrayLor, ChiefLee333, KrissypeekxD, cowssss, snesta4 |
 | 2026-09-10 | Koi Pond | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.90 | 0.10 | 0.90 | +48.1 | ChiefLee333, Jacek-, KrissypeekxD, cowssss, snesta4 |
 | 2026-09-05 | makeSHIFT | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.05 | 1.00 | 0.86 | 0.00 | 0.00 | -40.9 | -TrayLor, ChiefLee333, Jacek-, KrissypeekxD, cowssss, snesta4 |
 | 2026-09-04 | Brick Squad | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.81 | 1.05 | 1.00 | 0.85 | 0.03 | 0.85 | +16.5 | -TrayLor, ChiefLee333, KrissypeekxD, cowssss, snesta4 |

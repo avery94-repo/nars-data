@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-26 | Dead Pixel | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +33.2 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-10-21 | fiveB | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -31.2 | Combz, FlYiN_ElVIS, JbenCS, eztupac, yesvil |
 | 2026-10-16 | COGNITIVE | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -12.9 | FlYiN_ElVIS, crazedmaniac, eztupac, fAAler, yesvil |
-| 2026-10-14 | UsingCodefArt25atSCL | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -1.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
+| 2026-10-14 | PBP | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -1.0 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |
 | 2026-10-09 | Cortex Jellies | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -15.5 | Combz, FlYiN_ElVIS, JbenCS, eztupac, yesvil |
 | 2026-10-07 | deluxe | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-08-26 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.06 | 0.75 | +114.5 | Combz, FlYiN_ElVIS, NoDamage, eztupac, yesvil |

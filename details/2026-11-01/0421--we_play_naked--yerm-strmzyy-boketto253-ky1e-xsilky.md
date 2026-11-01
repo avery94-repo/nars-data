@@ -11,9 +11,9 @@ Final Rating (986.4) = Seeded Start (1278.5) + H2H Adjustment (-292.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.128 x 1400 = 1278.5
+                = 1100 + 0.127 x 1400 = 1278.5
 
-seed_factor 0.128 = 0.25 x Tier Exposure (0.105) + 0.50 x Quality Wins (0.026) + 0.25 x Opponent Network (0.353)
+seed_factor 0.127 = 0.25 x Tier Exposure (0.105) + 0.50 x Quality Wins (0.026) + 0.25 x Opponent Network (0.353)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -0.3 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-07-25 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.00 | 0.00 | -196.4 | 0MANA, Boketto253, Ky1e, strmzyy, yerm |
 | 2026-07-17 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.03 | 0.48 | +311.1 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
-| 2026-07-15 | walkthemdown | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.03 | 0.47 | +274.6 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
+| 2026-07-15 | walkthemdown | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.03 | 0.47 | +274.7 | Boketto253, Ky1e, strmzyy, xSilky, yerm |
 | 2026-05-31 | Aetheris | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.00 | 0.00 | -128.9 | 0MANA, Boketto253, strmzyy, xSilky, yerm |
 | 2026-05-27 | Midwest Farmers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -308.4 | Boketto253, spriggan, strmzyy, xSilky, yerm |
 | 2026-05-22 | Shaq Diesel | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +216.6 | Boketto253, spriggan, strmzyy, xSilky, yerm |

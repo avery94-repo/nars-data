@@ -4,14 +4,14 @@ Roster: castles-, chiken2k, Soviets, droppin, BelmoGodx
 NARS Rank: 426 of 489
 
 Final Rating: 973.7
-Seeded Start: 1140.4
-H2H Adjustment: -166.7
+Seeded Start: 1140.3
+H2H Adjustment: -166.6
 
-Final Rating (973.7) = Seeded Start (1140.4) + H2H Adjustment (-166.7)
+Final Rating (973.7) = Seeded Start (1140.3) + H2H Adjustment (-166.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.029 x 1400 = 1140.4
+                = 1100 + 0.029 x 1400 = 1140.3
 
 seed_factor 0.029 = 0.25 x Tier Exposure (0.039) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.072)
 

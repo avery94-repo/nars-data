@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-27 | brb grinding minecraft | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -110.8 | BSTAR_, CaptainKeyz, MlKEE, Trigggatrey, boodahman |
 | 2026-10-21 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -114.4 | BSTAR_, CaptainKeyz, MlKEE, Tentoh, Trigggatrey, boodahman |
-| 2026-10-16 | LAF | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +122.2 | CaptainKeyz, MlKEE, Trigggatrey, boodahman, chryyss |
+| 2026-10-16 | LAF | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +122.3 | CaptainKeyz, MlKEE, Trigggatrey, boodahman, chryyss |
 | 2026-10-14 | muntos minions | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +29.2 | BSTAR_, CaptainKeyz, MlKEE, Trigggatrey, boodahman |
 | 2026-10-09 | Brobies | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +39.3 | MlKEE, MonkeyGhost, Trigggatrey, boodahman, chryyss |
 | 2026-10-07 | TELETUBEASTS | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +88.0 | BSTAR_, CaptainKeyz, MlKEE, Trigggatrey, boodahman |

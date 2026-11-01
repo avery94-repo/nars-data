@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Wealth Reduction | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.06 | 1.00 | 0.79 | 0.03 | 0.79 | +91.3 | Kats, PeePeePooPoo, To4sT, suityan, yrraL |
 | 2026-08-21 | Baja Blasters | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -111.0 | Kats, PeePeePooPoo, To4sT, suityan, yrraL |
 | 2026-08-19 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.03 | 0.74 | +7.3 | Kats, PeePeePooPoo, To4sT, suityan, yrraL |
-| 2026-08-14 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.05 | 0.71 | +147.0 | Kats, PeePeePooPoo, To4sT, suityan, yrraL |
+| 2026-08-14 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.05 | 0.71 | +147.1 | Kats, PeePeePooPoo, To4sT, suityan, yrraL |
 | 2026-08-12 | Schadenfreude | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -161.0 | Daybe, Kats, PeePeePooPoo, suityan, yrraL |
 | 2026-07-31 | Abusement Park | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.61 | 0.00 | 0.00 | -2.0 | Kats, To4sT, _Hiki_, suityan, yrraL |
 | 2026-07-29 | Les Ptis Jus | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.60 | 0.00 | 0.00 | -250.6 | Kats, To4sT, _Hiki_, suityan, yrraL |

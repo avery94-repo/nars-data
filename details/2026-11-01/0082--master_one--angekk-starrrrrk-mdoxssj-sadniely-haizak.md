@@ -44,7 +44,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.67 | 1.10 | 1.00 | 0.74 | 0.00 | 0.00 | -159.9 | -TAYLOR, STARKGOD, angekk, haroldz9-21, mdoxZ9 |
 | 2026-08-12 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.11 | 0.72 | +1.5 | -TAYLOR, STARKGOD, angekk, haroldz9-21, mdoxZ9 |
 | 2026-08-07 | Team Team Name | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.05 | 0.69 | +75.2 | -TAYLOR, STARKGOD, angekk, haroldz9-21, mdoxZ9 |
-| 2026-08-05 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.08 | 0.67 | +229.1 | -TAYLOR, STARKGOD, angekk, haroldz9-21, sadnielyy |
+| 2026-08-05 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.08 | 0.67 | +229.2 | -TAYLOR, STARKGOD, angekk, haroldz9-21, sadnielyy |
 | 2026-07-31 | Sassy Sunshines | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.07 | 0.63 | +44.3 | -TAYLOR, STARKGOD, angekk, haroldz9-21, mdoxZ9 |
 | 2026-07-29 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.05 | 0.62 | +55.0 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |
 | 2026-07-24 | Tall Ocean Rats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.58 | 0.02 | 0.58 | +212.6 | STARKGOD, angekk, haroldz9-21, mdoxZ9, sadnielyy |

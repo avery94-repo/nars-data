@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Automatic HQ | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.85 | 1.10 | 1.00 | 0.94 | 0.13 | 0.94 | +133.1 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
 | 2026-09-08 | VOID ALUNE | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.84 | 1.10 | 1.00 | 0.92 | 0.15 | 0.92 | +68.8 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
 | 2026-09-06 | Down To Frag | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.83 | 1.10 | 1.00 | 0.91 | 0.10 | 0.91 | +65.6 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
-| 2026-09-04 | Pugging4Pumpkin | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.81 | 1.10 | 1.00 | 0.90 | 0.07 | 0.90 | +5.9 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
+| 2026-09-04 | Pugging4Pumpkin | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.81 | 1.10 | 1.00 | 0.89 | 0.07 | 0.89 | +5.9 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
 | 2026-08-28 | Conscious Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.13 | 0.84 | +115.9 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
 | 2026-08-26 | Manx Recovery Program | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.82 | 0.06 | 0.82 | +83.9 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
 | 2026-08-21 | The Skins | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.06 | 0.79 | +82.2 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
@@ -37,8 +37,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | NADIYA | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.02 | 0.72 | +9.7 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
 | 2026-08-07 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.10 | 0.69 | +142.6 | 1MkaeL, Gabie, J0LZ, TENSKEE, sup3rant |
 | 2026-08-05 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.00 | 0.00 | -104.5 | 1MkaeL, Gabie, J0LZ, TENSKEE, sup3rant |
-| 2026-07-31 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.00 | 0.00 | -215.8 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
-| 2026-07-29 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.00 | 0.00 | -230.6 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
+| 2026-07-31 | OnlyFans | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.00 | 0.00 | -215.9 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
+| 2026-07-29 | Down To Frag | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.00 | 0.00 | -230.7 | Gabie, J0LZ, TENSKEE, Yonji, sup3rant |
 | 2026-07-24 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.58 | 0.06 | 0.58 | +6.9 | Gabie, Qwerto-, TENSKEE, Yonji, sup3rant |
 | 2026-07-22 | GOOZPEEK | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.04 | 0.57 | +46.5 | Gabie, Qwerto-, TENSKEE, Yonji, sup3rant |
 | 2026-07-17 | Friendly Fire | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.53 | 0.02 | 0.53 | +10.4 | Gabie, Qwerto-, TENSKEE, Yonji, sup3rant |

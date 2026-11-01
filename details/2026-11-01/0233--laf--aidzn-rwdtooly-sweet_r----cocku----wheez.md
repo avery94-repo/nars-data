@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Mongolian Tractor | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +67.2 | AIdzn, JUKE666, ameli777, rwdtooly, sweet_R |
 | 2026-10-07 | Sodium | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +181.0 | AIdzn, JUKE666, ameli777, rwdtooly, sweet_R |
 | 2026-09-12 | deez | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.86 | 1.00 | 1.00 | 0.86 | 0.00 | 0.00 | -81.0 | ---Cocku---, AIdzn, WheezyT, rwdtooly, sweet_R |
-| 2026-09-10 | Will of Dih | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.07 | 0.85 | +129.3 | ---Cocku---, AIdzn, WheezyT, rwdtooly, sweet_R |
+| 2026-09-10 | Will of Dih | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.07 | 0.85 | +129.4 | ---Cocku---, AIdzn, WheezyT, rwdtooly, sweet_R |
 | 2026-09-06 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -61.9 | ---Cocku---, Little-E, WheezyT, rwdtooly, sweet_R |
 | 2026-09-04 | FaZe  Up Next | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.02 | 0.81 | +316.8 | ---Cocku---, Little-E, WheezyT, rwdtooly, sweet_R |
 | 2026-06-03 | AXEN | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -240.6 | AIdzn, Little-E, MikoshiGG, rwdtooly, sweet_R |

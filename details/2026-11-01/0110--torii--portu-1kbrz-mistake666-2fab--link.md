@@ -46,7 +46,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | WaterDrinkers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -164.6 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
 | 2026-07-29 | Void | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -131.9 | -linK, 1KBRZ, 2fab, portu, tracyyyyyyyy |
 | 2026-07-29 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -241.0 | -linK, 1KBRZ, 2fab, portu, tracyyyyyyyy |
-| 2026-07-22 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.08 | 0.52 | +164.7 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
+| 2026-07-22 | Armored Talent | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.08 | 0.52 | +164.8 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
 | 2026-07-22 | NATIONAL CS UNI | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.04 | 0.52 | +225.1 | -linK, 1KBRZ, 2fab, Tirlexx, portu |
 | 2026-07-15 | Mace Lindu Ruff Rebound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.03 | 0.47 | +223.2 | -linK, 1KBRZ, 2fab, hotzzinho_-, portu |
 | 2026-06-04 | bubibabu | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.20 | 1.04 | 1.00 | 0.21 | 0.00 | 0.00 | -112.8 | -linK, 1KBRZ, 2fab, MiStAkE666, portu |

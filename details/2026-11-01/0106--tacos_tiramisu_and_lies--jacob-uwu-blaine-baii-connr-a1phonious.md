@@ -45,7 +45,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.04 | 0.66 | +99.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-11 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.00 | 0.00 | -194.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-05 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.09 | 0.61 | +100.3 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-02 | Drip or Drown | L | 1-2 | SoFlo Slam 2 | C | faceit-tournament | 0.60 | 1.12 | 1.00 | 0.67 | 0.00 | 0.00 | -158.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-02 | Vlandian knigts | L | 1-2 | SoFlo Slam 2 | C | faceit-tournament | 0.60 | 1.12 | 1.00 | 0.67 | 0.00 | 0.00 | -158.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-01 | F5 Esports | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.59 | 1.12 | 1.00 | 0.66 | 0.00 | 0.00 | -216.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-01 | D1NK Esports | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.59 | 1.12 | 1.00 | 0.66 | 0.07 | 0.00 | +112.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-07-31 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.06 | 0.58 | +15.6 | A1phonious, Blaine, Connr, jacob-uwu, raymer |

@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-20 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 0.92 | 1.00 | 1.00 | 0.92 | 0.00 | 0.00 | -52.2 | Minxy, Rush_X, Syn, madss, torii |
 | 2026-09-10 | drunk cigs dont count | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.90 | 0.00 | 0.00 | -51.0 | Minxy, Rush_X, madss, raven, yippeee |
 | 2026-09-08 | Team Canada CS2 | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.05 | 1.00 | 0.88 | 0.03 | 0.88 | +81.1 | Minxy, Rush_X, madss, raven, yippeee |
-| 2026-09-06 | Cultivate | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.05 | 1.00 | 0.87 | 0.03 | 0.87 | +73.4 | Minxy, Rush_X, madss, raven, yippeee |
+| 2026-09-06 | Cultivate | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.05 | 1.00 | 0.87 | 0.03 | 0.87 | +73.5 | Minxy, Rush_X, madss, raven, yippeee |
 | 2026-09-04 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.81 | 1.05 | 1.00 | 0.85 | 0.00 | 0.00 | -156.5 | Minxy, Rush_X, madss, raven, yippeee |
 | 2026-09-02 | Voltaren Users | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.03 | 0.84 | +20.1 | Minxy, Rush_X, madss, raven, yippeee |
 | 2026-08-16 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup August 2026 | C | faceit-tournament | 0.68 | 1.00 | 1.00 | 0.68 | 0.00 | 0.00 | -48.4 | Fawx, Minxy, Rush_X, Syn, raven |

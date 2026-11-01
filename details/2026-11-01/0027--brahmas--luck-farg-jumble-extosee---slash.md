@@ -53,6 +53,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.14 | 0.00 | 0.00 | -179.5 | --Slash, ExToSee, Luck, cypress, farg |
 | 2026-05-19 | New Legends | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.43 | 1.00 | 0.13 | 0.08 | 0.13 | +64.5 | --Slash, ExToSee, Luck, cypress, farg |
 | 2026-05-14 | Ex-Tricksters | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.43 | 1.00 | 0.08 | 0.00 | 0.08 | +170.5 | --Slash, ExToSee, Jumble, Luck, farg |
-| 2026-05-07 | unreal nightmare | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.43 | 1.00 | 0.02 | 0.01 | 0.02 | +343.6 | --Slash, ExToSee, Jumble, Luck, farg |
+| 2026-05-07 | unreal nightmare | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.43 | 1.00 | 0.02 | 0.01 | 0.02 | +343.7 | --Slash, ExToSee, Jumble, Luck, farg |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-30 | HUMA | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +24.3 | FreeDotWilly, FuzzyHat, GUNK, deviN-, h0t_s0up |
+| 2026-10-30 | HUMA | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +24.2 | FreeDotWilly, FuzzyHat, GUNK, deviN-, h0t_s0up |
 | 2026-10-28 | RunTheDamnBall | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +67.6 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-10-21 | The Homies | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -227.7 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |
 | 2026-10-16 | We Play Naked | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -179.1 | -kiwi, FreeDotWilly, FuzzyHat, GUNK, deviN- |

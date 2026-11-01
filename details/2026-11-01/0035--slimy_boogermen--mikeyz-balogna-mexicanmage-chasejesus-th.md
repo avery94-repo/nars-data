@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Aspyre | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.50 | 1.00 | 1.07 | 0.10 | 1.07 | +4.5 | Mikeyz, balogna, chaseJESUS, siN_ZJ, thanosboy |
 | 2026-08-19 | Omen Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.05 | 0.34 | 1.05 | +99.5 | --perhaps, Mikeyz, balogna, chaseJESUS, thanosboy |
 | 2026-08-18 | Villainous | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.04 | 0.91 | 1.04 | +175.8 | Mikeyz, balogna, mexicanMAGE, siN_ZJ, thanosboy |
-| 2026-08-12 | FlyQuest RED | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.50 | 1.00 | 0.98 | 0.00 | 0.00 | -131.2 | --perhaps, Mikeyz, balogna, chaseJESUS, mexicanMAGE |
+| 2026-08-12 | FlyQuest RED | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.50 | 1.00 | 0.98 | 0.00 | 0.00 | -131.3 | --perhaps, Mikeyz, balogna, chaseJESUS, mexicanMAGE |
 | 2026-08-07 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.50 | 1.00 | 0.93 | 0.15 | 0.93 | +26.5 | --perhaps, Mikeyz, balogna, chaseJESUS, thanosboy |
 | 2026-08-05 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.50 | 1.00 | 0.91 | 0.13 | 0.91 | +16.1 | --perhaps, Mikeyz, balogna, chaseJESUS, thanosboy |
 | 2026-07-31 | counterstrike Team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.50 | 1.00 | 0.86 | 0.20 | 0.86 | +0.2 | --perhaps, Mikeyz, balogna, chaseJESUS, thanosboy |

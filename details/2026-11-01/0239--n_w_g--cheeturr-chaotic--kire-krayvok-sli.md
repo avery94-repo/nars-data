@@ -3,11 +3,11 @@ Team Name: N w G
 Roster: cHEEturr, chaotic-, KIRE, krayvok, sLi
 NARS Rank: 239 of 489
 
-Final Rating: 1390.7
+Final Rating: 1390.8
 Seeded Start: 1107.5
-H2H Adjustment: +283.2
+H2H Adjustment: +283.3
 
-Final Rating (1390.7) = Seeded Start (1107.5) + H2H Adjustment (+283.2)
+Final Rating (1390.8) = Seeded Start (1107.5) + H2H Adjustment (+283.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.13 | 1.00 | 0.13 | 0.00 | 0.13 | +321.8 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
+| 2026-05-22 | Backshot Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.13 | 1.00 | 0.13 | 0.00 | 0.13 | +321.9 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |
 | 2026-05-20 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.00 | 0.00 | -177.7 | KIRE, cHEEturr, chaotic-, daylily, sLi |
 | 2026-05-15 | juked | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.07 | +219.6 | ChinGoo, KIRE, chaotic-, krayvok, sLi |
 | 2026-05-14 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.00 | -425.7 | KIRE, NwGRich, cHEEturr, chaotic-, sLi |

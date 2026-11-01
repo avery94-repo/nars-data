@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | FLying PiGs | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -39.2 | Alvah, Balyy, DoomCS2, Slays, slichard |
 | 2026-09-02 | Sharp | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -0.3 | Alvah, Balyy, DoomCS2, Slays, slichard |
 | 2026-08-28 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.08 | 0.76 | +114.5 | Balyy, DoomCS2, Slays, slichard, yapry |
-| 2026-08-28 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -86.5 | Balyy, DoomCS2, Slays, slichard, yapry |
+| 2026-08-28 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -86.6 | Balyy, DoomCS2, Slays, slichard, yapry |
 | 2026-08-19 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.02 | 0.70 | +8.1 | Balyy, DoomCS2, Slays, slichard, yapry |
 | 2026-08-13 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.02 | 0.66 | +221.9 | Balyy, DoomCS2, Slays, slichard, yapry |
 | 2026-08-08 | VOID ALUNE | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.64 | 1.23 | 1.00 | 0.78 | 0.00 | 0.00 | -0.6 | Balyy, DoomCS2, Slays, slichard, yapry |

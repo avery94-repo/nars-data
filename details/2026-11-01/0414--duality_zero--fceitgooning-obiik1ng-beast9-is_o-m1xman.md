@@ -3,11 +3,11 @@ Team Name: Duality Zero
 Roster: fceitGOONING, obiik1ng, beast9, is_o, M1xman
 NARS Rank: 414 of 489
 
-Final Rating: 1010.0
+Final Rating: 1009.9
 Seeded Start: 1110.2
-H2H Adjustment: -100.2
+H2H Adjustment: -100.3
 
-Final Rating (1010.0) = Seeded Start (1110.2) + H2H Adjustment (-100.2)
+Final Rating (1009.9) = Seeded Start (1110.2) + H2H Adjustment (-100.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

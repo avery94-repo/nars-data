@@ -53,7 +53,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Chicken Coop | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.50 | 1.00 | 0.91 | 0.00 | 0.00 | -4.0 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-07-31 | Beyond Limits | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.50 | 1.00 | 0.86 | 0.56 | 0.86 | +364.1 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-07-29 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.50 | 1.00 | 0.84 | 0.00 | 0.00 | -43.8 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
-| 2026-07-17 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.48 | 1.50 | 1.00 | 0.73 | 0.00 | 0.00 | -256.7 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
+| 2026-07-17 | Aspyre | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.48 | 1.50 | 1.00 | 0.73 | 0.00 | 0.00 | -256.8 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-07-15 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.50 | 1.00 | 0.71 | 0.00 | 0.00 | -79.1 | Destro, Driftzzzzz, Springgy, Tiski, xKold |
 | 2026-05-25 | Phantom Sense | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.13 | 1.43 | 1.00 | 0.19 | 0.06 | 0.19 | +243.8 | Destro, Driftzzzzz, Tiski, fatguy, xKold |
 | 2026-05-22 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.11 | 1.43 | 1.00 | 0.16 | 0.00 | 0.00 | -2.0 | Destro, Driftzzzzz, Tiski, fatguy, xKold |

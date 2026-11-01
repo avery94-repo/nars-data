@@ -56,7 +56,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-25 | FREEDOM FIGHTERS | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.54 | 1.00 | 1.00 | 0.54 | 0.03 | 0.54 | +0.2 | Emokie, FromBehind, fArt, seffuh, z0mb1e |
 | 2026-07-24 | LAG Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.50 | 1.00 | 0.79 | 0.00 | 0.00 | -118.0 | cbass, fArt, seffuh, weine, z0mb1e |
 | 2026-07-21 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.51 | 1.50 | 1.00 | 0.77 | 0.08 | 0.77 | +2.5 | cbass, fArt, seffuh, weine, z0mb1e |
-| 2026-06-14 | Xiaoma Gaming | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.26 | 1.55 | 1.00 | 0.41 | 0.07 | 0.41 | +138.2 | -Roo, cbass, fArt, yuush1, z0mb1e |
+| 2026-06-14 | Xiaoma Gaming | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.26 | 1.55 | 1.00 | 0.41 | 0.07 | 0.41 | +138.3 | -Roo, cbass, fArt, yuush1, z0mb1e |
 | 2026-06-11 | Axial | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.24 | 1.55 | 1.00 | 0.38 | 0.19 | 0.38 | +235.3 | -Roo, cbass, fArt, sqroobz, yuush1, z0mb1e |
 | 2026-06-10 | Holy Squid Empire | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.24 | 1.55 | 1.00 | 0.37 | 0.06 | 0.37 | +416.9 | -Roo, cbass, fArt, yuush1, z0mb1e |
 | 2026-06-02 | Olympus | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.18 | 1.55 | 1.00 | 0.29 | 0.00 | 0.00 | -361.1 | -Roo, cbass, fArt, yuush1, z0mb1e |

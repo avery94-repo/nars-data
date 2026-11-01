@@ -61,7 +61,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | SportsBetExpert | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.50 | 1.00 | 0.93 | 0.87 | 0.93 | +291.9 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-08-06 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.50 | 1.00 | 0.92 | 0.00 | 0.00 | -137.0 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-07-24 | NZ Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.50 | 1.00 | 0.80 | 0.00 | 0.00 | -276.9 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
-| 2026-07-22 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.78 | 0.08 | 0.78 | +0.1 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
+| 2026-07-22 | Pug Palace | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.77 | 0.08 | 0.77 | +0.1 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-07-17 | Ex-Tricksters | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.48 | 1.50 | 1.00 | 0.72 | 0.03 | 0.72 | +13.2 | -Roo, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-07-15 | Zomblers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.50 | 1.00 | 0.70 | 0.58 | 0.70 | +375.8 | -Roo, Jachro, Sharpie, brawckzz, j3nni, toobad |
 | 2026-06-11 | NuTorious | L | 1-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.24 | 1.55 | 1.00 | 0.38 | 0.00 | 0.00 | -72.2 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
@@ -74,8 +74,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-21 | raisedbypixels | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.15 | 0.00 | 0.00 | -169.2 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-05-19 | Holly Molly | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.43 | 1.00 | 0.13 | 0.03 | 0.13 | +158.2 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-05-12 | Club 333 | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.43 | 1.00 | 0.06 | 0.00 | 0.00 | -22.2 | --toasty, Jachro, JeffLaFlavor, Sharpie, brawckzz, j3nni |
-| 2026-05-11 | Phantom Sense | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.43 | 1.00 | 0.05 | 0.02 | 0.05 | +347.4 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
+| 2026-05-11 | Phantom Sense | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.43 | 1.00 | 0.05 | 0.02 | 0.05 | +347.5 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 | 2026-05-08 | Xiaoma Gaming | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.02 | 1.43 | 1.00 | 0.03 | 0.00 | 0.00 | -322.2 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
-| 2026-05-07 | Brahmas | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.43 | 1.00 | 0.02 | 0.00 | 0.00 | -343.6 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
+| 2026-05-07 | Brahmas | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.01 | 1.43 | 1.00 | 0.02 | 0.00 | 0.00 | -343.7 | --toasty, Jachro, Sharpie, brawckzz, j3nni |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

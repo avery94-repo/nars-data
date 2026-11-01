@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.12 | 0.76 | +84.7 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-08-19 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.07 | 0.70 | +121.3 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-08-19 | NoPrac | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -117.1 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
-| 2026-08-14 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -165.6 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
+| 2026-08-14 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -165.7 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-08-12 | Mach 10 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.04 | 0.66 | +20.4 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-08-07 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.06 | 0.62 | +68.4 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |
 | 2026-08-05 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -8.1 | Kenw_ay, Krollie, Tuck, WetDoorknob, mwngo |

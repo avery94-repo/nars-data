@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Demolition | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.50 | 1.00 | 0.84 | 0.00 | 0.00 | -319.0 | -Kiri, AaronJH, FuuuZion, _PandaKing_, presence |
 | 2026-07-24 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.50 | 1.00 | 0.80 | 0.16 | 0.80 | +48.8 | -Kiri, AaronJH, FuuuZion, IseeUdere, _PandaKing_ |
 | 2026-07-16 | counterstrike Team | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.48 | 1.50 | 1.00 | 0.72 | 0.16 | 0.72 | +6.2 | -Kiri, AaronJH, FuuuZion, IseeUdere, _PandaKing_ |
-| 2026-07-15 | Imperium | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.50 | 1.00 | 0.71 | 0.00 | 0.00 | -430.4 | -Kiri, AaronJH, FuuuZion, Sentrex, _PandaKing_ |
+| 2026-07-15 | Imperium | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.50 | 1.00 | 0.70 | 0.00 | 0.00 | -430.4 | -Kiri, AaronJH, FuuuZion, Sentrex, _PandaKing_ |
 | 2026-06-13 | 027fam | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.26 | 1.25 | 1.00 | 0.32 | 0.00 | 0.00 | -276.3 | AaronJH, Enzo, FuuuZion, Gibbyatl, IseeUdere |
 | 2026-06-09 | Zealous | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.23 | 1.25 | 1.00 | 0.29 | 0.00 | 0.00 | +133.7 | AaronJH, Enzo, FuuuZion, Gibbyatl, IseeUdere |
 | 2026-06-05 | butt | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.20 | 1.25 | 1.00 | 0.26 | 0.02 | 0.26 | +131.6 | AaronJH, Enzo, FuuuZion, Gibbyatl, IseeUdere |

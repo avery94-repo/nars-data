@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-25 | Ex-Tricksters | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.50 | 1.00 | 1.11 | 0.05 | 1.11 | +1.6 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
 | 2026-08-23 | DETONATE | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.74 | 1.50 | 1.00 | 1.11 | 0.00 | 0.00 | -8.2 | Lukasz, Nico1ajus, Timbis12, depend, shiraz |
 | 2026-08-20 | TenToesDown | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.71 | 1.50 | 1.00 | 1.07 | 0.12 | 1.07 | +5.6 | Lukasz, Timbis12, depend, gosha111, shiraz |
-| 2026-08-20 | NineFly Esports | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.71 | 1.50 | 1.00 | 1.07 | 0.15 | 1.07 | +86.2 | Lukasz, Timbis12, depend, gosha111, shiraz |
+| 2026-08-20 | NineFly Esports | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.71 | 1.50 | 1.00 | 1.07 | 0.15 | 1.07 | +86.3 | Lukasz, Timbis12, depend, gosha111, shiraz |
 | 2026-08-15 | NuTorious | L | 0-2 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.68 | 1.42 | 1.00 | 0.97 | 0.00 | 0.00 | -5.3 | 9be36b62, Lukasz, depend, gosha111, shiraz |
 | 2026-08-15 | Skyline | W | 2-0 | True North X CounterStrat Summer Clash Series | C | faceit-tournament | 0.68 | 1.42 | 1.00 | 0.97 | 0.35 | 0.97 | +178.5 | 9be36b62, Lukasz, depend, gosha111, shiraz |
 | 2026-08-15 | Elusive | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.68 | 1.50 | 1.00 | 1.01 | 0.00 | 0.00 | -10.8 | Lukasz, Timbis12, depend, gosha111, shiraz |

@@ -60,7 +60,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-27 | Elusive | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.50 | 1.00 | 1.13 | 0.51 | 1.13 | +48.4 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-26 | FlyQuest RED | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.50 | 1.00 | 1.12 | 0.47 | 1.12 | +27.1 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-22 | Club 333 | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.72 | 1.37 | 1.00 | 0.99 | 0.00 | 0.00 | -10.2 | Momo, Pluto101, mason, shooterR-, taqi |
-| 2026-08-21 | Zomblers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.50 | 1.00 | 1.07 | 0.89 | 1.07 | +87.7 | Momo, Pluto101, mason, shooterR-, taqi |
+| 2026-08-21 | Zomblers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.50 | 1.00 | 1.07 | 0.89 | 1.07 | +87.8 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-20 | Wolves | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.71 | 1.37 | 1.00 | 0.97 | 0.15 | 0.97 | +24.9 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-19 | Brahmas | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.06 | 0.22 | 1.06 | +20.7 | Momo, Pluto101, mason, shooterR-, taqi |
 | 2026-08-19 | Olympus | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.05 | 0.00 | 0.00 | -135.3 | Momo, Pluto101, mason, shooterR-, taqi |

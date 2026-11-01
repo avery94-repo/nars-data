@@ -56,10 +56,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-14 | STFDYSAB | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.46 | 1.29 | 1.00 | 0.60 | 0.00 | 0.00 | -13.9 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-07-14 | STFDYSAB | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.46 | 1.29 | 1.00 | 0.60 | 0.00 | 0.00 | -119.6 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-06-04 | TheMotherLovers | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.20 | 1.25 | 1.00 | 0.25 | 0.00 | 0.00 | -75.6 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
-| 2026-06-03 | Team Team Name | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.25 | 1.00 | 0.24 | 0.02 | 0.24 | +264.1 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
+| 2026-06-03 | Team Team Name | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.25 | 1.00 | 0.24 | 0.02 | 0.24 | +264.2 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
 | 2026-06-01 | Tall Ocean Rats | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.18 | 1.25 | 1.00 | 0.22 | 0.01 | 0.22 | +414.8 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
 | 2026-05-27 | DKR Esports | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.14 | 1.25 | 1.00 | 0.18 | 0.00 | 0.00 | -12.6 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
-| 2026-05-22 | GeneticDiff | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.13 | 1.00 | 0.13 | 0.00 | 0.00 | -254.7 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
+| 2026-05-22 | GeneticDiff | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.13 | 1.00 | 0.13 | 0.00 | 0.00 | -254.8 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
 | 2026-05-20 | 5Frag Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.00 | 0.00 | -386.0 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-05-15 | YHUBEPCAM | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.01 | 0.07 | +433.3 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |
 | 2026-05-13 | DUI | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.13 | 1.00 | 0.06 | 0.00 | 0.00 | -410.9 | BARRAGE, Bojangles12, Kaema-_-, fa0, tanner |

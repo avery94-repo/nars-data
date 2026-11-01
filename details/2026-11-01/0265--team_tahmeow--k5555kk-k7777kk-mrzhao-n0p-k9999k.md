@@ -35,10 +35,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -119.8 | K6666k, K7777Kk, K9999k, N0P, Soahc666 |
 | 2026-08-19 | Solbound | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.05 | 0.70 | +96.4 | K6666k, K7777Kk, K9999k, N0P, Soahc666 |
 | 2026-08-14 | FourStrokeGang | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -209.9 | K6666k, K7777Kk, K9999k, N0P, Soahc666 |
-| 2026-08-07 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.04 | 0.62 | +232.6 | K6666k, K7777Kk, N0P, Soahc666, k5555Kk |
+| 2026-08-07 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.04 | 0.62 | +232.7 | K6666k, K7777Kk, N0P, Soahc666, k5555Kk |
 | 2026-08-05 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -53.4 | K6666k, K7777Kk, N0P, Soahc666, k5555Kk |
-| 2026-07-31 | Mace Lindu Ruff Rebound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -246.4 | K6666k, N0P, Soahc666, k5555Kk, k6666kk |
-| 2026-07-29 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +184.7 | K6666k, K7777Kk, N0P, Soahc666, k5555Kk |
+| 2026-07-31 | Mace Lindu Ruff Rebound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -246.5 | K6666k, N0P, Soahc666, k5555Kk, k6666kk |
+| 2026-07-29 | Team Deathgrip | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +184.8 | K6666k, K7777Kk, N0P, Soahc666, k5555Kk |
 | 2026-07-22 | 929 Arrival Gang | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -247.5 | K6666k, K7777Kk, N0P, Soahc666, k5555Kk |
 | 2026-07-17 | RunTheDamnBall | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -365.9 | K6666k, K7777Kk, N0P, Soahc666, k6666kk |
 | 2026-06-12 | Sable | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.01 | 0.25 | +178.2 | K6666k, K7777Kk, K9999k, k5555Kk, k6666kk |

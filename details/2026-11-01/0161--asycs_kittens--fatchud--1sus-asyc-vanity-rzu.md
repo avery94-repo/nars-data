@@ -43,7 +43,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-22 | Kurrupted Mindz | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.13 | 1.00 | 0.13 | 0.00 | 0.00 | -50.2 | Asyc, Ezqi, RZU, dellzor, fatchud- |
 | 2026-05-20 | Shadow Wizard Money Gang | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.01 | 0.11 | +143.3 | 1sus, Asyc, RZU, dellzor, fatchud- |
 | 2026-05-15 | UnitedStatesArmy Esports | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.07 | +97.0 | 1sus, Asyc, dellzor, fatchud-, vanity |
-| 2026-05-13 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.13 | 1.00 | 0.06 | 0.00 | 0.06 | +340.6 | 1sus, Asyc, RZU, dellzor, fatchud- |
+| 2026-05-13 | TEMPR | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.13 | 1.00 | 0.06 | 0.00 | 0.06 | +340.7 | 1sus, Asyc, RZU, dellzor, fatchud- |
 | 2026-05-08 | James Bond Bois | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.13 | 1.00 | 0.02 | 0.00 | 0.00 | -109.6 | 1sus, Asyc, dellzor, fatchud-, vanity |
 | 2026-05-06 | No Leaders Please | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.13 | 1.00 | 0.01 | 0.00 | 0.00 | -188.1 | 1sus, Asyc, RZU, dellzor, fatchud- |
 

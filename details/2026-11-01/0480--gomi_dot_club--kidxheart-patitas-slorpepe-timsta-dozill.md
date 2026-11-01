@@ -27,8 +27,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Kahoot Squad | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-14 | TELETUBEASTS | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-09 | CN Chill Boyz | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-10-07 | UsingCodefArt25atSCL | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-08-28 | Casipanther | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -92.9 | DOZILLA, KiDxHeart, _m00se_, slorpepe, timsta |
+| 2026-10-07 | PBP | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
+| 2026-08-28 | Casipanther | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -93.0 | DOZILLA, KiDxHeart, _m00se_, slorpepe, timsta |
 | 2026-08-26 | FourStrokeGang | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -78.4 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
 | 2026-08-21 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.02 | 0.72 | +71.0 | DOZILLA, KiDxHeart, _m00se_, slorpepe, timsta |
 | 2026-08-19 | 929 Arrival Gang | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -15.0 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |

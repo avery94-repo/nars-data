@@ -35,7 +35,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.09 | 0.66 | +2.6 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-08-07 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.07 | 0.62 | +118.2 | Boyller, Carter, Gnat, _Stuffy, hoogs |
 | 2026-08-05 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.06 | 0.61 | +17.4 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
-| 2026-07-29 | Kevin James Fan Club | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.06 | 0.56 | +173.8 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
+| 2026-07-29 | Kevin James Fan Club | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.06 | 0.56 | +173.9 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-07-29 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -263.5 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |
 | 2026-07-24 | UltimateDarklordWizardz | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.10 | 0.53 | +182.9 | Carter, Gnat, Kirel, SHLiZZarD, _Stuffy |
 | 2026-07-22 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.02 | 0.52 | +378.9 | Gnat, Kirel, SHLiZZarD, _Stuffy, hoogs |

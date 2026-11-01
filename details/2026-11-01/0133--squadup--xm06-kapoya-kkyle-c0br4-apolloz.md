@@ -4,14 +4,14 @@ Roster: XM06, Kapoya, kkyle, C0br4, ApolloZ
 NARS Rank: 133 of 489
 
 Final Rating: 1619.5
-Seeded Start: 1391.8
-H2H Adjustment: +227.7
+Seeded Start: 1391.7
+H2H Adjustment: +227.8
 
-Final Rating (1619.5) = Seeded Start (1391.8) + H2H Adjustment (+227.7)
+Final Rating (1619.5) = Seeded Start (1391.7) + H2H Adjustment (+227.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.208 x 1400 = 1391.8
+                = 1100 + 0.208 x 1400 = 1391.7
 
 seed_factor 0.208 = 0.25 x Tier Exposure (0.181) + 0.50 x Quality Wins (0.051) + 0.25 x Opponent Network (0.551)
 
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-09 | ASCEND | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.84 | 1.44 | 1.00 | 1.22 | 0.18 | 1.22 | +93.4 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
+| 2026-09-09 | ASCEND | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.84 | 1.44 | 1.00 | 1.22 | 0.18 | 1.22 | +93.5 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-09-07 | my life be like | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.83 | 1.44 | 1.00 | 1.20 | 0.00 | 0.00 | -17.1 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-09-06 | Hairy Scary Bandits | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.82 | 1.09 | 1.00 | 0.90 | 0.00 | 0.00 | -12.3 | ApolloZ, C0br4, Kapoya, XM06, kkyle |
 | 2026-09-04 | Dude Picks | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.81 | 1.09 | 1.00 | 0.89 | 0.10 | 0.89 | +118.5 | ApolloZ, C0br4, Kapoya, XM06, kkyle |

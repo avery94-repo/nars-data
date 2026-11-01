@@ -34,8 +34,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | HammerHeads | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.03 | 0.62 | +116.5 | Avner, Chad_Kirbo, Gliss, NOWAH, TinNeR |
 | 2026-07-24 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.58 | 0.04 | 0.58 | +143.4 | Avner, Chad_Kirbo, Gliss, NOWAH, TinNeR |
 | 2026-07-22 | FUELED BY HATE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.00 | 0.00 | -366.1 | Avner, Chad_Kirbo, Gliss, NOWAH, TinNeR |
-| 2026-07-15 | Pugging4Pumpkin | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.10 | 1.00 | 0.52 | 0.00 | 0.00 | -151.4 | Avner, Chad_Kirbo, Gliss, NOWAH, TinNeR |
-| 2026-06-02 | HammerHeads | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.18 | 1.02 | 1.00 | 0.19 | 0.00 | 0.00 | -238.2 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
+| 2026-07-15 | Pugging4Pumpkin | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.10 | 1.00 | 0.52 | 0.00 | 0.00 | -151.3 | Avner, Chad_Kirbo, Gliss, NOWAH, TinNeR |
+| 2026-06-02 | HammerHeads | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.18 | 1.02 | 1.00 | 0.19 | 0.00 | 0.00 | -238.3 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
 | 2026-05-31 | Schadenfreude | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.01 | 0.17 | +18.8 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
 | 2026-05-27 | Endless Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.14 | 1.02 | 1.00 | 0.15 | 0.00 | 0.00 | -45.6 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |
 | 2026-05-20 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +61.6 | Chad_Kirbo, Hydra1k, NOWAH, TinNeR, Ultimatebean |

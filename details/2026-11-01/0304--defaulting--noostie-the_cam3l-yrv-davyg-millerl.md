@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-30 | CN Chill Boyz | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-28 | ASCEND | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -93.0 | DavyG, JCIV, Killerbean66, YRV, noostie |
 | 2026-10-21 | 55TH ST | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-10-16 | UsingCodefArt25atSCL | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
+| 2026-10-16 | PBP | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-14 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -129.2 | DavyG, JCIV, Killerbean66, YRV, noostie |
 | 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +180.3 | DavyG, JCIV, Killerbean66, YRV, noostie |
 | 2026-09-12 | COGNITIVE | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.86 | 1.11 | 1.00 | 0.96 | 0.00 | 0.00 | -126.2 | DavyG, Killerbean66, The_Cam3l, YRV, santanamolly |

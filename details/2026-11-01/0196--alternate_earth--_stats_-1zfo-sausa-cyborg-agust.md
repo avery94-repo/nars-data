@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-28 | fiveB | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +56.0 | 1zfo, Agust, Sausa, _STATS_, cyborg |
 | 2026-10-27 | After Peak | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +7.3 | 1zfo, Agust, Sausa, Sevv, cyborg |
 | 2026-10-21 | Cream Team | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +22.9 | 1zfo, Agust, Sausa, _STATS_, cyborg |
-| 2026-10-16 | Drip or Drown | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -11.1 | 1zfo, Agust, Sausa, _STATS_, cyborg |
+| 2026-10-16 | Vlandian knigts | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -11.1 | 1zfo, Agust, Sausa, _STATS_, cyborg |
 | 2026-10-14 | GOYPEEKING | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -152.4 | 1zfo, Agust, Sausa, Sevv, cyborg |
 | 2026-10-09 | VARTOVIK | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +118.6 | 1zfo, Agust, Sausa, _STATS_, cyborg |
 | 2026-10-07 | mokey mokey | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |

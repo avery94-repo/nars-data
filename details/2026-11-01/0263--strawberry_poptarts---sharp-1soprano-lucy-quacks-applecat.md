@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-09 | Real Hustle Club | W | W/O | S59 NA Main B - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-09-07 | Sassy Sunshines | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.83 | 1.10 | 1.00 | 0.92 | 0.00 | 0.00 | -39.8 | -sharp, 1soprano, Lucy, applecat, quacks |
-| 2026-09-02 | STFDYSAB | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.00 | 0.00 | -67.6 | -sharp, 1soprano, Lucy, applecat, quacks |
+| 2026-09-02 | STFDYSAB | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.00 | 0.00 | -67.7 | -sharp, 1soprano, Lucy, applecat, quacks |
 | 2026-08-27 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.83 | 0.09 | 0.83 | +90.7 | -sharp, 1soprano, Lucy, applecat, quacks |
 | 2026-08-21 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.00 | 0.00 | -76.4 | -sharp, 1soprano, Lucy, applecat, quacks |
 | 2026-08-19 | ASYCS KITTENS | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.00 | 0.00 | -99.0 | -sharp, 1soprano, Lucy, applecat, quacks |

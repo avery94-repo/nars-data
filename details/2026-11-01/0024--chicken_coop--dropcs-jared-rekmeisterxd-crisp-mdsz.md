@@ -53,7 +53,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.50 | 1.00 | 1.12 | 0.17 | 1.12 | +7.5 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-08-26 | EMPIRE | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.20 | 0.97 | 1.20 | +88.0 | core 3/5 |
 | 2026-08-25 | Incognito | W |  | VRS-tracked 2026-08 | A | vrs | 0.74 | 1.60 | 1.00 | 1.19 | 0.22 | 1.19 | +0.1 | core 3/5 |
-| 2026-08-21 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.50 | 1.00 | 1.08 | 0.86 | 1.08 | +107.8 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-08-21 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.50 | 1.00 | 1.07 | 0.86 | 1.07 | +107.8 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-08-21 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.50 | 1.00 | 1.07 | 0.00 | 0.00 | -68.3 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-08-19 | unreal nightmare | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.05 | 0.73 | 1.05 | +14.1 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-08-13 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.50 | 1.00 | 0.99 | 0.05 | 0.99 | +1.1 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
@@ -63,7 +63,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-30 | regain | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.00 | 0.00 | -102.5 | core 3/5 |
 | 2026-07-29 | SportsBetExpert | L | 1-2 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.57 | 1.60 | 1.00 | 0.91 | 0.00 | 0.00 | -45.5 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-07-24 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.50 | 1.00 | 0.80 | 0.00 | 0.00 | -348.7 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-07-22 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.78 | 0.12 | 0.78 | +6.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-07-22 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.77 | 0.12 | 0.77 | +6.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-07-15 | dice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.50 | 1.00 | 0.71 | 0.00 | 0.00 | -464.4 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-06-21 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.31 | 1.60 | 1.00 | 0.50 | 0.38 | 0.00 | +21.0 | core 3/5 |
 | 2026-06-20 | Overtake Sector | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.49 | 0.49 | 0.49 | +1.4 | core 3/5 |
@@ -72,7 +72,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-08 | North Forge | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.22 | 1.55 | 1.00 | 0.35 | 0.09 | 0.35 | +0.4 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-06-08 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.22 | 1.60 | 1.00 | 0.36 | 0.27 | 0.00 | +92.8 | core 3/5 |
 | 2026-06-07 | North Forge | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.22 | 1.60 | 1.00 | 0.35 | 0.09 | 0.00 | +1.1 | core 3/5 |
-| 2026-06-04 | Olympus | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.20 | 1.55 | 1.00 | 0.31 | 0.19 | 0.31 | +0.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-06-04 | Olympus | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.20 | 1.55 | 1.00 | 0.31 | 0.18 | 0.31 | +0.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-05-31 | Marsborne | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.17 | 1.60 | 1.00 | 0.27 | 0.27 | 0.27 | +244.9 | core 3/5 |
 | 2026-05-30 | NuTorious | W |  | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.23 | 0.00 | +21.0 | core 3/5 |
 | 2026-05-30 | SportsBetExpert | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.24 | 0.26 | +400.7 | core 3/5 |

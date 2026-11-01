@@ -25,10 +25,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-26 | penazoid | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.82 | 0.09 | 0.82 | +58.7 | A1Sh1, Ash-1, Karmua, MilkDragon, s1nKr |
-| 2026-08-21 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.14 | 0.79 | +108.3 | A1Sh1, Ash-1, Karmua, MilkDragon, s1nKr |
+| 2026-08-21 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.14 | 0.79 | +108.4 | A1Sh1, Ash-1, Karmua, MilkDragon, s1nKr |
 | 2026-08-19 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.00 | 0.00 | -75.1 | A1Sh1, Karmua, MilkDragon, RushYourB, s1nKr |
 | 2026-08-14 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.67 | 1.10 | 1.00 | 0.74 | 0.00 | 0.00 | -86.8 | -Joyce666-, A1Sh1, MilkDragon, RushYourB, s1nKr |
-| 2026-08-12 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.00 | 0.00 | -185.7 | A1Sh1, Karmua, MilkDragon, RushYourB, s1nKr |
+| 2026-08-12 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.00 | 0.00 | -185.8 | A1Sh1, Karmua, MilkDragon, RushYourB, s1nKr |
 | 2026-08-07 | DingTone | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.05 | 0.69 | +10.6 | A1Sh1, Karmua, MaidSakuya, RushYourB, s1nKr |
 | 2026-08-05 | Exnitas | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.07 | 0.67 | +173.3 | A1Sh1, Karmua, MaidSakuya, RushYourB, s1nKr |
 | 2026-07-24 | Square1 | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.58 | 0.02 | 0.58 | +66.8 | A1Sh1, Karmua, MaidSakuya, RushYourB, s1nKr |

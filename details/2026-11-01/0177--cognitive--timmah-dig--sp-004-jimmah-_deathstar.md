@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | Guangzhou Loong Lions | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.85 | 1.11 | 1.00 | 0.95 | 0.07 | 0.95 | +127.4 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |
 | 2026-09-07 | Arnes Wit Attitudes | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.83 | 1.11 | 1.00 | 0.92 | 0.00 | 0.00 | -67.1 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |
 | 2026-09-04 | Puddle Pirates | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.81 | 1.11 | 1.00 | 0.90 | 0.04 | 0.90 | +298.2 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |
-| 2026-06-03 | AAA | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -266.2 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |
+| 2026-06-03 | AAA | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -266.3 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |
 | 2026-05-29 | gummyx mentality | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +193.0 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |
 | 2026-05-27 | The Third Eye | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -305.6 | JIMMAH, SP-004, TIMMAH, _deathstar, diG- |
 

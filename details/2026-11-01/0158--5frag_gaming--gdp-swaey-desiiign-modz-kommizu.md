@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | Evil Reunion | L | 1-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.81 | 1.10 | 1.00 | 0.89 | 0.00 | 0.00 | -40.2 | Desiiign, gDP, kommizu, modz, zit |
 | 2026-09-02 | Entertainment Cheese | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.12 | 0.88 | +43.3 | Desiiign, gDP, kommizu, modz, zit |
 | 2026-08-28 | Skyline | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.31 | 0.84 | +148.1 | Swaey, gDP, kommizu, modz, zit |
-| 2026-08-26 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.82 | 0.09 | 0.82 | +109.9 | Swaey, gDP, kommizu, modz, zit |
+| 2026-08-26 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.82 | 0.09 | 0.82 | +110.0 | Swaey, gDP, kommizu, modz, zit |
 | 2026-08-19 | gooshedd | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.03 | 0.77 | +116.8 | Swaey, gDP, kommizu, modz, zit |
 | 2026-08-12 | Macs Snacks | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.00 | 0.00 | -117.4 | Swaey, gDP, kommizu, modz, zit |
 | 2026-08-07 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.02 | 0.69 | +89.4 | Swaey, gDP, kommizu, modz, zit |

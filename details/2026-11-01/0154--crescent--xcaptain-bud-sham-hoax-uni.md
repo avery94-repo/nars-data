@@ -31,8 +31,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | goofball gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.06 | 0.84 | +88.2 | Sham, bud, hoax, uni, xCaptain |
 | 2026-08-26 | Diamond Mental | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.82 | 0.06 | 0.82 | +61.3 | Sham, bud, hoax, uni, xCaptain |
 | 2026-08-21 | 1NT | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.00 | 0.00 | -57.2 | Sham, bud, hoax, uni, xCaptain |
-| 2026-08-19 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.09 | 0.77 | +178.5 | MJB, Sham, bud, hoax, uni, xCaptain |
-| 2026-08-17 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.10 | 1.00 | 0.76 | 0.00 | 0.00 | -161.1 | Sham, bud, hoax, uni, xCaptain |
+| 2026-08-19 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.09 | 0.77 | +178.6 | MJB, Sham, bud, hoax, uni, xCaptain |
+| 2026-08-17 | SwagMonkeyHats | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.69 | 1.10 | 1.00 | 0.76 | 0.00 | 0.00 | -161.2 | Sham, bud, hoax, uni, xCaptain |
 | 2026-08-12 | 773Revival | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.72 | 0.02 | 0.72 | +110.2 | Sham, bud, heatJESUS, hoax, uni |
 | 2026-08-07 | NADIYA | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.02 | 0.69 | +68.4 | Sham, bud, hoax, uni, xCaptain |
 | 2026-08-05 | VOID ALUNE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.00 | 0.00 | -149.9 | Sham, bud, hoax, uni, xCaptain |

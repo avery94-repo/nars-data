@@ -3,11 +3,11 @@ Team Name: 37U Passion
 Roster: GRITMAXXER, stepback003, BingusKing, CarelessDoug, -yanno-
 NARS Rank: 474 of 489
 
-Final Rating: 693.2
+Final Rating: 693.1
 Seeded Start: 1171.2
-H2H Adjustment: -478.0 (capped at +-300, raw -478.1)
+H2H Adjustment: -478.1
 
-Final Rating (693.2) = Seeded Start (1171.2) + H2H Adjustment (-478.0)
+Final Rating (693.1) = Seeded Start (1171.2) + H2H Adjustment (-478.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

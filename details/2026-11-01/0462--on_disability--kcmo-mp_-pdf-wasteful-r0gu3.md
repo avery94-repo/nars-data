@@ -5,7 +5,7 @@ NARS Rank: 462 of 489
 
 Final Rating: 820.9
 Seeded Start: 1156.6
-H2H Adjustment: -335.7 (capped at +-300, raw -335.6)
+H2H Adjustment: -335.7
 
 Final Rating (820.9) = Seeded Start (1156.6) + H2H Adjustment (-335.7)
 
@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-14 | Kodaks Lettuce | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-14 | Climbers | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-10-09 | UsingCodefArt25atSCL | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
+| 2026-10-09 | PBP | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-07 | CN Chill Boyz | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-08-26 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -104.2 | PDF, WASTEFUL, envy, mp_, r0gu3 |
 | 2026-08-21 | 929 Arrival Gang | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -60.5 | bliu-, envy, kcmo, mp_, r0gu3 |

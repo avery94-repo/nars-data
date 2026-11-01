@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Kevin James Fan Club | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -36.2 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-09-03 | 1001 Fragrance | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.00 | 0.00 | -6.0 | AwperDude25, KeithGBE, __png, cte, gramps |
 | 2026-08-27 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -67.1 | AwperDude25, Fitz, KeithGBE, __png, cte |
-| 2026-08-21 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.03 | 0.72 | +96.9 | AwperDude25, Fitz, KeithGBE, cte, gramps |
+| 2026-08-21 | Cojomo Academy Roster | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.03 | 0.72 | +97.0 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-08-19 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.07 | 0.70 | +109.2 | AwperDude25, Fitz, KeithGBE, cte, gramps |
 | 2026-08-14 | Bald | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -58.7 | AwperDude25, Fitz, KeithGBE, __png, gramps |
 | 2026-08-12 | Armored Talent | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -154.6 | AwperDude25, Fitz, KeithGBE, cte, gramps |

@@ -26,14 +26,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-21 | KODEX ESPORTS | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.28 | 1.50 | +54.3 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-10-21 | NZ Gaming | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.15 | 1.50 | +161.6 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-10-20 | Celestial Esports | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -213.2 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-10-20 | Celestial Esports | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -213.3 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-10-20 | counterstrike Team | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.34 | 0.00 | +52.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-10-14 | Automatic HQ | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -59.1 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-20 | my life be like | L | 1-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.92 | 1.58 | 1.00 | 1.45 | 0.00 | 0.00 | -23.6 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-17 | North Forge | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.90 | 1.58 | 1.00 | 1.42 | 0.38 | 1.42 | +48.4 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-15 | Without a Roof | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.88 | 1.58 | 1.00 | 1.40 | 0.00 | 0.00 | -0.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-11 | Omen Esports | L | 1-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.86 | 1.57 | 1.00 | 1.35 | 0.00 | 0.00 | -200.8 | Beastman, Pr0misee, denz67, doltn, flixxy |
-| 2026-09-10 | Olympus | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.85 | 1.44 | 1.00 | 1.23 | 0.00 | 0.00 | -189.0 | Beastman, Pr0misee, denz67, doltn, flixxy |
+| 2026-09-10 | Olympus | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.85 | 1.44 | 1.00 | 1.23 | 0.00 | 0.00 | -189.1 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-08 | dice | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.84 | 1.44 | 1.00 | 1.21 | 0.18 | 1.21 | +0.9 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-07 | FarmVille | L | 1-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.83 | 1.60 | 1.00 | 1.33 | 0.00 | 0.00 | -111.7 | Beastman, Pr0misee, denz67, doltn, flixxy |
 | 2026-09-06 | Tractors | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.82 | 1.44 | 1.00 | 1.19 | 0.21 | 1.19 | +0.0 | Beastman, Pr0misee, denz67, doltn, flixxy |

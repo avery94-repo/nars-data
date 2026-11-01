@@ -1,5 +1,5 @@
 ### Roster Details
-Team Name: Drip or Drown
+Team Name: Vlandian knigts
 Roster: -evN, Tori, AdamRS, jr24racing, 1stobie
 NARS Rank: 101 of 489
 

@@ -32,10 +32,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.06 | 0.75 | +18.3 | -py, Destrcyer, Heylol, Rezzzzzz, Rpx27 |
 | 2026-08-21 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.07 | 0.00 | +118.4 | -py, Destrcyer, HollowRin, Rezzzzzz, Rpx27 |
 | 2026-08-19 | NoPrac | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -14.8 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-08-14 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -90.4 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
+| 2026-08-14 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -90.5 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-08-12 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +9.3 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-08-07 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.04 | 0.62 | +3.4 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
-| 2026-07-31 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -168.1 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
+| 2026-07-31 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -168.2 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-07-28 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +67.5 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-07-24 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.02 | 0.53 | +52.7 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |
 | 2026-07-17 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.07 | 0.48 | +170.7 | -py, Destrcyer, Rezzzzzz, Rpx27, lore |

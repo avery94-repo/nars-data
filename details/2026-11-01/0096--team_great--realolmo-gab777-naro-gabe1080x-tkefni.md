@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Fire Nation | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +193.7 | Gab777, RealOlmO, Yonji, gabe1080x, vonix |
 | 2026-10-09 | innerFire | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +11.2 | Gab777, RealOlmO, Yonji, gabe1080x, vonix |
 | 2026-10-09 | Kodaks Lettuce | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +73.1 | Gab777, RealOlmO, Yonji, gabe1080x, vonix |
-| 2026-09-15 | UsingCodefArt25atSCL | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.88 | 1.04 | 1.00 | 0.92 | 0.00 | 0.00 | -89.0 | Gab777, NaRo, RealOlmO, TKEFNI, gabe1080x |
+| 2026-09-15 | PBP | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.88 | 1.04 | 1.00 | 0.92 | 0.00 | 0.00 | -89.0 | Gab777, NaRo, RealOlmO, TKEFNI, gabe1080x |
 | 2026-09-08 | babaG | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.87 | 0.00 | 0.00 | -5.9 | Gab777, NaRo, RealOlmO, TKEFNI, gabe1080x |
 | 2026-09-06 | Boop Boop Gang | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.86 | 0.07 | 0.86 | +113.2 | Gab777, NaRo, Pilon, TKEFNI, gabe1080x |
 | 2026-09-04 | Team Nyx | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.81 | 1.04 | 1.00 | 0.84 | 0.06 | 0.84 | +178.9 | Gab777, NaRo, RealOlmO, TKEFNI, gabe1080x |

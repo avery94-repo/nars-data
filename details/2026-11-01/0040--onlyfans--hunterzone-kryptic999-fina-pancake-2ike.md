@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Skyline | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.82 | 1.10 | 1.00 | 0.91 | 0.33 | 0.91 | +39.8 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-09-04 | goofball gaming | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.81 | 1.10 | 1.00 | 0.89 | 0.00 | 0.00 | -167.2 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-08-28 | Old Meta | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.84 | 0.11 | 0.84 | +161.5 | Hunterzone, Kryptic999, fina, pancake, xsj |
-| 2026-08-26 | 1NT | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.82 | 0.09 | 0.82 | +106.2 | Hunterzone, Kryptic999, fina, pancake, xsj |
+| 2026-08-26 | 1NT | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.75 | 1.10 | 1.00 | 0.82 | 0.09 | 0.82 | +106.3 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-08-21 | STFDYSAB | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.10 | 1.00 | 0.79 | 0.08 | 0.79 | +60.1 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-08-19 | penazoid | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.08 | 0.77 | +33.7 | Hunterzone, Kryptic999, fina, pancake, xsj |
 | 2026-08-14 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.67 | 1.10 | 1.00 | 0.74 | 0.08 | 0.74 | +223.1 | Hunterzone, Kryptic999, fina, pancake, xsj |

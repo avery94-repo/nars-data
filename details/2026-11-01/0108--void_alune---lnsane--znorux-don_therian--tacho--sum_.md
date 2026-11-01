@@ -48,8 +48,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Temple of Swing | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.10 | 1.00 | 0.69 | 0.05 | 0.69 | +7.2 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-08-05 | crescent | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.10 | 1.00 | 0.67 | 0.05 | 0.67 | +149.4 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-31 | WhalersOnDaMoon | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.10 | 1.00 | 0.63 | 0.07 | 0.63 | +233.2 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
-| 2026-07-29 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.00 | 0.00 | -129.5 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
-| 2026-07-26 | Appalachian Apes | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.54 | 1.00 | 1.00 | 0.54 | 0.03 | 0.54 | +137.9 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
+| 2026-07-29 | Binky | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.62 | 0.00 | 0.00 | -129.6 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
+| 2026-07-26 | Appalachian Apes | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.54 | 1.00 | 1.00 | 0.54 | 0.03 | 0.54 | +138.0 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-24 | gooshedd | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.58 | 0.00 | 0.00 | -187.4 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-22 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.00 | 0.00 | -374.5 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |
 | 2026-07-17 | Second Nature | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.53 | 0.02 | 0.53 | +9.9 | -Tacho-, -lnsane-, Don_therian, Znorux, sum_ke |

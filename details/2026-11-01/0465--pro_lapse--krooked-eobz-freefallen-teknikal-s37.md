@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-28 | Gregs New Cut | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.76 | 1.06 | 1.00 | 0.81 | 0.00 | 0.00 | -38.6 | Krooked, S37, diatomic_, freefallen, teknikal |
 | 2026-08-26 | NYX | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.06 | 1.00 | 0.79 | 0.00 | 0.00 | -57.1 | Krooked, S37, eobz, freefallen, teknikal |
-| 2026-08-21 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -90.3 | Krooked, S37, eobz, freefallen, teknikal |
+| 2026-08-21 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -90.4 | Krooked, S37, eobz, freefallen, teknikal |
 | 2026-08-19 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.06 | 0.74 | +93.2 | Krooked, S37, eobz, freefallen, teknikal |
 | 2026-08-14 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.05 | 0.71 | +44.3 | Krooked, S37, eobz, freefallen, teknikal |
 | 2026-08-07 | Tractors | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -87.4 | Krooked, S37, eobz, freefallen, teknikal |

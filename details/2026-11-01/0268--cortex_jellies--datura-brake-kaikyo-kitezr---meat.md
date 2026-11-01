@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Team Deathgrip | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +17.1 | --meat, Brake, Hamptr, Kaikyo, cricket- |
 | 2026-10-07 | 99 Thieves | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.10 | 1.04 | +135.7 | --meat, Brake, Hamptr, Kaikyo, cricket- |
 | 2026-09-10 | mokey mokey | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.85 | 1.05 | 1.00 | 0.90 | 0.00 | 0.00 | -101.7 | --meat, Brake, Kaikyo, cricket-, med |
-| 2026-09-05 | Drip or Drown | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.05 | 1.00 | 0.86 | 0.00 | 0.00 | -3.4 | --meat, Brake, Kaikyo, aratoshii, cricket- |
+| 2026-09-05 | Vlandian knigts | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.05 | 1.00 | 0.86 | 0.00 | 0.00 | -3.4 | --meat, Brake, Kaikyo, aratoshii, cricket- |
 | 2026-09-04 | Comeback Bandits | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.81 | 1.05 | 1.00 | 0.85 | 0.06 | 0.85 | +153.8 | --meat, Brake, Kaikyo, cricket-, med |
 | 2026-09-02 | UKY Blue | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.03 | 0.84 | +196.5 | --meat, Brake, Kaikyo, cricket-, med |
 | 2026-06-10 | FAT CHUDS BRO | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.24 | 1.00 | 1.00 | 0.24 | 0.00 | 0.00 | -201.2 | --meat, Brake, Datura, Kaikyo, cricket- |

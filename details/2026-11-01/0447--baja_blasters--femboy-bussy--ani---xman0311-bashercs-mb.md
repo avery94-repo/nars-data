@@ -43,9 +43,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-29 | Distinguished Ducks | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.16 | 1.02 | 1.00 | 0.16 | 0.01 | 0.16 | +103.2 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-05-27 | Abusement Park | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.14 | 1.02 | 1.00 | 0.15 | 0.01 | 0.15 | +20.8 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-05-22 | Akatsuki | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +0.4 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
-| 2026-05-20 | Real Hustle Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +199.2 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
+| 2026-05-20 | Real Hustle Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +199.3 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-05-15 | Kinetic | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.01 | 0.06 | +226.1 | -Ani--, BasherCS, Xman0311, femboy-bussy, mbyy_ |
 | 2026-05-13 | Duality Zero | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +12.6 | AlphaOwl, Wh1rlwind, Xman0311, femboy-bussy, mbyy_ |
-| 2026-05-08 | Square1 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +323.6 | AlphaOwl, Wh1rlwind, Xman0311, femboy-bussy, mbyy_ |
+| 2026-05-08 | Square1 | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +323.7 | AlphaOwl, Wh1rlwind, Xman0311, femboy-bussy, mbyy_ |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

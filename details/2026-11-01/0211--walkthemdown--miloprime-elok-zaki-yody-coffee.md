@@ -31,11 +31,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -85.0 | MiloPrime, Yody, Zaki, _Ajay, coffee |
 | 2026-08-19 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -60.9 | MiloPrime, Yody, Zaki, coffee, eLok |
 | 2026-08-14 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -69.9 | Mc-CooL, MiloPrime, Zaki, coffee, eLok |
-| 2026-08-12 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -74.4 | MiloPrime, Yody, Zaki, coffee, eLok |
+| 2026-08-12 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -74.5 | MiloPrime, Yody, Zaki, coffee, eLok |
 | 2026-08-07 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.04 | 0.62 | +236.1 | MiloPrime, Yody, Zaki, coffee, eLok |
 | 2026-08-01 | VeryBigDoogoos | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.02 | 0.58 | +356.4 | MiloPrime, Yody, Zaki, coffee, eLok |
 | 2026-07-24 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.04 | 0.53 | +357.9 | MiloPrime, Yody, Zaki, coffee, eLok |
-| 2026-07-15 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -274.6 | PRIMVL, Yody, Zaki, coffee, eLok |
+| 2026-07-15 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -274.7 | PRIMVL, Yody, Zaki, coffee, eLok |
 | 2026-05-31 | HiveMind | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.17 | 1.04 | 1.00 | 0.18 | 0.00 | 0.00 | -202.6 | MiloPrime, SNARKY_ADMIN, Yody, Zaki, eLok |
 | 2026-05-29 | Its a Secret | L | 0-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.16 | 1.04 | 1.00 | 0.16 | 0.00 | 0.00 | -337.2 | MiloPrime, SNARKY_ADMIN, Yody, Zaki, eLok |
 | 2026-05-27 | bravo six | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.14 | 1.04 | 1.00 | 0.15 | 0.00 | 0.15 | +164.5 | MiloPrime, SNARKY_ADMIN, Yody, Zaki, eLok |

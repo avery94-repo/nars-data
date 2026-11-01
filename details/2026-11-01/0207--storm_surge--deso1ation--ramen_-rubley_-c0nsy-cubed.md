@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-27 | SquishysAngels | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.14 | 1.25 | 1.00 | 0.18 | 0.00 | 0.00 | -248.6 | -Ramen_, Rubley_, c0nsy, cubed, deso1ation |
 | 2026-05-24 | Alcatraz Swim Team | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.13 | 1.13 | 1.00 | 0.14 | 0.00 | 0.14 | +0.0 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-22 | The Burger People | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.13 | 1.00 | 0.13 | 0.01 | 0.13 | +322.1 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
-| 2026-05-20 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.00 | 0.11 | +384.3 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
+| 2026-05-20 | duck crew | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.00 | 0.11 | +384.4 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-15 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.01 | 0.07 | +414.6 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-13 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.13 | 1.00 | 0.06 | 0.00 | 0.00 | -273.3 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |
 | 2026-05-08 | DESPAIR | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.13 | 1.00 | 0.02 | 0.00 | 0.00 | -261.5 | -Pun1sher--, -Ramen_, c0nsy, cubed, deso1ation |

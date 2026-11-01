@@ -28,7 +28,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-28 | NetanYAHOO | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -105.6 | Rage, Syn_MH, bellicose, hoydoy, jvw |
 | 2026-10-21 | drunk cigs dont count | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -111.1 | Rage, Syn_MH, bellicose, hoydoy, jvw |
 | 2026-10-16 | barry pickers | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-10-14 | Drip or Drown | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -92.5 | Rage, Syn_MH, bellicose, hoydoy, jvw |
+| 2026-10-14 | Vlandian knigts | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -92.5 | Rage, Syn_MH, bellicose, hoydoy, jvw |
 | 2026-10-09 | Eightball | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-07 | The ESEA Clout Tokens | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-09-06 | WhiteBoyWinter | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.05 | 1.00 | 0.87 | 0.06 | 0.87 | +145.8 | Rage, Syn_MH, Trown, hoydoy, kozume |

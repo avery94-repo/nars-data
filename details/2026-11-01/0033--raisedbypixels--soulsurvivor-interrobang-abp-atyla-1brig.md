@@ -3,11 +3,11 @@ Team Name: raisedbypixels
 Roster: soulsurvivor, Interrobang, abp, atyla, 1bright
 NARS Rank: 33 of 489
 
-Final Rating: 2032.4
+Final Rating: 2032.5
 Seeded Start: 1178.5
-H2H Adjustment: +853.9
+H2H Adjustment: +854.0
 
-Final Rating (2032.4) = Seeded Start (1178.5) + H2H Adjustment (+853.9)
+Final Rating (2032.5) = Seeded Start (1178.5) + H2H Adjustment (+854.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -34,6 +34,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-20 | House Platypus ESC | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.14 | 0.01 | 0.14 | +0.7 | 1bright, Interrobang, abp, atyla, soulsurvivor |
 | 2026-05-19 | EMPIRE | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.43 | 1.00 | 0.13 | 0.11 | 0.13 | +339.5 | 1bright, Interrobang, abp, atyla, soulsurvivor |
 | 2026-05-14 | Chicken Coop | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.43 | 1.00 | 0.08 | 0.00 | 0.00 | -0.7 | 1bright, Interrobang, abp, atyla, soulsurvivor |
-| 2026-05-12 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.43 | 1.00 | 0.06 | 0.01 | 0.06 | +369.6 | 1bright, Interrobang, abp, atyla, soulsurvivor |
+| 2026-05-12 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.43 | 1.00 | 0.06 | 0.01 | 0.06 | +369.7 | 1bright, Interrobang, abp, atyla, soulsurvivor |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

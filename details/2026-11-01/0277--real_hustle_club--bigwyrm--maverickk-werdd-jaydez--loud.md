@@ -36,7 +36,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.06 | 1.00 | 0.65 | 0.03 | 0.65 | +87.2 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-07-31 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.61 | 0.00 | 0.00 | -129.7 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-07-29 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.60 | 0.00 | 0.00 | -175.7 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
-| 2026-07-24 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.04 | 0.56 | +190.2 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
+| 2026-07-24 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.04 | 0.56 | +190.3 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-07-17 | The Homies | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.08 | 0.51 | +122.8 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-07-16 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.05 | 0.51 | +4.8 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-06-06 | TenToesDown | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.21 | 1.02 | 1.00 | 0.22 | 0.00 | 0.00 | -222.8 | -LOUD, -Maverickk, BIGwyrm, jaydez, moos |

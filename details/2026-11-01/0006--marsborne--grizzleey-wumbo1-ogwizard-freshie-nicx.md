@@ -53,7 +53,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-11 | Without a Roof | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.86 | 1.60 | 1.00 | 1.37 | 0.00 | 0.00 | -79.4 | core 3/5 |
 | 2026-09-10 | Without a Roof | L | 0-2 | NSTLGA League S2 \| Stage 3 Playoffs | B | faceit-tournament | 0.86 | 1.60 | 1.00 | 1.37 | 0.00 | 0.00 | -184.9 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-09-10 | Holy Squid Empire | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.85 | 1.57 | 1.00 | 1.34 | 0.22 | 1.34 | +0.8 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
-| 2026-09-10 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.85 | 1.60 | 1.00 | 1.36 | 0.00 | 0.00 | -80.5 | core 3/5 |
+| 2026-09-10 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.85 | 1.60 | 1.00 | 1.36 | 0.00 | 0.00 | -80.6 | core 3/5 |
 | 2026-09-10 | Olympus | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.85 | 1.60 | 1.00 | 1.36 | 0.82 | 0.00 | +0.9 | core 3/5 |
 | 2026-09-09 | Chicken Coop | W |  | VRS-tracked 2026-09 | A | vrs | 0.84 | 1.60 | 1.00 | 1.35 | 1.20 | 0.00 | +0.1 | core 3/5 |
 | 2026-09-06 | SportsBetExpert | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.83 | 1.60 | 1.00 | 1.32 | 0.00 | 0.00 | -78.7 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
@@ -94,7 +94,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.50 | 1.00 | 0.70 | 0.04 | 0.70 | +13.3 | Grizzleey, WUMBO1, freshie, nicx, ogwizard |
 | 2026-07-09 | regain | L | 1-2 | VRS-tracked 2026-07 | A | vrs | 0.43 | 1.60 | 1.00 | 0.69 | 0.00 | 0.00 | -348.2 | core 3/5 |
 | 2026-06-14 | Iowa Stormboar | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.42 | 0.30 | 0.42 | +110.6 | core 3/5 |
-| 2026-06-13 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.41 | 0.04 | 0.41 | +44.7 | core 3/5 |
+| 2026-06-13 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.26 | 1.60 | 1.00 | 0.41 | 0.04 | 0.41 | +44.8 | core 3/5 |
 | 2026-06-12 | Overtake Sector | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.25 | 1.60 | 1.00 | 0.40 | 0.40 | 0.00 | +23.0 | core 3/5 |
 | 2026-06-11 | NuTorious | W |  | VRS-tracked 2026-06 | A | vrs | 0.24 | 1.60 | 1.00 | 0.39 | 0.35 | 0.39 | +0.8 | core 3/5 |
 | 2026-05-31 | Chicken Coop | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.17 | 1.60 | 1.00 | 0.27 | 0.00 | 0.00 | -245.4 | core 3/5 |

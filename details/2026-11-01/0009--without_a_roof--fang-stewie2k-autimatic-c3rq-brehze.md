@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-10 | last dance | W | 2-1 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.11 | 1.60 | +0.0 | core 3/5 |
 | 2026-10-10 | Marsborne | L | 0-1 | FRAG University 2026 | A | hltv | 1.00 | 1.60 | 1.20 | 1.60 | 0.00 | 0.00 | -95.9 | core 3/5 |
 | 2026-10-08 | Marsborne | W | 3-2 | CROSSFIRE Season 6 | B | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 0.00 | +25.7 | core 3/5 |
-| 2026-10-07 | Overtake Sector | W | 2-1 | CROSSFIRE Season 6 | B | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 1.60 | +27.1 | core 3/5 |
+| 2026-10-07 | Overtake Sector | W | 2-1 | CROSSFIRE Season 6 | B | hltv | 1.00 | 1.60 | 1.00 | 1.60 | 1.60 | 1.60 | +27.0 | core 3/5 |
 | 2026-10-05 | LAG Gaming | W | 2-1 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.58 | 1.00 | 1.58 | 1.56 | 1.58 | +25.9 | Brehze, FaNg, Stewie2K, autimatic, c3rq |
 | 2026-10-02 | Olympus | W | 2-0 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 1.00 | 1.58 | 1.00 | 1.58 | 0.95 | 1.58 | +2.7 | Brehze, FaNg, Stewie2K, autimatic, c3rq |
 | 2026-09-27 | SportsBetExpert | W | 2-1 | VRS-tracked 2026-09 | A | vrs | 0.96 | 1.60 | 1.00 | 1.54 | 1.44 | 0.00 | +59.3 | core 3/5 |

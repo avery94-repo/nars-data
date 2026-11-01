@@ -4,14 +4,14 @@ Roster: Yakub, ciisco-, J4kenator, Costerfunk, khvostov
 NARS Rank: 198 of 489
 
 Final Rating: 1468.3
-Seeded Start: 1409.9
-H2H Adjustment: +58.4
+Seeded Start: 1409.8
+H2H Adjustment: +58.5
 
-Final Rating (1468.3) = Seeded Start (1409.9) + H2H Adjustment (+58.4)
+Final Rating (1468.3) = Seeded Start (1409.8) + H2H Adjustment (+58.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.221 x 1400 = 1409.9
+                = 1100 + 0.221 x 1400 = 1409.8
 
 seed_factor 0.221 = 0.25 x Tier Exposure (0.218) + 0.50 x Quality Wins (0.086) + 0.25 x Opponent Network (0.495)
 

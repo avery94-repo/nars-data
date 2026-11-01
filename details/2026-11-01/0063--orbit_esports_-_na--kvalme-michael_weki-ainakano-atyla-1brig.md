@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | FlyQuest RED | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.84 | 1.44 | 1.00 | 1.21 | 0.50 | 1.21 | +122.2 | 1colin, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-07 | Wolves | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.83 | 1.44 | 1.00 | 1.20 | 0.18 | 1.20 | +110.2 | 1colin, Michael_Weki, SeRCEra, atyla, kvalme |
 | 2026-09-05 | Demolition | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.82 | 1.44 | 1.00 | 1.18 | 0.17 | 1.18 | +67.0 | 1colin, Michael_Weki, SeRCEra, atyla, kvalme |
-| 2026-08-23 | Entertainment Cheese | L | W/O | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.74 | 1.37 | 1.00 | 1.01 | 0.00 | 0.00 | -151.1 | 1bright, 1colin, Michael_Weki, atyla, kvalme |
+| 2026-08-23 | Entertainment Cheese | L | W/O | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.74 | 1.37 | 1.00 | 1.01 | 0.00 | 0.00 | -151.2 | 1bright, 1colin, Michael_Weki, atyla, kvalme |
 | 2026-08-23 | Elusive | L | W/O | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.74 | 1.37 | 1.00 | 1.01 | 0.00 | 0.00 | -84.7 | 1bright, 1colin, Michael_Weki, atyla, kvalme |
 | 2026-08-23 | Olympus | L | W/O | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.74 | 1.37 | 1.00 | 1.01 | 0.00 | 0.00 | -0.8 | 1bright, 1colin, Michael_Weki, atyla, kvalme |
 | 2026-08-23 | ThirdSite | L | W/O | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.74 | 1.37 | 1.00 | 1.01 | 0.00 | 0.00 | -202.6 | 1bright, 1colin, Michael_Weki, atyla, kvalme |

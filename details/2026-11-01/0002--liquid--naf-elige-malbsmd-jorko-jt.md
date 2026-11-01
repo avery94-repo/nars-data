@@ -61,7 +61,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-30 | Spirit | L |  | VRS-tracked 2026-07 | A | vrs | 0.57 | 1.60 | 1.00 | 0.91 | 0.00 | 0.00 | -159.6 | core 3/5 |
 | 2026-07-25 | G2 | W |  | VRS-tracked 2026-07 | A | vrs | 0.54 | 1.60 | 1.00 | 0.86 | 1.29 | 0.00 | +335.9 | core 3/5 |
 | 2026-07-24 | Vitality | W |  | VRS-tracked 2026-07 | A | vrs | 0.53 | 1.60 | 1.00 | 0.85 | 1.27 | 0.00 | +643.2 | core 3/5 |
-| 2026-06-05 | FlyQuest | L |  | VRS-tracked 2026-06 | A | vrs | 0.20 | 1.60 | 1.00 | 0.33 | 0.00 | 0.00 | -529.9 | core 3/5 |
+| 2026-06-05 | FlyQuest | L |  | VRS-tracked 2026-06 | A | vrs | 0.20 | 1.60 | 1.00 | 0.33 | 0.00 | 0.00 | -530.0 | core 3/5 |
 | 2026-06-04 | HEROIC | W |  | VRS-tracked 2026-06 | A | vrs | 0.20 | 1.60 | 1.00 | 0.32 | 0.47 | 0.00 | +568.3 | core 3/5 |
 | 2026-06-03 | MIBR | L |  | VRS-tracked 2026-06 | A | vrs | 0.19 | 1.60 | 1.00 | 0.30 | 0.00 | 0.00 | -28.5 | core 3/5 |
 | 2026-06-02 | BETBOOM | L |  | VRS-tracked 2026-06 | A | vrs | 0.18 | 1.60 | 1.00 | 0.29 | 0.00 | 0.00 | -32.7 | core 3/5 |

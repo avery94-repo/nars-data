@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -70.0 | Chefig, MAced, SoIaris, taoish, tristanNC |
 | 2026-08-05 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +79.6 | Chefig, SoIaris, StaticBubble, tristanNC, wKING |
 | 2026-07-31 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -219.5 | MrMyers, StaticBubble, taoish, tristanNC, wKING |
-| 2026-07-22 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -217.6 | Chefig, MrMyers, SoIaris, taoish, tristanNC |
+| 2026-07-22 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -217.7 | Chefig, MrMyers, SoIaris, taoish, tristanNC |
 | 2026-07-17 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.05 | 0.48 | +129.1 | Chefig, MrMyers, StaticBubble, tristanNC, wKING |
 | 2026-07-15 | wabbit2 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.01 | 0.47 | +63.6 | Chefig, SoIaris, taoish, tristanNC, wKING |
 | 2026-06-07 | In Our Prime | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -150.1 | Chefig, MrMyers, SoIaris, elec, wKING |

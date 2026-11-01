@@ -39,10 +39,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-02 | US Navy Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.18 | 1.02 | 1.00 | 0.19 | 0.00 | 0.00 | -176.7 | --BONG--, 1webito, Vassoio, dr3w, museifu, stormK |
 | 2026-05-29 | Endless Esports | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.16 | 1.02 | 1.00 | 0.16 | 0.00 | 0.00 | -4.7 | --BONG--, 1webito, Vassoio, dr3w, stormK |
 | 2026-05-27 | Schadenfreude | W | 2-1 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.14 | 1.02 | 1.00 | 0.15 | 0.01 | 0.15 | +382.3 | --BONG--, 1webito, Vassoio, dr3w, stormK |
-| 2026-05-19 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -13.6 | -piG0d, 1webito, Vassoio, dr3w, stormK |
+| 2026-05-19 | Meepins | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -13.5 | -piG0d, 1webito, Vassoio, dr3w, stormK |
 | 2026-05-15 | HammerHeads | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -397.9 | -piG0d, 1webito, Vassoio, dr3w, stormK |
 | 2026-05-13 | STFDYSAB | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.01 | 0.05 | +379.5 | -piG0d, 1webito, Vassoio, dr3w, stormK |
-| 2026-05-08 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -323.6 | --BONG--, 1webito, Vassoio, dr3w, stormK |
+| 2026-05-08 | Baja Blasters | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -323.7 | --BONG--, 1webito, Vassoio, dr3w, stormK |
 | 2026-05-06 | Wide Swinging Wizards | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +252.5 | --BONG--, 1webito, Vassoio, dr3w, stormK |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

@@ -32,6 +32,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-05-15 | DownTown | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -336.6 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
 | 2026-05-13 | Aetheris | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +217.3 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
 | 2026-05-08 | Potential to Stack Dough | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +111.9 | AIDAN_, CJsInferno, PG37, Verzuh, c1n |
-| 2026-05-06 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +228.9 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
+| 2026-05-06 | Dapper North | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +229.0 | AIDAN_, CJsInferno, PG37, Verzuh, kerflompnatr |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

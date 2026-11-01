@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | DUMBO | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.18 | 1.50 | +164.7 | EthanolOG, Mega, Pewster, S5J, Xkingsly |
 | 2026-10-15 | Shimmer | W | W/O | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-08 | Holy Squid Empire | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.24 | 1.50 | +198.2 | EthanolOG, Mega, Pewster, S5J, Xkingsly |
-| 2026-08-25 | New Legends | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.50 | 1.00 | 1.12 | 0.00 | 0.00 | -2.3 | EthanolOG, Mega, S5J, Xkingsly, aegis |
+| 2026-08-25 | New Legends | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.50 | 1.00 | 1.12 | 0.00 | 0.00 | -2.3 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-08-14 | Holly Molly | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.50 | 1.00 | 1.01 | 0.00 | 0.00 | -40.7 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-08-14 | 027fam | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.50 | 1.00 | 1.00 | 0.00 | 0.00 | -67.6 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-08-12 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.50 | 1.00 | 0.98 | 0.20 | 0.98 | +96.0 | EthanolOG, Mega, S5J, Xkingsly, aegis |
@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | NineFly Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.50 | 1.00 | 0.84 | 0.12 | 0.84 | +152.2 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-07-24 | dice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.50 | 1.00 | 0.80 | 0.12 | 0.80 | +458.6 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-07-22 | NXG Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.78 | 0.00 | 0.00 | -0.1 | EthanolOG, Mega, S5J, Xkingsly, aegis |
-| 2026-07-22 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.78 | 0.00 | 0.00 | -0.1 | EthanolOG, Mega, S5J, Xkingsly, aegis |
+| 2026-07-22 | unreal nightmare | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.77 | 0.00 | 0.00 | -0.1 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-07-21 | FlyQuest RED | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.51 | 1.50 | 1.00 | 0.77 | 0.00 | 0.00 | -10.7 | EthanolOG, Mega, S5J, Xkingsly, aegis |
 | 2026-05-20 | Iowa Stormboar | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.14 | 0.00 | 0.00 | -0.1 | 1barry-, 1wiz, Mega, Xkingsly, aegis |
 | 2026-05-19 | Beyond Limits | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.43 | 1.00 | 0.13 | 0.00 | 0.00 | -278.9 | 1barry-, 1wiz, Mega, Xkingsly, aegis |

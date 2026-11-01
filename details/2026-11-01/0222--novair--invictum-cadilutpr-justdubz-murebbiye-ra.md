@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | ABG Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.08 | 0.67 | +163.6 | CadiLutPR, MANITOOKE-A-, Raykon, invictum, sek- |
 | 2026-08-12 | The Ohio Meat Wagon | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -35.9 | CadiLutPR, JustDubz, Raxsew, Raykon, murebbiye |
 | 2026-08-07 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -266.8 | CadiLutPR, MANITOOKE-A-, invictum, murebbiye, sek- |
-| 2026-08-05 | JPG | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +237.9 | CadiLutPR, Raxsew, Raykon, invictum, sek- |
+| 2026-08-05 | JPG | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +238.0 | CadiLutPR, Raxsew, Raykon, invictum, sek- |
 | 2026-07-31 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +3.9 | B1AZERj, CadiLutPR, MANITOOKE-A-, invictum, murebbiye |
 | 2026-07-29 | Flow Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.06 | 0.56 | +126.8 | B1AZERj, CadiLutPR, JustDubz, Raxsew, murebbiye |
 | 2026-07-24 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -131.6 | B1AZERj, JustDubz, Raykon, murebbiye, sek- |
@@ -43,7 +43,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-15 | Kushtaka | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.01 | 0.47 | +1.5 | B1AZERj, CadiLutPR, Raxsew, Raykon, murebbiye |
 | 2026-06-07 | Diamond Mental | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.00 | 0.00 | -324.9 | CadiLutPR, Egoist_z, Harfen, JustDubz, Raykon |
 | 2026-06-03 | Saltcrew | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.02 | 0.19 | +147.5 | CadiLutPR, Egoist_z, Harfen, JustDubz, Raxsew, invictum |
-| 2026-05-29 | Famas OP | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +342.8 | Egoist_z, Harfen, JustDubz, Raykon, invictum, murebbiye |
+| 2026-05-29 | Famas OP | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +342.9 | Egoist_z, Harfen, JustDubz, Raykon, invictum, murebbiye |
 | 2026-05-27 | Solbound | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +415.5 | CadiLutPR, Egoist_z, JustDubz, invictum, murebbiye |
 | 2026-05-20 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -164.0 | CadiLutPR, Harfen, Raykon, invictum, murebbiye |
 | 2026-05-13 | WaterDrinkers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.01 | 0.05 | +341.2 | CadiLutPR, JustDubz, Raxsew, invictum, murebbiye |

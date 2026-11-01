@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -64.1 | Vulcanium, _bad, huskmane, k-o-L, zed0K |
 | 2026-08-12 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.02 | 0.66 | +53.9 | Karrato, Vulcanium, _bad, k-o-L, zed0K |
 | 2026-08-07 | redtyfguhoj | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -107.4 | CripserOG, Karrato, _bad, k-o-L, zed0K |
-| 2026-07-31 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +261.0 | Karrato, Vulcanium, _bad, k-o-L, zed0K |
+| 2026-07-31 | Team TahMeow | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +261.1 | Karrato, Vulcanium, _bad, k-o-L, zed0K |
 | 2026-07-29 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -28.8 | Karrato, _bad, huskmane, k-o-L, zed0K |
 | 2026-07-24 | on disability | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -13.7 | CripserOG, Vulcanium, _bad, huskmane, zed0K |
 | 2026-07-17 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -2.7 | Vulcanium, _bad, huskmane, k-o-L, zed0K |

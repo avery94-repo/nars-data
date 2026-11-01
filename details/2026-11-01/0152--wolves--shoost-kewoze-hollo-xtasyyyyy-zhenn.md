@@ -35,7 +35,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-27 | Omen Esports | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.76 | 1.37 | 1.00 | 1.04 | 0.00 | 0.00 | -139.1 | Hollo, Margod, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-26 | Asoka | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.75 | 1.06 | 1.00 | 0.79 | 0.15 | 0.79 | +53.6 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-20 | Desi Boyz | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.71 | 1.37 | 1.00 | 0.97 | 0.00 | 0.00 | -25.1 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
-| 2026-08-20 | my life be like | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.71 | 1.37 | 1.00 | 0.97 | 0.00 | 0.00 | -149.1 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
+| 2026-08-20 | my life be like | L | 0-1 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.71 | 1.37 | 1.00 | 0.97 | 0.00 | 0.00 | -149.2 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-19 | Skyline | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.27 | 0.74 | +101.3 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-14 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -10.9 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |
 | 2026-08-13 | AURA Esports | W | 1-0 | NSTLGA League \| Sapphire Conference | B | faceit-tournament | 0.66 | 1.37 | 1.00 | 0.91 | 0.10 | 0.91 | +0.7 | Hollo, KeWOZe, XtaSyyyyy, Zhenn, shoosT |

@@ -41,10 +41,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.53 | 0.00 | 0.00 | -225.1 | LucidiT, Wangaroo, Yungin, adrjac, senior |
 | 2026-07-15 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.10 | 1.00 | 0.52 | 0.00 | 0.00 | -260.1 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-06-07 | NOVAIR | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.22 | 1.00 | 1.00 | 0.22 | 0.01 | 0.22 | +322.8 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
-| 2026-06-05 | WaterDrinkers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.02 | 0.21 | +301.9 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
+| 2026-06-05 | WaterDrinkers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.21 | 1.00 | 1.00 | 0.21 | 0.02 | 0.21 | +302.0 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-05-29 | Feels MAIN Man | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -142.8 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
 | 2026-05-27 | Strafe | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.02 | 0.14 | +20.8 | LucidiT, Wangaroo, Yungin, ZerO_Q, senior |
-| 2026-05-23 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.00 | 1.00 | 0.12 | 0.00 | 0.12 | +213.3 | 1bryan, LucidiT, Wangaroo, Yungin, ZerO_Q, adrjac, senior |
+| 2026-05-23 | Iron Horse | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.00 | 1.00 | 0.12 | 0.00 | 0.12 | +213.4 | 1bryan, LucidiT, Wangaroo, Yungin, ZerO_Q, adrjac, senior |
 | 2026-05-22 | Wide Swinging Wizards | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -200.2 | 1bryan, LucidiT, Wangaroo, Yungin, ZerO_Q |
 | 2026-05-15 | FourStrokeGang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.06 | +205.8 | 1bryan, LucidiT, Wangaroo, Yungin, adrjac |
 | 2026-05-13 | Kushtaka | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -400.8 | LucidiT, Wangaroo, Yungin, adrjac, senior |

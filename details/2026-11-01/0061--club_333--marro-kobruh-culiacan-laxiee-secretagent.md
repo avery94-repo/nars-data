@@ -81,7 +81,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-04 | Desi Boyz | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.20 | 1.55 | 1.00 | 0.31 | 0.25 | 0.00 | +17.0 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
 | 2026-05-20 | Iowa Stormboar | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.14 | 0.10 | 0.14 | +5.8 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
 | 2026-05-19 | LAG Gaming | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.43 | 1.00 | 0.13 | 0.13 | 0.13 | +323.5 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
-| 2026-05-14 | Villainous | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.43 | 1.00 | 0.08 | 0.07 | 0.00 | +243.8 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
+| 2026-05-14 | Villainous | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.43 | 1.00 | 0.08 | 0.07 | 0.00 | +243.9 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
 | 2026-05-13 | Wanted Goons | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.43 | 1.00 | 0.07 | 0.00 | 0.00 | -13.6 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
 | 2026-05-12 | unreal nightmare | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.43 | 1.00 | 0.06 | 0.04 | 0.06 | +22.2 | -TAYLOR, Marro, SecretAgent, kobruh, laxiee |
 

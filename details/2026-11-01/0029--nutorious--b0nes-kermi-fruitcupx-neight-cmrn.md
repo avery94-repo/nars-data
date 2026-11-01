@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-28 | Wanted Goons | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -68.9 | Maze, b0nes, cmrn, kermi, neight |
 | 2026-10-22 | Fathom Gaming | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.53 | 1.50 | +15.9 | Maze, b0nes, cmrn, kermi, neight |
 | 2026-10-16 | Diggers | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -209.8 | cmrn, ditt77, kermi, neight, vin33 |
-| 2026-10-14 | Skyline | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.55 | 1.50 | +58.6 | cmrn, ditt77, kermi, neight, vin33 |
+| 2026-10-14 | Skyline | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.55 | 1.50 | +58.7 | cmrn, ditt77, kermi, neight, vin33 |
 | 2026-10-09 | NZ Gaming | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.15 | 1.50 | +146.9 | b0nes, cmrn, kermi, neight, vin33 |
 | 2026-09-24 | Villainous | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -55.0 | core 3/5 |
 | 2026-09-23 | OVERKNIGHT | W |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.50 | 1.12 | 0.00 | +27.5 | core 3/5 |
@@ -46,7 +46,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-06 | Axial | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.83 | 1.60 | 1.00 | 1.33 | 0.67 | 1.33 | +20.5 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-09-06 | Chicken Coop | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.83 | 1.60 | 1.00 | 1.32 | 0.00 | 0.00 | -43.0 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-09-05 | Beyond Limits | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.82 | 1.60 | 1.00 | 1.31 | 0.00 | 0.00 | -13.3 | Fruitcupx, b0nes, cmrn, kermi, neight |
-| 2026-09-05 | regain | L | 1-2 | VRS-tracked 2026-09 | A | vrs | 0.82 | 1.60 | 1.00 | 1.31 | 0.00 | 0.00 | -102.5 | core 3/5 |
+| 2026-09-05 | regain | L | 1-2 | VRS-tracked 2026-09 | A | vrs | 0.82 | 1.60 | 1.00 | 1.31 | 0.00 | 0.00 | -102.6 | core 3/5 |
 | 2026-09-04 | DETONATE | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.81 | 1.60 | 1.00 | 1.30 | 0.00 | 0.00 | -40.0 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-09-04 | Beyond Limits | L | 0-1 | VRS-tracked 2026-09 | A | vrs | 0.81 | 1.60 | 1.00 | 1.30 | 0.00 | 0.00 | -26.7 | core 3/5 |
 | 2026-09-03 | FlyQuest RED | W | 2-0 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.80 | 1.57 | 1.00 | 1.27 | 0.53 | 1.27 | +29.0 | Fruitcupx, b0nes, cmrn, kermi, neight |
@@ -55,7 +55,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-29 | unreal nightmare | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.77 | 1.60 | 1.00 | 1.23 | 0.85 | 0.00 | +6.7 | core 3/5 |
 | 2026-08-29 | SportsBetExpert | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.77 | 1.60 | 1.00 | 1.23 | 0.00 | 0.00 | -4.1 | core 3/5 |
 | 2026-08-29 | Wanted Goons | L | 0-1 | VRS-tracked 2026-08 | A | vrs | 0.77 | 1.60 | 1.00 | 1.23 | 0.00 | 0.00 | -91.6 | core 3/5 |
-| 2026-08-27 | Elusive | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.76 | 1.60 | 1.00 | 1.21 | 0.00 | 0.00 | -115.9 | core 3/5 |
+| 2026-08-27 | Elusive | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.76 | 1.60 | 1.00 | 1.21 | 0.00 | 0.00 | -116.0 | core 3/5 |
 | 2026-08-26 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.50 | 1.00 | 1.12 | 0.18 | 1.12 | +7.9 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-08-26 | Overtake Sector | L | 1-2 | VRS-tracked 2026-08 | A | vrs | 0.75 | 1.60 | 1.00 | 1.20 | 0.00 | 0.00 | -91.4 | core 3/5 |
 | 2026-08-25 | DETONATE | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.74 | 1.60 | 1.00 | 1.19 | 1.19 | 1.19 | +32.6 | core 3/5 |
@@ -67,10 +67,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | North Forge | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.50 | 1.00 | 1.00 | 0.27 | 1.00 | +83.3 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-08-05 | regain | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.50 | 1.00 | 0.91 | 0.00 | 0.00 | -76.5 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-08-03 | F5 Esports | W | 2-1 | SoFlo Slam 2 | C | faceit-tournament | 0.60 | 1.12 | 1.00 | 0.67 | 0.16 | 0.67 | +135.3 | Fruitcupx, b0nes, cmrn, kermi, neight |
-| 2026-08-01 | Drip or Drown | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.59 | 1.12 | 1.00 | 0.66 | 0.09 | 0.66 | +3.9 | Fruitcupx, b0nes, cmrn, kermi, neight |
+| 2026-08-01 | Vlandian knigts | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.59 | 1.12 | 1.00 | 0.66 | 0.09 | 0.66 | +3.9 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-08-01 | YHTR | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.59 | 1.12 | 1.00 | 0.66 | 0.09 | 0.66 | +3.0 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-08-01 | Unquenchable | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.59 | 1.12 | 1.00 | 0.66 | 0.02 | 0.66 | +0.1 | Fruitcupx, b0nes, cmrn, kermi, neight |
-| 2026-07-24 | Playing for fun | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.50 | 1.00 | 0.80 | 0.00 | 0.00 | -78.9 | Fruitcupx, b0nes, cmrn, kermi, neight |
+| 2026-07-24 | Playing for fun | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.50 | 1.00 | 0.79 | 0.00 | 0.00 | -78.9 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-07-22 | NXG Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.78 | 0.12 | 0.78 | +117.6 | Fruitcupx, b0nes, cmrn, kermi, neight |
 | 2026-07-12 | NRG | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.00 | 0.00 | -0.9 | core 3/5 |
 | 2026-07-12 | SEOUL | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.45 | 1.60 | 1.00 | 0.72 | 0.54 | 0.00 | +414.4 | core 3/5 |

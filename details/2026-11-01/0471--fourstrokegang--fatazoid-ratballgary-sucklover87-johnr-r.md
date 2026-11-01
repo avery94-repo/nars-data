@@ -3,11 +3,11 @@ Team Name: FourStrokeGang
 Roster: fatazoid, ratballgary, Sucklover87, JOHNR, rrexof
 NARS Rank: 471 of 489
 
-Final Rating: 737.5
+Final Rating: 737.4
 Seeded Start: 1187.4
-H2H Adjustment: -449.9
+H2H Adjustment: -450.0 (capped at +-300, raw -449.9)
 
-Final Rating (737.5) = Seeded Start (1187.4) + H2H Adjustment (-449.9)
+Final Rating (737.4) = Seeded Start (1187.4) + H2H Adjustment (-450.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

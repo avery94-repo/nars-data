@@ -38,12 +38,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-14 | babaG | W |  | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.88 | 1.58 | 1.00 | 1.39 | 0.55 | 1.39 | +88.9 | Fawx, Shakezullah, bibiahn, emy, vanessa |
 | 2026-09-14 | babaG | L | 1-2 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 0.88 | 1.57 | 1.00 | 1.38 | 0.00 | 0.00 | -10.1 | Fawx, Shakezullah, bibiahn, emy, vanessa |
 | 2026-09-11 | Wolves | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.86 | 1.44 | 1.00 | 1.24 | 0.19 | 1.24 | +44.1 | Fawx, Shakezullah, bibiahn, emy, vanessa |
-| 2026-09-08 | F5 Esports | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.84 | 1.44 | 1.00 | 1.21 | 0.00 | 0.00 | -114.9 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
+| 2026-09-08 | F5 Esports | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.84 | 1.44 | 1.00 | 1.21 | 0.00 | 0.00 | -115.0 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-09-05 | Overtake Sector | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.82 | 1.57 | 1.00 | 1.29 | 0.00 | 0.00 | -1.4 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-09-03 | NuTorious | L | 0-2 | S58 NA Advanced Central - Playoffs | A | faceit-league | 0.80 | 1.57 | 1.00 | 1.27 | 0.00 | 0.00 | -29.6 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-09-02 | Demolition | W | 2-0 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.80 | 1.44 | 1.00 | 1.15 | 0.17 | 0.00 | +1.5 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-08-28 | Zomblers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.50 | 1.00 | 1.14 | 0.00 | 0.00 | -4.3 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
-| 2026-08-26 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.50 | 1.00 | 1.12 | 0.00 | 0.00 | -27.0 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
+| 2026-08-26 | Desi Boyz | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.50 | 1.00 | 1.12 | 0.00 | 0.00 | -27.1 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-08-21 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.50 | 1.00 | 1.07 | 0.12 | 1.07 | +45.4 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-08-14 | Wanted Goons | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.50 | 1.00 | 1.00 | 0.98 | 1.00 | +120.5 | Fawx, bibiahn, emy, horsegirlxx, vanessa |
 | 2026-08-12 | Slimy Boogermen | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.50 | 1.00 | 0.98 | 0.16 | 0.98 | +131.7 | Fawx, bibiahn, emy, horsegirlxx, vanessa |

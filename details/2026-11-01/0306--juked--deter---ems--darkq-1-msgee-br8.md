@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | enigma | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -109.5 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-08-19 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.00 | 0.00 | -153.1 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-08-13 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.18 | 0.70 | +112.5 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
-| 2026-08-12 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.05 | 0.70 | +225.3 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
+| 2026-08-12 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.05 | 0.70 | +225.4 | -ems-, BR8, DARKQ-1, DETER-, eyeMSG |
 | 2026-08-07 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -142.7 | -ems-, DARKQ-1, DETER-, Juant0n1o, eyeMSG |
 | 2026-08-05 | Distinguished Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.06 | 1.00 | 0.65 | 0.05 | 0.65 | +149.6 | -ems-, DARKQ-1, DETER-, Juant0n1o, eyeMSG |
 | 2026-07-31 | SNOWPLOWERS | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.61 | 0.02 | 0.61 | +121.6 | -ems-, DARKQ-1, DETER-, Juant0n1o, eyeMSG |

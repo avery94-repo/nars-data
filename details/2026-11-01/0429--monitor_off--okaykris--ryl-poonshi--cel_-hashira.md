@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | D1NK Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -0.7 | -RYL, -cel_, AMSmooth, HASHIRA, OkayKris |
 | 2026-07-15 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -155.2 | -RYL, -cel_, HASHIRA, OkayKris, Poonshi |
 | 2026-05-27 | strawberry poptarts | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -135.2 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
-| 2026-05-22 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -212.9 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
+| 2026-05-22 | Exnitas | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -213.0 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 | 2026-05-08 | SwagMonkeyHats | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +173.7 | -RYL, -cel_, BananaFishCS, OkayKris, Poonshi |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

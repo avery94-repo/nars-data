@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -98.1 | -chb, LandoOG, MrJFaTaL, emper0r0, ziett |
 | 2026-08-26 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.05 | 0.75 | +107.8 | -chb, LandoOG, MrJFaTaL, emper0r0, ziett |
 | 2026-08-21 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -1.5 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
-| 2026-08-19 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -117.2 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
+| 2026-08-19 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -117.3 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
 | 2026-08-12 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.04 | 0.66 | +2.8 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 | 2026-08-07 | Mach 10 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.04 | 0.62 | +133.1 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
 | 2026-08-05 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.06 | 0.61 | +253.9 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |

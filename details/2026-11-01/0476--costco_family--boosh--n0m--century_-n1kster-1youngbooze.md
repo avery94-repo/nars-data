@@ -4,14 +4,14 @@ Roster: boosh, -N0M-, Century_, n1kster, 1YoungBoozer
 NARS Rank: 476 of 489
 
 Final Rating: 680.0
-Seeded Start: 1254.5
-H2H Adjustment: -574.5 (capped at +-300, raw -574.4)
+Seeded Start: 1254.4
+H2H Adjustment: -574.4
 
-Final Rating (680.0) = Seeded Start (1254.5) + H2H Adjustment (-574.5)
+Final Rating (680.0) = Seeded Start (1254.4) + H2H Adjustment (-574.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.110 x 1400 = 1254.5
+                = 1100 + 0.110 x 1400 = 1254.4
 
 seed_factor 0.110 = 0.25 x Tier Exposure (0.104) + 0.50 x Quality Wins (0.018) + 0.25 x Opponent Network (0.301)
 

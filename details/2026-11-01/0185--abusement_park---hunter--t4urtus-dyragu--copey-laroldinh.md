@@ -32,14 +32,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Hack-A-Shaq | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.03 | 0.74 | +83.6 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-08-14 | No Leaders Please | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -228.4 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-08-07 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -168.8 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
-| 2026-08-05 | mas paspas | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.06 | 1.00 | 0.65 | 0.11 | 0.65 | +132.2 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
+| 2026-08-05 | mas paspas | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.06 | 1.00 | 0.65 | 0.11 | 0.65 | +132.3 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-31 | THE GUILD | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.61 | 0.04 | 0.61 | +2.2 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-29 | REPORT MASSIVE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.60 | 0.02 | 0.60 | +115.5 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-23 | FLOW STATE | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.12 | 0.55 | +48.7 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-22 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.00 | 0.00 | -7.6 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-17 | Kairo | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.00 | 0.00 | -217.1 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
 | 2026-07-15 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.06 | 1.00 | 0.50 | 0.02 | 0.50 | +145.8 | -HuNTeR-, -copey, LaRoLdInHo, dyragu, t4urtus |
-| 2026-06-06 | STFDYSAB | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.21 | 1.02 | 1.00 | 0.22 | 0.00 | 0.00 | -213.3 | -HuNTeR-, -copey, GordiBoi, dyragu, t4urtus |
+| 2026-06-06 | STFDYSAB | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.21 | 1.02 | 1.00 | 0.22 | 0.00 | 0.00 | -213.4 | -HuNTeR-, -copey, GordiBoi, dyragu, t4urtus |
 | 2026-06-04 | Hairy Scary Bandits | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.20 | 1.02 | 1.00 | 0.20 | 0.03 | 0.20 | +186.2 | -HuNTeR-, -copey, GordiBoi, _37, dyragu |
 | 2026-05-31 | Full White | W | 2-0 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.01 | 0.17 | +83.3 | -HuNTeR-, -copey, GordiBoi, dyragu, t4urtus |
 | 2026-05-27 | Baja Blasters | L | 1-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.14 | 1.02 | 1.00 | 0.15 | 0.00 | 0.00 | -20.9 | -HuNTeR-, -copey, GordiBoi, dyragu, t4urtus |

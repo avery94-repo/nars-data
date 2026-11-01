@@ -41,7 +41,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | MakeYouSayLate | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -194.0 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-07-31 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.08 | 0.58 | +57.8 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-07-29 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -4.7 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
-| 2026-07-24 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -14.3 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
+| 2026-07-24 | MadaNASCAR | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -14.2 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-07-22 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -252.0 | GetGunked, Ghosterize, Tokar, cowboy-, sveninaden |
 | 2026-07-15 | Kings Gambit | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.05 | 0.47 | +415.7 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |
 | 2026-05-29 | The Sweepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -138.9 | GetGunked, Tokar, _Dank-, cowboy-, sveninaden |

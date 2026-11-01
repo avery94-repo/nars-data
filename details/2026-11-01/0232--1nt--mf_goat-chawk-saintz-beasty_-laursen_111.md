@@ -48,7 +48,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.53 | 0.04 | 0.53 | +375.8 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-07-15 | Old Meta | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.10 | 1.00 | 0.52 | 0.00 | 0.00 | -76.1 | Beasty_, Chawk, LAURSEN_111, Saintz, mf_goat |
 | 2026-05-22 | goofball gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.13 | 1.00 | 0.13 | 0.00 | 0.00 | -7.1 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |
-| 2026-05-20 | Aers Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.00 | 0.00 | -386.8 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |
+| 2026-05-20 | Aers Money Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.00 | 0.00 | -386.9 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |
 | 2026-05-15 | onliners | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.07 | +213.7 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |
 | 2026-05-13 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.13 | 1.00 | 0.06 | 0.00 | 0.06 | +168.7 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |
 | 2026-05-07 | Macs Snacks | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.13 | 1.00 | 0.01 | 0.00 | 0.00 | -21.5 | Beasty_, Chawk, LAURSEN_111, mf_goat, xRezzah |

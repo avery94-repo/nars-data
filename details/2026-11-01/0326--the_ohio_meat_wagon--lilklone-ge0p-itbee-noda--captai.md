@@ -3,11 +3,11 @@ Team Name: The Ohio Meat Wagon
 Roster: lilklone, ge0p, itBee, Noda-, captai
 NARS Rank: 326 of 489
 
-Final Rating: 1218.0
+Final Rating: 1217.9
 Seeded Start: 1243.8
-H2H Adjustment: -25.8
+H2H Adjustment: -25.9
 
-Final Rating (1218.0) = Seeded Start (1243.8) + H2H Adjustment (-25.8)
+Final Rating (1217.9) = Seeded Start (1243.8) + H2H Adjustment (-25.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Big Fish | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.08 | 0.76 | +84.4 | captai, ge0p, itBee, lilklone, solflame |
 | 2026-08-21 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -80.1 | Noda-, captai, ge0p, itBee, solflame |
 | 2026-08-14 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -79.5 | Noda-, captai, ge0p, itBee, solflame |
-| 2026-08-13 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -135.3 | Noda-, captai, ge0p, itBee, solflame |
+| 2026-08-13 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -135.4 | Noda-, captai, ge0p, itBee, solflame |
 | 2026-08-12 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.05 | 0.66 | +36.0 | Noda-, captai, ge0p, itBee, solflame |
 | 2026-08-07 | VeryBigDoogoos | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.02 | 0.62 | +85.3 | Noda-, captai, ge0p, itBee, solflame |
 | 2026-08-06 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.07 | 0.62 | +29.3 | Noda-, captai, ge0p, itBee, lilklone |

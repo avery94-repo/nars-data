@@ -40,6 +40,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-17 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.03 | 0.48 | +2.9 | Kazami-, Monochrome, Raider, Yugomar, kalani |
 | 2026-07-15 | Sound of Arthritis | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.03 | 0.47 | +237.4 | JOHN0, Kazami-, Monochrome, Yugomar, kalani |
 | 2026-05-29 | The Clubhouse | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +186.6 | Calowed, JOHN0, Kazami-, Monochrome, Yugomar, bard- |
-| 2026-05-27 | Duality Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +181.5 | Calowed, Kazami-, Monochrome, Yugomar, bard- |
+| 2026-05-27 | Duality Gaming | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +181.6 | Calowed, Kazami-, Monochrome, Yugomar, bard- |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-29 | Kevin James Fan Club | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -346.6 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
-| 2026-05-27 | FLying PiGs | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +431.1 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
+| 2026-05-27 | FLying PiGs | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +431.2 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
 | 2026-05-23 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.12 | 1.00 | 1.00 | 0.12 | 0.00 | 0.00 | -12.5 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
 | 2026-05-20 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -51.1 | Jpp, Justhoohaa, Sinxysinxy, skywayz, squidah |
 | 2026-05-15 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -52.2 | Justhoohaa, Sinxysinxy, Swathey, megHA, squidah |

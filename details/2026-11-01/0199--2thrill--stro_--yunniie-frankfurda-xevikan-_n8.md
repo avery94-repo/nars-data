@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-22 | RAZED | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.11 | 1.13 | 1.00 | 0.13 | 0.00 | 0.13 | +368.8 | GOOOOOOOOOOF, Natedawg, Xevikan, Yunniie, frankfurda |
 | 2026-05-20 | Bird Lickers | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.11 | 0.01 | 0.11 | +313.0 | GOOOOOOOOOOF, Natedawg, Xevikan, Yunniie, frankfurda |
-| 2026-05-15 | Solace | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.00 | -129.2 | GOOOOOOOOOOF, Natedawg, Xevikan, Yunniie, frankfurda |
+| 2026-05-15 | Solace | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.00 | -129.3 | GOOOOOOOOOOF, Natedawg, Xevikan, Yunniie, frankfurda |
 | 2026-05-08 | noname | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.13 | 1.00 | 0.02 | 0.00 | 0.00 | -1.4 | CloudCS, Natedawg, Xevikan, Yunniie, frankfurda |
 | 2026-05-06 | Second Nature | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.13 | 1.00 | 0.01 | 0.00 | 0.00 | -196.5 | KyIar, Natedawg, Stro_-, Yunniie, frankfurda |
 

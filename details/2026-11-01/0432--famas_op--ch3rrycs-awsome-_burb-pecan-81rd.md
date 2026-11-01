@@ -3,11 +3,11 @@ Team Name: Famas OP
 Roster: Ch3rrycs, Awsome, _burb, pecan, 81rd
 NARS Rank: 432 of 489
 
-Final Rating: 949.1
+Final Rating: 949.0
 Seeded Start: 1112.2
-H2H Adjustment: -163.1
+H2H Adjustment: -163.2
 
-Final Rating (949.1) = Seeded Start (1112.2) + H2H Adjustment (-163.1)
+Final Rating (949.0) = Seeded Start (1112.2) + H2H Adjustment (-163.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

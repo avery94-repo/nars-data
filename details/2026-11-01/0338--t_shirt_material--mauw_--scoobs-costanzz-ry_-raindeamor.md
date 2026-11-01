@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-04 | pew pew | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.81 | 1.00 | 1.00 | 0.81 | 0.00 | 0.00 | -134.7 | -scoobs, CoStanzz, Mauw_, Raindeamor, mylesG_ |
 | 2026-09-02 | GOD SPEED | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.80 | 1.00 | 1.00 | 0.80 | 0.02 | 0.80 | +149.7 | -scoobs, CoStanzz, Mauw_, Raindeamor, Ry_ |
 | 2026-06-12 | DadDick Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.25 | 1.00 | 1.00 | 0.25 | 0.00 | 0.00 | -24.5 | CoStanzz, Mauw_, Raindeamor, Ry_, mylesG_ |
-| 2026-06-03 | It Doesnt Matter | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -218.2 | -Kibe-, CoStanzz, Mauw_, Raindeamor, Ry_ |
+| 2026-06-03 | It Doesnt Matter | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.00 | 0.00 | -218.3 | -Kibe-, CoStanzz, Mauw_, Raindeamor, Ry_ |
 | 2026-05-27 | Cortex Jellies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +266.6 | -Kibe-, CoStanzz, Mauw_, Raindeamor, Ry_ |
 
 _Snapshot 2026-11-01 | NARS v2 | CC BY-SA 4.0_

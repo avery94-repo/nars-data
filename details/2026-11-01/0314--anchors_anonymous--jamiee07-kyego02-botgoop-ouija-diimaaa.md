@@ -3,11 +3,11 @@ Team Name: Anchors Anonymous
 Roster: Jamiee07, KyeGo02, BotGoop, Ouija, diimaaa
 NARS Rank: 314 of 489
 
-Final Rating: 1247.1
+Final Rating: 1247.0
 Seeded Start: 1263.7
-H2H Adjustment: -16.6
+H2H Adjustment: -16.7
 
-Final Rating (1247.1) = Seeded Start (1263.7) + H2H Adjustment (-16.6)
+Final Rating (1247.0) = Seeded Start (1263.7) + H2H Adjustment (-16.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

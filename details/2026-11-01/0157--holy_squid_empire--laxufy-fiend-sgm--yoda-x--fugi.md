@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.76 | 1.50 | 1.00 | 1.14 | 0.00 | 0.00 | -35.8 | FUGI, Greatness-, SGM-, breadstick, yodA-X- |
 | 2026-08-26 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.75 | 1.50 | 1.00 | 1.12 | 0.17 | 1.12 | +104.5 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
 | 2026-08-13 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.50 | 1.00 | 0.99 | 0.14 | 0.99 | +17.4 | CdrClemens, FUGI, SGM-, breadstick, yodA-X- |
-| 2026-07-17 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.48 | 1.50 | 1.00 | 0.72 | 0.08 | 0.72 | +369.9 | CdrClemens, FIEND, FUGI, SGM-, breadstick |
+| 2026-07-17 | Diggers | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.48 | 1.50 | 1.00 | 0.72 | 0.07 | 0.72 | +369.9 | CdrClemens, FIEND, FUGI, SGM-, breadstick |
 | 2026-06-10 | Omen Esports | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.24 | 1.55 | 1.00 | 0.37 | 0.00 | 0.00 | -419.0 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
 | 2026-05-14 | firesale | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.43 | 1.00 | 0.08 | 0.01 | 0.08 | +198.7 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |
 | 2026-05-12 | counterstrike Team | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.43 | 1.00 | 0.06 | 0.01 | 0.06 | +53.3 | FIEND, FUGI, Laxufy, SGM-, yodA-X- |

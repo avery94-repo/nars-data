@@ -3,11 +3,11 @@ Team Name: The Sweepers
 Roster: Grimmy, Dagger, Tan9x, AimKunREAL, dontcaretaze
 NARS Rank: 225 of 489
 
-Final Rating: 1411.3
+Final Rating: 1411.4
 Seeded Start: 1303.3
-H2H Adjustment: +108.0
+H2H Adjustment: +108.1
 
-Final Rating (1411.3) = Seeded Start (1303.3) + H2H Adjustment (+108.0)
+Final Rating (1411.4) = Seeded Start (1303.3) + H2H Adjustment (+108.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +150.3 | Dagger, Grimmy, Ovad, dontcaretaze, ryzzer |
 | 2026-07-22 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -5.2 | Dagger, Grimmy, Ovad, dontcaretaze, ryzzer |
 | 2026-07-17 | Flow Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -307.1 | Dagger, DavyCr0kttJr, Grimmy, dontcaretaze, ryzzer |
-| 2026-06-05 | After Peak | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -243.9 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
+| 2026-06-05 | After Peak | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -244.0 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-31 | Ninjas In Boxer | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.02 | 0.17 | +183.6 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-29 | Solbound | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.01 | 0.16 | +138.4 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |
 | 2026-05-27 | Famas OP | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -309.2 | AimKunREAL, Dagger, Grimmy, Tan9x, dontcaretaze |

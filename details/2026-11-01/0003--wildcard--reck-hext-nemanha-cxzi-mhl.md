@@ -5,7 +5,7 @@ NARS Rank: 3 of 489
 
 Final Rating: 2804.2
 Seeded Start: 2147.6
-H2H Adjustment: +656.6
+H2H Adjustment: +656.6 (capped at +-300, raw +656.5)
 
 Final Rating (2804.2) = Seeded Start (2147.6) + H2H Adjustment (+656.6)
 
@@ -46,7 +46,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-09 | HOTU | L |  | VRS-tracked 2026-09 | A | vrs | 0.84 | 1.60 | 1.00 | 1.35 | 0.00 | 0.00 | -47.4 | core 3/5 |
 | 2026-08-15 | PAIN | L | 1-2 | VRS-tracked 2026-08 | A | vrs | 0.68 | 1.60 | 1.00 | 1.08 | 0.00 | 0.00 | -97.9 | core 3/5 |
 | 2026-08-12 | FURIA | L | 0-1 | VRS-tracked 2026-08 | A | vrs | 0.66 | 1.60 | 1.00 | 1.05 | 0.00 | 0.00 | -10.6 | core 3/5 |
-| 2026-07-26 | THE MONGOLZ | L |  | VRS-tracked 2026-07 | A | vrs | 0.54 | 1.60 | 1.00 | 0.87 | 0.00 | 0.00 | -150.5 | core 3/5 |
+| 2026-07-26 | THE MONGOLZ | L |  | VRS-tracked 2026-07 | A | vrs | 0.54 | 1.60 | 1.00 | 0.87 | 0.00 | 0.00 | -150.6 | core 3/5 |
 | 2026-07-21 | ALLIANCE | W |  | VRS-tracked 2026-07 | A | vrs | 0.51 | 1.60 | 1.00 | 0.82 | 1.23 | 0.00 | +360.5 | core 3/5 |
 | 2026-07-16 | K27 | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.48 | 1.60 | 1.00 | 0.76 | 0.00 | 0.00 | -32.4 | core 3/5 |
 | 2026-07-15 | GENTLE MATES | L |  | VRS-tracked 2026-07 | A | vrs | 0.47 | 1.60 | 1.00 | 0.75 | 0.00 | 0.00 | -526.8 | core 3/5 |

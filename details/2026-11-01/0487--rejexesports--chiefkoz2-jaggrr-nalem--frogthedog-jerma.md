@@ -35,7 +35,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | goofball gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.10 | 1.00 | 0.58 | 0.00 | 0.00 | -1.8 | Jaggrr, Jermaine, dammahom, droot, nalem- |
 | 2026-07-22 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.10 | 1.00 | 0.57 | 0.00 | 0.00 | -3.1 | ChiefKoz2, Jaggrr, Jermaine, droot, nalem- |
 | 2026-07-15 | bubibabu | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.10 | 1.00 | 0.52 | 0.00 | 0.00 | -60.8 | Jaggrr, Jermaine, dammahom, droot, nalem- |
-| 2026-05-31 | Kinetic | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.00 | 0.00 | -260.0 | ChiefKoz2, Jaggrr, Jermaine, m1k3y-, nalem- |
+| 2026-05-31 | Kinetic | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.17 | 1.02 | 1.00 | 0.17 | 0.00 | 0.00 | -260.1 | ChiefKoz2, Jaggrr, Jermaine, m1k3y-, nalem- |
 | 2026-05-27 | Friendly Fire | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.14 | 1.02 | 1.00 | 0.15 | 0.00 | 0.00 | -1.5 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-22 | Kevin James Fan Club | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.01 | 0.11 | +338.0 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
 | 2026-05-20 | Kinetic | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -69.2 | ChiefKoz2, FrogTheDog, Jaggrr, Jermaine, nalem- |
