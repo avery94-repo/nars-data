@@ -4,16 +4,16 @@ Roster: Dong_Model, williamL, pcaL, superv1llain, Zantle
 NARS Rank: 281 of 484
 
 Final Rating: 1309.8
-Seeded Start: 1283.7
-H2H Adjustment: +26.1
+Seeded Start: 1283.6
+H2H Adjustment: +26.2
 
-Final Rating (1309.8) = Seeded Start (1283.7) + H2H Adjustment (+26.1)
+Final Rating (1309.8) = Seeded Start (1283.6) + H2H Adjustment (+26.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.131 x 1400 = 1283.7
+                = 1100 + 0.131 x 1400 = 1283.6
 
-seed_factor 0.131 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.025) + 0.25 x Opponent Network (0.404)
+seed_factor 0.131 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.025) + 0.25 x Opponent Network (0.404)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,19 +24,19 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-30 | After Peak | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -168.7 | Dong_Model, Zantle, pcaL, superv1llain, williamL |
+| 2026-10-30 | After Peak | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -169.0 | Dong_Model, Zantle, pcaL, superv1llain, williamL |
 | 2026-10-28 | Team GREAT | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -59.5 | Dong_Model, Zantle, pcaL, superv1llain, williamL |
 | 2026-10-21 | Mongolian Tractor | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +5.4 | Dong_Model, Zantle, pcaL, superv1llain, williamL |
-| 2026-10-16 | FlockMunchers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.11 | 1.04 | +83.2 | Dong_Model, apGuardian, pcaL, superv1llain, williamL |
+| 2026-10-16 | FlockMunchers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.11 | 1.04 | +83.3 | Dong_Model, apGuardian, pcaL, superv1llain, williamL |
 | 2026-10-14 | Arnes Wit Attitudes | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -50.4 | Dong_Model, apGuardian, pcaL, superv1llain, williamL |
-| 2026-10-09 | fih hou | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -47.6 | Dong_Model, Zantle, pcaL, superv1llain, williamL |
-| 2026-10-07 | DingTone | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +97.7 | Dong_Model, Zantle, pcaL, superv1llain, williamL |
-| 2026-09-12 | PBP | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.04 | 1.00 | 0.89 | 0.00 | 0.00 | -108.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-09-10 | No Excuses | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.88 | 0.03 | 0.88 | +80.8 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-09-06 | GodFather Gaming | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.03 | 0.85 | +8.0 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-09-02 | APEX | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.79 | 1.04 | 1.00 | 0.82 | 0.06 | 0.82 | +162.8 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-05-14 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +202.7 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-05-13 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -377.9 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-05-08 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.01 | +198.1 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-10-09 | fih hou | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -47.5 | Dong_Model, Zantle, pcaL, superv1llain, williamL |
+| 2026-10-07 | DingTone | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +97.8 | Dong_Model, Zantle, pcaL, superv1llain, williamL |
+| 2026-09-12 | PBP | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.86 | 1.04 | 1.00 | 0.89 | 0.00 | 0.00 | -108.6 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-09-10 | No Excuses | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.88 | 0.03 | 0.88 | +80.9 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-09-06 | GodFather Gaming | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.03 | 0.85 | +7.9 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-09-02 | APEX | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.79 | 1.04 | 1.00 | 0.82 | 0.06 | 0.82 | +162.9 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-05-14 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.05 | +202.8 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-05-13 | Iron Horse | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -378.2 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-05-08 | innerFire | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.01 | 1.00 | 0.01 | 0.00 | 0.01 | +198.3 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 
 _Snapshot 2026-11-02 | NARS v2 | CC BY-SA 4.0_

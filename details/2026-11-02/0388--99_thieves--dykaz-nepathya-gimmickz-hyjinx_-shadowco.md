@@ -24,17 +24,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-30 | Team Nyx | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -55.8 | ALFARU, Gimmickz, SammeyG, ShadowCoreTV, dykaz |
-| 2026-10-28 | Fire Nation | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -85.7 | NePathya, SammeyG, ShadowCoreTV, dykaz, hyjinx_ |
+| 2026-10-30 | Team Nyx | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -55.9 | ALFARU, Gimmickz, SammeyG, ShadowCoreTV, dykaz |
+| 2026-10-28 | Fire Nation | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -85.8 | NePathya, SammeyG, ShadowCoreTV, dykaz, hyjinx_ |
 | 2026-10-21 | AscendentEsport | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-10-21 | The ESEA Clout Tokens | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +146.6 | Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
+| 2026-10-21 | The ESEA Clout Tokens | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +146.7 | Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
 | 2026-10-16 | VARTOVIK | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -2.6 | ALFARU, Gimmickz, NePathya, ShadowCoreTV, dykaz |
-| 2026-10-14 | Mud Wizards | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -84.5 | BussinBoy, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
-| 2026-10-07 | Cortex Jellies | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -133.6 | Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
-| 2026-09-10 | 55TH ST | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.88 | 0.00 | 0.00 | -63.6 | Gimmickz, MiLi-, NePathya, ShadowCoreTV, dykaz |
-| 2026-09-08 | Better at WOT | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.86 | 0.03 | 0.86 | +43.8 | BussinBoy, Gimmickz, ShadowCoreTV, dykaz, hyjinx_ |
-| 2026-09-06 | Furio Reloaded | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.03 | 0.85 | +69.3 | CAMH_CRODIE, Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
-| 2026-09-04 | Frag Dominant | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.84 | 0.02 | 0.84 | +83.5 | BussinBoy, Gimmickz, NePathya, ShadowCoreTV, dykaz |
-| 2026-08-01 | YHTR | L | 0-1 | SoFlo Slam 2 | C | faceit-tournament | 0.58 | 1.12 | 1.00 | 0.65 | 0.00 | 0.00 | -67.1 | MiLi-, NePathya, ShadowCoreTV, bf1c2a04, dykaz |
+| 2026-10-14 | Mud Wizards | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -84.6 | BussinBoy, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
+| 2026-10-07 | Cortex Jellies | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -133.9 | Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
+| 2026-09-10 | 55TH ST | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.88 | 0.00 | 0.00 | -63.7 | Gimmickz, MiLi-, NePathya, ShadowCoreTV, dykaz |
+| 2026-09-08 | Better at WOT | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.83 | 1.04 | 1.00 | 0.86 | 0.03 | 0.86 | +44.0 | BussinBoy, Gimmickz, ShadowCoreTV, dykaz, hyjinx_ |
+| 2026-09-06 | Furio Reloaded | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.03 | 0.85 | +69.7 | CAMH_CRODIE, Gimmickz, NePathya, ShadowCoreTV, dykaz, hyjinx_ |
+| 2026-09-04 | Frag Dominant | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.84 | 0.02 | 0.84 | +83.6 | BussinBoy, Gimmickz, NePathya, ShadowCoreTV, dykaz |
+| 2026-08-01 | YHTR | L | 0-1 | SoFlo Slam 2 | C | faceit-tournament | 0.58 | 1.12 | 1.00 | 0.65 | 0.00 | 0.00 | -67.2 | MiLi-, NePathya, ShadowCoreTV, bf1c2a04, dykaz |
 
 _Snapshot 2026-11-02 | NARS v2 | CC BY-SA 4.0_

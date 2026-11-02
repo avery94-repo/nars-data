@@ -121,6 +121,17 @@
   "source": "hltv"
  },
  {
+  "match_id": "hltv:2400043",
+  "date": "2026-10-31",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "LAG Gaming",
+  "team_b": "Sutti's Money Crew",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
   "match_id": "1-03e28deb-2ee2-4c39-8bdc-7e5ba6510a21",
   "date": "2026-10-30",
   "competition": "S59 NA Main A - Regular Season",

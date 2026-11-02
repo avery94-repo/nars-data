@@ -3,15 +3,15 @@ Team Name: MEET THE WALL - DEAD
 Roster: maxie, Krumpa, _BrX, virulent, ReeeeeLaX-
 NARS Rank: 181 of 484
 
-Final Rating: 1513.6
-Seeded Start: 1178.2
-H2H Adjustment: +335.4
+Final Rating: 1513.8
+Seeded Start: 1178.1
+H2H Adjustment: +335.7
 
-Final Rating (1513.6) = Seeded Start (1178.2) + H2H Adjustment (+335.4)
+Final Rating (1513.8) = Seeded Start (1178.1) + H2H Adjustment (+335.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.056 x 1400 = 1178.2
+                = 1100 + 0.056 x 1400 = 1178.1
 
 seed_factor 0.056 = 0.25 x Tier Exposure (0.033) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.179)
 
@@ -27,10 +27,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Mace Lindu Ruff Rebound | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-14 | AscendentEsport | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-09 | Guangzhou Loong Lions | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-09-15 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.05 | 1.00 | 0.92 | 0.00 | 0.00 | -132.1 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
+| 2026-09-15 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.88 | 1.05 | 1.00 | 0.92 | 0.00 | 0.00 | -132.2 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
 | 2026-09-08 | FarmVille | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.05 | 1.00 | 0.87 | 0.00 | 0.00 | -0.5 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
-| 2026-09-07 | GOBLINS | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.05 | 1.00 | 0.87 | 0.03 | 0.87 | +175.0 | Krumpa, ReeeeeLaX-, _BrX, maxie, wAKKa |
-| 2026-09-04 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.85 | 0.03 | 0.85 | +141.2 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent, wAKKa |
-| 2026-09-02 | Eggonomics | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.79 | 1.05 | 1.00 | 0.83 | 0.03 | 0.83 | +151.8 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
+| 2026-09-07 | GOBLINS | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.05 | 1.00 | 0.87 | 0.03 | 0.87 | +175.2 | Krumpa, ReeeeeLaX-, _BrX, maxie, wAKKa |
+| 2026-09-04 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.85 | 0.03 | 0.85 | +141.3 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent, wAKKa |
+| 2026-09-02 | Eggonomics | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.79 | 1.05 | 1.00 | 0.83 | 0.03 | 0.83 | +151.9 | Krumpa, ReeeeeLaX-, _BrX, maxie, virulent |
 
 _Snapshot 2026-11-02 | NARS v2 | CC BY-SA 4.0_

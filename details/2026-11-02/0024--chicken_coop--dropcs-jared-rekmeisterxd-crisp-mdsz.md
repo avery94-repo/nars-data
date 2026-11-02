@@ -3,15 +3,15 @@ Team Name: Chicken Coop
 Roster: Dropcs, jared, REKMEISTERxD, Crisp, mdsz
 NARS Rank: 24 of 484
 
-Final Rating: 2066.2
-Seeded Start: 2226.5
-H2H Adjustment: -160.3
+Final Rating: 2071.1
+Seeded Start: 2226.8
+H2H Adjustment: -155.7
 
-Final Rating (2066.2) = Seeded Start (2226.5) + H2H Adjustment (-160.3)
+Final Rating (2071.1) = Seeded Start (2226.8) + H2H Adjustment (-155.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.805 x 1400 = 2226.5
+                = 1100 + 0.805 x 1400 = 2226.8
 
 seed_factor 0.805 = 0.25 x Tier Exposure (0.866) + 0.50 x Quality Wins (0.719) + 0.25 x Opponent Network (0.915)
 
@@ -24,65 +24,65 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-10-28 | Olympus | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -40.4 | AItF4toWin, Crisp, Dropcs, Wolffe, jared |
-| 2026-10-24 | Iowa Stormboar | W | 2-1 | CCT North America 2026 Cup #1 | C | liquipedia | 1.00 | 1.60 | 1.00 | 1.60 | 1.09 | 1.60 | +70.8 | Crisp, Drop, Wolffe, jared, stesso |
+| 2026-10-28 | Olympus | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -40.6 | AItF4toWin, Crisp, Dropcs, Wolffe, jared |
+| 2026-10-24 | Iowa Stormboar | W | 2-1 | CCT North America 2026 Cup #1 | C | liquipedia | 1.00 | 1.60 | 1.00 | 1.60 | 1.09 | 1.60 | +71.0 | Crisp, Drop, Wolffe, jared, stesso |
 | 2026-10-21 | SportsBetExpert | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -0.2 | AItF4toWin, Crisp, Dropcs, Wolffe, jared |
 | 2026-10-21 | Pug Palace | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.15 | 1.50 | +2.0 | AItF4toWin, Crisp, Dropcs, Wolffe, jared |
-| 2026-10-15 | Overtake Sector | L | 1-2 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.59 | 1.00 | 1.59 | 0.00 | 0.00 | -3.3 | core 3/5 |
-| 2026-10-12 | Zomblers | W | 2-0 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.59 | 1.00 | 1.59 | 1.27 | 0.00 | +50.0 | core 3/5 |
-| 2026-10-11 | Overtake Sector | W | 2-0 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.59 | 1.00 | 1.59 | 1.59 | 0.00 | +65.9 | core 3/5 |
+| 2026-10-15 | Overtake Sector | L | 1-2 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.59 | 1.00 | 1.59 | 0.00 | 0.00 | -3.1 | core 3/5 |
+| 2026-10-12 | Zomblers | W | 2-0 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.59 | 1.00 | 1.59 | 1.27 | 0.00 | +50.1 | core 3/5 |
+| 2026-10-11 | Overtake Sector | W | 2-0 | ESL Challenger League Season 52 North America Cup 3 | B | hltv | 1.00 | 1.59 | 1.00 | 1.59 | 1.59 | 0.00 | +66.2 | core 3/5 |
 | 2026-10-08 | Demolition | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.21 | 1.50 | +1.9 | AItF4toWin, Crisp, Dropcs, Wolffe, jared |
-| 2026-10-07 | unreal nightmare | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 1.00 | 0.00 | +59.4 | AItF4toWin, Crisp, Dropcs, Wolffe, jared |
+| 2026-10-07 | unreal nightmare | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 1.01 | 0.00 | +59.1 | AItF4toWin, Crisp, Dropcs, Wolffe, jared |
 | 2026-09-25 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -0.0 | core 3/5 |
 | 2026-09-25 | Wildcard | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.94 | 1.60 | 1.00 | 1.51 | 0.00 | 0.00 | -0.0 | core 3/5 |
-| 2026-09-14 | Phantom Sense | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.87 | 1.58 | 1.00 | 1.38 | 0.00 | 0.00 | -46.3 | Crisp, Dropcs, HUNCHO, REKMEISTERxD, jared |
-| 2026-09-14 | my life be like | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.87 | 1.58 | 1.00 | 1.38 | 0.00 | 0.00 | -30.3 | Crisp, Dropcs, HUNCHO, REKMEISTERxD, jared |
-| 2026-09-12 | my life be like | L | 0-2 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 0.86 | 1.57 | 1.00 | 1.36 | 0.00 | 0.00 | -42.0 | Crisp, Dropcs, HUNCHO, REKMEISTERxD, jared |
-| 2026-09-10 | ANTIVALUE | L | 1-2 | VRS-tracked 2026-09 | A | vrs | 0.84 | 1.60 | 1.00 | 1.35 | 0.00 | 0.00 | -42.7 | core 3/5 |
+| 2026-09-14 | Phantom Sense | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.87 | 1.58 | 1.00 | 1.38 | 0.00 | 0.00 | -46.6 | Crisp, Dropcs, HUNCHO, REKMEISTERxD, jared |
+| 2026-09-14 | my life be like | L | 0-2 | CROSSFIRE Season 6 - Playoffs | B | faceit-tournament | 0.87 | 1.58 | 1.00 | 1.38 | 0.00 | 0.00 | -30.8 | Crisp, Dropcs, HUNCHO, REKMEISTERxD, jared |
+| 2026-09-12 | my life be like | L | 0-2 | Playoff - CROSSFIRE Season 6 | B | faceit-tournament | 0.86 | 1.57 | 1.00 | 1.35 | 0.00 | 0.00 | -42.7 | Crisp, Dropcs, HUNCHO, REKMEISTERxD, jared |
+| 2026-09-10 | ANTIVALUE | L | 1-2 | VRS-tracked 2026-09 | A | vrs | 0.84 | 1.60 | 1.00 | 1.35 | 0.00 | 0.00 | -39.9 | core 3/5 |
 | 2026-09-09 | Marsborne | L |  | VRS-tracked 2026-09 | A | vrs | 0.84 | 1.60 | 1.00 | 1.34 | 0.00 | 0.00 | -0.1 | core 3/5 |
-| 2026-09-06 | Wanted Goons | W | 3-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.82 | 1.60 | 1.00 | 1.32 | 1.25 | 1.32 | +48.3 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-09-06 | NuTorious | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.82 | 1.60 | 1.00 | 1.31 | 1.13 | 1.31 | +41.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-09-05 | Villainous | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.82 | 1.60 | 1.00 | 1.31 | 0.00 | 0.00 | -46.9 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-09-05 | Axial | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.81 | 1.60 | 1.00 | 1.30 | 0.00 | 0.00 | -77.7 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-09-04 | Desi Boyz | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.80 | 1.60 | 1.00 | 1.29 | 0.00 | 0.00 | -24.6 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-09-04 | Axial | L | 0-1 | VRS-tracked 2026-09 | A | vrs | 0.80 | 1.60 | 1.00 | 1.29 | 0.00 | 0.00 | -82.2 | core 3/5 |
-| 2026-09-03 | Desi Boyz | L | 0-1 | VRS-tracked 2026-09 | A | vrs | 0.80 | 1.60 | 1.00 | 1.28 | 0.00 | 0.00 | -44.2 | core 3/5 |
-| 2026-08-30 | Overtake Sector | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.77 | 1.60 | 1.00 | 1.23 | 0.00 | 0.00 | -81.1 | core 3/5 |
-| 2026-08-29 | Zomblers | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.76 | 1.60 | 1.00 | 1.22 | 0.98 | 1.22 | +87.2 | core 3/5 |
+| 2026-09-06 | Wanted Goons | W | 3-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.82 | 1.60 | 1.00 | 1.31 | 1.25 | 1.31 | +48.5 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-09-06 | NuTorious | W | 2-0 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.82 | 1.60 | 1.00 | 1.31 | 1.13 | 1.31 | +41.1 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-09-05 | Villainous | L | 0-2 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.82 | 1.60 | 1.00 | 1.30 | 0.00 | 0.00 | -47.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-09-05 | Axial | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.81 | 1.60 | 1.00 | 1.29 | 0.00 | 0.00 | -78.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-09-04 | Desi Boyz | L | 0-1 | NSTLGA League S2 \| Stage 2 Swiss | B | faceit-tournament | 0.80 | 1.60 | 1.00 | 1.28 | 0.00 | 0.00 | -24.7 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-09-04 | Axial | L | 0-1 | VRS-tracked 2026-09 | A | vrs | 0.80 | 1.60 | 1.00 | 1.28 | 0.00 | 0.00 | -82.5 | core 3/5 |
+| 2026-09-03 | Desi Boyz | L | 0-1 | VRS-tracked 2026-09 | A | vrs | 0.80 | 1.60 | 1.00 | 1.27 | 0.00 | 0.00 | -44.5 | core 3/5 |
+| 2026-08-30 | Overtake Sector | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.77 | 1.60 | 1.00 | 1.23 | 0.00 | 0.00 | -81.4 | core 3/5 |
+| 2026-08-29 | Zomblers | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.76 | 1.60 | 1.00 | 1.22 | 0.98 | 1.22 | +87.4 | core 3/5 |
 | 2026-08-28 | Marsborne | L | 0-2 | VRS-tracked 2026-08 | A | vrs | 0.76 | 1.60 | 1.00 | 1.21 | 0.00 | 0.00 | -1.0 | core 3/5 |
-| 2026-08-26 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.50 | 1.00 | 1.11 | 0.16 | 1.11 | +7.6 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-08-26 | EMPIRE | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.74 | 1.60 | 1.00 | 1.19 | 0.94 | 1.19 | +88.6 | core 3/5 |
+| 2026-08-26 | Playing for fun | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.74 | 1.50 | 1.00 | 1.11 | 0.16 | 1.11 | +7.5 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-08-26 | EMPIRE | W | 2-0 | VRS-tracked 2026-08 | A | vrs | 0.74 | 1.60 | 1.00 | 1.19 | 0.93 | 1.19 | +88.7 | core 3/5 |
 | 2026-08-25 | Incognito | W |  | VRS-tracked 2026-08 | A | vrs | 0.74 | 1.60 | 1.00 | 1.18 | 0.21 | 1.18 | +0.1 | core 3/5 |
-| 2026-08-21 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.50 | 1.00 | 1.07 | 0.83 | 1.07 | +109.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-08-21 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.50 | 1.00 | 1.07 | 0.00 | 0.00 | -69.8 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-08-19 | unreal nightmare | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.05 | 0.70 | 1.05 | +13.6 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-08-21 | regain | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.50 | 1.00 | 1.07 | 0.83 | 1.07 | +109.4 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-08-21 | Villainous | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.50 | 1.00 | 1.06 | 0.00 | 0.00 | -70.4 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-08-19 | unreal nightmare | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.50 | 1.00 | 1.04 | 0.70 | 1.04 | +13.3 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-08-13 | Squeegee | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.66 | 1.50 | 1.00 | 0.98 | 0.05 | 0.98 | +1.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-08-05 | Celestial Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.50 | 1.00 | 0.91 | 0.29 | 0.91 | +4.7 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-08-04 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.50 | 1.00 | 0.90 | 0.17 | 0.90 | +0.2 | Crisp, Dropcs, REKMEISTERxD, XPSAN, jared |
-| 2026-07-31 | regain | L | 0-2 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.57 | 1.60 | 1.00 | 0.91 | 0.00 | 0.00 | -12.4 | 2Panic, Crisp, Dropcs, REKMEISTERxD, jared |
-| 2026-07-30 | regain | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.90 | 0.00 | 0.00 | -104.1 | core 3/5 |
-| 2026-07-29 | SportsBetExpert | L | 1-2 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.56 | 1.60 | 1.00 | 0.90 | 0.00 | 0.00 | -45.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-07-24 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.79 | 0.00 | 0.00 | -350.6 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-07-22 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.51 | 1.50 | 1.00 | 0.77 | 0.11 | 0.77 | +4.5 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-07-15 | dice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.46 | 1.50 | 1.00 | 0.70 | 0.00 | 0.00 | -464.4 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-06-21 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.49 | 0.36 | 0.00 | +23.1 | core 3/5 |
-| 2026-06-20 | Overtake Sector | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.48 | 0.48 | +1.4 | core 3/5 |
+| 2026-08-05 | Celestial Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.50 | 1.00 | 0.90 | 0.29 | 0.90 | +4.8 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-08-04 | Addice | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.50 | 1.00 | 0.89 | 0.17 | 0.89 | +0.2 | Crisp, Dropcs, REKMEISTERxD, XPSAN, jared |
+| 2026-07-31 | regain | L | 0-2 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.57 | 1.60 | 1.00 | 0.91 | 0.00 | 0.00 | -12.5 | 2Panic, Crisp, Dropcs, REKMEISTERxD, jared |
+| 2026-07-30 | regain | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.56 | 1.60 | 1.00 | 0.90 | 0.00 | 0.00 | -104.6 | core 3/5 |
+| 2026-07-29 | SportsBetExpert | L | 1-2 | StarSeries S20 - Closed Qualifier NA | C | faceit-tournament | 0.56 | 1.60 | 1.00 | 0.90 | 0.00 | 0.00 | -40.2 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-07-24 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.50 | 1.00 | 0.78 | 0.00 | 0.00 | -351.9 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-07-22 | Endless Esports | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.51 | 1.50 | 1.00 | 0.76 | 0.11 | 0.76 | +4.7 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-07-15 | dice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.46 | 1.50 | 1.00 | 0.69 | 0.00 | 0.00 | -464.5 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-06-21 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.48 | 0.36 | 0.00 | +23.7 | core 3/5 |
+| 2026-06-20 | Overtake Sector | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.30 | 1.60 | 1.00 | 0.47 | 0.47 | 0.47 | +1.5 | core 3/5 |
 | 2026-06-19 | dice | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.07 | 0.46 | +0.0 | core 3/5 |
 | 2026-06-09 | Club 333 | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.22 | 1.55 | 1.00 | 0.35 | 0.26 | 0.35 | +17.6 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 | 2026-06-08 | North Forge | W | 2-1 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.22 | 1.55 | 1.00 | 0.34 | 0.09 | 0.34 | +0.4 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-06-08 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.22 | 1.60 | 1.00 | 0.35 | 0.26 | 0.00 | +91.7 | core 3/5 |
-| 2026-06-07 | North Forge | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.21 | 1.60 | 1.00 | 0.34 | 0.09 | 0.00 | +1.2 | core 3/5 |
-| 2026-06-04 | Olympus | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.19 | 1.55 | 1.00 | 0.30 | 0.17 | 0.30 | +0.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-05-31 | Marsborne | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.26 | 0.26 | +246.0 | core 3/5 |
-| 2026-05-30 | NuTorious | W |  | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.25 | 0.22 | 0.00 | +22.4 | core 3/5 |
-| 2026-05-30 | SportsBetExpert | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.25 | 0.23 | 0.25 | +402.7 | core 3/5 |
-| 2026-05-27 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.14 | 1.60 | 1.00 | 0.22 | 0.00 | 0.00 | -315.5 | core 3/5 |
-| 2026-05-21 | Desi Boyz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.43 | 1.00 | 0.14 | 0.11 | 0.14 | +1.0 | Crisp, Dropcs, REKMEISTERxD, darkpsy-, jared |
-| 2026-05-20 | Brahmas | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.43 | 1.00 | 0.13 | 0.03 | 0.13 | +180.5 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-05-19 | Villainous | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.43 | 1.00 | 0.12 | 0.10 | 0.12 | +10.9 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-05-15 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.43 | 1.00 | 0.08 | 0.01 | 0.08 | +0.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-05-14 | raisedbypixels | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.43 | 1.00 | 0.07 | 0.01 | 0.07 | +0.8 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-05-13 | firesale | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.43 | 1.00 | 0.06 | 0.01 | 0.06 | +3.8 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
-| 2026-05-13 | Ex-Tricksters | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.43 | 1.00 | 0.06 | 0.00 | 0.06 | +105.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-06-08 | Club 333 | W | 2-0 | VRS-tracked 2026-06 | A | vrs | 0.22 | 1.60 | 1.00 | 0.34 | 0.26 | 0.00 | +91.5 | core 3/5 |
+| 2026-06-07 | North Forge | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.21 | 1.60 | 1.00 | 0.33 | 0.09 | 0.00 | +1.2 | core 3/5 |
+| 2026-06-04 | Olympus | W | 2-0 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.19 | 1.55 | 1.00 | 0.29 | 0.17 | 0.29 | +0.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-05-31 | Marsborne | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.26 | 0.26 | 0.26 | +247.4 | core 3/5 |
+| 2026-05-30 | NuTorious | W |  | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.25 | 0.21 | 0.00 | +22.5 | core 3/5 |
+| 2026-05-30 | SportsBetExpert | W | 2-0 | VRS-tracked 2026-05 | A | vrs | 0.16 | 1.60 | 1.00 | 0.25 | 0.22 | 0.25 | +402.8 | core 3/5 |
+| 2026-05-27 | Voca | L |  | VRS-tracked 2026-05 | A | vrs | 0.14 | 1.60 | 1.00 | 0.22 | 0.00 | 0.00 | -316.1 | core 3/5 |
+| 2026-05-21 | Desi Boyz | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.10 | 1.44 | 1.00 | 0.14 | 0.11 | 0.14 | +1.0 | Crisp, Dropcs, REKMEISTERxD, darkpsy-, jared |
+| 2026-05-20 | Brahmas | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.09 | 1.44 | 1.00 | 0.13 | 0.03 | 0.13 | +181.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-05-19 | Villainous | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.08 | 1.44 | 1.00 | 0.12 | 0.10 | 0.12 | +10.9 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-05-15 | NineFlyeSports | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.44 | 1.00 | 0.08 | 0.01 | 0.08 | +0.0 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-05-14 | raisedbypixels | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.05 | 1.44 | 1.00 | 0.07 | 0.01 | 0.07 | +0.8 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-05-13 | firesale | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.44 | 1.00 | 0.06 | 0.01 | 0.06 | +3.8 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
+| 2026-05-13 | Ex-Tricksters | W | 1-0 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.44 | 1.00 | 0.06 | 0.00 | 0.06 | +104.7 | Crisp, Dropcs, REKMEISTERxD, jared, mdsz |
 
 _Snapshot 2026-11-02 | NARS v2 | CC BY-SA 4.0_

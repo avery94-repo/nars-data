@@ -3,11 +3,11 @@ Team Name: Casual Mature Gamers
 Roster: -larry, -fakez, Panda1__, OSKAVELIw0w-, armali
 NARS Rank: 177 of 484
 
-Final Rating: 1517.0
+Final Rating: 1517.3
 Seeded Start: 1286.2
-H2H Adjustment: +230.8
+H2H Adjustment: +231.1
 
-Final Rating (1517.0) = Seeded Start (1286.2) + H2H Adjustment (+230.8)
+Final Rating (1517.3) = Seeded Start (1286.2) + H2H Adjustment (+231.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -30,10 +30,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | APEX | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +132.9 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-10-14 | PogSquad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +48.4 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-10-09 | Feels MAIN Man | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +0.6 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
-| 2026-10-07 | AscendentEsport | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +162.1 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
-| 2026-09-10 | ClanAgain | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.05 | 1.00 | 0.89 | 0.00 | 0.00 | -95.5 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
+| 2026-10-07 | AscendentEsport | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +162.3 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
+| 2026-09-10 | ClanAgain | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.05 | 1.00 | 0.89 | 0.00 | 0.00 | -95.7 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 | 2026-09-08 | UKY Blue | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.83 | 1.05 | 1.00 | 0.87 | 0.03 | 0.87 | +23.9 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
-| 2026-09-07 | PSDN White | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.05 | 1.00 | 0.87 | 0.03 | 0.87 | +147.2 | -fakez, -larry, HugoElite, OSKAVELIw0w-, Panda1__, armali |
-| 2026-09-04 | O Fire | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.85 | 0.00 | 0.00 | -84.0 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
+| 2026-09-07 | PSDN White | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.05 | 1.00 | 0.87 | 0.03 | 0.87 | +147.3 | -fakez, -larry, HugoElite, OSKAVELIw0w-, Panda1__, armali |
+| 2026-09-04 | O Fire | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.85 | 0.00 | 0.00 | -83.8 | -fakez, -larry, OSKAVELIw0w-, Panda1__, armali |
 
 _Snapshot 2026-11-02 | NARS v2 | CC BY-SA 4.0_

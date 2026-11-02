@@ -3,15 +3,15 @@ Team Name: BUCK NASTY
 Roster: -CLL-, fersher, hoogs, Heartless-OH, ryzoh
 NARS Rank: 283 of 484
 
-Final Rating: 1302.0
-Seeded Start: 1116.0
-H2H Adjustment: +186.0
+Final Rating: 1302.1
+Seeded Start: 1115.8
+H2H Adjustment: +186.3
 
-Final Rating (1302.0) = Seeded Start (1116.0) + H2H Adjustment (+186.0)
+Final Rating (1302.1) = Seeded Start (1115.8) + H2H Adjustment (+186.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.011 x 1400 = 1116.0
+                = 1100 + 0.011 x 1400 = 1115.8
 
 seed_factor 0.011 = 0.25 x Tier Exposure (0.013) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.026)
 
@@ -24,12 +24,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-04 | Pugging4Pumpkin | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.25 | 1.00 | 0.24 | 0.00 | 0.00 | -393.6 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
-| 2026-05-31 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.16 | 1.25 | 1.00 | 0.21 | 0.00 | 0.00 | -2.3 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
-| 2026-05-29 | the dragon warrior scroll | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.15 | 1.25 | 1.00 | 0.19 | 0.00 | 0.19 | +291.4 | -CLL-, Heartless-OH, Limbs, fersher, ryzoh |
-| 2026-05-22 | my life be like | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.12 | 0.04 | 0.12 | +384.6 | -CLL-, Heartless-OH, Limbs, hoogs, ryzoh |
-| 2026-05-20 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.13 | 1.00 | 0.10 | 0.00 | 0.00 | -164.1 | -CLL-, Heartless-OH, Limbs, hoogs, ryzoh |
-| 2026-05-15 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.01 | 0.07 | +303.7 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
-| 2026-05-08 | Bills | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.13 | 1.00 | 0.01 | 0.00 | 0.00 | -233.7 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
+| 2026-06-04 | Pugging4Pumpkin | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.19 | 1.26 | 1.00 | 0.24 | 0.00 | 0.00 | -394.2 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
+| 2026-05-31 | DETONATE | L | 0-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.16 | 1.26 | 1.00 | 0.20 | 0.00 | 0.00 | -2.3 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
+| 2026-05-29 | the dragon warrior scroll | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.15 | 1.26 | 1.00 | 0.19 | 0.00 | 0.19 | +292.0 | -CLL-, Heartless-OH, Limbs, fersher, ryzoh |
+| 2026-05-22 | my life be like | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.12 | 0.04 | 0.12 | +385.3 | -CLL-, Heartless-OH, Limbs, hoogs, ryzoh |
+| 2026-05-20 | Hadouken | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.13 | 1.00 | 0.10 | 0.00 | 0.00 | -164.4 | -CLL-, Heartless-OH, Limbs, hoogs, ryzoh |
+| 2026-05-15 | absolute cinema | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.06 | 0.01 | 0.06 | +303.9 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
+| 2026-05-08 | Bills | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.13 | 1.00 | 0.01 | 0.00 | 0.00 | -233.9 | -CLL-, Heartless-OH, fersher, hoogs, ryzoh |
 
 _Snapshot 2026-11-02 | NARS v2 | CC BY-SA 4.0_
