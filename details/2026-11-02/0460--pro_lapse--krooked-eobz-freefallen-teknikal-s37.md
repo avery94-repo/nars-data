@@ -3,17 +3,17 @@ Team Name: Pro Lapse
 Roster: Krooked, eobz, freefallen, teknikal, S37
 NARS Rank: 460 of 484
 
-Final Rating: 809.5
-Seeded Start: 1168.1
-H2H Adjustment: -358.6
+Final Rating: 808.0
+Seeded Start: 1167.6
+H2H Adjustment: -359.6
 
-Final Rating (809.5) = Seeded Start (1168.1) + H2H Adjustment (-358.6)
+Final Rating (808.0) = Seeded Start (1167.6) + H2H Adjustment (-359.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.049 x 1400 = 1168.1
+                = 1100 + 0.048 x 1400 = 1167.6
 
-seed_factor 0.049 = 0.25 x Tier Exposure (0.034) + 0.50 x Quality Wins (0.008) + 0.25 x Opponent Network (0.144)
+seed_factor 0.048 = 0.25 x Tier Exposure (0.033) + 0.50 x Quality Wins (0.008) + 0.25 x Opponent Network (0.144)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -33,13 +33,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Hack-A-Shaq | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.06 | 1.00 | 0.64 | 0.00 | 0.00 | -16.3 | Krooked, S37, eobz, freefallen, teknikal |
 | 2026-07-31 | The Burger People | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.57 | 1.06 | 1.00 | 0.60 | 0.00 | 0.00 | -2.4 | Krooked, S37, diatomic_, freefallen, teknikal |
 | 2026-07-29 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.59 | 0.00 | 0.00 | -24.4 | Krooked, S37, diatomic_, freefallen, teknikal |
-| 2026-07-24 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.56 | 0.02 | 0.56 | +137.8 | Krooked, S37, eobz, freefallen, teknikal |
-| 2026-07-22 | puggin4seb | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.51 | 1.06 | 1.00 | 0.54 | 0.00 | 0.00 | -84.1 | Krooked, S37, eobz, freefallen, teknikal |
-| 2026-07-15 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.46 | 1.06 | 1.00 | 0.49 | 0.00 | 0.00 | -11.1 | Krooked, S37, eobz, freefallen, teknikal |
-| 2026-05-22 | Kaos | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.12 | 0.00 | 0.00 | -12.4 | BAU3R, Krooked, diatomic_, eobz, teknikal |
-| 2026-05-20 | BucketJonsBoys | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.13 | 1.00 | 0.10 | 0.00 | 0.00 | -270.1 | BAU3R, Krooked, diatomic_, eobz, teknikal |
-| 2026-05-15 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.00 | -259.5 | BAU3R, Krooked, S37, eobz, teknikal |
-| 2026-05-13 | Second Nature | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.13 | 1.00 | 0.05 | 0.00 | 0.05 | +391.5 | BAU3R, Krooked, S37, diatomic_, teknikal |
-| 2026-05-08 | Conscious Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.13 | 1.00 | 0.01 | 0.00 | 0.00 | -75.1 | BAU3R, Krooked, S37, freefallen, teknikal |
+| 2026-07-24 | Solar Gravity | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.02 | 0.55 | +137.9 | Krooked, S37, eobz, freefallen, teknikal |
+| 2026-07-22 | puggin4seb | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.51 | 1.06 | 1.00 | 0.54 | 0.00 | 0.00 | -83.7 | Krooked, S37, eobz, freefallen, teknikal |
+| 2026-07-15 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.46 | 1.06 | 1.00 | 0.49 | 0.00 | 0.00 | -11.0 | Krooked, S37, eobz, freefallen, teknikal |
+| 2026-05-22 | Kaos | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.10 | 1.13 | 1.00 | 0.12 | 0.00 | 0.00 | -12.3 | BAU3R, Krooked, diatomic_, eobz, teknikal |
+| 2026-05-20 | BucketJonsBoys | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.13 | 1.00 | 0.10 | 0.00 | 0.00 | -270.4 | BAU3R, Krooked, diatomic_, eobz, teknikal |
+| 2026-05-15 | Down To Frag | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.00 | -259.6 | BAU3R, Krooked, S37, eobz, teknikal |
+| 2026-05-13 | Second Nature | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.13 | 1.00 | 0.05 | 0.00 | 0.05 | +391.4 | BAU3R, Krooked, S37, diatomic_, teknikal |
+| 2026-05-08 | Conscious Gaming | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.13 | 1.00 | 0.01 | 0.00 | 0.00 | -75.9 | BAU3R, Krooked, S37, freefallen, teknikal |
 
 _Snapshot 2026-11-02 | NARS v2 | CC BY-SA 4.0_

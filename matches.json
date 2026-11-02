@@ -1,5 +1,27 @@
 [
  {
+  "match_id": "hltv:2399861",
+  "date": "2026-11-02",
+  "competition": "IEM Beijing 2026",
+  "team_a": "Aurora",
+  "team_b": "Liquid",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "S",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2400046",
+  "date": "2026-11-02",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "LAG Gaming",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "3-1",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
   "match_id": "lp:firesports-last-chance-2026:5bb66c920c",
   "date": "2026-11-01",
   "competition": "FiReSPORTS Last Chance 2026",
@@ -29,6 +51,17 @@
   "team_b": "Wildcard",
   "winner": "b",
   "score": "1-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2400045",
+  "date": "2026-11-01",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "Sutti's Money Crew",
+  "team_b": "Holly Molly",
+  "winner": "b",
+  "score": "0-2",
   "tier": "B",
   "source": "hltv"
  },

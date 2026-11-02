@@ -3,15 +3,15 @@ Team Name: SuperSoakerClub
 Roster: IamSudzy, Es6x, _flan, Electrikey, TwistedMango
 NARS Rank: 471 of 484
 
-Final Rating: 689.0
-Seeded Start: 1103.0
-H2H Adjustment: -414.0
+Final Rating: 687.9
+Seeded Start: 1102.9
+H2H Adjustment: -415.0
 
-Final Rating (689.0) = Seeded Start (1103.0) + H2H Adjustment (-414.0)
+Final Rating (687.9) = Seeded Start (1102.9) + H2H Adjustment (-415.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.002 x 1400 = 1103.0
+                = 1100 + 0.002 x 1400 = 1102.9
 
 seed_factor 0.002 = 0.25 x Tier Exposure (0.004) + 0.50 x Quality Wins (0.000) + 0.25 x Opponent Network (0.004)
 
@@ -24,10 +24,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-22 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.01 | 1.00 | 0.11 | 0.00 | 0.00 | -221.2 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
-| 2026-05-20 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.01 | 1.00 | 0.09 | 0.00 | 0.00 | -299.2 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
-| 2026-05-15 | 929 Arrival Gang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.06 | 0.00 | 0.06 | +433.1 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
-| 2026-05-13 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.01 | 1.00 | 0.04 | 0.00 | 0.00 | -181.9 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
-| 2026-05-08 | NATIONAL CS UNI | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.01 | 1.00 | 0.01 | 0.00 | 0.00 | -144.7 | Es6x, IamSudzy, TwistedMango, _flan, warpN |
+| 2026-05-22 | We Just Pug | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -221.2 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-20 | 37U Passion | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.00 | -299.0 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-15 | 929 Arrival Gang | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.06 | +433.2 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-13 | Dynasty | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -181.8 | Electrikey, Es6x, IamSudzy, TwistedMango, _flan |
+| 2026-05-08 | NATIONAL CS UNI | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.00 | -146.2 | Es6x, IamSudzy, TwistedMango, _flan, warpN |
 
 _Snapshot 2026-11-02 | NARS v2 | CC BY-SA 4.0_

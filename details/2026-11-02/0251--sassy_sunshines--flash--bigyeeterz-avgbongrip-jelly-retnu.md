@@ -3,17 +3,17 @@ Team Name: Sassy Sunshines
 Roster: Flash-, BigYeeterz, AvgBongRip, Jelly, Retnuh
 NARS Rank: 251 of 484
 
-Final Rating: 1369.6
-Seeded Start: 1391.1
-H2H Adjustment: -21.5
+Final Rating: 1368.3
+Seeded Start: 1389.1
+H2H Adjustment: -20.8
 
-Final Rating (1369.6) = Seeded Start (1391.1) + H2H Adjustment (-21.5)
+Final Rating (1368.3) = Seeded Start (1389.1) + H2H Adjustment (-20.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.208 x 1400 = 1391.1
+                = 1100 + 0.207 x 1400 = 1389.1
 
-seed_factor 0.208 = 0.25 x Tier Exposure (0.105) + 0.50 x Quality Wins (0.056) + 0.25 x Opponent Network (0.615)
+seed_factor 0.207 = 0.25 x Tier Exposure (0.102) + 0.50 x Quality Wins (0.054) + 0.25 x Opponent Network (0.616)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -25,14 +25,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-28 | MINDTRIP | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +74.7 | Flash-, Jelly, Retnuh, metroJS, zNiido- |
-| 2026-10-21 | SwagMonkeyHats | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -233.0 | Angry-_-, AvgBongRip, Jelly, Retnuh, metroJS |
-| 2026-10-16 | Aers Money Crew | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +6.4 | Angry-_-, BigYeeterz, Jelly, Retnuh, zNiido- |
+| 2026-10-21 | SwagMonkeyHats | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -232.9 | Angry-_-, AvgBongRip, Jelly, Retnuh, metroJS |
+| 2026-10-16 | Aers Money Crew | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +6.4 | Angry-_-, BigYeeterz, Jelly, Retnuh, zNiido- |
 | 2026-10-14 | Texas Orange | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +12.2 | AvgBongRip, BigYeeterz, Jelly, Retnuh, zNiido- |
-| 2026-10-09 | Down To Frag | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -93.1 | Angry-_-, AvgBongRip, Jelly, metroJS, zNiido- |
-| 2026-09-08 | Macs Snacks | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.83 | 1.10 | 1.00 | 0.92 | 0.10 | 0.92 | +35.0 | BigYeeterz, Flash-, Jelly, Retnuh, zNiido- |
-| 2026-09-07 | strawberry poptarts | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.82 | 1.10 | 1.00 | 0.91 | 0.07 | 0.91 | +41.0 | BigYeeterz, Flash-, Jelly, Retnuh, zNiido- |
+| 2026-10-09 | Down To Frag | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -93.2 | Angry-_-, AvgBongRip, Jelly, metroJS, zNiido- |
+| 2026-09-08 | Macs Snacks | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.83 | 1.10 | 1.00 | 0.92 | 0.09 | 0.92 | +35.0 | BigYeeterz, Flash-, Jelly, Retnuh, zNiido- |
+| 2026-09-07 | strawberry poptarts | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.82 | 1.10 | 1.00 | 0.91 | 0.06 | 0.91 | +41.0 | BigYeeterz, Flash-, Jelly, Retnuh, zNiido- |
 | 2026-09-03 | ASYCS KITTENS | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.80 | 1.10 | 1.00 | 0.88 | 0.00 | 0.00 | -76.2 | AvgBongRip, BigYeeterz, Jelly, Retnuh, zNiido- |
-| 2026-09-02 | SwagMonkeyHats | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.79 | 1.10 | 1.00 | 0.87 | 0.16 | 0.87 | +13.3 | BigYeeterz, Jelly, Retnuh, metroJS, zNiido- |
+| 2026-09-02 | SwagMonkeyHats | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.79 | 1.10 | 1.00 | 0.87 | 0.15 | 0.87 | +13.3 | BigYeeterz, Jelly, Retnuh, metroJS, zNiido- |
 | 2026-08-28 | Shaboing Boing Bandits | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.76 | 1.10 | 1.00 | 0.83 | 0.09 | 0.83 | +77.9 | -Stuwu-, AvgBongRip, BigYeeterz, Retnuh, zNiido- |
 | 2026-08-19 | Nomadic Tactics | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.10 | 1.00 | 0.77 | 0.06 | 0.77 | +162.2 | Angry-_-, BigYeeterz, Jelly, Retnuh, metroJS |
 | 2026-08-14 | Exnitas | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.10 | 1.00 | 0.73 | 0.00 | 0.00 | -149.7 | Angry-_-, AvgBongRip, BigYeeterz, Jelly, zNiido- |
@@ -41,11 +41,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Evil Space Wizards | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.60 | 1.10 | 1.00 | 0.66 | 0.02 | 0.66 | +177.6 | Angry-_-, AvgBongRip, Jelly, Retnuh, metroJS |
 | 2026-07-31 | MASTER ONE | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.57 | 1.10 | 1.00 | 0.63 | 0.00 | 0.00 | -30.0 | AvgBongRip, Flash-, Jelly, Retnuh, zNiido- |
 | 2026-07-29 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.10 | 1.00 | 0.61 | 0.00 | 0.00 | -24.1 | AvgBongRip, BigYeeterz, Flash-, Jelly, metroJS |
-| 2026-07-17 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.52 | 0.00 | 0.00 | -337.8 | -Stuwu-, Angry-_-, AvgBongRip, Jelly, Retnuh |
-| 2026-07-15 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.46 | 1.10 | 1.00 | 0.51 | 0.00 | 0.00 | -123.8 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
-| 2026-05-20 | Conscious Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.13 | 1.00 | 0.10 | 0.02 | 0.10 | +378.0 | Angry-_-, BigYeeterz, Flash-, Jelly, Retnuh |
+| 2026-07-17 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.10 | 1.00 | 0.52 | 0.00 | 0.00 | -337.7 | -Stuwu-, Angry-_-, AvgBongRip, Jelly, Retnuh |
+| 2026-07-15 | Skyline | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.46 | 1.10 | 1.00 | 0.51 | 0.00 | 0.00 | -124.1 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
+| 2026-05-20 | Conscious Gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.09 | 1.13 | 1.00 | 0.10 | 0.02 | 0.10 | +378.2 | Angry-_-, BigYeeterz, Flash-, Jelly, Retnuh |
 | 2026-05-15 | 773Revival | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.13 | 1.00 | 0.07 | 0.00 | 0.00 | -375.8 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
-| 2026-05-13 | goofball gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.13 | 1.00 | 0.05 | 0.00 | 0.05 | +90.9 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
-| 2026-05-11 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.13 | 1.00 | 0.04 | 0.00 | 0.04 | +200.8 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
+| 2026-05-13 | goofball gaming | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.04 | 1.13 | 1.00 | 0.05 | 0.00 | 0.05 | +91.1 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
+| 2026-05-11 | Kaos | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.03 | 1.13 | 1.00 | 0.04 | 0.00 | 0.04 | +201.1 | AvgBongRip, BigYeeterz, Flash-, Jelly, Retnuh |
 
 _Snapshot 2026-11-02 | NARS v2 | CC BY-SA 4.0_

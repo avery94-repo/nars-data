@@ -3,17 +3,17 @@ Team Name: ClanAgain
 Roster: logan19961, Dan, techyyy, Its_Cryptic, Wayha
 NARS Rank: 262 of 484
 
-Final Rating: 1351.8
-Seeded Start: 1281.9
-H2H Adjustment: +69.9
+Final Rating: 1351.0
+Seeded Start: 1280.7
+H2H Adjustment: +70.3
 
-Final Rating (1351.8) = Seeded Start (1281.9) + H2H Adjustment (+69.9)
+Final Rating (1351.0) = Seeded Start (1280.7) + H2H Adjustment (+70.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.130 x 1400 = 1281.9
+                = 1100 + 0.129 x 1400 = 1280.7
 
-seed_factor 0.130 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.401)
+seed_factor 0.129 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.023) + 0.25 x Opponent Network (0.401)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -26,13 +26,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-30 | Will of Dih | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +52.3 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
 | 2026-10-28 | AML | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.09 | 1.04 | +4.2 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
-| 2026-10-21 | brb grinding minecraft | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -82.0 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
-| 2026-10-16 | Team TahMeow | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -168.5 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
+| 2026-10-21 | brb grinding minecraft | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -82.1 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
+| 2026-10-16 | Team TahMeow | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -168.6 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
 | 2026-10-09 | Kahoot Squad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +126.4 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
 | 2026-09-12 | WhiteBoyWinter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.86 | 1.05 | 1.00 | 0.90 | 0.00 | 0.00 | -89.5 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
-| 2026-09-10 | Casual Mature Gamers | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.05 | 1.00 | 0.89 | 0.06 | 0.89 | +95.5 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
+| 2026-09-10 | Casual Mature Gamers | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.84 | 1.05 | 1.00 | 0.89 | 0.06 | 0.89 | +95.6 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-06 | feet67 | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.82 | 1.05 | 1.00 | 0.86 | 0.00 | 0.00 | -108.3 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
-| 2026-09-04 | KylianDictator | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.85 | 0.03 | 0.85 | +118.2 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
-| 2026-09-02 | lofi hip hop radio | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.79 | 1.05 | 1.00 | 0.83 | 0.03 | 0.83 | +121.7 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
+| 2026-09-04 | KylianDictator | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.85 | 0.03 | 0.85 | +118.4 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
+| 2026-09-02 | lofi hip hop radio | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.79 | 1.05 | 1.00 | 0.83 | 0.03 | 0.83 | +121.9 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 
 _Snapshot 2026-11-02 | NARS v2 | CC BY-SA 4.0_
