@@ -1,5 +1,27 @@
 [
  {
+  "match_id": "hltv:2399990",
+  "date": "2026-11-03",
+  "competition": "IEM Beijing 2026",
+  "team_a": "Liquid",
+  "team_b": "PARIVISION",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "S",
+  "source": "hltv"
+ },
+ {
+  "match_id": "1-e3756bba-395e-4c52-9135-93e954896a28",
+  "date": "2026-11-02",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Hairy Scary Bandits",
+  "team_b": "EXODIA",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "hltv:2399861",
   "date": "2026-11-02",
   "competition": "IEM Beijing 2026",
@@ -49665,17 +49687,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "1-2a4d88fc-db31-41cd-934b-692541311c77",
-  "date": "2026-05-31",
-  "competition": "S57 NA Open9-10 Central - Playoffs B",
-  "team_a": "VeryBigDoogoos",
-  "team_b": "Yacht Club",
-  "winner": "a",
-  "score": "2-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
   "match_id": "1-2f175a10-1120-4803-ab87-350db6ae5a99",
   "date": "2026-05-31",
   "competition": "S57 NA Intermediate Central - Playoffs A",
@@ -61290,203 +61301,5 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "1-0268f0c4-19d4-424c-9fe4-aa6ad9ff1dad",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "North Forge",
-  "team_b": "Shimmer",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-263d90b6-f117-4e42-8a84-7cf7c8a02e52",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Baatarz",
-  "team_b": "Phantom Sense",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-273fe0bb-8987-46b0-9ff4-a36318c50b3a",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "unreal nightmare",
-  "team_b": "Brahmas",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-3352d1f7-1ca1-4321-aae9-e7e724f73f4b",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "skebob",
-  "team_b": "KODEX ESPORTS",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-4f4c619d-13ea-43a4-8806-8fd0b7e825a0",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Once Divine Gaming",
-  "team_b": "Aspyre",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-726ce6ce-8a6d-4ff6-a0ab-348289f75440",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Ex-Tricksters",
-  "team_b": "Omen Esports",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-7c2c1496-391b-4929-8ae5-f153ff276baf",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "counterstrike Team",
-  "team_b": "Beyond Limits",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-8ba471e0-6920-4382-86c2-f72db659d10b",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "FlyQuest RED",
-  "team_b": "Holy Squid Empire",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-91d78533-553c-414b-96d8-df8a4577334e",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Iowa Stormboar",
-  "team_b": "Villainous",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-98314ab8-0ee4-4219-b419-48bc225cb797",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Celestial Esports",
-  "team_b": "Room Temp IQs",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-b141747e-120b-42ca-93cb-3c28c04404c3",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Holly Molly",
-  "team_b": "Demolition",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-d44553df-90bf-4c75-8500-75dd0e74770a",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Olympus",
-  "team_b": "LAG Gaming",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-df508868-6348-46f5-8fae-e8652409f298",
-  "date": "2026-05-07",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "DUI",
-  "team_b": "BucketJonsBoys",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-eac51f66-e3f9-427e-95de-224816599c98",
-  "date": "2026-05-07",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "1NT",
-  "team_b": "Macs Snacks",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-f0b24860-a943-42dd-801a-719287925892",
-  "date": "2026-05-07",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "Team Amplus",
-  "team_b": "N w G",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-f42eb398-4ebe-4086-b726-13fb6a2abc30",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Pug Palace",
-  "team_b": "Elisir Esports",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-f7431e6b-93bd-44ad-89c5-d6cf93ae4fbc",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Axial",
-  "team_b": "NineFly Esports",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-fcbc07ac-69e1-4d37-bd6e-f5d032ba35ae",
-  "date": "2026-05-07",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Shadow Wizard Money Gang",
-  "team_b": "Addice",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
  }
 ]
