@@ -1,5 +1,93 @@
 [
  {
+  "match_id": "1-e7d751dd-7554-41a1-a1c3-fb7b3e1042f8",
+  "date": "2026-11-04",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "New Legends",
+  "team_b": "academy 4 gifted children",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-933b4dc9-813e-4a4b-b9fc-530829b46cb9",
+  "date": "2026-11-04",
+  "competition": "S59 NA Main A - Regular Season",
+  "team_a": "offBalance",
+  "team_b": "Asoka",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-ff31f92c-1803-44b0-bc7b-1421b3cdea98",
+  "date": "2026-11-04",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "Knight Owls",
+  "team_b": "TELETUBEASTS",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-0cd582e4-fe28-4f1e-b3b3-7c85092f37ff",
+  "date": "2026-11-04",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "Will of Dih",
+  "team_b": "TELETUBEASTS",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-878ca0c2-cf14-4dfd-9bec-4012a514b956",
+  "date": "2026-11-04",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "FarmVille",
+  "team_b": "PBP",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-9dc5e356-1aa7-4b2f-bdd1-f5c5b005caa6",
+  "date": "2026-11-04",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "Alternate Earth",
+  "team_b": "Team GREAT",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-c5ccdcac-575a-4d86-9649-e19cc0c38579",
+  "date": "2026-11-04",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "Arnes Wit Attitudes",
+  "team_b": "Veniversum",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-2abb2f89-6a11-4c75-8c97-2826c934747f",
+  "date": "2026-11-04",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "Afterimage",
+  "team_b": "Black Dragon Society",
+  "winner": "a",
+  "score": "W/O",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "hltv:2399998",
   "date": "2026-11-04",
   "competition": "IEM Beijing 2026",
@@ -9,6 +97,160 @@
   "score": "2-0",
   "tier": "S",
   "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2400002",
+  "date": "2026-11-04",
+  "competition": "IEM Beijing 2026",
+  "team_a": "Liquid",
+  "team_b": "BETBOOM",
+  "winner": "b",
+  "score": "1-2",
+  "tier": "S",
+  "source": "hltv"
+ },
+ {
+  "match_id": "1-11976f47-7ea8-4a3c-818c-388eaa92cef3",
+  "date": "2026-11-03",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Marsborne",
+  "team_b": "my life be like",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-128b5c20-afb4-40aa-a131-171b7961e4ed",
+  "date": "2026-11-03",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Chicken Coop",
+  "team_b": "Brahmas",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-237b242b-6de8-4ec0-8a31-62b212f357c4",
+  "date": "2026-11-03",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "ODIN",
+  "team_b": "brb grinding minecraft",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-4303be12-62a3-4f4c-98b7-caaf1d7beb91",
+  "date": "2026-11-03",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "House Platypus ESC",
+  "team_b": "Phantom Sense",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-4577c572-f0d5-496a-b104-ddc9d057b4a4",
+  "date": "2026-11-03",
+  "competition": "S59 NA Main A - Regular Season",
+  "team_a": "Kinetic",
+  "team_b": "UltimateDarklordWizardz",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-69aa9859-d097-487c-a36c-310677f2887e",
+  "date": "2026-11-03",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "DMA",
+  "team_b": "Solbound",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-7e328651-62f8-4c40-9551-38a9f4081ff1",
+  "date": "2026-11-03",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "NXG Esports",
+  "team_b": "North Forge",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-9400b9fd-d191-472a-aa42-2657f129d467",
+  "date": "2026-11-03",
+  "competition": "S59 NA Main A - Regular Season",
+  "team_a": "Kings Gambit",
+  "team_b": "FLOW STATE",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-a90cd4f4-af37-44a0-8410-73be95e4faa3",
+  "date": "2026-11-03",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Pug Palace",
+  "team_b": "Endless Esports",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-aa656f57-fb85-4ca7-b8a7-b34ecf56c61a",
+  "date": "2026-11-03",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Hairy Scary Bandits",
+  "team_b": "academy 4 gifted children",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-db90cc73-a624-4b6c-9acb-b830d98d4784",
+  "date": "2026-11-03",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "Green Grove Retirement",
+  "team_b": "GOYPEEKING",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-ea277643-13ae-41c2-aad6-5786f1e8b164",
+  "date": "2026-11-03",
+  "competition": "S59 NA Main A - Regular Season",
+  "team_a": "Kevin James Fan Club",
+  "team_b": "penazoid",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-f7735752-3720-46aa-8b95-8835d6ee849c",
+  "date": "2026-11-03",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "GRIT",
+  "team_b": "Team Hyper",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
  },
  {
   "match_id": "1-ca204f6c-5fa7-4a4d-aed6-aa39197dff14",
@@ -9391,17 +9633,6 @@
   "winner": "b",
   "score": "0-1",
   "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-c0882e73-420c-478d-860d-a583fc7b8074",
-  "date": "2026-10-07",
-  "competition": "S59 NA Advanced Central - Regular Season",
-  "team_a": "Iowa Stormboar",
-  "team_b": "Shadow Wizard Money Gang",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
   "source": "faceit-league"
  },
  {
@@ -47960,17 +48191,6 @@
   "source": "faceit-league"
  },
  {
-  "match_id": "1-84772f0b-5146-491a-9b2a-fde588039eb0",
-  "date": "2026-06-05",
-  "competition": "S57 NA Open1-8 Central - Playoffs",
-  "team_a": "Kaoz Clan",
-  "team_b": "NOJOY",
-  "winner": "a",
-  "score": "2-1",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
   "match_id": "1-8743a8ad-4036-4e7e-8b9b-35a8ce019492",
   "date": "2026-06-05",
   "competition": "S57 NA Intermediate Central - Playoffs B",
@@ -48814,17 +49034,6 @@
   "team_b": "Gangy eSports",
   "winner": "b",
   "score": "1-2",
-  "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-a5112fec-2778-4648-8c33-534b51ac8005",
-  "date": "2026-06-03",
-  "competition": "S57 NA Open1-8 Central - Playoffs",
-  "team_a": "Kaoz Clan",
-  "team_b": "Team Gomer Gummi",
-  "winner": "a",
-  "score": "2-1",
   "tier": "C",
   "source": "faceit-league"
  },
@@ -60013,17 +60222,6 @@
   "winner": "a",
   "score": "1-0",
   "tier": "C",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-f1b183c4-204c-4028-b194-c2699fa7b920",
-  "date": "2026-05-09",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Ex-Tricksters",
-  "team_b": "Iowa Stormboar",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
   "source": "faceit-league"
  }
 ]
