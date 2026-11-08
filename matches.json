@@ -11,6 +11,39 @@
   "source": "hltv"
  },
  {
+  "match_id": "1-3237b044-d411-4499-b12a-fdeb4457a87f",
+  "date": "2026-11-07",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Feistein",
+  "team_b": "mas paspas",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-80905c8f-05bf-4edb-af57-0c2e5b1cca5c",
+  "date": "2026-11-07",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "GRIT",
+  "team_b": "Overtake Sector",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-8933b349-0f0c-43ef-93e2-c9c9e5b3710c",
+  "date": "2026-11-07",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "LAG Gaming",
+  "team_b": "Club 333",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-b5985745-bc8e-4917-963d-30950b7f5f88",
   "date": "2026-11-07",
   "competition": "S59 NA Main A - Regular Season",
@@ -2673,6 +2706,72 @@
   "source": "hltv"
  },
  {
+  "match_id": "to:nstlga-texas-open-2026:a-wm",
+  "date": "2026-10-31",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "LAG Gaming",
+  "team_b": "Holly Molly",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "tosheet"
+ },
+ {
+  "match_id": "to:nstlga-texas-open-2026:a-em",
+  "date": "2026-10-31",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "Muzzle",
+  "team_b": "PMA",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "tosheet"
+ },
+ {
+  "match_id": "to:nstlga-texas-open-2026:a-dm",
+  "date": "2026-10-31",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "Holly Molly",
+  "team_b": "PMA",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "tosheet"
+ },
+ {
+  "match_id": "to:nstlga-texas-open-2026:b-wm",
+  "date": "2026-10-31",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "NuTorious",
+  "team_b": "Sutti's Money Crew",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "tosheet"
+ },
+ {
+  "match_id": "to:nstlga-texas-open-2026:b-em",
+  "date": "2026-10-31",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "COGNITIVE",
+  "team_b": "YHTR",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "tosheet"
+ },
+ {
+  "match_id": "to:nstlga-texas-open-2026:b-dm",
+  "date": "2026-10-31",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "Sutti's Money Crew",
+  "team_b": "YHTR",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "tosheet"
+ },
+ {
   "match_id": "1-03e28deb-2ee2-4c39-8bdc-7e5ba6510a21",
   "date": "2026-10-30",
   "competition": "S59 NA Main A - Regular Season",
@@ -3716,6 +3815,50 @@
   "score": "2-1",
   "tier": "B",
   "source": "hltv"
+ },
+ {
+  "match_id": "to:nstlga-texas-open-2026:a-r1-1",
+  "date": "2026-10-30",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "LAG Gaming",
+  "team_b": "Muzzle",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "tosheet"
+ },
+ {
+  "match_id": "to:nstlga-texas-open-2026:a-r1-2",
+  "date": "2026-10-30",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "PMA",
+  "team_b": "Holly Molly",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "tosheet"
+ },
+ {
+  "match_id": "to:nstlga-texas-open-2026:b-r1-1",
+  "date": "2026-10-30",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "NuTorious",
+  "team_b": "COGNITIVE",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "tosheet"
+ },
+ {
+  "match_id": "to:nstlga-texas-open-2026:b-r1-2",
+  "date": "2026-10-30",
+  "competition": "NSTLGA Texas Open 2026",
+  "team_a": "Sutti's Money Crew",
+  "team_b": "YHTR",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "tosheet"
  },
  {
   "match_id": "1-0cff1dfc-fd14-47ee-a102-3f9923767d72",
