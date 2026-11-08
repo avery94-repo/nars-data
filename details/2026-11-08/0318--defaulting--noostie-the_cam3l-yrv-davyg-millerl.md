@@ -3,11 +3,11 @@ Team Name: Defaulting
 Roster: noostie, The_Cam3l, YRV, DavyG, MillerL
 NARS Rank: 318 of 467
 
-Final Rating: 1211.5
+Final Rating: 1211.6
 Seeded Start: 1233.0
-H2H Adjustment: -21.5
+H2H Adjustment: -21.4
 
-Final Rating (1211.5) = Seeded Start (1233.0) + H2H Adjustment (-21.5)
+Final Rating (1211.6) = Seeded Start (1233.0) + H2H Adjustment (-21.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,13 +26,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-11-06 | Transcended | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +82.3 | DavyG, JCIV, Killerbean66, YRV, noostie |
 | 2026-11-05 | Afterimage | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -46.2 | DavyG, JCIV, Killerbean66, YRV, noostie |
-| 2026-11-04 | The ESEA Clout Tokens | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -81.4 | -dP, DavyG, JCIV, YRV, noostie |
+| 2026-11-04 | The ESEA Clout Tokens | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -81.5 | -dP, DavyG, JCIV, YRV, noostie |
 | 2026-10-30 | CN Chill Boyz | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-28 | ASCEND | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -91.6 | DavyG, JCIV, Killerbean66, YRV, noostie |
 | 2026-10-21 | 55TH ST | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-16 | PBP | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-14 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -121.5 | DavyG, JCIV, Killerbean66, YRV, noostie |
-| 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +197.4 | DavyG, JCIV, Killerbean66, YRV, noostie |
+| 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +197.5 | DavyG, JCIV, Killerbean66, YRV, noostie |
 | 2026-09-12 | COGNITIVE | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.82 | 1.11 | 1.00 | 0.91 | 0.00 | 0.00 | -123.1 | DavyG, Killerbean66, The_Cam3l, YRV, santanamolly |
 | 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.81 | 1.11 | 1.00 | 0.89 | 0.06 | 0.89 | +128.8 | DavyG, EndMeThx, JCIV, Killerbean66, YRV |
 | 2026-09-06 | RH Help Desk | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.78 | 1.11 | 1.00 | 0.86 | 0.00 | 0.00 | -112.9 | DavyG, EndMeThx, Killerbean66, The_Cam3l, YRV |

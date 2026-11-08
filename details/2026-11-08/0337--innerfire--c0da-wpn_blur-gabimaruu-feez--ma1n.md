@@ -3,11 +3,11 @@ Team Name: innerFire
 Roster: c0da, wpn_Blur, Gabimaruu, Feez-, ma1N
 NARS Rank: 337 of 467
 
-Final Rating: 1171.6
+Final Rating: 1171.7
 Seeded Start: 1202.0
-H2H Adjustment: -30.4
+H2H Adjustment: -30.3
 
-Final Rating (1171.6) = Seeded Start (1202.0) + H2H Adjustment (-30.4)
+Final Rating (1171.7) = Seeded Start (1202.0) + H2H Adjustment (-30.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -38,8 +38,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.57 | 0.00 | 0.00 | -4.8 | -Mako, Feez-, Gabimaruu, c0da, ma1N |
 | 2026-07-29 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -152.5 | -Mako, Feez-, Gabimaruu, apik, ma1N |
 | 2026-07-17 | DeathMark E-Sports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.00 | 0.00 | -0.5 | Evil_Cheese, Gabimaruu, c0da, ma1N, seth |
-| 2026-05-20 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.00 | -100.1 | Evil_Cheese, Gabimaruu, c0da, ma1N, rypeexd, wpn_Blur |
-| 2026-05-15 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -234.0 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
-| 2026-05-13 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -194.2 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
+| 2026-05-20 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.00 | -100.0 | Evil_Cheese, Gabimaruu, c0da, ma1N, rypeexd, wpn_Blur |
+| 2026-05-15 | CounterStreakrs | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -233.9 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
+| 2026-05-13 | Abusement Park | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -194.1 | Feez-, Gabimaruu, c0da, ma1N, wpn_Blur |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

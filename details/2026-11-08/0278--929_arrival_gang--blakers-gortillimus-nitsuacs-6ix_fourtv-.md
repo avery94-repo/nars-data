@@ -3,15 +3,15 @@ Team Name: 929 Arrival Gang
 Roster: Blakers, Gortillimus, nitsuACS, 6ix_FourTV, -Or1x
 NARS Rank: 278 of 467
 
-Final Rating: 1298.1
-Seeded Start: 1261.5
+Final Rating: 1298.2
+Seeded Start: 1261.6
 H2H Adjustment: +36.6
 
-Final Rating (1298.1) = Seeded Start (1261.5) + H2H Adjustment (+36.6)
+Final Rating (1298.2) = Seeded Start (1261.6) + H2H Adjustment (+36.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.115 x 1400 = 1261.5
+                = 1100 + 0.115 x 1400 = 1261.6
 
 seed_factor 0.115 = 0.25 x Tier Exposure (0.056) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.362)
 

@@ -3,15 +3,15 @@ Team Name: Midwest Farmers
 Roster: exotic-, Bluely49, -MaC, MasterShifu, Kuahana
 NARS Rank: 312 of 467
 
-Final Rating: 1220.7
-Seeded Start: 1311.5
-H2H Adjustment: -90.8
+Final Rating: 1220.9
+Seeded Start: 1311.6
+H2H Adjustment: -90.7
 
-Final Rating (1220.7) = Seeded Start (1311.5) + H2H Adjustment (-90.8)
+Final Rating (1220.9) = Seeded Start (1311.6) + H2H Adjustment (-90.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.151 x 1400 = 1311.5
+                = 1100 + 0.151 x 1400 = 1311.6
 
 seed_factor 0.151 = 0.25 x Tier Exposure (0.100) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.436)
 
@@ -47,11 +47,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.49 | 0.03 | 0.49 | +140.7 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |
 | 2026-07-22 | NoPrac | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.03 | 0.47 | +79.6 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |
 | 2026-07-15 | Mach 10 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.43 | 0.03 | 0.43 | +342.5 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu |
-| 2026-05-31 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.12 | 1.00 | 1.00 | 0.12 | 0.00 | 0.00 | -246.3 | -MaC, Bluely49, Kuahana, MasterShifu, exotic- |
+| 2026-05-31 | 91AshLiu | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.12 | 1.00 | 1.00 | 0.12 | 0.00 | 0.00 | -246.4 | -MaC, Bluely49, Kuahana, MasterShifu, exotic- |
 | 2026-05-29 | NATIONAL CS UNI | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -7.3 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |
 | 2026-05-27 | We Play Naked | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +382.4 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |
 | 2026-05-22 | Hairy Scary Bandits | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.06 | 0.00 | 0.00 | -4.0 | -MaC, Bezerker, Bluely49, Kuahana, exotic- |
 | 2026-05-14 | Relativity | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.01 | 1.00 | 0.01 | 0.00 | 0.00 | -282.9 | -MaC, Bezerker, Bluely49, Kuahana, MasterShifu |
-| 2026-05-13 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -271.3 | -MaC, Bluely49, Kuahana, MasterShifu, exotic- |
+| 2026-05-13 | Distinguished Ducks | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -271.4 | -MaC, Bluely49, Kuahana, MasterShifu, exotic- |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

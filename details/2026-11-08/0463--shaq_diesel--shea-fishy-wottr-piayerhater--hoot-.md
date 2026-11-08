@@ -35,10 +35,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | de_throne | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.04 | 0.52 | +230.7 | PIayerhater, PhilLesh-, Wottr, mook, shea |
 | 2026-07-24 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -4.7 | -HooT-, PIayerhater, Wottr, mook, shea |
 | 2026-07-22 | DeathMark E-Sports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -0.1 | -HooT-, PIayerhater, PhilLesh-, Wottr, shea |
-| 2026-07-17 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.00 | 0.00 | -141.2 | Conzor, Fishy, PIayerhater, PhilLesh-, shea |
-| 2026-07-15 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.43 | 0.00 | 0.00 | -43.9 | -HooT-, Conzor, PIayerhater, Wottr, shea |
+| 2026-07-17 | FLying PiGs | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.00 | 0.00 | -141.1 | Conzor, Fishy, PIayerhater, PhilLesh-, shea |
+| 2026-07-15 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.43 | 0.00 | 0.00 | -44.0 | -HooT-, Conzor, PIayerhater, Wottr, shea |
 | 2026-05-22 | We Play Naked | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.06 | 0.00 | 0.00 | -36.1 | -HooT-, Conzor, PIayerhater, Wottr, mook |
-| 2026-05-15 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -264.7 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |
-| 2026-05-14 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.01 | 1.00 | 0.01 | 0.00 | 0.00 | -124.5 | -HooT-, Conzor, Fishy, PIayerhater, Wottr |
+| 2026-05-15 | Famas OP | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -264.8 | -HooT-, Fishy, PIayerhater, PhilLesh-, Wottr |
+| 2026-05-14 | Tractors | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.01 | 1.00 | 0.01 | 0.00 | 0.00 | -124.4 | -HooT-, Conzor, Fishy, PIayerhater, Wottr |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

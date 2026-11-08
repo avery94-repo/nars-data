@@ -3,15 +3,15 @@ Team Name: Kings Gambit
 Roster: tonyballoni, sodreamX, rockstaraL, musashi---, casanova2005
 NARS Rank: 66 of 467
 
-Final Rating: 1827.5
-Seeded Start: 1417.6
-H2H Adjustment: +409.9
+Final Rating: 1827.7
+Seeded Start: 1417.8
+H2H Adjustment: +409.9 (capped at +-300, raw +410.0)
 
-Final Rating (1827.5) = Seeded Start (1417.6) + H2H Adjustment (+409.9)
+Final Rating (1827.7) = Seeded Start (1417.8) + H2H Adjustment (+409.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.227 x 1400 = 1417.6
+                = 1100 + 0.227 x 1400 = 1417.8
 
 seed_factor 0.227 = 0.25 x Tier Exposure (0.097) + 0.50 x Quality Wins (0.070) + 0.25 x Opponent Network (0.670)
 
@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | YHTR | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.13 | 1.02 | +49.4 | Somalian_Orc, musashi---, sodreamX, tonyballoni, videocIub |
 | 2026-10-14 | Chopped | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +74.2 | Somalian_Orc, musashi---, sodreamX, tonyballoni, videocIub |
 | 2026-10-09 | GeneticDiff | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -93.4 | Somalian_Orc, musashi---, sodreamX, tonyballoni, videocIub |
-| 2026-10-07 | noname | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.10 | 1.01 | +267.2 | Somalian_Orc, musashi---, sodreamX, tonyballoni, videocIub |
+| 2026-10-07 | noname | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.10 | 1.01 | +267.3 | Somalian_Orc, musashi---, sodreamX, tonyballoni, videocIub |
 | 2026-09-06 | Void | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -2.3 | crazypooper7, musashi---, sodreamX, tonyballoni, videocIub |
 | 2026-09-04 | MakeYouSayLate | W | 2-1 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.08 | 0.76 | +68.6 | Somalian_Orc, crazypooper7, musashi---, sodreamX, tonyballoni, videocIub |
 | 2026-09-02 | MadaNASCAR | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -58.3 | crazypooper7, musashi---, sodreamX, tonyballoni, videocIub |
@@ -50,7 +50,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.03 | 0.48 | +128.8 | casanova2005, crazypooper7, musashi---, tonyballoni, videocIub |
 | 2026-07-17 | NATIONAL CS UNI | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.00 | 0.00 | -139.4 | casanova2005, musashi---, sodreamX, tonyballoni, videocIub |
 | 2026-07-15 | Solbound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.00 | 0.00 | -423.4 | casanova2005, musashi---, sodreamX, tonyballoni, videocIub |
-| 2026-05-29 | Sable | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +168.8 | casanova2005, musashi---, sodreamX, tonyballoni, videocIub |
+| 2026-05-29 | Sable | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +168.7 | casanova2005, musashi---, sodreamX, tonyballoni, videocIub |
 | 2026-05-27 | Made in Abergavenny | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +56.5 | casanova2005, musashi---, sodreamX, tonyballoni, videocIub |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

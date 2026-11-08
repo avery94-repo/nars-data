@@ -3,11 +3,11 @@ Team Name: Iron Horse
 Roster: TRISTY-HGM, ToxicCannoli, NoVaVoN, btz, London
 NARS Rank: 444 of 467
 
-Final Rating: 813.1
+Final Rating: 813.2
 Seeded Start: 1102.5
-H2H Adjustment: -289.4
+H2H Adjustment: -289.3
 
-Final Rating (813.1) = Seeded Start (1102.5) + H2H Adjustment (-289.4)
+Final Rating (813.2) = Seeded Start (1102.5) + H2H Adjustment (-289.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

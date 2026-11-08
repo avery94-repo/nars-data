@@ -4,14 +4,14 @@ Roster: KiDxHeart, patitas, slorpepe, timsta, DOZILLA
 NARS Rank: 459 of 467
 
 Final Rating: 654.1
-Seeded Start: 1156.8
-H2H Adjustment: -502.7 (capped at +-300, raw -502.8)
+Seeded Start: 1156.9
+H2H Adjustment: -502.8
 
-Final Rating (654.1) = Seeded Start (1156.8) + H2H Adjustment (-502.7)
+Final Rating (654.1) = Seeded Start (1156.9) + H2H Adjustment (-502.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.041 x 1400 = 1156.8
+                = 1100 + 0.041 x 1400 = 1156.9
 
 seed_factor 0.041 = 0.25 x Tier Exposure (0.029) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.125)
 
@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | 929 Arrival Gang | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -17.1 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
 | 2026-08-12 | Mace Lindu Ruff Rebound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -61.7 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
 | 2026-08-07 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -132.0 | DOZILLA, KiDxHeart, poon, slorpepe, timsta |
-| 2026-08-05 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -106.1 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
+| 2026-08-05 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -106.2 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
 | 2026-07-31 | Conduit eSports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.03 | 0.53 | +275.8 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
 | 2026-07-29 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -129.8 | DOZILLA, KiDxHeart, _m00se_, slorpepe, timsta |
 | 2026-07-24 | Brothers United | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.01 | 0.48 | +279.1 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |

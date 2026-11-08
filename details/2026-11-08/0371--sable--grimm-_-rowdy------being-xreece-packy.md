@@ -13,7 +13,7 @@ Final Rating (1068.8) = Seeded Start (1140.0) + H2H Adjustment (-71.2)
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.029 x 1400 = 1140.0
 
-seed_factor 0.029 = 0.25 x Tier Exposure (0.037) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.073)
+seed_factor 0.029 = 0.25 x Tier Exposure (0.037) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.074)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | TELETUBEASTS | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -113.4 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-09-06 | Kitzune Division | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.02 | 0.78 | +91.4 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-09-04 | RAZED | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -111.0 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
-| 2026-06-12 | Team TahMeow | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -192.4 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
+| 2026-06-12 | Team TahMeow | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -192.5 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-06-03 | We Have No Enemies | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +213.2 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-05-29 | Kings Gambit | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -168.4 | Grimm-_, Packy, ROWDY-----, being, xReeCe |
 | 2026-05-27 | gimme noggin | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +209.4 | Grimm-_, Packy, ROWDY-----, being, xReeCe |

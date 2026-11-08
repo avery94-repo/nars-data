@@ -3,11 +3,11 @@ Team Name: GoopT
 Roster: Teeler, Mcberd, fubard, Veggie-, B00LIGAN
 NARS Rank: 431 of 467
 
-Final Rating: 867.9
+Final Rating: 868.0
 Seeded Start: 1211.6
-H2H Adjustment: -343.7
+H2H Adjustment: -343.6 (capped at +-300, raw -343.7)
 
-Final Rating (867.9) = Seeded Start (1211.6) + H2H Adjustment (-343.7)
+Final Rating (868.0) = Seeded Start (1211.6) + H2H Adjustment (-343.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-21 | Kahoot Squad | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-16 | RH Help Desk | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -49.6 | B00LIGAN, Mcberd, Teeler, Xirtify, fubard |
 | 2026-10-14 | Good Vibes Gaming | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-10-07 | Cream Team | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.00 | 0.00 | -23.5 | B00LIGAN, Mcberd, Veggie-, Xirtify, fubard |
+| 2026-10-07 | Cream Team | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.00 | 0.00 | -23.4 | B00LIGAN, Mcberd, Veggie-, Xirtify, fubard |
 | 2026-08-28 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +94.8 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-08-26 | GoonAssOldheads | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -60.6 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |
 | 2026-08-21 | redtyfguhoj | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -13.1 | B00LIGAN, Mcberd, Teeler, Veggie-, fubard |

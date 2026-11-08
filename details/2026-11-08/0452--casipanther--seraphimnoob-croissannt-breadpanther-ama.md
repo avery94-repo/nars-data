@@ -3,15 +3,15 @@ Team Name: Casipanther
 Roster: Seraphimnoob, Croissannt, BreadPanther, Amat3rasucfa, PureWhite
 NARS Rank: 452 of 467
 
-Final Rating: 704.0
-Seeded Start: 1158.4
+Final Rating: 704.1
+Seeded Start: 1158.5
 H2H Adjustment: -454.4
 
-Final Rating (704.0) = Seeded Start (1158.4) + H2H Adjustment (-454.4)
+Final Rating (704.1) = Seeded Start (1158.5) + H2H Adjustment (-454.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.042 x 1400 = 1158.4
+                = 1100 + 0.042 x 1400 = 1158.5
 
 seed_factor 0.042 = 0.25 x Tier Exposure (0.030) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.126)
 
@@ -31,8 +31,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.02 | 0.72 | +101.0 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, Seraphimnoob |
 | 2026-08-26 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -29.6 | Amat3rasucfa, BreadPanther, Croissannt, Seraphimnoob, SleepyNooby |
 | 2026-08-21 | Ubiquiti | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -92.8 | Amat3rasucfa, BreadPanther, Croissannt, PureWhite, Seraphimnoob |
-| 2026-08-14 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -58.4 | Amat3rasucfa, BreadPanther, PureWhite, SleepyNooby, _OIOI_ |
-| 2026-08-12 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -13.9 | Amat3rasucfa, BreadPanther, Croissannt, SleepyNooby, ZhuA1 |
+| 2026-08-14 | GoopT | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -58.3 | Amat3rasucfa, BreadPanther, PureWhite, SleepyNooby, _OIOI_ |
+| 2026-08-12 | Epochal Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -13.8 | Amat3rasucfa, BreadPanther, Croissannt, SleepyNooby, ZhuA1 |
 | 2026-08-07 | ItAintOverYet | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -103.2 | BreadPanther, Croissannt, PureWhite, ZhuA1, _OIOI_ |
 | 2026-08-05 | FourStrokeGang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +116.7 | BreadPanther, Croissannt, PureWhite, SleepyNooby, ZhuA1 |
 | 2026-07-31 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -33.0 | BreadPanther, Croissannt, PureWhite, SleepyNooby, ZhuA1 |

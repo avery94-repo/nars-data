@@ -3,17 +3,17 @@ Team Name: Cream Team
 Roster: SuperDank, Dlotz, Et, DrippyPete, SirGoofyGoon
 NARS Rank: 356 of 467
 
-Final Rating: 1122.8
-Seeded Start: 1319.7
-H2H Adjustment: -196.9
+Final Rating: 1122.9
+Seeded Start: 1319.9
+H2H Adjustment: -197.0
 
-Final Rating (1122.8) = Seeded Start (1319.7) + H2H Adjustment (-196.9)
+Final Rating (1122.9) = Seeded Start (1319.9) + H2H Adjustment (-197.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.157 x 1400 = 1319.7
+                = 1100 + 0.157 x 1400 = 1319.9
 
-seed_factor 0.157 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.029) + 0.25 x Opponent Network (0.498)
+seed_factor 0.157 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.029) + 0.25 x Opponent Network (0.499)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -30,7 +30,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-30 | Mud Wizards | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +94.5 | Dlotz, DrippyPete, Et, SirBalloon, SuperDank |
 | 2026-10-28 | house | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +33.5 | Dlotz, DrippyPete, Et, SirBalloon, SuperDank |
 | 2026-10-21 | Alternate Earth | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -22.7 | Dlotz, DrippyPete, Et, GrimYeti, SuperDank |
-| 2026-10-16 | ASCEND | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -61.3 | Dlotz, DrippyPete, Et, SirBalloon, SuperDank |
+| 2026-10-16 | ASCEND | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -61.2 | Dlotz, DrippyPete, Et, SirBalloon, SuperDank |
 | 2026-10-14 | Guangzhou Loong Lions | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -159.9 | Dlotz, DrippyPete, Et, SirBalloon, SuperDank |
 | 2026-10-09 | Muncle | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +0.9 | Dlotz, DrippyPete, Et, SirBalloon, SuperDank |
 | 2026-10-07 | GoopT | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.07 | 1.02 | +24.3 | Dlotz, DrippyPete, Et, GrimYeti, SirBalloon |

@@ -3,17 +3,17 @@ Team Name: NoPrac
 Roster: destind2lose, MrOllie200, SirOdawg, Mythik, Shoodyman
 NARS Rank: 252 of 467
 
-Final Rating: 1361.6
-Seeded Start: 1274.8
+Final Rating: 1361.7
+Seeded Start: 1274.9
 H2H Adjustment: +86.8
 
-Final Rating (1361.6) = Seeded Start (1274.8) + H2H Adjustment (+86.8)
+Final Rating (1361.7) = Seeded Start (1274.9) + H2H Adjustment (+86.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.125 x 1400 = 1274.8
+                = 1100 + 0.125 x 1400 = 1274.9
 
-seed_factor 0.125 = 0.25 x Tier Exposure (0.060) + 0.50 x Quality Wins (0.029) + 0.25 x Opponent Network (0.382)
+seed_factor 0.125 = 0.25 x Tier Exposure (0.060) + 0.50 x Quality Wins (0.029) + 0.25 x Opponent Network (0.383)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -39,6 +39,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -3.1 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 | 2026-07-25 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -0.1 | MrOllie200, Mythik, SirOdawg, destind2lose, piK |
 | 2026-07-22 | Midwest Farmers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -79.7 | MrOllie200, Rennerr, Shoodyman, SirOdawg, destind2lose |
-| 2026-05-27 | seal team 67 | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.10 | 1.04 | 1.00 | 0.10 | 0.00 | 0.00 | -298.7 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
+| 2026-05-27 | seal team 67 | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.10 | 1.04 | 1.00 | 0.10 | 0.00 | 0.00 | -298.8 | MrOllie200, Mythik, Shoodyman, SirOdawg, destind2lose |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

@@ -26,10 +26,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-10 | Adria eSports | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.80 | 1.05 | 1.00 | 0.84 | 0.06 | 0.84 | +99.9 | 1icarus, DaRkHaWk72, Johnny316, ctrn, lelgfnoob |
 | 2026-09-07 | MEET THE WALL - DEAD | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.78 | 1.05 | 1.00 | 0.82 | 0.00 | 0.00 | -178.8 | 1icarus, Zaakaa, ctrn, egaK, mock |
-| 2026-09-04 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.76 | 1.05 | 1.00 | 0.80 | 0.12 | 0.80 | +111.2 | 1icarus, ctrn, egaK, lelgfnoob, mock |
+| 2026-09-04 | ASCEND | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.76 | 1.05 | 1.00 | 0.80 | 0.12 | 0.80 | +111.3 | 1icarus, ctrn, egaK, lelgfnoob, mock |
 | 2026-09-02 | Lemon Party | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.02 | 0.79 | +18.2 | 1icarus, CH4RG3R, Johnny316, ctrn, egaK |
 | 2026-06-05 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.16 | 1.04 | 1.00 | 0.17 | 0.00 | 0.00 | -227.1 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |
-| 2026-06-04 | ItAintOverYet | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.15 | 1.04 | 1.00 | 0.16 | 0.01 | 0.16 | +207.1 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |
+| 2026-06-04 | ItAintOverYet | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.15 | 1.04 | 1.00 | 0.16 | 0.01 | 0.16 | +206.9 | 1icarus, Redman_-, Zaakaa, ctrn, egaK |
 | 2026-05-29 | BONK | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.11 | 1.04 | 1.00 | 0.12 | 0.01 | 0.12 | +366.1 | 1icarus, Oak---, Redman_-, ctrn, lelgfnoob |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

@@ -4,16 +4,16 @@ Roster: blitz-_-, NoSwear, nicky, nomad1, cllIIp
 NARS Rank: 358 of 467
 
 Final Rating: 1119.2
-Seeded Start: 1252.0
-H2H Adjustment: -132.8
+Seeded Start: 1252.1
+H2H Adjustment: -132.9
 
-Final Rating (1119.2) = Seeded Start (1252.0) + H2H Adjustment (-132.8)
+Final Rating (1119.2) = Seeded Start (1252.1) + H2H Adjustment (-132.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.109 x 1400 = 1252.0
+                = 1100 + 0.109 x 1400 = 1252.1
 
-seed_factor 0.109 = 0.25 x Tier Exposure (0.062) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.324)
+seed_factor 0.109 = 0.25 x Tier Exposure (0.062) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.325)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

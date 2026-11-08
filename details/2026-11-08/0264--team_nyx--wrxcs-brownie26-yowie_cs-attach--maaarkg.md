@@ -3,15 +3,15 @@ Team Name: Team Nyx
 Roster: wrxcs, brownie26, Yowie_cs, attach-, MaaarkG
 NARS Rank: 264 of 467
 
-Final Rating: 1321.6
-Seeded Start: 1304.5
+Final Rating: 1321.7
+Seeded Start: 1304.6
 H2H Adjustment: +17.1
 
-Final Rating (1321.6) = Seeded Start (1304.5) + H2H Adjustment (+17.1)
+Final Rating (1321.7) = Seeded Start (1304.6) + H2H Adjustment (+17.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.146 x 1400 = 1304.5
+                = 1100 + 0.146 x 1400 = 1304.6
 
 seed_factor 0.146 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.459)
 
@@ -32,8 +32,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | NATIONAL CS UNI | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -272.6 | Yowie_cs, ZynRG, attach-, brownie26, rl4v |
 | 2026-09-12 | 55TH ST | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.06 | 0.85 | +134.4 | MaaarkG, RushDD, attach-, brownie26, wrxcs |
 | 2026-09-08 | Upsetti Academy | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.79 | 1.04 | 1.00 | 0.82 | 0.02 | 0.82 | +104.5 | MaaarkG, Yowie_cs, attach-, brownie26, wrxcs |
-| 2026-09-06 | WannaBeMovement | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.78 | 1.04 | 1.00 | 0.81 | 0.03 | 0.81 | +71.8 | MaaarkG, Yowie_cs, attach-, brownie26, wrxcs |
+| 2026-09-06 | WannaBeMovement | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.78 | 1.04 | 1.00 | 0.81 | 0.03 | 0.81 | +71.7 | MaaarkG, Yowie_cs, attach-, brownie26, wrxcs |
 | 2026-09-04 | Team GREAT | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.76 | 1.04 | 1.00 | 0.79 | 0.00 | 0.00 | -188.2 | RushDD, Yowie_cs, attach-, brownie26, wrxcs |
-| 2026-09-02 | OnThaGear | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.05 | 0.78 | +150.8 | RushDD, Yowie_cs, attach-, brownie26, wrxcs |
+| 2026-09-02 | OnThaGear | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.05 | 0.78 | +150.7 | RushDD, Yowie_cs, attach-, brownie26, wrxcs |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

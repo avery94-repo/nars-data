@@ -3,11 +3,11 @@ Team Name: Full White
 Roster: Vexximitty, FIREWOULF, humaN-, FilthYDose, -XSV-
 NARS Rank: 290 of 467
 
-Final Rating: 1266.5
+Final Rating: 1266.7
 Seeded Start: 1244.8
-H2H Adjustment: +21.7
+H2H Adjustment: +21.9
 
-Final Rating (1266.5) = Seeded Start (1244.8) + H2H Adjustment (+21.7)
+Final Rating (1266.7) = Seeded Start (1244.8) + H2H Adjustment (+21.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -33,15 +33,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | enigma | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.05 | 1.00 | 0.64 | 0.00 | 0.00 | -156.8 | -XSV-, FIREWOULF, FilthYDose, Nathanx, humaN- |
 | 2026-08-07 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.05 | 1.00 | 0.60 | 0.06 | 0.60 | +225.4 | -XSV-, FIREWOULF, FilthYDose, Nathanx, humaN- |
 | 2026-08-06 | Akatsuki | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.57 | 1.05 | 1.00 | 0.60 | 0.02 | 0.60 | +271.8 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
-| 2026-08-05 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.05 | 1.00 | 0.59 | 0.00 | 0.00 | -100.4 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
-| 2026-07-29 | Bird Lickers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.05 | 1.00 | 0.54 | 0.00 | 0.00 | -277.1 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
+| 2026-08-05 | Fortis Fortuna Adiuvat | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.05 | 1.00 | 0.59 | 0.00 | 0.00 | -100.3 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
+| 2026-07-29 | Bird Lickers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.05 | 1.00 | 0.54 | 0.00 | 0.00 | -277.2 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-07-24 | UnitedStatesArmy Esports | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.05 | 1.00 | 0.51 | 0.03 | 0.51 | +125.2 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
-| 2026-07-22 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.05 | 1.00 | 0.49 | 0.01 | 0.49 | +134.9 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN-, surfwaves |
-| 2026-07-17 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.44 | 1.05 | 1.00 | 0.46 | 0.03 | 0.46 | +331.7 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
-| 2026-07-15 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.42 | 1.05 | 1.00 | 0.44 | 0.00 | 0.00 | -393.6 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
+| 2026-07-22 | Courage | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.05 | 1.00 | 0.49 | 0.01 | 0.49 | +135.0 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN-, surfwaves |
+| 2026-07-17 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.44 | 1.05 | 1.00 | 0.46 | 0.03 | 0.46 | +331.8 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
+| 2026-07-15 | Read You Like a Kindle | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.42 | 1.05 | 1.00 | 0.44 | 0.00 | 0.00 | -393.7 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-05-31 | Abusement Park | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.12 | 1.02 | 1.00 | 0.13 | 0.00 | 0.00 | -97.4 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-05-27 | Distinguished Ducks | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.10 | 1.02 | 1.00 | 0.10 | 0.00 | 0.00 | -14.0 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
-| 2026-05-20 | The Plague | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.05 | +232.0 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
+| 2026-05-20 | The Plague | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.05 | +231.9 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 | 2026-05-15 | Real Hustle Club | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -240.0 | -XSV-, FIREWOULF, FilthYDose, Vexximitty, humaN- |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

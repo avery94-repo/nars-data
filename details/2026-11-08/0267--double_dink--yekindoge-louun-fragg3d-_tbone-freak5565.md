@@ -3,17 +3,17 @@ Team Name: Double Dink
 Roster: YEKINDOGE, Louun, Fragg3d, _tbone, Freak5565
 NARS Rank: 267 of 467
 
-Final Rating: 1318.0
-Seeded Start: 1269.1
+Final Rating: 1318.1
+Seeded Start: 1269.2
 H2H Adjustment: +48.9
 
-Final Rating (1318.0) = Seeded Start (1269.1) + H2H Adjustment (+48.9)
+Final Rating (1318.1) = Seeded Start (1269.2) + H2H Adjustment (+48.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.121 x 1400 = 1269.1
+                = 1100 + 0.121 x 1400 = 1269.2
 
-seed_factor 0.121 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.025) + 0.25 x Opponent Network (0.361)
+seed_factor 0.121 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.025) + 0.25 x Opponent Network (0.362)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-11-06 | DMA | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +16.9 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
 | 2026-11-04 | Mud Wizards | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -89.3 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
-| 2026-10-30 | deez | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -17.6 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
+| 2026-10-30 | deez | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -17.5 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
 | 2026-10-28 | LAF | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -64.8 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
 | 2026-10-27 | WhiteBoyWinter | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -93.1 | Freak5565, Jaek, Louun, YEKINDOGE, _suis |
 | 2026-10-21 | FlockMunchers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.11 | 1.04 | +90.0 | Fragg3d, Freak5565, Jaek, YEKINDOGE, dcd |

@@ -3,17 +3,17 @@ Team Name: Fourth Quarter
 Roster: Gonzo_, Seb, sniperclub01, _MD_, 1Cyrix
 NARS Rank: 132 of 467
 
-Final Rating: 1617.5
-Seeded Start: 1223.7
+Final Rating: 1617.6
+Seeded Start: 1223.8
 H2H Adjustment: +393.8
 
-Final Rating (1617.5) = Seeded Start (1223.7) + H2H Adjustment (+393.8)
+Final Rating (1617.6) = Seeded Start (1223.8) + H2H Adjustment (+393.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.088 x 1400 = 1223.7
+                = 1100 + 0.088 x 1400 = 1223.8
 
-seed_factor 0.088 = 0.25 x Tier Exposure (0.032) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.287)
+seed_factor 0.088 = 0.25 x Tier Exposure (0.032) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.288)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

@@ -3,15 +3,15 @@ Team Name: Afterimage
 Roster: kozume, Rage, Purplz29, hoydoy, Syn_MH
 NARS Rank: 275 of 467
 
-Final Rating: 1309.2
-Seeded Start: 1249.5
+Final Rating: 1309.3
+Seeded Start: 1249.6
 H2H Adjustment: +59.7
 
-Final Rating (1309.2) = Seeded Start (1249.5) + H2H Adjustment (+59.7)
+Final Rating (1309.3) = Seeded Start (1249.6) + H2H Adjustment (+59.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.107 x 1400 = 1249.5
+                = 1100 + 0.107 x 1400 = 1249.6
 
 seed_factor 0.107 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.018) + 0.25 x Opponent Network (0.323)
 

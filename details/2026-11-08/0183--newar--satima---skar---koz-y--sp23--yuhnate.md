@@ -30,6 +30,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-02 | Pixel Click | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.02 | 0.75 | +44.6 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-06-05 | Northern District | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -151.7 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 | 2026-05-29 | Purple Reign | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +208.3 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
-| 2026-05-27 | We Bad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +192.4 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
+| 2026-05-27 | We Bad | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +192.3 | --Skar--, -SP23-, Satima, Yuhnate, koz-y |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

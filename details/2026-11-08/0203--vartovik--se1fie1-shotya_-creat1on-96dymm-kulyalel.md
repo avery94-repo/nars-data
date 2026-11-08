@@ -3,15 +3,15 @@ Team Name: VARTOVIK
 Roster: se1fie1, shotya_, creat1on, 96dymm, kulyalele
 NARS Rank: 203 of 467
 
-Final Rating: 1461.4
-Seeded Start: 1333.3
-H2H Adjustment: +128.1
+Final Rating: 1461.5
+Seeded Start: 1333.5
+H2H Adjustment: +128.0
 
-Final Rating (1461.4) = Seeded Start (1333.3) + H2H Adjustment (+128.1)
+Final Rating (1461.5) = Seeded Start (1333.5) + H2H Adjustment (+128.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.167 x 1400 = 1333.3
+                = 1100 + 0.167 x 1400 = 1333.5
 
 seed_factor 0.167 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.037) + 0.25 x Opponent Network (0.524)
 

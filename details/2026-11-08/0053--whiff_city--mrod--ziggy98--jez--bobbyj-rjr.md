@@ -3,17 +3,17 @@ Team Name: Whiff City
 Roster: mROD-, Ziggy98, -jez-, BobbyJ, RJR
 NARS Rank: 53 of 467
 
-Final Rating: 1880.4
-Seeded Start: 1242.5
-H2H Adjustment: +637.9
+Final Rating: 1880.5
+Seeded Start: 1242.6
+H2H Adjustment: +637.9 (capped at +-300, raw +637.8)
 
-Final Rating (1880.4) = Seeded Start (1242.5) + H2H Adjustment (+637.9)
+Final Rating (1880.5) = Seeded Start (1242.6) + H2H Adjustment (+637.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.102 x 1400 = 1242.5
+                = 1100 + 0.102 x 1400 = 1242.6
 
-seed_factor 0.102 = 0.25 x Tier Exposure (0.033) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.353)
+seed_factor 0.102 = 0.25 x Tier Exposure (0.032) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.353)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

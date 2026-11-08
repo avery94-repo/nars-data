@@ -3,15 +3,15 @@ Team Name: Mach 10
 Roster: MEWTWO-, 1rektum, 1sc0ut, Gurtz, __Adept__
 NARS Rank: 285 of 467
 
-Final Rating: 1279.0
-Seeded Start: 1271.2
+Final Rating: 1279.1
+Seeded Start: 1271.3
 H2H Adjustment: +7.8
 
-Final Rating (1279.0) = Seeded Start (1271.2) + H2H Adjustment (+7.8)
+Final Rating (1279.1) = Seeded Start (1271.3) + H2H Adjustment (+7.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.122 x 1400 = 1271.2
+                = 1100 + 0.122 x 1400 = 1271.3
 
 seed_factor 0.122 = 0.25 x Tier Exposure (0.061) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.384)
 

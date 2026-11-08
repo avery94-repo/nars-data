@@ -3,17 +3,17 @@ Team Name: Kodaks Lettuce
 Roster: FleX-, pxnk, BigMatt, KuShark, JD3-
 NARS Rank: 344 of 467
 
-Final Rating: 1151.8
-Seeded Start: 1298.1
+Final Rating: 1151.9
+Seeded Start: 1298.2
 H2H Adjustment: -146.3
 
-Final Rating (1151.8) = Seeded Start (1298.1) + H2H Adjustment (-146.3)
+Final Rating (1151.9) = Seeded Start (1298.2) + H2H Adjustment (-146.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.141 x 1400 = 1298.1
+                = 1100 + 0.142 x 1400 = 1298.2
 
-seed_factor 0.141 = 0.25 x Tier Exposure (0.068) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.449)
+seed_factor 0.142 = 0.25 x Tier Exposure (0.068) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.450)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -39,6 +39,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | FaZe  Up Next | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.79 | 1.00 | 1.00 | 0.79 | 0.02 | 0.79 | +42.8 | BigMatt, FleX-, JD3-, KuShark, pxnk |
 | 2026-09-06 | Lost in the Plot | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.02 | 0.78 | +99.2 | BigMatt, FleX-, JD3-, KuShark, pxnk |
 | 2026-09-04 | Fourth Quarter | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -163.6 | BigMatt, FleX-, JD3-, KuShark, pxnk |
-| 2026-09-02 | Finite | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.02 | 0.75 | +118.5 | BigMatt, FleX-, JD3-, KuShark, pxnk |
+| 2026-09-02 | Finite | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.02 | 0.75 | +118.4 | BigMatt, FleX-, JD3-, KuShark, pxnk |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

@@ -3,17 +3,17 @@ Team Name: YHUBEPCAM
 Roster: swayy, Offnik322, Bongo-_-, zdoroviy666, Naswai
 NARS Rank: 45 of 467
 
-Final Rating: 1932.6
-Seeded Start: 1282.4
-H2H Adjustment: +650.2
+Final Rating: 1932.8
+Seeded Start: 1282.5
+H2H Adjustment: +650.3 (capped at +-300, raw +650.4)
 
-Final Rating (1932.6) = Seeded Start (1282.4) + H2H Adjustment (+650.2)
+Final Rating (1932.8) = Seeded Start (1282.5) + H2H Adjustment (+650.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.130 x 1400 = 1282.4
+                = 1100 + 0.130 x 1400 = 1282.5
 
-seed_factor 0.130 = 0.25 x Tier Exposure (0.061) + 0.50 x Quality Wins (0.038) + 0.25 x Opponent Network (0.384)
+seed_factor 0.130 = 0.25 x Tier Exposure (0.061) + 0.50 x Quality Wins (0.038) + 0.25 x Opponent Network (0.385)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -25,21 +25,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-30 | Biggie Cheese Fan Club | W | 2-1 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.73 | 1.04 | 1.00 | 0.76 | 0.08 | 0.76 | +3.6 | Bongo-_-, Diodor, Offnik322, sever13, swayy |
-| 2026-08-30 | Asoka | W | 1-0 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.73 | 1.04 | 1.00 | 0.76 | 0.14 | 0.76 | +149.2 | Bongo-_-, Diodor, Offnik322, sever13, swayy |
+| 2026-08-30 | Asoka | W | 1-0 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.73 | 1.04 | 1.00 | 0.76 | 0.14 | 0.76 | +149.3 | Bongo-_-, Diodor, Offnik322, sever13, swayy |
 | 2026-08-30 | Cause and Effect Gaming | W | 1-0 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.73 | 1.04 | 1.00 | 0.76 | 0.08 | 0.76 | +4.3 | Bongo-_-, Diodor, Offnik322, sever13, swayy |
 | 2026-08-07 | US Navy Esports | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.62 | 0.00 | 0.00 | -96.4 | Bongo-_-, Diodor, Offnik322, sever13, swayy |
 | 2026-08-05 | Manx Recovery Program | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.60 | 0.04 | 0.60 | +47.5 | Bongo-_-, Diodor, Ot7o, sever13, swayy |
 | 2026-07-31 | gooshedd | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.57 | 0.02 | 0.57 | +46.9 | Bongo-_-, Diodor, Offnik322, Ot7o, sever13 |
-| 2026-07-29 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.07 | 0.55 | +95.8 | Bongo-_-, Offnik322, Ot7o, qerch, sever13 |
-| 2026-07-24 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.52 | 0.05 | 0.52 | +36.4 | Bongo-_-, Offnik322, Ot7o, qerch, sever13 |
+| 2026-07-29 | YHTR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.07 | 0.55 | +95.7 | Bongo-_-, Offnik322, Ot7o, qerch, sever13 |
+| 2026-07-24 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.52 | 0.05 | 0.52 | +36.3 | Bongo-_-, Offnik322, Ot7o, qerch, sever13 |
 | 2026-07-17 | DingTone | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.44 | 1.06 | 1.00 | 0.47 | 0.03 | 0.47 | +0.0 | Bongo-_-, Offnik322, Ot7o, qerch, sever13 |
-| 2026-06-06 | NXG Esports | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.16 | 1.19 | 1.00 | 0.20 | 0.00 | 0.00 | -274.5 | Bongo-_-, Diodor, Offnik322, qerch, sever13, swayy |
+| 2026-06-06 | NXG Esports | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.16 | 1.19 | 1.00 | 0.20 | 0.00 | 0.00 | -274.6 | Bongo-_-, Diodor, Offnik322, qerch, sever13, swayy |
 | 2026-06-04 | VOID ALUNE | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.15 | 1.19 | 1.00 | 0.18 | 0.03 | 0.18 | +14.1 | Bongo-_-, Diodor, Offnik322, qerch, swayy |
-| 2026-06-02 | DNA | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.14 | 1.19 | 1.00 | 0.16 | 0.00 | 0.16 | +116.1 | Bongo-_-, Offnik322, Ot7o, qerch, sever13, swayy |
-| 2026-05-31 | Kurrupted Mindz | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.12 | 1.19 | 1.00 | 0.15 | 0.01 | 0.15 | +278.3 | Bongo-_-, Offnik322, Ot7o, qerch, sever13, swayy |
-| 2026-05-29 | Skyline | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.11 | 1.19 | 1.00 | 0.13 | 0.00 | 0.00 | -320.2 | Bongo-_-, Offnik322, Ot7o, sever13, swayy |
-| 2026-05-23 | Team Amplus | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.09 | 1.00 | 0.08 | 0.01 | 0.08 | +335.1 | Bongo-_-, Offnik322, qerch, sever13, swayy |
-| 2026-05-20 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.09 | 1.00 | 0.06 | 0.01 | 0.06 | +392.1 | Bongo-_-, Offnik322, Ot7o, sever13, swayy |
+| 2026-06-02 | DNA | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.14 | 1.19 | 1.00 | 0.16 | 0.00 | 0.16 | +115.5 | Bongo-_-, Offnik322, Ot7o, qerch, sever13, swayy |
+| 2026-05-31 | Kurrupted Mindz | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.12 | 1.19 | 1.00 | 0.15 | 0.01 | 0.15 | +277.9 | Bongo-_-, Offnik322, Ot7o, qerch, sever13, swayy |
+| 2026-05-29 | Skyline | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.11 | 1.19 | 1.00 | 0.13 | 0.00 | 0.00 | -321.1 | Bongo-_-, Offnik322, Ot7o, sever13, swayy |
+| 2026-05-23 | Team Amplus | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.07 | 1.09 | 1.00 | 0.08 | 0.01 | 0.08 | +334.2 | Bongo-_-, Offnik322, qerch, sever13, swayy |
+| 2026-05-20 | Crimson Vortex | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.09 | 1.00 | 0.06 | 0.01 | 0.06 | +395.2 | Bongo-_-, Offnik322, Ot7o, sever13, swayy |
 | 2026-05-15 | Asoka | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.09 | 1.00 | 0.02 | 0.00 | 0.00 | -392.6 | Bongo-_-, Offnik322, qerch, sever13, swayy |
 | 2026-05-13 | ALL IN | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.09 | 1.00 | 0.01 | 0.00 | 0.01 | +214.5 | Bongo-_-, Offnik322, qerch, sever13, swayy |
 

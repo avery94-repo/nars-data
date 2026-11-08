@@ -26,9 +26,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-05-29 | Kevin James Fan Club | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -344.0 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
 | 2026-05-27 | FLying PiGs | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +444.0 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
-| 2026-05-23 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -45.6 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
-| 2026-05-20 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.00 | -232.0 | Jpp, Justhoohaa, Sinxysinxy, skywayz, squidah |
-| 2026-05-15 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -52.2 | Justhoohaa, Sinxysinxy, Swathey, megHA, squidah |
-| 2026-05-13 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -45.1 | Dankner, Justhoohaa, Sinxysinxy, megHA, squidah |
+| 2026-05-23 | Spin da block | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.07 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -45.5 | Jpp, Justhoohaa, Sinxysinxy, Swathey, squidah |
+| 2026-05-20 | Full White | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.00 | -231.9 | Jpp, Justhoohaa, Sinxysinxy, skywayz, squidah |
+| 2026-05-15 | Quality | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -52.0 | Justhoohaa, Sinxysinxy, Swathey, megHA, squidah |
+| 2026-05-13 | Endless Esports | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -45.4 | Dankner, Justhoohaa, Sinxysinxy, megHA, squidah |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

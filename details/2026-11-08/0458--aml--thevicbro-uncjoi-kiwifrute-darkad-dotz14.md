@@ -42,9 +42,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-26 | mas paspas | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.50 | 1.07 | 1.00 | 0.53 | 0.00 | 0.00 | -27.4 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-26 | Cause and Effect Gaming | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.50 | 1.07 | 1.00 | 0.53 | 0.06 | 0.53 | +292.8 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-25 | Armored Talent | W | 1-0 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.50 | 1.07 | 1.00 | 0.53 | 0.08 | 0.53 | +317.6 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
-| 2026-07-22 | Brothers United | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -165.2 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-07-22 | Brothers United | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -165.1 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-07-17 | 1001 Fragrance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.00 | 0.00 | -0.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
-| 2026-07-15 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.00 | 0.00 | -68.2 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
+| 2026-07-15 | DUMBO | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.00 | 0.00 | -68.3 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-05-22 | Power of Friendship | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.07 | 0.00 | 0.00 | -277.0 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-05-15 | CVC Retirement | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.02 | +222.8 | KiWiFrute, TheVicBro, darkAD, dotz14, uncjoi |
 | 2026-05-13 | Muncle | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -241.4 | KiWiFrute, TheVicBro, csr_ph, darkAD, uncjoi |

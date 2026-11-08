@@ -3,17 +3,17 @@ Team Name: Vibe Check
 Roster: wonderhead, Chaztric, WhoFramedMe, reV-, peloton_pete
 NARS Rank: 172 of 467
 
-Final Rating: 1531.6
-Seeded Start: 1239.1
+Final Rating: 1531.7
+Seeded Start: 1239.2
 H2H Adjustment: +292.5
 
-Final Rating (1531.6) = Seeded Start (1239.1) + H2H Adjustment (+292.5)
+Final Rating (1531.7) = Seeded Start (1239.2) + H2H Adjustment (+292.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.099 x 1400 = 1239.1
+                = 1100 + 0.099 x 1400 = 1239.2
 
-seed_factor 0.099 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.300)
+seed_factor 0.099 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.301)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Brothers United | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.01 | 0.52 | +91.1 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-07-22 | Conduit eSports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -3.2 | Nigh-T, Slattz, Sp00b, aam, glimpus- |
 | 2026-07-17 | GOMI dot CLUB | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.01 | 0.44 | +216.7 | Nigh-T, Slattz, Sp00b, aam, glimpus- |
-| 2026-07-15 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.00 | 0.00 | -140.7 | Nigh-T, Sp00b, aam, glimpus-, seans |
+| 2026-07-15 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.00 | 0.00 | -140.8 | Nigh-T, Sp00b, aam, glimpus-, seans |
 | 2026-05-31 | Sleepers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.12 | 1.00 | 1.00 | 0.12 | 0.00 | 0.00 | -67.9 | -Hatty, Nigh-T, Slattz, Sp00b, seans |
 | 2026-05-27 | WaterDrinkers | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -173.4 | Nigh-T, Slattz, Sp00b, b5b, seans |
 | 2026-05-13 | Therapist | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -394.3 | -Hatty, Nigh-T, Slattz, Sp00b, seans |

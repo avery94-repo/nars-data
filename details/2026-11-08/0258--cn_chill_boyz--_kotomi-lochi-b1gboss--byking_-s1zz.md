@@ -3,15 +3,15 @@ Team Name: CN Chill Boyz
 Roster: _Kotomi, Lochi, B1gboss-, BYKING_, s1zz
 NARS Rank: 258 of 467
 
-Final Rating: 1344.8
-Seeded Start: 1204.9
+Final Rating: 1344.9
+Seeded Start: 1205.0
 H2H Adjustment: +139.9
 
-Final Rating (1344.8) = Seeded Start (1204.9) + H2H Adjustment (+139.9)
+Final Rating (1344.9) = Seeded Start (1205.0) + H2H Adjustment (+139.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.075 x 1400 = 1204.9
+                = 1100 + 0.075 x 1400 = 1205.0
 
 seed_factor 0.075 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.014) + 0.25 x Opponent Network (0.198)
 

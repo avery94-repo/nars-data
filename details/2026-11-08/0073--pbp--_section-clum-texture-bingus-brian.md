@@ -3,17 +3,17 @@ Team Name: PBP
 Roster: _Section, Clum, texture, bingus, brian
 NARS Rank: 73 of 467
 
-Final Rating: 1815.4
-Seeded Start: 1355.9
-H2H Adjustment: +459.5 (capped at +-300, raw +459.6)
+Final Rating: 1815.5
+Seeded Start: 1356.0
+H2H Adjustment: +459.5
 
-Final Rating (1815.4) = Seeded Start (1355.9) + H2H Adjustment (+459.5)
+Final Rating (1815.5) = Seeded Start (1356.0) + H2H Adjustment (+459.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.183 x 1400 = 1355.9
+                = 1100 + 0.183 x 1400 = 1356.0
 
-seed_factor 0.183 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.036) + 0.25 x Opponent Network (0.588)
+seed_factor 0.183 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.036) + 0.25 x Opponent Network (0.589)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-17 | Veniversum | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.85 | 1.04 | 1.00 | 0.88 | 0.06 | 0.88 | +39.7 | CLOUDZINO, Clum, bingus, snorkel, texture |
 | 2026-09-15 | Team GREAT | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.84 | 1.04 | 1.00 | 0.87 | 0.06 | 0.87 | +102.4 | CLOUDZINO, bingus, brian, snorkel, texture |
 | 2026-09-12 | Bad Jawn | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.06 | 0.85 | +99.6 | Clum, _Section, bingus, snorkel, texture |
-| 2026-09-10 | Double Poop Cheeseburger | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.03 | 0.83 | +58.7 | Clum, _Section, bingus, snorkel, texture |
+| 2026-09-10 | Double Poop Cheeseburger | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.03 | 0.83 | +58.6 | Clum, _Section, bingus, snorkel, texture |
 | 2026-09-08 | Team NK | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.79 | 1.04 | 1.00 | 0.82 | 0.02 | 0.82 | +115.0 | Clum, _Section, bingus, snorkel, texture |
 | 2026-09-06 | BDE | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.78 | 1.04 | 1.00 | 0.81 | 0.02 | 0.81 | +130.1 | CLOUDZINO, Clum, _Section, bingus, texture |
 | 2026-09-04 | CLUE IN | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.76 | 1.04 | 1.00 | 0.79 | 0.00 | 0.00 | -175.1 | CLOUDZINO, Clum, _Section, bingus, brian |

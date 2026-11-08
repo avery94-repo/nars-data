@@ -4,16 +4,16 @@ Roster: Gloofs, Fiphfil, CT-9978, EllyM-, PoggyPoggy1
 NARS Rank: 357 of 467
 
 Final Rating: 1120.4
-Seeded Start: 1280.0
-H2H Adjustment: -159.6
+Seeded Start: 1280.1
+H2H Adjustment: -159.7
 
-Final Rating (1120.4) = Seeded Start (1280.0) + H2H Adjustment (-159.6)
+Final Rating (1120.4) = Seeded Start (1280.1) + H2H Adjustment (-159.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.129 x 1400 = 1280.0
+                = 1100 + 0.129 x 1400 = 1280.1
 
-seed_factor 0.129 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.388)
+seed_factor 0.129 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.389)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

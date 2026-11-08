@@ -3,17 +3,17 @@ Team Name: Florida Man
 Roster: Prtzul, F0nzu, sM1les555, Alewsha, Zach
 NARS Rank: 430 of 467
 
-Final Rating: 868.9
+Final Rating: 869.1
 Seeded Start: 1242.6
-H2H Adjustment: -373.7
+H2H Adjustment: -373.5 (capped at +-300, raw -373.6)
 
-Final Rating (868.9) = Seeded Start (1242.6) + H2H Adjustment (-373.7)
+Final Rating (869.1) = Seeded Start (1242.6) + H2H Adjustment (-373.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.102 x 1400 = 1242.6
 
-seed_factor 0.102 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.294)
+seed_factor 0.102 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.295)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | GOOZPEEK | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.62 | 0.00 | 0.00 | -80.7 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
 | 2026-08-05 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.60 | 0.00 | 0.00 | -43.6 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
 | 2026-07-31 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.57 | 0.00 | 0.00 | -31.9 | Alewsha, Prtzul, Zach, blessa, sM1les555 |
-| 2026-07-29 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.00 | 0.00 | -35.5 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
+| 2026-07-29 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.00 | 0.00 | -35.4 | F0nzu, Prtzul, Zach, blessa, sM1les555 |
 | 2026-07-17 | Manx Recovery Program | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.44 | 1.06 | 1.00 | 0.47 | 0.00 | 0.00 | -5.7 | Alewsha, F0nzu, Prtzul, Zach, blessa |
 | 2026-07-15 | The Skins | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.42 | 1.06 | 1.00 | 0.45 | 0.00 | 0.00 | -151.2 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |
 | 2026-06-07 | Epochal Esports | W | 1-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.17 | 1.00 | 1.00 | 0.17 | 0.02 | 0.17 | +395.4 | Alewsha, F0nzu, Prtzul, Zach, sM1les555 |

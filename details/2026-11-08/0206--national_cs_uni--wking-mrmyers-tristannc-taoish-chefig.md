@@ -3,17 +3,17 @@ Team Name: NATIONAL CS UNI
 Roster: wKING, MrMyers, tristanNC, taoish, Chefig
 NARS Rank: 206 of 467
 
-Final Rating: 1454.7
-Seeded Start: 1373.5
-H2H Adjustment: +81.2
+Final Rating: 1454.8
+Seeded Start: 1373.7
+H2H Adjustment: +81.1
 
-Final Rating (1454.7) = Seeded Start (1373.5) + H2H Adjustment (+81.2)
+Final Rating (1454.8) = Seeded Start (1373.7) + H2H Adjustment (+81.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.195 x 1400 = 1373.5
+                = 1100 + 0.196 x 1400 = 1373.7
 
-seed_factor 0.195 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.044) + 0.25 x Opponent Network (0.620)
+seed_factor 0.196 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.044) + 0.25 x Opponent Network (0.621)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -35,7 +35,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Dead Pixel | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.06 | 0.72 | +133.9 | MrMyers, SoIaris, StaticBubble, taoish, wKING |
 | 2026-08-26 | Team TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.00 | 0.00 | -88.1 | MrMyers, SoIaris, taoish, tristanNC, wKING |
 | 2026-08-21 | Mace Lindu Ruff Rebound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -59.5 | Chefig, MrMyers, StaticBubble, taoish, tristanNC |
-| 2026-08-19 | dogwater | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.06 | 0.66 | +48.9 | Chefig, MrMyers, taoish, tristanNC, wKING |
+| 2026-08-19 | dogwater | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.06 | 0.66 | +49.0 | Chefig, MrMyers, taoish, tristanNC, wKING |
 | 2026-08-12 | Cojomo Academy Roster | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -55.7 | Chefig, MrMyers, SoIaris, tristanNC, wKING |
 | 2026-08-07 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -74.0 | Chefig, MAced, SoIaris, taoish, tristanNC |
 | 2026-08-05 | GoopT | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.04 | 0.56 | +93.6 | Chefig, SoIaris, StaticBubble, tristanNC, wKING |

@@ -4,14 +4,14 @@ Roster: Dong_Model, williamL, pcaL, superv1llain, Zantle
 NARS Rank: 313 of 467
 
 Final Rating: 1219.5
-Seeded Start: 1311.3
-H2H Adjustment: -91.8
+Seeded Start: 1311.4
+H2H Adjustment: -91.9
 
-Final Rating (1219.5) = Seeded Start (1311.3) + H2H Adjustment (-91.8)
+Final Rating (1219.5) = Seeded Start (1311.4) + H2H Adjustment (-91.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.151 x 1400 = 1311.3
+                = 1100 + 0.151 x 1400 = 1311.4
 
 seed_factor 0.151 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.030) + 0.25 x Opponent Network (0.473)
 
@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | fih hou | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -36.2 | Dong_Model, Zantle, pcaL, superv1llain, williamL |
 | 2026-10-07 | DingTone | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.07 | 1.02 | +109.0 | Dong_Model, Zantle, pcaL, superv1llain, williamL |
 | 2026-09-12 | PBP | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.82 | 1.04 | 1.00 | 0.85 | 0.00 | 0.00 | -100.5 | Cmp922, KDNK, pcaL, superv1llain, williamL |
-| 2026-09-10 | No Excuses | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.03 | 0.83 | +95.7 | Cmp922, KDNK, pcaL, superv1llain, williamL |
+| 2026-09-10 | No Excuses | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.80 | 1.04 | 1.00 | 0.83 | 0.03 | 0.83 | +95.6 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-09-06 | GodFather Gaming | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.78 | 1.04 | 1.00 | 0.81 | 0.03 | 0.81 | +12.2 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-09-02 | APEX | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.05 | 0.78 | +191.4 | Cmp922, KDNK, pcaL, superv1llain, williamL |
 | 2026-05-14 | Florida Man | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.01 | 1.01 | 1.00 | 0.01 | 0.00 | 0.01 | +241.8 | Cmp922, KDNK, pcaL, superv1llain, williamL |

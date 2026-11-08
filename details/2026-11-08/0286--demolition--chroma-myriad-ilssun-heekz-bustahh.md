@@ -3,17 +3,17 @@ Team Name: Demolition
 Roster: chroma, myriad, ilssuN, heekz, bustahh
 NARS Rank: 286 of 467
 
-Final Rating: 1277.6
-Seeded Start: 1219.4
-H2H Adjustment: +58.2
+Final Rating: 1278.0
+Seeded Start: 1219.2
+H2H Adjustment: +58.8
 
-Final Rating (1277.6) = Seeded Start (1219.4) + H2H Adjustment (+58.2)
+Final Rating (1278.0) = Seeded Start (1219.2) + H2H Adjustment (+58.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.085 x 1400 = 1219.4
+                = 1100 + 0.085 x 1400 = 1219.2
 
-seed_factor 0.085 = 0.25 x Tier Exposure (0.138) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.163)
+seed_factor 0.085 = 0.25 x Tier Exposure (0.138) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.162)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -28,23 +28,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-19 | Sharp | L | W/O | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-15 | Slimy Boogermen | W | W/O | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-08 | Chicken Coop | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.99 | 1.48 | 1.00 | 1.47 | 0.00 | 0.00 | -1.1 | --perhaps, Locke, bustahh, chroma, heekz |
-| 2026-09-08 | Wolves | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.79 | 1.42 | 1.00 | 1.12 | 0.00 | 0.00 | -19.7 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-09-05 | F5 Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.77 | 1.42 | 1.00 | 1.09 | 0.00 | 0.00 | -68.8 | bustahh, chroma, fd28d84e, heekz, ilssuN |
+| 2026-09-08 | Wolves | L | 1-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.79 | 1.42 | 1.00 | 1.12 | 0.00 | 0.00 | -19.6 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-09-05 | F5 Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.77 | 1.42 | 1.00 | 1.09 | 0.00 | 0.00 | -68.7 | bustahh, chroma, fd28d84e, heekz, ilssuN |
 | 2026-09-02 | FlyQuest RED | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.75 | 1.42 | 1.00 | 1.07 | 0.00 | 0.00 | -1.2 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-08-28 | North Forge | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.49 | 1.00 | 1.07 | 0.00 | 0.00 | -1.2 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-08-27 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.49 | 1.00 | 1.06 | 0.00 | 0.00 | -2.8 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-08-26 | NineFlyeSports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.49 | 1.00 | 1.05 | 0.00 | 0.00 | -12.3 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-08-21 | academy 4 gifted children | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.49 | 1.00 | 1.00 | 0.00 | 0.00 | -2.8 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-08-14 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.49 | 1.00 | 0.93 | 0.00 | 0.00 | -135.4 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-08-13 | Holy Squid Empire | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.49 | 1.00 | 0.92 | 0.00 | 0.00 | -53.7 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-08-07 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.49 | 1.00 | 0.86 | 0.00 | 0.00 | -50.1 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-08-05 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.49 | 1.00 | 0.84 | 0.00 | 0.00 | -49.2 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-07-31 | Holly Molly | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.49 | 1.00 | 0.79 | 0.18 | 0.79 | +129.5 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-07-29 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.49 | 1.00 | 0.77 | 0.08 | 0.77 | +322.1 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-07-22 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.49 | 1.00 | 0.70 | 0.03 | 0.70 | +318.1 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-07-17 | House Platypus ESC | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.44 | 1.49 | 1.00 | 0.65 | 0.00 | 0.00 | -310.5 | bustahh, chroma, heekz, ilssuN, myriad |
-| 2026-07-15 | Shimmer | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.42 | 1.49 | 1.00 | 0.63 | 0.00 | 0.00 | -0.5 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-08-28 | North Forge | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.72 | 1.48 | 1.00 | 1.06 | 0.00 | 0.00 | -1.2 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-08-27 | Diggers | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.71 | 1.48 | 1.00 | 1.05 | 0.00 | 0.00 | -2.7 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-08-26 | NineFlyeSports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.70 | 1.48 | 1.00 | 1.04 | 0.00 | 0.00 | -12.3 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-08-21 | academy 4 gifted children | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.67 | 1.48 | 1.00 | 0.99 | 0.00 | 0.00 | -2.8 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-08-14 | Shadow Wizard Money Gang | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.48 | 1.00 | 0.93 | 0.00 | 0.00 | -135.5 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-08-13 | Holy Squid Empire | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.62 | 1.48 | 1.00 | 0.92 | 0.00 | 0.00 | -54.2 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-08-07 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.48 | 1.00 | 0.86 | 0.00 | 0.00 | -49.8 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-08-05 | Beyond Limits | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.48 | 1.00 | 0.84 | 0.00 | 0.00 | -49.0 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-07-31 | Holly Molly | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.53 | 1.48 | 1.00 | 0.79 | 0.18 | 0.79 | +129.2 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-07-29 | Elation | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.52 | 1.48 | 1.00 | 0.77 | 0.08 | 0.77 | +322.5 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-07-22 | Room Temp IQs | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.47 | 1.48 | 1.00 | 0.70 | 0.03 | 0.70 | +318.3 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-07-17 | House Platypus ESC | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.44 | 1.48 | 1.00 | 0.65 | 0.00 | 0.00 | -310.3 | bustahh, chroma, heekz, ilssuN, myriad |
+| 2026-07-15 | Shimmer | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.42 | 1.48 | 1.00 | 0.63 | 0.00 | 0.00 | -0.5 | bustahh, chroma, heekz, ilssuN, myriad |
 | 2026-05-21 | Axial | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.06 | 1.42 | 1.00 | 0.08 | 0.00 | 0.00 | -1.5 | bustahh, chroma, false, ilssuN, myriad |
-| 2026-05-18 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.42 | 1.00 | 0.06 | 0.00 | 0.00 | -2.3 | bustahh, chroma, false, ilssuN, myriad |
+| 2026-05-18 | FlyQuest RED | L | 0-1 | S57 NA Advanced Central - Regular Season | B | faceit-league | 0.04 | 1.42 | 1.00 | 0.06 | 0.00 | 0.00 | -2.4 | bustahh, chroma, false, ilssuN, myriad |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

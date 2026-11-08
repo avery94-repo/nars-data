@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-01 | Duality Zero | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -432.7 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
+| 2026-06-01 | Duality Zero | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.13 | 1.00 | 1.00 | 0.13 | 0.00 | 0.00 | -432.8 | 81rd, Awsome, Ch3rrycs, _burb, pecan |
 | 2026-05-29 | NOVAIR | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -246.9 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
 | 2026-05-27 | The Sweepers | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.01 | 0.10 | +280.3 | 81rd, Awsome, Ch3rrycs, SnappleBoi, pecan |
 | 2026-05-20 | Benadryl Abusers | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.05 | +118.4 | 81rd, Awsome, Ch3rrycs, _burb, pecan |

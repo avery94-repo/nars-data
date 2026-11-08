@@ -3,17 +3,17 @@ Team Name: 37U Passion
 Roster: GRITMAXXER, stepback003, BingusKing, CarelessDoug, -yanno-
 NARS Rank: 451 of 467
 
-Final Rating: 709.7
+Final Rating: 709.8
 Seeded Start: 1165.1
-H2H Adjustment: -455.4
+H2H Adjustment: -455.3 (capped at +-300, raw -455.4)
 
-Final Rating (709.7) = Seeded Start (1165.1) + H2H Adjustment (-455.4)
+Final Rating (709.8) = Seeded Start (1165.1) + H2H Adjustment (-455.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.046 x 1400 = 1165.1
+                = 1100 + 0.047 x 1400 = 1165.1
 
-seed_factor 0.046 = 0.25 x Tier Exposure (0.029) + 0.50 x Quality Wins (0.009) + 0.25 x Opponent Network (0.139)
+seed_factor 0.047 = 0.25 x Tier Exposure (0.029) + 0.50 x Quality Wins (0.009) + 0.25 x Opponent Network (0.139)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -37,9 +37,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.04 | 0.53 | +340.4 | BingusKing, CarelessDoug, GRITMAXXER, Magooga, stepback003 |
 | 2026-07-29 | dogwater | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -17.2 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
 | 2026-07-24 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -0.4 | -yanno-, CarelessDoug, GRITMAXXER, Magooga, stepback003 |
-| 2026-07-22 | Casipanther | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -134.6 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
+| 2026-07-22 | Casipanther | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -134.7 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
 | 2026-07-15 | Qup Mana | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.00 | 0.00 | -230.7 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
-| 2026-05-22 | Brothers United | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.06 | 0.00 | 0.00 | -383.9 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
+| 2026-05-22 | Brothers United | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.06 | 0.00 | 0.00 | -383.8 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |
 | 2026-05-20 | SuperSoakerClub | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.05 | +327.7 | -yanno-, BingusKing, CarelessDoug, polandremix, stepback003 |
 | 2026-05-15 | Knight Owls | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -350.8 | -yanno-, GRITMAXXER, Magooga, polandremix, stepback003 |
 | 2026-05-13 | Team Deathgrip | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | +261.3 | -yanno-, BingusKing, CarelessDoug, GRITMAXXER, stepback003 |

@@ -4,14 +4,14 @@ Roster: _REW_, Qwickie, ItsHarryBoi, Oogy, zed
 NARS Rank: 465 of 467
 
 Final Rating: 504.8
-Seeded Start: 1187.0
-H2H Adjustment: -682.2
+Seeded Start: 1187.1
+H2H Adjustment: -682.3 (capped at +-300, raw -682.2)
 
-Final Rating (504.8) = Seeded Start (1187.0) + H2H Adjustment (-682.2)
+Final Rating (504.8) = Seeded Start (1187.1) + H2H Adjustment (-682.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.062 x 1400 = 1187.0
+                = 1100 + 0.062 x 1400 = 1187.1
 
 seed_factor 0.062 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.008) + 0.25 x Opponent Network (0.161)
 

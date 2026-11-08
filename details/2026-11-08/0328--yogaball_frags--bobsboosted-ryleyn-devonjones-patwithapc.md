@@ -3,15 +3,15 @@ Team Name: Yogaball Frags
 Roster: BobsBoosted, ryleyN, DevonJones, patwithapc, lerff
 NARS Rank: 328 of 467
 
-Final Rating: 1188.5
-Seeded Start: 1216.5
-H2H Adjustment: -28.0
+Final Rating: 1188.7
+Seeded Start: 1216.6
+H2H Adjustment: -27.9
 
-Final Rating (1188.5) = Seeded Start (1216.5) + H2H Adjustment (-28.0)
+Final Rating (1188.7) = Seeded Start (1216.6) + H2H Adjustment (-27.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.083 x 1400 = 1216.5
+                = 1100 + 0.083 x 1400 = 1216.6
 
 seed_factor 0.083 = 0.25 x Tier Exposure (0.061) + 0.50 x Quality Wins (0.021) + 0.25 x Opponent Network (0.230)
 
@@ -26,12 +26,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-06 | YHTR | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.78 | 1.06 | 1.00 | 0.83 | 0.00 | 0.00 | -28.8 | BobsBoosted, DevonJones, Rise-, lerff, patwithapc |
 | 2026-09-03 | WhalersOnDaMoon | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.76 | 1.06 | 1.00 | 0.81 | 0.00 | 0.00 | -9.4 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
-| 2026-08-28 | Florida Man | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -117.5 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
+| 2026-08-28 | Florida Man | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -117.4 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-08-26 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.75 | 0.05 | 0.75 | +60.4 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-08-21 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.07 | 0.71 | +55.3 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-08-19 | Backshot Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.00 | 0.00 | -115.7 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
 | 2026-08-14 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.67 | 0.00 | 0.00 | -89.2 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
-| 2026-08-12 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.06 | 1.00 | 0.65 | 0.11 | 0.65 | +106.9 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
+| 2026-08-12 | SwagMonkeyHats | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.61 | 1.06 | 1.00 | 0.65 | 0.11 | 0.65 | +107.0 | BobsBoosted, DevonJones, hoz, lerff, patwithapc |
 | 2026-08-05 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.60 | 0.00 | 0.00 | -140.5 | BobsBoosted, DevonJones, hoz, patwithapc, ryleyN |
 | 2026-07-31 | TheMotherLovers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.57 | 0.00 | 0.00 | -149.2 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |
 | 2026-07-29 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.03 | 0.55 | +263.8 | BobsBoosted, DevonJones, lerff, patwithapc, ryleyN |

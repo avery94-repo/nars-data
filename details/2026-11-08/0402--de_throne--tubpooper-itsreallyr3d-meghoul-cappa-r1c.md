@@ -3,17 +3,17 @@ Team Name: de_throne
 Roster: TUBPOOPER, itsreallyR3D, meghoul, Cappa, R1C0
 NARS Rank: 402 of 467
 
-Final Rating: 1001.0
-Seeded Start: 1270.5
+Final Rating: 1001.1
+Seeded Start: 1270.6
 H2H Adjustment: -269.5
 
-Final Rating (1001.0) = Seeded Start (1270.5) + H2H Adjustment (-269.5)
+Final Rating (1001.1) = Seeded Start (1270.6) + H2H Adjustment (-269.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.122 x 1400 = 1270.5
+                = 1100 + 0.122 x 1400 = 1270.6
 
-seed_factor 0.122 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.357)
+seed_factor 0.122 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.358)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -35,7 +35,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-26 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.71 | 0.05 | 0.71 | +53.7 | Cappa, R1C0, TUBPOOPER, itsreallyR3D, meghoul |
 | 2026-08-21 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.04 | 0.67 | +72.3 | Cappa, R1C0, TUBPOOPER, itsreallyR3D, meghoul |
 | 2026-08-19 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.04 | 0.66 | +125.8 | Merle202, R1C0, TUBPOOPER, itsreallyR3D, meghoul |
-| 2026-08-12 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -58.5 | Cappa, Chxrms_, R1C0, itsreallyR3D, meghoul |
+| 2026-08-12 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -58.6 | Cappa, Chxrms_, R1C0, itsreallyR3D, meghoul |
 | 2026-08-05 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.57 | 0.04 | 0.57 | +275.7 | Cappa, Chxrms_, R1C0, itsreallyR3D, meghoul |
 | 2026-07-31 | EZ2025 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -47.5 | Cappa, Merle202, R1C0, itsreallyR3D, meghoul |
 | 2026-07-29 | Shaq Diesel | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -230.0 | Cappa, Merle202, R1C0, itsreallyR3D, meghoul |

@@ -3,17 +3,17 @@ Team Name: Remnant
 Roster: cvb, Xeph0r, Exoskeletal, Regnar, -Faust-
 NARS Rank: 274 of 467
 
-Final Rating: 1309.2
-Seeded Start: 1352.4
-H2H Adjustment: -43.2
+Final Rating: 1309.3
+Seeded Start: 1352.6
+H2H Adjustment: -43.3
 
-Final Rating (1309.2) = Seeded Start (1352.4) + H2H Adjustment (-43.2)
+Final Rating (1309.3) = Seeded Start (1352.6) + H2H Adjustment (-43.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.180 x 1400 = 1352.4
+                = 1100 + 0.180 x 1400 = 1352.6
 
-seed_factor 0.180 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.037) + 0.25 x Opponent Network (0.576)
+seed_factor 0.180 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.037) + 0.25 x Opponent Network (0.577)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -29,7 +29,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-11-04 | drunk cigs dont count | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +143.4 | Arch1ves, Exoskeletal, Regnar, Rellac, cvb |
 | 2026-10-30 | WhiteBoyWinter | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -45.4 | 1LunariaCS, Arch1ves, Exoskeletal, Regnar, Rellac |
 | 2026-10-28 | Cortex Jellies | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +129.7 | Arch1ves, Exoskeletal, Regnar, Rellac, cvb |
-| 2026-10-21 | Feels MAIN Man | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +17.6 | 1LunariaCS, Arch1ves, Exoskeletal, Regnar, Rellac |
+| 2026-10-21 | Feels MAIN Man | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +17.7 | 1LunariaCS, Arch1ves, Exoskeletal, Regnar, Rellac |
 | 2026-10-16 | Boop Boop Gang | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-14 | Line Steppers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +226.8 | Arch1ves, Exoskeletal, Regnar, Rellac, cvb |
 | 2026-10-09 | After Peak | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +163.4 | 1LunariaCS, Arch1ves, Exoskeletal, Regnar, Rellac |

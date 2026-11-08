@@ -3,15 +3,15 @@ Team Name: Strafe
 Roster: Slays, Balyy, TsportyA, Alvah, DoomCS2
 NARS Rank: 405 of 467
 
-Final Rating: 999.2
-Seeded Start: 1289.0
+Final Rating: 999.3
+Seeded Start: 1289.1
 H2H Adjustment: -289.8
 
-Final Rating (999.2) = Seeded Start (1289.0) + H2H Adjustment (-289.8)
+Final Rating (999.3) = Seeded Start (1289.1) + H2H Adjustment (-289.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.135 x 1400 = 1289.0
+                = 1100 + 0.135 x 1400 = 1289.1
 
 seed_factor 0.135 = 0.25 x Tier Exposure (0.147) + 0.50 x Quality Wins (0.031) + 0.25 x Opponent Network (0.331)
 
@@ -31,7 +31,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-28 | DingTone | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -98.5 | CoStanzz, DoomCS2, Slays, rentals, slichard |
 | 2026-10-16 | Costco Family | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +84.4 | CoStanzz, DoomCS2, Slays, rentals, slichard |
 | 2026-10-08 | 1NT | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.99 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -23.0 | CoStanzz, DoomCS2, Slays, rentals, slichard |
-| 2026-10-07 | Fortis Fortuna Adiuvat | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.00 | 0.00 | -77.2 | CoStanzz, DoomCS2, Slays, rentals, slichard |
+| 2026-10-07 | Fortis Fortuna Adiuvat | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.00 | 0.00 | -77.1 | CoStanzz, DoomCS2, Slays, rentals, slichard |
 | 2026-09-04 | FLying PiGs | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.76 | 1.00 | 1.00 | 0.77 | 0.00 | 0.00 | -44.1 | Alvah, Balyy, DoomCS2, Slays, slichard |
 | 2026-09-02 | Sharp | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -0.3 | Alvah, Balyy, DoomCS2, Slays, slichard |
 | 2026-08-28 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.07 | 0.72 | +119.9 | Balyy, DoomCS2, Slays, slichard, yapry |

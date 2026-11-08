@@ -3,17 +3,17 @@ Team Name: redtyfguhoj
 Roster: getrektyshka, Ketster, bunkerX-, b1ess3d_, Tek
 NARS Rank: 355 of 467
 
-Final Rating: 1128.7
-Seeded Start: 1225.6
+Final Rating: 1128.8
+Seeded Start: 1225.7
 H2H Adjustment: -96.9
 
-Final Rating (1128.7) = Seeded Start (1225.6) + H2H Adjustment (-96.9)
+Final Rating (1128.8) = Seeded Start (1225.7) + H2H Adjustment (-96.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.090 x 1400 = 1225.6
+                = 1100 + 0.090 x 1400 = 1225.7
 
-seed_factor 0.090 = 0.25 x Tier Exposure (0.060) + 0.50 x Quality Wins (0.018) + 0.25 x Opponent Network (0.263)
+seed_factor 0.090 = 0.25 x Tier Exposure (0.060) + 0.50 x Quality Wins (0.018) + 0.25 x Opponent Network (0.264)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -35,10 +35,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | GoonAssOldheads | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.06 | 0.56 | +154.0 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 | 2026-07-31 | AURA Esports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -168.9 | Tek, b1ess3d_, bunkerX-, getrektyshka, toshiiiro |
 | 2026-07-29 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -27.9 | Ketster, b1ess3d_, bunkerX-, getrektyshka, sensh |
-| 2026-07-24 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -118.5 | Ketster, bunkerX-, getrektyshka, sensh, toshiiiro |
+| 2026-07-24 | TahMeow | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -118.4 | Ketster, bunkerX-, getrektyshka, sensh, toshiiiro |
 | 2026-07-22 | Rejects | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -166.7 | Ketster, b1ess3d_, bunkerX-, getrektyshka, sensh |
-| 2026-07-15 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.06 | 0.42 | +153.8 | Ketster, b1ess3d_, getrektyshka, sensh, toshiiiro |
-| 2026-06-01 | The Vicious Kitties | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.13 | 1.04 | 1.00 | 0.14 | 0.01 | 0.14 | +255.6 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
+| 2026-07-15 | Epochal Esports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.06 | 0.42 | +153.9 | Ketster, b1ess3d_, getrektyshka, sensh, toshiiiro |
+| 2026-06-01 | The Vicious Kitties | W | 2-1 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.13 | 1.04 | 1.00 | 0.14 | 0.01 | 0.14 | +255.3 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 | 2026-05-29 | GG | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.11 | 1.04 | 1.00 | 0.12 | 0.00 | 0.00 | -151.3 | Ketster, Tek, b1ess3d_, bunkerX-, getrektyshka |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

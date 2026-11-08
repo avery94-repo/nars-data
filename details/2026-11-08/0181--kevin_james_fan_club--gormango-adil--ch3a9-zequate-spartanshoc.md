@@ -3,17 +3,17 @@ Team Name: Kevin James Fan Club
 Roster: GORMANGO, ADIL-, CH3A9, zequate, SpartanShock
 NARS Rank: 181 of 467
 
-Final Rating: 1517.3
-Seeded Start: 1394.8
-H2H Adjustment: +122.5
+Final Rating: 1517.5
+Seeded Start: 1394.9
+H2H Adjustment: +122.6
 
-Final Rating (1517.3) = Seeded Start (1394.8) + H2H Adjustment (+122.5)
+Final Rating (1517.5) = Seeded Start (1394.9) + H2H Adjustment (+122.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.211 x 1400 = 1394.8
+                = 1100 + 0.211 x 1400 = 1394.9
 
-seed_factor 0.211 = 0.25 x Tier Exposure (0.104) + 0.50 x Quality Wins (0.063) + 0.25 x Opponent Network (0.612)
+seed_factor 0.211 = 0.25 x Tier Exposure (0.104) + 0.50 x Quality Wins (0.063) + 0.25 x Opponent Network (0.613)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,14 +27,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-11-06 | Read You Like a Kindle | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -68.3 | ADIL-, BARRAGE, CH3A9, HarryDres666, zequate |
 | 2026-11-04 | GOOZPEEK | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -68.1 | ADIL-, BARRAGE, CH3A9, HarryDres666, zequate |
 | 2026-11-03 | penazoid | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +63.4 | ADIL-, BARRAGE, CH3A9, HarryDres666, zequate |
-| 2026-10-30 | Kinetic | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -94.0 | ADIL-, BARRAGE, CH3A9, GORMANGO, zequate |
+| 2026-10-30 | Kinetic | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -93.9 | ADIL-, BARRAGE, CH3A9, GORMANGO, zequate |
 | 2026-10-28 | VOID ALUNE | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.16 | 1.02 | +102.9 | ADIL-, BARRAGE, CH3A9, HarryDres666, zequate |
 | 2026-10-21 | Midwest Farmers | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 0.00 | +28.7 | ADIL-, CH3A9, GORMANGO, HarryDres666, zequate |
 | 2026-10-16 | Torii | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -94.4 | ADIL-, CH3A9, HarryDres666, kyle2k, zequate |
 | 2026-10-14 | Wiggle Peeks | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +47.7 | CH3A9, GORMANGO, HarryDres666, kyle2k, zequate |
 | 2026-10-09 | MINDTRIP | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.11 | 1.02 | +7.5 | ADIL-, CH3A9, HarryDres666, kyle2k, zequate |
 | 2026-10-07 | RunTheDamnBall | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.98 | 1.02 | 1.00 | 1.01 | 0.10 | 1.01 | +34.9 | ADIL-, CH3A9, HarryDres666, kyle2k, zequate |
-| 2026-09-12 | Firstwave | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -84.2 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
+| 2026-09-12 | Firstwave | L | 1-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -84.1 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-09-10 | NoPrac | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.80 | 1.00 | 1.00 | 0.81 | 0.05 | 0.81 | +25.4 | ADIL-, CH3A9, GORMANGO, Muzic, SpartanShock, zequate |
 | 2026-09-06 | Sharp | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.78 | 1.00 | 1.00 | 0.78 | 0.00 | 0.00 | -35.8 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |
 | 2026-09-04 | Mach 5 | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.76 | 1.00 | 1.00 | 0.77 | 0.05 | 0.00 | +35.5 | ADIL-, CH3A9, GORMANGO, SpartanShock, zequate |

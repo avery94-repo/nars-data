@@ -3,15 +3,15 @@ Team Name: M80
 Roster: Swisher, slaxz-, s1n, Lake, JBa
 NARS Rank: 1 of 467
 
-Final Rating: 3052.0
-Seeded Start: 2032.8
-H2H Adjustment: +1019.2 (capped at +-300, raw +1019.3)
+Final Rating: 3052.1
+Seeded Start: 2032.5
+H2H Adjustment: +1019.6 (capped at +-300, raw +1019.5)
 
-Final Rating (3052.0) = Seeded Start (2032.8) + H2H Adjustment (+1019.2)
+Final Rating (3052.1) = Seeded Start (2032.5) + H2H Adjustment (+1019.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.666 x 1400 = 2032.8
+                = 1100 + 0.666 x 1400 = 2032.5
 
 seed_factor 0.666 = 0.25 x Tier Exposure (0.580) + 0.50 x Quality Wins (1.000) + 0.25 x Opponent Network (0.085)
 
@@ -26,10 +26,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-10-07 | Spirit | L | 0-2 | ESL Pro League Season 24 | S | hltv | 0.99 | 1.60 | 1.30 | 1.58 | 0.00 | 0.00 | -5.4 | core 3/5 |
 | 2026-10-06 | Legacy | W | 1-2 | ESL Pro League Season 24 | S | hltv | 0.98 | 1.60 | 1.30 | 1.57 | 3.06 | 0.00 | +77.0 | core 3/5 |
-| 2026-10-05 | TYLOO | W | 2-1 | ESL Pro League Season 24 | S | hltv | 0.97 | 1.60 | 1.30 | 1.56 | 3.04 | 0.00 | +31.0 | core 3/5 |
+| 2026-10-05 | TYLOO | W | 2-1 | ESL Pro League Season 24 | S | hltv | 0.97 | 1.60 | 1.30 | 1.56 | 3.04 | 0.00 | +30.9 | core 3/5 |
 | 2026-10-04 | BETBOOM | L | 0-2 | ESL Pro League Season 24 | S | hltv | 0.97 | 1.60 | 1.30 | 1.55 | 0.00 | 0.00 | -32.8 | core 3/5 |
 | 2026-09-27 | DENDELE | W | 2-1 | VRS-tracked 2026-09 | A | vrs | 0.92 | 1.60 | 1.00 | 1.47 | 2.20 | 0.00 | +34.5 | core 3/5 |
-| 2026-09-26 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.91 | 1.60 | 1.00 | 1.46 | 0.00 | 0.00 | -44.6 | core 3/5 |
+| 2026-09-26 | Liquid | L |  | VRS-tracked 2026-09 | A | vrs | 0.91 | 1.60 | 1.00 | 1.46 | 0.00 | 0.00 | -44.5 | core 3/5 |
 | 2026-09-26 | Voca | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.91 | 1.60 | 1.00 | 1.46 | 1.01 | 0.00 | +34.0 | core 3/5 |
 | 2026-09-25 | BESTIA | W | 2-0 | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 2.15 | 0.00 | +7.2 | core 3/5 |
 | 2026-09-25 | DENDELE | L | 0-2 | VRS-tracked 2026-09 | A | vrs | 0.90 | 1.60 | 1.00 | 1.45 | 0.00 | 0.00 | -53.5 | core 3/5 |
@@ -51,7 +51,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-12 | G2 | L | 0-1 | VRS-tracked 2026-08 | A | vrs | 0.61 | 1.60 | 1.00 | 0.98 | 0.00 | 0.00 | -31.5 | core 3/5 |
 | 2026-07-21 | Ninjas in Pyjamas | L |  | VRS-tracked 2026-07 | A | vrs | 0.46 | 1.60 | 1.00 | 0.74 | 0.00 | 0.00 | -219.6 | core 3/5 |
 | 2026-07-11 | Voca | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.40 | 1.60 | 1.00 | 0.64 | 0.44 | 0.00 | +142.1 | core 3/5 |
-| 2026-07-10 | LAG Gaming | W |  | VRS-tracked 2026-07 | A | vrs | 0.39 | 1.60 | 1.00 | 0.62 | 0.62 | 0.62 | +4.6 | core 3/5 |
+| 2026-07-10 | LAG Gaming | W |  | VRS-tracked 2026-07 | A | vrs | 0.39 | 1.60 | 1.00 | 0.62 | 0.62 | 0.62 | +4.7 | core 3/5 |
 | 2026-07-09 | WINNERS | W | 2-0 | VRS-tracked 2026-07 | A | vrs | 0.38 | 1.60 | 1.00 | 0.61 | 0.46 | 0.00 | +0.3 | core 3/5 |
 | 2026-06-08 | Legacy | L |  | VRS-tracked 2026-06 | A | vrs | 0.18 | 1.60 | 1.00 | 0.28 | 0.00 | 0.00 | -21.8 | core 3/5 |
 | 2026-06-07 | BETBOOM | L |  | VRS-tracked 2026-06 | A | vrs | 0.17 | 1.60 | 1.00 | 0.27 | 0.00 | 0.00 | -185.0 | core 3/5 |
@@ -63,10 +63,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-02 | LYNN VISION | W |  | VRS-tracked 2026-06 | A | vrs | 0.14 | 1.60 | 1.00 | 0.22 | 0.33 | 0.00 | +12.4 | core 3/5 |
 | 2026-06-02 | SHARKS | W |  | VRS-tracked 2026-06 | A | vrs | 0.14 | 1.60 | 1.00 | 0.22 | 0.33 | 0.00 | +38.2 | core 3/5 |
 | 2026-05-28 | Voca | W |  | VRS-tracked 2026-05 | A | vrs | 0.10 | 1.60 | 1.00 | 0.17 | 0.11 | 0.17 | +224.0 | core 3/5 |
-| 2026-05-26 | Iowa Stormboar | W |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.09 | 0.14 | +28.5 | core 3/5 |
+| 2026-05-26 | Iowa Stormboar | W |  | VRS-tracked 2026-05 | A | vrs | 0.09 | 1.60 | 1.00 | 0.14 | 0.09 | 0.14 | +28.6 | core 3/5 |
 | 2026-05-21 | MOUZ | L | 1-2 | VRS-tracked 2026-05 | A | vrs | 0.06 | 1.60 | 1.00 | 0.09 | 0.00 | 0.00 | -7.9 | core 3/5 |
 | 2026-05-20 | Falcons | L | 0-2 | VRS-tracked 2026-05 | A | vrs | 0.05 | 1.60 | 1.00 | 0.08 | 0.00 | 0.00 | -0.3 | core 3/5 |
 | 2026-05-20 | PAIN | W | 1-0 | VRS-tracked 2026-05 | A | vrs | 0.05 | 1.60 | 1.00 | 0.08 | 0.12 | 0.00 | +654.0 | core 3/5 |
-| 2026-05-12 | Liquid | L |  | VRS-tracked 2026-05 | A | vrs | 0.00 | 1.60 | 1.00 | 0.00 | 0.00 | 0.00 | -139.3 | core 3/5 |
+| 2026-05-12 | Liquid | L |  | VRS-tracked 2026-05 | A | vrs | 0.00 | 1.60 | 1.00 | 0.00 | 0.00 | 0.00 | -139.2 | core 3/5 |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

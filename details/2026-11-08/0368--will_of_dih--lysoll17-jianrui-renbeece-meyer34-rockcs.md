@@ -3,11 +3,11 @@ Team Name: Will of Dih
 Roster: LYSOLL17, Jianrui, renbeece, Meyer34, rockCS
 NARS Rank: 368 of 467
 
-Final Rating: 1076.0
+Final Rating: 1076.1
 Seeded Start: 1210.8
-H2H Adjustment: -134.8
+H2H Adjustment: -134.7
 
-Final Rating (1076.0) = Seeded Start (1210.8) + H2H Adjustment (-134.8)
+Final Rating (1076.1) = Seeded Start (1210.8) + H2H Adjustment (-134.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

@@ -3,17 +3,17 @@ Team Name: Mach 5
 Roster: _Mski_, red1ski, sank, BonJinko, Mattoy_
 NARS Rank: 227 of 467
 
-Final Rating: 1420.7
-Seeded Start: 1302.5
+Final Rating: 1420.8
+Seeded Start: 1302.6
 H2H Adjustment: +118.2
 
-Final Rating (1420.7) = Seeded Start (1302.5) + H2H Adjustment (+118.2)
+Final Rating (1420.8) = Seeded Start (1302.6) + H2H Adjustment (+118.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.145 x 1400 = 1302.5
+                = 1100 + 0.145 x 1400 = 1302.6
 
-seed_factor 0.145 = 0.25 x Tier Exposure (0.060) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.452)
+seed_factor 0.145 = 0.25 x Tier Exposure (0.059) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.452)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -40,7 +40,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.57 | 0.04 | 0.57 | +5.1 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
 | 2026-07-31 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -149.3 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, red1ski |
 | 2026-07-29 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.04 | 0.52 | +35.6 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, sank |
-| 2026-07-22 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -196.4 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
+| 2026-07-22 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -196.5 | BonJinko, Mattoy_, _Mski_, red1ski, sank |
 | 2026-07-15 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.43 | 0.03 | 0.43 | +196.5 | BonJinko, DemonDanLFT, Mattoy_, _Mski_, sank |
 | 2026-05-28 | FLOW STATE | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.10 | 1.04 | 1.00 | 0.11 | 0.00 | 0.00 | -148.5 | BonJinko, Mattoy_, _Mski_, red1ski, rixY |
 

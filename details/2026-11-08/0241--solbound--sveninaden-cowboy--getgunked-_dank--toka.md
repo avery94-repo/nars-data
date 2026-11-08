@@ -3,17 +3,17 @@ Team Name: Solbound
 Roster: sveninaden, cowboy-, GetGunked, _Dank-, Tokar
 NARS Rank: 241 of 467
 
-Final Rating: 1388.2
-Seeded Start: 1354.6
+Final Rating: 1388.3
+Seeded Start: 1354.7
 H2H Adjustment: +33.6
 
-Final Rating (1388.2) = Seeded Start (1354.6) + H2H Adjustment (+33.6)
+Final Rating (1388.3) = Seeded Start (1354.7) + H2H Adjustment (+33.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.182 x 1400 = 1354.6
+                = 1100 + 0.182 x 1400 = 1354.7
 
-seed_factor 0.182 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.045) + 0.25 x Opponent Network (0.566)
+seed_factor 0.182 = 0.25 x Tier Exposure (0.071) + 0.50 x Quality Wins (0.045) + 0.25 x Opponent Network (0.567)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

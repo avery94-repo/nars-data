@@ -3,17 +3,17 @@ Team Name: Gloobers
 Roster: itsXeris, zima222, -flawless, liam202, loof-
 NARS Rank: 242 of 467
 
-Final Rating: 1387.2
-Seeded Start: 1187.9
+Final Rating: 1387.3
+Seeded Start: 1188.0
 H2H Adjustment: +199.3
 
-Final Rating (1387.2) = Seeded Start (1187.9) + H2H Adjustment (+199.3)
+Final Rating (1387.3) = Seeded Start (1188.0) + H2H Adjustment (+199.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.063 x 1400 = 1187.9
+                = 1100 + 0.063 x 1400 = 1188.0
 
-seed_factor 0.063 = 0.25 x Tier Exposure (0.035) + 0.50 x Quality Wins (0.013) + 0.25 x Opponent Network (0.190)
+seed_factor 0.063 = 0.25 x Tier Exposure (0.035) + 0.50 x Quality Wins (0.013) + 0.25 x Opponent Network (0.191)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

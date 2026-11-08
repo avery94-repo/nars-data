@@ -3,17 +3,17 @@ Team Name: Bald
 Roster: TheFope, ClutchBunny, hibiquack, tyler_, Drawde
 NARS Rank: 188 of 467
 
-Final Rating: 1502.7
-Seeded Start: 1237.8
+Final Rating: 1502.8
+Seeded Start: 1237.9
 H2H Adjustment: +264.9
 
-Final Rating (1502.7) = Seeded Start (1237.8) + H2H Adjustment (+264.9)
+Final Rating (1502.8) = Seeded Start (1237.9) + H2H Adjustment (+264.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.098 x 1400 = 1237.8
+                = 1100 + 0.098 x 1400 = 1237.9
 
-seed_factor 0.098 = 0.25 x Tier Exposure (0.061) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.276)
+seed_factor 0.098 = 0.25 x Tier Exposure (0.061) + 0.50 x Quality Wins (0.028) + 0.25 x Opponent Network (0.277)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

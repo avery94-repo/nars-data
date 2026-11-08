@@ -3,11 +3,11 @@ Team Name: The Agarthans
 Roster: t4m0n, tylerwho, staxfam, konspirit, hardy--
 NARS Rank: 309 of 467
 
-Final Rating: 1233.3
+Final Rating: 1233.4
 Seeded Start: 1108.4
-H2H Adjustment: +124.9
+H2H Adjustment: +125.0
 
-Final Rating (1233.3) = Seeded Start (1108.4) + H2H Adjustment (+124.9)
+Final Rating (1233.4) = Seeded Start (1108.4) + H2H Adjustment (+125.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

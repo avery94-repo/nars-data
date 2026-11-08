@@ -3,15 +3,15 @@ Team Name: Appalachian Apes
 Roster: Chubbers_, Chrisalish, NotcockG, Andooby, oleglea
 NARS Rank: 143 of 467
 
-Final Rating: 1595.1
-Seeded Start: 1200.9
+Final Rating: 1595.2
+Seeded Start: 1201.0
 H2H Adjustment: +394.2
 
-Final Rating (1595.1) = Seeded Start (1200.9) + H2H Adjustment (+394.2)
+Final Rating (1595.2) = Seeded Start (1201.0) + H2H Adjustment (+394.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.072 x 1400 = 1200.9
+                = 1100 + 0.072 x 1400 = 1201.0
 
 seed_factor 0.072 = 0.25 x Tier Exposure (0.051) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.225)
 

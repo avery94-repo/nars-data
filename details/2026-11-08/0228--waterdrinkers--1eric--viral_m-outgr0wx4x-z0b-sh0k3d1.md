@@ -3,15 +3,15 @@ Team Name: WaterDrinkers
 Roster: 1eric-, viral_m, OuTGr0Wx4x, Z0b, Sh0k3d1
 NARS Rank: 228 of 467
 
-Final Rating: 1416.1
-Seeded Start: 1410.5
+Final Rating: 1416.3
+Seeded Start: 1410.7
 H2H Adjustment: +5.6
 
-Final Rating (1416.1) = Seeded Start (1410.5) + H2H Adjustment (+5.6)
+Final Rating (1416.3) = Seeded Start (1410.7) + H2H Adjustment (+5.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.222 x 1400 = 1410.5
+                = 1100 + 0.222 x 1400 = 1410.7
 
 seed_factor 0.222 = 0.25 x Tier Exposure (0.108) + 0.50 x Quality Wins (0.066) + 0.25 x Opponent Network (0.648)
 
@@ -25,12 +25,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-11-06 | Entertainment Cheese | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -96.0 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
-| 2026-11-06 | Wiggle Peeks | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +55.7 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
+| 2026-11-06 | Wiggle Peeks | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +55.6 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-11-04 | Resurgence | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +37.1 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-10-30 | Temple of Swing | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +110.0 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-10-28 | Shadow Wizard Money Gang | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -93.1 | ItsKickz, OuTGr0Wx4x, Sh0k3d1, Z0b, viral_m |
 | 2026-10-21 | Big Fish | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.10 | 1.02 | +10.1 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
-| 2026-10-21 | BucketJonsBoys | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.25 | 1.02 | +220.5 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
+| 2026-10-21 | BucketJonsBoys | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.25 | 1.02 | +220.6 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-10-09 | Tractors | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -200.6 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-09-17 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.85 | 1.00 | 1.00 | 0.85 | 0.00 | 0.00 | -135.8 | 1eric-, Sh0k3d1, Z0b, lazogod, viral_m |
 | 2026-09-12 | AURA Esports | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.82 | 1.00 | 1.00 | 0.82 | 0.00 | 0.00 | -112.2 | OuTGr0Wx4x, Sh0k3d1, Z0b, lazogod, viral_m |

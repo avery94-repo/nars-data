@@ -3,17 +3,17 @@ Team Name: Benadryl Abusers
 Roster: LemonCitrus, ReesePuf, cs_AsSaSs1n, aavsen, pg0
 NARS Rank: 407 of 467
 
-Final Rating: 985.7
-Seeded Start: 1347.8
+Final Rating: 985.8
+Seeded Start: 1347.9
 H2H Adjustment: -362.1
 
-Final Rating (985.7) = Seeded Start (1347.8) + H2H Adjustment (-362.1)
+Final Rating (985.8) = Seeded Start (1347.9) + H2H Adjustment (-362.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.177 x 1400 = 1347.8
+                = 1100 + 0.177 x 1400 = 1347.9
 
-seed_factor 0.177 = 0.25 x Tier Exposure (0.096) + 0.50 x Quality Wins (0.045) + 0.25 x Opponent Network (0.521)
+seed_factor 0.177 = 0.25 x Tier Exposure (0.096) + 0.50 x Quality Wins (0.045) + 0.25 x Opponent Network (0.522)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-11-06 | HUMA | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.07 | 1.02 | +16.5 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
-| 2026-11-06 | MadaNASCAR | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.14 | 1.02 | +83.2 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
+| 2026-11-06 | MadaNASCAR | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.14 | 1.02 | +83.3 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-11-04 | MINDTRIP | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -29.1 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-10-30 | Macs Snacks | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -111.6 | LemonCitrus, ReesePuf, aavsen, andresazm, cs_AsSaSs1n, pg0 |
 | 2026-10-28 | Chopped | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.02 | 1.00 | 1.02 | 0.00 | 0.00 | -109.3 | LemonCitrus, aavsen, andresazm, cs_AsSaSs1n, pg0 |

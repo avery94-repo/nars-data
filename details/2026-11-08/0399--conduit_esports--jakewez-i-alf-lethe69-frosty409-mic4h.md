@@ -3,15 +3,15 @@ Team Name: Conduit eSports
 Roster: JakeWez, i-alf, Lethe69, Frosty409, mic4h
 NARS Rank: 399 of 467
 
-Final Rating: 1004.9
-Seeded Start: 1222.8
+Final Rating: 1005.0
+Seeded Start: 1222.9
 H2H Adjustment: -217.9
 
-Final Rating (1004.9) = Seeded Start (1222.8) + H2H Adjustment (-217.9)
+Final Rating (1005.0) = Seeded Start (1222.9) + H2H Adjustment (-217.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.088 x 1400 = 1222.8
+                = 1100 + 0.088 x 1400 = 1222.9
 
 seed_factor 0.088 = 0.25 x Tier Exposure (0.053) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.265)
 
@@ -43,6 +43,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-05 | Head Trauma | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.16 | +191.7 | Frosty409, JakeWez, Lethe69, i-alf, mic4h |
 | 2026-06-03 | Woohoo | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.14 | +149.1 | BeanFlicker, Frosty409, JakeWez, Lethe69, i-alf, mic4h |
 | 2026-05-29 | Booday | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +197.1 | Frosty409, JakeWez, Lethe69, i-alf, mic4h |
-| 2026-05-27 | WeGotBakingSoda | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +174.5 | Frosty409, JakeWez, Lethe69, i-alf, mic4h |
+| 2026-05-27 | WeGotBakingSoda | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +174.4 | Frosty409, JakeWez, Lethe69, i-alf, mic4h |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

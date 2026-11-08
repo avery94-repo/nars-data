@@ -3,17 +3,17 @@ Team Name: NetanYAHOO
 Roster: PaQeZ, Treaux_, drippppp, ian-, CHEF-GEORGE
 NARS Rank: 256 of 467
 
-Final Rating: 1356.4
-Seeded Start: 1354.0
-H2H Adjustment: +2.4
+Final Rating: 1356.5
+Seeded Start: 1354.2
+H2H Adjustment: +2.3
 
-Final Rating (1356.4) = Seeded Start (1354.0) + H2H Adjustment (+2.4)
+Final Rating (1356.5) = Seeded Start (1354.2) + H2H Adjustment (+2.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.181 x 1400 = 1354.0
+                = 1100 + 0.182 x 1400 = 1354.2
 
-seed_factor 0.181 = 0.25 x Tier Exposure (0.079) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.579)
+seed_factor 0.182 = 0.25 x Tier Exposure (0.079) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.579)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -40,6 +40,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-12 | retirement home | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.00 | 0.00 | -370.9 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
 | 2026-06-03 | JPG | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -231.9 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
 | 2026-05-29 | The Third Eye | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +219.4 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
-| 2026-05-27 | gummyx mentality | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +93.4 | CHEF-GEORGE, Nud0, Treaux_, drippppp, ian- |
+| 2026-05-27 | gummyx mentality | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +93.3 | CHEF-GEORGE, Nud0, Treaux_, drippppp, ian- |
 
 _Snapshot 2026-11-08 | NARS v2 | CC BY-SA 4.0_

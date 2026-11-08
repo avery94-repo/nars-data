@@ -3,17 +3,17 @@ Team Name: MEET THE WALL - DEAD
 Roster: maxie, Krumpa, _BrX, virulent, ReeeeeLaX-
 NARS Rank: 177 of 467
 
-Final Rating: 1520.0
-Seeded Start: 1175.8
+Final Rating: 1520.1
+Seeded Start: 1175.9
 H2H Adjustment: +344.2
 
-Final Rating (1520.0) = Seeded Start (1175.8) + H2H Adjustment (+344.2)
+Final Rating (1520.1) = Seeded Start (1175.9) + H2H Adjustment (+344.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.054 x 1400 = 1175.8
+                = 1100 + 0.054 x 1400 = 1175.9
 
-seed_factor 0.054 = 0.25 x Tier Exposure (0.032) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.173)
+seed_factor 0.054 = 0.25 x Tier Exposure (0.032) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.174)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

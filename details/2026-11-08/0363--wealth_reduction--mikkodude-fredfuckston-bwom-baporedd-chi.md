@@ -3,15 +3,15 @@ Team Name: Wealth Reduction
 Roster: MikkoDude, fredfuckston, bwom, baporedd, ChiefTiger
 NARS Rank: 363 of 467
 
-Final Rating: 1101.1
-Seeded Start: 1199.3
-H2H Adjustment: -98.2
+Final Rating: 1101.3
+Seeded Start: 1199.4
+H2H Adjustment: -98.1
 
-Final Rating (1101.1) = Seeded Start (1199.3) + H2H Adjustment (-98.2)
+Final Rating (1101.3) = Seeded Start (1199.4) + H2H Adjustment (-98.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.071 x 1400 = 1199.3
+                = 1100 + 0.071 x 1400 = 1199.4
 
 seed_factor 0.071 = 0.25 x Tier Exposure (0.030) + 0.50 x Quality Wins (0.010) + 0.25 x Opponent Network (0.234)
 
@@ -34,7 +34,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-31 | Kurrupted Mindz | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.05 | 1.00 | 0.56 | 0.02 | 0.56 | +214.1 | POOFYz, alexpappas, baporedd, bwom, fredfuckston |
 | 2026-07-29 | Resurgence | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.05 | 1.00 | 0.54 | 0.00 | 0.00 | -86.6 | POOFYz, alexpappas, baporedd, bwom, fredfuckston |
 | 2026-07-22 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.05 | 1.00 | 0.49 | 0.00 | 0.00 | -291.6 | MikkoDude, POOFYz, baporedd, bwom, fredfuckston |
-| 2026-07-17 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.44 | 1.05 | 1.00 | 0.46 | 0.03 | 0.46 | +39.7 | ChiefTiger, MikkoDude, baporedd, bwom, fredfuckston |
+| 2026-07-17 | juked | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.44 | 1.05 | 1.00 | 0.46 | 0.03 | 0.46 | +39.6 | ChiefTiger, MikkoDude, baporedd, bwom, fredfuckston |
 | 2026-05-22 | Scrimless | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.06 | 1.09 | 1.00 | 0.07 | 0.00 | 0.07 | +4.0 | ChiefTiger, MikkoDude, baporedd, bwom, fredfuckston |
 | 2026-05-20 | Old Dads Banging | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.05 | 1.09 | 1.00 | 0.06 | 0.00 | 0.06 | +215.3 | ChiefTiger, MikkoDude, baporedd, bwom, fredfuckston |
 | 2026-05-13 | puggin4seb | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.09 | 1.00 | 0.01 | 0.00 | 0.00 | -161.7 | ChiefTiger, MikkoDude, baporedd, bwom, fredfuckston |

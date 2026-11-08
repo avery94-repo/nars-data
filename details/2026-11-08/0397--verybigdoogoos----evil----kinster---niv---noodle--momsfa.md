@@ -3,15 +3,15 @@ Team Name: VeryBigDoogoos
 Roster: --Evil---, kinster, --Niv--, Noodle-, momsfav
 NARS Rank: 397 of 467
 
-Final Rating: 1009.7
-Seeded Start: 1216.9
+Final Rating: 1009.8
+Seeded Start: 1217.0
 H2H Adjustment: -207.2
 
-Final Rating (1009.7) = Seeded Start (1216.9) + H2H Adjustment (-207.2)
+Final Rating (1009.8) = Seeded Start (1217.0) + H2H Adjustment (-207.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.084 x 1400 = 1216.9
+                = 1100 + 0.084 x 1400 = 1217.0
 
 seed_factor 0.084 = 0.25 x Tier Exposure (0.034) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.265)
 
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-28 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -63.6 | --Niv--, GrimYeti, Plid, kinster, momsfav |
+| 2026-08-28 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -63.7 | --Niv--, GrimYeti, Plid, kinster, momsfav |
 | 2026-08-26 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -2.3 | --Niv--, GrimYeti, Plid, kinster, momsfav |
 | 2026-08-21 | We Play Naked | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -104.9 | --Niv--, KRISPE__, Plid, kinster, momsfav |
 | 2026-08-19 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -55.8 | --Evil---, --Niv--, KRISPE__, kinster, momsfav |
@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-22 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.03 | 0.47 | +106.8 | --Evil---, --Niv--, KRISPE__, kinster, momsfav |
 | 2026-07-17 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.00 | 0.00 | -296.2 | --Evil---, --Niv--, KRISPE__, Noodle-, kinster |
 | 2026-07-16 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.43 | 1.00 | 1.00 | 0.43 | 0.06 | 0.43 | +2.0 | --Evil---, --Niv--, KRISPE__, kinster, momsfav |
-| 2026-06-12 | HigherEducation | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.01 | 0.20 | +36.7 | --Evil---, --Niv--, KRISPE__, Noodle-, kinster |
+| 2026-06-12 | HigherEducation | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.20 | 1.00 | 1.00 | 0.20 | 0.01 | 0.20 | +36.6 | --Evil---, --Niv--, KRISPE__, Noodle-, kinster |
 | 2026-06-10 | Halcyon | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.19 | 1.00 | 1.00 | 0.19 | 0.01 | 0.19 | +136.6 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
 | 2026-06-02 | catacLysm | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.14 | +361.9 | --Evil---, --Niv--, Noodle-, kinster, momsfav |
 | 2026-05-28 | No Roller Dogs | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -269.4 | --Evil---, --Niv--, Noodle-, kinster, momsfav |

@@ -1,5 +1,16 @@
 [
  {
+  "match_id": "hltv:2400377",
+  "date": "2026-11-08",
+  "competition": "CCT 2026 Challengers North America Series 1",
+  "team_a": "DETONATE",
+  "team_b": "keep talking",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
   "match_id": "1-b5985745-bc8e-4917-963d-30950b7f5f88",
   "date": "2026-11-07",
   "competition": "S59 NA Main A - Regular Season",
@@ -20,6 +31,28 @@
   "score": "W/O",
   "tier": "B",
   "source": "faceit-league"
+ },
+ {
+  "match_id": "hltv:2400376",
+  "date": "2026-11-07",
+  "competition": "CCT 2026 Challengers North America Series 1",
+  "team_a": "Villainous",
+  "team_b": "Feistein",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2400375",
+  "date": "2026-11-07",
+  "competition": "CCT 2026 Challengers North America Series 1",
+  "team_a": "Elusive",
+  "team_b": "Crimson Vortex",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "hltv"
  },
  {
   "match_id": "1-00ba4941-7a80-4b14-8dde-45dea4b112aa",

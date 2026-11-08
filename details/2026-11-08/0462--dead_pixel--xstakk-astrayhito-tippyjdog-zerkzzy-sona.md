@@ -3,11 +3,11 @@ Team Name: Dead Pixel
 Roster: xstakk, AstrayHito, tippyjdog, Zerkzzy, sonar
 NARS Rank: 462 of 467
 
-Final Rating: 567.7
+Final Rating: 567.8
 Seeded Start: 1196.0
-H2H Adjustment: -628.3
+H2H Adjustment: -628.2 (capped at +-300, raw -628.3)
 
-Final Rating (567.7) = Seeded Start (1196.0) + H2H Adjustment (-628.3)
+Final Rating (567.8) = Seeded Start (1196.0) + H2H Adjustment (-628.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

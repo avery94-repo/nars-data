@@ -3,11 +3,11 @@ Team Name: wabbit2
 Roster: kerflompnatr, AIDAN_, PG37, CJsInferno, Verzuh
 NARS Rank: 420 of 467
 
-Final Rating: 911.1
+Final Rating: 911.2
 Seeded Start: 1111.2
-H2H Adjustment: -200.1
+H2H Adjustment: -200.0
 
-Final Rating (911.1) = Seeded Start (1111.2) + H2H Adjustment (-200.1)
+Final Rating (911.2) = Seeded Start (1111.2) + H2H Adjustment (-200.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400

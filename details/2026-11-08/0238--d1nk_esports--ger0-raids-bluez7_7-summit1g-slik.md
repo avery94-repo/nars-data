@@ -3,17 +3,17 @@ Team Name: D1NK Esports
 Roster: ger0, Raids, bluez7_7, summit1g, slik
 NARS Rank: 238 of 467
 
-Final Rating: 1391.1
-Seeded Start: 1313.5
+Final Rating: 1391.2
+Seeded Start: 1313.6
 H2H Adjustment: +77.6
 
-Final Rating (1391.1) = Seeded Start (1313.5) + H2H Adjustment (+77.6)
+Final Rating (1391.2) = Seeded Start (1313.6) + H2H Adjustment (+77.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.153 x 1400 = 1313.5
+                = 1100 + 0.153 x 1400 = 1313.6
 
-seed_factor 0.153 = 0.25 x Tier Exposure (0.105) + 0.50 x Quality Wins (0.035) + 0.25 x Opponent Network (0.435)
+seed_factor 0.153 = 0.25 x Tier Exposure (0.105) + 0.50 x Quality Wins (0.035) + 0.25 x Opponent Network (0.436)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-01 | Tacos Tiramisu and Lies | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.54 | 1.11 | 1.00 | 0.60 | 0.00 | 0.00 | -122.3 | JMER, Raids, bluez7_7, ger0, summit1g |
 | 2026-07-31 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.04 | 0.53 | +266.1 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-07-29 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -101.8 | Raids, bluez7_7, ger0, slik, summit1g |
-| 2026-07-24 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.49 | 0.03 | 0.49 | +26.7 | Raids, bluez7_7, ger0, slik, summit1g |
+| 2026-07-24 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.49 | 0.03 | 0.49 | +26.8 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-07-17 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.03 | 0.44 | +1.1 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-07-15 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.43 | 0.04 | 0.43 | +281.5 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-07-14 | Tacos Tiramisu and Lies | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.42 | 1.31 | 1.00 | 0.55 | 0.00 | 0.00 | -408.4 | JMER, Raids, ger0, slik, summit1g |

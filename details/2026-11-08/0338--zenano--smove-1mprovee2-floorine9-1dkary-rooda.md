@@ -24,8 +24,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-05-27 | Nomadic Tactics | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.10 | 1.02 | 1.00 | 0.10 | 0.00 | 0.00 | -16.5 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
-| 2026-05-22 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.06 | 0.00 | 0.00 | -349.0 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
+| 2026-05-27 | Nomadic Tactics | L | 0-2 | S57 NA Intermediate Central - Playoffs A | B | faceit-league | 0.10 | 1.02 | 1.00 | 0.10 | 0.00 | 0.00 | -16.6 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
+| 2026-05-22 | YHTR | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.06 | 1.01 | 1.00 | 0.06 | 0.00 | 0.00 | -348.9 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-05-20 | Relativity | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.05 | 1.01 | 1.00 | 0.05 | 0.00 | 0.05 | +163.0 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-05-15 | Qinorhwat | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.02 | +284.5 | 1dkary, 1mprovee2, Rooda, floorine9, smove |
 | 2026-05-13 | academy 4 gifted children | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | -15.4 | 1dkary, 1mprovee2, Rooda, floorine9, smove |

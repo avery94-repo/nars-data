@@ -3,17 +3,17 @@ Team Name: Better at WOT
 Roster: Muscles_CL, Spiritwalker, Chase591, 4blur, Guest_0-2
 NARS Rank: 320 of 467
 
-Final Rating: 1210.0
+Final Rating: 1210.1
 Seeded Start: 1162.9
-H2H Adjustment: +47.1
+H2H Adjustment: +47.2
 
-Final Rating (1210.0) = Seeded Start (1162.9) + H2H Adjustment (+47.1)
+Final Rating (1210.1) = Seeded Start (1162.9) + H2H Adjustment (+47.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.045 x 1400 = 1162.9
 
-seed_factor 0.045 = 0.25 x Tier Exposure (0.038) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.134)
+seed_factor 0.045 = 0.25 x Tier Exposure (0.038) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.135)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

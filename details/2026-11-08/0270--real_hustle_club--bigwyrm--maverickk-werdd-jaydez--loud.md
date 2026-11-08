@@ -3,11 +3,11 @@ Team Name: Real Hustle Club
 Roster: BIGwyrm, -Maverickk, werdd, jaydez, -LOUD
 NARS Rank: 270 of 467
 
-Final Rating: 1313.7
+Final Rating: 1313.9
 Seeded Start: 1231.9
-H2H Adjustment: +81.8
+H2H Adjustment: +82.0
 
-Final Rating (1313.7) = Seeded Start (1231.9) + H2H Adjustment (+81.8)
+Final Rating (1313.9) = Seeded Start (1231.9) + H2H Adjustment (+82.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Akatsuki | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.05 | 1.00 | 0.65 | 0.00 | 0.00 | -44.5 | -Maverickk, BIGwyrm, CarvedOut, jaydez, werdd |
 | 2026-08-12 | juked | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.05 | 1.00 | 0.64 | 0.00 | 0.00 | -230.3 | -Maverickk, BIGwyrm, CloudCS, jaydez, werdd |
 | 2026-08-07 | Wide Swinging Wizards | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.05 | 1.00 | 0.60 | 0.02 | 0.60 | +9.1 | -Maverickk, BIGwyrm, CloudCS, jaydez, mezcs_ |
-| 2026-08-05 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.05 | 1.00 | 0.59 | 0.02 | 0.59 | +105.9 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
+| 2026-08-05 | Braindead | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.05 | 1.00 | 0.59 | 0.02 | 0.59 | +106.0 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-07-31 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.05 | 1.00 | 0.56 | 0.00 | 0.00 | -136.1 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-07-29 | Asoka | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.05 | 1.00 | 0.54 | 0.00 | 0.00 | -187.1 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |
 | 2026-07-24 | BONK | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.05 | 1.00 | 0.51 | 0.03 | 0.51 | +216.5 | -Maverickk, BIGwyrm, jaydez, mezcs_, werdd |

@@ -4,14 +4,14 @@ Roster: aim_exe112, laze0, 6IXTYEIGHT, Aexc1d7, zoenn
 NARS Rank: 222 of 467
 
 Final Rating: 1427.0
-Seeded Start: 1197.7
-H2H Adjustment: +229.3
+Seeded Start: 1197.8
+H2H Adjustment: +229.2
 
-Final Rating (1427.0) = Seeded Start (1197.7) + H2H Adjustment (+229.3)
+Final Rating (1427.0) = Seeded Start (1197.8) + H2H Adjustment (+229.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.070 x 1400 = 1197.7
+                = 1100 + 0.070 x 1400 = 1197.8
 
 seed_factor 0.070 = 0.25 x Tier Exposure (0.031) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.226)
 

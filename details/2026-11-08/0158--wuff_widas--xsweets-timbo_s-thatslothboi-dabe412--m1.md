@@ -4,16 +4,16 @@ Roster: xSweets, Timbo_S, ThatSlothBoi, Dabe412, -M1as-
 NARS Rank: 158 of 467
 
 Final Rating: 1561.5
-Seeded Start: 1274.2
-H2H Adjustment: +287.3
+Seeded Start: 1274.3
+H2H Adjustment: +287.2
 
-Final Rating (1561.5) = Seeded Start (1274.2) + H2H Adjustment (+287.3)
+Final Rating (1561.5) = Seeded Start (1274.3) + H2H Adjustment (+287.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.124 x 1400 = 1274.2
+                = 1100 + 0.125 x 1400 = 1274.3
 
-seed_factor 0.124 = 0.25 x Tier Exposure (0.079) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.372)
+seed_factor 0.125 = 0.25 x Tier Exposure (0.079) + 0.50 x Quality Wins (0.024) + 0.25 x Opponent Network (0.372)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

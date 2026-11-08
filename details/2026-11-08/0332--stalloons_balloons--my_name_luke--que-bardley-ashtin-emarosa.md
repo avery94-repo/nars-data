@@ -3,11 +3,11 @@ Team Name: STALLOONS BALLOONS
 Roster: My_Name_Luke, -que, bardley, ashtin, emarosa
 NARS Rank: 332 of 467
 
-Final Rating: 1180.2
+Final Rating: 1180.1
 Seeded Start: 1198.2
-H2H Adjustment: -18.0
+H2H Adjustment: -18.1
 
-Final Rating (1180.2) = Seeded Start (1198.2) + H2H Adjustment (-18.0)
+Final Rating (1180.1) = Seeded Start (1198.2) + H2H Adjustment (-18.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-08 | Adria eSports | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.79 | 1.05 | 1.00 | 0.83 | 0.00 | 0.00 | -140.6 | -que, My_Name_Luke, S1n3star, bardley, emarosa, goose_ |
-| 2026-09-02 | DMA | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.00 | 0.00 | -246.5 | -que, My_Name_Luke, S1n3star, bardley, emarosa |
+| 2026-09-02 | DMA | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.00 | 0.00 | -246.7 | -que, My_Name_Luke, S1n3star, bardley, emarosa |
 | 2026-08-09 | DETONATE | L | 0-2 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.75 | 0.00 | 0.00 | -0.2 | -que, 1stallion, ashtin, bardley, emarosa |
-| 2026-08-09 | FLOW STATE | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.75 | 0.16 | 0.75 | +147.1 | -que, 1stallion, ashtin, bardley, emarosa |
+| 2026-08-09 | FLOW STATE | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.75 | 0.16 | 0.75 | +147.2 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-09 | Wuff Widas | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.75 | 0.06 | 0.75 | +294.0 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-09 | STIM | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.59 | 1.28 | 1.00 | 0.75 | 0.05 | 0.75 | +140.8 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-01 | Team Astryx | L | 1-2 | SoFlo Slam 2 | C | faceit-tournament | 0.54 | 1.11 | 1.00 | 0.60 | 0.00 | 0.00 | -212.7 | -que, My_Name_Luke, ashtin, bardley, emarosa |

@@ -3,17 +3,17 @@ Team Name: EZ2025
 Roster: Zitrone_, sil_, solid37, tomjr88, WOWITSMEHI
 NARS Rank: 457 of 467
 
-Final Rating: 668.2
+Final Rating: 668.3
 Seeded Start: 1232.9
-H2H Adjustment: -564.7 (capped at +-300, raw -564.6)
+H2H Adjustment: -564.6
 
-Final Rating (668.2) = Seeded Start (1232.9) + H2H Adjustment (-564.7)
+Final Rating (668.3) = Seeded Start (1232.9) + H2H Adjustment (-564.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
                 = 1100 + 0.095 x 1400 = 1232.9
 
-seed_factor 0.095 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.018) + 0.25 x Opponent Network (0.270)
+seed_factor 0.095 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.018) + 0.25 x Opponent Network (0.271)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -32,8 +32,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -0.3 | WOWITSMEHI, Zitrone_, hayter, sil_, solid37, tomjr88 |
 | 2026-08-28 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.05 | 0.72 | +193.7 | WOWITSMEHI, Zitrone_, hayter, sil_, tomjr88 |
 | 2026-08-26 | Knight Owls | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -195.9 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
-| 2026-08-19 | Thrash | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -124.6 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
-| 2026-08-14 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.63 | 0.04 | 0.63 | +99.5 | WOWITSMEHI, Zitrone_, hayter, sil_, solid37, tomjr88 |
+| 2026-08-19 | Thrash | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -124.7 | WOWITSMEHI, Zitrone_, sil_, solid37, tomjr88 |
+| 2026-08-14 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.63 | 0.04 | 0.63 | +99.6 | WOWITSMEHI, Zitrone_, hayter, sil_, solid37, tomjr88 |
 | 2026-08-12 | It Doesnt Matter | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -49.4 | Zitrone_, hayter, sil_, solid37, tomjr88 |
 | 2026-08-07 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -118.0 | Zitrone_, hayter, sil_, solid37, tomjr88 |
 | 2026-08-05 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.57 | 0.02 | 0.57 | +45.2 | WOWITSMEHI, hayter, sil_, solid37, tomjr88 |
