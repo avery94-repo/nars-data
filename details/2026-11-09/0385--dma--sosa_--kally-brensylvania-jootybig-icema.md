@@ -1,19 +1,19 @@
 ### Roster Details
 Team Name: DMA
 Roster: Sosa_-, Kally, Brensylvania, JootyBIG, Iceman67
-NARS Rank: 385 of 462
+NARS Rank: 385 of 463
 
-Final Rating: 1023.9
-Seeded Start: 1227.4
-H2H Adjustment: -203.5
+Final Rating: 1024.0
+Seeded Start: 1227.9
+H2H Adjustment: -203.9
 
-Final Rating (1023.9) = Seeded Start (1227.4) + H2H Adjustment (-203.5)
+Final Rating (1024.0) = Seeded Start (1227.9) + H2H Adjustment (-203.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.091 x 1400 = 1227.4
+                = 1100 + 0.091 x 1400 = 1227.9
 
-seed_factor 0.091 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.261)
+seed_factor 0.091 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.263)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -26,15 +26,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-11-06 | Double Dink | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -17.8 | -paulrudd, Brensylvania, JootyBIG, Kally, Sosa_- |
 | 2026-11-05 | Will of Dih | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-11-03 | Solbound | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -123.9 | -paulrudd, Brensylvania, JootyBIG, Kally, Sosa_- |
+| 2026-11-03 | Solbound | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -124.1 | -paulrudd, Brensylvania, JootyBIG, Kally, Sosa_- |
 | 2026-10-30 | Muncle | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.07 | 1.04 | +1.9 | -paulrudd, Iceman67, JootyBIG, Kally, Sosa_- |
-| 2026-10-28 | Zamgaa Anime Aimers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +116.2 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
+| 2026-10-28 | Zamgaa Anime Aimers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +116.3 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
 | 2026-10-16 | 69 | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-10-14 | NATIONAL CS UNI | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -56.7 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
-| 2026-10-09 | Team TahMeow | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.99 | 1.04 | 1.00 | 1.03 | 0.00 | 0.00 | -246.3 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
-| 2026-10-07 | KIS | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.01 | 0.00 | 0.00 | -127.7 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
-| 2026-09-08 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.78 | 1.05 | 1.00 | 0.82 | 0.03 | 0.82 | +34.5 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
-| 2026-09-03 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.00 | 0.00 | -51.4 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
-| 2026-09-02 | STALLOONS BALLOONS | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.74 | 1.05 | 1.00 | 0.78 | 0.06 | 0.78 | +264.8 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
+| 2026-10-14 | NATIONAL CS UNI | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -56.5 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
+| 2026-10-09 | Team TahMeow | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.99 | 1.04 | 1.00 | 1.03 | 0.00 | 0.00 | -247.0 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
+| 2026-10-07 | KIS | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.97 | 1.04 | 1.00 | 1.01 | 0.00 | 0.00 | -128.0 | -paulrudd, Brensylvania, Iceman67, Kally, Sosa_- |
+| 2026-09-08 | Employed | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.78 | 1.05 | 1.00 | 0.82 | 0.03 | 0.82 | +34.6 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
+| 2026-09-03 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.78 | 0.00 | 0.00 | -52.0 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
+| 2026-09-02 | STALLOONS BALLOONS | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.74 | 1.05 | 1.00 | 0.78 | 0.06 | 0.78 | +265.6 | Brensylvania, Iceman67, JootyBIG, Kally, Sosa_- |
 
 _Snapshot 2026-11-09 | NARS v2 | CC BY-SA 4.0_

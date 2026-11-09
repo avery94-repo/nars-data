@@ -11,6 +11,17 @@
   "source": "hltv"
  },
  {
+  "match_id": "1-ad207baf-31b2-4d5d-b755-498dc1543ee4",
+  "date": "2026-11-08",
+  "competition": "S59 NA Main A - Regular Season",
+  "team_a": "The Homies",
+  "team_b": "No Future Lifes Over",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "hltv:2400377",
   "date": "2026-11-08",
   "competition": "CCT 2026 Challengers North America Series 1",
