@@ -1,5 +1,38 @@
 [
  {
+  "match_id": "hltv:2400533",
+  "date": "2026-11-15",
+  "competition": "Austin LAN 2026",
+  "team_a": "LAG Gaming",
+  "team_b": "Arnie's Acolytes",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2400531",
+  "date": "2026-11-15",
+  "competition": "Austin LAN 2026",
+  "team_a": "Voca",
+  "team_b": "NuTorious",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2400534",
+  "date": "2026-11-15",
+  "competition": "Austin LAN 2026",
+  "team_a": "DETONATE",
+  "team_b": "Celestial",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "A",
+  "source": "hltv"
+ },
+ {
   "match_id": "1-05f410b0-216d-4043-8b4b-ed372d8bbbee",
   "date": "2026-11-14",
   "competition": "S59 NA Advanced Central - Regular Season",

@@ -3,17 +3,17 @@ Team Name: Knox Esports
 Roster: nave1, Ny3zn, Arch3r_, dmray, Tywz_
 NARS Rank: 377 of 457
 
-Final Rating: 1034.3
-Seeded Start: 1141.2
-H2H Adjustment: -106.9
+Final Rating: 1034.0
+Seeded Start: 1141.0
+H2H Adjustment: -107.0
 
-Final Rating (1034.3) = Seeded Start (1141.2) + H2H Adjustment (-106.9)
+Final Rating (1034.0) = Seeded Start (1141.0) + H2H Adjustment (-107.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.029 x 1400 = 1141.2
+                = 1100 + 0.029 x 1400 = 1141.0
 
-seed_factor 0.029 = 0.25 x Tier Exposure (0.064) + 0.50 x Quality Wins (0.001) + 0.25 x Opponent Network (0.051)
+seed_factor 0.029 = 0.25 x Tier Exposure (0.063) + 0.50 x Quality Wins (0.001) + 0.25 x Opponent Network (0.051)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

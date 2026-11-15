@@ -3,17 +3,17 @@ Team Name: Eightball
 Roster: dabgoblin, maples19, Ant2steppa, Kanapez, andrew-OwO
 NARS Rank: 242 of 457
 
-Final Rating: 1382.5
-Seeded Start: 1396.3
-H2H Adjustment: -13.8
+Final Rating: 1382.1
+Seeded Start: 1395.5
+H2H Adjustment: -13.4
 
-Final Rating (1382.5) = Seeded Start (1396.3) + H2H Adjustment (-13.8)
+Final Rating (1382.1) = Seeded Start (1395.5) + H2H Adjustment (-13.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.212 x 1400 = 1396.3
+                = 1100 + 0.211 x 1400 = 1395.5
 
-seed_factor 0.212 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.044) + 0.25 x Opponent Network (0.687)
+seed_factor 0.211 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.043) + 0.25 x Opponent Network (0.686)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -36,10 +36,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | O Fire | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.00 | 0.00 | -81.7 | Ant2steppa, F0ur-, dabgoblin, diamondtest, maples19 |
 | 2026-10-09 | Afterimage | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-07 | Dead Pixel | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.97 | 0.07 | 0.97 | +11.9 | Kanapez, andrew-OwO, dabgoblin, diamondtest, maples19 |
-| 2026-09-15 | For Fun Gamers | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.79 | 1.03 | 1.00 | 0.82 | 0.00 | 0.00 | -86.9 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
-| 2026-09-12 | CLUE IN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.77 | 1.03 | 1.00 | 0.80 | 0.03 | 0.80 | +107.7 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
-| 2026-09-06 | fast8 | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.73 | 1.03 | 1.00 | 0.76 | 0.00 | 0.00 | -197.1 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
-| 2026-09-04 | Fated | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.72 | 1.03 | 1.00 | 0.74 | 0.02 | 0.74 | +108.1 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
-| 2026-09-02 | Bona Fide Boys | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.70 | 1.03 | 1.00 | 0.73 | 0.02 | 0.73 | +69.2 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
+| 2026-09-15 | For Fun Gamers | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.79 | 1.03 | 1.00 | 0.82 | 0.00 | 0.00 | -86.8 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
+| 2026-09-12 | CLUE IN | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.77 | 1.03 | 1.00 | 0.80 | 0.03 | 0.80 | +107.6 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
+| 2026-09-06 | fast8 | L | 1-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.73 | 1.03 | 1.00 | 0.76 | 0.00 | 0.00 | -197.0 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
+| 2026-09-04 | Fated | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.72 | 1.03 | 1.00 | 0.74 | 0.02 | 0.74 | +108.2 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
+| 2026-09-02 | Bona Fide Boys | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.70 | 1.03 | 1.00 | 0.73 | 0.02 | 0.73 | +69.6 | Ant2steppa, Kanapez, andrew-OwO, dabgoblin, maples19 |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

@@ -3,17 +3,17 @@ Team Name: D1NK Esports
 Roster: ger0, Raids, bluez7_7, summit1g, slik
 NARS Rank: 235 of 457
 
-Final Rating: 1396.2
-Seeded Start: 1300.0
-H2H Adjustment: +96.2
+Final Rating: 1395.8
+Seeded Start: 1299.2
+H2H Adjustment: +96.6
 
-Final Rating (1396.2) = Seeded Start (1300.0) + H2H Adjustment (+96.2)
+Final Rating (1395.8) = Seeded Start (1299.2) + H2H Adjustment (+96.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.143 x 1400 = 1300.0
+                = 1100 + 0.142 x 1400 = 1299.2
 
-seed_factor 0.143 = 0.25 x Tier Exposure (0.100) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.404)
+seed_factor 0.142 = 0.25 x Tier Exposure (0.099) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.403)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -33,18 +33,18 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -17.0 | JBaby, Raids, bluez7_7, slik, summit1g |
 | 2026-08-19 | ABG Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -156.6 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-14 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.06 | 0.58 | +150.5 | Raids, bluez7_7, ger0, slik, summit1g |
-| 2026-08-12 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -182.9 | Raids, bluez7_7, ger0, slik, summit1g |
+| 2026-08-12 | Kevin James Fan Club | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -183.0 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-07 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -129.0 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-08-05 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.03 | 0.52 | +10.4 | Raids, bluez7_7, ger0, slik, summit1g |
-| 2026-08-01 | Tacos Tiramisu and Lies | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.50 | 1.10 | 1.00 | 0.54 | 0.00 | 0.00 | -127.6 | JMER, Raids, bluez7_7, ger0, summit1g |
-| 2026-07-31 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.03 | 0.48 | +273.3 | Raids, bluez7_7, ger0, slik, summit1g |
+| 2026-08-01 | Tacos Tiramisu and Lies | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.50 | 1.09 | 1.00 | 0.54 | 0.00 | 0.00 | -127.6 | JMER, Raids, bluez7_7, ger0, summit1g |
+| 2026-07-31 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.03 | 0.48 | +273.4 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-07-29 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -112.1 | Raids, bluez7_7, ger0, slik, summit1g |
-| 2026-07-24 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.03 | 0.44 | +34.6 | Raids, bluez7_7, ger0, slik, summit1g |
+| 2026-07-24 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.03 | 0.44 | +34.5 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-07-17 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.03 | 0.39 | +1.0 | Raids, bluez7_7, ger0, slik, summit1g |
 | 2026-07-15 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.04 | 0.38 | +294.5 | Raids, bluez7_7, ger0, slik, summit1g |
-| 2026-07-14 | Tacos Tiramisu and Lies | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.38 | 1.32 | 1.00 | 0.50 | 0.00 | 0.00 | -414.7 | JMER, Raids, ger0, slik, summit1g |
-| 2026-06-05 | BJSB Academy | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +130.0 | JMER, Raids, TheJoeMan, ger0, slik |
-| 2026-05-29 | Flow Esports | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.01 | 0.06 | +219.9 | HowlCS, JMER, Raids, ger0, slik |
-| 2026-05-27 | Puddle Pirates | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +160.9 | JMER, Raids, TheJoeMan, ger0, slik |
+| 2026-07-14 | Tacos Tiramisu and Lies | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.38 | 1.32 | 1.00 | 0.50 | 0.00 | 0.00 | -414.8 | JMER, Raids, ger0, slik, summit1g |
+| 2026-06-05 | BJSB Academy | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +130.2 | JMER, Raids, TheJoeMan, ger0, slik |
+| 2026-05-29 | Flow Esports | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.01 | 0.06 | +220.1 | HowlCS, JMER, Raids, ger0, slik |
+| 2026-05-27 | Puddle Pirates | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +161.2 | JMER, Raids, TheJoeMan, ger0, slik |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

@@ -3,17 +3,17 @@ Team Name: Boop Boop Gang
 Roster: tdb, Jtearz, ezdoe, yob, SWEARNGJONNY
 NARS Rank: 283 of 457
 
-Final Rating: 1281.3
-Seeded Start: 1301.3
-H2H Adjustment: -20.0
+Final Rating: 1280.9
+Seeded Start: 1300.7
+H2H Adjustment: -19.8
 
-Final Rating (1281.3) = Seeded Start (1301.3) + H2H Adjustment (-20.0)
+Final Rating (1280.9) = Seeded Start (1300.7) + H2H Adjustment (-19.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.144 x 1400 = 1301.3
+                = 1100 + 0.143 x 1400 = 1300.7
 
-seed_factor 0.144 = 0.25 x Tier Exposure (0.077) + 0.50 x Quality Wins (0.030) + 0.25 x Opponent Network (0.438)
+seed_factor 0.143 = 0.25 x Tier Exposure (0.077) + 0.50 x Quality Wins (0.030) + 0.25 x Opponent Network (0.437)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -37,11 +37,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-09 | Casipanther | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-07 | Fire Nation | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.97 | 0.00 | 0.00 | -3.1 | Chrjs0, HalterN, Jtearz, SWEARNGJONNY, yob |
 | 2026-09-10 | APEX | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.76 | 1.03 | 1.00 | 0.78 | 0.00 | 0.00 | -104.4 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, yob |
-| 2026-09-06 | Team GREAT | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.73 | 1.03 | 1.00 | 0.76 | 0.00 | 0.00 | -114.9 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, tdb |
-| 2026-09-02 | GameBangers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.70 | 1.03 | 1.00 | 0.73 | 0.02 | 0.73 | +103.3 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
-| 2026-06-12 | Praise Jame | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -158.7 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, tdb |
-| 2026-06-05 | ABG Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -262.2 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
-| 2026-05-29 | DadDick Esports | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.01 | 0.06 | +299.3 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
-| 2026-05-27 | Diablo | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +146.2 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
+| 2026-09-06 | Team GREAT | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.73 | 1.03 | 1.00 | 0.76 | 0.00 | 0.00 | -115.0 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, tdb |
+| 2026-09-02 | GameBangers | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.70 | 1.03 | 1.00 | 0.73 | 0.02 | 0.73 | +103.4 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
+| 2026-06-12 | Praise Jame | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.00 | 0.00 | -158.6 | Jtearz, SWEARNGJONNY, ezdoe, paulypizza, tdb |
+| 2026-06-05 | ABG Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -262.1 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
+| 2026-05-29 | DadDick Esports | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.01 | 0.06 | +299.1 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
+| 2026-05-27 | Diablo | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +146.6 | Jtearz, SWEARNGJONNY, ezdoe, tdb, yob |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

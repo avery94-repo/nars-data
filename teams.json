@@ -31,8 +31,8 @@
  },
  "pro:voca": {
   "name": "Voca",
-  "matches": 33,
-  "wins": 22
+  "matches": 34,
+  "wins": 23
  },
  "e59c9c49-907d-43db-a6b9-ed0ee7bb21e6": {
   "name": "Without a Roof",
@@ -41,8 +41,8 @@
  },
  "053839e3-d2ff-40a1-998b-cd6c5c1e9083": {
   "name": "Lifes A Game",
-  "matches": 86,
-  "wins": 63
+  "matches": 87,
+  "wins": 64
  },
  "8121d96b-2094-4bf7-970d-22765b8b4779": {
   "name": "Marsborne",
@@ -94,6 +94,11 @@
   "matches": 38,
   "wins": 22
  },
+ "15275e07-c906-4014-990a-0ed58dbf86d2": {
+  "name": "DETONATE",
+  "matches": 82,
+  "wins": 51
+ },
  "6ac763db-3c3e-412b-b9ff-dda0eac49648": {
   "name": "Villainous",
   "matches": 63,
@@ -144,11 +149,6 @@
   "matches": 13,
   "wins": 9
  },
- "15275e07-c906-4014-990a-0ed58dbf86d2": {
-  "name": "DETONATE",
-  "matches": 81,
-  "wins": 50
- },
  "7af80a64-d762-46c8-8e4c-73cb1a8c2919": {
   "name": "Wanted Goons",
   "matches": 64,
@@ -161,7 +161,7 @@
  },
  "6e30925c-b959-401b-a64b-571bd81da2f7": {
   "name": "NuTorious",
-  "matches": 71,
+  "matches": 72,
   "wins": 39
  },
  "lp:unreal_nightmare": {
@@ -404,15 +404,15 @@
   "matches": 29,
   "wins": 18
  },
- "97e10221-fc3c-4c3a-9499-d4a01bd69b6b": {
-  "name": "Pug Palace",
-  "matches": 24,
-  "wins": 10
- },
  "acbf7d49-3ec0-4c99-86b4-8c8d6f4d47bc": {
   "name": "offBalance",
   "matches": 25,
   "wins": 16
+ },
+ "97e10221-fc3c-4c3a-9499-d4a01bd69b6b": {
+  "name": "Pug Palace",
+  "matches": 24,
+  "wins": 10
  },
  "04d7c47d-deee-481a-93f3-a1bf7a7f11b4": {
   "name": "Toomers",
@@ -514,15 +514,15 @@
   "matches": 6,
   "wins": 3
  },
- "5df3d451-02b4-41cc-a142-ff1b43fb028b": {
-  "name": "NXG Esports",
-  "matches": 35,
-  "wins": 14
- },
  "24776169-c711-42e7-adc2-b447bb9abff4": {
   "name": "fih hou",
   "matches": 19,
   "wins": 13
+ },
+ "5df3d451-02b4-41cc-a142-ff1b43fb028b": {
+  "name": "NXG Esports",
+  "matches": 35,
+  "wins": 14
  },
  "93d2dbdd-567b-4b7c-bff9-826f3081a284": {
   "name": "Tacos Tiramisu and Lies",
@@ -729,15 +729,15 @@
   "matches": 20,
   "wins": 10
  },
- "e8e4211b-fc0e-4d4d-8e15-f8b10f194be4": {
-  "name": "DKR Esports",
-  "matches": 16,
-  "wins": 10
- },
  "37dc7ef5-4c01-4466-b71f-68e3feaa35d8": {
   "name": "GOBLINS",
   "matches": 7,
   "wins": 5
+ },
+ "e8e4211b-fc0e-4d4d-8e15-f8b10f194be4": {
+  "name": "DKR Esports",
+  "matches": 16,
+  "wins": 10
  },
  "98769025-a80f-48e4-b785-b99c8a20851d": {
   "name": "noname",
@@ -859,15 +859,15 @@
   "matches": 18,
   "wins": 13
  },
- "7ca0b152-59bb-4c56-9bdf-71296706937a": {
-  "name": "brb grinding minecraft",
-  "matches": 15,
-  "wins": 10
- },
  "a62d17d7-2da7-4126-8cdc-3aa7d8b9b32b": {
   "name": "AscendentEsport",
   "matches": 11,
   "wins": 8
+ },
+ "7ca0b152-59bb-4c56-9bdf-71296706937a": {
+  "name": "brb grinding minecraft",
+  "matches": 15,
+  "wins": 10
  },
  "432957d2-056b-4a29-aee5-f40bacbd3bcd": {
   "name": "TahMeow",
@@ -1639,15 +1639,15 @@
   "matches": 22,
   "wins": 10
  },
- "7493e3ff-5c56-46dc-b069-5fef3afd2ede": {
-  "name": "SwagMonkeyHats",
-  "matches": 33,
-  "wins": 15
- },
  "624773ae-7818-4a49-9d7d-eeac01aa19fb": {
   "name": "PPWesports",
   "matches": 5,
   "wins": 2
+ },
+ "7493e3ff-5c56-46dc-b069-5fef3afd2ede": {
+  "name": "SwagMonkeyHats",
+  "matches": 33,
+  "wins": 15
  },
  "7a115769-857a-4572-88b0-1895528c3a8d": {
   "name": "Temple of Swing",
@@ -1839,15 +1839,15 @@
   "matches": 26,
   "wins": 7
  },
- "24cd252a-e45b-48a1-abf3-696f2f83248b": {
-  "name": "Moniseum",
-  "matches": 16,
-  "wins": 7
- },
  "15bffee0-7e77-47d2-88f2-d8a7c37561db": {
   "name": "PSDN White",
   "matches": 7,
   "wins": 3
+ },
+ "24cd252a-e45b-48a1-abf3-696f2f83248b": {
+  "name": "Moniseum",
+  "matches": 16,
+  "wins": 7
  },
  "3a2c7372-d3e0-4979-a04b-5a40499383e8": {
   "name": "fiveB",

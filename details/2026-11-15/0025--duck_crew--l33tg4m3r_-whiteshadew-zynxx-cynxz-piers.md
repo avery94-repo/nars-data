@@ -1,17 +1,17 @@
 ### Roster Details
 Team Name: duck crew
 Roster: L33TG4M3R_, WhiteShadew, Zynxx, Cynxz, pierson
-NARS Rank: 24 of 457
+NARS Rank: 25 of 457
 
-Final Rating: 2109.9
-Seeded Start: 1207.1
-H2H Adjustment: +902.8
+Final Rating: 2109.5
+Seeded Start: 1206.8
+H2H Adjustment: +902.7
 
-Final Rating (2109.9) = Seeded Start (1207.1) + H2H Adjustment (+902.8)
+Final Rating (2109.5) = Seeded Start (1206.8) + H2H Adjustment (+902.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.076 x 1400 = 1207.1
+                = 1100 + 0.076 x 1400 = 1206.8
 
 seed_factor 0.076 = 0.25 x Tier Exposure (0.022) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.240)
 
@@ -31,6 +31,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-24 | Kinetic | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.44 | 1.06 | 1.00 | 0.47 | 0.05 | 0.47 | +300.1 | Alheeti, Cynxz, F0ur-, L33TG4M3R_, pierson |
 | 2026-07-22 | Pugging4Pumpkin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.42 | 1.06 | 1.00 | 0.45 | 0.03 | 0.45 | +66.6 | Alheeti, Cynxz, L33TG4M3R_, bandit0, pierson |
 | 2026-07-17 | Bird Squishers | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.39 | 1.06 | 1.00 | 0.42 | 0.03 | 0.42 | +10.4 | Alheeti, Cynxz, L33TG4M3R_, pierson, soulsurvivor |
-| 2026-07-15 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.38 | 1.06 | 1.00 | 0.40 | 0.06 | 0.40 | +195.3 | Alheeti, Cynxz, L33TG4M3R_, pierson, soulsurvivor |
+| 2026-07-15 | FUELED BY HATE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.38 | 1.06 | 1.00 | 0.40 | 0.05 | 0.40 | +195.1 | Alheeti, Cynxz, L33TG4M3R_, pierson, soulsurvivor |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

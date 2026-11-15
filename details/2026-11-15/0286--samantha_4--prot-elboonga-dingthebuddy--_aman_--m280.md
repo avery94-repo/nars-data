@@ -3,17 +3,17 @@ Team Name: Samantha 4
 Roster: Prot, ElBoonga, DingTheBuddy, -_aman_-, m2803
 NARS Rank: 286 of 457
 
-Final Rating: 1273.0
-Seeded Start: 1399.7
-H2H Adjustment: -126.7
+Final Rating: 1272.6
+Seeded Start: 1398.8
+H2H Adjustment: -126.2
 
-Final Rating (1273.0) = Seeded Start (1399.7) + H2H Adjustment (-126.7)
+Final Rating (1272.6) = Seeded Start (1398.8) + H2H Adjustment (-126.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.214 x 1400 = 1399.7
+                = 1100 + 0.213 x 1400 = 1398.8
 
-seed_factor 0.214 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.046) + 0.25 x Opponent Network (0.689)
+seed_factor 0.213 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.046) + 0.25 x Opponent Network (0.688)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -34,11 +34,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | HIGHPOINT | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.08 | 1.04 | +10.6 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
 | 2026-10-09 | WhiteBoyWinter | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.00 | 0.00 | -95.0 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
 | 2026-10-07 | Remnant | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.97 | 0.07 | 0.97 | +3.4 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
-| 2026-09-15 | Gloobers | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.79 | 1.11 | 1.00 | 0.88 | 0.00 | 0.00 | -210.2 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
+| 2026-09-15 | Gloobers | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.79 | 1.11 | 1.00 | 0.88 | 0.00 | 0.00 | -210.1 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
 | 2026-09-12 | UncsStillGotIt | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.77 | 1.11 | 1.00 | 0.86 | 0.06 | 0.86 | +42.1 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
-| 2026-09-10 | muntos minions | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.76 | 1.11 | 1.00 | 0.84 | 0.06 | 0.84 | +108.6 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
+| 2026-09-10 | muntos minions | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.76 | 1.11 | 1.00 | 0.84 | 0.06 | 0.84 | +108.7 | -_aman_-, DingTheBuddy, Prot, WALTUH, m2803 |
 | 2026-09-08 | No pain No aim | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.74 | 1.11 | 1.00 | 0.83 | 0.03 | 0.83 | +90.5 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
-| 2026-09-06 | Purple Reign | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.73 | 1.11 | 1.00 | 0.81 | 0.03 | 0.81 | +153.0 | DingTheBuddy, ElBoonga, Prot, WALTUH, m2803 |
-| 2026-09-02 | Heavens Gate | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.71 | 1.11 | 1.00 | 0.78 | 0.00 | 0.00 | -269.4 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
+| 2026-09-06 | Purple Reign | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.73 | 1.11 | 1.00 | 0.81 | 0.03 | 0.81 | +153.1 | DingTheBuddy, ElBoonga, Prot, WALTUH, m2803 |
+| 2026-09-02 | Heavens Gate | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.70 | 1.11 | 1.00 | 0.78 | 0.00 | 0.00 | -269.2 | -_aman_-, DingTheBuddy, ElBoonga, Prot, m2803 |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

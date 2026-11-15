@@ -3,17 +3,17 @@ Team Name: pew pew
 Roster: R0cco, jaw, Hoppin, J13, 1HickMEISTER
 NARS Rank: 118 of 457
 
-Final Rating: 1651.9
-Seeded Start: 1193.1
+Final Rating: 1651.6
+Seeded Start: 1192.8
 H2H Adjustment: +458.8
 
-Final Rating (1651.9) = Seeded Start (1193.1) + H2H Adjustment (+458.8)
+Final Rating (1651.6) = Seeded Start (1192.8) + H2H Adjustment (+458.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.066 x 1400 = 1193.1
+                = 1100 + 0.066 x 1400 = 1192.8
 
-seed_factor 0.066 = 0.25 x Tier Exposure (0.030) + 0.50 x Quality Wins (0.013) + 0.25 x Opponent Network (0.210)
+seed_factor 0.066 = 0.25 x Tier Exposure (0.029) + 0.50 x Quality Wins (0.013) + 0.25 x Opponent Network (0.210)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

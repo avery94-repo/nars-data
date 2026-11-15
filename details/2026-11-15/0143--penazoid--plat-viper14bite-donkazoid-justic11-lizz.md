@@ -3,17 +3,17 @@ Team Name: penazoid
 Roster: Plat, viper14bite, donkazoid, Justic11, lizzaarrd
 NARS Rank: 143 of 457
 
-Final Rating: 1598.5
-Seeded Start: 1410.4
-H2H Adjustment: +188.1
+Final Rating: 1598.1
+Seeded Start: 1409.4
+H2H Adjustment: +188.7
 
-Final Rating (1598.5) = Seeded Start (1410.4) + H2H Adjustment (+188.1)
+Final Rating (1598.1) = Seeded Start (1409.4) + H2H Adjustment (+188.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.222 x 1400 = 1410.4
+                = 1100 + 0.221 x 1400 = 1409.4
 
-seed_factor 0.222 = 0.25 x Tier Exposure (0.101) + 0.50 x Quality Wins (0.069) + 0.25 x Opponent Network (0.648)
+seed_factor 0.221 = 0.25 x Tier Exposure (0.100) + 0.50 x Quality Wins (0.069) + 0.25 x Opponent Network (0.647)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -32,11 +32,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-21 | Top One Percent | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.07 | 1.03 | +58.1 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-10-16 | PASSION | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.10 | 1.03 | +41.5 | Justic11, Plat, The0blivi0us, donkazoid, nowaIk |
 | 2026-10-14 | Tractors | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.98 | 1.03 | 1.00 | 1.02 | 0.17 | 1.02 | +81.7 | Justic11, Plat, The0blivi0us, donkazoid, lizzaarrd |
-| 2026-10-09 | Big Fish | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.10 | 0.98 | +93.1 | Justic11, Plat, The0blivi0us, donkazoid, nowaIk |
-| 2026-10-08 | Kaos | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -356.8 | Justic11, Plat, donkazoid, nowaIk, viper14bite |
+| 2026-10-09 | Big Fish | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.10 | 0.98 | +93.2 | Justic11, Plat, The0blivi0us, donkazoid, nowaIk |
+| 2026-10-08 | Kaos | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.98 | 0.00 | 0.00 | -356.9 | Justic11, Plat, donkazoid, nowaIk, viper14bite |
 | 2026-09-12 | Over Your Head | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.77 | 1.06 | 1.00 | 0.82 | 0.00 | 0.00 | -55.4 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-09-11 | Evil Reunion | W | 1-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.76 | 1.06 | 1.00 | 0.81 | 0.05 | 0.81 | +130.3 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-09-08 | YHTR | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.74 | 1.06 | 1.00 | 0.79 | 0.15 | 0.79 | +95.7 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-09-08 | YHTR | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.74 | 1.06 | 1.00 | 0.79 | 0.14 | 0.79 | +95.7 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-09-07 | Nomadic Tactics | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.74 | 1.06 | 1.00 | 0.78 | 0.05 | 0.78 | +73.1 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-09-04 | VOID ALUNE | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -0.9 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-09-02 | 1NT | W | 2-1 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.70 | 1.06 | 1.00 | 0.75 | 0.07 | 0.75 | +134.0 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
@@ -49,12 +49,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-11 | Crimson Vortex | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.06 | 1.00 | 0.59 | 0.00 | 0.00 | -115.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-08-05 | ALL IN | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.00 | 0.00 | -360.3 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-31 | Binky | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.05 | 0.51 | +77.4 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-07-29 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.06 | 1.00 | 0.50 | 0.03 | 0.50 | +216.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-07-29 | strawberry poptarts | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.06 | 1.00 | 0.50 | 0.03 | 0.50 | +216.6 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-24 | Lynnsanity | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.44 | 1.06 | 1.00 | 0.47 | 0.03 | 0.47 | +125.3 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 | 2026-07-22 | VOID ALUNE | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.42 | 1.06 | 1.00 | 0.45 | 0.07 | 0.45 | +373.8 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-07-21 | Over Your Head | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.42 | 1.06 | 1.00 | 0.44 | 0.00 | 0.00 | -195.2 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-07-16 | ASYCS KITTENS | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.38 | 1.06 | 1.00 | 0.41 | 0.00 | 0.00 | -308.6 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-05-22 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.06 | 1.00 | 0.02 | 0.00 | 0.02 | +406.9 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
-| 2026-05-20 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.06 | 1.00 | 0.00 | 0.00 | 0.00 | -295.2 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-07-21 | Over Your Head | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.42 | 1.06 | 1.00 | 0.44 | 0.00 | 0.00 | -195.1 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-07-16 | ASYCS KITTENS | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.38 | 1.06 | 1.00 | 0.41 | 0.00 | 0.00 | -308.5 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-05-22 | FUELED BY HATE | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.07 | 1.00 | 0.02 | 0.00 | 0.02 | +406.9 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
+| 2026-05-20 | Salsas Mazzin Crew | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.07 | 1.00 | 0.00 | 0.00 | 0.00 | -295.0 | Justic11, Plat, donkazoid, lizzaarrd, viper14bite |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

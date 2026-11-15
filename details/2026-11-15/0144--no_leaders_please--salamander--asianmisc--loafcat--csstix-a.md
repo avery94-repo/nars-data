@@ -3,17 +3,17 @@ Team Name: No Leaders Please
 Roster: Salamander-, asianmisc, -LoafCat-, CSStix, auti_
 NARS Rank: 144 of 457
 
-Final Rating: 1597.7
-Seeded Start: 1421.4
-H2H Adjustment: +176.3
+Final Rating: 1597.2
+Seeded Start: 1420.3
+H2H Adjustment: +176.9
 
-Final Rating (1597.7) = Seeded Start (1421.4) + H2H Adjustment (+176.3)
+Final Rating (1597.2) = Seeded Start (1420.3) + H2H Adjustment (+176.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.230 x 1400 = 1421.4
+                = 1100 + 0.229 x 1400 = 1420.3
 
-seed_factor 0.230 = 0.25 x Tier Exposure (0.099) + 0.50 x Quality Wins (0.074) + 0.25 x Opponent Network (0.672)
+seed_factor 0.229 = 0.25 x Tier Exposure (0.098) + 0.50 x Quality Wins (0.073) + 0.25 x Opponent Network (0.671)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -40,15 +40,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.67 | 1.05 | 1.00 | 0.70 | 0.00 | 0.00 | -136.2 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-08-26 | MINDTRIP | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.66 | 1.05 | 1.00 | 0.69 | 0.07 | 0.69 | +64.6 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-08-19 | Qinorhwat | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.05 | 1.00 | 0.64 | 0.02 | 0.64 | +78.1 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
-| 2026-08-14 | Abusement Park | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.05 | 1.00 | 0.61 | 0.04 | 0.61 | +243.5 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
+| 2026-08-14 | Abusement Park | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.05 | 1.00 | 0.60 | 0.04 | 0.60 | +243.6 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-08-12 | Hack-A-Shaq | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.05 | 1.00 | 0.59 | 0.00 | 0.00 | -203.7 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-08-05 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.05 | 1.00 | 0.54 | 0.05 | 0.54 | +132.9 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-07-31 | TEMPR | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.05 | 1.00 | 0.51 | 0.00 | 0.00 | -145.1 | -LoafCat-, Battitz, Salamander-, asianmisc, auti_ |
 | 2026-07-29 | BucketJonsBoys | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.05 | 1.00 | 0.49 | 0.12 | 0.49 | +156.2 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
-| 2026-07-24 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.44 | 1.05 | 1.00 | 0.46 | 0.03 | 0.46 | +196.6 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
+| 2026-07-24 | The Burger People | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.44 | 1.05 | 1.00 | 0.46 | 0.03 | 0.46 | +196.5 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 | 2026-07-17 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.39 | 1.05 | 1.00 | 0.41 | 0.00 | 0.00 | -7.4 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
-| 2026-07-15 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.38 | 1.05 | 1.00 | 0.40 | 0.03 | 0.40 | +148.6 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
-| 2026-05-22 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.06 | 1.00 | 0.02 | 0.00 | 0.00 | -75.3 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
-| 2026-05-20 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.06 | 1.00 | 0.01 | 0.00 | 0.00 | -365.2 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
+| 2026-07-15 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.38 | 1.05 | 1.00 | 0.40 | 0.03 | 0.40 | +148.5 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
+| 2026-05-22 | SquishysAngels | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.07 | 1.00 | 0.02 | 0.00 | 0.00 | -74.8 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
+| 2026-05-20 | FRAGDEMONS | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.01 | 1.07 | 1.00 | 0.01 | 0.00 | 0.00 | -364.9 | -LoafCat-, CSStix, Salamander-, asianmisc, auti_ |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

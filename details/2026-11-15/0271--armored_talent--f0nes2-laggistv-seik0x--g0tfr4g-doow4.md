@@ -3,17 +3,17 @@ Team Name: Armored Talent
 Roster: f0Nes2, laggistv, SEIK0X-, g0tfr4g, Doow4
 NARS Rank: 271 of 457
 
-Final Rating: 1319.6
-Seeded Start: 1422.4
-H2H Adjustment: -102.8
+Final Rating: 1319.1
+Seeded Start: 1421.2
+H2H Adjustment: -102.1
 
-Final Rating (1319.6) = Seeded Start (1422.4) + H2H Adjustment (-102.8)
+Final Rating (1319.1) = Seeded Start (1421.2) + H2H Adjustment (-102.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.230 x 1400 = 1422.4
+                = 1100 + 0.229 x 1400 = 1421.2
 
-seed_factor 0.230 = 0.25 x Tier Exposure (0.159) + 0.50 x Quality Wins (0.065) + 0.25 x Opponent Network (0.631)
+seed_factor 0.229 = 0.25 x Tier Exposure (0.158) + 0.50 x Quality Wins (0.065) + 0.25 x Opponent Network (0.630)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -31,12 +31,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-29 | Spin da block | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -98.2 | SEIK0X-, Tritoking, f0Nes2, g0tfr4g, laggistv |
 | 2026-10-28 | Resurgence | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.10 | 1.03 | +42.9 | SEIK0X-, Tritoking, f0Nes2, g0tfr4g, laggistv |
 | 2026-10-21 | Absent Minded | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.08 | 1.03 | +1.3 | -JOSE-, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
-| 2026-10-16 | Kinetic | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -140.3 | Mr_Miyagui, f0Nes2, g0tfr4g, laggistv, pRediii |
+| 2026-10-16 | Kinetic | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.03 | 1.00 | 1.03 | 0.00 | 0.00 | -140.4 | Mr_Miyagui, f0Nes2, g0tfr4g, laggistv, pRediii |
 | 2026-10-14 | Flow Esports | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.98 | 1.03 | 1.00 | 1.02 | 0.10 | 1.02 | +7.4 | Mr_Miyagui, SEIK0X-, f0Nes2, laggistv, pRediii |
 | 2026-10-09 | UltimateDarklordWizardz | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.95 | 1.03 | 1.00 | 0.98 | 0.18 | 0.98 | +144.0 | -JOSE-, Mr_Miyagui, f0Nes2, g0tfr4g, laggistv |
 | 2026-10-07 | WhalersOnDaMoon | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.94 | 1.03 | 1.00 | 0.97 | 0.00 | 0.00 | -13.2 | Mr_Miyagui, SEIK0X-, f0Nes2, laggistv, pRediii |
 | 2026-09-27 | mas paspas | L | 0-0 | NA Revival | C | faceit-tournament | 0.87 | 1.15 | 1.00 | 1.00 | 0.00 | 0.00 | -2.7 | Mr_Miyagui, SEIK0X-, f0Nes2, laggistv, pRediii |
-| 2026-09-27 | MadaNASCAR | W | 1-0 | NA Revival | C | faceit-tournament | 0.87 | 1.15 | 1.00 | 1.00 | 0.14 | 1.00 | +158.3 | Mr_Miyagui, SEIK0X-, f0Nes2, laggistv, pRediii |
+| 2026-09-27 | MadaNASCAR | W | 1-0 | NA Revival | C | faceit-tournament | 0.87 | 1.15 | 1.00 | 1.00 | 0.14 | 1.00 | +158.4 | Mr_Miyagui, SEIK0X-, f0Nes2, laggistv, pRediii |
 | 2026-09-06 | Ubiquiti | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -140.9 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
 | 2026-09-04 | Bald | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.00 | 0.00 | -84.7 | SEIK0X-, f0Nes2, g0tfr4g, laggistv, pRediii |
 | 2026-09-02 | 929 Arrival Gang | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.04 | 0.70 | +59.9 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
@@ -46,14 +46,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | 69 | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.04 | 0.58 | +69.1 | Doow4, SEIK0X-, f0Nes2, hotzzinho_-, laggistv |
 | 2026-08-12 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.05 | 0.56 | +165.1 | Doow4, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
 | 2026-08-07 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -39.1 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
-| 2026-08-05 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -193.9 | NovaSun, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
-| 2026-07-31 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.03 | 0.48 | +78.7 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
-| 2026-07-29 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -107.0 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
-| 2026-07-25 | AML | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.45 | 1.09 | 1.00 | 0.49 | 0.00 | 0.00 | -342.2 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
-| 2026-07-24 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.06 | 0.44 | +251.8 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
-| 2026-07-22 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.00 | 0.00 | -177.9 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
+| 2026-08-05 | Goyim Gladiators | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -194.0 | NovaSun, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
+| 2026-07-31 | Climbers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.03 | 0.48 | +78.9 | SEIK0X-, f0Nes2, g0tfr4g, hotzzinho_-, laggistv |
+| 2026-07-29 | Dynasty | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -106.9 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
+| 2026-07-25 | AML | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.45 | 1.09 | 1.00 | 0.49 | 0.00 | 0.00 | -342.3 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
+| 2026-07-24 | Rejects | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.06 | 0.44 | +252.0 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
+| 2026-07-22 | Torii | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.00 | 0.00 | -177.8 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
 | 2026-07-15 | offBalance | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.04 | 0.38 | +8.7 | Doow4, SEIK0X-, f0Nes2, g0tfr4g, laggistv |
-| 2026-06-12 | makeSHIFT | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.02 | 0.16 | +340.1 | Doow4, NovaSun, f0Nes2, g0tfr4g, laggistv |
-| 2026-06-05 | 1001 Fragrance | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -109.0 | Doow4, f0Nes2, g0tfr4g, laggistv, pRediii |
+| 2026-06-12 | makeSHIFT | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.16 | 1.00 | 1.00 | 0.16 | 0.02 | 0.16 | +339.7 | Doow4, NovaSun, f0Nes2, g0tfr4g, laggistv |
+| 2026-06-05 | 1001 Fragrance | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -108.2 | Doow4, f0Nes2, g0tfr4g, laggistv, pRediii |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

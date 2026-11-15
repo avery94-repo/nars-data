@@ -3,17 +3,17 @@ Team Name: TOP SHELF WHIFFERS
 Roster: ChipLeader, 3bru, bugass, Kaleezbihch, craps
 NARS Rank: 123 of 457
 
-Final Rating: 1645.4
-Seeded Start: 1252.5
-H2H Adjustment: +392.9
+Final Rating: 1645.0
+Seeded Start: 1252.1
+H2H Adjustment: +392.9 (capped at +-300, raw +393.0)
 
-Final Rating (1645.4) = Seeded Start (1252.5) + H2H Adjustment (+392.9)
+Final Rating (1645.0) = Seeded Start (1252.1) + H2H Adjustment (+392.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.109 x 1400 = 1252.5
+                = 1100 + 0.109 x 1400 = 1252.1
 
-seed_factor 0.109 = 0.25 x Tier Exposure (0.036) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.365)
+seed_factor 0.109 = 0.25 x Tier Exposure (0.036) + 0.50 x Quality Wins (0.017) + 0.25 x Opponent Network (0.364)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -29,9 +29,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-17 | Gloobers | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.80 | 1.11 | 1.00 | 0.89 | 0.03 | 0.89 | +101.5 | 3bru, ChipLeader, Kaleezbihch, bugass, craps |
 | 2026-09-15 | RH Help Desk | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.79 | 1.11 | 1.00 | 0.88 | 0.07 | 0.88 | +132.4 | 3bru, APMGODRACO, ChipLeader, bugass, craps |
 | 2026-09-10 | house | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.76 | 1.11 | 1.00 | 0.84 | 0.06 | 0.84 | +139.3 | 3bru, ChipLeader, Kaleezbihch, Mexicaniese, bugass, craps |
-| 2026-09-08 | Bunzsteezy Island | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.74 | 1.11 | 1.00 | 0.83 | 0.03 | 0.83 | +35.7 | 3bru, ChipLeader, Kaleezbihch, Mexicaniese, craps |
+| 2026-09-08 | Bunzsteezy Island | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.74 | 1.11 | 1.00 | 0.83 | 0.03 | 0.83 | +35.8 | 3bru, ChipLeader, Kaleezbihch, Mexicaniese, craps |
 | 2026-09-06 | Excommunicado | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.73 | 1.11 | 1.00 | 0.81 | 0.03 | 0.81 | +112.9 | ChipLeader, Kaleezbihch, Mexicaniese, Migle7, craps |
-| 2026-09-04 | deluxe | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.72 | 1.11 | 1.00 | 0.80 | 0.00 | 0.00 | -262.6 | 3bru, APMGODRACO, ChipLeader, Kaleezbihch, craps |
-| 2026-09-02 | Code9 | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.70 | 1.11 | 1.00 | 0.78 | 0.02 | 0.78 | +133.6 | 3bru, APMGODRACO, ChipLeader, Kaleezbihch, Mexicaniese, craps |
+| 2026-09-04 | deluxe | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.72 | 1.11 | 1.00 | 0.80 | 0.00 | 0.00 | -262.5 | 3bru, APMGODRACO, ChipLeader, Kaleezbihch, craps |
+| 2026-09-02 | Code9 | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.70 | 1.11 | 1.00 | 0.78 | 0.02 | 0.78 | +133.7 | 3bru, APMGODRACO, ChipLeader, Kaleezbihch, Mexicaniese, craps |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

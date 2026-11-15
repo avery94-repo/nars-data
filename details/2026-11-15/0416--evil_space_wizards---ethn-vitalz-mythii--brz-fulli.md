@@ -3,17 +3,17 @@ Team Name: Evil Space Wizards
 Roster: -ethn, Vitalz, mythii, -brz, fuLLi
 NARS Rank: 416 of 457
 
-Final Rating: 934.8
-Seeded Start: 1173.7
-H2H Adjustment: -238.9
+Final Rating: 934.3
+Seeded Start: 1173.5
+H2H Adjustment: -239.2
 
-Final Rating (934.8) = Seeded Start (1173.7) + H2H Adjustment (-238.9)
+Final Rating (934.3) = Seeded Start (1173.5) + H2H Adjustment (-239.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.053 x 1400 = 1173.7
+                = 1100 + 0.052 x 1400 = 1173.5
 
-seed_factor 0.053 = 0.25 x Tier Exposure (0.027) + 0.50 x Quality Wins (0.012) + 0.25 x Opponent Network (0.159)
+seed_factor 0.052 = 0.25 x Tier Exposure (0.026) + 0.50 x Quality Wins (0.012) + 0.25 x Opponent Network (0.159)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -33,11 +33,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-05 | Sassy Sunshines | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.55 | 0.00 | 0.00 | -190.2 | -brz, Vitalz, basspumpin_, fuLLi, mythii |
 | 2026-07-31 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.00 | 0.00 | -1.7 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-07-29 | Conscious Gaming | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.06 | 1.00 | 0.50 | 0.00 | 0.00 | -137.4 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-07-24 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.44 | 1.06 | 1.00 | 0.47 | 0.00 | 0.00 | -272.5 | -ethn, Vitalz, fuLLi, kaleq, mythii |
-| 2026-07-22 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.42 | 1.06 | 1.00 | 0.45 | 0.04 | 0.45 | +266.3 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-07-24 | Entertainment Cheese | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.44 | 1.06 | 1.00 | 0.47 | 0.00 | 0.00 | -272.7 | -ethn, Vitalz, fuLLi, kaleq, mythii |
+| 2026-07-22 | Macs Snacks | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.42 | 1.06 | 1.00 | 0.45 | 0.04 | 0.45 | +266.4 | -brz, -ethn, Vitalz, fuLLi, mythii |
 | 2026-07-17 | Automatic HQ | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.39 | 1.06 | 1.00 | 0.42 | 0.05 | 0.42 | +396.7 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-07-15 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.38 | 1.06 | 1.00 | 0.40 | 0.00 | 0.00 | -255.4 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-05-22 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.06 | 1.00 | 0.02 | 0.00 | 0.02 | +294.1 | -brz, -ethn, Vitalz, fuLLi, mythii |
-| 2026-05-20 | grogu | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.06 | 1.00 | 0.00 | 0.00 | 0.00 | -268.6 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-07-15 | Shaboing Boing Bandits | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.38 | 1.06 | 1.00 | 0.40 | 0.00 | 0.00 | -255.6 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-05-22 | GOOZPEEK | W | 1-0 | S57 NA Main Central - Regular Season | C | faceit-league | 0.02 | 1.07 | 1.00 | 0.02 | 0.00 | 0.02 | +293.9 | -brz, -ethn, Vitalz, fuLLi, mythii |
+| 2026-05-20 | grogu | L | 0-1 | S57 NA Main Central - Regular Season | C | faceit-league | 0.00 | 1.07 | 1.00 | 0.00 | 0.00 | 0.00 | -268.5 | -brz, -ethn, Vitalz, fuLLi, mythii |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

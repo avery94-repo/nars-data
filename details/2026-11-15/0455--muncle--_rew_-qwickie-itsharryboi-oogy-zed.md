@@ -3,15 +3,15 @@ Team Name: Muncle
 Roster: _REW_, Qwickie, ItsHarryBoi, Oogy, zed
 NARS Rank: 455 of 457
 
-Final Rating: 477.5
-Seeded Start: 1179.8
-H2H Adjustment: -702.3
+Final Rating: 477.0
+Seeded Start: 1179.5
+H2H Adjustment: -702.5
 
-Final Rating (477.5) = Seeded Start (1179.8) + H2H Adjustment (-702.3)
+Final Rating (477.0) = Seeded Start (1179.5) + H2H Adjustment (-702.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.057 x 1400 = 1179.8
+                = 1100 + 0.057 x 1400 = 1179.5
 
 seed_factor 0.057 = 0.25 x Tier Exposure (0.069) + 0.50 x Quality Wins (0.007) + 0.25 x Opponent Network (0.144)
 
@@ -40,14 +40,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-19 | Remnant | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.00 | 1.00 | 0.61 | 0.04 | 0.61 | +137.7 | Oogy, Qwickie, _REW_, oskarGG, zed |
 | 2026-08-14 | VeryBigDoogoos | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.00 | 1.00 | 0.58 | 0.00 | 0.00 | -3.4 | Oogy, Qwickie, _REW_, oskarGG, zed |
 | 2026-08-12 | innerFire | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -188.8 | Oogy, Qwickie, _REW_, oskarGG, zed |
-| 2026-08-05 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.01 | 0.52 | +90.5 | Oogy, Qwickie, _REW_, oskarGG, zed |
-| 2026-07-30 | Atlantis eSports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -17.2 | Oogy, Qwickie, _REW_, oskarGG, zed |
+| 2026-08-05 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.01 | 0.52 | +90.6 | Oogy, Qwickie, _REW_, oskarGG, zed |
+| 2026-07-30 | Atlantis eSports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -17.1 | Oogy, Qwickie, _REW_, oskarGG, zed |
 | 2026-07-29 | The Sweepers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -177.6 | Oogy, Qwickie, _REW_, oskarGG, zed |
-| 2026-07-24 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.01 | 0.44 | +34.3 | Oogy, Qwickie, _REW_, oskarGG, zed |
-| 2026-07-22 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.03 | 0.42 | +299.2 | Oogy, Qwickie, _REW_, oskarGG, zed |
+| 2026-07-24 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.01 | 0.44 | +34.4 | Oogy, Qwickie, _REW_, oskarGG, zed |
+| 2026-07-22 | monitor off | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.03 | 0.42 | +299.0 | Oogy, Qwickie, _REW_, oskarGG, zed |
 | 2026-07-17 | The Ohio Meat Wagon | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -4.2 | Oogy, Qwickie, _REW_, oskarGG, zed |
 | 2026-07-15 | The Third Eye | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.00 | -0.1 | Oogy, Qwickie, _REW_, bee---, zed |
 | 2026-05-29 | In Our Prime | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -169.1 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
-| 2026-05-27 | High-Tech Performance | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -309.0 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
+| 2026-05-27 | High-Tech Performance | L | 0-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -309.1 | DJDeeJayDJ, ItsHarryBoi, Oogy, Qwickie, zed |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

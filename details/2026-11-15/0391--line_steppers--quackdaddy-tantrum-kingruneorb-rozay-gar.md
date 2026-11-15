@@ -3,17 +3,17 @@ Team Name: Line Steppers
 Roster: QuackDaddy, tantruM, Kingruneorb, rozay, Garbagebag
 NARS Rank: 391 of 457
 
-Final Rating: 1004.8
-Seeded Start: 1252.2
-H2H Adjustment: -247.4
+Final Rating: 1004.4
+Seeded Start: 1251.7
+H2H Adjustment: -247.3
 
-Final Rating (1004.8) = Seeded Start (1252.2) + H2H Adjustment (-247.4)
+Final Rating (1004.4) = Seeded Start (1251.7) + H2H Adjustment (-247.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.109 x 1400 = 1252.2
+                = 1100 + 0.108 x 1400 = 1251.7
 
-seed_factor 0.109 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.325)
+seed_factor 0.108 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.019) + 0.25 x Opponent Network (0.325)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -37,7 +37,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-07 | Guangzhou Loong Lions | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.97 | 0.00 | 0.00 | -177.6 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 | 2026-09-10 | Kodaks Lettuce | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -103.1 | Garbagebag, Khad42, Kingruneorb, QuackDaddy, rozay |
 | 2026-09-06 | PogSquad | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -98.3 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
-| 2026-09-04 | Elo Terrorists | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.02 | 0.72 | +51.8 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
-| 2026-09-02 | Z-Blocked | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.02 | 0.70 | +133.3 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
+| 2026-09-04 | Elo Terrorists | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.02 | 0.72 | +51.9 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
+| 2026-09-02 | Z-Blocked | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.70 | 1.00 | 1.00 | 0.70 | 0.02 | 0.70 | +133.5 | Garbagebag, Kingruneorb, QuackDaddy, rozay, tantruM |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

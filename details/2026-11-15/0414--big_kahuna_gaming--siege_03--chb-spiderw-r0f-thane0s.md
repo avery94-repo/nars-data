@@ -3,15 +3,15 @@ Team Name: Big Kahuna Gaming
 Roster: Siege_03, -chb, spiderW, r0f, Thane0s
 NARS Rank: 414 of 457
 
-Final Rating: 940.3
-Seeded Start: 1133.9
-H2H Adjustment: -193.6
+Final Rating: 939.9
+Seeded Start: 1133.7
+H2H Adjustment: -193.8
 
-Final Rating (940.3) = Seeded Start (1133.9) + H2H Adjustment (-193.6)
+Final Rating (939.9) = Seeded Start (1133.7) + H2H Adjustment (-193.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.024 x 1400 = 1133.9
+                = 1100 + 0.024 x 1400 = 1133.7
 
 seed_factor 0.024 = 0.25 x Tier Exposure (0.023) + 0.50 x Quality Wins (0.003) + 0.25 x Opponent Network (0.067)
 
@@ -24,13 +24,13 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-05 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -121.5 | -chb, Siege_03, nolarb, r0f, spiderW |
-| 2026-07-31 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.01 | 0.48 | +36.8 | -chb, Siege_03, Thane0s, nolarb, spiderW |
+| 2026-08-05 | Costco Family | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.52 | 0.00 | 0.00 | -121.6 | -chb, Siege_03, nolarb, r0f, spiderW |
+| 2026-07-31 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.01 | 0.48 | +36.9 | -chb, Siege_03, Thane0s, nolarb, spiderW |
 | 2026-07-24 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.03 | 0.44 | +298.2 | -chb, Gumberoo, Thane0s, r0f, spiderW |
 | 2026-07-22 | DadDick Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.00 | 0.00 | -2.4 | -chb, Siege_03, Thane0s, r0f, spiderW |
 | 2026-07-17 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -53.1 | -chb, Siege_03, Thane0s, r0f, spiderW |
-| 2026-07-15 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.00 | -152.7 | -chb, Siege_03, Thane0s, r0f, spiderW |
+| 2026-07-15 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.00 | 0.00 | -152.8 | -chb, Siege_03, Thane0s, r0f, spiderW |
 | 2026-05-31 | DUMBO | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.08 | 1.04 | 1.00 | 0.08 | 0.00 | 0.00 | -9.9 | -chb, Siege_03, Thane0s, r0f, spiderW |
-| 2026-05-27 | Bald | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.05 | 1.04 | 1.00 | 0.05 | 0.00 | 0.00 | -189.1 | -chb, Siege_03, Thane0s, r0f, spiderW |
+| 2026-05-27 | Bald | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.05 | 1.04 | 1.00 | 0.05 | 0.00 | 0.00 | -189.2 | -chb, Siege_03, Thane0s, r0f, spiderW |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

@@ -1,19 +1,19 @@
 ### Roster Details
 Team Name: brb grinding minecraft
 Roster: phiLm9yne, OJISBAE, 1ferda, mineman97, riizzy
-NARS Rank: 173 of 457
+NARS Rank: 174 of 457
 
-Final Rating: 1529.5
-Seeded Start: 1400.5
-H2H Adjustment: +129.0
+Final Rating: 1529.1
+Seeded Start: 1399.6
+H2H Adjustment: +129.5
 
-Final Rating (1529.5) = Seeded Start (1400.5) + H2H Adjustment (+129.0)
+Final Rating (1529.1) = Seeded Start (1399.6) + H2H Adjustment (+129.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.215 x 1400 = 1400.5
+                = 1100 + 0.214 x 1400 = 1399.6
 
-seed_factor 0.215 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.048) + 0.25 x Opponent Network (0.689)
+seed_factor 0.214 = 0.25 x Tier Exposure (0.072) + 0.50 x Quality Wins (0.048) + 0.25 x Opponent Network (0.688)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -38,7 +38,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-15 | Vlandian knights | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.79 | 1.05 | 1.00 | 0.83 | 0.00 | 0.00 | -8.3 | OJISBAE, mineman97, moitch, phiLm9yne, v0lcaN, yarushima |
 | 2026-09-09 | O Fire | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.09 | 0.79 | +45.9 | OJISBAE, mineman97, moitch, phiLm9yne, v0lcaN |
 | 2026-09-08 | KylianDictator | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.74 | 1.05 | 1.00 | 0.78 | 0.02 | 0.78 | +101.8 | OJISBAE, franciszn, mineman97, moitch, phiLm9yne, riizzy, v0lcaN |
-| 2026-09-03 | feet67 | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.71 | 1.05 | 1.00 | 0.75 | 0.00 | 0.00 | -169.8 | OJISBAE, mineman97, moitch, phiLm9yne, riizzy |
-| 2026-09-02 | Pocket Snatchers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.70 | 1.05 | 1.00 | 0.74 | 0.02 | 0.74 | +67.1 | OJISBAE, mineman97, moitch, phiLm9yne, riizzy |
+| 2026-09-03 | feet67 | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.71 | 1.05 | 1.00 | 0.75 | 0.00 | 0.00 | -169.7 | OJISBAE, mineman97, moitch, phiLm9yne, riizzy |
+| 2026-09-02 | Pocket Snatchers | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.70 | 1.05 | 1.00 | 0.74 | 0.02 | 0.74 | +67.5 | OJISBAE, mineman97, moitch, phiLm9yne, riizzy |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

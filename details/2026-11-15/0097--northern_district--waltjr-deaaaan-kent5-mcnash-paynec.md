@@ -3,11 +3,11 @@ Team Name: Northern District
 Roster: WaltJr, Deaaaan, KenT5, McNash, PayneC
 NARS Rank: 97 of 457
 
-Final Rating: 1725.3
+Final Rating: 1725.2
 Seeded Start: 1110.3
-H2H Adjustment: +615.0 (capped at +-300, raw +614.9)
+H2H Adjustment: +614.9
 
-Final Rating (1725.3) = Seeded Start (1110.3) + H2H Adjustment (+615.0)
+Final Rating (1725.2) = Seeded Start (1110.3) + H2H Adjustment (+614.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -26,7 +26,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-06-10 | Evade Gaming | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -159.4 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
 | 2026-06-05 | NEWAR | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.11 | +157.9 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
-| 2026-06-03 | Reckless Palms | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +269.3 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
+| 2026-06-03 | Reckless Palms | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +269.4 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
 | 2026-05-28 | BIG | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.06 | +120.6 | Deaaaan, KenT5, PayneC, WaltJr, avingerr |
 | 2026-05-27 | 3Dolla | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.05 | +226.4 | Deaaaan, KenT5, McNash, PayneC, WaltJr |
 

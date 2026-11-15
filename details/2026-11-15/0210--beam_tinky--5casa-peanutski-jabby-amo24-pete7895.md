@@ -3,17 +3,17 @@ Team Name: Beam Tinky
 Roster: 5casa, Peanutski, jabby, Amo24, pete7895
 NARS Rank: 210 of 457
 
-Final Rating: 1450.1
-Seeded Start: 1170.7
-H2H Adjustment: +279.4
+Final Rating: 1450.0
+Seeded Start: 1170.4
+H2H Adjustment: +279.6
 
-Final Rating (1450.1) = Seeded Start (1170.7) + H2H Adjustment (+279.4)
+Final Rating (1450.0) = Seeded Start (1170.4) + H2H Adjustment (+279.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.050 x 1400 = 1170.7
+                = 1100 + 0.050 x 1400 = 1170.4
 
-seed_factor 0.050 = 0.25 x Tier Exposure (0.032) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.158)
+seed_factor 0.050 = 0.25 x Tier Exposure (0.032) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.157)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

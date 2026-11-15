@@ -3,15 +3,15 @@ Team Name: OPOZIT
 Roster: aim_exe112, laze0, 6IXTYEIGHT, Aexc1d7, zoenn
 NARS Rank: 218 of 457
 
-Final Rating: 1436.7
-Seeded Start: 1193.6
-H2H Adjustment: +243.1
+Final Rating: 1436.5
+Seeded Start: 1193.3
+H2H Adjustment: +243.2
 
-Final Rating (1436.7) = Seeded Start (1193.6) + H2H Adjustment (+243.1)
+Final Rating (1436.5) = Seeded Start (1193.3) + H2H Adjustment (+243.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.067 x 1400 = 1193.6
+                = 1100 + 0.067 x 1400 = 1193.3
 
 seed_factor 0.067 = 0.25 x Tier Exposure (0.031) + 0.50 x Quality Wins (0.011) + 0.25 x Opponent Network (0.214)
 
@@ -33,6 +33,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-10 | MONARCH | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.05 | 0.76 | +78.4 | 6IXTYEIGHT, Aexc1d7, clrrrr, laze0, zoenn |
 | 2026-09-05 | No Future Lifes Over | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -174.5 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, flowzsq, laze0, zoenn |
 | 2026-09-04 | Sultans of Swing | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.72 | 0.03 | 0.72 | +164.4 | 1ImagiNe116, 6IXTYEIGHT, Aexc1d7, laze0, zoenn |
-| 2026-09-03 | Nomads | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.02 | 0.71 | +150.8 | 1ImagiNe116, 6IXTYEIGHT, clrrrr, laze0, zoenn |
+| 2026-09-03 | Nomads | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.02 | 0.71 | +150.9 | 1ImagiNe116, 6IXTYEIGHT, clrrrr, laze0, zoenn |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

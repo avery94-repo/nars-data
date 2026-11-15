@@ -3,15 +3,15 @@ Team Name: GodFather Gaming
 Roster: big_gamer556, jeffK-, Maxeys, m0m0n0ske, Hb_hoodze
 NARS Rank: 403 of 457
 
-Final Rating: 971.5
-Seeded Start: 1116.8
-H2H Adjustment: -145.3
+Final Rating: 971.2
+Seeded Start: 1116.7
+H2H Adjustment: -145.5
 
-Final Rating (971.5) = Seeded Start (1116.8) + H2H Adjustment (-145.3)
+Final Rating (971.2) = Seeded Start (1116.7) + H2H Adjustment (-145.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.012 x 1400 = 1116.8
+                = 1100 + 0.012 x 1400 = 1116.7
 
 seed_factor 0.012 = 0.25 x Tier Exposure (0.035) + 0.50 x Quality Wins (0.000) + 0.25 x Opponent Network (0.013)
 
@@ -29,6 +29,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-06-10 | The Third Eye | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.00 | 0.00 | -165.1 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
 | 2026-06-03 | DILFS | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +214.9 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
 | 2026-05-31 | Without a floor | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.08 | 1.00 | 1.00 | 0.08 | 0.00 | 0.08 | +211.5 | Maxeys, TTSWumbo, big_gamer556, jeffK-, m0m0n0ske |
-| 2026-05-28 | 1001 Fragrance | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -157.1 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
+| 2026-05-28 | 1001 Fragrance | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -157.3 | Hb_hoodze, Maxeys, big_gamer556, jeffK-, m0m0n0ske |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_

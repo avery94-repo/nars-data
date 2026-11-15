@@ -3,15 +3,15 @@ Team Name: GOMI dot CLUB
 Roster: KiDxHeart, patitas, slorpepe, timsta, DOZILLA
 NARS Rank: 450 of 457
 
-Final Rating: 629.1
-Seeded Start: 1151.4
-H2H Adjustment: -522.3
+Final Rating: 628.7
+Seeded Start: 1151.2
+H2H Adjustment: -522.5
 
-Final Rating (629.1) = Seeded Start (1151.4) + H2H Adjustment (-522.3)
+Final Rating (628.7) = Seeded Start (1151.2) + H2H Adjustment (-522.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.037 x 1400 = 1151.4
+                = 1100 + 0.037 x 1400 = 1151.2
 
 seed_factor 0.037 = 0.25 x Tier Exposure (0.027) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.112)
 
@@ -39,7 +39,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-07-29 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.47 | 1.00 | 1.00 | 0.47 | 0.00 | 0.00 | -185.7 | DOZILLA, KiDxHeart, _m00se_, slorpepe, timsta |
 | 2026-07-24 | Brothers United | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.44 | 1.00 | 1.00 | 0.44 | 0.01 | 0.44 | +282.8 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
 | 2026-07-22 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.00 | 0.00 | -0.3 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
-| 2026-07-17 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -262.1 | DOZILLA, KiDxHeart, patitas, poon, slorpepe |
+| 2026-07-17 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -262.3 | DOZILLA, KiDxHeart, patitas, poon, slorpepe |
 | 2026-05-22 | Gambling and Young | L | 0-1 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.02 | 1.01 | 1.00 | 0.02 | 0.00 | 0.00 | -403.6 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
 | 2026-05-20 | SixSevenZaZa | W | 1-0 | S57 NA Intermediate Central - Regular Season | C | faceit-league | 0.00 | 1.01 | 1.00 | 0.00 | 0.00 | 0.00 | +227.8 | DOZILLA, KiDxHeart, patitas, slorpepe, timsta |
 

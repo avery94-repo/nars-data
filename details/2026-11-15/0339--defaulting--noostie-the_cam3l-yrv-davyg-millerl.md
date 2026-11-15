@@ -3,17 +3,17 @@ Team Name: Defaulting
 Roster: noostie, The_Cam3l, YRV, DavyG, MillerL
 NARS Rank: 339 of 457
 
-Final Rating: 1161.3
-Seeded Start: 1260.9
-H2H Adjustment: -99.6
+Final Rating: 1160.9
+Seeded Start: 1260.4
+H2H Adjustment: -99.5
 
-Final Rating (1161.3) = Seeded Start (1260.9) + H2H Adjustment (-99.6)
+Final Rating (1160.9) = Seeded Start (1260.4) + H2H Adjustment (-99.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.115 x 1400 = 1260.9
+                = 1100 + 0.115 x 1400 = 1260.4
 
-seed_factor 0.115 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.341)
+seed_factor 0.115 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.341)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -36,8 +36,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.02 | 0.00 | 0.00 | -124.4 | DavyG, JCIV, Killerbean66, YRV, noostie |
 | 2026-10-09 | The Kerbins | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.04 | 1.00 | 0.99 | 0.07 | 0.99 | +195.8 | DavyG, JCIV, Killerbean66, YRV, noostie |
 | 2026-09-12 | COGNITIVE | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.77 | 1.11 | 1.00 | 0.86 | 0.00 | 0.00 | -105.8 | DavyG, Killerbean66, The_Cam3l, YRV, santanamolly |
-| 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.76 | 1.11 | 1.00 | 0.84 | 0.06 | 0.84 | +130.7 | DavyG, EndMeThx, JCIV, Killerbean66, YRV |
+| 2026-09-10 | Mongolian Tractor | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.76 | 1.11 | 1.00 | 0.84 | 0.06 | 0.84 | +130.8 | DavyG, EndMeThx, JCIV, Killerbean66, YRV |
 | 2026-09-06 | RH Help Desk | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.73 | 1.11 | 1.00 | 0.81 | 0.00 | 0.00 | -110.9 | DavyG, EndMeThx, Killerbean66, The_Cam3l, YRV |
-| 2026-09-04 | No pain No aim | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.72 | 1.11 | 1.00 | 0.80 | 0.03 | 0.80 | +137.1 | DavyG, EndMeThx, JCIV, The_Cam3l, YRV |
+| 2026-09-04 | No pain No aim | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.72 | 1.11 | 1.00 | 0.80 | 0.03 | 0.80 | +137.2 | DavyG, EndMeThx, JCIV, The_Cam3l, YRV |
 
 _Snapshot 2026-11-15 | NARS v2 | CC BY-SA 4.0_
