@@ -1,0 +1,56 @@
+### Roster Details
+Team Name: DeathMark E-Sports
+Roster: 1GRMZ, VilePickle, Wokani, aLxGG, CoLdZy-
+NARS Rank: 355 of 447
+
+Final Rating: 1096.7
+Seeded Start: 1354.8
+H2H Adjustment: -258.1
+
+Final Rating (1096.7) = Seeded Start (1354.8) + H2H Adjustment (-258.1)
+
+#### Seeded Start
+Starting rating = 1100 + seed_factor x 1400
+                = 1100 + 0.182 x 1400 = 1354.8
+
+seed_factor 0.182 = 0.25 x Tier Exposure (0.101) + 0.50 x Quality Wins (0.053) + 0.25 x Opponent Network (0.522)
+
+- Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
+- Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
+- Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Matches (28 qualifying)
+Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
+
+| Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
+| :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
+| 2026-11-13 | Saltcrew | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -65.5 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
+| 2026-11-06 | Strafe | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.15 | 1.04 | +41.2 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
+| 2026-11-04 | Sleepers | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -61.9 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
+| 2026-10-30 | Epochal Esports | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.14 | 1.04 | +90.4 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
+| 2026-10-28 | Costco Family | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.10 | 1.04 | +29.8 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
+| 2026-10-21 | Shadow Wizard Money Gang | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.04 | 1.00 | 1.04 | 0.00 | 0.00 | -26.4 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
+| 2026-10-16 | MadaNASCAR | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.99 | 1.04 | 1.00 | 1.03 | 0.00 | 0.00 | -130.0 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
+| 2026-10-14 | Aers Money Crew | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.98 | 1.04 | 1.00 | 1.01 | 0.10 | 1.01 | +98.0 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
+| 2026-10-09 | No Leaders Please | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.94 | 1.04 | 1.00 | 0.98 | 0.00 | 0.00 | -38.8 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
+| 2026-10-07 | Shaboing Boing Bandits | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.93 | 1.04 | 1.00 | 0.97 | 0.00 | 0.00 | -89.0 | 1GRMZ, CoLdZy-, Tao_cs, VilePickle, donPepitoo |
+| 2026-09-06 | D1NK Esports | L | 0-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.72 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -40.6 | 1GRMZ, CoLdZy-, VilePickle, aLxGG, donPepitoo |
+| 2026-09-04 | UltimateDarklordWizardz | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -7.2 | 1GRMZ, CoLdZy-, VilePickle, aLxGG, donPepitoo |
+| 2026-08-28 | High-Tech Performance | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.67 | 0.04 | 0.67 | +91.6 | 1GRMZ, CoLdZy-, VilePickle, aLxGG, donPepitoo |
+| 2026-08-21 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.00 | 1.00 | 0.62 | 0.06 | 0.62 | +73.7 | 1GRMZ, CoLdZy-, VilePickle, aLxGG, donPepitoo |
+| 2026-08-19 | Big Fish | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.00 | 1.00 | 0.61 | 0.00 | 0.00 | -142.3 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
+| 2026-08-14 | katzwitgunz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.57 | 1.00 | 1.00 | 0.57 | 0.00 | 0.00 | -90.5 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
+| 2026-08-12 | Anchors Anonymous | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.00 | 1.00 | 0.56 | 0.00 | 0.00 | -115.3 | CoLdZy-, SwiCH-, VilePickle, Wokani, aLxGG |
+| 2026-08-07 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -194.6 | 1GRMZ, CoLdZy-, SwiCH-, Wokani, aLxGG |
+| 2026-08-05 | ABG Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.51 | 1.00 | 1.00 | 0.51 | 0.06 | 0.51 | +117.0 | 1GRMZ, CoLdZy-, SwiCH-, Wokani, aLxGG |
+| 2026-07-31 | Tacos Tiramisu and Lies | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -19.7 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
+| 2026-07-29 | DadDick Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.46 | 1.00 | 1.00 | 0.47 | 0.05 | 0.47 | +8.8 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
+| 2026-07-22 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.42 | 0.01 | 0.42 | +0.1 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
+| 2026-07-17 | innerFire | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.39 | 0.03 | 0.39 | +51.3 | 1GRMZ, CoLdZy-, Wokani, aLxGG, donPepitoo |
+| 2026-07-15 | After Hours | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.37 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -179.9 | 1GRMZ, VilePickle, Wokani, aLxGG, donPepitoo |
+| 2026-06-12 | Sultans of Swing | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.15 | 1.00 | 1.00 | 0.15 | 0.01 | 0.15 | +204.8 | CoLdZy-, Irulan, VilePickle, _Nebbe, aLxGG |
+| 2026-06-10 | Puddle Pirates | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.14 | 1.00 | 1.00 | 0.14 | 0.01 | 0.14 | +206.3 | CoLdZy-, Irulan, VilePickle, _Nebbe, aLxGG |
+| 2026-06-03 | Pixel Peek | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.09 | +267.4 | CoLdZy-, Irulan, VilePickle, Wokani, aLxGG |
+| 2026-05-27 | Beef Wrappers | L | 0-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.00 | -337.0 | CoLdZy-, VilePickle, Wokani, _Nebbe, aLxGG |
+
+_Snapshot 2026-11-16 | NARS v2 | CC BY-SA 4.0_
