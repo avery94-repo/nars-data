@@ -44,6 +44,28 @@
   "source": "hltv"
  },
  {
+  "match_id": "hltv:2400735",
+  "date": "2026-11-20",
+  "competition": "CROSSFIRE Season 7",
+  "team_a": "Iowa Stormboar",
+  "team_b": "FlyQuest RED",
+  "winner": "a",
+  "score": "2-1",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2400734",
+  "date": "2026-11-20",
+  "competition": "CROSSFIRE Season 7",
+  "team_a": "regain",
+  "team_b": "Milk",
+  "winner": "a",
+  "score": "2-0",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
   "match_id": "1-0815fa29-f970-4e32-b345-569993e87dda",
   "date": "2026-11-19",
   "competition": "S59 NA Main A - Regular Season",

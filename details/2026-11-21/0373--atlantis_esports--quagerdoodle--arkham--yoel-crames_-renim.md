@@ -3,15 +3,15 @@ Team Name: Atlantis eSports
 Roster: QuagerDoodle, -Arkham-, Yoel, crames_, Renim
 NARS Rank: 373 of 439
 
-Final Rating: 1026.3
-Seeded Start: 1149.4
-H2H Adjustment: -123.1
+Final Rating: 1026.0
+Seeded Start: 1149.3
+H2H Adjustment: -123.3
 
-Final Rating (1026.3) = Seeded Start (1149.4) + H2H Adjustment (-123.1)
+Final Rating (1026.0) = Seeded Start (1149.3) + H2H Adjustment (-123.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.035 x 1400 = 1149.4
+                = 1100 + 0.035 x 1400 = 1149.3
 
 seed_factor 0.035 = 0.25 x Tier Exposure (0.025) + 0.50 x Quality Wins (0.008) + 0.25 x Opponent Network (0.100)
 
@@ -24,16 +24,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-13 | Strafe | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.01 | 1.00 | 0.54 | 0.00 | 0.00 | -237.1 | -Arkham-, -Hatty, Rellac, Renim, crames_ |
+| 2026-08-13 | Strafe | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.01 | 1.00 | 0.54 | 0.00 | 0.00 | -237.2 | -Arkham-, -Hatty, Rellac, Renim, crames_ |
 | 2026-08-07 | Benadryl Abusers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.49 | 1.01 | 1.00 | 0.50 | 0.05 | 0.50 | +225.5 | -Arkham-, Rellac, Renim, Yoel, crames_ |
-| 2026-08-05 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.01 | 1.00 | 0.48 | 0.00 | 0.00 | -271.2 | -Arkham-, Rellac, Renim, Yoel, crames_ |
+| 2026-08-05 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.01 | 1.00 | 0.48 | 0.00 | 0.00 | -271.3 | -Arkham-, Rellac, Renim, Yoel, crames_ |
 | 2026-07-30 | Muncle | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.01 | 1.00 | 0.44 | 0.03 | 0.44 | +14.0 | -Arkham-, -Hatty, Rellac, Yoel, crames_ |
 | 2026-07-29 | VeryBigDoogoos | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.43 | 1.01 | 1.00 | 0.44 | 0.00 | 0.00 | -88.6 | -Arkham-, -Hatty, Rellac, Yoel, crames_ |
 | 2026-07-24 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.40 | 1.01 | 1.00 | 0.40 | 0.00 | 0.00 | -191.1 | -Arkham-, Rellac, Renim, Yoel, crames_ |
-| 2026-07-22 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.39 | 1.01 | 1.00 | 0.39 | 0.00 | 0.00 | -405.7 | -Arkham-, Rellac, Renim, Yoel, crames_ |
+| 2026-07-22 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.39 | 1.01 | 1.00 | 0.39 | 0.00 | 0.00 | -405.8 | -Arkham-, Rellac, Renim, Yoel, crames_ |
 | 2026-07-15 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.34 | 1.01 | 1.00 | 0.34 | 0.03 | 0.34 | +143.0 | -Arkham-, Rellac, Renim, Yoel, crames_ |
 | 2026-06-05 | MommySports | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.07 | 1.00 | 1.00 | 0.07 | 0.00 | 0.07 | +251.0 | -Arkham-, QuagerDoodle, Renim, Yoel, crames_ |
-| 2026-05-29 | superkai64 | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.03 | 1.00 | 1.00 | 0.03 | 0.00 | 0.03 | +224.4 | -Arkham-, QuagerDoodle, Rellac, Renim, crames_ |
+| 2026-05-29 | superkai64 | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.03 | 1.00 | 1.00 | 0.03 | 0.00 | 0.03 | +224.5 | -Arkham-, QuagerDoodle, Rellac, Renim, crames_ |
 | 2026-05-27 | GEDifferent | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.01 | +212.7 | -Arkham-, QuagerDoodle, Renim, Yoel, crames_ |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

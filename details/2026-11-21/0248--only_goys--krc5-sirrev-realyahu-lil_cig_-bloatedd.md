@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-08 | Boof Gang | L | 1-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -138.0 | Bloatedd, Lil_Cig_, SirRev, kRc5, realYahu |
 | 2026-09-04 | Crashouts Anonymous | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.02 | 0.68 | +116.1 | Bloatedd, Lil_Cig_, SirRev, kRc5, realYahu |
 | 2026-09-02 | ARES GAMING | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.03 | 0.67 | +30.6 | Bloatedd, Lil_Cig_, SirRev, kRc5, realYahu |
-| 2026-06-03 | Evade Gaming | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -233.1 | Bloatedd, Lil_Cig_, PUDZZ, kRc5, realYahu |
+| 2026-06-03 | Evade Gaming | L | 0-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.06 | 1.00 | 1.00 | 0.06 | 0.00 | 0.00 | -233.2 | Bloatedd, Lil_Cig_, PUDZZ, kRc5, realYahu |
 | 2026-05-29 | Knight Shift | W | 2-1 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.03 | 1.00 | 1.00 | 0.03 | 0.00 | 0.03 | +223.5 | Bloatedd, Lil_Cig_, PUDZZ, kRc5, realYahu |
 | 2026-05-27 | Intentionally | W | 2-0 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.01 | +213.1 | Bloatedd, Lil_Cig_, PUDZZ, kRc5, realYahu |
 

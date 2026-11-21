@@ -3,11 +3,11 @@ Team Name: CN Chill Boyz
 Roster: _Kotomi, Lochi, B1gboss-, BYKING_, s1zz
 NARS Rank: 249 of 439
 
-Final Rating: 1355.5
+Final Rating: 1355.4
 Seeded Start: 1199.1
-H2H Adjustment: +156.4
+H2H Adjustment: +156.3
 
-Final Rating (1355.5) = Seeded Start (1199.1) + H2H Adjustment (+156.4)
+Final Rating (1355.4) = Seeded Start (1199.1) + H2H Adjustment (+156.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -32,7 +32,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-14 | Cortex Jellies | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.05 | 1.00 | 0.99 | 0.08 | 0.99 | +103.0 | 1ShEn, B1gboss-, BYKING_, _Kotomi, s1zz |
 | 2026-10-09 | GOMI dot CLUB | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.91 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-07 | on disability | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-09-18 | Biggie Cheese Fan Club | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.77 | 1.11 | 1.00 | 0.86 | 0.00 | 0.00 | -99.2 | BYKING_, CSGO-Quintus, Lochi, _Kotomi, s1zz |
+| 2026-09-18 | Biggie Cheese Fan Club | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.77 | 1.11 | 1.00 | 0.86 | 0.00 | 0.00 | -99.3 | BYKING_, CSGO-Quintus, Lochi, _Kotomi, s1zz |
 | 2026-09-06 | muntos minions | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.69 | 1.11 | 1.00 | 0.77 | 0.06 | 0.77 | +145.4 | B1gboss-, BYKING_, CSGO-Quintus, Lochi, _Kotomi |
 | 2026-09-04 | Mongolian Tractor | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.68 | 1.11 | 1.00 | 0.76 | 0.06 | 0.76 | +280.4 | B1gboss-, BYKING_, Lochi, _Kotomi, babyboii |
 

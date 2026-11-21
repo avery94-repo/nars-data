@@ -3,15 +3,15 @@ Team Name: dogwater
 Roster: HI_IM_TOM, Sykess, JesseP_, Tailz, Cyynn
 NARS Rank: 408 of 439
 
-Final Rating: 867.7
-Seeded Start: 1278.8
-H2H Adjustment: -411.1 (capped at +-300, raw -411.2)
+Final Rating: 867.5
+Seeded Start: 1278.6
+H2H Adjustment: -411.1
 
-Final Rating (867.7) = Seeded Start (1278.8) + H2H Adjustment (-411.1)
+Final Rating (867.5) = Seeded Start (1278.6) + H2H Adjustment (-411.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.128 x 1400 = 1278.8
+                = 1100 + 0.128 x 1400 = 1278.6
 
 seed_factor 0.128 = 0.25 x Tier Exposure (0.094) + 0.50 x Quality Wins (0.025) + 0.25 x Opponent Network (0.367)
 
@@ -27,7 +27,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-11-13 | HUMA | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.07 | 1.05 | +33.9 | Cyynn, HI_IM_TOM, JesseP_, Sykess, cancel |
 | 2026-11-12 | bye | W | W/O | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-11-11 | Macs Snacks | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -82.3 | Cyynn, HI_IM_TOM, JesseP_, Sykess, cancel |
-| 2026-11-04 | MadaNASCAR | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -57.0 | Cyynn, HI_IM_TOM, JesseP_, _matter, cancel |
+| 2026-11-04 | MadaNASCAR | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -57.1 | Cyynn, HI_IM_TOM, JesseP_, _matter, cancel |
 | 2026-10-30 | BucketJonsBoys | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -8.9 | HI_IM_TOM, JesseP_, NA_B0T, Sykess, cancel |
 | 2026-10-29 | YHTR | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -61.9 | HI_IM_TOM, JesseP_, NA_B0T, Sykess, cancel |
 | 2026-10-28 | The Homies | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -86.5 | HI_IM_TOM, JesseP_, NA_B0T, Sykess, cancel |
@@ -43,7 +43,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Climbers | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.00 | 0.00 | -61.7 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-08-12 | Solbound | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -160.7 | Cyynn, HI_IM_TOM, JesseP_, Tailz, wafis |
 | 2026-08-05 | on disability | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.00 | 0.00 | -90.8 | Cyynn, HI_IM_TOM, JesseP_, Tailz, wafis |
-| 2026-07-31 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.45 | 1.00 | 1.00 | 0.45 | 0.00 | 0.00 | -156.4 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
+| 2026-07-31 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.45 | 1.00 | 1.00 | 0.45 | 0.00 | 0.00 | -156.5 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-07-29 | 37U Passion | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.43 | 1.00 | 1.00 | 0.43 | 0.01 | 0.43 | +2.8 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 | 2026-07-22 | MakeYouSayLate | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.04 | 0.39 | +11.0 | Cyynn, HI_IM_TOM, JesseP_, Sykess, Tailz |
 

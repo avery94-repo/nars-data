@@ -3,15 +3,15 @@ Team Name: Team Nyx
 Roster: wrxcs, brownie26, Yowie_cs, attach-, MaaarkG
 NARS Rank: 241 of 439
 
-Final Rating: 1378.7
-Seeded Start: 1327.1
-H2H Adjustment: +51.6
+Final Rating: 1378.6
+Seeded Start: 1326.8
+H2H Adjustment: +51.8
 
-Final Rating (1378.7) = Seeded Start (1327.1) + H2H Adjustment (+51.6)
+Final Rating (1378.6) = Seeded Start (1326.8) + H2H Adjustment (+51.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.162 x 1400 = 1327.1
+                = 1100 + 0.162 x 1400 = 1326.8
 
 seed_factor 0.162 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.033) + 0.25 x Opponent Network (0.509)
 
@@ -32,10 +32,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-28 | Thrash | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.07 | 1.05 | +10.5 | Yowie_cs, ZynRG, attach-, brownie26, rl4v |
 | 2026-10-16 | TELETUBEASTS | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.96 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-09 | NATIONAL CS UNI | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.96 | 0.00 | 0.00 | -292.2 | Yowie_cs, ZynRG, attach-, brownie26, rl4v |
-| 2026-09-12 | 55TH ST | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.73 | 1.04 | 1.00 | 0.76 | 0.06 | 0.76 | +143.1 | MaaarkG, RushDD, attach-, brownie26, wrxcs |
-| 2026-09-08 | Upsetti Academy | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.71 | 1.04 | 1.00 | 0.73 | 0.02 | 0.73 | +123.6 | MaaarkG, Yowie_cs, attach-, brownie26, wrxcs |
-| 2026-09-06 | WannaBeMovement | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.69 | 1.04 | 1.00 | 0.72 | 0.02 | 0.72 | +71.4 | MaaarkG, Yowie_cs, attach-, brownie26, wrxcs |
-| 2026-09-04 | Team GREAT | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.68 | 1.04 | 1.00 | 0.71 | 0.00 | 0.00 | -210.3 | RushDD, Yowie_cs, attach-, brownie26, wrxcs |
+| 2026-09-12 | 55TH ST | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.73 | 1.04 | 1.00 | 0.76 | 0.06 | 0.76 | +143.2 | MaaarkG, RushDD, attach-, brownie26, wrxcs |
+| 2026-09-08 | Upsetti Academy | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.71 | 1.04 | 1.00 | 0.73 | 0.02 | 0.73 | +123.7 | MaaarkG, Yowie_cs, attach-, brownie26, wrxcs |
+| 2026-09-06 | WannaBeMovement | W | 2-1 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.69 | 1.04 | 1.00 | 0.72 | 0.02 | 0.72 | +71.5 | MaaarkG, Yowie_cs, attach-, brownie26, wrxcs |
+| 2026-09-04 | Team GREAT | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.68 | 1.04 | 1.00 | 0.71 | 0.00 | 0.00 | -210.4 | RushDD, Yowie_cs, attach-, brownie26, wrxcs |
 | 2026-09-02 | OnThaGear | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.67 | 1.04 | 1.00 | 0.69 | 0.05 | 0.69 | +156.2 | RushDD, Yowie_cs, attach-, brownie26, wrxcs |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

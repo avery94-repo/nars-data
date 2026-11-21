@@ -28,6 +28,6 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-09-20 | Shimmer | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -0.3 | BocchiTheAwp, Feathers, Soul541, pizza-, vibrantcs |
 | 2026-09-20 | NYX | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -97.5 | BocchiTheAwp, Feathers, Soul541, pizza-, vibrantcs |
 | 2026-09-20 | Koi Pond | L | 0-1 | Brace For Impact: NA Women's Cash Cup September 2026 | C | faceit-tournament | 0.79 | 1.00 | 1.00 | 0.79 | 0.00 | 0.00 | -16.9 | BocchiTheAwp, Feathers, Soul541, pizza-, vibrantcs |
-| 2026-09-02 | du bist gut genug | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -179.7 | -Shelter, BocchiTheAwp, Feathers, impr0vise, vibrantcs |
+| 2026-09-02 | du bist gut genug | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.00 | 0.00 | -179.8 | -Shelter, BocchiTheAwp, Feathers, impr0vise, vibrantcs |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

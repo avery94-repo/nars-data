@@ -3,15 +3,15 @@ Team Name: MEET THE WALL - DEAD
 Roster: maxie, Krumpa, _BrX, virulent, ReeeeeLaX-
 NARS Rank: 176 of 439
 
-Final Rating: 1527.5
-Seeded Start: 1169.0
+Final Rating: 1527.4
+Seeded Start: 1168.9
 H2H Adjustment: +358.5
 
-Final Rating (1527.5) = Seeded Start (1169.0) + H2H Adjustment (+358.5)
+Final Rating (1527.4) = Seeded Start (1168.9) + H2H Adjustment (+358.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.049 x 1400 = 1169.0
+                = 1100 + 0.049 x 1400 = 1168.9
 
 seed_factor 0.049 = 0.25 x Tier Exposure (0.032) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.155)
 

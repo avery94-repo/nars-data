@@ -3,11 +3,11 @@ Team Name: raisedbypixels
 Roster: soulsurvivor, Interrobang, abp, atyla, 1bright
 NARS Rank: 164 of 439
 
-Final Rating: 1557.4
+Final Rating: 1557.6
 Seeded Start: 1134.0
-H2H Adjustment: +423.4
+H2H Adjustment: +423.6
 
-Final Rating (1557.4) = Seeded Start (1134.0) + H2H Adjustment (+423.4)
+Final Rating (1557.6) = Seeded Start (1134.0) + H2H Adjustment (+423.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,9 +24,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-07-07 | Overtake Sector | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.29 | 1.60 | 1.00 | 0.46 | 0.00 | 0.00 | -1.0 | core 3/5 |
-| 2026-07-02 | regain | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.25 | 1.60 | 1.00 | 0.40 | 0.00 | 0.00 | -0.2 | core 3/5 |
-| 2026-06-29 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.23 | 1.60 | 1.00 | 0.37 | 0.02 | 0.37 | +428.1 | core 3/5 |
+| 2026-07-07 | Overtake Sector | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.28 | 1.60 | 1.00 | 0.46 | 0.00 | 0.00 | -1.0 | core 3/5 |
+| 2026-07-02 | regain | L | 0-2 | VRS-tracked 2026-07 | A | vrs | 0.25 | 1.60 | 1.00 | 0.40 | 0.00 | 0.00 | -0.1 | core 3/5 |
+| 2026-06-29 | Festina Lente | W | 2-1 | VRS-tracked 2026-06 | A | vrs | 0.23 | 1.60 | 1.00 | 0.37 | 0.02 | 0.37 | +428.3 | core 3/5 |
 | 2026-06-12 | OMEN | L |  | VRS-tracked 2026-06 | A | vrs | 0.12 | 1.60 | 1.00 | 0.19 | 0.00 | 0.00 | -3.5 | core 3/5 |
 | 2026-06-07 | Club 333 | L | 0-2 | S57 NA Advanced Central - Playoffs | A | faceit-league | 0.09 | 1.54 | 1.00 | 0.13 | 0.00 | 0.00 | -0.0 | 1bright, Interrobang, atyla, kvalme, soulsurvivor |
 | 2026-06-06 | Club 333 | L | 0-2 | VRS-tracked 2026-06 | A | vrs | 0.08 | 1.60 | 1.00 | 0.13 | 0.00 | 0.00 | -0.0 | core 3/5 |

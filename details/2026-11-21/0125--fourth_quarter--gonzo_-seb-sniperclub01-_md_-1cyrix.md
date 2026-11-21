@@ -3,15 +3,15 @@ Team Name: Fourth Quarter
 Roster: Gonzo_, Seb, sniperclub01, _MD_, 1Cyrix
 NARS Rank: 125 of 439
 
-Final Rating: 1635.6
-Seeded Start: 1211.5
-H2H Adjustment: +424.1
+Final Rating: 1635.5
+Seeded Start: 1211.3
+H2H Adjustment: +424.2
 
-Final Rating (1635.6) = Seeded Start (1211.5) + H2H Adjustment (+424.1)
+Final Rating (1635.5) = Seeded Start (1211.3) + H2H Adjustment (+424.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.080 x 1400 = 1211.5
+                = 1100 + 0.080 x 1400 = 1211.3
 
 seed_factor 0.080 = 0.25 x Tier Exposure (0.031) + 0.50 x Quality Wins (0.016) + 0.25 x Opponent Network (0.255)
 
@@ -25,11 +25,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-18 | fih hou | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.00 | 0.00 | -87.0 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
-| 2026-09-17 | Vibe Check | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.06 | 0.77 | +94.6 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
+| 2026-09-17 | Vibe Check | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.77 | 1.00 | 1.00 | 0.77 | 0.05 | 0.77 | +94.6 | 1Cyrix, Gonzo_, Perree, Seb, sniperclub01 |
 | 2026-09-15 | KIS | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.05 | 0.75 | +118.9 | 1Cyrix, Gonzo_, Seb, _MD_, sniperclub01 |
 | 2026-09-08 | Trap Castle | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -130.3 | 1Cyrix, FurDaddy, Perree, _MD_, sniperclub01 |
-| 2026-09-06 | LAF | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.05 | 0.69 | +109.9 | 1Cyrix, DJF, FurDaddy, _MD_, sniperclub01 |
+| 2026-09-06 | LAF | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.05 | 0.69 | +110.0 | 1Cyrix, DJF, FurDaddy, _MD_, sniperclub01 |
 | 2026-09-04 | Kodaks Lettuce | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.05 | 0.68 | +170.8 | 1Cyrix, FurDaddy, TheMrCleanup, _MD_, sniperclub01 |
-| 2026-09-03 | Propaniacs | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.02 | 0.67 | +147.1 | 1Cyrix, Gonzo_, Perree, _MD_, sniperclub01 |
+| 2026-09-03 | Propaniacs | W | 2-0 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.02 | 0.67 | +147.2 | 1Cyrix, Gonzo_, Perree, _MD_, sniperclub01 |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

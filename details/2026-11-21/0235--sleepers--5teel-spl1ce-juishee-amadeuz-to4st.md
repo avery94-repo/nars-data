@@ -3,17 +3,17 @@ Team Name: Sleepers
 Roster: 5teel, spl1ce, Juishee, Amadeuz, To4sT
 NARS Rank: 235 of 439
 
-Final Rating: 1396.4
-Seeded Start: 1374.9
-H2H Adjustment: +21.5
+Final Rating: 1396.3
+Seeded Start: 1374.5
+H2H Adjustment: +21.8
 
-Final Rating (1396.4) = Seeded Start (1374.9) + H2H Adjustment (+21.5)
+Final Rating (1396.3) = Seeded Start (1374.5) + H2H Adjustment (+21.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.196 x 1400 = 1374.9
+                = 1100 + 0.196 x 1400 = 1374.5
 
-seed_factor 0.196 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.056) + 0.25 x Opponent Network (0.600)
+seed_factor 0.196 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.056) + 0.25 x Opponent Network (0.599)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -32,23 +32,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-21 | YHTR | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.99 | 1.05 | 1.00 | 1.04 | 0.19 | 1.04 | +137.6 | Amadeuz, Burnziboi, Juishee, lil_baggie, spl1ce |
 | 2026-10-16 | teamington | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.96 | 1.05 | 1.00 | 1.01 | 0.00 | 0.00 | -8.8 | Amadeuz, Burnziboi, Juishee, lil_baggie, spl1ce |
 | 2026-10-16 | Read You Like a Kindle | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.96 | 1.05 | 1.00 | 1.01 | 0.00 | 0.00 | -1.0 | Amadeuz, Burnziboi, Juishee, lil_baggie, spl1ce |
-| 2026-10-14 | MakeYouSayLate | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.95 | 1.05 | 1.00 | 0.99 | 0.10 | 0.99 | +291.6 | Amadeuz, Burnziboi, Juishee, lil_baggie, spl1ce |
+| 2026-10-14 | MakeYouSayLate | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.95 | 1.05 | 1.00 | 0.99 | 0.10 | 0.99 | +291.7 | Amadeuz, Burnziboi, Juishee, lil_baggie, spl1ce |
 | 2026-08-28 | Old Dads Banging | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.63 | 1.06 | 1.00 | 0.67 | 0.02 | 0.67 | +64.1 | -FreeZeCS, Amadeuz, Burnziboi, Juishee, spl1ce |
 | 2026-08-26 | Baja Blasters | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -35.4 | -FreeZeCS, Amadeuz, Burnziboi, Juishee, spl1ce |
 | 2026-08-21 | puggin4seb | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.06 | 1.00 | 0.62 | 0.00 | 0.00 | -44.8 | Amadeuz, Burnziboi, Juishee, Sanity, spl1ce |
-| 2026-08-20 | HUMA | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.62 | 0.00 | 0.00 | -165.2 | -FreeZeCS, Amadeuz, Burnziboi, Juishee, spl1ce |
+| 2026-08-20 | HUMA | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.62 | 0.00 | 0.00 | -165.3 | -FreeZeCS, Amadeuz, Burnziboi, Juishee, spl1ce |
 | 2026-08-14 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.54 | 1.06 | 1.00 | 0.57 | 0.04 | 0.57 | +52.3 | -FreeZeCS, Amadeuz, Burnziboi, Juishee, spl1ce |
 | 2026-08-06 | Solace | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.49 | 1.06 | 1.00 | 0.52 | 0.00 | 0.00 | -14.5 | -FreeZeCS, Amadeuz, Juishee, spl1ce, steel666 |
 | 2026-08-05 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.00 | 0.00 | -87.9 | -FreeZeCS, Amadeuz, Juishee, spl1ce, steel666 |
-| 2026-07-31 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.45 | 1.06 | 1.00 | 0.47 | 0.03 | 0.47 | +121.0 | -FreeZeCS, Amadeuz, Juishee, spl1ce, steel666 |
-| 2026-07-29 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.43 | 1.06 | 1.00 | 0.46 | 0.00 | 0.00 | -93.1 | -FreeZeCS, Amadeuz, Juishee, spl1ce, steel666 |
+| 2026-07-31 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.45 | 1.06 | 1.00 | 0.47 | 0.03 | 0.47 | +121.1 | -FreeZeCS, Amadeuz, Juishee, spl1ce, steel666 |
+| 2026-07-29 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.43 | 1.06 | 1.00 | 0.46 | 0.00 | 0.00 | -93.2 | -FreeZeCS, Amadeuz, Juishee, spl1ce, steel666 |
 | 2026-07-24 | MINDTRIP | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.40 | 1.06 | 1.00 | 0.42 | 0.00 | 0.00 | -193.7 | -FreeZeCS, Amadeuz, Juishee, spl1ce, steel666 |
-| 2026-07-22 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.39 | 1.06 | 1.00 | 0.41 | 0.01 | 0.41 | +29.0 | -FreeZeCS, Amadeuz, Juishee, spl1ce, steel666 |
-| 2026-07-17 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.35 | 1.06 | 1.00 | 0.38 | 0.00 | 0.00 | -202.9 | Amadeuz, Burnziboi, Juishee, spl1ce, steel666 |
+| 2026-07-22 | Schadenfreude | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.39 | 1.06 | 1.00 | 0.41 | 0.01 | 0.41 | +29.1 | -FreeZeCS, Amadeuz, Juishee, spl1ce, steel666 |
+| 2026-07-17 | Sedated | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.35 | 1.06 | 1.00 | 0.37 | 0.00 | 0.00 | -203.0 | Amadeuz, Burnziboi, Juishee, spl1ce, steel666 |
 | 2026-07-15 | UnitedStatesArmy Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.34 | 1.06 | 1.00 | 0.36 | 0.00 | 0.00 | -379.1 | Amadeuz, Juishee, To4sT, spl1ce, steel666 |
-| 2026-06-07 | We Just Pug | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.09 | +74.7 | Amadeuz, Juishee, To4sT, spl1ce, steel666 |
-| 2026-06-05 | offBalance | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.07 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +219.9 | Amadeuz, Juishee, To4sT, spl1ce, steel666 |
-| 2026-05-31 | Lan Bears | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +124.7 | Amadeuz, Juishee, To4sT, spl1ce, steel666 |
+| 2026-06-07 | We Just Pug | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.09 | 1.00 | 1.00 | 0.09 | 0.00 | 0.09 | +74.8 | Amadeuz, Juishee, To4sT, spl1ce, steel666 |
+| 2026-06-05 | offBalance | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.07 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +220.0 | Amadeuz, Juishee, To4sT, spl1ce, steel666 |
+| 2026-05-31 | Lan Bears | W | 2-0 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.04 | 1.00 | 1.00 | 0.04 | 0.00 | 0.04 | +124.5 | Amadeuz, Juishee, To4sT, spl1ce, steel666 |
 | 2026-05-29 | de_throne | L | 1-2 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.03 | 1.00 | 1.00 | 0.03 | 0.00 | 0.00 | -290.5 | Amadeuz, Juishee, To4sT, spl1ce, steel666 |
 | 2026-05-27 | AURA Esports | W | 2-1 | S57 NA Intermediate Central - Playoffs B | B | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.01 | +199.5 | Amadeuz, Juishee, To4sT, spl1ce, steel666 |
 

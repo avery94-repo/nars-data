@@ -3,11 +3,11 @@ Team Name: Knight Owls
 Roster: tydy3, vertsie, c0de, S-O-L-A-C-E, OogybeAr
 NARS Rank: 434 of 439
 
-Final Rating: 631.2
+Final Rating: 631.0
 Seeded Start: 1141.8
-H2H Adjustment: -510.6
+H2H Adjustment: -510.8
 
-Final Rating (631.2) = Seeded Start (1141.8) + H2H Adjustment (-510.6)
+Final Rating (631.0) = Seeded Start (1141.8) + H2H Adjustment (-510.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -38,10 +38,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-28 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.63 | 1.01 | 1.00 | 0.64 | 0.00 | 0.00 | -44.4 | OogybeAr, androsserye, c0de, tydy3, vertsie |
 | 2026-08-26 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.01 | 1.00 | 0.63 | 0.04 | 0.63 | +223.7 | OogybeAr, c0de, cohen, tydy3, vertsie |
 | 2026-08-12 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.53 | 1.01 | 1.00 | 0.53 | 0.00 | 0.00 | -2.7 | Jayden, OogybeAr, S-O-L-A-C-E, c0de, tydy3 |
-| 2026-08-05 | de_throne | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.01 | 1.00 | 0.48 | 0.00 | 0.00 | -294.7 | Jayden, OogybeAr, c0de, cohen, tydy3 |
+| 2026-08-05 | de_throne | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.01 | 1.00 | 0.48 | 0.00 | 0.00 | -294.8 | Jayden, OogybeAr, c0de, cohen, tydy3 |
 | 2026-07-24 | Mach 10 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.40 | 1.01 | 1.00 | 0.40 | 0.00 | 0.00 | -201.9 | Jayden, OogybeAr, S-O-L-A-C-E, c0de, tydy3 |
-| 2026-07-22 | Flow Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.39 | 1.01 | 1.00 | 0.39 | 0.00 | 0.00 | -114.4 | OogybeAr, S-O-L-A-C-E, c0de, cohen, tydy3 |
-| 2026-07-17 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.35 | 1.01 | 1.00 | 0.36 | 0.00 | 0.00 | -35.1 | Jayden, OogybeAr, S-O-L-A-C-E, c0de, tydy3 |
+| 2026-07-22 | Flow Esports | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.39 | 1.01 | 1.00 | 0.39 | 0.00 | 0.00 | -114.5 | OogybeAr, S-O-L-A-C-E, c0de, cohen, tydy3 |
+| 2026-07-17 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.35 | 1.01 | 1.00 | 0.36 | 0.00 | 0.00 | -35.2 | Jayden, OogybeAr, S-O-L-A-C-E, c0de, tydy3 |
 | 2026-07-15 | JPG | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.34 | 1.01 | 1.00 | 0.34 | 0.00 | 0.00 | -1.2 | Jayden, OogybeAr, S-O-L-A-C-E, c0de, tydy3 |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

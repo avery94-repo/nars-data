@@ -3,15 +3,15 @@ Team Name: 1001 Fragrance
 Roster: framedHERO, tdoy, -Tuna-, Coco-, ITakeRoidss
 NARS Rank: 146 of 439
 
-Final Rating: 1590.1
-Seeded Start: 1272.8
-H2H Adjustment: +317.3
+Final Rating: 1590.0
+Seeded Start: 1272.5
+H2H Adjustment: +317.5
 
-Final Rating (1590.1) = Seeded Start (1272.8) + H2H Adjustment (+317.3)
+Final Rating (1590.0) = Seeded Start (1272.5) + H2H Adjustment (+317.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.123 x 1400 = 1272.8
+                = 1100 + 0.123 x 1400 = 1272.5
 
 seed_factor 0.123 = 0.25 x Tier Exposure (0.058) + 0.50 x Quality Wins (0.030) + 0.25 x Opponent Network (0.375)
 
@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-15 | AURA Esports | L | 1-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.75 | 1.00 | 1.00 | 0.75 | 0.00 | 0.00 | -97.6 | -Tuna-, ITakeRoidss, Lieth, framedHERO, tdoy |
-| 2026-09-09 | MommySports | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -126.1 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
+| 2026-09-09 | MommySports | L | 0-2 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.00 | 0.00 | -126.2 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
 | 2026-09-06 | The Vicious Kitties | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.04 | 0.69 | +134.0 | -Sora-, -Tuna-, beast9, framedHERO, tdoy |
 | 2026-09-03 | RunTheDamnBall | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.06 | 0.67 | +11.1 | -Sora-, -Tuna-, ITakeRoidss, framedHERO, tdoy |
 | 2026-09-02 | GoonAssOldheads | W | 2-0 | S58 NA Intermediate Central - Playoffs A | B | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.06 | 0.67 | +5.6 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
@@ -33,17 +33,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Sound of Arthritis | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.59 | 1.00 | 1.00 | 0.59 | 0.00 | 0.00 | -17.5 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-19 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.57 | 1.00 | 1.00 | 0.57 | 0.00 | 0.00 | -37.9 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-14 | MommySports | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.03 | 0.54 | +169.7 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
-| 2026-08-12 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -232.4 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
-| 2026-08-07 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.05 | 0.49 | +104.3 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
+| 2026-08-12 | offBalance | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.53 | 1.00 | 1.00 | 0.53 | 0.00 | 0.00 | -232.5 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
+| 2026-08-07 | WaterDrinkers | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.05 | 0.49 | +104.4 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-08-05 | Dynasty | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.03 | 0.48 | +141.4 | -Tuna-, ITakeRoidss, beast9, framedHERO, tdoy |
 | 2026-07-29 | Qup Mana | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.43 | 1.00 | 1.00 | 0.43 | 0.00 | 0.00 | -322.9 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
-| 2026-07-29 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.43 | 1.00 | 1.00 | 0.43 | 0.00 | 0.00 | -239.4 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
+| 2026-07-29 | The Vicious Kitties | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.43 | 1.00 | 1.00 | 0.43 | 0.00 | 0.00 | -239.5 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-24 | RunTheDamnBall | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.40 | 1.00 | 1.00 | 0.40 | 0.04 | 0.00 | +112.0 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
 | 2026-07-22 | ItAintOverYet | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.03 | 0.39 | +1.8 | -Tuna-, Coco-, framedHERO, hohozao, tdoy |
 | 2026-07-17 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.35 | 1.00 | 1.00 | 0.35 | 0.03 | 0.35 | +0.2 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
-| 2026-07-15 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.01 | 0.34 | +149.1 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
-| 2026-06-05 | Armored Talent | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.07 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +96.1 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |
+| 2026-07-15 | University of Cincinnati | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.34 | 1.00 | 1.00 | 0.34 | 0.01 | 0.34 | +149.2 | -Tuna-, ITakeRoidss, framedHERO, hohozao, tdoy |
+| 2026-06-05 | Armored Talent | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.07 | 1.00 | 1.00 | 0.07 | 0.01 | 0.07 | +95.9 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |
 | 2026-05-29 | Brick by Brick | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.03 | 1.00 | 1.00 | 0.03 | 0.00 | 0.03 | +225.0 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |
-| 2026-05-28 | GodFather Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +164.7 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |
+| 2026-05-28 | GodFather Gaming | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +164.8 | -Sora-, -Tuna-, Coco-, framedHERO, tdoy |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

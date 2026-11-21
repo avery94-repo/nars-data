@@ -3,17 +3,17 @@ Team Name: STALLOONS BALLOONS
 Roster: My_Name_Luke, -que, bardley, ashtin, emarosa
 NARS Rank: 318 of 439
 
-Final Rating: 1173.2
-Seeded Start: 1184.7
-H2H Adjustment: -11.5
+Final Rating: 1172.8
+Seeded Start: 1184.6
+H2H Adjustment: -11.8
 
-Final Rating (1173.2) = Seeded Start (1184.7) + H2H Adjustment (-11.5)
+Final Rating (1172.8) = Seeded Start (1184.6) + H2H Adjustment (-11.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.061 x 1400 = 1184.7
+                = 1100 + 0.060 x 1400 = 1184.6
 
-seed_factor 0.061 = 0.25 x Tier Exposure (0.077) + 0.50 x Quality Wins (0.015) + 0.25 x Opponent Network (0.135)
+seed_factor 0.060 = 0.25 x Tier Exposure (0.077) + 0.50 x Quality Wins (0.015) + 0.25 x Opponent Network (0.135)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,8 +24,8 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-08 | Adria eSports | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.71 | 1.06 | 1.00 | 0.75 | 0.00 | 0.00 | -146.2 | -que, My_Name_Luke, S1n3star, bardley, emarosa, goose_ |
-| 2026-09-02 | DMA | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -263.7 | -que, My_Name_Luke, S1n3star, bardley, emarosa |
+| 2026-09-08 | Adria eSports | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.71 | 1.06 | 1.00 | 0.75 | 0.00 | 0.00 | -146.3 | -que, My_Name_Luke, S1n3star, bardley, emarosa, goose_ |
+| 2026-09-02 | DMA | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.00 | 0.00 | -263.9 | -que, My_Name_Luke, S1n3star, bardley, emarosa |
 | 2026-08-09 | DETONATE | L | 0-2 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.51 | 1.24 | 1.00 | 0.63 | 0.00 | 0.00 | -0.5 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-09 | FLOW STATE | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.51 | 1.24 | 1.00 | 0.63 | 0.13 | 0.63 | +152.7 | -que, 1stallion, ashtin, bardley, emarosa |
 | 2026-08-09 | Wuff Widas | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.51 | 1.24 | 1.00 | 0.63 | 0.05 | 0.63 | +313.0 | -que, 1stallion, ashtin, bardley, emarosa |

@@ -4,16 +4,16 @@ Roster: shori, chemii, Highspeed_, Toastrnugget, DoubleSb
 NARS Rank: 244 of 439
 
 Final Rating: 1372.3
-Seeded Start: 1165.3
-H2H Adjustment: +207.0
+Seeded Start: 1165.2
+H2H Adjustment: +207.1
 
-Final Rating (1372.3) = Seeded Start (1165.3) + H2H Adjustment (+207.0)
+Final Rating (1372.3) = Seeded Start (1165.2) + H2H Adjustment (+207.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.047 x 1400 = 1165.3
+                = 1100 + 0.047 x 1400 = 1165.2
 
-seed_factor 0.047 = 0.25 x Tier Exposure (0.030) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.149)
+seed_factor 0.047 = 0.25 x Tier Exposure (0.030) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.148)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -25,7 +25,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-11 | Lesotho Space Force | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -116.9 | 0rihime, Afhron, Highspeed_, Toastrnugget, chemii |
-| 2026-09-09 | Team Neighbor | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.02 | 0.71 | +176.3 | 0rihime, Afhron, Highspeed_, Toastrnugget, chemii |
+| 2026-09-09 | Team Neighbor | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.02 | 0.71 | +176.4 | 0rihime, Afhron, Highspeed_, Toastrnugget, chemii |
 | 2026-09-06 | Cult Academy | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.69 | 1.00 | 1.00 | 0.69 | 0.02 | 0.69 | +152.2 | 0rihime, Afhron, Highspeed_, Toastrnugget, chemii |
 | 2026-09-02 | Titan | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.02 | 0.67 | +258.6 | 0rihime, Afhron, Highspeed_, Toastrnugget, chemii |
 | 2026-05-27 | The Not Unemployed | L | 1-2 | S57 NA Open1-8 Central - Playoffs | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.00 | -263.2 | 0rihime, Afhron, DoubleSb, Toastrnugget, chemii |

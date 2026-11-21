@@ -4,16 +4,16 @@ Roster: 5casa, Peanutski, jabby, Amo24, pete7895
 NARS Rank: 211 of 439
 
 Final Rating: 1452.5
-Seeded Start: 1166.0
-H2H Adjustment: +286.5
+Seeded Start: 1165.9
+H2H Adjustment: +286.6
 
-Final Rating (1452.5) = Seeded Start (1166.0) + H2H Adjustment (+286.5)
+Final Rating (1452.5) = Seeded Start (1165.9) + H2H Adjustment (+286.6)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.047 x 1400 = 1166.0
+                = 1100 + 0.047 x 1400 = 1165.9
 
-seed_factor 0.047 = 0.25 x Tier Exposure (0.030) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.148)
+seed_factor 0.047 = 0.25 x Tier Exposure (0.030) + 0.50 x Quality Wins (0.005) + 0.25 x Opponent Network (0.147)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,7 +24,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-11 | gunked | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -80.8 | 5casa, Amo24, Peanutski, jabby, pete7895 |
+| 2026-09-11 | gunked | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.00 | 0.00 | -80.9 | 5casa, Amo24, Peanutski, jabby, pete7895 |
 | 2026-09-09 | USAE Academy | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.02 | 0.71 | +206.2 | 5casa, Amo24, Peanutski, jabby, pete7895 |
 | 2026-09-04 | New York City Ballas CS | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.02 | 0.68 | +161.4 | 5casa, Amo24, CaptainToro, jabby, pete7895 |
 | 2026-09-02 | Belladonna | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.04 | 0.67 | +262.4 | 5casa, Amo24, Ebbs, Peanutski, jabby |

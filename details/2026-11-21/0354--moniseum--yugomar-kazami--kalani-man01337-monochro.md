@@ -3,15 +3,15 @@ Team Name: Moniseum
 Roster: Yugomar, Kazami-, kalani, man01337, Monochrome
 NARS Rank: 354 of 439
 
-Final Rating: 1075.1
-Seeded Start: 1197.8
+Final Rating: 1074.9
+Seeded Start: 1197.6
 H2H Adjustment: -122.7
 
-Final Rating (1075.1) = Seeded Start (1197.8) + H2H Adjustment (-122.7)
+Final Rating (1074.9) = Seeded Start (1197.6) + H2H Adjustment (-122.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.070 x 1400 = 1197.8
+                = 1100 + 0.070 x 1400 = 1197.6
 
 seed_factor 0.070 = 0.25 x Tier Exposure (0.054) + 0.50 x Quality Wins (0.012) + 0.25 x Opponent Network (0.202)
 
@@ -33,7 +33,7 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-14 | Kings Gambit | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.54 | 1.00 | 1.00 | 0.54 | 0.00 | 0.00 | -79.1 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-08-07 | Dead Pixel | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.49 | 1.00 | 1.00 | 0.49 | 0.00 | 0.00 | -188.7 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-08-05 | 929 Arrival Gang | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.48 | 1.00 | 1.00 | 0.48 | 0.03 | 0.48 | +41.8 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
-| 2026-07-31 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.45 | 1.00 | 1.00 | 0.45 | 0.02 | 0.45 | +212.1 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
+| 2026-07-31 | Ubiquiti | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.45 | 1.00 | 1.00 | 0.45 | 0.02 | 0.45 | +212.2 | Kazami-, Monochrome, Yugomar, kalani, man01337 |
 | 2026-07-29 | MommySports | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.43 | 1.00 | 1.00 | 0.43 | 0.00 | 0.00 | -51.7 | Monochrome, Yugomar, h4mmus, kalani, man01337 |
 | 2026-07-24 | Ninjas In Boxer | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.40 | 1.00 | 1.00 | 0.40 | 0.00 | 0.00 | -197.3 | Monochrome, Yugomar, h4mmus, kalani, man01337 |
 | 2026-07-22 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -378.1 | Kazami-, Monochrome, Raider, Yugomar, kalani |

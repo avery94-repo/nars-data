@@ -3,11 +3,11 @@ Team Name: GG
 Roster: danzinn-, Zorky5k, clx, ditt77, vin33
 NARS Rank: 49 of 439
 
-Final Rating: 1918.8
+Final Rating: 1919.3
 Seeded Start: 1109.9
-H2H Adjustment: +808.9
+H2H Adjustment: +809.4
 
-Final Rating (1918.8) = Seeded Start (1109.9) + H2H Adjustment (+808.9)
+Final Rating (1919.3) = Seeded Start (1109.9) + H2H Adjustment (+809.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,11 +24,11 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-06-11 | Festina Lente | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.11 | 1.07 | 1.00 | 0.12 | 0.00 | 0.00 | -73.9 | Zorky5k, clx, danzinn-, ditt77, vin33 |
+| 2026-06-11 | Festina Lente | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.11 | 1.07 | 1.00 | 0.12 | 0.00 | 0.00 | -73.4 | Zorky5k, clx, danzinn-, ditt77, vin33 |
 | 2026-06-09 | Zetta | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.10 | 1.07 | 1.00 | 0.11 | 0.00 | 0.11 | +12.3 | Zorky5k, clx, danzinn-, ditt77, vin33 |
 | 2026-06-05 | GOBLINS | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.07 | 1.07 | 1.00 | 0.08 | 0.00 | 0.08 | +226.7 | Zorky5k, clx, danzinn-, ditt77, vin33 |
 | 2026-06-04 | Rejects | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.07 | 1.07 | 1.00 | 0.07 | 0.01 | 0.07 | +204.5 | clx, danzinn-, ditt77, kyozao77, vin33 |
-| 2026-05-29 | redtyfguhoj | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.03 | 1.07 | 1.00 | 0.03 | 0.00 | 0.03 | +151.0 | EnriqueW, Zorky5k, clx, danzinn-, vin33 |
+| 2026-05-29 | redtyfguhoj | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.03 | 1.07 | 1.00 | 0.03 | 0.00 | 0.03 | +150.9 | EnriqueW, Zorky5k, clx, danzinn-, vin33 |
 | 2026-05-27 | Anchors Anonymous | W | 2-0 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.01 | 1.07 | 1.00 | 0.01 | 0.00 | 0.01 | +288.4 | Zorky5k, clx, danzinn-, ditt77, vin33 |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

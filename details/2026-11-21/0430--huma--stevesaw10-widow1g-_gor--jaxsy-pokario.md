@@ -3,15 +3,15 @@ Team Name: HUMA
 Roster: SteveSaw10, WIDOW1g, _GOR-, JaXsy, Pokario
 NARS Rank: 430 of 439
 
-Final Rating: 647.4
-Seeded Start: 1195.1
-H2H Adjustment: -547.7 (capped at +-300, raw -547.8)
+Final Rating: 647.2
+Seeded Start: 1195.0
+H2H Adjustment: -547.8
 
-Final Rating (647.4) = Seeded Start (1195.1) + H2H Adjustment (-547.7)
+Final Rating (647.2) = Seeded Start (1195.0) + H2H Adjustment (-547.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.068 x 1400 = 1195.1
+                = 1100 + 0.068 x 1400 = 1195.0
 
 seed_factor 0.068 = 0.25 x Tier Exposure (0.070) + 0.50 x Quality Wins (0.012) + 0.25 x Opponent Network (0.177)
 
@@ -33,17 +33,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-10-16 | puggin4seb | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.96 | 1.05 | 1.00 | 1.01 | 0.00 | 0.00 | -12.7 | FLa_FLa, JaXsy, Pokario, SteveSaw10, WIDOW1g |
 | 2026-10-14 | UltimateDarklordWizardz | L | W/O | S59 NA Main A - Regular Season | C | faceit-league | 0.95 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-10-09 | MadaNASCAR | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.96 | 0.00 | 0.00 | -7.9 | JaXsy, Pokario, SteveSaw10, WIDOW1g, calan |
-| 2026-10-07 | DadDick Esports | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.95 | 0.00 | 0.00 | -10.0 | FLa_FLa, JaXsy, WIDOW1g, _GOR-, calan |
+| 2026-10-07 | DadDick Esports | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.94 | 0.00 | 0.00 | -10.0 | FLa_FLa, JaXsy, WIDOW1g, _GOR-, calan |
 | 2026-08-28 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.63 | 1.06 | 1.00 | 0.67 | 0.05 | 0.67 | +82.1 | FLa_FLa, Pokario, SteveSaw10, WIDOW1g, calan |
-| 2026-08-26 | In Our Prime | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -144.8 | FLa_FLa, Pokario, SteveSaw10, WIDOW1g, calan |
+| 2026-08-26 | In Our Prime | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -144.9 | FLa_FLa, Pokario, SteveSaw10, WIDOW1g, calan |
 | 2026-08-21 | Spin da block | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.06 | 1.00 | 0.62 | 0.04 | 0.62 | +101.9 | JaXsy, SteveSaw10, WIDOW1g, _GOR-, calan |
-| 2026-08-20 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.62 | 0.05 | 0.62 | +175.5 | FLa_FLa, JaXsy, SteveSaw10, T0tid0ti, _GOR- |
-| 2026-08-14 | Pro Lapse | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.54 | 1.06 | 1.00 | 0.57 | 0.00 | 0.00 | -52.9 | 1nvert-, JaXsy, SteveSaw10, T0tid0ti, WIDOW1g |
+| 2026-08-20 | Sleepers | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.62 | 0.05 | 0.62 | +175.6 | FLa_FLa, JaXsy, SteveSaw10, T0tid0ti, _GOR- |
+| 2026-08-14 | Pro Lapse | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.54 | 1.06 | 1.00 | 0.57 | 0.00 | 0.00 | -52.8 | 1nvert-, JaXsy, SteveSaw10, T0tid0ti, WIDOW1g |
 | 2026-08-12 | After Peak | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.04 | 0.56 | +150.9 | 1nvert-, FLa_FLa, JaXsy, SteveSaw10, _GOR- |
-| 2026-08-05 | Baja Blasters | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.00 | 0.00 | -129.5 | 7urroN, JaXsy, SteveSaw10, WIDOW1g, _GOR- |
+| 2026-08-05 | Baja Blasters | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.00 | 0.00 | -129.6 | 7urroN, JaXsy, SteveSaw10, WIDOW1g, _GOR- |
 | 2026-07-31 | Meepins | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.45 | 1.06 | 1.00 | 0.47 | 0.00 | 0.00 | -2.4 | 7urroN, JaXsy, SteveSaw10, WIDOW1g, nkSitow |
-| 2026-07-29 | SNOWPLOWERS | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.43 | 1.06 | 1.00 | 0.46 | 0.00 | 0.00 | -141.4 | 7urroN, FLa_FLa, JaXsy, WIDOW1g, _GOR- |
+| 2026-07-29 | SNOWPLOWERS | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.43 | 1.06 | 1.00 | 0.46 | 0.00 | 0.00 | -141.5 | 7urroN, FLa_FLa, JaXsy, WIDOW1g, _GOR- |
 | 2026-07-22 | Old Dads Banging | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.39 | 1.06 | 1.00 | 0.41 | 0.00 | 0.00 | -99.7 | 7urroN, JaXsy, SteveSaw10, WIDOW1g, nkSitow |
-| 2026-07-17 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.35 | 1.06 | 1.00 | 0.38 | 0.00 | 0.00 | -367.0 | 7urroN, JaXsy, Pokario, SteveSaw10, WIDOW1g |
+| 2026-07-17 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.35 | 1.06 | 1.00 | 0.37 | 0.00 | 0.00 | -367.1 | 7urroN, JaXsy, Pokario, SteveSaw10, WIDOW1g |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

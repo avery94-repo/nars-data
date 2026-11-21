@@ -1,13 +1,13 @@
 {
  "schema_version": 2,
- "snapshot": "2026-11-21T05:01:28.778928+00:00",
- "exported_at": "2026-11-21T05:02:46Z",
+ "snapshot": "2026-11-21T05:51:20.179945+00:00",
+ "exported_at": "2026-11-21T05:52:01Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
- "matches_qualifying": 5424,
- "matches_exported": 5424,
+ "matches_qualifying": 5426,
+ "matches_exported": 5426,
  "matches_by_source": {
-  "hltv": 96,
+  "hltv": 98,
   "faceit-league": 4494,
   "liquipedia": 15,
   "tosheet": 10,
@@ -35,7 +35,7 @@
    "file_mtime": "2026-11-02T09:39:41Z"
   },
   "hltv": {
-   "file_mtime": "2026-11-20T10:08:16Z",
+   "file_mtime": "2026-11-21T05:51:09Z",
    "note": "parse.bot feed; degraded since 2026-10-09"
   },
   "vrs": {
