@@ -44,6 +44,248 @@
   "source": "hltv"
  },
  {
+  "match_id": "1-0815fa29-f970-4e32-b345-569993e87dda",
+  "date": "2026-11-19",
+  "competition": "S59 NA Main A - Regular Season",
+  "team_a": "teamington",
+  "team_b": "Crimson Vortex",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-20b8dfbc-f0fc-431e-99b8-66aec8ac30b1",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "NineFlyeSports",
+  "team_b": "firesale",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-219e9894-41ee-4bad-bf53-d5ad20fb9054",
+  "date": "2026-11-19",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "Swole Patrol",
+  "team_b": "Alternate Earth",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-292ace26-328b-41e3-a2f1-fa7a34bac893",
+  "date": "2026-11-19",
+  "competition": "S59 NA Main A - Regular Season",
+  "team_a": "enigma",
+  "team_b": "The Homies",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-2d5cb1e9-f391-4b3e-90d7-d36b184b95e7",
+  "date": "2026-11-19",
+  "competition": "S59 NA Main A - Regular Season",
+  "team_a": "FLOW STATE",
+  "team_b": "VOID ALUNE",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-2f4a95ea-2d42-42fe-a4ec-30bb71d63d2e",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Marsborne",
+  "team_b": "Beyond Limits",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-3784a05e-7312-48e0-933c-44898292df10",
+  "date": "2026-11-19",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "Will of Dih",
+  "team_b": "Dead Pixel",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-658906d3-22fc-4d67-a46a-5534b88fea18",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "NZ Gaming",
+  "team_b": "Club 333",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-6656b3c8-3c50-4d87-a565-fd753d3a201d",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Desi Boyz",
+  "team_b": "Elusive",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-67109e1e-ac33-4a3c-87e4-cb5b6a086be2",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Axial",
+  "team_b": "Holy Squid Empire",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-74c41538-4845-4019-be57-3297e997fbbe",
+  "date": "2026-11-19",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "fih hou",
+  "team_b": "Guangzhou Loong Lions",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-75fa5060-b0ed-49a2-8e4a-a4e1ddefb461",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "mas paspas",
+  "team_b": "Pug Palace",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-77b52286-ab2d-432b-b40b-758f2272d991",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "FlyQuest RED",
+  "team_b": "Elation",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-8c809726-bc2d-4a1c-8999-319454a700f0",
+  "date": "2026-11-19",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "Guangzhou Loong Lions",
+  "team_b": "WhiteBoyWinter",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-9ebc2255-cc76-4fde-8d9c-eb9598f33d96",
+  "date": "2026-11-19",
+  "competition": "S59 NA Intermediate A - Regular Season",
+  "team_a": "Biggie Cheese Fan Club",
+  "team_b": "LAF",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-9f3c3b5a-7d7b-4d17-bcb8-06c78883f8aa",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "LAG Gaming",
+  "team_b": "my life be like",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-adb16c54-c668-4c08-88ff-06d783cabf88",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Celestial Esports",
+  "team_b": "EMPIRE",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-bbf8a3e0-de1b-4d2d-974f-5115c9fd8a46",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Omen Esports",
+  "team_b": "EXODIA",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-ce0d7374-d3a4-4aa2-a145-702e392c56e2",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Phantom Sense",
+  "team_b": "Elusive",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-dc281413-72c8-43ba-acfd-de4741f09180",
+  "date": "2026-11-19",
+  "competition": "S59 NA Main A - Regular Season",
+  "team_a": "Down To Frag",
+  "team_b": "Kairo",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "C",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-f93d2a32-14b6-48fb-8224-c7205d6dedf7",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "027fam",
+  "team_b": "GRIT",
+  "winner": "b",
+  "score": "0-1",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
+  "match_id": "1-fe74f002-13f7-43c3-a723-37e12f04f63c",
+  "date": "2026-11-19",
+  "competition": "S59 NA Advanced Central - Regular Season",
+  "team_a": "Beyond Limits",
+  "team_b": "Phantom Sense",
+  "winner": "a",
+  "score": "1-0",
+  "tier": "B",
+  "source": "faceit-league"
+ },
+ {
   "match_id": "1-13e97fd0-f507-490c-95d6-921520ac541c",
   "date": "2026-11-19",
   "competition": "S59 NA Intermediate A - Regular Season",
@@ -18854,17 +19096,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-13-without a roof-W",
-  "date": "2026-09-13",
-  "competition": "VRS-tracked 2026-09",
-  "team_a": "SportsBetExpert",
-  "team_b": "Without a Roof",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "1-00b3d67b-ea63-4b37-9252-a700f963e9aa",
   "date": "2026-09-12",
   "competition": "S58 NA Main Central - Playoffs A",
@@ -25923,17 +26154,6 @@
   "team_b": "FarmVille",
   "winner": "b",
   "score": "0-1",
-  "tier": "A",
-  "source": "vrs"
- },
- {
-  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-09-04-desi boyz-W",
-  "date": "2026-09-04",
-  "competition": "VRS-tracked 2026-09",
-  "team_a": "SportsBetExpert",
-  "team_b": "Desi Boyz",
-  "winner": "a",
-  "score": "",
   "tier": "A",
   "source": "vrs"
  },
@@ -46354,17 +46574,6 @@
   "source": "vrs"
  },
  {
-  "match_id": "vrs-2026-10-05-sportsbetexpert-2026-07-29-chicken coop-W",
-  "date": "2026-07-29",
-  "competition": "VRS-tracked 2026-07",
-  "team_a": "SportsBetExpert",
-  "team_b": "Chicken Coop",
-  "winner": "a",
-  "score": "",
-  "tier": "A",
-  "source": "vrs"
- },
- {
   "match_id": "1-2de6a0ff-2665-4928-9fe1-aaa65a2b129d",
   "date": "2026-07-28",
   "competition": "S58 NA Main A - Regular Season",
@@ -59453,27 +59662,5 @@
   "score": "",
   "tier": "A",
   "source": "vrs"
- },
- {
-  "match_id": "1-b0be1d12-5bf3-4bab-8cb3-45cb07304f40",
-  "date": "2026-05-25",
-  "competition": "S57 NA Advanced Central - Regular Season",
-  "team_a": "Celestial Esports",
-  "team_b": "Phantom Sense",
-  "winner": "a",
-  "score": "1-0",
-  "tier": "B",
-  "source": "faceit-league"
- },
- {
-  "match_id": "1-514a8a4b-5ed0-4881-a6d9-1cb78db2f86f",
-  "date": "2026-05-24",
-  "competition": "S57 NA Main Central - Regular Season",
-  "team_a": "Alcatraz Swim Team",
-  "team_b": "Storm Surge",
-  "winner": "b",
-  "score": "0-1",
-  "tier": "C",
-  "source": "faceit-league"
  }
 ]
