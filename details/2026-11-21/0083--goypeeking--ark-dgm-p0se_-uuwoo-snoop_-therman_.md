@@ -3,17 +3,17 @@ Team Name: GOYPEEKING
 Roster: ARK-DGM, p0se_, uuwoo, snoop_, Therman_
 NARS Rank: 83 of 439
 
-Final Rating: 1758.2
-Seeded Start: 1407.5
-H2H Adjustment: +350.7 (capped at +-300, raw +350.6)
+Final Rating: 1760.3
+Seeded Start: 1403.0
+H2H Adjustment: +357.3 (capped at +-300, raw +357.4)
 
-Final Rating (1758.2) = Seeded Start (1407.5) + H2H Adjustment (+350.7)
+Final Rating (1760.3) = Seeded Start (1403.0) + H2H Adjustment (+357.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.220 x 1400 = 1407.5
+                = 1100 + 0.216 x 1400 = 1403.0
 
-seed_factor 0.220 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.054) + 0.25 x Opponent Network (0.695)
+seed_factor 0.216 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.054) + 0.25 x Opponent Network (0.681)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -26,23 +26,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-11-20 | Guangzhou Loong Lions | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-11-19 | FarmVille | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-11-13 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -62.6 | KYAL, Therman_, p0se_, snoop_, zKronen |
-| 2026-11-11 | ASCEND | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.16 | 1.06 | +59.5 | KYAL, Therman_, p0se_, snoop_, zKronen |
-| 2026-11-06 | PBP | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +83.9 | KYAL, Therman_, p0se_, snoop_, zKronen |
-| 2026-11-04 | Biggie Cheese Fan Club | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.11 | 1.06 | +104.4 | KYAL, Therman_, p0se_, snoop_, zKronen |
-| 2026-11-03 | Green Grove Retirement | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -54.3 | ARK-DGM, KYAL, Therman_, p0se_, snoop_ |
-| 2026-10-30 | muntos minions | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +56.8 | ARK-DGM, KYAL, Therman_, p0se_, snoop_ |
-| 2026-10-28 | Adria eSports | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +106.5 | ARK-DGM, KYAL, Therman_, p0se_, snoop_ |
+| 2026-11-13 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -62.9 | KYAL, Therman_, p0se_, snoop_, zKronen |
+| 2026-11-11 | ASCEND | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.16 | 1.06 | +59.9 | KYAL, Therman_, p0se_, snoop_, zKronen |
+| 2026-11-06 | PBP | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +84.0 | KYAL, Therman_, p0se_, snoop_, zKronen |
+| 2026-11-04 | Biggie Cheese Fan Club | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.11 | 1.06 | +104.8 | KYAL, Therman_, p0se_, snoop_, zKronen |
+| 2026-11-03 | Green Grove Retirement | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -54.6 | ARK-DGM, KYAL, Therman_, p0se_, snoop_ |
+| 2026-10-30 | muntos minions | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +57.0 | ARK-DGM, KYAL, Therman_, p0se_, snoop_ |
+| 2026-10-28 | Adria eSports | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +106.1 | ARK-DGM, KYAL, Therman_, p0se_, snoop_ |
 | 2026-10-21 | APEX | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.99 | 1.06 | 1.00 | 1.05 | 0.08 | 1.05 | +119.3 | Therman_, efme, p0se_, snoop_, uuwoo |
-| 2026-10-16 | Double Dink | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.96 | 1.06 | 1.00 | 1.01 | 0.00 | 0.00 | -258.5 | Therman_, efme, p0se_, snoop_, uuwoo |
-| 2026-10-14 | Alternate Earth | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.94 | 1.06 | 1.00 | 1.00 | 0.07 | 1.00 | +121.3 | Therman_, efme, p0se_, snoop_, uuwoo |
-| 2026-10-09 | Brick by Brick | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.91 | 1.06 | 1.00 | 0.96 | 0.07 | 0.96 | +166.5 | Therman_, efme, p0se_, snoop_, uuwoo |
+| 2026-10-16 | Double Dink | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.96 | 1.06 | 1.00 | 1.01 | 0.00 | 0.00 | -255.7 | Therman_, efme, p0se_, snoop_, uuwoo |
+| 2026-10-14 | Alternate Earth | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.94 | 1.06 | 1.00 | 1.00 | 0.07 | 1.00 | +121.4 | Therman_, efme, p0se_, snoop_, uuwoo |
+| 2026-10-09 | Brick by Brick | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.91 | 1.06 | 1.00 | 0.96 | 0.07 | 0.96 | +166.6 | Therman_, efme, p0se_, snoop_, uuwoo |
 | 2026-10-07 | 37U Passion | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-09-06 | For Fun Gamers | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.69 | 1.05 | 1.00 | 0.72 | 0.00 | 0.00 | -115.1 | ARK-DGM, Therman_, p0se_, snoop_, uuwoo |
-| 2026-09-04 | Boomhogs 2 | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.68 | 1.05 | 1.00 | 0.71 | 0.02 | 0.71 | +138.6 | ARK-DGM, Therman_, p0se_, snoop_, uuwoo |
-| 2026-09-02 | GodFather Gaming | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.66 | 1.05 | 1.00 | 0.70 | 0.02 | 0.70 | +247.6 | ARK-DGM, Therman_, p0se_, snoop_, uuwoo |
-| 2026-06-10 | Pantry Platoon | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -156.6 | ARK-DGM, GiraffeMofo, Therman_, p0se_, uuwoo |
-| 2026-05-29 | RaveX Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -269.3 | ARK-DGM, GiraffeMofo, Therman_, p0se_, uuwoo |
-| 2026-05-27 | NA_Nook | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.01 | +61.1 | ARK-DGM, GiraffeMofo, Therman_, p0se_, uuwoo |
+| 2026-09-06 | For Fun Gamers | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.69 | 1.05 | 1.00 | 0.72 | 0.00 | 0.00 | -115.3 | ARK-DGM, Therman_, p0se_, snoop_, uuwoo |
+| 2026-09-04 | Boomhogs 2 | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.68 | 1.05 | 1.00 | 0.71 | 0.02 | 0.71 | +139.1 | ARK-DGM, Therman_, p0se_, snoop_, uuwoo |
+| 2026-09-02 | GodFather Gaming | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.66 | 1.05 | 1.00 | 0.70 | 0.02 | 0.70 | +247.9 | ARK-DGM, Therman_, p0se_, snoop_, uuwoo |
+| 2026-06-10 | Pantry Platoon | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.00 | -156.2 | ARK-DGM, GiraffeMofo, Therman_, p0se_, uuwoo |
+| 2026-05-29 | RaveX Esports | L | 1-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -268.9 | ARK-DGM, GiraffeMofo, Therman_, p0se_, uuwoo |
+| 2026-05-27 | NA_Nook | W | 2-0 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.01 | 1.00 | 1.00 | 0.01 | 0.00 | 0.01 | +63.5 | ARK-DGM, GiraffeMofo, Therman_, p0se_, uuwoo |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

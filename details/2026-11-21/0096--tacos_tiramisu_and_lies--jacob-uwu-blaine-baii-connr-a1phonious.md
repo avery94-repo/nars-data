@@ -3,17 +3,17 @@ Team Name: Tacos Tiramisu and Lies
 Roster: jacob-uwu, Blaine, BaII, Connr, A1phonious
 NARS Rank: 96 of 439
 
-Final Rating: 1716.0
-Seeded Start: 1386.1
-H2H Adjustment: +329.9 (capped at +-300, raw +329.8)
+Final Rating: 1716.9
+Seeded Start: 1383.2
+H2H Adjustment: +333.7
 
-Final Rating (1716.0) = Seeded Start (1386.1) + H2H Adjustment (+329.9)
+Final Rating (1716.9) = Seeded Start (1383.2) + H2H Adjustment (+333.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.204 x 1400 = 1386.1
+                = 1100 + 0.202 x 1400 = 1383.2
 
-seed_factor 0.204 = 0.25 x Tier Exposure (0.177) + 0.50 x Quality Wins (0.068) + 0.25 x Opponent Network (0.506)
+seed_factor 0.202 = 0.25 x Tier Exposure (0.177) + 0.50 x Quality Wins (0.068) + 0.25 x Opponent Network (0.497)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,36 +24,36 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-10 | Sharp | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.72 | 1.02 | 1.00 | 0.73 | 0.00 | 0.00 | -21.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-09-09 | Omen Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.71 | 1.42 | 1.00 | 1.01 | 0.00 | 0.00 | -69.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-09-08 | UltimateDarklordWizardz | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.70 | 1.02 | 1.00 | 0.72 | 0.13 | 0.72 | +57.4 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-09-04 | walkthemdown | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.68 | 1.02 | 1.00 | 0.69 | 0.04 | 0.69 | +37.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-09-03 | NineFly Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.67 | 1.42 | 1.00 | 0.95 | 0.00 | 0.00 | -106.8 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-09-10 | Sharp | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.72 | 1.02 | 1.00 | 0.73 | 0.00 | 0.00 | -21.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-09-09 | Omen Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.71 | 1.43 | 1.00 | 1.01 | 0.00 | 0.00 | -69.9 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-09-08 | UltimateDarklordWizardz | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.70 | 1.02 | 1.00 | 0.72 | 0.13 | 0.72 | +57.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-09-04 | walkthemdown | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.68 | 1.02 | 1.00 | 0.69 | 0.04 | 0.69 | +37.9 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-09-03 | NineFly Esports | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.67 | 1.43 | 1.00 | 0.96 | 0.00 | 0.00 | -107.2 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-09-02 | Benadryl Abusers | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.66 | 1.02 | 1.00 | 0.68 | 0.07 | 0.68 | +0.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-09-01 | academy 4 gifted children | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.66 | 1.42 | 1.00 | 0.93 | 0.29 | 0.93 | +78.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-28 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.63 | 1.01 | 1.00 | 0.64 | 0.04 | 0.64 | +23.3 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-27 | Holly Molly | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.62 | 1.47 | 1.00 | 0.92 | 0.00 | 0.00 | -173.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-27 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.62 | 1.47 | 1.00 | 0.92 | 0.00 | 0.00 | -18.3 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-26 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.01 | 1.00 | 0.63 | 0.06 | 0.63 | +69.2 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-25 | North Forge | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.61 | 1.47 | 1.00 | 0.90 | 0.00 | 0.00 | -159.5 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-09-01 | academy 4 gifted children | W | 2-1 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.66 | 1.43 | 1.00 | 0.94 | 0.29 | 0.94 | +78.9 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-28 | NOVAIR | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.63 | 1.01 | 1.00 | 0.64 | 0.04 | 0.64 | +23.4 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-27 | Holly Molly | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.62 | 1.48 | 1.00 | 0.92 | 0.00 | 0.00 | -173.5 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-27 | Without a Roof | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.62 | 1.48 | 1.00 | 0.92 | 0.00 | 0.00 | -18.9 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-26 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.01 | 1.00 | 0.62 | 0.06 | 0.62 | +69.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-25 | North Forge | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.61 | 1.48 | 1.00 | 0.90 | 0.00 | 0.00 | -160.1 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-08-21 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.01 | 1.00 | 0.59 | 0.03 | 0.59 | +8.2 | A1phonious, BaII, Connr, jacob-uwu, raymer |
-| 2026-08-19 | Kevin James Fan Club | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.57 | 1.01 | 1.00 | 0.58 | 0.06 | 0.58 | +23.5 | A1phonious, BaII, Connr, jacob-uwu, raymer |
-| 2026-08-18 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.56 | 1.47 | 1.00 | 0.83 | 0.09 | 0.83 | +0.5 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-14 | Team Auspex | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.54 | 1.01 | 1.00 | 0.54 | 0.03 | 0.54 | +137.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-13 | Conscious Gaming | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.53 | 1.47 | 1.00 | 0.78 | 0.11 | 0.78 | +129.9 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-13 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.53 | 1.47 | 1.00 | 0.78 | 0.00 | 0.00 | -35.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-12 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.01 | 1.00 | 0.53 | 0.04 | 0.53 | +116.3 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-11 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.01 | 1.00 | 0.52 | 0.00 | 0.00 | -192.8 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-05 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.01 | 1.00 | 0.48 | 0.06 | 0.48 | +162.5 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-02 | Vlandian knights | L | 1-2 | SoFlo Slam 2 | C | faceit-tournament | 0.46 | 1.17 | 1.00 | 0.54 | 0.00 | 0.00 | -181.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-01 | F5 Esports | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.46 | 1.17 | 1.00 | 0.54 | 0.00 | 0.00 | -282.2 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-08-01 | D1NK Esports | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.46 | 1.17 | 1.00 | 0.54 | 0.05 | 0.00 | +128.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-07-31 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.01 | 1.00 | 0.45 | 0.05 | 0.45 | +20.8 | A1phonious, Blaine, Connr, jacob-uwu, raymer |
-| 2026-07-29 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.43 | 1.01 | 1.00 | 0.44 | 0.04 | 0.44 | +117.1 | A1phonious, Blaine, Connr, jacob-uwu, raymer |
+| 2026-08-19 | Kevin James Fan Club | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.57 | 1.01 | 1.00 | 0.58 | 0.06 | 0.58 | +23.6 | A1phonious, BaII, Connr, jacob-uwu, raymer |
+| 2026-08-18 | FlockMunchers | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.56 | 1.48 | 1.00 | 0.83 | 0.09 | 0.83 | +0.5 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-14 | Team Auspex | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.54 | 1.01 | 1.00 | 0.54 | 0.03 | 0.54 | +137.8 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-13 | Conscious Gaming | W | 1-0 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.53 | 1.48 | 1.00 | 0.78 | 0.11 | 0.78 | +129.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-13 | Overtake Sector | L | 0-1 | NSTLGA League \| Ruby Conference | B | faceit-tournament | 0.53 | 1.48 | 1.00 | 0.78 | 0.00 | 0.00 | -36.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-12 | HiveMind | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.01 | 1.00 | 0.53 | 0.04 | 0.53 | +116.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-11 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.01 | 1.00 | 0.52 | 0.00 | 0.00 | -193.6 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-05 | Firstwave | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.01 | 1.00 | 0.48 | 0.06 | 0.48 | +163.0 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-02 | Vlandian knights | L | 1-2 | SoFlo Slam 2 | C | faceit-tournament | 0.46 | 1.17 | 1.00 | 0.54 | 0.00 | 0.00 | -180.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-01 | F5 Esports | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.45 | 1.17 | 1.00 | 0.53 | 0.00 | 0.00 | -283.3 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-08-01 | D1NK Esports | W | 2-0 | SoFlo Slam 2 | C | faceit-tournament | 0.45 | 1.17 | 1.00 | 0.53 | 0.05 | 0.00 | +128.9 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-07-31 | DeathMark E-Sports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.01 | 1.00 | 0.45 | 0.05 | 0.45 | +20.4 | A1phonious, Blaine, Connr, jacob-uwu, raymer |
+| 2026-07-29 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.43 | 1.01 | 1.00 | 0.43 | 0.04 | 0.43 | +117.4 | A1phonious, Blaine, Connr, jacob-uwu, raymer |
 | 2026-07-24 | The Ohio Meat Wagon | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.40 | 1.01 | 1.00 | 0.40 | 0.02 | 0.40 | +216.3 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
 | 2026-07-22 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.38 | 1.01 | 1.00 | 0.39 | 0.03 | 0.39 | +1.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-07-17 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.35 | 1.01 | 1.00 | 0.36 | 0.03 | 0.36 | +50.7 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
-| 2026-07-14 | D1NK Esports | W | 2-0 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.34 | 1.35 | 1.00 | 0.45 | 0.04 | 0.00 | +419.6 | A1phonious, BaII, Connr, Lothie, jacob-uwu |
-| 2026-06-04 | FLOW STATE | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.06 | 1.07 | 1.00 | 0.07 | 0.00 | 0.00 | -228.2 | A1phonious, Connr, Irneso, Lothie, jacob-uwu |
+| 2026-07-17 | EZ2025 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.35 | 1.01 | 1.00 | 0.35 | 0.03 | 0.35 | +53.8 | A1phonious, BaII, Blaine, Connr, jacob-uwu |
+| 2026-07-14 | D1NK Esports | W | 2-0 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.33 | 1.36 | 1.00 | 0.45 | 0.04 | 0.00 | +420.0 | A1phonious, BaII, Connr, Lothie, jacob-uwu |
+| 2026-06-04 | FLOW STATE | L | 1-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.06 | 1.09 | 1.00 | 0.07 | 0.00 | 0.00 | -227.2 | A1phonious, Connr, Irneso, Lothie, jacob-uwu |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_
