@@ -4,14 +4,14 @@ Roster: pand3, mild, Pure_Penguin, Buttermilk, Fuji
 NARS Rank: 184 of 439
 
 Final Rating: 1517.5
-Seeded Start: 1408.5
-H2H Adjustment: +109.0
+Seeded Start: 1408.6
+H2H Adjustment: +108.9
 
-Final Rating (1517.5) = Seeded Start (1408.5) + H2H Adjustment (+109.0)
+Final Rating (1517.5) = Seeded Start (1408.6) + H2H Adjustment (+108.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.220 x 1400 = 1408.5
+                = 1100 + 0.220 x 1400 = 1408.6
 
 seed_factor 0.220 = 0.25 x Tier Exposure (0.104) + 0.50 x Quality Wins (0.062) + 0.25 x Opponent Network (0.655)
 
@@ -28,33 +28,33 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-11-13 | 1NT | L | W/O | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-11-11 | MakeYouSayLate | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.10 | 1.05 | +1.7 | Flynn, Fuji, Rezistance, mild, pand3 |
 | 2026-11-06 | Temple of Swing | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.07 | 1.05 | +26.7 | B0oM202, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-11-06 | Binky | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.10 | 1.05 | +86.7 | B0oM202, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-11-06 | Binky | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.10 | 1.05 | +86.9 | B0oM202, Fuji, Pure_Penguin, mild, pand3 |
 | 2026-11-04 | Wiggle Peeks | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -64.6 | B0oM202, Flynn, Fuji, Pure_Penguin, pand3 |
 | 2026-10-30 | Torii | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -41.4 | B0oM202, Flynn, Fuji, mild, pand3 |
-| 2026-10-28 | Goyim Gladiators | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -158.1 | B0oM202, Flynn, Fuji, Pure_Penguin, pand3 |
-| 2026-10-21 | noname | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.99 | 1.05 | 1.00 | 1.04 | 0.00 | 0.00 | -194.8 | Flynn, Fuji, Pure_Penguin, Rezistance, mild, pand3 |
-| 2026-10-14 | Top One Percent | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.95 | 1.05 | 1.00 | 0.99 | 0.07 | 0.99 | +2.7 | Fuji, Pure_Penguin, Rezistance, mild, pand3 |
-| 2026-10-09 | Shaboing Boing Bandits | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.96 | 0.10 | 0.96 | +37.0 | B0oM202, Pure_Penguin, Rezistance, mild, pand3 |
+| 2026-10-28 | Goyim Gladiators | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -158.2 | B0oM202, Flynn, Fuji, Pure_Penguin, pand3 |
+| 2026-10-21 | noname | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.99 | 1.05 | 1.00 | 1.04 | 0.00 | 0.00 | -195.0 | Flynn, Fuji, Pure_Penguin, Rezistance, mild, pand3 |
+| 2026-10-14 | Top One Percent | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.94 | 1.05 | 1.00 | 0.99 | 0.07 | 0.99 | +2.7 | Fuji, Pure_Penguin, Rezistance, mild, pand3 |
+| 2026-10-09 | Shaboing Boing Bandits | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.96 | 0.10 | 0.96 | +37.1 | B0oM202, Pure_Penguin, Rezistance, mild, pand3 |
 | 2026-10-07 | No Leaders Please | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.94 | 0.09 | 0.94 | +35.0 | Fuji, Pure_Penguin, Rezistance, mild, pand3 |
-| 2026-09-10 | DESPAIR | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -131.8 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-09-06 | WhalersOnDaMoon | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.69 | 1.06 | 1.00 | 0.73 | 0.00 | 0.00 | -139.5 | Buttermilk, Flynn, Pure_Penguin, ballen, pand3 |
+| 2026-09-10 | DESPAIR | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -132.0 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-09-06 | WhalersOnDaMoon | L | 0-2 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.69 | 1.06 | 1.00 | 0.73 | 0.00 | 0.00 | -139.7 | Buttermilk, Flynn, Pure_Penguin, ballen, pand3 |
 | 2026-09-04 | Bird Squishers | W | 2-0 | S58 NA Main Central - Playoffs B | B | faceit-league | 0.68 | 1.06 | 1.00 | 0.72 | 0.04 | 0.72 | +0.9 | Buttermilk, Fuji, Pure_Penguin, Rezistance, mild, pand3 |
-| 2026-08-28 | Down To Frag | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.63 | 1.06 | 1.00 | 0.67 | 0.07 | 0.67 | +62.9 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-08-26 | US Navy Esports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.04 | 0.66 | +127.6 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-08-21 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.06 | 1.00 | 0.62 | 0.00 | 0.00 | -125.2 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-08-14 | DESPAIR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.54 | 1.06 | 1.00 | 0.57 | 0.06 | 0.57 | +120.7 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-08-12 | OnlyFans | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.03 | 0.56 | +14.0 | B0oM202, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-08-07 | goofball gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.49 | 1.06 | 1.00 | 0.52 | 0.03 | 0.52 | +107.7 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-08-05 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.03 | 0.51 | +65.6 | Buttermilk, Fuji, Pure_Penguin, Rezistance, mild, pand3 |
-| 2026-07-31 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.45 | 1.06 | 1.00 | 0.47 | 0.03 | 0.47 | +192.2 | B0oM202, Buttermilk, Fuji, Rezistance, mild |
+| 2026-08-28 | Down To Frag | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.63 | 1.06 | 1.00 | 0.67 | 0.07 | 0.67 | +63.0 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-08-26 | US Navy Esports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.04 | 0.66 | +127.9 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-08-21 | Automatic HQ | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.62 | 0.00 | 0.00 | -125.5 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-08-14 | DESPAIR | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.54 | 1.06 | 1.00 | 0.57 | 0.06 | 0.57 | +120.8 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-08-12 | OnlyFans | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.56 | 0.03 | 0.56 | +14.0 | B0oM202, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-08-07 | goofball gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.49 | 1.06 | 1.00 | 0.52 | 0.03 | 0.52 | +107.8 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-08-05 | ASYCS KITTENS | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.03 | 0.51 | +65.4 | Buttermilk, Fuji, Pure_Penguin, Rezistance, mild, pand3 |
+| 2026-07-31 | Yogaball Frags | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.44 | 1.06 | 1.00 | 0.47 | 0.03 | 0.47 | +192.5 | B0oM202, Buttermilk, Fuji, Rezistance, mild |
 | 2026-07-29 | Backshot Gaming | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.43 | 1.06 | 1.00 | 0.46 | 0.01 | 0.46 | +156.7 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-07-24 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.40 | 1.06 | 1.00 | 0.42 | 0.00 | 0.00 | -208.7 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-07-22 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.39 | 1.06 | 1.00 | 0.41 | 0.01 | 0.41 | +4.2 | Buttermilk, Fuji, Pure_Penguin, Rezistance, pand3 |
-| 2026-07-17 | Exnitas | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.35 | 1.06 | 1.00 | 0.37 | 0.04 | 0.37 | +237.1 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-07-15 | gooshedd | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.34 | 1.06 | 1.00 | 0.36 | 0.00 | 0.00 | -386.1 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-06-04 | Asoka | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.07 | 1.16 | 1.00 | 0.08 | 0.01 | 0.08 | +361.4 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
-| 2026-05-31 | Squeegee | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.04 | 1.16 | 1.00 | 0.05 | 0.00 | 0.00 | -279.5 | Buttermilk, Pure_Penguin, dawz, mild, pand3 |
-| 2026-05-29 | The Skins | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.03 | 1.16 | 1.00 | 0.03 | 0.00 | 0.03 | +103.2 | Buttermilk, Flynn, Fuji, mild, pand3 |
-| 2026-05-27 | DNA | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.01 | +61.3 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-07-24 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.40 | 1.06 | 1.00 | 0.42 | 0.00 | 0.00 | -209.0 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-07-22 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.38 | 1.06 | 1.00 | 0.41 | 0.01 | 0.41 | +4.2 | Buttermilk, Fuji, Pure_Penguin, Rezistance, pand3 |
+| 2026-07-17 | Exnitas | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.35 | 1.06 | 1.00 | 0.37 | 0.04 | 0.37 | +237.2 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-07-15 | gooshedd | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.34 | 1.06 | 1.00 | 0.36 | 0.00 | 0.00 | -386.2 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-06-04 | Asoka | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.06 | 1.16 | 1.00 | 0.08 | 0.01 | 0.08 | +362.0 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
+| 2026-05-31 | Squeegee | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.04 | 1.16 | 1.00 | 0.04 | 0.00 | 0.00 | -279.7 | Buttermilk, Pure_Penguin, dawz, mild, pand3 |
+| 2026-05-29 | The Skins | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.02 | 1.16 | 1.00 | 0.03 | 0.00 | 0.03 | +103.0 | Buttermilk, Flynn, Fuji, mild, pand3 |
+| 2026-05-27 | DNA | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.01 | 1.16 | 1.00 | 0.01 | 0.00 | 0.01 | +61.2 | Buttermilk, Fuji, Pure_Penguin, mild, pand3 |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

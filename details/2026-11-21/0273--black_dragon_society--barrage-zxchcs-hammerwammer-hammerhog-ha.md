@@ -3,17 +3,17 @@ Team Name: Black Dragon Society
 Roster: BARRAGE, zxchcs, hammerwammer, hammerhog, hammerhouse
 NARS Rank: 273 of 439
 
-Final Rating: 1291.6
-Seeded Start: 1245.2
-H2H Adjustment: +46.4
+Final Rating: 1291.9
+Seeded Start: 1245.6
+H2H Adjustment: +46.3
 
-Final Rating (1291.6) = Seeded Start (1245.2) + H2H Adjustment (+46.4)
+Final Rating (1291.9) = Seeded Start (1245.6) + H2H Adjustment (+46.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.104 x 1400 = 1245.2
+                = 1100 + 0.104 x 1400 = 1245.6
 
-seed_factor 0.104 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.296)
+seed_factor 0.104 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.022) + 0.25 x Opponent Network (0.297)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,17 +27,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-11-06 | Remnant | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-11-06 | 99 Thieves | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-11-04 | Afterimage | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-10-30 | Eightball | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -150.7 | NRKcs, hammerhog, hammerhouse, hammerwammer, maxie |
-| 2026-10-28 | Samantha 4 | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -135.9 | NRKcs, hammerhog, hammerhouse, hammerwammer, maxie |
+| 2026-10-30 | Eightball | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -150.8 | NRKcs, hammerhog, hammerhouse, hammerwammer, maxie |
+| 2026-10-28 | Samantha 4 | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -136.1 | NRKcs, hammerhog, hammerhouse, hammerwammer, maxie |
 | 2026-10-21 | NATIONAL CS UNI | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.99 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-10-16 | FarmVille | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.96 | 1.05 | 1.00 | 1.01 | 0.00 | 0.00 | -0.3 | NRKcs, hammerhog, hammerhouse, hammerwammer, maxie |
-| 2026-10-14 | WhiteBoyWinter | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.05 | 1.00 | 0.99 | 0.00 | 0.00 | -152.4 | NRKcs, hammerhog, hammerhouse, hammerwammer, maxie |
-| 2026-10-09 | FlockMunchers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.96 | 0.10 | 0.96 | +78.5 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
-| 2026-10-07 | RH Help Desk | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.94 | 0.07 | 0.94 | +76.4 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
-| 2026-09-17 | Fire Nation | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.77 | 1.06 | 1.00 | 0.81 | 0.00 | 0.00 | -76.1 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
-| 2026-09-15 | WhiteBoyWinter | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.75 | 1.06 | 1.00 | 0.80 | 0.06 | 0.80 | +109.9 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
-| 2026-09-08 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.71 | 1.06 | 1.00 | 0.75 | 0.00 | 0.00 | -54.1 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
-| 2026-09-04 | mokey mokey | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.68 | 1.06 | 1.00 | 0.72 | 0.05 | 0.72 | +156.2 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
+| 2026-10-16 | FarmVille | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.96 | 1.06 | 1.00 | 1.01 | 0.00 | 0.00 | -0.3 | NRKcs, hammerhog, hammerhouse, hammerwammer, maxie |
+| 2026-10-14 | WhiteBoyWinter | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.94 | 1.06 | 1.00 | 1.00 | 0.00 | 0.00 | -152.6 | NRKcs, hammerhog, hammerhouse, hammerwammer, maxie |
+| 2026-10-09 | FlockMunchers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.91 | 1.06 | 1.00 | 0.96 | 0.11 | 0.96 | +78.6 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
+| 2026-10-07 | RH Help Desk | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.06 | 1.00 | 0.95 | 0.07 | 0.95 | +76.5 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
+| 2026-09-17 | Fire Nation | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.76 | 1.06 | 1.00 | 0.81 | 0.00 | 0.00 | -76.2 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
+| 2026-09-15 | WhiteBoyWinter | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.75 | 1.06 | 1.00 | 0.80 | 0.06 | 0.80 | +110.2 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
+| 2026-09-08 | makeSHIFT | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.75 | 0.00 | 0.00 | -54.3 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
+| 2026-09-04 | mokey mokey | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.68 | 1.06 | 1.00 | 0.72 | 0.05 | 0.72 | +156.4 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 | 2026-09-03 | Team Phys | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.02 | 0.71 | +194.8 | BARRAGE, hammerhog, hammerhouse, hammerwammer, zxchcs |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

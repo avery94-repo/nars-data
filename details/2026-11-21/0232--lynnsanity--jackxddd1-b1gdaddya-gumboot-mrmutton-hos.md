@@ -3,11 +3,11 @@ Team Name: Lynnsanity
 Roster: JaCKxDDD1, B1gDaddyA, Gumboot, MrMutton, hostage1337
 NARS Rank: 232 of 439
 
-Final Rating: 1404.9
+Final Rating: 1405.0
 Seeded Start: 1337.0
-H2H Adjustment: +67.9
+H2H Adjustment: +68.0
 
-Final Rating (1404.9) = Seeded Start (1337.0) + H2H Adjustment (+67.9)
+Final Rating (1405.0) = Seeded Start (1337.0) + H2H Adjustment (+68.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,27 +24,27 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-11-18 | Binky | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.10 | 1.05 | +73.2 | CMX-, Gumboot, MrMutton, hostage1337, rafss |
-| 2026-11-13 | Chopped | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -58.7 | CMX-, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
+| 2026-11-18 | Binky | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.10 | 1.05 | +73.3 | CMX-, Gumboot, MrMutton, hostage1337, rafss |
+| 2026-11-13 | Chopped | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -58.8 | CMX-, Gumboot, JaCKxDDD1, MrMutton, hostage1337 |
 | 2026-11-04 | Down To Frag | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -23.9 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-10-30 | Goyim Gladiators | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -190.5 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-10-22 | Resurgence | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.10 | 1.05 | +100.4 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-10-16 | Shaboing Boing Bandits | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.96 | 1.05 | 1.00 | 1.01 | 0.10 | 1.01 | +171.6 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-10-14 | Kaos | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.95 | 1.05 | 1.00 | 0.99 | 0.00 | 0.00 | -140.1 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-10-09 | YHTR | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.96 | 0.18 | 0.96 | +179.9 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-10-07 | Entertainment Cheese | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.94 | 0.13 | 0.94 | +224.5 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-10-30 | Goyim Gladiators | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -190.7 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-10-22 | Resurgence | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.10 | 1.05 | +100.5 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-10-16 | Shaboing Boing Bandits | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.96 | 1.05 | 1.00 | 1.01 | 0.10 | 1.01 | +171.7 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-10-14 | Kaos | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.94 | 1.05 | 1.00 | 0.99 | 0.00 | 0.00 | -140.3 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-10-09 | YHTR | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.91 | 1.05 | 1.00 | 0.96 | 0.18 | 0.96 | +180.0 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-10-07 | Entertainment Cheese | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.94 | 0.13 | 0.94 | +224.7 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-08-28 | YHTR | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.63 | 1.06 | 1.00 | 0.67 | 0.00 | 0.00 | -7.8 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-08-26 | Yogaball Frags | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -73.4 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-08-21 | gooshedd | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.59 | 1.06 | 1.00 | 0.62 | 0.02 | 0.62 | +78.6 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-08-15 | Kaos | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.55 | 1.06 | 1.00 | 0.58 | 0.04 | 0.58 | +162.2 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-08-12 | Florida Man | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.00 | 0.00 | -96.4 | Gumboot, JaCKxDDD1, MrMutton, SnowConeYeti, hostage1337 |
-| 2026-08-07 | Friendly Fire | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.49 | 1.06 | 1.00 | 0.52 | 0.00 | 0.00 | -118.8 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-08-26 | Yogaball Frags | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.62 | 1.06 | 1.00 | 0.66 | 0.00 | 0.00 | -73.6 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-08-21 | gooshedd | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.62 | 0.02 | 0.62 | +78.7 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-08-15 | Kaos | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.54 | 1.06 | 1.00 | 0.58 | 0.04 | 0.58 | +162.6 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-08-12 | Florida Man | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.56 | 0.00 | 0.00 | -96.5 | Gumboot, JaCKxDDD1, MrMutton, SnowConeYeti, hostage1337 |
+| 2026-08-07 | Friendly Fire | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.49 | 1.06 | 1.00 | 0.52 | 0.00 | 0.00 | -119.0 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 | 2026-08-05 | RejexEsports | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.01 | 0.51 | +14.7 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-07-31 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.45 | 1.06 | 1.00 | 0.47 | 0.00 | 0.00 | -36.9 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, MrMutton |
+| 2026-07-31 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.44 | 1.06 | 1.00 | 0.47 | 0.00 | 0.00 | -37.0 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, MrMutton |
 | 2026-07-29 | DingTone | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.43 | 1.06 | 1.00 | 0.46 | 0.00 | 0.00 | -58.5 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, MrMutton |
-| 2026-07-24 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.40 | 1.06 | 1.00 | 0.42 | 0.00 | 0.00 | -150.5 | CMX-, Gumboot, JaCKxDDD1, MrMutton, SnowConeYeti |
-| 2026-07-22 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.39 | 1.06 | 1.00 | 0.41 | 0.00 | 0.00 | -2.1 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-07-17 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.35 | 1.06 | 1.00 | 0.37 | 0.03 | 0.37 | +264.6 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
-| 2026-07-16 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.35 | 1.06 | 1.00 | 0.37 | 0.00 | 0.00 | -244.1 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-07-24 | penazoid | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.40 | 1.06 | 1.00 | 0.42 | 0.00 | 0.00 | -150.7 | CMX-, Gumboot, JaCKxDDD1, MrMutton, SnowConeYeti |
+| 2026-07-22 | Nomadic Tactics | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.38 | 1.06 | 1.00 | 0.41 | 0.00 | 0.00 | -2.1 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-07-17 | Cadillac F1 eSports Team | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.35 | 1.06 | 1.00 | 0.37 | 0.03 | 0.37 | +264.9 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
+| 2026-07-16 | F1lthy Puggers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.34 | 1.06 | 1.00 | 0.37 | 0.00 | 0.00 | -244.3 | B1gDaddyA, CMX-, Gumboot, JaCKxDDD1, hostage1337 |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

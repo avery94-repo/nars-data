@@ -3,17 +3,17 @@ Team Name: ASCEND
 Roster: Poxteria, PiNG-ez, pusEx-, -RelliK-, tax-
 NARS Rank: 128 of 439
 
-Final Rating: 1630.2
-Seeded Start: 1413.5
-H2H Adjustment: +216.7
+Final Rating: 1630.9
+Seeded Start: 1414.8
+H2H Adjustment: +216.1
 
-Final Rating (1630.2) = Seeded Start (1413.5) + H2H Adjustment (+216.7)
+Final Rating (1630.9) = Seeded Start (1414.8) + H2H Adjustment (+216.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.224 x 1400 = 1413.5
+                = 1100 + 0.225 x 1400 = 1414.8
 
-seed_factor 0.224 = 0.25 x Tier Exposure (0.148) + 0.50 x Quality Wins (0.043) + 0.25 x Opponent Network (0.662)
+seed_factor 0.225 = 0.25 x Tier Exposure (0.148) + 0.50 x Quality Wins (0.043) + 0.25 x Opponent Network (0.665)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,26 +24,26 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-11-18 | NetanYAHOO | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.08 | 1.05 | +27.2 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
-| 2026-11-12 | Swole Patrol | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -3.0 | Irneso, Poxteria, naj-dobrija, poinoru, tax- |
-| 2026-11-11 | GOYPEEKING | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -60.8 | Irneso, Poxteria, naj-dobrija, poinoru, tax- |
-| 2026-11-06 | Climbers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.07 | 1.05 | +26.1 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
-| 2026-10-30 | Biggie Cheese Fan Club | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.11 | 1.05 | +164.5 | Irneso, Poxteria, naj-dobrija, poinoru, tax- |
-| 2026-10-28 | Defaulting | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.08 | 1.05 | +95.6 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
+| 2026-11-18 | NetanYAHOO | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +27.2 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
+| 2026-11-12 | Swole Patrol | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -3.0 | Irneso, Poxteria, naj-dobrija, poinoru, tax- |
+| 2026-11-11 | GOYPEEKING | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -60.8 | Irneso, Poxteria, naj-dobrija, poinoru, tax- |
+| 2026-11-06 | Climbers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.07 | 1.06 | +26.0 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
+| 2026-10-30 | Biggie Cheese Fan Club | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.11 | 1.06 | +164.8 | Irneso, Poxteria, naj-dobrija, poinoru, tax- |
+| 2026-10-28 | Defaulting | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +95.7 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
 | 2026-10-27 | Vibe Check | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-10-21 | ItAintOverYet | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.99 | 1.05 | 1.00 | 1.04 | 0.00 | 0.00 | -72.0 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
-| 2026-10-16 | Cream Team | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.96 | 1.05 | 1.00 | 1.01 | 0.08 | 1.01 | +74.4 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
-| 2026-10-14 | Green Grove Retirement | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.05 | 1.00 | 0.99 | 0.00 | 0.00 | -9.5 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
-| 2026-10-07 | OnThaGear | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.05 | 1.00 | 0.94 | 0.07 | 0.94 | +182.0 | Irneso, Poxteria, naj-dobrija, tax-, trustythedoe |
-| 2026-10-02 | 69 | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.05 | 1.00 | 0.91 | 0.06 | 0.91 | +72.8 | Irneso, Poxteria, naj-dobrija, tax-, trustythedoe |
-| 2026-09-26 | SwagMonkeyHats | L | W/O | SOFLO SLAM 3 | C | faceit-tournament | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -157.5 | Irneso, Poxteria, naj-dobrija, tax-, trustythedoe |
-| 2026-09-10 | WhiteBoyWinter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -110.1 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
+| 2026-10-21 | ItAintOverYet | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.99 | 1.06 | 1.00 | 1.05 | 0.00 | 0.00 | -72.1 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
+| 2026-10-16 | Cream Team | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.96 | 1.06 | 1.00 | 1.01 | 0.08 | 1.01 | +74.5 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
+| 2026-10-14 | Green Grove Retirement | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.94 | 1.06 | 1.00 | 1.00 | 0.00 | 0.00 | -9.4 | Chick3n, Irneso, Poxteria, naj-dobrija, tax- |
+| 2026-10-07 | OnThaGear | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.06 | 1.00 | 0.95 | 0.07 | 0.95 | +182.6 | Irneso, Poxteria, naj-dobrija, tax-, trustythedoe |
+| 2026-10-02 | 69 | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.86 | 1.06 | 1.00 | 0.91 | 0.06 | 0.91 | +72.5 | Irneso, Poxteria, naj-dobrija, tax-, trustythedoe |
+| 2026-09-26 | SwagMonkeyHats | L | W/O | SOFLO SLAM 3 | C | faceit-tournament | 0.83 | 1.00 | 1.00 | 0.83 | 0.00 | 0.00 | -157.8 | Irneso, Poxteria, naj-dobrija, tax-, trustythedoe |
+| 2026-09-10 | WhiteBoyWinter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -110.3 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
 | 2026-09-09 | SquadUp | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.71 | 1.42 | 1.00 | 1.01 | 0.00 | 0.00 | -98.8 | -RelliK-, PiNG-ez, Poxteria, poinoru, tax- |
-| 2026-09-08 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.71 | 1.06 | 1.00 | 0.75 | 0.02 | 0.75 | +86.5 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
-| 2026-09-06 | Against Odds | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.69 | 1.06 | 1.00 | 0.73 | 0.02 | 0.73 | +77.3 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
-| 2026-09-05 | my life be like | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.69 | 1.42 | 1.00 | 0.97 | 0.00 | 0.00 | -1.8 | -RelliK-, PiNG-ez, Poxteria, kozume, tax- |
-| 2026-09-04 | GOBLINS | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.68 | 1.06 | 1.00 | 0.72 | 0.00 | 0.00 | -115.9 | Chick3n, PiNG-ez, Poxteria, naj-dobrija, tax- |
-| 2026-09-02 | OGNuggs | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.02 | 0.71 | +50.2 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
-| 2026-09-01 | Club 333 | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.66 | 1.42 | 1.00 | 0.93 | 0.00 | 0.00 | -12.0 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
+| 2026-09-08 | Russians In Brooklyn | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.75 | 0.02 | 0.75 | +86.4 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
+| 2026-09-06 | Against Odds | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.69 | 1.06 | 1.00 | 0.73 | 0.02 | 0.73 | +77.4 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
+| 2026-09-05 | my life be like | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.68 | 1.42 | 1.00 | 0.97 | 0.00 | 0.00 | -1.8 | -RelliK-, PiNG-ez, Poxteria, kozume, tax- |
+| 2026-09-04 | GOBLINS | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.68 | 1.06 | 1.00 | 0.72 | 0.00 | 0.00 | -116.1 | Chick3n, PiNG-ez, Poxteria, naj-dobrija, tax- |
+| 2026-09-02 | OGNuggs | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.02 | 0.70 | +49.7 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
+| 2026-09-01 | Club 333 | L | 0-2 | Group Stage - CROSSFIRE Season 6 | B | faceit-tournament | 0.66 | 1.42 | 1.00 | 0.93 | 0.00 | 0.00 | -12.2 | -RelliK-, PiNG-ez, Poxteria, naj-dobrija, tax- |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

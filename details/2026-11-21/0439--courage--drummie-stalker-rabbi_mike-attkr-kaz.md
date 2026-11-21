@@ -3,11 +3,11 @@ Team Name: Courage
 Roster: DRUMMIE, stalker, rabbi_mike, ATTKR, kaz
 NARS Rank: 439 of 439
 
-Final Rating: 412.8
+Final Rating: 412.1
 Seeded Start: 1123.3
-H2H Adjustment: -710.5
+H2H Adjustment: -711.2 (capped at +-300, raw -711.3)
 
-Final Rating (412.8) = Seeded Start (1123.3) + H2H Adjustment (-710.5)
+Final Rating (412.1) = Seeded Start (1123.3) + H2H Adjustment (-711.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
@@ -24,15 +24,15 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-08-21 | After Peak | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.59 | 1.06 | 1.00 | 0.62 | 0.00 | 0.00 | -170.5 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
-| 2026-08-19 | SNOWPLOWERS | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.57 | 1.06 | 1.00 | 0.61 | 0.00 | 0.00 | -90.4 | ATTKR, DRUMMIE, Klein--, rabbi_mike, stalker |
+| 2026-08-21 | After Peak | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.06 | 1.00 | 0.62 | 0.00 | 0.00 | -170.9 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
+| 2026-08-19 | SNOWPLOWERS | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.57 | 1.06 | 1.00 | 0.61 | 0.00 | 0.00 | -90.6 | ATTKR, DRUMMIE, Klein--, rabbi_mike, stalker |
 | 2026-08-14 | Solar Gravity | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.54 | 1.06 | 1.00 | 0.57 | 0.00 | 0.00 | -25.1 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
-| 2026-08-12 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.06 | 1.00 | 0.56 | 0.00 | 0.00 | -27.9 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
-| 2026-08-05 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.04 | 0.51 | +218.5 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
-| 2026-07-31 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.45 | 1.06 | 1.00 | 0.47 | 0.00 | 0.00 | -0.6 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
+| 2026-08-12 | Saltcrew | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.06 | 1.00 | 0.56 | 0.00 | 0.00 | -28.0 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
+| 2026-08-05 | Grandpa Berets | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.06 | 1.00 | 0.51 | 0.04 | 0.51 | +218.9 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
+| 2026-07-31 | Chopped | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.44 | 1.06 | 1.00 | 0.47 | 0.00 | 0.00 | -0.6 | ATTKR, Cain, DRUMMIE, rabbi_mike, stalker |
 | 2026-07-29 | Schadenfreude | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.43 | 1.06 | 1.00 | 0.46 | 0.00 | 0.00 | -119.1 | ATTKR, Cain, DRUMMIE, G0LOB, rabbi_mike |
-| 2026-07-23 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.39 | 1.06 | 1.00 | 0.42 | 0.00 | 0.00 | -176.9 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
-| 2026-07-22 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.39 | 1.06 | 1.00 | 0.41 | 0.00 | 0.00 | -91.1 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
-| 2026-07-17 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.35 | 1.06 | 1.00 | 0.37 | 0.00 | 0.00 | -227.4 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
+| 2026-07-23 | Specter Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.39 | 1.06 | 1.00 | 0.42 | 0.00 | 0.00 | -177.1 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
+| 2026-07-22 | Full White | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.38 | 1.06 | 1.00 | 0.41 | 0.00 | 0.00 | -91.1 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
+| 2026-07-17 | GeneticDiff | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.35 | 1.06 | 1.00 | 0.37 | 0.00 | 0.00 | -227.6 | ATTKR, DRUMMIE, G0LOB, rabbi_mike, stalker |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_

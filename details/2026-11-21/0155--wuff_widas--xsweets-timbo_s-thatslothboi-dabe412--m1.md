@@ -3,15 +3,15 @@ Team Name: Wuff Widas
 Roster: xSweets, Timbo_S, ThatSlothBoi, Dabe412, -M1as-
 NARS Rank: 155 of 439
 
-Final Rating: 1576.0
-Seeded Start: 1252.5
-H2H Adjustment: +323.5 (capped at +-300, raw +323.4)
+Final Rating: 1576.1
+Seeded Start: 1252.4
+H2H Adjustment: +323.7
 
-Final Rating (1576.0) = Seeded Start (1252.5) + H2H Adjustment (+323.5)
+Final Rating (1576.1) = Seeded Start (1252.4) + H2H Adjustment (+323.7)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.109 x 1400 = 1252.5
+                = 1100 + 0.109 x 1400 = 1252.4
 
 seed_factor 0.109 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.020) + 0.25 x Opponent Network (0.322)
 
@@ -24,14 +24,14 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-09-16 | Los Pollos Hermanos | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -135.3 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-09-11 | REMM | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.73 | 1.00 | 1.00 | 0.73 | 0.02 | 0.73 | +106.6 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-09-09 | Rogue Dungeon | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.02 | 0.71 | +149.1 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-09-16 | Los Pollos Hermanos | L | 0-2 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.76 | 1.00 | 1.00 | 0.76 | 0.00 | 0.00 | -135.4 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-09-11 | REMM | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.72 | 1.00 | 1.00 | 0.73 | 0.02 | 0.73 | +106.7 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-09-09 | Rogue Dungeon | W | 2-1 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.71 | 1.00 | 1.00 | 0.71 | 0.02 | 0.71 | +149.2 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-09-04 | Team Dobeg | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.68 | 1.00 | 1.00 | 0.68 | 0.02 | 0.68 | +76.7 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-09-02 | FlatEarthers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.67 | 1.00 | 1.00 | 0.67 | 0.02 | 0.67 | +131.8 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-08-09 | STALLOONS BALLOONS | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.51 | 1.24 | 1.00 | 0.63 | 0.00 | 0.00 | -285.8 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-08-09 | enigma | W | W/O | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.51 | 1.24 | 1.00 | 0.63 | 0.10 | 0.63 | +146.7 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
-| 2026-08-09 | ARES GAMING | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.51 | 1.24 | 1.00 | 0.63 | 0.03 | 0.63 | +132.7 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-09-02 | FlatEarthers | W | 2-0 | S58 NA Open1-8 Central - Playoffs | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.67 | 0.02 | 0.67 | +131.9 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-08-09 | STALLOONS BALLOONS | L | 0-1 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.50 | 1.24 | 1.00 | 0.63 | 0.00 | 0.00 | -286.1 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-08-09 | enigma | W | W/O | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.50 | 1.24 | 1.00 | 0.63 | 0.10 | 0.63 | +146.9 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
+| 2026-08-09 | ARES GAMING | W | 1-0 | MONSTER KILL( KNIFE GIVEAWAY LIVE ON STREAM) | C | faceit-tournament | 0.50 | 1.24 | 1.00 | 0.63 | 0.03 | 0.63 | +132.8 | -M1as-, DeBagelQueen, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-07-26 | Omen Esports | L | 0-1 | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.41 | 1.11 | 1.00 | 0.46 | 0.00 | 0.00 | -1.4 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 | 2026-07-25 | Strafe | W | W/O | Mayhem ( conseq of the jinn ak giveaway LIVE ON STREAM) | C | faceit-tournament | 0.41 | 1.11 | 1.00 | 0.46 | 0.06 | 0.46 | +2.4 | -M1as-, Dabe412, ThatSlothBoi, Timbo_S, xSweets |
 

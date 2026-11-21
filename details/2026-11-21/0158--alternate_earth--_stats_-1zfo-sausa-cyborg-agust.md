@@ -3,17 +3,17 @@ Team Name: Alternate Earth
 Roster: _STATS_, 1zfo, Sausa, cyborg, Agust
 NARS Rank: 158 of 439
 
-Final Rating: 1566.5
-Seeded Start: 1351.3
-H2H Adjustment: +215.2
+Final Rating: 1567.2
+Seeded Start: 1353.1
+H2H Adjustment: +214.1
 
-Final Rating (1566.5) = Seeded Start (1351.3) + H2H Adjustment (+215.2)
+Final Rating (1567.2) = Seeded Start (1353.1) + H2H Adjustment (+214.1)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.180 x 1400 = 1351.3
+                = 1100 + 0.181 x 1400 = 1353.1
 
-seed_factor 0.180 = 0.25 x Tier Exposure (0.074) + 0.50 x Quality Wins (0.046) + 0.25 x Opponent Network (0.553)
+seed_factor 0.181 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.046) + 0.25 x Opponent Network (0.556)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,22 +24,22 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-11-19 | Swole Patrol | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -1.5 | 1zfo, Sausa, Sevv, _STATS_, cyborg |
-| 2026-11-18 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -7.0 | 1zfo, Agust, Sausa, Sevv, cyborg |
-| 2026-11-13 | deez | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.12 | 1.05 | +87.8 | 1zfo, Agust, Sausa, _STATS_, cyborg |
+| 2026-11-19 | Swole Patrol | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -1.5 | 1zfo, Sausa, Sevv, _STATS_, cyborg |
+| 2026-11-18 | barry pickers | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -7.0 | 1zfo, Agust, Sausa, Sevv, cyborg |
+| 2026-11-13 | deez | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.12 | 1.06 | +88.0 | 1zfo, Agust, Sausa, _STATS_, cyborg |
 | 2026-11-06 | Veniversum | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-11-05 | COGNITIVE | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.19 | 1.05 | +38.3 | 1zfo, Agust, Sausa, Sevv, _STATS_, vonix |
+| 2026-11-05 | COGNITIVE | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.19 | 1.06 | +38.3 | 1zfo, Agust, Sausa, Sevv, _STATS_, vonix |
 | 2026-11-04 | Team GREAT | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-10-30 | Feels MAIN Man | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.08 | 1.05 | +0.3 | 1zfo, Agust, Sausa, _STATS_, cyborg |
-| 2026-10-28 | fiveB | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.08 | 1.05 | +68.1 | 1zfo, Agust, Sausa, _STATS_, cyborg |
-| 2026-10-27 | After Peak | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.08 | 1.05 | +13.4 | 1zfo, Agust, Sausa, Sevv, cyborg |
-| 2026-10-21 | Cream Team | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.99 | 1.05 | 1.00 | 1.04 | 0.08 | 1.04 | +55.3 | 1zfo, Agust, Sausa, _STATS_, cyborg |
-| 2026-10-16 | Vlandian knights | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.96 | 1.05 | 1.00 | 1.01 | 0.00 | 0.00 | -4.5 | 1zfo, Agust, Sausa, _STATS_, cyborg |
-| 2026-10-14 | GOYPEEKING | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.05 | 1.00 | 0.99 | 0.00 | 0.00 | -120.6 | 1zfo, Agust, Sausa, Sevv, cyborg |
+| 2026-10-30 | Feels MAIN Man | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +0.3 | 1zfo, Agust, Sausa, _STATS_, cyborg |
+| 2026-10-28 | fiveB | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +68.2 | 1zfo, Agust, Sausa, _STATS_, cyborg |
+| 2026-10-27 | After Peak | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +13.3 | 1zfo, Agust, Sausa, Sevv, cyborg |
+| 2026-10-21 | Cream Team | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.99 | 1.06 | 1.00 | 1.05 | 0.08 | 1.05 | +55.3 | 1zfo, Agust, Sausa, _STATS_, cyborg |
+| 2026-10-16 | Vlandian knights | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.96 | 1.06 | 1.00 | 1.01 | 0.00 | 0.00 | -4.5 | 1zfo, Agust, Sausa, _STATS_, cyborg |
+| 2026-10-14 | GOYPEEKING | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.94 | 1.06 | 1.00 | 1.00 | 0.00 | 0.00 | -120.7 | 1zfo, Agust, Sausa, Sevv, cyborg |
 | 2026-10-07 | mokey mokey | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-09-15 | ODIN | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.75 | 1.04 | 1.00 | 0.78 | 0.00 | 0.00 | -73.1 | 1zfo, Agust, Sausa, cyborg, praze- |
-| 2026-09-08 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.71 | 1.04 | 1.00 | 0.73 | 0.00 | 0.00 | -107.7 | 1zfo, Agust, Sausa, _STATS_, cyborg |
-| 2026-09-06 | Double Poop Cheeseburger | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.69 | 1.04 | 1.00 | 0.72 | 0.02 | 0.72 | +88.6 | 1zfo, Agust, Sausa, Sevv, cyborg |
-| 2026-09-04 | Chuds | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.68 | 1.04 | 1.00 | 0.71 | 0.02 | 0.71 | +173.3 | 1zfo, Agust, Sausa, _STATS_, cyborg |
+| 2026-09-15 | ODIN | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.75 | 1.05 | 1.00 | 0.79 | 0.00 | 0.00 | -73.0 | 1zfo, Agust, Sausa, cyborg, praze- |
+| 2026-09-08 | Green Grove Retirement | L | 0-2 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.70 | 1.05 | 1.00 | 0.74 | 0.00 | 0.00 | -107.8 | 1zfo, Agust, Sausa, _STATS_, cyborg |
+| 2026-09-06 | Double Poop Cheeseburger | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.69 | 1.05 | 1.00 | 0.72 | 0.02 | 0.72 | +87.9 | 1zfo, Agust, Sausa, Sevv, cyborg |
+| 2026-09-04 | Chuds | W | 2-0 | S58 NA Open9-10 East - Playoffs C | C | faceit-league | 0.68 | 1.05 | 1.00 | 0.71 | 0.02 | 0.71 | +172.9 | 1zfo, Agust, Sausa, _STATS_, cyborg |
 
 _Snapshot 2026-11-21 | NARS v2 | CC BY-SA 4.0_
