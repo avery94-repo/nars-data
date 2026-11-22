@@ -3,17 +3,17 @@ Team Name: Old Dads Banging
 Roster: Extremogato, beanNess, The5Head, B0nkBro, meola
 NARS Rank: 438 of 439
 
-Final Rating: 504.1
-Seeded Start: 1152.8
-H2H Adjustment: -648.7
+Final Rating: 503.0
+Seeded Start: 1152.5
+H2H Adjustment: -649.5 (capped at +-300, raw -649.4)
 
-Final Rating (504.1) = Seeded Start (1152.8) + H2H Adjustment (-648.7)
+Final Rating (503.0) = Seeded Start (1152.5) + H2H Adjustment (-649.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.038 x 1400 = 1152.8
+                = 1100 + 0.037 x 1400 = 1152.5
 
-seed_factor 0.038 = 0.25 x Tier Exposure (0.027) + 0.50 x Quality Wins (0.009) + 0.25 x Opponent Network (0.106)
+seed_factor 0.037 = 0.25 x Tier Exposure (0.027) + 0.50 x Quality Wins (0.009) + 0.25 x Opponent Network (0.106)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -26,17 +26,17 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-08-28 | Sleepers | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.62 | 1.08 | 1.00 | 0.67 | 0.00 | 0.00 | -64.9 | B0nkBro, Extremogato, The5Head, beanNess, meola |
 | 2026-08-26 | Spin da block | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.08 | 1.00 | 0.66 | 0.00 | 0.00 | -119.8 | B0nkBro, Extremogato, The5Head, beanNess, meola |
-| 2026-08-21 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.08 | 1.00 | 0.62 | 0.00 | 0.00 | -52.1 | B0nkBro, Extremogato, The5Head, beanNess, meola |
+| 2026-08-21 | in for Blood | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.58 | 1.08 | 1.00 | 0.62 | 0.00 | 0.00 | -52.2 | B0nkBro, Extremogato, The5Head, beanNess, meola |
 | 2026-08-19 | Grandpa Berets | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.08 | 1.00 | 0.61 | 0.00 | 0.00 | -174.1 | B0nkBro, Extremogato, The5Head, beanNess, meola |
-| 2026-08-14 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.08 | 1.00 | 0.57 | 0.02 | 0.57 | +85.0 | B0nkBro, Extremogato, The5Head, beanNess, meola |
+| 2026-08-14 | In Our Prime | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.53 | 1.08 | 1.00 | 0.57 | 0.02 | 0.57 | +84.9 | B0nkBro, Extremogato, The5Head, beanNess, meola |
 | 2026-08-12 | SNOWPLOWERS | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.08 | 1.00 | 0.56 | 0.00 | 0.00 | -228.6 | B0nkBro, Extremogato, The5Head, Vitalityy_, meola |
-| 2026-08-07 | The Homies | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.08 | 1.00 | 0.52 | 0.08 | 0.52 | +161.9 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
+| 2026-08-07 | The Homies | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.48 | 1.08 | 1.00 | 0.52 | 0.08 | 0.52 | +161.5 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
 | 2026-08-05 | FLOW STATE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.08 | 1.00 | 0.51 | 0.00 | 0.00 | -9.0 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
-| 2026-07-31 | Gregs New Cut | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.44 | 1.08 | 1.00 | 0.47 | 0.00 | 0.00 | -84.2 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
+| 2026-07-31 | Gregs New Cut | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.44 | 1.08 | 1.00 | 0.47 | 0.00 | 0.00 | -84.1 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
 | 2026-07-29 | mas paspas | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.42 | 1.08 | 1.00 | 0.46 | 0.00 | 0.00 | -0.9 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
-| 2026-07-24 | REPORT MASSIVE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.39 | 1.08 | 1.00 | 0.42 | 0.00 | 0.00 | -143.7 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
-| 2026-07-22 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.38 | 1.08 | 1.00 | 0.41 | 0.03 | 0.41 | +97.9 | B0nkBro, Extremogato, b-enj-i, beanNess, meola |
-| 2026-07-17 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.34 | 1.08 | 1.00 | 0.37 | 0.00 | 0.00 | -80.1 | B0nkBro, Extremogato, The5Head, Vitalityy_, meola |
-| 2026-07-15 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.33 | 1.08 | 1.00 | 0.36 | 0.00 | 0.00 | -36.0 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
+| 2026-07-24 | REPORT MASSIVE | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.39 | 1.08 | 1.00 | 0.42 | 0.00 | 0.00 | -143.8 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
+| 2026-07-22 | HUMA | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.38 | 1.08 | 1.00 | 0.41 | 0.03 | 0.41 | +98.1 | B0nkBro, Extremogato, b-enj-i, beanNess, meola |
+| 2026-07-17 | Dude Picks | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.34 | 1.08 | 1.00 | 0.37 | 0.00 | 0.00 | -80.4 | B0nkBro, Extremogato, The5Head, Vitalityy_, meola |
+| 2026-07-15 | SquadUp | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.33 | 1.08 | 1.00 | 0.36 | 0.00 | 0.00 | -36.3 | B0nkBro, The5Head, Vitalityy_, beanNess, meola |
 
 _Snapshot 2026-11-22 | NARS v2 | CC BY-SA 4.0_

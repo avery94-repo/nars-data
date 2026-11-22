@@ -3,17 +3,17 @@ Team Name: Evade Gaming
 Roster: UnbrokeNNN, RoBiN_, nyxx-, Jwil, Reckless666
 NARS Rank: 43 of 439
 
-Final Rating: 1947.5
-Seeded Start: 1107.6
-H2H Adjustment: +839.9
+Final Rating: 1947.4
+Seeded Start: 1107.5
+H2H Adjustment: +839.9 (capped at +-300, raw +839.8)
 
-Final Rating (1947.5) = Seeded Start (1107.6) + H2H Adjustment (+839.9)
+Final Rating (1947.4) = Seeded Start (1107.5) + H2H Adjustment (+839.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.005 x 1400 = 1107.6
+                = 1100 + 0.005 x 1400 = 1107.5
 
-seed_factor 0.005 = 0.25 x Tier Exposure (0.005) + 0.50 x Quality Wins (0.000) + 0.25 x Opponent Network (0.017)
+seed_factor 0.005 = 0.25 x Tier Exposure (0.004) + 0.50 x Quality Wins (0.000) + 0.25 x Opponent Network (0.017)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)

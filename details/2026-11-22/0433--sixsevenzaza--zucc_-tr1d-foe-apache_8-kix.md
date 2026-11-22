@@ -3,15 +3,15 @@ Team Name: SixSevenZaZa
 Roster: Zucc_, Tr1d, foe, Apache_8, kix
 NARS Rank: 433 of 439
 
-Final Rating: 642.9
-Seeded Start: 1130.8
-H2H Adjustment: -487.9
+Final Rating: 642.1
+Seeded Start: 1130.6
+H2H Adjustment: -488.5 (capped at +-300, raw -488.4)
 
-Final Rating (642.9) = Seeded Start (1130.8) + H2H Adjustment (-487.9)
+Final Rating (642.1) = Seeded Start (1130.6) + H2H Adjustment (-488.5)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.022 x 1400 = 1130.8
+                = 1100 + 0.022 x 1400 = 1130.6
 
 seed_factor 0.022 = 0.25 x Tier Exposure (0.025) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.058)
 
@@ -30,10 +30,10 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-07 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.01 | 1.00 | 0.49 | 0.01 | 0.49 | +98.0 | Apache_8, Tr1d, Zucc_, foe, kix |
 | 2026-08-05 | Muncle | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.01 | 1.00 | 0.48 | 0.00 | 0.00 | -94.3 | HoodieMello, Tr1d, Zucc_, foe, kix |
 | 2026-07-31 | Big Kahuna Gaming | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.01 | 1.00 | 0.44 | 0.00 | 0.00 | -81.0 | HoodieMello, Tr1d, Zucc_, foe, kix |
-| 2026-07-29 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.01 | 1.00 | 0.43 | 0.00 | 0.00 | -15.5 | HoodieMello, Tr1d, Zucc_, foe, kix |
+| 2026-07-29 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.01 | 1.00 | 0.43 | 0.00 | 0.00 | -15.4 | HoodieMello, Tr1d, Zucc_, foe, kix |
 | 2026-07-24 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.39 | 1.01 | 1.00 | 0.40 | 0.00 | 0.00 | -131.4 | Chuwxe, Tr1d, Zucc_, foe, kix |
-| 2026-07-22 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.38 | 1.01 | 1.00 | 0.38 | 0.00 | 0.00 | -168.1 | Chuwxe, Tr1d, Zucc_, foe, kix |
-| 2026-07-17 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.34 | 1.01 | 1.00 | 0.35 | 0.00 | 0.00 | -201.9 | Chuwxe, Tr1d, Zucc_, foe, kix |
-| 2026-07-15 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.33 | 1.01 | 1.00 | 0.34 | 0.02 | 0.34 | +215.5 | Chuwxe, Tr1d, Zucc_, foe, kix |
+| 2026-07-22 | Firstwave | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.38 | 1.01 | 1.00 | 0.38 | 0.00 | 0.00 | -168.2 | Chuwxe, Tr1d, Zucc_, foe, kix |
+| 2026-07-17 | Sharp | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.34 | 1.01 | 1.00 | 0.35 | 0.00 | 0.00 | -202.2 | Chuwxe, Tr1d, Zucc_, foe, kix |
+| 2026-07-15 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.33 | 1.01 | 1.00 | 0.34 | 0.02 | 0.34 | +215.4 | Chuwxe, Tr1d, Zucc_, foe, kix |
 
 _Snapshot 2026-11-22 | NARS v2 | CC BY-SA 4.0_

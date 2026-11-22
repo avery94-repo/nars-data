@@ -3,17 +3,17 @@ Team Name: ClanAgain
 Roster: logan19961, Dan, techyyy, Its_Cryptic, Wayha
 NARS Rank: 230 of 439
 
-Final Rating: 1407.3
-Seeded Start: 1331.6
-H2H Adjustment: +75.7
+Final Rating: 1406.7
+Seeded Start: 1330.7
+H2H Adjustment: +76.0
 
-Final Rating (1407.3) = Seeded Start (1331.6) + H2H Adjustment (+75.7)
+Final Rating (1406.7) = Seeded Start (1330.7) + H2H Adjustment (+76.0)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.165 x 1400 = 1331.6
+                = 1100 + 0.165 x 1400 = 1330.7
 
-seed_factor 0.165 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.518)
+seed_factor 0.165 = 0.25 x Tier Exposure (0.073) + 0.50 x Quality Wins (0.034) + 0.25 x Opponent Network (0.519)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,16 +27,16 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-11-20 | Team Nyx | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +76.6 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
 | 2026-11-18 | mokey mokey | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -81.0 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
 | 2026-11-11 | muntos minions | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-11-05 | Mace Lindu Ruff Rebound | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.07 | 1.06 | +31.8 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
+| 2026-11-05 | Mace Lindu Ruff Rebound | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.07 | 1.06 | +31.7 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
 | 2026-10-30 | Will of Dih | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +53.0 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
 | 2026-10-28 | AML | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.09 | 1.06 | +3.1 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
 | 2026-10-21 | crazy minecraft hangover | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.98 | 1.06 | 1.00 | 1.04 | 0.00 | 0.00 | -85.4 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
-| 2026-10-16 | Team TahMeow | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.06 | 1.00 | 1.01 | 0.00 | 0.00 | -172.1 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
+| 2026-10-16 | Team TahMeow | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.95 | 1.06 | 1.00 | 1.01 | 0.00 | 0.00 | -172.2 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
 | 2026-10-09 | Kahoot Squad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.06 | 1.00 | 0.96 | 0.07 | 0.96 | +141.4 | Its_Cryptic, MSMIK, Wayha, logan19961, techyyy |
-| 2026-09-12 | WhiteBoyWinter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.77 | 0.00 | 0.00 | -100.5 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
-| 2026-09-10 | Casual Mature Gamers | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.71 | 1.06 | 1.00 | 0.76 | 0.06 | 0.76 | +111.5 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
+| 2026-09-12 | WhiteBoyWinter | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.72 | 1.06 | 1.00 | 0.77 | 0.00 | 0.00 | -100.6 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
+| 2026-09-10 | Casual Mature Gamers | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.71 | 1.06 | 1.00 | 0.76 | 0.05 | 0.76 | +111.4 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-06 | feet67 | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.68 | 1.06 | 1.00 | 0.73 | 0.00 | 0.00 | -125.4 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 | 2026-09-04 | KylianDictator | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.02 | 0.71 | +121.2 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
-| 2026-09-02 | lofi hip hop radio | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.02 | 0.70 | +100.2 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
+| 2026-09-02 | lofi hip hop radio | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.02 | 0.70 | +100.7 | Dan, Its_Cryptic, Wayha, logan19961, techyyy |
 
 _Snapshot 2026-11-22 | NARS v2 | CC BY-SA 4.0_

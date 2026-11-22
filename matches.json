@@ -1,5 +1,16 @@
 [
  {
+  "match_id": "hltv:2400736",
+  "date": "2026-11-22",
+  "competition": "CROSSFIRE Season 7",
+  "team_a": "Overtake Sector",
+  "team_b": "DETONATE",
+  "winner": "a",
+  "score": "2-1",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
   "match_id": "hltv:2400733",
   "date": "2026-11-21",
   "competition": "CROSSFIRE Season 7",

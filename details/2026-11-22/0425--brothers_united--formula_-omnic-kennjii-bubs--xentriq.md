@@ -3,15 +3,15 @@ Team Name: Brothers United
 Roster: forMula_, Omnic, kenNjii, bubs-, XentriQ
 NARS Rank: 425 of 439
 
-Final Rating: 750.5
-Seeded Start: 1117.0
-H2H Adjustment: -366.5
+Final Rating: 750.1
+Seeded Start: 1116.9
+H2H Adjustment: -366.8
 
-Final Rating (750.5) = Seeded Start (1117.0) + H2H Adjustment (-366.5)
+Final Rating (750.1) = Seeded Start (1116.9) + H2H Adjustment (-366.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.012 x 1400 = 1117.0
+                = 1100 + 0.012 x 1400 = 1116.9
 
 seed_factor 0.012 = 0.25 x Tier Exposure (0.017) + 0.50 x Quality Wins (0.002) + 0.25 x Opponent Network (0.027)
 
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-07-29 | Lan Bears | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.42 | 1.00 | 1.00 | 0.43 | 0.00 | 0.00 | -51.5 | -DavidTK-, Jman_Jman, XentriQ, bubs-, kenNjii |
-| 2026-07-24 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -238.9 | A1den, Omnic, XentriQ, bubs-, kenNjii |
-| 2026-07-22 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.03 | 0.38 | +254.9 | A1den, Omnic, XentriQ, bubs-, kenNjii |
-| 2026-07-20 | Qup Mana | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -24.3 | A1den, Omnic, XentriQ, bubs-, kenNjii |
-| 2026-07-15 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -306.7 | -DavidTK-, Omnic, XentriQ, forMula_, kenNjii |
+| 2026-07-24 | GOMI dot CLUB | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.39 | 1.00 | 1.00 | 0.39 | 0.00 | 0.00 | -238.8 | A1den, Omnic, XentriQ, bubs-, kenNjii |
+| 2026-07-22 | AML | W | 1-0 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.38 | 1.00 | 1.00 | 0.38 | 0.03 | 0.38 | +254.8 | A1den, Omnic, XentriQ, bubs-, kenNjii |
+| 2026-07-20 | Qup Mana | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.36 | 1.00 | 1.00 | 0.37 | 0.00 | 0.00 | -24.5 | A1den, Omnic, XentriQ, bubs-, kenNjii |
+| 2026-07-15 | flat earth | L | 0-1 | S58 NA Intermediate A - Regular Season | C | faceit-league | 0.33 | 1.00 | 1.00 | 0.33 | 0.00 | 0.00 | -306.8 | -DavidTK-, Omnic, XentriQ, forMula_, kenNjii |
 
 _Snapshot 2026-11-22 | NARS v2 | CC BY-SA 4.0_

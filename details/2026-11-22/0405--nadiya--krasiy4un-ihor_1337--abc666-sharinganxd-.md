@@ -3,17 +3,17 @@ Team Name: NADIYA
 Roster: krasiy4un, ihor_1337, -abc666, SharinganXD, dek1ing
 NARS Rank: 405 of 439
 
-Final Rating: 874.0
-Seeded Start: 1148.6
-H2H Adjustment: -274.6
+Final Rating: 873.0
+Seeded Start: 1148.3
+H2H Adjustment: -275.3
 
-Final Rating (874.0) = Seeded Start (1148.6) + H2H Adjustment (-274.6)
+Final Rating (873.0) = Seeded Start (1148.3) + H2H Adjustment (-275.3)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.035 x 1400 = 1148.6
+                = 1100 + 0.035 x 1400 = 1148.3
 
-seed_factor 0.035 = 0.25 x Tier Exposure (0.027) + 0.50 x Quality Wins (0.007) + 0.25 x Opponent Network (0.099)
+seed_factor 0.035 = 0.25 x Tier Exposure (0.026) + 0.50 x Quality Wins (0.006) + 0.25 x Opponent Network (0.099)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -28,12 +28,12 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-08-21 | Bird Squishers | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.58 | 1.07 | 1.00 | 0.62 | 0.00 | 0.00 | -65.4 | -hyperstaR, L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337 |
 | 2026-08-19 | Diamond Mental | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.56 | 1.07 | 1.00 | 0.60 | 0.00 | 0.00 | -95.0 | -hyperstaR, L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337 |
 | 2026-08-14 | STFDYSAB | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.53 | 1.07 | 1.00 | 0.57 | 0.00 | 0.00 | -10.8 | -hyperstaR, L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337 |
-| 2026-08-12 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.07 | 1.00 | 0.55 | 0.00 | 0.00 | -10.2 | -hyperstaR, L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337 |
+| 2026-08-12 | qcclan | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.52 | 1.07 | 1.00 | 0.55 | 0.00 | 0.00 | -10.3 | -hyperstaR, L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337 |
 | 2026-08-07 | crescent | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.48 | 1.07 | 1.00 | 0.52 | 0.00 | 0.00 | -148.2 | L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337, krasiy4un |
 | 2026-08-05 | Absent Minded | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.47 | 1.07 | 1.00 | 0.50 | 0.04 | 0.50 | +58.6 | -hyperstaR, SharinganXD, dek1ing, ihor_1337, krasiy4un |
-| 2026-07-29 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.42 | 1.07 | 1.00 | 0.45 | 0.01 | 0.45 | +34.4 | -hyperstaR, SharinganXD, dek1ing, ihor_1337, krasiy4un |
-| 2026-07-29 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.42 | 1.07 | 1.00 | 0.45 | 0.05 | 0.45 | +258.7 | -hyperstaR, SharinganXD, dek1ing, ihor_1337, krasiy4un |
-| 2026-07-22 | DingTone | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.38 | 1.07 | 1.00 | 0.40 | 0.00 | 0.00 | -234.4 | -hyperstaR, L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337, krasiy4un |
+| 2026-07-29 | shirtcockin | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.42 | 1.07 | 1.00 | 0.45 | 0.01 | 0.45 | +34.3 | -hyperstaR, SharinganXD, dek1ing, ihor_1337, krasiy4un |
+| 2026-07-29 | Aers Money Crew | W | 1-0 | S58 NA Main B - Regular Season | C | faceit-league | 0.42 | 1.07 | 1.00 | 0.45 | 0.04 | 0.45 | +258.5 | -hyperstaR, SharinganXD, dek1ing, ihor_1337, krasiy4un |
+| 2026-07-22 | DingTone | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.38 | 1.07 | 1.00 | 0.40 | 0.00 | 0.00 | -234.6 | -hyperstaR, L1Gh7n1nG1, SharinganXD, dek1ing, ihor_1337, krasiy4un |
 | 2026-07-15 | strawberry poptarts | L | 0-1 | S58 NA Main B - Regular Season | C | faceit-league | 0.33 | 1.07 | 1.00 | 0.35 | 0.00 | 0.00 | -2.3 | -hyperstaR, L1Gh7n1nG1, SharinganXD, dek1ing, krasiy4un |
 
 _Snapshot 2026-11-22 | NARS v2 | CC BY-SA 4.0_

@@ -3,17 +3,17 @@ Team Name: NetanYAHOO
 Roster: PaQeZ, Treaux_, drippppp, ian-, CHEF-GEORGE
 NARS Rank: 244 of 439
 
-Final Rating: 1364.2
-Seeded Start: 1370.0
-H2H Adjustment: -5.8
+Final Rating: 1363.5
+Seeded Start: 1368.9
+H2H Adjustment: -5.4
 
-Final Rating (1364.2) = Seeded Start (1370.0) + H2H Adjustment (-5.8)
+Final Rating (1363.5) = Seeded Start (1368.9) + H2H Adjustment (-5.4)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.193 x 1400 = 1370.0
+                = 1100 + 0.192 x 1400 = 1368.9
 
-seed_factor 0.193 = 0.25 x Tier Exposure (0.080) + 0.50 x Quality Wins (0.040) + 0.25 x Opponent Network (0.611)
+seed_factor 0.192 = 0.25 x Tier Exposure (0.078) + 0.50 x Quality Wins (0.040) + 0.25 x Opponent Network (0.611)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,23 +27,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-11-20 | COGNITIVE | L | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-11-18 | ASCEND | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -26.8 | PaQeZ, Topolino, Treaux_, drippppp, ian- |
 | 2026-11-13 | Fire Nation | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -52.8 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
-| 2026-11-11 | The ESEA Clout Tokens | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +70.3 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
+| 2026-11-11 | The ESEA Clout Tokens | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +70.2 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-11-06 | The Kerbins | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -123.3 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-11-04 | Team Nyx | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +57.6 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-10-30 | PogSquad | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +45.7 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-10-29 | Mongolian Tractor | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +34.9 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
-| 2026-10-28 | Afterimage | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +136.1 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
+| 2026-10-28 | Afterimage | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +136.0 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-10-21 | Muncle | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.98 | 1.06 | 1.00 | 1.04 | 0.07 | 1.04 | +1.5 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-10-14 | Casipanther | W | W/O | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.94 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-10-14 | mokey mokey | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.94 | 1.06 | 1.00 | 0.99 | 0.00 | 0.00 | -12.0 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
-| 2026-10-09 | Veniversum | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.06 | 1.00 | 0.96 | 0.00 | 0.00 | -64.7 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
+| 2026-10-09 | Veniversum | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.06 | 1.00 | 0.96 | 0.00 | 0.00 | -64.8 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
 | 2026-09-10 | HIGHPOINT | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.71 | 1.11 | 1.00 | 0.79 | 0.06 | 0.79 | +21.1 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
-| 2026-09-08 | ERICKFARRAR | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.70 | 1.11 | 1.00 | 0.78 | 0.02 | 0.78 | +137.5 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
-| 2026-09-06 | The High Crew | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.68 | 1.11 | 1.00 | 0.76 | 0.02 | 0.76 | +242.0 | CHEF-GEORGE, PaQeZ, Topolino, drippppp, ian- |
+| 2026-09-08 | ERICKFARRAR | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.70 | 1.11 | 1.00 | 0.78 | 0.02 | 0.78 | +137.4 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
+| 2026-09-06 | The High Crew | W | 2-0 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.68 | 1.11 | 1.00 | 0.76 | 0.02 | 0.76 | +241.9 | CHEF-GEORGE, PaQeZ, Topolino, drippppp, ian- |
 | 2026-09-02 | Piggy LLC | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.66 | 1.11 | 1.00 | 0.73 | 0.00 | 0.00 | -154.0 | CHEF-GEORGE, PaQeZ, Treaux_, drippppp, ian- |
-| 2026-06-12 | retirement home | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -385.6 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
+| 2026-06-12 | retirement home | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.11 | 1.00 | 1.00 | 0.11 | 0.00 | 0.00 | -385.5 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
 | 2026-06-03 | JPG | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.05 | 1.00 | 1.00 | 0.05 | 0.00 | 0.00 | -261.2 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
-| 2026-05-29 | The Third Eye | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +242.9 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
-| 2026-05-27 | gummyx mentality | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +83.6 | CHEF-GEORGE, Nud0, Treaux_, drippppp, ian- |
+| 2026-05-29 | The Third Eye | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.02 | +242.7 | CHEF-GEORGE, Nud0, PaQeZ, drippppp, ian- |
+| 2026-05-27 | gummyx mentality | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +84.4 | CHEF-GEORGE, Nud0, Treaux_, drippppp, ian- |
 
 _Snapshot 2026-11-22 | NARS v2 | CC BY-SA 4.0_

@@ -3,17 +3,17 @@ Team Name: House Platypus ESC
 Roster: Bruse, yreva, M0nstr, tangz, Latt
 NARS Rank: 57 of 439
 
-Final Rating: 1849.7
-Seeded Start: 1512.8
-H2H Adjustment: +336.9 (capped at +-300, raw +337.0)
+Final Rating: 1847.1
+Seeded Start: 1510.3
+H2H Adjustment: +336.8 (capped at +-300, raw +336.7)
 
-Final Rating (1849.7) = Seeded Start (1512.8) + H2H Adjustment (+336.9)
+Final Rating (1847.1) = Seeded Start (1510.3) + H2H Adjustment (+336.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.295 x 1400 = 1512.8
+                = 1100 + 0.293 x 1400 = 1510.3
 
-seed_factor 0.295 = 0.25 x Tier Exposure (0.098) + 0.50 x Quality Wins (0.137) + 0.25 x Opponent Network (0.808)
+seed_factor 0.293 = 0.25 x Tier Exposure (0.096) + 0.50 x Quality Wins (0.135) + 0.25 x Opponent Network (0.808)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -24,23 +24,23 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-11-20 | FlyQuest RED | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.67 | 1.49 | +75.5 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
+| 2026-11-20 | FlyQuest RED | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.66 | 1.49 | +75.6 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
 | 2026-11-18 | Addice | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.28 | 1.49 | +33.7 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
-| 2026-11-12 | NXG Esports | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.22 | 1.49 | +54.4 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
+| 2026-11-12 | NXG Esports | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.21 | 1.49 | +54.4 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
 | 2026-11-11 | Beyond Limits | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.00 | 0.00 | -31.4 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
-| 2026-11-11 | NZ Gaming | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.14 | 1.49 | +65.0 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
+| 2026-11-11 | NZ Gaming | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.13 | 1.49 | +65.1 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
 | 2026-11-03 | Phantom Sense | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.00 | 0.00 | -43.1 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
 | 2026-10-31 | Villainous | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.00 | 0.00 | -1.9 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
-| 2026-10-28 | KODEX ESPORTS | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.27 | 1.49 | +51.4 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
+| 2026-10-28 | KODEX ESPORTS | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.26 | 1.49 | +51.4 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
 | 2026-10-28 | Club 333 | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.49 | 1.00 | 1.49 | 0.00 | 0.00 | -68.1 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
-| 2026-10-20 | firesale | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.98 | 1.49 | 1.00 | 1.46 | 0.14 | 1.46 | +169.2 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
-| 2026-10-14 | Shadow Wizard Money Gang | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.94 | 1.49 | 1.00 | 1.40 | 0.14 | 1.40 | +236.9 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
+| 2026-10-20 | firesale | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.98 | 1.49 | 1.00 | 1.46 | 0.14 | 1.46 | +169.3 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
+| 2026-10-14 | Shadow Wizard Money Gang | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.94 | 1.49 | 1.00 | 1.40 | 0.13 | 1.40 | +236.8 | BaII, Latt, _-JAKEY-_, jacob-uwu, yreva |
 | 2026-10-09 | regain | W | W/O | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-08-26 | Elation | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.49 | 1.00 | 0.91 | 0.00 | 0.00 | -64.9 | Latt, M0nstr, _-JAKEY-_, m4rley, yreva |
-| 2026-08-25 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.49 | 1.00 | 0.90 | 0.00 | 0.00 | -106.1 | Latt, M0nstr, PurnrplPanda, _-JAKEY-_, yreva |
+| 2026-08-26 | Elation | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.61 | 1.49 | 1.00 | 0.91 | 0.00 | 0.00 | -65.1 | Latt, M0nstr, _-JAKEY-_, m4rley, yreva |
+| 2026-08-25 | KODEX ESPORTS | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.49 | 1.00 | 0.90 | 0.00 | 0.00 | -106.2 | Latt, M0nstr, PurnrplPanda, _-JAKEY-_, yreva |
 | 2026-08-19 | Endless Esports | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.49 | 1.00 | 0.84 | 0.00 | 0.00 | -28.4 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
-| 2026-07-31 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.44 | 1.49 | 1.00 | 0.65 | 0.00 | 0.00 | -161.9 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
-| 2026-07-29 | Ex-Tricksters | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.42 | 1.49 | 1.00 | 0.63 | 0.02 | 0.63 | +101.9 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
-| 2026-07-17 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.34 | 1.49 | 1.00 | 0.51 | 0.07 | 0.51 | +53.3 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
+| 2026-07-31 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.44 | 1.49 | 1.00 | 0.65 | 0.00 | 0.00 | -162.0 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
+| 2026-07-29 | Ex-Tricksters | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.42 | 1.49 | 1.00 | 0.63 | 0.02 | 0.63 | +101.2 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
+| 2026-07-17 | Demolition | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.34 | 1.49 | 1.00 | 0.51 | 0.07 | 0.51 | +53.8 | Latt, M0nstr, S8int, _-JAKEY-_, yreva |
 
 _Snapshot 2026-11-22 | NARS v2 | CC BY-SA 4.0_
