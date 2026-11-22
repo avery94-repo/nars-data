@@ -1,0 +1,42 @@
+### Roster Details
+Team Name: The Kerbins
+Roster: SKiiYii, -pen, Ajikanfan43, Salmon180, sA_
+NARS Rank: 195 of 439
+
+Final Rating: 1489.4
+Seeded Start: 1337.7
+H2H Adjustment: +151.7
+
+Final Rating (1489.4) = Seeded Start (1337.7) + H2H Adjustment (+151.7)
+
+#### Seeded Start
+Starting rating = 1100 + seed_factor x 1400
+                = 1100 + 0.170 x 1400 = 1337.7
+
+seed_factor 0.170 = 0.25 x Tier Exposure (0.076) + 0.50 x Quality Wins (0.039) + 0.25 x Opponent Network (0.525)
+
+- Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
+- Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
+- Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Matches (14 qualifying)
+Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
+
+| Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
+| :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
+| 2026-11-20 | O Fire | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -46.0 | Ajikanfan43, SKiiYii, Salmon180, biel, vaulk |
+| 2026-11-18 | ItAintOverYet | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +87.5 | -pen, Ajikanfan43, SKiiYii, Salmon180, biel |
+| 2026-11-11 | Adria eSports | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +113.4 | Ajikanfan43, SKiiYii, biel, sA_, vaulk |
+| 2026-11-06 | NetanYAHOO | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +127.5 | -pen, Ajikanfan43, SKiiYii, Salmon180, biel |
+| 2026-11-05 | Eightball | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -69.8 | -pen, Ajikanfan43, SKiiYii, Salmon180, biel |
+| 2026-11-04 | MONARCH | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +91.6 | -pen, Ajikanfan43, Salmon180, biel, sA_ |
+| 2026-10-30 | AML | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.09 | 1.06 | +18.5 | -pen, Ajikanfan43, Salmon180, biel, sA_ |
+| 2026-10-21 | monitor off | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.98 | 1.06 | 1.00 | 1.04 | 0.00 | 0.00 | -259.8 | -pen, Ajikanfan43, Salmon180, sA_, vaulk |
+| 2026-10-09 | Defaulting | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.90 | 1.06 | 1.00 | 0.96 | 0.00 | 0.00 | -186.4 | -pen, Ajikanfan43, Salmon180, biel, sA_ |
+| 2026-09-18 | Fire Nation | L | 1-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.77 | 1.06 | 1.00 | 0.81 | 0.00 | 0.00 | -46.4 | -pen, -reek, Ajikanfan43, SKiiYii, keek-, sA_ |
+| 2026-09-10 | feet67 | L | 0-2 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.71 | 1.06 | 1.00 | 0.76 | 0.00 | 0.00 | -140.7 | -pen, Ajikanfan43, SKiiYii, Salmon180, sA_ |
+| 2026-09-08 | Vlandian knights | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.70 | 1.06 | 1.00 | 0.74 | 0.10 | 0.74 | +233.6 | -pen, Ajikanfan43, SKiiYii, Salmon180, keek-, sA_ |
+| 2026-09-04 | Team Canada CS2 | W | 2-1 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.67 | 1.06 | 1.00 | 0.71 | 0.02 | 0.71 | +117.7 | -pen, Ajikanfan43, SKiiYii, Salmon180, keek-, sA_ |
+| 2026-09-02 | Against Odds | W | 2-0 | S58 NA Open9-10 East - Playoffs B | C | faceit-league | 0.66 | 1.06 | 1.00 | 0.70 | 0.02 | 0.70 | +111.0 | -pen, Ajikanfan43, SKiiYii, Salmon180, sA_ |
+
+_Snapshot 2026-11-22 | NARS v2 | CC BY-SA 4.0_

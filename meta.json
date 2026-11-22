@@ -1,18 +1,18 @@
 {
  "schema_version": 2,
- "snapshot": "2026-11-21T18:49:30.011823+00:00",
- "exported_at": "2026-11-21T18:50:05Z",
+ "snapshot": "2026-11-22T10:06:30.811711+00:00",
+ "exported_at": "2026-11-22T10:07:08Z",
  "engine": "nars-v2 (seeding + H2H w/ diminishing returns + forfeit protection)",
  "window_days": 180,
  "matches_qualifying": 5517,
- "matches_exported": 5517,
+ "matches_exported": 5516,
  "matches_by_source": {
   "hltv": 100,
   "faceit-league": 4583,
   "liquipedia": 15,
   "tosheet": 10,
   "faceit-tournament": 448,
-  "vrs": 361
+  "vrs": 360
  },
  "teams_ranked": 439,
  "teams_provisional": 427,

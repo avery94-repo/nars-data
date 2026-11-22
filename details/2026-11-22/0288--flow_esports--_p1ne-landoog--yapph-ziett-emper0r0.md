@@ -1,0 +1,60 @@
+### Roster Details
+Team Name: Flow Esports
+Roster: _p1ne, LandoOG, -Yapph, ziett, emper0r0
+NARS Rank: 288 of 439
+
+Final Rating: 1273.4
+Seeded Start: 1374.6
+H2H Adjustment: -101.2
+
+Final Rating (1273.4) = Seeded Start (1374.6) + H2H Adjustment (-101.2)
+
+#### Seeded Start
+Starting rating = 1100 + seed_factor x 1400
+                = 1100 + 0.196 x 1400 = 1374.6
+
+seed_factor 0.196 = 0.25 x Tier Exposure (0.101) + 0.50 x Quality Wins (0.058) + 0.25 x Opponent Network (0.568)
+
+- Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
+- Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
+- Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Matches (32 qualifying)
+Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
+
+| Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
+| :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
+| 2026-11-20 | Tractors | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.18 | 1.05 | +77.8 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-11-18 | MakeYouSayLate | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.10 | 1.05 | +27.7 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-11-13 | Shaboing Boing Bandits | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.11 | 1.05 | +95.8 | -Yapph, LandoOG, MrJFaTaL, _p1ne, emper0r0 |
+| 2026-11-11 | Chopped | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -23.9 | -Yapph, LandoOG, MrJFaTaL, _p1ne, emper0r0 |
+| 2026-11-06 | Sassy Sunshines | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -52.9 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-11-05 | Kaos | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -43.3 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-10-30 | Strafe | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.15 | 1.05 | +50.0 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-10-28 | Torii | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.05 | 1.00 | 1.05 | 0.00 | 0.00 | -2.6 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-10-28 | Goyim Gladiators | W | W/O | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
+| 2026-10-21 | Cadillac F1 eSports Team | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.98 | 1.05 | 1.00 | 1.04 | 0.07 | 1.04 | +50.3 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-10-14 | Armored Talent | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.94 | 1.05 | 1.00 | 0.99 | 0.00 | 0.00 | -5.2 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-10-09 | DESPAIR | W | W/O | S59 NA Main A - Regular Season | C | faceit-league | 0.90 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
+| 2026-10-07 | Kinetic | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.05 | 1.00 | 0.94 | 0.00 | 0.00 | -158.6 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-09-06 | walkthemdown | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.68 | 1.02 | 1.00 | 0.70 | 0.00 | 0.00 | -31.9 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
+| 2026-09-04 | Big Fish | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.67 | 1.02 | 1.00 | 0.69 | 0.07 | 0.69 | +87.2 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
+| 2026-09-02 | Kevin James Fan Club | L | 0-2 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.66 | 1.02 | 1.00 | 0.67 | 0.00 | 0.00 | -3.6 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
+| 2026-08-28 | Aetheris | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.01 | 1.00 | 0.63 | 0.00 | 0.00 | -124.3 | -chb, LandoOG, MrJFaTaL, emper0r0, ziett |
+| 2026-08-26 | FLying PiGs | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.61 | 1.01 | 1.00 | 0.62 | 0.04 | 0.62 | +140.6 | -chb, LandoOG, MrJFaTaL, emper0r0, ziett |
+| 2026-08-21 | UltimateDarklordWizardz | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.58 | 1.01 | 1.00 | 0.59 | 0.00 | 0.00 | -2.1 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
+| 2026-08-19 | Mach 5 | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.01 | 1.00 | 0.57 | 0.00 | 0.00 | -127.3 | LandoOG, MrJFaTaL, _p1ne, emper0r0, ziett |
+| 2026-08-12 | Thrash | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.01 | 1.00 | 0.53 | 0.04 | 0.53 | +2.2 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-08-07 | Mach 10 | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.48 | 1.01 | 1.00 | 0.49 | 0.03 | 0.49 | +151.4 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-08-05 | It Doesnt Matter | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.47 | 1.01 | 1.00 | 0.48 | 0.04 | 0.48 | +290.7 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-07-31 | Benadryl Abusers | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.44 | 1.01 | 1.00 | 0.44 | 0.00 | 0.00 | -61.7 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-07-29 | NOVAIR | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.01 | 1.00 | 0.43 | 0.00 | 0.00 | -159.0 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-07-24 | High-Tech Performance | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.39 | 1.01 | 1.00 | 0.40 | 0.00 | 0.00 | -326.9 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
+| 2026-07-22 | Knight Owls | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.38 | 1.01 | 1.00 | 0.38 | 0.03 | 0.38 | +113.2 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
+| 2026-07-17 | The Sweepers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.34 | 1.01 | 1.00 | 0.35 | 0.03 | 0.35 | +260.3 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
+| 2026-07-15 | Remnant | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.33 | 1.01 | 1.00 | 0.34 | 0.00 | 0.00 | -420.0 | -Yapph, NyKo_, _p1ne, emper0r0, ziett |
+| 2026-06-10 | Slime Time | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.10 | 1.00 | 1.00 | 0.10 | 0.00 | 0.10 | +247.0 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-05-29 | D1NK Esports | L | 0-2 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.02 | 1.00 | 1.00 | 0.02 | 0.00 | 0.00 | -235.4 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+| 2026-05-27 | hachimi | W | 2-1 | S57 NA Open9-10 Central - Playoffs B | C | faceit-league | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +80.4 | -Yapph, LandoOG, _p1ne, emper0r0, ziett |
+
+_Snapshot 2026-11-22 | NARS v2 | CC BY-SA 4.0_
