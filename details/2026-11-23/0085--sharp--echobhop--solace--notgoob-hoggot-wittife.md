@@ -1,0 +1,61 @@
+### Roster Details
+Team Name: Sharp
+Roster: EchoBHOP, -solacE-, NotGoob, hoggot, Wittifer
+NARS Rank: 85 of 433
+
+Final Rating: 1738.6
+Seeded Start: 1437.5
+H2H Adjustment: +301.1
+
+Final Rating (1738.6) = Seeded Start (1437.5) + H2H Adjustment (+301.1)
+
+#### Seeded Start
+Starting rating = 1100 + seed_factor x 1400
+                = 1100 + 0.241 x 1400 = 1437.5
+
+seed_factor 0.241 = 0.25 x Tier Exposure (0.168) + 0.50 x Quality Wins (0.080) + 0.25 x Opponent Network (0.636)
+
+- Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
+- Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
+- Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Matches (33 qualifying)
+Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
+
+| Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
+| :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
+| 2026-11-20 | firesale | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.51 | 1.00 | 1.51 | 0.15 | 1.51 | +24.9 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-11-18 | Fathom Gaming | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.51 | 1.00 | 1.51 | 0.00 | 0.00 | -77.7 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-11-11 | EXODIA | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.51 | 1.00 | 1.51 | 0.00 | 0.00 | -18.7 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-11-11 | Feistein | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.51 | 1.00 | 1.51 | 0.00 | 0.00 | -28.9 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-11-04 | DUMBO | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.51 | 1.00 | 1.51 | 0.18 | 1.51 | +43.0 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-11-02 | flat earth | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.51 | 1.00 | 1.51 | 0.00 | 0.00 | -62.4 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-10-28 | MASTER ONE | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.51 | 1.00 | 1.51 | 0.00 | 0.00 | -102.8 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-10-21 | Hairy Scary Bandits | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.98 | 1.51 | 1.00 | 1.47 | 0.24 | 1.47 | +90.6 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-10-19 | Demolition | W | W/O | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.96 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
+| 2026-10-14 | mas paspas | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.93 | 1.51 | 1.00 | 1.40 | 0.00 | 0.00 | -115.2 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-10-09 | Slimy Boogermen | W | W/O | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.90 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
+| 2026-09-25 | Marsborne | L |  | VRS-tracked 2026-09 | A | vrs | 0.80 | 1.60 | 1.00 | 1.29 | 0.00 | 0.00 | -1.2 | core 3/5 |
+| 2026-09-10 | Tacos Tiramisu and Lies | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.70 | 1.03 | 1.00 | 0.72 | 0.13 | 0.00 | +19.1 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-09-08 | ABG Esports | W | 2-1 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.69 | 1.03 | 1.00 | 0.71 | 0.08 | 0.71 | +21.3 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-09-06 | Kevin James Fan Club | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.68 | 1.03 | 1.00 | 0.70 | 0.07 | 0.70 | +41.4 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-09-04 | NOVAIR | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.66 | 1.03 | 1.00 | 0.68 | 0.04 | 0.68 | +4.1 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-09-02 | Strafe | W | 2-0 | S58 NA Intermediate Central - Playoffs B | B | faceit-league | 0.65 | 1.03 | 1.00 | 0.67 | 0.09 | 0.67 | +0.5 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-08-28 | Midwest Farmers | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.62 | 1.02 | 1.00 | 0.63 | 0.06 | 0.63 | +48.2 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-08-26 | Anchors Anonymous | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.60 | 1.02 | 1.00 | 0.62 | 0.03 | 0.62 | +42.3 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-08-21 | D1NK Esports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.57 | 1.02 | 1.00 | 0.58 | 0.06 | 0.58 | +21.0 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-08-19 | Team Auspex | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.56 | 1.02 | 1.00 | 0.57 | 0.00 | 0.00 | -185.2 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-08-14 | Kevin James Fan Club | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.52 | 1.02 | 1.00 | 0.53 | 0.05 | 0.00 | +120.6 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-08-12 | walkthemdown | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.51 | 1.02 | 1.00 | 0.52 | 0.03 | 0.52 | +88.7 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-08-11 | Tacos Tiramisu and Lies | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.50 | 1.02 | 1.00 | 0.51 | 0.09 | 0.51 | +197.8 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-08-05 | HiveMind | L | 0-1 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.46 | 1.02 | 1.00 | 0.47 | 0.00 | 0.00 | -181.7 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-07-31 | We Play Naked | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.43 | 1.02 | 1.00 | 0.44 | 0.04 | 0.44 | +3.6 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-07-29 | The Ohio Meat Wagon | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.42 | 1.02 | 1.00 | 0.43 | 0.02 | 0.43 | +105.8 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-07-24 | Atlantis eSports | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.38 | 1.02 | 1.00 | 0.39 | 0.01 | 0.39 | +142.7 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-07-22 | Strafe | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.37 | 1.02 | 1.00 | 0.38 | 0.05 | 0.00 | +0.9 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-07-17 | SixSevenZaZa | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.34 | 1.02 | 1.00 | 0.34 | 0.01 | 0.34 | +191.2 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-07-15 | Shaq Diesel | W | 1-0 | S58 NA Intermediate B - Regular Season | C | faceit-league | 0.32 | 1.02 | 1.00 | 0.33 | 0.01 | 0.33 | +234.0 | -solacE-, EchoBHOP, NotGoob, Wittifer, hoggot |
+| 2026-06-02 | COORSTHEOREM | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.04 | 1.12 | 1.00 | 0.04 | 0.00 | 0.00 | -209.6 | EchoBHOP, Grabblololo, Wittifer, hoggot, mizery |
+| 2026-05-29 | Diggers | L | 0-2 | S57 NA Open9-10 Central - Playoffs A | C | faceit-league | 0.01 | 1.12 | 1.00 | 0.01 | 0.00 | 0.00 | -160.3 | EchoBHOP, Grabblololo, Wittifer, hoggot, mizery |
+
+_Snapshot 2026-11-23 | NARS v2 | CC BY-SA 4.0_
