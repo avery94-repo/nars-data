@@ -1,19 +1,19 @@
 ### Roster Details
 Team Name: Asoka
 Roster: tanner, fa0, Bojangles12, zagz, Ka8oom
-NARS Rank: 78 of 430
+NARS Rank: 78 of 433
 
-Final Rating: 1764.8
-Seeded Start: 1446.8
-H2H Adjustment: +318.0
+Final Rating: 1764.7
+Seeded Start: 1445.5
+H2H Adjustment: +319.2
 
-Final Rating (1764.8) = Seeded Start (1446.8) + H2H Adjustment (+318.0)
+Final Rating (1764.7) = Seeded Start (1445.5) + H2H Adjustment (+319.2)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.248 x 1400 = 1446.8
+                = 1100 + 0.247 x 1400 = 1445.5
 
-seed_factor 0.248 = 0.25 x Tier Exposure (0.169) + 0.50 x Quality Wins (0.070) + 0.25 x Opponent Network (0.682)
+seed_factor 0.247 = 0.25 x Tier Exposure (0.169) + 0.50 x Quality Wins (0.070) + 0.25 x Opponent Network (0.679)
 
 - Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
 - Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
@@ -27,43 +27,43 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | 2026-11-23 | bye | W | W/O | S59 NA Main Playoffs A - Playoffs | B | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
 | 2026-11-20 | Kings Gambit | L | W/O | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
 | 2026-11-18 | Kinetic | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.10 | 1.06 | +41.5 | Bojangles12, Ka8oom, fa0, steel666, tanner |
-| 2026-11-13 | Read You Like a Kindle | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -59.9 | Ka8oom, fa0, steel666, tanner, zagz |
+| 2026-11-13 | Read You Like a Kindle | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -60.0 | Ka8oom, fa0, steel666, tanner, zagz |
 | 2026-11-11 | WaterDrinkers | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.11 | 1.06 | +6.7 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-11-06 | Shadow Wizard Money Gang | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.07 | 1.06 | +15.7 | Ka8oom, fa0, steel666, tanner, zagz |
 | 2026-11-04 | offBalance | L | W/O | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
-| 2026-10-30 | GOOZPEEK | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.07 | 1.06 | +105.6 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-10-30 | GOOZPEEK | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.07 | 1.06 | +105.9 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-10-28 | DESPAIR | W | W/O | S59 NA Main A - Regular Season | C | faceit-league | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | +1.5 | core 3/5 |
-| 2026-10-21 | Team Amplus | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.97 | 1.06 | 1.00 | 1.03 | 0.00 | 0.00 | -162.9 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-10-16 | Binky | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.94 | 1.06 | 1.00 | 0.99 | 0.10 | 0.99 | +55.6 | -Maverickk, fa0, steel666, tanner, zagz |
+| 2026-10-21 | Team Amplus | L | 0-1 | S59 NA Main A - Regular Season | C | faceit-league | 0.97 | 1.06 | 1.00 | 1.03 | 0.00 | 0.00 | -163.4 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-10-16 | Binky | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.94 | 1.06 | 1.00 | 0.99 | 0.10 | 0.99 | +55.5 | -Maverickk, fa0, steel666, tanner, zagz |
 | 2026-10-14 | SwagMonkeyHats | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.92 | 1.06 | 1.00 | 0.98 | 0.17 | 0.98 | +1.3 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-10-09 | Texas Orange | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.89 | 1.06 | 1.00 | 0.94 | 0.07 | 0.94 | +1.5 | Bojangles12, Ka8oom, steel666, tanner, zagz |
-| 2026-10-07 | Exnitas | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.06 | 1.00 | 0.93 | 0.09 | 0.93 | +12.2 | Bojangles12, Ka8oom, steel666, tanner, zagz |
-| 2026-09-17 | Kairo | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.74 | 1.14 | 1.00 | 0.84 | 0.00 | 0.00 | -75.2 | Bojangles12, Ka8oom, Kaema-_-, tanner, zagz |
-| 2026-09-15 | Read You Like a Kindle | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.73 | 1.14 | 1.00 | 0.83 | 0.09 | 0.83 | +73.2 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-09-08 | Sedated | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.68 | 1.14 | 1.00 | 0.78 | 0.00 | 0.00 | -44.3 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-09-06 | Wolves | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.67 | 1.14 | 1.00 | 0.76 | 0.10 | 0.76 | +84.9 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-09-04 | No Leaders Please | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.66 | 1.14 | 1.00 | 0.75 | 0.07 | 0.75 | +137.7 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-08-30 | YHUBEPCAM | L | 0-1 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -182.0 | 54d86a59, Bojangles12, Ka8oom, fa0, zagz |
+| 2026-10-07 | Exnitas | W | 1-0 | S59 NA Main A - Regular Season | C | faceit-league | 0.88 | 1.06 | 1.00 | 0.93 | 0.09 | 0.93 | +12.1 | Bojangles12, Ka8oom, steel666, tanner, zagz |
+| 2026-09-17 | Kairo | L | 0-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.74 | 1.14 | 1.00 | 0.84 | 0.00 | 0.00 | -75.7 | Bojangles12, Ka8oom, Kaema-_-, tanner, zagz |
+| 2026-09-15 | Read You Like a Kindle | W | 2-1 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.73 | 1.14 | 1.00 | 0.83 | 0.09 | 0.83 | +73.5 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-09-08 | Sedated | L | 1-2 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.68 | 1.14 | 1.00 | 0.77 | 0.00 | 0.00 | -44.0 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-09-06 | Wolves | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.67 | 1.14 | 1.00 | 0.76 | 0.10 | 0.76 | +85.2 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-09-04 | No Leaders Please | W | 2-0 | S58 NA Main Central - Playoffs A | B | faceit-league | 0.66 | 1.14 | 1.00 | 0.74 | 0.07 | 0.74 | +137.9 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-08-30 | YHUBEPCAM | L | 0-1 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.00 | 0.00 | -182.8 | 54d86a59, Bojangles12, Ka8oom, fa0, zagz |
 | 2026-08-29 | HeadShot Esports | W | 1-0 | Bish Bash Bosh ( knife giveaway live) | C | faceit-tournament | 0.62 | 1.00 | 1.00 | 0.62 | 0.07 | 0.62 | +0.8 | 54d86a59, Bojangles12, Ka8oom, fa0, zagz |
-| 2026-08-28 | absolute cinema | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.09 | 1.00 | 0.66 | 0.04 | 0.66 | +157.9 | Ka8oom, Kaema-_-, fa0, tanner, zagz |
-| 2026-08-26 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.09 | 1.00 | 0.65 | 0.00 | 0.00 | -51.7 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-08-21 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.09 | 1.00 | 0.61 | 0.00 | 0.00 | -141.6 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-08-19 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.55 | 1.09 | 1.00 | 0.60 | 0.00 | 0.00 | -107.1 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-08-14 | Kairo | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.09 | 1.00 | 0.56 | 0.06 | 0.56 | +25.6 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-08-28 | absolute cinema | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.61 | 1.09 | 1.00 | 0.66 | 0.04 | 0.66 | +158.7 | Ka8oom, Kaema-_-, fa0, tanner, zagz |
+| 2026-08-26 | Wolves | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.60 | 1.09 | 1.00 | 0.65 | 0.00 | 0.00 | -51.3 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-08-21 | Skyline | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.56 | 1.09 | 1.00 | 0.61 | 0.00 | 0.00 | -141.7 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-08-19 | noname | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.55 | 1.09 | 1.00 | 0.60 | 0.00 | 0.00 | -107.4 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-08-14 | Kairo | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.52 | 1.09 | 1.00 | 0.56 | 0.06 | 0.56 | +25.4 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-08-12 | Resurgence | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.50 | 1.09 | 1.00 | 0.55 | 0.05 | 0.55 | +5.5 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-08-07 | Abusement Park | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.09 | 1.00 | 0.51 | 0.03 | 0.51 | +206.2 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
-| 2026-08-05 | TenToesDown | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.46 | 1.09 | 1.00 | 0.50 | 0.05 | 0.50 | +319.8 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-08-01 | F5 Esports | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.44 | 1.18 | 1.00 | 0.51 | 0.00 | 0.00 | -203.5 | Bojangles12, DeuzzsCS, Ka8oom, fa0, steel666 |
-| 2026-07-31 | DKR Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.42 | 1.09 | 1.00 | 0.46 | 0.00 | 0.00 | -190.7 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-07-29 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.41 | 1.09 | 1.00 | 0.45 | 0.03 | 0.45 | +224.7 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-07-24 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.38 | 1.09 | 1.00 | 0.41 | 0.04 | 0.41 | +157.5 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-07-22 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.36 | 1.09 | 1.00 | 0.40 | 0.00 | 0.00 | -11.8 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-07-17 | Distinguished Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.33 | 1.09 | 1.00 | 0.36 | 0.02 | 0.36 | +21.0 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-07-15 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.32 | 1.09 | 1.00 | 0.35 | 0.01 | 0.35 | +189.5 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-08-07 | Abusement Park | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.47 | 1.09 | 1.00 | 0.51 | 0.03 | 0.51 | +206.9 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
+| 2026-08-05 | TenToesDown | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.46 | 1.09 | 1.00 | 0.49 | 0.05 | 0.49 | +319.9 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-08-01 | F5 Esports | L | 0-2 | SoFlo Slam 2 | C | faceit-tournament | 0.43 | 1.17 | 1.00 | 0.51 | 0.00 | 0.00 | -203.6 | Bojangles12, DeuzzsCS, Ka8oom, fa0, steel666 |
+| 2026-07-31 | DKR Esports | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.42 | 1.09 | 1.00 | 0.46 | 0.00 | 0.00 | -191.7 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-07-29 | Real Hustle Club | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.41 | 1.09 | 1.00 | 0.44 | 0.03 | 0.44 | +225.5 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-07-24 | PASSION | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.38 | 1.09 | 1.00 | 0.41 | 0.04 | 0.41 | +157.8 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-07-22 | Hairy Scary Bandits | L | 0-1 | S58 NA Main A - Regular Season | C | faceit-league | 0.36 | 1.09 | 1.00 | 0.39 | 0.00 | 0.00 | -11.8 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-07-17 | Distinguished Ducks | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.33 | 1.09 | 1.00 | 0.36 | 0.02 | 0.36 | +20.9 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-07-15 | Baja Blasters | W | 1-0 | S58 NA Main A - Regular Season | C | faceit-league | 0.32 | 1.09 | 1.00 | 0.34 | 0.01 | 0.34 | +190.0 | Bojangles12, Ka8oom, fa0, tanner, zagz |
 | 2026-07-14 | STFDYSAB | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.31 | 1.39 | 1.00 | 0.43 | 0.00 | 0.00 | -15.9 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-07-14 | STFDYSAB | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.31 | 1.39 | 1.00 | 0.43 | 0.00 | 0.00 | -165.2 | Bojangles12, Ka8oom, fa0, tanner, zagz |
-| 2026-06-04 | TheMotherLovers | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.04 | 1.20 | 1.00 | 0.05 | 0.00 | 0.00 | -407.5 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
-| 2026-06-03 | Team Team Name | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.04 | 1.20 | 1.00 | 0.05 | 0.00 | 0.05 | +284.2 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
-| 2026-06-01 | Tall Ocean Rats | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.02 | 1.20 | 1.00 | 0.03 | 0.00 | 0.03 | +5.6 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
+| 2026-07-14 | STFDYSAB | L | 0-2 | Counter Strike 2 at 2026 Esports Nations Cup: United States of America | C | faceit-tournament | 0.31 | 1.39 | 1.00 | 0.43 | 0.00 | 0.00 | -165.4 | Bojangles12, Ka8oom, fa0, tanner, zagz |
+| 2026-06-04 | TheMotherLovers | L | 1-2 | S57 NA Main Central - Playoffs | B | faceit-league | 0.04 | 1.20 | 1.00 | 0.05 | 0.00 | 0.00 | -407.8 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
+| 2026-06-03 | Team Team Name | W | 2-1 | S57 NA Main Central - Playoffs | B | faceit-league | 0.04 | 1.20 | 1.00 | 0.04 | 0.00 | 0.04 | +284.9 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
+| 2026-06-01 | Tall Ocean Rats | W | 2-0 | S57 NA Main Central - Playoffs | B | faceit-league | 0.02 | 1.20 | 1.00 | 0.03 | 0.00 | 0.03 | +5.7 | Bojangles12, Ka8oom, Kaema-_-, fa0, tanner |
 
 _Snapshot 2026-11-24 | NARS v2 | CC BY-SA 4.0_

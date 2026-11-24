@@ -41,8 +41,8 @@
  },
  "3523360c-7235-452a-b9d9-e587e97ba4b5": {
   "name": "regain",
-  "matches": 46,
-  "wins": 23
+  "matches": 47,
+  "wins": 24
  },
  "053839e3-d2ff-40a1-998b-cd6c5c1e9083": {
   "name": "Lifes A Game",
@@ -84,6 +84,11 @@
   "matches": 65,
   "wins": 34
  },
+ "fb61b498-0b5d-482f-ae52-da4af6aa97e4": {
+  "name": "North Forge",
+  "matches": 39,
+  "wins": 24
+ },
  "acb17a55-f9a7-44e7-ac2f-1da565da409a": {
   "name": "Desi Boyz",
   "matches": 60,
@@ -104,16 +109,6 @@
   "matches": 44,
   "wins": 25
  },
- "fb61b498-0b5d-482f-ae52-da4af6aa97e4": {
-  "name": "North Forge",
-  "matches": 38,
-  "wins": 22
- },
- "f325c1ed-13d5-4f8c-b5e2-c53de50193c8": {
-  "name": "Elusive",
-  "matches": 43,
-  "wins": 22
- },
  "52b90eea-0e55-42f7-a0d2-4567af691934": {
   "name": "FLOW STATE",
   "matches": 42,
@@ -121,8 +116,8 @@
  },
  "6e30925c-b959-401b-a64b-571bd81da2f7": {
   "name": "NuTorious",
-  "matches": 72,
-  "wins": 38
+  "matches": 74,
+  "wins": 39
  },
  "6b0c4956-249e-41c2-96d7-276bba25f679": {
   "name": "duck crew",
@@ -149,35 +144,45 @@
   "matches": 45,
   "wins": 29
  },
+ "aa28a2c3-b16c-47a6-a286-3215b8f49732": {
+  "name": "Brahmas",
+  "matches": 32,
+  "wins": 19
+ },
  "2e54c309-0627-46c0-ab1a-77650a2b9a90": {
   "name": "CLUB 333",
   "matches": 62,
   "wins": 37
  },
- "aa28a2c3-b16c-47a6-a286-3215b8f49732": {
-  "name": "Brahmas",
-  "matches": 31,
-  "wins": 18
- },
- "8a9c9fce-fcf3-404d-ac3b-42d750f875df": {
-  "name": "Celestial Esports",
-  "matches": 36,
-  "wins": 15
+ "f325c1ed-13d5-4f8c-b5e2-c53de50193c8": {
+  "name": "Elusive",
+  "matches": 45,
+  "wins": 22
  },
  "aef3a526-ddcf-4fa5-ac37-5d737e2eb159": {
   "name": "Diggers",
   "matches": 26,
   "wins": 18
  },
- "28d146c6-17f4-4d97-863d-6ff3aad5e46a": {
-  "name": "Feistein",
-  "matches": 17,
-  "wins": 11
+ "d238f3f5-0fa1-4de0-b75c-f8dd3e9d662d": {
+  "name": "EXODIA",
+  "matches": 42,
+  "wins": 19
+ },
+ "8a9c9fce-fcf3-404d-ac3b-42d750f875df": {
+  "name": "Celestial Esports",
+  "matches": 37,
+  "wins": 15
  },
  "00f479bc-67d4-440d-8169-5fb62ee1d321": {
   "name": "Hairy Scary Bandits",
   "matches": 36,
   "wins": 24
+ },
+ "28d146c6-17f4-4d97-863d-6ff3aad5e46a": {
+  "name": "Feistein",
+  "matches": 17,
+  "wins": 11
  },
  "1e8b7495-2e2e-45cd-8937-1a811032d596": {
   "name": "babaG",
@@ -189,20 +194,15 @@
   "matches": 7,
   "wins": 6
  },
- "7614a81f-347b-4946-96d9-fb84ccce4583": {
-  "name": "Firstwave",
-  "matches": 32,
-  "wins": 18
- },
  "7e55e4fe-6f1a-4002-9e92-b4bef0eb438b": {
   "name": "Slimy Boogermen",
   "matches": 22,
   "wins": 14
  },
- "932eb89c-1db6-4529-9b9d-ff920477081d": {
-  "name": "Holly Molly",
-  "matches": 34,
-  "wins": 15
+ "7614a81f-347b-4946-96d9-fb84ccce4583": {
+  "name": "Firstwave",
+  "matches": 32,
+  "wins": 18
  },
  "lp:unreal_nightmare": {
   "name": "unreal nightmare",
@@ -214,6 +214,11 @@
   "matches": 6,
   "wins": 6
  },
+ "932eb89c-1db6-4529-9b9d-ff920477081d": {
+  "name": "Holly Molly",
+  "matches": 35,
+  "wins": 15
+ },
  "25784501-fad3-4abf-b8f0-134dce338653": {
   "name": "Festina Lente",
   "matches": 10,
@@ -223,11 +228,6 @@
   "name": "OnlyFans",
   "matches": 19,
   "wins": 13
- },
- "d238f3f5-0fa1-4de0-b75c-f8dd3e9d662d": {
-  "name": "EXODIA",
-  "matches": 41,
-  "wins": 18
  },
  "b510fcd3-6496-41cc-a0ae-e2aa6f8debea": {
   "name": "flat earth",
@@ -259,15 +259,15 @@
   "matches": 29,
   "wins": 20
  },
- "2688b98a-ec92-47f1-8631-1f7437650a34": {
-  "name": "YHUBEPCAM",
-  "matches": 14,
-  "wins": 11
- },
  "66814fcd-ae31-4091-b069-3efa89f43ca0": {
   "name": "MASTER ONE",
   "matches": 33,
   "wins": 23
+ },
+ "2688b98a-ec92-47f1-8631-1f7437650a34": {
+  "name": "YHUBEPCAM",
+  "matches": 14,
+  "wins": 11
  },
  "13b810e1-0a9d-46f2-a023-10d0ab5032c7": {
   "name": "Arnes Wit Attitudes",
@@ -299,20 +299,25 @@
   "matches": 22,
   "wins": 15
  },
- "4f76684c-c780-4028-9946-60d1282a15db": {
-  "name": "Kings Gambit",
-  "matches": 31,
-  "wins": 20
- },
  "ad5e40f9-ec10-4e32-b005-9f74705a93c5": {
   "name": "Beyond Limits",
   "matches": 57,
   "wins": 32
  },
+ "4f76684c-c780-4028-9946-60d1282a15db": {
+  "name": "Kings Gambit",
+  "matches": 31,
+  "wins": 20
+ },
  "468b5f66-b16f-4e18-8954-c0e60d99061e": {
   "name": "Down To Frag",
   "matches": 23,
   "wins": 14
+ },
+ "4ac11c02-1c6a-4b91-9ad7-2324cd776323": {
+  "name": "FlyQuest RED",
+  "matches": 38,
+  "wins": 16
  },
  "cb3818d1-d419-4e5e-a553-9df4aed65ea0": {
   "name": "Viral Pro",
@@ -329,11 +334,6 @@
   "matches": 23,
   "wins": 15
  },
- "83327956-c278-4646-a15f-399e1d2359ff": {
-  "name": "Over 30",
-  "matches": 6,
-  "wins": 5
- },
  "a5819ab2-de3e-4dde-92f5-c0f89a292ac1": {
   "name": "New Legends",
   "matches": 43,
@@ -343,6 +343,11 @@
   "name": "Playing for fun",
   "matches": 25,
   "wins": 14
+ },
+ "83327956-c278-4646-a15f-399e1d2359ff": {
+  "name": "Over 30",
+  "matches": 6,
+  "wins": 5
  },
  "4bf39b37-c10b-4208-a01c-fdee19c61a9d": {
   "name": "Sound of Arthritis",
@@ -354,15 +359,15 @@
   "matches": 24,
   "wins": 13
  },
- "48ebde8c-dbd8-4d9f-b78c-249d348eb2da": {
-  "name": "PBP",
-  "matches": 19,
-  "wins": 15
- },
  "97e10221-fc3c-4c3a-9499-d4a01bd69b6b": {
   "name": "Pug Palace",
   "matches": 25,
   "wins": 11
+ },
+ "48ebde8c-dbd8-4d9f-b78c-249d348eb2da": {
+  "name": "PBP",
+  "matches": 19,
+  "wins": 15
  },
  "baf6ffbe-7839-45d6-976b-e9246536b0b1": {
   "name": "makeSHIFT",
@@ -379,25 +384,20 @@
   "matches": 35,
   "wins": 20
  },
- "4ac11c02-1c6a-4b91-9ad7-2324cd776323": {
-  "name": "FlyQuest RED",
-  "matches": 37,
-  "wins": 15
- },
  "d34be1b4-bbd1-4076-9e5e-fadcdbc70f51": {
   "name": "Asoka",
   "matches": 39,
   "wins": 25
  },
- "72263c06-d38f-40a7-8e3d-b06fe30ceb5e": {
-  "name": "GOYPEEKING",
-  "matches": 17,
-  "wins": 11
- },
  "8946ac76-f2cf-4688-b2d6-0b7526d9db64": {
   "name": "Fathom Gaming",
   "matches": 39,
   "wins": 23
+ },
+ "72263c06-d38f-40a7-8e3d-b06fe30ceb5e": {
+  "name": "GOYPEEKING",
+  "matches": 17,
+  "wins": 11
  },
  "c44c504d-4102-4b44-82d8-88cb8a9ce97c": {
   "name": "Team GREAT",
@@ -424,15 +424,15 @@
   "matches": 27,
   "wins": 17
  },
- "04d7c47d-deee-481a-93f3-a1bf7a7f11b4": {
-  "name": "Toomers",
-  "matches": 6,
-  "wins": 5
- },
  "dbe7c555-3c1d-4ee0-912a-1dd2621efc9e": {
   "name": "Phantom Sense",
   "matches": 35,
   "wins": 15
+ },
+ "04d7c47d-deee-481a-93f3-a1bf7a7f11b4": {
+  "name": "Toomers",
+  "matches": 6,
+  "wins": 5
  },
  "acbf7d49-3ec0-4c99-86b4-8c8d6f4d47bc": {
   "name": "offBalance",
@@ -449,11 +449,6 @@
   "matches": 39,
   "wins": 25
  },
- "d4de48f0-b65a-4843-82e3-1538f3eb4abe": {
-  "name": "Axial",
-  "matches": 44,
-  "wins": 16
- },
  "ce4315ee-2445-4db3-be57-0229dd932bd2": {
   "name": "NineFlyeSports",
   "matches": 22,
@@ -464,19 +459,24 @@
   "matches": 5,
   "wins": 4
  },
- "93d2dbdd-567b-4b7c-bff9-826f3081a284": {
-  "name": "Tacos Tiramisu and Lies",
-  "matches": 31,
-  "wins": 20
- },
  "c500642a-479e-41f4-b75b-39784c6ecf0b": {
   "name": "NineFly Esports",
   "matches": 18,
   "wins": 6
  },
+ "93d2dbdd-567b-4b7c-bff9-826f3081a284": {
+  "name": "Tacos Tiramisu and Lies",
+  "matches": 31,
+  "wins": 20
+ },
  "bc2163da-b465-4ec7-b25b-a901c268e713": {
   "name": "Saviors United",
   "matches": 19,
+  "wins": 11
+ },
+ "7a06275f-dffa-4b95-b2e6-18972b79cb5e": {
+  "name": "Holy Squid Empire",
+  "matches": 21,
   "wins": 11
  },
  "6d0491f8-083e-49aa-b30b-0737b8a675f6": {
@@ -488,11 +488,6 @@
   "name": "GOOZPEEK",
   "matches": 26,
   "wins": 15
- },
- "7a06275f-dffa-4b95-b2e6-18972b79cb5e": {
-  "name": "Holy Squid Empire",
-  "matches": 21,
-  "wins": 11
  },
  "c8931627-3d9c-45b0-a2a8-3a2c4a84418e": {
   "name": "Trap Castle",
@@ -524,6 +519,11 @@
   "matches": 31,
   "wins": 19
  },
+ "d4de48f0-b65a-4843-82e3-1538f3eb4abe": {
+  "name": "Axial",
+  "matches": 45,
+  "wins": 16
+ },
  "24776169-c711-42e7-adc2-b447bb9abff4": {
   "name": "fih hou",
   "matches": 22,
@@ -544,29 +544,29 @@
   "matches": 28,
   "wins": 14
  },
- "c70ed272-986e-48d2-9605-95223a4a47a2": {
-  "name": "Manx Recovery Program",
-  "matches": 16,
-  "wins": 8
- },
  "45e28958-8175-43b8-9176-82a4d49c1027": {
   "name": "TOP SHELF WHIFFERS",
   "matches": 8,
   "wins": 6
  },
+ "c70ed272-986e-48d2-9605-95223a4a47a2": {
+  "name": "Manx Recovery Program",
+  "matches": 16,
+  "wins": 8
+ },
  "7ca0b152-59bb-4c56-9bdf-71296706937a": {
   "name": "crazy minecraft hangover",
-  "matches": 17,
-  "wins": 12
- },
- "0991cbb4-41ea-4e22-8469-ee22e233ba01": {
-  "name": "Akatsuki",
-  "matches": 15,
-  "wins": 10
+  "matches": 18,
+  "wins": 13
  },
  "a1ce259c-c9e1-4dd3-9f68-1bda3b7b0f6a": {
   "name": "AURA Esports",
   "matches": 21,
+  "wins": 10
+ },
+ "0991cbb4-41ea-4e22-8469-ee22e233ba01": {
+  "name": "Akatsuki",
+  "matches": 15,
   "wins": 10
  },
  "2162ad25-cf27-45e0-ae1d-9ab0b70ef9c3": {
@@ -574,15 +574,15 @@
   "matches": 24,
   "wins": 10
  },
- "f4911af8-ce8c-488a-b732-97b461bfe78a": {
-  "name": "Void",
-  "matches": 16,
-  "wins": 12
- },
  "20f5644e-4b17-4dbd-b99b-e8f0003abdc2": {
   "name": "NZ Gaming",
   "matches": 15,
   "wins": 7
+ },
+ "f4911af8-ce8c-488a-b732-97b461bfe78a": {
+  "name": "Void",
+  "matches": 16,
+  "wins": 12
  },
  "ecedfebf-d12d-4737-9c77-58015da0e03d": {
   "name": "Fourth Quarter",
@@ -594,15 +594,15 @@
   "matches": 26,
   "wins": 13
  },
- "df523561-29d9-40a1-9c3c-6cee69d726a2": {
-  "name": "Kinetic",
-  "matches": 27,
-  "wins": 14
- },
  "1f2c83ac-c04e-470e-ac14-d65242e4c3b4": {
   "name": "deez",
   "matches": 20,
   "wins": 11
+ },
+ "df523561-29d9-40a1-9c3c-6cee69d726a2": {
+  "name": "Kinetic",
+  "matches": 27,
+  "wins": 14
  },
  "763a4ae0-01e3-416f-ae99-a8a5a5ce6025": {
   "name": "pew pew",
@@ -644,11 +644,6 @@
   "matches": 31,
   "wins": 14
  },
- "ff4df091-ff58-4247-99ca-e1b7f9dba0f6": {
-  "name": "absolute cinema",
-  "matches": 19,
-  "wins": 10
- },
  "e7f802f2-96fa-4389-8287-affd27a43ce1": {
   "name": "The Homies",
   "matches": 30,
@@ -658,6 +653,11 @@
   "name": "Wuff Widas",
   "matches": 10,
   "wins": 7
+ },
+ "ff4df091-ff58-4247-99ca-e1b7f9dba0f6": {
+  "name": "absolute cinema",
+  "matches": 19,
+  "wins": 10
  },
  "ece31c3b-d44e-44f6-acc0-f0289dc2f93f": {
   "name": "Rejects",
@@ -689,11 +689,6 @@
   "matches": 14,
   "wins": 8
  },
- "2c566d9d-2c30-4df9-82aa-37714163c1c1": {
-  "name": "academy 4 gifted children",
-  "matches": 31,
-  "wins": 14
- },
  "138acd1d-5456-4cbc-aac2-777f978aa339": {
   "name": "penazoid",
   "matches": 29,
@@ -706,8 +701,8 @@
  },
  "11295c74-bc97-40c4-a88a-fde46582c880": {
   "name": "gunked",
-  "matches": 5,
-  "wins": 4
+  "matches": 6,
+  "wins": 5
  },
  "89c49e4a-9bc2-4c7d-97e0-a4465f10222a": {
   "name": "KODEX ESPORTS",
@@ -754,15 +749,15 @@
   "matches": 20,
   "wins": 14
  },
- "507169e8-aeb4-4b59-9487-7a8fedc674b8": {
-  "name": "F1lthy Puggers",
-  "matches": 12,
-  "wins": 7
- },
  "3655330b-b47f-4ad1-b548-2e5d9eabe6c6": {
   "name": "1001 Fragrance",
   "matches": 20,
   "wins": 13
+ },
+ "507169e8-aeb4-4b59-9487-7a8fedc674b8": {
+  "name": "F1lthy Puggers",
+  "matches": 12,
+  "wins": 7
  },
  "6bbc5302-6c79-4ef9-a663-b1753051a91c": {
   "name": "BONK",
@@ -784,15 +779,15 @@
   "matches": 30,
   "wins": 19
  },
- "0571ce59-87b7-4090-9d34-f34a14630c36": {
-  "name": "Team Auspex",
-  "matches": 16,
-  "wins": 12
- },
  "e0237b37-8759-4309-bbc8-5d9d10bf37b6": {
   "name": "Casual Mature Gamers",
   "matches": 15,
   "wins": 9
+ },
+ "0571ce59-87b7-4090-9d34-f34a14630c36": {
+  "name": "Team Auspex",
+  "matches": 16,
+  "wins": 12
  },
  "f115b758-3d76-4f5e-987f-ef64de3de72f": {
   "name": "Vibe Check",
@@ -834,15 +829,15 @@
   "matches": 11,
   "wins": 8
  },
- "db3166cd-b56e-4b43-abee-5b3c5829d8fa": {
-  "name": "No Leaders Please",
-  "matches": 25,
-  "wins": 16
- },
  "59524f80-aea6-4247-bc89-79e9622159a1": {
   "name": "Guangzhou Loong Lions",
   "matches": 19,
   "wins": 11
+ },
+ "db3166cd-b56e-4b43-abee-5b3c5829d8fa": {
+  "name": "No Leaders Please",
+  "matches": 25,
+  "wins": 16
  },
  "723f7705-dc95-4cbe-b921-cd733166435c": {
   "name": "mokey mokey",
@@ -854,11 +849,6 @@
   "matches": 14,
   "wins": 9
  },
- "e2d530ae-2ce6-491c-9213-0edf2027f802": {
-  "name": "counterstrike Team",
-  "matches": 31,
-  "wins": 10
- },
  "79645d42-768a-472e-b809-ccf666480d53": {
   "name": "enigma",
   "matches": 27,
@@ -868,6 +858,11 @@
   "name": "TahMeow",
   "matches": 12,
   "wins": 8
+ },
+ "2c566d9d-2c30-4df9-82aa-37714163c1c1": {
+  "name": "academy 4 gifted children",
+  "matches": 32,
+  "wins": 14
  },
  "15c9a36f-8169-49eb-a41b-0a0e7567ed37": {
   "name": "crescent",
@@ -944,15 +939,15 @@
   "matches": 26,
   "wins": 12
  },
- "d23c46d3-f6dd-4b55-a651-62bea3605771": {
-  "name": "Quality",
-  "matches": 10,
-  "wins": 5
- },
  "51f1a64f-5150-4c40-9557-076a9320a156": {
   "name": "firesale",
   "matches": 24,
   "wins": 11
+ },
+ "d23c46d3-f6dd-4b55-a651-62bea3605771": {
+  "name": "Quality",
+  "matches": 10,
+  "wins": 5
  },
  "d89b7c8d-17b8-4661-b82b-a073e9e91edd": {
   "name": "drunk cigs dont count",
@@ -979,6 +974,11 @@
   "matches": 24,
   "wins": 10
  },
+ "ed1aa26a-394e-458e-aa54-e1f08327b1b8": {
+  "name": "ABG Esports",
+  "matches": 33,
+  "wins": 18
+ },
  "a3a66da0-7b75-4b14-a9ca-d66063a529e4": {
   "name": "Team Amplus",
   "matches": 34,
@@ -994,30 +994,30 @@
   "matches": 15,
   "wins": 10
  },
- "eef31c1a-8499-4d53-a065-5216c63ba6f5": {
-  "name": "Abusement Park",
-  "matches": 18,
-  "wins": 11
- },
  "c56f9d7d-642b-426a-a5c9-54cea3ec5330": {
   "name": "Shadow Wizard Money Gang",
   "matches": 21,
   "wins": 8
+ },
+ "eef31c1a-8499-4d53-a065-5216c63ba6f5": {
+  "name": "Abusement Park",
+  "matches": 18,
+  "wins": 11
  },
  "60937371-36be-4fa0-86bb-0b4461c8dec2": {
   "name": "Biggie Cheese Fan Club",
   "matches": 21,
   "wins": 14
  },
- "a0e42f29-d916-4b91-91d8-9b73bfdccec1": {
-  "name": "No Future Lifes Over",
-  "matches": 18,
-  "wins": 12
- },
  "98191dfb-e9ad-4cdd-9d9c-65ae70d31f99": {
   "name": "Aspyre",
   "matches": 13,
   "wins": 5
+ },
+ "a0e42f29-d916-4b91-91d8-9b73bfdccec1": {
+  "name": "No Future Lifes Over",
+  "matches": 18,
+  "wins": 12
  },
  "ba94d28e-62e9-48a6-82b6-1c474343ac3b": {
   "name": "NOVAIR",
@@ -1064,15 +1064,20 @@
   "matches": 26,
   "wins": 13
  },
- "fbc132de-d318-4ef6-8f2f-7607b40aeec9": {
-  "name": "91AshLiu",
-  "matches": 13,
-  "wins": 9
+ "e2d530ae-2ce6-491c-9213-0edf2027f802": {
+  "name": "counterstrike Team",
+  "matches": 32,
+  "wins": 10
  },
  "04fde7ca-9fa2-434f-b8c7-b8b0577a151c": {
   "name": "High-Tech Performance",
   "matches": 19,
   "wins": 8
+ },
+ "fbc132de-d318-4ef6-8f2f-7607b40aeec9": {
+  "name": "91AshLiu",
+  "matches": 13,
+  "wins": 9
  },
  "f3d14482-705a-4059-98fc-a6955e87f277": {
   "name": "ClanAgain",
@@ -1239,40 +1244,40 @@
   "matches": 27,
   "wins": 13
  },
- "912f01c2-e58a-42f9-a08b-e06eb2272f05": {
-  "name": "STFDYSAB",
-  "matches": 22,
-  "wins": 11
- },
- "6130abcf-6f98-47f2-ba2a-01b48ba751b2": {
-  "name": "Goyim Gladiators",
-  "matches": 26,
-  "wins": 13
- },
  "23448281-caeb-4415-8082-eb7c30395dd6": {
   "name": "Squeegee",
   "matches": 13,
   "wins": 4
+ },
+ "912f01c2-e58a-42f9-a08b-e06eb2272f05": {
+  "name": "STFDYSAB",
+  "matches": 22,
+  "wins": 11
  },
  "50deb6c8-d47d-4c32-9985-5d07f8f9967d": {
   "name": "The Third Eye",
   "matches": 6,
   "wins": 3
  },
+ "6130abcf-6f98-47f2-ba2a-01b48ba751b2": {
+  "name": "Goyim Gladiators",
+  "matches": 26,
+  "wins": 13
+ },
  "0d1c2b67-d0b0-4ba5-94a5-935aea34affc": {
   "name": "Ex-Tricksters",
   "matches": 11,
   "wins": 4
  },
- "243fd79e-3a4f-4b3a-8cc4-db308b28c40a": {
-  "name": "Remnant",
-  "matches": 26,
-  "wins": 13
- },
  "8e20bfe5-8320-4f5a-aa02-09fe5710e606": {
   "name": "FLying PiGs",
   "matches": 17,
   "wins": 10
+ },
+ "243fd79e-3a4f-4b3a-8cc4-db308b28c40a": {
+  "name": "Remnant",
+  "matches": 26,
+  "wins": 13
  },
  "007ecc02-a791-428e-87fe-d641709b2e91": {
   "name": "929 Arrival Gang",
@@ -1324,11 +1329,6 @@
   "matches": 18,
   "wins": 9
  },
- "ed1aa26a-394e-458e-aa54-e1f08327b1b8": {
-  "name": "ABG Esports",
-  "matches": 31,
-  "wins": 16
- },
  "a01aa536-0980-4bc3-ac4b-ec166978774a": {
   "name": "Anchors Anonymous",
   "matches": 18,
@@ -1344,15 +1344,15 @@
   "matches": 15,
   "wins": 7
  },
- "515a25f0-3cc1-416a-9297-cb0563dc63a8": {
-  "name": "Eightball",
-  "matches": 17,
-  "wins": 10
- },
  "8eb20ea9-8615-4058-99e8-ff5244c8f69a": {
   "name": "Only Goys",
   "matches": 5,
   "wins": 3
+ },
+ "515a25f0-3cc1-416a-9297-cb0563dc63a8": {
+  "name": "Eightball",
+  "matches": 17,
+  "wins": 10
  },
  "950f5a78-6518-4d96-9f97-d932d74746ae": {
   "name": "Transcended",
@@ -1429,15 +1429,20 @@
   "matches": 15,
   "wins": 6
  },
- "ceef1105-ea59-4c8a-ae46-2be06dcd331e": {
-  "name": "Sassy Sunshines",
-  "matches": 25,
-  "wins": 14
+ "2cf5afb0-eaff-4ab9-8e18-8c1881e883a9": {
+  "name": "The Jits",
+  "matches": 5,
+  "wins": 3
  },
  "3c475a54-af37-43b5-a590-9fe1eecca4ff": {
   "name": "Cream Team",
   "matches": 18,
   "wins": 10
+ },
+ "ceef1105-ea59-4c8a-ae46-2be06dcd331e": {
+  "name": "Sassy Sunshines",
+  "matches": 25,
+  "wins": 14
  },
  "347b120e-6258-4bed-b480-29996641e802": {
   "name": "Sultans of Swing",
@@ -1461,7 +1466,7 @@
  },
  "9e581d13-9045-489d-8c30-f013b4e94ebb": {
   "name": "Grandpa Berets",
-  "matches": 25,
+  "matches": 26,
   "wins": 10
  },
  "46e6a1e1-6dd2-4fc7-a496-3fa2cd0f4c0a": {
@@ -1494,14 +1499,14 @@
   "matches": 6,
   "wins": 3
  },
- "028e55da-af42-4d74-98a2-b6758948429f": {
-  "name": "55TH ST",
-  "matches": 17,
-  "wins": 9
- },
  "eef4db8d-5639-4f0d-9722-7dc6309853e8": {
   "name": "027fam",
   "matches": 29,
+  "wins": 9
+ },
+ "028e55da-af42-4d74-98a2-b6758948429f": {
+  "name": "55TH ST",
+  "matches": 17,
   "wins": 9
  },
  "3b1a5727-b278-43c9-aca0-b50ee7462b0b": {
@@ -1519,20 +1524,25 @@
   "matches": 7,
   "wins": 4
  },
+ "4c5f35a1-e61a-400c-ada6-5322d23bf96c": {
+  "name": "ERICKFARRAR",
+  "matches": 5,
+  "wins": 3
+ },
  "7a115769-857a-4572-88b0-1895528c3a8d": {
   "name": "Temple of Swing",
   "matches": 23,
   "wins": 8
  },
- "66c01c2c-f800-4d78-a9f0-9973a479f482": {
-  "name": "Distinguished Ducks",
-  "matches": 18,
-  "wins": 7
- },
  "9ea693cc-bcfe-4ea1-ad8f-d774b2db80c3": {
   "name": "Braindead",
   "matches": 14,
   "wins": 5
+ },
+ "66c01c2c-f800-4d78-a9f0-9973a479f482": {
+  "name": "Distinguished Ducks",
+  "matches": 18,
+  "wins": 7
  },
  "cd47cce0-25ae-40d0-8818-85ab255e2d29": {
   "name": "SOLA GAMING",
@@ -1589,15 +1599,15 @@
   "matches": 32,
   "wins": 14
  },
- "30778bc1-b9ee-41fc-8559-b6e5f57d8508": {
-  "name": "TEMPR",
-  "matches": 14,
-  "wins": 5
- },
  "d0315e59-014c-40ec-98c9-e7737e5a3c8c": {
   "name": "de_throne",
   "matches": 25,
   "wins": 11
+ },
+ "30778bc1-b9ee-41fc-8559-b6e5f57d8508": {
+  "name": "TEMPR",
+  "matches": 14,
+  "wins": 5
  },
  "d762d43b-e349-42d5-b480-e71b1f26d2f0": {
   "name": "PogSquad",
@@ -1629,15 +1639,15 @@
   "matches": 21,
   "wins": 8
  },
- "8ff81fda-4802-4879-ac9c-46ce9f1df158": {
-  "name": "Kurrupted Mindz",
-  "matches": 13,
-  "wins": 5
- },
  "b64939fd-91d7-4368-afad-5b7bd6b95dd4": {
   "name": "Sable",
   "matches": 5,
   "wins": 2
+ },
+ "8ff81fda-4802-4879-ac9c-46ce9f1df158": {
+  "name": "Kurrupted Mindz",
+  "matches": 13,
+  "wins": 5
  },
  "ba69cceb-821b-4177-bfb8-22d4a70d3dd7": {
   "name": "Strafe",
@@ -1754,15 +1764,20 @@
   "matches": 20,
   "wins": 8
  },
- "0cf951d2-0b66-42f2-bcfd-63859638f697": {
-  "name": "Feels MAIN Man",
-  "matches": 27,
-  "wins": 10
+ "15bffee0-7e77-47d2-88f2-d8a7c37561db": {
+  "name": "PSDN White",
+  "matches": 6,
+  "wins": 2
  },
  "f242bfcf-a461-4672-95b3-565384ca8b48": {
   "name": "Resurgence",
   "matches": 23,
   "wins": 8
+ },
+ "0cf951d2-0b66-42f2-bcfd-63859638f697": {
+  "name": "Feels MAIN Man",
+  "matches": 27,
+  "wins": 10
  },
  "7debc060-bf0d-424f-a6df-f8d16fe01a46": {
   "name": "PASSION",
@@ -1773,11 +1788,6 @@
   "name": "innerFire",
   "matches": 18,
   "wins": 4
- },
- "15bffee0-7e77-47d2-88f2-d8a7c37561db": {
-  "name": "PSDN White",
-  "matches": 6,
-  "wins": 2
  },
  "92fc268d-9c44-4dcd-a176-f8c865f211bb": {
   "name": "VeryBigDoogoos",
@@ -1794,35 +1804,35 @@
   "matches": 16,
   "wins": 7
  },
- "da627e4a-4d61-42cc-8620-6a161a6bba77": {
-  "name": "773Revival",
-  "matches": 10,
-  "wins": 4
- },
  "8849ddf2-4104-4113-9243-95864c311b3e": {
   "name": "Mongolian Tractor",
   "matches": 17,
   "wins": 8
  },
- "4816ef09-50e8-4f02-9d91-77e56456cfad": {
-  "name": "Qinorhwat",
-  "matches": 16,
-  "wins": 7
+ "da627e4a-4d61-42cc-8620-6a161a6bba77": {
+  "name": "773Revival",
+  "matches": 10,
+  "wins": 4
  },
  "3beee503-60cf-4183-8f1c-2bbb095f9e07": {
   "name": "Team Hyper",
   "matches": 19,
   "wins": 2
  },
- "2b514c51-24c5-453b-a6cd-3e5316aeb2e5": {
-  "name": "Cadillac F1 eSports Team",
-  "matches": 26,
-  "wins": 10
+ "4816ef09-50e8-4f02-9d91-77e56456cfad": {
+  "name": "Qinorhwat",
+  "matches": 16,
+  "wins": 7
  },
  "ccbc93a7-ac42-4d29-bc76-b229dd973b6d": {
   "name": "STIM",
   "matches": 6,
   "wins": 2
+ },
+ "2b514c51-24c5-453b-a6cd-3e5316aeb2e5": {
+  "name": "Cadillac F1 eSports Team",
+  "matches": 26,
+  "wins": 10
  },
  "8af33cb6-5754-46df-b9d6-461f1debf97c": {
   "name": "OnThaGear",
@@ -1896,6 +1906,11 @@
  },
  "e981e931-885f-4840-ac64-41ecce3c2c58": {
   "name": "Boomhogs 2",
+  "matches": 5,
+  "wins": 2
+ },
+ "4f1430bc-1e8f-4b1d-849e-ef4a747478d6": {
+  "name": "LUMA",
   "matches": 5,
   "wins": 2
  },
@@ -2064,15 +2079,15 @@
   "matches": 13,
   "wins": 4
  },
- "2bffd816-8fb9-431e-8a1c-383495d0d3ac": {
-  "name": "on disability",
-  "matches": 11,
-  "wins": 3
- },
  "555311c1-0ca0-48a3-8e09-7f7dd0b034c1": {
   "name": "EZ2025",
   "matches": 26,
   "wins": 9
+ },
+ "2bffd816-8fb9-431e-8a1c-383495d0d3ac": {
+  "name": "on disability",
+  "matches": 11,
+  "wins": 3
  },
  "3499773c-2115-45bd-93cf-4794bc37713b": {
   "name": "Brothers United",

@@ -1,0 +1,49 @@
+### Roster Details
+Team Name: GRIT
+Roster: shiv-, solzh69, Kr0wbar, _Beastm0de, macepts
+NARS Rank: 233 of 433
+
+Final Rating: 1379.1
+Seeded Start: 1307.8
+H2H Adjustment: +71.3
+
+Final Rating (1379.1) = Seeded Start (1307.8) + H2H Adjustment (+71.3)
+
+#### Seeded Start
+Starting rating = 1100 + seed_factor x 1400
+                = 1100 + 0.148 x 1400 = 1307.8
+
+seed_factor 0.148 = 0.25 x Tier Exposure (0.097) + 0.50 x Quality Wins (0.045) + 0.25 x Opponent Network (0.405)
+
+- Tier Exposure (Bounty Offered): best-10 age-weighted event weights, normalized by 5th-best team
+- Quality Wins (Bounty Collected): beaten opponent exposure x age x event weight (LAN wins get tier-scaled bonus)
+- Opponent Network: distinct opponents beaten, age x event weighted
+
+#### Matches (21 qualifying)
+Per-match values are raw inputs before best-10 filtering and normalization. H2H +/- is the Glicko-2 rating change from that match (age-weighted only).
+
+| Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
+| :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
+| 2026-11-20 | Shadow Wizard Money Gang | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -84.7 | Kr0wbar, Willis, _Beastm0de, knifa, solzh69 |
+| 2026-11-19 | 027fam | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.16 | 1.50 | +47.9 | Coco, Kr0wbar, _Beastm0de, knifa, solzh69 |
+| 2026-11-17 | mas paspas | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -6.1 | Coco, Kr0wbar, _Beastm0de, knifa, solzh69 |
+| 2026-11-12 | Diggers | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -1.7 | Coco, Kr0wbar, _Beastm0de, knifa, solzh69 |
+| 2026-11-11 | unreal nightmare | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -0.8 | Coco, Kr0wbar, _Beastm0de, knifa, solzh69 |
+| 2026-11-07 | Overtake Sector | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -0.1 | Coco, Kr0wbar, _Beastm0de, knifa, solzh69 |
+| 2026-11-03 | Team Hyper | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.15 | 1.50 | +8.2 | Coco, Kr0wbar, _Beastm0de, knifa, solzh69 |
+| 2026-10-28 | Holy Squid Empire | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 1.00 | 1.50 | 1.00 | 1.50 | 0.00 | 0.00 | -58.7 | Coco, Kr0wbar, Willis, _Beastm0de, solzh69 |
+| 2026-10-21 | DUMBO | L | W/O | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.97 | 1.00 | 1.00 | 0.00 | 0.00 | 0.00 | - | core 3/5 |
+| 2026-10-16 | FlyQuest RED | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.94 | 1.50 | 1.00 | 1.41 | 0.00 | 0.00 | -24.7 | Coco, Kr0wbar, _Beastm0de, hushw0w, solzh69 |
+| 2026-10-14 | KODEX ESPORTS | L | 0-1 | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.92 | 1.50 | 1.00 | 1.39 | 0.00 | 0.00 | -228.6 | Coco, Kr0wbar, _Beastm0de, hushw0w, solzh69 |
+| 2026-10-07 | Feistein | W | 1-0 | S59 NA Advanced Central - Regular Season | B | faceit-league | 0.88 | 1.50 | 1.00 | 1.32 | 0.25 | 1.32 | +286.8 | Coco, Kr0wbar, _Beastm0de, hushw0w, solzh69 |
+| 2026-08-26 | EXODIA | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.60 | 1.50 | 1.00 | 0.89 | 0.00 | 0.00 | -1.6 | Kr0wbar, T-Bo, _Beastm0de, macepts, solzh69 |
+| 2026-08-25 | Fathom Gaming | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.59 | 1.50 | 1.00 | 0.88 | 0.00 | 0.00 | -43.5 | Kr0wbar, Willis, _Beastm0de, macepts, solzh69 |
+| 2026-08-24 | dice | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.58 | 1.50 | 1.00 | 0.87 | 0.00 | 0.00 | -12.8 | Kr0wbar, T-Bo, _Beastm0de, macepts, solzh69 |
+| 2026-08-20 | Ex-Tricksters | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.56 | 1.50 | 1.00 | 0.83 | 0.03 | 0.83 | +226.1 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
+| 2026-07-31 | 027fam | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.42 | 1.50 | 1.00 | 0.63 | 0.00 | 0.00 | -252.6 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
+| 2026-07-29 | Shadow Wizard Money Gang | W | 1-0 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.41 | 1.50 | 1.00 | 0.61 | 0.06 | 0.61 | +225.0 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
+| 2026-07-27 | SportsBetExpert | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.40 | 1.50 | 1.00 | 0.59 | 0.00 | 0.00 | -0.0 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
+| 2026-07-24 | Marsborne | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.38 | 1.50 | 1.00 | 0.56 | 0.00 | 0.00 | -0.0 | Kr0wbar, _Beastm0de, a1mb4t-_-, macepts, solzh69 |
+| 2026-07-22 | EMPIRE | L | 0-1 | S58 NA Advanced Central - Regular Season | B | faceit-league | 0.36 | 1.50 | 1.00 | 0.54 | 0.00 | 0.00 | -6.9 | Kr0wbar, T-Bo, _Beastm0de, macepts, solzh69 |
+
+_Snapshot 2026-11-24 | NARS v2 | CC BY-SA 4.0_
