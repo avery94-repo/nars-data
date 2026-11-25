@@ -3,15 +3,15 @@ Team Name: Double Dink
 Roster: YEKINDOGE, Louun, Fragg3d, _tbone, Freak5565
 NARS Rank: 245 of 428
 
-Final Rating: 1338.3
-Seeded Start: 1321.3
-H2H Adjustment: +17.0
+Final Rating: 1338.1
+Seeded Start: 1321.2
+H2H Adjustment: +16.9
 
-Final Rating (1338.3) = Seeded Start (1321.3) + H2H Adjustment (+17.0)
+Final Rating (1338.1) = Seeded Start (1321.2) + H2H Adjustment (+16.9)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.158 x 1400 = 1321.3
+                = 1100 + 0.158 x 1400 = 1321.2
 
 seed_factor 0.158 = 0.25 x Tier Exposure (0.075) + 0.50 x Quality Wins (0.036) + 0.25 x Opponent Network (0.485)
 
@@ -24,21 +24,21 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
-| 2026-11-20 | Cortex Jellies | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +74.0 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
-| 2026-11-18 | Samantha 4 | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -64.5 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
+| 2026-11-20 | Cortex Jellies | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +74.1 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
+| 2026-11-18 | Samantha 4 | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -64.6 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
 | 2026-11-17 | ODIN | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -32.7 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
-| 2026-11-11 | Kodaks Lettuce | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +36.0 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
-| 2026-11-06 | DMA | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +22.9 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
-| 2026-11-04 | Mud Wizards | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -91.6 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
+| 2026-11-11 | Kodaks Lettuce | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +36.1 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
+| 2026-11-06 | DMA | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.08 | 1.06 | +22.8 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
+| 2026-11-04 | Mud Wizards | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -91.9 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
 | 2026-10-30 | deez | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -12.4 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
-| 2026-10-28 | LAF | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -63.7 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
-| 2026-10-27 | WhiteBoyWinter | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -100.0 | Freak5565, Jaek, Louun, YEKINDOGE, _suis |
-| 2026-10-21 | FlockMunchers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.96 | 1.06 | 1.00 | 1.02 | 0.11 | 1.02 | +86.4 | Fragg3d, Freak5565, Jaek, YEKINDOGE, dcd |
-| 2026-10-16 | GOYPEEKING | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.93 | 1.06 | 1.00 | 0.99 | 0.07 | 0.99 | +281.0 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
-| 2026-10-14 | Vibe Check | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.92 | 1.06 | 1.00 | 0.97 | 0.00 | 0.00 | -46.1 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
-| 2026-10-07 | Muncle | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.06 | 1.00 | 0.92 | 0.06 | 0.92 | +4.7 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
-| 2026-09-10 | deluxe | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.69 | 1.12 | 1.00 | 0.78 | 0.00 | 0.00 | -102.1 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
-| 2026-09-08 | Heavens Gate | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.68 | 1.12 | 1.00 | 0.76 | 0.02 | 0.76 | +179.8 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
-| 2026-09-04 | house | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.65 | 1.12 | 1.00 | 0.73 | 0.00 | 0.00 | -154.6 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
+| 2026-10-28 | LAF | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -64.0 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
+| 2026-10-27 | WhiteBoyWinter | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 1.00 | 1.06 | 1.00 | 1.06 | 0.00 | 0.00 | -100.4 | Freak5565, Jaek, Louun, YEKINDOGE, _suis |
+| 2026-10-21 | FlockMunchers | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.96 | 1.06 | 1.00 | 1.02 | 0.11 | 1.02 | +86.5 | Fragg3d, Freak5565, Jaek, YEKINDOGE, dcd |
+| 2026-10-16 | GOYPEEKING | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.93 | 1.06 | 1.00 | 0.98 | 0.07 | 0.98 | +281.7 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
+| 2026-10-14 | Vibe Check | L | 0-1 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.91 | 1.06 | 1.00 | 0.97 | 0.00 | 0.00 | -45.9 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
+| 2026-10-07 | Muncle | W | 1-0 | S59 NA Intermediate A - Regular Season | C | faceit-league | 0.87 | 1.06 | 1.00 | 0.92 | 0.06 | 0.92 | +4.6 | Fragg3d, Freak5565, Jaek, Louun, YEKINDOGE |
+| 2026-09-10 | deluxe | L | 0-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.69 | 1.13 | 1.00 | 0.77 | 0.00 | 0.00 | -102.4 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
+| 2026-09-08 | Heavens Gate | W | 2-1 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.67 | 1.13 | 1.00 | 0.76 | 0.02 | 0.76 | +180.3 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
+| 2026-09-04 | house | L | 1-2 | S58 NA Open9-10 West - Playoffs | C | faceit-league | 0.65 | 1.13 | 1.00 | 0.73 | 0.00 | 0.00 | -154.7 | Fragg3d, Freak5565, Louun, YEKINDOGE, _tbone |
 
 _Snapshot 2026-11-25 | NARS v2 | CC BY-SA 4.0_

@@ -33,6 +33,28 @@
   "source": "hltv"
  },
  {
+  "match_id": "hltv:2400565",
+  "date": "2026-11-25",
+  "competition": "PGL Major Singapore 2026 Stage 1",
+  "team_a": "HEROIC",
+  "team_b": "M80",
+  "winner": "b",
+  "score": "10-13",
+  "tier": "S",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2400872",
+  "date": "2026-11-25",
+  "competition": "CROSSFIRE Season 7",
+  "team_a": "FlyQuest RED",
+  "team_b": "Milk",
+  "winner": "b",
+  "score": "0-2",
+  "tier": "B",
+  "source": "hltv"
+ },
+ {
   "match_id": "hltv:2400500",
   "date": "2026-11-24",
   "competition": "PGL Major Singapore 2026 Stage 1",
@@ -117,6 +139,28 @@
   "team_b": "Wildcard",
   "winner": "a",
   "score": "13-8",
+  "tier": "S",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2400496",
+  "date": "2026-11-24",
+  "competition": "PGL Major Singapore 2026 Stage 1",
+  "team_a": "Ninjas in Pyjamas",
+  "team_b": "M80",
+  "winner": "a",
+  "score": "13-10",
+  "tier": "S",
+  "source": "hltv"
+ },
+ {
+  "match_id": "hltv:2400560",
+  "date": "2026-11-24",
+  "competition": "PGL Major Singapore 2026 Stage 1",
+  "team_a": "9z",
+  "team_b": "M80",
+  "winner": "b",
+  "score": "8-13",
   "tier": "S",
   "source": "hltv"
  },
@@ -55961,7 +56005,7 @@
   "date": "2026-06-07",
   "competition": "VRS-tracked 2026-06",
   "team_a": "Chicken Coop",
-  "team_b": "THIRD PRIME",
+  "team_b": "North Forge",
   "winner": "a",
   "score": "2-1",
   "tier": "A",

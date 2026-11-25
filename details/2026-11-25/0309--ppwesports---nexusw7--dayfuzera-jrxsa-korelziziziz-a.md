@@ -4,14 +4,14 @@ Roster: -NexusW7-, DayfuZera, JrxSa, korelZizIziZ, alonez
 NARS Rank: 309 of 428
 
 Final Rating: 1161.0
-Seeded Start: 1165.9
-H2H Adjustment: -4.9
+Seeded Start: 1165.8
+H2H Adjustment: -4.8
 
-Final Rating (1161.0) = Seeded Start (1165.9) + H2H Adjustment (-4.9)
+Final Rating (1161.0) = Seeded Start (1165.8) + H2H Adjustment (-4.8)
 
 #### Seeded Start
 Starting rating = 1100 + seed_factor x 1400
-                = 1100 + 0.047 x 1400 = 1165.9
+                = 1100 + 0.047 x 1400 = 1165.8
 
 seed_factor 0.047 = 0.25 x Tier Exposure (0.066) + 0.50 x Quality Wins (0.004) + 0.25 x Opponent Network (0.114)
 
@@ -25,9 +25,9 @@ Per-match values are raw inputs before best-10 filtering and normalization. H2H 
 | Date | Opponent | W/L | Score | Competition | Tier | Src | AgeW | EvtW | LANx | Exp | QW | Net | H2H +/- | Roster |
 | :- | :- | :- | :- | :- | :- | :- | -: | -: | -: | -: | -: | -: | -: | :- |
 | 2026-09-27 | mas paspas | L | 0-0 | NA Revival | C | faceit-tournament | 0.80 | 1.20 | 1.00 | 0.96 | 0.00 | 0.00 | -0.0 | DayfuZera, JrxSa, alonez, dream1ngg, korelZizIziZ |
-| 2026-09-27 | Soul Misfits | W | 1-0 | NA Revival | C | faceit-tournament | 0.80 | 1.20 | 1.00 | 0.96 | 0.04 | 0.96 | +171.3 | DayfuZera, JrxSa, alonez, dream1ngg, korelZizIziZ |
-| 2026-09-06 | Sultans of Swing | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -116.9 | DayfuZera, JrxSa, alonez, dream1ngg, korelZizIziZ |
-| 2026-09-04 | GOD SPEED | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.02 | 0.65 | +117.8 | DayfuZera, JrxSa, alonez, dream1ngg, korelZizIziZ |
-| 2026-09-02 | pew pew | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.64 | 1.00 | 1.00 | 0.64 | 0.00 | 0.00 | -177.1 | DayfuZera, JrxSa, alonez, dream1ngg, korelZizIziZ |
+| 2026-09-27 | Soul Misfits | W | 1-0 | NA Revival | C | faceit-tournament | 0.80 | 1.20 | 1.00 | 0.96 | 0.04 | 0.96 | +171.9 | DayfuZera, JrxSa, alonez, dream1ngg, korelZizIziZ |
+| 2026-09-06 | Sultans of Swing | L | 1-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.66 | 1.00 | 1.00 | 0.66 | 0.00 | 0.00 | -117.2 | DayfuZera, JrxSa, alonez, dream1ngg, korelZizIziZ |
+| 2026-09-04 | GOD SPEED | W | 2-1 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.65 | 1.00 | 1.00 | 0.65 | 0.02 | 0.65 | +118.0 | DayfuZera, JrxSa, alonez, dream1ngg, korelZizIziZ |
+| 2026-09-02 | pew pew | L | 0-2 | S58 NA Open9-10 East - Playoffs A | C | faceit-league | 0.63 | 1.00 | 1.00 | 0.63 | 0.00 | 0.00 | -177.4 | DayfuZera, JrxSa, alonez, dream1ngg, korelZizIziZ |
 
 _Snapshot 2026-11-25 | NARS v2 | CC BY-SA 4.0_
